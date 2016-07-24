@@ -24,16 +24,12 @@ Self improvement ideas distilled from awesome quotes.
 - [On focus](#on-focus)
 
 ---
-##Business quotes:
-
 ###On teamwork
 
 ===
 ###On leadership
 
----
-##Self improvement quotes:
-
+===
 ###On freedom
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
@@ -41,7 +37,7 @@ Self improvement ideas distilled from awesome quotes.
 ===
 ###On achievement
 
-*RULE:* Confort is the enemy of achievement.
+Confort is the enemy of achievement.
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
@@ -77,16 +73,8 @@ Plan ahead BUT don't overthink.
 ===
 ###On settling
 
-xxxx
-
->
-
 ===
 ###On starting
-
-xxxx
-
-> 
 
 ===
 ###On listening
@@ -98,14 +86,8 @@ Learn to listen.
 ===
 ###On fear
 
-xxxx.
-
->
-
 ===
 ###On past
-
-xxxx.
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
@@ -123,8 +105,6 @@ Live in the present.
 
 Dream big.
 
->
-
 ===
 ###On giving
 
@@ -135,21 +115,13 @@ Dream big.
 
 Be confident BUT know the frontier between confidence and arrogance.
 
->
-
 ===
 ###On motivation
-
-xxxx.
-
->
 
 ===
 ###On peers
 
-xxxx.
-
-> *'Forget those who forget you.'
+> *'Forget those who forget you.'*
 
 ===
 ###On focus
