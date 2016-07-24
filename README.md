@@ -1,8 +1,9 @@
 # self-improvement-for-skeptics
-Self improvement ideas distilled from awesome quotes.
+Self improvement ideas distilled from awesome quotes. (work in progress)
 
 - [On teamwork](#on-teamwork)
 - [On leadership](#on-leadership)
+- [On trust](#on-trust)
 - [On freedom](#on-freedom)
 - [On achievement](#on-achievement)
 - [On improvement](#on-improvement)
@@ -11,6 +12,7 @@ Self improvement ideas distilled from awesome quotes.
 - [On planning-and-adapting](#on-planning-and-adapting)
 - [On settling](#on-settling)
 - [On starting](#on-starting)
+- [On momentum](#on-momentum)
 - [On ending](#on-ending)
 - [On expectations](#on-expectations)
 - [On fear](#on-fear)
@@ -24,14 +26,27 @@ Self improvement ideas distilled from awesome quotes.
 - [On motivation](#on-motivation)
 - [On peers](#on-peers)
 - [On focus](#on-focus)
+- [On efficiency](#on-efficiency)
 
 ---
 ###On teamwork
+
+> *'If you want to go fast go alone. If you want to go far go together.' -- african proverb*
 
 ===
 ###On leadership
 
 Leadership is based on trust.
+
+===
+###On trust
+
+Trust is not earned is exchanged.
+
+===
+###On mentors
+
+Your father is your first mentor.
 
 ===
 ###On freedom
@@ -91,7 +106,16 @@ Plan ahead BUT don't overthink.
 ===
 ###On starting
 
+Just start. You cannot afford to wait for inspiration.
+
 > *'Stop making resolutions and start making something.'*
+
+> *'The inspiration you are waiting for, in order to start, is on the other side of starting.'*
+
+===
+###On momentum
+
+> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
 ===
 ###On ending
@@ -149,6 +173,8 @@ Be confident BUT know the frontier between confidence and arrogance.
 
 > *'Forget those who forget you.'*
 
+> *'If you're the smartest in the room, you're in the wrong room.'*
+
 ===
 ###On focus
 
@@ -158,3 +184,11 @@ Be confident BUT know the frontier between confidence and arrogance.
 ###On trust
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
+===
+###On efficiency
+
+> *'Start as close to the end as possible.' -- Kurt Vonnegu
+
+> *'Lazy is what the jealous call efficiency.'
+
