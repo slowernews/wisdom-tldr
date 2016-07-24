@@ -7,8 +7,9 @@ Distillation of quotes. Self improvement for skeptics.
   
 - Self improvement quotes:
   - [On freedom](#on-freedom)
-  - [On improvement](#on-improvement) 
-
+  - [On achievement](#on-achievement) 
+  - [On improvement](#on-improvement)
+  
 ---
 ##Business quotes:
 
@@ -21,9 +22,16 @@ Distillation of quotes. Self improvement for skeptics.
 
 ###On freedom
 
-- *'A man is free at the instant he wants to be.' -- Voltaire*
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+===
+###On achievement
+
+Comfort is the enemy of achievement.
 
 ===
 ###On improvement
 
-- Comfort is the enemy of achievement.
+You are what you say you are.
+
+> *'You're only as good as your next speech.'*
