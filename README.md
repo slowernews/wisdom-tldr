@@ -18,6 +18,7 @@ Self improvement ideas distilled from awesome quotes.
   - [On past](#on-present)
   - [On future](#on-future)
 - [On giving](#on-giving)
+- [On confidence](#on-confidence)
 
 ---
 ##Business quotes:
@@ -52,7 +53,9 @@ You are what you say you are.
 ===
 ###On criticism
 
-Ignore or be flattered by criticism but beware of blindspots.
+**RULE:** Ignore or be flattered by criticism.
+
+**EXCEPTION:** Beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -119,4 +122,11 @@ Dream big.
 ===
 ###On giving
 
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek Proverb*
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
+
+===
+###On confidence
+
+Be confident. But know the frontier betwwen arrogance and confidence.
+
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
