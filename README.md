@@ -1,15 +1,12 @@
 # awesome-improvement-ideas
 Distillation of quotes. Self improvement for skeptics.
 
-- Business quotes:
-  - [On teamwork](#on-teamwork)
-  - [On leadership](#on-leadership)
-  
-- Self improvement quotes:
-  - [On freedom](#on-freedom)
-  - [On achievement](#on-achievement) 
-  - [On improvement](#on-improvement)
-  - [On blindspots](#on-blindspots) 
+- [On teamwork](#on-teamwork)
+- [On leadership](#on-leadership)
+- [On freedom](#on-freedom)
+- [On achievement](#on-achievement)
+- [On improvement](#on-improvement)
+- [On blindspots](#on-blindspots)
   
 ---
 ##Business quotes:
@@ -28,7 +25,7 @@ Distillation of quotes. Self improvement for skeptics.
 ===
 ###On achievement
 
-Comfort is the enemy of achievement.
+Confort is the enemy of achievement.
 
 ===
 ###On improvement
