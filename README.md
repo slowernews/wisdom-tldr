@@ -50,16 +50,14 @@ Self improvement ideas distilled from awesome quotes.
 ===
 ###On improvement
 
-*RULE:* You are what you say you are.
+You are what you say you are.
 
 > *'You're only as good as your next speech.'*
 
 ===
 ###On criticism
 
-*RULE:* Ignore or be flattered by criticism.
-
-*EXCEPTION:* Beware of blindspots.
+Ignore or be flattered by criticism BUT beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -72,7 +70,7 @@ Self improvement ideas distilled from awesome quotes.
 ===
 ###On planning and adapting
 
-*RULE:* Plan ahead but don't overthink.
+Plan ahead BUT don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -93,9 +91,9 @@ xxxx
 ===
 ###On listening
 
-**Rule:** Learn to listen.
+Learn to listen.
 
-> 
+> *'Listen to many, speak to a few.' -- William Shakespeare*
 
 ===
 ###On fear
@@ -111,10 +109,12 @@ xxxx.
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
+> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
+
 ===
 ###On present
 
-**RULE:* Live in the present.
+Live in the present.
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
@@ -133,7 +133,7 @@ Dream big.
 ===
 ###On confidence
 
-Be confident. But know the frontier betwwen arrogance and confidence.
+Be confident BUT know the frontier between confidence and arrogance.
 
 >
 
