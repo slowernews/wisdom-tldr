@@ -7,16 +7,18 @@ Self improvement ideas distilled from awesome quotes.
 - [On achievement](#on-achievement)
 - [On improvement](#on-improvement)
 - [On criticism](#on-criticism)
+- [On listening](#on-listening)
 - [On planning-and-adapting](#on-planning-and-adapting)
 - [On settling](#on-settling)
 - [On starting](#on-starting)
-- [On listening](#on-listening)
+- [On ending](#on-ending)
 - [On expectations](#on-expectations)
 - [On fear](#on-fear)
 - On time:
   - [On past](#on-past)
   - [On past](#on-present)
   - [On future](#on-future)
+- [On age](#on-age)
 - [On giving](#on-giving)
 - [On confidence](#on-confidence)
 - [On motivation](#on-motivation)
@@ -28,6 +30,8 @@ Self improvement ideas distilled from awesome quotes.
 
 ===
 ###On leadership
+
+Leadership is based on trust.
 
 ===
 ###On freedom
@@ -64,9 +68,20 @@ Ignore or be flattered by criticism BUT beware of blindspots.
 > *'Never hate people who are jealous of you, but respect their jealousy. They're people who think that you're better than them.'*
 
 ===
+###On listening
+
+Learn to listen.
+
+> *'Listen to many, speak to a few.' -- William Shakespeare*
+
+> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
+
+===
 ###On planning and adapting
 
 Plan ahead BUT don't overthink.
+
+> *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -76,12 +91,12 @@ Plan ahead BUT don't overthink.
 ===
 ###On starting
 
+> *'Stop making resolutions and start making something.'*
+
 ===
-###On listening
+###On ending
 
-Learn to listen.
-
-> *'Listen to many, speak to a few.' -- William Shakespeare*
+> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom
 
 ===
 ###On fear
@@ -91,7 +106,11 @@ Learn to listen.
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
+> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus
+
 > *'You can't start the next chapter of your life if you keep re-reading the last one.'*
+
+> *'Never regret something that once made you smile.'*
 
 ===
 ###On present
@@ -100,10 +119,17 @@ Live in the present.
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
+> *'Never get so busy making a living that you forget to make a life.'*
+
 ===
 ###On future
 
 Dream big.
+
+===
+###On age
+
+We'll never be as young as we are tonight.
 
 ===
 ###On giving
@@ -126,5 +152,9 @@ Be confident BUT know the frontier between confidence and arrogance.
 ===
 ###On focus
 
-xxxx.
 > *'You can do anything, but not everything.' -- David Allen*
+
+===
+###On trust
+
+> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche
