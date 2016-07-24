@@ -19,11 +19,15 @@ Self improvement ideas distilled from awesome quotes.
   - [On future](#on-future)
 - [On giving](#on-giving)
 - [On confidence](#on-confidence)
+- [On motivation](#on-motivation)
+- [On peers](#on-peers)
+- [On focus](#on-focus)
 
 ---
 ##Business quotes:
 
 ###On teamwork
+
 ===
 ###On leadership
 
@@ -37,7 +41,7 @@ Self improvement ideas distilled from awesome quotes.
 ===
 ###On achievement
 
-Confort is the enemy of achievement.
+*RULE:* Confort is the enemy of achievement.
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
@@ -46,48 +50,50 @@ Confort is the enemy of achievement.
 ===
 ###On improvement
 
-You are what you say you are.
+*RULE:* You are what you say you are.
 
 > *'You're only as good as your next speech.'*
 
 ===
 ###On criticism
 
-**RULE:** Ignore or be flattered by criticism.
+*RULE:* Ignore or be flattered by criticism.
 
-**EXCEPTION:** Beware of blindspots.
+*EXCEPTION:* Beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
+
+> *'Don’t argue your path with other people. Walk it.' -- The lazy Yogi*
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They're people who think that you're better than them.'*
 
 ===
 ###On planning and adapting
 
-Plan ahead but don't overthink.
+*RULE:* Plan ahead but don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
 ===
 ###On settling
 
-Learn to listen.
+xxxx
 
 >
 
 ===
 ###On starting
 
-Learn to listen.
+xxxx
 
 > 
 
 ===
 ###On listening
 
-Learn to listen.
+*RULE:* Learn to listen.
 
 > 
 
@@ -130,3 +136,23 @@ Dream big.
 Be confident. But know the frontier betwwen arrogance and confidence.
 
 > *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
+
+===
+###On motivation
+
+xxxx.
+
+>
+
+===
+###On peers
+
+xxxx.
+
+>
+
+===
+###On focus
+
+xxxx.
+> *'You can do anything, but not everything. -- David Allen'*
