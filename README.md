@@ -45,7 +45,7 @@ Self improvement ideas distilled from awesome quotes.
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
-> *'There is pleasure in the pathless woods. -- Lord Byron'*
+> *'There is pleasure in the pathless woods.' -- Lord Byron*
 
 ===
 ###On improvement
@@ -93,7 +93,7 @@ xxxx
 ===
 ###On listening
 
-*RULE:* Learn to listen.
+**Rule:** Learn to listen.
 
 > 
 
@@ -109,12 +109,12 @@ xxxx.
 
 xxxx.
 
->
+> *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
 ===
 ###On present
 
-Live in the present.
+**RULE:* Live in the present.
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
@@ -135,7 +135,7 @@ Dream big.
 
 Be confident. But know the frontier betwwen arrogance and confidence.
 
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
+>
 
 ===
 ###On motivation
@@ -149,10 +149,10 @@ xxxx.
 
 xxxx.
 
->
+> *'Forget those who forget you.'
 
 ===
 ###On focus
 
 xxxx.
-> *'You can do anything, but not everything. -- David Allen'*
+> *'You can do anything, but not everything.' -- David Allen*
