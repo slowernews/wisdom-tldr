@@ -9,6 +9,7 @@ Distillation of quotes. Self improvement for skeptics.
   - [On freedom](#on-freedom)
   - [On achievement](#on-achievement) 
   - [On improvement](#on-improvement)
+  - [On blindspots](#on-blindspots) 
   
 ---
 ##Business quotes:
@@ -35,3 +36,11 @@ Comfort is the enemy of achievement.
 You are what you say you are.
 
 > *'You're only as good as your next speech.'*
+
+===
+###On blindspots
+
+Beware of blindspots.
+
+> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
+
