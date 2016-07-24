@@ -13,7 +13,11 @@ Self improvement ideas distilled from awesome quotes.
 - [On listening](#on-listening)
 - [On expectations](#on-expectations)
 - [On fear](#on-fear)
-- [On time](#on-time)
+- On time:
+  - [On past](#on-past)
+  - [On past](#on-present)
+  - [On future](#on-future)
+- [On giving](#on-giving)
 
 ---
 ##Business quotes:
@@ -36,6 +40,8 @@ Confort is the enemy of achievement.
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
+> *'There is pleasure in the pathless woods. -- Lord Byron'*
+
 ===
 ###On improvement
 
@@ -46,7 +52,7 @@ You are what you say you are.
 ===
 ###On criticism
 
-Ignore critics and be flattered by them but beware of blindspots.
+Ignore or be flattered by criticism but beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -57,7 +63,7 @@ Ignore critics and be flattered by them but beware of blindspots.
 ===
 ###On planning and adapting
 
-Plan ahead. But don't overthink.
+Plan ahead but don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -87,11 +93,30 @@ Learn to listen.
 
 xxxx.
 
-> 
+>
 
 ===
-###On time
+###On past
 
 xxxx.
 
-> 
+>
+
+===
+###On present
+
+Live in the present.
+
+> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
+
+===
+###On future
+
+Dream big.
+
+>
+
+===
+###On giving
+
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek Proverb*
