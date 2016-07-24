@@ -1,5 +1,5 @@
-# awesome-improvement-ideas
-Distillation of quotes. Self improvement for skeptics.
+# self-improvement-for-skeptics
+Self improvement ideas distilled from awesome quotes.
 
 - [On teamwork](#on-teamwork)
 - [On leadership](#on-leadership)
