@@ -1,2 +1,2 @@
 # awesome-improvement-ideas
-Life improvement ideas distilled from quotes.
+Distillation of quotes. Self improvement for skeptics.
