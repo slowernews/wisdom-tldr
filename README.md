@@ -96,7 +96,7 @@ Plan ahead BUT don't overthink.
 ===
 ###On ending
 
-> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom
+> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
 ===
 ###On fear
@@ -106,7 +106,7 @@ Plan ahead BUT don't overthink.
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
-> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus
+> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
 
 > *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
@@ -157,4 +157,4 @@ Be confident BUT know the frontier between confidence and arrogance.
 ===
 ###On trust
 
-> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche
+> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
