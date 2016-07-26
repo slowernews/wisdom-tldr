@@ -2,6 +2,7 @@
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
 
 - [On teamwork](#on-teamwork)
+- [on hiring](#on-hiring)
 - [On networking](#on-networking)
 - [On leadership](#on-leadership)
 - [On trust](#on-trust)
@@ -22,6 +23,7 @@
   - [On past](#on-past)
   - [On present](#on-present)
   - [On future](#on-future)
+- [On timing](#on-timing)
 - [On age](#on-age)
 - [On giving](#on-giving)
 - [On confidence](#on-confidence)
@@ -32,8 +34,16 @@
 - [On decision making](#on-decision-making)
 - [On influence](#on-influence)
 - [on equilibrium](#on-equilibrium)
+- [on experience and learning](#on-experience-and-learning)
+- [on negotiation](#on-negotiation)
+- [on stock market](#on-stock-market)
+- [on power](#on-power)
+- [on luck and random](#on-luck-and-random)
+- [on bias](#on-power)
+- [on enemies](#on-enemies)
+- [on mastery](#on-mastery)
+- [on mentors](#on-mentors)
 
----
 ###TL;DR
 
 3 rules for life: Fuck, Don't give a fuck and don't be fucked over.
@@ -47,6 +57,11 @@
 ###On networking
 
 ===
+###On hiring
+
+Look for someone to help you.
+
+===
 ###On leadership
 
 Leadership is based on trust.
@@ -54,17 +69,16 @@ Leadership is based on trust.
 ===
 ###On trust
 
-Trust is not earned is exchanged.
+Trust is not earned, is exchanged.
 
-===
-###On mentors
-
-Your father is your first mentor.
+> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
 ===
 ###On freedom
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'My independence is my legacy.' -- Bagão Felix*
 
 ===
 ###On achievement
@@ -164,6 +178,9 @@ Live in the present.
 Dream big.
 
 ===
+###On timing
+
+===
 ###On age
 
 We'll never be as young as we are tonight.
@@ -193,10 +210,7 @@ Be confident BUT know the frontier between confidence and arrogance.
 
 > *'You can do anything, but not everything.' -- David Allen*
 
-===
-###On trust
-
-> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+> *'A man with a watch knows what time it is. A man with two watches is never sure.'*
 
 ===
 ###On efficiency
@@ -213,3 +227,55 @@ Be confident BUT know the frontier between confidence and arrogance.
 
 ===
 ###On equilibrium
+
+===
+###On experience and learning
+
+===
+###On negotiation
+
+To negotiate is to have options.
+
+===
+###On stock market
+
+Wherever oil goes, the stock market goes.
+
+===
+###On power
+
+People want power because they want autonomy.
+
+===
+###On luck and random
+
+Luck/random is a pattern.
+
+> *'“Random” usually means that you haven’t looked long enough to see a pattern emerge.'*
+
+> *'Even a broken clock is right twice a day.'*
+
+===
+###On bias
+
+Everything is biased.
+
+> *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
+
+> *'The eternal mystery of the world is its comprehensibility.'*
+
+===
+###On enemies
+
+Your biggest enemy is yourself.
+
+===
+###On mastery
+
+> *'I am not young enough to know everything. -- Oscar Wilde'*
+
+===
+###On mentors
+
+Your father is your first mentor.
+
