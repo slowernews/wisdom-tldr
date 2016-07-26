@@ -1,8 +1,6 @@
 # self-improvement-for-skeptics
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
 
-- [TL;DR](#on-tldr)
-
 - [On teamwork](#on-teamwork)
 - [On networking](#on-networking)
 - [On leadership](#on-leadership)
@@ -36,17 +34,17 @@
 - [on equilibrium](#on-equilibrium)
 
 ---
-###On TL;DR
+###TL;DR
 
 3 rules for life: Fuck, Don't give a fuck and don't be fucked over.
 
+---
 ###On teamwork
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
+===
 ###On networking
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 ===
 ###On leadership
