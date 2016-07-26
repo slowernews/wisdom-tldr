@@ -165,7 +165,7 @@ Just start. You cannot afford to wait for inspiration.
 
 > *'Replace fear of unknown with curiosity.'*
 
-> *'Our fearlessness shall be our secret weapon. -- John Green'*
+> *'Our fearlessness shall be our secret weapon.' -- John Green*
 
 ===
 ###On past
@@ -212,7 +212,7 @@ We'll never be as young as we are tonight.
 ===
 ###On confidence
 
-Be confident, you are what you say you are BUT know the frontier between confidence and arrogance.
+You are what you say you are BUT know the frontier between confidence and arrogance.
 
 > *'Doubt kills more dreams than failure ever will.'*
 
@@ -276,7 +276,7 @@ People want power because they want autonomy.
 
 Luck/random is a pattern.
 
-> *'“Random” usually means that you haven’t looked long enough to see a pattern emerge.'*
+> *' “Random” usually means that you haven’t looked long enough to see a pattern emerge.'*
 
 > *'Even a broken clock is right twice a day.'*
 
@@ -303,7 +303,7 @@ Your biggest enemy is yourself.
 ===
 ###On mastery
 
-First learn the rules. Then break them.
+First learn the rules. Then break them. You'll never know anything.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -317,9 +317,16 @@ Your father is your first mentor. Be a mentor yourself.
 ===
 ###On failure
 
+Sometimes you win. Sometimes you learn.
+
 > *'A scar is not an injury. A scar is a healing. After an injury, a scar is what makes you whole.' -- China Mieville*
 
 ===
 ###On happiness
 
 Happiness is a journey, not a destination.
+
+===
+###On startups
+
+> *'What you need to start a business: generosity.' -- Sivers*
