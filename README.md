@@ -1,7 +1,10 @@
 # self-improvement-for-skeptics
-Self improvement ideas distilled from awesome quotes. (work in progress)
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
+
+- [TL;DR](#on-tldr)
 
 - [On teamwork](#on-teamwork)
+- [On networking](#on-networking)
 - [On leadership](#on-leadership)
 - [On trust](#on-trust)
 - [On freedom](#on-freedom)
@@ -16,9 +19,10 @@ Self improvement ideas distilled from awesome quotes. (work in progress)
 - [On ending](#on-ending)
 - [On expectations](#on-expectations)
 - [On fear](#on-fear)
+- [On imperfections](#on-imperfections)
 - On time:
   - [On past](#on-past)
-  - [On past](#on-present)
+  - [On present](#on-present)
   - [On future](#on-future)
 - [On age](#on-age)
 - [On giving](#on-giving)
@@ -27,11 +31,22 @@ Self improvement ideas distilled from awesome quotes. (work in progress)
 - [On peers](#on-peers)
 - [On focus](#on-focus)
 - [On efficiency](#on-efficiency)
+- [On decision making](#on-decision-making)
+- [On influence](#on-influence)
+- [on equilibrium](#on-equilibrium)
 
 ---
+###On TL;DR
+
+3 rules for life: Fuck, Don't give a fuck and don't be fucked over.
+
 ###On teamwork
 
-> *'If you want to go fast go alone. If you want to go far go together.' -- african proverb*
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+###On networking
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 ===
 ###On leadership
@@ -188,7 +203,15 @@ Be confident BUT know the frontier between confidence and arrogance.
 ===
 ###On efficiency
 
-> *'Start as close to the end as possible.' -- Kurt Vonnegu
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
-> *'Lazy is what the jealous call efficiency.'
+> *'Lazy is what the jealous call efficiency.'*
 
+===
+###On decision making
+
+===
+###On influence
+
+===
+###On equilibrium
