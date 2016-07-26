@@ -43,10 +43,13 @@
 - [on enemies](#on-enemies)
 - [on mastery](#on-mastery)
 - [on mentors](#on-mentors)
+- [on failure](#on-failure)
+- [on happiness](#on-happiness)
+
 
 ###TL;DR
 
-3 rules for life: Fuck, Don't give a fuck and don't be fucked over.
+3 rules for life: Fuck, don't give a fuck and don't be fucked over.
 
 ---
 ###On teamwork
@@ -80,21 +83,29 @@ Trust is not earned, is exchanged.
 
 > *'My independence is my legacy.' -- Bagão Felix*
 
+> *'Do not commit to any side or cause but yourself.'*
+
+> *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
+
 ===
 ###On achievement
 
-Confort is the enemy of achievement.
+Confort is the enemy of achievement. You need to break rules to achieve anything great.
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
 > *'There is pleasure in the pathless woods.' -- Lord Byron*
 
+> *'To create anything spectacular you have to break rules & breaking rules frightens people.'*
+
+> *'A ship is safe in the harbour but that's not what ships are for.'*
+
+> *'Make the mind tougher by exposing it to adversity.'*
+
 ===
 ###On improvement
 
-You are what you say you are.
-
-> *'You're only as good as your next speech.'*
+> *'Make the mind tougher by exposing it to adversity.'*
 
 ===
 ###On criticism
@@ -152,6 +163,10 @@ Just start. You cannot afford to wait for inspiration.
 ===
 ###On fear
 
+> *'Replace fear of unknown with curiosity.'*
+
+> *'Our fearlessness shall be our secret weapon. -- John Green'*
+
 ===
 ###On past
 
@@ -166,16 +181,20 @@ Just start. You cannot afford to wait for inspiration.
 ===
 ###On present
 
-Live in the present.
+Live in the present. Don't postpone joy.
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
 > *'Never get so busy making a living that you forget to make a life.'*
 
+> *'Some people are so poor, all they have is money.'*
+
 ===
 ###On future
 
 Dream big.
+
+> *'If your dreams don't scare you, they are not big enough.'*
 
 ===
 ###On timing
@@ -193,7 +212,11 @@ We'll never be as young as we are tonight.
 ===
 ###On confidence
 
-Be confident BUT know the frontier between confidence and arrogance.
+Be confident, you are what you say you are BUT know the frontier between confidence and arrogance.
+
+> *'Doubt kills more dreams than failure ever will.'*
+
+> *'You're only as good as your next speech.'*
 
 ===
 ###On motivation
@@ -202,6 +225,8 @@ Be confident BUT know the frontier between confidence and arrogance.
 ###On peers
 
 > *'Forget those who forget you.'*
+
+> *'The people that want to stay in your life, will always find a way.'*
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
@@ -255,14 +280,20 @@ Luck/random is a pattern.
 
 > *'Even a broken clock is right twice a day.'*
 
+> *'There’s no magic in the world. It’s all math.' -- discrete math professor*
+
 ===
 ###On bias
 
-Everything is biased.
+Everything is biased. Be specially careful when facing new ideas.
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
 
 > *'The eternal mystery of the world is its comprehensibility.'*
+
+> *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
+
+> *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
 ===
 ###On enemies
@@ -272,10 +303,23 @@ Your biggest enemy is yourself.
 ===
 ###On mastery
 
-> *'I am not young enough to know everything. -- Oscar Wilde'*
+First learn the rules. Then break them.
+
+> *'I am not young enough to know everything.' -- Oscar Wilde*
 
 ===
 ###On mentors
 
-Your father is your first mentor.
+Your father is your first mentor. Be a mentor yourself.
 
+> *'One repays a teacher badly if one remains only a pupil.' -- Friedrich Nietzsche*
+
+===
+###On failure
+
+> *'A scar is not an injury. A scar is a healing. After an injury, a scar is what makes you whole.' -- China Mieville*
+
+===
+###On happiness
+
+Happiness is a journey, not a destination.
