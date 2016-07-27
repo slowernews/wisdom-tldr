@@ -1,12 +1,13 @@
 # self-improvement-for-skeptics
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
 
-- [On yourself](#on-yourself)
+- [On identity](#on-identity)
 - [On habits](#on-habits)
-- [On freedom and settling](#on-freedom-and-settling)
 - [On power](#on-power)
-- [On teamwork](#on-teamwork)
+- [On freedom and settling](#on-freedom-and-settling)
+- [On mentors](#on-mentors)
 - [On peers](#on-peers)
+- [On teamwork](#on-teamwork)
 - [On hiring](#on-hiring)
 - [On networking](#on-networking)
 - [On leadership](#on-leadership)
@@ -47,7 +48,6 @@
 - [On bias](#on-bias)
 - [On enemies](#on-enemies)
 - [On mastery](#on-mastery)
-- [On mentors](#on-mentors)
 - [On failure](#on-failure)
 - [On happiness](#on-happiness)
 - [On honesty](#on-honesty)
@@ -62,7 +62,7 @@
 3 rules for life: Fuck, don't give a fuck and don't be fucked over.
 
 ---
-###On yourself
+###On identity
 
 You are your deeds. Have personal accountability. Know yourself.
 
@@ -77,18 +77,22 @@ Consistency is everything.
 People want power because they want autonomy.
 
 ===
-###On freedom
+###On freedom and settling
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
 > *'My independence is my legacy.' -- Bagão Felix*
 
-> *'Do not commit to any side or cause but yourself.'*###On teamwork
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+> *'Do not commit to any side or cause but yourself.'*
 
 ===
-###On networking
+###On mentors
+
+Your father is your first mentor. Be a mentor yourself and share your strengths. Impact the world.
+
+> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
+
+> *'Powerful people give freely, buying influence rather than things.'*
 
 ===
 ###On peers
@@ -96,6 +100,13 @@ People want power because they want autonomy.
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
 > *'Keep your friends for friendship, but work with the skilled and competent.'*
+
+###On teamwork
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+===
+###On networking
 
 ===
 ###On hiring
@@ -106,6 +117,8 @@ Look for someone to help you.
 ###On leadership
 
 Leadership is based on trust.
+
+> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. -- Lao Tzu'*
 
 ===
 ###On trust
@@ -356,15 +369,6 @@ Your biggest enemy is yourself.
 First learn the rules. Then break them BUT You'll never know everything, there's always room for improvement.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
-
-===
-###On mentors
-
-Your father is your first mentor. Be a mentor yourself and share your strengths. Impact the world.
-
-> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
-
-> *'Powerful people give freely, buying influence rather than things.'*
 
 ===
 ###On failure
