@@ -2,6 +2,7 @@
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
 
 - [On identity](#on-identity)
+- [On humbleness](#on-humbleness)
 - [On habits](#on-habits)
 - [On power](#on-power)
 - [On freedom and settling](#on-freedom-and-settling)
@@ -59,7 +60,7 @@
 
 ###TL;DR
 
-3 rules for life: Fuck, don't give a fuck and don't be fucked over.
+####3 rules for life: Fuck, don't give a fuck and don't be fucked over.
 
 ---
 ###On identity
@@ -67,9 +68,16 @@
 You are your deeds. Have personal accountability. Know yourself.
 
 ===
+###On humbleness
+
+Be humble.
+
+> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
+
+===
 ###On habits
 
-Consistency is everything.
+Consistency is everything. Habits allow [mastery](#on-mastery)
 
 ===
 ###On power
@@ -97,9 +105,9 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 ===
 ###On peers
 
-> *'If you're the smartest in the room, you're in the wrong room.'*
+Keep your friends for friendship, but work with the skilled and competent.
 
-> *'Keep your friends for friendship, but work with the skilled and competent.'*
+> *'If you're the smartest in the room, you're in the wrong room.'*
 
 ###On teamwork
 
@@ -366,7 +374,7 @@ Your biggest enemy is yourself.
 ===
 ###On mastery
 
-First learn the rules. Then break them BUT You'll never know everything, there's always room for improvement.
+First learn the rules. Then break them BUT there's always room for improvement.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -375,14 +383,12 @@ First learn the rules. Then break them BUT You'll never know everything, there's
 
 Sometimes you win. Sometimes you learn. Accept failure as part of the process.
 
-> *'A scar is not an injury. A scar is a healing. After an injury, a scar is what makes you whole.' -- China Mieville*
+> *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
 
 ===
 ###On happiness
 
 Happiness is a journey, not a destination.
-
-> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
 
 ===
 ###On startups
