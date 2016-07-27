@@ -1,17 +1,20 @@
 # self-improvement-for-skeptics
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
 
+- [On yourself](#on-yourself)
+- [On habits](#on-habits)
+- [On freedom and settling](#on-freedom-and-settling)
+- [On power](#on-power)
 - [On teamwork](#on-teamwork)
+- [On peers](#on-peers)
 - [On hiring](#on-hiring)
 - [On networking](#on-networking)
 - [On leadership](#on-leadership)
 - [On trust](#on-trust)
-- [On freedom](#on-freedom)
 - [On achievement](#on-achievement)
 - [On improvement](#on-improvement)
 - [On criticism](#on-criticism)
 - [On listening](#on-listening)
-- [On settling](#on-settling)
 - [On starting](#on-starting)
 - [On momentum](#on-momentum)
 - [On ending](#on-ending)
@@ -22,7 +25,6 @@
   - [On planning](#on-planning)
   - [On adapting](#on-adapting)
 - On tactics:
-- On change:
 - On excuses:
   - [On age](#on-age)
 - On time:
@@ -33,7 +35,6 @@
 - [On giving](#on-giving)
 - [On confidence](#on-confidence)
 - [On motivation](#on-motivation)
-- [On peers](#on-peers)
 - [On focus and priorities](#on-focus-and-priorities)
 - [On efficiency](#on-efficiency)
 - [On decision making](#on-decision-making)
@@ -42,7 +43,6 @@
 - [On experience and learning](#on-experience-and-learning)
 - [On negotiation](#on-negotiation)
 - [On stock market](#on-stock-market)
-- [On power](#on-power)
 - [On luck and random](#on-luck-and-random)
 - [On bias](#on-bias)
 - [On enemies](#on-enemies)
@@ -62,12 +62,40 @@
 3 rules for life: Fuck, don't give a fuck and don't be fucked over.
 
 ---
-###On teamwork
+###On yourself
+
+You are your deeds. Have personal accountability. Know yourself.
+
+===
+###On habits
+
+Consistency is everything.
+
+===
+###On power
+
+People want power because they want autonomy.
+
+===
+###On freedom
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'My independence is my legacy.' -- Bagão Felix*
+
+> *'Do not commit to any side or cause but yourself.'*###On teamwork
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 ===
 ###On networking
+
+===
+###On peers
+
+> *'If you're the smartest in the room, you're in the wrong room.'*
+
+> *'Keep your friends for friendship, but work with the skilled and competent.'*
 
 ===
 ###On hiring
@@ -85,20 +113,6 @@ Leadership is based on trust.
 Trust is not earned, is exchanged.
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
-
-===
-###On yourself
-
-You are your deeds. Have personal accountability.
-
-===
-###On freedom
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
-> *'My independence is my legacy.' -- Bagão Felix*
-
-> *'Do not commit to any side or cause but yourself.'*
 
 ===
 ###On achievement
@@ -125,7 +139,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 ===
 ###On criticism and envy
 
-Ignore or be flattered by criticism BUT beware of blindspots.
+Ignore or be flattered by criticism and envy BUT beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -256,14 +270,7 @@ You are what you say you are BUT know the frontier between confidence and arroga
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 ===
-###peers
-
-> *'If you're the smartest in the room, you're in the wrong room.'*
-
-> *'Keep your friends for friendship, but work with the skilled and competent.'*
-
-===
-###relationships
+###On relationships
 
 > *'Forget those who forget you.'*
 
@@ -272,7 +279,7 @@ You are what you say you are BUT know the frontier between confidence and arroga
 ===
 ###On focus and priorities
 
-Big wins firsts, only then the details.
+Big wins first. Then the details.
 
 > *'You can do anything, but not everything.' -- David Allen*
 
@@ -310,9 +317,7 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 Wherever oil goes, the stock market goes.
 
 ===
-###On power
-
-People want power because they want autonomy.
+###On investment
 
 ===
 ###On luck and random
@@ -386,9 +391,6 @@ Happiness is a journey, not a destination.
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
 ===
-###On investment
-
-===
 ###On wealth and rich life
 
 Being rich is not counting your money all day but doing what you feel like.
@@ -412,5 +414,4 @@ Control what you can. Ignore what you can't. Accept that you cannot control ever
 ===
 ###On success
 
-
-
+There are no shortcuts for success.
