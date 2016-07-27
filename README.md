@@ -52,7 +52,7 @@
 - [On happiness](#on-happiness)
 - [On honesty](#on-honesty)
 - [On investment](#on-investment)
-- [On wealth and rich life](#on-wealth-and-rich-life)
+- [On wealth and being rich](#on-wealth-and-being-rich)
 - [On control](#on-control)
 - [On jobs](#on-jobs)
 - [On success](#on-success)
@@ -79,11 +79,11 @@ People want power because they want autonomy.
 ===
 ###On freedom and settling
 
+Do not trully commit to any side or cause but yourself.
+
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
 > *'My independence is my legacy.' -- Bagão Felix*
-
-> *'Do not commit to any side or cause but yourself.'*
 
 ===
 ###On mentors
@@ -116,9 +116,9 @@ Look for someone to help you.
 ===
 ###On leadership
 
-Leadership is based on trust.
+Leadership is based on [trust](#on-trust).
 
-> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. -- Lao Tzu'*
+> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
 ===
 ###On trust
@@ -152,7 +152,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 ===
 ###On criticism and envy
 
-Ignore or be flattered by criticism and envy BUT beware of blindspots.
+[Listen](#on-listening), ignore or be flattered by criticism and envy BUT beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -395,7 +395,7 @@ Happiness is a journey, not a destination.
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
 ===
-###On wealth and rich life
+###On wealth and being rich
 
 Being rich is not counting your money all day but doing what you feel like.
 
