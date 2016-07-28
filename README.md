@@ -18,7 +18,7 @@
 - [On improvement](#on-improvement)
 - [On criticism](#on-criticism)
 - [On listening](#on-listening)
-- [On starting](#on-starting)
+- [On starting or waiting](#on-starting-or-waiting)
 - [On momentum](#on-momentum)
 - [On ending](#on-ending)
 - [On expectations](#on-expectations)
@@ -37,7 +37,6 @@
 - [On timing](#on-timing)
 - [On giving](#on-giving)
 - [On confidence](#on-confidence)
-- [On motivation](#on-motivation)
 - [On focus and priorities](#on-focus-and-priorities)
 - [On efficiency](#on-efficiency)
 - [On decision making](#on-decision-making)
@@ -53,7 +52,7 @@
 - [On happiness](#on-happiness)
 - [On honesty](#on-honesty)
 - [On investment](#on-investment)
-- [On wealth and being rich](#on-wealth-and-being-rich)
+- [On wealth](#on-wealth)
 - [On control](#on-control)
 - [On jobs](#on-jobs)
 - [On success](#on-success)
@@ -61,16 +60,18 @@
 
 ###TL;DR 
 
-###3 rules for life: Fuck, don't give a fuck and don't be fucked over.
+###3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
 ---
 ###On identity
 
 You are your deeds. Have personal accountability. Know yourself. Invest in yourself.
 
-You have to invest in yourself before you will ever see success in business. You have to master skill sets, understand your personality and how you function, and constantly educate yourself if you ever wish to be successful.
+You have to invest in yourself before you will ever see success in business. You have to master skill sets, understand your personality and constantly educate yourself if you ever wish to be successful.
 
 > *'If you try to be something you're not, you end up being nothing.'*
+
+> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
 ===
 ###On gratefulness
@@ -78,6 +79,11 @@ You have to invest in yourself before you will ever see success in business. You
 > *'Love the life you have, while you create the life of your dreams.' -- Hal Elrod*
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+===
+###On habits
+
+Consistency is everything. Habits allow [mastery](#on-mastery).
 
 ===
 ###On mastery and humbleness
@@ -89,9 +95,20 @@ First learn the rules, then break them BUT be humble, there's always room for im
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
 
 ===
-###On habits
+###On attachment and settling
 
-Consistency is everything. Habits allow [mastery](#on-mastery).
+Do not trully commit to anything but yourself.
+
+> *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+===
+###On control
+
+Control what you can. Ignore what you can't. Accept that you cannot control everything.
+
+> *'You can lead a horse to water but you can’t make him drink.'*
 
 ===
 ###On power
@@ -99,13 +116,11 @@ Consistency is everything. Habits allow [mastery](#on-mastery).
 People want power because they want autonomy.
 
 ===
-###On freedom and settling
-
-Do not trully commit to any side or cause but yourself and your 'family'.
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
+###On integrity and honesty
 
 > *'My independence is my legacy.' -- Bagão Felix*
+
+> *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
 ===
 ###On mentors
@@ -125,6 +140,7 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
 
+===
 ###On teamwork
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
@@ -178,9 +194,11 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 ===
 ###On criticism and envy
 
-[Listen](#on-listening), ignore or be flattered by criticism and envy BUT beware of blindspots.
+[Listen](#on-listening) (beware of blindspots) BUT ignore or be flattered by criticism and envy.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
+
+> *'If too many users are wrong, it's probably your fault.'*
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -189,6 +207,8 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 > *'Never hate people who are jealous of you, but respect their jealousy. They're people who think that you're better than them.'*
 
 > *'Intelligence is the most sensitive trigger point for envy.'*
+
+> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Einstein*
 
 ===
 ###On listening
@@ -204,29 +224,41 @@ Learn to listen.
 ===
 ###On planning
 
-Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it. BUT don't overthink.
+RULE: Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
+
+CHALLENGE: Don't overthink.
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
+> *'While we are reasoning concerning life, life is gone. -- David Hume'*
+
 ===
 ###On adapting
 
-Plans are not static. Adapt or die.
+RULE: Plans are not static. Adapt or die.
 
 > *'The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
-===
-###On starting
+> *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
 
-Just start. You cannot afford to wait for inspiration.
+===
+###On starting and waiting
+
+RULE: Just start. You cannot afford to wait for inspiration or opportunities, your time is the most precious thing you own.
+
+CHALLENGE: You should always have a [plan](#on-planning).
 
 > *'Stop making resolutions and start making something.'*
 
 > *'The inspiration you are waiting for, in order to start, is on the other side of starting.'*
 
 > *'You don't have to be great to start, but you have to start to be great.'*
+
+> *'A year from now, you will wish you had started today.' -- Karen Lamb*
+
+> *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 ===
 ###On momentum
@@ -295,7 +327,7 @@ Dream big.
 ===
 ###On excuses
 
-There are no acceptable excuses. Over.
+There are no acceptable excuses. End.
 
 ===
 ###On age
@@ -310,9 +342,11 @@ We'll never be as young as we are today.
 ===
 ###On confidence
 
-You are what you say you are BUT know the frontier between confidence and arrogance. Achieving [mastery](#on-mastery-and-humbleness) helps.
+You are what you say you are BUT know the frontier between confidence and arrogance.
 
 > *'You're only as good as your next speech.'*
+
+> *'Fake it till you make it.'*
 
 > *'Doubt kills more dreams than failure ever will.'*
 
@@ -321,13 +355,6 @@ You are what you say you are BUT know the frontier between confidence and arroga
 > *'Believe you can, and you’re half way there.'*
 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
-
-> *'fake it till you make it.'
-
-===
-###On motivation
-
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 ===
 ###On relationships
@@ -339,11 +366,17 @@ You are what you say you are BUT know the frontier between confidence and arroga
 ===
 ###On focus and priorities
 
-Big wins first. Then the details.
+Big wins first. Then the details. Concentrate your forces (23rd law of power).
 
 > *'You can do anything, but not everything.' -- David Allen*
 
+> *'Focusing is about saying no.' -- Steve Jobs*
+
+> *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
+
 > *'A man with a watch knows what time it is. A man with two watches is never sure.'*
+
+> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
 
 ===
 ###On efficiency
@@ -426,29 +459,19 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 
 Happiness is a journey, not a destination.
 
+> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
+
 ===
 ###On startups
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
 ===
-###On honesty
+###On wealth
 
-> *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
-
-===
-###On wealth and being rich
-
-Being rich is not counting your money all day but doing what you feel like.
+Being rich is not counting your money all day but being free.
 
 > *'Some people are so poor, all they have is money.'*
-
-===
-###On control
-
-Control what you can. Ignore what you can't. Accept that you cannot control everything. Let go.
-
-> *'You can lead a horse to water but you can’t make him drink.'*
 
 ===
 ###On jobs
@@ -462,10 +485,14 @@ Control what you can. Ignore what you can't. Accept that you cannot control ever
 
 There are no shortcuts for success.
 
+> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
+
 ===
 ###On imperfections
 
-*'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
 ===
 ###On deep work
@@ -488,14 +515,18 @@ There are no shortcuts for success.
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
 
 ===
-###On ambition
+###On ambition and motivation
 
 Be ambitious. Not thirsty.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
+> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+
 ===
 ###On stress
+
+Stress is caused by thinking about the [past](#on-past) or about the [future](#on-future).
 
 > *'Stress is caused by giving a fuck.'*
 
@@ -503,3 +534,17 @@ Be ambitious. Not thirsty.
 ###On money
 
 Making money is adding value. iF you did a good negotiation.
+
+===
+###On mortality
+
+You are going to die. Quite soon.
+
+> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
+
+> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
+
+===
+###On shame
+
+> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
