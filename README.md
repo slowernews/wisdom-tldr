@@ -176,6 +176,8 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
+> *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*
+
 > *'There is pleasure in the pathless woods.' -- Lord Byron*
 
 > *'To create anything spectacular you have to break rules & breaking rules frightens people.'*
@@ -232,7 +234,7 @@ CHALLENGE: Don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
-> *'While we are reasoning concerning life, life is gone. -- David Hume'*
+> *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 ===
 ###On adapting
@@ -243,8 +245,10 @@ RULE: Plans are not static. Adapt or die.
 
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
 
+> *'Life is more like tetris than chess.'*
+
 ===
-###On starting and waiting
+###On starting or waiting
 
 RULE: Just start. You cannot afford to wait for inspiration or opportunities, your time is the most precious thing you own.
 
@@ -282,6 +286,8 @@ Fear can be paralysing.
 > *'Our fearlessness shall be our secret weapon.' -- John Green*
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
+
+> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
 
 ===
 ###On time
@@ -342,7 +348,9 @@ We'll never be as young as we are today.
 ===
 ###On confidence
 
-You are what you say you are BUT know the frontier between confidence and arrogance.
+RULE: You are what you say you are.
+
+CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'You're only as good as your next speech.'*
 
@@ -405,14 +413,14 @@ To negotiate is to have options.
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
 ===
-###On stock market
-
-Wherever oil goes, the stock market goes.
-
-===
 ###On investment
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
+
+===
+###On stock market
+
+Wherever oil goes, the stock market goes.
 
 ===
 ###On luck and random
@@ -522,6 +530,8 @@ Be ambitious. Not thirsty.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+
+> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
 
 ===
 ###On stress
