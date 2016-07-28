@@ -2,7 +2,8 @@
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
 
 - [On identity](#on-identity)
-- [On humbleness](#on-humbleness)
+- [On gratefulness](#on-gratefulness)
+- [On mastery and humbleness](#on-mastery-and-humbleness)
 - [On habits](#on-habits)
 - [On power](#on-power)
 - [On freedom and settling](#on-freedom-and-settling)
@@ -27,7 +28,7 @@
   - [On planning](#on-planning)
   - [On adapting](#on-adapting)
 - On tactics:
-- On excuses:
+- [On excuses:](#on-excuses)
   - [On age](#on-age)
 - On time:
   - [On past](#on-past)
@@ -48,7 +49,6 @@
 - [On luck and random](#on-luck-and-random)
 - [On bias](#on-bias)
 - [On enemies](#on-enemies)
-- [On mastery](#on-mastery)
 - [On failure](#on-failure)
 - [On happiness](#on-happiness)
 - [On honesty](#on-honesty)
@@ -57,27 +57,41 @@
 - [On control](#on-control)
 - [On jobs](#on-jobs)
 - [On success](#on-success)
+- [On imperfections](#on-imperfections)
 
-###TL;DR
+###TL;DR 
 
-####3 rules for life: Fuck, don't give a fuck and don't be fucked over.
+###3 rules for life: Fuck, don't give a fuck and don't be fucked over.
 
 ---
 ###On identity
 
-You are your deeds. Have personal accountability. Know yourself.
+You are your deeds. Have personal accountability. Know yourself. Invest in yourself.
+
+You have to invest in yourself before you will ever see success in business. You have to master skill sets, understand your personality and how you function, and constantly educate yourself if you ever wish to be successful.
+
+> *'If you try to be something you're not, you end up being nothing.'*
 
 ===
-###On humbleness
+###On gratefulness
 
-Be humble.
+> *'Love the life you have, while you create the life of your dreams.' -- Hal Elrod*
+
+> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+===
+###On mastery and humbleness
+
+First learn the rules, then break them BUT be humble, there's always room for improvement.
+
+> *'I am not young enough to know everything.' -- Oscar Wilde*
 
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
 
 ===
 ###On habits
 
-Consistency is everything. Habits allow [mastery](#on-mastery)
+Consistency is everything. Habits allow [mastery](#on-mastery).
 
 ===
 ###On power
@@ -87,7 +101,7 @@ People want power because they want autonomy.
 ===
 ###On freedom and settling
 
-Do not trully commit to any side or cause but yourself.
+Do not trully commit to any side or cause but yourself and your 'family'.
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
@@ -108,6 +122,8 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 Keep your friends for friendship, but work with the skilled and competent.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
+
+> *'If you are lonely when you are not alone, you are in bad company.'*
 
 ###On teamwork
 
@@ -134,6 +150,8 @@ Leadership is based on [trust](#on-trust).
 Trust is not earned, is exchanged.
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
+disapointment destroys trust and causes a person to become less emotionally available.
 
 ===
 ###On achievement
@@ -166,7 +184,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
-> *'Don’t argue your path with other people. Walk it.' -- The lazy Yogi*
+> *'Don’t argue your path with other people. Walk it.' -- The lazy yogi*
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They're people who think that you're better than them.'*
 
@@ -180,6 +198,8 @@ Learn to listen.
 > *'Listen to many, speak to a few.' -- William Shakespeare*
 
 > *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
+
+> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
 ===
 ###On planning
@@ -198,9 +218,6 @@ Plans are not static. Adapt or die.
 > *'The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
 ===
-###On settling
-
-===
 ###On starting
 
 Just start. You cannot afford to wait for inspiration.
@@ -208,6 +225,8 @@ Just start. You cannot afford to wait for inspiration.
 > *'Stop making resolutions and start making something.'*
 
 > *'The inspiration you are waiting for, in order to start, is on the other side of starting.'*
+
+> *'You don't have to be great to start, but you have to start to be great.'*
 
 ===
 ###On momentum
@@ -231,6 +250,13 @@ Fear can be paralysing.
 > *'Our fearlessness shall be our secret weapon.' -- John Green*
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
+
+===
+###On time
+
+> *'If you are depressed you are living in the past. <br>
+If you are anxious you are living in the future. <br>
+If you are at peace you are living in the present.' -- Lao Tzu*
 
 ===
 ###On past
@@ -267,9 +293,14 @@ Dream big.
 ###On timing
 
 ===
+###On excuses
+
+There are no acceptable excuses. Over.
+
+===
 ###On age
 
-We'll never be as young as we are tonight.
+We'll never be as young as we are today.
 
 ===
 ###On giving
@@ -279,11 +310,19 @@ We'll never be as young as we are tonight.
 ===
 ###On confidence
 
-You are what you say you are BUT know the frontier between confidence and arrogance.
+You are what you say you are BUT know the frontier between confidence and arrogance. Achieving [mastery](#on-mastery-and-humbleness) helps.
+
+> *'You're only as good as your next speech.'*
 
 > *'Doubt kills more dreams than failure ever will.'*
 
-> *'You're only as good as your next speech.'*
+> *'If you don't believe in yourself. Believe in me who believes in you.'*
+
+> *'Believe you can, and you’re half way there.'*
+
+> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+> *'fake it till you make it.'
 
 ===
 ###On motivation
@@ -340,6 +379,8 @@ Wherever oil goes, the stock market goes.
 ===
 ###On investment
 
+> *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
+
 ===
 ###On luck and random
 
@@ -364,6 +405,8 @@ Bias is everywhere. Be specially careful when facing new ideas.
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
+> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice. It’s dream time.' -- Louis Céline*
+
 ===
 ###On enemies
 
@@ -372,16 +415,9 @@ Your biggest enemy is yourself.
 > *'Your Beliefs Determine Your Reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
 
 ===
-###On mastery
-
-First learn the rules. Then break them BUT there's always room for improvement.
-
-> *'I am not young enough to know everything.' -- Oscar Wilde*
-
-===
 ###On failure
 
-Sometimes you win. Sometimes you learn. Accept failure as part of the process.
+Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of the process.
 
 > *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
 
@@ -393,7 +429,7 @@ Happiness is a journey, not a destination.
 ===
 ###On startups
 
-> *'What you need to start a new business: generosity.' -- Sivers*
+> *'What you need to start a new business: generosity.' -- Derek Sivers*
 
 ===
 ###On honesty
@@ -425,3 +461,45 @@ Control what you can. Ignore what you can't. Accept that you cannot control ever
 ###On success
 
 There are no shortcuts for success.
+
+===
+###On imperfections
+
+*'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+===
+###On deep work
+
+> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
+
+> *'Too busy pretending I'm occupied.'*
+
+> *'Work until your idols become your rivals.'*
+
+> *'Work hard in silence. Let your silence be your noise.'*
+
+===
+###On science and religion
+
+> *'Science without religion is lame. Religion without science is blind.'*
+
+> *'Technological progress is like an axe in the hands of a pathological criminal.'*
+
+> *'The whole of science is nothing more than a refinement of everyday thinking.'*
+
+===
+###On ambition
+
+Be ambitious. Not thirsty.
+
+> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
+
+===
+###On stress
+
+> *'Stress is caused by giving a fuck.'*
+
+===
+###On money
+
+Making money is adding value. iF you did a good negotiation.
