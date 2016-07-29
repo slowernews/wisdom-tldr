@@ -29,8 +29,7 @@
   - [On planning](#on-planning)
   - [On adapting](#on-adapting)
 - On tactics:
-- [On excuses:](#on-excuses)
-  - [On age](#on-age)
+- [On age](#on-age)
 - On time:
   - [On past](#on-past)
   - [On present](#on-present)
@@ -54,8 +53,7 @@
 - [On control](#on-control)
 - [On success](#on-success)
 - [On creativity](#on-creativity)
-- [On balance](#on-balance)
-- [On perfectionism](#on-perfectionism)
+- [On balance and perfectionism](#on-balance-and-perfectionism)
 
 ###TL;DR 
 
@@ -69,6 +67,8 @@ You are your deeds. Have personal accountability. Know yourself. Invest in yours
 You have to invest in yourself before you will ever see success in business. You have to master skill sets, understand your personality and constantly educate yourself if you ever wish to be successful.
 
 > *'If you try to be something you're not, you end up being nothing.'*
+
+> *'How you do anything is how you do everything.'*
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
@@ -115,6 +115,8 @@ Control what you can. Ignore what you can't. Accept that you cannot control ever
 
 > *'You can lead a horse to water but you can’t make him drink.'*
 
+> *'You can only control yourself. Power comes from that.'*
+
 ===
 ###On power
 
@@ -130,11 +132,17 @@ People want power because they want autonomy.
 ===
 ###On trust and reputation
 
+Trust, not money, is the currency of business and life.
+
 Trust is not earned, is exchanged. Disappointment destroys trust.
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
 > *'Don't hide your feelings from people who show you theirs.'
+
+> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
+
+> *'So much depends on reputation – guard it with your life -- Robert Green (5th law of power)*
 
 ===
 ###On mentorship and giving
@@ -166,19 +174,22 @@ Keep your friends for friendship, but work with the skilled and competent.
 ===
 ###On networking
 
-===
-###On hiring
-
-Look for someone to help you.
+> *'You’re never too old to make a friend. Always be looking for a new one.'*
 
 ===
-###On being hired
+###On human resources
+
+Employees are there to make the employers' life easier.
+
+> *'Companies will hire you because you are a likable person that «gets shit done».'*
+
+> *'When applying for a job be more of a consultant than an applicant.'*
+
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
 > *'Avoid the trap of following one set career path.'*
-
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
 ===
 ###On leadership
@@ -188,7 +199,9 @@ Leadership is based on [trust](#on-trust).
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
 ===
-###On achievement
+###On achievement 
+
+<!--- confort and risk) -->
 
 Confort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
 
@@ -200,7 +213,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'A ship is safe in the harbor but that's not what ships are for.'*
 
-> *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
+> *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*on fe
 
 ===
 ###On improvement
@@ -248,7 +261,7 @@ Learn to listen.
 
 RULE: Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
 
-> *'Plan all the way to the end' -- Robert Green (29th law of power)
+> *'Plan all the way to the end' -- Robert Green (29th law of power)*
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
@@ -293,19 +306,31 @@ RULE: Just start. You cannot afford to wait for inspiration or opportunities, yo
 CHALLENGE: You should have a [plan](#on-planning).
 
 ===
-###On momentum
+###On movement
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
+
+> *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
+
+> *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
 > *'You cannot afford to go halfway.'*
 
 ===
-###On ending
+###On finishes
+
+Finish.
+
+*** Crush your enemy totally' -- Robert Green (15th law of power)*
+
+> *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
 > *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
 ===
-###On fear
+###On fear and excuses
+
+There are no acceptable excuses. End.
 
 Fear can be paralyzing. Replace fear of unknown with curiosity.
 
@@ -314,6 +339,10 @@ Fear can be paralyzing. Replace fear of unknown with curiosity.
 > *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
 
 > *'Our fearlessness shall be our secret weapon.' -- John Green*
+
+> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
+
+> *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
 
 ===
 ###On past
@@ -345,11 +374,6 @@ Dream big.
 > *'If your dreams don't scare you, they are not big enough.'*
 
 > *'Anomalies often represent the future, but to our eyes they seem strange.'*
-
-===
-###On excuses
-
-There are no acceptable excuses. End.
 
 ===
 ###On age
@@ -400,7 +424,7 @@ Relationships are based on [trust](#on-trust-and-reputation).
 
 Big wins first. Then the details.
 
-> *'Concentrate your forces' -- Robert Green (23rd law of power)
+> *'Concentrate your forces' -- Robert Green (23rd law of power)*
 
 > *'You can do anything, but not everything.' -- David Allen*
 
@@ -424,6 +448,8 @@ Big wins first. Then the details.
 ===
 ###On decision making
 
+> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
+
 ===
 ###On influence
 
@@ -435,11 +461,38 @@ To negotiate is to have options.
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
 ===
+###On money
+
+RULE: Making money is adding value.
+
+CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
+
+===
 ###On investment
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
+> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.'*
+
+> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+
 > *'Wherever oil goes, the stock market goes.'*
+
+===
+###On wealth
+
+Being rich is not counting your money all day but being free.
+
+> *'Some people are so poor, all they have is money.'*
+
+> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
+
+===
+###On success
+
+There are no shortcuts for success.
+
+> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
 ===
 ###On luck and random
@@ -499,21 +552,7 @@ Happiness is a journey, not a destination.
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
-===
-###On wealth
-
-Being rich is not counting your money all day but being free.
-
-> *'Some people are so poor, all they have is money.'*
-
-> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
-
-===
-###On success
-
-There are no shortcuts for success.
-
-> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
+> *'Without customers, you don’t have a business. You have a hobby. - Don Peppers & Martha Rogers'*
 
 ===
 ###On deep work
@@ -521,10 +560,6 @@ There are no shortcuts for success.
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
 > *'Too busy pretending I'm occupied.'*
-
-> *'Work until your idols become your rivals.'*
-
-> *'Work hard in silence. Let your silence be your noise.'*
 
 ===
 ###On science and religion
@@ -534,6 +569,8 @@ There are no shortcuts for success.
 > *'Technological progress is like an axe in the hands of a pathological criminal.'*
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
+
+> *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
 
 ===
 ###On ambition and motivation
@@ -545,6 +582,10 @@ Be ambitious. Not thirsty.
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
+
+> *'Work until your idols become your rivals.'*
+
+> *'Work hard in silence. Let your silence be your noise.'*
 
 ===
 ###On stress
@@ -561,12 +602,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'I never think of the future. It comes soon enough.'*
 
-===
-###On money
-
-RULE: Making money is adding value.
-
-CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
+> *'The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemies, the better you are at your job, the better...'
 
 ===
 ###On mortality
@@ -584,10 +620,19 @@ You are going to die. Quite soon actually. Act accordingly.
 
 > *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
 
+> *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
+
+> *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
+
 ===
-###On balance
+###On balance and perfectionism
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
+> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
+
+> *'Everything should be made as simple as possible, but not simpler.'*
+
 ===
-###On perfectionism
+###On safety
+
