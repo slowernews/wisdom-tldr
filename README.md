@@ -1,5 +1,5 @@
 # self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes. (work in progress)
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience. (work in progress)
 
 - [On identity](#on-identity)
 - [On gratefulness](#on-gratefulness)
@@ -11,9 +11,10 @@
 - [On peers](#on-peers)
 - [On teamwork](#on-teamwork)
 - [On hiring](#on-hiring)
+- [On being hired](#on-being-hired)
 - [On networking](#on-networking)
 - [On leadership](#on-leadership)
-- [On trust](#on-trust)
+- [On trust and reputation](#on-trust-and-reputation)
 - [On achievement](#on-achievement)
 - [On improvement](#on-improvement)
 - [On criticism](#on-criticism)
@@ -23,7 +24,7 @@
 - [On ending](#on-ending)
 - [On expectations](#on-expectations)
 - [On fear](#on-fear)
-- [On imperfections](#on-imperfections)
+- [On imperfections and shame](#on-imperfections-and-shame)
 - On strategy:
   - [On planning](#on-planning)
   - [On adapting](#on-adapting)
@@ -34,9 +35,9 @@
   - [On past](#on-past)
   - [On present](#on-present)
   - [On future](#on-future)
-- [On timing](#on-timing)
-- [On giving](#on-giving)
+- On timing:
 - [On confidence](#on-confidence)
+- [On imperfections](#on-imperfections)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On efficiency](#on-efficiency)
 - [On decision making](#on-decision-making)
@@ -52,9 +53,9 @@
 - [On investment](#on-investment)
 - [On wealth](#on-wealth)
 - [On control](#on-control)
-- [On jobs](#on-jobs)
 - [On success](#on-success)
-- [On imperfections](#on-imperfections)
+- [On creativity](#on-creativity)
+
 
 ###TL;DR 
 
@@ -81,12 +82,16 @@ You have to invest in yourself before you will ever see success in business. You
 ===
 ###On habits
 
-Consistency is everything. Habits allow [mastery](#on-mastery).
+Consistency is everything. Habits allow [mastery](#on-mastery-and-humbleness).
+
+> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' - Aristotle*
 
 ===
 ###On mastery and humbleness
 
-First learn the rules, then break them BUT be humble, there's always room for improvement.
+RULE: First learn the rules, then break them.
+
+CHALLENGE: be humble, there's always room for improvement.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -121,13 +126,24 @@ People want power because they want autonomy.
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
 ===
-###On mentors
+###On trust and reputation
+
+Trust is not earned, is exchanged. Disappointment destroys trust.
+
+> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
+> *'Don't hide your feelings from people who show you theirs.'
+
+===
+###On mentorship and giving
 
 Your father is your first mentor. Be a mentor yourself and share your strengths. Impact the world.
 
 > *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
 
 > *'Powerful people give freely, buying influence rather than things.'*
+
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
 
 ===
 ###On peers
@@ -137,6 +153,8 @@ Keep your friends for friendship, but work with the skilled and competent.
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
+
+> *'Nobody wants to be the best player in the band.'*
 
 ===
 ###On teamwork
@@ -164,15 +182,6 @@ Look for someone to help you.
 Leadership is based on [trust](#on-trust).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
-
-===
-###On trust
-
-Trust is not earned, is exchanged.
-
-> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
-
-disapointment destroys trust and causes a person to become less emotionally available.
 
 ===
 ###On achievement
@@ -231,7 +240,15 @@ Learn to listen.
 
 RULE: Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
 
+> *'Plan all the way to the end' -- Robert Green (29th law of power)
+
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
+
+> *'The best way to predict the future is to invent it.' -- Alan Kay*
+
+> *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
+
+> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my axe.' - Abraham Lincoln*
 
 CHALLENGE: Don't overthink.
 
@@ -265,7 +282,7 @@ RULE: Just start. You cannot afford to wait for inspiration or opportunities, yo
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
-CHALLENGE: You should always have a [plan](#on-planning).
+CHALLENGE: You should have a [plan](#on-planning).
 
 ===
 ###On momentum
@@ -282,7 +299,7 @@ CHALLENGE: You should always have a [plan](#on-planning).
 ===
 ###On fear
 
-Fear can be paralysing. Replace fear of unknown with curiosity.
+Fear can be paralyzing. Replace fear of unknown with curiosity.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
 
@@ -332,11 +349,6 @@ There are no acceptable excuses. End.
 We'll never be as young as we are today.
 
 ===
-###On giving
-
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
-
-===
 ###On confidence
 
 RULE: You are what you say you are.
@@ -356,14 +368,20 @@ RULE: You are what you say you are.
 CHALLENGE: Know the frontier between confidence and arrogance.
 
 ===
-###On imperfections
+###On imperfections and shame
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
 > *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
+> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
+
+> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+
 ===
 ###On relationships
+
+Relationships are based on [trust](#on-trust-and-reputation).
 
 > *'Forget those who forget you.'*
 
@@ -372,7 +390,9 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 ===
 ###On priorities and focus
 
-RULE: Big wins first. Then the details. Concentrate your forces (23rd law of power).
+Big wins first. Then the details.
+
+> *'Concentrate your forces' -- Robert Green (23rd law of power)
 
 > *'You can do anything, but not everything.' -- David Allen*
 
@@ -427,6 +447,8 @@ Luck / random is a pattern.
 
 > *'The eternal mystery of the world is its comprehensibility.'*
 
+> *'I am convinced that He (God) does not play dice.'*
+
 ===
 ###On bias
 
@@ -453,6 +475,8 @@ Your biggest enemy is yourself.
 Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of the process.
 
 > *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
+
+> *'Anyone who has never made a mistake has never tried anything new.'*
 
 ===
 ###On happiness
@@ -514,13 +538,15 @@ Be ambitious. Not thirsty.
 ===
 ###On stress
 
-Stress is caused by overthinking about the [past](#on-past) or [future](#on-future).
+Stress is caused by thinking about the [past](#on-past) or [future](#on-future).
 
 > *'Stress is caused by giving a fuck.'*
 
 > *'If you are depressed you are living in the past. <br>
 If you are anxious you are living in the future. <br>
 If you are at peace you are living in the present.' -- Lao Tzu*
+
+> *'I never think of the future. It comes soon enough.'*
 
 ===
 ###On money
@@ -539,6 +565,8 @@ You are going to die. Quite soon actually. Act accordingly.
 > *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
 
 ===
-###On shame
+###On creativity
 
-> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
+
+> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
