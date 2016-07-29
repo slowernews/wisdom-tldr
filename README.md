@@ -10,8 +10,7 @@
 - [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On peers](#on-peers)
 - [On teamwork](#on-teamwork)
-- [On hiring](#on-hiring)
-- [On being hired](#on-being-hired)
+- [On human resources](#on-human-resources)
 - [On networking](#on-networking)
 - [On leadership](#on-leadership)
 - [On trust and reputation](#on-trust-and-reputation)
@@ -21,7 +20,7 @@
 - [On listening](#on-listening)
 - [On starting or waiting](#on-starting-or-waiting)
 - [On momentum](#on-momentum)
-- [On ending](#on-ending)
+- [On finishing](#on-finishing)
 - [On expectations](#on-expectations)
 - [On fear](#on-fear)
 - [On imperfections and shame](#on-imperfections-and-shame)
@@ -235,7 +234,7 @@ RULE: Ignore or be flattered by criticism and envy.
 
 > *'Intelligence is the most sensitive trigger point for envy.'*
 
-> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Einstein*
+> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
 CHALLENGE: Be humble and [listen](#on-listening). Blindspots are dangerous.
 
@@ -315,7 +314,7 @@ CHALLENGE: You should have a [plan](#on-planning).
 > *'You cannot afford to go halfway.'*
 
 ===
-###On finishes
+###On finishing
 
 Finish.
 
@@ -497,7 +496,7 @@ There are no shortcuts for success.
 
 Luck / random is a pattern.
 
-> *' "Random" usually means that you haven’t looked long enough to see a pattern emerge.'*
+> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
 > *'Even a broken clock is right twice a day.'*
 
@@ -546,11 +545,11 @@ Happiness is a journey, not a destination.
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 
 ===
-###On startups
+###On starting a business
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
-> *'Without customers, you don’t have a business. You have a hobby. - Don Peppers & Martha Rogers'*
+> *'Without customers, you don’t have a business. You have a hobby.' - Don Peppers & Martha Rogers*
 
 ===
 ###On deep work
@@ -597,8 +596,6 @@ If you are anxious you are living in the future. <br>
 If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Anxiety and depression are symptoms, not diseases.'*
-
-> *'I never think of the future. It comes soon enough.'*
 
 > *'The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemies, the better you are at your job, the better...'*
 
