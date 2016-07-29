@@ -7,7 +7,7 @@
 - [On habits](#on-habits)
 - [On power](#on-power)
 - [On freedom and settling](#on-freedom-and-settling)
-- [On mentors](#on-mentors)
+- [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On peers](#on-peers)
 - [On teamwork](#on-teamwork)
 - [On hiring](#on-hiring)
@@ -138,14 +138,14 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
-> *'Don't hide your feelings from people who show you theirs.'
+> *'Don't hide your feelings from people who show you theirs.'*
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
 > *'So much depends on reputation – guard it with your life -- Robert Green (5th law of power)*
 
 ===
-###On mentorship and giving
+###On mentorship and giving back
 
 Your father is your first mentor. Be a mentor yourself and share your strengths. Impact the world.
 
@@ -179,9 +179,7 @@ Keep your friends for friendship, but work with the skilled and competent.
 ===
 ###On human resources
 
-Employees are there to make the employers' life easier.
-
-> *'Companies will hire you because you are a likable person that «gets shit done».'*
+Companies will hire you because you are a likable person that «gets shit done».
 
 > *'When applying for a job be more of a consultant than an applicant.'*
 
@@ -213,7 +211,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'A ship is safe in the harbor but that's not what ships are for.'*
 
-> *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*on fe
+> *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
 
 ===
 ###On improvement
@@ -602,7 +600,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'I never think of the future. It comes soon enough.'*
 
-> *'The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemies, the better you are at your job, the better...'
+> *'The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemies, the better you are at your job, the better...'*
 
 ===
 ###On mortality
@@ -632,7 +630,3 @@ You are going to die. Quite soon actually. Act accordingly.
 > *'The hardest skill is knowing what could be simplified, and what's good enough.'*
 
 > *'Everything should be made as simple as possible, but not simpler.'*
-
-===
-###On safety
-
