@@ -37,14 +37,12 @@
 - [On timing](#on-timing)
 - [On giving](#on-giving)
 - [On confidence](#on-confidence)
-- [On focus and priorities](#on-focus-and-priorities)
+- [On priorities and focus](#on-priorities-and-focus)
 - [On efficiency](#on-efficiency)
 - [On decision making](#on-decision-making)
 - [On influence](#on-influence)
 - [On equilibrium](#on-equilibrium)
-- [On experience and learning](#on-experience-and-learning)
 - [On negotiation](#on-negotiation)
-- [On stock market](#on-stock-market)
 - [On luck and random](#on-luck-and-random)
 - [On bias](#on-bias)
 - [On enemies](#on-enemies)
@@ -154,6 +152,13 @@ Keep your friends for friendship, but work with the skilled and competent.
 Look for someone to help you.
 
 ===
+###On being hired
+
+> *'The interesting jobs are the ones that you make up.' -- Chris Young*
+
+> *'Avoid the trap of following one set career path.'*
+
+===
 ###On leadership
 
 Leadership is based on [trust](#on-trust).
@@ -172,7 +177,7 @@ disapointment destroys trust and causes a person to become less emotionally avai
 ===
 ###On achievement
 
-Confort is the enemy of achievement. You need to break rules to achieve anything great.
+Confort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
@@ -180,11 +185,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'There is pleasure in the pathless woods.' -- Lord Byron*
 
-> *'To create anything spectacular you have to break rules & breaking rules frightens people.'*
-
 > *'A ship is safe in the harbour but that's not what ships are for.'*
-
-> *'Make the mind tougher by exposing it to adversity.'*
 
 > *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
 
@@ -196,11 +197,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 ===
 ###On criticism and envy
 
-[Listen](#on-listening) (beware of blindspots) BUT ignore or be flattered by criticism and envy.
-
-> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
-
-> *'If too many users are wrong, it's probably your fault.'*
+RULE: Ignore or be flattered by criticism and envy.
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -211,6 +208,12 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 > *'Intelligence is the most sensitive trigger point for envy.'*
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Einstein*
+
+CHALLENGE: Be humble and [listen](#on-listening). Blindspots are dangerous.
+
+> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
+
+> *'If too many users are wrong, it's probably your fault.'*
 
 ===
 ###On listening
@@ -228,9 +231,9 @@ Learn to listen.
 
 RULE: Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
 
-CHALLENGE: Don't overthink.
-
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
+
+CHALLENGE: Don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -252,8 +255,6 @@ RULE: Plans are not static. Adapt or die.
 
 RULE: Just start. You cannot afford to wait for inspiration or opportunities, your time is the most precious thing you own.
 
-CHALLENGE: You should always have a [plan](#on-planning).
-
 > *'Stop making resolutions and start making something.'*
 
 > *'The inspiration you are waiting for, in order to start, is on the other side of starting.'*
@@ -263,6 +264,8 @@ CHALLENGE: You should always have a [plan](#on-planning).
 > *'A year from now, you will wish you had started today.' -- Karen Lamb*
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
+
+CHALLENGE: You should always have a [plan](#on-planning).
 
 ===
 ###On momentum
@@ -279,22 +282,13 @@ CHALLENGE: You should always have a [plan](#on-planning).
 ===
 ###On fear
 
-Fear can be paralysing.
-
-> *'Replace fear of unknown with curiosity.'*
-
-> *'Our fearlessness shall be our secret weapon.' -- John Green*
+Fear can be paralysing. Replace fear of unknown with curiosity.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
 
 > *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
 
-===
-###On time
-
-> *'If you are depressed you are living in the past. <br>
-If you are anxious you are living in the future. <br>
-If you are at peace you are living in the present.' -- Lao Tzu*
+> *'Our fearlessness shall be our secret weapon.' -- John Green*
 
 ===
 ###On past
@@ -328,9 +322,6 @@ Dream big.
 > *'Anomalies often represent the future, but to our eyes they seem strange.'*
 
 ===
-###On timing
-
-===
 ###On excuses
 
 There are no acceptable excuses. End.
@@ -350,8 +341,6 @@ We'll never be as young as we are today.
 
 RULE: You are what you say you are.
 
-CHALLENGE: Know the frontier between confidence and arrogance.
-
 > *'You're only as good as your next speech.'*
 
 > *'Fake it till you make it.'*
@@ -364,6 +353,15 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
+CHALLENGE: Know the frontier between confidence and arrogance.
+
+===
+###On imperfections
+
+> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
+
 ===
 ###On relationships
 
@@ -372,9 +370,9 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 > *'The people that want to stay in your life, will always find a way.'*
 
 ===
-###On focus and priorities
+###On priorities and focus
 
-Big wins first. Then the details. Concentrate your forces (23rd law of power).
+RULE: Big wins first. Then the details. Concentrate your forces (23rd law of power).
 
 > *'You can do anything, but not everything.' -- David Allen*
 
@@ -403,9 +401,6 @@ Big wins first. Then the details. Concentrate your forces (23rd law of power).
 ###On equilibrium
 
 ===
-###On experience and learning
-
-===
 ###On negotiation
 
 To negotiate is to have options.
@@ -417,10 +412,7 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
-===
-###On stock market
-
-Wherever oil goes, the stock market goes.
+> *'Wherever oil goes, the stock market goes.'*
 
 ===
 ###On luck and random
@@ -482,25 +474,11 @@ Being rich is not counting your money all day but being free.
 > *'Some people are so poor, all they have is money.'*
 
 ===
-###On jobs
-
-> *'The interesting jobs are the ones that you make up.' -- Chris Young*
-
-> *'Avoid the trap of following one set career path.'*
-
-===
 ###On success
 
 There are no shortcuts for success.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
-
-===
-###On imperfections
-
-> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
-
-> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
 ===
 ###On deep work
@@ -536,19 +514,25 @@ Be ambitious. Not thirsty.
 ===
 ###On stress
 
-Stress is caused by thinking about the [past](#on-past) or about the [future](#on-future).
+Stress is caused by overthinking about the [past](#on-past) or [future](#on-future).
 
 > *'Stress is caused by giving a fuck.'*
+
+> *'If you are depressed you are living in the past. <br>
+If you are anxious you are living in the future. <br>
+If you are at peace you are living in the present.' -- Lao Tzu*
 
 ===
 ###On money
 
-Making money is adding value. iF you did a good negotiation.
+RULE: Making money is adding value.
+
+CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
 
 ===
 ###On mortality
 
-You are going to die. Quite soon.
+You are going to die. Quite soon actually. Act accordingly.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
