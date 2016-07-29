@@ -42,7 +42,6 @@
 - [On efficiency](#on-efficiency)
 - [On decision making](#on-decision-making)
 - [On influence](#on-influence)
-- [On equilibrium](#on-equilibrium)
 - [On negotiation](#on-negotiation)
 - [On luck and random](#on-luck-and-random)
 - [On bias](#on-bias)
@@ -55,7 +54,8 @@
 - [On control](#on-control)
 - [On success](#on-success)
 - [On creativity](#on-creativity)
-
+- [On balance](#on-balance)
+- [On perfectionism](#on-perfectionism)
 
 ###TL;DR 
 
@@ -79,6 +79,8 @@ You have to invest in yourself before you will ever see success in business. You
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
+> *'If you concentrate on what you don’t have, you will never, ever have enough. -- Oprah Winfrey*
+
 ===
 ###On habits
 
@@ -100,7 +102,7 @@ CHALLENGE: be humble, there's always room for improvement.
 ===
 ###On attachment and settling
 
-Do not trully commit to anything but yourself.
+Do not truly commit to anything but yourself.
 
 > *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
 
@@ -176,6 +178,8 @@ Look for someone to help you.
 
 > *'Avoid the trap of following one set career path.'*
 
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+
 ===
 ###On leadership
 
@@ -194,14 +198,18 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'There is pleasure in the pathless woods.' -- Lord Byron*
 
-> *'A ship is safe in the harbour but that's not what ships are for.'*
+> *'A ship is safe in the harbor but that's not what ships are for.'*
 
 > *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
 
 ===
 ###On improvement
 
+You improve by learning. You learn by getting out of confort zone and/or deep analysis.
+
 > *'Make the mind tougher by exposing it to adversity.'*
+
+> *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
 ===
 ###On criticism and envy
@@ -411,14 +419,13 @@ Big wins first. Then the details.
 
 > *'Lazy is what the jealous call efficiency.'*
 
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
 ===
 ###On decision making
 
 ===
 ###On influence
-
-===
-###On equilibrium
 
 ===
 ###On negotiation
@@ -478,6 +485,8 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 
 > *'Anyone who has never made a mistake has never tried anything new.'*
 
+> *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
+
 ===
 ###On happiness
 
@@ -496,6 +505,8 @@ Happiness is a journey, not a destination.
 Being rich is not counting your money all day but being free.
 
 > *'Some people are so poor, all they have is money.'*
+
+> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
 ===
 ###On success
@@ -546,6 +557,8 @@ Stress is caused by thinking about the [past](#on-past) or [future](#on-future).
 If you are anxious you are living in the future. <br>
 If you are at peace you are living in the present.' -- Lao Tzu*
 
+> *'Anxiety and depression are symptoms, not diseases.'*
+
 > *'I never think of the future. It comes soon enough.'*
 
 ===
@@ -570,3 +583,11 @@ You are going to die. Quite soon actually. Act accordingly.
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
+
+===
+###On balance
+
+> *'Overcompensate to make it balanced.' -- Derek Sivers*
+
+===
+###On perfectionism
