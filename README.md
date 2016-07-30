@@ -3,56 +3,57 @@
 
 - [On identity](#on-identity)
 - [On gratefulness](#on-gratefulness)
-- [On mastery and humbleness](#on-mastery-and-humbleness)
 - [On habits](#on-habits)
-- [On power](#on-power)
+- [On honesty](#on-honesty)
+- [On mastery and humbleness](#on-mastery-and-humbleness)
 - [On freedom and settling](#on-freedom-and-settling)
 - [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On peers](#on-peers)
 - [On teamwork](#on-teamwork)
 - [On human resources](#on-human-resources)
 - [On networking](#on-networking)
-- [On leadership](#on-leadership)
+- [On leadership and influence](#on-leadership-and-influence)
+- [On power](#on-power)
 - [On trust and reputation](#on-trust-and-reputation)
 - [On achievement](#on-achievement)
 - [On improvement](#on-improvement)
-- [On criticism](#on-criticism)
-- [On listening](#on-listening)
-- [On starting or waiting](#on-starting-or-waiting)
-- [On momentum](#on-momentum)
-- [On finishing](#on-finishing)
 - [On expectations](#on-expectations)
 - [On fear](#on-fear)
-- [On imperfections and shame](#on-imperfections-and-shame)
-- On strategy:
-  - [On planning](#on-planning)
-  - [On adapting](#on-adapting)
-- On tactics:
-- [On age](#on-age)
-- On time:
-  - [On past](#on-past)
-  - [On present](#on-present)
-  - [On future](#on-future)
-- On timing:
 - [On confidence](#on-confidence)
-- [On imperfections](#on-imperfections)
-- [On priorities and focus](#on-priorities-and-focus)
-- [On efficiency](#on-efficiency)
-- [On decision making](#on-decision-making)
-- [On influence](#on-influence)
-- [On negotiation](#on-negotiation)
-- [On luck and random](#on-luck-and-random)
-- [On bias](#on-bias)
+- [On imperfections and shame](#on-imperfections-and-shame)
 - [On enemies](#on-enemies)
-- [On failure](#on-failure)
-- [On happiness](#on-happiness)
-- [On honesty](#on-honesty)
-- [On investment](#on-investment)
 - [On wealth](#on-wealth)
-- [On control](#on-control)
+- [On happiness](#on-happiness)
 - [On success](#on-success)
+- [On failure](#on-failure)
+
+On strategy:
+- [On planning](#on-planning)
+- [On decision making](#on-decision-making)
 - [On creativity](#on-creativity)
+- [On priorities and focus](#on-priorities-and-focus)
+- [On starting vs waiting](#on-starting-vs-waiting)
+- [On listening](#on-listening)
+- [On bias](#on-bias)
+- [On adapting](#on-adapting)
+- [On pace](#on-pace)
+- [On control](#on-control)
+- [On efficiency](#on-efficiency)
 - [On balance and perfectionism](#on-balance-and-perfectionism)
+- [On finishing](#on-finishing)
+- [On negotiation](#on-negotiation)
+- [On luck](#on-luck)
+
+On time:
+- [On past](#on-past)
+- [On present](#on-present)
+- [On future](#on-future)
+
+Others:
+- [On investment](#on-investment)
+- [On deep work](#on-deep-work)
+- [On starting a business](#on-starting-a-business)
+- [On science and religion](#on-science-and-religion)
 
 ###TL;DR 
 
@@ -189,7 +190,7 @@ Companies will hire you because you are a likable person that «gets shit done»
 > *'Avoid the trap of following one set career path.'*
 
 ===
-###On leadership
+###On leadership and influence
 
 Leadership is based on [trust](#on-trust).
 
@@ -222,9 +223,21 @@ You improve by learning. You learn by getting out of confort zone and/or deep an
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
 ===
-###On criticism and envy
+###On listening
 
-RULE: Ignore or be flattered by criticism and envy.
+RULE: Be humble and learn to listen carefully. Blindspots are dangerous.
+
+> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
+
+> *'If too many users are wrong, it's probably your fault.'*
+
+> *'Listen to many, speak to a few.' -- William Shakespeare*
+
+> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
+
+> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+
+CHALLENGE: Ignore or be flattered by criticism and envy.
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -235,23 +248,6 @@ RULE: Ignore or be flattered by criticism and envy.
 > *'Intelligence is the most sensitive trigger point for envy.'*
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
-
-CHALLENGE: Be humble and [listen](#on-listening). Blindspots are dangerous.
-
-> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
-
-> *'If too many users are wrong, it's probably your fault.'*
-
-===
-###On listening
-
-Learn to listen.
-
-> *'Listen to many, speak to a few.' -- William Shakespeare*
-
-> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
-
-> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
 ===
 ###On planning
@@ -277,7 +273,7 @@ CHALLENGE: Don't overthink.
 ===
 ###On adapting
 
-RULE: Plans are not static. Adapt or die.
+Plans are not static. Adapt or die.
 
 > *'The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
@@ -303,7 +299,7 @@ RULE: Just start. You cannot afford to wait for inspiration or opportunities, yo
 CHALLENGE: You should have a [plan](#on-planning).
 
 ===
-###On movement
+###On pace
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
@@ -446,9 +442,6 @@ Big wins first. Then the details.
 ###On decision making
 
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
-
-===
-###On influence
 
 ===
 ###On negotiation
