@@ -21,6 +21,7 @@
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On stress](#on-stress)
 - [On relationships](#on-relationships)
+- [On criticism and envy](#on-criticism-and-envy
 
 On time:
 - [On past](#on-past)
@@ -104,6 +105,8 @@ RULE: First learn the rules, then break them.
 
 > *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
 
+> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
+
 CHALLENGE: There's always room for improvement: be humble.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
@@ -121,7 +124,7 @@ Do not truly commit to anything but *yourself*.
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
-> *'Do not commit to anyone' -- Robert Green (20th law of power)*
+> *'Do not commit to anyone' -- Robert Greene (20th law of power)*
 
 > *'That’s the problem with putting others first; you’ve taught them you come second.'*
 
@@ -166,7 +169,7 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
-> *'So much depends on reputation – guard it with your life -- Robert Green (5th law of power)*
+> *'So much depends on reputation – guard it with your life -- Robert Greene (5th law of power)*
 
 ===
 ###On leadership and influence
@@ -174,6 +177,8 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 Leadership is based on [trust](#on-trust). People want power because they want autonomy.
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+
+> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
@@ -193,11 +198,15 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 ===
 ###On networking
 
-Be social.
+Be social. Don't make [excuses](#on-fear-and-excuses).
+
+> *'Do not build fortresses to protect yourself: isolation is dangerous' -- Robert Greene (4th law of power)*
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
+
+> *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
 
 ===
 ###On collaborators
@@ -263,11 +272,13 @@ You improve by learning by a mix of practice and theory.
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever. -- Gandhi*
 
+> *'Lessons not learned in blood are soon forgotten.'*
+
 You learn by getting out of confort zone:
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
-and/or deep analysis:
+And/or deep analysis:
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -369,7 +380,7 @@ Relationships are based on [trust](#on-trust-and-reputation).
 
 Big wins first. Then the details.
 
-> *'Concentrate your forces' -- Robert Green (23rd law of power)*
+> *'Concentrate your forces' -- Robert Greene (23rd law of power)*
 
 > *'In a divided world, power will come from keeping your own group united and cohesive.'*
 
@@ -387,7 +398,7 @@ Big wins first. Then the details.
 
 > *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
 
-> *'Strike the shepherd and the sheep will scatter.' -- Robert Green (42nd law of power)*
+> *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
 
 ===
 ###On efficiency and productivity
@@ -499,11 +510,14 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemies, the better you are at your job, the better...'*
 
+===
+###On perfectionism
 
+> *'Never appear too perfect' -- Robert Greene (46th law of power)*
 
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
-
-
+> *'Play the average but don’t forget about the outliers. Taking a chance on something unique might be the most rewarding thing you ever do.'*
 
 
 
@@ -534,7 +548,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 RULE: Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
 
-> *'Plan all the way to the end' -- Robert Green (29th law of power)*
+> *'Plan all the way to the end' -- Robert Greene (29th law of power)*
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
@@ -618,7 +632,10 @@ CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice. It’s dream time.' -- Louis Céline*
 
-CHALLENGE: Ignore or be flattered by criticism and envy. 
+===
+###On criticism and envy
+
+RULE: Ignore and be flattered by envy. Reduce envy by not appear too [perfect](#on-perfectionism).
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -663,7 +680,7 @@ Plans are not static. Adapt or die.
 
 Finish. You cannot afford to go halfway.
 
-> *'Crush your enemy totally.' -- Robert Green (15th law of power)*
+> *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
@@ -778,7 +795,7 @@ CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between 
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
-> *'Without customers, you don’t have a business. You have a hobby.' - Don Peppers & Martha Rogers*
+> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
 ===
 ###On deep work
