@@ -21,7 +21,7 @@
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On stress](#on-stress)
 - [On relationships](#on-relationships)
-- [On criticism and envy](#on-criticism-and-envy
+- [On criticism and envy](#on-criticism-and-envy)
 
 On time:
 - [On past](#on-past)
@@ -46,7 +46,7 @@ On strategy:
 - [On listening](#on-listening)
 - [On adapting](#on-adapting)
 - [On control](#on-control)
-- [On On efficiency and productivity](#on-efficiency-and-productivity)
+- [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On balance and perfectionism](#on-balance-and-perfectionism)
 - [On finishing](#on-finishing)
 - [On negotiation](#on-negotiation)
@@ -743,7 +743,7 @@ Dream big.
 ===
 ###On mortality
 
-You will die soon. Act accordingly.
+You will die soon. Act accordingly. You'll never be as young as you are today.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
@@ -751,10 +751,8 @@ You will die soon. Act accordingly.
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever. -- Mahatma Gandhi*
 
-===
-###On age
 
-We'll never be as young as we are today.
+
 
 
 
