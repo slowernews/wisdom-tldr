@@ -57,7 +57,7 @@ Others:
 - [On investment](#on-investment)
 - [On deep work](#on-deep-work)
 - [On starting a business](#on-starting-a-business)
-- [On science and religion](#on-science-and-religion)
+- [On science, art and religion](#on-science-art-and-religion)
 
 ###TL;DR 
 
@@ -88,6 +88,10 @@ You have to invest in yourself before you will ever see success in business. You
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough. -- Oprah Winfrey*
+
+> *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
+
+> *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
 
 ===
 ###On habits
@@ -245,9 +249,9 @@ Keep your friends for friendship, but work with the skilled and competent.
 ===
 ###On achievement 
 
-<!--- confort and risk) -->
+<!--- comfort and risk) -->
 
-Confort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
+Comfort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
 
 > *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.
 
@@ -261,7 +265,7 @@ Confort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
 
-> *'You can choose courage or you can choose confort, but you can't choose both.'*
+> *'You can choose courage or you can choose comfort, but you can't choose both.'*
 
 ===
 ###On learning and improvement
@@ -272,11 +276,13 @@ You improve by learning by a mix of practice and theory.
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever. -- Gandhi*
 
-> *'Lessons not learned in blood are soon forgotten.'*
+> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-You learn by getting out of confort zone:
+You learn by getting out of comfort zone:
 
 > *'Make the mind tougher by exposing it to adversity.'*
+
+> *'Lessons not learned in blood are soon forgotten.'*
 
 And/or deep analysis:
 
@@ -410,6 +416,8 @@ Big wins first. Then the details.
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
 > *'Productivity is different from workflow engineering.'*
+
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
 ===
 ###On decision making
@@ -565,7 +573,7 @@ CHALLENGE: Don't overthink.
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 ===
-###On creativity
+###On creativity and tricks
 
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
@@ -576,6 +584,10 @@ CHALLENGE: Don't overthink.
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
 > *'Always be doing something creative. Your soul won’t survive without it.'*
+
+> *'Teach no one your tricks or they will be used against you.'*
+
+> *'Good artists copy; great artists steal.' -- Steve Jobs and others*
 
 ===
 ###On starting vs waiting
@@ -631,6 +643,8 @@ CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice. It’s dream time.' -- Louis Céline*
+
+> *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 
 ===
 ###On criticism and envy
@@ -803,7 +817,7 @@ CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between 
 > *'Too busy pretending I'm occupied.'*
 
 ===
-###On science and religion
+###On science, art and religion
 
 > *'Science without religion is lame. Religion without science is blind.'*
 
@@ -814,3 +828,14 @@ CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between 
 > *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
 
 > *'And on the first day, men created god.'*
+
+> *'Art is just another form of screaming.'*
+
+===
+###On herd mentality
+
+Most people are other people. Their thoughts are someone else opinions.
+
+> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
+
+> *'Common sense is the collection of prejudices acquired by age eighteen.'*
