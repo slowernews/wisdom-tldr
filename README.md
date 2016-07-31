@@ -1,5 +1,5 @@
 # self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience. (work in progress)
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience. Exceptions to most rules also.. (work in progress)
 
 - [On identity](#on-identity)
 - [On gratefulness](#on-gratefulness)
@@ -68,8 +68,6 @@ Others:
 
 You are your deeds. Have personal accountability. Know yourself. Invest in yourself.
 
-You have to invest in yourself before you will ever see success in business. You have to master skill sets, understand your personality and constantly educate yourself if you ever wish to be successful.
-
 > *'If you try to be something you're not, you end up being nothing.'*
 
 > *'Weakness of attitude becomes weakness of character.'*
@@ -80,6 +78,10 @@ You have to invest in yourself before you will ever see success in business. You
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
+
 ===
 ###On gratefulness
 
@@ -89,9 +91,18 @@ You have to invest in yourself before you will ever see success in business. You
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough. -- Oprah Winfrey*
 
+> *'Birthdays, Anniversaries, New Years are all special. Always leave a year better than you started it.'*
+
+===
+###On optimism vs pessimism
+
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+> *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
+
+> *'Unless you’re winning, most of life will seem hideously unfair to you.'*
 
 ===
 ###On habits
@@ -212,6 +223,37 @@ Be social. Don't make [excuses](#on-fear-and-excuses).
 
 > *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
 
+> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
+
+> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
+
+> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
+
+===
+###On relationships
+
+Relationships are based on [trust](#on-trust-and-reputation).
+
+> *'Forget those who forget you.'*
+
+> *'The people that want to stay in your life, will always find a way.'*
+
+> *'If you are lonely when you are not alone, you are in bad company.'*
+
+> *'A great relationship is about finding the similarities and respect the differences.'*
+
+> *'Never love anyone that treats you like you're ordinary.'*
+
+> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
+
+> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+
+> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+
+networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
+
 ===
 ###On collaborators
 
@@ -229,6 +271,13 @@ Companies will hire you because you are a likable person that «gets shit done»
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
+> *' He who works with his hands is a laborer.<br>
+He who works with his hands and his head is a craftsman.<br>
+He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
+
+> *'Hire anybody but only retain the best.'*
+
+
 CHALLENGE:
 
 > *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
@@ -245,6 +294,17 @@ Keep your friends for friendship, but work with the skilled and competent.
 > *'Nobody wants to be the best player in the band.'*
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+===
+###On herd mentality
+
+Most people are other people. Their thoughts are someone else opinions.
+
+> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
+
+> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+
+
 
 ===
 ###On achievement 
@@ -282,15 +342,25 @@ You learn by getting out of comfort zone:
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
+> *'What gives value to travel is fear.' -- Albert Camus*
+
 > *'Lessons not learned in blood are soon forgotten.'*
+
+> *'Tell me and I’ll forget; Show me and I may remember; Involve me and I’ll understand.' -- Chinese proverb*
 
 And/or deep analysis:
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
+> *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
+
 > *'Most facts are a «tell». Some are just random.'*
 
-> *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
+> *'What Susie says of Sally says mores about Susie than of Sally.'*
+
+> *'Take more moments to be reflective. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
+
+> *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
 
 ===
 ###On fear and excuses
@@ -367,24 +437,9 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
 ===
-###On relationships
-
-Relationships are based on [trust](#on-trust-and-reputation).
-
-> *'Forget those who forget you.'*
-
-> *'The people that want to stay in your life, will always find a way.'*
-
-> *'If you are lonely when you are not alone, you are in bad company.'*
-
-> *'A great relationship is about finding the similarities and respect the differences.'*
-
-> *'Never love anyone that treats you like you're ordinary.'*
-
-===
 ###On priorities and focus
 
-Big wins first. Then the details.
+RULE: Big wins first. Then the details.
 
 > *'Concentrate your forces' -- Robert Greene (23rd law of power)*
 
@@ -405,6 +460,10 @@ Big wins first. Then the details.
 > *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
 
 > *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
+
+CHALLENGE:
+
+> *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 ===
 ###On efficiency and productivity
@@ -447,6 +506,8 @@ There are no shortcuts for success.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
+> *'Success doesn’t come to you. You go to it.' -- Marva Collins
+
 ===
 ###On managing luck
 
@@ -461,6 +522,8 @@ Luck / random is a pattern. The pendulum will swing back your way eventually.
 > *'The eternal mystery of the world is its comprehensibility.'*
 
 > *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
+
+> *'God is subtle but he is not malicious.'*
 
 ===
 ###On enemies
@@ -519,11 +582,20 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemies, the better you are at your job, the better...'*
 
 ===
+###On health
+
+> *'Take care of your body. It’s the most important thing you’ll get for free.'*
+
+> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
+
+===
 ###On perfectionism
 
 > *'Never appear too perfect' -- Robert Greene (46th law of power)*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
 > *'Play the average but don’t forget about the outliers. Taking a chance on something unique might be the most rewarding thing you ever do.'*
 
@@ -536,22 +608,62 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 
 
+---
+###On past
 
+Let go.
 
+> *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
+> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
 
+> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
-
-
-
-
-
-
-
-
-
+> *'Never regret something that once made you smile.'*
 
 ===
+###On present
+
+Live in the present. Don't postpone joy.
+
+> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
+
+> *'Never get so busy making a living that you forget to make a life.'*
+
+> *'Now will not be with us forever.'*
+
+===
+###On future
+
+Dream big.
+
+> *'If your dreams don't scare you, they are not big enough.'*
+
+> *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
+
+> *'Anomalies often represent the future, but to our eyes they seem strange.'*
+
+===
+###On mortality
+
+You will die soon. Act accordingly. You'll never be as young as you are today.
+
+> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
+
+> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
+
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever. -- Mahatma Gandhi*
+
+
+
+
+
+
+
+
+
+
+---
 ###On planning
 
 RULE: Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
@@ -566,6 +678,8 @@ RULE: Plan ahead, make the decisions right now. When in the moment of making the
 
 > *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my axe.' - Abraham Lincoln*
 
+> *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
+
 CHALLENGE: Don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
@@ -573,7 +687,7 @@ CHALLENGE: Don't overthink.
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 ===
-###On creativity and tricks
+###On creativity
 
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
@@ -588,6 +702,8 @@ CHALLENGE: Don't overthink.
 > *'Teach no one your tricks or they will be used against you.'*
 
 > *'Good artists copy; great artists steal.' -- Steve Jobs and others*
+
+> *'We can't solve problems by using the same kind of thinking we used when we created them.'*
 
 ===
 ###On starting vs waiting
@@ -621,16 +737,20 @@ CHALLENGE: You should have a [plan](#on-planning).
 
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
+> *'You finished ahead of time, that means you forgot something.'*
+
 ===
 ###On listening
 
-RULE: Be humble and learn to listen carefully. 
+RULE: Be humble and learn to listen carefully.
 
 > *'Listen to many, speak to a few.' -- William Shakespeare*
 
 > *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
 
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
+
+> *'Judge a man by his questions, not by his answers.'*
 
 CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 
@@ -645,6 +765,8 @@ CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice. It’s dream time.' -- Louis Céline*
 
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
+
+> *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
 
 ===
 ###On criticism and envy
@@ -667,6 +789,8 @@ CHALLENGE: Most criticism is envy but beware of blindspots.
 
 > *'If too many users are wrong, it's probably your fault.'*
 
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
+
 ===
 ###On adapting
 
@@ -681,7 +805,7 @@ Plans are not static. Adapt or die.
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
 ===
-###On balance and perfectionism
+###On balance: perfectionism and good enough
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
@@ -689,10 +813,12 @@ Plans are not static. Adapt or die.
 
 > *'Everything should be made as simple as possible, but not simpler.'*
 
+> *'Don't take a half step where a full step is required.'*
+
 ===
 ###On finishing
 
-Finish. You cannot afford to go halfway.
+Finish it. You cannot afford to go halfway.
 
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
@@ -713,81 +839,13 @@ Finish. You cannot afford to go halfway.
 
 
 
-
-
-
-
-
-
-
-
-===
-###On past
-
-Let go.
-
-> *'He'd wasted most of his life thinking he'd wasted most of his life'*
-
-> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
-
-> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
-
-> *'Never regret something that once made you smile.'*
-
-===
-###On present
-
-Live in the present. Don't postpone joy.
-
-> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
-
-> *'Never get so busy making a living that you forget to make a life.'*
-
-> *'Now will not be with us forever.'*
-
-===
-###On future
-
-Dream big.
-
-> *'If your dreams don't scare you, they are not big enough.'*
-
-> *'Anomalies often represent the future, but to our eyes they seem strange.'*
-
-===
-###On mortality
-
-You will die soon. Act accordingly. You'll never be as young as you are today.
-
-> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
-
-> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
-
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever. -- Mahatma Gandhi*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-===
+---
 ###On money
 
 RULE: Making money is adding value.
 
 CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
+That said, a bad/good negotiation might mean that you are adding more/less value to the world than receiving money for it.
 
 ===
 ###On investment
@@ -832,10 +890,46 @@ CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between 
 > *'Art is just another form of screaming.'*
 
 ===
-###On herd mentality
+###On choice
 
-Most people are other people. Their thoughts are someone else opinions.
+> *'You have choices. Choices are experiments.'*
 
-> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
+===
+###On being stubborn
 
-> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+> *'You don't always have to get the last word. Make your point and leave it that way.'*
+
+===
+###On judging
+
+[Bias](#)
+
+> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
+
+===
+###On economics
+
+> *'The hardest thing in the world to understand is the income tax.'*
+
+> *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
+
+===
+###On aesthetics
+
+> *'Sharpness is a bourgeois concept.'*
+
+> *'Beauty is not a gift, it is a burden.'*
+
+> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
+
+===
+###On speaking
+
+Speak less, [listen](#) more.
+
+> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+
+> *'Say less than necessary.' -- Robert Greene (4th law of power)*
+
+> *'Conceal your Intention' -- Robert Greene (3rd law of power)*
+
