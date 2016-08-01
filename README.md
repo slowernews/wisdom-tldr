@@ -211,9 +211,15 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 > *'«Because» is a great motivator.'*
 
 ===
-###On absence
+###On attracting
+
+Use absence.
 
 > *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+
+> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
+
+> *'We attract more flies with honey than vinegar.'*
 
 ===
 ###On validation
@@ -221,7 +227,7 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 > *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
 ===
-###On dealing with higher ranks
+###On higher ranks
 
 > *'Never outshine the master.' -- Robert Greene (1st law of power)*
 
@@ -230,7 +236,7 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 > *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41th law of power)*
 
 ===
-###On dealing with peers
+###On peers
 
 > *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
 
@@ -247,10 +253,16 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
 
-===
-###On networking
+CHALLENGE:
 
-Be social. Don't make [hide](#on-hiding).
+Beware to whom are you a mentor.
+
+> *'Do not teach a starving man to fish.'*
+
+===
+###On networking and socializing
+
+Be social. Don't [hide](#on-hiding) yourself.
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
@@ -263,6 +275,8 @@ Be social. Don't make [hide](#on-hiding).
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
 > *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
+
+> *'A person starts to live when he can live outside himself.'*
 
 ===
 ###On relationships
@@ -292,7 +306,7 @@ Relationships are based on [trust](#on-trust-and-reputation).
 networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
 
 ===
-###On collaborators
+###On collaborating
 
 Companies will hire you because you are a likable person that «gets shit done».
 
@@ -308,6 +322,8 @@ Companies will hire you because you are a likable person that «gets shit done»
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
+> *'Companies don't care about you.'*
+
 > *'He who works with his hands is a laborer.<br>
 He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
@@ -319,6 +335,8 @@ CHALLENGE:
 > *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+> *'It is difficult to get a man to understand something, when his salary depends on his not understanding it.' -- Upton Sinclair*
 
 ===
 ###On teamwork
@@ -339,6 +357,13 @@ Most people are other people. Their thoughts are someone else opinions.
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
 > *'Common sense is the collection of prejudices acquired by age eighteen.'*
+
+
+
+
+
+
+
 
 
 
@@ -421,19 +446,6 @@ Fear can be paralyzing. Replace fear of unknown with curiosity.
 
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ===
 ###On confidence and believing
 
@@ -458,7 +470,7 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 > *'Confidence is not walking into a room thinking you are better than everyone, its walking in not having to compare yourself with anyone at all.'*
 
 ===
-###On insecuritiesa nd imperfections
+###On insecurities and imperfections
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
@@ -481,6 +493,10 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 > *'Well-kept gardens die by pacifism.'*
 
 > *'A man is not what he think he is, he is what he hides.'*
+
+===
+###On losing a battle
+
 
 ===
 ###On priorities and focus
@@ -508,6 +524,10 @@ RULE: Big wins first. Then the details.
 > *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
 
 > *'Remember: You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+
+> *'The ability to ignore immediate dangers and pleasures translates into power.'*
+
+> *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
 
 CHALLENGE:
 
@@ -546,7 +566,7 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'Best way to say no: How am I supposed to do that?.'*
 
-CHALLENGE: The deal will fall if both sides don't take what they need from a deal. 
+CHALLENGE: The deal will fall if both sides don't take what they need from it. 
 
 ===
 ###On lying and deception
@@ -588,7 +608,7 @@ There are no shortcuts for success.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
-> *'Success doesn’t come to you. You go to it.' -- Marva Collins
+> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
 ===
 ###On managing luck
@@ -611,8 +631,6 @@ Luck / random is a pattern. The pendulum will swing back your way eventually.
 ###On enemies
 
 Your biggest enemy is yourself.
-
-
 
 ===
 ###On mistakes and failure
@@ -649,7 +667,11 @@ Be ambitious. Not thirsty.
 ===
 ###On stress
 
-Stress is caused by thinking about the [past](#on-past) or [future](#on-future).
+Stress is caused by thinking about the [past](#on-past) or [future](#on-future), by under-stimulation or over-stimulation.
+
+> *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+
+> *'Under-stimulation (boredom = anxiety) | Right amount of stress is where we should be (hustling = stretching our confort zone) | Over-stimulation (anxiety)
 
 > *'Stress is caused by giving a fuck.'*
 
@@ -661,7 +683,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Worry is a misuse of the imagination.'*
 
-> *'The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemies, the better you are at your job, the better...'*
+> *'The more relaxed you are, the better you are at everything'*
 
 ===
 ###On health
@@ -706,6 +728,8 @@ Let go.
 > *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
 > *'Never regret something that once made you smile.'*
+
+> *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
 
 ===
 ###On present
@@ -790,6 +814,8 @@ CHALLENGE: Don't overthink.
 > *'Good artists copy; great artists steal.' -- Steve Jobs and others*
 
 > *'We can't solve problems by using the same kind of thinking we used when we created them.'*
+
+> *'Teach no one your tricks or they will be used against you.'*
 
 ===
 ###On starting vs waiting
@@ -1031,6 +1057,8 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
 > *'Scratch your own itch.'*
 
