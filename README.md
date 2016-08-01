@@ -127,7 +127,7 @@ RULE: First learn the rules, then break them.
 
 > *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
 
-WARNING: There's always room for improvement: be humble.
+CHALLENGE: There's always room for improvement: be humble.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -213,7 +213,7 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 ===
 ###On absence
 
-> *'Stay aloof and people will come to you. It will become a WARNING for them to win your affections.'*
+> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
 
 ===
 ###On validation
@@ -314,7 +314,7 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 
 > *'Hire anybody but only retain the best.'*
 
-WARNING:
+CHALLENGE:
 
 > *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
 
@@ -453,7 +453,7 @@ RULE: If you say it with confidence, yYou are what you say you are.
 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
-WARNING: Know the frontier between confidence and arrogance.
+CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, its walking in not having to compare yourself with anyone at all.'*
 
@@ -509,7 +509,7 @@ RULE: Big wins first. Then the details.
 
 > *'Remember: You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
-WARNING:
+CHALLENGE:
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
@@ -546,7 +546,7 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'Best way to say no: How am I supposed to do that?.'*
 
-WARNING: The deal will fall if both sides don't take what they need from a deal. 
+CHALLENGE: The deal will fall if both sides don't take what they need from a deal. 
 
 ===
 ###On lying and deception
@@ -564,7 +564,7 @@ Everything is a trade-off.
 
 > *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
 
-WARNING: There are same fools though. Easy wins if you can identify them.
+CHALLENGE: There are same fools though. Easy wins if you can identify them.
 
 > *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
 
@@ -766,7 +766,7 @@ RULE: Plan ahead, make the decisions right now. When in the moment of making the
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
-WARNING: Don't overthink.
+CHALLENGE: Don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -806,14 +806,11 @@ RULE: Just start. You cannot afford to wait for inspiration or opportunities, yo
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
-WARNING: You should have a [plan](#on-planning).
+> *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
+
+CHALLENGE: You should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
-
-===
-###On momentum
-
-> *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
 
 ===
 ###On pace
@@ -860,7 +857,7 @@ RULE: Be humble and learn to listen carefully.
 
 > *'Judge a man by his questions, not by his answers.'*
 
-WARNING: Bias is everywhere. Be specially careful when facing new ideas.
+CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
@@ -891,7 +888,7 @@ RULE: Ignore and be flattered by envy. Reduce envy by not appear too [perfect](#
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
-WARNING: Most criticism is envy but beware of blindspots.
+CHALLENGE: Most criticism is envy but beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -942,12 +939,75 @@ Finish it. You cannot afford to go halfway.
 
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
+===
+###On mirroring
+
+> *'Being pacifist in face of wolves is the source of endless tragedy.'*
+
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
+===
+###On unpredictability
+
+> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
+
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
+
+> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
+
+> *'One of the most potent weapons in the battle for information is giving out false information.'*
+
+CHALLENGE:
+
+Unpredictability can work against you sometimes, especially if you are in a subordinate position.
+
+===
+###On attacking
+
+> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
+
+> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
+
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
+
+===
+###On defending
+
+> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
+
+> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
+
+===
+###On counter-attacking
+
+> *'Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
+
+> *'Pay attention to negative cues: what should have happened but did not.'*
+
+===
+###On winning
+
+> *'It's not a question of simply winning the war but the way you win it, the way your victory sets you up for the next round.'*
+
+> *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
+
+> *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
+
+
+
+
+
+
+
+
+
+
 ---
 ###On money
 
 RULE: Making money is adding value.
 
-WARNING: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
+CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
 That said, a bad/good negotiation might mean that you are adding more/less value to the world than receiving money for it.
 
 ===
@@ -1016,53 +1076,3 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 > *'Sharpness is a bourgeois concept.'*
 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
-
-===
-###On mirroring
-
-> *'Being pacifist in face of wolves is the source of endless tragedy.'*
-
-> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
-
-===
-###On unpredictability
-
-> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
-
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
-> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
-
-> *'A warning: Unpredictability can work against you sometimes, especially if you are in a subordinate position.'*
-
-===
-###On attacking
-
-> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
-
-> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
-
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
-
-===
-###On counter-attacking
-
-> *'Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
-
-> *'Pay attention to negative cues: what should have happened but did not.'*
-
-===
-###On reacting
-
-> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
-
-> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
-
-===
-###On winning
-
-> *'It's not a question of simply winning the war but the way you win it, the way your victory sets you up for the next round.'*
-
-> *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
-
-> *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
