@@ -1,5 +1,7 @@
 # self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience. Exceptions to most rules also.. (work in progress)
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience.
+
+Exceptions to most rules also.. (work in progress)
 
 - [On identity](#on-identity)
 - [On gratefulness](#on-gratefulness)
@@ -16,7 +18,6 @@
 - [On imperfections and shame](#on-imperfections-and-shame)
 - [On enemies](#on-enemies)
 - [On wealth](#on-wealth)
-- [On happiness](#on-happiness)
 - [On success](#on-success)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On stress](#on-stress)
@@ -83,7 +84,11 @@ You are your deeds. Have personal accountability. Know yourself. Invest in yours
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 ===
-###On gratefulness
+###On happiness and gratefulness
+
+Happiness is a journey, not a destination.
+
+> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 
 > *'Love the life you have, while you create the life of your dreams.' -- Hal Elrod*
 
@@ -122,7 +127,7 @@ RULE: First learn the rules, then break them.
 
 > *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
 
-CHALLENGE: There's always room for improvement: be humble.
+WARNING: There's always room for improvement: be humble.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -139,7 +144,7 @@ Do not truly commit to anything but *yourself*.
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
-> *'Do not commit to anyone' -- Robert Greene (20th law of power)*
+> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
 > *'That’s the problem with putting others first; you’ve taught them you come second.'*
 
@@ -186,6 +191,8 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 
 > *'So much depends on reputation – guard it with your life -- Robert Greene (5th law of power)*
 
+> *'Seek respect, not attention. It lasts longer.'*
+
 ===
 ###On leadership and influence
 
@@ -197,7 +204,37 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
-> *'Seek respect, not attention. It lasts longer.'*
+> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
+
+> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
+
+> *'«Because» is a great motivator.'*
+
+===
+###On absence
+
+> *'Stay aloof and people will come to you. It will become a WARNING for them to win your affections.'*
+
+===
+###On validation
+
+> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
+
+===
+###On dealing with higher ranks
+
+> *'Never outshine the master.' -- Robert Greene (1st law of power)*
+
+> *'Know who you’re dealing with: do not offend the wrong person.' -- Robert Greene (9th law of power)*
+
+> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41th law of power)*
+
+===
+###On dealing with peers
+
+> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
+> *'Work friends are just that, work friends. Nothing more.'*
 
 ===
 ###On mentorship and giving back
@@ -213,9 +250,7 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 ===
 ###On networking
 
-Be social. Don't make [excuses](#on-fear-and-excuses).
-
-> *'Do not build fortresses to protect yourself: isolation is dangerous' -- Robert Greene (4th law of power)*
+Be social. Don't make [hide](#on-hiding).
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
@@ -223,11 +258,11 @@ Be social. Don't make [excuses](#on-fear-and-excuses).
 
 > *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
 
-> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
-
 > *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
+
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
 ===
 ###On relationships
@@ -252,6 +287,8 @@ Relationships are based on [trust](#on-trust-and-reputation).
 
 > *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
 
+> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
+
 networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
 
 ===
@@ -271,14 +308,13 @@ Companies will hire you because you are a likable person that «gets shit done»
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
-> *' He who works with his hands is a laborer.<br>
+> *'He who works with his hands is a laborer.<br>
 He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
 > *'Hire anybody but only retain the best.'*
 
-
-CHALLENGE:
+WARNING:
 
 > *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
 
@@ -385,12 +421,6 @@ Fear can be paralyzing. Replace fear of unknown with curiosity.
 
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
-===
-###On happiness
-
-Happiness is a journey, not a destination.
-
-> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 
 
 
@@ -405,9 +435,9 @@ Happiness is a journey, not a destination.
 
 
 ===
-###On confidence
+###On confidence and believing
 
-RULE: You are what you say you are.
+RULE: If you say it with confidence, yYou are what you say you are.
 
 > *'You're only as good as your next speech.'*
 
@@ -419,14 +449,16 @@ RULE: You are what you say you are.
 
 > *'Believe you can, and you’re half way there.'*
 
+> *'Your Beliefs Determine Your Reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
-CHALLENGE: Know the frontier between confidence and arrogance.
+WARNING: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, its walking in not having to compare yourself with anyone at all.'*
 
 ===
-###On imperfections and shame
+###On insecuritiesa nd imperfections
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
@@ -434,14 +466,28 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
+===
+###On shame
+
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+
+> *'Nobody feels love when they feel shame.' -- John Townsend*
+
+===
+###On hiding
+
+> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
+
+> *'Well-kept gardens die by pacifism.'*
+
+> *'A man is not what he think he is, he is what he hides.'*
 
 ===
 ###On priorities and focus
 
 RULE: Big wins first. Then the details.
 
-> *'Concentrate your forces' -- Robert Greene (23rd law of power)*
+> *'Concentrate your forces.' -- Robert Greene (23rd law of power)*
 
 > *'In a divided world, power will come from keeping your own group united and cohesive.'*
 
@@ -461,7 +507,9 @@ RULE: Big wins first. Then the details.
 
 > *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
 
-CHALLENGE:
+> *'Remember: You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+
+WARNING:
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
@@ -483,12 +531,46 @@ CHALLENGE:
 
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
+> *'You have choices. Choices are experiments.'*
+
 ===
 ###On negotiation
 
 To negotiate is to have options.
 
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
+
+> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
+
+> *'When people feel they have a choice, they walk into your trap that much more easily.'*
+
+> *'Best way to say no: How am I supposed to do that?.'*
+
+WARNING: The deal will fall if both sides don't take what they need from a deal. 
+
+===
+###On lying and deception
+
+> *'Don't lie to anybody that you are not going kill. Deception is a bad idea. The lie is going to burn you.'*
+
+> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
+
+===
+###On free lunch
+
+Everything is a trade-off.
+
+> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
+
+> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
+
+WARNING: There are same fools though. Easy wins if you can identify them.
+
+> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
+
+> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
+
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
 ===
 ###On wealth
@@ -530,7 +612,7 @@ Luck / random is a pattern. The pendulum will swing back your way eventually.
 
 Your biggest enemy is yourself.
 
-> *'Your Beliefs Determine Your Reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
 
 ===
 ###On mistakes and failure
@@ -589,15 +671,19 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
 ===
-###On perfectionism
+###On being too perfect
 
-> *'Never appear too perfect' -- Robert Greene (46th law of power)*
+Being too perfect provokes [envy](#). Intelligence and beauty are the main factors of envy.
 
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+
+> *'Beauty is not a gift, it is a burden.'*
 
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
-> *'Play the average but don’t forget about the outliers. Taking a chance on something unique might be the most rewarding thing you ever do.'*
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 
 
@@ -668,7 +754,7 @@ You will die soon. Act accordingly. You'll never be as young as you are today.
 
 RULE: Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
 
-> *'Plan all the way to the end' -- Robert Greene (29th law of power)*
+> *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
@@ -680,7 +766,7 @@ RULE: Plan ahead, make the decisions right now. When in the moment of making the
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
-CHALLENGE: Don't overthink.
+WARNING: Don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -720,9 +806,14 @@ RULE: Just start. You cannot afford to wait for inspiration or opportunities, yo
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
-CHALLENGE: You should have a [plan](#on-planning).
+WARNING: You should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
+
+===
+###On momentum
+
+> *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
 
 ===
 ###On pace
@@ -739,6 +830,23 @@ CHALLENGE: You should have a [plan](#on-planning).
 
 > *'You finished ahead of time, that means you forgot something.'*
 
+> *'We are always in a state of running away from something and running towards something else.'*
+
+===
+###On speaking
+
+Speak less, [listen](#) more.
+
+> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+
+> *'Say less than necessary.' -- Robert Greene (4th law of power)*
+
+> *'Conceal your intention.' -- Robert Greene (3rd law of power)*
+
+> *'You don't always have to get the last word. Make your point and leave it that way.'*
+
+> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+
 ===
 ###On listening
 
@@ -752,7 +860,7 @@ RULE: Be humble and learn to listen carefully.
 
 > *'Judge a man by his questions, not by his answers.'*
 
-CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
+WARNING: Bias is everywhere. Be specially careful when facing new ideas.
 
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
@@ -783,13 +891,15 @@ RULE: Ignore and be flattered by envy. Reduce envy by not appear too [perfect](#
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
-CHALLENGE: Most criticism is envy but beware of blindspots.
+WARNING: Most criticism is envy but beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
 > *'If too many users are wrong, it's probably your fault.'*
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
+
+> *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
 ===
 ###On adapting
@@ -803,6 +913,8 @@ Plans are not static. Adapt or die.
 > *'Life is more like tetris than chess.'*
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+
+> *'One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing.' -- Kautilya*
 
 ===
 ###On balance: perfectionism and good enough
@@ -830,21 +942,12 @@ Finish it. You cannot afford to go halfway.
 
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
-
-
-
-
-
-
-
-
-
 ---
 ###On money
 
 RULE: Making money is adding value.
 
-CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
+WARNING: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
 That said, a bad/good negotiation might mean that you are adding more/less value to the world than receiving money for it.
 
 ===
@@ -860,12 +963,16 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 
 > *'Spend less, a lot less, than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.'*
 
+> *'The best companies aren't sold, they're bought.'*
+
 ===
 ###On starting a business
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+> *'Scratch your own itch.'*
 
 ===
 ###On deep work
@@ -890,16 +997,6 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 > *'Art is just another form of screaming.'*
 
 ===
-###On choice
-
-> *'You have choices. Choices are experiments.'*
-
-===
-###On being stubborn
-
-> *'You don't always have to get the last word. Make your point and leave it that way.'*
-
-===
 ###On judging
 
 [Bias](#)
@@ -918,18 +1015,54 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 
 > *'Sharpness is a bourgeois concept.'*
 
-> *'Beauty is not a gift, it is a burden.'*
-
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 ===
-###On speaking
+###On mirroring
 
-Speak less, [listen](#) more.
+> *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
-> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
-> *'Say less than necessary.' -- Robert Greene (4th law of power)*
+===
+###On unpredictability
 
-> *'Conceal your Intention' -- Robert Greene (3rd law of power)*
+> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
 
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
+
+> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
+
+> *'A warning: Unpredictability can work against you sometimes, especially if you are in a subordinate position.'*
+
+===
+###On attacking
+
+> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
+
+> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
+
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
+
+===
+###On counter-attacking
+
+> *'Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
+
+> *'Pay attention to negative cues: what should have happened but did not.'*
+
+===
+###On reacting
+
+> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
+
+> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
+
+===
+###On winning
+
+> *'It's not a question of simply winning the war but the way you win it, the way your victory sets you up for the next round.'*
+
+> *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
+
+> *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
