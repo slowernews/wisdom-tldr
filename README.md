@@ -1,6 +1,5 @@
 # self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience.
-
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience. <br>
 Exceptions to most rules also.. (work in progress)
 
 - [On identity](#on-identity)
@@ -94,7 +93,7 @@ Happiness is a journey, not a destination.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
-> *'If you concentrate on what you don’t have, you will never, ever have enough. -- Oprah Winfrey*
+> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
 > *'Birthdays, Anniversaries, New Years are all special. Always leave a year better than you started it.'*
 
@@ -189,7 +188,7 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
-> *'So much depends on reputation – guard it with your life -- Robert Greene (5th law of power)*
+> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
 
 > *'Seek respect, not attention. It lasts longer.'*
 
@@ -213,13 +212,25 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 ===
 ###On attracting
 
-Use absence.
+Use absence and value to attract people.
 
 > *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
 
 > *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
 
 > *'We attract more flies with honey than vinegar.'*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+
+> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+
+> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+
+CHALLENGE: use absence with [moderation](#on-balance).
+
+> *'Quem muito se ausenta um dia deixa de fazer falta.'*
 
 ===
 ###On validation
@@ -238,9 +249,17 @@ Use absence.
 ===
 ###On peers
 
+Keep your friends for friendship, but work with the skilled and competent.
+
+> *'If you're the smartest in the room, you're in the wrong room.'*
+
+> *'Nobody wants to be the best player in the band.'*
+
 > *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
 
 > *'Work friends are just that, work friends. Nothing more.'*
+
+> *'Never put too Much Trust in Friends, Learn how to use Enemies.' -- Robert Greene (2nd law of power)*
 
 ===
 ###On mentorship and giving back
@@ -253,6 +272,10 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
 
+> *'If you think you're to small to make an impact, try to go to bed with a mosquito in the room.'*
+
+> *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
+
 CHALLENGE:
 
 Beware to whom are you a mentor.
@@ -262,7 +285,7 @@ Beware to whom are you a mentor.
 ===
 ###On networking and socializing
 
-Be social. Don't [hide](#on-hiding) yourself.
+Be social. Don't [hide](#on-hiding) yourself. A person starts to live when he can live outside himself.
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
@@ -274,9 +297,7 @@ Be social. Don't [hide](#on-hiding) yourself.
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
-
-> *'A person starts to live when he can live outside himself.'*
+networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
 
 ===
 ###On relationships
@@ -295,18 +316,10 @@ Relationships are based on [trust](#on-trust-and-reputation).
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
-> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
-
-> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
-
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
-
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
-networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
-
 ===
-###On collaborating
+###On being hired
 
 Companies will hire you because you are a likable person that «gets shit done».
 
@@ -316,19 +329,24 @@ Companies will hire you because you are a likable person that «gets shit done»
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
-> *'Avoid the trap of following one set career path.'*
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
-> *'Having a job is risky'*
+CHALLENGE: Companies don't care about you.
+
+> *'Having a job is risky.'*
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
-> *'Companies don't care about you.'*
+> *'Avoid the trap of following one set career path.'*
+
+===
+###On hiring
+
+RULE: Hire anybody but only retain the best.
 
 > *'He who works with his hands is a laborer.<br>
 He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
-> *'Hire anybody but only retain the best.'*
 
 CHALLENGE:
 
@@ -336,16 +354,8 @@ CHALLENGE:
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
-> *'It is difficult to get a man to understand something, when his salary depends on his not understanding it.' -- Upton Sinclair*
-
 ===
 ###On teamwork
-
-Keep your friends for friendship, but work with the skilled and competent.
-
-> *'If you're the smartest in the room, you're in the wrong room.'*
-
-> *'Nobody wants to be the best player in the band.'*
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
@@ -353,8 +363,6 @@ Keep your friends for friendship, but work with the skilled and competent.
 ###On herd mentality
 
 Most people are other people. Their thoughts are someone else opinions.
-
-> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
 > *'Common sense is the collection of prejudices acquired by age eighteen.'*
 
@@ -388,18 +396,23 @@ Comfort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'You can choose courage or you can choose comfort, but you can't choose both.'*
 
-===
-###On learning and improvement
+> *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
 
-You improve by learning by a mix of practice and theory.
+===
+###On improvement
+
+You improve by learning by a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever. -- Gandhi*
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-You learn by getting out of comfort zone:
+===
+###On learning by practice
+
+You learn by getting out of comfort zone.
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
@@ -409,7 +422,10 @@ You learn by getting out of comfort zone:
 
 > *'Tell me and I’ll forget; Show me and I may remember; Involve me and I’ll understand.' -- Chinese proverb*
 
-And/or deep analysis:
+===
+###On learning by theory
+
+You learn by analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -447,9 +463,16 @@ Fear can be paralyzing. Replace fear of unknown with curiosity.
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
 ===
+###On you being enough
+
+Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
+
+> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
+
+===
 ###On confidence and believing
 
-RULE: If you say it with confidence, yYou are what you say you are.
+RULE: If you say it with confidence, you are what you say you are.
 
 > *'You're only as good as your next speech.'*
 
@@ -464,6 +487,8 @@ RULE: If you say it with confidence, yYou are what you say you are.
 > *'Your Beliefs Determine Your Reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
 CHALLENGE: Know the frontier between confidence and arrogance.
 
@@ -497,6 +522,7 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 ===
 ###On losing a battle
 
+> *'Surrender conceals great power: Lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
 ===
 ###On priorities and focus
@@ -547,6 +573,21 @@ CHALLENGE:
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
 ===
+###On judging
+
+[Bias](#) makes you underestimate or overestimate something. [Balance](#) is the secret.
+
+> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
+
+> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
+
+> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
+
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
+
+> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
+
+===
 ###On decision making
 
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
@@ -584,13 +625,7 @@ Everything is a trade-off.
 
 > *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
 
-CHALLENGE: There are same fools though. Easy wins if you can identify them.
-
-> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
-
-> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
-
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
+CHALLENGE: There are same fools though. Easy wins if you can [identify](#) them.
 
 ===
 ###On wealth
@@ -604,7 +639,7 @@ Being rich is not counting your money all day but being free.
 ===
 ###On success
 
-There are no shortcuts for success.
+There are no shortcuts for success. Success is a castle that you build brick by brick.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -613,7 +648,7 @@ There are no shortcuts for success.
 ===
 ###On managing luck
 
-Luck / random is a pattern. The pendulum will swing back your way eventually.
+Luck / random is a pattern. Don't worry, the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -626,6 +661,8 @@ Luck / random is a pattern. The pendulum will swing back your way eventually.
 > *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
 
 > *'God is subtle but he is not malicious.'*
+
+> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
 ===
 ###On enemies
@@ -650,9 +687,16 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 > *'Your past mistakes are meant to guide you, not to define you.'*
 
 ===
+###On expectations
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
+
+> *'Love doesn’t hurt. Expectations do.'*
+
+===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty.
+Be ambitious. Not thirsty: people will [envy](#) you.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
@@ -664,6 +708,8 @@ Be ambitious. Not thirsty.
 
 > *'Work hard in silence. Let your silence be your noise.'*
 
+> *'Succeeding at mediocrity isn't a worthwhile life.'*
+
 ===
 ###On stress
 
@@ -671,7 +717,7 @@ Stress is caused by thinking about the [past](#on-past) or [future](#on-future),
 
 > *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
-> *'Under-stimulation (boredom = anxiety) | Right amount of stress is where we should be (hustling = stretching our confort zone) | Over-stimulation (anxiety)
+> *'Under-stimulation (boredom = anxiety) | Right amount of stress is where we should be (hustling = stretching our confort zone) | Over-stimulation (anxiety)'*
 
 > *'Stress is caused by giving a fuck.'*
 
@@ -683,7 +729,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Worry is a misuse of the imagination.'*
 
-> *'The more relaxed you are, the better you are at everything'*
+> *'The more relaxed you are, the better you are at everything.'*
 
 ===
 ###On health
@@ -695,7 +741,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 ===
 ###On being too perfect
 
-Being too perfect provokes [envy](#). Intelligence and beauty are the main factors of envy.
+Being too perfect provokes [envy](#). Intelligence, beauty, [wealth](#), [fortune](#) and [ambition](#) are the main triggers. 
 
 > *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
@@ -762,7 +808,7 @@ You will die soon. Act accordingly. You'll never be as young as you are today.
 
 > *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
 
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever. -- Mahatma Gandhi*
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
 
 
@@ -786,7 +832,7 @@ RULE: Plan ahead, make the decisions right now. When in the moment of making the
 
 > *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
 
-> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my axe.' - Abraham Lincoln*
+> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my axe.' -- Abraham Lincoln*
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
@@ -906,7 +952,7 @@ RULE: Ignore and be flattered by envy. Reduce envy by not appear too [perfect](#
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
-> *'Don’t argue your path with other people. Walk it.' -- The lazy yogi*
+> *'Don’t argue your path with other people. Walk it.' -- lazy yogi*
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They're people who think that you're better than them.'*
 
@@ -950,6 +996,8 @@ Plans are not static. Adapt or die.
 
 > *'Don't take a half step where a full step is required.'*
 
+> *'Some people get passion from something they struggled with.'*
+
 ===
 ###On finishing
 
@@ -981,11 +1029,11 @@ Finish it. You cannot afford to go halfway.
 
 > *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
 
+> *'Assume Formlessness.' -- Robert Greene (48th law of power)*
+
 > *'One of the most potent weapons in the battle for information is giving out false information.'*
 
-CHALLENGE:
-
-Unpredictability can work against you sometimes, especially if you are in a subordinate position.
+CHALLENGE: Unpredictability can work against you sometimes, specially if you are in a subordinate position.
 
 ===
 ###On attacking
@@ -1062,6 +1110,8 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 
 > *'Scratch your own itch.'*
 
+> *'Gold [rushes](#) make the shovel sellers rich, not the gold seekers.'*
+
 ===
 ###On deep work
 
@@ -1085,13 +1135,6 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 > *'Art is just another form of screaming.'*
 
 ===
-###On judging
-
-[Bias](#)
-
-> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
-
-===
 ###On economics
 
 > *'The hardest thing in the world to understand is the income tax.'*
@@ -1104,3 +1147,12 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 > *'Sharpness is a bourgeois concept.'*
 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
+
+> *'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso*
+
+> *'Genius and taste don’t go together.' -- Helmut Newton*
+
+===
+###On politics
+
+> *'Politicians don't get educated. They get bought.'*
