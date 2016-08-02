@@ -3,25 +3,36 @@
 Exceptions to most rules also.. (work in progress)
 
 - [On identity](#on-identity)
-- [On gratefulness](#on-gratefulness)
+- [On happiness and gratefulness](#on-happiness-and-gratefulness)
+- [On optimism vs pessimism](#on-optimism-vs-pessimism)
 - [On habits](#on-habits)
-- [On integrity and honesty](#on-integrity-and-honesty)
 - [On mastery and humbleness](#on-mastery-and-humbleness)
 - [On freedom](#on-freedom)
+- [On integrity and honesty](#on-integrity-and-honesty)
 - [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On achievement](#on-achievement)
 - [On learning and improvement](#on-learning-and-improvement)
 - [On expectations](#on-expectations)
-- [On fear](#on-fear)
-- [On confidence](#on-confidence)
-- [On imperfections and shame](#on-imperfections-and-shame)
-- [On enemies](#on-enemies)
+- [On fear and excuses](#on-fear-and-excuses)
+- [On confidence and beliefs](#on-confidence-and-beliefs)
+- [On insecurities and imperfections](#on-insecurities-and-imperfections)
+- [On validation](#on-validation)
+- [On shame](#on-shame)
+- [On stress](#on-stress)
+- [On health](#on-health)
+- [On being too perfect](#on-being-too-perfect)
 - [On wealth](#on-wealth)
 - [On success](#on-success)
+- [On achievement](#on-achievement)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On stress](#on-stress)
 - [On relationships](#on-relationships)
 - [On criticism and envy](#on-criticism-and-envy)
+- [On herd mentality](#on-herd-mentality)
+- [On improvement](#on-improvement)
+- [On learning by practice](#on-learning-by-practice)
+- [On learning by theory](#on-learning-by-theory)
+- [On ambition and motivation](#on-ambition-and-motivation)
 
 On time:
 - [On past](#on-past)
@@ -31,26 +42,42 @@ On time:
 
 On groups:
 - [On teamwork](#on-teamwork)
-- [On collaborators](#on-collaborators)
-- [On networking](#on-networking)
+- [On hiring](#on-hiring)
+- [On being hired](#on-being-hired)
+- [On higher ranks](#on-higher-ranks)
+- [On peers](#on-peers)
+- [On networking and socializing](#on-networking-and-socializing)
 - [On leadership and influence](#on-leadership-and-influence)
 - [On trust and reputation](#on-trust-and-reputation)
 
 On strategy:
 - [On planning](#on-planning)
 - [On decision making](#on-decision-making)
+- [On judging](#on-judging)
 - [On creativity](#on-creativity)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On starting vs waiting](#on-starting-vs-waiting)
 - [On pace](#on-pace)
+- [On hiding](#on-hiding)
 - [On listening](#on-listening)
+- [On speaking](#on-speaking)
+- [On surrendering](#on-surrendering)
 - [On adapting](#on-adapting)
 - [On control](#on-control)
+- [On attracting](#on-attracting)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
-- [On balance and perfectionism](#on-balance-and-perfectionism)
+- [On balance: perfectionism and good enough](#on-balance:-perfectionism-and-good-enough)
 - [On finishing](#on-finishing)
+- [On mirroring](#on-mirroring)
+- [On attacking](#on-attacking)
+- [On defending](#on-defending)
+- [On counter-attacking](#on-counter-attacking)
+- [On unpredictability](#on-unpredictability)
 - [On negotiation](#on-negotiation)
 - [On managing luck](#on-managing-luck)
+- [On lying and deception](#on-lying-and-deception)
+- [On free lunch](#on-free-lunch)
+- [On winning](#on-winning)
 
 Others:
 - [On money](#on-money)
@@ -58,6 +85,8 @@ Others:
 - [On deep work](#on-deep-work)
 - [On starting a business](#on-starting-a-business)
 - [On science, art and religion](#on-science-art-and-religion)
+- [On aesthetics](#on-aesthetics)
+- [On economics and politics](#on-economics-and-politics)
 
 ###TL;DR 
 
@@ -234,6 +263,10 @@ CHALLENGE: use absence with [moderation](#on-balance).
 
 ===
 ###On validation
+
+Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
+
+> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
 
 > *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
@@ -463,14 +496,7 @@ Fear can be paralyzing. Replace fear of unknown with curiosity.
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
 ===
-###On you being enough
-
-Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
-
-> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
-
-===
-###On confidence and believing
+###On confidence and beliefs
 
 RULE: If you say it with confidence, you are what you say you are.
 
@@ -520,7 +546,7 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 > *'A man is not what he think he is, he is what he hides.'*
 
 ===
-###On losing a battle
+###On surrendering
 
 > *'Surrender conceals great power: Lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
@@ -663,11 +689,6 @@ Luck / random is a pattern. Don't worry, the pendulum will swing back your way e
 > *'God is subtle but he is not malicious.'*
 
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
-
-===
-###On enemies
-
-Your biggest enemy is yourself.
 
 ===
 ###On mistakes and failure
@@ -1135,9 +1156,11 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 > *'Art is just another form of screaming.'*
 
 ===
-###On economics
+###On economics and politics
 
 > *'The hardest thing in the world to understand is the income tax.'*
+
+> *'Politicians don't get educated. They get bought.'*
 
 > *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
 
@@ -1149,10 +1172,3 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 > *'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso*
-
-> *'Genius and taste don’t go together.' -- Helmut Newton*
-
-===
-###On politics
-
-> *'Politicians don't get educated. They get bought.'*
