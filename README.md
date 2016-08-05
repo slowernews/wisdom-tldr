@@ -16,7 +16,6 @@ On yourself
 - [On success](#on-success)
 - [On expectations](#on-expectations)
 - [On achievement](#on-achievement)
-- [On learning and improvement](#on-learning-and-improvement)
 - [On improvement](#on-improvement)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
@@ -161,11 +160,6 @@ Consistency is everything. Habits allow [mastery](#on-mastery-and-humbleness).
 
 
 ===
-###On humbleness
-
-
-
-===
 ###On mastery
 
 First learn the rules, then break them. 
@@ -205,6 +199,8 @@ Do not truly commit to anything but *yourself*.
 
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
+> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
+
 
 
 ===
@@ -219,6 +215,8 @@ Control what you can. Ignore what you can't.
 > *'You want everything to stay the same until you’re ready for it to change. But you can’t do that. You can’t expect the whole world to stand still until you’re ready.' -- Gayle Friesen*
 
 > *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
+
+> *'Disdain things you cannot have:  ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
 
 
@@ -257,23 +255,17 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 ===
 ###On leadership, management and influence
 
-Leadership is based on [trust](#on-trust). People want power because they want autonomy.
+Leadership is based on [trust](#on-trust).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
-> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+> *'Be Royal in your Own Fashion:  Act like a King to be treated like one.' -- Robert Greene (34th law of power)*
 
 > *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
-
-> *'«Because» is a great motivator.'*
-
-> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
-
-> *'Instead of generalizing and saying 'management is useless' it is more correct to say "bad management is counterproductive".'*
 
 > *'The speed of the boss is the speed of the team.'*
 
@@ -281,14 +273,25 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 
 > *'People don't follow robots.'*
 
-> *'I have found being a boss to be equal parts manager and psychotherapist.'*
+Being a boss to be equal parts [manager](#) and psychotherapist.
+
+> *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
+
+
+
+===
+###On power
+
+People want power because they want autonomy.
+
+> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
 ===
 ###On having mentors
 
 Follow the thought leaders instead of the traffic leaders.
 
-
+> *'Play on people’s need to believe to create a cultlike following.' -- Robert Greene (27th law of power)*
 
 ===
 ###On attracting
@@ -405,7 +408,9 @@ Be social. Don't [hide](#on-hiding) yourself. A person starts to live when he ca
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
-On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgement.
+On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.
+
+try to hit 10% of your followers instead of trying to hit all of them at the same time.
 
 networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
 
@@ -432,7 +437,7 @@ Relationships are based on [trust](#on-trust-and-reputation).
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
-
+Every person feels loved in a different form.
 
 ===
 ###On being hired
@@ -479,9 +484,18 @@ CHALLENGE:
 ===
 ###On teamwork
 
+No one is smarter than a small group.
+
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 
+
+===
+###On procrastination
+
+People procrastinate specially when there are no urgency/deadlines: the panic monster
+
+// > *'mark manson on procrastination
 
 ===
 ###On herd mentality
@@ -557,6 +571,8 @@ You learn by getting out of comfort zone.
 
 > *'Tell me and I’ll forget; Show me and I may remember; Involve me and I’ll understand.' -- Chinese proverb*
 
+> *'Welcome the attacks of your enemies for how much they improve your work and toughen you up.'*
+
 
 
 ===
@@ -581,11 +597,16 @@ You learn by analysis of past situations.
 
 
 ===
-###On fear and excuses
+###On excuses
 
 There are no acceptable excuses. End.
 
 > *'You cannot use your personality type as an excuse.'*
+
+
+
+===
+###On fear
 
 Fear can be paralyzing. Replace fear of unknown with curiosity.
 
@@ -604,6 +625,10 @@ Fear can be paralyzing. Replace fear of unknown with curiosity.
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
 > *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
+
+> *'What you fear you attract; what you resist, you make it bigger.'*
+
+> *'The things we fear the most have already happened to us.'
 
 
 
@@ -665,9 +690,15 @@ A man is not what he think he is, he is what he hides.
 ===
 ###On surrendering
 
-> *'Surrender conceals great power: Lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
+Use the opportunity to re-create yourself.
 
 > *'It only hurts when you don't have time to prepare for the fall.'*
+
+> *'Surrender conceals great power: Lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
+
+> *'Use the surrender tactic: transform weakness into power.' -- Robert Greene (22nd law of power)*
+
+> *'Re-create yourself.' -- Robert Greene (25th law of power)*
 
 
 
@@ -754,6 +785,10 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 CHALLENGE: The deal will fall if both sides don't take what they need from it. 
 
+> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
+
+> *'You can’t make a good deal with a bad person.'*
+
 
 
 ===
@@ -779,6 +814,8 @@ Everything is a trade-off.
 > *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
 
 CHALLENGE: There are same fools though. Easy wins if you can [identify](#) them.
+
+> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
 
 
 
@@ -842,6 +879,10 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 
 > *'Your past mistakes are meant to guide you, not to define you.'*
 
+> *'You are more than your mistakes.'*
+
+> *'Making mistakes is better than faking perfections.'*
+
 
 
 ===
@@ -893,6 +934,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'The more relaxed you are, the better you are at everything.'*
 
+> *'I've decided to be happy because it is good to my health.'*
+
 
 
 ===
@@ -921,6 +964,10 @@ Being too perfect provokes [envy](#). Intelligence, beauty, [wealth](#), [fortun
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
+---
+###On framing
+
+> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
 
 ---
@@ -937,6 +984,8 @@ Let go.
 > *'Never regret something that once made you smile.'*
 
 > *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
+
+> *'Stop looking for happiness in the same place where you lost it.'*
 
 
 
@@ -1049,6 +1098,8 @@ Just start. You cannot afford to wait for inspiration or opportunities, your tim
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 > *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
+
+> *'Enter action with boldness.' -- Robert Greene (28th law of power)*
 
 CHALLENGE: You should have a [plan](#on-planning).
 
@@ -1167,7 +1218,13 @@ Plans are not static. Adapt or die.
 
 > *'One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing.' -- Kautilya*
 
-on a plateau take a step back.
+> *'On a plateau take a step back.'*
+
+> *'The most important thing to do if you find yourself in a hole is to stop digging.' -- Warren Buffett*
+
+> *'What got you here won't get you there.'*
+
+
 
 ===
 ###On balance: perfectionism and good enough
@@ -1176,11 +1233,18 @@ on a plateau take a step back.
 
 > *'The hardest skill is knowing what could be simplified, and what's good enough.'*
 
+> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
+
 > *'Everything should be made as simple as possible, but not simpler.'*
 
 > *'Don't take a half step where a full step is required.'*
 
 > *'Some people get passion from something they struggled with.'*
+
+If half of the room laughs and half doesn't is a success.
+
+> *'dictator's dilemma:  When 4 out of 5 dentists agree …  we take that as a good recommendation. If it were 5 out of 5 we would say baloney sandwich.
+When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. And speaking of 97%, when his excellency and Great Father of his People, Turkmenistan President Gurbanguly Berdimuhamedov gets 97% of the vote.
 
 
 
@@ -1220,6 +1284,8 @@ Finish it. You cannot afford to go halfway.
 > *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
 
 > *'Assume Formlessness.' -- Robert Greene (48th law of power)*
+
+> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
 
 CHALLENGE: Unpredictability can work against you, specially if you are in a subordinate position, it reduces trust [trust](#)
 
@@ -1263,6 +1329,8 @@ It's not a question of simply winning the war but the way you win it sets you up
 
 > *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
 
+// > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
+
 
 
 ---
@@ -1286,7 +1354,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
-> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.'*
+> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
@@ -1305,7 +1373,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'The consumer votes with their wallet.'*
 
-> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. "Starting up in a garage" works mostly on new and undeveloped markets.'*
+> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
@@ -1387,9 +1455,42 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 
 > *'Start a meeting with an overachieving question: how can we raise sales by 12%?'*
 
+> *'Instead of generalizing and saying 'management is useless' it is more correct to say «bad management is counterproductive».'*
+
+> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+
+
+
 ===
-###On feedback
+###On feedback and micro management
 
-1) Give a reason: "You should use the blue that's in the style guide because we agreed as a team that's the shade of blue we should use." Making arbitrary, small changes is not helpful, but a boss/manager/supervisor/etc should suggest small changes when there's a good reason, and should provide that reason.
+A boss shouldn't add his two cents, specially on subjective stuff, unless he's certain they're needed.
 
-2) Ask instead of telling: eg "Why did you decide to put the slides in that order?" This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
+This only works when the work they deliver is "good enough". You delegate a task, and have an expectation about the outcome. It doesn't have to be exactly as you expected it to be, but as long as it's good enough you don't have to give them you're 2c.
+
+If so, give a reason: «You should use the blue that's in the style guide because we agreed as a team that's the shade of blue we should use.» Making arbitrary, small changes is not helpful, but a boss/manager/supervisor/etc should suggest small changes when there's a good reason, and should provide that reason.
+
+> *'«Because» is a great motivator.'*
+
+And ask instead of telling: eg «Why did you decide to put the slides in that order?» This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
+
+Henry Kissinger and simply ask, «Is that the best you can do?»
+
+
+
+===
+###On selling
+
+Selling by just keeping in touch. send emails once in a while.
+
+
+
+===
+###On developers
+
+Top 4 desirable developer skills:
+Ability to ignore new tools and technologies; 
+Taste for simplicity;
+Good code deletion skills;
+Humility.
+
