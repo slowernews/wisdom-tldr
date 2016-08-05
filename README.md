@@ -2,53 +2,47 @@
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience. <br>
 Exceptions to most rules also.. (work in progress)
 
+On yourself
 - [On identity](#on-identity)
+- [On freedom](#on-freedom)
 - [On happiness and gratefulness](#on-happiness-and-gratefulness)
 - [On optimism vs pessimism](#on-optimism-vs-pessimism)
 - [On habits](#on-habits)
-- [On mastery and humbleness](#on-mastery-and-humbleness)
-- [On freedom](#on-freedom)
+- [On mastery](#on-mastery)
+- [On humbleness](#on-humbleness)
 - [On integrity and honesty](#on-integrity-and-honesty)
-- [On mentorship and giving back](#on-mentorship-and-giving-back)
-- [On achievement](#on-achievement)
-- [On learning and improvement](#on-learning-and-improvement)
-- [On expectations](#on-expectations)
-- [On fear and excuses](#on-fear-and-excuses)
-- [On confidence and beliefs](#on-confidence-and-beliefs)
-- [On insecurities and imperfections](#on-insecurities-and-imperfections)
-- [On validation](#on-validation)
-- [On shame](#on-shame)
-- [On stress](#on-stress)
-- [On health](#on-health)
 - [On being too perfect](#on-being-too-perfect)
 - [On wealth](#on-wealth)
 - [On success](#on-success)
+- [On expectations](#on-expectations)
 - [On achievement](#on-achievement)
-- [On mistakes and failure](#on-mistakes-and-failure)
-- [On stress](#on-stress)
-- [On relationships](#on-relationships)
-- [On criticism and envy](#on-criticism-and-envy)
-- [On herd mentality](#on-herd-mentality)
+- [On learning and improvement](#on-learning-and-improvement)
 - [On improvement](#on-improvement)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
 - [On ambition and motivation](#on-ambition-and-motivation)
-
-On time:
-- [On past](#on-past)
-- [On present](#on-present)
-- [On future](#on-future)
-- [On mortality](#on-mortality)
+- [On fear and excuses](#on-fear-and-excuses)
+- [On confidence and beliefs](#on-confidence-and-beliefs)
+- [On insecurities and imperfections](#on-insecurities-and-imperfections)
+- [On mistakes and failure](#on-mistakes-and-failure)
+- [On validation](#on-validation)
+- [On shame](#on-shame)
+- [On mental health: stress](#on-stress)
+- [On physical health](#on-health)
 
 On groups:
+- [On relationships](#on-relationships)
 - [On teamwork](#on-teamwork)
+- [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
 - [On higher ranks](#on-higher-ranks)
 - [On peers](#on-peers)
 - [On networking and socializing](#on-networking-and-socializing)
+- [On criticism and envy](#on-criticism-and-envy)
 - [On leadership and influence](#on-leadership-and-influence)
 - [On trust and reputation](#on-trust-and-reputation)
+- [On herd mentality](#on-herd-mentality)
 
 On strategy:
 - [On planning](#on-planning)
@@ -65,7 +59,6 @@ On strategy:
 - [On adapting](#on-adapting)
 - [On control](#on-control)
 - [On attracting](#on-attracting)
-- [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On balance: perfectionism and good enough](#on-balance:-perfectionism-and-good-enough)
 - [On finishing](#on-finishing)
 - [On mirroring](#on-mirroring)
@@ -79,10 +72,17 @@ On strategy:
 - [On free lunch](#on-free-lunch)
 - [On winning](#on-winning)
 
+On time:
+- [On past](#on-past)
+- [On present](#on-present)
+- [On future](#on-future)
+- [On mortality](#on-mortality)
+
 Others:
 - [On money](#on-money)
 - [On investment](#on-investment)
 - [On deep work](#on-deep-work)
+- [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On starting a business](#on-starting-a-business)
 - [On science, art and religion](#on-science-art-and-religion)
 - [On aesthetics](#on-aesthetics)
@@ -91,6 +91,8 @@ Others:
 ###TL;DR 
 
 ###3 rules for life: fuck, don't give a fuck and don't be fucked over.
+
+
 
 ---
 ###On identity
@@ -105,6 +107,8 @@ You are your deeds. Have personal accountability. Know yourself. Invest in yours
 
 > *'Be the person your dog think you are.'*
 
+> *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
+
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
@@ -113,8 +117,10 @@ You are your deeds. Have personal accountability. Know yourself. Invest in yours
 
 // autenticity
 
+
+
 ===
-###On happiness and gratefulness
+###On happiness
 
 Happiness is a journey, not a destination.
 
@@ -124,24 +130,26 @@ Happiness is a journey, not a destination.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
-> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
-
 > *'Happy life = mastery + belonging + autonomy.'*
 
 > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
 
 > *'Birthdays, Anniversaries, New Years are all special. Always leave a year better than you started it.'*
 
+
+
 ===
-###On optimism vs pessimism
+###On gratefulness: optimism vs pessimism
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
 
-> *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
-
 > *'Unless you’re winning, most of life will seem hideously unfair to you.'*
+
+> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
+
+
 
 ===
 ###On habits
@@ -150,8 +158,15 @@ Consistency is everything. Habits allow [mastery](#on-mastery-and-humbleness).
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' - Aristotle*
 
+
+
 ===
-###On mastery and humbleness
+###On humbleness
+
+
+
+===
+###On mastery
 
 First learn the rules, then break them. 
 
@@ -171,6 +186,8 @@ CHALLENGE: Mastery is the main trigger of [arrogance](#). There's always room fo
 
 > *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are god.'*
 
+
+
 ===
 ###On freedom
 
@@ -188,6 +205,8 @@ Do not truly commit to anything but *yourself*.
 
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
+
+
 ===
 ###On control
 
@@ -201,6 +220,8 @@ Control what you can. Ignore what you can't.
 
 > *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
 
+
+
 ===
 ###On integrity and honesty
 
@@ -211,6 +232,8 @@ Control what you can. Ignore what you can't.
 > *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
+
+
 
 ===
 ###On trust and reputation
@@ -228,6 +251,8 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 > *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
 
 > *'Seek respect, not attention. It lasts longer.'*
+
+
 
 ===
 ###On leadership, management and influence
@@ -258,6 +283,11 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 
 > *'I have found being a boss to be equal parts manager and psychotherapist.'*
 
+===
+###On having mentors
+
+Follow the thought leaders instead of the traffic leaders.
+
 
 
 ===
@@ -283,6 +313,8 @@ CHALLENGE: use absence with [moderation](#on-balance).
 
 > *'Quem muito se ausenta um dia deixa de fazer falta.'*
 
+
+
 ===
 ###On validation
 
@@ -292,10 +324,14 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 > *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
+
+
 ===
 ###On humbleness
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
+
+
 
 ===
 ###On higher ranks
@@ -306,7 +342,13 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 > *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41th law of power)*
 
+===
+###On competition
+
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#) you. [Keep your word](#) and prove your worth, the new guy as always to prove himself.'*
+
+> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
 
 ===
 ###On peers
@@ -317,13 +359,13 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 > *'Nobody wants to be the best player in the band.'*
 
-> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
-
 > *'Work friends are just that, work friends. Nothing more.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 > *'You are the sum of the people you surround yourself.'*
+
+
 
 ===
 ###On mentorship and giving back
@@ -344,6 +386,8 @@ CHALLENGE: Beware to whom are you a mentor.
 
 > *'Do not teach a starving man to fish.'*
 
+
+
 ===
 ###On networking and socializing
 
@@ -361,7 +405,11 @@ Be social. Don't [hide](#on-hiding) yourself. A person starts to live when he ca
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
+On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgement.
+
 networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
+
+
 
 ===
 ###On relationships
@@ -409,6 +457,8 @@ CHALLENGE: Companies don't care about you.
 
 > *'Avoid the trap of following one set career path.'*
 
+
+
 ===
 ###On hiring
 
@@ -424,10 +474,14 @@ CHALLENGE:
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
+
+
 ===
 ###On teamwork
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+
 
 ===
 ###On herd mentality
@@ -438,12 +492,13 @@ Most people are other people. Their thoughts are someone else opinions.
 
 > *'People accept the defaults very easily.'*
 
+> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
 
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
+CHALLENGE:
 
-
-
-
+> *'Taking a fence down without knowing why is there.'*
 
 
 
@@ -470,6 +525,8 @@ Comfort is the enemy of achievement. You need to break rules to achieve anything
 
 > *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
 
+
+
 ===
 ###On improvement
 
@@ -485,6 +542,8 @@ You improve by learning with a mix of [practice](#on-learning-by-practice) and [
 
 > *'effort * talent = skill'*
 
+
+
 ===
 ###On learning by practice
 
@@ -497,6 +556,8 @@ You learn by getting out of comfort zone.
 > *'Lessons not learned in blood are soon forgotten.'*
 
 > *'Tell me and I’ll forget; Show me and I may remember; Involve me and I’ll understand.' -- Chinese proverb*
+
+
 
 ===
 ###On learning by theory
@@ -516,6 +577,8 @@ You learn by analysis of past situations.
 > *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
+
+
 
 ===
 ###On fear and excuses
@@ -541,6 +604,8 @@ Fear can be paralyzing. Replace fear of unknown with curiosity.
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
 > *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
+
+
 
 ===
 ###On confidence and beliefs
@@ -569,6 +634,8 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, its walking in not having to compare yourself with anyone at all.'*
 
+
+
 ===
 ###On insecurities and imperfections
 
@@ -578,18 +645,22 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
+
+
 ===
 ###On hiding and shame
+
+A man is not what he think he is, he is what he hides.
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
 
 > *'Well-kept gardens die by pacifism.'*
 
-> *'A man is not what he think he is, he is what he hides.'*
-
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
+
+
 
 ===
 ###On surrendering
@@ -597,6 +668,8 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 > *'Surrender conceals great power: Lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
 > *'It only hurts when you don't have time to prepare for the fall.'*
+
+
 
 ===
 ###On priorities and focus
@@ -633,18 +706,7 @@ CHALLENGE:
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
-===
-###On efficiency and productivity
 
-> *'Start as close to the end as possible.' -- Kurt Vonnegu*
-
-> *'Lazy is what the jealous call efficiency.'*
-
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
-
-> *'Productivity is different from workflow engineering.'*
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
 ===
 ###On judging
@@ -655,16 +717,16 @@ CHALLENGE:
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
-
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
-
 > *'To find deep truths intuition is better than statistics.'*
+
+
 
 ===
 ###On malice
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
+
+
 
 ===
 ###On decision making
@@ -672,6 +734,8 @@ CHALLENGE:
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
 > *'You have choices. Choices are experiments.'*
+
+
 
 ===
 ###On negotiation
@@ -690,6 +754,8 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 CHALLENGE: The deal will fall if both sides don't take what they need from it. 
 
+
+
 ===
 ###On lying and deception
 
@@ -698,6 +764,10 @@ CHALLENGE: The deal will fall if both sides don't take what they need from it.
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
 
 > *'One of the most potent weapons in the battle for information is giving out false information.'*
+
+only comedians can speak truth
+
+
 
 ===
 ###On free lunch
@@ -710,6 +780,8 @@ Everything is a trade-off.
 
 CHALLENGE: There are same fools though. Easy wins if you can [identify](#) them.
 
+
+
 ===
 ###On wealth
 
@@ -719,6 +791,8 @@ Being rich is not counting your money all day but being [free](#).
 
 > *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
+
+
 ===
 ###On success
 
@@ -727,6 +801,8 @@ There are no shortcuts for success. Success is a castle that you build brick by 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
+
+
 
 ===
 ###On managing luck
@@ -747,6 +823,8 @@ Luck / random is a pattern. Don't worry, the pendulum will swing back your way e
 
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
+
+
 ===
 ###On mistakes and failure
 
@@ -764,12 +842,16 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 
 > *'Your past mistakes are meant to guide you, not to define you.'*
 
+
+
 ===
 ###On expectations
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
 
 > *'Love doesn’t hurt. Expectations do.'*
+
+
 
 ===
 ###On ambition and motivation
@@ -787,6 +869,8 @@ Be ambitious. Not thirsty: people will [envy](#) you.
 > *'Work until your idols become your rivals.'*
 
 > *'Work hard in silence. Let your silence be your noise.'*
+
+
 
 ===
 ###On mental health: stress
@@ -809,6 +893,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'The more relaxed you are, the better you are at everything.'*
 
+
+
 ===
 ###On physical health
 
@@ -817,6 +903,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
 > *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)
+
+
 
 ===
 ###On being too perfect
@@ -835,13 +923,6 @@ Being too perfect provokes [envy](#). Intelligence, beauty, [wealth](#), [fortun
 
 
 
-
-
-
-
-
-
-
 ---
 ###On past
 
@@ -857,6 +938,8 @@ Let go.
 
 > *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
 
+
+
 ===
 ###On present
 
@@ -867,6 +950,8 @@ Live in the present. Don't postpone joy.
 > *'Never get so busy making a living that you forget to make a life.'*
 
 > *'Now will not be with us forever.'*
+
+
 
 ===
 ###On future
@@ -879,6 +964,8 @@ Dream big.
 
 > *'Anomalies often represent the future, but to our eyes they seem strange.'*
 
+
+
 ===
 ###On mortality
 
@@ -889,13 +976,6 @@ You will die soon. Act accordingly. You'll never be as young as you are today.
 > *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
-
-
-
-
-
-
-
 
 
 
@@ -921,6 +1001,8 @@ CHALLENGE: Don't overthink.
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
+
+
 
 ===
 ###On creativity
@@ -949,6 +1031,8 @@ CHALLENGE: Don't overthink.
 
 > *'Moments of originality and moments of conformity.'*
 
+
+
 ===
 ###On starting vs waiting
 
@@ -970,6 +1054,8 @@ CHALLENGE: You should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
+
+
 ===
 ###On pace
 
@@ -987,6 +1073,8 @@ CHALLENGE: You should have a [plan](#on-planning).
 
 > *'We are always in a state of running away from something and running towards something else.'*
 
+
+
 ===
 ###On speaking
 
@@ -1001,6 +1089,10 @@ Speak less, [listen](#) more.
 > *'You don't always have to get the last word. Make your point and leave it that way.'*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+
+get better asking questions. they are more important than answers.
+
+
 
 ===
 ###On listening
@@ -1031,6 +1123,8 @@ CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 
 > *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
 
+
+
 ===
 ###On criticism and envy
 
@@ -1056,6 +1150,8 @@ CHALLENGE: Most criticism is envy but beware of blindspots.
 
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
+
+
 ===
 ###On adapting
 
@@ -1071,6 +1167,8 @@ Plans are not static. Adapt or die.
 
 > *'One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing.' -- Kautilya*
 
+on a plateau take a step back.
+
 ===
 ###On balance: perfectionism and good enough
 
@@ -1083,6 +1181,8 @@ Plans are not static. Adapt or die.
 > *'Don't take a half step where a full step is required.'*
 
 > *'Some people get passion from something they struggled with.'*
+
+
 
 ===
 ###On finishing
@@ -1099,12 +1199,16 @@ Finish it. You cannot afford to go halfway.
 
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
+
+
 ===
 ###On mirroring
 
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
+
 
 ===
 ###On unpredictability
@@ -1117,7 +1221,9 @@ Finish it. You cannot afford to go halfway.
 
 > *'Assume Formlessness.' -- Robert Greene (48th law of power)*
 
-CHALLENGE: Unpredictability can work against you, specially if you are in a subordinate position.
+CHALLENGE: Unpredictability can work against you, specially if you are in a subordinate position, it reduces trust [trust](#)
+
+
 
 ===
 ###On attacking
@@ -1126,7 +1232,7 @@ CHALLENGE: Unpredictability can work against you, specially if you are in a subo
 
 > *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
 
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
+
 
 ===
 ###On defending
@@ -1135,6 +1241,10 @@ CHALLENGE: Unpredictability can work against you, specially if you are in a subo
 
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
+
+
+
 ===
 ###On counter-attacking
 
@@ -1142,21 +1252,16 @@ CHALLENGE: Unpredictability can work against you, specially if you are in a subo
 
 > *'Pay attention to negative cues: what should have happened but did not.'*
 
+
+
 ===
 ###On winning
 
-It's not a question of simply winning the war but the way you win it, sets you up for the next round.'*
+It's not a question of simply winning the war but the way you win it sets you up for the next round.'*
 
 > *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
 
 > *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
-
-
-
-
-
-
-
 
 
 
@@ -1172,8 +1277,12 @@ That said, a bad/good negotiation might mean that you are adding more/less value
 
 price vs value ??
 
+
+
 ===
 ###On investment
+
+Spend less, a lot less, than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
@@ -1183,9 +1292,9 @@ price vs value ??
 
 > *'Wherever oil goes, the stock market goes.'*
 
-> *'Spend less, a lot less, than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.'*
-
 > *'The best companies aren't sold, they're bought.'*
+
+
 
 ===
 ###On business
@@ -1200,9 +1309,13 @@ price vs value ??
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
+Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.
+
 > *'Scratch your own itch.'*
 
 > *'Gold [rushes](#on-herd-mentality) make the shovel sellers rich, not the gold seekers.'*
+
+
 
 ===
 ###On economics and politics
@@ -1212,6 +1325,8 @@ price vs value ??
 > *'Politicians don't get educated. They get bought.'*
 
 > *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
+
+
 
 ===
 ###On science, art and religion
@@ -1230,6 +1345,8 @@ price vs value ??
 
 > *'Artistic death is made by consensus.'*
 
+
+
 ===
 ###On aesthetics
 
@@ -1239,6 +1356,23 @@ price vs value ??
 
 > *'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso*
 
+
+
+===
+###On efficiency and productivity
+
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
+> *'Lazy is what the jealous call efficiency.'*
+
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'Productivity is different from workflow engineering.'*
+
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
+
+
 ===
 ###On deep work
 
@@ -1246,7 +1380,16 @@ price vs value ??
 
 > *'Too busy pretending I'm occupied.'*
 
+
+
 ===
 ###On management
 
 > *'Start a meeting with an overachieving question: how can we raise sales by 12%?'*
+
+===
+###On feedback
+
+1) Give a reason: "You should use the blue that's in the style guide because we agreed as a team that's the shade of blue we should use." Making arbitrary, small changes is not helpful, but a boss/manager/supervisor/etc should suggest small changes when there's a good reason, and should provide that reason.
+
+2) Ask instead of telling: eg "Why did you decide to put the slides in that order?" This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
