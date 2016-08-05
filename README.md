@@ -231,6 +231,8 @@ Control what you can. Ignore what you can't.
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
+// > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
+
 
 
 ===
@@ -261,7 +263,7 @@ Leadership is based on [trust](#on-trust).
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
-> *'Be Royal in your Own Fashion:  Act like a King to be treated like one.' -- Robert Greene (34th law of power)*
+> *'Be royal in your own fashion:  Act like a king to be treated like one.' -- Robert Greene (34th law of power)*
 
 > *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
 
@@ -286,12 +288,16 @@ People want power because they want autonomy.
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
+
+
 ===
 ###On having mentors
 
 Follow the thought leaders instead of the traffic leaders.
 
-> *'Play on people’s need to believe to create a cultlike following.' -- Robert Greene (27th law of power)*
+> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+
+
 
 ===
 ###On attracting
@@ -343,7 +349,7 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 > *'Know who you’re dealing with: do not offend the wrong person.' -- Robert Greene (9th law of power)*
 
-> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41th law of power)*
+> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
 
 ===
 ###On competition
@@ -813,6 +819,8 @@ Everything is a trade-off.
 
 > *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
 
+> *«El dorados» are never drawn in the map.'*
+
 CHALLENGE: There are same fools though. Easy wins if you can [identify](#) them.
 
 > *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
@@ -828,6 +836,7 @@ Being rich is not counting your money all day but being [free](#).
 
 > *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
+> *'you can spend your time making money but you cant spend your money making time.'*
 
 
 ===
@@ -936,6 +945,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'I've decided to be happy because it is good to my health.'*
 
+> *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
 
 
 ===
@@ -1143,7 +1153,7 @@ Speak less, [listen](#) more.
 
 get better asking questions. they are more important than answers.
 
-
+> *'Bad liars should speak as little as possible.'*
 
 ===
 ###On listening
@@ -1157,6 +1167,8 @@ Be humble and learn to listen carefully.
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
 
 > *'Judge a man by his questions, not by his answers.'*
+
+Learn to listen hardware to predict a collapse.
 
 CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 
@@ -1223,6 +1235,17 @@ Plans are not static. Adapt or die.
 > *'The most important thing to do if you find yourself in a hole is to stop digging.' -- Warren Buffett*
 
 > *'What got you here won't get you there.'*
+
+> *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
+
+
+
+===
+###On desesperate people
+
+> *'Beware the fury of a patient man.' -- John Dryden*
+
+> *'Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose.'*
 
 
 
@@ -1298,6 +1321,8 @@ CHALLENGE: Unpredictability can work against you, specially if you are in a subo
 
 > *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
 
+> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
+
 
 
 ===
@@ -1358,9 +1383,11 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
-> *'Wherever oil goes, the stock market goes.'*
-
 > *'The best companies aren't sold, they're bought.'*
+
+> *'Stock buybacks are effectively same as dividends.'*
+
+> *'Wherever oil goes, the stock market goes.'*
 
 
 
@@ -1383,6 +1410,8 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 
 > *'Gold [rushes](#on-herd-mentality) make the shovel sellers rich, not the gold seekers.'*
 
+> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
+
 
 
 ===
@@ -1403,6 +1432,8 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.'*
 
+> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
+
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
 
 > *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
@@ -1412,6 +1443,8 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 > *'Art is just another form of screaming.'*
 
 > *'Artistic death is made by consensus.'*
+
+> *'Art is Socialism, but life is Capitalism.'*
 
 
 
@@ -1423,6 +1456,13 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 > *'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso*
+
+
+
+===
+###On genius
+
+> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 
 
@@ -1453,9 +1493,9 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 ===
 ###On management
 
-> *'Start a meeting with an overachieving question: how can we raise sales by 12%?'*
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
 
-> *'Instead of generalizing and saying 'management is useless' it is more correct to say «bad management is counterproductive».'*
+> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
 
 > *'Spend 1 hour a day just talking to your people and everything will be OK.'*
 
@@ -1475,6 +1515,13 @@ If so, give a reason: «You should use the blue that's in the style guide becaus
 And ask instead of telling: eg «Why did you decide to put the slides in that order?» This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
 
 Henry Kissinger and simply ask, «Is that the best you can do?»
+
+Management is about communication. As a manager, you have to have a lot of conversations.
+Your productivity as a manager is measured as the productivity of your team. being seated making stuff is not productive.
+I think the key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do.
+managing is delegating.
+If you spend a lot of your time coding, you are preferring an activity that also others can do to something that only you can do.
+If you ever feel that way, and if you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible. But it will be.
 
 
 
