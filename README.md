@@ -1,5 +1,6 @@
 # self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes <sup id="refnote1">[1](#footnote1)</sup> 
+that match *my* experience <sup id="refnote2">[2](#footnote2)</sup>.<br>
 Exceptions to most rules also.. (work in progress)
 
 *On your biggest enemy: yourself*
@@ -43,6 +44,12 @@ Exceptions to most rules also.. (work in progress)
 - [On trust and reputation](#on-trust-and-reputation)
 - [On herd mentality](#on-herd-mentality)
 
+*On management:*
+- [On deep work](#on-deep-work)
+- [On efficiency and productivity](#on-efficiency-and-productivity)
+- [On feedback](#on-feedback)
+- [On meetings](#on-meetings)
+
 *On strategy:*
 - [On planning](#on-planning)
 - [On decision making](#on-decision-making)
@@ -80,19 +87,16 @@ Exceptions to most rules also.. (work in progress)
 *Others:*
 - [On money](#on-money)
 - [On investment](#on-investment)
-- [On deep work](#on-deep-work)
-- [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On starting a business](#on-starting-a-business)
+- [On economics and politics](#on-economics-and-politics)
 - [On science, art and religion](#on-science-art-and-religion)
 - [On aesthetics](#on-aesthetics)
-- [On economics and politics](#on-economics-and-politics)
 
 ###TL;DR 
 
 ###3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
 
-##On your biggest enemy: yourself
 
 ---
 ###On identity
@@ -175,7 +179,7 @@ First learn the rules, then break them.
 
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
-CHALLENGE: Mastery is the main trigger of [arrogance](#). There's always room for improvement: be humble.
+CHALLENGE: Mastery is the main trigger of [arrogance](#on-). There's always room for improvement: be humble.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -240,9 +244,9 @@ Control what you can. Ignore what you can't.
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
-// > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
-
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
+
+> *'Only comedians can speak truth.'*
 
 
 
@@ -286,7 +290,7 @@ Leadership is based on [trust](#on-trust).
 
 > *'People don't follow robots.'*
 
-Being a boss to be equal parts [manager](#) and psychotherapist.
+Being a boss to be equal parts [manager](#on-) and psychotherapist.
 
 > *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
 
@@ -362,18 +366,20 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 > *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
 
-CHALLENGE: 
-
-> *'Don't vow to the gatekeepers. You are the gatekeeper.'*
+CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
 
 
 
 ===
-###On competition
+###On targets
 
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#) you. [Keep your word](#) and prove your worth, the new guy as always to prove himself.'*
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-) you. [Keep your word](#on-) and prove your worth, the new guy as always to prove himself.'*
 
 > *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
+> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
+
+> *'Don't lie to anybody that you are not going kill. Deception is a bad idea. The lie is going to burn you.'*
 
 
 
@@ -441,6 +447,19 @@ networking types: advocates a, boomerang b, celebrities c, drainers d / shark, d
 > *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
 
 > *'Work on the hearts and minds of others.'-- Robert Greene (43rd law of power)*
+
+
+
+===
+###On social inadequacy
+
+creepiness:
+
+Unpredictability.
+Some occupations and hobbies are more linked with creepiness than others.'*
+the most important one: conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of seduction is no place for shutting out external catalysts.
+
+
 
 ===
 ###On relationships
@@ -511,12 +530,6 @@ CHALLENGE:
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
-CHALLENGE:
-
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
-
 
 
 ===
@@ -526,12 +539,18 @@ No one is smarter than a small group.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
+CHALLENGE: Sacrifices.
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+
 
 
 ===
 ###On procrastination
 
-People procrastinate specially when there are no urgency/deadlines: the panic monster
+People procrastinate specially when there are no urgency/deadlines: the panic monster.
 
 > *'Pressed by circumstances, we feel unusually energized and focused.'*
 
@@ -661,7 +680,7 @@ There are no acceptable excuses. End.
 ===
 ###On fear
 
-Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#) are a manifestation of fear.
+Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#on-) are a manifestation of fear.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
 
@@ -805,7 +824,7 @@ CHALLENGE:
 ===
 ###On judging
 
-[Bias](#) makes you underestimate or overestimate something. [Balance](#) is the secret.
+[Bias](#on-) makes you underestimate or overestimate something. [Balance](#on-) is the secret.
 
 > *'Not everything that counts can be counted, and not everything that can be counted counts.'*
 
@@ -850,7 +869,7 @@ Repetition is good for memory but its a thin line between repetition and getting
 
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#)
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-)
 
 
 
@@ -898,17 +917,6 @@ CHALLENGE: The deal will fall if both sides don't take what they need from it.
 
 
 ===
-###On lying
-
-> *'Don't lie to anybody that you are not going kill. Deception is a bad idea. The lie is going to burn you.'*
-
-> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
-
-> *'One of the most potent weapons in the battle for information is giving out false information.'*
-
-
-
-===
 ###On deceiving
 
 > *'Court attention at all cost.' -- Robert Greene (6th law of power)*
@@ -917,12 +925,11 @@ CHALLENGE: The deal will fall if both sides don't take what they need from it.
 
 > *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
 
+CHALLENGE: Deceiving is not lying. Deceiving is indirect.
 
+> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
 
-===
-###On truth
-
-> *'Only comedians can speak truth.'*
+> *'One of the most potent weapons in the battle for information is giving out false information.'*
 
 
 
@@ -937,7 +944,7 @@ Everything is a trade-off.
 
 > *«El dorados» are never drawn in the map.'*
 
-CHALLENGE: There are same fools though. Easy wins if you can [identify](#) them.
+CHALLENGE: There are same fools though. Easy wins if you can [identify](#on-) them.
 
 > *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
 
@@ -946,7 +953,7 @@ CHALLENGE: There are same fools though. Easy wins if you can [identify](#) them.
 ===
 ###On wealth
 
-Being rich is not counting your money all day but having [freedom](#).
+Being rich is not counting your money all day but having [freedom](#on-).
 
 > *'Some people are so poor, all they have is money.'*
 
@@ -1024,7 +1031,7 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 ===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty: people will [envy](#) you.
+Be ambitious. Not thirsty: people will [envy](#on-) you.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
@@ -1039,6 +1046,8 @@ Be ambitious. Not thirsty: people will [envy](#) you.
 > *'Work hard in silence. Let your silence be your noise.'*
 
 > *'Quem não chora não mama.'*
+
+
 
 ===
 ###On mental health: stress
@@ -1081,7 +1090,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 ===
 ###On being too perfect
 
-Being too perfect provokes [envy](#). Intelligence, beauty, [wealth](#), [fortune](#) and [ambition](#) are the main triggers. 
+Being too perfect provokes [envy](#on-). Intelligence, beauty, [wealth](#on-), [fortune](#on-) and [ambition](#on-) are the main triggers. 
 
 > *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
@@ -1455,7 +1464,7 @@ mirroring and reword. repeating the last one to three words of the other person.
 
 > *'Assume formlessness.' -- Robert Greene (48th law of power)*
 
-CHALLENGE: Unpredictability can work against you, specially if you are in a subordinate position, it reduces trust [trust](#)
+CHALLENGE: Unpredictability can work against you, specially if you are in a subordinate position, it reduces trust [trust](#on-)
 
 
 
@@ -1640,18 +1649,18 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 
 
 ===
-###On management
+###On meetings
 
 > *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
-
-> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
-
-> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
 
 
 
 ===
-###On feedback and micro management
+###On feedback
+
+> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
+
+> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
 
 A boss shouldn't add his two cents, specially on subjective stuff, unless he's certain they're needed.
 
@@ -1716,7 +1725,7 @@ I like this. Parents could use the same advice when interacting with children. N
 ===
 ###On selling
 
-Selling is keeping [relationships](#).
+Selling is keeping [relationships](#on-).
 
 > *'Selling by just keeping in touch. send emails once in a while.'*
 
@@ -1745,36 +1754,18 @@ Examples of galaxies are, for example, .'*NET, Cocoa, Node.'*js, PHP, Emacs, SAP
 
 
 ===
-###On being judged
-
-> *'You’re judged by what you do, not what you think.'*
-
-
-
-===
 ###On timing
 
-> *'Master the Art of Timing.' -- Robert Greene (35th law of power)*
+> *'Master the art of timing.' -- Robert Greene (35th law of power)*
 
 
 
 ===
 ###On neutrality
 
-Neutrality is not possible. Anyway preserve your [freedom](#).
+Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
 > *'I am either part of the solution or part of the problem.'*
-
-
-
-===
-###On social inadequacy
-
-creepiness:
-
-Unpredictability.
-Some occupations and hobbies are more linked with creepiness than others.'*
-the most important one: conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of seduction is no place for shutting out external catalysts.
 
 
 
@@ -1787,11 +1778,14 @@ The world is full of consumers. Be a producer.
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
 
+> *'You’re judged by what you do, not what you think.'*
+
 
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Basically this is a database with tagged quotes according my experience. Then I try to resume them in a maxim. [↩](#refnote1)</sup>
+<sup><a name="footnote1">1</a> - Basically this is an informal front-end + database with tagged quotes according my experience. Then I try to resume each tag in a maxim. [↩](#refnote1)</sup><br>
+<sup><a name="footnote2">1</a> - certainly this collection is biased matching my experience and 'mentors' [↩](#refnote2)</sup>
 
 
 
