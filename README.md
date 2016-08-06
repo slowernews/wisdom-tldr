@@ -1,9 +1,8 @@
 # self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes <sup id="refnote1">[1](#footnote1)</sup> 
-that match *my* experience <sup id="refnote2">[2](#footnote2)</sup>.<br>
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
 Exceptions to most rules also.. (work in progress)
 
-*On your biggest enemy: yourself*
+*On your biggest enemy, yourself:*
 - [On identity](#on-identity)
 - [On freedom](#on-freedom)
 - [On happiness and gratefulness](#on-happiness-and-gratefulness)
@@ -200,6 +199,8 @@ Do not truly commit to anything but *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
+> *'The pathway to freedom is discipline.'*
+
 > *'That’s the problem with putting others first; you’ve taught them you come second.'*
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
@@ -209,8 +210,6 @@ Do not truly commit to anything but *yourself*.
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
 > *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
-
-> *'The pathway to freedom is discipline.'*
 
 
 
@@ -234,19 +233,26 @@ Control what you can. Ignore what you can't.
 
 
 ===
-###On integrity and honesty
-
-[Imperfections and shame](#imperfections-and-shame)
-
-> *'My independence is my legacy.' -- Bagão Felix*
-
-> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
+###On integrity
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
+> *'My independence is my legacy.' -- Bagão Felix*
+
+
+
+===
+###On honesty
+
+[Imperfections and shame](#imperfections-and-shame)
+
+> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
+
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
-> *'Only comedians can speak truth.'*
+> *'Only comedians can speak truth without consequences.'*
+
+> *'Don't hide your feelings from people who show you theirs.'*
 
 
 
@@ -255,11 +261,9 @@ Control what you can. Ignore what you can't.
 
 Trust, not money, is the currency of business and life.
 
-Trust is not earned, is exchanged. Disappointment destroys trust.
+Honesty and reputation build trust. Disappointment destroys it. 
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
-
-> *'Don't hide your feelings from people who show you theirs.'*
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
@@ -270,9 +274,9 @@ Trust is not earned, is exchanged. Disappointment destroys trust.
 
 
 ===
-###On leadership, management and influence
+###On leadership, power and influence
 
-Leadership is based on [trust](#on-trust).
+Leadership is based on [trust](#on-trust). People want power because they want autonomy.
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -290,18 +294,11 @@ Leadership is based on [trust](#on-trust).
 
 > *'People don't follow robots.'*
 
+> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+
 Being a boss to be equal parts [manager](#on-) and psychotherapist.
 
 > *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
-
-
-
-===
-###On power
-
-People want power because they want autonomy.
-
-> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
 
 
@@ -371,7 +368,7 @@ CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
 
 
 ===
-###On targets
+###On difficult targets
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-) you. [Keep your word](#on-) and prove your worth, the new guy as always to prove himself.'*
 
@@ -522,6 +519,8 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 
 hiring on culture contribution vs. on culture matching
 
+> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
+
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
 CHALLENGE:
@@ -539,7 +538,7 @@ No one is smarter than a small group.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-CHALLENGE: Sacrifices.
+CHALLENGE: *pawn sacrifices.* Use it very sparse and at your own risk..
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
 
@@ -744,14 +743,14 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
-> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
-
 > *'Speaking openly about a problem is a sign of strength, not a weakness. It's a sign of a weakness to avoid showing signs of weakness. You want to be educating people of what you are doing. Copying an idea has little to do with the codebase being either small or clonable and more with the people behind the idea. And I don't mean just about having courage. Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. Larry and Sergey originally tried to sell Google to Yahoo for $1m. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with. A better, more ambitious idea might seem frightening. A simpler idea might seem more tangible. It could be at least a year before one can convince themselves it's ok to let an old idea die, and at least two years to pursue an ambitious one. Ambitious ideas really are that frightening.If you are not convinced choosing between two ideas like this is hard, here's a simpler test that doesn't even involve a good idea. When you have only a bad idea and no good ones, how long does it take you to stop working on it? Regardless, good ideas will have competition anyway. You can't avoid it. So actively working on the next step of getting feedback on what you have is a sign you are strong enough to take the next steps, however small they seem, as opposed to hiding to avoid competition. Dropbox launched on HN (https://news.'*ycombinator.com/item?id=8863) and their biggest gain wasn't the number of users they got from HN. Their biggest gain was probably that they became less frightened by the idea of one day evolving into a startup with 300m users.
+
+
 
 ===
 ###On hiding and shame
 
-A man is not what he think he is, he is what he hides.
+A man is not what he think he is: he is what he hides.
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
 
@@ -1784,8 +1783,7 @@ The world is full of consumers. Be a producer.
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Basically this is an informal front-end + database with tagged quotes according my experience. Then I try to resume each tag in a maxim. [↩](#refnote1)</sup><br>
-<sup><a name="footnote2">1</a> - certainly this collection is biased matching my experience and 'mentors' [↩](#refnote2)</sup>
+<sup><a name="footnote1">1</a> - Basically this is an informal front-end + database with tagged quotes according my biased experience. Then, I resume each tag in a maxim. [↩](#refnote1)</sup>
 
 
 
