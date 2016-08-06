@@ -288,17 +288,13 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
-> *'The speed of the boss is the speed of the team.'*
-
-> *'There are no bad teams, only bad leaders.'*
-
 > *'People don't follow robots.'*
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
-Being a boss to be equal parts [manager](#on-) and psychotherapist.
-
 > *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
+
+> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
 
 
@@ -369,6 +365,8 @@ CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
 
 ===
 ###On difficult targets
+
+You'll need all weaponry to have a chance of winning.
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-) you. [Keep your word](#on-) and prove your worth, the new guy as always to prove himself.'*
 
@@ -538,6 +536,8 @@ No one is smarter than a small group.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
+> *'There are no bad teams, only bad leaders.'*
+
 CHALLENGE: *pawn sacrifices.* Use it very sparse and at your own risk..
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
@@ -546,6 +546,50 @@ CHALLENGE: *pawn sacrifices.* Use it very sparse and at your own risk..
 
 
 
+===
+###On selling
+
+Selling is keeping [relationships](#on-).
+
+> *'Selling by just keeping in touch. send emails once in a while.'*
+
+> *'If somebody bought it once, somebody will buy it again.'*
+
+
+
+===
+###On reforms
+
+> *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
+
+
+
+===
+###On timing
+
+> *'Master the art of timing.' -- Robert Greene (35th law of power)*
+
+
+
+===
+###On neutrality
+
+Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+
+> *'I am either part of the solution or part of the problem.'*
+
+
+
+===
+###On making
+
+The world is full of consumers. Be a producer.
+
+> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
+
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
+
+> *'You’re judged by what you do, not what you think.'*
 ===
 ###On procrastination
 
@@ -606,7 +650,7 @@ Comfort is the enemy of achievement. You need to break rules to achieve anything
 ===
 ###On improvement
 
-You improve by learning with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+You improve your skills by learning with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -731,6 +775,8 @@ If you say it with confidence, you are what you say you are.
 CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, its walking in not having to compare yourself with anyone at all.'*
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
 
 
 
@@ -1019,15 +1065,6 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 
 
 ===
-###On expectations
-
-> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
-
-> *'Love doesn’t hurt. Expectations do.'*
-
-
-
-===
 ###On ambition and motivation
 
 Be ambitious. Not thirsty: people will [envy](#on-) you.
@@ -1100,11 +1137,6 @@ Being too perfect provokes [envy](#on-). Intelligence, beauty, [wealth](#on-), [
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
----
-###On framing
-
-> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
 
 
@@ -1557,7 +1589,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
-Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.
+> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
 
 > *'Scratch your own itch.'*
 
@@ -1648,136 +1680,62 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 
 
 ===
-###On meetings
+###On management
 
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+Management is about communication. As a manager, you have to have a lot of conversations.
+
+> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+
+A manager should make himself 2 questions a day: 
+
+- «What is important to accomplish?» (where i am I going)
+
+- «Where was I uncomfortable the day before?» (what went right and where do i need support)
+
+The speed that you offload your stuff will be the speed of your team.
+
+> *'The speed of the boss is the speed of the team.'*
+
+Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible. But it will be.
+
+> *'Managing is delegating.'*
+
+> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
+
+Being a boss to be equal parts and psychotherapist.
+
+> *'The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
 
 
 ===
 ###On feedback
 
-> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
+A boss shouldn't add his two cents, specially on subjective stuff, unless he's certain they're needed. This only works when the delivered work is good enough. You delegate a task, and have an expectation about the outcome. It doesn't have to be exactly as you expected it to be.
 
-> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+But if feedback is needed there's some right ways to give it without violating ownership:
 
-A boss shouldn't add his two cents, specially on subjective stuff, unless he's certain they're needed.
+- don't give arbitrary feedback, give a reason («Because» is a great motivator). A common technique I use is "can you take another look at this section for xyz reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
 
-This only works when the work they deliver is "good enough". You delegate a task, and have an expectation about the outcome. It doesn't have to be exactly as you expected it to be, but as long as it's good enough you don't have to give them you're 2c.
-
-If so, give a reason: «You should use the blue that's in the style guide because we agreed as a team that's the shade of blue we should use.» Making arbitrary, small changes is not helpful, but a boss/manager/supervisor/etc should suggest small changes when there's a good reason, and should provide that reason.
-
-> *'«Because» is a great motivator.'*
-
-And ask instead of telling: eg «Why did you decide to put the slides in that order?» This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
-
-Henry Kissinger and simply ask, «Is that the best you can do?»
-
-Management is about communication. As a manager, you have to have a lot of conversations.
-Your productivity as a manager is measured as the productivity of your team. being seated making stuff is not productive.
-I think the key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do.
-managing is delegating.
-If you spend a lot of your time coding, you are preferring an activity that also others can do to something that only you can do.
-If you ever feel that way, and if you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible. But it will be.
-
-
-(where i am I going, what made me uncomfortable yesterday) the speed that you offload your stuff !
-2 questions a day: what is important to accomplish and where was I uncomfortable the day before.
-what went right and where do i need support.
-
-
-I think there's a some right ways to give feedback so that it doesn't violate ownership.
-
-Interesting thought. I happen to do most of my own design. I never do just 1. I come up with 3 and let other people vote on what they like best. I go with majority rules. Therefore, I personally, as the big boss (LOL) never make the final decision because I feel too much ownership and love all of my own ideas too much. That's the other side of the coin without the criticism, we can never grow.
-
-To be honest, I think there are larger problems with this than simply one of ownership. When it is done as stated above, it demonstrates that management doesn't trust their employees to do their jobs because they believe themselves better than who they hired.
-
-Derek, did you post this just to harvest massive amounts of irony from the comments?
-
-In any case, I think a better way to say this is that humility is needed for leadership. Pounding directives down on junior people is absolutely a demotivator. Not giving any direction is also very demotivational.
-
-Gaining an understanding (broad or specific, as the case may be) and giving appropriate feedback makes your juniors feel like what they are doing is important.
+- ask instead of telling: eg. «Why did you decide to put the slides in that order?» This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
 
 Absolutely ask question when appropriate, perhaps only ask questions and lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen!
 
+In any case, humility is needed for leadership. Pounding directives down on junior people is absolutely a demotivator. Not giving any direction is also very demotivational. Gaining an understanding (broad or specific, as the case may be) and giving appropriate feedback makes your juniors feel like what they are doing is important.
 
-This is wildly oversimplified advice, as is evidenced from the long list of dissent on h/n:https://news.ycombinator.com/item?id=12156234
+> *'«Is that the best you can do?» -- Henry Kissinger'*
 
-For example: I work in product marketing, and if I never gave feedback to my design department they would ride rough over the company's entire messaging strategy.
+> *'«Interesting, how do you feel about it?»'*
 
-This oversimplification doesn't deal with areas where the boss is an expert. E.g. "let's make this heading less bold so it doesn't overpower the subtext beneath."
-
-Finally, it's possible to give $0.02 that empowers by sharing the REASON behind your advice. A common technique I use is "can you take another look at this section for xyz reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
-
-boss: What does your team think?
-
-I think you might be right when the boss doesn't have domain expertise on what the employee is doing.
-If you say a: “It’s perfect. Great work!” alone and it's true then fine. But if isn't really that great, you allow full ownership but also comfort their Comfort Zones which isn't something really intelligent to do.
-
-An alternative to help them improve the output without stealing their ownership, is using some rhetorical "Interesting, how do you feel about it?" and perhaps pull a couple more questions like that from there.
-
-Employee didn't use a linter on his/her code, but still looks relatively fine; let it go (no big deal). Employee uses a regex instead of a substring function;
-
-I like this. Parents could use the same advice when interacting with children. Nothing breaks a child's spirit like telling them something they're showing you is "pretty good, but..."
-
-
-===
-###On selling
-
-Selling is keeping [relationships](#on-).
-
-> *'Selling by just keeping in touch. send emails once in a while.'*
-
-> *'If somebody bought it once, somebody will buy it again.'*
+> *'«What does your team think?»'*
 
 
 
 ===
-###On developers
+###On meetings
 
-Top 4 desirable developer skills:
-Ability to ignore new tools and technologies; 
-Taste for simplicity;
-Good code deletion skills;
-Humility.
-
-Examples of galaxies are, for example, .'*NET, Cocoa, Node.'*js, PHP, Emacs, SAP, etc. Each of these features evangelists, developers, bloggers, podcasts, conferences, books, training courses, consulting services, and inclusion problems. Galaxies are built on the assumption that their underlying technology is the answer to all problems. Each galaxy, thus, is based in a wrong assumption.'*
-
-
-
-===
-###On reforms
-
-> *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
-
-
-
-===
-###On timing
-
-> *'Master the art of timing.' -- Robert Greene (35th law of power)*
-
-
-
-===
-###On neutrality
-
-Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
-
-> *'I am either part of the solution or part of the problem.'*
-
-
-
-===
-###On making
-
-The world is full of consumers. Be a producer.
-
-> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
-
-> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
-
-> *'You’re judged by what you do, not what you think.'*
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
 
 
 
