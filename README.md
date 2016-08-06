@@ -1,8 +1,8 @@
 # self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience. <br>
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
 Exceptions to most rules also.. (work in progress)
 
-On yourself
+*On your biggest enemy: yourself*
 - [On identity](#on-identity)
 - [On freedom](#on-freedom)
 - [On happiness and gratefulness](#on-happiness-and-gratefulness)
@@ -29,7 +29,7 @@ On yourself
 - [On mental health: stress](#on-stress)
 - [On physical health](#on-health)
 
-On groups:
+*On groups:*
 - [On relationships](#on-relationships)
 - [On teamwork](#on-teamwork)
 - [On mentorship and giving back](#on-mentorship-and-giving-back)
@@ -43,7 +43,7 @@ On groups:
 - [On trust and reputation](#on-trust-and-reputation)
 - [On herd mentality](#on-herd-mentality)
 
-On strategy:
+*On strategy:*
 - [On planning](#on-planning)
 - [On decision making](#on-decision-making)
 - [On judging](#on-judging)
@@ -71,13 +71,13 @@ On strategy:
 - [On free lunch](#on-free-lunch)
 - [On winning](#on-winning)
 
-On time:
+*On time:*
 - [On past](#on-past)
 - [On present](#on-present)
 - [On future](#on-future)
 - [On mortality](#on-mortality)
 
-Others:
+*Others:*
 - [On money](#on-money)
 - [On investment](#on-investment)
 - [On deep work](#on-deep-work)
@@ -92,6 +92,7 @@ Others:
 ###3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
 
+##On your biggest enemy: yourself
 
 ---
 ###On identity
@@ -114,7 +115,7 @@ You are your deeds. Have personal accountability. Know yourself. Invest in yours
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
-// autenticity
+// authenticity
 
 
 
@@ -140,11 +141,11 @@ Happiness is a journey, not a destination.
 ===
 ###On gratefulness: optimism vs pessimism
 
+Unless you’re winning, most of life will seem hideously unfair to you. It's not.
+
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
-
-> *'Unless you’re winning, most of life will seem hideously unfair to you.'*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
@@ -156,6 +157,8 @@ Happiness is a journey, not a destination.
 Consistency is everything. Habits allow [mastery](#on-mastery-and-humbleness).
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' - Aristotle*
+
+> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
 
 
@@ -169,6 +172,8 @@ First learn the rules, then break them.
 > *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
 
 > *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
+
+> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
 CHALLENGE: Mastery is the main trigger of [arrogance](#). There's always room for improvement: be humble.
 
@@ -201,6 +206,8 @@ Do not truly commit to anything but *yourself*.
 
 > *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
+> *'The pathway to freedom is discipline.'*
+
 
 
 ===
@@ -218,6 +225,8 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have:  ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
+> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
+
 
 
 ===
@@ -232,6 +241,8 @@ Control what you can. Ignore what you can't.
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
 // > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
+
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
 
 
@@ -351,12 +362,19 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 > *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
 
+CHALLENGE: 
+
+> *'Don't vow to the gatekeepers. You are the gatekeeper.'*
+
+
+
 ===
 ###On competition
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#) you. [Keep your word](#) and prove your worth, the new guy as always to prove himself.'*
 
 > *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
 
 
 ===
@@ -420,14 +438,16 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
 
+> *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
 
+> *'Work on the hearts and minds of others.'-- Robert Greene (43rd law of power)*
 
 ===
 ###On relationships
 
 Relationships are based on [trust](#on-trust-and-reputation).
 
-> *'Everything is: a conection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
+> *'Everything is: a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'Forget those who forget you.'*
 
@@ -444,6 +464,8 @@ Relationships are based on [trust](#on-trust-and-reputation).
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
 Every person feels loved in a different form.
+
+
 
 ===
 ###On being hired
@@ -479,11 +501,21 @@ Hire anybody but only retain the best.
 He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
+hiring on culture contribution vs. on culture matching
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
 CHALLENGE:
 
 > *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+CHALLENGE:
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
 
 
 
@@ -501,7 +533,11 @@ No one is smarter than a small group.
 
 People procrastinate specially when there are no urgency/deadlines: the panic monster
 
+> *'Pressed by circumstances, we feel unusually energized and focused.'*
+
 // > *'mark manson on procrastination
+
+
 
 ===
 ###On herd mentality
@@ -519,6 +555,8 @@ Most people are other people. Their thoughts are someone else opinions.
 CHALLENGE:
 
 > *'Taking a fence down without knowing why is there.'*
+
+> *'Common sense is not so common.'*
 
 
 
@@ -588,17 +626,26 @@ You learn by analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
+> *'Take more moments to be reflective. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
+
+> *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
+
+> *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
+
+> *'Write your thoughts. Journal early before your inhibitions take in.'*
+
+
+
+===
+###On analysis
+
 > *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
 > *'Most facts are a «tell» but some are just random.'*
 
 > *'What Susie says of Sally says mores about Susie than of Sally.'*
 
-> *'Take more moments to be reflective. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
-
-> *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
-
-> *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
+> *'«Chekov bottle». If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
 
 
@@ -614,7 +661,7 @@ There are no acceptable excuses. End.
 ===
 ###On fear
 
-Fear can be paralyzing. Replace fear of unknown with curiosity.
+Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#) are a manifestation of fear.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
 
@@ -661,6 +708,8 @@ If you say it with confidence, you are what you say you are.
 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
+> *'Be gentle first with yourself.'*
+
 CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, its walking in not having to compare yourself with anyone at all.'*
@@ -676,7 +725,9 @@ CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
+> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
 
+> *'Speaking openly about a problem is a sign of strength, not a weakness. It's a sign of a weakness to avoid showing signs of weakness. You want to be educating people of what you are doing. Copying an idea has little to do with the codebase being either small or clonable and more with the people behind the idea. And I don't mean just about having courage. Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. Larry and Sergey originally tried to sell Google to Yahoo for $1m. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with. A better, more ambitious idea might seem frightening. A simpler idea might seem more tangible. It could be at least a year before one can convince themselves it's ok to let an old idea die, and at least two years to pursue an ambitious one. Ambitious ideas really are that frightening.If you are not convinced choosing between two ideas like this is hard, here's a simpler test that doesn't even involve a good idea. When you have only a bad idea and no good ones, how long does it take you to stop working on it? Regardless, good ideas will have competition anyway. You can't avoid it. So actively working on the next step of getting feedback on what you have is a sign you are strong enough to take the next steps, however small they seem, as opposed to hiding to avoid competition. Dropbox launched on HN (https://news.'*ycombinator.com/item?id=8863) and their biggest gain wasn't the number of users they got from HN. Their biggest gain was probably that they became less frightened by the idea of one day evolving into a startup with 300m users.
 
 ===
 ###On hiding and shame
@@ -705,6 +756,8 @@ Use the opportunity to re-create yourself.
 > *'Use the surrender tactic: transform weakness into power.' -- Robert Greene (22nd law of power)*
 
 > *'Re-create yourself.' -- Robert Greene (25th law of power)*
+
+> *'Reconciliation is out of the question. Only one side can win, and it must win totally.'*
 
 
 
@@ -739,6 +792,10 @@ Big wins first. Then the details.
 
 > *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
 
+> *'Always look where you want to go, not where you don't want to go.'
+
+> *'Anything that does not bring me alive is too small for me.' -- David Whyte*
+
 CHALLENGE:
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
@@ -763,6 +820,9 @@ CHALLENGE:
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
+> *'If Socrates was right in saying that no one does wrong knowingly, someone who has caused you grief probably didn’t set out to do it on purpose.'*
+
+> *'Never be mean to anybody that can hurt you by doing nothing.'*
 
 
 ===
@@ -771,6 +831,29 @@ CHALLENGE:
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
 > *'You have choices. Choices are experiments.'*
+
+> *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
+
+> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions'*
+
+
+
+===
+###On memory
+
+we forget more future events than past events.
+
+Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
+
+Repetition is good for memory but its a thin line between repetition and getting annoyed.
+
+
+Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
+
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#)
+
+
+
 
 
 
@@ -789,6 +872,23 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'«What can you do?» instead of «Will you do this?». Never negotiate with yes or no questions.'*
 
+> *'the how question? instead of closed end question. yes or no. the how makes people have an opportunity to show how smart they are.'*
+
+> *'tone of voice is a big clue to know with whom are we negotiating:
+- the analytical cold guy is very patience
+- the assertive guy (trump) wants to make it fast
+- the accomodator: relationship is the most important
+
+> *'unexpressed feelings never die.'*
+> *'releasing pressure is different from venting.'*
+> *'the more influence somebody is the more they use we / plural pronoums.'*
+> *'there are so many wingmans breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
+> *'listening for things taht you didnt see. for incongruences.'*
+
+> *'they will hurt, and than say what you have to say. people then are expecting and it doesn hurt as much.'*
+naming the negatives first.'*
+
+
 CHALLENGE: The deal will fall if both sides don't take what they need from it. 
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.'*
@@ -798,7 +898,7 @@ CHALLENGE: The deal will fall if both sides don't take what they need from it.
 
 
 ===
-###On lying and deception
+###On lying
 
 > *'Don't lie to anybody that you are not going kill. Deception is a bad idea. The lie is going to burn you.'*
 
@@ -806,7 +906,23 @@ CHALLENGE: The deal will fall if both sides don't take what they need from it.
 
 > *'One of the most potent weapons in the battle for information is giving out false information.'*
 
-only comedians can speak truth
+
+
+===
+###On deceiving
+
+> *'Court attention at all cost.' -- Robert Greene (6th law of power)*
+
+> *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
+
+> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
+
+
+
+===
+###On truth
+
+> *'Only comedians can speak truth.'*
 
 
 
@@ -830,7 +946,7 @@ CHALLENGE: There are same fools though. Easy wins if you can [identify](#) them.
 ===
 ###On wealth
 
-Being rich is not counting your money all day but being [free](#).
+Being rich is not counting your money all day but having [freedom](#).
 
 > *'Some people are so poor, all they have is money.'*
 
@@ -842,7 +958,7 @@ Being rich is not counting your money all day but being [free](#).
 ===
 ###On success
 
-There are no shortcuts for success. Success is a castle that you build brick by brick.
+There is no shortcut to the top.. Success is a castle that you build brick by brick.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -892,6 +1008,8 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 
 > *'Making mistakes is better than faking perfections.'*
 
+> *'When you don't know something you will pay for it. That's the stupidity tax.*
+
 
 
 ===
@@ -920,7 +1038,7 @@ Be ambitious. Not thirsty: people will [envy](#) you.
 
 > *'Work hard in silence. Let your silence be your noise.'*
 
-
+> *'Quem não chora não mama.'*
 
 ===
 ###On mental health: stress
@@ -929,7 +1047,7 @@ Stress is caused by thinking about the [past](#on-past) or [future](#on-future),
 
 > *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
-> *'Under-stimulation (boredom = anxiety) | Right amount of stress is where we should be (hustling = stretching our confort zone) | Over-stimulation (anxiety)'*
+> *'Under-stimulation (boredom = anxiety) | Right amount of stress (hustling = stretching comfort zone) | Over-stimulation (anxiety)'*
 
 > *'Stress is caused by giving a fuck.'*
 
@@ -946,6 +1064,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'I've decided to be happy because it is good to my health.'*
 
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
+
 
 
 ===
@@ -980,6 +1099,7 @@ Being too perfect provokes [envy](#). Intelligence, beauty, [wealth](#), [fortun
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
 
+
 ---
 ###On past
 
@@ -1010,6 +1130,8 @@ Live in the present. Don't postpone joy.
 
 > *'Now will not be with us forever.'*
 
+> *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
+
 
 
 ===
@@ -1021,7 +1143,7 @@ Dream big.
 
 > *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
 
-> *'Anomalies often represent the future, but to our eyes they seem strange.'*
+> *'Anomalies often represent the future but to our eyes they seem strange.'*
 
 
 
@@ -1051,7 +1173,7 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
 
-> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my axe.' -- Abraham Lincoln*
+> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
@@ -1086,7 +1208,7 @@ CHALLENGE: Don't overthink.
 
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
 
-> *'Peers (fellow creators) are the best avaliators of ideas. Managers are the worse because they are outcome attached (will regret more if they get a false positive than a false negative).'*
+> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (will regret more if they get a false positive than a false negative).'*
 
 > *'Moments of originality and moments of conformity.'*
 
@@ -1139,7 +1261,7 @@ CHALLENGE: You should have a [plan](#on-planning).
 ===
 ###On speaking
 
-Speak less, [listen](#) more.
+Learn how to talk to people. Speak less, [listen](#on-listening) more. 
 
 > *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
 
@@ -1155,12 +1277,17 @@ get better asking questions. they are more important than answers.
 
 > *'Bad liars should speak as little as possible.'*
 
+> *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
+
+
 ===
 ###On listening
 
 Be humble and learn to listen carefully.
 
 > *'Listen to many, speak to a few.' -- William Shakespeare*
+
+> *'Arguing as you're right. Listening as you're wrong.'*
 
 > *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
 
@@ -1191,7 +1318,7 @@ CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 ===
 ###On criticism and envy
 
-Ignore and be flattered by envy. Reduce envy by not appear too [perfect](#on-perfectionism).
+Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-perfectionism).
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -1202,6 +1329,8 @@ Ignore and be flattered by envy. Reduce envy by not appear too [perfect](#on-per
 > *'Intelligence is the most sensitive trigger point for envy.'*
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+
+> *'Só há consensos no 1º e no ultimo minuto de algo.'*
 
 CHALLENGE: Most criticism is envy but beware of blindspots.
 
@@ -1238,21 +1367,31 @@ Plans are not static. Adapt or die.
 
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
+????
+
+> *'The directions to get you anywhere include a few turns. You need to switch strategies a few times to get where you want to go. (defenition of insanity ).'*
+> *'say yes to everything; open - growth / double-down and focus; give - value
+> *'The destination is not the end of the road; its just a stop along the way. An intersection to take you to your next destination.'*
+> *'If you want to try something new, you might be in the YES or no stage in part of your life, but it is time for the yes to everything strategy in another part of your life.'*
+> *'For me it's sometimes scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'*
+
 
 
 ===
-###On desesperate people
+###On desperate people
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
 > *'Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose.'*
+
+> *'use anger only as a tool, when you need it to improve your situation.'*
 
 
 
 ===
 ###On balance: perfectionism and good enough
 
-> *'Overcompensate to make it balanced.' -- Derek Sivers*
+The dose makes the poison. Things in excess become their opposite.
 
 > *'The hardest skill is knowing what could be simplified, and what's good enough.'*
 
@@ -1268,6 +1407,10 @@ If half of the room laughs and half doesn't is a success.
 
 > *'dictator's dilemma:  When 4 out of 5 dentists agree …  we take that as a good recommendation. If it were 5 out of 5 we would say baloney sandwich.
 When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. And speaking of 97%, when his excellency and Great Father of his People, Turkmenistan President Gurbanguly Berdimuhamedov gets 97% of the vote.
+
+PRACTICAL ADVICE: How to balance the unbalanced?
+
+> *'Overcompensate to make it balanced.' -- Derek Sivers*
 
 
 
@@ -1295,6 +1438,10 @@ Finish it. You cannot afford to go halfway.
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
+> *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
+mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
+
+
 
 
 ===
@@ -1306,9 +1453,7 @@ Finish it. You cannot afford to go halfway.
 
 > *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
 
-> *'Assume Formlessness.' -- Robert Greene (48th law of power)*
-
-> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
+> *'Assume formlessness.' -- Robert Greene (48th law of power)*
 
 CHALLENGE: Unpredictability can work against you, specially if you are in a subordinate position, it reduces trust [trust](#)
 
@@ -1430,6 +1575,8 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 
 > *'Science without religion is lame. Religion without science is blind.'*
 
+> *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
+
 > *'Technological progress is like an ax in the hands of a pathological criminal.'*
 
 > *'Science is a wonderful thing if one does not have to earn one's living at it.'*
@@ -1463,6 +1610,8 @@ Be cautious. Entrepreneurs normally take a big risk and offset it with cautious 
 ###On genius
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
+
+> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
 
 
@@ -1524,11 +1673,54 @@ If you spend a lot of your time coding, you are preferring an activity that also
 If you ever feel that way, and if you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible. But it will be.
 
 
+(where i am I going, what made me uncomfortable yesterday) the speed that you offload your stuff !
+2 questions a day: what is important to accomplish and where was I uncomfortable the day before.
+what went right and where do i need support.
+
+
+I think there's a some right ways to give feedback so that it doesn't violate ownership.
+
+Interesting thought. I happen to do most of my own design. I never do just 1. I come up with 3 and let other people vote on what they like best. I go with majority rules. Therefore, I personally, as the big boss (LOL) never make the final decision because I feel too much ownership and love all of my own ideas too much. That's the other side of the coin without the criticism, we can never grow.
+
+To be honest, I think there are larger problems with this than simply one of ownership. When it is done as stated above, it demonstrates that management doesn't trust their employees to do their jobs because they believe themselves better than who they hired.
+
+Derek, did you post this just to harvest massive amounts of irony from the comments?
+
+In any case, I think a better way to say this is that humility is needed for leadership. Pounding directives down on junior people is absolutely a demotivator. Not giving any direction is also very demotivational.
+
+Gaining an understanding (broad or specific, as the case may be) and giving appropriate feedback makes your juniors feel like what they are doing is important.
+
+Absolutely ask question when appropriate, perhaps only ask questions and lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen!
+
+
+This is wildly oversimplified advice, as is evidenced from the long list of dissent on h/n:https://news.ycombinator.com/item?id=12156234
+
+For example: I work in product marketing, and if I never gave feedback to my design department they would ride rough over the company's entire messaging strategy.
+
+This oversimplification doesn't deal with areas where the boss is an expert. E.g. "let's make this heading less bold so it doesn't overpower the subtext beneath."
+
+Finally, it's possible to give $0.02 that empowers by sharing the REASON behind your advice. A common technique I use is "can you take another look at this section for xyz reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
+
+boss: What does your team think?
+
+I think you might be right when the boss doesn't have domain expertise on what the employee is doing.
+If you say a: “It’s perfect. Great work!” alone and it's true then fine. But if isn't really that great, you allow full ownership but also comfort their Comfort Zones which isn't something really intelligent to do.
+
+An alternative to help them improve the output without stealing their ownership, is using some rhetorical "Interesting, how do you feel about it?" and perhaps pull a couple more questions like that from there.
+
+Employee didn't use a linter on his/her code, but still looks relatively fine; let it go (no big deal). Employee uses a regex instead of a substring function;
+
+I like this. Parents could use the same advice when interacting with children. Nothing breaks a child's spirit like telling them something they're showing you is "pretty good, but..."
+
 
 ===
 ###On selling
 
-Selling by just keeping in touch. send emails once in a while.
+Selling is keeping [relationships](#).
+
+> *'Selling by just keeping in touch. send emails once in a while.'*
+
+> *'If somebody bought it once, somebody will buy it again.'*
 
 
 
@@ -1541,3 +1733,67 @@ Taste for simplicity;
 Good code deletion skills;
 Humility.
 
+Examples of galaxies are, for example, .'*NET, Cocoa, Node.'*js, PHP, Emacs, SAP, etc. Each of these features evangelists, developers, bloggers, podcasts, conferences, books, training courses, consulting services, and inclusion problems. Galaxies are built on the assumption that their underlying technology is the answer to all problems. Each galaxy, thus, is based in a wrong assumption.'*
+
+
+
+===
+###On reforms
+
+> *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
+
+
+
+===
+###On being judged
+
+> *'You’re judged by what you do, not what you think.'*
+
+
+
+===
+###On timing
+
+> *'Master the Art of Timing.' -- Robert Greene (35th law of power)*
+
+
+
+===
+###On neutrality
+
+Neutrality is not possible. Anyway preserve your [freedom](#).
+
+> *'I am either part of the solution or part of the problem.'*
+
+
+
+===
+###On social inadequacy
+
+creepiness:
+
+Unpredictability.
+Some occupations and hobbies are more linked with creepiness than others.'*
+the most important one: conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of seduction is no place for shutting out external catalysts.
+
+
+
+===
+###On making
+
+The world is full of consumers. Be a producer.
+
+> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
+
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
+
+
+
+---
+<sup>Notes:</sup><br>
+<sup><a name="footnote1">1</a> - Basically this is a database with tagged quotes according my experience. Then I try to resume them in a maxim. [↩](#refnote1)</sup>
+
+
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Self improvement for Skeptics</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
