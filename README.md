@@ -2,69 +2,83 @@
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
 Exceptions to most rules also.. (work in progress)
 
-*On your biggest enemy: yourself*
+*On foundations*
 - [On identity](#on-identity)
+- [On authenticity](#on-authenticity)
+- [On happiness](#on-happiness)
+- [On gratefulness](#on-gratefulness)
 - [On freedom](#on-freedom)
-- [On happiness and gratefulness](#on-happiness-and-gratefulness)
-- [On optimism vs pessimism](#on-optimism-vs-pessimism)
+- [On integrity](#on-integrity)
+- [On honesty](#on-honesty)
+- [On humbleness](#on-humbleness)
+- [On reputation](#on-reputation)
+- [On ambition and motivation](#on-ambition-and-motivation)
+
+
+*On your enemy: yourself*
+- [On fear](#on-fear)
+- [On excuses](#on-excuses)
+- [On validation](#on-validation)
+- [On confidence](#on-confidence)
+- [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
+- [On hiding](#on-hiding)
+- [On mistakes and failure](#on-mistakes-and-failure)
+- [On mental health: stress](#on-mental-health-stress)
+- [On physical health](#on-physical-health)
+
+
+*On growth*
+- [On success](#on-success)
+- [On achievement](#on-achievement)
 - [On habits](#on-habits)
 - [On mastery](#on-mastery)
-- [On humbleness](#on-humbleness)
-- [On integrity and honesty](#on-integrity-and-honesty)
-- [On being too perfect](#on-being-too-perfect)
-- [On wealth](#on-wealth)
-- [On success](#on-success)
-- [On expectations](#on-expectations)
-- [On achievement](#on-achievement)
+- [On choosing mentors](#on-choosing-mentors)
+- [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On improvement](#on-improvement)
+- [On learning](#on-learning)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
-- [On ambition and motivation](#on-ambition-and-motivation)
-- [On fear and excuses](#on-fear-and-excuses)
-- [On confidence and beliefs](#on-confidence-and-beliefs)
-- [On insecurities and imperfections](#on-insecurities-and-imperfections)
-- [On mistakes and failure](#on-mistakes-and-failure)
-- [On validation](#on-validation)
-- [On shame](#on-shame)
-- [On mental health: stress](#on-stress)
-- [On physical health](#on-health)
 
-*On groups*
-- [On relationships](#on-relationships)
-- [On teamwork](#on-teamwork)
-- [On mentorship and giving back](#on-mentorship-and-giving-back)
-- [On hiring](#on-hiring)
-- [On being hired](#on-being-hired)
+
+*On hierarchy*
 - [On higher ranks](#on-higher-ranks)
 - [On peers](#on-peers)
-- [On networking and socializing](#on-networking-and-socializing)
-- [On criticism and envy](#on-criticism-and-envy)
 - [On leadership and influence](#on-leadership-and-influence)
-- [On trust and reputation](#on-trust-and-reputation)
+- [On teamwork](#on-teamwork)
+
+
+*On being social*
+- [On networking and socializing](#on-networking-and-socializing)
+- [On social inadequacy](#on-social-inadequacy)
+- [On relationships](#on-relationships)
+- [On criticism and envy](#on-criticism-and-envy)
 - [On herd mentality](#on-herd-mentality)
+
 
 *On management*
 - [On deep work](#on-deep-work)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On feedback](#on-feedback)
 - [On meetings](#on-meetings)
+- [On hiring](#on-hiring)
+- [On being hired](#on-being-hired)
+
 
 *On strategy*
 - [On planning](#on-planning)
+- [On creativity](#on-creativity)
 - [On decision making](#on-decision-making)
 - [On judging](#on-judging)
-- [On creativity](#on-creativity)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On starting vs waiting](#on-starting-vs-waiting)
 - [On pace](#on-pace)
-- [On hiding](#on-hiding)
 - [On listening](#on-listening)
 - [On speaking](#on-speaking)
 - [On surrendering](#on-surrendering)
 - [On adapting](#on-adapting)
 - [On control](#on-control)
 - [On attracting](#on-attracting)
-- [On balance: perfectionism and good enough](#on-balance:-perfectionism-and-good-enough)
+- [On balance: perfectionism and good enough](#on-balance-perfectionism-and-good-enough)
 - [On finishing](#on-finishing)
 - [On mirroring](#on-mirroring)
 - [On attacking](#on-attacking)
@@ -77,48 +91,42 @@ Exceptions to most rules also.. (work in progress)
 - [On free lunch](#on-free-lunch)
 - [On winning](#on-winning)
 
+
 *On time*
 - [On past](#on-past)
 - [On present](#on-present)
 - [On future](#on-future)
 - [On mortality](#on-mortality)
 
+
 *Others*
 - [On money](#on-money)
+- [On wealth](#on-wealth)
 - [On investment](#on-investment)
+- [On trust](#on-trust)
 - [On starting a business](#on-starting-a-business)
 - [On economics and politics](#on-economics-and-politics)
 - [On science, art and religion](#on-science-art-and-religion)
 - [On aesthetics](#on-aesthetics)
+- [On being too perfect](#on-being-too-perfect)
+- [On memory](#on-memory)
 
 ###TL;DR 
 
 ###3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
----
-<<<<<<< HEAD
 
-	.|''''|,                                                          '||`  .|'; 
-	||    ||                                                           ||   ||   
-	||    || `||''|,     '||  ||` .|''|, '||  ||` '||''| ('''' .|''|,  ||  '||'  
-	||    ||  ||  ||      `|..||  ||  ||  ||  ||   ||     `'') ||..||  ||   ||   
-	`|....|' .||  ||.         ||  `|..|'  `|..'|. .||.   `...' `|...  .||. .||.  
-	                       ,  |'                                                 
-	                        ''                                                   
-=======
-     ..|''||                                                                '||    .'|. 
-    .|'    ||  .. ...      .... ...   ...   ... ...  ... ..   ....    ....   ||  .||.   
-    ||      ||  ||  ||      '|.  |  .|  '|.  ||  ||   ||' '' ||. '  .|...||  ||   ||    
-    '|.     ||  ||  ||       '|.|   ||   ||  ||  ||   ||     . '|.. ||       ||   ||    
-     ''|...|'  .||. ||.       '|     '|..|'  '|..'|. .||.    |'..|'  '|...' .||. .||.   
-                           .. |                                                         
-                            ''                          
->>>>>>> origin/master
+	  __             __                                           
+	 /  |           /                 |      /    /               
+	(   | ___      (          ___  ___| ___ (___    ___  ___  ___ 
+	|   )|   )     |___ |   )|   )|   )|   )|    | |   )|   )|___ 
+	|__/ |  /      |    |__/ |  / |__/ |__/||__  | |__/ |  /  __/ 
+	                                                              
+
+
 ###On identity
 
 You are your deeds. Have personal accountability. Know yourself. Invest in yourself.
-
-> *'If you try to be something you're not, you end up being nothing.'*
 
 > *'Weakness of attitude becomes weakness of character.'*
 
@@ -130,79 +138,46 @@ You are your deeds. Have personal accountability. Know yourself. Invest in yours
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
-// authenticity
+
+
+===
+###On authenticity
+
+> *'If you try to be something you're not, you end up being nothing.'*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 
 
 ===
 ###On happiness
 
-Happiness is a journey, not a destination.
+Happiness is a journey, not a destination. Everyday is special.
 
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
-
-> *'Love the life you have, while you create the life of your dreams.' -- Hal Elrod*
-
-> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
 > *'Happy life = mastery + belonging + autonomy.'*
 
 > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
 
-> *'Birthdays, Anniversaries, New Years are all special. Always leave a year better than you started it.'*
-
 
 
 ===
-###On gratefulness: optimism vs pessimism
+###On gratefulness
 
-Unless you’re winning, most of life will seem hideously unfair to you. It's not.
+It's not, be grateful.
+
+> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+> *'Love the life you have, while you create the life of your dreams.' -- Hal Elrod*
+
+> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
-
-> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
-
-
-
-===
-###On habits
-
-Consistency is everything. Habits allow [mastery](#on-mastery-and-humbleness).
-
-> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' - Aristotle*
-
-> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
-
-
-
-===
-###On mastery
-
-First learn the rules, then break them. 
-
-> *'Masters are able to ask the kinds of simple questions that most people pass over.'*
-
-> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
-
-> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
-
-> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
-
-CHALLENGE: Mastery is the main trigger of [arrogance](#on-). There's always room for improvement: be humble.
-
-> *'I am not young enough to know everything.' -- Oscar Wilde*
-
-> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
-
-> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
-
-> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are god.'*
 
 
 
@@ -230,25 +205,6 @@ Do not truly commit to anything but *yourself*.
 
 
 ===
-###On control
-
-Control what you can. Ignore what you can't.
-
-> *'You can lead a horse to water but you can’t make him drink.'*
-
-> *'You can only control yourself. Power comes from that.'*
-
-> *'You want everything to stay the same until you’re ready for it to change. But you can’t do that. You can’t expect the whole world to stand still until you’re ready.' -- Gayle Friesen*
-
-> *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
-
-> *'Disdain things you cannot have:  ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
-
-> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
-
-
-
-===
 ###On integrity
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
@@ -260,26 +216,25 @@ Control what you can. Ignore what you can't.
 ===
 ###On honesty
 
-[Imperfections and shame](#imperfections-and-shame)
-
 > *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
-> *'Only comedians can speak truth without consequences.'*
-
 > *'Don't hide your feelings from people who show you theirs.'*
+
+> *'Only comedians can speak truth without consequences.'*
 
 
 
 ===
-###On trust and reputation
+###On humbleness
 
-Trust, not money, is the currency of business and life.
+> *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
-Honesty and reputation build trust. Disappointment destroys it. 
 
-> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
+===
+###On reputation
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
@@ -290,36 +245,99 @@ Honesty and reputation build trust. Disappointment destroys it.
 
 
 ===
-###On having mentors
+###On ambition and motivation
 
-Follow the thought leaders instead of the traffic leaders.
+Be ambitious. Not thirsty or people will [envy](#on-envy) you.
 
-> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
+
+> *'Succeeding at mediocrity isn't a worthwhile life.'*
+
+> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+
+> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
+
+> *'Work until your idols become your rivals.'*
+
+> *'Work hard in silence. Let your silence be your noise.'*
+
+> *'Quem não chora não mama.'*
+
+
+	  __                                                                                                   __ 
+	 /  |                                                                                               / /   
+	(   | ___           ___       ___      ___  ___  ___  _ _       _           __       ___  ___  ___ ( (    
+	|   )|   )    \   )|   )|   )|   )    |___)|   )|___)| | )\   )      \   )|   )|   )|   )|___ |___)| |___
+	|__/ |  /      \_/ |__/ |__/ |        |__  |  / |__  |  /  \_/  -     \_/ |__/ |__/ |     __/ |__  | |    
+	                /                                           /          /                                  
+
+
+###On fear
+
+Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#on-excuses) are a manifestation of fear.
+
+> *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
+
+> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
+
+> *'Our fearlessness shall be our secret weapon.' -- John Green*
+
+> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
+
+> *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
+
+> *'Your limits are where are your fears.'*
+
+> *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
+
+> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
+
+> *'What you fear you attract; what you resist, you make it bigger.'*
+
+> *'The things we fear the most have already happened to us.'
 
 
 
 ===
-###On attracting
+###On excuses
 
-Use absence and value to attract people.
+There are no acceptable excuses. End.
 
-> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+> *'You cannot use your personality type as an excuse.'*
 
-> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
 
-> *'We attract more flies with honey than vinegar.'*
 
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+===
+###On confidence
 
-> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+If you say it with confidence, you are what you say you are.<br>
+I don't care from where you get your confidence, just get it. [Mastery](#on-mastery) and core values are good sources.
 
-> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+> *'You're only as good as your next speech.'*
 
-> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+> *'A speech is a performance. Authenticity is crucial.'*
 
-CHALLENGE: use absence with [moderation](#on-balance).
+> *'Fake it till you make it.'*
 
-> *'Quem muito se ausenta um dia deixa de fazer falta.'*
+> *'Doubt kills more dreams than failure ever will.'*
+
+> *'If you don't believe in yourself. Believe in me who believes in you.'*
+
+> *'Believe you can, and you’re half way there.'*
+
+> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
+> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
+
+> *'Be gentle first with yourself.'*
+
+CHALLENGE: Know the frontier between confidence and arrogance.
+
+> *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
 
 
 
@@ -335,62 +353,153 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 
 ===
-###On humbleness
+###On insecurities, imperfections and shame
 
-> *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
+Speaking openly about a problem is a sign of strength, not a weakness.
+
+> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
+
+> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
+
+> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+
+> *'Nobody feels love when they feel shame.' -- John Townsend*
 
 
 
----
+===
+###On hiding
+
+A man is not what he think he is: he is what he hides.
+
+> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
+
+> *'Well-kept gardens die by pacifism.'*
+
+
+
+===
+###On mistakes and failure
+
+Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of the process.
+
+> *'If you don’t make mistakes, you aren’t really trying.' -- Coleman Hawkins*
+
+> *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
+
+> *'Anyone who has never made a mistake has never tried anything new.'*
+
+> *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
+
+> *'Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.'*
+
+> *'Your past mistakes are meant to guide you, not to define you.'*
+
+> *'You are more than your mistakes.'*
+
+> *'Making mistakes is better than faking perfections.'*
+
+> *'When you don't know something you will pay for it. That's the stupidity tax.'*
+
+
+
+===
+###On mental health: stress
+
+Stress is caused by thinking about the [past](#on-past) or [future](#on-future), by under-stimulation or over-stimulation.
+
+> *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+
+> *'Under-stimulation (boredom = anxiety) | Right amount of stress (hustling = stretching comfort zone) | Over-stimulation (anxiety)'*
+
+> *'Stress is caused by giving a fuck.'*
+
+> *'If you are depressed you are living in the past. <br>
+If you are anxious you are living in the future. <br>
+If you are at peace you are living in the present.' -- Lao Tzu*
+
+> *'Anxiety and depression are symptoms, not diseases.'*
+
+> *'Worry is a misuse of the imagination.'*
+
+> *'The more relaxed you are, the better you are at everything.'*
+
+> *'I've decided to be happy because it is good to my health.'*
+
+> *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
+
+
+
+===
+###On physical health
+
+> *'Take care of your body. It’s the most important thing you’ll get for free.'*
+
+> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
+
+> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)
+
+
 	  __                                         
-	 /  |                                        
-	(   | ___       ___  ___  ___       ___  ___ 
-	|   )|   )     |   )|   )|   )|   )|   )|___ 
-	|__/ |  /      |__/ |    |__/ |__/ |__/  __/ 
-	               __/                 |         
-
-
-###On higher ranks
-
-> *'Never outshine the master.' -- Robert Greene (1st law of power)*
-
-> *'Know who you’re dealing with: do not offend the wrong person.' -- Robert Greene (9th law of power)*
-
-> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
-
-CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
+	 /  |                               /    /   
+	(   | ___       ___  ___  ___      (___ (___ 
+	|   )|   )     |   )|   )|   )|   )|    |   )
+	|__/ |  /      |__/ |    |__/ |/\/ |__  |  / 
+	               __/                           
 
 
 
-===
-###On difficult targets
+###On success
 
-You'll need all weaponry to have a chance of winning.
+There is no shortcut to the top.. Success is a castle that you build brick by brick.
 
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-) you. [Keep your word](#on-) and prove your worth, the new guy as always to prove himself.'*
+> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
-> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
-> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
 
-> *'Don't lie to anybody that you are not going kill. Deception is a bad idea. The lie is going to burn you.'*
+
+###On habits
+
+Consistency is everything. Habits allow [mastery](#on-mastery).
+
+> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' - Aristotle*
+
+> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
 
 
 ===
-###On peers
+###On mastery
 
-Keep your friends for friendship, but work with the skilled and competent.
+First learn the rules, then break them. 
 
-> *'If you're the smartest in the room, you're in the wrong room.'*
+> *'Masters are able to ask the kinds of simple questions that most people pass over.'*
 
-> *'Nobody wants to be the best player in the band.'*
+> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
 
-> *'Work friends are just that, work friends. Nothing more.'*
+> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
 
-> *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
+> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
-> *'You are the sum of the people you surround yourself.'*
+CHALLENGE: Mastery is the main trigger of [arrogance](#on-confidence). There's always room for improvement: be [humble](#on-humbleness).
+
+> *'I am not young enough to know everything.' -- Oscar Wilde*
+
+> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
+
+> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
+
+> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are god.'*
+
+
+
+===
+###On choosing mentors
+
+Follow the thought leaders instead of the traffic leaders.
 
 
 
@@ -409,6 +518,8 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
 
+> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+
 CHALLENGE: Beware to whom are you a mentor.
 
 > *'Do not teach a starving man to fish.'*
@@ -416,218 +527,7 @@ CHALLENGE: Beware to whom are you a mentor.
 
 
 ===
-###On networking and socializing
-
-Be social. Don't [hide](#on-hiding) yourself. A person starts to live when he can live outside himself.
-
-> *'You’re never too old to make a friend. Always be looking for a new one.'*
-
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
-
-> *'Be in the moment instead of being in your head.'*
-
-> *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
-
-> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
-
-> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
-
-On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.
-
-try to hit 10% of your followers instead of trying to hit all of them at the same time.
-
-networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
-
-> *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
-
-> *'Work on the hearts and minds of others.'-- Robert Greene (43rd law of power)*
-
-
-
-===
-###On social inadequacy
-
-creepiness:
-
-Unpredictability.
-Some occupations and hobbies are more linked with creepiness than others.'*
-the most important one: conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of seduction is no place for shutting out external catalysts.
-
-
-
-===
-###On relationships
-
-Relationships are based on [trust](#on-trust-and-reputation).
-
-> *'Everything is: a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
-
-> *'Forget those who forget you.'*
-
-> *'The people that want to stay in your life, will always find a way.'*
-
-> *'If you are lonely when you are not alone, you are in bad company.'*
-
-> *'A great relationship is about finding the similarities and respect the differences.'*
-
-> *'Never love anyone that treats you like you're ordinary.'*
-
-> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
-
-> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
-
-Every person feels loved in a different form.
-
-
-
-===
-###On being hired
-
-Companies will hire you because you are a likable person that «gets shit done».
-
-> *'When applying for a job be more of a consultant than an applicant.'*
-
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
-
-> *'The interesting jobs are the ones that you make up.' -- Chris Young*
-
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
-
-CHALLENGE: Companies don't care about you.
-
-> *'Having a job is risky.'*
-
-> *'If your job doesn't require originality, next decade you might not have one.'*
-
-> *'I work for money, if you want loyalty hire a dog.'*
-
-> *'Avoid the trap of following one set career path.'*
-
-
-
-===
-###On hiring
-
-Hire anybody but only retain the best.
-
-> *'He who works with his hands is a laborer.<br>
-He who works with his hands and his head is a craftsman.<br>
-He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
-hiring on culture contribution vs. on culture matching
-
-> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
-
-CHALLENGE:
-
-> *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
-
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
-
-
-
-===
-###On teamwork
-
-No one is smarter than a small group.
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
-
-> *'There are no bad teams, only bad leaders.'*
-
-CHALLENGE: *pawn sacrifices.* Use it very sparse and at your own risk..
-
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
-
-
-
-===
-###On selling
-
-Selling is keeping [relationships](#on-).
-
-> *'Selling by just keeping in touch. send emails once in a while.'*
-
-> *'If somebody bought it once, somebody will buy it again.'*
-
-
-
-===
-###On reforms
-
-> *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
-
-
-
-===
-###On timing
-
-> *'Master the art of timing.' -- Robert Greene (35th law of power)*
-
-
-
-===
-###On neutrality
-
-Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
-
-> *'I am either part of the solution or part of the problem.'*
-
-
-
-===
-###On making
-
-The world is full of consumers. Be a producer.
-
-> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
-
-> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
-
-> *'You’re judged by what you do, not what you think.'*
-
-
-
-===
-###On procrastination
-
-People procrastinate specially when there are no urgency/deadlines: the panic monster.
-
-> *'Pressed by circumstances, we feel unusually energized and focused.'*
-
-// > *'mark manson on procrastination
-
-
-
-===
-###On herd mentality
-
-Most people are other people. Their thoughts are someone else opinions.
-
-> *'Common sense is the collection of prejudices acquired by age eighteen.'*
-
-> *'People accept the defaults very easily.'*
-
-> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
-
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
-
-CHALLENGE:
-
-> *'Taking a fence down without knowing why is there.'*
-
-> *'Common sense is not so common.'*
-
-
-
-===
-###On achievement 
-
-<!--- comfort and risk) -->
+###On achievement
 
 Comfort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
 
@@ -652,17 +552,22 @@ Comfort is the enemy of achievement. You need to break rules to achieve anything
 ===
 ###On improvement
 
-You improve your skills by learning with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+You improve your skills by continuously [learning](#on-learning), skills are perishable.
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+
+> *'effort * talent = skill'*
+
+
+
+===
+###On learning
+
+You learn by [practice](#on-learning-by-practice) and by [theory](#on-learning-by-theory).
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
-
-> *'Skills are perishable.'*
-
-> *'effort * talent = skill'*
 
 
 
@@ -699,6 +604,213 @@ You learn by analysis of past situations.
 > *'Write your thoughts. Journal early before your inhibitions take in.'*
 
 
+	  __                                                     
+	 /  |           /    /                          /        
+	(   | ___      (___    ___  ___  ___  ___  ___ (___      
+	|   )|   )     |   )| |___)|   )|   )|   )|    |   )\   )
+	|__/ |  /      |  / | |__  |    |__/||    |__  |  /  \_/ 
+	                                                      /  
+
+
+###On higher ranks
+
+> *'Never outshine the master.' -- Robert Greene (1st law of power)*
+
+> *'Know who you’re dealing with: do not offend the wrong person.' -- Robert Greene (9th law of power)*
+
+> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
+
+CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
+
+
+
+===
+###On peers
+
+Keep your friends for friendship, but work with the skilled and competent.
+
+> *'If you're the smartest in the room, you're in the wrong room.'*
+
+> *'Nobody wants to be the best player in the band.'*
+
+> *'Work friends are just that, work friends. Nothing more.'*
+
+> *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
+
+> *'You are the sum of the people you surround yourself.'*
+
+
+	  __                                                              
+	 /  |           /         /                               /      /
+	(   | ___      (___  ___    ___  ___       ___  ___  ___    ___ ( 
+	|   )|   )     |   )|___)| |   )|   )     |___ |   )|    | |   )| 
+	|__/ |  /      |__/ |__  | |  / |__/       __/ |__/ |__  | |__/|| 
+	                                __/                               
+
+
+===
+###On networking and socializing
+
+Be social. Don't [hide](#on-hiding) yourself. A person starts to live when he can live outside himself.
+
+> *'You’re never too old to make a friend. Always be looking for a new one.'*
+
+> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
+
+> *'Be in the moment instead of being in your head.'*
+
+> *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
+
+> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
+
+> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
+
+On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.
+
+try to hit 10% of your followers instead of trying to hit all of them at the same time.
+
+networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
+
+> *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
+
+> *'Work on the hearts and minds of others.'-- Robert Greene (43rd law of power)*
+
+
+
+===
+###On social inadequacy
+
+creepiness: Unpredictability. Some occupations and hobbies are more linked with creepiness than others.'*
+the most important one: conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of seduction is no place for shutting out external catalysts.
+
+
+
+===
+###On relationships
+
+Relationships are based on [trust](#on-trust-and-reputation).
+
+> *'Everything is: a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
+
+> *'Forget those who forget you.'*
+
+> *'The people that want to stay in your life, will always find a way.'*
+
+> *'If you are lonely when you are not alone, you are in bad company.'*
+
+> *'A great relationship is about finding the similarities and respect the differences.'*
+
+> *'Never love anyone that treats you like you're ordinary.'*
+
+> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
+
+> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
+
+Every person feels loved in a different form.
+
+
+
+===
+###On herd mentality
+
+Most people are other people. Their thoughts are someone else opinions.
+
+> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+
+> *'People accept the defaults very easily.'*
+
+> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
+
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
+
+CHALLENGE:
+
+> *'Taking a fence down without knowing why is there.'*
+
+> *'Common sense is not so common.'*
+
+
+	  __                                                   
+	 /  |                /              /                  
+	(   | ___       ___ (___  ___  ___ (___  ___  ___      
+	|   )|   )     |___ |    |   )|   )|    |___)|   )\   )
+	|__/ |  /       __/ |__  |    |__/||__  |__  |__/  \_/ 
+	                                             __/    /  
+
+
+###On timing
+
+> *'Master the art of timing.' -- Robert Greene (35th law of power)*
+
+
+
+===
+###On neutrality
+
+Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+
+> *'I am either part of the solution or part of the problem.'*
+
+
+
+===
+###On attracting
+
+Use absence and value to attract people.
+
+> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+
+> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
+
+> *'We attract more flies with honey than vinegar.'*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+
+> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+
+> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+
+CHALLENGE: use absence with [moderation](#on-balance).
+
+> *'Quem muito se ausenta um dia deixa de fazer falta.'*
+
+
+
+===
+###On difficult targets
+
+You'll need all weaponry to have a chance of winning.
+
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-) you. [Keep your word](#on-) and prove your worth, the new guy as always to prove himself.'*
+
+> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
+> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
+
+> *'Don't lie to anybody that you are not going kill. Deception is a bad idea. The lie is going to burn you.'*
+
+
+
+===
+###On control
+
+Control what you can. Ignore what you can't.
+
+> *'You can lead a horse to water but you can’t make him drink.'*
+
+> *'You can only control yourself. Power comes from that.'*
+
+> *'You want everything to stay the same until you’re ready for it to change. But you can’t do that. You can’t expect the whole world to stand still until you’re ready.' -- Gayle Friesen*
+
+> *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
+
+> *'Disdain things you cannot have:  ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
+
+> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
+
+
 
 ===
 ###On analysis
@@ -710,103 +822,6 @@ You learn by analysis of past situations.
 > *'What Susie says of Sally says mores about Susie than of Sally.'*
 
 > *'«Chekov bottle». If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
-
-
-
-===
-###On excuses
-
-There are no acceptable excuses. End.
-
-> *'You cannot use your personality type as an excuse.'*
-
-
-
-===
-###On fear
-
-Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#on-) are a manifestation of fear.
-
-> *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
-
-> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
-
-> *'Our fearlessness shall be our secret weapon.' -- John Green*
-
-> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
-
-> *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
-
-> *'Your limits are where are your fears.'*
-
-> *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
-
-> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
-
-> *'What you fear you attract; what you resist, you make it bigger.'*
-
-> *'The things we fear the most have already happened to us.'
-
-
-
-===
-###On confidence and beliefs
-
-If you say it with confidence, you are what you say you are.
-
-> *'You're only as good as your next speech.'*
-
-> *'A speech is a performance. Authenticity is crucial.'*
-
-> *'Fake it till you make it.'*
-
-> *'Doubt kills more dreams than failure ever will.'*
-
-> *'If you don't believe in yourself. Believe in me who believes in you.'*
-
-> *'Believe you can, and you’re half way there.'*
-
-> *'Your Beliefs Determine Your Reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
-
-> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
-
-> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
-
-> *'Be gentle first with yourself.'*
-
-CHALLENGE: Know the frontier between confidence and arrogance.
-
-> *'Confidence is not walking into a room thinking you are better than everyone, its walking in not having to compare yourself with anyone at all.'*
-
-> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
-
-
-
-===
-###On insecurities and imperfections
-
-> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
-
-> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
-
-> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
-
-> *'Speaking openly about a problem is a sign of strength, not a weakness. It's a sign of a weakness to avoid showing signs of weakness. You want to be educating people of what you are doing. Copying an idea has little to do with the codebase being either small or clonable and more with the people behind the idea. And I don't mean just about having courage. Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. Larry and Sergey originally tried to sell Google to Yahoo for $1m. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with. A better, more ambitious idea might seem frightening. A simpler idea might seem more tangible. It could be at least a year before one can convince themselves it's ok to let an old idea die, and at least two years to pursue an ambitious one. Ambitious ideas really are that frightening.If you are not convinced choosing between two ideas like this is hard, here's a simpler test that doesn't even involve a good idea. When you have only a bad idea and no good ones, how long does it take you to stop working on it? Regardless, good ideas will have competition anyway. You can't avoid it. So actively working on the next step of getting feedback on what you have is a sign you are strong enough to take the next steps, however small they seem, as opposed to hiding to avoid competition. Dropbox launched on HN (https://news.'*ycombinator.com/item?id=8863) and their biggest gain wasn't the number of users they got from HN. Their biggest gain was probably that they became less frightened by the idea of one day evolving into a startup with 300m users.
-
-
-
-===
-###On hiding and shame
-
-A man is not what he think he is: he is what he hides.
-
-> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
-
-> *'Well-kept gardens die by pacifism.'*
-
-> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
-
-> *'Nobody feels love when they feel shame.' -- John Townsend*
 
 
 
@@ -891,6 +906,7 @@ CHALLENGE:
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
 
 
+
 ===
 ###On decision making
 
@@ -901,25 +917,6 @@ CHALLENGE:
 > *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions'*
-
-
-
-===
-###On memory
-
-we forget more future events than past events.
-
-Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
-
-Repetition is good for memory but its a thin line between repetition and getting annoyed.
-
-
-Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
-
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-)
-
-
-
 
 
 
@@ -1000,33 +997,15 @@ CHALLENGE: There are same fools though. Easy wins if you can [identify](#on-) th
 
 
 
-===
-###On wealth
 
-Being rich is not counting your money all day but having [freedom](#on-).
-
-> *'Some people are so poor, all they have is money.'*
-
-> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
-
-> *'you can spend your time making money but you cant spend your money making time.'*
-
-
-===
-###On success
-
-There is no shortcut to the top.. Success is a castle that you build brick by brick.
-
-> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
-
-> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
 
 
 ===
 ###On managing luck
 
-Luck / random is a pattern. Don't worry, the pendulum will swing back your way eventually.
+Unless you’re winning, most of life will seem hideously unfair to you.<br>
+But Luck is a pattern. Don't worry, the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -1043,109 +1022,14 @@ Luck / random is a pattern. Don't worry, the pendulum will swing back your way e
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
 
-
-===
-###On mistakes and failure
-
-Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of the process.
-
-> *'If you don’t make mistakes, you aren’t really trying.' -- Coleman Hawkins*
-
-> *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
-
-> *'Anyone who has never made a mistake has never tried anything new.'*
-
-> *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
-
-> *'Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.'*
-
-> *'Your past mistakes are meant to guide you, not to define you.'*
-
-> *'You are more than your mistakes.'*
-
-> *'Making mistakes is better than faking perfections.'*
-
-> *'When you don't know something you will pay for it. That's the stupidity tax.'*
+	  __                            
+	 /  |           /    /          
+	(   | ___      (___    _ _  ___ 
+	|   )|   )     |    | | | )|___)
+	|__/ |  /      |__  | |  / |__  
 
 
-
-===
-###On ambition and motivation
-
-Be ambitious. Not thirsty: people will [envy](#on-) you.
-
-> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
-
-> *'Succeeding at mediocrity isn't a worthwhile life.'*
-
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
-
-> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
-
-> *'Work until your idols become your rivals.'*
-
-> *'Work hard in silence. Let your silence be your noise.'*
-
-> *'Quem não chora não mama.'*
-
-
-
-===
-###On mental health: stress
-
-Stress is caused by thinking about the [past](#on-past) or [future](#on-future), by under-stimulation or over-stimulation.
-
-> *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
-
-> *'Under-stimulation (boredom = anxiety) | Right amount of stress (hustling = stretching comfort zone) | Over-stimulation (anxiety)'*
-
-> *'Stress is caused by giving a fuck.'*
-
-> *'If you are depressed you are living in the past. <br>
-If you are anxious you are living in the future. <br>
-If you are at peace you are living in the present.' -- Lao Tzu*
-
-> *'Anxiety and depression are symptoms, not diseases.'*
-
-> *'Worry is a misuse of the imagination.'*
-
-> *'The more relaxed you are, the better you are at everything.'*
-
-> *'I've decided to be happy because it is good to my health.'*
-
-> *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
-
-
-
-===
-###On physical health
-
-> *'Take care of your body. It’s the most important thing you’ll get for free.'*
-
-> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
-
-> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)
-
-
-
-===
-###On being too perfect
-
-Being too perfect provokes [envy](#on-). Intelligence, beauty, [wealth](#on-), [fortune](#on-) and [ambition](#on-) are the main triggers. 
-
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
-
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
-
-> *'Beauty is not a gift, it is a burden.'*
-
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
-
-
----
+                                
 ###On past
 
 Let go.
@@ -1256,6 +1140,8 @@ CHALLENGE: Don't overthink.
 > *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (will regret more if they get a false positive than a false negative).'*
 
 > *'Moments of originality and moments of conformity.'*
+
+> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. Larry and Sergey originally tried to sell Google to Yahoo for $1m. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with. A better, more ambitious idea might seem frightening. A simpler idea might seem more tangible. It could be at least a year before one can convince themselves it's OK to let an old idea die, and at least two years to pursue an ambitious one. Ambitious ideas really are that frightening. If you are not convinced choosing between two ideas like this is hard, here's a simpler test that doesn't even involve a good idea. When you have only a bad idea and no good ones, how long does it take you to stop working on it? Regardless, good ideas will have competition anyway. You can't avoid it. So actively working on the next step of getting feedback on what you have is a sign you are strong enough to take the next steps, however small they seem, as opposed to hiding to avoid competition. Dropbox launched on HN and their biggest gain wasn't the number of users they got from HN. Their biggest gain was probably that they became less frightened by the idea of one day evolving into a startup with 300m users.' -- yellow_and_gray*
 
 
 
@@ -1547,8 +1433,212 @@ It's not a question of simply winning the war but the way you win it sets you up
 // > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
 
 
+	  __                                                             
+	 /  |                                                        /   
+	(   | ___       _ _  ___  ___  ___  ___  ___  _ _  ___  ___ (___ 
+	|   )|   )     | | )|   )|   )|   )|   )|___)| | )|___)|   )|    
+	|__/ |  /      |  / |__/||  / |__/||__/ |__  |  / |__  |  / |__  
+	                                   __/                           
 
----
+
+###On efficiency and productivity
+
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
+> *'Lazy is what the jealous call efficiency.'*
+
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'Productivity is different from workflow engineering.'*
+
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
+===
+###On being hired
+
+Companies will hire you because you are a likable person that «gets shit done».
+
+> *'When applying for a job be more of a consultant than an applicant.'*
+
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+
+> *'The interesting jobs are the ones that you make up.' -- Chris Young*
+
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
+
+CHALLENGE: Companies don't care about you.
+
+> *'Having a job is risky.'*
+
+> *'If your job doesn't require originality, next decade you might not have one.'*
+
+> *'I work for money, if you want loyalty hire a dog.'*
+
+> *'Avoid the trap of following one set career path.'*
+
+
+
+===
+###On hiring
+
+Hire anybody but only retain the best.
+
+> *'He who works with his hands is a laborer.<br>
+He who works with his hands and his head is a craftsman.<br>
+He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
+
+hiring on culture contribution vs. on culture matching
+
+> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+CHALLENGE:
+
+> *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
+
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+===
+###On deep work
+
+> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
+
+> *'Too busy pretending I'm occupied.'*
+
+
+
+===
+###On leadership, power and influence
+
+Leadership is based on [trust](#on-trust). People want power because they want autonomy.
+
+> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+
+> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+
+> *'Be royal in your own fashion:  Act like a king to be treated like one.' -- Robert Greene (34th law of power)*
+
+> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
+
+> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
+
+> *'People don't follow robots.'*
+
+> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+
+> *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
+
+> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
+
+===
+###On teamwork
+
+No one is smarter than a small group.
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+> *'There are no bad teams, only bad leaders.'*
+
+CHALLENGE: *pawn sacrifices.* Use it very sparse and at your own risk..
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+
+
+
+===
+###On selling
+
+Selling is keeping [relationships](#on-).
+
+> *'Selling by just keeping in touch. send emails once in a while.'*
+
+> *'If somebody bought it once, somebody will buy it again.'*
+
+
+
+===
+###On micro-management
+
+Management is about communication.
+
+> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+
+A manager should make himself 2 questions a day: 
+
+- «What is important to accomplish?» (where i am I going)
+
+- «Where was I uncomfortable the day before?» (what went right and where do i need support)
+
+The speed that you offload your stuff will be the speed of your team.
+
+> *'The speed of the boss is the speed of the team.'*
+
+Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible. But it will be.
+
+> *'Managing is delegating.'*
+
+> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
+
+Being a boss to be equal parts and psychotherapist.
+
+> *'The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
+
+
+
+===
+###On feedback
+
+A boss shouldn't add his two cents, specially on subjective stuff, unless he's certain they're needed. This only works when the delivered work is good enough. You delegate a task, and have an expectation about the outcome. It doesn't have to be exactly as you expected it to be.
+
+But if feedback is needed there's some right ways to give it without violating ownership:
+
+- don't give arbitrary feedback, give a reason («Because» is a great motivator). A common technique I use is "can you take another look at this section for xyz reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
+
+- ask instead of telling: eg. «Why did you decide to put the slides in that order?» This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
+
+Absolutely ask question when appropriate, perhaps only ask questions and lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen!
+
+In any case, humility is needed for leadership. Pounding directives down on junior people is absolutely a demotivator. Not giving any direction is also very demotivational. Gaining an understanding (broad or specific, as the case may be) and giving appropriate feedback makes your juniors feel like what they are doing is important.
+
+> *'«Is that the best you can do?» -- Henry Kissinger'*
+
+> *'«Interesting, how do you feel about it?»'*
+
+> *'«What does your team think?»'*
+
+
+
+===
+###On meetings
+
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+
+
+	  __                          
+	 /  | /    /                  
+	(   |(___ (___  ___  ___  ___ 
+	|   )|    |   )|___)|   )|___ 
+	|__/ |__  |  / |__  |     __/ 
+
+
+
+===
+###On wealth
+
+Being rich is not counting your money all day but having [freedom](#on-).
+
+> *'Some people are so poor, all they have is money.'*
+
+> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
+
+> *'you can spend your time making money but you cant spend your money making time.'*
+
+
+                              
 ###On money
 
 Making money is adding value.
@@ -1578,6 +1668,16 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Stock buybacks are effectively same as dividends.'*
 
 > *'Wherever oil goes, the stock market goes.'*
+
+
+
+===
+###On trust
+
+Trust, not money, is the currency of business and life.<br>
+[Honesty](#on-honesty) and [reputation](#on-reputation) build trust. Disappointment destroys it. 
+
+> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
 
 
@@ -1658,122 +1758,69 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
----
 
-	.|''''|,                                                                                            ||    
-	||    ||                                                                                            ||    
-	||    || `||''|,     '||),,(|,   '''|.  `||''|,   '''|.  .|''|, .|''|, '||),,(|,  .|''|, `||''|,  ''||''  
-	||    ||  ||  ||      || || ||  .|''||   ||  ||  .|''||  ||  || ||..||  || || ||  ||..||  ||  ||    ||    
-	`|....|' .||  ||.    .||    ||. `|..||. .||  ||. `|..||. `|..|| `|...  .||    ||. `|...  .||  ||.   `|..' 
-	                                                             ||                                           
-	                                                          `..|'                                           
 
-###On efficiency and productivity
+===
+###On making
 
-> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+The world is full of consumers. Be a producer.
 
-> *'Lazy is what the jealous call efficiency.'*
+> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
 
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
 
-> *'Productivity is different from workflow engineering.'*
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+> *'You’re judged by what you do, not what you think.'*
 
 
 
 ===
-###On deep work
+###On procrastination
 
-> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
+People procrastinate specially when there are no urgency/deadlines: the panic monster.
 
-> *'Too busy pretending I'm occupied.'*
+> *'Pressed by circumstances, we feel unusually energized and focused.'*
 
+// > *'mark manson on procrastination
 
-
-===
-###On leadership, power and influence
-
-Leadership is based on [trust](#on-trust). People want power because they want autonomy.
-
-> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
-
-> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
-
-> *'Be royal in your own fashion:  Act like a king to be treated like one.' -- Robert Greene (34th law of power)*
-
-> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
-
-> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
-
-> *'People don't follow robots.'*
-
-> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
-
-> *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
-
-> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
 
 
 ===
-###On micro-management
+###On being too perfect
 
-Management is about communication.
+Being too perfect provokes [envy](#on-). Intelligence, beauty, [wealth](#on-), [fortune](#on-) and [ambition](#on-) are the main triggers. 
 
-> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
-A manager should make himself 2 questions a day: 
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
 
-- «What is important to accomplish?» (where i am I going)
+> *'Beauty is not a gift, it is a burden.'*
 
-- «Where was I uncomfortable the day before?» (what went right and where do i need support)
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
-The speed that you offload your stuff will be the speed of your team.
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
-> *'The speed of the boss is the speed of the team.'*
 
-Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible. But it will be.
+===
+###On memory
 
-> *'Managing is delegating.'*
+we forget more future events than past events.
 
-> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
+Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
 
-Being a boss to be equal parts and psychotherapist.
+Repetition is good for memory but its a thin line between repetition and getting annoyed.
 
-> *'The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
+
+Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
+
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-)
 
 
 
 ===
-###On feedback
+###On reforms
 
-A boss shouldn't add his two cents, specially on subjective stuff, unless he's certain they're needed. This only works when the delivered work is good enough. You delegate a task, and have an expectation about the outcome. It doesn't have to be exactly as you expected it to be.
-
-But if feedback is needed there's some right ways to give it without violating ownership:
-
-- don't give arbitrary feedback, give a reason («Because» is a great motivator). A common technique I use is "can you take another look at this section for xyz reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
-
-- ask instead of telling: eg. «Why did you decide to put the slides in that order?» This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
-
-Absolutely ask question when appropriate, perhaps only ask questions and lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen!
-
-In any case, humility is needed for leadership. Pounding directives down on junior people is absolutely a demotivator. Not giving any direction is also very demotivational. Gaining an understanding (broad or specific, as the case may be) and giving appropriate feedback makes your juniors feel like what they are doing is important.
-
-> *'«Is that the best you can do?» -- Henry Kissinger'*
-
-> *'«Interesting, how do you feel about it?»'*
-
-> *'«What does your team think?»'*
-
-
-
-===
-###On meetings
-
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
-
+> *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 
 ---
