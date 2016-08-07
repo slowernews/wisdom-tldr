@@ -115,13 +115,13 @@ Exceptions to most rules also.. (work in progress)
 
 ###3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
-
-	  __             __                                           
-	 /  |           /                 |      /    /               
-	(   | ___      (          ___  ___| ___ (___    ___  ___  ___ 
-	|   )|   )     |___ |   )|   )|   )|   )|    | |   )|   )|___ 
-	|__/ |  /      |    |__/ |  / |__/ |__/||__  | |__/ |  /  __/ 
-	                                                              
+===
+	  __             __                                                
+	 /  |           /                      |      /    /               
+	(   | ___      (     ___       ___  ___| ___ (___    ___  ___  ___ 
+	|   )|   )     |___ |   )|   )|   )|   )|   )|    | |   )|   )|___ 
+	|__/ |  /      |    |__/ |__/ |  / |__/ |__/||__  | |__/ |  /  __/ 
+	                                                                   
 
 
 ###On identity
@@ -167,11 +167,9 @@ Happiness is a journey, not a destination. Everyday is special.
 ===
 ###On gratefulness
 
-It's not, be grateful.
+Love the life you have, while you create the life of your dreams.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
-
-> *'Love the life you have, while you create the life of your dreams.' -- Hal Elrod*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
@@ -263,7 +261,7 @@ Be ambitious. Not thirsty or people will [envy](#on-envy) you.
 
 > *'Quem não chora não mama.'*
 
-
+===
 	  __                                                                                                   __ 
 	 /  |                                                                                               / /   
 	(   | ___           ___       ___      ___  ___  ___  _ _       _           __       ___  ___  ___ ( (    
@@ -311,7 +309,7 @@ There are no acceptable excuses. End.
 ###On confidence
 
 If you say it with confidence, you are what you say you are.<br>
-I don't care from where you get your confidence, just get it. [Mastery](#on-mastery) and core values are good sources.
+Don't care from where you get your confidence, just get it. [Mastery](#on-mastery) and core values are good sources.
 
 > *'You're only as good as your next speech.'*
 
@@ -441,7 +439,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)
 
-
+===
 	  __                                         
 	 /  |                               /    /   
 	(   | ___       ___  ___  ___      (___ (___ 
@@ -603,7 +601,7 @@ You learn by analysis of past situations.
 
 > *'Write your thoughts. Journal early before your inhibitions take in.'*
 
-
+===
 	  __                                                     
 	 /  |           /    /                          /        
 	(   | ___      (___    ___  ___  ___  ___  ___ (___      
@@ -639,7 +637,7 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 > *'You are the sum of the people you surround yourself.'*
 
-
+===
 	  __                                                              
 	 /  |           /         /                               /      /
 	(   | ___      (___  ___    ___  ___       ___  ___  ___    ___ ( 
@@ -729,7 +727,7 @@ CHALLENGE:
 
 > *'Common sense is not so common.'*
 
-
+===
 	  __                                                   
 	 /  |                /              /                  
 	(   | ___       ___ (___  ___  ___ (___  ___  ___      
@@ -997,15 +995,11 @@ CHALLENGE: There are same fools though. Easy wins if you can [identify](#on-) th
 
 
 
-
-
-
-
 ===
 ###On managing luck
 
 Unless you’re winning, most of life will seem hideously unfair to you.<br>
-But Luck is a pattern. Don't worry, the pendulum will swing back your way eventually.
+But luck is a pattern. Don't worry, the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -1022,74 +1016,7 @@ But Luck is a pattern. Don't worry, the pendulum will swing back your way eventu
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
 
-	  __                            
-	 /  |           /    /          
-	(   | ___      (___    _ _  ___ 
-	|   )|   )     |    | | | )|___)
-	|__/ |  /      |__  | |  / |__  
 
-
-                                
-###On past
-
-Let go.
-
-> *'He'd wasted most of his life thinking he'd wasted most of his life'*
-
-> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
-
-> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
-
-> *'Never regret something that once made you smile.'*
-
-> *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
-
-> *'Stop looking for happiness in the same place where you lost it.'*
-
-
-
-===
-###On present
-
-Live in the present. Don't postpone joy.
-
-> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
-
-> *'Never get so busy making a living that you forget to make a life.'*
-
-> *'Now will not be with us forever.'*
-
-> *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
-
-
-
-===
-###On future
-
-Dream big.
-
-> *'If your dreams don't scare you, they are not big enough.'*
-
-> *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
-
-> *'Anomalies often represent the future but to our eyes they seem strange.'*
-
-
-
-===
-###On mortality
-
-You will die soon. Act accordingly. You'll never be as young as you are today.
-
-> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
-
-> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
-
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
-
-
-
----
 ###On planning
 
 Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
@@ -1432,7 +1359,73 @@ It's not a question of simply winning the war but the way you win it sets you up
 
 // > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
 
+===
+	  __                            
+	 /  |           /    /          
+	(   | ___      (___    _ _  ___ 
+	|   )|   )     |    | | | )|___)
+	|__/ |  /      |__  | |  / |__  
 
+
+                                
+###On past
+
+Let go.
+
+> *'He'd wasted most of his life thinking he'd wasted most of his life'*
+
+> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
+
+> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
+
+> *'Never regret something that once made you smile.'*
+
+> *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
+
+> *'Stop looking for happiness in the same place where you lost it.'*
+
+
+
+===
+###On present
+
+Live in the present. Don't postpone joy.
+
+> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
+
+> *'Never get so busy making a living that you forget to make a life.'*
+
+> *'Now will not be with us forever.'*
+
+> *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
+
+
+
+===
+###On future
+
+Dream big.
+
+> *'If your dreams don't scare you, they are not big enough.'*
+
+> *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
+
+> *'Anomalies often represent the future but to our eyes they seem strange.'*
+
+
+
+===
+###On mortality
+
+You will die soon. Act accordingly. You'll never be as young as you are today.
+
+> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
+
+> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
+
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
+
+===
 	  __                                                             
 	 /  |                                                        /   
 	(   | ___       _ _  ___  ___  ___  ___  ___  _ _  ___  ___ (___ 
@@ -1499,6 +1492,8 @@ CHALLENGE:
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
+
+
 ===
 ###On deep work
 
@@ -1530,6 +1525,8 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 > *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
+
+
 
 ===
 ###On teamwork
@@ -1617,7 +1614,7 @@ In any case, humility is needed for leadership. Pounding directives down on juni
 
 > *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
 
-
+===
 	  __                          
 	 /  | /    /                  
 	(   |(___ (___  ___  ___  ___ 
