@@ -95,9 +95,14 @@ Exceptions to most rules also.. (work in progress)
 
 ###3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
-
-
 ---
+     ..|''||                                                                '||    .'|. 
+    .|'    ||  .. ...      .... ...   ...   ... ...  ... ..   ....    ....   ||  .||.   
+    ||      ||  ||  ||      '|.  |  .|  '|.  ||  ||   ||' '' ||. '  .|...||  ||   ||    
+    '|.     ||  ||  ||       '|.|   ||   ||  ||  ||   ||     . '|.. ||       ||   ||    
+     ''|...|'  .||. ||.       '|     '|..|'  '|..'|. .||.    |'..|'  '|...' .||. .||.   
+                           .. |                                                         
+                            ''                          
 ###On identity
 
 You are your deeds. Have personal accountability. Know yourself. Invest in yourself.
