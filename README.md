@@ -2,7 +2,7 @@
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
 Exceptions to most rules also.. (work in progress)
 
-*On your biggest enemy, yourself:*
+*On your biggest enemy: yourself*
 - [On identity](#on-identity)
 - [On freedom](#on-freedom)
 - [On happiness and gratefulness](#on-happiness-and-gratefulness)
@@ -29,7 +29,7 @@ Exceptions to most rules also.. (work in progress)
 - [On mental health: stress](#on-stress)
 - [On physical health](#on-health)
 
-*On groups:*
+*On groups*
 - [On relationships](#on-relationships)
 - [On teamwork](#on-teamwork)
 - [On mentorship and giving back](#on-mentorship-and-giving-back)
@@ -43,13 +43,13 @@ Exceptions to most rules also.. (work in progress)
 - [On trust and reputation](#on-trust-and-reputation)
 - [On herd mentality](#on-herd-mentality)
 
-*On management:*
+*On management*
 - [On deep work](#on-deep-work)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On feedback](#on-feedback)
 - [On meetings](#on-meetings)
 
-*On strategy:*
+*On strategy*
 - [On planning](#on-planning)
 - [On decision making](#on-decision-making)
 - [On judging](#on-judging)
@@ -77,13 +77,13 @@ Exceptions to most rules also.. (work in progress)
 - [On free lunch](#on-free-lunch)
 - [On winning](#on-winning)
 
-*On time:*
+*On time*
 - [On past](#on-past)
 - [On present](#on-present)
 - [On future](#on-future)
 - [On mortality](#on-mortality)
 
-*Others:*
+*Others*
 - [On money](#on-money)
 - [On investment](#on-investment)
 - [On starting a business](#on-starting-a-business)
@@ -98,6 +98,14 @@ Exceptions to most rules also.. (work in progress)
 
 
 ---
+
+	.|''''|,                                                          '||`  .|'; 
+	||    ||                                                           ||   ||   
+	||    || `||''|,     '||  ||` .|''|, '||  ||` '||''| ('''' .|''|,  ||  '||'  
+	||    ||  ||  ||      `|..||  ||  ||  ||  ||   ||     `'') ||..||  ||   ||   
+	`|....|' .||  ||.         ||  `|..|'  `|..'|. .||.   `...' `|...  .||. .||.  
+	                       ,  |'                                                 
+	                        ''                                                   
 ###On identity
 
 You are your deeds. Have personal accountability. Know yourself. Invest in yourself.
@@ -274,31 +282,6 @@ Honesty and reputation build trust. Disappointment destroys it.
 
 
 ===
-###On leadership, power and influence
-
-Leadership is based on [trust](#on-trust). People want power because they want autonomy.
-
-> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
-
-> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
-
-> *'Be royal in your own fashion:  Act like a king to be treated like one.' -- Robert Greene (34th law of power)*
-
-> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
-
-> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
-
-> *'People don't follow robots.'*
-
-> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
-
-> *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
-
-> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
-
-
-
-===
 ###On having mentors
 
 Follow the thought leaders instead of the traffic leaders.
@@ -350,7 +333,15 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 
 
-===
+---
+	  __                                         
+	 /  |                                        
+	(   | ___       ___  ___  ___       ___  ___ 
+	|   )|   )     |   )|   )|   )|   )|   )|___ 
+	|__/ |  /      |__/ |    |__/ |__/ |__/  __/ 
+	               __/                 |         
+
+
 ###On higher ranks
 
 > *'Never outshine the master.' -- Robert Greene (1st law of power)*
@@ -590,6 +581,9 @@ The world is full of consumers. Be a producer.
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
 
 > *'You’re judged by what you do, not what you think.'*
+
+
+
 ===
 ###On procrastination
 
@@ -941,17 +935,20 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 > *'tone of voice is a big clue to know with whom are we negotiating:
 - the analytical cold guy is very patience
 - the assertive guy (trump) wants to make it fast
-- the accomodator: relationship is the most important
+- the accomodator: relationship is the most important'*
 
 > *'unexpressed feelings never die.'*
+
 > *'releasing pressure is different from venting.'*
+
 > *'the more influence somebody is the more they use we / plural pronoums.'*
+
 > *'there are so many wingmans breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
+
 > *'listening for things taht you didnt see. for incongruences.'*
 
 > *'they will hurt, and than say what you have to say. people then are expecting and it doesn hurt as much.'*
 naming the negatives first.'*
-
 
 CHALLENGE: The deal will fall if both sides don't take what they need from it. 
 
@@ -1060,7 +1057,7 @@ Sometimes you win. Sometimes you learn. Fail fast and accept failure as part of 
 
 > *'Making mistakes is better than faking perfections.'*
 
-> *'When you don't know something you will pay for it. That's the stupidity tax.*
+> *'When you don't know something you will pay for it. That's the stupidity tax.'*
 
 
 
@@ -1653,9 +1650,16 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
+---
 
+	.|''''|,                                                                                            ||    
+	||    ||                                                                                            ||    
+	||    || `||''|,     '||),,(|,   '''|.  `||''|,   '''|.  .|''|, .|''|, '||),,(|,  .|''|, `||''|,  ''||''  
+	||    ||  ||  ||      || || ||  .|''||   ||  ||  .|''||  ||  || ||..||  || || ||  ||..||  ||  ||    ||    
+	`|....|' .||  ||.    .||    ||. `|..||. .||  ||. `|..||. `|..|| `|...  .||    ||. `|...  .||  ||.   `|..' 
+	                                                             ||                                           
+	                                                          `..|'                                           
 
-===
 ###On efficiency and productivity
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
@@ -1680,9 +1684,34 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 
 ===
-###On management
+###On leadership, power and influence
 
-Management is about communication. As a manager, you have to have a lot of conversations.
+Leadership is based on [trust](#on-trust). People want power because they want autonomy.
+
+> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+
+> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+
+> *'Be royal in your own fashion:  Act like a king to be treated like one.' -- Robert Greene (34th law of power)*
+
+> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
+
+> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
+
+> *'People don't follow robots.'*
+
+> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+
+> *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
+
+> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
+
+
+
+===
+###On micro-management
+
+Management is about communication.
 
 > *'Spend 1 hour a day just talking to your people and everything will be OK.'*
 
