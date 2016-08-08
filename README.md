@@ -380,7 +380,7 @@ Comfort is the enemy of achievement. You need to break rules to achieve anything
 ===
 ###On improvement
 
-You improve your skills by continuously learning: skills are perishable.<br>
+You improve by continuously learning: skills are perishable.<br>
 You improve by [practice](#on-learning-by-practice) and by [theory](#on-learning-by-theory).
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
@@ -1416,9 +1416,7 @@ Companies will hire you because you are a likable person that «gets shit done»
 
 > *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
-CHALLENGE: Companies don't care about you.
-
-> *'Having a job is risky.'*
+CHALLENGE: Companies don't care about you. Having a job is risky.
 
 > *'If your job doesn't require originality, next decade you might not have one.'*
 
@@ -1518,9 +1516,9 @@ No one is smarter than a small group.
 
 > *'There are no bad teams, only bad leaders.'*
 
-CHALLENGE: *pawn sacrifices.* Use it very sparse and at your own risk..
+CHALLENGE: *pawn sacrifices.* Use it only on life changing situations and at your own risk.
 
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)* ???
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
 > *'Keep your hands clean.' -- Robert Greene (26th law of power)*
 
@@ -1841,8 +1839,6 @@ Being too perfect provokes [envy](#on-criticism-and-envy). [Intelligence](#on-in
 Selling is keeping relationships.
 
 > *'Selling by just keeping in touch. send emails once in a while.'*
-
-> *'If somebody bought it once, somebody will buy it again.'*
 
 
 
