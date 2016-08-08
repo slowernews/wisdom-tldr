@@ -58,16 +58,16 @@ Exceptions to most rules also.. (work in progress)
 - [On starting vs waiting](#on-starting-vs-waiting)
 - [On timing](#on-timing)
 - [On pace](#on-pace)
+- [On attacking](#on-attacking)
+- [On defending](#on-defending)
+- [On counter-attacking](#on-counter-attacking)
 - [On negotiation](#on-negotiation)
 - [On listening](#on-listening)
 - [On speaking](#on-speaking)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
 - [On balance: perfectionism and good enough](#on-balance-perfectionism-and-good-enough)
-- [On mirroring](#on-mirroring)
-- [On attacking](#on-attacking)
-- [On defending](#on-defending)
-- [On counter-attacking](#on-counter-attacking)
+- [On reforms](#on-reforms)
 - [On mirroring](#on-mirroring)
 - [On unpredictability](#on-unpredictability)
 - [On luring](#on-luring)
@@ -476,7 +476,7 @@ There are no acceptable excuses. End.
 ###On confidence
 
 If you say it with confidence, you are what you say you are.<br>
-Don't care from where you get your confidence, just get it. [Mastery](#on-mastery) and core values are good sources.
+[Mastery](#on-mastery) and core values are good sources of confidence. In the meanwhile fake it.
 
 > *'You're only as good as your next speech.'*
 
@@ -539,6 +539,8 @@ Speaking openly about a problem is a sign of strength, not a weakness.
 
 A man is not what he think he is: he is what he hides.
 
+> *'Just get out of the room.' -- Robert Glover*
+
 > *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
 
 > *'Well-kept gardens die by pacifism.'*
@@ -600,11 +602,13 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 ===
 ###On physical health
 
-> *'Take care of your body. It’s the most important thing you’ll get for free.'*
+Take care of your body. It’s the most important thing you’ll get for free.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
-> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)
+> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)*
+
+
 
 ===
 	  __                                                              
@@ -936,6 +940,37 @@ CHALLENGE: You should have a [plan](#on-planning).
 
 
 ===
+###On attacking
+
+> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
+
+> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
+
+> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
+
+
+
+===
+###On defending
+
+> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
+
+> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
+
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
+
+
+
+===
+###On counter-attacking
+
+> *'Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
+
+> *'Pay attention to negative cues: what should have happened but did not.'*
+
+
+
+===
 ###On negotiation
 
 To negotiate is to have options.
@@ -1103,10 +1138,10 @@ The dose makes the poison. Things in excess become their opposite.
 
 > *'Some people get passion from something they struggled with.'*
 
-If half of the room laughs and half doesn't is a success.
+> *'If half of the room laughs and half doesn't is a success.'*
 
 > *'dictator's dilemma:  When 4 out of 5 dentists agree …  we take that as a good recommendation. If it were 5 out of 5 we would say baloney sandwich.
-When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. And speaking of 97%, when his excellency and Great Father of his People, Turkmenistan President Gurbanguly Berdimuhamedov gets 97% of the vote.
+When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. And speaking of 97%, when his excellency and Great Father of his People, Turkmenistan President Gurbanguly Berdimuhamedov gets 97% of the vote.*
 
 PRACTICAL ADVICE: How to balance the unbalanced?
 
@@ -1115,33 +1150,9 @@ PRACTICAL ADVICE: How to balance the unbalanced?
 
 
 ===
-###On attacking
+###On reforms
 
-> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
-
-> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
-
-> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
-
-
-
-===
-###On defending
-
-> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
-
-> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
-
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
-
-
-
-===
-###On counter-attacking
-
-> *'Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
-
-> *'Pay attention to negative cues: what should have happened but did not.'*
+> *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 
 
@@ -1821,13 +1832,6 @@ Being too perfect provokes [envy](#on-criticism-and-envy). [Intelligence](#on-in
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
-
-
-===
-###On reforms
-
-> *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 
 
