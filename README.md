@@ -17,7 +17,7 @@ Exceptions to most rules also.. (work in progress)
 
 *On growth*
 - [On success](#on-success)
-- [On achievement](#on-achievement)
+- [On achievements](#on-achievements)
 - [On habits](#on-habits)
 - [On mastery](#on-mastery)
 - [On choosing mentors](#on-choosing-mentors)
@@ -75,7 +75,7 @@ Exceptions to most rules also.. (work in progress)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
 - [On free lunch](#on-free-lunch)
-- [On managing luck](#on-managing-luck)
+- [On luck](#on-luck)
 - [On finishing](#on-finishing)
 - [On winning](#on-winning)
 - [On surrendering](#on-surrendering)
@@ -106,8 +106,8 @@ Exceptions to most rules also.. (work in progress)
 
 
 *Others*
-- [On money](#on-money)
 - [On wealth](#on-wealth)
+- [On money](#on-money)
 - [On investment](#on-investment)
 - [On trust](#on-trust)
 - [On starting a business](#on-starting-a-business)
@@ -251,7 +251,7 @@ Do not truly commit to anything but *yourself*.
 ===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty or people will [envy](#on-envy) you.
+Be ambitious. Not thirsty or people will [envy](#on-criticism-and-envy) you.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
@@ -355,7 +355,7 @@ CHALLENGE: Beware to whom are you a mentor.
 
 
 ===
-###On achievement
+###On achievements
 
 Comfort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
 
@@ -655,7 +655,7 @@ the most important one: conversational stubbornness. LET GO. top performers are 
 ===
 ###On relationships
 
-Relationships are based on [trust](#on-trust-and-reputation).
+Relationships are based on [trust](#on-trust).
 
 > *'Everything is: a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
@@ -680,7 +680,7 @@ Every person feels loved in a different form.
 ===
 ###On criticism and envy
 
-Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-perfectionism).
+Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-being-too-perfect).
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -742,10 +742,11 @@ CHALLENGE:
 
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
-> *'I am either part of the solution or part of the problem.'*===
+> *'I am either part of the solution or part of the problem.'*
 
 
 
+===
 ###On planning
 
 Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
@@ -786,7 +787,7 @@ Most facts are a *tell* but some are just random.
 ===
 ###On judging
 
-[Bias](#on-) makes you underestimate or overestimate something. [Balance](#on-) is the secret.
+Bias makes you underestimate or overestimate something. [Balance](##on-balance-perfectionism-and-good-enough) is the secret.
 
 > *'Not everything that counts can be counted, and not everything that can be counted counts.'*
 
@@ -836,7 +837,7 @@ Most facts are a *tell* but some are just random.
 
 > *'Moments of originality and moments of conformity.'*
 
-> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with. A better, more ambitious idea might seem frightening. A simpler idea might seem more tangible. It could be at least a year before one can convince themselves it's OK to let an old idea die, and at least two years to pursue an ambitious one.' -- yellow_and_gray*
+> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 
 
@@ -1154,6 +1155,8 @@ PRACTICAL ADVICE: How to balance the unbalanced?
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
 mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
 
+> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+
 
 
 ===
@@ -1190,7 +1193,7 @@ Use absence and value to attract people.
 
 > *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
 
-CHALLENGE: use absence with [moderation](#on-balance).
+CHALLENGE: use absence with [moderation](#on-balance-perfectionism-and-good-enough).
 
 > *'Quem muito se ausenta um dia deixa de fazer falta.'*
 
@@ -1218,7 +1221,7 @@ CHALLENGE: Deceiving is not lying. Deceiving is indirect.
 
 To win, you'll need all weaponry.
 
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-) you. [Keep your word](#on-) and prove your worth, the new guy as always to prove himself.'*
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
 > *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
 
@@ -1252,9 +1255,9 @@ Everything is a trade-off.
 
 > *«El dorados» are never drawn in the map.'*
 
-CHALLENGE: There are same fools though. Easy wins if you can [identify](#on-) them.
+CHALLENGE: There are same fools though. Easy wins if you can them.
 
-> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
 
 
@@ -1438,6 +1441,19 @@ CHALLENGE:
 
 
 ===
+###On making
+
+The world is full of consumers. Be a producer.
+
+> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
+
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
+
+> *'You’re judged by what you do, not what you think.'*
+
+
+
+===
 ###On deep work
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
@@ -1566,7 +1582,7 @@ In any case, humility is needed for leadership. Pounding directives down on juni
 	|   )|   )     |    | | | )|___)
 	|__/ |  /      |__  | |  / |__  
 
-        
+
 
 ###On past
 
@@ -1639,7 +1655,7 @@ Repetition is good for memory but its a thin line between repetition and getting
 
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-)
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance-perfectionism-and-good-enough)
 
 
 
@@ -1655,7 +1671,7 @@ too familiar - too unfamiliar. we like what is in the middle! similar enough and
 ===
 ###On wealth
 
-Being rich is not counting your money all day but having [freedom](#on-).
+Being rich is not counting your money all day but having [freedom](#on-freedom).
 
 > *'Some people are so poor, all they have is money.'*
 
@@ -1778,7 +1794,9 @@ Trust, not money, is the currency of business and life.<br>
 
 
 ===
-###On genius
+###On intelligence
+
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
@@ -1787,30 +1805,20 @@ Trust, not money, is the currency of business and life.<br>
 
 
 ===
-###On making
+###On beauty
 
-The world is full of consumers. Be a producer.
-
-> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
-
-> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
-
-> *'You’re judged by what you do, not what you think.'*
+> *'Beauty is not a gift, it is a burden.'*
 
 
 
 ===
 ###On being too perfect
 
-Being too perfect provokes [envy](#on-). Intelligence, beauty, [wealth](#on-), [fortune](#on-) and [ambition](#on-) are the main triggers. 
+Being too perfect provokes [envy](#on-criticism-and-envy). [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
 
 > *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
-
-> *'Beauty is not a gift, it is a burden.'*
-
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
@@ -1826,22 +1834,11 @@ Being too perfect provokes [envy](#on-). Intelligence, beauty, [wealth](#on-), [
 ===
 ###On selling
 
-Selling is keeping [relationships](#on-).
+Selling is keeping relationships.
 
 > *'Selling by just keeping in touch. send emails once in a while.'*
 
 > *'If somebody bought it once, somebody will buy it again.'*
-
-
-
-===
-###On malice
-
-> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
-
-> *'If Socrates was right in saying that no one does wrong knowingly, someone who has caused you grief probably didn’t set out to do it on purpose.'*
-
-> *'Never be mean to anybody that can hurt you by doing nothing.'*
 
 
 
