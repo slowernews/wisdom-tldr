@@ -1,6 +1,6 @@
-# self-improvement-for-skeptics
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from awesome quotes that match *my* experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
-Exceptions to most rules also.. (work in progress)
+# Wisdom pocket guide
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from awesome quotes that match *my* biased experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
+Exceptions to most rules also.. (perpetual work in progress)
 
 *On foundations*
 - [On identity](#on-identity)
@@ -289,6 +289,29 @@ There is no shortcut to the top.. Success is a castle that you build brick by br
 
 
 
+===
+###On achievements
+
+Comfort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
+
+> *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.
+
+> *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
+
+> *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*
+
+> *'There is pleasure in the pathless woods.' -- Lord Byron*
+
+> *'A ship is safe in the harbor but that's not what ships are for.'*
+
+> *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
+
+> *'You can choose courage or you can choose comfort, but you can't choose both.'*
+
+> *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
+
+
+
 ###On habits
 
 Consistency is everything. Habits allow [mastery](#on-mastery).
@@ -351,29 +374,6 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 CHALLENGE: Beware to whom are you a mentor.
 
 > *'Do not teach a starving man to fish.'*
-
-
-
-===
-###On achievements
-
-Comfort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
-
-> *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.
-
-> *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
-
-> *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*
-
-> *'There is pleasure in the pathless woods.' -- Lord Byron*
-
-> *'A ship is safe in the harbor but that's not what ships are for.'*
-
-> *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
-
-> *'You can choose courage or you can choose comfort, but you can't choose both.'*
-
-> *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
 
 
 
@@ -1404,6 +1404,28 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 
 ===
+###On hiring
+
+Hire anybody but only retain the best.
+
+> *'He who works with his hands is a laborer.<br>
+He who works with his hands and his head is a craftsman.<br>
+He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
+
+hiring on culture contribution vs. on culture matching
+
+> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+CHALLENGE:
+
+> *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
+
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+
+===
 ###On being hired
 
 Companies will hire you because you are a likable person that «gets shit done».
@@ -1427,36 +1449,13 @@ CHALLENGE: Companies don't care about you. Having a job is risky.
 
 
 ===
-###On hiring
-
-Hire anybody but only retain the best.
-
-> *'He who works with his hands is a laborer.<br>
-He who works with his hands and his head is a craftsman.<br>
-He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
-hiring on culture contribution vs. on culture matching
-
-> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
-
-CHALLENGE:
-
-> *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
-
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
-
-
-
-===
 ###On making
 
 The world is full of consumers. Be a producer.
 
 > *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
 
-> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
 > *'You’re judged by what you do, not what you think.'*
 
