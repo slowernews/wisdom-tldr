@@ -1,6 +1,7 @@
 # Wisdom pocket guide
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from awesome quotes that match *my* biased experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
-Exceptions to most rules also.. (perpetual work in progress)
+Exceptions to most rules also..
+
 
 *On foundations*
 - [On identity](#on-identity)
@@ -84,15 +85,17 @@ Exceptions to most rules also.. (perpetual work in progress)
 *On hierarchy*
 - [On higher ranks](#on-higher-ranks)
 - [On peers](#on-peers)
-- [On leadership and influence](#on-leadership-and-influence)
 - [On teamwork](#on-teamwork)
 
 
 *On management*
+- [On leadership and influence](#on-leadership-and-influence)
+- [On communication](#on-communication)
+- [On delegating](#on-delegating)
+- [On giving feedback](#on-feedback)
+- [On meetings](#on-meetings)
 - [On deep work](#on-deep-work)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
-- [On feedback](#on-feedback)
-- [On meetings](#on-meetings)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
 
@@ -111,6 +114,7 @@ Exceptions to most rules also.. (perpetual work in progress)
 - [On investment](#on-investment)
 - [On trust](#on-trust)
 - [On starting a business](#on-starting-a-business)
+- [On careers](#on-careers)
 - [On economics and politics](#on-economics-and-politics)
 - [On science, art and religion](#on-science-art-and-religion)
 - [On aesthetics](#on-aesthetics)
@@ -120,6 +124,8 @@ Exceptions to most rules also.. (perpetual work in progress)
 ###TL;DR 
 
 ###3 rules for life: fuck, don't give a fuck and don't be fucked over.
+
+###A practical advice: have more than one kid.
 
 
 
@@ -134,19 +140,22 @@ Exceptions to most rules also.. (perpetual work in progress)
 
 ###On identity
 
-You are your deeds. Have personal accountability. Invest in yourself.
+You are your deeds, have personal accountability.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
 > *'How you do anything is how you do everything.'*
 
+> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
+
 > *'Be the person your dog think you are.'*
 
 > *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
 
+Invest in yourself.
+
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 
 
@@ -389,6 +398,8 @@ You improve by [practice](#on-learning-by-practice) and by [theory](#on-learning
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
+> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
+
 > *'effort * talent = skill'*
 
 
@@ -501,8 +512,6 @@ If you say it with confidence, you are what you say you are.<br>
 CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
-
-> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
 
 
 
@@ -644,15 +653,17 @@ networking types: advocates a, boomerang b, celebrities c, drainers d / shark, d
 
 > *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
 
-> *'Work on the hearts and minds of others.'-- Robert Greene (43rd law of power)*
+> *'Work on the hearts and minds of others.' -- Robert Greene (43rd law of power)*
 
 
 
 ===
 ###On social inadequacy
 
-creepiness: Unpredictability. Some occupations and hobbies are more linked with creepiness than others.'*
-the most important one: conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of seduction is no place for shutting out external catalysts.
+AKA creepiness.
+
+> *'Unpredictability. Some occupations and hobbies are more linked with creepiness than others.<br>
+conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of being social there is no place for shutting out external catalysts.'*
 
 
 
@@ -812,6 +823,9 @@ Bias makes you underestimate or overestimate something. [Balance](##on-balance-p
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions'*
 
+Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
+
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance-perfectionism-and-good-enough)
 
 
 ===
@@ -904,6 +918,12 @@ Just start. You cannot afford to wait for inspiration or opportunities, your tim
 > *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
 
 > *'Enter action with boldness.' -- Robert Greene (28th law of power)*
+
+People procrastinate specially when there are no urgency/deadlines: the panic monster.
+
+> *'Pressed by circumstances, we feel unusually energized and focused.'*
+
+> *add mark manson on procrastination*
 
 CHALLENGE: You should have a [plan](#on-planning).
 
@@ -1225,6 +1245,8 @@ CHALLENGE: Deceiving is not lying. Deceiving is indirect.
 
 > *'One of the most potent weapons in the battle for information is giving out false information.'*
 
+> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.'*
+
 
 
 ===
@@ -1238,8 +1260,6 @@ To win, you'll need all weaponry.
 
 > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
 
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.'*
-
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
 
@@ -1247,11 +1267,11 @@ To win, you'll need all weaponry.
 ===
 ###On desperate targets
 
-> *'Beware the fury of a patient man.' -- John Dryden*
-
 > *'Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose.'*
 
 > *'use anger only as a tool, when you need it to improve your situation.'*
+
+> *'Beware the fury of a patient man.' -- John Dryden*
 
 
 
@@ -1266,17 +1286,17 @@ Everything is a trade-off.
 
 > *«El dorados» are never drawn in the map.'*
 
-CHALLENGE: There are same fools though. Easy wins if you can them.
+CHALLENGE: There are same fools though. Easy wins if you identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
 
 
 ===
-###On managing luck
+###On luck
 
 Unless you’re winning, most of life will seem hideously unfair to you.<br>
-But luck is a pattern. The pendulum will swing back your way eventually.
+But luck is a pattern, the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -1389,98 +1409,6 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 
 
-###On efficiency and productivity
-
-> *'Start as close to the end as possible.' -- Kurt Vonnegu*
-
-> *'Lazy is what the jealous call efficiency.'*
-
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
-
-> *'Productivity is different from workflow engineering.'*
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
-
-
-
-===
-###On hiring
-
-Hire anybody but only retain the best.
-
-> *'He who works with his hands is a laborer.<br>
-He who works with his hands and his head is a craftsman.<br>
-He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
-hiring on culture contribution vs. on culture matching
-
-> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
-
-CHALLENGE:
-
-> *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
-
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
-
-
-===
-###On being hired
-
-Companies will hire you because you are a likable person that «gets shit done».
-
-> *'When applying for a job be more of a consultant than an applicant.'*
-
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
-
-> *'The interesting jobs are the ones that you make up.' -- Chris Young*
-
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
-
-CHALLENGE: Companies don't care about you. Having a job is risky.
-
-> *'If your job doesn't require originality, next decade you might not have one.'*
-
-> *'I work for money, if you want loyalty hire a dog.'*
-
-> *'Avoid the trap of following one set career path.'*
-
-
-
-===
-###On making
-
-The world is full of consumers. Be a producer.
-
-> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
-
-> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
-
-> *'You’re judged by what you do, not what you think.'*
-
-
-
-===
-###On deep work
-
-> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
-
-> *'Too busy pretending I'm occupied.'*
-
-
-
-===
-###On procrastination
-
-People procrastinate specially when there are no urgency/deadlines: the panic monster.
-
-> *'Pressed by circumstances, we feel unusually energized and focused.'*
-
-// > *'mark manson on procrastination
-
-
-
 ===
 ###On leadership, power and influence
 
@@ -1507,68 +1435,51 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 
 
 ===
-###On teamwork
+###On communication
 
-No one is smarter than a small group.
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
-
-> *'There are no bad teams, only bad leaders.'*
-
-CHALLENGE: *pawn sacrifices.* Use it only on life changing situations and at your own risk.
-
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
-
-
-
-===
-###On micro-management
-
-Management is about communication.
+Management is about communication. Being a boss to be equal parts manager and psychotherapist.
 
 > *'Spend 1 hour a day just talking to your people and everything will be OK.'*
 
-A manager should make himself 2 questions a day: 
-
-- «What is important to accomplish?» (where i am I going)
-
-- «Where was I uncomfortable the day before?» (what went right and where do i need support)
-
-The speed that you offload your stuff will be the speed of your team.
-
-> *'The speed of the boss is the speed of the team.'*
-
-Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible. But it will be.
-
-> *'Managing is delegating.'*
-
-> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
-
-Being a boss to be equal parts and psychotherapist.
-
-> *'The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
+> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
 
 
 ===
-###On feedback
+###On delegating
 
-A boss shouldn't add his two cents, specially on subjective stuff, unless he's certain they're needed. This only works when the delivered work is good enough. You delegate a task, and have an expectation about the outcome. It doesn't have to be exactly as you expected it to be.
+Managing is delegating. Your speed as a manager is the speed of the team.
 
-But if feedback is needed there's some right ways to give it without violating ownership:
+Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.
 
-- don't give arbitrary feedback, give a reason («Because» is a great motivator). A common technique I use is "can you take another look at this section for xyz reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
+> *'A manager should make himself 2 questions a day:<br>
+- «What is important to accomplish?» (where are you going)<br>
+- «Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
+The speed that you offload your stuff will be the speed of your team.'*
 
-- ask instead of telling: eg. «Why did you decide to put the slides in that order?» This does a couple things: sometimes, the IC does things for a reason that the boss doesn't know about, and this gives the IC a way to explain to the boss without needing to sound contradictory. It allows the boss a chance to learn when something is done for a good reason, or gets the IC to revisit a decision when not done for a good reason. It also creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions.
+> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
 
-Absolutely ask question when appropriate, perhaps only ask questions and lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen!
+> *'There are no bad teams, only bad leaders.'*
 
-In any case, humility is needed for leadership. Pounding directives down on junior people is absolutely a demotivator. Not giving any direction is also very demotivational. Gaining an understanding (broad or specific, as the case may be) and giving appropriate feedback makes your juniors feel like what they are doing is important.
 
-> *'«Is that the best you can do?» -- Henry Kissinger'*
+
+===
+###On giving feedback
+
+A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. You delegate a task and have an expectation about the outcome but it doesn't have to be exactly as you expected it to be.
+
+If feedback is needed:
+
+- give a reason. Try "can you take another look at this for XYZ reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
+
+> *'«Because» is a great motivator'*
+
+- ask instead of telling: eg. «Why did you decide to do X in that order?» This creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen!
+
+In any case, [humility](#on-humbleness) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
+
+> *'«Is that the best you can do?»'*
 
 > *'«Interesting, how do you feel about it?»'*
 
@@ -1580,6 +1491,84 @@ In any case, humility is needed for leadership. Pounding directives down on juni
 ###On meetings
 
 > *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+
+
+
+===
+###On teamwork
+
+No one is smarter than a small group.
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+CHALLENGE: *pawn sacrifices.* Use it only on life changing situations and at your own risk.
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+
+
+
+###On efficiency and productivity
+
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
+> *'Lazy is what the jealous call efficiency.'*
+
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'Productivity is different from workflow engineering.'*
+
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
+
+
+===
+###On deep work
+
+> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
+
+> *'Too busy pretending I'm occupied.'*
+
+
+
+===
+###On hiring
+
+Hire anybody but only retain the best.
+
+> *'He who works with his hands is a laborer.<br>
+He who works with his hands and his head is a craftsman.<br>
+He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
+
+hiring on culture contribution vs. on culture matching
+
+> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+CHALLENGE:
+
+> *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
+
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+
+
+===
+###On being hired
+
+Companies will hire you because you are a likable person that «gets shit done».
+
+> *'When applying for a job be more of a consultant than an applicant.'*
+
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+
+CHALLENGE: Companies don't care about you. Having a job is risky.
+
+> *'If your job doesn't require originality, next decade you might not have one.'*
+
+> *'I work for money, if you want loyalty hire a dog.'*
 
 
 
@@ -1654,16 +1643,11 @@ You will die soon. Act accordingly. You'll never be as young as you are today.
 ===
 ###On memory
 
-we forget more future events than past events.
+> *'People forget more future events than past events.'*
 
-Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
+> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
 
-Repetition is good for memory but its a thin line between repetition and getting annoyed.
-
-
-Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
-
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance-perfectionism-and-good-enough)
+> *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
 
 
 
@@ -1688,7 +1672,8 @@ Being rich is not counting your money all day but having [freedom](#on-freedom).
 > *'you can spend your time making money but you cant spend your money making time.'*
 
 
-                              
+
+===                             
 ###On money
 
 Making money is adding value.
@@ -1751,6 +1736,17 @@ Trust, not money, is the currency of business and life.<br>
 > *'Gold [rushes](#on-herd-mentality) make the shovel sellers rich, not the gold seekers.'*
 
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
+
+
+
+===
+###On careers
+
+> *'Avoid the trap of following one set career path.'*
+
+> *'The interesting jobs are the ones that you make up.' -- Chris Young*
+
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
 
 
@@ -1822,7 +1818,7 @@ Trust, not money, is the currency of business and life.<br>
 ===
 ###On being too perfect
 
-Being too perfect provokes [envy](#on-criticism-and-envy). [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
+Being too perfect provokes envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
 
 > *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
@@ -1841,6 +1837,19 @@ Selling is keeping relationships.
 
 
 
+===
+###On making
+
+The world is full of consumers. Be a producer.
+
+> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
+
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
+
+> *'You’re judged by what you do, not what you think.'*
+
+
+
 ---
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - Basically this is report of an informal database with tagged quotes according my biased experience. Then, I resume each tag in a maxim. [↩](#refnote1)</sup>
@@ -1848,4 +1857,4 @@ Selling is keeping relationships.
 
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Self improvement for Skeptics</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Wisdom pocket guide</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
