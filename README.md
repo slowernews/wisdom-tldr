@@ -24,6 +24,7 @@ Exceptions to most rules also..
 - [On choosing mentors](#on-choosing-mentors)
 - [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On improvement](#on-improvement)
+- [On limits](#on-limits)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
 
@@ -374,7 +375,7 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
 
-> *'If you think you're to small to make an impact, try to go to bed with a mosquito in the room.'*
+> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
 
 > *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
 
@@ -398,9 +399,16 @@ You improve by [practice](#on-learning-by-practice) and by [theory](#on-learning
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
-
 > *'effort * talent = skill'*
+
+
+
+===
+###On limits
+
+> *'Your limits are where are your fears.'*
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
 
 
 
@@ -462,15 +470,13 @@ Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#on-ex
 
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
 
-> *'Your limits are where are your fears.'*
-
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
 > *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
 
 > *'What you fear you attract; what you resist, you make it bigger.'*
 
-> *'The things we fear the most have already happened to us.'
+> *'The things we fear the most have already happened to us.'*
 
 
 
