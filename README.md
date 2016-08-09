@@ -87,6 +87,7 @@ Exceptions to most rules also..
 - [On higher ranks](#on-higher-ranks)
 - [On peers](#on-peers)
 - [On teamwork](#on-teamwork)
+- [On outliers](#on-outliers)
 
 
 *On management*
@@ -119,7 +120,6 @@ Exceptions to most rules also..
 - [On economics and politics](#on-economics-and-politics)
 - [On science, art and religion](#on-science-art-and-religion)
 - [On aesthetics](#on-aesthetics)
-- [On being too perfect](#on-being-too-perfect)
 
 
 ###TL;DR 
@@ -1406,6 +1406,19 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 
 ===
+###On outliers
+
+Outliers inspire envy. Too much [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
+
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+
+
+
+===
 	  __                                                             
 	 /  |                                                        /   
 	(   | ___       _ _  ___  ___  ___  ___  ___  _ _  ___  ___ (___ 
@@ -1473,15 +1486,15 @@ The speed that you offload your stuff will be the speed of your team.'*
 ===
 ###On giving feedback
 
-A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. You delegate a task and have an expectation about the outcome but it doesn't have to be exactly as you expected it to be.
+A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. The outcome doesn't have to be exactly as you expected it to be.
 
 If feedback is needed:
 
-- give a reason. Try "can you take another look at this for XYZ reasons?". This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
+- give a reason. Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
 
 > *'«Because» is a great motivator'*
 
-- ask instead of telling: eg. «Why did you decide to do X in that order?» This creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen!
+- ask instead of telling: eg. «Why did you decide to do X in that order?». This creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.
 
 In any case, [humility](#on-humbleness) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
 
@@ -1553,11 +1566,11 @@ hiring on culture contribution vs. on culture matching
 
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
 CHALLENGE:
 
 > *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
-
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
 
 
@@ -1748,7 +1761,7 @@ Trust, not money, is the currency of business and life.<br>
 ===
 ###On careers
 
-> *'Avoid the trap of following one set career path.'*
+Avoid the trap of following one set career path.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
@@ -1818,19 +1831,6 @@ Trust, not money, is the currency of business and life.<br>
 ###On beauty
 
 > *'Beauty is not a gift, it is a burden.'*
-
-
-
-===
-###On being too perfect
-
-Being too perfect provokes envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
-
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
-
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 
 
