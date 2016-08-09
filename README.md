@@ -896,11 +896,11 @@ Big wins first. Then the details.
 
 > *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
 
-> *'Always look where you want to go, not where you don't want to go.'
+> *'Always look where you want to go, not where you don't want to go.'*
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-CHALLENGE:
+CHALLENGE: *guerrilla* has their strengths also.
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
@@ -1011,24 +1011,24 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'«What can you do?» instead of «Will you do this?». Never negotiate with yes or no questions.'*
 
-> *'the how question? instead of closed end question. yes or no. the how makes people have an opportunity to show how smart they are.'*
+> *'The how question? instead of closed end question. yes or no. the how makes people have an opportunity to show how smart they are.'*
 
-> *'tone of voice is a big clue to know with whom are we negotiating:
-- the analytical cold guy is very patience
-- the assertive guy (trump) wants to make it fast
+> *'Tone of voice is a big clue to know with whom are we negotiating:<br>
+- the analytical cold guy is very patience<br>
+- the assertive guy (trump) wants to make it fast<br>
 - the accomodator: relationship is the most important'*
 
-> *'unexpressed feelings never die.'*
+> *'Unexpressed feelings never die.'*
 
-> *'releasing pressure is different from venting.'*
+> *'Releasing pressure is different from venting.'*
 
-> *'the more influence somebody is the more they use we / plural pronouns.'*
+> *'The more influence somebody is the more they use we / plural pronouns.'*
 
-> *'there are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
+> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
 
-> *'listening for things that you didn't see. for incongruence.'*
+> *'Listening for things that you didn't see. for incongruence.'*
 
-> *'they will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
+> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
 naming the negatives first.'*
 
 CHALLENGE: The deal will fall if both sides don't take what they need from it. 
