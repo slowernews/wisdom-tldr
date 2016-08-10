@@ -4,16 +4,16 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On identity](#on-identity)
-- [On authenticity](#on-authenticity)
 - [On happiness](#on-happiness)
 - [On gratefulness](#on-gratefulness)
 - [On freedom](#on-freedom)
+- [On identity](#on-identity)
+- [On ambition and motivation](#on-ambition-and-motivation)
+- [On authenticity](#on-authenticity)
 - [On integrity](#on-integrity)
 - [On honesty](#on-honesty)
 - [On humbleness](#on-humbleness)
 - [On reputation](#on-reputation)
-- [On ambition and motivation](#on-ambition-and-motivation)
 
 
 *On growth*
@@ -115,11 +115,14 @@ Exceptions to most rules also..
 - [On money](#on-money)
 - [On investment](#on-investment)
 - [On trust](#on-trust)
-- [On starting a business](#on-starting-a-business)
+- [On business](#on-starting-a-business)
 - [On careers](#on-careers)
 - [On economics and politics](#on-economics-and-politics)
 - [On science, art and religion](#on-science-art-and-religion)
 - [On aesthetics](#on-aesthetics)
+- [On intelligence](#on-intelligence)
+- [On beauty](#on-beauty)
+
 
 
 ###TL;DR 
@@ -137,36 +140,6 @@ Exceptions to most rules also..
 	|   )|   )     |___ |   )|   )|   )|   )|   )|    | |   )|   )|___ 
 	|__/ |  /      |    |__/ |__/ |  / |__/ |__/||__  | |__/ |  /  __/ 
 	                                                                   
-
-
-###On identity
-
-You are your deeds, have personal accountability.
-
-> *'Weakness of attitude becomes weakness of character.'*
-
-> *'How you do anything is how you do everything.'*
-
-> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
-
-> *'Be the person your dog think you are.'*
-
-> *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
-
-Invest in yourself.
-
-> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
-
-
-
-
-===
-###On authenticity
-
-> *'If you try to be something you're not, you end up being nothing.'*
-
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
 
 
 ===
@@ -218,6 +191,58 @@ Do not truly commit to anything but *yourself*.
 
 
 
+###On identity
+
+You are your deeds, have personal accountability.
+
+> *'Weakness of attitude becomes weakness of character.'*
+
+> *'How you do anything is how you do everything.'*
+
+> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
+
+> *'Be the person your dog think you are.'*
+
+> *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
+
+Invest in yourself.
+
+> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
+
+
+
+===
+###On ambition and motivation
+
+Be ambitious. Not thirsty or people will [envy](#on-criticism-and-envy) you.
+
+> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
+
+> *'Quem não chora não mama.'*
+
+> *'Succeeding at mediocrity isn't a worthwhile life.'*
+
+> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+
+> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
+
+> *'Work until your idols become your rivals.'*
+
+> *'Work hard in silence. Let your silence be your noise.'*
+
+> *'The world is full of consumers. Be a producer.'*
+
+
+
+===
+###On authenticity
+
+> *'If you try to be something you're not, you end up being nothing.'*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+
+
 ===
 ###On integrity
 
@@ -255,27 +280,6 @@ Do not truly commit to anything but *yourself*.
 > *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
 
 > *'Seek respect, not attention. It lasts longer.'*
-
-
-
-===
-###On ambition and motivation
-
-Be ambitious. Not thirsty or people will [envy](#on-criticism-and-envy) you.
-
-> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
-
-> *'Succeeding at mediocrity isn't a worthwhile life.'*
-
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
-
-> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
-
-> *'Work until your idols become your rivals.'*
-
-> *'Work hard in silence. Let your silence be your noise.'*
-
-> *'Quem não chora não mama.'*
 
 
 
@@ -634,7 +638,7 @@ Take care of your body. It’s the most important thing you’ll get for free.
 	                                __/                               
 
 
-===
+
 ###On networking and socializing
 
 Be social. Don't [hide](#on-hiding) yourself. A person starts to live when he can live outside himself.
@@ -701,7 +705,7 @@ Every person feels loved in a different form.
 ===
 ###On criticism and envy
 
-Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-being-too-perfect).
+Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-outliers).
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -709,9 +713,9 @@ Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-bei
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They're people who think that you're better than them.'*
 
-> *'Intelligence is the most sensitive trigger point for envy.'*
-
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+
+> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
 
 > *'Só há consensos no 1º e no ultimo minuto de algo.'*
 
@@ -758,7 +762,6 @@ CHALLENGE:
 
 
 
-===
 ###On neutrality
 
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
@@ -924,6 +927,8 @@ Just start. You cannot afford to wait for inspiration or opportunities, your tim
 > *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
 
 > *'Enter action with boldness.' -- Robert Greene (28th law of power)*
+
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
 People procrastinate specially when there are no urgency/deadlines: the panic monster.
 
@@ -1245,7 +1250,9 @@ CHALLENGE: use absence with [moderation](#on-balance-perfectionism-and-good-enou
 
 > *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
 
-CHALLENGE: Deceiving is not lying. Deceiving is indirect.
+> *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
+
+CHALLENGE: Deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
 
@@ -1346,8 +1353,6 @@ It's not a question of simply winning the war but the way you win it sets you up
 
 > *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
 
-// > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
-
 
 
 ===
@@ -1408,11 +1413,13 @@ Keep your friends for friendship, but work with the skilled and competent.
 ===
 ###On outliers
 
-Outliers inspire envy. Too much [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
+Outliers inspire envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
 
 > *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+
+> *'You’re judged by what you do, not what you think.'*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
@@ -1428,7 +1435,6 @@ Outliers inspire envy. Too much [Intelligence](#on-intelligence), [beauty](#on-b
 
 
 
-===
 ###On leadership, power and influence
 
 Leadership is based on [trust](#on-trust). People want power because they want autonomy.
@@ -1528,6 +1534,7 @@ CHALLENGE: *pawn sacrifices.* Use it only on life changing situations and at you
 
 
 
+===
 ###On efficiency and productivity
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
@@ -1679,7 +1686,6 @@ You will die soon. Act accordingly. You'll never be as young as you are today.
 
 
 
-===
 ###On wealth
 
 Being rich is not counting your money all day but having [freedom](#on-freedom).
@@ -1688,7 +1694,7 @@ Being rich is not counting your money all day but having [freedom](#on-freedom).
 
 > *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
-> *'you can spend your time making money but you cant spend your money making time.'*
+> *'You can spend your time making money but you cant spend your money making time.'*
 
 
 
@@ -1821,6 +1827,8 @@ Avoid the trap of following one set career path.
 
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
+> *'Intelligence is the most sensitive trigger point for envy.'*
+
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
@@ -1831,28 +1839,6 @@ Avoid the trap of following one set career path.
 ###On beauty
 
 > *'Beauty is not a gift, it is a burden.'*
-
-
-
-===
-###On selling
-
-Selling is keeping relationships.
-
-> *'Selling by just keeping in touch. send emails once in a while.'*
-
-
-
-===
-###On making
-
-The world is full of consumers. Be a producer.
-
-> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
-
-> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
-
-> *'You’re judged by what you do, not what you think.'*
 
 
 
