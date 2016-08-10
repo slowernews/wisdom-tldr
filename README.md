@@ -326,11 +326,12 @@ Comfort is the enemy of achievement. You need to break rules to achieve anything
 
 
 
+===
 ###On habits
 
 Consistency is everything. Habits allow [mastery](#on-mastery).
 
-> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' - Aristotle*
+> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' -- Aristotle*
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
@@ -496,7 +497,7 @@ There are no acceptable excuses. End.
 ===
 ###On confidence
 
-If you say it with confidence, you are what you say you are.<br>
+If you say it with confidence, you are what you say you are. <br>
 [Mastery](#on-mastery) and core values are good sources of confidence. In the meanwhile fake it.
 
 > *'You're only as good as your next speech.'*
@@ -947,6 +948,8 @@ CHALLENGE: You should have a [plan](#on-planning).
 
 > *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
+> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
+
 
 
 ===
@@ -982,20 +985,16 @@ CHALLENGE: You should have a [plan](#on-planning).
 ===
 ###On defending
 
-> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
-
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
-
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
 
 
 ===
 ###On counter-attacking
 
-> *'Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
+> *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
 
-> *'Pay attention to negative cues: what should have happened but did not.'*
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
 
 
@@ -1008,6 +1007,8 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
 
 > *'When people feel they have a choice, they walk into your trap that much more easily.'*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
 PRACTICAL ADVICE
 
@@ -1022,20 +1023,15 @@ Best way to say no:
 
 Tone of voice is a big clue to know with whom are we negotiating:
 
-> *'the analytical cold guy is very patience <br>
-- the assertive guy (trump) wants to make it fast <br>
-- the accomodator: relationship is the most important'*
+> *'the analytical cold guy is very patience.'* <br>
+> *'the assertive guy (trump) wants to make it fast.'* <br>
+> *'the accomodator: relationship is the most important'*
 
 > *'Unexpressed feelings never die.'*
-
 > *'Releasing pressure is different from venting.'*
-
 > *'The more influence somebody is the more they use we / plural pronouns.'*
-
 > *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
-
 > *'Listening for things that you didn't see. for incongruence.'*
-
 > *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
 naming the negatives first.'*
 
@@ -1570,11 +1566,9 @@ Hire anybody but only retain the best.
 He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
-hiring on culture contribution vs. on culture matching
+> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
 
-> *'Trust someone if they say I am human, and so I am susceptible to conflicts of interest, so I am actively avoiding such conflicts (or, if any conflicts arise, I will recuse myself or at least acknowledging the conflict). A person who denies the significance of conflicts of interest is a person unfit for decision-making.'*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
@@ -1708,10 +1702,8 @@ Making money is adding value.
 
 > *'Money is energy.'*
 
-CHALLENGE: [Negotiation](#on-negotiation) establishes the exchange rate between money and value.
+CHALLENGE: [Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation might mean that you are adding more/less value to the world than receiving money for it.
-
-price vs value ??
 
 
 
@@ -1761,7 +1753,7 @@ Trust, not money, is the currency of business and life.<br>
 
 > *'Scratch your own itch.'*
 
-> *'Gold [rushes](#on-herd-mentality) make the shovel sellers rich, not the gold seekers.'*
+> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
@@ -1810,14 +1802,14 @@ Avoid the trap of following one set career path.
 
 > *'Artistic death is made by consensus.'*
 
-> *'Art is Socialism, but life is Capitalism.'*
+> *'Art is Socialism but life is Capitalism.'*
 
 
 
 ===
 ###On aesthetics
 
-> *'Sharpness is a bourgeois concept.'*
+> *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
@@ -1842,6 +1834,8 @@ Avoid the trap of following one set career path.
 ###On beauty
 
 > *'Beauty is not a gift, it is a burden.'*
+
+> *'Once I was beautiful, now I'm myself.'*
 
 
 
