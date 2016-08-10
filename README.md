@@ -308,7 +308,7 @@ There is no shortcut to the top.. Success is a castle that you build brick by br
 
 Comfort is the enemy of achievement. You need to break rules to achieve anything great. Breaking rules [frightens](#on-fear) people.
 
-> *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.
+> *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.'*
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
@@ -698,7 +698,7 @@ Relationships are based on [trust](#on-trust).
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
-Every person feels loved in a different form.
+> *'Every person feels loved in a different form.'*
 
 
 
@@ -744,11 +744,9 @@ Most people are other people. Their thoughts are someone else opinions.
 
 > *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
-CHALLENGE:
+CHALLENGE: Common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
-
-> *'Common sense is not so common.'*
 
 
 
