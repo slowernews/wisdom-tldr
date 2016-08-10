@@ -1002,23 +1002,28 @@ CHALLENGE: You should have a [plan](#on-planning).
 ===
 ###On negotiation
 
-To negotiate is to have options.
-
+To negotiate is to have options. <br>
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
 
 > *'When people feel they have a choice, they walk into your trap that much more easily.'*
 
-> *'Best way to say no: How am I supposed to do that?.'*
+PRACTICAL ADVICE
 
-> *'«What can you do?» instead of «Will you do this?». Never negotiate with yes or no questions.'*
+Never negotiate with yes or no questions: 
 
-> *'The how question? instead of closed end question. yes or no. the how makes people have an opportunity to show how smart they are.'*
+> *'«What can you do?» instead of «Will you do this?» <br>
+Use «How». «How» gives people an opportunity to show how smart they are.'*
 
-> *'Tone of voice is a big clue to know with whom are we negotiating:<br>
-- the analytical cold guy is very patience<br>
-- the assertive guy (trump) wants to make it fast<br>
+Best way to say no:
+
+> *'«How am I supposed to do that?»'*
+
+Tone of voice is a big clue to know with whom are we negotiating:
+
+> *'the analytical cold guy is very patience <br>
+- the assertive guy (trump) wants to make it fast <br>
 - the accomodator: relationship is the most important'*
 
 > *'Unexpressed feelings never die.'*
@@ -1033,6 +1038,9 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
 naming the negatives first.'*
+
+> *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
+mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
 
 CHALLENGE: The deal will fall if both sides don't take what they need from it. 
 
@@ -1188,14 +1196,11 @@ PRACTICAL ADVICE: How to balance the unbalanced?
 ===
 ###On mirroring
 
-> *'Being pacifist in face of wolves is the source of endless tragedy.'*
-
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
-> *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
-mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
-
 > *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+
+> *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
 
 
