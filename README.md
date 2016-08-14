@@ -35,7 +35,6 @@ Exceptions to most rules also..
 - [On validation](#on-validation)
 - [On confidence](#on-confidence)
 - [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
-- [On hiding](#on-hiding)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On mental health: stress](#on-mental-health-stress)
 - [On physical health](#on-physical-health)
@@ -49,13 +48,13 @@ Exceptions to most rules also..
 - [On herd mentality](#on-herd-mentality)
 
 
-*On strategy*
-- [On neutrality](#on-neutrality)
+*On strategy & tactics*
 - [On planning](#on-planning)
 - [On analysis](#on-analysis)
 - [On judging](#on-judging)
 - [On decision making](#on-decision-making)
 - [On creativity](#on-creativity)
+
 - [On priorities and focus](#on-priorities-and-focus)
 - [On starting vs waiting](#on-starting-vs-waiting)
 - [On timing](#on-timing)
@@ -63,6 +62,7 @@ Exceptions to most rules also..
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
 - [On counter-attacking](#on-counter-attacking)
+
 - [On negotiation](#on-negotiation)
 - [On listening](#on-listening)
 - [On speaking](#on-speaking)
@@ -70,14 +70,19 @@ Exceptions to most rules also..
 - [On adapting](#on-adapting)
 - [On balance: perfectionism and good enough](#on-balance-perfectionism-and-good-enough)
 - [On reforms](#on-reforms)
+- [On luck](#on-luck)
+
 - [On mirroring](#on-mirroring)
 - [On unpredictability](#on-unpredictability)
 - [On luring](#on-luring)
 - [On deceiving](#on-deceiving)
+
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
+- [On hiding](#on-hiding)
+- [On neutrality](#on-neutrality)
+
 - [On free lunch](#on-free-lunch)
-- [On luck](#on-luck)
 - [On finishing](#on-finishing)
 - [On winning](#on-winning)
 - [On surrendering](#on-surrendering)
@@ -124,12 +129,11 @@ Exceptions to most rules also..
 - [On beauty](#on-beauty)
 
 
-
 ###TL;DR 
 
-###3 rules for life: fuck, don't give a fuck and don't be fucked over.
+3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
-###A practical advice: have more than one kid.
+One practical advice: have more than one kid.
 
 
 
@@ -540,7 +544,8 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 ===
 ###On insecurities, imperfections and shame
 
-Speaking openly about a problem is a sign of strength, not a weakness.
+Speaking openly about a problem is a sign of strength, not a weakness. <br>
+A man is not what he think he is: he is what he hides.
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
@@ -548,22 +553,11 @@ Speaking openly about a problem is a sign of strength, not a weakness.
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
+> *'Just get out of the room.' -- Robert Glover*
+
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
-
-
-
-===
-###On hiding
-
-A man is not what he think he is: he is what he hides.
-
-> *'Just get out of the room.' -- Robert Glover*
-
-> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
-
-> *'Well-kept gardens die by pacifism.'*
 
 
 
@@ -761,14 +755,6 @@ CHALLENGE: Common sense is not so common.
 
 
 
-###On neutrality
-
-Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
-
-> *'I am either part of the solution or part of the problem.'*
-
-
-
 ===
 ###On planning
 
@@ -785,6 +771,8 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 > *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
+
+> *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
 CHALLENGE: Don't overthink.
 
@@ -1287,6 +1275,23 @@ To win, you'll need all weaponry.
 
 
 
+###On neutrality
+
+Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+
+> *'I am either part of the solution or part of the problem.'*
+
+
+
+===
+###On hiding
+
+> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
+
+> *'Well-kept gardens die by pacifism.'*
+
+
+
 ===
 ###On free lunch
 
@@ -1495,11 +1500,15 @@ A manager shouldn't add his two cents, specially on subjective stuff, unless he'
 
 If feedback is needed:
 
-- give a reason. Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.
+- give a reason. 
+
+> *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
 
 > *'«Because» is a great motivator'*
 
-- ask instead of telling: eg. «Why did you decide to do X in that order?». This creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.
+- ask instead of telling: 
+
+> *'«Why did you decide to do X in that order?». This creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
 
 In any case, [humility](#on-humbleness) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
 
