@@ -55,6 +55,7 @@ Exceptions to most rules also..
 - [On decision making](#on-decision-making)
 - [On creativity](#on-creativity)
 
+
 - [On priorities and focus](#on-priorities-and-focus)
 - [On starting vs waiting](#on-starting-vs-waiting)
 - [On timing](#on-timing)
@@ -62,6 +63,7 @@ Exceptions to most rules also..
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
 - [On counter-attacking](#on-counter-attacking)
+
 
 - [On negotiation](#on-negotiation)
 - [On listening](#on-listening)
@@ -72,15 +74,18 @@ Exceptions to most rules also..
 - [On reforms](#on-reforms)
 - [On luck](#on-luck)
 
+
 - [On mirroring](#on-mirroring)
 - [On unpredictability](#on-unpredictability)
 - [On luring](#on-luring)
 - [On deceiving](#on-deceiving)
 
+
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
 - [On hiding](#on-hiding)
 - [On neutrality](#on-neutrality)
+
 
 - [On free lunch](#on-free-lunch)
 - [On finishing](#on-finishing)
@@ -131,9 +136,9 @@ Exceptions to most rules also..
 
 ###TL;DR 
 
-3 rules for life: fuck, don't give a fuck and don't be fucked over.
+- 3 rules for life: fuck, don't give a fuck and don't be fucked over.
 
-One practical advice: have more than one kid.
+- One practical advice: have more than one kid.
 
 
 
@@ -399,8 +404,8 @@ CHALLENGE: Beware to whom are you a mentor.
 ===
 ###On improvement
 
-You improve by continuously learning: skills are perishable.<br>
-You improve by [practice](#on-learning-by-practice) and by [theory](#on-learning-by-theory).
+You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+The path for [mastery](#on-mastery) is a never ending story: skills are perishable.
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -1479,12 +1484,12 @@ Management is about communication. Being a boss to be equal parts manager and ps
 
 Managing is delegating. Your speed as a manager is the speed of the team.
 
-Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.
+> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.'*
 
 > *'A manager should make himself 2 questions a day:<br>
-- «What is important to accomplish?» (where are you going)<br>
-- «Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
+«What is important to accomplish?» (where are you going)<br>
+«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
 The speed that you offload your stuff will be the speed of your team.'*
 
 > *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
@@ -1498,15 +1503,13 @@ The speed that you offload your stuff will be the speed of your team.'*
 
 A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. The outcome doesn't have to be exactly as you expected it to be.
 
-If feedback is needed:
-
-- give a reason. 
+By the other hand, if feedback is needed, give a reason.
 
 > *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
 
-> *'«Because» is a great motivator'*
+> *'«Because» is a great motivator.'*
 
-- ask instead of telling: 
+And ask instead of telling.
 
 > *'«Why did you decide to do X in that order?». This creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
 
@@ -1534,7 +1537,7 @@ No one is smarter than a small group.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-CHALLENGE: *pawn sacrifices.* Use it only on life changing situations and at your own risk.
+CHALLENGE: *pawn sacrifices.* Use it only on [life changing situations](#on-difficult-targets).
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
@@ -1549,9 +1552,11 @@ CHALLENGE: *pawn sacrifices.* Use it only on life changing situations and at you
 
 > *'Lazy is what the jealous call efficiency.'*
 
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
-
 > *'Productivity is different from workflow engineering.'*
+
+Delegate.
+
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
@@ -1569,7 +1574,7 @@ CHALLENGE: *pawn sacrifices.* Use it only on life changing situations and at you
 ===
 ###On hiring
 
-Hire anybody but only retain the best.
+Hire anyone but only retain the best.
 
 > *'He who works with his hands is a laborer.<br>
 He who works with his hands and his head is a craftsman.<br>
@@ -1712,7 +1717,7 @@ Making money is adding value.
 > *'Money is energy.'*
 
 CHALLENGE: [Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
-That said, a bad/good negotiation might mean that you are adding more/less value to the world than receiving money for it.
+That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it.
 
 
 
