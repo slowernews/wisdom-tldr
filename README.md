@@ -48,15 +48,20 @@ Exceptions to most rules also..
 - [On herd mentality](#on-herd-mentality)
 
 
-*On strategy & tactics*
+*On planning a battle*
 - [On planning](#on-planning)
 - [On analysis](#on-analysis)
 - [On judging](#on-judging)
 - [On decision making](#on-decision-making)
 - [On creativity](#on-creativity)
-
-
+- [On difficult targets](#on-difficult-targets)
+- [On desperate targets](#on-desperate-targets)
+- [On neutrality](#on-neutrality)
 - [On priorities and focus](#on-priorities-and-focus)
+- [On balance: perfectionism and good enough](#on-balance-perfectionism-and-good-enough)
+
+
+*On starting a battle*
 - [On starting vs waiting](#on-starting-vs-waiting)
 - [On timing](#on-timing)
 - [On pace](#on-pace)
@@ -65,29 +70,26 @@ Exceptions to most rules also..
 - [On counter-attacking](#on-counter-attacking)
 
 
+*On battlefield tools*
+- [On deceiving](#on-deceiving)
+- [On unpredictability](#on-unpredictability)
+- [On mirroring](#on-mirroring)
+- [On luring](#on-luring)
+- [On free lunch](#on-free-lunch)
+- [On hiding](#on-hiding)
+
+
+*On adapting your strategy*
+- [On luck](#on-luck)
 - [On negotiation](#on-negotiation)
 - [On listening](#on-listening)
 - [On speaking](#on-speaking)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
-- [On balance: perfectionism and good enough](#on-balance-perfectionism-and-good-enough)
 - [On reforms](#on-reforms)
-- [On luck](#on-luck)
 
 
-- [On mirroring](#on-mirroring)
-- [On unpredictability](#on-unpredictability)
-- [On luring](#on-luring)
-- [On deceiving](#on-deceiving)
-
-
-- [On difficult targets](#on-difficult-targets)
-- [On desperate targets](#on-desperate-targets)
-- [On hiding](#on-hiding)
-- [On neutrality](#on-neutrality)
-
-
-- [On free lunch](#on-free-lunch)
+*On ending a battle*
 - [On finishing](#on-finishing)
 - [On winning](#on-winning)
 - [On surrendering](#on-surrendering)
@@ -200,6 +202,7 @@ Do not truly commit to anything but *yourself*.
 
 
 
+===
 ###On identity
 
 You are your deeds, have personal accountability.
@@ -1242,8 +1245,6 @@ CHALLENGE: use absence with [moderation](#on-balance-perfectionism-and-good-enou
 
 > *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
 
-> *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
-
 CHALLENGE: Deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
@@ -1339,13 +1340,11 @@ But luck is a pattern, the pendulum will swing back your way eventually.
 ===
 ###On finishing
 
-Finish it. You cannot afford to go halfway.
+Finish it. [You cannot afford to go halfway very often](#on-priorities-and-focus).
 
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
-
-> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
 > *'When the end finally comes, it comes quickly.'*
 
@@ -1356,11 +1355,15 @@ Finish it. You cannot afford to go halfway.
 ===
 ###On winning
 
-It's not a question of simply winning the war but the way you win it sets you up for the next round.'*
+It's not just about winning the war but the way you win it sets you up for the next round.
 
 > *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
 
 > *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
+
+> *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
+
+> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
 
 
