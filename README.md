@@ -21,12 +21,12 @@ Exceptions to most rules also..
 - [On achievements](#on-achievements)
 - [On habits](#on-habits)
 - [On mastery](#on-mastery)
-- [On choosing mentors](#on-choosing-mentors)
-- [On mentorship and giving back](#on-mentorship-and-giving-back)
 - [On improvement](#on-improvement)
 - [On limits](#on-limits)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
+- [On choosing mentors](#on-choosing-mentors)
+- [On being a mentor](#on-being-a-mentor)
 
 
 *On your enemy: yourself*
@@ -61,15 +61,6 @@ Exceptions to most rules also..
 - [On balance: perfectionism and good enough](#on-balance-perfectionism-and-good-enough)
 
 
-*On starting a battle*
-- [On starting vs waiting](#on-starting-vs-waiting)
-- [On timing](#on-timing)
-- [On pace](#on-pace)
-- [On attacking](#on-attacking)
-- [On defending](#on-defending)
-- [On counter-attacking](#on-counter-attacking)
-
-
 *On battlefield tools*
 - [On deceiving](#on-deceiving)
 - [On unpredictability](#on-unpredictability)
@@ -77,10 +68,18 @@ Exceptions to most rules also..
 - [On luring](#on-luring)
 - [On free lunch](#on-free-lunch)
 - [On hiding](#on-hiding)
+- [On pawn sacrifices](#on-pawn-sacrifices)
 
 
-*On adapting your strategy*
-- [On luck](#on-luck)
+*On executing your plan*
+- [On starting vs waiting](#on-starting-vs-waiting)
+- [On timing](#on-timing)
+- [On pace](#on-pace)
+- [On attacking](#on-attacking)
+- [On defending and counter-attacking](#on-defending-and-counter-attacking)
+
+
+*On adapting your plan*
 - [On negotiation](#on-negotiation)
 - [On listening](#on-listening)
 - [On speaking](#on-speaking)
@@ -123,6 +122,7 @@ Exceptions to most rules also..
 
 
 *Others*
+- [On luck](#on-luck)
 - [On wealth](#on-wealth)
 - [On money](#on-money)
 - [On investment](#on-investment)
@@ -375,36 +375,6 @@ CHALLENGE: Mastery is the main trigger of [arrogance](#on-confidence). There's a
 
 
 ===
-###On choosing mentors
-
-Follow the thought leaders instead of the traffic leaders.
-
-
-
-===
-###On mentorship and giving back
-
-Your father is your first mentor. Be a mentor yourself and share your strengths. Impact the world.
-
-> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
-
-> *'Powerful people give freely, buying influence rather than things.'*
-
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
-
-> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
-
-> *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
-
-> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
-
-CHALLENGE: Beware to whom are you a mentor.
-
-> *'Do not teach a starving man to fish.'*
-
-
-
-===
 ###On improvement
 
 You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
@@ -432,7 +402,7 @@ The path for [mastery](#on-mastery) is a never ending story: skills are perishab
 ===
 ###On learning by practice
 
-You learn by getting out of comfort zone.
+You learn by getting out of your comfort zone.
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
@@ -460,6 +430,36 @@ You learn by analysis of past situations.
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
 > *'Write your thoughts. Journal early before your inhibitions take in.'*
+
+
+
+===
+###On choosing mentors
+
+Follow the thought leaders instead of the traffic leaders.
+
+
+
+===
+###On being a mentor
+
+Your father is your first mentor. Be a mentor yourself and share your strengths. Impact the world.
+
+> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
+
+> *'Powerful people give freely, buying influence rather than things.'*
+
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
+
+> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
+
+> *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
+
+> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+
+CHALLENGE: Beware to whom are you a mentor.
+
+> *'Do not teach a starving man to fish.'*
 
 
 
@@ -979,14 +979,9 @@ CHALLENGE: You should have a [plan](#on-planning).
 
 
 ===
-###On defending
+###On defending and counter-attacking
 
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
-
-
-
-===
-###On counter-attacking
 
 > *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
 
@@ -1299,6 +1294,17 @@ Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
 
 ===
+###On pawn sacrifices
+
+Use it *only* on [life changing situations](#on-difficult-targets): it's a scar for life.
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+
+
+
+===
 ###On free lunch
 
 Everything is a trade-off.
@@ -1312,28 +1318,6 @@ Everything is a trade-off.
 CHALLENGE: There are same fools though. Easy wins if you identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
-
-
-
-===
-###On luck
-
-Unless you’re winning, most of life will seem hideously unfair to you.<br>
-But luck is a pattern, the pendulum will swing back your way eventually.
-
-> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
-
-> *'Even a broken clock is right twice a day.'*
-
-> *'There’s no magic in the world. It’s all math.' -- discrete math professor*
-
-> *'The eternal mystery of the world is its comprehensibility.'*
-
-> *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
-
-> *'God is subtle but he is not malicious.'*
-
-> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
 
 
@@ -1540,11 +1524,7 @@ No one is smarter than a small group.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-CHALLENGE: *pawn sacrifices.* Use it only on [life changing situations](#on-difficult-targets).
-
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+CHALLENGE: [pawn sacrifices](#on-pawn-sacrifices)
 
 
 
@@ -1683,6 +1663,8 @@ You will die soon. Act accordingly. You'll never be as young as you are today.
 ===
 ###On memory
 
+You are your memory.
+
 > *'People forget more future events than past events.'*
 
 > *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
@@ -1700,7 +1682,25 @@ You will die soon. Act accordingly. You'll never be as young as you are today.
 
 
 
-###On wealth
+===
+###On luck
+
+Unless you’re winning, most of life will seem hideously unfair to you.<br>
+But luck is a pattern, the pendulum will swing back your way eventually.
+
+> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
+
+> *'Even a broken clock is right twice a day.'*
+
+> *'There’s no magic in the world. It’s all math.' -- discrete math professor*
+
+> *'The eternal mystery of the world is its comprehensibility.'*
+
+> *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
+
+> *'God is subtle but he is not malicious.'*
+
+> *'In life, business and relationships we are defined by how we react when things don't go our way.'*###On wealth
 
 Being rich is not counting your money all day but having [freedom](#on-freedom).
 
