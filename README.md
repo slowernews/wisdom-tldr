@@ -45,6 +45,7 @@ Exceptions to most rules also..
 - [On networking and socializing](#on-networking-and-socializing)
 - [On social inadequacy](#on-social-inadequacy)
 - [On relationships](#on-relationships)
+- [On family](#on-family)
 - [On criticism and envy](#on-criticism-and-envy)
 - [On herd mentality](#on-herd-mentality)
 - [On higher ranks](#on-higher-ranks)
@@ -673,7 +674,7 @@ conversational stubbornness. LET GO. top performers are pros at both leading con
 
 Relationships are based on [trust](#on-trust).
 
-> *'Everything is: a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
+> *'Everything is a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'Forget those who forget you.'*
 
@@ -687,9 +688,17 @@ Relationships are based on [trust](#on-trust).
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
-> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
 > *'Every person feels loved in a different form.'*
+
+> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+
+
+===
+###On family
+
+> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
 
 
@@ -1235,8 +1244,6 @@ CHALLENGE:
 
 Plans are not static. Adapt or die.
 
-> *'The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
-
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
 
 > *'Life is more like tetris than chess.'*
@@ -1339,8 +1346,6 @@ Use the opportunity to re-create yourself.
 
 > *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
 
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
 > *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
 
 > *'Assume formlessness.' -- Robert Greene (48th law of power)*
@@ -1351,6 +1356,8 @@ CHALLENGE: Unpredictability can work against you, specially if you are in a subo
 
 ===
 ###On deceiving
+
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
 
 > *'Court attention at all cost.' -- Robert Greene (6th law of power)*
 
@@ -1394,8 +1401,6 @@ Use absence and value to attract people.
 
 > *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
 
-> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
-
 > *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
 
 CHALLENGE: use absence with [moderation](#on-balance-perfectionism-and-good-enough).
@@ -1424,7 +1429,7 @@ CHALLENGE: There are same fools though. Easy wins if you identify them.
 ===
 ###On pawn sacrifices
 
-Use it *only* on [life changing situations](#on-difficult-targets): it's a scar for life.
+Use it on [life changing situations](#on-difficult-targets) *only*: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
@@ -1805,6 +1810,8 @@ Trust, not money, is the currency of business and life.<br>
 ###On careers
 
 Avoid the trap of following one set career path.
+
+> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
