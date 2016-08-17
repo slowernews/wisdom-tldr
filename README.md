@@ -3,9 +3,7 @@
 Exceptions to most rules also..
 
 
-
 ### Part 1 - Foundations
-
 
 
 *On foundations*
@@ -34,9 +32,10 @@ Exceptions to most rules also..
 - [On fear](#on-fear)
 - [On excuses](#on-excuses)
 - [On validation](#on-validation)
-- [On confidence](#on-confidence)
 - [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
 - [On mistakes and failure](#on-mistakes-and-failure)
+- [On confidence](#on-confidence)
+- [On arrogance](#on-arrogance)
 - [On limits](#on-limits)
 - [On mental health: stress](#on-mental-health-stress)
 - [On physical health](#on-physical-health)
@@ -54,9 +53,7 @@ Exceptions to most rules also..
 - [On outliers](#on-outliers)
 
 
-
 ### Part 2 - Strategy
-
 
 
 *On planning*
@@ -105,6 +102,10 @@ Exceptions to most rules also..
 - [On hiding](#on-hiding)
 
 
+
+### Part 3
+
+
 *On management*
 - [On leadership and influence](#on-leadership-and-influence)
 - [On communication](#on-communication)
@@ -135,7 +136,7 @@ Exceptions to most rules also..
 - [On careers](#on-careers)
 - [On economics and politics](#on-economics-and-politics)
 - [On science and religion](#on-science-and-religion)
-- [On art and aesthetics](#on-aesthetics)
+- [On art and aesthetics](#on-art-and-aesthetics)
 - [On intelligence](#on-intelligence)
 - [On beauty](#on-beauty)
 
@@ -156,7 +157,6 @@ One practical advice: have more than one kid.
 	                                                                   
 
 
-===
 ###On happiness
 
 Happiness is a journey, not a destination.
@@ -393,15 +393,13 @@ First learn the rules, then break them.
 
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
-CHALLENGE: Mastery is the main trigger of [arrogance](#on-confidence). There's always room for improvement: be [humble](#on-humbleness).
+CHALLENGE: Mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
 
 > *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
-
-> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are god.'*
 
 
 
@@ -479,38 +477,6 @@ There are no acceptable excuses. End.
 
 
 ===
-###On confidence
-
-If you say it with confidence, you are what you say you are. <br>
-
-> *'You're only as good as your next speech.'*
-
-> *'A speech is a performance. Authenticity is crucial.'*
-
-> *'Doubt kills more dreams than failure ever will.'*
-
-> *'Believe you can, and you’re half way there.'*
-
-> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
-
-> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
-
-> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
-
-[Mastery](#on-mastery) and core values are good sources of confidence.<br>
-In the meanwhile any source is good. Don't stop till you get it.
-
-> *'If you don't believe in yourself. Believe in me who believes in you.'*
-
-> *'Fake it till you make it.'*
-
-CHALLENGE: Know the frontier between confidence and arrogance.
-
-> *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
-
-
-
-===
 ###On validation
 
 Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
@@ -576,6 +542,45 @@ CHALLENGE: Fail fast.
 > *'Your limits are where are your fears.'*
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
+
+
+
+===
+###On confidence
+
+If you say it with confidence, you are what you say you are. <br>
+
+> *'You're only as good as your next speech.'*
+
+> *'A speech is a performance. Authenticity is crucial.'*
+
+> *'Doubt kills more dreams than failure ever will.'*
+
+> *'Believe you can, and you’re half way there.'*
+
+> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
+> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
+
+[Mastery](#on-mastery) and core values are good sources of confidence.<br>
+In the meanwhile any source is good. Don't stop till you get it.
+
+> *'If you don't believe in yourself. Believe in me who believes in you.'*
+
+> *'Fake it till you make it.'*
+
+CHALLENGE: Know the frontier between confidence and [arrogance](#on-arrogance).
+
+
+
+===
+###On arrogance
+
+> *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
+
+> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are god.'*
 
 
 
@@ -735,6 +740,8 @@ CHALLENGE: Common sense is not so common.
 > *'Taking a fence down without knowing why is there.'*
 
 
+
+===
 ###On higher ranks
 
 > *'Never outshine the master.' -- Robert Greene (1st law of power)*
@@ -791,7 +798,6 @@ Outliers inspire envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [
 
 
 
-===
 ###On planning
 
 Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
@@ -1004,7 +1010,6 @@ PRACTICAL ADVICE: How to balance the unbalanced?
 
 
 
-===
 ###On starting vs waiting
 
 Just start. You cannot afford to wait for inspiration or opportunities, your time is the most precious thing you own.
@@ -1101,7 +1106,6 @@ CHALLENGE:
 
 
 
-===
 ###On negotiation
 
 To negotiate is to have options. <br>
@@ -1162,7 +1166,7 @@ Be humble and learn to listen carefully.
 
 > *'Judge a man by his questions, not by his answers.'*
 
-Learn to listen hardware to predict a collapse.
+> *'Learn to listen to predict a collapse.'*
 
 CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
 
@@ -1220,6 +1224,8 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have:  ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
+CHALLENGE:
+
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
 
@@ -1274,7 +1280,6 @@ Plans are not static. Adapt or die.
 
 
 
-===
 ###On finishing
 
 Finish it. [You cannot afford to go halfway very often](#on-priorities-and-focus).
@@ -1330,7 +1335,6 @@ Use the opportunity to re-create yourself.
  
 
 
-===
 ###On unpredictability
 
 > *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
@@ -1553,7 +1557,7 @@ CHALLENGE: [pawn sacrifices](#on-pawn-sacrifices)
 
 > *'Productivity is different from workflow engineering.'*
 
-Delegate.
+[Delegate](#on-delegation) as much as possible.
 
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
@@ -1566,9 +1570,9 @@ Delegate.
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
-> *'Too busy pretending I'm occupied.'*
-
 > *'The world is full of consumers. Be a producer.'*
+
+> *'Too busy pretending I'm occupied.'*
 
 
 
@@ -1700,7 +1704,6 @@ You are your memory.
 
 
 
-===
 ###On luck
 
 Unless you’re winning, most of life will seem hideously unfair to you.<br>
@@ -1821,7 +1824,7 @@ Avoid the trap of following one set career path.
 
 
 ===
-###On science, art and religion
+###On science and religion
 
 > *'Science without religion is lame. Religion without science is blind.'*
 
