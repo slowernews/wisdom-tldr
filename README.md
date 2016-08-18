@@ -7,8 +7,8 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On happiness](#on-happiness)
 - [On gratefulness](#on-gratefulness)
+- [On happiness](#on-happiness)
 - [On freedom](#on-freedom)
 - [On identity](#on-identity)
 - [On ambition and motivation](#on-ambition-and-motivation)
@@ -35,7 +35,6 @@ Exceptions to most rules also..
 - [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On confidence](#on-confidence)
-- [On arrogance](#on-arrogance)
 - [On limits](#on-limits)
 - [On mental health: stress](#on-mental-health-stress)
 - [On physical health](#on-physical-health)
@@ -46,12 +45,11 @@ Exceptions to most rules also..
 - [On social inadequacy](#on-social-inadequacy)
 - [On relationships](#on-relationships)
 - [On family](#on-family)
+- [On peers](#on-peers)
+- [On higher ranks](#on-higher-ranks)
+- [On outliers](#on-outliers)
 - [On criticism and envy](#on-criticism-and-envy)
 - [On herd mentality](#on-herd-mentality)
-- [On higher ranks](#on-higher-ranks)
-- [On peers](#on-peers)
-- [On teamwork](#on-teamwork)
-- [On outliers](#on-outliers)
 
 
 ### Part 2 - Strategy
@@ -103,7 +101,6 @@ Exceptions to most rules also..
 - [On hiding](#on-hiding)
 
 
-
 ### Part 3
 
 
@@ -113,6 +110,7 @@ Exceptions to most rules also..
 - [On delegation](#on-delegation)
 - [On giving feedback](#on-feedback)
 - [On meetings](#on-meetings)
+- [On teamwork](#on-teamwork)
 - [On deep work](#on-deep-work)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On hiring](#on-hiring)
@@ -158,16 +156,6 @@ One practical advice: have more than one kid.
 	                                                                   
 
 
-###On happiness
-
-Happiness is a journey, not a destination.
-
-> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
-
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
-
-
-
 ===
 ###On gratefulness
 
@@ -175,11 +163,23 @@ Love the life you have, while you create the life of your dreams.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
+> *'Need to jump start happiness? Lower your expectations. -- James Altucher'*
+
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+
+
+###On happiness
+
+Happiness is a journey, not a destination.
+
+> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
+
+> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
 
 
 
@@ -200,32 +200,30 @@ Do not truly commit to anything but *yourself*.
 
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
-> *'The pathway to freedom is discipline.'*
-
 
 
 ===
 ###On identity
 
-You are your deeds.
+You are your deeds;
 
 > *'Weakness of attitude becomes weakness of character.'*
 
 > *'How you do anything is how you do everything.'*
 
-Have personal accountability.
+Have personal accountability;
 
 > *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
 
 > *'Be the person your dog think you are.'*
 
-Keep your integrity.
+Keep your integrity;
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
 > *'My independence is my legacy.' -- Bagão Felix*
 
-With authenticity.
+Authenticity;
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -249,7 +247,7 @@ Invest in yourself.
 ===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty or people will [envy](#on-criticism-and-envy) you.
+Be ambitious. Not thirsty, people will [envy](#on-outliers) you.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
@@ -288,7 +286,8 @@ Seek respect, not attention. It lasts longer.
 
 ###On success
 
-There is no shortcut to the top. Success is a castle that you build brick by brick.
+There is no shortcut to the top. Success is a castle that you build brick by brick.<br>
+Success is not being [wealthy](#on-wealth), it's being [happy](#on-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -321,17 +320,6 @@ Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievem
 
 
 ===
-###On habits
-
-Consistency is everything. Habits allow [mastery](#on-mastery).
-
-> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' -- Aristotle*
-
-> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
-
-
-
-===
 ###On improvement
 
 You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
@@ -350,7 +338,8 @@ The path for [mastery](#on-mastery) is a never ending story: skills are perishab
 ===
 ###On learning by practice
 
-You learn by getting out of your comfort zone.
+You learn by getting out of your comfort zone.<br>
+Easiest way to improve.
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
@@ -382,6 +371,17 @@ You learn by analysis of past situations.
 
 
 ===
+###On habits
+
+Consistency is everything. Habits allow [mastery](#on-mastery).
+
+> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' -- Aristotle*
+
+> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
+
+
+
+===
 ###On mastery
 
 First learn the rules, then break them. 
@@ -394,7 +394,7 @@ First learn the rules, then break them.
 
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
-CHALLENGE: Mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
+CHALLENGE: Mastery is the main trigger of [arrogance](#on-confidence). There's always room for improvement: be [humble](#on-humbleness).
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -572,12 +572,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-CHALLENGE: Know the frontier between confidence and [arrogance](#on-arrogance).
-
-
-
-===
-###On arrogance
+CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
@@ -703,6 +698,53 @@ Relationships are based on [trust](#on-trust).
 
 
 ===
+###On peers
+
+Keep your friends for friendship, but work with the skilled and competent.
+
+> *'If you're the smartest in the room, you're in the wrong room.'*
+
+> *'Nobody wants to be the best player in the band.'*
+
+> *'Work friends are just that, work friends. Nothing more.'*
+
+> *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
+
+> *'You are the sum of the people you surround yourself.'*
+
+> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
+
+
+
+===
+###On higher ranks
+
+> *'Never outshine the master.' -- Robert Greene (1st law of power)*
+
+> *'Know who you’re dealing with: do not offend the wrong person.' -- Robert Greene (9th law of power)*
+
+> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
+
+CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
+
+
+
+===
+###On outliers
+
+Outliers inspire envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
+
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+
+> *'You’re judged by what you do, not what you think.'*
+
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+
+
+
+===
 ###On criticism and envy
 
 Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-outliers).
@@ -747,53 +789,6 @@ Most people are other people. Their thoughts are someone else opinions.
 CHALLENGE: Common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
-
-
-
-===
-###On higher ranks
-
-> *'Never outshine the master.' -- Robert Greene (1st law of power)*
-
-> *'Know who you’re dealing with: do not offend the wrong person.' -- Robert Greene (9th law of power)*
-
-> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
-
-CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
-
-
-
-===
-###On peers
-
-Keep your friends for friendship, but work with the skilled and competent.
-
-> *'If you're the smartest in the room, you're in the wrong room.'*
-
-> *'Nobody wants to be the best player in the band.'*
-
-> *'Work friends are just that, work friends. Nothing more.'*
-
-> *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
-
-> *'You are the sum of the people you surround yourself.'*
-
-> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
-
-
-
-===
-###On outliers
-
-Outliers inspire envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
-
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
-
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
-
-> *'You’re judged by what you do, not what you think.'*
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 
 
@@ -1554,6 +1549,17 @@ CHALLENGE: [pawn sacrifices](#on-pawn-sacrifices)
 
 
 ===
+###On deep work
+
+> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
+
+> *'The world is full of consumers. Be a producer.'*
+
+> *'Too busy pretending I'm occupied.'*
+
+
+
+===
 ###On efficiency and productivity
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
@@ -1567,17 +1573,6 @@ CHALLENGE: [pawn sacrifices](#on-pawn-sacrifices)
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
-
-
-
-===
-###On deep work
-
-> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
-
-> *'The world is full of consumers. Be a producer.'*
-
-> *'Too busy pretending I'm occupied.'*
 
 
 
@@ -1862,7 +1857,7 @@ Avoid the trap of following one set career path.
 
 > *'Artistic death is made by consensus.'*
 
-> *'Art is Socialism but life is Capitalism.'*
+> *'Life is Capitalism but Art is Socialism.'*
 
 
 
@@ -1885,17 +1880,6 @@ Avoid the trap of following one set career path.
 > *'Beauty is not a gift, it is a burden.'*
 
 > *'Once I was beautiful, now I'm myself.'*
-
-
-
-===
-###On honesty
-
-> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
-
-> *'Don't hide your feelings from people who show you theirs.'*
-
-> *'Only comedians can speak truth without consequences.'*
 
 
 
