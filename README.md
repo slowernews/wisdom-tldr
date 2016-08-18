@@ -3,7 +3,7 @@
 Exceptions to most rules also..
 
 
-### Part 1 - Foundations
+### Part 1 - Self
 
 
 *On foundations*
@@ -40,6 +40,9 @@ Exceptions to most rules also..
 - [On physical health](#on-physical-health)
 
 
+### Part 2 - Groups
+
+
 *On being social*
 - [On networking and socializing](#on-networking-and-socializing)
 - [On social inadequacy](#on-social-inadequacy)
@@ -52,7 +55,20 @@ Exceptions to most rules also..
 - [On herd mentality](#on-herd-mentality)
 
 
-### Part 2 - Strategy
+*On management*
+- [On leadership and influence](#on-leadership-and-influence)
+- [On communication](#on-communication)
+- [On delegation](#on-delegation)
+- [On giving feedback](#on-feedback)
+- [On meetings](#on-meetings)
+- [On teamwork](#on-teamwork)
+- [On deep work](#on-deep-work)
+- [On efficiency and productivity](#on-efficiency-and-productivity)
+- [On hiring](#on-hiring)
+- [On being hired](#on-being-hired)
+
+
+### Part 3 - Strategy
 
 
 *On planning*
@@ -101,20 +117,7 @@ Exceptions to most rules also..
 - [On hiding](#on-hiding)
 
 
-### Part 3
-
-
-*On management*
-- [On leadership and influence](#on-leadership-and-influence)
-- [On communication](#on-communication)
-- [On delegation](#on-delegation)
-- [On giving feedback](#on-feedback)
-- [On meetings](#on-meetings)
-- [On teamwork](#on-teamwork)
-- [On deep work](#on-deep-work)
-- [On efficiency and productivity](#on-efficiency-and-productivity)
-- [On hiring](#on-hiring)
-- [On being hired](#on-being-hired)
+### Part 4 - World
 
 
 *On time*
