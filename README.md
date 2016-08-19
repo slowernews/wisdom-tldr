@@ -7,8 +7,7 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On gratefulness](#on-gratefulness)
-- [On happiness](#on-happiness)
+- [On gratefulness and happiness](#on-gratefulness-and-happiness)
 - [On freedom](#on-freedom)
 - [On identity](#on-identity)
 - [On ambition and motivation](#on-ambition-and-motivation)
@@ -19,10 +18,10 @@ Exceptions to most rules also..
 *On growth*
 - [On success](#on-success)
 - [On comfort and risk](#on-comfort-and-risk)
-- [On habits](#on-habits)
 - [On improvement](#on-improvement)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
+- [On habits](#on-habits)
 - [On mastery](#on-mastery)
 - [On choosing mentors](#on-choosing-mentors)
 - [On being a mentor](#on-being-a-mentor)
@@ -117,7 +116,7 @@ Exceptions to most rules also..
 - [On hiding](#on-hiding)
 
 
-### Part 4 - World
+### Part 4 - Assorted
 
 
 *On time*
@@ -160,9 +159,10 @@ One practical advice: have more than one kid.
 
 
 ===
-###On gratefulness
+###On gratefulness and happiness
 
-Love the life you have, while you create the life of your dreams.
+Love the life you have, while you create the life of your dreams.<br>
+Happiness is a journey, not a destination.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
@@ -173,12 +173,6 @@ Love the life you have, while you create the life of your dreams.
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
-
-
-
-###On happiness
-
-Happiness is a journey, not a destination.
 
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 
@@ -290,7 +284,7 @@ Seek respect, not attention. It lasts longer.
 ###On success
 
 There is no shortcut to the top. Success is a castle that you build brick by brick.<br>
-Success is not being [wealthy](#on-wealth), it's being [happy](#on-happiness).
+Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -534,7 +528,8 @@ Sometimes you win. Sometimes you learn. Accept failure as part of the process.
 
 > *'Be gentle first with yourself.'*
 
-CHALLENGE: Fail fast.
+CHALLENGE:<br>
+Fail fast.
 
 > *'When you don't know something you will pay for it. That's the stupidity tax.'*
 
@@ -575,7 +570,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-CHALLENGE: Know the frontier between confidence and arrogance.
+CHALLENGE:<br>
+Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
@@ -1240,7 +1236,8 @@ CHALLENGE:
 ===
 ###On adapting
 
-Plans are not static. Adapt or die.
+Plans are not static. Adapt or die.<br>
+You need to switch strategies a few times to get where you want to go.
 
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
 
@@ -1258,13 +1255,10 @@ Plans are not static. Adapt or die.
 
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
-????
-
-> *'The directions to get you anywhere include a few turns. You need to switch strategies a few times to get where you want to go. (defenition of insanity ).'*
-> *'say yes to everything; open - growth / double-down and focus; give - value
-> *'The destination is not the end of the road; its just a stop along the way. An intersection to take you to your next destination.'*
-> *'If you want to try something new, you might be in the YES or no stage in part of your life, but it is time for the yes to everything strategy in another part of your life.'*
-> *'For me it's sometimes scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'*
+> *'The directions to get you anywhere include a few turns.<br>
+Sometimes, you need to say YES to everything and be open to growth; <br>
+Other times, you need to say NO to everything and focus. <br>
+It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.' -- Derek Sivers (adapted)*
 
 
 
@@ -1287,7 +1281,7 @@ Plans are not static. Adapt or die.
 
 ###On finishing
 
-Finish it. [You cannot afford to go halfway very often](#on-priorities-and-focus).
+Finish it. Often, [you can't afford to go halfway](#on-priorities-and-focus).
 
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
@@ -1297,12 +1291,14 @@ Finish it. [You cannot afford to go halfway very often](#on-priorities-and-focus
 
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
+> *'Reconciliation is out of the question. Only one side can win, and it must win totally.'*
+
 
 
 ===
 ###On winning
 
-It's not just about winning the war but the way you win it sets you up for the next round.
+It's not just about winning. The way you win it sets you up for the next round.
 
 > *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
 
@@ -1311,6 +1307,8 @@ It's not just about winning the war but the way you win it sets you up for the n
 > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
 
 > *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
+
+> *'The destination is not the end of the road; its just a stop along the way. An intersection to take you to your next destination.'*
 
 
 
@@ -1326,8 +1324,6 @@ Use the opportunity to re-create yourself.
 > *'Use the surrender tactic: transform weakness into power.' -- Robert Greene (22nd law of power)*
 
 > *'Re-create yourself.' -- Robert Greene (25th law of power)*
-
-> *'Reconciliation is out of the question. Only one side can win, and it must win totally.'*
 
 
 
@@ -1547,7 +1543,8 @@ No one is smarter than a small group.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-CHALLENGE: [pawn sacrifices](#on-pawn-sacrifices)
+CHALLENGE:<br>
+[Pawn sacrifices](#on-pawn-sacrifices)
 
 
 
@@ -1603,7 +1600,7 @@ CHALLENGE:
 ===
 ###On being hired
 
-Companies will hire you because you are a likable person that «gets shit done».
+Employers hire you because you are a likable person that «gets shit done».
 
 > *'When applying for a job be more of a consultant than an applicant.'*
 
@@ -1614,6 +1611,19 @@ CHALLENGE: Companies don't care about you. Having a job is risky.
 > *'If your job doesn't require originality, next decade you might not have one.'*
 
 > *'I work for money, if you want loyalty hire a dog.'*
+
+
+
+===
+###On careers
+
+Avoid the trap of following one set career path.
+
+> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
+
+> *'The interesting jobs are the ones that you make up.' -- Chris Young*
+
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
 
 
@@ -1801,19 +1811,6 @@ Trust, not money, is the currency of business and life.<br>
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
-
-
-
-===
-###On careers
-
-Avoid the trap of following one set career path.
-
-> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
-
-> *'The interesting jobs are the ones that you make up.' -- Chris Young*
-
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
 
 
