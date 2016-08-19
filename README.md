@@ -43,8 +43,8 @@ Exceptions to most rules also..
 
 
 *On being social*
-- [On networking and socializing](#on-networking-and-socializing)
-- [On social inadequacy](#on-social-inadequacy)
+- [On networking](#on-networking)
+- [On socializing](#on-socializing)
 - [On relationships](#on-relationships)
 - [On family](#on-family)
 - [On peers](#on-peers)
@@ -65,6 +65,7 @@ Exceptions to most rules also..
 - [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
+- [On careers](#on-careers)
 
 
 ### Part 3 - Strategy
@@ -134,7 +135,6 @@ Exceptions to most rules also..
 - [On investment](#on-investment)
 - [On trust](#on-trust)
 - [On business](#on-starting-a-business)
-- [On careers](#on-careers)
 - [On economics and politics](#on-economics-and-politics)
 - [On science and religion](#on-science-and-religion)
 - [On art and aesthetics](#on-art-and-aesthetics)
@@ -149,7 +149,6 @@ One practical advice: have more than one kid.
 
 
 
-===
 	  __             __                                                
 	 /  |           /                      |      /    /               
 	(   | ___      (     ___       ___  ___| ___ (___    ___  ___  ___ 
@@ -320,15 +319,13 @@ Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievem
 ###On improvement
 
 You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
-The path for [mastery](#on-mastery) is a never ending story: skills are perishable.
+The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
-
-> *'effort * talent = skill'*
 
 
 
@@ -372,7 +369,7 @@ You learn by analysis of past situations.
 
 Consistency is everything. Habits allow [mastery](#on-mastery).
 
-> *'We are what we repeatedly do, excellence therefore is not an act, but a habit.' -- Aristotle*
+> *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
@@ -528,8 +525,7 @@ Sometimes you win. Sometimes you learn. Accept failure as part of the process.
 
 > *'Be gentle first with yourself.'*
 
-CHALLENGE:<br>
-Fail fast.
+**Challenge:** fail fast and bounce back quickly.
 
 > *'When you don't know something you will pay for it. That's the stupidity tax.'*
 
@@ -627,23 +623,13 @@ Take care of your body. It’s the most important thing you’ll get for free.
 
 
 
-###On networking and socializing
+###On networking
 
-Be social. Don't [hide](#on-hiding) yourself. A person starts to live when he can live outside himself.
+Be social. Don't [hide](#on-hiding) yourself.
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
-
-> *'Be in the moment instead of being in your head.'*
-
 > *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
-
-> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
-
-On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.
-
-try to hit 10% of your followers instead of trying to hit all of them at the same time.
 
 networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
 
@@ -651,15 +637,23 @@ networking types: advocates a, boomerang b, celebrities c, drainers d / shark, d
 
 > *'Work on the hearts and minds of others.' -- Robert Greene (43rd law of power)*
 
+> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
+
 
 
 ===
-###On social inadequacy
+###On socializing
 
-AKA creepiness.
+> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
-> *'Unpredictability. Some occupations and hobbies are more linked with creepiness than others.<br>
-conversational stubbornness. LET GO. top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware. The field of being social there is no place for shutting out external catalysts.'*
+Social inadequacy AKA creepiness is based on unpredictability.
+
+A person starts to live when he can live outside himself.<br>
+Be in the moment instead of being in your head.
+
+> *'On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.'*
+
+> *'Conversational stubbornness. LET GO. Top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware, always looking for external catalysts.'*
 
 
 
@@ -681,7 +675,6 @@ Relationships are based on [trust](#on-trust).
 > *'Never love anyone that treats you like you're ordinary.'*
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
-
 
 > *'Every person feels loved in a different form.'*
 
@@ -724,7 +717,7 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 > *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
 
-CHALLENGE: Don't vow to the gatekeepers. You are the gatekeeper.
+CHALLENGE: Don't vow to the gatekeepers.
 
 
 
@@ -784,6 +777,8 @@ Most people are other people. Their thoughts are someone else opinions.
 > *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
 
 > *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
+
+> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
 CHALLENGE: Common sense is not so common.
 
@@ -1423,7 +1418,7 @@ CHALLENGE: There are same fools though. Easy wins if you identify them.
 ===
 ###On pawn sacrifices
 
-Use it on [life changing situations](#on-difficult-targets) *only*: it's a scar for life.
+Use it *only* on [life changing situations](#on-difficult-targets): it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
@@ -1785,9 +1780,11 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ###On trust
 
 Trust, not money, is the currency of business and life.<br>
-[Honesty](#on-honesty) and [reputation](#on-reputation) build trust. Disappointment destroys it. 
+Honesty and [reputation](#on-reputation) build trust. Disappointment destroys it. 
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
 
 
@@ -1807,8 +1804,6 @@ Trust, not money, is the currency of business and life.<br>
 > *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
 
 > *'Scratch your own itch.'*
-
-> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
@@ -1857,7 +1852,7 @@ Trust, not money, is the currency of business and life.<br>
 
 > *'Artistic death is made by consensus.'*
 
-> *'Life is Capitalism but Art is Socialism.'*
+> *'Life is Capitalism but art is Socialism.'*
 
 
 
