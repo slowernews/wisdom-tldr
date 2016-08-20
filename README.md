@@ -75,7 +75,7 @@ Exceptions to most rules also..
 - [On planning](#on-planning)
 - [On analysis](#on-analysis)
 - [On decision making](#on-decision-making)
-- [On creativity](#on-creativity)
+- [On creativity and ideas](#on-creativity-and-ideas)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
 - [On neutrality](#on-neutrality)
@@ -869,7 +869,7 @@ too familiar - too unfamiliar. we like what is in the middle! similar enough and
 
 
 ===
-###On creativity
+###On creativity and ideas
 
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
@@ -1253,9 +1253,8 @@ You need to switch strategies a few times to get where you want to go.
 
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
-> *'The directions to get you anywhere include a few turns.<br>
-Sometimes, you need to say YES to everything and be open to growth; <br>
-Other times, you need to say NO to everything and focus. <br>
+> *'The directions to get you anywhere include a few turns:<br>
+Sometimes, you need to say YES to everything and be open to growth; Other times, you need to say NO to everything and focus. <br>
 It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.' -- Derek Sivers (adapted)*
 
 CHALLENGE:
@@ -1293,7 +1292,7 @@ Finish it. Often, you can't afford to [go halfway](#on-priorities-and-focus).
 ===
 ###On winning
 
-It's not just about winning. The way you win it sets you up for the next round.
+It's not just about winning. The way you win sets you up for the next round.
 
 > *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
 
@@ -1480,7 +1479,7 @@ Management is about communication. Being a boss to be equal parts manager and ps
 
 > *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
 
-ADVICE: meetings.
+ADVICE:
 
 > *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
 
