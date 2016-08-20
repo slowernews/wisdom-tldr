@@ -45,6 +45,7 @@ Exceptions to most rules also..
 *On being social*
 - [On networking](#on-networking)
 - [On socializing](#on-socializing)
+- [On trust](#on-trust)
 - [On relationships](#on-relationships)
 - [On family](#on-family)
 - [On peers](#on-peers)
@@ -59,10 +60,9 @@ Exceptions to most rules also..
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
 - [On giving feedback](#on-feedback)
-- [On meetings](#on-meetings)
 - [On teamwork](#on-teamwork)
-- [On deep work](#on-deep-work)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
+- [On deep work](#on-deep-work)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
 - [On careers](#on-careers)
@@ -74,7 +74,6 @@ Exceptions to most rules also..
 *On planning*
 - [On planning](#on-planning)
 - [On analysis](#on-analysis)
-- [On judging](#on-judging)
 - [On decision making](#on-decision-making)
 - [On creativity](#on-creativity)
 - [On difficult targets](#on-difficult-targets)
@@ -133,7 +132,6 @@ Exceptions to most rules also..
 - [On wealth](#on-wealth)
 - [On money](#on-money)
 - [On investment](#on-investment)
-- [On trust](#on-trust)
 - [On business](#on-starting-a-business)
 - [On economics and politics](#on-economics-and-politics)
 - [On science and religion](#on-science-and-religion)
@@ -525,7 +523,7 @@ Sometimes you win. Sometimes you learn. Accept failure as part of the process.
 
 > *'Be gentle first with yourself.'*
 
-**Challenge:** fail fast and bounce back quickly.
+CHALLENGE: fail fast and bounce back quickly.
 
 > *'When you don't know something you will pay for it. That's the stupidity tax.'*
 
@@ -566,8 +564,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-CHALLENGE:<br>
-Know the frontier between confidence and arrogance.
+CHALLENGE: Know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
@@ -596,8 +593,6 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'The more relaxed you are, the better you are at everything.'*
 
-> *'I've decided to be happy because it is good to my health.'*
-
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
 
 
@@ -608,6 +603,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 Take care of your body. It’s the most important thing you’ll get for free.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
+
+> *'I've decided to be happy because it is good to my health.'*
 
 > *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)*
 
@@ -654,6 +651,18 @@ Be in the moment instead of being in your head.
 > *'On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.'*
 
 > *'Conversational stubbornness. LET GO. Top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware, always looking for external catalysts.'*
+
+
+
+===
+###On trust
+
+Trust, not money, is the currency of business and life.<br>
+Honesty and [reputation](#on-reputation) build trust. Disappointment destroys it. 
+
+> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
 
 
@@ -825,20 +834,14 @@ CHALLENGE: Don't overthink.
 ===
 ###On analysis
 
-Most facts are a *tell* but some are just random.
+Most facts are a *tell* but some are just random.<br>
+Bias makes you underestimate or overestimate something. [Balance](##on-balance-perfectionism-and-good-enough) is the secret.
 
 > *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
 > *'What Susie says of Sally says mores about Susie than of Sally.'*
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
-
-
-
-===
-###On judging
-
-Bias makes you underestimate or overestimate something. [Balance](##on-balance-perfectionism-and-good-enough) is the secret.
 
 > *'Not everything that counts can be counted, and not everything that can be counted counts.'*
 
@@ -1255,10 +1258,7 @@ Sometimes, you need to say YES to everything and be open to growth; <br>
 Other times, you need to say NO to everything and focus. <br>
 It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.' -- Derek Sivers (adapted)*
 
-
-
-===
-###On reforms
+CHALLENGE:
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
@@ -1276,7 +1276,7 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 
 ###On finishing
 
-Finish it. Often, [you can't afford to go halfway](#on-priorities-and-focus).
+Finish it. Often, you can't afford to [go halfway](#on-priorities-and-focus).
 
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
@@ -1478,6 +1478,12 @@ Management is about communication. Being a boss to be equal parts manager and ps
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
+> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
+
+ADVICE: meetings.
+
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+
 
 
 ===
@@ -1492,10 +1498,6 @@ The key principle is putting your team’s productivity first. Remember, you are
 «What is important to accomplish?» (where are you going)<br>
 «Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
 The speed that you offload your stuff will be the speed of your team.'*
-
-> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
-
-> *'There are no bad teams, only bad leaders.'*
 
 
 
@@ -1525,32 +1527,13 @@ In any case, [humility](#on-humbleness) is needed for leadership. Pounding direc
 
 
 ===
-###On meetings
-
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
-
-
-
-===
 ###On teamwork
 
 No one is smarter than a small group.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-CHALLENGE:<br>
-[Pawn sacrifices](#on-pawn-sacrifices)
-
-
-
-===
-###On deep work
-
-> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
-
-> *'The world is full of consumers. Be a producer.'*
-
-> *'Too busy pretending I'm occupied.'*
+> *'There are no bad teams, only bad leaders.'*
 
 
 
@@ -1568,6 +1551,17 @@ CHALLENGE:<br>
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
+
+
+===
+###On deep work
+
+> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
+
+> *'The world is full of consumers. Be a producer.'*
+
+> *'Too busy pretending I'm occupied.'*
 
 
 
@@ -1773,18 +1767,6 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Stock buybacks are effectively same as dividends.'*
 
 > *'Wherever oil goes, the stock market goes.'*
-
-
-
-===
-###On trust
-
-Trust, not money, is the currency of business and life.<br>
-Honesty and [reputation](#on-reputation) build trust. Disappointment destroys it. 
-
-> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
-
-> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
 
 
