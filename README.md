@@ -16,8 +16,8 @@ Exceptions to most rules also..
 
 *On growth*
 - [On success](#on-success)
-- [On comfort and risk](#on-comfort-and-risk)
 - [On improvement](#on-improvement)
+- [On comfort and risk](#on-comfort-and-risk)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
 - [On habits](#on-habits)
@@ -59,7 +59,6 @@ Exceptions to most rules also..
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
 - [On giving feedback](#on-feedback)
-- [On teamwork](#on-teamwork)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
@@ -109,7 +108,6 @@ Exceptions to most rules also..
 - [On mirroring](#on-mirroring)
 - [On luring](#on-luring)
 - [On free lunch](#on-free-lunch)
-- [On pawn sacrifices](#on-pawn-sacrifices)
 - [On hiding](#on-hiding)
 
 
@@ -282,6 +280,20 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 
 
 ===
+###On improvement
+
+You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
+
+> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
+
+> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
+
+
+
+===
 ###On comfort and risk
 
 You need to break rules to achieve anything great.<br>
@@ -302,20 +314,6 @@ Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievem
 > *'You can choose courage or you can choose comfort, but you can't choose both.'*
 
 > *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
-
-
-
-===
-###On improvement
-
-You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
-The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
-
-> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
-
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
-
-> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
 
 
@@ -820,7 +818,7 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-CHALLENGE: don't overthink.
+CHALLENGE: don't overthink. <!-- analisis paralisis -->
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -832,7 +830,7 @@ CHALLENGE: don't overthink.
 ###On analysis
 
 Most facts are a *tell* but some are just random.<br>
-Bias makes you underestimate or overestimate something. [Balance](##on-balance) is the secret.
+Bias makes you underestimate or overestimate something.
 
 > *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
@@ -908,6 +906,12 @@ To win, you'll need all weaponry.
 > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
+
+*Pawn sacrifices* are effective but use it *only* on [life changing situations](#on-difficult-targets): it's a scar for life.
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
 
 
 
@@ -1413,17 +1417,6 @@ CHALLENGE: There are same fools though. Easy wins if you identify them.
 
 
 ===
-###On pawn sacrifices
-
-Use it *only* on [life changing situations](#on-difficult-targets): it's a scar for life.
-
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
-
-
-
-===
 ###On hiding
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
@@ -1464,6 +1457,8 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
+> *'There are no bad teams, only bad leaders.'*
+
 
 
 ===
@@ -1490,6 +1485,8 @@ Managing is delegating. Your speed as a manager is the speed of the team.
 
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.'*
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 > *'A manager should make himself 2 questions a day:<br>
 «What is important to accomplish?» (where are you going)<br>
@@ -1520,17 +1517,6 @@ In any case, [humility](#on-identity) is needed for leadership. Pounding directi
 > *'«Interesting, how do you feel about it?»'*
 
 > *'«What does your team think?»'*
-
-
-
-===
-###On teamwork
-
-No one is smarter than a small group.
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
-
-> *'There are no bad teams, only bad leaders.'*
 
 
 
@@ -1583,7 +1569,7 @@ CHALLENGE:
 ===
 ###On being hired
 
-Employers hire you because you are a likable person that «gets shit done».
+Employers hire you because you are a likable person that «get shit done».
 
 > *'When applying for a job be more of a consultant than an applicant.'*
 
@@ -1591,9 +1577,9 @@ Employers hire you because you are a likable person that «gets shit done».
 
 CHALLENGE: companies don't care about you. Having a job is risky.
 
-> *'If your job doesn't require originality, next decade you might not have one.'*
-
 > *'I work for money, if you want loyalty hire a dog.'*
+
+> *'If your job doesn't require originality, next decade you might not have one.'*
 
 
 
@@ -1843,6 +1829,7 @@ Making money is adding value.
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
+<!-- No one is smarter than a small group. -->
 
 
 ===
