@@ -11,7 +11,6 @@ Exceptions to most rules also..
 - [On freedom](#on-freedom)
 - [On identity](#on-identity)
 - [On ambition and motivation](#on-ambition-and-motivation)
-- [On humbleness](#on-humbleness)
 - [On reputation](#on-reputation)
 
 
@@ -56,13 +55,12 @@ Exceptions to most rules also..
 
 
 *On management*
-- [On leadership and influence](#on-leadership-and-influence)
+- [On leadership, power and influence](#on-leadership-power-and-influence)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
 - [On giving feedback](#on-feedback)
 - [On teamwork](#on-teamwork)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
-- [On deep work](#on-deep-work)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
 - [On careers](#on-careers)
@@ -80,7 +78,7 @@ Exceptions to most rules also..
 - [On desperate targets](#on-desperate-targets)
 - [On neutrality](#on-neutrality)
 - [On priorities and focus](#on-priorities-and-focus)
-- [On balance: perfectionism and good enough](#on-balance-perfectionism-and-good-enough)
+- [On balance](#on-balance)
 
 
 *On executing*
@@ -97,7 +95,6 @@ Exceptions to most rules also..
 - [On speaking](#on-speaking)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
-- [On reforms](#on-reforms)
 
 
 *On ending*
@@ -130,7 +127,7 @@ Exceptions to most rules also..
 *Others*
 - [On luck](#on-luck)
 - [On wealth](#on-wealth)
-- [On money](#on-money)
+- [On price](#on-price)
 - [On investment](#on-investment)
 - [On business](#on-starting-a-business)
 - [On economics and politics](#on-economics-and-politics)
@@ -163,8 +160,6 @@ Happiness is a journey, not a destination.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
-> *'Need to jump start happiness? Lower your expectations. -- James Altucher'*
-
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
@@ -174,6 +169,8 @@ Happiness is a journey, not a destination.
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 
 > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
+
+> *'Need to jump start happiness? Lower your expectations. -- James Altucher'*
 
 
 
@@ -217,22 +214,17 @@ Keep your integrity;
 
 > *'My independence is my legacy.' -- Bagão Felix*
 
-Authenticity;
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+Be your best self;
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 > *'If you try to be something you're not, you end up being nothing.'*
 
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-Invest in yourself.
-
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-
-
-===
-###On humbleness
+But remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
@@ -386,7 +378,7 @@ First learn the rules, then break them.
 
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
-CHALLENGE: Mastery is the main trigger of [arrogance](#on-confidence). There's always room for improvement: be [humble](#on-humbleness).
+CHALLENGE: mastery is the main trigger of [arrogance](#on-confidence). There's always room for improvement: be [humble](#on-identity).
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -420,7 +412,7 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
-CHALLENGE: Beware to whom are you a mentor. Some people are not ready.
+CHALLENGE: beware to whom are you a mentor. Some people are not ready.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -564,7 +556,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-CHALLENGE: Know the frontier between confidence and arrogance.
+CHALLENGE: know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
@@ -673,21 +665,26 @@ Relationships are based on [trust](#on-trust).
 
 > *'Everything is a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
+> *'A great relationship is about finding the similarities and respect the differences.'*
+
+> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
+
+> *'Every person feels loved in a different form.'*
+
+It is ok to give the first step but then mirror their behavior.
+
 > *'Forget those who forget you.'*
 
 > *'The people that want to stay in your life, will always find a way.'*
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
 
-> *'A great relationship is about finding the similarities and respect the differences.'*
-
 > *'Never love anyone that treats you like you're ordinary.'*
 
-> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
-
-> *'Every person feels loved in a different form.'*
-
 > *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+Keep high standards, a lot of work for scraps is a [bad deal](#on-price).
+
 
 
 
@@ -726,7 +723,7 @@ Keep your friends for friendship, but work with the skilled and competent.
 
 > *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
 
-CHALLENGE: Don't vow to the gatekeepers.
+CHALLENGE: don't vow to the gatekeepers.
 
 
 
@@ -762,7 +759,7 @@ Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-out
 
 > *'Só há consensos no 1º e no ultimo minuto de algo.'*
 
-CHALLENGE: Most criticism is envy but beware of blindspots.
+CHALLENGE: most criticism is envy but beware of blindspots.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -789,7 +786,7 @@ Most people are other people. Their thoughts are someone else opinions.
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-CHALLENGE: Common sense is not so common.
+CHALLENGE: common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
 
@@ -823,7 +820,7 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-CHALLENGE: Don't overthink.
+CHALLENGE: don't overthink.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -835,7 +832,7 @@ CHALLENGE: Don't overthink.
 ###On analysis
 
 Most facts are a *tell* but some are just random.<br>
-Bias makes you underestimate or overestimate something. [Balance](##on-balance-perfectionism-and-good-enough) is the secret.
+Bias makes you underestimate or overestimate something. [Balance](##on-balance) is the secret.
 
 > *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
@@ -862,9 +859,9 @@ Bias makes you underestimate or overestimate something. [Balance](##on-balance-p
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions'*
 
-Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
+<!-- Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance-perfectionism-and-good-enough)
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance) -->
 
 
 
@@ -976,28 +973,28 @@ CHALLENGE: *guerrilla* has their strengths also.
 
 
 ===
-###On balance: perfectionism and good enough
+###On balance
 
-The dose makes the poison. Things in excess become their opposite.
-
-> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
+The dose makes the poison. Things in excess become their opposite.<br>
+The hardest skill is knowing when to stop.
 
 > *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
+
+> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
 
 > *'Everything should be made as simple as possible, but not simpler.'*
 
 > *'Don't take a half step where a full step is required.'*
 
-> *'Some people get passion from something they struggled with.'*
-
 > *'If half of the room laughs and half doesn't is a success.'*
 
-> *'dictator's dilemma:  When 4 out of 5 dentists agree …  we take that as a good recommendation. If it were 5 out of 5 we would say baloney sandwich.
-When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. And speaking of 97%, when his excellency and Great Father of his People, Turkmenistan President Gurbanguly Berdimuhamedov gets 97% of the vote.*
+> *'«Dictator's dilemma»:  When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, Turkmenistan President gets 97% of the vote we say that is BS.*
 
 PRACTICAL ADVICE: How to balance the unbalanced?
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
+
+> *'Some people get passion from something they struggled with.'*
 
 
 
@@ -1031,13 +1028,13 @@ Just start. You cannot afford to wait for inspiration or opportunities, your tim
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
-People procrastinate specially when there are no urgency/deadlines: the panic monster.
+<!-- People procrastinate specially when there are no urgency/deadlines: the panic monster.
 
 > *'Pressed by circumstances, we feel unusually energized and focused.'*
 
-> *add mark manson on procrastination*
+> *add mark manson on procrastination* -->
 
-CHALLENGE: You should have a [plan](#on-planning).
+CHALLENGE: you should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
@@ -1121,30 +1118,30 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 Never negotiate with yes or no questions: 
 
 > *'«What can you do?» instead of «Will you do this?» <br>
-Use «How». «How» gives people an opportunity to show how smart they are.'*
 
 Best way to say no:
 
-> *'«How am I supposed to do that?»'*
+> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
 
-Tone of voice is a big clue to know with whom are we negotiating:
+Tone of voice is a big clue to know with whom we are negotiating:
 
-> *'the analytical cold guy is very patience.'* <br>
+> *'The analytical cold guy is very patient.'* <br>
 > *'the assertive guy (trump) wants to make it fast.'* <br>
 > *'the accomodator: relationship is the most important'*
 
-> *'Unexpressed feelings never die.'*
+<!-- > *'Unexpressed feelings never die.'*
 > *'Releasing pressure is different from venting.'*
 > *'The more influence somebody is the more they use we / plural pronouns.'*
 > *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
 > *'Listening for things that you didn't see. for incongruence.'*
 > *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
-naming the negatives first.'*
+naming the negatives first.'* -->
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
-mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
 
-CHALLENGE: The deal will fall if both sides don't take what they need from it. 
+> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
+
+CHALLENGE: the deal will fall if both sides don't take what they need from it. 
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.'*
 
@@ -1169,7 +1166,7 @@ Be humble and learn to listen carefully.
 
 > *'Learn to listen to predict a collapse.'*
 
-CHALLENGE: Bias is everywhere. Be specially careful when facing new ideas.
+CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.
 
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
@@ -1202,7 +1199,7 @@ Learn how to talk to people. Speak less, [listen](#on-listening) more.
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
 
-get better asking questions. they are more important than answers.
+> *'Get better asking questions. they are more important than answers.'*
 
 > *'Bad liars should speak as little as possible.'*
 
@@ -1254,8 +1251,9 @@ You need to switch strategies a few times to get where you want to go.
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
 > *'The directions to get you anywhere include a few turns:<br>
-Sometimes, you need to say YES to everything and be open to growth; Other times, you need to say NO to everything and focus. <br>
-It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.' -- Derek Sivers (adapted)*
+Sometimes, you need to say YES to everything and be open to growth; Other times, to say NO to everything and focus.<br>
+It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'<br>
+-- Derek Sivers (adapted)*
 
 CHALLENGE:
 
@@ -1338,7 +1336,7 @@ Use the opportunity to re-create yourself.
 
 > *'Assume formlessness.' -- Robert Greene (48th law of power)*
 
-CHALLENGE: Unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
+CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
 
 
 
@@ -1353,7 +1351,7 @@ CHALLENGE: Unpredictability can work against you, specially if you are in a subo
 
 > *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
 
-CHALLENGE: Deceiving is not lying.
+CHALLENGE: deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
 
@@ -1391,7 +1389,7 @@ Use absence and value to attract people.
 
 > *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
 
-CHALLENGE: use absence with [moderation](#on-balance-perfectionism-and-good-enough).
+CHALLENGE: use absence with [moderation](#on-balance).
 
 > *'Quem muito se ausenta um dia deixa de fazer falta.'*
 
@@ -1400,7 +1398,7 @@ CHALLENGE: use absence with [moderation](#on-balance-perfectionism-and-good-enou
 ===
 ###On free lunch
 
-Everything is a trade-off.
+Everything has a price.
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1513,9 +1511,9 @@ By the other hand, if feedback is needed, give a reason.
 
 And ask instead of telling.
 
-> *'«Why did you decide to do X in that order?». This creates a dialog, so the two can discuss what the answer should be, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
+> *'«Why did you decide to do X in that order?». This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
 
-In any case, [humility](#on-humbleness) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
+In any case, [humility](#on-identity) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
 
 > *'«Is that the best you can do?»'*
 
@@ -1551,16 +1549,13 @@ No one is smarter than a small group.
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
-
-
-===
-###On deep work
+<!-- And use deep work
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
 > *'The world is full of consumers. Be a producer.'*
 
-> *'Too busy pretending I'm occupied.'*
+> *'Too busy pretending I'm occupied.'* -->
 
 
 
@@ -1594,7 +1589,7 @@ Employers hire you because you are a likable person that «gets shit done».
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
-CHALLENGE: Companies don't care about you. Having a job is risky.
+CHALLENGE: companies don't care about you. Having a job is risky.
 
 > *'If your job doesn't require originality, next decade you might not have one.'*
 
@@ -1728,7 +1723,7 @@ But luck is a pattern, the pendulum will swing back your way eventually.
 ===
 ###On wealth
 
-Being rich is not counting your money all day but having [freedom](#on-freedom).
+Being rich is not counting money all day but having [freedom](#on-freedom).
 
 > *'Some people are so poor, all they have is money.'*
 
@@ -1739,13 +1734,9 @@ Being rich is not counting your money all day but having [freedom](#on-freedom).
 
 
 ===                             
-###On money
+###On price
 
-Making money is adding value.
-
-> *'Money is energy.'*
-
-CHALLENGE: [Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
+[Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it.
 
 
@@ -1772,6 +1763,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On business
 
+Making money is adding value.
+
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
@@ -1785,6 +1778,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
 
 > *'Scratch your own itch.'*
+
+> *'Money is energy.'*
 
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
