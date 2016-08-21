@@ -75,7 +75,7 @@ Exceptions to most rules also..
 - [On creativity and ideas](#on-creativity-and-ideas)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
-- [On neutrality](#on-neutrality)
+- [On neutrality, hiding and isolation](##on-neutrality-hiding-and-isolation)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On balance](#on-balance)
 
@@ -86,6 +86,14 @@ Exceptions to most rules also..
 - [On pace](#on-pace)
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
+
+
+*On battlefield tools*
+- [On unpredictability](#on-unpredictability)
+- [On deceiving](#on-deceiving)
+- [On mirroring](#on-mirroring)
+- [On luring](#on-luring)
+- [On free lunch](#on-free-lunch)
 
 
 *On adapting*
@@ -100,15 +108,6 @@ Exceptions to most rules also..
 - [On finishing](#on-finishing)
 - [On winning](#on-winning)
 - [On surrendering](#on-surrendering)
-
-
-*On battlefield tools*
-- [On unpredictability](#on-unpredictability)
-- [On deceiving](#on-deceiving)
-- [On mirroring](#on-mirroring)
-- [On luring](#on-luring)
-- [On free lunch](#on-free-lunch)
-- [On hiding](#on-hiding)
 
 
 ### Part 4 - Assorted
@@ -612,7 +611,7 @@ Take care of your body. It’s the most important thing you’ll get for free.
 
 ###On networking
 
-Be social. Don't [hide](#on-hiding) yourself.
+Be social. Don't [isole](#on-neutrality-hiding-and-isolation) yourself.
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
@@ -907,7 +906,7 @@ To win, you'll need all weaponry.
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
-*Pawn sacrifices* are effective but use it *only* on [life changing situations](#on-difficult-targets): it's a scar for life.
+*Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
@@ -927,11 +926,15 @@ To win, you'll need all weaponry.
 
 
 ===
-###On neutrality
+###On neutrality, hiding and isolation
 
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
 > *'I am either part of the solution or part of the problem.'*
+
+> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
+
+> *'Well-kept gardens die by pacifism.'*
 
 
 
@@ -999,6 +1002,99 @@ PRACTICAL ADVICE: How to balance the unbalanced?
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
 > *'Some people get passion from something they struggled with.'*
+
+
+
+===
+	  __                                        __                                          
+	 /  |           /         /    /    /      /    / /         |      /              /     
+	(   | ___      (___  ___ (___ (___ (  ___ (      (  ___  ___|     (___  ___  ___ (  ___ 
+	|   )|   )     |   )|   )|    |    | |___)|___ | | |___)|   )     |    |   )|   )| |___ 
+	|__/ |  /      |__/ |__/||__  |__  | |__  |    | | |__  |__/      |__  |__/ |__/ |  __/ 
+ 
+
+
+###On unpredictability
+
+> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
+
+> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
+
+> *'Assume formlessness.' -- Robert Greene (48th law of power)*
+
+CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
+
+
+
+===
+###On deceiving
+
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
+
+> *'Court attention at all cost.' -- Robert Greene (6th law of power)*
+
+> *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
+
+> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
+
+CHALLENGE: deceiving is not lying.
+
+> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
+
+> *'One of the most potent weapons in the battle for information is giving out false information.'*
+
+> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.'*
+
+
+
+===
+###On mirroring
+
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
+> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+
+> *'Being pacifist in face of wolves is the source of endless tragedy.'*
+
+
+
+===
+###On luring
+
+Use absence and value to attract people.
+
+> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+
+> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
+
+> *'We attract more flies with honey than vinegar.'*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+
+> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+
+> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+
+CHALLENGE: use absence with [moderation](#on-balance).
+
+> *'Quem muito se ausenta um dia deixa de fazer falta.'*
+
+
+
+===
+###On free lunch
+
+Everything has a price.
+
+> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
+
+> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
+
+> *«El dorados» are never drawn in the map.'*
+
+CHALLENGE: There are same fools though. Easy wins if you identify them.
+
+> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
 
 
@@ -1320,108 +1416,6 @@ Use the opportunity to re-create yourself.
 > *'Use the surrender tactic: transform weakness into power.' -- Robert Greene (22nd law of power)*
 
 > *'Re-create yourself.' -- Robert Greene (25th law of power)*
-
-
-
-===
-	  __                                        __                                          
-	 /  |           /         /    /    /      /    / /         |      /              /     
-	(   | ___      (___  ___ (___ (___ (  ___ (      (  ___  ___|     (___  ___  ___ (  ___ 
-	|   )|   )     |   )|   )|    |    | |___)|___ | | |___)|   )     |    |   )|   )| |___ 
-	|__/ |  /      |__/ |__/||__  |__  | |__  |    | | |__  |__/      |__  |__/ |__/ |  __/ 
- 
-
-
-###On unpredictability
-
-> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
-
-> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
-
-> *'Assume formlessness.' -- Robert Greene (48th law of power)*
-
-CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
-
-
-
-===
-###On deceiving
-
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
-> *'Court attention at all cost.' -- Robert Greene (6th law of power)*
-
-> *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
-
-> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
-
-CHALLENGE: deceiving is not lying.
-
-> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
-
-> *'One of the most potent weapons in the battle for information is giving out false information.'*
-
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.'*
-
-
-
-===
-###On mirroring
-
-> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
-
-> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
-
-> *'Being pacifist in face of wolves is the source of endless tragedy.'*
-
-
-
-===
-###On luring
-
-Use absence and value to attract people.
-
-> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
-
-> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
-
-> *'We attract more flies with honey than vinegar.'*
-
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
-
-> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
-
-> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
-
-CHALLENGE: use absence with [moderation](#on-balance).
-
-> *'Quem muito se ausenta um dia deixa de fazer falta.'*
-
-
-
-===
-###On free lunch
-
-Everything has a price.
-
-> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
-
-> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
-
-> *«El dorados» are never drawn in the map.'*
-
-CHALLENGE: There are same fools though. Easy wins if you identify them.
-
-> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
-
-
-
-===
-###On hiding
-
-> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
-
-> *'Well-kept gardens die by pacifism.'*
 
 
 
