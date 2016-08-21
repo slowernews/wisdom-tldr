@@ -8,8 +8,8 @@ Exceptions to most rules also..
 
 *On foundations*
 - [On gratefulness and happiness](#on-gratefulness-and-happiness)
-- [On freedom](#on-freedom)
 - [On identity](#on-identity)
+- [On freedom](#on-freedom)
 - [On ambition and motivation](#on-ambition-and-motivation)
 - [On reputation](#on-reputation)
 
@@ -137,7 +137,7 @@ Exceptions to most rules also..
 #### TL;DR 
 
 3 rules for life: fuck, don't give a fuck and don't be fucked over.<br>
-One practical advice: have more than one kid.
+One practical advice: have more than one child.
 
 
 
@@ -172,25 +172,6 @@ Happiness is a journey, not a destination.
 
 
 ===
-###On freedom
-
-Do not truly commit to anything but *yourself*.
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
-> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
-
-> *'That’s the problem with putting others first; you’ve taught them you come second.'*
-
-> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
-
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
-
-> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
-
-
-
-===
 ###On identity
 
 You are your deeds;
@@ -213,7 +194,7 @@ Keep your integrity;
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Be your best self;
+Be the your best self;
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -224,6 +205,25 @@ Be your best self;
 But remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
+
+
+
+===
+###On freedom
+
+Do not truly commit to anything but *yourself*.
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
+
+> *'That’s the problem with putting others first; you’ve taught them you come second.'*
+
+> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
 
 
@@ -611,19 +611,19 @@ Take care of your body. It’s the most important thing you’ll get for free.
 
 ###On networking
 
-Be social. Don't [isole](#on-neutrality-hiding-and-isolation) yourself.
+Be social. Don't [isolate](#on-neutrality-hiding-and-isolation) yourself.
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
 > *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
-
-networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner
 
 > *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
 
 > *'Work on the hearts and minds of others.' -- Robert Greene (43rd law of power)*
 
 > *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
+
+<!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner -->
 
 
 
@@ -666,22 +666,19 @@ Relationships are based on [trust](#on-trust).
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
+> *'If you are lonely when you are not alone, you are in bad company.'*
+
 > *'Every person feels loved in a different form.'*
 
-It is ok to give the first step but then mirror their behavior.
+> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+It is ok to give the first step but then mirror their behavior;
 
 > *'Forget those who forget you.'*
 
 > *'The people that want to stay in your life, will always find a way.'*
 
-> *'If you are lonely when you are not alone, you are in bad company.'*
-
 > *'Never love anyone that treats you like you're ordinary.'*
-
-> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
-
-Keep high standards, a lot of work for scraps is a [bad deal](#on-price).
-
 
 
 
@@ -865,29 +862,27 @@ too familiar - too unfamiliar. we like what is in the middle! similar enough and
 ===
 ###On creativity and ideas
 
+Always be doing something creative. Your soul won’t survive without it.
+
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
 
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
 
-> *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
-
-> *'Always be doing something creative. Your soul won’t survive without it.'*
-
-> *'Teach no one your tricks or they will be used against you.'*
-
 > *'Good artists copy; great artists steal.' -- Steve Jobs & others*
+
+> *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
 > *'We can't solve problems by using the same kind of thinking we used when we created them.'*
 
-> *'Teach no one your tricks or they will be used against you.'*
+> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
+
+<!-- > *'Moments of originality and moments of conformity.'*
+
+> *'Teach no one your tricks or they will be used against you.'* -->
 
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
-
-> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (will regret more if they get a false positive than a false negative).'*
-
-> *'Moments of originality and moments of conformity.'*
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
@@ -896,7 +891,11 @@ too familiar - too unfamiliar. we like what is in the middle! similar enough and
 ===
 ###On difficult targets
 
-To win, you'll need all weaponry.
+To win, you'll need all weaponry. Even the dirty stuff.
+
+> *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
+
+Charm the enemy.
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
@@ -904,22 +903,22 @@ To win, you'll need all weaponry.
 
 > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
 
-> *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
-
 *Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
 > *'Keep your hands clean.' -- Robert Greene (26th law of power)*
 
+When nothing else works, [surrender](#on-surrendering) or anger and go [all in](#on-desperate-targets).
+
 
 
 ===
 ###On desperate targets
 
-> *'Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose.'*
+Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose.
 
-> *'use anger only as a tool, when you need it to improve your situation.'*
+> *'Use anger only as a tool, when you need it to improve your situation.'*
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
@@ -1002,99 +1001,6 @@ PRACTICAL ADVICE: How to balance the unbalanced?
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
 > *'Some people get passion from something they struggled with.'*
-
-
-
-===
-	  __                                        __                                          
-	 /  |           /         /    /    /      /    / /         |      /              /     
-	(   | ___      (___  ___ (___ (___ (  ___ (      (  ___  ___|     (___  ___  ___ (  ___ 
-	|   )|   )     |   )|   )|    |    | |___)|___ | | |___)|   )     |    |   )|   )| |___ 
-	|__/ |  /      |__/ |__/||__  |__  | |__  |    | | |__  |__/      |__  |__/ |__/ |  __/ 
- 
-
-
-###On unpredictability
-
-> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
-
-> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
-
-> *'Assume formlessness.' -- Robert Greene (48th law of power)*
-
-CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
-
-
-
-===
-###On deceiving
-
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
-> *'Court attention at all cost.' -- Robert Greene (6th law of power)*
-
-> *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
-
-> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
-
-CHALLENGE: deceiving is not lying.
-
-> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
-
-> *'One of the most potent weapons in the battle for information is giving out false information.'*
-
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.'*
-
-
-
-===
-###On mirroring
-
-> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
-
-> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
-
-> *'Being pacifist in face of wolves is the source of endless tragedy.'*
-
-
-
-===
-###On luring
-
-Use absence and value to attract people.
-
-> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
-
-> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
-
-> *'We attract more flies with honey than vinegar.'*
-
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
-
-> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
-
-> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
-
-CHALLENGE: use absence with [moderation](#on-balance).
-
-> *'Quem muito se ausenta um dia deixa de fazer falta.'*
-
-
-
-===
-###On free lunch
-
-Everything has a price.
-
-> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
-
-> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
-
-> *«El dorados» are never drawn in the map.'*
-
-CHALLENGE: There are same fools though. Easy wins if you identify them.
-
-> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
 
 
@@ -1191,6 +1097,99 @@ CHALLENGE: you should have a [plan](#on-planning).
 CHALLENGE:
 
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
+
+
+
+===
+	  __                                        __                                          
+	 /  |           /         /    /    /      /    / /         |      /              /     
+	(   | ___      (___  ___ (___ (___ (  ___ (      (  ___  ___|     (___  ___  ___ (  ___ 
+	|   )|   )     |   )|   )|    |    | |___)|___ | | |___)|   )     |    |   )|   )| |___ 
+	|__/ |  /      |__/ |__/||__  |__  | |__  |    | | |__  |__/      |__  |__/ |__/ |  __/ 
+ 
+
+
+###On unpredictability
+
+> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
+
+> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
+
+> *'Assume formlessness.' -- Robert Greene (48th law of power)*
+
+CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
+
+
+
+===
+###On deceiving
+
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
+
+> *'Court attention at all cost.' -- Robert Greene (6th law of power)*
+
+> *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
+
+> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
+
+CHALLENGE: deceiving is not lying.
+
+> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
+
+> *'One of the most potent weapons in the battle for information is giving out false information.'*
+
+> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.'*
+
+
+
+===
+###On mirroring
+
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
+> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+
+> *'Being pacifist in face of wolves is the source of endless tragedy.'*
+
+
+
+===
+###On luring
+
+Use absence and value to attract people.
+
+> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+
+> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
+
+> *'We attract more flies with honey than vinegar.'*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+
+> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+
+> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+
+CHALLENGE: use absence with [moderation](#on-balance).
+
+> *'Quem muito se ausenta um dia deixa de fazer falta.'*
+
+
+
+===
+###On free lunch
+
+Everything has a price.
+
+> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
+
+> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
+
+> *«El dorados» are never drawn in the map.'*
+
+CHALLENGE: There are same fools though. Easy wins if you identify them.
+
+> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*s
 
 
 
