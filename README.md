@@ -75,7 +75,7 @@ Exceptions to most rules also..
 - [On creativity and ideas](#on-creativity-and-ideas)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
-- [On neutrality, hiding and isolation](##on-neutrality-hiding-and-isolation)
+- [On neutrality and isolation](##on-neutrality-and-isolation)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On balance](#on-balance)
 
@@ -546,7 +546,7 @@ If you say it with confidence, you are what you say you are. <br>
 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
-[Mastery](#on-mastery) and core values are good sources of confidence.<br>
+[Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.<br>
 In the meanwhile any source is good. Don't stop till you get it.
 
 > *'If you don't believe in yourself. Believe in me who believes in you.'*
@@ -611,7 +611,7 @@ Take care of your body. It’s the most important thing you’ll get for free.
 
 ###On networking
 
-Be social. Don't [isolate](#on-neutrality-hiding-and-isolation) yourself.
+Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
@@ -692,7 +692,7 @@ It is ok to give the first step but then mirror their behavior;
 ===
 ###On peers
 
-Keep your friends for friendship, but work with the skilled and competent.
+Keep your friends for friendship but work with the skilled and competent.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
@@ -909,7 +909,7 @@ Charm the enemy.
 
 > *'Keep your hands clean.' -- Robert Greene (26th law of power)*
 
-When nothing else works, [surrender](#on-surrendering) or anger and go [all in](#on-desperate-targets).
+When nothing else works, [surrender](#on-surrendering) or use anger and go [all in](#on-desperate-targets).
 
 
 
@@ -925,7 +925,7 @@ Desperate people will risk anything in a fight. This gives them a huge advantage
 
 
 ===
-###On neutrality, hiding and isolation
+###On neutrality and isolation
 
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
@@ -996,7 +996,7 @@ The hardest skill is knowing when to stop.
 
 > *'«Dictator's dilemma»:  When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, Turkmenistan President gets 97% of the vote we say that is BS.*
 
-PRACTICAL ADVICE: How to balance the unbalanced?
+PRACTICAL ADVICE: How to balance the unbalanced? Overcompensate.
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
@@ -1224,9 +1224,9 @@ Best way to say no:
 
 Tone of voice is a big clue to know with whom we are negotiating:
 
-> *'The analytical cold guy is very patient.'* <br>
-> *'the assertive guy (trump) wants to make it fast.'* <br>
-> *'the accomodator: relationship is the most important'*
+> *'The analytical cold guy is very patient; <br>
+The assertive guy (eg. Trump) wants to make it fast; <br>
+For the accomodator, the relationship is the most important'*
 
 <!-- > *'Unexpressed feelings never die.'*
 > *'Releasing pressure is different from venting.'*
