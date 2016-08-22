@@ -57,8 +57,8 @@ Exceptions to most rules also..
 *On management*
 - [On leadership, power and influence](#on-leadership-power-and-influence)
 - [On communication](#on-communication)
-- [On delegation](#on-delegation)
 - [On giving feedback](#on-feedback)
+- [On delegation](#on-delegation)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
@@ -73,8 +73,6 @@ Exceptions to most rules also..
 - [On analysis](#on-analysis)
 - [On decision making](#on-decision-making)
 - [On creativity and ideas](#on-creativity-and-ideas)
-- [On difficult targets](#on-difficult-targets)
-- [On desperate targets](#on-desperate-targets)
 - [On neutrality and isolation](##on-neutrality-and-isolation)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On balance](#on-balance)
@@ -88,12 +86,14 @@ Exceptions to most rules also..
 - [On defending](#on-defending)
 
 
-*On battlefield tools*
+*On creating imbalances*
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
 - [On mirroring](#on-mirroring)
 - [On luring](#on-luring)
 - [On free lunch](#on-free-lunch)
+- [On difficult targets](#on-difficult-targets)
+- [On desperate targets](#on-desperate-targets)
 
 
 *On adapting*
@@ -174,19 +174,19 @@ Happiness is a journey, not a destination.
 ===
 ###On identity
 
-You are your deeds;
+You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
 > *'How you do anything is how you do everything.'*
 
-Have personal accountability;
+Have personal accountability.
 
 > *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
 
 > *'Be the person your dog think you are.'*
 
-Keep your integrity;
+Keep your integrity.
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
@@ -194,7 +194,7 @@ Keep your integrity;
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Be the your best self;
+Be the your best self.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -320,7 +320,6 @@ Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievem
 ###On learning by practice
 
 You learn by getting out of your comfort zone.<br>
-Easiest way to improve.
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
@@ -365,7 +364,8 @@ Consistency is everything. Habits allow [mastery](#on-mastery).
 ===
 ###On mastery
 
-First learn the rules, then break them. 
+First learn the rules, then break them.<br>
+You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
 
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'*
 
@@ -889,42 +889,6 @@ Always be doing something creative. Your soul won’t survive without it.
 
 
 ===
-###On difficult targets
-
-To win, you'll need all weaponry. Even the dirty stuff.
-
-> *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
-
-Charm the enemy.
-
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
-
-> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
-
-> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
-
-*Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
-
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
-
-When nothing else works, [surrender](#on-surrendering) or use anger and go [all in](#on-desperate-targets).
-
-
-
-===
-###On desperate targets
-
-Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose.
-
-> *'Use anger only as a tool, when you need it to improve your situation.'*
-
-> *'Beware the fury of a patient man.' -- John Dryden*
-
-
-
-===
 ###On neutrality and isolation
 
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
@@ -1101,12 +1065,13 @@ CHALLENGE:
 
 
 ===
-	  __                                        __                                          
-	 /  |           /         /    /    /      /    / /         |      /              /     
-	(   | ___      (___  ___ (___ (___ (  ___ (      (  ___  ___|     (___  ___  ___ (  ___ 
-	|   )|   )     |   )|   )|    |    | |___)|___ | | |___)|   )     |    |   )|   )| |___ 
-	|__/ |  /      |__/ |__/||__  |__  | |__  |    | | |__  |__/      |__  |__/ |__/ |  __/ 
- 
+	  __                                                                                                 
+	 /  |                               /    /                /      /         /                         
+	(   | ___       ___  ___  ___  ___ (___    ___  ___         _ _ (___  ___ (  ___  ___  ___  ___  ___ 
+	|   )|   )     |    |   )|___)|   )|    | |   )|   )     | | | )|   )|   )| |   )|   )|    |___)|___ 
+	|__/ |  /      |__  |    |__  |__/||__  | |  / |__/      | |  / |__/ |__/|| |__/||  / |__  |__   __/ 
+	                                               __/                                                   
+
 
 
 ###On unpredictability
@@ -1189,7 +1154,43 @@ Everything has a price.
 
 CHALLENGE: There are same fools though. Easy wins if you identify them.
 
-> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*s
+> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
+
+
+
+===
+###On difficult targets
+
+To win, you'll need all weaponry. Even the dirty stuff.
+
+> *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
+
+Charm the enemy.
+
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
+
+> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
+> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
+
+*Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+
+When nothing else works, [surrender](#on-surrendering) or use anger and go [all in](#on-desperate-targets).
+
+
+
+===
+###On desperate targets
+
+Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose. Careful.
+
+> *'Use anger only as a tool, when you need it to improve your situation.'*
+
+> *'Beware the fury of a patient man.' -- John Dryden*
 
 
 
@@ -1319,7 +1320,7 @@ Control what you can. Ignore what you can't.
 
 > *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
 
-> *'Disdain things you cannot have:  ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
+> *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
 CHALLENGE:
 
@@ -1399,7 +1400,7 @@ It's not just about winning. The way you win sets you up for the next round.
 
 > *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
-> *'The destination is not the end of the road; its just a stop along the way. An intersection to take you to your next destination.'*
+> *'The destination is not the end of the road; it's just a stop along the way. An intersection to take you to your next destination.'*
 
 
 
@@ -1410,7 +1411,7 @@ Use the opportunity to re-create yourself.
 
 > *'It only hurts when you don't have time to prepare for the fall.'*
 
-> *'Surrender conceals great power: Lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
+> *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
 > *'Use the surrender tactic: transform weakness into power.' -- Robert Greene (22nd law of power)*
 
@@ -1472,23 +1473,6 @@ ADVICE:
 
 
 ===
-###On delegation
-
-Managing is delegating. Your speed as a manager is the speed of the team.
-
-> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.'*
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
-
-> *'A manager should make himself 2 questions a day:<br>
-«What is important to accomplish?» (where are you going)<br>
-«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
-The speed that you offload your stuff will be the speed of your team.'*
-
-
-
-===
 ###On giving feedback
 
 A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. The outcome doesn't have to be exactly as you expected it to be.
@@ -1510,6 +1494,23 @@ In any case, [humility](#on-identity) is needed for leadership. Pounding directi
 > *'«Interesting, how do you feel about it?»'*
 
 > *'«What does your team think?»'*
+
+
+
+===
+###On delegation
+
+Managing is delegating. Your speed as a manager is the speed of the team.
+
+> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.'*
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+> *'A manager should make himself 2 questions a day:<br>
+«What is important to accomplish?» (where are you going)<br>
+«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
+The speed that you offload your stuff will be the speed of your team.'*
 
 
 
