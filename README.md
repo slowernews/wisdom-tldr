@@ -1082,6 +1082,8 @@ CHALLENGE:
 
 > *'Assume formlessness.' -- Robert Greene (48th law of power)*
 
+> *'Conceal your intention.' -- Robert Greene (3rd law of power)*
+
 CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
 
 
@@ -1094,6 +1096,8 @@ CHALLENGE: unpredictability can work against you, specially if you are in a subo
 > *'Court attention at all cost.' -- Robert Greene (6th law of power)*
 
 > *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
+
+> *'Say less than necessary.' -- Robert Greene (4th law of power)*
 
 > *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
 
@@ -1217,7 +1221,7 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 Never negotiate with yes or no questions: 
 
-> *'«What can you do?» instead of «Will you do this?» <br>
+> *'«What can you do?» instead of «Will you do this?»'*
 
 Best way to say no:
 
@@ -1291,17 +1295,13 @@ Learn how to talk to people. Speak less, [listen](#on-listening) more.
 
 > *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
 
-> *'Say less than necessary.' -- Robert Greene (4th law of power)*
-
-> *'Conceal your intention.' -- Robert Greene (3rd law of power)*
-
 > *'You don't always have to get the last word. Make your point and leave it that way.'*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
 
-> *'Get better asking questions. they are more important than answers.'*
-
 > *'Bad liars should speak as little as possible.'*
+
+> *'Get better asking questions. they are more important than answers.'*
 
 > *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
 
@@ -1464,7 +1464,7 @@ Management is about communication. Being a boss to be equal parts manager and ps
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-> *'Instead of generalizing and saying «management is useless» it is more correct to say «bad management is counterproductive».'*
+> *'Instead of generalizing and saying «management is useless» it's more correct to say «bad management is counterproductive».'*
 
 ADVICE:
 
@@ -1475,9 +1475,7 @@ ADVICE:
 ===
 ###On giving feedback
 
-A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. The outcome doesn't have to be exactly as you expected it to be.
-
-By the other hand, if feedback is needed, give a reason.
+A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. By the other hand, if feedback is needed, give a reason.
 
 > *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
 
@@ -1837,7 +1835,7 @@ Making money is adding value.
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Basically this is report of an informal database with tagged quotes according my biased experience. Then, I resume each tag in a maxim. [↩](#refnote1)</sup>
+<sup><a name="footnote1">1</a> - When my world view changes, this informal book is adapted to include my new belief. [↩](#refnote1)</sup>
 
 
 
