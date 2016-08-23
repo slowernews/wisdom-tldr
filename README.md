@@ -86,6 +86,7 @@ Exceptions to most rules also..
 
 
 *On creating imbalances*
+- [On unbalancing](#on-balance)
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
 - [On mirroring](#on-mirroring)
@@ -689,6 +690,10 @@ It's ok to give the first step but then [mirror](#on-mirroring) their behavior.
 ===
 ###On peers
 
+You are the average of the people you surround yourself.
+
+> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
+
 Keep your friends for friendship but work with the skilled and competent.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
@@ -698,10 +703,6 @@ Keep your friends for friendship but work with the skilled and competent.
 > *'Work friends are just that, work friends. Nothing more.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
-
-You are the average of the people you surround yourself.
-
-> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
 
 
@@ -1053,7 +1054,7 @@ The hardest skill is knowing when to stop.
 
 > *'«Dictator's dilemma»:  When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, Turkmenistan President gets 97% of the vote we say that is BS.*
 
-PRACTICAL ADVICE: How to balance the unbalanced? Overcompensate.
+How to balance an imbalance? Overcompensate.
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
@@ -1068,6 +1069,15 @@ PRACTICAL ADVICE: How to balance the unbalanced? Overcompensate.
 	|   )|   )     |    |   )|___)|   )|    | |   )|   )     | | | )|   )|   )| |   )|   )|    |___)|___ 
 	|__/ |  /      |__  |    |__  |__/||__  | |  / |__/      | |  / |__/ |__/|| |__/||  / |__  |__   __/ 
 	                                               __/                                                   
+
+
+
+###On unbalancing
+
+Create imbalances in your target. Use [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
+and [bait](#on-luring). Some targets may require special tools.
+
+Imbalances will allow defeating your targets.
 
 
 
