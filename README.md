@@ -141,6 +141,7 @@ One practical advice: have more than one child.
 
 
 
+===
 	  __             __                                                
 	 /  |           /                      |      /    /               
 	(   | ___      (     ___       ___  ___| ___ (___    ___  ___  ___ 
@@ -1075,7 +1076,7 @@ How to balance an imbalance? Overcompensate.
 ###On unbalancing
 
 Create imbalances in your target to raise your chances of winning. <br>
-Use [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
+Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-luring). Some targets may require special tools.
 
 
@@ -1230,7 +1231,7 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
-Never negotiate with yes or no questions: 
+Never negotiate with binary questions: 
 
 > *'«What can you do?» instead of «Will you do this?»'*
 
@@ -1471,13 +1472,12 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 ===
 ###On communication
 
-Management is about communication.
+Management is about communication.<br>
+Being a boss to be equal parts manager and psychotherapist.
 
 > *'Instead of generalizing and saying «management is useless» it's more correct to say «bad management is counterproductive».'*
 
 > *'Spend 1 hour a day just talking to your people and everything will be OK.'*
-
-Being a boss to be equal parts manager and psychotherapist.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
