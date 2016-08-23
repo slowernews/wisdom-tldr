@@ -86,7 +86,7 @@ Exceptions to most rules also..
 
 
 *On creating imbalances*
-- [On unbalancing](#on-balance)
+- [On unbalancing](#on-unbalancing)
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
 - [On mirroring](#on-mirroring)
@@ -1074,13 +1074,13 @@ How to balance an imbalance? Overcompensate.
 
 ###On unbalancing
 
-Create imbalances in your target. Use [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
+Create imbalances in your target to raise your chances of winning. <br>
+Use [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-luring). Some targets may require special tools.
 
-Imbalances will allow defeating your targets.
 
 
-
+===
 ###On unpredictability
 
 > *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
@@ -1132,7 +1132,7 @@ CHALLENGE: deceiving is not lying.
 ===
 ###On luring
 
-Use absence and value to attract people.
+Use absence and bait to attract people.
 
 > *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
 
