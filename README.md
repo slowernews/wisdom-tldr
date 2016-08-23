@@ -57,7 +57,6 @@ Exceptions to most rules also..
 *On management*
 - [On leadership, power and influence](#on-leadership-power-and-influence)
 - [On communication](#on-communication)
-- [On giving feedback](#on-feedback)
 - [On delegation](#on-delegation)
 - [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On hiring](#on-hiring)
@@ -75,7 +74,6 @@ Exceptions to most rules also..
 - [On creativity and ideas](#on-creativity-and-ideas)
 - [On neutrality and isolation](##on-neutrality-and-isolation)
 - [On priorities and focus](#on-priorities-and-focus)
-- [On balance](#on-balance)
 
 
 *On executing*
@@ -84,6 +82,7 @@ Exceptions to most rules also..
 - [On pace](#on-pace)
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
+- [On balance](#on-balance)
 
 
 *On creating imbalances*
@@ -194,7 +193,7 @@ Keep your integrity.
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Be the your best self.
+Be your best self.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -319,7 +318,7 @@ Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievem
 ===
 ###On learning by practice
 
-You learn by getting out of your comfort zone.<br>
+You learn by getting out of your comfort zone.
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
@@ -438,8 +437,6 @@ Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#on-ex
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
-
-> *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
 > *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
 
@@ -672,7 +669,7 @@ Relationships are based on [trust](#on-trust).
 
 > *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
-It is ok to give the first step but then mirror their behavior;
+It's ok to give the first step but then [mirror](#on-mirroring) their behavior.
 
 > *'Forget those who forget you.'*
 
@@ -702,7 +699,7 @@ Keep your friends for friendship but work with the skilled and competent.
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
-> *'You are the sum of the people you surround yourself.'*
+You are the average of the people you surround yourself.
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
@@ -749,6 +746,8 @@ Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-out
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
+> *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
+
 > *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
 
 > *'Só há consensos no 1º e no ultimo minuto de algo.'*
@@ -773,10 +772,6 @@ Most people are other people. Their thoughts are someone else opinions.
 > *'Common sense is the collection of prejudices acquired by age eighteen.'*
 
 > *'People accept the defaults very easily.'*
-
-> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
-
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
@@ -814,7 +809,9 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-CHALLENGE: don't overthink. <!-- analisis paralisis -->
+CHALLENGE: don't overthink.
+
+<!-- analisis paralisis -->
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -943,32 +940,6 @@ CHALLENGE: *guerrilla* has their strengths also.
 
 
 ===
-###On balance
-
-The dose makes the poison. Things in excess become their opposite.<br>
-The hardest skill is knowing when to stop.
-
-> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
-
-> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
-
-> *'Everything should be made as simple as possible, but not simpler.'*
-
-> *'Don't take a half step where a full step is required.'*
-
-> *'If half of the room laughs and half doesn't is a success.'*
-
-> *'«Dictator's dilemma»:  When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, Turkmenistan President gets 97% of the vote we say that is BS.*
-
-PRACTICAL ADVICE: How to balance the unbalanced? Overcompensate.
-
-> *'Overcompensate to make it balanced.' -- Derek Sivers*
-
-> *'Some people get passion from something they struggled with.'*
-
-
-
-===
 	  __                                                     
 	 /  |                                    /    /          
 	(   | ___       ___       ___  ___      (___    ___  ___ 
@@ -1065,6 +1036,32 @@ CHALLENGE:
 
 
 ===
+###On balance
+
+The dose makes the poison. Things in excess become their opposite.<br>
+The hardest skill is knowing when to stop.
+
+> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
+
+> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
+
+> *'Everything should be made as simple as possible, but not simpler.'*
+
+> *'Don't take a half step where a full step is required.'*
+
+> *'If half of the room laughs and half doesn't is a success.'*
+
+> *'«Dictator's dilemma»:  When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, Turkmenistan President gets 97% of the vote we say that is BS.*
+
+PRACTICAL ADVICE: How to balance the unbalanced? Overcompensate.
+
+> *'Overcompensate to make it balanced.' -- Derek Sivers*
+
+> *'Some people get passion from something they struggled with.'*
+
+
+
+===
 	  __                                                                                                 
 	 /  |                               /    /                /      /         /                         
 	(   | ___       ___  ___  ___  ___ (___    ___  ___         _ _ (___  ___ (  ___  ___  ___  ___  ___ 
@@ -1107,7 +1104,7 @@ CHALLENGE: deceiving is not lying.
 
 > *'One of the most potent weapons in the battle for information is giving out false information.'*
 
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.'*
+> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
 
 
 
@@ -1156,9 +1153,13 @@ Everything has a price.
 
 > *«El dorados» are never drawn in the map.'*
 
-CHALLENGE: There are same fools though. Easy wins if you identify them.
+CHALLENGE: there are same fools though. Easy wins if you identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
+
+> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
+
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
 
 
@@ -1291,9 +1292,7 @@ CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.
 ===
 ###On speaking
 
-Learn how to talk to people. Speak less, [listen](#on-listening) more. 
-
-> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+Speak less, [listen](#on-listening) more. 
 
 > *'You don't always have to get the last word. Make your point and leave it that way.'*
 
@@ -1301,7 +1300,11 @@ Learn how to talk to people. Speak less, [listen](#on-listening) more.
 
 > *'Bad liars should speak as little as possible.'*
 
-> *'Get better asking questions. they are more important than answers.'*
+> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+
+Learn how to talk to people.
+
+> *'Get better asking questions. They are more important than answers.'*
 
 > *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
 
@@ -1322,9 +1325,9 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
-CHALLENGE:
+<!-- CHALLENGE:
 
-> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
+> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde* -->
 
 
 
@@ -1458,22 +1461,17 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 ===
 ###On communication
 
-Management is about communication. Being a boss to be equal parts manager and psychotherapist.
-
-> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
-
-> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
+Management is about communication.
 
 > *'Instead of generalizing and saying «management is useless» it's more correct to say «bad management is counterproductive».'*
 
-ADVICE:
+> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+
+Being a boss to be equal parts manager and psychotherapist.
+
+> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
 > *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
-
-
-
-===
-###On giving feedback
 
 A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. By the other hand, if feedback is needed, give a reason.
 
@@ -1485,13 +1483,12 @@ And ask instead of telling.
 
 > *'«Why did you decide to do X in that order?». This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
 
+> *'Make pertinent questions as: <br>
+«Is that the best you can do?» <br>
+«Interesting, how do you feel about it?» <br>
+«What does your team think?»'*
+
 In any case, [humility](#on-identity) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
-
-> *'«Is that the best you can do?»'*
-
-> *'«Interesting, how do you feel about it?»'*
-
-> *'«What does your team think?»'*
 
 
 
@@ -1505,9 +1502,11 @@ The key principle is putting your team’s productivity first. Remember, you are
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-> *'A manager should make himself 2 questions a day:<br>
-«What is important to accomplish?» (where are you going)<br>
-«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'A manager should make himself 2 questions a day: <br>
+«What is important to accomplish?» (where are you going) <br>
+«Where was I uncomfortable the day before?» (what went right and where do you need support) <br>
 The speed that you offload your stuff will be the speed of your team.'*
 
 
@@ -1522,8 +1521,6 @@ The speed that you offload your stuff will be the speed of your team.'*
 > *'Productivity is different from workflow engineering.'*
 
 [Delegate](#on-delegation) as much as possible.
-
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
@@ -1698,6 +1695,7 @@ But luck is a pattern, the pendulum will swing back your way eventually.
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
 
+
 ===
 ###On wealth
 
@@ -1824,6 +1822,7 @@ Making money is adding value.
 <!-- No one is smarter than a small group. -->
 
 
+
 ===
 ###On beauty
 
@@ -1840,4 +1839,4 @@ Making money is adding value.
 
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Wisdom pocket guide</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><i>Wisdom Pocket Guide</i></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
