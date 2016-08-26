@@ -1,5 +1,5 @@
 # Wisdom pocket guide
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from awesome quotes that match *my* biased experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from quotes that match *my* biased experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
 Exceptions to most rules also..
 
 
@@ -137,7 +137,8 @@ Exceptions to most rules also..
 #### TL;DR 
 
 3 rules for life: fuck, don't give a fuck and don't be fucked over.<br>
-One practical advice: have more than one child.
+One practical advice: have more than one child.<br>
+One last advice for shy people: it's better to rely on your network than on being self-sufficient.
 
 
 
@@ -1177,7 +1178,7 @@ CHALLENGE: there are same fools though. Easy wins if you identify them.
 ===
 ###On difficult targets
 
-To win, you'll need all weaponry. Even the dirty stuff.
+To win, besides outworking them, you'll need all weaponry. Even the dirty stuff.
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
@@ -1473,7 +1474,7 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 ###On communication
 
 Management is about communication.<br>
-Being a boss to be equal parts manager and psychotherapist.
+Being a boss requires to be equal parts manager and psychotherapist.
 
 > *'Instead of generalizing and saying «management is useless» it's more correct to say «bad management is counterproductive».'*
 
@@ -1849,4 +1850,4 @@ Making money is adding value.
 
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><i>Wisdom Pocket Guide</i></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><i>'Wisdom Pocket Guide'</i></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
