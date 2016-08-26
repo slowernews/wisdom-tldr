@@ -136,9 +136,9 @@ Exceptions to most rules also..
 
 #### TL;DR 
 
-3 rules for life: fuck, don't give a fuck and don't be fucked over.<br>
-One practical advice: have more than one child.<br>
-One last advice for shy people: it's better to rely on your network than on being self-sufficient.
+3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
+One practical advice: *'have more than one child.'*<br>
+One last advice for shy people: *'it's better to rely on your network than on being self-sufficient.'*
 
 
 
@@ -154,8 +154,9 @@ One last advice for shy people: it's better to rely on your network than on bein
 ===
 ###On gratefulness and happiness
 
-Love the life you have, while you create the life of your dreams.<br>
-Happiness is a journey, not a destination.
+Love the life you have, while you create the life of your dreams.
+
+> *'Need to jump start happiness? Lower your expectations. -- James Altucher'*
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
@@ -165,11 +166,12 @@ Happiness is a journey, not a destination.
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
 
+Break your large goals into small ones so you can enjoy the journey.<br>
+Happiness is a journey, not a destination.
+
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
-
-> *'Need to jump start happiness? Lower your expectations. -- James Altucher'*
+<!-- > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'* -->
 
 
 
@@ -271,12 +273,14 @@ Seek respect, not attention. It lasts longer.
 
 ###On success
 
-There is no shortcut to the top. Success is a castle that you build brick by brick.<br>
+There is no shortcut to the top. Success is a castle that you [build brick by brick](#on-habits).<br>
 Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
+
+> *'Success is simple, but it is not easy. Success is nothing but the accumulation of [small things done consistently](#on-habits) over a long period of time.
 
 
 
@@ -355,7 +359,7 @@ You learn by analysis of past situations.
 ===
 ###On habits
 
-Consistency is everything. Habits allow [mastery](#on-mastery).
+Consistency is everything. Habits allow [mastery](#on-mastery) and [success](#on-success).
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
 
@@ -390,7 +394,8 @@ CHALLENGE: mastery is the main trigger of [arrogance](#on-confidence). There's a
 ===
 ###On choosing mentors
 
-Follow the thought leaders instead of the traffic leaders.
+Follow the thought leaders instead of the traffic leaders.<br>
+Be humble and ask for help.
 
 
 
@@ -565,6 +570,7 @@ CHALLENGE: know the frontier between confidence and arrogance.
 ###On mental health: stress
 
 Stress is caused by thinking about the [past](#on-past) or [future](#on-future), by under-stimulation or over-stimulation.
+Most health problems are not physical.
 
 > *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
@@ -1674,6 +1680,10 @@ You are your memory.
 > *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
 
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
+
+CHALLENGE:
+
+Your past [mistakes](#on-mistakes-and-failure) are meant to guide you, not to define you.
 
 
 
