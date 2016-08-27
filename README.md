@@ -137,7 +137,7 @@ Exceptions to most rules also..
 
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 One practical advice: *'have more than one child.'*<br>
-One last advice for shy people: *'it's better to rely on your network than on being self-sufficient.'*
+One last advice (specially for shy people): *'aim on relying on your network and not on being self-sufficient.'*
 
 
 
@@ -832,20 +832,25 @@ CHALLENGE: don't overthink.
 ===
 ###On analysis
 
-Most facts are a *tell* but some are just random.<br>
-Bias makes you underestimate or overestimate something.
+Analysis is more an art than a science.
 
-> *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
+> *'To find deep truths intuition is better than statistics.'* 
+
+And error-prone: bias, being [deceived](#on-deceiving) and randomness will trigger miscalculations.
+
+> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
 
 > *'What Susie says of Sally says mores about Susie than of Sally.'*
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
-> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
+> *'Most facts are a *tell* but some are just random.'*
+
+> *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-> *'To find deep truths intuition is better than statistics.'*
+CHALLENGES: too much info is prone to bias: you'll find some that confirms your pre-existing beliefs and assumptions.
 
 
 
@@ -1368,7 +1373,8 @@ You need to switch strategies a few times to get where you want to go.
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
 > *'The directions to get you anywhere include a few turns:<br>
-Sometimes, you need to say YES to everything and be open to growth; Other times, to say NO to everything and focus.<br>
+Sometimes you need to say YES to everything and be open to growth;<br>
+Sometimes you need to say NO to everything and focus.<br>
 It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'<br>
 -- Derek Sivers (adapted)*
 
@@ -1772,7 +1778,8 @@ Making money is adding value.
 
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
-Successful Entrepreneurs are good risk managers.
+Successful *entrepreneurs* are good managing risk.<br>
+However they have extended confort zones, so low risk for them might mean high risk for you.
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
