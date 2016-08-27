@@ -78,8 +78,7 @@ Exceptions to most rules also..
 
 *On executing*
 - [On starting vs waiting](#on-starting-vs-waiting)
-- [On timing](#on-timing)
-- [On pace](#on-pace)
+- [On pace and timing](#on-pace-and-timing)
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
 - [On balance](#on-balance)
@@ -228,6 +227,8 @@ Do not truly commit to anything but *yourself*.
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+
+> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
 
 
@@ -395,7 +396,9 @@ CHALLENGE: mastery is the main trigger of [arrogance](#on-confidence). There's a
 ###On choosing mentors
 
 Follow the thought leaders instead of the traffic leaders.<br>
-Be humble and ask for help.
+Mentors are the best source of feedback.
+
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
 
 
 
@@ -416,7 +419,7 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
-CHALLENGE: beware to whom are you a mentor. Some people are not ready.
+CHALLENGE: some people are not ready to have a mentor.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -445,8 +448,6 @@ Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#on-ex
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
-
-> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
 
 > *'What you fear you attract; what you resist, you make it bigger.'*
 
@@ -509,6 +510,8 @@ Sometimes you win. Sometimes you learn. Accept failure as part of the process.
 
 > *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
 
+> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
+
 > *'Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.'*
 
 > *'You are more than your mistakes. Your past mistakes are meant to guide you, not to define you.'*
@@ -558,6 +561,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
+<!-- fazer link -->
 CHALLENGE: know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
@@ -570,7 +574,6 @@ CHALLENGE: know the frontier between confidence and arrogance.
 ###On mental health: stress
 
 Stress is caused by thinking about the [past](#on-past) or [future](#on-future), by under-stimulation or over-stimulation.
-Most health problems are not physical.
 
 > *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
@@ -595,7 +598,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 ===
 ###On physical health
 
-Take care of your body. It’s the most important thing you’ll get for free.
+Take care of your body. It’s the most important thing you’ll get for free.<br>
+However most health problems are not physical.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
@@ -745,7 +749,7 @@ Outliers inspire envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [
 ===
 ###On criticism and envy
 
-Ignore and be flattered by envy. Reduce envy by not appear [too perfect](#on-outliers).
+Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-outliers).
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
@@ -766,8 +770,6 @@ CHALLENGE: most criticism is envy but beware of blindspots.
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
 > *'If too many users are wrong, it's probably your fault.'*
-
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
 
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
@@ -932,8 +934,6 @@ Big wins first. Then the details.
 
 > *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
 
-> *'Remember: You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
-
 > *'The ability to ignore immediate dangers and pleasures translates into power.'*
 
 > *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
@@ -942,9 +942,11 @@ Big wins first. Then the details.
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-CHALLENGE: *guerrilla* has their strengths also.
+CHALLENGE: 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
+
+<!-- *guerrilla* has their strengths also. -->
 
 
 
@@ -988,21 +990,12 @@ CHALLENGE: you should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
-
-
-===
-###On timing
-
-> *'Master the art of timing.' -- Robert Greene (35th law of power)*
-
-> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
-
 > *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
 
 
 
 ===
-###On pace
+###On pace and timing
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
@@ -1011,6 +1004,10 @@ CHALLENGE: you should have a [plan](#on-planning).
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
 > *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
+
+> *'Master the art of timing.' -- Robert Greene (35th law of power)*
+
+> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
@@ -1202,7 +1199,7 @@ Charm the enemy.
 
 > *'Keep your hands clean.' -- Robert Greene (26th law of power)*
 
-When nothing else works, [surrender](#on-surrendering) or use anger and go [all in](#on-desperate-targets).
+When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-targets) if you can see the end already.
 
 
 
@@ -1211,9 +1208,9 @@ When nothing else works, [surrender](#on-surrendering) or use anger and go [all 
 
 Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose. Careful.
 
-> *'Use anger only as a tool, when you need it to improve your situation.'*
-
 > *'Beware the fury of a patient man.' -- John Dryden*
+
+> *'Use anger only as a tool, when you need it to improve your situation.'*
 
 
 
@@ -1394,7 +1391,7 @@ CHALLENGE:
 
 ###On finishing
 
-Finish it. Often, you can't afford to [go halfway](#on-priorities-and-focus).
+Finish it. [Going halfway](#on-priorities-and-focus) is too expensive to do it often.
 
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
@@ -1832,9 +1829,9 @@ Making money is adding value.
 ===
 ###On intelligence
 
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
+Intelligence is the most sensitive trigger point for envy.
 
-> *'Intelligence is the most sensitive trigger point for envy.'*
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
