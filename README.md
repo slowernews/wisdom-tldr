@@ -274,14 +274,14 @@ Seek respect, not attention. It lasts longer.
 
 ###On success
 
-There is no shortcut to the top. Success is a castle that you [build brick by brick](#on-habits).<br>
+There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
 Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
-> *'Success is simple, but it is not easy. Success is nothing but the accumulation of [small things done consistently](#on-habits) over a long period of time.
+> *'Success is simple, but it is not easy. Success is nothing but the accumulation of [small things done consistently](#on-habits) over a long period of time.'*
 
 
 
@@ -382,7 +382,7 @@ You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theo
 
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
-CHALLENGE: mastery is the main trigger of [arrogance](#on-confidence). There's always room for improvement: be [humble](#on-identity).
+CHALLENGE: mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-identity).
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -561,8 +561,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-<!-- fazer link -->
-CHALLENGE: know the frontier between confidence and arrogance.
+<a id="on-arrogance"></a>CHALLENGE: know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
@@ -1767,15 +1766,17 @@ Making money is adding value.
 
 > *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
 
-> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
-
-> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
-
 > *'Scratch your own itch.'*
 
 > *'Money is energy.'*
 
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
+
+Successful Entrepreneurs are good risk managers.
+
+> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
+
+> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
 
 
 
