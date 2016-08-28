@@ -82,8 +82,8 @@ Exceptions to most rules also..
 - [On balance](#on-balance)
 
 
-*On creating imbalances*
-- [On unbalancing](#on-unbalancing)
+*On getting advantage*
+- [On creating imbalances](#on-creating-imbalances)
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
 - [On mirroring](#on-mirroring)
@@ -641,7 +641,7 @@ Be in the moment instead of being in your head.
 ###On trust and reputation
 
 Trust, not money, is the currency of business and life.<br>
-Honesty and [reputation](#on-reputation) build trust. Disappointment destroys it. 
+Honesty and reputation build trust. Disappointment destroys it. 
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
@@ -654,10 +654,11 @@ Seek respect, not attention. It lasts longer.
 > *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
 
 
+
 ===
 ###On relationships
 
-Relationships are based on [trust](#on-trust).
+Relationships are based on [trust](#on-trust-and-reputation).
 
 > *'Everything is a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
@@ -671,7 +672,7 @@ Relationships are based on [trust](#on-trust).
 
 > *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
-It's ok to give the first step but then [mirror](#on-mirroring) their behavior.
+Give the first step but then [mirror](#on-mirroring) the other side's behavior.
 
 > *'Forget those who forget you.'*
 
@@ -809,9 +810,7 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-CHALLENGE: don't overthink.
-
-<!-- analisis paralisis -->
+CHALLENGE: don't overthink. Some people get paralyzed by analysis.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -824,9 +823,11 @@ CHALLENGE: don't overthink.
 
 Analysis is more an art than a science.
 
-> *'To find deep truths intuition is better than statistics.'* 
+> *'To find deep truths intuition is better than statistics.'*
 
-And error-prone: bias, being [deceived](#on-deceiving) and randomness will trigger miscalculations.
+> *'«Dictator's dilemma»:  when the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.*
+
+And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness will trigger miscalculations.
 
 > *'Not everything that counts can be counted, and not everything that can be counted counts.'*
 
@@ -840,18 +841,20 @@ And error-prone: bias, being [deceived](#on-deceiving) and randomness will trigg
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-CHALLENGES: too much info is prone to bias: you'll find some that confirms your pre-existing beliefs and assumptions.
+CHALLENGES: too much info is also prone to bias: you'll find confirmation to your pre-existing beliefs and assumptions.
 
 
 
 ===
 ###On decision making
 
-> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
+<!-- refazer -->
 
-> *'You have choices. Choices are experiments.'*
+> *'May your choices reflect your choices, not your [fears](#on-fear-and-excuses).' -- Nelson Mandela*
 
 > *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
+
+> *'You have choices. Choices are experiments.'*
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions'*
 
@@ -906,7 +909,7 @@ Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 ===
 ###On priorities and focus
 
-Big wins first. Then the details.
+First the essential. Then the details.
 
 > *'Concentrate your forces.' -- Robert Greene (23rd law of power)*
 
@@ -991,6 +994,8 @@ CHALLENGE: you should have a [plan](#on-planning).
 ===
 ###On pace and timing
 
+Timing and direction are more critical than pace.
+
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
@@ -1051,8 +1056,6 @@ The hardest skill is knowing when to stop.
 
 > *'If half of the room laughs and half doesn't is a success.'*
 
-> *'«Dictator's dilemma»:  When the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, Turkmenistan President gets 97% of the vote we say that is BS.*
-
 How to balance an imbalance? Overcompensate.
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
@@ -1062,16 +1065,16 @@ How to balance an imbalance? Overcompensate.
 
 
 ===
-	  __                                                                                                 
-	 /  |                               /    /                /      /         /                         
-	(   | ___       ___  ___  ___  ___ (___    ___  ___         _ _ (___  ___ (  ___  ___  ___  ___  ___ 
-	|   )|   )     |    |   )|___)|   )|    | |   )|   )     | | | )|   )|   )| |   )|   )|    |___)|___ 
-	|__/ |  /      |__  |    |__  |__/||__  | |  / |__/      | |  / |__/ |__/|| |__/||  / |__  |__   __/ 
-	                                               __/                                                   
+	  __                                                                                                  
+	 /  |                     /    /    /                        |                /                       
+	(   | ___       ___  ___ (___ (___    ___  ___       ___  ___|      ___  ___ (___  ___  ___  ___  ___ 
+	|   )|   )     |   )|___)|    |    | |   )|   )     |   )|   ) \  )|   )|   )|    |   )|   )|___)|___ 
+	|__/ |  /      |__/ |__  |__  |__  | |  / |__/      |__/||__/   \/ |__/||  / |__  |__/||__/ |__   __/ 
+	               __/                        __/                                          __/            
 
 
 
-###On unbalancing
+###On creating imbalances
 
 Create imbalances in your target to raise your chances of winning. <br>
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
@@ -1154,7 +1157,7 @@ CHALLENGE: use absence with [moderation](#on-balance).
 ===
 ###On free lunch
 
-Everything has a price.
+Everything is a trade.
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
