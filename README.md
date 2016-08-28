@@ -84,8 +84,7 @@ Exceptions to most rules also..
 
 *On adapting*
 - [On negotiation](#on-negotiation)
-- [On listening](#on-listening)
-- [On speaking](#on-speaking)
+- [On listening and speaking](#on-listening-and-speaking)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
 
@@ -418,6 +417,8 @@ CHALLENGE: some people are not ready to have a mentor. Accept it.
 
 > *'Do not teach a starving man to fish.'*
 
+> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+
 
 
 ===
@@ -724,13 +725,15 @@ CHALLENGE: don't vow to the gatekeepers.
 
 Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
 
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+But you’re judged by what you do, not what you think.
 
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
 
-> *'You’re judged by what you do, not what you think.'*
+> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
@@ -1118,15 +1121,23 @@ CHALLENGE: the deal will fall if both sides don't take what they need from it.
 
 
 ===
-###On listening
+###On listening and speaking
 
-Be humble and learn to listen carefully.
+Speak less, listen more.
 
 > *'Listen to many, speak to a few.' -- William Shakespeare*
 
-> *'Arguing as you're right. Listening as you're wrong.'*
+> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+
+> *'You don't always have to get the last word. Make your point and leave it that way.'*
+
+> *'Bad liars should speak as little as possible.'*
+
+Be humble, learn to listen.
 
 > *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
+
+> *'Arguing as you're right. Listening as you're wrong.'*
 
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
 
@@ -1134,9 +1145,15 @@ Be humble and learn to listen carefully.
 
 > *'Learn to listen to predict a collapse.'*
 
-CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.
+And learn how to talk to people.
 
-> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+> *'Get better asking questions. They are more important than answers.'*
+
+> *'Rambling and not smiling are 2 things to get better speaking to anybody.'
+
+<!-- mix listening with analysis -->
+
+CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
 
@@ -1144,32 +1161,11 @@ CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
-> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice. It’s dream time.' -- Louis Céline*
+> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
 
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 
 > *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
-
-
-
-===
-###On speaking
-
-Speak less, [listen](#on-listening) more. 
-
-> *'You don't always have to get the last word. Make your point and leave it that way.'*
-
-> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
-
-> *'Bad liars should speak as little as possible.'*
-
-> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
-
-Learn how to talk to people.
-
-> *'Get better asking questions. They are more important than answers.'*
-
-> *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
 
 
 
@@ -1202,23 +1198,23 @@ You need to switch strategies a few times to get where you want to go.
 
 > *'Life is more like tetris than chess.'*
 
-> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
-
 > *'One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing.' -- Kautilya*
-
-> *'On a plateau take a step back.'*
 
 > *'The most important thing to do if you find yourself in a hole is to stop digging.' -- Warren Buffett*
 
-> *'What got you here won't get you there.'*
+> *'On a plateau take a step back.'*
 
-> *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
+> *'What got you here won't get you there.'*
 
 > *'The directions to get you anywhere include a few turns:<br>
 Sometimes you need to say YES to everything and be open to growth;<br>
 Sometimes you need to say NO to everything and focus.<br>
 It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'<br>
 -- Derek Sivers (adapted)*
+
+> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+
+> *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
 CHALLENGE:
 
@@ -1262,8 +1258,6 @@ CHALLENGE: unpredictability can work against you, specially if you are in a subo
 ===
 ###On deceiving
 
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
 > *'Court attention at all cost.' -- Robert Greene (6th law of power)*
 
 > *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
@@ -1303,6 +1297,8 @@ Use absence and bait to attract people.
 > *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
 
 > *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
 
 > *'We attract more flies with honey than vinegar.'*
 
@@ -1367,7 +1363,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go [a
 ===
 ###On desperate targets
 
-Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose. Careful.
+Desperate people will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
@@ -1477,7 +1473,7 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 Management is about communication.<br>
 Being a boss requires to be equal parts manager and psychotherapist.
 
-> *'Instead of generalizing and saying «management is useless» it's more correct to say «bad management is counterproductive».'*
+> *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
 
 > *'Spend 1 hour a day just talking to your people and everything will be OK.'*
 
