@@ -52,13 +52,11 @@ Exceptions to most rules also..
 
 
 *On management*
-- [On leadership, power and influence](#on-leadership-power-and-influence)
+- [On leadership](#on-leadership)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
-- [On efficiency and productivity](#on-efficiency-and-productivity)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
-- [On careers](#on-careers)
 
 
 ### Part 3 - Strategy
@@ -340,11 +338,13 @@ You learn by analysis of past situations.
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
-Try journaling. It works.
+Take more moments to be reflective.
 
 > *'Write your thoughts. Journal early before your inhibitions take in.'*
 
-> *'Take more moments to be reflective. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
+> *'Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
+
+> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
 
 
@@ -1445,10 +1445,9 @@ It only hurts when you don't have time to prepare for the fall.
 
 
 
-###On leadership, power and influence
+###On leadership
 
-Leadership is based on [trust](#on-trust).<br>
-Being a leader is different from being a boss.
+Leadership is based on [trust](#on-trust). Being a leader is different from being a boss.
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -1462,7 +1461,7 @@ Being a leader is different from being a boss.
 
 > *'There are no bad teams, only bad leaders.'*
 
-People want power because they want autonomy.
+People want leadership because they want autonomy and influence.
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
@@ -1510,37 +1509,28 @@ In any case, [humility](#on-identity) is needed for leadership. Pounding directi
 ===
 ###On delegation
 
-Managing is delegating. Your speed as a manager is the speed of the team.
-
-> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.'*
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
-
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+Managing is delegating. Your speed as a manager is the speed of the team.<br>
 
 > *'A manager should make himself 2 questions a day: <br>
 «What is important to accomplish?» (where are you going) <br>
 «Where was I uncomfortable the day before?» (what went right and where do you need support) <br>
 The speed that you offload your stuff will be the speed of your team.'*
 
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
+Productivity is different from workflow engineering.
 
-===
-###On efficiency and productivity
+> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.'*
 
-[Delegate](#on-delegation) as much as possible. Productivity is different from workflow engineering.
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
-> *'Lazy is what the jealous call efficiency.'*
-
 
 <!-- And use deep work
-
-> *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
 > *'The world is full of consumers. Be a producer.'*
 
@@ -1576,24 +1566,17 @@ Employers hire you because you are a likable person that «get shit done».
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
-CHALLENGE: companies don't care about you. Having a job is risky.
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
+
+CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
 > *'If your job doesn't require originality, next decade you might not have one.'*
 
-
-
-===
-###On careers
-
-Avoid the trap of following one set career path.
-
 > *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
-
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
 
 
