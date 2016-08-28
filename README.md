@@ -27,7 +27,6 @@ Exceptions to most rules also..
 
 *On your enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
-- [On excuses](#on-excuses)
 - [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On confidence](#on-confidence)
@@ -148,7 +147,6 @@ One last advice (specially for shy people): *'aim on relying on your network and
 	                                                                   
 
 
-===
 ###On gratefulness and happiness
 
 Love the life you have, while you create the life of your dreams.
@@ -648,6 +646,8 @@ Honesty and reputation build trust. Disappointment destroys it.
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
+> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
+
 Seek respect, not attention. It lasts longer.
 
 > *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
@@ -811,7 +811,7 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-CHALLENGE: don't overthink. Some people get paralyzed by analysis.
+CHALLENGE: some people get paralyzed by overthinking.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -826,7 +826,7 @@ Analysis is more an art than a science.
 
 > *'To find deep truths intuition is better than statistics.'*
 
-> *'«Dictator's dilemma»:  when the vote goes 79% – 21% for some candidate we are inclined to presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.*
+> *'«Dictator's dilemma»:  when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.*
 
 And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness will trigger miscalculations.
 
@@ -842,7 +842,7 @@ And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness wi
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-CHALLENGES: too much info is also prone to bias: you'll find confirmation to your pre-existing beliefs and assumptions.
+CHALLENGES: too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs and assumptions.
 
 
 
@@ -954,25 +954,28 @@ CHALLENGE: you should have a [plan](#on-planning).
 ===
 ###On pace and timing
 
-Timing and direction are more critical than pace.
-
-> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
-
-> *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
-
-> *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
-
-> *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
+Timing and direction are more important than pace.
 
 > *'Master the art of timing.' -- Robert Greene (35th law of power)*
 
 > *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
+> *'We are always in a state of running away from something and running towards something else.'*
+
+> *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
+
+> *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
+
+> *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
+
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
 > *'You finished ahead of time, that means you forgot something.'*
 
-> *'We are always in a state of running away from something and running towards something else.'*
+CHALLENGE: however don't be on standby.
+
+> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
+
 
 
 
@@ -1262,6 +1265,8 @@ CHALLENGE: unpredictability can work against you, specially if you are in a subo
 
 > *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
 
+> *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
+
 > *'Say less than necessary.' -- Robert Greene (4th law of power)*
 
 > *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
@@ -1419,9 +1424,8 @@ It's not just about winning. The way you win sets you up for the next round.
 ===
 ###On surrendering
 
-Use the opportunity to re-create yourself.
-
-> *'It only hurts when you don't have time to prepare for the fall.'*
+Use the opportunity to re-create yourself.<br>
+It only hurts when you don't have time to prepare for the fall.
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
@@ -1443,27 +1447,30 @@ Use the opportunity to re-create yourself.
 
 ###On leadership, power and influence
 
-Leadership is based on [trust](#on-trust). People want power because they want autonomy.
+Leadership is based on [trust](#on-trust).<br>
+Being a leader is different from being a boss.
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+
+> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 > *'Be royal in your own fashion:  Act like a king to be treated like one.' -- Robert Greene (34th law of power)*
 
-> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
-
-> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
-
 > *'People don't follow robots.'*
 
-> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+> *'There are no bad teams, only bad leaders.'*
 
-> *'Play to people’s fantasies.' -- Robert Greene (32nd law of power)*
+People want power because they want autonomy.
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
-> *'There are no bad teams, only bad leaders.'*
+> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+
+CHALLENGE:
+
+> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
 
 
@@ -1471,7 +1478,7 @@ Leadership is based on [trust](#on-trust). People want power because they want a
 ###On communication
 
 Management is about communication.<br>
-Being a boss requires to be equal parts manager and psychotherapist.
+Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
 
@@ -1512,6 +1519,8 @@ The key principle is putting your team’s productivity first. Remember, you are
 
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
 > *'A manager should make himself 2 questions a day: <br>
 «What is important to accomplish?» (where are you going) <br>
 «Where was I uncomfortable the day before?» (what went right and where do you need support) <br>
@@ -1522,15 +1531,12 @@ The speed that you offload your stuff will be the speed of your team.'*
 ===
 ###On efficiency and productivity
 
+[Delegate](#on-delegation) as much as possible. Productivity is different from workflow engineering.
+
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
 > *'Lazy is what the jealous call efficiency.'*
 
-> *'Productivity is different from workflow engineering.'*
-
-[Delegate](#on-delegation) as much as possible.
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
 <!-- And use deep work
 
@@ -1552,8 +1558,6 @@ He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
 > *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
-
-> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
