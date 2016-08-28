@@ -71,15 +71,23 @@ Exceptions to most rules also..
 - [On decision making](#on-decision-making)
 - [On creativity and ideas](#on-creativity-and-ideas)
 - [On neutrality and isolation](##on-neutrality-and-isolation)
-- [On priorities and focus](#on-priorities-and-focus)
 
 
 *On executing*
 - [On starting vs waiting](#on-starting-vs-waiting)
 - [On pace and timing](#on-pace-and-timing)
+- [On priorities and focus](#on-priorities-and-focus)
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
 - [On balance](#on-balance)
+
+
+*On adapting*
+- [On negotiation](#on-negotiation)
+- [On listening](#on-listening)
+- [On speaking](#on-speaking)
+- [On control](#on-control)
+- [On adapting](#on-adapting)
 
 
 *On getting advantage*
@@ -91,14 +99,6 @@ Exceptions to most rules also..
 - [On free lunch](#on-free-lunch)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
-
-
-*On adapting*
-- [On negotiation](#on-negotiation)
-- [On listening](#on-listening)
-- [On speaking](#on-speaking)
-- [On control](#on-control)
-- [On adapting](#on-adapting)
 
 
 *On ending*
@@ -203,7 +203,7 @@ Be your best self.
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-<a id="on-humbleness"></a>But remember to be humble, you are not perfect neither you'll ever be.
+<a id="on-humbleness"></a>CHALLENGE: remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
@@ -233,7 +233,7 @@ Do not truly commit to anything but *yourself*.
 ===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty, people will [envy](#on-outliers) you.
+Be ambitious. Not thirsty, the journey will not be enjoyable and people will [envy](#on-outliers) you.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
@@ -266,9 +266,9 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
-> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
+> *'Success is simple, but it is not easy. Success is nothing but the accumulation of small things done consistently over a long period of time.'*
 
-> *'Success is simple, but it is not easy. Success is nothing but the accumulation of [small things done consistently](#on-habits) over a long period of time.'*
+> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
 CHALLENGE: fear, not failure, is the biggest barrier to success.
 
@@ -907,47 +907,6 @@ Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
 
 ===
-###On priorities and focus
-
-First the essential. Then the details.
-
-> *'Concentrate your forces.' -- Robert Greene (23rd law of power)*
-
-> *'In a divided world, power will come from keeping your own group united and cohesive.'*
-
-> *'You can do anything, but not everything.' -- David Allen*
-
-> *'Focusing is about saying no.' -- Steve Jobs*
-
-> *'When life gets blurry, just adjust your focus.'*
-
-> *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
-
-> *'A man with a watch knows what time it is. A man with two watches is never sure.'*
-
-> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
-
-> *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
-
-> *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
-
-> *'The ability to ignore immediate dangers and pleasures translates into power.'*
-
-> *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
-
-> *'Always look where you want to go, not where you don't want to go.'*
-
-> *'Anything that does not bring me alive is too small for me.' -- David Whyte*
-
-CHALLENGE: 
-
-> *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
-
-<!-- *guerrilla* has their strengths also. -->
-
-
-
-===
 	  __                                                     
 	 /  |                                    /    /          
 	(   | ___       ___       ___  ___      (___    ___  ___ 
@@ -1017,6 +976,47 @@ Timing and direction are more critical than pace.
 
 
 ===
+###On priorities and focus
+
+First the essential. Then the details.
+
+> *'Concentrate your forces.' -- Robert Greene (23rd law of power)*
+
+> *'In a divided world, power will come from keeping your own group united and cohesive.'*
+
+> *'You can do anything, but not everything.' -- David Allen*
+
+> *'Focusing is about saying no.' -- Steve Jobs*
+
+> *'When life gets blurry, just adjust your focus.'*
+
+> *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
+
+> *'A man with a watch knows what time it is. A man with two watches is never sure.'*
+
+> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
+
+> *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
+
+> *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
+
+> *'The ability to ignore immediate dangers and pleasures translates into power.'*
+
+> *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
+
+> *'Always look where you want to go, not where you don't want to go.'*
+
+> *'Anything that does not bring me alive is too small for me.' -- David Whyte*
+
+CHALLENGE: 
+
+> *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
+
+<!-- *guerrilla* has their strengths also. -->
+
+
+
+===
 ###On attacking
 
 > *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
@@ -1061,157 +1061,6 @@ How to balance an imbalance? Overcompensate.
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
 > *'Some people get passion from something they struggled with.'*
-
-
-
-===
-	  __                                                                                                  
-	 /  |                     /    /    /                        |                /                       
-	(   | ___       ___  ___ (___ (___    ___  ___       ___  ___|      ___  ___ (___  ___  ___  ___  ___ 
-	|   )|   )     |   )|___)|    |    | |   )|   )     |   )|   ) \  )|   )|   )|    |   )|   )|___)|___ 
-	|__/ |  /      |__/ |__  |__  |__  | |  / |__/      |__/||__/   \/ |__/||  / |__  |__/||__/ |__   __/ 
-	               __/                        __/                                          __/            
-
-
-
-###On creating imbalances
-
-Create imbalances in your target to raise your chances of winning. <br>
-Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
-and [bait](#on-luring). Some targets may require special tools.
-
-
-
-===
-###On unpredictability
-
-> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
-
-> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
-
-> *'Assume formlessness.' -- Robert Greene (48th law of power)*
-
-> *'Conceal your intention.' -- Robert Greene (3rd law of power)*
-
-CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
-
-
-
-===
-###On deceiving
-
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
-> *'Court attention at all cost.' -- Robert Greene (6th law of power)*
-
-> *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
-
-> *'Say less than necessary.' -- Robert Greene (4th law of power)*
-
-> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
-
-CHALLENGE: deceiving is not lying.
-
-> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
-
-> *'One of the most potent weapons in the battle for information is giving out false information.'*
-
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
-
-
-
-===
-###On mirroring
-
-> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
-
-> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
-
-> *'Being pacifist in face of wolves is the source of endless tragedy.'*
-
-
-
-===
-###On luring
-
-Use absence and bait to attract people.
-
-> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
-
-> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
-
-> *'We attract more flies with honey than vinegar.'*
-
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
-
-> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
-
-> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
-
-CHALLENGE: use absence with [moderation](#on-balance).
-
-> *'Quem muito se ausenta um dia deixa de fazer falta.'*
-
-
-
-===
-###On free lunch
-
-Everything is a trade.
-
-> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
-
-> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
-
-> *«El dorados» are never drawn in the map.'*
-
-CHALLENGE: there are same fools though. Easy wins if you identify them.
-
-> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
-
-> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
-
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
-
-
-
-===
-###On difficult targets
-
-To win, besides outworking them, you'll need all weaponry. Even the dirty stuff.
-
-> *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
-
-Charm the enemy.
-
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
-
-> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
-
-> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
-
-> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
-
-*Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
-
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
-
-When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-targets) if you can see the end already.
-
-
-
-===
-###On desperate targets
-
-Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose. Careful.
-
-> *'Beware the fury of a patient man.' -- John Dryden*
-
-> *'Use anger only as a tool, when you need it to improve your situation.'*
-
-<!-- > *'Our fearlessness shall be our secret weapon.' -- John Green* -->
 
 
 
@@ -1378,6 +1227,157 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 CHALLENGE:
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
+
+
+
+===
+	  __                                                                                                  
+	 /  |                     /    /    /                        |                /                       
+	(   | ___       ___  ___ (___ (___    ___  ___       ___  ___|      ___  ___ (___  ___  ___  ___  ___ 
+	|   )|   )     |   )|___)|    |    | |   )|   )     |   )|   ) \  )|   )|   )|    |   )|   )|___)|___ 
+	|__/ |  /      |__/ |__  |__  |__  | |  / |__/      |__/||__/   \/ |__/||  / |__  |__/||__/ |__   __/ 
+	               __/                        __/                                          __/            
+
+
+
+###On creating imbalances
+
+Create imbalances in your target to raise your chances of winning. <br>
+Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
+and [bait](#on-luring). Some targets may require special tools.
+
+
+
+===
+###On unpredictability
+
+> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
+
+> *'Keep others in suspended terror: cultivate an air of unpredictability.' -- Robert Greene (17th law of power)*
+
+> *'Assume formlessness.' -- Robert Greene (48th law of power)*
+
+> *'Conceal your intention.' -- Robert Greene (3rd law of power)*
+
+CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
+
+
+
+===
+###On deceiving
+
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
+
+> *'Court attention at all cost.' -- Robert Greene (6th law of power)*
+
+> *'Create compelling spectacles.' -- Robert Greene (37th law of power)*
+
+> *'Say less than necessary.' -- Robert Greene (4th law of power)*
+
+> *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
+
+CHALLENGE: deceiving is not lying.
+
+> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
+
+> *'One of the most potent weapons in the battle for information is giving out false information.'*
+
+> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
+
+
+
+===
+###On mirroring
+
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
+> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+
+> *'Being pacifist in face of wolves is the source of endless tragedy.'*
+
+
+
+===
+###On luring
+
+Use absence and bait to attract people.
+
+> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+
+> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
+
+> *'We attract more flies with honey than vinegar.'*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+
+> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+
+> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+
+CHALLENGE: use absence with [moderation](#on-balance).
+
+> *'Quem muito se ausenta um dia deixa de fazer falta.'*
+
+
+
+===
+###On free lunch
+
+Everything is a trade.
+
+> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
+
+> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
+
+> *«El dorados» are never drawn in the map.'*
+
+CHALLENGE: there are same fools though. Easy wins if you identify them.
+
+> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
+
+> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
+
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
+
+
+
+===
+###On difficult targets
+
+To win, besides outworking them, you'll need all weaponry. Even the dirty stuff.
+
+> *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
+
+Charm the enemy.
+
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
+
+> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
+> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
+
+> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
+
+*Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
+
+> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
+
+> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+
+When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-targets) if you can see the end already.
+
+
+
+===
+###On desperate targets
+
+Desperate people will risk anything in a fight. This gives them a huge advantage. They have nothing to lose. Careful.
+
+> *'Beware the fury of a patient man.' -- John Dryden*
+
+> *'Use anger only as a tool, when you need it to improve your situation.'*
+
+<!-- > *'Our fearlessness shall be our secret weapon.' -- John Green* -->
 
 
 
