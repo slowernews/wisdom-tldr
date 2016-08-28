@@ -11,7 +11,6 @@ Exceptions to most rules also..
 - [On identity](#on-identity)
 - [On freedom](#on-freedom)
 - [On ambition and motivation](#on-ambition-and-motivation)
-- [On reputation](#on-reputation)
 
 
 *On growth*
@@ -27,12 +26,12 @@ Exceptions to most rules also..
 
 
 *On your enemy: yourself*
-- [On fear](#on-fear)
+- [On fear and excuses](#on-fear-and-excuses)
 - [On excuses](#on-excuses)
-- [On validation](#on-validation)
 - [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On confidence](#on-confidence)
+- [On validation](#on-validation)
 - [On limits](#on-limits)
 - [On mental health: stress](#on-mental-health-stress)
 - [On physical health](#on-physical-health)
@@ -43,8 +42,7 @@ Exceptions to most rules also..
 
 *On being social*
 - [On networking](#on-networking)
-- [On socializing](#on-socializing)
-- [On trust](#on-trust)
+- [On trust and reputation](#on-trust-and-reputation)
 - [On relationships](#on-relationships)
 - [On family](#on-family)
 - [On peers](#on-peers)
@@ -137,7 +135,7 @@ Exceptions to most rules also..
 
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 One practical advice: *'have more than one child.'*<br>
-One last advice (specially for shy people): *'aim on relying on your network and not on being self-sufficient.'*
+One last advice (specially for shy people): *'aim to rely on your network and not on being self-sufficient.'*
 
 
 
@@ -155,7 +153,7 @@ One last advice (specially for shy people): *'aim on relying on your network and
 
 Love the life you have, while you create the life of your dreams.
 
-> *'Need to jump start happiness? Lower your expectations. -- James Altucher'*
+> *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
@@ -165,7 +163,7 @@ Love the life you have, while you create the life of your dreams.
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
 
-Break your large goals into small ones so you can enjoy the journey.<br>
+Break your large goals into smaller ones so you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
@@ -205,7 +203,7 @@ Be your best self.
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-But remember to be humble, you are not perfect neither you'll ever be.
+<a id="on-humbleness"></a>But remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
@@ -220,7 +218,7 @@ Do not truly commit to anything but *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
-> *'That’s the problem with putting others first; you’ve taught them you come second.'*
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
@@ -252,17 +250,6 @@ Be ambitious. Not thirsty, people will [envy](#on-outliers) you.
 
 
 ===
-###On reputation
-
-Seek respect, not attention. It lasts longer.
-
-> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
-
-> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
-
-
-
-===
 	  __                                         
 	 /  |                               /    /   
 	(   | ___       ___  ___  ___      (___ (___ 
@@ -282,6 +269,10 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
 > *'Success is simple, but it is not easy. Success is nothing but the accumulation of [small things done consistently](#on-habits) over a long period of time.'*
+
+CHALLENGE: fear, not failure, is the biggest barrier to success.
+
+> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
 
 
@@ -334,7 +325,7 @@ You learn by getting out of your comfort zone.
 
 > *'Lessons not learned in blood are soon forgotten.'*
 
-> *'Tell me and I’ll forget; Show me and I may remember; Involve me and I’ll understand.' -- Chinese proverb*
+> *'Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.' -- Chinese proverb*
 
 > *'Welcome the attacks of your enemies for how much they improve your work and toughen you up.'*
 
@@ -347,13 +338,15 @@ You learn by analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
-> *'Take more moments to be reflective. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
-
 > *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
+Try journaling. It works.
+
 > *'Write your thoughts. Journal early before your inhibitions take in.'*
+
+> *'Take more moments to be reflective. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
 
 
 
@@ -371,7 +364,7 @@ Consistency is everything. Habits allow [mastery](#on-mastery) and [success](#on
 ===
 ###On mastery
 
-First learn the rules, then break them.<br>
+First learn the rules. Then break them.<br>
 You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
 
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'*
@@ -382,7 +375,7 @@ You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theo
 
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
-CHALLENGE: mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-identity).
+CHALLENGE: mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -396,7 +389,7 @@ CHALLENGE: mastery is the main trigger of [arrogance](#on-arrogance). There's al
 ###On choosing mentors
 
 Follow the thought leaders instead of the traffic leaders.<br>
-Mentors are the best source of feedback.
+Mentors are your best source of feedback.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
@@ -413,13 +406,14 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
 
+<!-- mix with guerrilla thinking -->
 > *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
 
 > *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
 
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
-CHALLENGE: some people are not ready to have a mentor.
+CHALLENGE: some people are not ready to have a mentor. Accept it.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -435,43 +429,22 @@ CHALLENGE: some people are not ready to have a mentor.
 
 
 
-###On fear
+###On fear and excuses
 
-Fear can be paralyzing. Replace fear of unknown with curiosity. [Excuses](#on-excuses) are a manifestation of fear.
+Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
 
 > *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
 
-> *'Our fearlessness shall be our secret weapon.' -- John Green*
-
-> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
-
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
-
-> *'What you fear you attract; what you resist, you make it bigger.'*
 
 > *'The things we fear the most have already happened to us.'*
 
-
-
-===
-###On excuses
-
-There are no acceptable excuses. End.
+Excuses are a manifestation of fear.<br>
+There are no acceptable ones. End.
 
 > *'You cannot use your personality type as an excuse.'*
-
-
-
-===
-###On validation
-
-Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
-
-> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
-
-> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
 
 
@@ -489,20 +462,20 @@ A man is not what he think he is: he is what he hides.
 
 > *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
 
+> *'What you fear you attract; what you resist, you make it bigger.'*
+
 > *'Just get out of the room.' -- Robert Glover*
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
 
-
+<!-- merge both -->
 
 ===
 ###On mistakes and failure
 
 Sometimes you win. Sometimes you learn. Accept failure as part of the process.
-
-> *'If you don’t make mistakes, you aren’t really trying.' -- Coleman Hawkins*
 
 > *'Anyone who has never made a mistake has never tried anything new.'*
 
@@ -527,18 +500,9 @@ CHALLENGE: fail fast and bounce back quickly.
 
 
 ===
-###On limits
-
-> *'Your limits are where are your fears.'*
-
-> *'We don’t rise to the level of our expectations; we fall to the level of our training.'*
-
-
-
-===
 ###On confidence
 
-If you say it with confidence, you are what you say you are. <br>
+If you say it with confidence, you are what you say you are.
 
 > *'You're only as good as your next speech.'*
 
@@ -547,8 +511,6 @@ If you say it with confidence, you are what you say you are. <br>
 > *'Doubt kills more dreams than failure ever will.'*
 
 > *'Believe you can, and you’re half way there.'*
-
-> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
@@ -565,30 +527,58 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
-> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are god.'*
+> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
+
+
+
+===
+###On validation
+
+Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
+
+> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
+
+
+
+===
+###On limits
+
+> *'Your limits are where are your fears.'*
+
+> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
+CHALLENGE:
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
 
 
 
 ===
 ###On mental health: stress
 
-Stress is caused by thinking about the [past](#on-past) or [future](#on-future), by under-stimulation or over-stimulation.
+<!-- refazer -->
 
-> *'Anxiety is linked with our wired out evolutionarily for a need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+Stress is caused by under-stimulation or over-stimulation.
 
-> *'Under-stimulation (boredom = anxiety) | Right amount of stress (hustling = stretching comfort zone) | Over-stimulation (anxiety)'*
+> *'Under-stimulation (boredom) / Good amount of stress (hustling = stretching comfort zone) / Over-stimulation (anxiety)'*
 
-> *'Stress is caused by giving a fuck.'*
+By worrying about the [past](#on-past) or the [future](#on-future);
 
 > *'If you are depressed you are living in the past. <br>
 If you are anxious you are living in the future. <br>
 If you are at peace you are living in the present.' -- Lao Tzu*
 
+<!-- ligar com #on-control -->
+
+> *'Anxiety is linked with our wired out evolutionarily for a need of [control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+
 > *'Anxiety and depression are symptoms, not diseases.'*
 
 > *'Worry is a misuse of the imagination.'*
 
-> *'The more relaxed you are, the better you are at everything.'*
+> *'Stress is caused by giving a fuck.'*
+
+CHALLENGE: The more relaxed you are, the better you are at everything.
 
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
 
@@ -634,11 +624,6 @@ Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.
 
 <!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner -->
 
-
-
-===
-###On socializing
-
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
 Social inadequacy AKA creepiness is based on unpredictability.
@@ -653,7 +638,7 @@ Be in the moment instead of being in your head.
 
 
 ===
-###On trust
+###On trust and reputation
 
 Trust, not money, is the currency of business and life.<br>
 Honesty and [reputation](#on-reputation) build trust. Disappointment destroys it. 
@@ -662,6 +647,11 @@ Honesty and [reputation](#on-reputation) build trust. Disappointment destroys it
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
+Seek respect, not attention. It lasts longer.
+
+> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
+
+> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
 
 
 ===
@@ -844,7 +834,7 @@ And error-prone: bias, being [deceived](#on-deceiving) and randomness will trigg
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
-> *'Most facts are a *tell* but some are just random.'*
+> *'Most facts are a «tell» but some are just random.'*
 
 > *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
@@ -1197,6 +1187,8 @@ Charm the enemy.
 
 > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
 
+> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
+
 *Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
@@ -1215,6 +1207,8 @@ Desperate people will risk anything in a fight. This gives them a huge advantage
 > *'Beware the fury of a patient man.' -- John Dryden*
 
 > *'Use anger only as a tool, when you need it to improve your situation.'*
+
+<!-- > *'Our fearlessness shall be our secret weapon.' -- John Green* -->
 
 
 
