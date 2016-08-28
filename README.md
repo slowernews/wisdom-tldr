@@ -261,7 +261,7 @@ Be ambitious. Not thirsty, the journey will not be enjoyable and people will [en
 
 ###On success
 
-There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
+There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits). [Mastery](#on-mastery) will speed up the process<br>
 Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
@@ -1242,7 +1242,7 @@ CHALLENGE:
 
 ###On creating imbalances
 
-Create imbalances in your target to raise your chances of winning. <br>
+Create imbalances in your target to get advantages and raise your chances of winning. <br>
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-luring). Some targets may require special tools.
 
