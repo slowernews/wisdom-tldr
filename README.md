@@ -135,7 +135,8 @@ Exceptions to most rules also..
 
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 One practical advice: *'have more than one child.'*<br>
-One last advice (specially for shy people): *'aim to rely on your network and not on being self-sufficient.'*
+One general advice: *'the root of all of our problems is our inability to let go.'*<br>
+One last advice (specially for shy people): *'aim on relying on your network and not on being self-sufficient.'*
 
 
 
@@ -441,8 +442,7 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
 > *'The things we fear the most have already happened to us.'*
 
-Excuses are a manifestation of fear.<br>
-There are no acceptable ones. End.
+Excuses are a manifestation of fear. None of them is acceptable. End.
 
 > *'You cannot use your personality type as an excuse.'*
 
@@ -558,6 +558,7 @@ CHALLENGE:
 
 <!-- refazer -->
 
+Most health problems are not physical.<br>
 Stress is caused by under-stimulation or over-stimulation.
 
 > *'Under-stimulation (boredom) / Good amount of stress (hustling = stretching comfort zone) / Over-stimulation (anxiety)'*
@@ -570,7 +571,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 <!-- ligar com #on-control -->
 
-> *'Anxiety is linked with our wired out evolutionarily for a need of [control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+> *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
 > *'Anxiety and depression are symptoms, not diseases.'*
 
@@ -587,14 +588,13 @@ CHALLENGE: The more relaxed you are, the better you are at everything.
 ===
 ###On physical health
 
-Take care of your body. It’s the most important thing you’ll get for free.<br>
-However most health problems are not physical.
+Take care of your body. It’s the most important thing you’ll get for free.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
 > *'I've decided to be happy because it is good to my health.'*
 
-> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)*
+> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'*
 
 
 
@@ -626,12 +626,12 @@ Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
-Social inadequacy AKA creepiness is based on unpredictability.
-
 A person starts to live when he can live outside himself.<br>
 Be in the moment instead of being in your head.
 
 > *'On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.'*
+
+Social inadequacy AKA creepiness is based on unpredictability.
 
 > *'Conversational stubbornness. LET GO. Top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware, always looking for external catalysts.'*
 
@@ -649,9 +649,9 @@ Honesty and reputation build trust. Disappointment destroys it.
 
 Seek respect, not attention. It lasts longer.
 
-> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
-
 > *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
+
+> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
 
 
@@ -674,9 +674,7 @@ Relationships are based on [trust](#on-trust-and-reputation).
 
 Give the first step but then [mirror](#on-mirroring) the other side's behavior.
 
-> *'Forget those who forget you.'*
-
-> *'The people that want to stay in your life, will always find a way.'*
+> *'Forget those who forget you. The people that want to stay in your life, will always find a way.'*
 
 > *'Never love anyone that treats you like you're ordinary.'*
 
@@ -724,7 +722,9 @@ CHALLENGE: don't vow to the gatekeepers.
 ===
 ###On outliers
 
-Outliers inspire envy. [Intelligence](#on-intelligence), [beauty](#on-beauty), [wealth](#on-wealth), [luck](#on-luck) and [ambition](#on-ambition-and-motivation) are the main triggers. 
+Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
+
+> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
 > *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
@@ -745,9 +745,7 @@ Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-
 
 > *'Don’t argue your path with other people. Walk it.' -- lazy yogi*
 
-> *'Never hate people who are jealous of you, but respect their jealousy. They're people who think that you're better than them.'*
-
-> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+> *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
 
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
@@ -1186,8 +1184,6 @@ Control what you can. Ignore what you can't.
 
 > *'You want everything to stay the same until you’re ready for it to change. But you can’t do that. You can’t expect the whole world to stand still until you’re ready.' -- Gayle Friesen*
 
-> *'The root of all of our problems is our inability to let go.' -- Leo Babauta*
-
 > *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
 <!-- CHALLENGE:
@@ -1276,6 +1272,8 @@ CHALLENGE: unpredictability can work against you, specially if you are in a subo
 
 > *'Stir up waters to catch fish.' -- Robert Greene (39th law of power)*
 
+> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+
 CHALLENGE: deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
@@ -1291,8 +1289,6 @@ CHALLENGE: deceiving is not lying.
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
-> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
-
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
 
@@ -1302,17 +1298,17 @@ CHALLENGE: deceiving is not lying.
 
 Use absence and bait to attract people.
 
-> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
-
 > *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
 
-> *'We attract more flies with honey than vinegar.'*
-
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
 
 > *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
 
-> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
+> *'We attract more flies with honey than vinegar.'*
+
+> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
 
 CHALLENGE: use absence with [moderation](#on-balance).
 
