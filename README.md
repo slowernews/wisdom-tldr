@@ -451,7 +451,7 @@ Excuses are a manifestation of fear. None of them is acceptable. End.
 ###On insecurities, imperfections and shame
 
 Speaking openly about a problem is a sign of strength, not a weakness.<br>
-A man is not what he think he is: he is what he hides.
+You are not you think you are: *you are what you hide*.
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
@@ -625,8 +625,7 @@ Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
-A person starts to live when he can live outside himself.<br>
-Be in the moment instead of being in your head.
+A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
 
 > *'On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.'*
 
@@ -842,7 +841,20 @@ And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness wi
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-CHALLENGES: too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs and assumptions.
+CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.<br>
+Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs and assumptions.
+
+> *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
+
+> *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
+
+> *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
+
+> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
+
+> *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
+
+> *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
 
 
 
@@ -972,7 +984,7 @@ Timing and direction are more important than pace.
 
 > *'You finished ahead of time, that means you forgot something.'*
 
-CHALLENGE: however don't be on standby.
+CHALLENGE: however don't stop.
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
@@ -1152,23 +1164,7 @@ And learn how to talk to people.
 
 > *'Get better asking questions. They are more important than answers.'*
 
-> *'Rambling and not smiling are 2 things to get better speaking to anybody.'
-
-<!-- mix listening with analysis -->
-
-CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.
-
-> *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
-
-> *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
-
-> *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
-
-> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
-
-> *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
-
-> *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
+> *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
 
 
 
@@ -1455,7 +1451,7 @@ Leadership is based on [trust](#on-trust). Being a leader is different from bein
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
-> *'Be royal in your own fashion:  Act like a king to be treated like one.' -- Robert Greene (34th law of power)*
+> *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
 
 > *'People don't follow robots.'*
 
@@ -1518,17 +1514,16 @@ The speed that you offload your stuff will be the speed of your team.'*
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-Productivity is different from workflow engineering.
-
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: What I accomplished today is not yet visible, but it will be.'*
+The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
+
+Productivity is different from workflow engineering.
 
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
-
 
 <!-- And use deep work
 
@@ -1553,7 +1548,7 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 
 CHALLENGE:
 
-> *'In general, be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
+> *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
 
 
 
