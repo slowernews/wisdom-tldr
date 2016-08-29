@@ -129,7 +129,7 @@ Exceptions to most rules also..
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 One practical advice: *'have more than one child.'*<br>
 One general advice: *'the root of all of our problems is our inability to let go.'*<br>
-One last advice (specially for shy people): *'aim on relying on your network and not on being self-sufficient.'*
+One last advice (specially for shy people): *'aim for relying on your network and not for being self-sufficient.'*
 
 
 
@@ -152,7 +152,7 @@ Love the life you have, while you create the life of your dreams.
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
-> *'A pessimist sees a difficulty in every opportunity. An optimist sees a opportunity in every difficulty.'*
+> *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
 
@@ -339,7 +339,7 @@ You learn by analysis of past situations.
 
 Take more moments to be reflective.
 
-> *'Write your thoughts. Journal early before your inhibitions take in.'*
+> *'Journal early before your inhibitions take in.'*
 
 > *'Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
 
@@ -1098,9 +1098,9 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
-<!-- CHALLENGE:
+CHALLENGE:
 
-> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde* -->
+> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
 
 
@@ -1183,7 +1183,7 @@ It is about making progress in all areas of your life and ensuring that you impr
 
 ###On creating imbalances
 
-Create imbalances in your target to get advantages and raise your chances of winning. <br>
+Create imbalances in your target to get advantage and raise chances of winning.<br>
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-luring). Some targets may require special tools.
 
