@@ -65,9 +65,9 @@ Exceptions to most rules also..
 
 
 *On planning*
-- [On planning](#on-planning)
 - [On analysis](#on-analysis)
 - [On decision making](#on-decision-making)
+- [On planning](#on-planning)
 - [On creativity and ideas](#on-creativity-and-ideas)
 - [On neutrality and isolation](##on-neutrality-and-isolation)
 
@@ -824,33 +824,6 @@ CHALLENGE: common sense is not so common.
 
 
 
-###On planning
-
-Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
-
-> *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
-
-> *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
-
-> *'The best way to predict the future is to invent it.' -- Alan Kay*
-
-> *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
-
-> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
-
-> *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
-
-> *'Strategy requires thought; tactics require observation.' -- Max Euwe*
-
-CHALLENGE: some people get paralyzed by overthinking.
-
-> *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
-
-> *'While we are reasoning concerning life, life is gone.' -- David Hume*
-
-
-
-===
 ###On analysis
 
 Analysis is more an art than a science.
@@ -906,6 +879,33 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 <!-- Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
 too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance) -->
+
+
+
+===
+###On planning
+
+Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
+
+> *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
+
+> *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
+
+> *'The best way to predict the future is to invent it.' -- Alan Kay*
+
+> *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
+
+> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
+
+> *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
+
+> *'Strategy requires thought; tactics require observation.' -- Max Euwe*
+
+CHALLENGE: some people get paralyzed by overthinking.
+
+> *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
+
+> *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 
 
@@ -1232,9 +1232,9 @@ CHALLENGE: deceiving is not lying.
 ===
 ###On mirroring
 
-> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
-
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
+
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
 
 
