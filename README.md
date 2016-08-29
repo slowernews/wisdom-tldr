@@ -41,6 +41,7 @@ Exceptions to most rules also..
 
 *On being social*
 - [On networking](#on-networking)
+- [On listening and speaking](#on-listening-and-speaking)
 - [On trust and reputation](#on-trust-and-reputation)
 - [On relationships](#on-relationships)
 - [On family](#on-family)
@@ -55,6 +56,7 @@ Exceptions to most rules also..
 - [On leadership](#on-leadership)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
+- [On negotiation](#on-negotiation)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
 
@@ -76,14 +78,9 @@ Exceptions to most rules also..
 - [On priorities and focus](#on-priorities-and-focus)
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
-- [On balance](#on-balance)
-
-
-*On adapting*
-- [On negotiation](#on-negotiation)
-- [On listening and speaking](#on-listening-and-speaking)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
+- [On balance](#on-balance)
 
 
 *On getting advantage*
@@ -242,6 +239,8 @@ Be ambitious. Not thirsty, the journey will not be enjoyable and people will [en
 > *'Work until your idols become your rivals.'*
 
 > *'Work hard in silence. Let your silence be your noise.'*
+
+> *'The world is full of consumers. Be a producer.'*
 
 
 
@@ -632,6 +631,39 @@ A person starts to live when he can live outside himself. Be in the moment inste
 Social inadequacy AKA creepiness is based on unpredictability.
 
 > *'Conversational stubbornness. LET GO. Top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware, always looking for external catalysts.'*
+
+
+
+===
+###On listening and speaking
+
+Speak less, listen more.
+
+> *'Listen to many, speak to a few.' -- William Shakespeare*
+
+> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+
+> *'You don't always have to get the last word. Make your point and leave it that way.'*
+
+> *'Bad liars should speak as little as possible.'*
+
+Be humble, learn to listen.
+
+> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
+
+> *'Arguing as you're right. Listening as you're wrong.'*
+
+> *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
+
+> *'Judge a man by his questions, not by his answers.'*
+
+> *'Learn to listen to predict a collapse.'*
+
+And learn how to talk to people.
+
+> *'Get better asking questions. They are more important than answers.'*
+
+> *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
 
 
 
@@ -1054,118 +1086,6 @@ CHALLENGE:
 
 
 ===
-###On balance
-
-The dose makes the poison. Things in excess become their opposite.<br>
-The hardest skill is knowing when to stop.
-
-> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
-
-> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
-
-> *'Everything should be made as simple as possible, but not simpler.'*
-
-> *'Don't take a half step where a full step is required.'*
-
-> *'If half of the room laughs and half doesn't is a success.'*
-
-How to balance an imbalance? Overcompensate.
-
-> *'Overcompensate to make it balanced.' -- Derek Sivers*
-
-> *'Some people get passion from something they struggled with.'*
-
-
-
-===
-	  __                                                
-	 /  |                   |           /    /          
-	(   | ___       ___  ___| ___  ___ (___    ___  ___ 
-	|   )|   )     |   )|   )|   )|   )|    | |   )|   )
-	|__/ |  /      |__/||__/ |__/||__/ |__  | |  / |__/ 
-	                              |                __/  
-
-
-
-###On negotiation
-
-To negotiate is to have options. <br>
-Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
-
-> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
-
-> *'When people feel they have a choice, they walk into your trap that much more easily.'*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
-
-Never negotiate with binary questions: 
-
-> *'«What can you do?» instead of «Will you do this?»'*
-
-Best way to say no:
-
-> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
-
-Tone of voice is a big clue to know with whom we are negotiating:
-
-> *'The analytical cold guy is very patient; <br>
-The assertive guy (eg. Trump) wants to make it fast; <br>
-For the accomodator, the relationship is the most important'*
-
-<!-- > *'Unexpressed feelings never die.'*
-> *'Releasing pressure is different from venting.'*
-> *'The more influence somebody is the more they use we / plural pronouns.'*
-> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
-> *'Listening for things that you didn't see. for incongruence.'*
-> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
-naming the negatives first.'* -->
-
-> *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
-
-> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
-
-CHALLENGE: the deal will fall if both sides don't take what they need from it. 
-
-> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
-
-> *'You can’t make a good deal with a bad person.'*
-
-
-
-===
-###On listening and speaking
-
-Speak less, listen more.
-
-> *'Listen to many, speak to a few.' -- William Shakespeare*
-
-> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
-
-> *'You don't always have to get the last word. Make your point and leave it that way.'*
-
-> *'Bad liars should speak as little as possible.'*
-
-Be humble, learn to listen.
-
-> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
-
-> *'Arguing as you're right. Listening as you're wrong.'*
-
-> *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
-
-> *'Judge a man by his questions, not by his answers.'*
-
-> *'Learn to listen to predict a collapse.'*
-
-And learn how to talk to people.
-
-> *'Get better asking questions. They are more important than answers.'*
-
-> *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
-
-
-
-===
 ###On control
 
 Control what you can. Ignore what you can't.
@@ -1215,6 +1135,39 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 CHALLENGE:
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
+
+
+
+===
+###On balance
+
+The dose makes the poison. Things in excess become their opposite.<br>
+The hardest skill is knowing when to stop.
+
+> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
+
+> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
+
+> *'Everything should be made as simple as possible, but not simpler.'*
+
+> *'Don't take a half step where a full step is required.'*
+
+> *'If half of the room laughs and half doesn't is a success.'*
+
+How to balance an imbalance? Overcompensate.
+
+> *'Overcompensate to make it balanced.' -- Derek Sivers*
+
+> *'Some people get passion from something they struggled with.'*
+
+<!-- You Need to Have Balance in Your Life 
+
+Life is a balancing act.
+
+You can have all the money in the world, but if your home life and health are out of order, you will suffer.
+Conversely, you can have a loving family and a shredded body, but if you are not making enough money, you and your loved ones will suffer.
+Balance is not about spending the same amount of time focused on every area of your life either.
+It is about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth. -->
 
 
 
@@ -1440,7 +1393,7 @@ It only hurts when you don't have time to prepare for the fall.
 
 ###On leadership
 
-Leadership is based on [trust](#on-trust). Being a leader is different from being a boss.
+Being a leader is different from being a boss. Leadership is based on [trust](#on-trust).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -1524,9 +1477,52 @@ Productivity is different from workflow engineering.
 
 <!-- And use deep work
 
-> *'The world is full of consumers. Be a producer.'*
-
 > *'Too busy pretending I'm occupied.'* -->
+
+
+
+###On negotiation
+
+To negotiate is to have options. <br>
+Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
+
+> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
+
+> *'When people feel they have a choice, they walk into your trap that much more easily.'*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+Never negotiate with binary questions: 
+
+> *'«What can you do?» instead of «Will you do this?»'*
+
+Best way to say no:
+
+> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
+
+Tone of voice is a big clue to know with whom we are negotiating:
+
+> *'The analytical cold guy is very patient; <br>
+The assertive guy (eg. Trump) wants to make it fast; <br>
+For the accomodator, the relationship is the most important'*
+
+<!-- > *'Unexpressed feelings never die.'*
+> *'Releasing pressure is different from venting.'*
+> *'The more influence somebody is the more they use we / plural pronouns.'*
+> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
+> *'Listening for things that you didn't see. for incongruence.'*
+> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
+naming the negatives first.'* -->
+
+> *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
+
+> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
+
+CHALLENGE: always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
+
+> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
+
+> *'You can’t make a good deal with a bad person.'*
 
 
 
@@ -1747,7 +1743,7 @@ Making money is adding value.
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
 Successful *entrepreneurs* are good managing risk.<br>
-However they have extended confort zones, so low risk for them might mean high risk for you.
+However they have extended confort zones: low risk for them might mean high risk for you.
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
