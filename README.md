@@ -56,9 +56,9 @@ Exceptions to most rules also..
 - [On leadership](#on-leadership)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
-- [On negotiation](#on-negotiation)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
+- [On negotiation](#on-negotiation)
 
 
 ### Part 3 - Strategy
@@ -104,11 +104,9 @@ Exceptions to most rules also..
 
 
 *On time*
-- [On past](#on-past)
+- [On past and memory](#on-past-and-memory)
 - [On present](#on-present)
 - [On future](#on-future)
-- [On mortality](#on-mortality)
-- [On memory](#on-memory)
 
 
 *Others*
@@ -180,13 +178,11 @@ Have personal accountability.
 
 > *'Be the person your dog think you are.'*
 
-Keep your integrity.
+Keep your integrity. It's the only way to be respected.
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
 > *'My independence is my legacy.' -- Bagão Felix*
-
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 Be your best self.
 
@@ -220,6 +216,8 @@ Do not truly commit to anything but *yourself*.
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 
 
@@ -443,6 +441,8 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 Excuses are a manifestation of fear. None of them is acceptable. End.
 
 > *'You cannot use your personality type as an excuse.'*
+
+> *'You'll never be as young as you are today.'*
 
 
 
@@ -1481,6 +1481,48 @@ Productivity is different from workflow engineering.
 
 
 
+===
+###On hiring
+
+Hire anyone but only retain the best.
+
+> *'He who works with his hands is a laborer.<br>
+He who works with his hands and his head is a craftsman.<br>
+He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
+
+> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
+
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+CHALLENGE:
+
+> *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
+
+
+
+===
+###On being hired
+
+Employers hire you because you are a likable person that «get shit done».
+
+> *'When applying for a job be more of a consultant than an applicant.'*
+
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
+
+CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
+
+> *'I work for money, if you want loyalty hire a dog.'*
+
+> *'If your job doesn't require originality, next decade you might not have one.'*
+
+> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
+
+> *'The interesting jobs are the ones that you make up.' -- Chris Young*
+
+
+
 ###On negotiation
 
 To negotiate is to have options. <br>
@@ -1527,48 +1569,6 @@ CHALLENGE: always strive to achieve a win-win situation. The deal will fall if b
 
 
 ===
-###On hiring
-
-Hire anyone but only retain the best.
-
-> *'He who works with his hands is a laborer.<br>
-He who works with his hands and his head is a craftsman.<br>
-He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
-> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
-
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
-
-CHALLENGE:
-
-> *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
-
-
-
-===
-###On being hired
-
-Employers hire you because you are a likable person that «get shit done».
-
-> *'When applying for a job be more of a consultant than an applicant.'*
-
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
-
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
-
-CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
-
-> *'I work for money, if you want loyalty hire a dog.'*
-
-> *'If your job doesn't require originality, next decade you might not have one.'*
-
-> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
-
-> *'The interesting jobs are the ones that you make up.' -- Chris Young*
-
-
-
-===
 	  __                            
 	 /  |           /    /          
 	(   | ___      (___    _ _  ___ 
@@ -1577,11 +1577,14 @@ CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap
 
 
 
-###On past
+###On past and memory
 
-Let go.
+You are your memory but *let go*.<br>
+Your past [mistakes](#on-mistakes-and-failure) are meant to guide you, not to define you.
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
+
+> *'People forget more future events than past events.'*
 
 > *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
 
@@ -1593,12 +1596,22 @@ Let go.
 
 > *'Stop looking for happiness in the same place where you lost it.'*
 
+> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
+
+> *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
+
 
 
 ===
 ###On present
 
-Live in the present. Don't postpone joy.
+You will die soon. Act accordingly and don't postpone joy.
+
+> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
+
+> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
+
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
@@ -1620,36 +1633,6 @@ Dream big.
 > *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
 
 > *'Anomalies often represent the future but to our eyes they seem strange.'*
-
-
-
-===
-###On mortality
-
-You will die soon. Act accordingly. You'll never be as young as you are today.
-
-> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
-
-> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
-
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
-
-
-
-===
-###On memory
-
-You are your memory.
-
-> *'People forget more future events than past events.'*
-
-> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
-
-> *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
-
-CHALLENGE:
-
-Your past [mistakes](#on-mistakes-and-failure) are meant to guide you, not to define you.
 
 
 
