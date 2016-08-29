@@ -42,7 +42,6 @@ Exceptions to most rules also..
 *On being social*
 - [On networking](#on-networking)
 - [On listening and speaking](#on-listening-and-speaking)
-- [On trust and reputation](#on-trust-and-reputation)
 - [On relationships](#on-relationships)
 - [On family](#on-family)
 - [On peers](#on-peers)
@@ -178,11 +177,16 @@ Have personal accountability.
 
 > *'Be the person your dog think you are.'*
 
-Keep your integrity. It's the only way to be respected.
+<a id="on-trust-and-integrity"></a>Trust, not money, is the currency of business and life. So keep your integrity.
+It's the only way to build a reputation and be respected. Disappointment destroys it.
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
-> *'My independence is my legacy.' -- Bagão Felix*
+> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
+
+> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
+
+> *'Seek respect, not attention. It lasts longer.'*
 
 Be your best self.
 
@@ -218,6 +222,8 @@ Do not truly commit to anything but *yourself*.
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+> *'My independence is my legacy.' -- Bagão Felix*
 
 
 
@@ -668,29 +674,9 @@ And learn how to talk to people.
 
 
 ===
-###On trust and reputation
-
-Trust, not money, is the currency of business and life.<br>
-Honesty and reputation build trust. Disappointment destroys it. 
-
-> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
-
-> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
-
-> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
-
-Seek respect, not attention. It lasts longer.
-
-> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
-
-> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
-
-
-
-===
 ###On relationships
 
-Relationships are based on [trust](#on-trust-and-reputation).
+Relationships are based on [trust](#on-trust-and-integrity).
 
 > *'Everything is a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
@@ -1227,6 +1213,8 @@ CHALLENGE: deceiving is not lying.
 
 > *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
 
+> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
 
 
 ===
@@ -1492,11 +1480,15 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 
 > *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
 
+> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
+
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
 CHALLENGE:
 
 > *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
+
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
 
 
