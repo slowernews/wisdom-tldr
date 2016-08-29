@@ -968,12 +968,6 @@ CHALLENGE: you should have a [plan](#on-planning).
 
 Timing and direction are more important than pace.
 
-> *'Master the art of timing.' -- Robert Greene (35th law of power)*
-
-> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
-
-> *'We are always in a state of running away from something and running towards something else.'*
-
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
@@ -984,10 +978,13 @@ Timing and direction are more important than pace.
 
 > *'You finished ahead of time, that means you forgot something.'*
 
-CHALLENGE: however don't stop.
+CHALLENGE: don't wait for the perfect occasion, a good occasion is a safer bet. You will languish if you stop for a long time.
+
+> *'Master the art of timing.' -- Robert Greene (35th law of power)*
+
+> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
-
 
 
 
@@ -1250,7 +1247,7 @@ and [bait](#on-luring). Some targets may require special tools.
 
 > *'Conceal your intention.' -- Robert Greene (3rd law of power)*
 
-CHALLENGE: unpredictability can work against you, specially if you are in a subordinate position, it reduces trust.
+CHALLENGE: unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
 
 
@@ -1351,7 +1348,7 @@ Charm the enemy.
 
 > *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
-*Pawn sacrifices* are effective but use it *only* on life changing situations: it's a scar for life.
+*Pawn sacrifices* are effective but use them *only* on life changing situations: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
