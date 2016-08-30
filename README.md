@@ -70,7 +70,7 @@ Exceptions to most rules also..
 
 
 *On executing*
-- [On starting and timing](#on-starting-and-timing)
+- [On timing](#on-timing)
 - [On pace](#on-pace)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On attacking](#on-attacking)
@@ -938,10 +938,10 @@ Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
 
 
-###On starting and timing
+###On timing
 
-Start. Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.<br>
-You cannot afford to wait for inspiration or opportunities, your time is the most precious thing you own.
+Just start.<br>
+You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.
 
 > *'Stop making resolutions and start making something.'*
 
@@ -958,6 +958,8 @@ You cannot afford to wait for inspiration or opportunities, your time is the mos
 > *'Enter action with boldness.' -- Robert Greene (28th law of power)*
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
+
+Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.
 
 > *'Master the art of timing.' -- Robert Greene (35th law of power)*
 
