@@ -612,7 +612,8 @@ Take care of your body. It’s the most important thing you’ll get for free.
 
 ###On networking
 
-Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.
+Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.<br>
+A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
@@ -624,17 +625,13 @@ Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.
 
 > *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
 
-<!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner -->
-
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
-
-A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
-
-> *'On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.'*
+<!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner 
 
 Social inadequacy AKA creepiness is based on unpredictability.
 
-> *'Conversational stubbornness. LET GO. Top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware, always looking for external catalysts.'*
+-->
+
+> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
 
 
@@ -668,6 +665,10 @@ And learn how to talk to people.
 > *'Get better asking questions. They are more important than answers.'*
 
 > *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
+
+> *'On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.'*
+
+> *'Conversational stubbornness. LET GO. Top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware, always looking for external catalysts.'*
 
 
 
