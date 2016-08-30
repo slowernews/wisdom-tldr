@@ -15,13 +15,13 @@ Exceptions to most rules also..
 
 *On growth*
 - [On success](#on-success)
-- [On improvement](#on-improvement)
 - [On comfort and risk](#on-comfort-and-risk)
+- [On habits](#on-habits)
+- [On improvement](#on-improvement)
+- [On choosing mentors](#on-choosing-mentors)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
-- [On habits](#on-habits)
 - [On mastery](#on-mastery)
-- [On choosing mentors](#on-choosing-mentors)
 - [On being a mentor](#on-being-a-mentor)
 
 
@@ -212,13 +212,13 @@ Aim at being independent.
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
 Do not truly commit to anything but *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
@@ -231,7 +231,7 @@ Do not truly commit to anything but *yourself*.
 ===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty, the journey will not be enjoyable and people will [envy](#on-outliers) you.
+Be ambitious. Not thirsty: the journey will not be enjoyable and people will [envy](#on-outliers) you.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
@@ -277,20 +277,6 @@ CHALLENGE: fear, not failure, is the biggest barrier to success.
 
 
 ===
-###On improvement
-
-You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
-The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
-
-> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
-
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
-
-> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
-
-
-
-===
 ###On comfort and risk
 
 You need to break rules to achieve anything great.<br>
@@ -311,6 +297,41 @@ Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievem
 > *'You can choose courage or you can choose comfort, but you can't choose both.'*
 
 > *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
+
+
+
+===
+###On habits
+
+Consistency is everything. Habits allow [mastery](#on-mastery) and [success](#on-success).
+
+> *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
+
+> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
+
+
+
+===
+###On improvement
+
+You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
+
+> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
+
+> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
+
+
+
+===
+###On choosing mentors
+
+Follow the thought leaders instead of the traffic leaders.<br>
+Mentors are your best source of feedback.
+
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
 
 
 
@@ -353,17 +374,6 @@ Take more moments to be reflective.
 
 
 ===
-###On habits
-
-Consistency is everything. Habits allow [mastery](#on-mastery) and [success](#on-success).
-
-> *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
-
-> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
-
-
-
-===
 ###On mastery
 
 First learn the rules. Then break them.<br>
@@ -384,16 +394,6 @@ CHALLENGE: mastery is the main trigger of [arrogance](#on-arrogance). There's al
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
 
 > *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
-
-
-
-===
-###On choosing mentors
-
-Follow the thought leaders instead of the traffic leaders.<br>
-Mentors are your best source of feedback.
-
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
 
 
 
@@ -666,7 +666,7 @@ And learn how to talk to people.
 
 > *'Rambling and not smiling are 2 things to get better speaking to anybody.'*
 
-> *'On improvisation is more productive to say 'yes and' instead of 'yes but'. Get rid of ego and add value. No judgment.'*
+> *'On improvisation is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. No judgment.'*
 
 > *'Conversational stubbornness. LET GO. Top performers are pros at both leading conversations and going with the conversational flow. Just get out of your head and become more situationally aware, always looking for external catalysts.'*
 
@@ -1382,7 +1382,7 @@ It only hurts when you don't have time to prepare for the fall.
 
 ###On leadership
 
-Being a leader is different from being a boss. Leadership is based on [trust](#on-trust).
+Being a leader is different from being a boss. Leadership is based on [trust](#on-trust-and-integrity).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
