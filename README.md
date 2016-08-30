@@ -70,8 +70,8 @@ Exceptions to most rules also..
 
 
 *On executing*
-- [On starting vs waiting](#on-starting-vs-waiting)
-- [On pace and timing](#on-pace-and-timing)
+- [On starting and timing](#on-starting-and-timing)
+- [On pace](#on-pace)
 - [On priorities and focus](#on-priorities-and-focus)
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
@@ -938,9 +938,10 @@ Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
 
 
-###On starting vs waiting
+###On starting and timing
 
-Just start. You cannot afford to wait for inspiration or opportunities, your time is the most precious thing you own.
+Start. Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.<br>
+You cannot afford to wait for inspiration or opportunities, your time is the most precious thing you own.
 
 > *'Stop making resolutions and start making something.'*
 
@@ -958,11 +959,13 @@ Just start. You cannot afford to wait for inspiration or opportunities, your tim
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
-<!-- People procrastinate specially when there are no urgency/deadlines: the panic monster.
+> *'Master the art of timing.' -- Robert Greene (35th law of power)*
 
-> *'Pressed by circumstances, we feel unusually energized and focused.'*
+> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
-> *add mark manson on procrastination* -->
+You will languish if you stop for a long time.
+
+> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
 CHALLENGE: you should have a [plan](#on-planning).
 
@@ -970,12 +973,18 @@ CHALLENGE: you should have a [plan](#on-planning).
 
 > *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
 
+<!-- People procrastinate specially when there are no urgency/deadlines: the panic monster.
+
+> *'Pressed by circumstances, we feel unusually energized and focused.'*
+
+> *add mark manson on procrastination* -->
+
 
 
 ===
-###On pace and timing
+###On pace
 
-Timing and direction are more important than pace.
+Direction is more important than pace.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
@@ -986,14 +995,6 @@ Timing and direction are more important than pace.
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
 > *'You finished ahead of time, that means you forgot something.'*
-
-CHALLENGE: don't wait for the perfect occasion, a good occasion is a safer bet. You will languish if you stop for a long time.
-
-> *'Master the art of timing.' -- Robert Greene (35th law of power)*
-
-> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
-
-> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
 
 
