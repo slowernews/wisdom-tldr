@@ -31,8 +31,7 @@ Exceptions to most rules also..
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On confidence and validation](#on-confidence-and-validation)
 - [On limits](#on-limits)
-- [On mental health: stress](#on-mental-health-stress)
-- [On physical health](#on-physical-health)
+- [On health](#on-health)
 
 
 ### Part 2 - Groups
@@ -176,7 +175,7 @@ Have personal accountability.
 
 > *'Be the person your dog think you are.'*
 
-<a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to build a reputation and be respected.<br>
+<a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to be respected and build a reputation.<br>
 Trust, not money, is the currency of business and life. 
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
@@ -363,7 +362,7 @@ You learn by analysis of past situations.
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
-Take more moments to be reflective.
+Take moments to be reflective.
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -554,14 +553,16 @@ CHALLENGE:
 
 
 ===
-###On mental health: stress
+###On health
 
-<!-- refazer -->
+Take care of your body. It’s the most important thing you’ll get for free.<br>
+But the origin of most health problems is not physical.
 
-Most health problems are not physical.<br>
+> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
+
 Stress is caused by under-stimulation or over-stimulation.
 
-> *'Under-stimulation (boredom) / Good amount of stress (hustling = stretching comfort zone) / Over-stimulation (anxiety)'*
+> *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
 
 By worrying about the [past](#on-past) or the [future](#on-future);
 
@@ -585,18 +586,9 @@ CHALLENGE: The more relaxed you are, the better you are at everything.
 
 > *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
 
-
-
-===
-###On physical health
-
-Take care of your body. It’s the most important thing you’ll get for free.
-
-> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
-
 > *'I've decided to be happy because it is good to my health.'*
 
-> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'*
+<!-- > *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'* -->
 
 
 
@@ -617,13 +609,11 @@ A person starts to live when he can live outside himself. Be in the moment inste
 
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
-> *'If a buddy calls and needs to get a drink, you always go. No matter the hour, how busy you are, or what else you have going on.'*
+> *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
 > *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
 
 > *'Work on the hearts and minds of others.' -- Robert Greene (43rd law of power)*
-
-> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
 
 <!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner 
 
@@ -683,9 +673,9 @@ Relationships are based on [trust](#on-trust-and-integrity).
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
-> *'If you are lonely when you are not alone, you are in bad company.'*
-
 > *'Every person feels loved in a different form.'*
+
+> *'If you are lonely when you are not alone, you are in bad company.'*
 
 > *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
@@ -1285,6 +1275,8 @@ Charm the enemy.
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
 > *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
+> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
 
 > *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
 
