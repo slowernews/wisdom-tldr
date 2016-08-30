@@ -204,7 +204,7 @@ Be your best self.
 ===
 ###On freedom
 
-Aim at independence. 
+Aim at being independent. 
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
@@ -507,6 +507,14 @@ CHALLENGE: fail fast and bounce back quickly.
 ===
 ###On confidence and validation
 
+Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
+
+> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
+
+> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
+
 If you say it with confidence, you are what you say you are.
 
 > *'You're only as good as your next speech.'*
@@ -516,14 +524,6 @@ If you say it with confidence, you are what you say you are.
 > *'Doubt kills more dreams than failure ever will.'*
 
 > *'Believe you can, and you’re half way there.'*
-
-Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
-
-> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
-
-> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
-
-> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
 [Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.<br>
 In the meanwhile any source is good. Don't stop till you get it.
