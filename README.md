@@ -29,8 +29,7 @@ Exceptions to most rules also..
 - [On fear and excuses](#on-fear-and-excuses)
 - [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
 - [On mistakes and failure](#on-mistakes-and-failure)
-- [On confidence](#on-confidence)
-- [On validation](#on-validation)
+- [On confidence and validation](#on-confidence-and-validation)
 - [On limits](#on-limits)
 - [On mental health: stress](#on-mental-health-stress)
 - [On physical health](#on-physical-health)
@@ -126,7 +125,7 @@ Exceptions to most rules also..
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 One practical advice: *'have more than one child.'*<br>
 One general advice: *'the root of all of our problems is our inability to let go.'*<br>
-One last advice (specially for shy people): *'aim for relying on your network and not for being self-sufficient.'*
+One last advice (specially for shy people): *'aim at relying on your network and not at being self-sufficient.'*
 
 
 
@@ -177,8 +176,8 @@ Have personal accountability.
 
 > *'Be the person your dog think you are.'*
 
-<a id="on-trust-and-integrity"></a>Trust, not money, is the currency of business and life. So keep your integrity.
-It's the only way to build a reputation and be respected. Disappointment destroys it.
+<a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to build a reputation and be respected.<br>
+Trust, not money, is the currency of business and life. 
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
@@ -205,15 +204,19 @@ Be your best self.
 ===
 ###On freedom
 
-Do not truly commit to anything but *yourself*.
+Aim at independence. 
+
+> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
+
+> *'My independence is my legacy.' -- Bagão Felix*
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
+
+Do not truly commit to anything but *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
-> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
@@ -222,8 +225,6 @@ Do not truly commit to anything but *yourself*.
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-> *'My independence is my legacy.' -- Bagão Felix*
 
 
 
@@ -504,7 +505,7 @@ CHALLENGE: fail fast and bounce back quickly.
 
 
 ===
-###On confidence
+###On confidence and validation
 
 If you say it with confidence, you are what you say you are.
 
@@ -515,6 +516,10 @@ If you say it with confidence, you are what you say you are.
 > *'Doubt kills more dreams than failure ever will.'*
 
 > *'Believe you can, and you’re half way there.'*
+
+Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
+
+> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
@@ -532,15 +537,6 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
 > *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
-
-
-
-===
-###On validation
-
-Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
-
-> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
 
 
 
@@ -586,6 +582,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 CHALLENGE: The more relaxed you are, the better you are at everything.
 
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
+
+> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
 
 
 
@@ -1215,6 +1213,8 @@ CHALLENGE: deceiving is not lying.
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
+<!-- > *'Disappointment destroys trust.'* -->
+
 
 
 ===
@@ -1571,8 +1571,8 @@ CHALLENGE: always strive to achieve a win-win situation. The deal will fall if b
 
 ###On past and memory
 
-You are your memory but *let go*.<br>
-Your past [mistakes](#on-mistakes-and-failure) are meant to guide you, not to define you.
+You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
+They are meant to guide you, not to define you.
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
@@ -1587,8 +1587,6 @@ Your past [mistakes](#on-mistakes-and-failure) are meant to guide you, not to de
 > *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
 
 > *'Stop looking for happiness in the same place where you lost it.'*
-
-> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
 
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
 
