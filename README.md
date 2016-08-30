@@ -675,15 +675,17 @@ Relationships are based on [trust](#on-trust-and-integrity).
 
 > *'Every person feels loved in a different form.'*
 
-> *'If you are lonely when you are not alone, you are in bad company.'*
-
-> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
-
-Give the first step but then [mirror](#on-mirroring) the other side's behavior.
+Take the first step but then [mirror](#on-mirroring) the other side's behavior.
 
 > *'Forget those who forget you. The people that want to stay in your life, will always find a way.'*
 
 > *'Never love anyone that treats you like you're ordinary.'*
+
+CHALLENGE: run away from mediocrity.
+
+> *'If you are lonely when you are not alone, you are in bad company.'*
+
+> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
 
 
@@ -1287,6 +1289,8 @@ Charm the enemy.
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
 > *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+
+<!-- bribes, lying -->
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-targets) if you can see the end already.
 
