@@ -273,6 +273,8 @@ CHALLENGE: [doubt](#on-confidence-and-validation), not failure, is the biggest b
 
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
+> *'Doubt kills more dreams than failure ever will.'*
+
 
 
 ===
@@ -476,6 +478,8 @@ You are not you think you are: *you are what you hide*.
 
 <!-- merge both -->
 
+
+
 ===
 ###On mistakes and failure
 
@@ -519,8 +523,6 @@ If you say it with confidence, you are what you say you are.
 > *'You're only as good as your next speech.'*
 
 > *'A speech is a performance. Authenticity is crucial.'*
-
-> *'Doubt kills more dreams than failure ever will.'*
 
 > *'Believe you can, and you’re half way there.'*
 
@@ -959,13 +961,10 @@ You cannot afford to wait for inspiration or opportunities, time is the most pre
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
-Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.
+Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.<br>
+You will languish if you stop for a long time.
 
 > *'Master the art of timing.' -- Robert Greene (35th law of power)*
-
-> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
-
-You will languish if you stop for a long time.
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
@@ -993,6 +992,8 @@ Direction is more important than pace.
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
 
 > *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
+
+> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
@@ -1421,7 +1422,8 @@ Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
 
-A manager shouldn't add his two cents, specially on subjective stuff, unless he's certain the delivered work is not good enough. By the other hand, if feedback is needed, give a reason.
+Don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
+If feedback is needed, give a reason.
 
 > *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
 
