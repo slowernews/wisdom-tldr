@@ -72,7 +72,7 @@ Exceptions to most rules also..
 *On executing*
 - [On timing](#on-timing)
 - [On pace](#on-pace)
-- [On priorities and focus](#on-priorities-and-focus)
+- [On priorities](#on-priorities)
 - [On attacking](#on-attacking)
 - [On defending](#on-defending)
 - [On control](#on-control)
@@ -260,7 +260,7 @@ Be ambitious. Not thirsty: the journey will not be enjoyable and people will [en
 
 ###On success
 
-There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits). [Mastery](#on-mastery) will speed up the process<br>
+There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
 Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
@@ -269,7 +269,7 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
-CHALLENGE: fear, not failure, is the biggest barrier to success.
+CHALLENGE: [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
 
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
@@ -453,7 +453,7 @@ Excuses are a manifestation of fear. None of them is acceptable. End.
 
 
 ===
-###On insecurities, imperfections and shame
+###On shame: insecurities and imperfections 
 
 Speaking openly about a problem is a sign of strength, not a weakness.<br>
 You are not you think you are: *you are what you hide*.
@@ -1001,7 +1001,7 @@ Direction is more important than pace.
 
 
 ===
-###On priorities and focus
+###On priorities
 
 First the essential. Then the details.
 
@@ -1037,7 +1037,7 @@ CHALLENGE:
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
-<!-- *guerrilla* has their strengths also. -->
+<!-- *guerrilla* has their strengths also. cena do mosquito-->
 
 
 
