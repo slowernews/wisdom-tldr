@@ -366,7 +366,7 @@ You learn by analysis of past situations.
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
-Take moments to be reflective. It will help you [relax](#on-being-relaxed).
+Take moments to be reflective. It will help you letting go [past failures](#on-mistakes-and-failure) and being [relaxed](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
