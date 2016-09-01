@@ -27,8 +27,8 @@ Exceptions to most rules also..
 
 *On your enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
-- [On insecurities, imperfections and shame](#on-insecurities-imperfections-and-shame)
 - [On mistakes and failure](#on-mistakes-and-failure)
+- [On shame](#on-shame)
 - [On confidence and validation](#on-confidence-and-validation)
 - [On limits](#on-limits)
 - [On health](#on-health)
@@ -261,7 +261,7 @@ Be ambitious. Not thirsty: the journey will not be enjoyable and people will [en
 ###On success
 
 There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
-Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
+Success is not being [wealthy](#on-wealth) but being [fulfilled](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -330,7 +330,7 @@ The path to [mastery](#on-mastery) is a never ending story: skills are perishabl
 ###On choosing mentors
 
 Follow the thought leaders instead of the traffic leaders.<br>
-Mentors are your best source of feedback.
+Mentors are your best source of feedback. Feedback speeds up improvement.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
@@ -351,6 +351,8 @@ You learn by getting out of your comfort zone.
 
 > *'Welcome the attacks of your enemies for how much they improve your work and toughen you up.'*
 
+Don't be afraid of [failure](#on-mistakes-and-failure).
+
 
 
 ===
@@ -364,7 +366,7 @@ You learn by analysis of past situations.
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
-Take moments to be reflective.
+Take moments to be reflective. It will help you [relax](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -455,35 +457,10 @@ Excuses are a manifestation of fear. None of them is acceptable. End.
 
 
 ===
-###On shame: insecurities and imperfections 
-
-Speaking openly about a problem is a sign of strength, not a weakness.<br>
-You are not you think you are: *you are what you hide*.
-
-> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
-
-> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
-
-> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
-
-> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
-
-> *'What you fear you attract; what you resist, you make it bigger.'*
-
-> *'Just get out of the room.' -- Robert Glover*
-
-> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
-
-> *'Nobody feels love when they feel shame.' -- John Townsend*
-
-<!-- merge both -->
-
-
-
-===
 ###On mistakes and failure
 
-Sometimes you win. Sometimes you learn. Accept failure as part of the process.
+Sometimes you win. Sometimes you learn. Accept failure as part of the process.<br>
+Fail fast and bounce back quickly.
 
 > *'Anyone who has never made a mistake has never tried anything new.'*
 
@@ -501,9 +478,33 @@ Sometimes you win. Sometimes you learn. Accept failure as part of the process.
 
 > *'Be gentle first with yourself.'*
 
-CHALLENGE: fail fast and bounce back quickly.
+> *'The more you fail, the more you learn.'*
 
 > *'When you don't know something you will pay for it. That's the stupidity tax.'*
+
+
+
+===
+###On shame
+
+Speaking openly about an imperfection is a sign of strength, not a weakness.<br>
+You are not you think you are: *you are what you hide*.
+
+> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
+
+> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
+
+> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
+
+> *'What you fear you attract; what you resist, you make it bigger.'*
+
+> *'Just get out of the room.' -- Robert Glover*
+
+> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+
+> *'Nobody feels love when they feel shame.' -- John Townsend*
 
 
 
@@ -552,6 +553,8 @@ CHALLENGE:
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
 
+> *'Your level of success will seldom exceed your level of personal development.'*
+
 
 
 ===
@@ -582,7 +585,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Stress is caused by giving a fuck.'*
 
-CHALLENGE: The more relaxed you are, the better you are at everything.
+<a id="on-being-relaxed"></a>CHALLENGE: the more relaxed you are, the better you are at everything.
 
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
 
@@ -609,6 +612,8 @@ CHALLENGE: The more relaxed you are, the better you are at everything.
 Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.<br>
 A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
 
+> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
+
 > *'You’re never too old to make a friend. Always be looking for a new one.'*
 
 > *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
@@ -619,11 +624,7 @@ A person starts to live when he can live outside himself. Be in the moment inste
 
 <!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner 
 
-Social inadequacy AKA creepiness is based on unpredictability.
-
--->
-
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
+Social inadequacy AKA creepiness is based on unpredictability. -->
 
 
 
@@ -909,7 +910,10 @@ Always be doing something creative. Your soul won’t survive without it.
 
 <!-- > *'Moments of originality and moments of conformity.'*
 
-> *'Teach no one your tricks or they will be used against you.'* -->
+> *'Teach no one your tricks or they will be used against you.'* 
+
+ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the “right way” to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
+-->
 
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
 
@@ -1661,7 +1665,10 @@ But luck is a pattern, the pendulum will swing back your way eventually.
 ===
 ###On wealth
 
-Being rich is not counting money all day but having [freedom](#on-freedom).
+Being rich is not counting money all day but being fulfilled.
+
+> *'Shift your focus from achievement to fulfillment:<br>
+What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
 
 > *'Some people are so poor, all they have is money.'*
 
@@ -1695,6 +1702,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Stock buybacks are effectively same as dividends.'*
 
 > *'Wherever oil goes, the stock market goes.'*
+
+> *'Financial health is just as important as physical health.'*
 
 
 
