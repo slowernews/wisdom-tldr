@@ -85,7 +85,7 @@ Exceptions to most rules also..
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
 - [On mirroring](#on-mirroring)
-- [On luring](#on-luring)
+- [On charming](#on-charming)
 - [On free lunch](#on-free-lunch)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
@@ -619,8 +619,6 @@ A person starts to live when he can live outside himself. Be in the moment inste
 > *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
 > *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
-
-> *'Work on the hearts and minds of others.' -- Robert Greene (43rd law of power)*
 
 <!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner 
 
@@ -1228,7 +1226,21 @@ CHALLENGE: deceiving is not lying.
 
 
 ===
-###On luring
+###On charming
+
+Charm the enemy and find their weaknesses.
+
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
+
+> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
+
+> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
+
+> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
+
+> *'Work on the hearts and minds of others.' -- Robert Greene (43rd law of power)*
+
+> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
 Use absence and bait to attract people.
 
@@ -1276,23 +1288,12 @@ CHALLENGE: there are same fools though. Easy wins if you identify them.
 ===
 ###On difficult targets
 
-To win, besides outworking them, you'll need all weaponry. Even the dirty stuff.
+To win, besides outworking them, you'll need all weaponry. Even the 'dirty stuff'.
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
-Charm the enemy and find their weaknesses.
-
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
-
-> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
-
-> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
-
-> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
-
-> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
-
-*Pawn sacrifices* are effective but use them *only* on life changing situations: it's a scar for life.
+*Pawn sacrifices* are an example of 'dirty stuff'.<br>
+They can be effective but use them *only* on life changing situations: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
