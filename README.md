@@ -366,7 +366,7 @@ You learn by analysis of past situations.
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
-Take moments to be reflective. It will help you letting go [past failures](#on-mistakes-and-failure) and being [relaxed](#on-being-relaxed).
+Take moments to be reflective. It will help you letting go [past failures](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -468,8 +468,6 @@ Fail fast and bounce back quickly.
 
 > *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
 
-> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
-
 > *'Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.'*
 
 > *'You are more than your mistakes. Your past mistakes are meant to guide you, not to define you.'*
@@ -491,6 +489,8 @@ Speaking openly about an imperfection is a sign of strength, not a weakness.<br>
 You are not you think you are: *you are what you hide*.
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
 
 > *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
@@ -1280,7 +1280,7 @@ To win, besides outworking them, you'll need all weaponry. Even the dirty stuff.
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
-Charm the enemy.
+Charm the enemy and find their weaknesses.
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
@@ -1521,6 +1521,7 @@ CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap
 
 
 
+===
 ###On negotiation
 
 To negotiate is to have options. <br>
