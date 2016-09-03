@@ -86,7 +86,7 @@ Exceptions to most rules also..
 - [On deceiving](#on-deceiving)
 - [On mirroring](#on-mirroring)
 - [On charming](#on-charming)
-- [On free lunch](#on-free-lunch)
+- [On easy targets](#on-easy-targets)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
 
@@ -1265,9 +1265,9 @@ CHALLENGE: use absence with [moderation](#on-balance).
 
 
 ===
-###On free lunch
+###On easy targets
 
-Everything is a trade.
+Beware of easy targets. Most times it's bait.
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1308,7 +1308,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go [a
 ===
 ###On desperate targets
 
-Desperate people will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+Desperate targets will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
