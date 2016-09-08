@@ -151,7 +151,7 @@ Love the life you have, while you create the life of your dreams.
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
 
-Break your large goals into smaller ones so you can enjoy the journey.<br>
+<a id="on-happiness">Break/mix some long term goals into shorter term ones so you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
@@ -230,7 +230,7 @@ Do not truly commit to anything but *yourself*.
 ===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty: the journey will not be enjoyable and people will [envy](#on-outliers) you.
+Be ambitious. Not thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
@@ -351,7 +351,7 @@ You learn by getting out of your comfort zone.
 
 > *'Welcome the attacks of your enemies for how much they improve your work and toughen you up.'*
 
-Don't be afraid of [failure](#on-mistakes-and-failure).
+CHALLENGE: don't be afraid of [failure](#on-mistakes-and-failure).
 
 
 
@@ -668,8 +668,6 @@ And learn how to talk to people.
 
 Relationships are based on [trust](#on-trust-and-integrity).
 
-> *'Everything is a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
-
 > *'A great relationship is about finding the similarities and respect the differences.'*
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
@@ -683,6 +681,8 @@ Take the first step but then [mirror](#on-mirroring) the other side's behavior.
 > *'Never love anyone that treats you like you're ordinary.'*
 
 CHALLENGE: run away from mediocrity.
+
+> *'Everything is a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
 
@@ -738,7 +738,7 @@ Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
-But you’re judged by what you do, not what you think.
+You’re judged by what you do, not what you think.
 
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
 
@@ -808,7 +808,7 @@ Analysis is more an art than a science.
 
 > *'To find deep truths intuition is better than statistics.'*
 
-> *'«Dictator's dilemma»:  when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.*
+> *'«Dictator's dilemma»:  when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
 And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness will trigger miscalculations.
 
@@ -1166,9 +1166,9 @@ It is about making progress in all areas of your life and ensuring that you impr
 
 ###On creating imbalances
 
-Create imbalances in your target to get advantage and raise chances of winning.<br>
+Create imbalances in your target to create an advantage and raise chances of winning.<br>
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
-and [bait](#on-luring). Some targets may require special tools.
+and [bait](#on-charming). Some targets may require special tools.
 
 
 
@@ -1267,7 +1267,7 @@ CHALLENGE: use absence with [moderation](#on-balance).
 ===
 ###On easy targets
 
-Beware of easy targets. Most times it's bait.
+Beware of easy targets. Most times it's [bait](#on-charming).
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1275,7 +1275,7 @@ Beware of easy targets. Most times it's bait.
 
 > *«El dorados» are never drawn in the map.'*
 
-CHALLENGE: there are same fools though. Easy wins if you identify them.
+CHALLENGE: there are same people acting stupid though. Easy wins if you can identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
@@ -1556,7 +1556,7 @@ For the accomodator, the relationship is the most important'*
 > *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
 naming the negatives first.'* -->
 
-> *'On negotiation you don't need to match the other person mood, you should be playful and smart, take the other to mirror your good mood also.'*
+> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
 
 > *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
 
@@ -1712,7 +1712,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On business
 
-Making money is adding value.
+To make money is to add value.
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
