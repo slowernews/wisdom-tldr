@@ -18,7 +18,7 @@ Exceptions to most rules also..
 - [On comfort and risk](#on-comfort-and-risk)
 - [On habits](#on-habits)
 - [On improvement](#on-improvement)
-- [On choosing mentors](#on-choosing-mentors)
+- [On having mentors](#on-having-mentors)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
 - [On mastery](#on-mastery)
@@ -66,7 +66,7 @@ Exceptions to most rules also..
 - [On decision making](#on-decision-making)
 - [On planning](#on-planning)
 - [On creativity and ideas](#on-creativity-and-ideas)
-- [On neutrality and isolation](##on-neutrality-and-isolation)
+- [On neutrality and isolation](#on-neutrality-and-isolation)
 
 
 *On executing*
@@ -124,6 +124,7 @@ Exceptions to most rules also..
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 One practical advice: *'have more than one child.'*<br>
 One general advice: *'the root of all of our problems is our inability to let go.'*<br>
+One less intuitive advice: *'rotten peace is not a good outcome.'*<br>
 One last advice (specially for shy people): *'aim at relying on your network and not at being self-sufficient.'*
 
 
@@ -175,8 +176,9 @@ Have personal accountability.
 
 > *'Be the person your dog think you are.'*
 
-<a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to be respected and build a reputation.<br>
-Trust, not money, is the currency of business and life. 
+<a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to be respected and build a reputation.
+
+> *'Trust, not money, is the currency of business and life.'*
 
 > *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
 
@@ -186,7 +188,7 @@ Trust, not money, is the currency of business and life.
 
 > *'Seek respect, not attention. It lasts longer.'*
 
-Be your best self.
+Aim at being your best self.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -327,10 +329,11 @@ The path to [mastery](#on-mastery) is a never ending story: skills are perishabl
 
 
 ===
-###On choosing mentors
+###On having mentors
 
-Follow the thought leaders instead of the traffic leaders.<br>
 Mentors are your best source of feedback. Feedback speeds up improvement.
+
+> *'Follow the thought leaders instead of the traffic leaders.'*
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
@@ -639,7 +642,7 @@ Speak less, listen more.
 
 > *'Bad liars should speak as little as possible.'*
 
-Be humble, learn to listen.
+Be humble, listen.
 
 > *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
 
@@ -649,9 +652,9 @@ Be humble, learn to listen.
 
 > *'Judge a man by his questions, not by his answers.'*
 
-> *'Learn to listen to predict a collapse.'*
+> *'Listen to predict a collapse.'*
 
-And learn how to talk to people.
+Learn how to talk to people.
 
 > *'Get better asking questions. They are more important than answers.'*
 
@@ -676,15 +679,15 @@ Relationships are based on [trust](#on-trust-and-integrity).
 
 Take the first step but then [mirror](#on-mirroring) the other side's behavior.
 
-> *'Forget those who forget you. The people that want to stay in your life, will always find a way.'*
+> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
 > *'Never love anyone that treats you like you're ordinary.'*
 
 CHALLENGE: run away from mediocrity.
 
-> *'Everything is a connection. Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
-
 > *'If you are lonely when you are not alone, you are in bad company.'*
+
+> *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
@@ -699,6 +702,8 @@ CHALLENGE: run away from mediocrity.
 
 ===
 ###On peers
+
+> *'Your friends are the ones that go to your funeral, in a day of rain.'*
 
 You are the average of the people you surround yourself.
 
@@ -1411,6 +1416,8 @@ CHALLENGE:
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
+<!-- mix com persuasion -->
+
 
 
 ===
@@ -1795,7 +1802,9 @@ Intelligence is the most sensitive trigger point for envy.
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
-<!-- No one is smarter than a small group. -->
+<!-- No one is smarter than a small group.
+intelligence doesn't always correspond to virtue. -->
+
 
 
 
