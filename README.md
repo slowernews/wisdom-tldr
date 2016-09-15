@@ -122,9 +122,11 @@ Exceptions to most rules also..
 #### TL;DR 
 
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
+3 general advices:<br>
+*'the root of all of our problems is our inability to let go.'*<br>
+*'rotten peace is the worst outcome.'*<br>
+*'the dose makes the poison'*<br>
 One practical advice: *'have more than one child.'*<br>
-One general advice: *'the root of all of our problems is our inability to let go.'*<br>
-One less intuitive advice: *'rotten peace is not a good outcome.'*<br>
 One last advice (specially for shy people): *'aim at relying on your network and not at being self-sufficient.'*
 
 
@@ -151,6 +153,8 @@ Love the life you have, while you create the life of your dreams.
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+<!-- mix with luck? -->
 
 <a id="on-happiness">Break/mix some long term goals into shorter term ones so you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
@@ -1129,7 +1133,7 @@ CHALLENGE:
 ===
 ###On balance
 
-The dose makes the poison. Things in excess become their opposite.<br>
+The dose makes the poison: things in excess become their opposite.<br>
 The hardest skill is knowing when to stop.
 
 > *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
@@ -1603,7 +1607,7 @@ They are meant to guide you, not to define you.
 
 > *'Stop looking for happiness in the same place where you lost it.'*
 
-> *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
+<!-- > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* -->
 
 
 
@@ -1652,7 +1656,7 @@ Dream big.
 
 ###On luck
 
-Unless you’re winning, most of life will seem hideously unfair to you.<br>
+When you’re not winning, life will seem hideously unfair to you.<br>
 But luck is a pattern, the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
