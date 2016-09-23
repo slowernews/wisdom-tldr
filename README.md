@@ -29,7 +29,8 @@ Exceptions to most rules also..
 - [On fear and excuses](#on-fear-and-excuses)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
-- [On confidence and validation](#on-confidence-and-validation)
+- [On validation](#on-validation)
+- [On confidence](#on-confidence)
 - [On limits](#on-limits)
 - [On health](#on-health)
 
@@ -124,7 +125,7 @@ Exceptions to most rules also..
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 3 general advices:<br>
 *'the root of all of our problems is our inability to let go.'*<br>
-*'rotten peace is the worst outcome.'*<br>
+*'avoiding conflict will not keep peace, will rot it.'*<br>
 *'the dose makes the poison'*<br>
 One practical advice: *'have more than one child.'*<br>
 One last advice (specially for shy people): *'aim at relying on your network and not at being self-sufficient.'*
@@ -153,6 +154,8 @@ Love the life you have, while you create the life of your dreams.
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+> *'You can’t be grateful and angry simultaneously.' – Tony Robbins*
 
 <!-- mix with luck? -->
 
@@ -192,11 +195,15 @@ Have personal accountability.
 
 > *'Seek respect, not attention. It lasts longer.'*
 
-Aim at being your best self.
+Aim at being your best self. You need to come alive.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 > *'If you try to be something you're not, you end up being nothing.'*
+
+> *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
+
+> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
@@ -219,7 +226,7 @@ Aim at being independent.
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
-Do not truly commit to anything but *yourself*.
+Do not truly commit to anything but *yourself*
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
@@ -310,7 +317,7 @@ Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievem
 ===
 ###On habits
 
-Consistency is everything. Habits allow [mastery](#on-mastery) and [success](#on-success).
+Consistency is key. Habits allow [mastery](#on-mastery) and [success](#on-success).
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
 
@@ -322,13 +329,17 @@ Consistency is everything. Habits allow [mastery](#on-mastery) and [success](#on
 ###On improvement
 
 You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
-The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
+
+The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
+
+<!-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
+there are consequences for acting and don't acting -->
 
 
 
@@ -516,7 +527,7 @@ You are not you think you are: *you are what you hide*.
 
 
 ===
-###On confidence and validation
+###On validation
 
 Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
 
@@ -525,6 +536,10 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
+
+
+===
+###On confidence
 
 If you say it with confidence, you are what you say you are.
 
@@ -546,6 +561,12 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
 > *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
+
+<!-- > *'Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.'* -->
+
+> *'Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.'*
+
+> *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 
 
@@ -572,6 +593,8 @@ But the origin of most health problems is not physical.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
+> *'Body language affects your psychology, your mood, and even your hormonal balance.'*
+
 Stress is caused by under-stimulation or over-stimulation.
 
 > *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
@@ -593,6 +616,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'Stress is caused by giving a fuck.'*
 
 <a id="on-being-relaxed"></a>CHALLENGE: the more relaxed you are, the better you are at everything.
+
+> *'If you are feeling stressed out… Breathe.'*
 
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
 
@@ -629,7 +654,9 @@ A person starts to live when he can live outside himself. Be in the moment inste
 
 <!-- networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner 
 
-Social inadequacy AKA creepiness is based on unpredictability. -->
+Social inadequacy AKA creepiness is based on unpredictability. 
+
+prepare an elevator pitch-->
 
 
 
@@ -677,23 +704,34 @@ Relationships are based on [trust](#on-trust-and-integrity).
 
 > *'A great relationship is about finding the similarities and respect the differences.'*
 
-> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
-
-> *'Every person feels loved in a different form.'*
-
 Take the first step but then [mirror](#on-mirroring) the other side's behavior.
 
 > *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
 > *'Never love anyone that treats you like you're ordinary.'*
 
-CHALLENGE: run away from mediocrity.
+CHALLENGE: run away from mediocrity. Be ready to loose people.
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
 
 > *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+> *'You loose your identity, you loose people.' -- Amy Cuddy*
+
+
+
+===
+###On lovers
+
+> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
+
+> *'Every person feels loved in a different form.'*
+
+> *'On a serious conversation with a SO, talk about three things:<br>
+First, your observations, or what you have noticed is happening in your relationship.<br>
+Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
 
 
@@ -853,7 +891,11 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 ===
 ###On decision making
 
-<!-- refazer -->
+<!-- refazer 
+
+decisions are afected by memory
+
+-->
 
 > *'May your choices reflect your choices, not your [fears](#on-fear-and-excuses).' -- Nelson Mandela*
 
@@ -866,6 +908,10 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 <!-- Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
 too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance) -->
+
+<!-- Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
+Always assume that you’re wrong from a purely philosophical point of view. We arealways wrong about whatever we believe. Knowledge is always moving forward, and if you think about things you used to believe 10 years ago or five years ago, it embarrasses you now. And the things that you hold dear and hold to be true today are likely going to embarrass you in 10 or 20 years from now.  -->
 
 
 
@@ -911,6 +957,8 @@ Always be doing something creative. Your soul won’t survive without it.
 
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
+> *'Creative minds are rarely tidy.'*
+
 > *'We can't solve problems by using the same kind of thinking we used when we created them.'*
 
 > *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
@@ -932,6 +980,10 @@ ignorance is a bliss, gives you freedom to think about stuff. being ignorant abo
 ###On neutrality and isolation
 
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+
+<!-- Don't avoid conflict. Small conflicts will grow into big conflicts. 
+
+rotten peace-->
 
 > *'I am either part of the solution or part of the problem.'*
 
@@ -957,6 +1009,8 @@ Just start.<br>
 You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.
 
 > *'Stop making resolutions and start making something.'*
+
+> *'Momentum generates motivation.'*
 
 > *'The inspiration you are waiting for, in order to start, is on the other side of starting.'*
 
@@ -1228,7 +1282,12 @@ CHALLENGE: deceiving is not lying.
 ===
 ###On mirroring
 
+Mirroring works best when you're a minority.
+
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
+
+> *'To change a minority status quo, the majority must unite. To do that you make it a non violent  and using humor to keep the risk as low as possible that everybody can join and change the existent status quo'
+and organized.'*
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
@@ -1571,6 +1630,8 @@ naming the negatives first.'* -->
 
 > *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
 
+<!-- > *'Instead of generalizing, stick with the facts.'* -->
+
 CHALLENGE: always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.'*
@@ -1607,7 +1668,13 @@ They are meant to guide you, not to define you.
 
 > *'Stop looking for happiness in the same place where you lost it.'*
 
-<!-- > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* -->
+<!-- > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* 
+
+people remember more the beginning and the end of something
+
+people forget by decaying and giving them other stuff for them to remember.
+
+-->
 
 
 
@@ -1629,6 +1696,8 @@ You will die soon. Act accordingly and don't postpone joy.
 > *'Now will not be with us forever.'*
 
 > *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
+
+> *'We are like butterflies who flutter for a day and think it's forever.'*
 
 
 
@@ -1785,6 +1854,12 @@ However they have extended confort zones: low risk for them might mean high risk
 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
+<!-- mainstream taste 
+
+most people with good taste are young and poor.
+
+-->
+
 > *'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso*
 
 > *'Art is just another form of screaming.'*
@@ -1808,7 +1883,6 @@ Intelligence is the most sensitive trigger point for envy.
 
 <!-- No one is smarter than a small group.
 intelligence doesn't always correspond to virtue. -->
-
 
 
 
