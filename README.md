@@ -42,6 +42,7 @@ Exceptions to most rules also..
 - [On networking](#on-networking)
 - [On listening and speaking](#on-listening-and-speaking)
 - [On relationships](#on-relationships)
+- [On lovers](#on-lovers)
 - [On family](#on-family)
 - [On peers](#on-peers)
 - [On higher ranks](#on-higher-ranks)
@@ -74,8 +75,7 @@ Exceptions to most rules also..
 - [On timing](#on-timing)
 - [On pace](#on-pace)
 - [On priorities](#on-priorities)
-- [On attacking](#on-attacking)
-- [On defending](#on-defending)
+- [On attacking and defending](#on-attacking-and-defending)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
 - [On balance](#on-balance)
@@ -124,7 +124,7 @@ Exceptions to most rules also..
 
 3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
 3 general advices:<br>
-*'the root of all of our problems is our inability to let go.'*<br>
+*'the root of our problems is our inability to let go.' -- Leo Babauta*<br>
 *'avoiding conflict will not keep peace, will rot it.'*<br>
 *'the dose makes the poison'*<br>
 One practical advice: *'have more than one child.'*<br>
@@ -145,9 +145,9 @@ One last advice (specially for shy people): *'aim at relying on your network and
 
 Love the life you have, while you create the life of your dreams.
 
-> *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
-
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+> *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
@@ -159,7 +159,7 @@ Love the life you have, while you create the life of your dreams.
 
 <!-- mix with luck? -->
 
-<a id="on-happiness">Break/mix some long term goals into shorter term ones so you can enjoy the journey.<br>
+<a id="on-happiness"></a>Break or mix some long term goals with shorter term ones so you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
@@ -216,7 +216,7 @@ Aim at being your best self. You need to come alive.
 ===
 ###On freedom
 
-Aim at being independent. 
+Aim at being independent.
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
@@ -226,7 +226,7 @@ Aim at being independent.
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
-Do not truly commit to anything but *yourself*
+Do not truly commit to anything but *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
@@ -243,11 +243,9 @@ Do not truly commit to anything but *yourself*
 ===
 ###On ambition and motivation
 
-Be ambitious. Not thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
+Succeeding at mediocrity isn't a worthwhile life.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
-
-> *'Succeeding at mediocrity isn't a worthwhile life.'*
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
@@ -258,6 +256,8 @@ Be ambitious. Not thirsty: the [journey](#on-happiness) will not be enjoyable an
 > *'Work hard in silence. Let your silence be your noise.'*
 
 > *'The world is full of consumers. Be a producer.'*
+
+CHALLENGE: Don't be thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
 
 
@@ -294,7 +294,7 @@ CHALLENGE: [doubt](#on-confidence-and-validation), not failure, is the biggest b
 ###On comfort and risk
 
 You need to break rules to achieve anything great.<br>
-Breaking rules [frightens](#on-fear) people but comfort is the enemy of achievement.
+Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement.
 
 > *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.'*
 
@@ -538,10 +538,11 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
 
+
 ===
 ###On confidence
 
-If you say it with confidence, you are what you say you are.
+If you say it with confidence, you are who you say you are.
 
 > *'You're only as good as your next speech.'*
 
@@ -729,7 +730,7 @@ CHALLENGE: run away from mediocrity. Be ready to loose people.
 
 > *'Every person feels loved in a different form.'*
 
-> *'On a serious conversation with a SO, talk about three things:<br>
+> *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
@@ -1033,7 +1034,7 @@ You will languish if you stop for a long time.
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-CHALLENGE: you should have a [plan](#on-planning).
+CHALLENGE: you should have some [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
@@ -1108,24 +1109,19 @@ CHALLENGE:
 
 
 ===
-###On attacking
+###On attacking and defending
 
 > *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
 
 > *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
 
-> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
-
-
-
-===
-###On defending
-
-> *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
+<!-- > *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'* -->
 
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
-CHALLENGE:
+CHALLENGE: beware of counter-attacking.
+
+> *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
 
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
@@ -1282,12 +1278,11 @@ CHALLENGE: deceiving is not lying.
 ===
 ###On mirroring
 
-Mirroring works best when you're a minority.
+Mirroring works best when your group is in minority.
 
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
-> *'To change a minority status quo, the majority must unite. To do that you make it a non violent  and using humor to keep the risk as low as possible that everybody can join and change the existent status quo'
-and organized.'*
+> *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.'*
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
@@ -1432,7 +1427,7 @@ It's not just about winning. The way you win sets you up for the next round.
 ===
 ###On surrendering
 
-Use the opportunity to re-create yourself.<br>
+Use this opportunity to re-create yourself.<br>
 It only hurts when you don't have time to prepare for the fall.
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
@@ -1809,7 +1804,7 @@ To make money is to add value.
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
 Successful *entrepreneurs* are good managing risk.<br>
-However they have extended confort zones: low risk for them might mean high risk for you.
+However they have extended comfort zones: low risk for them might mean high risk for you.
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
