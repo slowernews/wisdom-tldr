@@ -12,7 +12,6 @@ Exceptions to most rules also..
 - [On freedom](#on-freedom)
 - [On ambition and motivation](#on-ambition-and-motivation)
 
-
 *On growth*
 - [On success](#on-success)
 - [On comfort and risk](#on-comfort-and-risk)
@@ -23,7 +22,6 @@ Exceptions to most rules also..
 - [On learning by theory](#on-learning-by-theory)
 - [On mastery](#on-mastery)
 - [On being a mentor](#on-being-a-mentor)
-
 
 *On your enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
@@ -46,10 +44,7 @@ Exceptions to most rules also..
 - [On family](#on-family)
 - [On peers](#on-peers)
 - [On higher ranks](#on-higher-ranks)
-- [On outliers](#on-outliers)
-- [On criticism and envy](#on-criticism-and-envy)
 - [On herd mentality](#on-herd-mentality)
-
 
 *On management*
 - [On leadership](#on-leadership)
@@ -57,10 +52,22 @@ Exceptions to most rules also..
 - [On delegation](#on-delegation)
 - [On hiring](#on-hiring)
 - [On being hired](#on-being-hired)
+
+*On exchange*
+- [On business](#on-business)
 - [On negotiation](#on-negotiation)
+- [On price](#on-price)
+
+*On envy*
+- [On outliers](#on-outliers)
+- [On criticism and envy](#on-criticism-and-envy)
+- [On luck](#on-luck)
+- [On wealth](#on-wealth)
+- [On intelligence](#on-intelligence)
+- [On beauty](#on-beauty)
 
 
-### Part 3 - Strategy
+### Part 3 - Battle
 
 
 *On planning*
@@ -70,7 +77,6 @@ Exceptions to most rules also..
 - [On creativity and ideas](#on-creativity-and-ideas)
 - [On neutrality and isolation](#on-neutrality-and-isolation)
 
-
 *On executing*
 - [On timing](#on-timing)
 - [On pace](#on-pace)
@@ -79,7 +85,6 @@ Exceptions to most rules also..
 - [On control](#on-control)
 - [On adapting](#on-adapting)
 - [On balance](#on-balance)
-
 
 *On getting advantage*
 - [On creating imbalances](#on-creating-imbalances)
@@ -91,14 +96,13 @@ Exceptions to most rules also..
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
 
-
 *On ending*
 - [On finishing](#on-finishing)
 - [On winning](#on-winning)
 - [On surrendering](#on-surrendering)
 
 
-### Part 4 - Assorted
+### Bonus - World
 
 
 *On time*
@@ -106,18 +110,12 @@ Exceptions to most rules also..
 - [On present](#on-present)
 - [On future](#on-future)
 
-
 *Others*
-- [On luck](#on-luck)
-- [On wealth](#on-wealth)
-- [On price](#on-price)
 - [On investment](#on-investment)
-- [On business](#on-starting-a-business)
 - [On economics and politics](#on-economics-and-politics)
 - [On science and religion](#on-science-and-religion)
 - [On art and aesthetics](#on-art-and-aesthetics)
-- [On intelligence](#on-intelligence)
-- [On beauty](#on-beauty)
+
 
 
 #### TL;DR 
@@ -257,7 +255,7 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'The world is full of consumers. Be a producer.'*
 
-CHALLENGE: Don't be thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
+CHALLENGE: don't be thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
 
 
@@ -317,11 +315,16 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 ===
 ###On habits
 
-Consistency is key. Habits allow [mastery](#on-mastery) and [success](#on-success).
+Consistency is key. Consistency doesn’t come from effort, it comes from systems.
+Habits allow [mastery](#on-mastery) and [success](#on-success).
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
+
+Keep [healthy](#) systems: [meditate](#), [spend time outside](#), travel
+
+> *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker'*
 
 
 
@@ -436,7 +439,7 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
-CHALLENGE: some people are not ready to have a mentor. Accept it.
+CHALLENGE: some people are not ready to have a mentor and accept your vision. Accept it.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -643,6 +646,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 ###On networking
 
 Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.<br>
+The people you know and whether they like you will determine what opportunities you get.<br>
 A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
@@ -775,6 +779,280 @@ Keep your friends for friendship but work with the skilled and competent.
 
 CHALLENGE: don't vow to the gatekeepers.
 
+<!-- Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. There is infinite opportunity right in front of you. You do not need them. You are choosing to do business with them as they are choosing to do business with you, making you both equals. -->
+
+
+
+===
+###On herd mentality
+
+Most people are other people. Their thoughts are someone else opinions.
+
+> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+
+> *'People accept the defaults very easily.'*
+
+> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
+
+CHALLENGE: common sense is not so common.
+
+> *'Taking a fence down without knowing why is there.'*
+
+
+
+===
+	  __                                                             
+	 /  |                                                        /   
+	(   | ___       _ _  ___  ___  ___  ___  ___  _ _  ___  ___ (___ 
+	|   )|   )     | | )|   )|   )|   )|   )|___)| | )|___)|   )|    
+	|__/ |  /      |  / |__/||  / |__/||__/ |__  |  / |__  |  / |__  
+	                                   __/                           
+
+
+
+###On leadership
+
+Being a leader is different from being a boss. Leadership is based on [trust](#on-trust-and-integrity).
+
+> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+
+> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
+
+> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+
+> *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
+
+> *'People don't follow robots.'*
+
+> *'There are no bad teams, only bad leaders.'*
+
+People want leadership because they want autonomy and influence.
+
+> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
+
+> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+
+CHALLENGE:
+
+> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
+
+<!-- mix com persuasion -->
+
+
+
+===
+###On communication
+
+Management is about communication.<br>
+Being a leader requires to be equal parts manager and psychotherapist.
+
+> *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
+
+> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+
+> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
+
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+
+Don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
+If feedback is needed, give a reason.
+
+> *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
+
+> *'«Because» is a great motivator.'*
+
+And ask instead of telling.
+
+> *'«Why did you decide to do X in that order?». This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
+
+> *'Make pertinent questions as: <br>
+«Is that the best you can do?» <br>
+«Interesting, how do you feel about it?» <br>
+«What does your team think?»'*
+
+In any case, [humility](#on-identity) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
+
+
+
+===
+###On delegation
+
+Managing is delegating. Your speed as a manager is the speed of the team.<br>
+
+> *'A manager should make himself 2 questions a day: <br>
+«What is important to accomplish?» (where are you going) <br>
+«Where was I uncomfortable the day before?» (what went right and where do you need support) <br>
+The speed that you offload your stuff will be the speed of your team.'*
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
+
+Productivity is different from workflow engineering.
+
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
+<!-- And use deep work
+
+> *'Too busy pretending I'm occupied.'* -->
+
+
+
+===
+###On hiring
+
+Hire anyone but only retain the best.
+
+> *'He who works with his hands is a laborer.<br>
+He who works with his hands and his head is a craftsman.<br>
+He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
+
+> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
+
+> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
+
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+CHALLENGE:
+
+> *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
+
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
+
+
+
+===
+###On being hired
+
+Employers hire you because you are a likable person that «get shit done».
+
+> *'When applying for a job be more of a consultant than an applicant.'*
+
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+
+> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
+
+CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
+
+> *'I work for money, if you want loyalty hire a dog.'*
+
+> *'If your job doesn't require originality, next decade you might not have one.'*
+
+> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
+
+> *'The interesting jobs are the ones that you make up.' -- Chris Young*
+
+
+
+===
+	  __                                                   
+	 /  |                          /                       
+	(   | ___       ___       ___ (___  ___  ___  ___  ___ 
+	|   )|   )     |___)(_/_ |    |   )|   )|   )|   )|___)
+	|__/ |  /      |__   / / |__  |  / |__/||  / |__/ |__  
+	                                             __/       
+
+
+
+===
+###On negotiation
+
+To negotiate is to have options. <br>
+Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
+
+> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
+
+> *'When people feel they have a choice, they walk into your trap that much more easily.'*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+Never negotiate with binary questions: 
+
+> *'«What can you do?» instead of «Will you do this?»'*
+
+Best way to say no:
+
+> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
+
+Tone of voice is a big clue to know with whom we are negotiating:
+
+> *'The analytical cold guy is very patient; <br>
+The assertive guy (eg. Trump) wants to make it fast; <br>
+For the accomodator, the relationship is the most important'*
+
+<!-- > *'Unexpressed feelings never die.'*
+> *'Releasing pressure is different from venting.'*
+> *'The more influence somebody is the more they use we / plural pronouns.'*
+> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
+> *'Listening for things that you didn't see. for incongruence.'*
+> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
+naming the negatives first.'* -->
+
+> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
+
+> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
+
+<!-- > *'Instead of generalizing, stick with the facts.'* -->
+
+CHALLENGE: always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
+
+> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
+
+> *'You can’t make a good deal with a bad person.'*
+
+
+
+===
+###On business
+
+To make money is to add value.
+
+> *'What you need to start a new business: generosity.' -- Derek Sivers*
+
+> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+> *'The consumer votes with their wallet.'*
+
+<!-- validate your business finding clients -->
+
+> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
+
+> *'Scratch your own itch.'*
+
+> *'Money is energy.'*
+
+> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
+
+Successful *entrepreneurs* are good managing risk.<br>
+However they have extended comfort zones: low risk for them might mean high risk for you.
+
+> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
+
+> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
+
+
+
+===
+###On price
+
+[Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
+That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it.
+
+
+
+===   
+	  __                               
+	 /  |                              
+	(   | ___       ___  ___           
+	|   )|   )     |___)|   ) \  )\   )
+	|__/ |  /      |__  |  /   \/  \_/ 
+	                                /  
+
 
 
 ===
@@ -823,23 +1101,69 @@ CHALLENGE: most criticism is envy but beware of blindspots.
 
 
 
+###On luck
+
+When you’re not winning, life will seem hideously unfair to you.<br>
+But luck is a pattern, the pendulum will swing back your way eventually.
+
+> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
+
+> *'Even a broken clock is right twice a day.'*
+
+> *'There’s no magic in the world. It’s all math.' -- discrete math professor*
+
+> *'The eternal mystery of the world is its comprehensibility.'*
+
+> *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
+
+> *'God is subtle but he is not malicious.'*
+
+> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
+
+
+
 ===
-###On herd mentality
+###On wealth
 
-Most people are other people. Their thoughts are someone else opinions.
+Being rich is not counting money all day but being fulfilled.
 
-> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+> *'Shift your focus from achievement to fulfillment:<br>
+What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
 
-> *'People accept the defaults very easily.'*
+> *'Some people are so poor, all they have is money.'*
 
-> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
+> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
-CHALLENGE: common sense is not so common.
-
-> *'Taking a fence down without knowing why is there.'*
-
+> *'You can spend your time making money but you cant spend your money making time.'*
 
 
+
+===
+###On intelligence
+
+Intelligence is the most sensitive trigger point for envy.
+
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
+
+> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
+
+> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
+
+<!-- No one is smarter than a small group.
+intelligence doesn't always correspond to virtue. -->
+
+
+
+===
+###On beauty
+
+> *'Beauty is not a gift, it is a burden.'*
+
+> *'Once I was beautiful, now I'm myself.'*
+                                   
+                                   
+                                   
+                                   
 ===
 	  __                                             
 	 /  |                /                /          
@@ -913,6 +1237,10 @@ too familiar - too unfamiliar. we like what is in the middle! similar enough and
 <!-- Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
 Always assume that you’re wrong from a purely philosophical point of view. We arealways wrong about whatever we believe. Knowledge is always moving forward, and if you think about things you used to believe 10 years ago or five years ago, it embarrasses you now. And the things that you hold dear and hold to be true today are likely going to embarrass you in 10 or 20 years from now.  -->
+
+Decision fatigue
+
+Work to reduce decision making for small tasks to reduce decision fatigue. Make decisions quickly.
 
 
 
@@ -1282,7 +1610,7 @@ Mirroring works best when your group is in minority.
 
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
-> *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.'*
+> *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
@@ -1428,210 +1756,13 @@ It's not just about winning. The way you win sets you up for the next round.
 ###On surrendering
 
 Use this opportunity to re-create yourself.<br>
-It only hurts when you don't have time to prepare for the fall.
+It only hurts when you don't have time to prepare for the fall (Tony Hawk).
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
 > *'Use the surrender tactic: transform weakness into power.' -- Robert Greene (22nd law of power)*
 
 > *'Re-create yourself.' -- Robert Greene (25th law of power)*
-
-
-
-===
-	  __                                                             
-	 /  |                                                        /   
-	(   | ___       _ _  ___  ___  ___  ___  ___  _ _  ___  ___ (___ 
-	|   )|   )     | | )|   )|   )|   )|   )|___)| | )|___)|   )|    
-	|__/ |  /      |  / |__/||  / |__/||__/ |__  |  / |__  |  / |__  
-	                                   __/                           
-
-
-
-###On leadership
-
-Being a leader is different from being a boss. Leadership is based on [trust](#on-trust-and-integrity).
-
-> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
-
-> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
-
-> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
-
-> *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
-
-> *'People don't follow robots.'*
-
-> *'There are no bad teams, only bad leaders.'*
-
-People want leadership because they want autonomy and influence.
-
-> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
-
-> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
-
-CHALLENGE:
-
-> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
-
-<!-- mix com persuasion -->
-
-
-
-===
-###On communication
-
-Management is about communication.<br>
-Being a leader requires to be equal parts manager and psychotherapist.
-
-> *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
-
-> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
-
-> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
-
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
-
-Don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
-If feedback is needed, give a reason.
-
-> *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
-
-> *'«Because» is a great motivator.'*
-
-And ask instead of telling.
-
-> *'«Why did you decide to do X in that order?». This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
-
-> *'Make pertinent questions as: <br>
-«Is that the best you can do?» <br>
-«Interesting, how do you feel about it?» <br>
-«What does your team think?»'*
-
-In any case, [humility](#on-identity) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
-
-
-
-===
-###On delegation
-
-Managing is delegating. Your speed as a manager is the speed of the team.<br>
-
-> *'A manager should make himself 2 questions a day: <br>
-«What is important to accomplish?» (where are you going) <br>
-«Where was I uncomfortable the day before?» (what went right and where do you need support) <br>
-The speed that you offload your stuff will be the speed of your team.'*
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
-
-> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
-
-Productivity is different from workflow engineering.
-
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
-
-> *'Start as close to the end as possible.' -- Kurt Vonnegu*
-
-<!-- And use deep work
-
-> *'Too busy pretending I'm occupied.'* -->
-
-
-
-===
-###On hiring
-
-Hire anyone but only retain the best.
-
-> *'He who works with his hands is a laborer.<br>
-He who works with his hands and his head is a craftsman.<br>
-He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
-> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
-
-> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
-
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
-
-CHALLENGE:
-
-> *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
-
-> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
-
-
-
-===
-###On being hired
-
-Employers hire you because you are a likable person that «get shit done».
-
-> *'When applying for a job be more of a consultant than an applicant.'*
-
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
-
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
-
-CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
-
-> *'I work for money, if you want loyalty hire a dog.'*
-
-> *'If your job doesn't require originality, next decade you might not have one.'*
-
-> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
-
-> *'The interesting jobs are the ones that you make up.' -- Chris Young*
-
-
-
-===
-###On negotiation
-
-To negotiate is to have options. <br>
-Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
-
-> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
-
-> *'When people feel they have a choice, they walk into your trap that much more easily.'*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
-
-Never negotiate with binary questions: 
-
-> *'«What can you do?» instead of «Will you do this?»'*
-
-Best way to say no:
-
-> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
-
-Tone of voice is a big clue to know with whom we are negotiating:
-
-> *'The analytical cold guy is very patient; <br>
-The assertive guy (eg. Trump) wants to make it fast; <br>
-For the accomodator, the relationship is the most important'*
-
-<!-- > *'Unexpressed feelings never die.'*
-> *'Releasing pressure is different from venting.'*
-> *'The more influence somebody is the more they use we / plural pronouns.'*
-> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
-> *'Listening for things that you didn't see. for incongruence.'*
-> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
-naming the negatives first.'* -->
-
-> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
-
-> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
-
-<!-- > *'Instead of generalizing, stick with the facts.'* -->
-
-CHALLENGE: always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
-
-> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
-
-> *'You can’t make a good deal with a bad person.'*
 
 
 
@@ -1718,51 +1849,6 @@ Dream big.
 
 
 
-###On luck
-
-When you’re not winning, life will seem hideously unfair to you.<br>
-But luck is a pattern, the pendulum will swing back your way eventually.
-
-> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
-
-> *'Even a broken clock is right twice a day.'*
-
-> *'There’s no magic in the world. It’s all math.' -- discrete math professor*
-
-> *'The eternal mystery of the world is its comprehensibility.'*
-
-> *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
-
-> *'God is subtle but he is not malicious.'*
-
-> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
-
-
-
-===
-###On wealth
-
-Being rich is not counting money all day but being fulfilled.
-
-> *'Shift your focus from achievement to fulfillment:<br>
-What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
-
-> *'Some people are so poor, all they have is money.'*
-
-> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
-
-> *'You can spend your time making money but you cant spend your money making time.'*
-
-
-
-===                             
-###On price
-
-[Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
-That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it.
-
-
-
 ===
 ###On investment
 
@@ -1776,39 +1862,11 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'The best companies aren't sold, they're bought.'*
 
-> *'Stock buybacks are effectively same as dividends.'*
+<!-- > *'Stock buybacks are effectively same as dividends.'* -->
 
 > *'Wherever oil goes, the stock market goes.'*
 
 > *'Financial health is just as important as physical health.'*
-
-
-
-===
-###On business
-
-To make money is to add value.
-
-> *'What you need to start a new business: generosity.' -- Derek Sivers*
-
-> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
-
-> *'The consumer votes with their wallet.'*
-
-> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
-
-> *'Scratch your own itch.'*
-
-> *'Money is energy.'*
-
-> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
-
-Successful *entrepreneurs* are good managing risk.<br>
-However they have extended comfort zones: low risk for them might mean high risk for you.
-
-> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
-
-> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
 
 
 
@@ -1862,31 +1920,6 @@ most people with good taste are young and poor.
 > *'Artistic death is made by consensus.'*
 
 > *'Life is Capitalism but art is Socialism.'*
-
-
-
-===
-###On intelligence
-
-Intelligence is the most sensitive trigger point for envy.
-
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
-
-> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
-
-> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
-
-<!-- No one is smarter than a small group.
-intelligence doesn't always correspond to virtue. -->
-
-
-
-===
-###On beauty
-
-> *'Beauty is not a gift, it is a burden.'*
-
-> *'Once I was beautiful, now I'm myself.'*
 
 
 
