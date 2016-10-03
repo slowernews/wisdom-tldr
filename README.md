@@ -61,9 +61,9 @@ Exceptions to most rules also..
 *On envy*
 - [On outliers](#on-outliers)
 - [On criticism and envy](#on-criticism-and-envy)
-- [On luck](#on-luck)
-- [On wealth](#on-wealth)
 - [On intelligence](#on-intelligence)
+- [On wealth](#on-wealth)
+- [On luck](#on-luck)
 - [On beauty](#on-beauty)
 
 
@@ -959,10 +959,39 @@ CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap
 
 
 
+###On business
+
+To make money is to add value.
+
+> *'What you need to start a new business: generosity.' -- Derek Sivers*
+
+> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+> *'The consumer votes with their wallet.'*
+
+<!-- validate your business finding clients -->
+
+> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
+
+> *'Scratch your own itch.'*
+
+> *'Money is energy.'*
+
+> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
+
+Successful *entrepreneurs* are good managing risk.<br>
+However they have extended comfort zones: low risk for them might mean high risk for you.
+
+> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
+
+> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
+
+
+
 ===
 ###On negotiation
 
-To negotiate is to have options. <br>
+To negotiate is to have options.<br>
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
@@ -1008,36 +1037,6 @@ CHALLENGE: always strive to achieve a win-win situation. The deal will fall if b
 
 
 ===
-###On business
-
-To make money is to add value.
-
-> *'What you need to start a new business: generosity.' -- Derek Sivers*
-
-> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
-
-> *'The consumer votes with their wallet.'*
-
-<!-- validate your business finding clients -->
-
-> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
-
-> *'Scratch your own itch.'*
-
-> *'Money is energy.'*
-
-> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
-
-Successful *entrepreneurs* are good managing risk.<br>
-However they have extended comfort zones: low risk for them might mean high risk for you.
-
-> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
-
-> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
-
-
-
-===
 ###On price
 
 [Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
@@ -1055,7 +1054,6 @@ That said, a bad/good negotiation means that you are adding more/less value to t
 
 
 
-===
 ###On outliers
 
 Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
@@ -1101,6 +1099,38 @@ CHALLENGE: most criticism is envy but beware of blindspots.
 
 
 
+===
+###On intelligence
+
+Intelligence is the most sensitive trigger point for envy.
+
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
+
+> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
+
+> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
+
+<!-- No one is smarter than a small group.
+intelligence doesn't always correspond to virtue. -->
+
+
+
+===
+###On wealth
+
+Being rich is not counting money all day but being fulfilled.
+
+> *'Shift your focus from achievement to fulfillment:<br>
+What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
+
+> *'Some people are so poor, all they have is money.'*
+
+> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
+
+> *'You can spend your time making money but you cant spend your money making time.'*
+
+
+
 ###On luck
 
 When you’re not winning, life will seem hideously unfair to you.<br>
@@ -1123,47 +1153,14 @@ But luck is a pattern, the pendulum will swing back your way eventually.
 
 
 ===
-###On wealth
-
-Being rich is not counting money all day but being fulfilled.
-
-> *'Shift your focus from achievement to fulfillment:<br>
-What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
-
-> *'Some people are so poor, all they have is money.'*
-
-> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
-
-> *'You can spend your time making money but you cant spend your money making time.'*
-
-
-
-===
-###On intelligence
-
-Intelligence is the most sensitive trigger point for envy.
-
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
-
-> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
-
-> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
-
-<!-- No one is smarter than a small group.
-intelligence doesn't always correspond to virtue. -->
-
-
-
-===
 ###On beauty
 
 > *'Beauty is not a gift, it is a burden.'*
 
 > *'Once I was beautiful, now I'm myself.'*
-                                   
-                                   
-                                   
-                                   
+
+
+
 ===
 	  __                                             
 	 /  |                /                /          
@@ -1542,12 +1539,12 @@ It is about making progress in all areas of your life and ensuring that you impr
 
 
 ===
-	  __                                                                                                  
-	 /  |                     /    /    /                        |                /                       
-	(   | ___       ___  ___ (___ (___    ___  ___       ___  ___|      ___  ___ (___  ___  ___  ___  ___ 
-	|   )|   )     |   )|___)|    |    | |   )|   )     |   )|   ) \  )|   )|   )|    |   )|   )|___)|___ 
-	|__/ |  /      |__/ |__  |__  |__  | |  / |__/      |__/||__/   \/ |__/||  / |__  |__/||__/ |__   __/ 
-	               __/                        __/                                          __/            
+	  __                                                                                             
+	 /  |                     /    /    /                        |                /                  
+	(   | ___       ___  ___ (___ (___    ___  ___       ___  ___|      ___  ___ (___  ___  ___  ___ 
+	|   )|   )     |   )|___)|    |    | |   )|   )     |   )|   ) \  )|   )|   )|    |   )|   )|___)
+	|__/ |  /      |__/ |__  |__  |__  | |  / |__/      |__/||__/   \/ |__/||  / |__  |__/||__/ |__  
+	               __/                        __/                                          __/       
 
 
 
@@ -1849,7 +1846,6 @@ Dream big.
 
 
 
-===
 ###On investment
 
 Spend less, a lot less, than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
