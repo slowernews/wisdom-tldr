@@ -11,6 +11,7 @@ Exceptions to most rules also..
 - [On identity](#on-identity)
 - [On freedom](#on-freedom)
 - [On ambition and motivation](#on-ambition-and-motivation)
+- [On attention](#on-attention)
 
 *On growth*
 - [On success](#on-success)
@@ -67,7 +68,7 @@ Exceptions to most rules also..
 - [On beauty](#on-beauty)
 
 
-### Part 3 - Battle
+### Part 3 - Action
 
 
 *On planning*
@@ -153,7 +154,7 @@ Love the life you have, while you create the life of your dreams.
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
 
-> *'You can’t be grateful and angry simultaneously.' – Tony Robbins*
+> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
 <!-- mix with luck? -->
 
@@ -253,10 +254,16 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'Work hard in silence. Let your silence be your noise.'*
 
-> *'The world is full of consumers. Be a producer.'*
+> *'How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.' -- Allen Tucker*
 
 CHALLENGE: don't be thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
+
+
+===
+###On attention
+
+Attention is your more precious resource.
 
 
 ===
@@ -322,9 +329,13 @@ Habits allow [mastery](#on-mastery) and [success](#on-success).
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
-Keep [healthy](#) systems: [meditate](#), [spend time outside](#), travel
+Keep [healthy](#) systems: [meditate](#), [spend time outside](#), travel.
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker'*
+
+Avoid unhealthy systems: social media
+
+> *'Use social media as an output not as entertainment.' -- Allen Tucker'*
 
 
 
@@ -663,6 +674,8 @@ Social inadequacy AKA creepiness is based on unpredictability.
 
 prepare an elevator pitch-->
 
+The purpose of high education is first and foremost to meet people and build relationships.
+
 
 
 ===
@@ -986,6 +999,7 @@ However they have extended comfort zones: low risk for them might mean high risk
 
 > *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
 
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 
 ===
@@ -1701,6 +1715,8 @@ Desperate targets will risk anything in a fight. This gives them a huge advantag
 > *'Beware the fury of a patient man.' -- John Dryden*
 
 > *'Use anger only as a tool, when you need it to improve your situation.'*
+
+> *'Beware of sad people.'*
 
 <!-- > *'Our fearlessness shall be our secret weapon.' -- John Green* -->
 
