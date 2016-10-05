@@ -824,7 +824,7 @@ CHALLENGE: don't vow to the gatekeepers.
 
 ###On outliers
 
-Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
+Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
 
 > *'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
@@ -1543,12 +1543,12 @@ It is about making progress in all areas of your life and ensuring that you impr
 
 
 ===
-	  __                                                                                             
-	 /  |                     /    /    /                        |                /                  
-	(   | ___       ___  ___ (___ (___    ___  ___       ___  ___|      ___  ___ (___  ___  ___  ___ 
-	|   )|   )     |   )|___)|    |    | |   )|   )     |   )|   ) \  )|   )|   )|    |   )|   )|___)
-	|__/ |  /      |__/ |__  |__  |__  | |  / |__/      |__/||__/   \/ |__/||  / |__  |__/||__/ |__  
-	               __/                        __/                                          __/       
+	  __                                                     
+	 /  |                                    /    /          
+	(   | ___       ___  ___  _ _  ___  ___ (___    ___  ___ 
+	|   )|   )     |    |   )| | )|   )|___)|    | |   )|   )
+	|__/ |  /      |__  |__/ |  / |__/ |__  |__  | |  / |__/ 
+	                              |                     __/  
 
 
 
