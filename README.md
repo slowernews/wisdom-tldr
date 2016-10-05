@@ -11,7 +11,6 @@ Exceptions to most rules also..
 - [On identity](#on-identity)
 - [On freedom](#on-freedom)
 - [On ambition and motivation](#on-ambition-and-motivation)
-- [On attention](#on-attention)
 
 *On growth*
 - [On success](#on-success)
@@ -24,7 +23,7 @@ Exceptions to most rules also..
 - [On mastery](#on-mastery)
 - [On being a mentor](#on-being-a-mentor)
 
-*On your enemy: yourself*
+*On your hardest enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
@@ -45,9 +44,13 @@ Exceptions to most rules also..
 - [On family](#on-family)
 - [On peers](#on-peers)
 - [On higher ranks](#on-higher-ranks)
+
+*On being social: bad parts*
+- [On outliers](#on-outliers)
+- [On criticism and envy](#on-criticism-and-envy)
 - [On herd mentality](#on-herd-mentality)
 
-*On management*
+*On teams*
 - [On leadership](#on-leadership)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
@@ -58,14 +61,6 @@ Exceptions to most rules also..
 - [On business](#on-business)
 - [On negotiation](#on-negotiation)
 - [On price](#on-price)
-
-*On envy*
-- [On outliers](#on-outliers)
-- [On criticism and envy](#on-criticism-and-envy)
-- [On intelligence](#on-intelligence)
-- [On wealth](#on-wealth)
-- [On luck](#on-luck)
-- [On beauty](#on-beauty)
 
 
 ### Part 3 - Action
@@ -81,13 +76,13 @@ Exceptions to most rules also..
 *On executing*
 - [On timing](#on-timing)
 - [On pace](#on-pace)
-- [On priorities](#on-priorities)
+- [On focus](#on-focus)
 - [On attacking and defending](#on-attacking-and-defending)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
 - [On balance](#on-balance)
 
-*On getting advantage*
+*On competing*
 - [On creating imbalances](#on-creating-imbalances)
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
@@ -103,13 +98,21 @@ Exceptions to most rules also..
 - [On surrendering](#on-surrendering)
 
 
-### Bonus - World
+### Bonus
 
 
 *On time*
+- [On time and attention](#on-time-and-attention)
 - [On past and memory](#on-past-and-memory)
 - [On present](#on-present)
 - [On future](#on-future)
+
+*On envy triggers*
+- [On intelligence](#on-intelligence)
+- [On wealth](#on-wealth)
+- [On fame](#on-fame)
+- [On luck](#on-luck)
+- [On beauty](#on-beauty)
 
 *Others*
 - [On investment](#on-investment)
@@ -261,12 +264,6 @@ CHALLENGE: don't be thirsty: the [journey](#on-happiness) will not be enjoyable 
 
 
 ===
-###On attention
-
-Attention is your more precious resource.
-
-
-===
 	  __                                         
 	 /  |                               /    /   
 	(   | ___       ___  ___  ___      (___ (___ 
@@ -329,13 +326,18 @@ Habits allow [mastery](#on-mastery) and [success](#on-success).
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
-Keep [healthy](#) systems: [meditate](#), [spend time outside](#), travel.
+> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times. You must do things over and over, usually the hard way.' -- Allen Tucker*
+
+Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.<br>
+Avoid low value systems: social media, news, owning a TV, working long hours, decisions on petty stuff.
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker'*
 
-Avoid unhealthy systems: social media
+> *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
+Spend the last hour of the day (or all day) without electronic devices.' -- Allen Tucker'*
 
-> *'Use social media as an output not as entertainment.' -- Allen Tucker'*
+> *'Don’t concern yourself with the news. It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
+
 
 
 
@@ -351,6 +353,8 @@ You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
 The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
+
+Just in time learning. You can learn faster if you have something your working on rather than some future idea that may not happen. Improves retention, wastes less time.
 
 <!-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 there are consequences for acting and don't acting -->
@@ -398,7 +402,7 @@ You learn by analysis of past situations.
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
-Take moments to be reflective. It will help you letting go [past failures](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
+<a id="on-meditation"></a>Take moments to be reflective. It will help you letting go [past failures](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -421,6 +425,8 @@ You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theo
 > *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
 
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
+
+<!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
 
 CHALLENGE: mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
@@ -459,12 +465,12 @@ CHALLENGE: some people are not ready to have a mentor and accept your vision. Ac
 
 
 ===
-	  __                                                                                                   __ 
-	 /  |                                                                                               / /   
-	(   | ___           ___       ___      ___  ___  ___  _ _       _           __       ___  ___  ___ ( (    
-	|   )|   )    \   )|   )|   )|   )    |___)|   )|___)| | )\   )      \   )|   )|   )|   )|___ |___)| |___
-	|__/ |  /      \_/ |__/ |__/ |        |__  |  / |__  |  /  \_/  -     \_/ |__/ |__/ |     __/ |__  | |    
-	                /                                           /          /                                  
+	  __                                                                                                                                                __ 
+	 /  |                                    /                 |           /                                                                         / /   
+	(   | ___            ___       ___      (___  ___  ___  ___| ___  ___ (___       ___  ___  ___  _ _       _             ___       ___  ___  ___ ( (    
+	|   )|   )     \   )|   )|   )|   )     |   )|   )|   )|   )|___)|___ |         |___)|   )|___)| | )\   )         \   )|   )|   )|   )|___ |___)| |___ 
+	|__/ |  /       \_/ |__/ |__/ |         |  / |__/||    |__/ |__   __/ |__       |__  |  / |__  |  /  \_/  -        \_/ |__/ |__/ |     __/ |__  | |    
+	                 /                                                                                    /             /                                  
 
 
 
@@ -640,7 +646,12 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'I've decided to be happy because it is good to my health.'*
 
-<!-- > *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'* -->
+<!-- 
+You can’t perform under pain, stress, etc. without adequate capacity. That capacity is physical.
+
+You mind is a made of physical things. Neurons, chemicals, electricity. Your physical state, capacity for physical stress, sleep, diet, experiences, determine the bulk of your mental state. Do not rely upon cognition to make change. Behavior and the physical world are your key to changing affect and cognition. Your mental performance IS physical performance.
+
+> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'* -->
 
 
 
@@ -674,7 +685,7 @@ Social inadequacy AKA creepiness is based on unpredictability.
 
 prepare an elevator pitch-->
 
-The purpose of high education is first and foremost to meet people and build relationships.
+> *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
 
 
@@ -751,6 +762,10 @@ CHALLENGE: run away from mediocrity. Be ready to loose people.
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
+<!-- CHALLENGE: keep separate bank accounts.
+
+> *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* -->
+
 
 
 ===
@@ -763,21 +778,22 @@ Next talk about how the observation has made you feel. Finally, discuss your val
 ===
 ###On peers
 
-> *'Your friends are the ones that go to your funeral, in a day of rain.'*
-
+You will waste your life trying to make those around into who you want them to be. Instead change who you are around.<br>
 You are the average of the people you surround yourself.
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
 Keep your friends for friendship but work with the skilled and competent.
 
-> *'If you're the smartest in the room, you're in the wrong room.'*
+<!-- > *'If you're the smartest in the room, you're in the wrong room.'*
 
-> *'Nobody wants to be the best player in the band.'*
+> *'Nobody wants to be the best player in the band.'* -->
 
 > *'Work friends are just that, work friends. Nothing more.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
+
+> *'Your friends are the ones that go to your funeral, in a day of rain.'*
 
 
 
@@ -794,6 +810,60 @@ CHALLENGE: don't vow to the gatekeepers.
 
 <!-- Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. There is infinite opportunity right in front of you. You do not need them. You are choosing to do business with them as they are choosing to do business with you, making you both equals. -->
 
+
+
+===   
+	  __                                                                                                                    
+	 /  |           /         /                               /      /          /            |                     /        
+	(   | ___      (___  ___    ___  ___       ___  ___  ___    ___ (  _       (___  ___  ___|      ___  ___  ___ (___  ___ 
+	|   )|   )     |   )|___)| |   )|   )     |___ |   )|    | |   )|          |   )|   )|   )     |   )|   )|   )|    |___ 
+	|__/ |  /      |__/ |__  | |  / |__/       __/ |__/ |__  | |__/||  -       |__/ |__/||__/      |__/ |__/||    |__   __/ 
+	                                __/                                                            |                        
+
+
+
+###On outliers
+
+Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
+
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+
+> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+
+You’re judged by what you do, not what you think.
+
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+
+> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+
+
+
+===
+###On criticism and envy
+
+Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-outliers).
+
+> *'The dogs bark but the caravan moves on.' -- Arab proverb*
+
+> *'Don’t argue your path with other people. Walk it.' -- lazy yogi*
+
+> *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
+
+> *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
+
+> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
+
+> *'Só há consensos no 1º e no ultimo minuto de algo.'*
+
+CHALLENGE: most criticism is envy but beware of blindspots.
+
+> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
+
+> *'If too many users are wrong, it's probably your fault.'*
+
+> *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
 
 ===
@@ -814,13 +884,12 @@ CHALLENGE: common sense is not so common.
 
 
 ===
-	  __                                                             
-	 /  |                                                        /   
-	(   | ___       _ _  ___  ___  ___  ___  ___  _ _  ___  ___ (___ 
-	|   )|   )     | | )|   )|   )|   )|   )|___)| | )|___)|   )|    
-	|__/ |  /      |  / |__/||  / |__/||__/ |__  |  / |__  |  / |__  
-	                                   __/                           
-
+	  __                                    
+	 /  |           /                       
+	(   | ___      (___  ___  ___  _ _  ___ 
+	|   )|   )     |    |___)|   )| | )|___ 
+	|__/ |  /      |__  |__  |__/||  /  __/ 
+	                                        
 
 
 ###On leadership
@@ -849,8 +918,22 @@ CHALLENGE:
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
-<!-- mix com persuasion -->
+<!-- mix com persuasion 
 
+Refuse to work with people you don’t like.
+Fire customers that cause you to much stress or that cost too much to service.
+It takes a very small number of people (one) to ruin an environment. One person in the office is all it takes to make everyone miserable. Don’t tolerate these people. Take it as far as you need to take it. 
+
+In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers. Owners make more than employees in the long run.
+
+-->
+
+
+
+When someone is out of line, don’t let it slide too far.
+If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
+
+Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
 
 
 ===
@@ -1001,6 +1084,21 @@ However they have extended comfort zones: low risk for them might mean high risk
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
+<!-- Do things manually at first.
+You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually do you have to worry about automation.
+Use scripts or software to do what you would normally do manually, but only after you have established success manually. Don’t put a bunch of effort in on the front end to find out there’s no demand. Then productize. Automate. Streamline. Checklists and procedures to remove any thought from the equation.
+
+When evaluating an idea make sure the math scales
+- If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent?
+- How many potential sales, how much does it cost to reach them, what is a conversion rate to expect?
+- How much can you produce in an hour, will that ever pay you enough?
+- Is the price high enough?
+- Are the costs low enough?
+
+Sell first. Get paid up front. Test sales. If something is worth doing, sales will come easy and dollars will be high. This makes delivery easy.
+If you have to drag people along kicking and screaming, you’re wasting your time. Don’t go back to the same people over and over. If they were in, they’d be in on day one. -->
+
+
 
 ===
 ###On negotiation
@@ -1055,123 +1153,6 @@ CHALLENGE: always strive to achieve a win-win situation. The deal will fall if b
 
 [Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it.
-
-
-
-===   
-	  __                               
-	 /  |                              
-	(   | ___       ___  ___           
-	|   )|   )     |___)|   ) \  )\   )
-	|__/ |  /      |__  |  /   \/  \_/ 
-	                                /  
-
-
-
-###On outliers
-
-Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
-
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
-
-> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
-
-You’re judged by what you do, not what you think.
-
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
-
-> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
-
-
-===
-###On criticism and envy
-
-Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-outliers).
-
-> *'The dogs bark but the caravan moves on.' -- Arab proverb*
-
-> *'Don’t argue your path with other people. Walk it.' -- lazy yogi*
-
-> *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
-
-> *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
-
-> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
-
-> *'Só há consensos no 1º e no ultimo minuto de algo.'*
-
-CHALLENGE: most criticism is envy but beware of blindspots.
-
-> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
-
-> *'If too many users are wrong, it's probably your fault.'*
-
-> *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
-
-
-
-===
-###On intelligence
-
-Intelligence is the most sensitive trigger point for envy.
-
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
-
-> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
-
-> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
-
-<!-- No one is smarter than a small group.
-intelligence doesn't always correspond to virtue. -->
-
-
-
-===
-###On wealth
-
-Being rich is not counting money all day but being fulfilled.
-
-> *'Shift your focus from achievement to fulfillment:<br>
-What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
-
-> *'Some people are so poor, all they have is money.'*
-
-> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
-
-> *'You can spend your time making money but you cant spend your money making time.'*
-
-
-
-###On luck
-
-When you’re not winning, life will seem hideously unfair to you.<br>
-But luck is a pattern, the pendulum will swing back your way eventually.
-
-> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
-
-> *'Even a broken clock is right twice a day.'*
-
-> *'There’s no magic in the world. It’s all math.' -- discrete math professor*
-
-> *'The eternal mystery of the world is its comprehensibility.'*
-
-> *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
-
-> *'God is subtle but he is not malicious.'*
-
-> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
-
-
-
-===
-###On beauty
-
-> *'Beauty is not a gift, it is a burden.'*
-
-> *'Once I was beautiful, now I'm myself.'*
 
 
 
@@ -1243,15 +1224,21 @@ decisions are afected by memory
 
 <!-- Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance) -->
-
-<!-- Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
-Always assume that you’re wrong from a purely philosophical point of view. We arealways wrong about whatever we believe. Knowledge is always moving forward, and if you think about things you used to believe 10 years ago or five years ago, it embarrasses you now. And the things that you hold dear and hold to be true today are likely going to embarrass you in 10 or 20 years from now.  -->
 
-Decision fatigue
+Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
+too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
+Always assume that you’re wrong from a purely philosophical point of view. We are always wrong about whatever we believe. Knowledge is always moving forward, and if you think about things you used to believe 10 years ago or five years ago, it embarrasses you now. And the things that you hold dear and hold to be true today are likely going to embarrass you in 10 or 20 years from now. 
 
-Work to reduce decision making for small tasks to reduce decision fatigue. Make decisions quickly.
+Say no to things you aren’t really excited about doing. Hell yes or no. The mediocre robs you of the great. sivers 
+
+Make decisions about what you want to do ideally on the front end rather than tracking what you do on the back end. Planning a diet vs. recording a diet. Making decisions under stress vs making decisions when relaxed and clear headed.
+
+-->
+
+CHALLENGE: too many decisions will drain you. Attention is the most limited resource.
+
+> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*timi
 
 
 
@@ -1346,7 +1333,8 @@ rotten peace-->
 ###On timing
 
 Just start.<br>
-You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.
+You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
+Stop preparing, and start doing. You can learn while you do it.
 
 > *'Stop making resolutions and start making something.'*
 
@@ -1407,7 +1395,7 @@ Direction is more important than pace.
 
 
 ===
-###On priorities
+###On focus
 
 First the essential. Then the details.
 
@@ -1474,6 +1462,8 @@ Control what you can. Ignore what you can't.
 > *'You can lead a horse to water but you can’t make him drink.'*
 
 > *'You can only control yourself. Power comes from that.'*
+
+> *'Control what you’re primed by, who you are around, the ideas and problems you focus on.' -- Allen Tucker*
 
 > *'You want everything to stay the same until you’re ready for it to change. But you can’t do that. You can’t expect the whole world to stand still until you’re ready.' -- Gayle Friesen*
 
@@ -1788,6 +1778,21 @@ It only hurts when you don't have time to prepare for the fall (Tony Hawk).
 
 
 
+###On time and attention
+
+Time itself, is not your limitation. It's attention.<br>
+You’re not managing time, you're managing attention.
+
+> *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
+
+> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
+
+Track time when you need hints on where to improve.
+
+> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
+
+
+
 ###On past and memory
 
 You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
@@ -1811,9 +1816,7 @@ They are meant to guide you, not to define you.
 
 people remember more the beginning and the end of something
 
-people forget by decaying and giving them other stuff for them to remember.
-
--->
+people forget by decaying and giving them other stuff for them to remember.-->
 
 
 
@@ -1850,6 +1853,91 @@ Dream big.
 > *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
 
 > *'Anomalies often represent the future but to our eyes they seem strange.'*
+
+
+
+===
+	  __                                                                         
+	 /  |                                    /         /                         
+	(   | ___       ___  ___                (___  ___    ___  ___  ___  ___  ___ 
+	|   )|   )     |___)|   ) \  )\   )     |    |   )| |   )|   )|___)|   )|___ 
+	|__/ |  /      |__  |  /   \/  \_/      |__  |    | |__/ |__/ |__  |     __/ 
+	                                /                   __/  __/                 
+
+
+
+###On intelligence
+
+Intelligence is the most sensitive trigger point for envy.
+
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
+
+> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
+
+> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
+
+<!-- No one is smarter than a small group.
+intelligence doesn't always correspond to virtue. -->
+
+
+
+===
+###On wealth
+
+Being rich is not counting money all day but being fulfilled.
+
+> *'Shift your focus from achievement to fulfillment:<br>
+What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
+
+> *'Some people are so poor, all they have is money.'*
+
+> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
+
+> *'You can spend your time making money but you cant spend your money making time.'*
+
+
+
+===
+###On fame
+
+See fame as a multiplier.
+
+<!-- Be famous. Do everything in public. Record what you’re working on, the challenges you face, the cool things you do. Other people are facing the same problems. They not only will identify you, by doing things in public, they can provide you with solutions.
+Do things worthy of making you famous.
+The audience you build allows you to multiply everything you do across all those people. In increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.
+Ask yourself first what you would like to be famous for, and then go learn that.
+As a famous person you will be drawn towards the large number of people in the center. It is those on the tails that are the most valuable. Don’t let the average dilute you. -->
+
+
+
+===
+###On luck
+
+When you’re not winning, life will seem hideously unfair to you.<br>
+But luck is a pattern, the pendulum will swing back your way eventually.
+
+> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
+
+> *'Even a broken clock is right twice a day.'*
+
+> *'There’s no magic in the world. It’s all math.' -- discrete math professor*
+
+> *'The eternal mystery of the world is its comprehensibility.'*
+
+> *'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
+
+> *'God is subtle but he is not malicious.'*
+
+> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
+
+
+
+===
+###On beauty
+
+> *'Beauty is not a gift, it is a burden.'*
+
+> *'Once I was beautiful, now I'm myself.'*
 
 
 
