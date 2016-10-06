@@ -23,7 +23,7 @@ Exceptions to most rules also..
 - [On mastery](#on-mastery)
 - [On being a mentor](#on-being-a-mentor)
 
-*On your hardest enemy: yourself*
+*On your worst enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
@@ -77,12 +77,12 @@ Exceptions to most rules also..
 - [On timing](#on-timing)
 - [On pace](#on-pace)
 - [On focus](#on-focus)
-- [On attacking and defending](#on-attacking-and-defending)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
 - [On balance](#on-balance)
 
-*On competing*
+*On actions of competition*
+- [On attacking and defending](#on-attacking-and-defending)
 - [On creating imbalances](#on-creating-imbalances)
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
@@ -209,7 +209,7 @@ Aim at being your best self. You need to come alive.
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-<a id="on-humbleness"></a>CHALLENGE: remember to be humble, you are not perfect neither you'll ever be.
+<a id="on-humbleness"></a>HOWEVER, remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
@@ -259,7 +259,7 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.' -- Allen Tucker*
 
-CHALLENGE: don't be thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
+HOWEVER, don't be thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
 
 
@@ -284,7 +284,7 @@ Success is not being [wealthy](#on-wealth) but being [fulfilled](#on-gratefulnes
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
-CHALLENGE: [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
+HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
 
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
@@ -340,7 +340,6 @@ Spend the last hour of the day (or all day) without electronic devices.' -- Alle
 
 
 
-
 ===
 ###On improvement
 
@@ -387,7 +386,7 @@ You learn by getting out of your comfort zone.
 
 > *'Welcome the attacks of your enemies for how much they improve your work and toughen you up.'*
 
-CHALLENGE: don't be afraid of [failure](#on-mistakes-and-failure).
+HOWEVER, don't be afraid of [failure](#on-mistakes-and-failure).
 
 
 
@@ -428,7 +427,7 @@ You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theo
 
 <!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
 
-CHALLENGE: mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
+HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -456,7 +455,7 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
-CHALLENGE: some people are not ready to have a mentor and accept your vision. Accept it.
+HOWEVER, some people are not ready to have a mentor and accept your vision. Accept it.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -464,13 +463,13 @@ CHALLENGE: some people are not ready to have a mentor and accept your vision. Ac
 
 
 
-===
-	  __                                                                                                                                                __ 
-	 /  |                                    /                 |           /                                                                         / /   
-	(   | ___            ___       ___      (___  ___  ___  ___| ___  ___ (___       ___  ___  ___  _ _       _             ___       ___  ___  ___ ( (    
-	|   )|   )     \   )|   )|   )|   )     |   )|   )|   )|   )|___)|___ |         |___)|   )|___)| | )\   )         \   )|   )|   )|   )|___ |___)| |___ 
-	|__/ |  /       \_/ |__/ |__/ |         |  / |__/||    |__/ |__   __/ |__       |__  |  / |__  |  /  \_/  -        \_/ |__/ |__/ |     __/ |__  | |    
-	                 /                                                                                    /             /                                  
+===                                                                                                                                 
+	  __                                                                                                                                      __ 
+	 /  |                                                        /                                                                         / /   
+	(   | ___            ___       ___            ___  ___  ___ (___       ___  ___  ___  _ _       _             ___       ___  ___  ___ ( (    
+	|   )|   )     \   )|   )|   )|   )     |   )|   )|   )|___ |         |___)|   )|___)| | )\   )         \   )|   )|   )|   )|___ |___)| |___ 
+	|__/ |  /       \_/ |__/ |__/ |         |/\/ |__/ |     __/ |__       |__  |  / |__  |  /  \_/  -        \_/ |__/ |__/ |     __/ |__  | |    
+	                 /                                                                          /             /                                  
 
 
 
@@ -577,7 +576,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-<a id="on-arrogance"></a>CHALLENGE: know the frontier between confidence and arrogance.
+<a id="on-arrogance"></a>HOWEVER, know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
@@ -598,7 +597,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
 
-CHALLENGE:
+HOWEVER,
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
 
@@ -636,7 +635,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Stress is caused by giving a fuck.'*
 
-<a id="on-being-relaxed"></a>CHALLENGE: the more relaxed you are, the better you are at everything.
+<a id="on-being-relaxed"></a>The more relaxed you are, the better you are at everything.
 
 > *'If you are feeling stressed out… Breathe.'*
 
@@ -651,7 +650,14 @@ You can’t perform under pain, stress, etc. without adequate capacity. That cap
 
 You mind is a made of physical things. Neurons, chemicals, electricity. Your physical state, capacity for physical stress, sleep, diet, experiences, determine the bulk of your mental state. Do not rely upon cognition to make change. Behavior and the physical world are your key to changing affect and cognition. Your mental performance IS physical performance.
 
-> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'* -->
+> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'* 
+
+intermittent fasting
+
+When most people are struggling with pain, they fail to realize that often times, their pain is caused by a mental or emotional problem and not a physical problem. This could stem from a childhood trauma, a tragic event, or simply a personal insecurity.
+Reframe Your Pain and Become Grateful 
+The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
+-->
 
 
 
@@ -739,7 +745,7 @@ Take the first step but then [mirror](#on-mirroring) the other side's behavior.
 
 > *'Never love anyone that treats you like you're ordinary.'*
 
-CHALLENGE: run away from mediocrity. Be ready to loose people.
+Run away from mediocrity. Be ready to loose people.
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
 
@@ -762,7 +768,7 @@ CHALLENGE: run away from mediocrity. Be ready to loose people.
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
-<!-- CHALLENGE: keep separate bank accounts.
+<!-- , keep separate bank accounts.
 
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* -->
 
@@ -806,7 +812,7 @@ Keep your friends for friendship but work with the skilled and competent.
 
 > *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
 
-CHALLENGE: don't vow to the gatekeepers.
+HOWEVER, don't vow to the gatekeepers.
 
 <!-- Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. There is infinite opportunity right in front of you. You do not need them. You are choosing to do business with them as they are choosing to do business with you, making you both equals. -->
 
@@ -857,13 +863,14 @@ Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-
 
 > *'Só há consensos no 1º e no ultimo minuto de algo.'*
 
-CHALLENGE: most criticism is envy but beware of blindspots.
+HOWEVER, beware of blindspots, not all criticism is envy.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
 > *'If too many users are wrong, it's probably your fault.'*
 
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
+
 
 
 ===
@@ -877,7 +884,7 @@ Most people are other people. Their thoughts are someone else opinions.
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-CHALLENGE: common sense is not so common.
+HOWEVER, common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
 
@@ -914,7 +921,7 @@ People want leadership because they want autonomy and influence.
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
-CHALLENGE:
+HOWEVER,
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
@@ -1014,7 +1021,7 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
-CHALLENGE:
+HOWEVER,
 
 > *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
 
@@ -1033,7 +1040,7 @@ Employers hire you because you are a likable person that «get shit done».
 
 > *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
 
-CHALLENGE: companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
+HOWEVER, companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
@@ -1076,7 +1083,7 @@ To make money is to add value.
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
 Successful *entrepreneurs* are good managing risk.<br>
-However they have extended comfort zones: low risk for them might mean high risk for you.
+HOWEVER they have extended comfort zones: low risk for them might mean high risk for you.
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
@@ -1140,7 +1147,7 @@ naming the negatives first.'* -->
 
 <!-- > *'Instead of generalizing, stick with the facts.'* -->
 
-CHALLENGE: always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
+HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.'*
 
@@ -1188,7 +1195,7 @@ And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness wi
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-CHALLENGE: bias is everywhere. Be specially careful when facing new ideas.<br>
+HOWEVER, bias is everywhere. Be specially careful when facing new ideas.<br>
 Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs and assumptions.
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
@@ -1236,7 +1243,7 @@ Make decisions about what you want to do ideally on the front end rather than tr
 
 -->
 
-CHALLENGE: too many decisions will drain you. Attention is the most limited resource.
+HOWEVER, too many decisions will drain you. Attention is the most limited resource.
 
 > *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*timi
 
@@ -1261,7 +1268,7 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-CHALLENGE: some people get paralyzed by overthinking.
+HOWEVER, some people get paralyzed by overthinking.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -1361,7 +1368,7 @@ You will languish if you stop for a long time.
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-CHALLENGE: you should have some [plan](#on-planning).
+HOWEVER, you should have some [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
@@ -1427,30 +1434,11 @@ First the essential. Then the details.
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-CHALLENGE: 
+HOWEVER, 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!-- *guerrilla* has their strengths also. cena do mosquito-->
-
-
-
-===
-###On attacking and defending
-
-> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
-
-> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
-
-<!-- > *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'* -->
-
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
-
-CHALLENGE: beware of counter-attacking.
-
-> *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
-
-> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
 
 
@@ -1469,7 +1457,7 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
-CHALLENGE:
+HOWEVER,
 
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
@@ -1503,7 +1491,9 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
-CHALLENGE:
+> *'If I don’t have red, I use blue.' -- Pablo Picasso*
+
+HOWEVER,
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
@@ -1543,15 +1533,34 @@ It is about making progress in all areas of your life and ensuring that you impr
 
 
 ===
-	  __                                                     
-	 /  |                                    /    /          
-	(   | ___       ___  ___  _ _  ___  ___ (___    ___  ___ 
-	|   )|   )     |    |   )| | )|   )|___)|    | |   )|   )
-	|__/ |  /      |__  |__/ |  / |__/ |__  |__  | |  / |__/ 
-	                              |                     __/  
+	  __                                                       __                                                       
+	 /  |                     /    /                          /                                  /    / /    /          
+	(   | ___       ___  ___ (___    ___  ___  ___       ___ (          ___  ___  _ _  ___  ___ (___   (___    ___  ___ 
+	|   )|   )     |   )|    |    | |   )|   )|___      |   )|___      |    |   )| | )|   )|___)|    | |    | |   )|   )
+	|__/ |  /      |__/||__  |__  | |__/ |  /  __/      |__/ |         |__  |__/ |  / |__/ |__  |__  | |__  | |__/ |  / 
+	                                                                                  |                                 
 
 
 
+###On attacking and defending
+
+> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
+
+> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
+
+<!-- > *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'* -->
+
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
+
+HOWEVER, beware of counter-attacking.
+
+> *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
+
+> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
+
+
+
+===
 ###On creating imbalances
 
 Create imbalances in your target to create an advantage and raise chances of winning.<br>
@@ -1571,7 +1580,7 @@ and [bait](#on-charming). Some targets may require special tools.
 
 > *'Conceal your intention.' -- Robert Greene (3rd law of power)*
 
-CHALLENGE: unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+HOWEVER, unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
 
 
@@ -1590,7 +1599,7 @@ CHALLENGE: unpredictability can work against you: if you are in a subordinate po
 
 > *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
 
-CHALLENGE: deceiving is not lying.
+HOWEVER, deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
 
@@ -1650,7 +1659,7 @@ Use absence and bait to attract people.
 
 > *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
 
-CHALLENGE: use absence with [moderation](#on-balance).
+HOWEVER, use absence with [moderation](#on-balance).
 
 > *'Quem muito se ausenta um dia deixa de fazer falta.'*
 
@@ -1667,7 +1676,7 @@ Beware of easy targets. Most times it's [bait](#on-charming).
 
 > *«El dorados» are never drawn in the map.'*
 
-CHALLENGE: there are same people acting stupid though. Easy wins if you can identify them.
+HOWEVER, there are same people acting stupid though. Easy wins if you can identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
@@ -1724,7 +1733,7 @@ Desperate targets will risk anything in a fight. This gives them a huge advantag
 
 ###On finishing
 
-Finish it. [Going halfway](#on-priorities-and-focus) is too expensive to do it often.
+Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
@@ -1759,7 +1768,7 @@ It's not just about winning. The way you win sets you up for the next round.
 ###On surrendering
 
 Use this opportunity to re-create yourself.<br>
-It only hurts when you don't have time to prepare for the fall (Tony Hawk).
+'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
@@ -1793,6 +1802,7 @@ Track time when you need hints on where to improve.
 
 
 
+===
 ###On past and memory
 
 You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
@@ -1846,9 +1856,7 @@ You will die soon. Act accordingly and don't postpone joy.
 ===
 ###On future
 
-Dream big.
-
-> *'If your dreams don't scare you, they are not big enough.'*
+Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
 
