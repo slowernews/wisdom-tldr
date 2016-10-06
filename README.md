@@ -39,6 +39,7 @@ Exceptions to most rules also..
 *On being social*
 - [On networking](#on-networking)
 - [On listening and speaking](#on-listening-and-speaking)
+- [On talking to people](#on-talking-to-people)
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family](#on-family)
@@ -46,8 +47,8 @@ Exceptions to most rules also..
 - [On higher ranks](#on-higher-ranks)
 
 *On being social: bad parts*
-- [On outliers](#on-outliers)
 - [On criticism and envy](#on-criticism-and-envy)
+- [On outliers](#on-outliers)
 - [On herd mentality](#on-herd-mentality)
 
 *On teams*
@@ -720,6 +721,11 @@ Be humble, listen.
 
 > *'Listen to predict a collapse.'*
 
+
+
+===
+###On talking to people
+
 Learn how to talk to people.
 
 > *'Get better asking questions. They are more important than answers.'*
@@ -828,25 +834,6 @@ HOWEVER, don't vow to the gatekeepers.
 
 
 
-###On outliers
-
-Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
-
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
-
-> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
-
-You’re judged by what you do, not what you think.
-
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
-
-> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
-
-
-===
 ###On criticism and envy
 
 Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-outliers).
@@ -870,6 +857,25 @@ HOWEVER, beware of blindspots, not all criticism is envy.
 > *'If too many users are wrong, it's probably your fault.'*
 
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
+
+
+
+===
+###On outliers
+
+Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
+
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+
+> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+
+You’re judged by what you do, not what you think.
+
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+
+> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*===
 
 
 
