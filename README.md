@@ -55,8 +55,10 @@ Exceptions to most rules also..
 - [On leadership](#on-leadership)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
+
 <!-- on getting people for your team -->
 - [On hiring](#on-hiring)
+
 <!-- on getting into a team -->
 - [On being hired](#on-being-hired)
 
@@ -185,7 +187,6 @@ authentic self is a state
 > *'Happy life = mastery + belonging + autonomy.'*
 
 > *'Love doesn’t hurt. Expectations do.'*
-
 -->
 
 
@@ -311,9 +312,11 @@ Do not truly commit to anything but *yourself*.
 
 ###On generosity
 
-<!--
-Be kind, of course, but do it from a place of abundance, where you are giving to the world because you are already so full, not from a place of scarcity where you are kind because you want something in return.
--->
+Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
+
+HOWEVER, «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
+
+> *'Dás uma mão, arrancam-te o braço.'*
 
 
 
@@ -353,6 +356,8 @@ And most people waste their lives away in 9-5 jobs. It's not an age thing.
 lying in death bed and regretting your life is the worst that can happen to you.
 
 > *'I miss being the age when i thought I would have my shit together by the time I was the age i am now.'*
+
+play to win, not hoping to make it, or why are you doing it? committed to win
 -->
 
 
@@ -410,7 +415,6 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 
 <!--
 Choose the Hard Way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.
-
 -->
 
 
@@ -488,7 +492,6 @@ Mentors are your best source of feedback. Feedback speeds up improvement.
 find somebody smarter than you to teach you and learn something
 equal to you to challenge you
 less than you that you can teach and learn something
-
 -->
 
 
@@ -563,7 +566,6 @@ If you are facing health struggles, you need to ask yourself these three questio
 
 Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
-
 -->
 
 
@@ -931,13 +933,15 @@ Be humble, listen.
 ===
 ###On conversation
 
-Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, don't be stubborn even when you're right and [listen](#on-listening-and-speaking).
+Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and [listen](#on-listening-and-speaking).
 
 > *'Rambling and not smiling are two things to get better speaking to anybody.'*
 
 > *'Get better asking questions. They are more important than answers.'*
 
 > *'Talk about your passions instead of your accomplishments (aka bragging), transform it in a story.'*
+
+> *'Storytelling is about the details.'*
 
 > *'On improvisation is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
 
@@ -1208,6 +1212,10 @@ In order to be successful you will probably have to build a team of successful p
 We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others.
 Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
 
+leaders
+backup what you're preaching
+make yourself as part of a team
+make people feel as part of a family
 
 leader persuader
 -->
@@ -1706,6 +1714,10 @@ HOWEVER, some people get paralyzed by over thinking.
 > *'the script going to be bad, but in the end you'll finish eating pizza.'* -- predict things. some things are inevitable
 
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
+
+understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
+
+position yourself for victory. long term thinking. 
 -->
 
 
@@ -2226,12 +2238,6 @@ It's not just about winning. The way you win sets you up for the next round.
 
 > *'The destination is not the end of the road; it's just a stop along the way. An intersection to take you to your next destination.'*
 
-<!--
-understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
-
-position yourself for victory. long term thinking. 
--->
-
 
 
 ===
@@ -2481,6 +2487,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
 
+> *'The moment you cross a second border - you are an economic migrant, not a refugee.'*
+
 
 
 ===
@@ -2511,11 +2519,11 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 <!-- 
 mainstream taste 
-
-most people with good taste are young and poor.
 -->
 
 > *'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso*
+
+> *'Most people with good taste are young and poor.'*
 
 > *'Art is just another form of screaming.'*
 
