@@ -1308,11 +1308,8 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
-HOWEVER,
-
-> *'Be wary of people who want to collaborate - they are often trying to find someone who will do the heavy lifting for them.'*
-
-> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
+How to keep talented people? Respect them.<br>
+Paying them well is the best sign of respect.
 
 <!--
 I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high scores… You raise your hand and say, “Over here!” And the talent will come running, but that’s not true… [i]t’s not resilient and shiny… [t]alent is really, really fragile. -- Malcolm 
