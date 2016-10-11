@@ -55,8 +55,8 @@ Exceptions to most rules also..
 - [On leadership](#on-leadership)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
-<!-- on getting people for your team --> - [On hiring and keeping talent](#on-hiring-and-keeping-talent)
-<!-- on getting into a team --> - [On being hired](#on-being-hired)
+- [On hiring and keeping talent](#on-hiring-and-keeping-talent)
+- [On being hired](#on-being-hired)
 
 *On exchange*
 - [On business](#on-business)
@@ -2387,7 +2387,7 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 
 See fame as a multiplier. If you want to impact the world, be famous.
 
-*'Do everything in public. Other people are facing the same problems. They not only will identify with you, they can provide solutions.'<br>
+> *'Do everything in public. Other people are facing the same problems. They not only will identify with you, they can provide solutions.'<br>
 'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker*
 
 
