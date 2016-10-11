@@ -813,7 +813,9 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Stress is caused by giving a fuck.'*
 
-<!-- financial health is very important -->
+<!--
+> *'Financial health is just as important as physical health.'*
+ -->
 
 <a id="on-being-relaxed"></a>The more relaxed you are, the better you are at everything.
 
@@ -2357,13 +2359,13 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 ###On intelligence
 
-Intelligence is the most sensitive trigger point for envy.
-
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
-
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
+
+HOWEVER, Intelligence is the most sensitive trigger point for envy.
+
+> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
 <!--
 No one is smarter than a small group.
@@ -2378,7 +2380,7 @@ intelligence doesn't always correspond to virtue.
 Being rich is not counting money all day but being fulfilled.
 
 > *'Shift your focus from achievement to fulfillment:<br>
-What makes you come alive, what do you enjoy doing, who do you enjoy being around?.'*
+What makes you come alive, what do you enjoy doing, who do you enjoy being around?'*
 
 > *'Some people are so poor, all they have is money.'*
 
@@ -2391,16 +2393,14 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 ===
 ###On fame
 
-See fame as a multiplier.
+See fame as a multiplier. If you want to impact the world, be famous.
 
 <!-- 
-Be famous. Do everything in public. Record what you’re working on, the challenges you face, the cool things you do. Other people are facing the same problems. They not only will identify you, by doing things in public, they can provide you with solutions.
+Do everything in public. Record what you’re working on, the challenges you face, the cool things you do. Other people are facing the same problems. They not only will identify you, by doing things in public, they can provide you with solutions.
 Do things worthy of making you famous.
 The audience you build allows you to multiply everything you do across all those people. In increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.
 Ask yourself first what you would like to be famous for, and then go learn that.
 As a famous person you will be drawn towards the large number of people in the center. It is those on the tails that are the most valuable. Don’t let the average dilute you.
-
-to impact the world
 -->
 
 
@@ -2466,8 +2466,6 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'The best companies aren't sold, they're bought.'*
 
 > *'Wherever oil goes, the stock market goes.'*
-
-> *'Financial health is just as important as physical health.'*
 
 
 
