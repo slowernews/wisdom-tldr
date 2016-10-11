@@ -1632,9 +1632,7 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 
 > *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
 
-<!--
-"I am both worse and better than you thought." -- Sylvia Plath, The Unabridged Journals Of Sylvia Plath
--->
+> *'I am both worse and better than you thought.' -- Sylvia Plath*
 
 
 
@@ -1683,13 +1681,16 @@ HOWEVER, too many decisions will drain you. Attention is the most limited resour
 ===
 ###On planning
 
-Plan ahead, make the decisions right now. When in the moment of making the decision, you have already done it.
+Plan ahead and prepare for the highly probable scenarios.<br>
+Make the decisions right now. When in the moment of making the decision, you have already done it.
 
 > *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
 > *'The best way to predict the future is to invent it.' -- Alan Kay*
+
+> *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
 > *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
 
@@ -1699,15 +1700,13 @@ Plan ahead, make the decisions right now. When in the moment of making the decis
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-HOWEVER, some people get paralyzed by over thinking.
+> *'The script is going to be bad but in the end we'll finish eating pizza.'*
 
-> *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
+HOWEVER, some people get paralyzed by over thinking.
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 <!--
-> *'the script going to be bad, but in the end you'll finish eating pizza.'* -- predict things. some things are inevitable
-
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
@@ -1807,6 +1806,8 @@ Stop preparing, and start doing. You can learn while you do it.
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
+> *'People procrastinate specially when there are no urgency/deadlines: the panic monster.'*
+
 Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.<br>
 You will languish if you stop for a long time.
 
@@ -1821,8 +1822,6 @@ HOWEVER, you should have some [plan](#on-planning).
 > *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
 
 <!--
-People procrastinate specially when there are no urgency/deadlines: the panic monster.
-
 > *'Pressed by circumstances, we feel unusually energized and focused.'*
 
 > *add mark manson on procrastination*
@@ -1914,13 +1913,13 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
-HOWEVER,
-
-> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
-
 <!--
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 -->
+
+HOWEVER,
+
+> *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
 
 
@@ -2271,10 +2270,6 @@ Track time and journal for hints on where to improve.
 
 > *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
 
-<!-- 
-journaling / regular reflexion to see patterns 
--->
-
 
 
 ===
@@ -2330,9 +2325,7 @@ You will die soon. Act accordingly and don't postpone joy.
 
 > *'We are like butterflies who flutter for a day and think it's forever.'*
 
-<!--
-7 - i live life ready to meet god.
--->
+> *'Live life ready to meet god.'*
 
 
 
@@ -2359,18 +2352,17 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 ###On intelligence
 
+> *'No one is smarter than a small group.'*
+
+> *'Intelligence and [beauty](#on-beauty) don't always correlate with virtue.'*
+
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
-HOWEVER, Intelligence is the most sensitive trigger point for envy.
+HOWEVER, intelligence is the most sensitive trigger point for envy.
 
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
-
-<!--
-No one is smarter than a small group.
-intelligence doesn't always correspond to virtue. 
--->
 
 
 
@@ -2386,7 +2378,7 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 
 > *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
-> *'You can spend your time making money but you cant spend your money making time.'*
+> *'You can spend your time making money but you can't spend your money making time.'*
 
 
 
@@ -2395,13 +2387,8 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 
 See fame as a multiplier. If you want to impact the world, be famous.
 
-<!-- 
-Do everything in public. Record what you’re working on, the challenges you face, the cool things you do. Other people are facing the same problems. They not only will identify you, by doing things in public, they can provide you with solutions.
-Do things worthy of making you famous.
-The audience you build allows you to multiply everything you do across all those people. In increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.
-Ask yourself first what you would like to be famous for, and then go learn that.
-As a famous person you will be drawn towards the large number of people in the center. It is those on the tails that are the most valuable. Don’t let the average dilute you.
--->
+*'Do everything in public. Other people are facing the same problems. They not only will identify with you, they can provide solutions.'<br>
+'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker*
 
 
 
@@ -2409,7 +2396,7 @@ As a famous person you will be drawn towards the large number of people in the c
 ###On luck
 
 When you’re not winning, life will seem hideously unfair to you.<br>
-But luck is a pattern, the pendulum will swing back your way eventually.
+But be positive, luck is a pattern and the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -2425,20 +2412,12 @@ But luck is a pattern, the pendulum will swing back your way eventually.
 
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
-<!--
-You Must Have a Positive Mental Attitude
-Look, life can suck. It’s that simple, there will be days when nothing goes right, when the world seems like it is conspiring against you to make your life a living hell.
-It is during times like these that your attitude is everything.
-
-everything is a pattern
--->
-
 
 
 ===
 ###On beauty
 
-> *'Beauty is not a gift, it is a burden.'*
+> *'Beauty is not a gift, it's a burden.'*
 
 > *'Once I was beautiful, now I'm myself.'*
 
@@ -2459,9 +2438,9 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
-> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
-
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+
+> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
 > *'The best companies aren't sold, they're bought.'*
 
@@ -2472,11 +2451,11 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On economics and politics
 
+'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt
+
 > *'The hardest thing in the world to understand is the income tax.'*
 
 > *'Politicians don't get educated. They get bought.'*
-
-> *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
 
 > *'The moment you cross a second border - you are an economic migrant, not a refugee.'*
 
