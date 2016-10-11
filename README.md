@@ -55,12 +55,8 @@ Exceptions to most rules also..
 - [On leadership](#on-leadership)
 - [On communication](#on-communication)
 - [On delegation](#on-delegation)
-
-<!-- on getting people for your team -->
-- [On hiring](#on-hiring)
-
-<!-- on getting into a team -->
-- [On being hired](#on-being-hired)
+<!-- on getting people for your team --> - [On hiring and keeping talent](#on-hiring-and-keeping-talent)
+<!-- on getting into a team --> - [On being hired](#on-being-hired)
 
 *On exchange*
 - [On business](#on-business)
@@ -2510,19 +2506,16 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On art and aesthetics
 
-> *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
-
-> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
-
-<!-- 
-mainstream taste 
--->
-
-> *'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso*
+'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso<br>
+That's where «big bucks» are.
 
 > *'Most people with good taste are young and poor.'*
 
+> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
+
 > *'Art is just another form of screaming.'*
+
+> *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
 > *'Artistic death is made by consensus.'*
 
