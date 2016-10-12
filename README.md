@@ -111,7 +111,7 @@ Exceptions to most rules also..
 - [On future](#on-future)
 
 *On envy triggers*
-- [On intelligence](#on-intelligence)
+- [On intelligence and talent](#on-intelligence-and-talent)
 - [On wealth](#on-wealth)
 - [On fame](#on-fame)
 - [On luck](#on-luck)
@@ -961,6 +961,8 @@ first we judge trust, before strength
 we build trust through presence. leadership is based on trust.
 
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
+
+> *'Focus on what you can give not what you can get. You only receive in proportion to what you give.'*
 -->
 
 Take the first step but then [mirror](#on-mirroring) the other side's behavior.
@@ -1180,6 +1182,8 @@ Being a leader is different from being a boss. Leadership is based on [trust](#o
 
 > *'There are no bad teams, only bad leaders.'*
 
+> *'No one is smarter than a small group.'*
+
 People want leadership because they want autonomy and influence.
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
@@ -1292,7 +1296,7 @@ And use deep work
 
 
 ===
-###On hiring
+###On hiring and keeping talent
 
 Hire anyone but only retain the best.
 
@@ -1307,11 +1311,7 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
 How to keep talented people? Respect them.<br>
-Paying them well is the best sign of respect.
-
-<!--
-I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high scores… You raise your hand and say, “Over here!” And the talent will come running, but that’s not true… [i]t’s not resilient and shiny… [t]alent is really, really fragile. -- Malcolm 
--->
+You'll never respect them if you don't pay them accordingly.
 
 
 
@@ -1390,47 +1390,34 @@ than work from there.
 
 ###On business
 
-To make money is to add value.
+To make money is to add value.<br>
+Focus on areas where you are motivated to add value but be realistic when choosing your market.
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
-> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
-
-> *'The consumer votes with their wallet.'*
-
-<!--
-validate your business finding clients
-
-how to purge to do list and focus right now
-- does this need to be done regarding my business? Y/N
-- does this be needed by me? Y/N
-- does this need to be done now? Y/N
-Most items were already purged.
-
-focus first on getting a client to validate your idea,
-then a paying client,
-then another one,
-
-hot to make, how to keep, how to grow money
-to make money, focus on the fun
-
-3. Focus on What You Can Give Not What You Can Get
-You only receive in proportion to what you give.
-
-
--->
-
-> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
-
-> *'Scratch your own itch.'*
+> *'Focus on what can you give instead of focusing in making money. Find your market and you'll get the reward.'*
 
 > *'Money is energy.'*
 
-<!--
-4 - money is the expression of my creativity.
--->
+> *'Money is the expression of your creativity.'*
 
-> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
+> *'To make money focus on the fun.'*
+
+> *'Scratch your own itch.'*
+
+> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
+
+Validate your business by finding paying clients.
+
+> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+> *'The consumer votes with his wallet.'*
+
+> *'Sell first. Get paid up front. Test sales. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. Don't go back to the same people. If they were in, they'd be in on day one.'*
+
+> *'In general, it is not about what you know, it is about who trusts you to reliably solve their problems.<br>
+Often, that requires the technical skills to reliably solve their problems.<br>
+Always, that requires the communication skills to persuade someone you can solve their problems.'*
 
 Successful *entrepreneurs* are good managing risk.<br>
 HOWEVER they have extended comfort zones: low risk for them might mean high risk for you.
@@ -1438,6 +1425,8 @@ HOWEVER they have extended comfort zones: low risk for them might mean high risk
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
 > *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
+
+> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
 <!--
 Do things manually at first.
@@ -1451,52 +1440,50 @@ When evaluating an idea make sure the math scales
 - Is the price high enough?
 - Are the costs low enough?
 
-Sell first. Get paid up front. Test sales. If something is worth doing, sales will come easy and dollars will be high. This makes delivery easy.
-If you have to drag people along kicking and screaming, you’re wasting your time. Don’t go back to the same people over and over. If they were in, they’d be in on day one.
-
-focusing on what can you give instead of focusing in making money. find your market and you'll get the reward.
-
-With marketplaces in general, it is not about what you know, it is about who trusts you to reliably solve their problems.
-Often, that requires the technical skills to reliably solve their problems.
-Always, that requires the communication skills to persuade someone you can solve their problems.
-
 It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
 
 zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it
 top 5 list you do, the rest is avoid at all cost list.
 genius area / excellence area / competence area / incompetence area
 
+how to purge to do list and focus right now
+- does this need to be done regarding my business? Y/N
+- does this be needed by me? Y/N
+- does this need to be done now? Y/N
+Most items were already purged.
+
+hot to make, how to keep, how to grow money
 -->
+
+
 
 ===
 ###On selling and persuasion
 
-We're all in sales. You're in sales everytime you interact with anybody.
+We're all in sales every time we interact with anybody.<br>
+Sales used to be about information asymmetry but times are changing.<br>
+It's now mostly applied persuasion and keeping relationships.
+
+> *'When you go up in an hierarchy you the need of persuasion is higher.<br>
+To persuade up, focus in interests; to persuade down focus in emotions.'*
+
+> *'Historically, the seller had more information than the buyer. 
+Its a different game now. Everybody knows immediately the alternatives.'*
+
+> *'Selling by just keeping in touch. send emails once in a while.'*
 
 <!--
-the seller historically had more information than the buyer. !!information asymmetry!!
-Now is different. Its a different game now. everybody knows immediately the alternatives.
-
 irritation -> challenge people to make something that they don't want to do
 agitation -> challenge people to make something that they want to do. suggesting ego etc
 
 agitate more than irritate
 
-persuading up -> focus in interests
-persuading down -> focus in emotions
-
 mimicking people gestures and words works!
 
-when you get higher in hierarchy you need more to use persuasion
-
---
 So can you pitch me what our company does?
 
-sales are applied persuasion: people minds work by association.
+people minds work by association.
 pre-suasion
-
-Selling is keeping relationships.
-> *'Selling by just keeping in touch. send emails once in a while.'*
 
 use testimonials that allow people to see themselves in that testimony
 people are intrigued by mystery! stories!
@@ -1504,7 +1491,6 @@ people are intrigued by mystery! stories!
 get to objections
 
 best sellers are ambiverts.
-
 -->
 
 
@@ -1520,11 +1506,6 @@ best sellers are ambiverts.
 ###On negotiation
 
 To negotiate is to have options.<br>
-
-<!--
-REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
--->
-
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
@@ -1555,6 +1536,11 @@ For the accomodator, the relationship is the most important'*
 > *'Listening for things that you didn't see. for incongruence.'*
 > *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
 naming the negatives first.'* 
+
+
+<!--
+REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
+-->
 
 never split the difference
 
@@ -2350,17 +2336,13 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 
 
-###On intelligence
-
-> *'No one is smarter than a small group.'*
-
-> *'Intelligence and [beauty](#on-beauty) don't always correlate with virtue.'*
+###On intelligence and talent
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
-HOWEVER, intelligence is the most sensitive trigger point for envy.
+HOWEVER, intelligence and talent are the most sensitive trigger points for envy.
 
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
@@ -2419,6 +2401,8 @@ But be positive, luck is a pattern and the pendulum will swing back your way eve
 
 > *'Beauty is not a gift, it's a burden.'*
 
+> *'Beauty doesn't always correlate with virtue.'*
+
 > *'Once I was beautiful, now I'm myself.'*
 
 
@@ -2451,7 +2435,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On economics and politics
 
-'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt
+> *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
 
 > *'The hardest thing in the world to understand is the income tax.'*
 
