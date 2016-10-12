@@ -39,7 +39,6 @@ Exceptions to most rules also..
 *On being social*
 - [On networking](#on-networking)
 - [On listening and speaking](#on-listening-and-speaking)
-- [On conversation](#on-conversation)
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family](#on-family)
@@ -276,6 +275,8 @@ Essentialism: The Disciplined Pursuit of Less
 <a id="on-humbleness"></a>HOWEVER, remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
+
+> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
 
 
 
@@ -860,9 +861,7 @@ If you feel powerless/being dominated you will be chronically stressed.
 
 ###On networking
 
-Be social. Don't [isolate](#on-neutrality-and-isolation) yourself.<br>
-The people you know and whether they like you will determine what opportunities you get.<br>
-A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
+Don't [isolate](#on-neutrality-and-isolation) yourself. The people you know and whether they like you will determine what opportunities you get.<br>
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
@@ -887,6 +886,8 @@ Regarding networking adding value is everything
 
 if people forget it wasn't a good network anyway
 
+A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
+
 network --
 raw connections
 community of experts (that give you good answers)
@@ -906,17 +907,13 @@ i didn't get your text can you resend it? less strong. will you write a whole bo
 ===
 ###On listening and speaking
 
-Speak less, listen more. Listening is powerful.
+Speak less, listen more: be [humble](#on-humbleness). Listening is powerful.
 
 > *'Listen to many, speak to a few.' -- William Shakespeare*
 
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
 > *'Listen to predict a collapse.'*
-
-Be humble, listen.
-
-> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
 
 > *'Arguing as you're right. Listening as you're wrong.'*
 
@@ -926,12 +923,7 @@ Be humble, listen.
 > *'Judge a man by his questions, not by his answers.'*
 -->
 
-
-
-===
-###On conversation
-
-Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and [listen](#on-listening-and-speaking).
+Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and listen.
 
 > *'Rambling and not smiling are two things to get better speaking to anybody.'*
 
@@ -956,28 +948,22 @@ Relationships are based on [trust](#on-trust-and-integrity).
 
 > *'A great relationship is about finding the similarities and respect the differences.'*
 
+> *'Focus on what you can give not what you can get. You only receive in proportion to what you give.'*
+
 <!--
 first we judge trust, before strength
 we build trust through presence. leadership is based on trust.
 
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
-
-> *'Focus on what you can give not what you can get. You only receive in proportion to what you give.'*
 -->
 
-Take the first step but then [mirror](#on-mirroring) the other side's behavior.
+HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior.
 
 > *'Don't hide your feelings from people who show you theirs.'*
 
 > *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
-> *'Never love anyone that treats you like you're ordinary.'*
-
 Run away from mediocrity. Be ready to loose people.
-
-<!--
-don't let people that are bad influences put you down
--->
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
 
@@ -987,6 +973,8 @@ don't let people that are bad influences put you down
 
 > *'You loose your identity, you loose people.' -- Amy Cuddy*
 
+> *'Don't let people that are bad influences to put you down.'*
+
 
 
 ===
@@ -995,6 +983,8 @@ don't let people that are bad influences put you down
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
 > *'Every person feels loved in a different form.'*
+
+> *'Never love anyone that treats you like you're ordinary.'*
 
 > *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
 First, your observations, or what you have noticed is happening in your relationship.<br>
