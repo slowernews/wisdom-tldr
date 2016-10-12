@@ -1460,7 +1460,8 @@ hot to make, how to keep, how to grow money
 ===
 ###On selling and persuasion
 
-We're all in sales every time we interact with anybody.<br>
+We're all in sales. You're in sales anytime you interact with anybody.
+
 Sales used to be about information asymmetry but times are changing.<br>
 It's now mostly applied persuasion and keeping relationships.
 
@@ -2341,6 +2342,8 @@ Dream big. If your dreams don't scare you, they are not big enough.
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
+
+> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high scores… You raise your hand and say, “Over here!” And the talent will come running, but that’s not true… [i]t’s not resilient and shiny… [t]alent is really, really fragile. -- Malcolm Gladwell'*
 
 HOWEVER, intelligence and talent are the most sensitive trigger points for envy.
 
