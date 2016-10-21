@@ -1,4 +1,4 @@
-# Wisdom pocket guide
+# Wisdom TLDR guide
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from quotes that match *my* biased experience <sup id="refnote1">[1](#footnote1)</sup>.<br>
 Exceptions to most rules also..
 
@@ -790,6 +790,8 @@ But the origin of most health problems is not physical.
 
 > *'Body language affects your psychology, your mood, and even your hormonal balance.'*
 
+> *'Action cures everything. Plain and simple.'*
+
 Stress is caused by under-stimulation or over-stimulation.
 
 > *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
@@ -907,7 +909,7 @@ i didn't get your text can you resend it? less strong. will you write a whole bo
 ===
 ###On listening and speaking
 
-Speak less, listen more: be [humble](#on-humbleness). Listening is powerful.
+Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
 
 > *'Listen to many, speak to a few.' -- William Shakespeare*
 
@@ -923,7 +925,8 @@ Speak less, listen more: be [humble](#on-humbleness). Listening is powerful.
 > *'Judge a man by his questions, not by his answers.'*
 -->
 
-Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and listen.
+Learn how to talk to people:<br> 
+Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and listen.
 
 > *'Rambling and not smiling are two things to get better speaking to anybody.'*
 
@@ -1314,7 +1317,7 @@ Employers hire you because you are a likable person that «get shit done».
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
-> *'Your work is the single greatest means at your disposal for expressing your social intelligence.'*
+> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
 HOWEVER, companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
 
@@ -1403,9 +1406,9 @@ Validate your business by finding paying clients.
 
 > *'The consumer votes with his wallet.'*
 
-> *'Sell first. Get paid up front. Test sales. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. Don't go back to the same people. If they were in, they'd be in on day one.'*
+> *'Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one.'*
 
-> *'In general, it is not about what you know, it is about who trusts you to reliably solve their problems.<br>
+> *'In general, it's not about what you know, it's about who trusts you to solve their problems.<br>
 Often, that requires the technical skills to reliably solve their problems.<br>
 Always, that requires the communication skills to persuade someone you can solve their problems.'*
 
@@ -1528,10 +1531,7 @@ For the accomodator, the relationship is the most important'*
 > *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
 naming the negatives first.'* 
 
-
-<!--
 REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
--->
 
 never split the difference
 
@@ -1574,9 +1574,11 @@ That said, a bad/good negotiation means that you are adding more/less value to t
 
 ###On analysis
 
-Analysis is more an art than a science.
+Analysis is an art, not a science.
 
 > *'To find deep truths intuition is better than statistics.'*
+
+> *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Levenstein*
 
 > *'«Dictator's dilemma»:  when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
@@ -2074,6 +2076,10 @@ Mirroring works best when your group is in minority.
 ===
 ###On charming
 
+<!--
+charming and selling?
+-->
+
 Charm the enemy and find their weaknesses.
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
@@ -2333,7 +2339,7 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
-> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high scores… You raise your hand and say, “Over here!” And the talent will come running, but that’s not true… [i]t’s not resilient and shiny… [t]alent is really, really fragile. -- Malcolm Gladwell'*
+> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile. -- Malcolm Gladwell'*
 
 HOWEVER, intelligence and talent are the most sensitive trigger points for envy.
 
@@ -2431,6 +2437,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
 
 > *'The hardest thing in the world to understand is the income tax.'*
+
+> *'80% of all people are voluntarily overpaying on their taxes.'*
 
 > *'Politicians don't get educated. They get bought.'*
 
