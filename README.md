@@ -126,11 +126,11 @@ Exceptions to most rules also..
 
 #### TL;DR 
 
-3 rules for life: *'fuck, don't give a fuck and don't be fucked over.'*<br>
+3 rules for life: *'F\*ck, don't give a f\*ck and don't be f\*cked over.'*<br>
 3 general advices:<br>
-*'the root of our problems is our inability to let go.' -- Leo Babauta*<br>
-*'avoiding conflict will not keep peace, will rot it.'*<br>
-*'the dose makes the poison'*<br>
+*'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
+*'Avoiding conflict will not keep peace, will rot it.'*<br>
+*'The dose makes the poison'*<br>
 One practical advice: *'have more than one child.'*<br>
 One last advice (specially for shy people): *'aim at relying on your network and not at being self-sufficient.'*
 
@@ -166,7 +166,7 @@ Love the life you have, while you create the life of your dreams.
 <a id="on-happiness"></a>Break or mix some long term goals with shorter term ones so you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
-> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
+> *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 
 <!-- 
 > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
@@ -385,6 +385,12 @@ HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest bar
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
 > *'Doubt kills more dreams than failure ever will.'*
+
+<!--
+1. Success is in Our Decisions Not Our Conclusions
+Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
+Success is truly about living a life with honor and integrity, not any material outcome.
+-->
 
 
 
@@ -655,6 +661,8 @@ Excuses are a manifestation of fear. None of them is acceptable. End.
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own Soul.
 
 you'll never have fear of loss when you give more value to lessons than successes.
+
+behaviours are driven by fear. to change behaviours focus on fear, not on the behaviour itself.
 -->
 
 
@@ -682,6 +690,8 @@ Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happi
 > *'The more you fail, the more you learn.'*
 
 > *'When you don't know something you will pay for it. That's the stupidity tax.'*
+
+> *'Prove all things; hold fast that which is good.' -- 1 Thessalonians 5:21*
 
 
 
@@ -800,6 +810,10 @@ By worrying about the [past](#on-past) or the [future](#on-future);
 
 <!--
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+
+on placebos
+“Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference.”
+– Erik Vance
 -->
 
 > *'If you are depressed you are living in the past. <br>
@@ -817,7 +831,9 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'Stress is caused by giving a fuck.'*
 
 <!--
-> *'Financial health is just as important as physical health.'*
+> *'Financial health is just as important as physical health.'*7
+
+nothing feels as good as having a ‘fuck you’ fund.
  -->
 
 <a id="on-being-relaxed"></a>The more relaxed you are, the better you are at everything.
@@ -1170,6 +1186,8 @@ Being a leader is different from being a boss. Leadership is based on [trust](#o
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 > *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
+
+> *'The only thing that gives orders, is balls.' -- Tony Montana*
 
 > *'People don't follow robots.'*
 
@@ -1533,6 +1551,8 @@ naming the negatives first.'*
 
 REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
 
+you don’t get what you desearve in life, you only get what you negotiate.
+
 never split the difference
 
 Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
@@ -1630,7 +1650,7 @@ decisions are affected by memory
 
 > *'You have choices. Choices are experiments.'*
 
-> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions'*
+> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions.'*
 
 <!--
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
@@ -1649,11 +1669,13 @@ we think we make choices but our choices are affected by others. (ex of naming a
 people pick what is familiar. people are influenced without us realizing.
 working class want to feel the same as others.
 white collar want to feel different from others.
+
+decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
 -->
 
 HOWEVER, too many decisions will drain you. Attention is the most limited resource.
 
-> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*timi
+> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
 
 
 
@@ -2352,6 +2374,8 @@ HOWEVER, intelligence and talent are the most sensitive trigger points for envy.
 
 Being rich is not counting money all day but being fulfilled.
 
+> *'Life, is not a having and a getting, but a being and a becoming.' -- Myrna Loy*
+
 > *'Shift your focus from achievement to fulfillment:<br>
 What makes you come alive, what do you enjoy doing, who do you enjoy being around?'*
 
@@ -2392,6 +2416,12 @@ But be positive, luck is a pattern and the pendulum will swing back your way eve
 > *'God is subtle but he is not malicious.'*
 
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
+
+<!--
+“What’s the difference between chance and luck?”
+“In many ways, it seems like certain people are luckier than others,” he said. “I think what that really means is that when they were given chances, they elected to pursue them, as opposed to step away from them. And that kind of creates the illusion of luck.”
+Luck is an open door. Chance is the willingness to step through
+-->
 
 
 
