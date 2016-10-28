@@ -126,7 +126,7 @@ Exceptions to most rules also..
 
 #### TL;DR 
 
-3 rules for life: *'F\*ck, don't give a f\*ck and don't be f\*cked over.'*<br>
+3 rules for life: *'Fuck, don't give a fuck and don't be fucked over.'*<br>
 3 general advices:<br>
 *'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
 *'Avoiding conflict will not keep peace, will rot it.'*<br>
@@ -307,6 +307,7 @@ Do not truly commit to anything but *yourself*.
 
 
 
+===
 ###On generosity
 
 Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
@@ -472,9 +473,9 @@ You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by
 
 The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
 
+<!--
 Just in time learning. You can learn faster if you have something your working on rather than some future idea that may not happen. Improves retention, wastes less time.
 
-<!-- 
 “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 there are consequences for acting and don't acting
 -->
@@ -491,6 +492,8 @@ Mentors are your best source of feedback. Feedback speeds up improvement.
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
 <!--
+Your father is your first mentor. 
+
 + - =
 find somebody smarter than you to teach you and learn something
 equal to you to challenge you
@@ -602,7 +605,7 @@ HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's alwa
 ===
 ###On being a mentor
 
-Your father is your first mentor. Be a mentor yourself and share your strengths. Impact the world.
+Be generous and share your strengths. Impact the world.
 
 > *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
 
@@ -610,16 +613,29 @@ Your father is your first mentor. Be a mentor yourself and share your strengths.
 
 > *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
 
-<!--
-mix with guerrilla thinking
-
-6 - i don't tell my boys them how to live. i live fully and let them see.
--->
 > *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
 
 > *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
 
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+
+<!--
+mix with guerrilla thinking
+-->
+
+Fatherhood makes you a mentor independently of your will.
+
+> *'I don't tell my boys them how to live. I live fully and let them see.'*
+
+<!--
+to combat perfectionism
+-->
+
+> *'If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.'*
+
+Learn how to give advice.
+
+> *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
 HOWEVER, some people are not ready to have a mentor and accept your vision. Accept it.
 
@@ -645,11 +661,15 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
 
+> *'Behaviors are driven by fear. to change behaviors focus on fear, not on the behavior itself.'*
+
 > *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
 
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
 
 > *'The things we fear the most have already happened to us.'*
+
+> *'You'll never have fear of loss when you give more value to lessons than successes.'*
 
 Excuses are a manifestation of fear. None of them is acceptable. End.
 
@@ -657,13 +677,7 @@ Excuses are a manifestation of fear. None of them is acceptable. End.
 
 > *'You'll never be as young as you are today.'*
 
-<!--
-There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own Soul.
-
-you'll never have fear of loss when you give more value to lessons than successes.
-
-behaviours are driven by fear. to change behaviours focus on fear, not on the behaviour itself.
--->
+> *'There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
 
 
 
@@ -702,7 +716,7 @@ Speaking openly about an imperfection is a sign of strength, not a weakness.<br>
 You are not you think you are: *you are what you hide*.
 
 <!--
-you can hide the ugly parts, but you can't make them disappear
+You can hide the ugly parts, but you can't make them disappear.
 -->
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
@@ -794,7 +808,7 @@ HOWEVER
 ###On health
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
-But the origin of most health problems is not physical.
+But the origin of most health problems is not physical are mental.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
@@ -802,11 +816,9 @@ But the origin of most health problems is not physical.
 
 > *'Action cures everything. Plain and simple.'*
 
-Stress is caused by under-stimulation or over-stimulation.
+Stress is caused by under-stimulation or over-stimulation (by worrying about the [past](#on-past) or the [future](#on-future)).
 
 > *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
-
-By worrying about the [past](#on-past) or the [future](#on-future);
 
 <!--
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
@@ -831,7 +843,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'Stress is caused by giving a fuck.'*
 
 <!--
-> *'Financial health is just as important as physical health.'*7
+> *'Financial health is just as important as physical health.'*
 
 nothing feels as good as having a ‘fuck you’ fund.
  -->
@@ -941,8 +953,7 @@ Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
 > *'Judge a man by his questions, not by his answers.'*
 -->
 
-Learn how to talk to people:<br> 
-Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and listen.
+Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and listen.
 
 > *'Rambling and not smiling are two things to get better speaking to anybody.'*
 
@@ -970,19 +981,17 @@ Relationships are based on [trust](#on-trust-and-integrity).
 > *'Focus on what you can give not what you can get. You only receive in proportion to what you give.'*
 
 <!--
-first we judge trust, before strength
+first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
 
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
 -->
 
-HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior.
+HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
 
 > *'Don't hide your feelings from people who show you theirs.'*
 
 > *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
-
-Run away from mediocrity. Be ready to loose people.
 
 > *'If you are lonely when you are not alone, you are in bad company.'*
 
@@ -1009,10 +1018,11 @@ Run away from mediocrity. Be ready to loose people.
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
-<!--
-keep separate bank accounts.
+Practical advices: keep separate bank accounts.
+
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
+<!--
 If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
 You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.
 
@@ -1050,13 +1060,13 @@ you're never a prophet in your homeland.
 working with friends is not good, because there will be always problems of fixing hierarchy. peers are peers not boss and employee.
 
 Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.
--->
 
 > *'Work friends are just that, work friends. Nothing more.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
+-->
 
-> *'Your friends are the ones that go to your funeral, in a day of rain.'*
+> *'Your friends are the ones that go to your funeral and in a day of rain.'*
 
 
 
@@ -1071,9 +1081,7 @@ Get proximity to successful, happy, and rich people. Be cool. They will likely i
 
 HOWEVER, don't vow to the gatekeepers.
 
-<!--
-Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. There is infinite opportunity right in front of you. You do not need them. You are choosing to do business with them as they are choosing to do business with you, making you both equals. 
--->
+> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. There is infinite opportunity right in front of you. You do not need them. You are choosing to do business with them as they are choosing to do business with you, making you both equals.'*
 
 
 
