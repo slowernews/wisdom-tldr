@@ -30,7 +30,7 @@ Exceptions to most rules also..
 - [On shame](#on-shame)
 - [On confidence and validation](#on-confidence-and-validation)
 - [On limits](#on-limits)
-- [On health](#on-health)
+- [On health and relax](#on-health-and-relax)
 
 
 ### Part 2 - Groups
@@ -59,10 +59,9 @@ Exceptions to most rules also..
 
 *On exchange*
 - [On business](#on-business)
-- [On negotiation](#on-negotiation)
-- [On price](#on-price)
+- [On negotiation and price](#on-negotiation-and-price)
 - [On selling and persuasion](#on-selling-and-persuasion)
-- [On buying](#on-buying)
+- [On deals](#on-deals)
 
 
 ### Part 3 - Action
@@ -83,7 +82,7 @@ Exceptions to most rules also..
 - [On adapting](#on-adapting)
 - [On balance](#on-balance)
 
-*On actions of competition*
+*On competing*
 - [On attacking and defending](#on-attacking-and-defending)
 - [On creating imbalances](#on-creating-imbalances)
 - [On unpredictability](#on-unpredictability)
@@ -314,7 +313,7 @@ Be generous from a place of abundance, where you are giving because you are alre
 
 HOWEVER, «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
 
-> *'Dás uma mão, arrancam-te o braço.'*
+> *'You give people a hand, they rip your arm out.'*
 
 
 
@@ -452,7 +451,7 @@ mental checklist of positive habits.
 
 People who are driven by the fear of missing out or the dream of early adopter super stardom are deploying a “middlebrow inference” that examines only the maximum possible return, not the value derived in expectation.
 The opportunity cost of missing a ‘new new thing’ like the airplane and the automobile is minuscule compared to the toxicity of all the garbage one has to go through to get these jewels.”
-t’s the rejection of such thinking that has led me to continue to abstain from Facebook and Twitter, among other popular pastimes in the rapidly evolving digital attention casino.
+it’s the rejection of such thinking that has led me to continue to abstain from Facebook and Twitter, among other popular pastimes in the rapidly evolving digital attention casino.
 
 Use your phone to set reminders for really important things automatically. Turn off push notifications for everything else.
 -->
@@ -750,6 +749,8 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
+> *'Let go of your ego and your need for validation.'*
+
 If you say it with confidence, you are who you say you are.
 
 > *'You're only as good as your next speech.'*
@@ -805,7 +806,7 @@ HOWEVER
 
 
 ===
-###On health
+###On health and relax
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
 But the origin of most health problems is not physical are mental.
@@ -816,7 +817,8 @@ But the origin of most health problems is not physical are mental.
 
 > *'Action cures everything. Plain and simple.'*
 
-Stress is caused by under-stimulation or over-stimulation (by worrying about the [past](#on-past) or the [future](#on-future)).
+Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).<br>
+The more relaxed you are, the better you are at everything.
 
 > *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
 
@@ -842,13 +844,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Stress is caused by giving a fuck.'*
 
-<!--
-> *'Financial health is just as important as physical health.'*
-
-nothing feels as good as having a ‘fuck you’ fund.
- -->
-
-<a id="on-being-relaxed"></a>The more relaxed you are, the better you are at everything.
+> *'Financial health is just as important as physical health. Nothing feels as good as having a ‘fuck you’ fund.'*
 
 > *'If you are feeling stressed out.. Breathe.'*
 
@@ -1109,7 +1105,7 @@ Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-
 
 > *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
 
-> *'Só há consensos no 1º e no ultimo minuto de algo.'*
+> *'Consensus happens just in the beginning and in the end of something.'*
 
 HOWEVER, beware of blindspots, not all criticism is envy.
 
@@ -1241,8 +1237,6 @@ make people feel as part of a family
 leader persuader
 -->
 
-
-
 When someone is out of line, don’t let it slide too far.
 If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
 
@@ -1332,6 +1326,12 @@ He who works with his hands and his head and his heart is an artist.' --  St. Fr
 How to keep talented people? Respect them.<br>
 You'll never respect them if you don't pay them accordingly.
 
+<!--
+make them part of the solution and part of the answer.
+you don't pay your family members, if its just money let them go.
+everything has to be win win. team members and not employees
+-->
+
 
 
 ===
@@ -1392,7 +1392,6 @@ return to an workplace
 
 people will describe your strengths if you ask them why did you ask him for an interview.
 than work from there.
-
 -->
 
 
@@ -1438,8 +1437,7 @@ Validate your business by finding paying clients.
 Often, that requires the technical skills to reliably solve their problems.<br>
 Always, that requires the communication skills to persuade someone you can solve their problems.'*
 
-Successful *entrepreneurs* are good managing risk.<br>
-HOWEVER they have extended comfort zones: low risk for them might mean high risk for you.
+Successful *entrepreneurs* are good risk managers.
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
@@ -1477,53 +1475,7 @@ hot to make, how to keep, how to grow money
 
 
 ===
-###On selling and persuasion
-
-We're all in sales. You're in sales anytime you interact with anybody.
-
-Sales used to be about information asymmetry but times are changing.<br>
-It's now mostly applied persuasion and keeping relationships.
-
-> *'When you go up in an hierarchy you the need of persuasion is higher.<br>
-To persuade up, focus in interests; to persuade down focus in emotions.'*
-
-> *'Historically, the seller had more information than the buyer. 
-Its a different game now. Everybody knows immediately the alternatives.'*
-
-> *'Selling by just keeping in touch. send emails once in a while.'*
-
-<!--
-irritation -> challenge people to make something that they don't want to do
-agitation -> challenge people to make something that they want to do. suggesting ego etc
-
-agitate more than irritate
-
-mimicking people gestures and words works!
-
-So can you pitch me what our company does?
-
-people minds work by association.
-pre-suasion
-
-use testimonials that allow people to see themselves in that testimony
-people are intrigued by mystery! stories!
-
-get to objections
-
-best sellers are ambiverts.
--->
-
-
-
-===
-###On buying
-
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
-
-
-
-===
-###On negotiation
+###On negotiation and price
 
 To negotiate is to have options.<br>
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
@@ -1559,7 +1511,7 @@ naming the negatives first.'*
 
 REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
 
-you don’t get what you desearve in life, you only get what you negotiate.
+you don’t get what you deserve in life, you only get what you negotiate.
 
 never split the difference
 
@@ -1574,6 +1526,9 @@ Negotiate contracts in minute detail on the front end so that you aren’t negot
 > *'Instead of generalizing, stick with the facts.'* 
 -->
 
+Negotiation establishes the price (exchange rate between money and value).
+That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it
+
 HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.'*
@@ -1583,10 +1538,65 @@ HOWEVER, always strive to achieve a win-win situation. The deal will fall if bot
 
 
 ===
-###On price
+###On selling and persuasion
 
-[Negotiation](#on-negotiation) establishes the price (exchange rate between money and value).
-That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it.
+We're all in sales. You're in sales anytime you interact with anybody.
+
+Sales used to be about information asymmetry but times are changing.<br>
+Now It's mostly applied persuasion and keeping relationships.
+
+> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
+To persuade up, focus in interests; to persuade down focus in emotions.'*
+
+> *'Historically, the seller had more information than the buyer. 
+Its a different game now. Everybody knows immediately the alternatives.'*
+
+> *'Selling by just keeping in touch. send emails once in a while.'*
+
+> *'Best sellers are ambiverts.'*
+
+<!--
+irritation -> challenge people to make something that they don't want to do
+agitation -> challenge people to make something that they want to do. suggesting ego etc
+
+agitate more than irritate
+
+mimicking people gestures and words works!
+
+So can you pitch me what our company does?
+
+people minds work by association.
+pre-suasion
+
+use testimonials that allow people to see themselves in that testimony
+people are intrigued by mystery! stories!
+
+get to objections
+
+when you have passion you communicate better
+
+intro: //clay hebert
+I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
+6 or 7 words - short and sweet and confident and interesting.
+
+ask them first so you can costumise it for the context and make it more relevant.
+
+then give an interesting story: choose one testimonial
+instead of detail and inaccurate.
+
+success in sales
+ocean of rejection. face your failures is a good indicator of being a good seller.
+most rejections are not your fault.
+
+I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
+-->
+
+
+
+===
+###On deals
+
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 
 
@@ -1707,8 +1717,6 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
-> *'Strategy requires thought; tactics require observation.' -- Max Euwe*
-
 > *'The script is going to be bad but in the end we'll finish eating pizza.'*
 
 HOWEVER, some people get paralyzed by over thinking.
@@ -1716,6 +1724,9 @@ HOWEVER, some people get paralyzed by over thinking.
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 <!--
+
+'Strategy requires thought; tactics require observation.' -- Max Euwe
+
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
@@ -1752,11 +1763,19 @@ Always be doing something creative. Your soul won’t survive without it.
 > *'Teach no one your tricks or they will be used against you.'* 
 
 ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
+
+creativity is a muscle - you have to practice it every day.
+
+Creativity and critical thinking. In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.
+In executive position, visionary, maverick, multidisciplinary thinker, etc.
+You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
 -->
 
 > *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
 
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
+
+> *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
@@ -2142,7 +2161,7 @@ Use absence and bait to attract people.
 
 HOWEVER, use absence with [moderation](#on-balance).
 
-> *'Quem muito se ausenta um dia deixa de fazer falta.'*
+> *'If you're absent too much, one day you're not needed anymore.'*
 
 
 
@@ -2170,18 +2189,16 @@ HOWEVER, there are same people acting stupid though. Easy wins if you can identi
 ===
 ###On difficult targets
 
-To win, besides outworking them, you'll need all weaponry. Even the 'dirty stuff'.
+To win, besides outworking them, you'll need all weaponry. Even the «dirty stuff».
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
-*Pawn sacrifices* are an example of 'dirty stuff'.<br>
+«Pawn sacrifices», bribes and lying are examples of «dirty stuff».<br>
 They can be effective but use them *only* on life changing situations: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
 
 > *'Keep your hands clean.' -- Robert Greene (26th law of power)*
-
-<!-- bribes, lying -->
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-targets) if you can see the end already.
 
@@ -2365,13 +2382,13 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 ###On intelligence and talent
 
+Genius and talent are rare, and as such, the most sensitive trigger points for envy.
+
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile. -- Malcolm Gladwell'*
-
-HOWEVER, intelligence and talent are the most sensitive trigger points for envy.
 
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
