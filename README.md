@@ -586,7 +586,7 @@ HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's alwa
 
 
 ===
-###On being generous
+###On generosity
 
 Be generous and share your strengths. Impact the world.
 
@@ -866,11 +866,12 @@ If you feel powerless/being dominated you will be chronically stressed.
 
 
 ===
-	  __                                                                 
-	 /  |           /      /                        /    /               
-	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  ___ 
-	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )|___ 
-	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  /  __/ 
+	  __                                                            
+	 /  |           /      /                        /    /          
+	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___ 
+	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )
+	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  / 
+                                                                
 
 
 
@@ -1058,11 +1059,9 @@ Get proximity to successful, happy, and rich people. Be cool. They will likely i
 ===
 ###On higher ranks
 
-> *'Never outshine the master.' -- Robert Greene (1st law of power)*
-
-> *'Know who you’re dealing with: do not offend the wrong person.' -- Robert Greene (9th law of power)*
-
-> *'Avoid stepping into a great man’s shoes.' -- Robert Greene (41st law of power)*
+> *'Never outshine the master.'<br>
+'Know who you’re dealing with: do not offend the wrong person.'<br>
+'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
 
 HOWEVER, don't vow to the gatekeepers.
 
@@ -1071,12 +1070,12 @@ HOWEVER, don't vow to the gatekeepers.
 
 
 ===   
-	  __                                                                                                                       
-	 /  |           /      /                        /    /                            |                /              /        
-	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  ___  _        ___| ___  ___      (___  ___  ___ (     ___ 
-	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )|___          |   )|   )|   )|   )|   )|   )|    |___)|___ 
-	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  /  __/  -       |__/ |    |__/||/\/ |__/ |__/||__  | \   __/ 
-	                                                                                                                           
+	  __                                                                                                                  
+	 /  |           /      /                        /    /                       |                /              /        
+	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  _        ___| ___  ___      (___  ___  ___ (     ___ 
+	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )         |   )|   )|   )|   )|   )|   )|    |___)|___ 
+	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  /  -       |__/ |    |__/||/\/ |__/ |__/||__  | \   __/ 
+	                                                                                                                      
 
 
 ###On criticism and envy
@@ -1397,7 +1396,7 @@ than work from there.
 ###On business
 
 To make money is to add value.<br>
-Focus on areas where you are motivated to add value but be realistic when choosing your market.
+Focus on areas where you are motivated to add value AND there's demand.
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
@@ -1409,7 +1408,7 @@ Focus on areas where you are motivated to add value but be realistic when choosi
 
 > *'To make money focus on the fun.'*
 
-> *'Scratch your own itch.'*
+> *'Scratch your own itch it's good only as a start.'*
 
 > *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
 
@@ -1420,6 +1419,8 @@ Validate your business by finding paying clients.
 > *'The consumer votes with his wallet.'*
 
 > *'Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one.'*
+
+> *'Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no demand.'*
 
 > *'In general, it's not about what you know, it's about who trusts you to solve their problems.<br>
 Often, that requires the technical skills to reliably solve their problems.<br>
@@ -1434,10 +1435,6 @@ Successful *entrepreneurs* are good risk managers.
 > *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
 
 <!--
-Do things manually at first.
-You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually do you have to worry about automation.
-Use scripts or software to do what you would normally do manually, but only after you have established success manually. Don’t put a bunch of effort in on the front end to find out there’s no demand. Then productize. Automate. Streamline. Checklists and procedures to remove any thought from the equation.
-
 When evaluating an idea make sure the math scales
 - If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent?
 - How many potential sales, how much does it cost to reach them, what is a conversion rate to expect?
@@ -1504,20 +1501,19 @@ you don’t get what you deserve in life, you only get what you negotiate.
 never split the difference
 
 Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
+
+> *'Instead of generalizing, stick with the facts.'*
+
 -->
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
 
 > *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
 
-<!-- 
-> *'Instead of generalizing, stick with the facts.'*
-
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
--->
-
 Negotiation establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it
+
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
