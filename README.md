@@ -9,20 +9,19 @@ Exceptions to most rules also..
 *On foundations*
 - [On gratefulness and happiness](#on-gratefulness-and-happiness)
 - [On identity](#on-identity)
-- [On generosity](#on-generosity)
 - [On freedom](#on-freedom)
-- [On ambition and motivation](#on-ambition-and-motivation)
+- [On motivation](#on-motivation)
 
 *On growth*
 - [On success](#on-success)
 - [On comfort and risk](#on-comfort-and-risk)
 - [On habits](#on-habits)
 - [On improvement](#on-improvement)
-- [On having mentors](#on-having-mentors)
+- [On getting feedback](#on-getting-feedback)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
 - [On mastery](#on-mastery)
-- [On being a mentor](#on-being-a-mentor)
+- [On generosity](#on-generosity)
 
 *On your worst enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
@@ -36,23 +35,23 @@ Exceptions to most rules also..
 ### Part 2 - Groups
 
 
-*On being social*
+*On interactions*
 - [On networking](#on-networking)
-- [On listening and speaking](#on-listening-and-speaking)
+- [On communication](#on-communication)
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family](#on-family)
 - [On peers](#on-peers)
 - [On higher ranks](#on-higher-ranks)
 
-*On being social: bad parts*
+*On interactions: drawbacks*
 - [On criticism and envy](#on-criticism-and-envy)
 - [On outliers](#on-outliers)
 - [On herd mentality](#on-herd-mentality)
 
 *On teams and hierarchy*
 - [On leadership](#on-leadership)
-- [On communication](#on-communication)
+- [On management](#on-management)
 - [On delegation](#on-delegation)
 - [On hiring and keeping talent](#on-hiring-and-keeping-talent)
 - [On being hired](#on-being-hired)
@@ -61,7 +60,6 @@ Exceptions to most rules also..
 - [On business](#on-business)
 - [On negotiation and price](#on-negotiation-and-price)
 - [On selling and persuasion](#on-selling-and-persuasion)
-- [On deals](#on-deals)
 
 
 ### Part 3 - Action
@@ -162,7 +160,7 @@ Love the life you have, while you create the life of your dreams.
 
 <!-- mix with luck? -->
 
-<a id="on-happiness"></a>Break or mix some long term goals with shorter term ones so you can enjoy the journey.<br>
+<a id="on-happiness"></a>Break or mix some long term with short term goals so you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
@@ -188,15 +186,13 @@ authentic self is a state
 ===
 ###On identity
 
-Work on your identity. You are your deeds.
+You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
 > *'How you do anything is how you do everything.'*
 
-Have personal accountability.
-
-> *'Cancel your pity party. Pull yourself together and take total ownership for everything in your life.'*
+Cancel your pity party. Pull yourself together and take total ownership for everything in your life.
 
 > *'Be the person your dog think you are.'*
 
@@ -307,18 +303,7 @@ Do not truly commit to anything but *yourself*.
 
 
 ===
-###On generosity
-
-Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
-
-HOWEVER, «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
-
-> *'You give people a hand, they rip your arm out.'*
-
-
-
-===
-###On ambition and motivation
+###On motivation
 
 Succeeding at mediocrity isn't a worthwhile life.
 
@@ -372,7 +357,7 @@ play to win, not hoping to make it, or why are you doing it? committed to win
 ###On success
 
 There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
-Success is not being [wealthy](#on-wealth) but being [fulfilled](#on-gratefulness-and-happiness).
+Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -425,14 +410,15 @@ Choose the Hard Way. Life is easy, and a soft life makes for soft people. Take a
 ===
 ###On habits
 
-Consistency is key. Consistency doesn’t come from effort, it comes from systems.
-Habits allow [mastery](#on-mastery) and [success](#on-success).
+Consistency is key. Habits allow [mastery](#on-mastery) and [success](#on-success).
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
 > *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times. You must do things over and over, usually the hard way.' -- Allen Tucker*
+
+Consistency doesn’t come from effort, it comes from systems. Decisions compound.
 
 Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.<br>
 Avoid low value systems: social media, news, owning a TV, working long hours, control of petty stuff.
@@ -445,8 +431,6 @@ Spend the last hour of the day (or all day) without electronic devices.' -- Alle
 > *'Don’t concern yourself with the news. It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
 
 <!--
-good decisions compound.
-
 mental checklist of positive habits.
 
 People who are driven by the fear of missing out or the dream of early adopter super stardom are deploying a “middlebrow inference” that examines only the maximum possible return, not the value derived in expectation.
@@ -482,7 +466,7 @@ there are consequences for acting and don't acting
 
 
 ===
-###On having mentors
+###On getting feedback
 
 Mentors are your best source of feedback. Feedback speeds up improvement.
 
@@ -602,7 +586,7 @@ HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's alwa
 
 
 ===
-###On being a mentor
+###On being generous
 
 Be generous and share your strengths. Impact the world.
 
@@ -620,9 +604,17 @@ Be generous and share your strengths. Impact the world.
 
 <!--
 mix with guerrilla thinking
+
+karma
+
+Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
+
+HOWEVER, «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
+
+> *'You give people a hand, they rip your arm out.'*
 -->
 
-Fatherhood makes you a mentor independently of your will.
+Fatherhood makes you a mentor independently of your will. Learn how to give advice.
 
 > *'I don't tell my boys them how to live. I live fully and let them see.'*
 
@@ -631,8 +623,6 @@ to combat perfectionism
 -->
 
 > *'If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.'*
-
-Learn how to give advice.
 
 > *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
@@ -809,7 +799,7 @@ HOWEVER
 ###On health and relax
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
-But the origin of most health problems is not physical are mental.
+However, the origin of most health problems is not physical but mental.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
@@ -876,12 +866,11 @@ If you feel powerless/being dominated you will be chronically stressed.
 
 
 ===
-	  __                                                              
-	 /  |           /         /                               /      /
-	(   | ___      (___  ___    ___  ___       ___  ___  ___    ___ ( 
-	|   )|   )     |   )|___)| |   )|   )     |___ |   )|    | |   )| 
-	|__/ |  /      |__/ |__  | |  / |__/       __/ |__/ |__  | |__/|| 
-	                                __/                               
+	  __                                                                 
+	 /  |           /      /                        /    /               
+	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  ___ 
+	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )|___ 
+	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  /  __/ 
 
 
 
@@ -931,7 +920,7 @@ i didn't get your text can you resend it? less strong. will you write a whole bo
 
 
 ===
-###On listening and speaking
+###On communication
 
 Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
 
@@ -1082,13 +1071,12 @@ HOWEVER, don't vow to the gatekeepers.
 
 
 ===   
-	  __                                                                                                                    
-	 /  |           /         /                               /      /          /            |                     /        
-	(   | ___      (___  ___    ___  ___       ___  ___  ___    ___ (  _       (___  ___  ___|      ___  ___  ___ (___  ___ 
-	|   )|   )     |   )|___)| |   )|   )     |___ |   )|    | |   )|          |   )|   )|   )     |   )|   )|   )|    |___ 
-	|__/ |  /      |__/ |__  | |  / |__/       __/ |__/ |__  | |__/||  -       |__/ |__/||__/      |__/ |__/||    |__   __/ 
-	                                __/                                                            |                        
-
+	  __                                                                                                                       
+	 /  |           /      /                        /    /                            |                /              /        
+	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  ___  _        ___| ___  ___      (___  ___  ___ (     ___ 
+	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )|___          |   )|   )|   )|   )|   )|   )|    |___)|___ 
+	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  /  __/  -       |__/ |    |__/||/\/ |__/ |__/||__  | \   __/ 
+	                                                                                                                           
 
 
 ###On criticism and envy
@@ -1244,7 +1232,7 @@ Always be clear and specific about what you expect from other people. You can no
 
 
 ===
-###On communication
+###On management
 
 Management is about communication.<br>
 Being a leader requires to be equal parts manager and psychotherapist.
@@ -1523,7 +1511,9 @@ Negotiate contracts in minute detail on the front end so that you aren’t negot
 > *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
 
 <!-- 
-> *'Instead of generalizing, stick with the facts.'* 
+> *'Instead of generalizing, stick with the facts.'*
+
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 -->
 
 Negotiation establishes the price (exchange rate between money and value).
@@ -1590,13 +1580,6 @@ most rejections are not your fault.
 
 I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
 -->
-
-
-
-===
-###On deals
-
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 
 
@@ -2023,12 +2006,12 @@ It is about making progress in all areas of your life and ensuring that you impr
 
 
 ===
-	  __                                                       __                                                       
-	 /  |                     /    /                          /                                  /    / /    /          
-	(   | ___       ___  ___ (___    ___  ___  ___       ___ (          ___  ___  _ _  ___  ___ (___   (___    ___  ___ 
-	|   )|   )     |   )|    |    | |   )|   )|___      |   )|___      |    |   )| | )|   )|___)|    | |    | |   )|   )
-	|__/ |  /      |__/||__  |__  | |__/ |  /  __/      |__/ |         |__  |__/ |  / |__/ |__  |__  | |__  | |__/ |  / 
-	                                                                                  |                                 
+	  __                                                     
+	 /  |                                    /    /          
+	(   | ___       ___  ___  _ _  ___  ___ (___    ___  ___ 
+	|   )|   )     |    |   )| | )|   )|___)|    | |   )|   )
+	|__/ |  /      |__  |__/ |  / |__/ |__  |__  | |  / |__/ 
+	                              |                     __/  
 
 
 
