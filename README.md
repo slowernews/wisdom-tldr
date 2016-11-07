@@ -423,10 +423,10 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.<br>
 Avoid low value systems: social media, news, owning a TV, working long hours, control of petty stuff.
 
-> *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker'*
+> *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
 
 > *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
-Spend the last hour of the day (or all day) without electronic devices.' -- Allen Tucker'*
+Spend the last hour of the day (or all day) without electronic devices.' -- Allen Tucker*
 
 > *'Don’t concern yourself with the news. It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
 
@@ -470,9 +470,9 @@ there are consequences for acting and don't acting
 
 Mentors are your best source of feedback. Feedback speeds up improvement.
 
-> *'Follow the thought leaders instead of the traffic leaders.'*
-
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
+
+> *'Follow the thought leaders instead of the traffic leaders.'*
 
 <!--
 Your father is your first mentor. 
@@ -785,7 +785,7 @@ impostor syndrome
 
 > *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
 
-> *'The only person standing in your way is you.' -- Black Swan
+> *'The only person standing in your way is you.' -- Black Swan*
 
 HOWEVER
 
@@ -834,9 +834,9 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Stress is caused by giving a fuck.'*
 
-> *'Financial health is just as important as physical health. Nothing feels as good as having a ‘fuck you’ fund.'*
+> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
 
-> *'If you are feeling stressed out.. Breathe.'*
+> *'If you are feeling stressed out.. breathe.'*
 
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
 
@@ -971,6 +971,8 @@ first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
 
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
+
+on a long term relationship, politics must match
 -->
 
 HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
@@ -1012,9 +1014,9 @@ Practical advices: keep separate bank accounts.
 If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
 You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.
 
-> *'love me when i least deserve it, because that's when i really need it.' -- Swedish proverb*
+> *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman.'*
+> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 -->
 
 
@@ -1052,7 +1054,7 @@ Get proximity to successful, happy, and rich people. Be cool. They will likely i
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 -->
 
-> *'Your friends are the ones that go to your funeral and in a day of rain.'*
+> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 
 
@@ -1117,7 +1119,7 @@ You’re judged by what you do, not what you think.
 
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
 
-> *'If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.' -- Albert Einstein*
+> *'If A is a success in life, then A equals X plus Y plus Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
@@ -1395,7 +1397,7 @@ than work from there.
 
 ###On business
 
-To make money is to add value.<br>
+Business exchanges value for money.<br>
 Focus on areas where you are motivated to add value AND there's demand.
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
@@ -1428,20 +1430,15 @@ Always, that requires the communication skills to persuade someone you can solve
 
 Successful *entrepreneurs* are good risk managers.
 
-> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
-
 > *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
 
-> *'Startup fortune cookie: That company that seems so interested in buying you won't.'*
+> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
+
+> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough? Is the price high enough? Are the costs low enough?'*
+
+> *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
 <!--
-When evaluating an idea make sure the math scales
-- If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent?
-- How many potential sales, how much does it cost to reach them, what is a conversion rate to expect?
-- How much can you produce in an hour, will that ever pay you enough?
-- Is the price high enough?
-- Are the costs low enough?
-
 It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
 
 zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it
@@ -1768,7 +1765,7 @@ Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 <!-- 
 Don't avoid conflict. Small conflicts will grow into big conflicts. 
 
-rotten peace
+rotten peace - builds resentment
 -->
 
 > *'I am either part of the solution or part of the problem.'*
