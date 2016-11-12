@@ -85,8 +85,8 @@ Exceptions to most rules also..
 - [On creating imbalances](#on-creating-imbalances)
 - [On unpredictability](#on-unpredictability)
 - [On deceiving](#on-deceiving)
-- [On mirroring](#on-mirroring)
 - [On charming](#on-charming)
+- [On mirroring](#on-mirroring)
 - [On easy targets](#on-easy-targets)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
@@ -2080,19 +2080,6 @@ HOWEVER, deceiving is not lying.
 
 
 ===
-###On mirroring
-
-Mirroring works best when your group is in minority.
-
-> *'Being pacifist in face of wolves is the source of endless tragedy.'*
-
-> *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
-
-> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
-
-
-
-===
 ###On charming
 
 <!--
@@ -2103,13 +2090,10 @@ Charm the enemy and find their weaknesses.
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
-> *'Pose as a friend, work as a spy.' -- Robert Greene (14th law of power)*
-
-> *'Discover each man’s thumbscrew.' -- Robert Greene (33rd law of power)*
-
-> *'Use selective honesty and generosity to disarm your victim.' -- Robert Greene (12th law of power)*
-
-> *'Work on the hearts and minds of others.' -- Robert Greene (43rd law of power)*
+> *'Use selective honesty and generosity to disarm your victim.'<br>
+'Pose as a friend, work as a spy.'<br>
+'Discover each man’s thumbscrew.'<br>
+'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
 
 > *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
@@ -2117,9 +2101,8 @@ Use absence and bait to attract people.
 
 > *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
 
-> *'Learn to keep people dependent on you.' -- Robert Greene (11th law of power)*
-
-> *'Make other people come to you: use bait if necessary.' -- Robert Greene (8th law of power)*
+> *'Make other people come to you: use bait if necessary.'<br>
+'Learn to keep people dependent on you.' -- Robert Greene (8th and 11th law of power)*
 
 > *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
 
@@ -2131,7 +2114,20 @@ Use absence and bait to attract people.
 
 HOWEVER, use absence with [moderation](#on-balance).
 
-> *'If you're absent too much, one day you're not needed anymore.'*
+> *'If you're always absent, soon you'll not be needed.'*
+
+
+
+===
+###On mirroring
+
+Mirroring works best when your group is in minority.
+
+> *'Being pacifist in face of wolves is the source of endless tragedy.'*
+
+> *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
+
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
 
 
