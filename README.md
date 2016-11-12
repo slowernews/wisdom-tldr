@@ -70,7 +70,6 @@ Exceptions to most rules also..
 - [On decision making](#on-decision-making)
 - [On planning](#on-planning)
 - [On creativity and ideas](#on-creativity-and-ideas)
-- [On neutrality and isolation](#on-neutrality-and-isolation)
 
 *On executing*
 - [On timing](#on-timing)
@@ -90,6 +89,7 @@ Exceptions to most rules also..
 - [On easy targets](#on-easy-targets)
 - [On difficult targets](#on-difficult-targets)
 - [On desperate targets](#on-desperate-targets)
+- [On defeating status quo](#on-defeating-status-quo)
 
 *On ending*
 - [On finishing](#on-finishing)
@@ -534,6 +534,8 @@ You learn by analysis of past situations.
 
 > *'Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
 
+> *'The years say, what the days can't tell.' -- Chinese proverb*
+
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
 <!--
@@ -916,6 +918,18 @@ build rapport - cut the BS. speak whats in your mind, sometimes it backfires. be
 i didn't get your text can you resend it? less strong. will you write a whole book in your phone? make it non threating
 
 > *'on networking: expand from too dense networks. custom tailor teams from project to project. same team from same project is not the best option. if anybody in your list knows everybody is a big pro
+
+Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+
+Don't avoid conflict. Small conflicts will grow into big conflicts. 
+
+rotten peace - builds resentment
+
+> *'I am either part of the solution or part of the problem.'*
+
+> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
+
+> *'Well-kept gardens die by pacifism.'*
 -->
 
 
@@ -1067,7 +1081,7 @@ Get proximity to successful, happy, and rich people. Be cool. They will likely i
 
 HOWEVER, don't vow to the gatekeepers.
 
-> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. There is infinite opportunity right in front of you. You do not need them. You are choosing to do business with them as they are choosing to do business with you, making you both equals.'*
+> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. You are choosing to do business with them as they are choosing to do business with you, making you both equals.'*
 
 
 
@@ -1115,7 +1129,7 @@ Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
-You’re judged by what you do, not what you think.
+You’re judged by what you say, not what you think.
 
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
 
@@ -1715,7 +1729,7 @@ position yourself for victory. long term thinking.
 ===
 ###On creativity and ideas
 
-Always be doing something creative. Your soul won’t survive without it.
+Always be doing something creative. Without new experiences, your soul rots.
 
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
@@ -1754,25 +1768,6 @@ You can only truly creative in a position with autonomy, so you either climb the
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
-
-
-
-===
-###On neutrality and isolation
-
-Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
-
-<!-- 
-Don't avoid conflict. Small conflicts will grow into big conflicts. 
-
-rotten peace - builds resentment
--->
-
-> *'I am either part of the solution or part of the problem.'*
-
-> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
-
-> *'Well-kept gardens die by pacifism.'*
 
 
 
@@ -1836,7 +1831,7 @@ HOWEVER, you should have some [plan](#on-planning).
 ===
 ###On pace
 
-Direction is more important than pace.
+Direction is more important than pace. Don’t be afraid to take time away to find your direction.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
@@ -2044,7 +2039,7 @@ and [bait](#on-charming). Some targets may require special tools.
 charming and selling?
 -->
 
-Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
+Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving)Rou.
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
@@ -2079,7 +2074,7 @@ HOWEVER, use absence with [moderation](#on-balance).
 ===
 ###On deceiving
 
-> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
+'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu
 
 > *'Court attention at all cost.'<br>
 'Play to people’s fantasies.'<br>
@@ -2142,7 +2137,7 @@ Beware of easy targets. Most times it's [bait](#on-charming).
 
 > *«El dorados» are never drawn in the map.'*
 
-HOWEVER, there are same people acting stupid though. Easy wins if you can identify them.
+HOWEVER, there are same people acting stupid. Easy wins if you can identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
@@ -2184,6 +2179,16 @@ Desperate targets will risk anything in a fight. This gives them a huge advantag
 <!--
  *'Our fearlessness shall be our secret weapon.' -- John Green* 
  -->
+
+
+
+===
+###On defeating status quo
+
+> *'The only successful revolutions are those revolutions and changes that are coming from within.' -- Srdja Popovic*
+
+> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How?<br>
+Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
 
 
 
@@ -2260,7 +2265,9 @@ You’re not managing time, you're managing attention.
 
 > *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
 
+<!--
 > *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
+-->
 
 Track time and journal for hints on where to improve.
 
@@ -2470,19 +2477,19 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On science and religion
 
+'And on the first day, men created god.'
+
 > *'Science without religion is lame. Religion without science is blind.'*
 
 > *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
 
-> *'Technological progress is like an ax in the hands of a pathological criminal.'*
-
-> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
+> *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
 
-> *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
+> *'Technological progress is like an ax in the hands of a pathological criminal.'*
 
-> *'And on the first day, men created god.'*
+> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
 
 
 
