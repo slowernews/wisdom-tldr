@@ -83,9 +83,9 @@ Exceptions to most rules also..
 *On competing*
 - [On attacking and defending](#on-attacking-and-defending)
 - [On creating imbalances](#on-creating-imbalances)
-- [On unpredictability](#on-unpredictability)
-- [On deceiving](#on-deceiving)
 - [On charming](#on-charming)
+- [On deceiving](#on-deceiving)
+- [On unpredictability](#on-unpredictability)
 - [On mirroring](#on-mirroring)
 - [On easy targets](#on-easy-targets)
 - [On difficult targets](#on-difficult-targets)
@@ -2038,14 +2038,41 @@ and [bait](#on-charming). Some targets may require special tools.
 
 
 ===
-###On unpredictability
+###On charming
 
-> *'Conceal your intention.'<br>
-'Say less than necessary.'<br>
-'Keep others in suspended terror: cultivate an air of unpredictability.'<br>
-'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
+<!--
+charming and selling?
+-->
 
-HOWEVER, unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
+
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
+
+> *'Use selective honesty and generosity to disarm your victim.'<br>
+'Pose as a friend, work as a spy.'<br>
+'Discover each man’s thumbscrew.'<br>
+'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
+
+> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
+
+Use absence and bait to attract people.
+
+> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
+
+> *'Make other people come to you: use bait if necessary.'<br>
+'Learn to keep people dependent on you.' -- Robert Greene (8th and 11th law of power)*
+
+> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
+
+> *'We attract more flies with honey than vinegar.'*
+
+> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
+
+> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
+
+HOWEVER, use absence with [moderation](#on-balance).
+
+> *'If you're always absent, soon you'll not be needed.'*
 
 
 
@@ -2080,41 +2107,14 @@ HOWEVER, deceiving is not lying.
 
 
 ===
-###On charming
+###On unpredictability
 
-<!--
-charming and selling?
--->
+> *'Conceal your intention.'<br>
+'Say less than necessary.'<br>
+'Keep others in suspended terror: cultivate an air of unpredictability.'<br>
+'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
-Charm the enemy and find their weaknesses.
-
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
-
-> *'Use selective honesty and generosity to disarm your victim.'<br>
-'Pose as a friend, work as a spy.'<br>
-'Discover each man’s thumbscrew.'<br>
-'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
-
-> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
-
-Use absence and bait to attract people.
-
-> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
-
-> *'Make other people come to you: use bait if necessary.'<br>
-'Learn to keep people dependent on you.' -- Robert Greene (8th and 11th law of power)*
-
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
-> *'We attract more flies with honey than vinegar.'*
-
-> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
-
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
-
-HOWEVER, use absence with [moderation](#on-balance).
-
-> *'If you're always absent, soon you'll not be needed.'*
+HOWEVER, unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
 
 
