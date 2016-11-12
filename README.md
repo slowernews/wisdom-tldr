@@ -83,7 +83,8 @@ Exceptions to most rules also..
 *On competing*
 - [On attacking and defending](#on-attacking-and-defending)
 - [On creating imbalances](#on-creating-imbalances)
-- [On unpredictability and deceiving](#on-unpredictability-and-deceiving)
+- [On unpredictability](#on-unpredictability)
+- [On deceiving](#on-deceiving)
 - [On mirroring](#on-mirroring)
 - [On charming](#on-charming)
 - [On easy targets](#on-easy-targets)
@@ -2031,20 +2032,27 @@ HOWEVER, beware of counter-attacking.
 ###On creating imbalances
 
 Create imbalances in your target to create an advantage and raise chances of winning.<br>
-Use methods like [unpredictability and deceiving](#on-unpredictability-and-deceiving), [mirroring](#on-mirroring)
+Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-charming). Some targets may require special tools.
 
 
 
 ===
-###On unpredictability and deceiving
-
-> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
+###On unpredictability
 
 > *'Conceal your intention.'<br>
 'Say less than necessary.'<br>
 'Keep others in suspended terror: cultivate an air of unpredictability.'<br>
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
+
+HOWEVER, unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+
+
+
+===
+###On deceiving
+
+> *'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu*
 
 > *'Court attention at all cost.'<br>
 'Play to people’s fantasies.'<br>
@@ -2068,8 +2076,6 @@ HOWEVER, deceiving is not lying.
 
 > *'Bad liars should speak as little as possible.'*
 -->
-
-HOWEVER, unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
 
 
