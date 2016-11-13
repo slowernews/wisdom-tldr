@@ -16,8 +16,7 @@ Exceptions to most rules also..
 - [On comfort and risk](#on-comfort-and-risk)
 - [On success](#on-success)
 - [On habits](#on-habits)
-- [On improvement](#on-improvement)
-- [On mastery](#on-mastery)
+- [On improvement and mastery](#on-improvement)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
 - [On generosity](#on-generosity)
@@ -442,7 +441,7 @@ Use your phone to set reminders for really important things automatically. Turn 
 
 
 ===
-###On improvement
+###On improvement and mastery
 
 Most problems can be solved by graded exposure over time.<br>
 You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
@@ -477,13 +476,7 @@ equal to you to challenge you
 less than you that you can teach and learn something
 -->
 
-
-
-===
-###On mastery
-
-First learn the rules. Then break them.<br>
-You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+After learning the rules, break them. Only then you can achieve mastery.
 
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'*
 
@@ -2217,9 +2210,8 @@ Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
 It's not just about winning. The way you win sets you up for the next round.
 
-> *'Win through your actions, never through argument.' -- Robert Greene (9th law of power)*
-
-> *'Make your accomplishments seem effortless.' -- Robert Greene (30th law of power)*
+> *'Win through your actions, never through argument.'<br>
+'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
 
 > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
 
@@ -2237,9 +2229,8 @@ Use this opportunity to re-create yourself.<br>
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
-> *'Use the surrender tactic: transform weakness into power.' -- Robert Greene (22nd law of power)*
-
-> *'Re-create yourself.' -- Robert Greene (25th law of power)*
+> *'Use the surrender tactic: transform weakness into power.'<br>
+'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
 
 
 
