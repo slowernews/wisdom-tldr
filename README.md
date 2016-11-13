@@ -1046,14 +1046,14 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 ===
 ###On peers
 
-You will waste your life trying to make those around into who you want them to be. Instead change who you are around.<br>
+You will waste your life trying to make those around into who you want them to be. Instead change/filter who you are around.<br>
 You are the average of the people you surround yourself.
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
-> *'If you're the smartest in the room, you're in the wrong room.'*
-
 Keep your friends for friendship but work with the skilled and competent.
+
+> *'If you're the smartest in the room, you're in the wrong room.'*
 
 <!--
 you're never a prophet in your homeland.
@@ -1078,7 +1078,7 @@ Get proximity to successful, happy, and rich people. Be cool. They will likely i
 
 HOWEVER, don't vow to the gatekeepers.
 
-> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. You are choosing to do business with them as they are choosing to do business with you, making you both equals.'*
+> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
 
 
 
@@ -2462,7 +2462,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On economics and politics
 
-'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt
+'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt
 
 > *'The hardest thing in the world to understand is the income tax.'*
 
