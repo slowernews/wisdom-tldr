@@ -13,14 +13,13 @@ Exceptions to most rules also..
 - [On motivation](#on-motivation)
 
 *On growth*
-- [On success](#on-success)
 - [On comfort and risk](#on-comfort-and-risk)
+- [On success](#on-success)
 - [On habits](#on-habits)
 - [On improvement](#on-improvement)
-- [On getting feedback](#on-getting-feedback)
+- [On mastery](#on-mastery)
 - [On learning by practice](#on-learning-by-practice)
 - [On learning by theory](#on-learning-by-theory)
-- [On mastery](#on-mastery)
 - [On generosity](#on-generosity)
 
 *On your worst enemy: yourself*
@@ -354,32 +353,6 @@ play to win, not hoping to make it, or why are you doing it? committed to win
 
 
 
-###On success
-
-There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
-Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
-
-> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
-
-> *'Success is simple, but it is not easy. Success is nothing but the accumulation of small things done consistently over a long period of time.'*
-
-> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
-
-HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
-
-> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
-
-> *'Doubt kills more dreams than failure ever will.'*
-
-<!--
-1. Success is in Our Decisions Not Our Conclusions
-Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
-Success is truly about living a life with honor and integrity, not any material outcome.
--->
-
-
-
-===
 ###On comfort and risk
 
 You need to break rules to achieve anything great.<br>
@@ -403,6 +376,32 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 
 <!--
 Choose the Hard Way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.
+-->
+
+
+
+===
+###On success
+
+There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
+Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
+
+> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
+
+> *'Success is simple, but it is not easy. Success is nothing but the accumulation of small things done consistently over a long period of time.'*
+
+> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
+
+HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
+
+> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
+
+> *'Doubt kills more dreams than failure ever will.'*
+
+<!--
+1. Success is in Our Decisions Not Our Conclusions
+Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
+Success is truly about living a life with honor and integrity, not any material outcome.
 -->
 
 
@@ -463,12 +462,7 @@ Just in time learning. You can learn faster if you have something your working o
 there are consequences for acting and don't acting
 -->
 
-
-
-===
-###On getting feedback
-
-Mentors are your best source of feedback. Feedback speeds up improvement.
+Feedback speeds up improvement. Mentors are your best source of feedback.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
@@ -482,6 +476,32 @@ find somebody smarter than you to teach you and learn something
 equal to you to challenge you
 less than you that you can teach and learn something
 -->
+
+
+
+===
+###On mastery
+
+First learn the rules. Then break them.<br>
+You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+
+> *'Masters are able to ask the kinds of simple questions that most people pass over.'*
+
+> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
+
+> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
+
+> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
+
+<!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
+
+HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
+
+> *'I am not young enough to know everything.' -- Oscar Wilde*
+
+> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
+
+> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
 
 
 
@@ -558,32 +578,6 @@ If you are facing health struggles, you need to ask yourself these three questio
 Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
 -->
-
-
-
-===
-###On mastery
-
-First learn the rules. Then break them.<br>
-You achieve mastery with a mix of [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
-
-> *'Masters are able to ask the kinds of simple questions that most people pass over.'*
-
-> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
-
-> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
-
-> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
-
-<!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
-
-HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
-
-> *'I am not young enough to know everything.' -- Oscar Wilde*
-
-> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
-
-> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
 
 
 
