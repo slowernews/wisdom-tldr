@@ -452,8 +452,6 @@ You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-The path to [mastery](#on-mastery) is a never ending story: skills are perishable.
-
 <!--
 Just in time learning. You can learn faster if you have something your working on rather than some future idea that may not happen. Improves retention, wastes less time.
 
@@ -476,7 +474,8 @@ equal to you to challenge you
 less than you that you can teach and learn something
 -->
 
-After learning the rules, break them. Only then you can achieve mastery.
+After learning the rules, break them. Only then you can achieve mastery.<br>
+The path to mastery is a never ending story: skills are perishable.
 
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'*
 
@@ -2144,9 +2143,8 @@ To win, besides outworking them, you'll need all weaponry. Even the «dirty stuf
 «Pawn sacrifices», bribes and lying are examples of «dirty stuff».<br>
 They can be effective but use them *only* on life changing situations: it's a scar for life.
 
-> *'Get others to do the work for you, but always take the credit.' -- Robert Greene (7th law of power)*
-
-> *'Keep your hands clean.' -- Robert Greene (26th law of power)*
+> *'Get others to do the work for you, but always take the credit.'
+'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-targets) if you can see the end already.
 
@@ -2172,7 +2170,7 @@ Desperate targets will risk anything in a fight. This gives them a huge advantag
 ===
 ###On defeating status quo
 
-> *'The only successful revolutions are those revolutions and changes that are coming from within.' -- Srdja Popovic*
+The only successful changes are those coming from within.
 
 > *'To successfully change a status quo maintained by a minority you only need to unite the majority. How?<br>
 Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
