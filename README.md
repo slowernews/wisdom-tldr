@@ -40,7 +40,7 @@ Exceptions to most rules also..
 - [On communication](#on-communication)
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
-- [On family](#on-family)
+- [On family and friends](#on-family-and-friends)
 - [On peers](#on-peers)
 - [On higher ranks](#on-higher-ranks)
 
@@ -65,7 +65,7 @@ Exceptions to most rules also..
 ### Part 3 - Action
 
 
-*On planning*
+*On preparing action*
 - [On analysis](#on-analysis)
 - [On decision making](#on-decision-making)
 - [On planning](#on-planning)
@@ -1036,10 +1036,11 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 
 
 ===
-###On family
+###On family and friends
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
+> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 
 ===
@@ -1050,14 +1051,12 @@ You are the average of the people you surround yourself.
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
-Keep your friends for friendship but work with the skilled and competent.
-
-<!-- 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
-you're never a prophet in your homeland.
+Keep your friends for friendship but work with the skilled and competent.
 
-> *'Nobody wants to be the best player in the band.'*
+<!--
+you're never a prophet in your homeland.
 
 working with friends is not good, because there will be always problems of fixing hierarchy. peers are peers not boss and employee.
 
@@ -1067,8 +1066,6 @@ Get proximity to successful, happy, and rich people. Be cool. They will likely i
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 -->
-
-> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 
 
@@ -1352,9 +1349,9 @@ HOWEVER, companies don't care about you. Having a job is risky, avoid the trap o
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
-> *'If your job doesn't require originality, next decade you might not have one.'*
-
 > *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
+
+> *'If your job doesn't require originality, next decade you might not have one.'*
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
@@ -1395,6 +1392,8 @@ return to an workplace
 
 people will describe your strengths if you ask them why did you ask him for an interview.
 than work from there.
+
+> We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T). This recipe is important for success at Valve. We often have to pass on people who are very strong generalists without expertise, or vice versa. An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.
 -->
 
 
@@ -1591,12 +1590,12 @@ I use to go into job interviews with a story in mind. All an interviewer really 
 
 
 ===
-	  __                                             
-	 /  |                /                /          
-	(   | ___       ___ (  ___  ___  ___    ___  ___ 
-	|   )|   )     |   )| |   )|   )|   )| |   )|   )
-	|__/ |  /      |__/ | |__/||  / |  / | |  / |__/ 
-	               |                            __/  
+	  __                                                                                     
+	 /  |                                         /                          /    /          
+	(   | ___       ___  ___  ___  ___  ___  ___    ___  ___       ___  ___ (___    ___  ___ 
+	|   )|   )     |   )|   )|___)|   )|   )|   )| |   )|   )     |   )|    |    | |   )|   )
+	|__/ |  /      |__/ |    |__  |__/ |__/||    | |  / |__/      |__/||__  |__  | |__/ |  / 
+	               |              |                     __/                                  
 
 
 
@@ -1787,6 +1786,13 @@ Just start.<br>
 You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
 Stop preparing, and start doing. You can learn while you do it.
 
+<!--
+fear of starting, excuse
+
+> *add mark manson on procrastination*
+> *'Pressed by circumstances, we feel unusually energized and focused.'*
+-->
+
 > *'Stop making resolutions and start making something.'*
 
 > *'Momentum generates motivation.'*
@@ -1814,17 +1820,11 @@ You will languish if you stop for a long time.
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-HOWEVER, you should have some [plan](#on-planning).
+HOWEVER, you should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
 > *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
-
-<!--
-> *'Pressed by circumstances, we feel unusually energized and focused.'*
-
-> *add mark manson on procrastination*
--->
 
 
 
@@ -2462,7 +2462,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 ===
 ###On economics and politics
 
-> *'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt*
+'Morality is the way that we would like the world to be, whereas economics is the way that the world actually works.' -- Steven Levitt
 
 > *'The hardest thing in the world to understand is the income tax.'*
 
