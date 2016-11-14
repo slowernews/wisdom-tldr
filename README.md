@@ -16,9 +16,8 @@ Exceptions to most rules also..
 - [On comfort and risk](#on-comfort-and-risk)
 - [On success](#on-success)
 - [On habits](#on-habits)
-- [On improvement and mastery](#on-improvement)
-- [On improving by practice](#on-improving-by-practice)
-- [On improving by theory](#on-improving-by-theory)
+- [On improving](#on-improving)
+- [On mastery](#on-mastery)
 - [On generosity](#on-generosity)
 
 *On your worst enemy: yourself*
@@ -438,10 +437,10 @@ Use your phone to set reminders for really important things automatically. Turn 
 
 
 ===
-###On improvement and mastery
+###On improving
 
 Most problems can be solved by graded exposure over time.<br>
-You improve by [practice](#on-improving-by-practice) and [theory](#on-improving-by-theory).
+You improve by practice and learning theory.
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -456,48 +455,7 @@ Just in time learning. You can learn faster if you have something your working o
 there are consequences for acting and don't acting
 -->
 
-Feedback speeds up improvement. Mentors are your best source of feedback.
-
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
-
-> *'Follow the thought leaders instead of the traffic leaders.'*
-
-<!--
-Your father is your first mentor. 
-
-+ - =
-find somebody smarter than you to teach you and learn something
-equal to you to challenge you
-less than you that you can teach and learn something
--->
-
-After learning the rules, break them. Only then you can achieve mastery.<br>
-The path to mastery is a never ending story: skills are perishable.
-
-> *'Masters are able to ask the kinds of simple questions that most people pass over.'*
-
-> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
-
-> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
-
-> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
-
-<!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
-
-HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
-
-> *'I am not young enough to know everything.' -- Oscar Wilde*
-
-> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
-
-> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
-
-
-
-===
-###On improving by practice
-
-You improve by getting out of your comfort zone.<br>
+<a id="on-improving-by-practice"></a>1) by getting out of your comfort zone.<br>
 Don't be afraid of [failure](#on-mistakes-and-failure).
 
 > *'Make the mind tougher by exposing it to adversity.'*
@@ -524,12 +482,7 @@ when expanding comfort zones you are learning.
 what happens when we step too far out of our comfort zones, how James mitigates risk by assuming the worst, how experience with failure can be a valuable skillset, why being in debt is better than simply being broke, and lots more.
 -->
 
-
-
-===
-###On improving by theory
-
-You improve by analysis of past situations.
+<a id="on-improving-by-theory"></a>2) by analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -546,6 +499,21 @@ You improve by analysis of past situations.
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
+
+Feedback speeds up improvement. Mentors are your best source of feedback.
+
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
+
+> *'Follow the thought leaders instead of the traffic leaders.'*
+
+<!--
+Your father is your first mentor. 
+
++ - =
+find somebody smarter than you to teach you and learn something
+equal to you to challenge you
+less than you that you can teach and learn something
+-->
 
 <!--
 people repeat very easily the same mistakes. you improve by working at it.
@@ -567,6 +535,32 @@ If you are facing health struggles, you need to ask yourself these three questio
 Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
 -->
+
+
+
+===
+###On mastery
+
+After learning the rules, break them. Only then you can achieve mastery.<br>
+The path to mastery is a never ending story: skills are perishable.
+
+> *'Masters are able to ask the kinds of simple questions that most people pass over.'*
+
+> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
+
+> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
+
+> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
+
+<!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
+
+HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
+
+> *'I am not young enough to know everything.' -- Oscar Wilde*
+
+> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
+
+> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
 
 
 
