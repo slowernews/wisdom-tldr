@@ -17,8 +17,8 @@ Exceptions to most rules also..
 - [On success](#on-success)
 - [On habits](#on-habits)
 - [On improvement and mastery](#on-improvement)
-- [On learning by practice](#on-learning-by-practice)
-- [On learning by theory](#on-learning-by-theory)
+- [On improving by practice](#on-improving-by-practice)
+- [On improving by theory](#on-improving-by-theory)
 - [On generosity](#on-generosity)
 
 *On your worst enemy: yourself*
@@ -373,9 +373,7 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 
 > *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
 
-<!--
-Choose the Hard Way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.
--->
+> *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
 
 
 
@@ -423,8 +421,7 @@ Avoid low value systems: social media, news, owning a TV, working long hours, co
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
 
-> *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
-Spend the last hour of the day (or all day) without electronic devices.' -- Allen Tucker*
+> *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night. Spend the last hour of the day (or all day) without electronic devices.' -- Allen Tucker*
 
 > *'Don’t concern yourself with the news. It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
 
@@ -444,7 +441,7 @@ Use your phone to set reminders for really important things automatically. Turn 
 ###On improvement and mastery
 
 Most problems can be solved by graded exposure over time.<br>
-You improve by [practice](#on-learning-by-practice) and [theory](#on-learning-by-theory).
+You improve by [practice](#on-improving-by-practice) and [theory](#on-improving-by-theory).
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -498,9 +495,9 @@ HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's alwa
 
 
 ===
-###On learning by practice
+###On improving by practice
 
-You learn by getting out of your comfort zone.<br>
+You improve by getting out of your comfort zone.<br>
 Don't be afraid of [failure](#on-mistakes-and-failure).
 
 > *'Make the mind tougher by exposing it to adversity.'*
@@ -530,9 +527,9 @@ what happens when we step too far out of our comfort zones, how James mitigates 
 
 
 ===
-###On learning by theory
+###On improving by theory
 
-You learn by analysis of past situations.
+You improve by analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
