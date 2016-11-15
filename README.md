@@ -1085,7 +1085,9 @@ Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-
 
 > *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
 
+<!--
 > *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
+-->
 
 > *'Consensus happens just in the beginning and in the end of something.'*
 
@@ -1112,7 +1114,7 @@ You’re judged by what you say, not what you think.
 
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
 
-> *'If A is a success in life, then A equals X plus Y plus Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
+> *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
@@ -1832,7 +1834,7 @@ Direction is more important than pace. Don’t be afraid to take time away to fi
 
 First the essential. Then the details.
 
-> *'Concentrate your forces.' -- Robert Greene (23rd law of power)*
+'Strike the shepherd and the sheep will scatter.' -- Robert Greene (23rd and 42nd law of power)*
 
 > *'In a divided world, power will come from keeping your own group united and cohesive.'*
 
@@ -1849,8 +1851,6 @@ First the essential. Then the details.
 > *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
 
 > *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
-
-> *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
 
 > *'The ability to ignore immediate dangers and pleasures translates into power.'*
 
