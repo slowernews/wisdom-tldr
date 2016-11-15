@@ -42,6 +42,7 @@ Exceptions to most rules also..
 - [On higher ranks](#on-higher-ranks)
 
 *On interactions: drawbacks*
+- [On conflicts](#on-conflicts)
 - [On criticism and envy](#on-criticism-and-envy)
 - [On outliers](#on-outliers)
 - [On herd mentality](#on-herd-mentality)
@@ -440,7 +441,7 @@ Use your phone to set reminders for really important things automatically. Turn 
 ###On improving
 
 Most problems can be solved by graded exposure over time.<br>
-You improve by practice and learning theory.
+You improve by:
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -455,7 +456,7 @@ Just in time learning. You can learn faster if you have something your working o
 there are consequences for acting and don't acting
 -->
 
-<a id="on-improving-by-practice"></a>1) by getting out of your comfort zone.<br>
+<a id="on-improving-by-practice"></a>1) getting out of your comfort zone.<br>
 Don't be afraid of [failure](#on-mistakes-and-failure).
 
 > *'Make the mind tougher by exposing it to adversity.'*
@@ -482,7 +483,7 @@ when expanding comfort zones you are learning.
 what happens when we step too far out of our comfort zones, how James mitigates risk by assuming the worst, how experience with failure can be a valuable skillset, why being in debt is better than simply being broke, and lots more.
 -->
 
-<a id="on-improving-by-theory"></a>2) by analysis of past situations.
+<a id="on-improving-by-theory"></a>2) analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -778,7 +779,7 @@ HOWEVER
 ###On health and relax
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
-However, the origin of most health problems is not physical but mental.
+HOWEVER, the origin of most health problems is not physical but mental.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
@@ -853,20 +854,20 @@ If you feel powerless/being dominated you will be chronically stressed.
                                                                 
 
 
-
 ###On networking
 
-Don't [isolate](#on-neutrality-and-isolation) yourself. The people you know and whether they like you will determine what opportunities you get.<br>
+Don't [isolate](#on-neutrality-and-isolation) yourself. The people you know and whether they like you will determine what opportunities you get.
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
-> *'You’re never too old to make a friend. Always be looking for a new one.'*
-
-> *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
-
-> *'Play the perfect courtier.' -- Robert Greene (24th law of power)*
+> *'Do not build fortresses to protect yourself: isolation is dangerous.'<br>
+'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.'*
+
+> *'You're never too old to make a friend. Always be looking for a new one.'*
+
+> *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
 <!--
 networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner 
@@ -877,7 +878,7 @@ prepare an elevator pitch
 
 building a network is critical
 
-Regarding networking adding value is everything
+regarding networking adding value is everything
 
 if people forget it wasn't a good network anyway
 
@@ -895,18 +896,6 @@ build rapport - cut the BS. speak whats in your mind, sometimes it backfires. be
 i didn't get your text can you resend it? less strong. will you write a whole book in your phone? make it non threating
 
 > *'on networking: expand from too dense networks. custom tailor teams from project to project. same team from same project is not the best option. if anybody in your list knows everybody is a big pro
-
-Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
-
-Don't avoid conflict. Small conflicts will grow into big conflicts. 
-
-rotten peace - builds resentment
-
-> *'I am either part of the solution or part of the problem.'*
-
-> *'Do not build fortresses to protect yourself: isolation is dangerous.' -- Robert Greene (4th law of power)*
-
-> *'Well-kept gardens die by pacifism.'*
 -->
 
 
@@ -1065,16 +1054,32 @@ HOWEVER, don't vow to the gatekeepers.
 	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  _        ___| ___  ___      (___  ___  ___ (     ___ 
 	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )         |   )|   )|   )|   )|   )|   )|    |___)|___ 
 	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  /  -       |__/ |    |__/||/\/ |__/ |__/||__  | \   __/ 
-	                                                                                                                      
 
 
+
+###On conflicts
+
+Don't avoid conflict. Small conflicts will grow into big conflicts.<br>
+Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+
+> *'I am either part of the solution or part of the problem.'*
+
+> *'Well-kept gardens die by pacifism.'*
+
+<!--
+rotten peace builds resentment
+-->
+
+
+
+===
 ###On criticism and envy
 
 Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-outliers).
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
-> *'Don’t argue your path with other people. Walk it.' -- lazy yogi*
+> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
 
@@ -1191,9 +1196,6 @@ reduce you feelings of power to be more effective
 
 boss ask employee to do x
 employee resist, boss come back later after thinking about his resistance, maybe you can do something about
--->
-
-<!--
 
 mix com persuasion 
 
@@ -1218,6 +1220,7 @@ When someone is out of line, don’t let it slide too far.
 If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
 
 Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
+
 
 
 ===
@@ -1279,7 +1282,6 @@ Productivity is different from workflow engineering.
 
 <!--
 And use deep work
-
 > *'Too busy pretending I'm occupied.'* 
 -->
 
@@ -1490,7 +1492,6 @@ never split the difference
 Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
 
 > *'Instead of generalizing, stick with the facts.'*
-
 -->
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
@@ -1623,8 +1624,7 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 ###On decision making
 
 <!--
-refazer 
-
+refazer
 decisions are affected by memory
 -->
 
@@ -1690,7 +1690,6 @@ HOWEVER, some people get paralyzed by over thinking.
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 <!--
-
 'Strategy requires thought; tactics require observation.' -- Max Euwe
 
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
