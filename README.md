@@ -1519,7 +1519,7 @@ HOWEVER, always strive to achieve a win-win situation. The deal will fall if bot
 We're all in sales. You're in sales anytime you interact with anybody.
 
 Sales used to be about information asymmetry but times are changing.<br>
-Now It's mostly applied persuasion and keeping relationships.
+Now it's mostly applied persuasion and keeping relationships.
 
 > *'When you go up in an hierarchy, the need of persuasion is higher.<br>
 To persuade up, focus in interests; to persuade down focus in emotions.'*
@@ -1834,6 +1834,7 @@ Direction is more important than pace. Don’t be afraid to take time away to fi
 
 First the essential. Then the details.
 
+> *'Concentrate your forces.'<br>
 'Strike the shepherd and the sheep will scatter.' -- Robert Greene (23rd and 42nd law of power)*
 
 > *'In a divided world, power will come from keeping your own group united and cohesive.'*
