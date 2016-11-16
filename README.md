@@ -507,6 +507,8 @@ Feedback speeds up improvement. Mentors are your best source of feedback.
 
 > *'Follow the thought leaders instead of the traffic leaders.'*
 
+> *'Find mentors to help you improve, even virtual mentors as a good book.'*
+
 <!--
 Your father is your first mentor. 
 
@@ -544,6 +546,8 @@ I’ve started a list of advice or things I know. Perhaps things I believe I kno
 
 After learning the rules, break them. Only then you can achieve mastery.<br>
 The path to mastery is a never ending story: skills are perishable.
+
+> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back'*
 
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'*
 
@@ -1059,7 +1063,7 @@ HOWEVER, don't vow to the gatekeepers.
 
 ###On conflicts
 
-Don't avoid conflict. Small conflicts will grow into big conflicts.<br>
+Don't avoid relevant conflicts. Small conflicts will grow into big conflicts.<br>
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
 > *'I am either part of the solution or part of the problem.'*
@@ -1216,13 +1220,12 @@ make yourself as part of a team
 make people feel as part of a family
 
 leader persuader
--->
 
 When someone is out of line, don’t let it slide too far.
 If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
 
 Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
-
+-->
 
 
 ===
@@ -1237,25 +1240,27 @@ Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+Practical hints:
 
-Don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
+a) don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
 If feedback is needed, give a reason.
 
 > *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
 
 > *'«Because» is a great motivator.'*
 
-And ask instead of telling.
+b) ask instead of telling.
 
 > *'«Why did you decide to do X in that order?». This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
 
-> *'Make pertinent questions as: <br>
+> *'Make questions as: <br>
 «Is that the best you can do?» <br>
 «Interesting, how do you feel about it?» <br>
 «What does your team think?»'*
 
-In any case, [humility](#on-identity) is needed for leadership. Pounding directives down or not giving any direction are demotivators for your junior people. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important.
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+
+HOWEVER, a leader needs [humility](#on-identity). Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
 
 
@@ -1264,26 +1269,25 @@ In any case, [humility](#on-identity) is needed for leadership. Pounding directi
 
 Managing is delegating. Your speed as a manager is the speed of the team.<br>
 
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
 > *'A manager should make himself 2 questions a day: <br>
 «What is important to accomplish?» (where are you going) <br>
 «Where was I uncomfortable the day before?» (what went right and where do you need support) <br>
 The speed that you offload your stuff will be the speed of your team.'*
 
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
-Productivity is different from workflow engineering.
-
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
-
+<!--
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
-<!--
-And use deep work
+Productivity is different from workflow engineering.
+
 > *'Too busy pretending I'm occupied.'* 
 -->
 
@@ -1294,15 +1298,15 @@ And use deep work
 
 Hire anyone but only retain the best.
 
-> *'He who works with his hands is a laborer.<br>
-He who works with his hands and his head is a craftsman.<br>
-He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
 > *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
 
 > *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+> *'He who works with his hands is a laborer.<br>
+He who works with his hands and his head is a craftsman.<br>
+He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
 How to keep talented people? Respect them.<br>
 You'll never respect them if you don't pay them accordingly.
@@ -1326,58 +1330,50 @@ Employers hire you because you are a likable person that «get shit done».
 
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
-HOWEVER, companies don't care about you. Having a job is risky, avoid the trap of following one set career path.
+> *'While deep work will promote you, shallow work will only prevent you from being fired.'<br>
+'Career capital is the unique skills that make you rare and valuable'<br>
+'Be so good that they cannot ignore you' -- Cal Newport*
+
+HOWEVER, having a job becomes risky: companies don't care about you.<br>
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
 > *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
+Avoid the trap of following one set career path, will be easier to pivot when needed.
+
 > *'If your job doesn't require originality, next decade you might not have one.'*
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
+> *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
+
+> *'People pivot to near areas, combining two skills.'*
+
 <!--
-people pivot to near areas, combining two skills, mixing matching and combining
-find mentors, even virtual mentors: a good book
 
-there is this gap from where you are and where you want to be. this gap is the place from where you have to come back. and know the worse it can happen
-a really dj has to know how to clear the floor
+> *'How to pivot:
+1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
 
-deep work - will promote you
-shallow work - will prevent you from getting fired
-
-career capital - unique skills that make you rare and valuable
-
-deep work - be so good that they can't ignore you
-
-career fuel in the first 15 years
-1) transportable skills: soft skills
-persuasive communication. hard skills / 
 write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc
-emotional intelligence
-ability to read the room
-ability to build trust
-magnet, be able to retain talent, who wants to work for you
-2) question: talent ledger: what are people that were working for them.
+
+2) question: talent ledger: what are the people that were working for them.
 top leaders ask for help and give knowledge away. more open source.
 3) take risks to boost your immune system
 
 differentiate yourself / volunteer for an assignment
 becoming the go to guy for some questions
 
-return to an workplace
-- reframe your experience. use today and future jargons. make your homework.
-- refresh your skill set, if you got rusty.
-- career ecosystems - get back into them reconnect
-- reboot self confidence ??? surround yourself with confident people
+> *'How to return to an workplace:<br>
+- reframe your experience. Use today and future jargons. Make your homework.<br>
+- refresh your skill set, if you got rusty.<br>
+- career ecosystems, get back into them, reconnect.<br>
+- reboot self confidence. Surround yourself with confident people.'
 
-people will describe your strengths if you ask them why did you ask him for an interview.
-than work from there.
+Hint from interviews:
+People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
 
-> We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T). This recipe is important for success at Valve. We often have to pass on people who are very strong generalists without expertise, or vice versa. An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.
 -->
-
-
 
 ===
 	  __                                                   
@@ -2016,7 +2012,7 @@ and [bait](#on-charming). Some targets may require special tools.
 charming and selling?
 -->
 
-Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving)Rou.
+Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
