@@ -1335,12 +1335,11 @@ Employers hire you because you are a likable person that «get shit done».
 'Be so good that they cannot ignore you' -- Cal Newport*
 
 HOWEVER, having a job becomes risky: companies don't care about you.<br>
+So avoid the trap of following one set career path. It will be easier to pivot when needed.
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
 > *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
-
-Avoid the trap of following one set career path, will be easier to pivot when needed.
 
 > *'If your job doesn't require originality, next decade you might not have one.'*
 
