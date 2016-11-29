@@ -118,7 +118,6 @@ Exceptions to most rules also..
 - [On art and aesthetics](#on-art-and-aesthetics)
 
 
-
 #### TL;DR 
 
 3 rules for life: *'Fuck, don't give a fuck and don't be fucked over.'*<br>
@@ -549,13 +548,17 @@ The path to mastery is a never ending story: skills are perishable.
 
 > *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back'*
 
+> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
+
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'*
+
+> *'The master has failed more times than the beginner has ever tried.' -- Stephen McCraine*
 
 > *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
 
-> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
-
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
+
+> *'If you aren’t growing you’re dying.' -- Tony Robbins*
 
 <!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
 
@@ -643,6 +646,8 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 > *'The things we fear the most have already happened to us.'*
 
 > *'You'll never have fear of loss when you give more value to lessons than successes.'*
+
+> *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
 
 Excuses are a manifestation of fear. None of them is acceptable. End.
 
@@ -1013,6 +1018,7 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 
+
 ===
 ###On peers
 
@@ -1334,7 +1340,7 @@ Employers hire you because you are a likable person that «get shit done».
 'Career capital is the unique skills that make you rare and valuable'<br>
 'Be so good that they cannot ignore you' -- Cal Newport*
 
-HOWEVER, having a job becomes risky: companies don't care about you.<br>
+HOWEVER, having a job is risky: companies don't care about you.<br>
 So avoid the trap of following one set career path. It will be easier to pivot when needed.
 
 > *'I work for money, if you want loyalty hire a dog.'*
@@ -2369,6 +2375,8 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 When you’re not winning, life will seem hideously unfair to you.<br>
 But be positive, luck is a pattern and the pendulum will swing back your way eventually.
+
+> *'Bad luck is normally bad planning.'*
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
