@@ -961,7 +961,13 @@ we build trust through presence. leadership is based on trust.
 
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
 
-on a long term relationship, politics must match
+on a deep relationship, politics must match
+
+on gifting
+be an expert gift giver.
+practical luxuries make better gifts than merchandise branded with your company’s logo. give value. always give best in class
+a gift can have the opposite
+always be generous/giving
 -->
 
 HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
@@ -1680,11 +1686,15 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'The best way to predict the future is to invent it.' -- Alan Kay*
 
-> *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
+> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
+
+How to plan: start with a vision.
+
+> *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
+
+> *'Position yourself for victory.'*
 
 > *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
-
-> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
@@ -1692,11 +1702,9 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-> *'Position yourself for victory.'*
-
-> *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
-
 HOWEVER, some people get paralyzed by over thinking.
+
+> *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
