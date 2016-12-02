@@ -66,7 +66,7 @@ Exceptions to most rules also..
 *On preparing action*
 - [On analysis](#on-analysis)
 - [On decision making](#on-decision-making)
-- [On planning](#on-planning)
+- [On planning and vision](#on-planning-and-vision)
 - [On creativity and ideas](#on-creativity-and-ideas)
 
 *On executing*
@@ -1522,13 +1522,15 @@ We're all in sales. You're in sales anytime you interact with anybody.
 Sales used to be about information asymmetry but times are changing.<br>
 Now it's mostly applied persuasion and keeping relationships.
 
-> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
-To persuade up, focus in interests; to persuade down focus in emotions.'*
-
-> *'Historically, the seller had more information than the buyer. 
+> *'Historically, the seller had more information than the buyer.<br>
 Its a different game now. Everybody knows immediately the alternatives.'*
 
-> *'Selling by just keeping in touch. send emails once in a while.'*
+> *'Selling by just keeping in touch. Send emails once in a while.'*
+
+> *'To sell is to deal with objections.'*
+
+> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
+To persuade up, focus in interests; to persuade down focus in emotions.'*
 
 > *'Best sellers are ambiverts.'*
 
@@ -1667,7 +1669,7 @@ HOWEVER, too many decisions will drain you. Attention is the most limited resour
 
 
 ===
-###On planning
+###On planning and vision
 
 Plan ahead and prepare for the highly probable scenarios.<br>
 Make the decisions right now. When in the moment of making the decision, you have already done it.
@@ -1688,18 +1690,21 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'The script is going to be bad but in the end we'll finish eating pizza.'*
 
+> *'Strategy requires thought; tactics require observation.' -- Max Euwe*
+
+> *'Position yourself for victory.'*
+
+> *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
+
 HOWEVER, some people get paralyzed by over thinking.
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 <!--
-'Strategy requires thought; tactics require observation.' -- Max Euwe
-
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 
-position yourself for victory. long term thinking. 
 -->
 
 
@@ -1709,11 +1714,13 @@ position yourself for victory. long term thinking.
 
 Always be doing something creative. Without new experiences, your soul rots.
 
-> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
-
 > *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
 
+> *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
+
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
+
+> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'Good artists copy; great artists steal.' -- Steve Jobs & others*
 
@@ -1721,9 +1728,15 @@ Always be doing something creative. Without new experiences, your soul rots.
 
 > *'Creative minds are rarely tidy.'*
 
+<!--
+judging ideas
+-->
+
 > *'We can't solve problems by using the same kind of thinking we used when we created them.'*
 
 > *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
+
+> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
 
 <!-- 
 > *'Moments of originality and moments of conformity.'*
@@ -1738,12 +1751,6 @@ Creativity and critical thinking. In subordinate position it gets you labelled a
 In executive position, visionary, maverick, multidisciplinary thinker, etc.
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
 -->
-
-> *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
-
-> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
-
-> *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
@@ -1810,7 +1817,8 @@ HOWEVER, you should have a [plan](#on-planning).
 ===
 ###On pace
 
-Direction is more important than pace. Don’t be afraid to take time away to find your direction.
+Direction is more important than pace.<br>
+Don’t be afraid to take time away to find your direction.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
