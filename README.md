@@ -187,11 +187,10 @@ You are your deeds.
 
 > *'How you do anything is how you do everything.'*
 
-Cancel your pity party. Pull yourself together and take total ownership for everything in your life.
+Cancel your pity party. No one is coming to save you.<br>
+Pull yourself together and take total ownership for everything in your life.
 
 > *'Be the person your dog think you are.'*
-
-> *'No one is coming to save you.'*
 
 <a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to be respected and build a reputation.
 
@@ -956,6 +955,7 @@ Learn how to talk to people: smile, don't ramble, look for external catalysts as
 
 
 
+===
 ###On business
 
 Business exchanges value for money.<br>
@@ -1134,7 +1134,11 @@ ocean of rejection. face your failures is a good indicator of being a good selle
 most rejections are not your fault.
 
 I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
--->===
+-->
+
+
+
+===
 ###On relationships
 
 Relationships are based on [trust](#on-trust-and-integrity).
@@ -1183,6 +1187,8 @@ HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run
 
 > *'Every person feels loved in a different form.'*
 
+> *'Love doesn’t hurt. Expectations do.'*
+
 > *'Never love anyone that treats you like you're ordinary.'*
 
 > *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
@@ -1193,15 +1199,15 @@ Practical advices: keep separate bank accounts.
 
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
-<!--
-If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
-You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.
+HOWEVER
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+<!--
+If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
+You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.R
 
-> *'Love doesn’t hurt. Expectations do.'*
+> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 -->
 
 
@@ -1712,7 +1718,6 @@ HOWEVER, some people get paralyzed by over thinking.
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
-
 -->
 
 
