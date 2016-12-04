@@ -35,6 +35,9 @@ Exceptions to most rules also..
 *On interactions*
 - [On networking](#on-networking)
 - [On communication](#on-communication)
+- [On business](#on-business)
+- [On negotiation and price](#on-negotiation-and-price)
+- [On selling and persuasion](#on-selling-and-persuasion)
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family and friends](#on-family-and-friends)
@@ -53,11 +56,6 @@ Exceptions to most rules also..
 - [On delegation](#on-delegation)
 - [On hiring and keeping talent](#on-hiring-and-keeping-talent)
 - [On being hired](#on-being-hired)
-
-*On exchange*
-- [On business](#on-business)
-- [On negotiation and price](#on-negotiation-and-price)
-- [On selling and persuasion](#on-selling-and-persuasion)
 
 
 ### Part 3 - Action
@@ -175,7 +173,7 @@ authentic self is a state
 
 > *'Happy life = mastery + belonging + autonomy.'*
 
-> *'Love doesn’t hurt. Expectations do.'*
+we can't chase happiness, happiness is a byproduct of
 -->
 
 
@@ -398,6 +396,10 @@ HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest bar
 1. Success is in Our Decisions Not Our Conclusions
 Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
 Success is truly about living a life with honor and integrity, not any material outcome.
+
+
+If you want to succeed at anything in your life, then forget about the Joneses.
+You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
 -->
 
 
@@ -905,6 +907,14 @@ build rapport - cut the BS. speak whats in your mind, sometimes it backfires. be
 i didn't get your text can you resend it? less strong. will you write a whole book in your phone? make it non threating
 
 > *'on networking: expand from too dense networks. custom tailor teams from project to project. same team from same project is not the best option. if anybody in your list knows everybody is a big pro
+
+introvert is not shyness
+most things are not binary.
+introvert and extrovert scale 1-7
+it's hard to pass from a 2 to 7 but you can pass to a 2 to 3 or 4
+
+And while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing
+unlocking dormant ties
 -->
 
 
@@ -946,7 +956,185 @@ Learn how to talk to people: smile, don't ramble, look for external catalysts as
 
 
 
+###On business
+
+Business exchanges value for money.<br>
+Focus on areas where you are motivated to add value AND there's demand.
+
+> *'What you need to start a new business: generosity.' -- Derek Sivers*
+
+> *'Focus on what can you give instead of focusing in making money. Find your market and you'll get the reward.'*
+
+> *'Money is energy.'*
+
+> *'Money is the expression of your creativity.'*
+
+> *'To make money focus on the fun.'*
+
+> *'Scratch your own itch it's good only as a start.'*
+
+> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
+
+Validate your business by finding paying clients.
+
+> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+> *'The consumer votes with his wallet.'*
+
+> *'Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one.'*
+
+> *'Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no demand.'*
+
+> *'In general, it's not about what you know, it's about who trusts you to solve their problems.<br>
+Often, that requires the technical skills to reliably solve their problems.<br>
+Always, that requires the communication skills to persuade someone you can solve their problems.'*
+
+Successful *entrepreneurs* are good risk managers.
+
+> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
+
+> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
+
+> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough? Is the price high enough? Are the costs low enough?'*
+
+> *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
+
+<!--
+It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
+
+zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it
+top 5 list you do, the rest is avoid at all cost list.
+genius area / excellence area / competence area / incompetence area
+
+how to purge to do list and focus right now
+- does this need to be done regarding my business? Y/N
+- does this be needed by me? Y/N
+- does this need to be done now? Y/N
+Most items were already purged.
+
+hot to make, how to keep, how to grow money
+-->
+
+
+
 ===
+###On negotiation and price
+
+To negotiate is to have options.<br>
+Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
+
+> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
+
+> *'When people feel they have a choice, they walk into your trap that much more easily.'*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+Never negotiate with binary questions: 
+
+> *'«What can you do?» instead of «Will you do this?»'*
+
+Best way to say no:
+
+> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
+
+Tone of voice is a big clue to know with whom we are negotiating:
+
+> *'The analytical cold guy is very patient; <br>
+The assertive guy (eg. Trump) wants to make it fast; <br>
+For the accomodator, the relationship is the most important'*
+
+<!-- 
+> *'Unexpressed feelings never die.'*
+> *'Releasing pressure is different from venting.'*
+> *'The more influence somebody is the more they use we / plural pronouns.'*
+> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
+> *'Listening for things that you didn't see. for incongruence.'*
+> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
+naming the negatives first.'* 
+
+REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
+
+you don’t get what you deserve in life, you only get what you negotiate.
+
+never split the difference
+
+Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
+
+> *'Instead of generalizing, stick with the facts.'*
+-->
+
+> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
+
+> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
+
+Negotiation establishes the price (exchange rate between money and value).
+That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it
+
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
+
+HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
+
+> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
+
+> *'You can’t make a good deal with a bad person.'*
+
+
+
+===
+###On selling and persuasion
+
+We're all in sales. You're in sales anytime you interact with anybody.
+
+Sales used to be about information asymmetry but times are changing.<br>
+Now it's mostly applied persuasion and keeping relationships.
+
+> *'Historically, the seller had more information than the buyer.<br>
+Its a different game now. Everybody knows immediately the alternatives.'*
+
+> *'Selling by just keeping in touch. Send emails once in a while.'*
+
+> *'To sell is to deal with objections.'*
+
+> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
+To persuade up, focus in interests; to persuade down focus in emotions.'*
+
+> *'Best sellers are ambiverts.'*
+
+<!--
+irritation -> challenge people to make something that they don't want to do
+agitation -> challenge people to make something that they want to do. suggesting ego etc
+
+agitate more than irritate
+
+mimicking people gestures and words works!
+
+So can you pitch me what our company does?
+
+people minds work by association.
+pre-suasion
+
+use testimonials that allow people to see themselves in that testimony
+people are intrigued by mystery! stories!
+
+get to objections
+
+when you have passion you communicate better
+
+intro: //clay hebert
+I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
+6 or 7 words - short and sweet and confident and interesting.
+
+ask them first so you can costumise it for the context and make it more relevant.
+
+then give an interesting story: choose one testimonial
+instead of detail and inaccurate.
+
+success in sales
+ocean of rejection. face your failures is a good indicator of being a good seller.
+most rejections are not your fault.
+
+I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
+-->===
 ###On relationships
 
 Relationships are based on [trust](#on-trust-and-integrity).
@@ -1012,6 +1200,8 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+
+> *'Love doesn’t hurt. Expectations do.'*
 -->
 
 
@@ -1386,196 +1576,6 @@ People will describe your strengths, if you ask them why did you ask him for an 
 
 -->
 
-===
-	  __                                                   
-	 /  |                          /                       
-	(   | ___       ___       ___ (___  ___  ___  ___  ___ 
-	|   )|   )     |___)(_/_ |    |   )|   )|   )|   )|___)
-	|__/ |  /      |__   / / |__  |  / |__/||  / |__/ |__  
-	                                             __/       
-
-
-
-###On business
-
-Business exchanges value for money.<br>
-Focus on areas where you are motivated to add value AND there's demand.
-
-> *'What you need to start a new business: generosity.' -- Derek Sivers*
-
-> *'Focus on what can you give instead of focusing in making money. Find your market and you'll get the reward.'*
-
-> *'Money is energy.'*
-
-> *'Money is the expression of your creativity.'*
-
-> *'To make money focus on the fun.'*
-
-> *'Scratch your own itch it's good only as a start.'*
-
-> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
-
-Validate your business by finding paying clients.
-
-> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
-
-> *'The consumer votes with his wallet.'*
-
-> *'Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one.'*
-
-> *'Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no demand.'*
-
-> *'In general, it's not about what you know, it's about who trusts you to solve their problems.<br>
-Often, that requires the technical skills to reliably solve their problems.<br>
-Always, that requires the communication skills to persuade someone you can solve their problems.'*
-
-Successful *entrepreneurs* are good risk managers.
-
-> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
-
-> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
-
-> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough? Is the price high enough? Are the costs low enough?'*
-
-> *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
-
-<!--
-It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
-
-zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it
-top 5 list you do, the rest is avoid at all cost list.
-genius area / excellence area / competence area / incompetence area
-
-how to purge to do list and focus right now
-- does this need to be done regarding my business? Y/N
-- does this be needed by me? Y/N
-- does this need to be done now? Y/N
-Most items were already purged.
-
-hot to make, how to keep, how to grow money
--->
-
-
-
-===
-###On negotiation and price
-
-To negotiate is to have options.<br>
-Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
-
-> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
-
-> *'When people feel they have a choice, they walk into your trap that much more easily.'*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
-
-Never negotiate with binary questions: 
-
-> *'«What can you do?» instead of «Will you do this?»'*
-
-Best way to say no:
-
-> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
-
-Tone of voice is a big clue to know with whom we are negotiating:
-
-> *'The analytical cold guy is very patient; <br>
-The assertive guy (eg. Trump) wants to make it fast; <br>
-For the accomodator, the relationship is the most important'*
-
-<!-- 
-> *'Unexpressed feelings never die.'*
-> *'Releasing pressure is different from venting.'*
-> *'The more influence somebody is the more they use we / plural pronouns.'*
-> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
-> *'Listening for things that you didn't see. for incongruence.'*
-> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
-naming the negatives first.'* 
-
-REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
-
-you don’t get what you deserve in life, you only get what you negotiate.
-
-never split the difference
-
-Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-
-> *'Instead of generalizing, stick with the facts.'*
--->
-
-> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
-
-> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
-
-Negotiation establishes the price (exchange rate between money and value).
-That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it
-
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
-
-HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
-
-> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
-
-> *'You can’t make a good deal with a bad person.'*
-
-
-
-===
-###On selling and persuasion
-
-We're all in sales. You're in sales anytime you interact with anybody.
-
-Sales used to be about information asymmetry but times are changing.<br>
-Now it's mostly applied persuasion and keeping relationships.
-
-> *'Historically, the seller had more information than the buyer.<br>
-Its a different game now. Everybody knows immediately the alternatives.'*
-
-> *'Selling by just keeping in touch. Send emails once in a while.'*
-
-> *'To sell is to deal with objections.'*
-
-> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
-To persuade up, focus in interests; to persuade down focus in emotions.'*
-
-> *'Best sellers are ambiverts.'*
-
-<!--
-irritation -> challenge people to make something that they don't want to do
-agitation -> challenge people to make something that they want to do. suggesting ego etc
-
-agitate more than irritate
-
-mimicking people gestures and words works!
-
-So can you pitch me what our company does?
-
-people minds work by association.
-pre-suasion
-
-use testimonials that allow people to see themselves in that testimony
-people are intrigued by mystery! stories!
-
-get to objections
-
-when you have passion you communicate better
-
-intro: //clay hebert
-I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words - short and sweet and confident and interesting.
-
-ask them first so you can costumise it for the context and make it more relevant.
-
-then give an interesting story: choose one testimonial
-instead of detail and inaccurate.
-
-success in sales
-ocean of rejection. face your failures is a good indicator of being a good seller.
-most rejections are not your fault.
-
-I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
--->
-
 
 
 ===
@@ -1688,6 +1688,8 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
 
+> *'The script is going to be bad but in the end we'll finish eating pizza.'*
+
 How to plan: start with a vision.
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
@@ -1698,10 +1700,8 @@ How to plan: start with a vision.
 
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
-> *'The script is going to be bad but in the end we'll finish eating pizza.'*
-
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
-
+ 
 HOWEVER, some people get paralyzed by over thinking.
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
@@ -2043,6 +2043,8 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
 
 > *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
+
+> *'If you talk to a man in a language he understands, that goes to his head. If you talk to him in his own language, that goes to his heart.' -- Nelson Mandela*
 
 Use absence and bait to attract people.
 
