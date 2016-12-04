@@ -97,7 +97,7 @@ Exceptions to most rules also..
 
 
 *On time*
-- [On time and attention](#on-time-and-attention)
+- [On time management](#on-time-management)
 - [On past and memory](#on-past-and-memory)
 - [On present](#on-present)
 - [On future](#on-future)
@@ -282,17 +282,28 @@ Aim at being independent.
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
 Do not truly commit to anything but *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
-> *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+<!--
+The freedom to express oneself fully.
+At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.
+
+Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.
+
+###On boundaries -> independence, autonomy
+set boundaries
+Practice doing without things you think you need.
+-->
 
 
 
@@ -371,6 +382,12 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 
 > *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
 
+<!--
+2.Suffering is a Temporary But Essential Part of Life
+
+So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
+-->
+
 
 
 ===
@@ -447,13 +464,24 @@ You improve by:
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
+<!--
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-<!--
+1. Action not Knowledge Leads to Success
+
+“Pathological learners” who are voracious consumers of knowledge
+They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera.
+Yet they know all this information!
+The problem is that they do not apply it. You have to realize that knowledge without action is useless.
+
+Only applied knowledge is power, and if you have spent years devoting your time and energy to learning without taking the proper proportion of action, then it is time to get off your ass, leave the theory on your nightstand, and get in the game
+
 Just in time learning. You can learn faster if you have something your working on rather than some future idea that may not happen. Improves retention, wastes less time.
 
 “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 there are consequences for acting and don't acting
+
+4. Education not Schooling is What Separates the Winners from the Losers
 -->
 
 <a id="on-improving-by-practice"></a>1) getting out of your comfort zone.<br>
@@ -1013,6 +1041,13 @@ how to purge to do list and focus right now
 Most items were already purged.
 
 hot to make, how to keep, how to grow money
+
+
+4. Focus on Revenue Generating Activities
+
+One of the simplest habits that you can start implementing today is to shift all of your focus towards revenue generating activities.
+Plain and simple, if it is not going to earn you money, then don’t do it. Focus only on the activities that are going to push the envelope forward for you and your company and result in an influx of cash.
+If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow
 -->
 
 
@@ -1243,6 +1278,9 @@ Get proximity to successful, happy, and rich people. Be cool. They will likely i
 > *'Work friends are just that, work friends. Nothing more.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
+
+you Need to Build Your Board of Directors
+Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes.Once you build this infrastructure of support and accountability, your life will radically transform.
 -->
 
 
@@ -1299,6 +1337,19 @@ Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-
 
 <!--
 > *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
+
+3. Ignore the Haters and Embrace the True Players
+One of the greatest tragedies of the modern world is that men with unlimited potential and unimaginable abilities allow themselves to be smothered by the advice and criticisms of unambitious, underachieving, and jealous peers.
+
+Every time you go to the office look at the men to your left and to your right.
+What do you see?
+Do you see men embracing their true potential, taking control of their lives, and creating an incredible future full of freedom and joy?
+Or do you see men who have allowed the doubts and misgivings of society, family, and friends to hold them back from their dreams and desires?
+On your path to success, you will be faced with many, many, many haters, doubters, and naysayers.
+They will tell you it cannot or should not be done only out of their own insecurities and fears.
+But if you want to unleash the giant inside of you and reach your full potential, you must ignore these people, whether they are bosses, life-long friends, or even family members.
+Only take advice from those who are achieving what you want to achieve, and ignore the rest.
+End of discussion.
 -->
 
 > *'Consensus happens just in the beginning and in the end of something.'*
@@ -1718,6 +1769,10 @@ HOWEVER, some people get paralyzed by over thinking.
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
+
+choose the plan with more options. the one that lets you change plan.
+
+search for actionable steps
 -->
 
 
@@ -2256,7 +2311,7 @@ Use this opportunity to re-create yourself.<br>
 
 
 
-###On time and attention
+###On time management
 
 Time itself, is not your limitation. It's attention.<br>
 You’re not managing time, you're managing attention.
@@ -2264,7 +2319,24 @@ You’re not managing time, you're managing attention.
 > *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
 
 <!--
+automation:
 > *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
+
+focus: the notion of tackling your most important thing (MIT) first thing in the morning.
+
+busy imply out of control
+lack of time is lack of priorities
+
+look at situations as systems. i help to create systems.
+Bad luck vs. bad planning
+
+###on wasting time
+
+Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth.
+Then, once you have a clear picture of what you want, hustle like crazy until you achieve it
+
+attention
+These companies, like any media company, harvest your time and attention and transform it into revenue.
 -->
 
 Track time and journal for hints on where to improve.
@@ -2301,6 +2373,11 @@ people remember more the beginning and the end of something
 people forget by decaying and giving them other stuff for them to remember.
 
 Embracing the medium simply ensures that everybody else knows it. aka let go
+
+
+5. Your Past Does Not Determine Your Future
+your upper limit makes you start all over continuosly
+strecct your upper limit if you want growth
 -->
 
 
@@ -2327,6 +2404,10 @@ You will die soon. Act accordingly and don't postpone joy.
 > *'We are like butterflies who flutter for a day and think it's forever.'*
 
 > *'Live life ready to meet god.'*
+
+<!--
+life is long enough
+-->
 
 
 
@@ -2471,6 +2552,10 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Politicians don't get educated. They get bought.'*
 
 > *'The moment you cross a second border - you are an economic migrant, not a refugee.'*
+
+<!--
+Liberalism is comforting but ultimately ruinous self-deception. Conservatism is discomforting but functional reality.
+-->
 
 
 
