@@ -7,12 +7,12 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On gratefulness and happiness](#on-gratefulness-and-happiness)
 - [On identity](#on-identity)
+- [On gratefulness and happiness](#on-gratefulness-and-happiness)
 - [On freedom](#on-freedom)
-- [On motivation](#on-motivation)
 
 *On growth*
+- [On motivation](#on-motivation)
 - [On comfort and risk](#on-comfort-and-risk)
 - [On success](#on-success)
 - [On habits](#on-habits)
@@ -134,51 +134,9 @@ One last advice (specially for shy people): *'aim at relying on your network and
 	(   | ___      (     ___       ___  ___| ___ (___    ___  ___  ___ 
 	|   )|   )     |___ |   )|   )|   )|   )|   )|    | |   )|   )|___ 
 	|__/ |  /      |    |__/ |__/ |  / |__/ |__/||__  | |__/ |  /  __/ 
-	                                                                   
-
-
-###On gratefulness and happiness
-
-Love the life you have, while you create the life of your dreams.
-
-> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
-
-> *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
-
-> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
-
-> *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
-
-> *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
-
-> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
-
-<!-- mix with luck? -->
-
-<a id="on-happiness"></a>Break or mix some long term with short term goals so you can enjoy the journey.<br>
-Happiness is a journey, not a destination.
-
-> *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
-
-<!-- 
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
-
-If I’m happy with low expectations, I’m going to be pretty happy in general,
-happiness equals reality over expectations, how negative criticism that bothered you as an insecure teenager will probably bother you now
-
-what he did wrong along the way, and how keeping expectations to a minimum has maximized his happiness.
-
-anchor yourself - remember who you are, the things you are good at, even when completely different thing
-authentic self is a state
-
-> *'Happy life = mastery + belonging + autonomy.'*
-
-we can't chase happiness, happiness is a byproduct of
--->
 
 
 
-===
 ###On identity
 
 You are your deeds.
@@ -270,6 +228,48 @@ Essentialism: The Disciplined Pursuit of Less
 
 
 ===
+###On gratefulness and happiness
+
+Love the life you have, while you create the life of your dreams.
+
+> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+> *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
+
+> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
+
+> *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
+
+> *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
+
+<!-- mix with luck? -->
+
+<a id="on-happiness"></a>Break or mix some long term with short term goals so you can enjoy the journey.<br>
+Happiness is a journey, not a destination.
+
+> *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
+
+<!-- 
+> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
+
+If I’m happy with low expectations, I’m going to be pretty happy in general,
+happiness equals reality over expectations, how negative criticism that bothered you as an insecure teenager will probably bother you now
+
+what he did wrong along the way, and how keeping expectations to a minimum has maximized his happiness.
+
+anchor yourself - remember who you are, the things you are good at, even when completely different thing
+authentic self is a state
+
+> *'Happy life = mastery + belonging + autonomy.'*
+
+we can't chase happiness, happiness is a byproduct of
+-->
+
+
+
+===
 ###On freedom
 
 Aim at being independent.
@@ -308,6 +308,15 @@ Practice doing without things you think you need.
 
 
 ===
+	  __                                         
+	 /  |                               /    /   
+	(   | ___       ___  ___  ___      (___ (___ 
+	|   )|   )     |   )|   )|   )|   )|    |   )
+	|__/ |  /      |__/ |    |__/ |/\/ |__  |  / 
+	               __/                           
+
+
+
 ###On motivation
 
 Succeeding at mediocrity isn't a worthwhile life.
@@ -346,16 +355,6 @@ lying in death bed and regretting your life is the worst that can happen to you.
 
 play to win, not hoping to make it, or why are you doing it? committed to win
 -->
-
-
-
-===
-	  __                                         
-	 /  |                               /    /   
-	(   | ___       ___  ___  ___      (___ (___ 
-	|   )|   )     |   )|   )|   )|   )|    |   )
-	|__/ |  /      |__/ |    |__/ |/\/ |__  |  / 
-	               __/                           
 
 
 
@@ -457,8 +456,7 @@ Use your phone to set reminders for really important things automatically. Turn 
 ===
 ###On improving
 
-Most problems can be solved by graded exposure over time.<br>
-You improve by:
+Most problems can be solved by graded exposure over time.
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -484,6 +482,7 @@ there are consequences for acting and don't acting
 4. Education not Schooling is What Separates the Winners from the Losers
 -->
 
+You improve by:<br>
 <a id="on-improving-by-practice"></a>1) getting out of your comfort zone.<br>
 Don't be afraid of [failure](#on-mistakes-and-failure).
 
@@ -1499,16 +1498,12 @@ Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-Practical hints:
-
-a) don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
-If feedback is needed, give a reason.
+Practical hint: don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
+Ask instead of telling. If feedback is needed, give a reason.
 
 > *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
 
 > *'«Because» is a great motivator.'*
-
-b) ask instead of telling.
 
 > *'«Why did you decide to do X in that order?». This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
 
@@ -1773,6 +1768,8 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 choose the plan with more options. the one that lets you change plan.
 
 search for actionable steps
+
+Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
 -->
 
 
@@ -1812,6 +1809,8 @@ judging ideas
 > *'Teach no one your tricks or they will be used against you.'* 
 
 ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
+
+idea sex
 
 creativity is a muscle - you have to practice it every day.
 
