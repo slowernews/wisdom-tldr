@@ -41,7 +41,6 @@ Exceptions to most rules also..
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family and friends](#on-family-and-friends)
-- [On peers](#on-peers)
 - [On higher ranks](#on-higher-ranks)
 
 *On interactions: drawbacks*
@@ -351,13 +350,14 @@ And most people waste their lives away in 9-5 jobs. It's not an age thing.
 
 lying in death bed and regretting your life is the worst that can happen to you.
 
-> *'I miss being the age when i thought I would have my shit together by the time I was the age i am now.'*
+> *'I miss being the age when i thought I would have my shit together by the time I was the age I am now.'*
 
 play to win, not hoping to make it, or why are you doing it? committed to win
 -->
 
 
 
+===
 ###On comfort and risk
 
 You need to break rules to achieve anything great.<br>
@@ -483,8 +483,7 @@ there are consequences for acting and don't acting
 -->
 
 You improve by:<br>
-<a id="on-improving-by-practice"></a>1) getting out of your comfort zone.<br>
-Don't be afraid of [failure](#on-mistakes-and-failure).
+<a id="on-improving-by-practice"></a>1) getting out of your comfort zone. Don't be afraid of [failure](#on-mistakes-and-failure).
 
 > *'Make the mind tougher by exposing it to adversity.'*
 
@@ -1249,17 +1248,12 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 ===
 ###On family and friends
 
+You will waste your life trying to make those around into who you want them to be. Instead change/filter who you are around.<br>
+You are the average of the people you surround yourself.
+
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
-
-
-
-===
-###On peers
-
-You will waste your life trying to make those around into who you want them to be. Instead change/filter who you are around.<br>
-You are the average of the people you surround yourself.
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
@@ -1486,6 +1480,7 @@ Always be clear and specific about what you expect from other people. You can no
 -->
 
 
+
 ===
 ###On management
 
@@ -1498,7 +1493,7 @@ Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-Practical hint: don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
+Hint: don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
 Ask instead of telling. If feedback is needed, give a reason.
 
 > *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
