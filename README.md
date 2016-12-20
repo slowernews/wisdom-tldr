@@ -41,7 +41,6 @@ Exceptions to most rules also..
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family and friends](#on-family-and-friends)
-- [On higher ranks](#on-higher-ranks)
 
 *On interactions: drawbacks*
 - [On conflicts](#on-conflicts)
@@ -55,6 +54,7 @@ Exceptions to most rules also..
 - [On delegation](#on-delegation)
 - [On hiring and keeping talent](#on-hiring-and-keeping-talent)
 - [On being hired](#on-being-hired)
+- [On higher ranks](#on-higher-ranks)
 
 
 ### Part 3 - Action
@@ -571,9 +571,9 @@ I’ve started a list of advice or things I know. Perhaps things I believe I kno
 ###On mastery
 
 After learning the rules, break them. Only then you can achieve mastery.<br>
-The path to mastery is a never ending story: skills are perishable.
+But the path to mastery is a never ending story: skills are perishable.
 
-> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back'*
+> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back' -- James Altucher*
 
 > *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
 
@@ -1278,19 +1278,6 @@ Seek out mentors and friends who are achieving on a higher level than you who ar
 
 
 
-===
-###On higher ranks
-
-> *'Never outshine the master.'<br>
-'Know who you’re dealing with: do not offend the wrong person.'<br>
-'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
-
-HOWEVER, don't vow to the gatekeepers.
-
-> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
-
-
-
 ===   
 	  __                                                                                                                  
 	 /  |           /      /                        /    /                       |                /              /        
@@ -1622,6 +1609,19 @@ Hint from interviews:
 People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
 
 -->
+
+
+
+===
+###On higher ranks
+
+> *'Never outshine the master.'<br>
+'Know who you’re dealing with: do not offend the wrong person.'<br>
+'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
+
+HOWEVER, don't vow to the gatekeepers.
+
+> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
 
 
 
