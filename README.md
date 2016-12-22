@@ -7,9 +7,9 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On identity](#on-identity)
+- [On freedom and identity](#on-freedom-and-identity)
 - [On gratefulness and happiness](#on-gratefulness-and-happiness)
-- [On freedom](#on-freedom)
+- [On balance](#on-balance)
 
 *On growth*
 - [On motivation](#on-motivation)
@@ -48,13 +48,13 @@ Exceptions to most rules also..
 - [On outliers](#on-outliers)
 - [On herd mentality](#on-herd-mentality)
 
-*On teams and hierarchy*
+*On teams*
 - [On leadership](#on-leadership)
 - [On management](#on-management)
 - [On delegation](#on-delegation)
 - [On hiring and keeping talent](#on-hiring-and-keeping-talent)
 - [On being hired](#on-being-hired)
-- [On higher ranks](#on-higher-ranks)
+- [On hierarchy](#on-hierarchy)
 
 
 ### Part 3 - Action
@@ -72,7 +72,6 @@ Exceptions to most rules also..
 - [On focus](#on-focus)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
-- [On balance](#on-balance)
 
 *On competing*
 - [On attacking and defending](#on-attacking-and-defending)
@@ -136,24 +135,25 @@ One last advice (specially for shy people): *'aim at relying on your network and
 
 
 
-###On identity
+###On freedom and identity
 
 You are your deeds.
 
-> *'Weakness of attitude becomes weakness of character.'*
-
 > *'How you do anything is how you do everything.'*
+
+> *'Weakness of attitude becomes weakness of character.'*
 
 Cancel your pity party. No one is coming to save you.<br>
 Pull yourself together and take total ownership for everything in your life.
-
-> *'Be the person your dog think you are.'*
 
 <a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to be respected and build a reputation.
 
 > *'Trust, not money, is the currency of business and life.'*
 
 <!--
+
+> *'Be the person your dog think you are.'*
+
 Tell Your Truth No Matter What
 
 Life is About Who You Become Not What You Achieve
@@ -190,6 +190,39 @@ Background values will change how you think
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
 > *'Seek respect, not attention. It lasts longer.'*
+
+Aim at being independent.
+
+> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
+
+> *'My independence is my legacy.' -- Bagão Felix*
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+Do not truly commit to anything but *yourself*.
+
+> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
+
+> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
+
+> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+
+<!--
+The freedom to express oneself fully.
+At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.
+
+Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.
+
+###On boundaries -> independence, autonomy
+set boundaries
+Practice doing without things you think you need.
+-->
 
 Aim at being your best self. You need to come alive.
 
@@ -269,39 +302,36 @@ we can't chase happiness, happiness is a byproduct of
 
 
 ===
-###On freedom
+###On balance
 
-Aim at being independent.
+The dose makes the poison: things in excess become their opposite.<br>
+The hardest skill is knowing when to stop.
 
-> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
+> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
 
-> *'My independence is my legacy.' -- Bagão Felix*
+> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
 
-> *'A man is free at the instant he wants to be.' -- Voltaire*
+> *'Everything should be made as simple as possible, but not simpler.'*
 
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+> *'Don't take a half step where a full step is required.'*
 
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+> *'If half of the room laughs and half doesn't is a success.'*
 
-Do not truly commit to anything but *yourself*.
+How to balance an imbalance? Overcompensate.
 
-> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
+> *'Overcompensate to make it balanced.' -- Derek Sivers*
 
-> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
-
-> *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
-> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+> *'Some people get passion from something they struggled with.'*
 
 <!--
-The freedom to express oneself fully.
-At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.
+You Need to Have Balance in Your Life 
 
-Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.
+Life is a balancing act.
 
-###On boundaries -> independence, autonomy
-set boundaries
-Practice doing without things you think you need.
+You can have all the money in the world, but if your home life and health are out of order, you will suffer.
+Conversely, you can have a loving family and a shredded body, but if you are not making enough money, you and your loved ones will suffer.
+Balance is not about spending the same amount of time focused on every area of your life either.
+It is about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
 -->
 
 
@@ -1613,7 +1643,7 @@ People will describe your strengths, if you ask them why did you ask him for an 
 
 
 ===
-###On higher ranks
+###On hierarchy
 
 > *'Never outshine the master.'<br>
 'Know who you’re dealing with: do not offend the wrong person.'<br>
@@ -2003,41 +2033,6 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 HOWEVER
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
-
-
-
-===
-###On balance
-
-The dose makes the poison: things in excess become their opposite.<br>
-The hardest skill is knowing when to stop.
-
-> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
-
-> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
-
-> *'Everything should be made as simple as possible, but not simpler.'*
-
-> *'Don't take a half step where a full step is required.'*
-
-> *'If half of the room laughs and half doesn't is a success.'*
-
-How to balance an imbalance? Overcompensate.
-
-> *'Overcompensate to make it balanced.' -- Derek Sivers*
-
-> *'Some people get passion from something they struggled with.'*
-
-<!--
-You Need to Have Balance in Your Life 
-
-Life is a balancing act.
-
-You can have all the money in the world, but if your home life and health are out of order, you will suffer.
-Conversely, you can have a loving family and a shredded body, but if you are not making enough money, you and your loved ones will suffer.
-Balance is not about spending the same amount of time focused on every area of your life either.
-It is about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
--->
 
 
 
@@ -2560,15 +2555,15 @@ Liberalism is comforting but ultimately ruinous self-deception. Conservatism is 
 
 > *'Science without religion is lame. Religion without science is blind.'*
 
-> *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
-
 > *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
 
+> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
+
 > *'Technological progress is like an ax in the hands of a pathological criminal.'*
 
-> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
+> *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
 
 
 
