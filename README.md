@@ -151,7 +151,6 @@ Pull yourself together and take total ownership for everything in your life.
 > *'Trust, not money, is the currency of business and life.'*
 
 <!--
-
 > *'Be the person your dog think you are.'*
 
 Tell Your Truth No Matter What
@@ -203,6 +202,8 @@ Aim at being independent.
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
+> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
+
 Do not truly commit to anything but *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
@@ -217,7 +218,7 @@ Do not truly commit to anything but *yourself*.
 The freedom to express oneself fully.
 At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.
 
-Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.
+
 
 ###On boundaries -> independence, autonomy
 set boundaries
@@ -304,6 +305,8 @@ we can't chase happiness, happiness is a byproduct of
 ===
 ###On balance
 
+Life is a balancing act.
+
 The dose makes the poison: things in excess become their opposite.<br>
 The hardest skill is knowing when to stop.
 
@@ -324,14 +327,12 @@ How to balance an imbalance? Overcompensate.
 > *'Some people get passion from something they struggled with.'*
 
 <!--
-You Need to Have Balance in Your Life 
-
-Life is a balancing act.
-
-You can have all the money in the world, but if your home life and health are out of order, you will suffer.
-Conversely, you can have a loving family and a shredded body, but if you are not making enough money, you and your loved ones will suffer.
 Balance is not about spending the same amount of time focused on every area of your life either.
 It is about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
+
+balance:
+Don’t try to make your job your whole life
+Don’t try to make your art your sole income
 -->
 
 
@@ -2338,36 +2339,28 @@ Track time and journal for hints on where to improve.
 ###On past and memory
 
 You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
-They are meant to guide you, not to define you.
-
-> *'He'd wasted most of his life thinking he'd wasted most of his life'*
-
-> *'People forget more future events than past events.'*
-
-> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
-
-> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
-
-> *'Never regret something that once made you smile.'*
+They are meant to guide you, not to define you or determine your future.
 
 > *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
 
+> *'He'd wasted most of his life thinking he'd wasted most of his life'*
+
+
+> *'Never regret something that once made you smile.'*
+
 > *'Stop looking for happiness in the same place where you lost it.'*
 
-<!-- 
+> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
+
+> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
+
+How memory works? People forget by decaying and giving them other stuff to remember.
+
+> *'People forget future events more than past events.'*
+
+> *'People remember more the beginning and the end of something.'*
+
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* 
-
-people remember more the beginning and the end of something
-
-people forget by decaying and giving them other stuff for them to remember.
-
-Embracing the medium simply ensures that everybody else knows it. aka let go
-
-
-5. Your Past Does Not Determine Your Future
-your upper limit makes you start all over continuosly
-strecct your upper limit if you want growth
--->
 
 
 
@@ -2378,7 +2371,9 @@ You will die soon. Act accordingly and don't postpone joy.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
+<!--
 > *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
+-->
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
@@ -2590,7 +2585,6 @@ That's where «big bucks» are.
 ---
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - When my world view changes, this informal book is adapted to include my new belief. [↩](#refnote1)</sup>
-
 
 
 ---
