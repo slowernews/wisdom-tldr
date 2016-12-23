@@ -143,6 +143,65 @@ You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
+Aim at being your best self. You need to come alive.
+
+> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
+
+> *'If you try to be something you're not, you end up being nothing.'*
+
+> *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
+
+> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
+
+> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
+
+<!--
+Live in accordance with your nature. If something is forced it will not be sustainable.
+Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You need to be good enough at the right thing, one time.
+You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.
+
+minimalism an essencialism - the value in less - the joy of missing out
+do you want short term popularity or long term respect
+permission to rethink
+weekly design session - think on longer term
+reactive to proactive life
+start where do you have control of. go slowly over time.
+Essentialism: The Disciplined Pursuit of Less
+-->
+
+Aim at being independent.
+
+> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
+
+> *'My independence is my legacy.' -- Bagão Felix*
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
+
+Do not truly commit to anything but *yourself*.
+
+> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
+
+> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
+
+> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+
+<!--
+The freedom to express oneself fully.
+At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.
+
+###On boundaries -> independence, autonomy
+set boundaries
+Practice doing without things you think you need.
+-->
+
 Cancel your pity party. No one is coming to save you.<br>
 Pull yourself together and take total ownership for everything in your life.
 
@@ -189,68 +248,6 @@ Background values will change how you think
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
 > *'Seek respect, not attention. It lasts longer.'*
-
-Aim at being independent.
-
-> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
-
-> *'My independence is my legacy.' -- Bagão Felix*
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
-
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
-
-Do not truly commit to anything but *yourself*.
-
-> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
-
-> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
-
-> *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
-> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
-
-<!--
-The freedom to express oneself fully.
-At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.
-
-
-
-###On boundaries -> independence, autonomy
-set boundaries
-Practice doing without things you think you need.
--->
-
-Aim at being your best self. You need to come alive.
-
-> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
-
-> *'If you try to be something you're not, you end up being nothing.'*
-
-> *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
-
-> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
-
-> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
-
-<!--
-Live in accordance with your nature. If something is forced it will not be sustainable.
-Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You need to be good enough at the right thing, one time.
-You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.
-
-minimalism an essencialism - the value in less - the joy of missing out
-do you want short term popularity or long term respect
-permission to rethink
-weekly design session - think on longer term
-reactive to proactive life
-start where do you have control of. go slowly over time.
-Essentialism: The Disciplined Pursuit of Less
-
--->
 
 <a id="on-humbleness"></a>HOWEVER, remember to be humble, you are not perfect neither you'll ever be.
 
@@ -459,7 +456,7 @@ Consistency is key. Habits allow [mastery](#on-mastery) and [success](#on-succes
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
-> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times. You must do things over and over, usually the hard way.' -- Allen Tucker*
+> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
 
 Consistency doesn’t come from effort, it comes from systems. Decisions compound.
 
@@ -468,9 +465,9 @@ Avoid low value systems: social media, news, owning a TV, working long hours, co
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
 
-> *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night. Spend the last hour of the day (or all day) without electronic devices.' -- Allen Tucker*
+> *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.' -- Allen Tucker*
 
-> *'Don’t concern yourself with the news. It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
+> *'It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
 
 <!--
 mental checklist of positive habits.
@@ -2535,7 +2532,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Politicians don't get educated. They get bought.'*
 
-> *'The moment you cross a second border - you are an economic migrant, not a refugee.'*
+> *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
 <!--
 Liberalism is comforting but ultimately ruinous self-deception. Conservatism is discomforting but functional reality.
@@ -2588,4 +2585,4 @@ That's where «big bucks» are.
 
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><i>'Wisdom Pocket Guide'</i></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><i>'Wisdom Pocket Guide'</i></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://galfarragem.github.io/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
