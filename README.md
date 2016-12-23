@@ -9,6 +9,7 @@ Exceptions to most rules also..
 *On foundations*
 - [On freedom and identity](#on-freedom-and-identity)
 - [On gratefulness and happiness](#on-gratefulness-and-happiness)
+- [On finding a path](#on-finding-a-path)
 - [On balance](#on-balance)
 
 *On growth*
@@ -143,20 +144,22 @@ You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
-Aim at being your best self. You need to come alive.
+Succeeding at mediocrity isn't a worthwhile life.<br>
+Decide to aim at being your best self. You need to come alive.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
-> *'If you try to be something you're not, you end up being nothing.'*
-
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
 
-> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
+Live in accordance with your nature. If something is forced it will not be sustainable.
+
+> *'If you try to be something you're not, you end up being nothing.'*
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
 <!--
-Live in accordance with your nature. If something is forced it will not be sustainable.
+> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
+
 Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You need to be good enough at the right thing, one time.
 You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.
 
@@ -169,7 +172,7 @@ start where do you have control of. go slowly over time.
 Essentialism: The Disciplined Pursuit of Less
 -->
 
-Aim at being independent.
+Decide to aim at being independent.
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
@@ -201,9 +204,6 @@ At the core of every man is the desire to be free yet ironically men often confi
 set boundaries
 Practice doing without things you think you need.
 -->
-
-Cancel your pity party. No one is coming to save you.<br>
-Pull yourself together and take total ownership for everything in your life.
 
 <a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to be respected and build a reputation.
 
@@ -262,9 +262,15 @@ Background values will change how you think
 
 Love the life you have, while you create the life of your dreams.
 
-> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+<!--
+seek happiness actively (action) and passively (lower expectations)
+-->
+
+> *'Happiness = reality / expectations'*
 
 > *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
+
+> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
@@ -274,27 +280,32 @@ Love the life you have, while you create the life of your dreams.
 
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
-<!-- mix with luck? -->
+<a id="on-happiness"></a>We can't chase happiness, happiness is a byproduct of our actions.
 
-<a id="on-happiness"></a>Break or mix some long term with short term goals so you can enjoy the journey.<br>
+> *'Happy life = mastery + belonging + autonomy.'*
+
+> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
+
+Break long term goals so you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 
-<!-- 
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
-
-If I’m happy with low expectations, I’m going to be pretty happy in general,
-happiness equals reality over expectations, how negative criticism that bothered you as an insecure teenager will probably bother you now
-
-what he did wrong along the way, and how keeping expectations to a minimum has maximized his happiness.
-
+<!--
 anchor yourself - remember who you are, the things you are good at, even when completely different thing
 authentic self is a state
+-->
 
-> *'Happy life = mastery + belonging + autonomy.'*
 
-we can't chase happiness, happiness is a byproduct of
+
+===
+###On finding a path
+
+Cancel your pity party. No one is coming to save you.<br>
+Pull yourself together and take total ownership for everything in your life.
+
+<!--
+Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, once you have a clear picture of what you want, hustle like crazy until you achieve it
 -->
 
 
@@ -346,8 +357,6 @@ Don’t try to make your art your sole income
 
 ###On motivation
 
-Succeeding at mediocrity isn't a worthwhile life.
-
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
@@ -374,6 +383,7 @@ You have to constantly push yourself to do more, achieve more, and, most importa
 Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn.
 And most people waste their lives away in 9-5 jobs. It's not an age thing.
 
+“We cannot become what we need to be by remaining what we are”  ~Max Dupree
 “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
 lying in death bed and regretting your life is the worst that can happen to you.
@@ -1647,11 +1657,17 @@ People will describe your strengths, if you ask them why did you ask him for an 
 'Know who you’re dealing with: do not offend the wrong person.'<br>
 'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
 
+> *'Only comedians can speak the truth without consequences.'*
+
 HOWEVER, don't vow to the gatekeepers.
 
 > *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
 
+<!--
+social cartography, that draw the power relations, who's the decision maker.
+to whom people are speaking, and who is speaking
 
+-->
 
 ===
 	  __                                                                                     
