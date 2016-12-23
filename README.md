@@ -145,21 +145,21 @@ You are your deeds.
 > *'Weakness of attitude becomes weakness of character.'*
 
 Succeeding at mediocrity isn't a worthwhile life.<br>
-Decide to aim at being your best self. You need to come alive.
+Decide at being your best self. You need to come alive.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
 
-Live in accordance with your nature. If something is forced it will not be sustainable.
+> *'Be the person your dog think you are.'*
+
+HOWEVER, live in accordance with your nature. If something is forced it will not be sustainable.
 
 > *'If you try to be something you're not, you end up being nothing.'*
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
 <!--
-> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
-
 Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You need to be good enough at the right thing, one time.
 You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.
 
@@ -172,7 +172,7 @@ start where do you have control of. go slowly over time.
 Essentialism: The Disciplined Pursuit of Less
 -->
 
-Decide to aim at being independent.
+Decide at being independent.
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
@@ -210,8 +210,6 @@ Practice doing without things you think you need.
 > *'Trust, not money, is the currency of business and life.'*
 
 <!--
-> *'Be the person your dog think you are.'*
-
 Tell Your Truth No Matter What
 
 Life is About Who You Become Not What You Achieve
@@ -303,6 +301,8 @@ authentic self is a state
 
 Cancel your pity party. No one is coming to save you.<br>
 Pull yourself together and take total ownership for everything in your life.
+
+> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
 
 <!--
 Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, once you have a clear picture of what you want, hustle like crazy until you achieve it
