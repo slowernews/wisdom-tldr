@@ -121,9 +121,9 @@ Exceptions to most rules also..
 3 general advices:<br>
 *'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
 *'Avoiding conflict will not keep peace, will rot it.'*<br>
-*'The dose makes the poison'*<br>
-One practical advice: *'have more than one child.'*<br>
-One last advice (specially for shy people): *'aim at relying on your network and not at being self-sufficient.'*
+*'Life is a balancing act.'*<br>
+One practical advice: *'Have more than one child.'*<br>
+One last advice (specially for shy people): *'Aim at relying on your network and not at being self-sufficient.'*
 
 
 
@@ -145,7 +145,7 @@ You are your deeds.
 > *'Weakness of attitude becomes weakness of character.'*
 
 Succeeding at mediocrity isn't a worthwhile life.<br>
-Decide at being your best self. You need to come alive.
+Decide for being your best self. You need to come alive.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -172,13 +172,13 @@ start where do you have control of. go slowly over time.
 Essentialism: The Disciplined Pursuit of Less
 -->
 
-Decide at being independent.
+Decide for being independent.
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
 > *'My independence is my legacy.' -- Bagão Felix*
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
@@ -186,13 +186,13 @@ Decide at being independent.
 
 > *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
 
-Do not truly commit to anything but *yourself*.
+Choose *yourself*.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
-> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
-
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
+
+> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
@@ -302,9 +302,12 @@ authentic self is a state
 Cancel your pity party. No one is coming to save you.<br>
 Pull yourself together and take total ownership for everything in your life.
 
-> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences and grow into the man that you want to become.'*
+> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences.'*
 
 <!--
+What do you do for fun?
+What am I interested in that everybody in the world is interested in?
+
 Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, once you have a clear picture of what you want, hustle like crazy until you achieve it
 -->
 
