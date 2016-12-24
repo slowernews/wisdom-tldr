@@ -9,10 +9,10 @@ Exceptions to most rules also..
 *On foundations*
 - [On freedom and identity](#on-freedom-and-identity)
 - [On gratefulness and happiness](#on-gratefulness-and-happiness)
-- [On finding a path](#on-finding-a-path)
 - [On balance](#on-balance)
 
 *On growth*
+- [On finding a path](#on-finding-a-path)
 - [On motivation](#on-motivation)
 - [On comfort and risk](#on-comfort-and-risk)
 - [On success](#on-success)
@@ -113,6 +113,7 @@ Exceptions to most rules also..
 - [On economics and politics](#on-economics-and-politics)
 - [On science and religion](#on-science-and-religion)
 - [On art and aesthetics](#on-art-and-aesthetics)
+- [On lifestyle](#on-lifestyle)
 
 
 #### TL;DR 
@@ -167,7 +168,7 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Choose *yourself*.
+Choose *yourself*. Tell *your* truth no matter what.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
@@ -179,10 +180,10 @@ Choose *yourself*.
 
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
+> *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
+
 <!--
 The freedom to express oneself fully.
-At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.
-
 ###On boundaries -> independence, autonomy
 set boundaries
 Practice doing without things you think you need.
@@ -193,8 +194,6 @@ It's the only way to be respected and build trust.
 
 > *'Trust, not money, is the currency of business and life.'*
 
-> *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
-
 > *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
@@ -202,8 +201,6 @@ It's the only way to be respected and build trust.
 > *'Seek respect, not attention. It lasts longer.'*
 
 <!--
-Tell Your Truth No Matter What
-
 Life is About Who You Become Not What You Achieve
 On this journey called life, many people lose sight of what is really important.
 They believe that material wealth, sexual experiences, and physical prowess are what makes a man.
@@ -235,7 +232,7 @@ HOWEVER, live in accordance with your nature. If something is forced it will not
 
 > *'If you try to be something you're not, you end up being nothing.'*
 
-> *'Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.'*
+> *'Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker*
 
 <!--
 minimalism an essencialism - the value in less - the joy of missing out
@@ -297,23 +294,6 @@ authentic self is a state
 
 
 ===
-###On finding a path
-
-Cancel your pity party. No one is coming to save you.<br>
-Pull yourself together and take total ownership for everything in your life.
-
-> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences.'*
-
-<!--
-What do you do for fun?
-What am I interested in that everybody in the world is interested in?
-
-Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, once you have a clear picture of what you want, hustle like crazy until you achieve it
--->
-
-
-
-===
 ###On balance
 
 Life is a balancing act.
@@ -358,13 +338,27 @@ Don’t try to make your art your sole income
 
 
 
+###On finding a path
+
+Cancel your pity party. No one is coming to save you.<br>
+Pull yourself together and take total ownership for everything in your life.
+
+> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences.'*
+
+> *'What do you do for fun? What are you interested in that everybody in the world is interested in?'*
+
+> *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, once you have a clear picture of what you want, hustle like crazy until you achieve it.'*
+
+> *'Your fears are the pathway to power. The more fear you feel, the more you will know you are on the right track.'*
+
+
+
+===
 ###On motivation
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
-
-> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
 
 > *'Work until your idols become your rivals.'*
 
@@ -576,6 +570,8 @@ Feedback speeds up improvement. Mentors are your best source of feedback.
 
 > *'Find mentors to help you improve, even virtual mentors as a good book.'*
 
+> *'A coach spots your bullshit before you open your mouth.'*
+
 <!--
 Your father is your first mentor. 
 
@@ -627,8 +623,6 @@ But the path to mastery is a never ending story: skills are perishable.
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
 > *'If you aren’t growing you’re dying.' -- Tony Robbins*
-
-<!-- You must have control over your work and you must enjoy it in order to be successful at it in the long term. -->
 
 HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
@@ -724,6 +718,13 @@ Excuses are a manifestation of fear. None of them is acceptable. End.
 > *'You'll never be as young as you are today.'*
 
 > *'There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
+
+<!--
+Anger is fear clothed
+
+Be careful not to let fear paralyze you either.
+Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
+-->
 
 
 
@@ -1605,11 +1606,15 @@ Employers hire you because you are a likable person that «get shit done».
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
-> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
-
 > *'While deep work will promote you, shallow work will only prevent you from being fired.'<br>
 'Career capital is the unique skills that make you rare and valuable'<br>
 'Be so good that they cannot ignore you' -- Cal Newport*
+
+> *'Is it better to be good at many things or great at one thing?<br>
+To be an entrepreneur you need to know a little about a lot of things.<br>
+To be employed, you'll do better as a specialist. If you pick the right specialization.'*
+
+> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
 HOWEVER, having a job is risky: companies don't care about you.<br>
 So avoid the trap of following one set career path. It will be easier to pivot when needed.
@@ -2420,6 +2425,8 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'Anomalies often represent the future but to our eyes they seem strange.'*
 
+> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
+
 
 
 ===
@@ -2555,6 +2562,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 <!--
 Liberalism is comforting but ultimately ruinous self-deception. Conservatism is discomforting but functional reality.
+
+Modern liberals, particularly the "social justice warriors", aren't helping progressive causes with their dogmatic approach to political discourse.
 -->
 
 
@@ -2596,6 +2605,13 @@ That's where «big bucks» are.
 
 > *'Life is Capitalism but art is Socialism.'*
 
+
+
+###On lifestyle
+
+> *'Don't be a plant.'*
+
+> *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
 
 ---
