@@ -144,47 +144,28 @@ You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
-Succeeding at mediocrity isn't a worthwhile life.<br>
-Decide for being your best self. You need to come alive.
+Choose to be your best self. You need to come alive.<br>
+Succeeding at mediocrity isn't a worthwhile life.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
 
-> *'Be the person your dog think you are.'*
-
-HOWEVER, live in accordance with your nature. If something is forced it will not be sustainable.
-
-> *'If you try to be something you're not, you end up being nothing.'*
-
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-<!--
-Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You need to be good enough at the right thing, one time.
-You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.
+> *'Be the person your dog thinks you are.'*
 
-minimalism an essencialism - the value in less - the joy of missing out
-do you want short term popularity or long term respect
-permission to rethink
-weekly design session - think on longer term
-reactive to proactive life
-start where do you have control of. go slowly over time.
-Essentialism: The Disciplined Pursuit of Less
--->
-
-Decide for being independent.
+<a id="freedom">Choose to be independent.
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
 > *'My independence is my legacy.' -- Bagão Felix*
 
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
-
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
 
 Choose *yourself*.
 
@@ -193,6 +174,8 @@ Choose *yourself*.
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
@@ -205,9 +188,18 @@ set boundaries
 Practice doing without things you think you need.
 -->
 
-<a id="on-trust-and-integrity"></a>Keep your integrity: it's the only way to be respected and build a reputation.
+<a id="on-trust-and-integrity"></a>Choose to keep your integrity.<br>
+It's the only way to be respected and build trust.
 
 > *'Trust, not money, is the currency of business and life.'*
+
+> *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
+
+> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
+
+> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
+
+> *'Seek respect, not attention. It lasts longer.'*
 
 <!--
 Tell Your Truth No Matter What
@@ -239,15 +231,23 @@ As an occasional treat, video games or TV are not inherently bad, but we live in
 Background values will change how you think
 -->
 
-> *'The greatness of a man is not in how much wealth he acquires, but in his integrity.' -- Bob Marley*
+HOWEVER, live in accordance with your nature. If something is forced it will not be sustainable.
 
-> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
+> *'If you try to be something you're not, you end up being nothing.'*
 
-> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
+> *'Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.'*
 
-> *'Seek respect, not attention. It lasts longer.'*
+<!--
+minimalism an essencialism - the value in less - the joy of missing out
+do you want short term popularity or long term respect
+permission to rethink
+weekly design session - think on longer term
+reactive to proactive life
+start where do you have control of. go slowly over time.
+Essentialism: The Disciplined Pursuit of Less
+-->
 
-<a id="on-humbleness"></a>HOWEVER, remember to be humble, you are not perfect neither you'll ever be.
+<a id="on-humbleness"></a>And remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
