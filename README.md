@@ -166,9 +166,8 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'My independence is my legacy.' -- Bagão Felix*
 
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-Choose *yourself*. Tell *your* truth no matter what.
+Choose *yourself*.<br>
+Tell *your* truth no matter what.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
@@ -177,6 +176,8 @@ Choose *yourself*. Tell *your* truth no matter what.
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 > *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
 
@@ -343,13 +344,13 @@ Don’t try to make your art your sole income
 Cancel your pity party. No one is coming to save you.<br>
 Pull yourself together and take total ownership for everything in your life.
 
-> *'If you are feeling lost in life, you need to experience more things. Do whatever you have to do to give yourself more experiences.'*
+> *'If you are feeling lost in life, you need to experience more things.'*
 
 > *'What do you do for fun? What are you interested in that everybody in the world is interested in?'*
 
-> *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, once you have a clear picture of what you want, hustle like crazy until you achieve it.'*
+> *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, do it.'*
 
-> *'Your fears are the pathway to power. The more fear you feel, the more you will know you are on the right track.'*
+> *'The more fear you feel, the more you will know you are on the right track.'*
 
 
 
@@ -2607,6 +2608,7 @@ That's where «big bucks» are.
 
 
 
+===
 ###On lifestyle
 
 > *'Don't be a plant.'*
@@ -2614,10 +2616,10 @@ That's where «big bucks» are.
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
 
+
 ---
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - When my world view changes, this informal book is adapted to include my new belief. [↩](#refnote1)</sup>
-
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><i>'Wisdom Pocket Guide'</i></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://galfarragem.github.io/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
