@@ -28,7 +28,7 @@ Exceptions to most rules also..
 - [On shame](#on-shame)
 - [On confidence and validation](#on-confidence-and-validation)
 - [On limits and resistance](#on-limits-and-resistance)
-- [On health and relax](#on-health-and-relax)
+- [On health and stress](#on-health-and-stress)
 
 
 ### Part 2 - Groups
@@ -157,7 +157,7 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'Be the person your dog thinks you are.'*
 
-<a id="freedom">Choose to be independent.
+<a id="freedom"></a>Choose to be independent.
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
@@ -235,16 +235,6 @@ HOWEVER, live in accordance with your nature. If something is forced it will not
 > *'If you try to be something you're not, you end up being nothing.'*
 
 > *'Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker*
-
-<!--
-minimalism an essencialism - the value in less - the joy of missing out
-do you want short term popularity or long term respect
-permission to rethink
-weekly design session - think on longer term
-reactive to proactive life
-start where do you have control of. go slowly over time.
-Essentialism: The Disciplined Pursuit of Less
--->
 
 <a id="on-humbleness"></a>And remember to be humble, you are not perfect neither you'll ever be.
 
@@ -739,8 +729,8 @@ Realize that on the other side of every fear is a stronger, more powerful, and m
 ===
 ###On mistakes and failure
 
-Sometimes you win. Sometimes you learn. Accept failure as part of the process.<br>
-Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness).
+Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness):<br>
+Sometimes you win, sometimes you learn. Accept failure as part of the process.
 
 > *'Anyone who has never made a mistake has never tried anything new.'*
 
@@ -797,6 +787,14 @@ You can hide the ugly parts, but you can't make them disappear.
 ===
 ###On confidence and validation
 
+If you say it with confidence, you are who you say you are.
+
+> *'You're only as good as your next speech.'*
+
+> *'A speech is a performance. Authenticity is crucial.'*
+
+> *'Believe you can, and you’re half way there.'*
+
 Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
 
 > *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
@@ -806,14 +804,6 @@ Don’t wait for someone else to tell you that you are special. If the universe 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
 > *'Let go of your ego and your need for validation.'*
-
-If you say it with confidence, you are who you say you are.
-
-> *'You're only as good as your next speech.'*
-
-> *'A speech is a performance. Authenticity is crucial.'*
-
-> *'Believe you can, and you’re half way there.'*
 
 [Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.<br>
 In the meanwhile any source is good. Don't stop till you get it.
@@ -863,7 +853,7 @@ impostor syndrome
 
 
 ===
-###On health and relax
+###On health and stress
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
 HOWEVER, the origin of most health problems is not physical but mental.
@@ -2622,6 +2612,16 @@ That's where «big bucks» are.
 'Don't be a plant.'
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
+
+<!--
+minimalism an essencialism - the value in less - the joy of missing out
+do you want short term popularity or long term respect
+permission to rethink
+weekly design session - think on longer term
+reactive to proactive life
+start where do you have control of. go slowly over time.
+Essentialism: The Disciplined Pursuit of Less
+-->
 
 
 
