@@ -256,7 +256,13 @@ Essentialism: The Disciplined Pursuit of Less
 ===
 ###On gratefulness and happiness
 
-Love the life you have, while you create the life of your dreams.
+We can't chase happiness, happiness is a byproduct of our actions.
+
+> *'Happy life = mastery + belonging + autonomy.'*
+
+> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
+
+While you create the life of your dreams, lower your expectations and love the life you have.
 
 <!--
 seek happiness actively (action) and passively (lower expectations)
@@ -276,13 +282,7 @@ seek happiness actively (action) and passively (lower expectations)
 
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
-<a id="on-happiness"></a>We can't chase happiness, happiness is a byproduct of our actions.
-
-> *'Happy life = mastery + belonging + autonomy.'*
-
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
-
-Break long term goals so you can enjoy the journey.<br>
+By breaking long term goals you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
@@ -367,7 +367,7 @@ Pull yourself together and take total ownership for everything in your life.
 
 > *'How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.' -- Allen Tucker*
 
-HOWEVER, don't be thirsty: the [journey](#on-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
+HOWEVER, don't be thirsty: the [journey](#on-gratefulness-and-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
 <!--
 on settling:
@@ -2611,7 +2611,7 @@ That's where «big bucks» are.
 ===
 ###On lifestyle
 
-> *'Don't be a plant.'*
+'Don't be a plant.'
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
