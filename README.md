@@ -23,10 +23,11 @@ Exceptions to most rules also..
 
 *On your worst enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
+- [On anger](#on-anger)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
 - [On confidence and validation](#on-confidence-and-validation)
-- [On limits](#on-limits)
+- [On limits and resistance](#on-limits-and-resistance)
 - [On health and relax](#on-health-and-relax)
 
 
@@ -279,8 +280,6 @@ seek happiness actively (action) and passively (lower expectations)
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
-
-> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
 By breaking long term goals you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
@@ -712,20 +711,28 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
 > *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
 
-Excuses are a manifestation of fear. None of them is acceptable. End.
+Excuses are a manifestation of fear. All are refutable.
+
+> *'There is no coming to consciousness without pain.<br>
+People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
 
 > *'You cannot use your personality type as an excuse.'*
 
 > *'You'll never be as young as you are today.'*
 
-> *'There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
-
 <!--
-Anger is fear clothed
-
 Be careful not to let fear paralyze you either.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
 -->
+
+
+
+===
+###On anger
+
+'Anger is fear clothed'
+
+> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
 
 
@@ -825,10 +832,6 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.'*
 
 Confidence is a result, not a requirement
-
-Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
-
-impostor syndrome
 -->
 
 > *'Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.'*
@@ -838,7 +841,7 @@ impostor syndrome
 
 
 ===
-###On limits
+###On limits and resistance
 
 > *'Your limits are where are your fears.'*
 
@@ -852,6 +855,11 @@ HOWEVER
 
 > *'Your level of success will seldom exceed your level of personal development.'*
 
+<!--
+Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
+
+impostor syndrome
+-->
 
 
 ===
