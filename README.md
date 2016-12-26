@@ -19,12 +19,12 @@ Exceptions to most rules also..
 - [On habits](#on-habits)
 - [On systems](#on-systems)
 - [On improving](#on-improving)
+- [On skills](#on-skills)
 - [On mastery](#on-mastery)
 - [On generosity and mentorship](#on-generosity-and-mentorship)
 
 *On your worst enemy: yourself*
-- [On fear and excuses](#on-fear-and-excuses)
-- [On anger](#on-anger)
+- [On fear, anger and excuses](#on-fear-anger-and-excuses)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
 - [On confidence and validation](#on-confidence-and-validation)
@@ -74,6 +74,7 @@ Exceptions to most rules also..
 - [On starting and timing](#on-starting-and-timing)
 - [On pace](#on-pace)
 - [On focus](#on-focus)
+- [On position](#on-position)
 - [On control](#on-control)
 - [On adapting](#on-adapting)
 
@@ -545,6 +546,12 @@ Use your phone to set reminders for really important things automatically. Turn 
 
 Focus on Showing Up not Achieving Goals 
 if you want to live a fulfilled and happy life, then focus more on showing up each day as the man that you want to be.
+
+1) Invest in long-term wellbeing
+a. Physical health:
+b. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation.
+c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
+d. Gratitude
 -->
 
 
@@ -683,6 +690,22 @@ I’ve started a list of advice or things I know. Perhaps things I believe I kno
 
 
 ===
+###On skills
+
+effort * talent = skill
+
+<!--
+trade-able skills
+figure out what skills you already have that you can charge for
+The first step to succeeding at your side hustle is to figure out what skills you have that you can charge for.
+And before you say that you don’t have any, let me cut that belief down right now.
+If you can write, take pictures, manage spreadsheets, teach an instrument, are good with girls, or know how to plan a trip abroad, then you have the skills necessary to start a side hustle.
+But it’s up to you to determine what skills you have, develop the skills that you want to have, and then seek out clients who will pay you for them
+-->
+
+
+
+===
 ###On mastery
 
 After learning the rules, break them. Only then you can achieve mastery.<br>
@@ -775,7 +798,7 @@ HOWEVER, some people are not ready to have a mentor and accept your vision.
 
 
 
-###On fear and excuses
+###On fear, anger and excuses
 
 Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
@@ -793,7 +816,9 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
 > *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
 
-Excuses are a manifestation of fear. All are refutable.
+Anger and excuses are fear clothed. All excuses are refutable.
+
+> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
 > *'There is no coming to consciousness without pain.<br>
 People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
@@ -806,15 +831,6 @@ People will do anything, no matter how absurd, in order to avoid facing their ow
 Be careful not to let fear paralyze you either.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
 -->
-
-
-
-===
-###On anger
-
-'Anger is fear clothed'
-
-> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
 
 
@@ -1204,6 +1220,12 @@ If there are tasks that need to be done that do not directly result in the gener
 there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
 
 as long as we’re not on the good side, we say ‘what the hell?’ because we don’t enjoy the middle ground. The middle ground is not helping us define who we are. Rather than trying to fix a problem that we see as mostly broken, it’s common for us to hope for a clean slate or a reset button of some kind. This is why mechanisms like Catholic confession are so powerful.
+
+You only have to be really right once.
+- Mark Zuckerberg thought that facebook was going to be a college directory and that was it.
+- Bill Gates didn’t think the Internet had any potential. Seriously.
+- History is filled with examples of people like this. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.
+If you only have to be right once, your goal must be to allow yourself many opportunities to be wrong and still keep going.
 -->
 
 
@@ -1252,6 +1274,12 @@ never split the difference
 Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
 
 > *'Instead of generalizing, stick with the facts.'*
+
+make an agreement on a standard of value.
+my standard of value for a weekend: some combination of rejuvenation and human connection.
+normally we fall into habits. we don't do what is best for ourselves.
+people have different standards of value: weekend example
+rejuvenation and human conception will derail to your habits.
 -->
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
@@ -1908,6 +1936,8 @@ working class want to feel the same as others.
 white collar want to feel different from others.
 
 decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
+
+inoculate yourself from the stress of making hard decisions when you need to. -- Allen Tucker
 -->
 
 HOWEVER, too many decisions will drain you. Attention is the most limited resource.
@@ -1935,8 +1965,6 @@ Make the decisions right now. When in the moment of making the decision, you hav
 How to plan: start with a vision.
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
-
-> *'Position yourself for victory.'*
 
 > *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
 
@@ -2102,6 +2130,12 @@ Don’t be afraid to take time away to find your direction.
 
 > *'You finished ahead of time, that means you forgot something.'*
 
+Don't be thirsty.
+
+> *'Vai procurar, vai achar o que não tinha perdido.'*
+
+> *'Who seeks shall find.' -- Sophocles*
+
 <!--
 > *'Go-Karts - Feel fast, are slow 747s - Feel slow, are fast Ship it! - Feels fast, is slow Test > *'Document it! - Feels slow, is fast.'*
 -->
@@ -2154,6 +2188,27 @@ Focus on the one thing most likely to get maximum results. Forget everything els
 One of the simplest habits that you can start implementing today is to shift all of your focus towards revenue generating activities.
 Plain and simple, if it is not going to earn you money, then don’t do it. Focus only on the activities that are going to push the envelope forward for you and your company and result in an influx of cash.
 If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
+
+try to hit 10% of your followers instead of trying to hit all of them at the same time.
+
+if you are the focus you will be assumed as being the the cause.
+
+Do you keep busy as a way to avoid doing the important — but often difficult — things in life?
+Every man needs a fight. Not physical, but a mission to fight for
+-->
+
+
+
+===
+###On position
+
+> *'Position yourself for victory.'*
+
+<!--
+> *'Trade space for time.'*
+
+convenience (location) is better than space amount
+chess gambits -- exchange material by position-time.
 -->
 
 
@@ -2324,7 +2379,11 @@ HOWEVER, deceiving is not lying.
 <!-- 
 > *'Disappointment destroys trust.'*
 
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
+
 > *'Bad liars should speak as little as possible.'*
+
+the good reason (the reason they tell you) and the real reason.
 -->
 
 
@@ -2512,6 +2571,8 @@ Then, once you have a clear picture of what you want, hustle like crazy until yo
 
 attention
 any media company, harvest your attention and transform it into revenue.
+
+busy imply out of control. lack of time is lack of priorities
 -->
 
 Track time and journal for hints on where to improve.
