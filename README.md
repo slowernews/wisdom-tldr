@@ -17,6 +17,7 @@ Exceptions to most rules also..
 - [On comfort and risk](#on-comfort-and-risk)
 - [On success](#on-success)
 - [On habits](#on-habits)
+- [On systems](#on-systems)
 - [On improving](#on-improving)
 - [On mastery](#on-mastery)
 - [On generosity and mentorship](#on-generosity-and-mentorship)
@@ -70,7 +71,7 @@ Exceptions to most rules also..
 - [On creativity and ideas](#on-creativity-and-ideas)
 
 *On executing*
-- [On timing](#on-timing)
+- [On starting and timing](#on-starting-and-timing)
 - [On pace](#on-pace)
 - [On focus](#on-focus)
 - [On control](#on-control)
@@ -197,6 +198,10 @@ The only thing separating you from your wildest dreams and ambitions is that you
 You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
 Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
 Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
+
+###On boundaries -> independence, autonomy
+set boundaries
+Practice doing without things you think you need.
 -->
 
 <a id="on-trust-and-integrity"></a>Choose to keep your integrity.<br>
@@ -261,7 +266,9 @@ We can't chase happiness, happiness is a byproduct of our actions.
 
 > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
 
-While you create the life of your dreams, lower your expectations and love the life you have.
+> *'We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability».'*
+
+Meanwhile, while you create the life of your dreams, lower your expectations and love the life you have.
 
 <!--
 seek happiness actively (action) and passively (lower expectations)
@@ -362,6 +369,26 @@ When you look at your bank account and don’t like what you see, you need to re
 Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission.
 Learn something new.
 Missions are for people who DO. Mission statements are for people who DON’T.
+
+What do you really want?
+- What do the actions of your past suggest is most important to you?
+- What desires do you have that don't align with your past behavior.
+- What future path does your past behavior suggest rather than your imagination?
+- If you don't like these answers, change your existing behavior.
+Spend more time doing the things you really want to do.
+Getting very clear about what is important allows you to stop caring so much about things that are unimportant.
+What skills are you missing to be able to do what you want? What skills do others have who possess what you wan
+allen tucker
+
+What does it mean to be you? Who are you?
+
+“It seems so easy because you hang out with yourself all day,” she said. “But it’s so easy to get distracted by who you feel you should be… or who you wish you were. Or who other people expect you to be.”
+it’s OK to stop doing things that should make you feel good, but don’t.
+
+Step 1: Do less of what you don’t like doing -- unless it is limiting you
+Step 2: Do more of what you like doing
+Step 3: Use envy
+“Envy is painful, but it’s a very helpful emotion for a happy life. It’s a giant red arrow sign standing over someone’s head saying, ‘They've got something you want.’”
 -->
 
 
@@ -438,6 +465,7 @@ Risk looks different for everyone.
 
 So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
 
+You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
 -->
 
 
@@ -473,6 +501,11 @@ You don’t need the fancy car, expensive watch, or flashy toys, spend your mone
 True fulfillment comes from living your life, not from achievement.
 
 Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal.
+
+If you want to succeed at anything in your life, then forget about the Joneses.
+You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people
+
+Experiences worth more than material
 -->
 
 
@@ -514,6 +547,20 @@ Focus on Showing Up not Achieving Goals
 if you want to live a fulfilled and happy life, then focus more on showing up each day as the man that you want to be.
 -->
 
+
+===
+###On systems
+
+<!--
+don't focus in productivity.
+productivity coach vs creativity coach.
+i hired a 23 year old coach.
+optimize for time and peace of mind.
+
+goals and systems
+
+look at situations as systems. i help to create systems.
+-->
 
 
 ===
@@ -710,7 +757,7 @@ to combat perfectionism
 
 > *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
-HOWEVER, some people are not ready to have a mentor and accept your vision. Accept it.
+HOWEVER, some people are not ready to have a mentor and accept your vision.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -907,6 +954,8 @@ impostor syndrome
 break through your plateaus
 
 Resistance and plateaus Comes from Negative Projections
+
+There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
 -->
 
 
@@ -991,7 +1040,7 @@ If you feel powerless/being dominated you will be chronically stressed.
 
 ###On networking
 
-Don't [isolate](#on-neutrality-and-isolation) yourself. The people you know and whether they like you will determine what opportunities you get.
+Don't isolate yourself. The people you know and whether they like you will determine what opportunities you get.
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
@@ -1012,6 +1061,8 @@ Social inadequacy AKA creepiness is based on unpredictability.
 prepare an elevator pitch
 
 building a network is critical
+
+3) Find out what people actually want
 
 regarding networking adding value is everything
 
@@ -1041,6 +1092,8 @@ And while drumming up new connections by networking is important, it’s even mo
 unlocking dormant ties
 
 networking you must exchange value
+
+Personal branding means you are a liar
 -->
 
 
@@ -1147,6 +1200,10 @@ hot to make, how to keep, how to grow money
 One of the simplest habits that you can start implementing today is to shift all of your focus towards revenue generating activities.
 Plain and simple, if it is not going to earn you money, then don’t do it. Focus only on the activities that are going to push the envelope forward for you and your company and result in an influx of cash.
 If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow
+
+there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
+
+as long as we’re not on the good side, we say ‘what the hell?’ because we don’t enjoy the middle ground. The middle ground is not helping us define who we are. Rather than trying to fix a problem that we see as mostly broken, it’s common for us to hope for a clean slate or a reset button of some kind. This is why mechanisms like Catholic confession are so powerful.
 -->
 
 
@@ -1931,6 +1988,8 @@ Always be doing something creative. Without new experiences, your soul rots.
 <!--
 judging ideas
 
+negative inspiration (things that don't work) - positive inspiration!
+
 idea sex
 -->
 
@@ -1970,7 +2029,7 @@ You can only truly creative in a position with autonomy, so you either climb the
 
 
 
-###On timing
+###On starting and timing
 
 Just start.<br>
 You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
@@ -1986,6 +2045,8 @@ fear of starting, excuse
 Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission.
 Learn something new.
 Missions are for people who DO. Mission statements are for people who DON’T.
+
+If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera. -- John Rich
 -->
 
 > *'Stop making resolutions and start making something.'*
@@ -2356,6 +2417,9 @@ The only successful changes are those coming from within.
 > *'To successfully change a status quo maintained by a minority you only need to unite the majority. How?<br>
 Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
 
+<!--
+burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happyness from them.
+-->
 
 
 ===
@@ -2512,6 +2576,8 @@ You will die soon. Act accordingly and don't postpone joy.
 
 <!--
 life is long enough
+
+100 blocks a day - wait but why
 -->
 
 
