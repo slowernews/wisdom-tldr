@@ -19,7 +19,7 @@ Exceptions to most rules also..
 - [On habits](#on-habits)
 - [On improving](#on-improving)
 - [On mastery](#on-mastery)
-- [On generosity](#on-generosity)
+- [On generosity and mentorship](#on-generosity-and-mentorship)
 
 *On your worst enemy: yourself*
 - [On fear and excuses](#on-fear-and-excuses)
@@ -40,6 +40,7 @@ Exceptions to most rules also..
 - [On business](#on-business)
 - [On negotiation and price](#on-negotiation-and-price)
 - [On selling and persuasion](#on-selling-and-persuasion)
+- [On rewards](#on rewards) 
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family and friends](#on-family-and-friends)
@@ -189,6 +190,13 @@ The freedom to express oneself fully.
 ###On boundaries -> independence, autonomy
 set boundaries
 Practice doing without things you think you need.
+
+3. You Have to Make the Definite Decision to Succeed
+The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
+
+You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
+Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
+Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
 -->
 
 <a id="on-trust-and-integrity"></a>Choose to keep your integrity.<br>
@@ -314,6 +322,8 @@ It is about making progress in all areas of your life and ensuring that you impr
 balance:
 Don’t try to make your job your whole life
 Don’t try to make your art your sole income
+
+most things are not binary.
 -->
 
 
@@ -339,7 +349,20 @@ Pull yourself together and take total ownership for everything in your life.
 
 > *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, do it.'*
 
-> *'The more fear you feel, the more you will know you are on the right track.'*
+> *'Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.'*
+
+<!--
+Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
+
+search for actionable steps\
+
+When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
+
+– Have a Mission
+Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission.
+Learn something new.
+Missions are for people who DO. Mission statements are for people who DON’T.
+-->
 
 
 
@@ -407,9 +430,14 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 > *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
 
 <!--
+Risk Leads to Growth and Excitement
+
+Risk looks different for everyone.
+
 2.Suffering is a Temporary But Essential Part of Life
 
 So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
+
 -->
 
 
@@ -437,9 +465,14 @@ HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest bar
 Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
 Success is truly about living a life with honor and integrity, not any material outcome.
 
+success is not the accumulation of stuff
 
 If you want to succeed at anything in your life, then forget about the Joneses.
 You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
+
+True fulfillment comes from living your life, not from achievement.
+
+Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal.
 -->
 
 
@@ -469,11 +502,16 @@ Avoid low value systems: social media, news, owning a TV, working long hours, co
 <!--
 mental checklist of positive habits.
 
+> *'The pathway to freedom is discipline.'*
+
 People who are driven by the fear of missing out or the dream of early adopter super stardom are deploying a “middlebrow inference” that examines only the maximum possible return, not the value derived in expectation.
 The opportunity cost of missing a ‘new new thing’ like the airplane and the automobile is minuscule compared to the toxicity of all the garbage one has to go through to get these jewels.”
 it’s the rejection of such thinking that has led me to continue to abstain from Facebook and Twitter, among other popular pastimes in the rapidly evolving digital attention casino.
 
 Use your phone to set reminders for really important things automatically. Turn off push notifications for everything else.
+
+Focus on Showing Up not Achieving Goals 
+if you want to live a fulfilled and happy life, then focus more on showing up each day as the man that you want to be.
 -->
 
 
@@ -565,6 +603,9 @@ Feedback speeds up improvement. Mentors are your best source of feedback.
 <!--
 Your father is your first mentor. 
 
+you Need to Build Your Board of Directors
+Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes.Once you build this infrastructure of support and accountability, your life will radically transform.
+
 + - =
 find somebody smarter than you to teach you and learn something
 equal to you to challenge you
@@ -625,7 +666,7 @@ HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's alwa
 
 
 ===
-###On generosity
+###On generosity and mentorship
 
 Be generous and share your strengths. Impact the world.
 
@@ -658,6 +699,10 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 > *'I don't tell my boys them how to live. I live fully and let them see.'*
 
 <!--
+educating kids
+convenience for you vs best thing for the kid.
+ipad example. you must provide interesting activities.
+
 to combat perfectionism
 -->
 
@@ -751,6 +796,13 @@ Sometimes you win, sometimes you learn. Accept failure as part of the process.
 > *'When you don't know something you will pay for it. That's the stupidity tax.'*
 
 > *'Prove all things; hold fast that which is good.' -- 1 Thessalonians 5:21*
+
+<!--
+failures are flip-sides of our strengths
+the opposite is true also
+
+you fail by the same reasons that you sometimes you will succeed
+-->
 
 
 
@@ -849,6 +901,12 @@ HOWEVER
 Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
 
 impostor syndrome
+
+4. Break Down Your Dreams/goals into Achievable Steps
+
+break through your plateaus
+
+Resistance and plateaus Comes from Negative Projections
 -->
 
 
@@ -981,6 +1039,8 @@ it's hard to pass from a 2 to 7 but you can pass to a 2 to 3 or 4
 
 And while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing
 unlocking dormant ties
+
+networking you must exchange value
 -->
 
 
@@ -1210,6 +1270,21 @@ most rejections are not your fault.
 I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
 -->
 
+
+===
+###On rewards
+
+Be an expert gift giver.
+
+<!--
+negative reinforcement isn’t as effective as positive reinforcement — even for people.
+punishment works near the situation that did that to you.
+
+practical luxuries make better gifts than merchandise branded with your company’s logo
+always give best in class
+give value. a gift can have the opposite
+always be generous/giving
+-->
 
 
 ===
@@ -1653,6 +1728,11 @@ becoming the go to guy for some questions
 Hint from interviews:
 People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
 
+100% on one thing or 80% on 5 things!
+100% -> 100% time
+5 * 80% -> 5 * 20% = 100%
+
+I wouldn’t say I was hired because I’m really good with a piece of software, you are hired to problem solve: that problem being the brief and your solution being a design. No one cares how you get from A to B as long as you get there fast and the design looks good.
 -->
 
 
@@ -1674,6 +1754,7 @@ HOWEVER, don't vow to the gatekeepers.
 social cartography, that draw the power relations, who's the decision maker.
 to whom people are speaking, and who is speaking
 
+weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is weighed as far more important than keeping skilled talent. Read books written by managers for managers. Their actions aren't random or stupid.
 -->
 
 ===
@@ -1726,6 +1807,12 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 > *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
 
 > *'I am both worse and better than you thought.' -- Sylvia Plath*
+
+<!--
+Nietszche says to measure one's strength by the number of parasites one can support.
+
+It is possible to view this as an isolated event or a trend.
+-->
 
 
 
@@ -1816,6 +1903,8 @@ choose the plan with more options. the one that lets you change plan.
 search for actionable steps
 
 Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
+
+choose the plan with more options. the one that lets you change plan.
 -->
 
 
@@ -1841,6 +1930,8 @@ Always be doing something creative. Without new experiences, your soul rots.
 
 <!--
 judging ideas
+
+idea sex
 -->
 
 > *'We can't solve problems by using the same kind of thinking we used when we created them.'*
@@ -1890,6 +1981,11 @@ fear of starting, excuse
 
 > *add mark manson on procrastination*
 > *'Pressed by circumstances, we feel unusually energized and focused.'*
+
+– Have a Mission
+Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission.
+Learn something new.
+Missions are for people who DO. Mission statements are for people who DON’T.
 -->
 
 > *'Stop making resolutions and start making something.'*
@@ -1992,6 +2088,11 @@ HOWEVER,
 
 Focus. Do one thing really well. Solve one problem with one solution.
 Focus on the one thing most likely to get maximum results. Forget everything else.
+
+4. Focus on Revenue Generating Activities
+One of the simplest habits that you can start implementing today is to shift all of your focus towards revenue generating activities.
+Plain and simple, if it is not going to earn you money, then don’t do it. Focus only on the activities that are going to push the envelope forward for you and your company and result in an influx of cash.
+If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
 -->
 
 
@@ -2346,7 +2447,7 @@ Take some time away from all external influences and really decide what you want
 Then, once you have a clear picture of what you want, hustle like crazy until you achieve it
 
 attention
-These companies, like any media company, harvest your time and attention and transform it into revenue.
+any media company, harvest your attention and transform it into revenue.
 -->
 
 Track time and journal for hints on where to improve.
@@ -2558,6 +2659,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Politicians don't get educated. They get bought.'*
 
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
+
+> *'"Good fences make good neighbors"'*
 
 <!--
 Liberalism is comforting but ultimately ruinous self-deception. Conservatism is discomforting but functional reality.
