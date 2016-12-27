@@ -18,7 +18,7 @@ Exceptions to most rules also..
 - [On success](#on-success)
 - [On habits and systems](#on-habits-and-systems)
 - [On improving](#on-improving)
-- [On skills and achieving mastery](#on-skills-and-achieving-mastery)
+- [On achieving mastery](#on-skills-and-achieving-mastery)
 - [On generosity and mentorship](#on-generosity-and-mentorship)
 
 *On your worst enemy: yourself*
@@ -139,7 +139,7 @@ One last advice (specially for shy people): *'Aim at relying on your network and
 
 
 
-###On freedom
+###On identity
 
 You are your deeds.
 
@@ -158,17 +158,7 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'Be the person your dog thinks you are.'*
 
-<a id="freedom"></a>Choose to be independent.
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
-> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
-
-> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
-
-> *'My independence is my legacy.' -- Bagão Felix*
-
-<a id="on-trust-and-integrity"></a>Choose to keep your integrity.<br>
+<a id="on-trust"></a>Choose to keep your integrity.<br>
 It's the only way to be respected and build trust.
 
 > *'Trust, not money, is the currency of business and life.'*
@@ -252,6 +242,16 @@ Practice doing without things you think you need.
 3. You Have to Make the Definite Decision to Succeed
 The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 -->
+
+Choose to be independent.
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
+
+> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
+
+> *'My independence is my legacy.' -- Bagão Felix*
 
 
 
@@ -357,6 +357,10 @@ Step 3: Use envy
 ===
 ###On motivation
 
+<!--
+on settling:
+-->
+
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
@@ -370,7 +374,6 @@ Step 3: Use envy
 HOWEVER, don't be thirsty: the [journey](#on-gratefulness-and-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
 <!--
-on settling:
 If You Are Not Growing You Are Dying
 Life is about constant and never-ending growth.
 If you want to live your life in such a way that you can take your final breath with a smile on your face, then you must be willing to commit yourself to constant growth.F!ck complacency.
@@ -381,7 +384,6 @@ You have to constantly push yourself to do more, achieve more, and, most importa
 Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn.
 And most people waste their lives away in 9-5 jobs. It's not an age thing.
 
-“We cannot become what we need to be by remaining what we are”  ~Max Dupree
 “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
 lying in death bed and regretting your life is the worst that can happen to you.
@@ -505,7 +507,6 @@ it’s the rejection of such thinking that has led me to continue to abstain fro
 Use your phone to set reminders for really important things automatically. Turn off push notifications for everything else.
 
 Focus on Showing Up not Achieving Goals 
-if you want to live a fulfilled and happy life, then focus more on showing up each day as the man that you want to be.
 
 1) Invest in long-term wellbeing
 a. Physical health:
@@ -642,7 +643,7 @@ HOWEVER, action not knowledge leads to [success](#on-success).
 
 
 ===
-###On skills and achieving mastery
+###On achieving mastery
 
 After learning the rules, break them. Only then you can achieve mastery.<br>
 But the path to mastery is a never ending story: skills are perishable.
@@ -1322,7 +1323,7 @@ always be generous/giving
 ===
 ###On relationships
 
-Relationships are based on [trust](#on-trust-and-integrity).
+Relationships are based on [trust](#on-trust).
 
 > *'A great relationship is about finding the similarities and respect the differences.'*
 
@@ -1555,7 +1556,7 @@ HOWEVER, common sense is not so common.
 
 ###On leadership
 
-Being a leader is different from being a boss. Leadership is based on [trust](#on-trust-and-integrity).
+Being a leader is different from being a boss. Leadership is based on [trust](#on-trust).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
