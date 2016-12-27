@@ -7,20 +7,18 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On freedom and identity](#on-freedom-and-identity)
+- [On identity](#on-identity)
+- [On freedom](#on-freedom)
 - [On gratefulness and happiness](#on-gratefulness-and-happiness)
-- [On balance](#on-balance)
 
 *On growth*
 - [On finding a path](#on-finding-a-path)
 - [On motivation](#on-motivation)
 - [On comfort and risk](#on-comfort-and-risk)
 - [On success](#on-success)
-- [On habits](#on-habits)
-- [On systems](#on-systems)
+- [On habits and systems](#on-habits-and-systems)
 - [On improving](#on-improving)
-- [On skills](#on-skills)
-- [On mastery](#on-mastery)
+- [On skills and achieving mastery](#on-skills-and-achieving-mastery)
 - [On generosity and mentorship](#on-generosity-and-mentorship)
 
 *On your worst enemy: yourself*
@@ -29,7 +27,7 @@ Exceptions to most rules also..
 - [On shame](#on-shame)
 - [On confidence and validation](#on-confidence-and-validation)
 - [On limits and resistance](#on-limits-and-resistance)
-- [On health and stress](#on-health-and-stress)
+- [On stress and health](#on-stress-and-health)
 
 
 ### Part 2 - Groups
@@ -38,7 +36,7 @@ Exceptions to most rules also..
 *On interactions*
 - [On networking](#on-networking)
 - [On communication](#on-communication)
-- [On business](#on-business)
+- [On business and entrepreneurship](#on-business-and-entrepreneurship)
 - [On negotiation and price](#on-negotiation-and-price)
 - [On selling and persuasion](#on-selling-and-persuasion)
 - [On rewards](#on rewards) 
@@ -71,11 +69,12 @@ Exceptions to most rules also..
 - [On creativity and ideas](#on-creativity-and-ideas)
 
 *On executing*
-- [On starting and timing](#on-starting-and-timing)
+- [On starting, right timing and procrastination](#on-starting-right-timing-and-procrastination)
 - [On pace](#on-pace)
-- [On focus](#on-focus)
+- [On focus and time management](#on-focus-and-time-management)
 - [On position](#on-position)
 - [On control](#on-control)
+- [On balance](#on-balance)
 - [On adapting](#on-adapting)
 
 *On competing*
@@ -85,9 +84,9 @@ Exceptions to most rules also..
 - [On deceiving](#on-deceiving)
 - [On unpredictability](#on-unpredictability)
 - [On mirroring](#on-mirroring)
-- [On easy targets](#on-easy-targets)
-- [On difficult targets](#on-difficult-targets)
-- [On desperate targets](#on-desperate-targets)
+- [On easy opponents](#on-easy-opponents)
+- [On difficult opponents](#on-difficult-opponents)
+- [On desperate opponents](#on-desperate-opponents)
 - [On defeating status quo](#on-defeating-status-quo)
 
 *On ending*
@@ -100,7 +99,6 @@ Exceptions to most rules also..
 
 
 *On time*
-- [On time management](#on-time-management)
 - [On past and memory](#on-past-and-memory)
 - [On present](#on-present)
 - [On future](#on-future)
@@ -141,7 +139,7 @@ One last advice (specially for shy people): *'Aim at relying on your network and
 
 
 
-###On freedom and identity
+###On freedom
 
 You are your deeds.
 
@@ -169,41 +167,6 @@ Succeeding at mediocrity isn't a worthwhile life.
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
 > *'My independence is my legacy.' -- Bagão Felix*
-
-Choose *yourself*.<br>
-Tell *your* truth no matter what.
-
-> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
-
-> *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
-> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
-
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
-
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
-
-> *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
-
-<!--
-The freedom to express oneself fully.
-###On boundaries -> independence, autonomy
-set boundaries
-Practice doing without things you think you need.
-
-3. You Have to Make the Definite Decision to Succeed
-The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
-
-You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
-Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
-Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
-
-###On boundaries -> independence, autonomy
-set boundaries
-Practice doing without things you think you need.
--->
 
 <a id="on-trust-and-integrity"></a>Choose to keep your integrity.<br>
 It's the only way to be respected and build trust.
@@ -242,6 +205,8 @@ Part of Being a Man is Getting Shit Done
 As an occasional treat, video games or TV are not inherently bad, but we live in a society where most men waste 3+ hours a day in a virtual world when they should be getting shit done.
 
 Background values will change how you think
+
+do you want short term popularity or long term respect
 -->
 
 HOWEVER, live in accordance with your nature. If something is forced it will not be sustainable.
@@ -255,6 +220,38 @@ HOWEVER, live in accordance with your nature. If something is forced it will not
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
 > *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
+
+
+
+===
+###On freedom
+
+Choose *yourself*.<br>
+Tell *your* truth no matter what.
+
+> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
+
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
+
+> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+
+> *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
+
+<!--
+The freedom to express oneself fully.
+
+set boundaries
+Practice doing without things you think you need.
+
+3. You Have to Make the Definite Decision to Succeed
+The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
+-->
 
 
 
@@ -295,43 +292,6 @@ Happiness is a journey, not a destination.
 <!--
 anchor yourself - remember who you are, the things you are good at, even when completely different thing
 authentic self is a state
--->
-
-
-
-===
-###On balance
-
-Life is a balancing act.
-
-The dose makes the poison: things in excess become their opposite.<br>
-The hardest skill is knowing when to stop.
-
-> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
-
-> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
-
-> *'Everything should be made as simple as possible, but not simpler.'*
-
-> *'Don't take a half step where a full step is required.'*
-
-> *'If half of the room laughs and half doesn't is a success.'*
-
-How to balance an imbalance? Overcompensate.
-
-> *'Overcompensate to make it balanced.' -- Derek Sivers*
-
-> *'Some people get passion from something they struggled with.'*
-
-<!--
-Balance is not about spending the same amount of time focused on every area of your life either.
-It is about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
-
-balance:
-Don’t try to make your job your whole life
-Don’t try to make your art your sole income
-
-most things are not binary.
 -->
 
 
@@ -512,7 +472,7 @@ Experiences worth more than material
 
 
 ===
-###On habits
+###On habits and systems
 
 Consistency is key. Habits allow [mastery](#on-mastery) and [success](#on-success).
 
@@ -552,13 +512,7 @@ a. Physical health:
 b. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation.
 c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 d. Gratitude
--->
 
-
-===
-###On systems
-
-<!--
 don't focus in productivity.
 productivity coach vs creativity coach.
 i hired a 23 year old coach.
@@ -568,6 +522,7 @@ goals and systems
 
 look at situations as systems. i help to create systems.
 -->
+
 
 
 ===
@@ -580,15 +535,6 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
-> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
-
-1. Action not Knowledge Leads to Success
-
-“Pathological learners” who are voracious consumers of knowledge
-They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera.
-Yet they know all this information!
-The problem is that they do not apply it. You have to realize that knowledge without action is useless.
-
 Only applied knowledge is power, and if you have spent years devoting your time and energy to learning without taking the proper proportion of action, then it is time to get off your ass, leave the theory on your nightstand, and get in the game
 
 Just in time learning. You can learn faster if you have something your working on rather than some future idea that may not happen. Improves retention, wastes less time.
@@ -644,6 +590,27 @@ what happens when we step too far out of our comfort zones, how James mitigates 
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
+<!--
+people repeat very easily the same mistakes. you improve by working at it.
+you learn from failure. examine your failures, people write books about it.
+
+you can only connect the dots looking back, not looking forward
+
+career day an year -> journaling self analysis.
+
+am i learning? if not you'll have a problem down the road.
+
+2. To Lead a Balanced and Healthy Life You Need to Ask the Right Questions
+Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
+If you are facing health struggles, you need to ask yourself these three questions to truly uncover the root cause of the issues in your life.
+1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back.
+2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle.
+3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
+
+Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
+I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
+-->
+
 Feedback speeds up improvement. Mentors are your best source of feedback.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
@@ -666,50 +633,25 @@ equal to you to challenge you
 less than you that you can teach and learn something
 -->
 
-<!--
-people repeat very easily the same mistakes. you improve by working at it.
-you learn from failure. examine your failures, people write books about it. 
+HOWEVER, action not knowledge leads to [success](#on-success).
 
-you can only connect the dots looking back, not looking forward
+> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-career day an year -> journaling self analysis.
-
-am i learning? if not you'll have a problem down the road.
-
-2. To Lead a Balanced and Healthy Life You Need to Ask the Right Questions
-Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
-If you are facing health struggles, you need to ask yourself these three questions to truly uncover the root cause of the issues in your life.
-1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back.
-2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle.
-3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
-
-Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
-I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
--->
+> *'«Pathological learners» who are voracious consumers of knowledge. They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera. Yet they know all this information! The problem is that they do not apply it. You have to realize that knowledge without action is useless.'*
 
 
 
 ===
-###On skills
-
-effort * talent = skill
-
-<!--
-trade-able skills
-figure out what skills you already have that you can charge for
-The first step to succeeding at your side hustle is to figure out what skills you have that you can charge for.
-And before you say that you don’t have any, let me cut that belief down right now.
-If you can write, take pictures, manage spreadsheets, teach an instrument, are good with girls, or know how to plan a trip abroad, then you have the skills necessary to start a side hustle.
-But it’s up to you to determine what skills you have, develop the skills that you want to have, and then seek out clients who will pay you for them
--->
-
-
-
-===
-###On mastery
+###On skills and achieving mastery
 
 After learning the rules, break them. Only then you can achieve mastery.<br>
 But the path to mastery is a never ending story: skills are perishable.
+
+<!--
+effort * talent = skill
+
+trade-able skills: figure out what skills you already have that you can charge for
+-->
 
 > *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back' -- James Altucher*
 
@@ -758,10 +700,6 @@ mix with guerrilla thinking
 karma
 
 Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
-
-HOWEVER, «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
-
-> *'You give people a hand, they rip your arm out.'*
 -->
 
 Fatherhood makes you a mentor independently of your will. Learn how to give advice.
@@ -774,6 +712,10 @@ convenience for you vs best thing for the kid.
 ipad example. you must provide interesting activities.
 
 to combat perfectionism
+
+You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
+Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
+Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
 -->
 
 > *'If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.'*
@@ -785,6 +727,10 @@ HOWEVER, some people are not ready to have a mentor and accept your vision.
 > *'Do not teach a starving man to fish.'*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+
+HOWEVER, «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
+
+> *'You give people a hand, they rip your arm out.'*
 
 
 
@@ -910,7 +856,7 @@ If you say it with confidence, you are who you say you are.
 
 > *'Believe you can, and you’re half way there.'*
 
-Don’t wait for someone else to tell you that you are special. If the universe didn't need you, you wouldn't be here.
+Don’t wait for someone to tell you that you are special. If the universe didn't need you, you wouldn't be here.
 
 > *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
 
@@ -954,11 +900,9 @@ Confidence is a result, not a requirement
 
 > *'The only person standing in your way is you.' -- Black Swan*
 
-HOWEVER
+HOWEVER, your level of success will seldom exceed your level of personal development.
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
-
-> *'Your level of success will seldom exceed your level of personal development.'*
 
 <!--
 Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
@@ -976,7 +920,7 @@ There are few actual rules. The police aren't coming for you. No one is watching
 
 
 ===
-###On health and stress
+###On stress and health
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
 HOWEVER, the origin of most health problems is not physical but mental.
@@ -1149,10 +1093,13 @@ Learn how to talk to people: smile, don't ramble, look for external catalysts as
 
 > *'You don't always have to get the last word. Make your point and leave it that way. Let go.'*
 
+<!--
+It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
+-->
 
 
 ===
-###On business
+###On business and entrepreneurship
 
 Business exchanges value for money.<br>
 Focus on areas where you are motivated to add value AND there's demand.
@@ -1305,7 +1252,7 @@ HOWEVER, always strive to achieve a win-win situation. The deal will fall if bot
 We're all in sales. You're in sales anytime you interact with anybody.
 
 Sales used to be about information asymmetry but times are changing.<br>
-Now it's mostly applied persuasion and keeping relationships.
+Now it's mostly [applied persuasion](#on-charming) and keeping relationships.
 
 > *'Historically, the seller had more information than the buyer.<br>
 Its a different game now. Everybody knows immediately the alternatives.'*
@@ -1429,7 +1376,7 @@ HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
-Practical advices: keep separate bank accounts.
+Practical HINT: keep separate bank accounts.
 
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
@@ -1449,8 +1396,8 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 ===
 ###On family and friends
 
-You will waste your life trying to make those around into who you want them to be. Instead change/filter who you are around.<br>
-You are the average of the people you surround yourself.
+You will waste your life trying to make those around into who you want them to be.<br>
+Instead change/filter who you are around. You are the average of the people you surround yourself.
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
@@ -1490,17 +1437,16 @@ Seek out mentors and friends who are achieving on a higher level than you who ar
 
 ###On conflicts
 
-Don't avoid relevant conflicts. Small conflicts will grow into big conflicts.<br>
+Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.<br>
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+
+> *'Avoiding conflict will not keep peace, will rot it.'*
+
+> *'Rotten peace builds resentment.'*
 
 > *'I am either part of the solution or part of the problem.'*
 
 > *'Well-kept gardens die by pacifism.'*
-
-<!--
-rotten peace builds resentment
--->
-
 
 
 ===
@@ -1721,7 +1667,7 @@ The speed that you offload your stuff will be the speed of your team.'*
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
 <!--
-> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
 
 Productivity is different from workflow engineering.
 
@@ -1896,6 +1842,8 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 <!--
 Nietszche says to measure one's strength by the number of parasites one can support.
 
+> *'Pay attention to negative cues: what should have happened but did not.'*
+
 It is possible to view this as an isolated event or a trend.
 -->
 
@@ -1904,18 +1852,13 @@ It is possible to view this as an isolated event or a trend.
 ===
 ###On decision making
 
-<!--
-refazer
-decisions are affected by memory
--->
-
-> *'May your choices reflect your choices, not your [fears](#on-fear-and-excuses).' -- Nelson Mandela*
+'May your choices reflect your choices, not your fears.' -- Nelson Mandela
 
 > *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
 
 > *'You have choices. Choices are experiments.'*
 
-> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. So influence their memories and you can influence their decisions.'*
+> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
 <!--
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
@@ -1971,8 +1914,14 @@ How to plan: start with a vision.
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
+
+Practical hints:
+
+> *'Choose the plan with more options. The one that lets you change plan.'*
+
+> *'Look for actionable steps.'*
  
-HOWEVER, some people get paralyzed by over thinking.
+HOWEVER, some people get paralyzed by [over thinking](#on-starting-and-timing).
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -1982,14 +1931,6 @@ HOWEVER, some people get paralyzed by over thinking.
 Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
-
-choose the plan with more options. the one that lets you change plan.
-
-search for actionable steps
-
-Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
-
-choose the plan with more options. the one that lets you change plan.
 -->
 
 
@@ -2057,11 +1998,11 @@ You can only truly creative in a position with autonomy, so you either climb the
 
 
 
-###On starting and timing
+###On starting, right timing and procrastination
 
 Just start.<br>
 You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
-Stop preparing, and start doing. You can learn while you do it.
+Stop preparing and start doing. You can learn while you do it.
 
 <!--
 fear of starting, excuse
@@ -2074,9 +2015,8 @@ Every day, whether it’s “be creative today.” Or “go some place you’ve 
 Learn something new.
 Missions are for people who DO. Mission statements are for people who DON’T.
 
-If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera. -- John Rich
--->
 
+-->
 > *'Stop making resolutions and start making something.'*
 
 > *'Momentum generates motivation.'*
@@ -2090,6 +2030,8 @@ If everybody contemplates the infinite instead of fixing the drains, many of us 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 > *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
+
+> *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
 
 > *'Enter action with boldness.' -- Robert Greene (28th law of power)*
 
@@ -2143,7 +2085,7 @@ Don't be thirsty.
 
 
 ===
-###On focus
+###On focus and time management
 
 First the essential. Then the details.
 
@@ -2197,17 +2139,43 @@ Do you keep busy as a way to avoid doing the important — but often difficult �
 Every man needs a fight. Not physical, but a mission to fight for
 -->
 
+Time itself, is not your limitation. It's attention.<br>
+You’re not managing time, you're managing attention.
+
+> *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
+
+> *'Any media company harvest your attention and transform it into revenue.'*
+
+> *'Busy imply out of control. lack of time is lack of priorities.'*
+
+<!--
+automation:
+> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
+
+focus: the notion of tackling your most important thing (MIT) first thing in the morning.
+
+look at situations as systems. i help to create systems.
+Bad luck vs. bad planning
+-->
+
+Practical HINT: Track time and journal for hints on where to improve.
+
+> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
+
 
 
 ===
 ###On position
 
-> *'Position yourself for victory.'*
+'Position yourself for victory.'
 
-<!--
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
+> *'Convenience (location) is better than space amount.'*
+
 > *'Trade space for time.'*
 
-convenience (location) is better than space amount
+<!--
 chess gambits -- exchange material by position-time.
 -->
 
@@ -2228,13 +2196,48 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
-<!--
-> *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
--->
+> *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*-->
 
 HOWEVER,
 
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
+
+
+
+===
+###On balance
+
+Life is a balancing act.
+
+The dose makes the poison: things in excess become their opposite.<br>
+The hardest skill is knowing when to stop.
+
+> *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
+
+> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
+
+> *'Everything should be made as simple as possible, but not simpler.'*
+
+> *'Don't take a half step where a full step is required.'*
+
+> *'If half of the room laughs and half doesn't is a success.'*
+
+How to balance an imbalance? Overcompensate.
+
+> *'Overcompensate to make it balanced.' -- Derek Sivers*
+
+> *'Some people get passion from something they struggled with.'*
+
+<!--
+Balance is not about spending the same amount of time focused on every area of your life either.
+It is about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
+
+balance:
+Don’t try to make your job your whole life
+Don’t try to make your art your sole income
+
+most things are not binary.
+-->
 
 
 
@@ -2309,16 +2312,12 @@ HOWEVER, beware of counter-attacking.
 
 Create imbalances in your target to create an advantage and raise chances of winning.<br>
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
-and [bait](#on-charming). Some targets may require special tools.
+and [bait](#on-charming). Some opponents may require special tools.
 
 
 
 ===
 ###On charming
-
-<!--
-charming and selling?
--->
 
 Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
@@ -2414,9 +2413,9 @@ Mirroring works best when your group is in minority.
 
 
 ===
-###On easy targets
+###On easy opponents
 
-Beware of easy targets. Most times it's [bait](#on-charming).
+Beware of easy opponents. Most times it's [bait](#on-charming).
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -2435,7 +2434,7 @@ HOWEVER, there are same people acting stupid. Easy wins if you can identify them
 
 
 ===
-###On difficult targets
+###On difficult opponents
 
 To win, besides outworking them, you'll need all weaponry. Even the «dirty stuff».
 
@@ -2447,14 +2446,14 @@ They can be effective but use them *only* on life changing situations: it's a sc
 > *'Get others to do the work for you, but always take the credit.'
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
-When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-targets) if you can see the end already.
+When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-opponents) if you can see the end already.
 
 
 
 ===
-###On desperate targets
+###On desperate opponents
 
-Desperate targets will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
@@ -2462,9 +2461,7 @@ Desperate targets will risk anything in a fight. This gives them a huge advantag
 
 > *'Beware of sad people.'*
 
-<!--
- *'Our fearlessness shall be our secret weapon.' -- John Green* 
- -->
+> *'Our fearlessness shall be our secret weapon.' -- John Green* 
 
 
 
@@ -2545,43 +2542,6 @@ Use this opportunity to re-create yourself.<br>
 
 
 
-###On time management
-
-Time itself, is not your limitation. It's attention.<br>
-You’re not managing time, you're managing attention.
-
-> *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
-
-<!--
-automation:
-> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
-
-focus: the notion of tackling your most important thing (MIT) first thing in the morning.
-
-busy imply out of control
-lack of time is lack of priorities
-
-look at situations as systems. i help to create systems.
-Bad luck vs. bad planning
-
-###on wasting time
-
-Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth.
-Then, once you have a clear picture of what you want, hustle like crazy until you achieve it
-
-attention
-any media company, harvest your attention and transform it into revenue.
-
-busy imply out of control. lack of time is lack of priorities
--->
-
-Track time and journal for hints on where to improve.
-
-> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
-
-
-
-===
 ###On past and memory
 
 You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
@@ -2590,7 +2550,6 @@ They are meant to guide you, not to define you or determine your future.
 > *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
-
 
 > *'Never regret something that once made you smile.'*
 
@@ -2616,10 +2575,6 @@ How memory works? People forget by decaying and giving them other stuff to remem
 You will die soon. Act accordingly and don't postpone joy.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
-
-<!--
-> *'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.' -- Marcus Aurelius*
--->
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
@@ -2787,13 +2742,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
-> *'"Good fences make good neighbors"'*
-
-<!--
-Liberalism is comforting but ultimately ruinous self-deception. Conservatism is discomforting but functional reality.
-
-Modern liberals, particularly the "social justice warriors", aren't helping progressive causes with their dogmatic approach to political discourse.
--->
+> *'Good fences make good neighbors.'*
 
 
 
@@ -2845,7 +2794,7 @@ That's where «big bucks» are.
 
 <!--
 minimalism an essencialism - the value in less - the joy of missing out
-do you want short term popularity or long term respect
+
 permission to rethink
 weekly design session - think on longer term
 reactive to proactive life
