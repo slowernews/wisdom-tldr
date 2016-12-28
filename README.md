@@ -18,6 +18,7 @@ Exceptions to most rules also..
 - [On success](#on-success)
 - [On habits and systems](#on-habits-and-systems)
 - [On improving](#on-improving)
+- [On feedback](#on-feedback)
 - [On achieving mastery](#on-skills-and-achieving-mastery)
 - [On generosity and mentorship](#on-generosity-and-mentorship)
 
@@ -47,7 +48,6 @@ Exceptions to most rules also..
 *On interactions: drawbacks*
 - [On conflicts](#on-conflicts)
 - [On criticism and envy](#on-criticism-and-envy)
-- [On outliers](#on-outliers)
 - [On herd mentality](#on-herd-mentality)
 
 *On teams*
@@ -197,6 +197,8 @@ As an occasional treat, video games or TV are not inherently bad, but we live in
 Background values will change how you think
 
 do you want short term popularity or long term respect
+
+5Cs: courage, congruence, confidence, calibration, conviction
 -->
 
 HOWEVER, live in accordance with your nature. If something is forced it will not be sustainable.
@@ -241,6 +243,9 @@ Practice doing without things you think you need.
 
 3. You Have to Make the Definite Decision to Succeed
 The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
+
+You Need to Stand Up for Yourself
+Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears
 -->
 
 Choose to be independent.
@@ -469,6 +474,8 @@ If you want to succeed at anything in your life, then forget about the Joneses.
 You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people
 
 Experiences worth more than material
+
+“The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
 -->
 
 
@@ -573,7 +580,8 @@ when expanding comfort zones you are learning.
 what happens when we step too far out of our comfort zones, how James mitigates risk by assuming the worst, how experience with failure can be a valuable skillset, why being in debt is better than simply being broke, and lots more.
 -->
 
-<a id="on-improving-by-theory"></a>2) analysis of past situations.
+<a id="on-improving-by-theory"></a>2) analysis of past situations.<br>
+Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -581,22 +589,25 @@ what happens when we step too far out of our comfort zones, how James mitigates 
 
 > *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
-<a id="on-meditation"></a>Take moments to be reflective. It will help you letting go [past failures](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
+> *'People repeat very easily the same mistakes. You improve by examining them.'*
+
+> *'You can only connect the dots looking back, not looking forward.'*
+
+> *'The years say, what the days can't tell.' -- Chinese proverb*
 
 > *'Journal early before your inhibitions take in.'*
 
 > *'Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
 
-> *'The years say, what the days can't tell.' -- Chinese proverb*
-
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
+HOWEVER, action not knowledge leads to [success](#on-success).
+
+> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
+
+> *'«Pathological learners» who are voracious consumers of knowledge. They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera. Yet they know all this information! The problem is that they do not apply it. You have to realize that knowledge without action is useless.'*
+
 <!--
-people repeat very easily the same mistakes. you improve by working at it.
-you learn from failure. examine your failures, people write books about it.
-
-you can only connect the dots looking back, not looking forward
-
 career day an year -> journaling self analysis.
 
 am i learning? if not you'll have a problem down the road.
@@ -612,7 +623,17 @@ Write advice to yourself or other people. Review it regularly. Edit it. Refine i
 I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
 -->
 
-Feedback speeds up improvement. Mentors are your best source of feedback.
+
+
+===
+###On feedback
+
+Feedback speeds up improvement.<br>
+Mentors are your best source of feedback. Only take advice from them.
+
+> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
+
+> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach'*
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
@@ -622,23 +643,7 @@ Feedback speeds up improvement. Mentors are your best source of feedback.
 
 > *'A coach spots your bullshit before you open your mouth.'*
 
-<!--
-Your father is your first mentor. 
-
-you Need to Build Your Board of Directors
-Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes.Once you build this infrastructure of support and accountability, your life will radically transform.
-
-+ - =
-find somebody smarter than you to teach you and learn something
-equal to you to challenge you
-less than you that you can teach and learn something
--->
-
-HOWEVER, action not knowledge leads to [success](#on-success).
-
-> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
-
-> *'«Pathological learners» who are voracious consumers of knowledge. They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera. Yet they know all this information! The problem is that they do not apply it. You have to realize that knowledge without action is useless.'*
+> *'Your father is your first mentor.'*
 
 
 
@@ -707,6 +712,10 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 
 > *'I don't tell my boys them how to live. I live fully and let them see.'*
 
+> *'If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.'*
+
+> *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
+
 <!--
 educating kids
 convenience for you vs best thing for the kid.
@@ -719,17 +728,13 @@ Take time for yourself, allow yourself to recharge and recuperate, invest into y
 Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
 -->
 
-> *'If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.'*
-
-> *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
-
 HOWEVER, some people are not ready to have a mentor and accept your vision.
 
 > *'Do not teach a starving man to fish.'*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
 
-HOWEVER, «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
+And «givers» attract «takers». Don't let them drain you, you're [free](#on-freedom) and you don't owe them anything.
 
 > *'You give people a hand, they rip your arm out.'*
 
@@ -1239,6 +1244,10 @@ That said, a bad/good negotiation means that you are adding more/less value to t
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
+<!--
+Only Is Better Than Best
+-->
+
 HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.'*
@@ -1406,23 +1415,27 @@ Instead change/filter who you are around. You are the average of the people you 
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
-Keep your friends for friendship but work with the skilled and competent.
+<!--
+You need to build your board of directors. Life is meant to be lived in community.
+
+But keep your friends for friendship, work with the skilled and competent.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
-<!--
+> *'Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.'*
+
+> *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
+
+
 you're never a prophet in your homeland.
-
-working with friends is not good, because there will be always problems of fixing hierarchy. peers are peers not boss and employee.
-
-Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.
 
 > *'Work friends are just that, work friends. Nothing more.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
-you Need to Build Your Board of Directors
-Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes.Once you build this infrastructure of support and accountability, your life will radically transform.
+Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.
+
+brothers
 -->
 
 
@@ -1441,9 +1454,8 @@ Seek out mentors and friends who are achieving on a higher level than you who ar
 Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.<br>
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
-> *'Avoiding conflict will not keep peace, will rot it.'*
-
-> *'Rotten peace builds resentment.'*
+> *'Avoiding conflict will not keep peace, will rot it.<br>
+Rotten peace builds resentment.'*
 
 > *'I am either part of the solution or part of the problem.'*
 
@@ -1453,34 +1465,34 @@ Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 ===
 ###On criticism and envy
 
-Ignore and be flattered by envy. Reduce envy by not appearing [too perfect](#on-outliers).
+When people criticize your life they are speaking about their fears and limitations not yours.<br>
+So ignore and be flattered by these people, whether they are bosses, life-long friends, or even family members.
 
-> *'The dogs bark but the caravan moves on.' -- Arab proverb*
-
-> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
+Only take advice from [those who are achieving what you want to achieve](#on-feedback), and ignore the rest.
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
 
-> *'When people criticize your life they are speaking about their one fears and limitations not yours.'*
+> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
-<!--
-> *'When critics get together they talk about form, structure and meaning. When artists get together they talk about where you can buy cheap solvent.'*
-
-3. Ignore the Haters and Embrace the True Players
-One of the greatest tragedies of the modern world is that men with unlimited potential and unimaginable abilities allow themselves to be smothered by the advice and criticisms of unambitious, underachieving, and jealous peers.
-
-Every time you go to the office look at the men to your left and to your right.
-What do you see?
-Do you see men embracing their true potential, taking control of their lives, and creating an incredible future full of freedom and joy?
-Or do you see men who have allowed the doubts and misgivings of society, family, and friends to hold them back from their dreams and desires?
-On your path to success, you will be faced with many, many, many haters, doubters, and naysayers.
-They will tell you it cannot or should not be done only out of their own insecurities and fears.
-But if you want to unleash the giant inside of you and reach your full potential, you must ignore these people, whether they are bosses, life-long friends, or even family members.
-Only take advice from those who are achieving what you want to achieve, and ignore the rest.
-End of discussion.
--->
+> *'The dogs bark but the caravan moves on.' -- Arab proverb*
 
 > *'Consensus happens just in the beginning and in the end of something.'*
+
+Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
+
+> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+
+> *'They called her witch because she knew how to heal herself.'*
+
+> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
+
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+
+You’re judged by what you say, not what you think.
+
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+
+> *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
 HOWEVER, beware of blindspots, not all criticism is envy.
 
@@ -1489,31 +1501,6 @@ HOWEVER, beware of blindspots, not all criticism is envy.
 > *'If too many users are wrong, it's probably your fault.'*
 
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
-
-
-
-===
-###On outliers
-
-Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
-
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
-
-> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
-
-You’re judged by what you say, not what you think.
-
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
-
-> *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
-<!-- 
-Jealousy stems from your own limiting beliefs.
-
-> *'They called her witch because she knew how to heal herself.'*
--->
 
 
 
@@ -1738,7 +1725,6 @@ So avoid the trap of following one set career path. It will be easier to pivot w
 > *'People pivot to near areas, combining two skills.'*
 
 <!--
-
 > *'How to pivot:
 1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
 
@@ -1765,6 +1751,8 @@ People will describe your strengths, if you ask them why did you ask him for an 
 5 * 80% -> 5 * 20% = 100%
 
 I wouldn’t say I was hired because I’m really good with a piece of software, you are hired to problem solve: that problem being the brief and your solution being a design. No one cares how you get from A to B as long as you get there fast and the design looks good.
+
+Happy, Smart, and Useful
 -->
 
 
@@ -1787,7 +1775,11 @@ social cartography, that draw the power relations, who's the decision maker.
 to whom people are speaking, and who is speaking
 
 weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is weighed as far more important than keeping skilled talent. Read books written by managers for managers. Their actions aren't random or stupid.
+
+more high status -> more exposure to any parasite whose transmission isn't environmentally mediated.
 -->
+
+
 
 ===
 	  __                                                                                     
@@ -1807,7 +1799,7 @@ Analysis is an art, not a science.
 
 > *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Levenstein*
 
-> *'«Dictator's dilemma»:  when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
+> *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
 And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness will trigger miscalculations.
 
@@ -2016,8 +2008,9 @@ Every day, whether it’s “be creative today.” Or “go some place you’ve 
 Learn something new.
 Missions are for people who DO. Mission statements are for people who DON’T.
 
-
+lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita e vence-se a procrastination
 -->
+
 > *'Stop making resolutions and start making something.'*
 
 > *'Momentum generates motivation.'*
@@ -2792,6 +2785,8 @@ That's where «big bucks» are.
 'Don't be a plant.'
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
+
+> *'Run away from complexity. Complexity doesn't add much to your life.'*
 
 <!--
 minimalism an essencialism - the value in less - the joy of missing out
