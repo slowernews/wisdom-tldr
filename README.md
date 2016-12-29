@@ -205,6 +205,10 @@ HOWEVER, live in accordance with your nature. If something is forced it will not
 
 > *'Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker*
 
+<!--
+find your context. you don't need to suceed in every context
+-->
+
 <a id="on-humbleness"></a>And remember to be humble, you are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
@@ -815,6 +819,8 @@ failures are flip-sides of our strengths
 the opposite is true also
 
 you fail by the same reasons that you sometimes you will succeed
+
+Calling it an experiment gives you permission to fail. -- A.J. Jacobs
 -->
 
 
@@ -1598,6 +1604,8 @@ When someone is out of line, don’t let it slide too far.
 If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
 
 Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
+
+a good leader: a) knows when to speak and when don't. b) knows to create a vision of where they wanna go.
 -->
 
 
@@ -1752,6 +1760,8 @@ People will describe your strengths, if you ask them why did you ask him for an 
 I wouldn’t say I was hired because I’m really good with a piece of software, you are hired to problem solve: that problem being the brief and your solution being a design. No one cares how you get from A to B as long as you get there fast and the design looks good.
 
 Happy, Smart, and Useful
+
+stack of skills -- scott adams
 -->
 
 
@@ -1837,6 +1847,16 @@ Nietszche says to measure one's strength by the number of parasites one can supp
 > *'Pay attention to negative cues: what should have happened but did not.'*
 
 It is possible to view this as an isolated event or a trend.
+
+see the obvious: if you're going to be a writer, you should have something to say.-- Adam Robinson (adapted)
+
+'it doesn't make sense. the gold price is going down. the world makes sense. just not the model. there is some x factor hidden.
+look for something that doesn't make sense. That's where the gold mine is. -- Adam Robinson (adapted)
+
+I don't try to make sense of the world. It's too complicated.
+Instead I watch investors attempting to make sense of it. I study them. They will be the ones that will make the assets prices move. -- Adam Robinson (adapted) not playing your hand but playing your opponent.
+
+most important question ever: what do you need to see to change your view? -- Adam Robinson
 -->
 
 
@@ -2097,6 +2117,8 @@ focus: the notion of tackling your most important thing (MIT) first thing in the
 
 look at situations as systems. i help to create systems.
 Bad luck vs. bad planning
+
+don't major on minor things
 -->
 
 First the essential. Then the details.
@@ -2647,7 +2669,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 ===
 ###On luck
 
-When you’re not winning, life will seem hideously unfair to you.<br>
+Unless you’re winning, life will seem hideously unfair to you.<br>
 But be positive, luck is a pattern and the pendulum will swing back your way eventually.
 
 > *'Bad luck is normally bad planning.'*
@@ -2666,10 +2688,11 @@ But be positive, luck is a pattern and the pendulum will swing back your way eve
 
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
+What’s the difference between chance and luck?
+Luck is an open door. Chance is the willingness to step through. This creates the illusin that certain people are luckier than others.
+
 <!--
-“What’s the difference between chance and luck?”
-“In many ways, it seems like certain people are luckier than others,” he said. “I think what that really means is that when they were given chances, they elected to pursue them, as opposed to step away from them. And that kind of creates the illusion of luck.”
-Luck is an open door. Chance is the willingness to step through
+science of patterns.
 -->
 
 
