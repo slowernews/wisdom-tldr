@@ -19,7 +19,7 @@ Exceptions to most rules also..
 - [On habits and systems](#on-habits-and-systems)
 - [On improving](#on-improving)
 - [On feedback](#on-feedback)
-- [On achieving mastery](#on-skills-and-achieving-mastery)
+- [On achieving mastery](#on-achieving-mastery)
 - [On generosity and mentorship](#on-generosity-and-mentorship)
 
 *On your worst enemy: yourself*
@@ -48,7 +48,7 @@ Exceptions to most rules also..
 *On interactions: drawbacks*
 - [On conflicts](#on-conflicts)
 - [On criticism and envy](#on-criticism-and-envy)
-- [On herd mentality](#on-herd-mentality)
+- [On following the herd](#on-following-the-herd)
 
 *On teams*
 - [On leadership](#on-leadership)
@@ -64,9 +64,9 @@ Exceptions to most rules also..
 
 *On preparing action*
 - [On analysis](#on-analysis)
+- [On creativity and ideas](#on-creativity-and-ideas)
 - [On decision making](#on-decision-making)
 - [On planning and vision](#on-planning-and-vision)
-- [On creativity and ideas](#on-creativity-and-ideas)
 
 *On executing*
 - [On starting, right timing and procrastination](#on-starting-right-timing-and-procrastination)
@@ -78,15 +78,13 @@ Exceptions to most rules also..
 - [On adapting](#on-adapting)
 
 *On competing*
-- [On attacking and defending](#on-attacking-and-defending)
+- [On attack and counterattack](#on-attack-and-counterattack)
 - [On creating imbalances](#on-creating-imbalances)
 - [On charming](#on-charming)
 - [On deceiving](#on-deceiving)
 - [On unpredictability](#on-unpredictability)
 - [On mirroring](#on-mirroring)
-- [On easy opponents](#on-easy-opponents)
-- [On difficult opponents](#on-difficult-opponents)
-- [On desperate opponents](#on-desperate-opponents)
+- [On opponents](#on-opponents)
 - [On defeating status quo](#on-defeating-status-quo)
 
 *On ending*
@@ -483,15 +481,15 @@ Experiences worth more than material
 ===
 ###On habits and systems
 
-Consistency is key. Habits allow [mastery](#on-mastery) and [success](#on-success).
+Habits allow [mastery](#on-mastery) and [success](#on-success).<br>
+Consistency doesn’t come from effort, it comes from systems. Decisions compound.
+
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
 > *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
-
-Consistency doesn’t come from effort, it comes from systems. Decisions compound.
 
 Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.<br>
 Avoid low value systems: social media, news, owning a TV, working long hours, control of petty stuff.
@@ -900,7 +898,7 @@ Confidence is a result, not a requirement
 ===
 ###On limits and resistance
 
-> *'Your limits are where are your fears.'*
+Your limits are where are your fears.
 
 > *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
 
@@ -921,6 +919,7 @@ break through your plateaus
 
 Resistance and plateaus Comes from Negative Projections
 
+> *'On a plateau take a step back.'*
 There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
 -->
 
@@ -1374,13 +1373,13 @@ HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run
 ===
 ###On lovers
 
+Never love anyone that treats you like you're ordinary.
+
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
 > *'Every person feels loved in a different form.'*
 
 > *'Love doesn’t hurt. Expectations do.'*
-
-> *'Never love anyone that treats you like you're ordinary.'*
 
 > *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
 First, your observations, or what you have noticed is happening in your relationship.<br>
@@ -1465,19 +1464,6 @@ Rotten peace builds resentment.'*
 ===
 ###On criticism and envy
 
-When people criticize your life they are speaking about their fears and limitations not yours.<br>
-So ignore and be flattered by these people, whether they are bosses, life-long friends, or even family members.
-
-Only take advice from [those who are achieving what you want to achieve](#on-feedback), and ignore the rest.
-
-> *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
-
-> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
-
-> *'The dogs bark but the caravan moves on.' -- Arab proverb*
-
-> *'Consensus happens just in the beginning and in the end of something.'*
-
 Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
@@ -1494,6 +1480,19 @@ You’re judged by what you say, not what you think.
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
+When people criticize your life they are speaking about their fears and limitations not yours.<br>
+So ignore and be flattered by these people, whether they are bosses, life-long friends, or even family members.
+
+Only take advice from [those who are achieving what you want to achieve](#on-feedback), and ignore the rest.
+
+> *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
+
+> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
+
+> *'The dogs bark but the caravan moves on.' -- Arab proverb*
+
+> *'Consensus happens just in the beginning and in the end of something.'*
+
 HOWEVER, beware of blindspots, not all criticism is envy.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
@@ -1505,7 +1504,7 @@ HOWEVER, beware of blindspots, not all criticism is envy.
 
 
 ===
-###On herd mentality
+###On following the herd
 
 Most people are other people. Their thoughts are someone else opinions.
 
@@ -1760,11 +1759,11 @@ Happy, Smart, and Useful
 ===
 ###On hierarchy
 
+Only comedians can speak the truth without consequences.
+
 > *'Never outshine the master.'<br>
 'Know who you’re dealing with: do not offend the wrong person.'<br>
 'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
-
-> *'Only comedians can speak the truth without consequences.'*
 
 HOWEVER, don't vow to the gatekeepers.
 
@@ -1843,11 +1842,64 @@ It is possible to view this as an isolated event or a trend.
 
 
 ===
+###On creativity and ideas
+
+Always be doing something creative. Without new experiences, your soul rots.
+
+> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
+
+> *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
+
+> *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
+
+> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
+
+> *'Good artists copy; great artists steal.' -- Steve Jobs & others*
+
+> *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
+
+> *'Creative minds are rarely tidy.'*
+
+<!--
+judging ideas
+
+negative inspiration (things that don't work) - positive inspiration!
+
+idea sex
+-->
+
+> *'We can't solve problems by using the same kind of thinking we used when we created them.'*
+
+> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
+
+> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
+
+<!-- 
+> *'Moments of originality and moments of conformity.'*
+
+> *'Teach no one your tricks or they will be used against you.'* 
+
+ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
+
+idea sex
+
+creativity is a muscle - you have to practice it every day.
+
+Creativity and critical thinking. In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.
+In executive position, visionary, maverick, multidisciplinary thinker, etc.
+You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
+-->
+
+> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
+
+
+
+===
 ###On decision making
 
-'May your choices reflect your choices, not your fears.' -- Nelson Mandela
+'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove
 
-> *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
+> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
 > *'You have choices. Choices are experiments.'*
 
@@ -1925,59 +1977,6 @@ Decide in advance what your time is worth. Do not let others tell you how much y
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
-
-
-
-===
-###On creativity and ideas
-
-Always be doing something creative. Without new experiences, your soul rots.
-
-> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
-
-> *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
-
-> *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
-
-> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
-
-> *'Good artists copy; great artists steal.' -- Steve Jobs & others*
-
-> *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
-
-> *'Creative minds are rarely tidy.'*
-
-<!--
-judging ideas
-
-negative inspiration (things that don't work) - positive inspiration!
-
-idea sex
--->
-
-> *'We can't solve problems by using the same kind of thinking we used when we created them.'*
-
-> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
-
-> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
-
-<!-- 
-> *'Moments of originality and moments of conformity.'*
-
-> *'Teach no one your tricks or they will be used against you.'* 
-
-ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
-
-idea sex
-
-creativity is a muscle - you have to practice it every day.
-
-Creativity and critical thinking. In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.
-In executive position, visionary, maverick, multidisciplinary thinker, etc.
-You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
--->
-
-> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 
 
@@ -2081,6 +2080,25 @@ Don't be thirsty.
 ===
 ###On focus and time management
 
+Time itself, is not your limitation. It's attention.<br>
+You’re not managing time, you're managing attention.
+
+> *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
+
+> *'Any media company harvest your attention and transform it into revenue.'*
+
+> *'Busy imply out of control. lack of time is lack of priorities.'*
+
+<!--
+automation:
+> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
+
+focus: the notion of tackling your most important thing (MIT) first thing in the morning.
+
+look at situations as systems. i help to create systems.
+Bad luck vs. bad planning
+-->
+
 First the essential. Then the details.
 
 > *'Concentrate your forces.'<br>
@@ -2133,25 +2151,6 @@ Do you keep busy as a way to avoid doing the important — but often difficult �
 Every man needs a fight. Not physical, but a mission to fight for
 -->
 
-Time itself, is not your limitation. It's attention.<br>
-You’re not managing time, you're managing attention.
-
-> *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
-
-> *'Any media company harvest your attention and transform it into revenue.'*
-
-> *'Busy imply out of control. lack of time is lack of priorities.'*
-
-<!--
-automation:
-> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
-
-focus: the notion of tackling your most important thing (MIT) first thing in the morning.
-
-look at situations as systems. i help to create systems.
-Bad luck vs. bad planning
--->
-
 Practical HINT: Track time and journal for hints on where to improve.
 
 > *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
@@ -2190,7 +2189,7 @@ Control what you can. Ignore what you can't.
 
 > *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
 
-> *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*-->
+> *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 
 HOWEVER,
 
@@ -2211,8 +2210,6 @@ The hardest skill is knowing when to stop.
 > *'The hardest skill is knowing what could be simplified, and what's good enough.'*
 
 > *'Everything should be made as simple as possible, but not simpler.'*
-
-> *'Don't take a half step where a full step is required.'*
 
 > *'If half of the room laughs and half doesn't is a success.'*
 
@@ -2249,8 +2246,6 @@ You need to switch strategies a few times to get where you want to go.
 
 > *'The most important thing to do if you find yourself in a hole is to stop digging.' -- Warren Buffett*
 
-> *'On a plateau take a step back.'*
-
 > *'What got you here won't get you there.'*
 
 > *'The directions to get you anywhere include a few turns:<br>
@@ -2281,7 +2276,7 @@ HOWEVER
 
 
 
-###On attacking and defending
+###On attack and counterattack
 
 > *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
 
@@ -2290,8 +2285,6 @@ HOWEVER
 <!-- 
 > *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'* 
 -->
-
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
 HOWEVER, beware of counter-attacking.
 
@@ -2350,7 +2343,7 @@ HOWEVER, use absence with [moderation](#on-balance).
 ===
 ###On deceiving
 
-'Appear weak when you are strong, and strong when you are weak.' -- Sun Tzu
+'Appear weak when you are strong and strong when you are weak.' -- Sun Tzu
 
 > *'Court attention at all cost.'<br>
 'Play to people’s fantasies.'<br>
@@ -2358,6 +2351,8 @@ HOWEVER, use absence with [moderation](#on-balance).
 'Stir up waters to catch fish.' -- Robert Greene (6th, 32nd, 37th and 39th law of power)*
 
 > *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
 HOWEVER, deceiving is not lying.
 
@@ -2407,9 +2402,9 @@ Mirroring works best when your group is in minority.
 
 
 ===
-###On easy opponents
+###On opponents
 
-Beware of easy opponents. Most times it's [bait](#on-charming).
+1) Beware of easy opponents. Most times it's [bait](#on-charming).
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -2425,12 +2420,7 @@ HOWEVER, there are same people acting stupid. Easy wins if you can identify them
 
 > *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
-
-
-===
-###On difficult opponents
-
-To win, besides outworking them, you'll need all weaponry. Even the «dirty stuff».
+2) On difficult opponents, to win, besides outworking them, you'll need all weaponry. Even the «dirty stuff».
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
@@ -2442,12 +2432,7 @@ They can be effective but use them *only* on life changing situations: it's a sc
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-opponents) if you can see the end already.
 
-
-
-===
-###On desperate opponents
-
-Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+3) Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
@@ -2495,6 +2480,8 @@ Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
 > *'Reconciliation is out of the question. Only one side can win, and it must win totally.'*
+
+> *'Don't take a half step where a full step is required.'*
 
 
 
