@@ -23,12 +23,12 @@ Exceptions to most rules also..
 - [On generosity and mentorship](#on-generosity-and-mentorship)
 
 *On your worst enemy: yourself*
+- [On limits and resistance](#on-limits-and-resistance)
+- [On stress and health](#on-stress-and-health)
 - [On fear, anger and excuses](#on-fear-anger-and-excuses)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
 - [On confidence and validation](#on-confidence-and-validation)
-- [On limits and resistance](#on-limits-and-resistance)
-- [On stress and health](#on-stress-and-health)
 
 
 ### Part 2 - Groups
@@ -38,8 +38,8 @@ Exceptions to most rules also..
 - [On networking](#on-networking)
 - [On communication](#on-communication)
 - [On business and entrepreneurship](#on-business-and-entrepreneurship)
+- [On selling](#on-selling)
 - [On negotiation and price](#on-negotiation-and-price)
-- [On selling and persuasion](#on-selling-and-persuasion)
 - [On rewards](#on rewards) 
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
@@ -63,13 +63,13 @@ Exceptions to most rules also..
 
 
 *On preparing action*
-- [On analysis](#on-analysis)
 - [On creativity and ideas](#on-creativity-and-ideas)
+- [On analysis](#on-analysis)
 - [On decision making](#on-decision-making)
 - [On planning and vision](#on-planning-and-vision)
 
 *On executing*
-- [On starting, right timing and procrastination](#on-starting-right-timing-and-procrastination)
+- [On starting, right time and procrastination](#on-starting-right-timing-and-procrastination)
 - [On pace](#on-pace)
 - [On focus and time management](#on-focus-and-time-management)
 - [On position](#on-position)
@@ -78,7 +78,6 @@ Exceptions to most rules also..
 - [On adapting](#on-adapting)
 
 *On competing*
-- [On attack and counterattack](#on-attack-and-counterattack)
 - [On creating imbalances](#on-creating-imbalances)
 - [On charming](#on-charming)
 - [On deceiving](#on-deceiving)
@@ -107,13 +106,13 @@ Exceptions to most rules also..
 - [On fame](#on-fame)
 - [On luck](#on-luck)
 - [On beauty](#on-beauty)
+- [On lifestyle](#on-lifestyle)
 
 *Others*
 - [On investment](#on-investment)
 - [On economics and politics](#on-economics-and-politics)
 - [On science and religion](#on-science-and-religion)
 - [On art and aesthetics](#on-art-and-aesthetics)
-- [On lifestyle](#on-lifestyle)
 
 
 #### TL;DR 
@@ -752,6 +751,105 @@ And «givers» attract «takers». Don't let them drain you, you're [free](#on-f
 
 
 
+###On limits and resistance
+
+Your limits are where are your fears.
+
+> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
+> *'The only person standing in your way is you.' -- Black Swan*
+
+HOWEVER, your level of success will seldom exceed your level of personal development.
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
+
+<!--
+Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
+
+impostor syndrome
+
+4. Break Down Your Dreams/goals into Achievable Steps
+
+break through your plateaus
+
+Resistance and plateaus Comes from Negative Projections
+
+> *'On a plateau take a step back.'*
+There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
+-->
+
+
+===
+###On stress and health
+
+Take care of your body. It’s the most important thing you’ll get for free.<br>
+HOWEVER, the origin of most health problems is not physical but mental.
+
+> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
+
+> *'Body language affects your psychology, your mood, and even your hormonal balance.'*
+
+> *'Action cures everything. Plain and simple.'*
+
+Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).<br>
+The more relaxed you are, the better you are at everything.
+
+> *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
+
+<!--
+- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+
+on placebos
+“Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference.”
+– Erik Vance
+-->
+
+> *'If you are depressed you are living in the past. <br>
+If you are anxious you are living in the future. <br>
+If you are at peace you are living in the present.' -- Lao Tzu*
+
+<!-- ligar com #on-control -->
+
+> *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+
+> *'Anxiety and depression are symptoms, not diseases.'*
+
+> *'Worry is a misuse of the imagination.'*
+
+> *'Stress is caused by giving a fuck.'*
+
+> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
+
+> *'If you are feeling stressed out.. breathe.'*
+
+> *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
+
+> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
+
+> *'I've decided to be happy because it is good to my health.'*
+
+<!-- 
+You can’t perform under pain, stress, etc. without adequate capacity. That capacity is physical.
+
+You mind is a made of physical things. Neurons, chemicals, electricity. Your physical state, capacity for physical stress, sleep, diet, experiences, determine the bulk of your mental state. Do not rely upon cognition to make change. Behavior and the physical world are your key to changing affect and cognition. Your mental performance IS physical performance.
+
+> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'*
+
+> *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
+
+intermittent fasting
+napping
+
+When most people are struggling with pain, they fail to realize that often times, their pain is caused by a mental or emotional problem and not a physical problem. This could stem from a childhood trauma, a tragic event, or simply a personal insecurity.
+Reframe Your Pain and Become Grateful 
+The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
+
+If you feel powerless/being dominated you will be chronically stressed.
+-->
+
+
+
+===
 ###On fear, anger and excuses
 
 Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
@@ -902,111 +1000,13 @@ Confidence is a result, not a requirement
 
 
 ===
-###On limits and resistance
-
-Your limits are where are your fears.
-
-> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
-
-> *'The only person standing in your way is you.' -- Black Swan*
-
-HOWEVER, your level of success will seldom exceed your level of personal development.
-
-> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
-
-<!--
-Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
-
-impostor syndrome
-
-4. Break Down Your Dreams/goals into Achievable Steps
-
-break through your plateaus
-
-Resistance and plateaus Comes from Negative Projections
-
-> *'On a plateau take a step back.'*
-There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
--->
-
-
-===
-###On stress and health
-
-Take care of your body. It’s the most important thing you’ll get for free.<br>
-HOWEVER, the origin of most health problems is not physical but mental.
-
-> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
-
-> *'Body language affects your psychology, your mood, and even your hormonal balance.'*
-
-> *'Action cures everything. Plain and simple.'*
-
-Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).<br>
-The more relaxed you are, the better you are at everything.
-
-> *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
-
-<!--
-- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-
-on placebos
-“Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference.”
-– Erik Vance
--->
-
-> *'If you are depressed you are living in the past. <br>
-If you are anxious you are living in the future. <br>
-If you are at peace you are living in the present.' -- Lao Tzu*
-
-<!-- ligar com #on-control -->
-
-> *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
-
-> *'Anxiety and depression are symptoms, not diseases.'*
-
-> *'Worry is a misuse of the imagination.'*
-
-> *'Stress is caused by giving a fuck.'*
-
-> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
-
-> *'If you are feeling stressed out.. breathe.'*
-
-> *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
-
-> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
-
-> *'I've decided to be happy because it is good to my health.'*
-
-<!-- 
-You can’t perform under pain, stress, etc. without adequate capacity. That capacity is physical.
-
-You mind is a made of physical things. Neurons, chemicals, electricity. Your physical state, capacity for physical stress, sleep, diet, experiences, determine the bulk of your mental state. Do not rely upon cognition to make change. Behavior and the physical world are your key to changing affect and cognition. Your mental performance IS physical performance.
-
-> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'*
-
-> *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
-
-intermittent fasting
-napping
-
-When most people are struggling with pain, they fail to realize that often times, their pain is caused by a mental or emotional problem and not a physical problem. This could stem from a childhood trauma, a tragic event, or simply a personal insecurity.
-Reframe Your Pain and Become Grateful 
-The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
-
-If you feel powerless/being dominated you will be chronically stressed.
--->
-
-
-
-===
 	  __                                                            
 	 /  |           /      /                        /    /          
 	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___ 
 	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )
 	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  / 
                                                                 
+
 
 
 ###On networking
@@ -1189,6 +1189,64 @@ If you only have to be right once, your goal must be to allow yourself many oppo
 
 
 ===
+###On selling
+
+We're all in sales. You're in sales anytime you interact with anybody.
+
+Sales used to be about information asymmetry but times are changing.<br>
+Now it's mostly [applied persuasion](#on-charming) and keeping relationships.
+
+> *'Historically, the seller had more information than the buyer.<br>
+Its a different game now. Everybody knows immediately the alternatives.'*
+
+> *'Selling by just keeping in touch. Send emails once in a while.'*
+
+> *'To sell is to deal with objections.'*
+
+> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
+To persuade up, focus in interests; to persuade down focus in emotions.'*
+
+> *'Best sellers are ambiverts.'*
+
+<!--
+irritation -> challenge people to make something that they don't want to do
+agitation -> challenge people to make something that they want to do. suggesting ego etc
+
+agitate more than irritate
+
+mimicking people gestures and words works!
+
+So can you pitch me what our company does?
+
+people minds work by association.
+pre-suasion
+
+use testimonials that allow people to see themselves in that testimony
+people are intrigued by mystery! stories!
+
+get to objections
+
+when you have passion you communicate better
+
+intro: //clay hebert
+I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
+6 or 7 words - short and sweet and confident and interesting.
+
+ask them first so you can costumise it for the context and make it more relevant.
+
+then give an interesting story: choose one testimonial
+instead of detail and inaccurate.
+
+success in sales
+ocean of rejection. face your failures is a good indicator of being a good seller.
+most rejections are not your fault.
+
+I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
+-->
+
+
+
+===
 ###On negotiation and price
 
 To negotiate is to have options.<br>
@@ -1259,63 +1317,6 @@ HOWEVER, always strive to achieve a win-win situation. The deal will fall if bot
 
 > *'You can’t make a good deal with a bad person.'*
 
-
-
-===
-###On selling and persuasion
-
-We're all in sales. You're in sales anytime you interact with anybody.
-
-Sales used to be about information asymmetry but times are changing.<br>
-Now it's mostly [applied persuasion](#on-charming) and keeping relationships.
-
-> *'Historically, the seller had more information than the buyer.<br>
-Its a different game now. Everybody knows immediately the alternatives.'*
-
-> *'Selling by just keeping in touch. Send emails once in a while.'*
-
-> *'To sell is to deal with objections.'*
-
-> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
-To persuade up, focus in interests; to persuade down focus in emotions.'*
-
-> *'Best sellers are ambiverts.'*
-
-<!--
-irritation -> challenge people to make something that they don't want to do
-agitation -> challenge people to make something that they want to do. suggesting ego etc
-
-agitate more than irritate
-
-mimicking people gestures and words works!
-
-So can you pitch me what our company does?
-
-people minds work by association.
-pre-suasion
-
-use testimonials that allow people to see themselves in that testimony
-people are intrigued by mystery! stories!
-
-get to objections
-
-when you have passion you communicate better
-
-intro: //clay hebert
-I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words - short and sweet and confident and interesting.
-
-ask them first so you can costumise it for the context and make it more relevant.
-
-then give an interesting story: choose one testimonial
-instead of detail and inaccurate.
-
-success in sales
-ocean of rejection. face your failures is a good indicator of being a good seller.
-most rejections are not your fault.
-
-I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
--->
 
 
 ===
@@ -1470,7 +1471,7 @@ Rotten peace builds resentment.'*
 ===
 ###On criticism and envy
 
-Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck) and [beauty](#on-beauty) are the main triggers. 
+Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck), [beauty](#on-beauty) and combination of them ([lifestyle](#on-lifestyle)) are the main triggers. 
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
@@ -1800,6 +1801,60 @@ more high status -> more exposure to any parasite whose transmission isn't envir
 
 
 
+===
+###On creativity and ideas
+
+Always be doing something creative. Without new experiences, your soul rots.
+
+> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
+
+> *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
+
+> *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
+
+> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
+
+> *'Good artists copy; great artists steal.' -- Steve Jobs & others*
+
+> *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
+
+> *'Creative minds are rarely tidy.'*
+
+<!--
+judging ideas
+
+negative inspiration (things that don't work) - positive inspiration!
+
+idea sex
+-->
+
+> *'We can't solve problems by using the same kind of thinking we used when we created them.'*
+
+> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
+
+> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
+
+<!-- 
+> *'Moments of originality and moments of conformity.'*
+
+> *'Teach no one your tricks or they will be used against you.'* 
+
+ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
+
+idea sex
+
+creativity is a muscle - you have to practice it every day.
+
+Creativity and critical thinking. In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.
+In executive position, visionary, maverick, multidisciplinary thinker, etc.
+You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
+-->
+
+> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
+
+
+
+===
 ###On analysis
 
 Analysis is an art, not a science.
@@ -1858,59 +1913,6 @@ Instead I watch investors attempting to make sense of it. I study them. They wil
 
 most important question ever: what do you need to see to change your view? -- Adam Robinson
 -->
-
-
-
-===
-###On creativity and ideas
-
-Always be doing something creative. Without new experiences, your soul rots.
-
-> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
-
-> *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
-
-> *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
-
-> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
-
-> *'Good artists copy; great artists steal.' -- Steve Jobs & others*
-
-> *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
-
-> *'Creative minds are rarely tidy.'*
-
-<!--
-judging ideas
-
-negative inspiration (things that don't work) - positive inspiration!
-
-idea sex
--->
-
-> *'We can't solve problems by using the same kind of thinking we used when we created them.'*
-
-> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
-
-> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
-
-<!-- 
-> *'Moments of originality and moments of conformity.'*
-
-> *'Teach no one your tricks or they will be used against you.'* 
-
-ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
-
-idea sex
-
-creativity is a muscle - you have to practice it every day.
-
-Creativity and critical thinking. In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.
-In executive position, visionary, maverick, multidisciplinary thinker, etc.
-You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
--->
-
-> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 
 
@@ -2010,7 +2012,7 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 
 
-###On starting, right timing and procrastination
+###On starting, right time and procrastination
 
 Just start.<br>
 You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
@@ -2298,15 +2300,15 @@ HOWEVER
 
 
 
-###On attack and counterattack
+###On creating imbalances
+
+Create imbalances in your target to create an advantage and raise chances of winning.<br>
+Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
+and [bait](#on-charming). Some opponents may require special tools.
 
 > *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
 
 > *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
-
-<!-- 
-> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'* 
--->
 
 HOWEVER, beware of counter-attacking.
 
@@ -2314,14 +2316,9 @@ HOWEVER, beware of counter-attacking.
 
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
-
-
-===
-###On creating imbalances
-
-Create imbalances in your target to create an advantage and raise chances of winning.<br>
-Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
-and [bait](#on-charming). Some opponents may require special tools.
+<!-- 
+> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'* 
+-->
 
 
 
@@ -2434,6 +2431,16 @@ Mirroring works best when your group is in minority.
 
 > *«El dorados» are never drawn in the map.'*
 
+And desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+
+> *'Beware the fury of a patient man.' -- John Dryden*
+
+> *'Use anger only as a tool, when you need it to improve your situation.'*
+
+> *'Beware of sad people.'*
+
+> *'Our fearlessness shall be our secret weapon.' -- John Green* 
+
 HOWEVER, there are same people acting stupid. Easy wins if you can identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
@@ -2453,16 +2460,6 @@ They can be effective but use them *only* on life changing situations: it's a sc
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-opponents) if you can see the end already.
-
-3) Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
-
-> *'Beware the fury of a patient man.' -- John Dryden*
-
-> *'Use anger only as a tool, when you need it to improve your situation.'*
-
-> *'Beware of sad people.'*
-
-> *'Our fearlessness shall be our secret weapon.' -- John Green* 
 
 
 
@@ -2709,6 +2706,27 @@ science of patterns.
 
 
 ===
+###On lifestyle
+
+'Don't be a plant.'
+
+> *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
+
+> *'Run away from complexity. Complexity doesn't add much to your life.'*
+
+<!--
+minimalism an essencialism - the value in less - the joy of missing out
+
+permission to rethink
+weekly design session - think on longer term
+reactive to proactive life
+start where do you have control of. go slowly over time.
+Essentialism: The Disciplined Pursuit of Less
+-->
+
+
+
+===
 	  __                          
 	 /  | /    /                  
 	(   |(___ (___  ___  ___  ___ 
@@ -2786,27 +2804,6 @@ That's where «big bucks» are.
 > *'Artistic death is made by consensus.'*
 
 > *'Life is Capitalism but art is Socialism.'*
-
-
-
-===
-###On lifestyle
-
-'Don't be a plant.'
-
-> *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
-
-> *'Run away from complexity. Complexity doesn't add much to your life.'*
-
-<!--
-minimalism an essencialism - the value in less - the joy of missing out
-
-permission to rethink
-weekly design session - think on longer term
-reactive to proactive life
-start where do you have control of. go slowly over time.
-Essentialism: The Disciplined Pursuit of Less
--->
 
 
 
