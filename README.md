@@ -68,7 +68,7 @@ Exceptions to most rules also..
 - [On planning and decision making](#on-planning-and-decision-making)
 
 *On executing*
-- [On starting, right time and procrastination](#on-starting-right-timing-and-procrastination)
+- [On starting, right time and procrastination](#on-starting-right-time-and-procrastination)
 - [On pace](#on-pace)
 - [On focus and time management](#on-focus-and-time-management)
 - [On position](#on-position)
@@ -1863,53 +1863,62 @@ Analysis is an art, not a science.
 
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
-And, as such, error-prone: bias, being [misled](#on-deceiving) and randomness will trigger miscalculations.
+> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
+And, as such, error-prone: 
 
-> *'What Susie says of Sally says mores about Susie than of Sally.'*
-
-> *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
+a) randomness;
 
 > *'Most facts are a «tell» but some are just random.'*
 
+c) [being deceived](#on-deceiveness);
+
+> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
+
 > *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
-> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
+b) and specially, bias, will trigger miscalculations.
 
-HOWEVER, bias is everywhere. Be specially careful when facing new ideas.<br>
-Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs and assumptions.
+> *'What Susie says of Sally says mores about Susie than of Sally.'*
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
 
 > *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
 
-> *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
-
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
 
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
+
+Be specially careful when facing new ideas.<br>
+Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs.
 
 > *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
 
 > *'I am both worse and better than you thought.' -- Sylvia Plath*
 
-<!--
-Nietszche says to measure one's strength by the number of parasites one can support.
+> *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
+
+PRACTICAL HINTS:
+
+> *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
 > *'Pay attention to negative cues: what should have happened but did not.'*
 
-It is possible to view this as an isolated event or a trend.
+> *'look for something that doesn't make sense. That's where the gold mine is:<br>
+«It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.' -- Adam Robinson (adapted)*
 
-see the obvious: if you're going to be a writer, you should have something to say.-- Adam Robinson (adapted)
+> *'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.' -- Adam Robinson (adapted)*
 
-'it doesn't make sense. the gold price is going down. the world makes sense. just not the model. there is some x factor hidden.
-look for something that doesn't make sense. That's where the gold mine is. -- Adam Robinson (adapted)
+> *'look for the obvious: «If you want to be a writer you should have something to say.»' -- Adam Robinson (adapted)*
 
-I don't try to make sense of the world. It's too complicated.
-Instead I watch investors attempting to make sense of it. I study them. They will be the ones that will make the assets prices move. -- Adam Robinson (adapted) not playing your hand but playing your opponent.
+> *'The most important question ever: «What do you need to see to change your view?»' -- Adam Robinson (adapted)*
 
-most important question ever: what do you need to see to change your view? -- Adam Robinson
+<!--
+not playing your hand but playing your opponent.'*
+
+Nietszche says to measure one's strength by the number of parasites one can support.
+
+It is possible to view this as an isolated event or a trend
 -->
 
 
