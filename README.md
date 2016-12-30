@@ -63,10 +63,9 @@ Exceptions to most rules also..
 
 
 *On preparing action*
-- [On creativity and ideas](#on-creativity-and-ideas)
+- [On creativity, visions and ideas](#on-creativity-visions-and-ideas)
 - [On analysis](#on-analysis)
-- [On decision making](#on-decision-making)
-- [On planning and vision](#on-planning-and-vision)
+- [On planning and decision making](#on-planning-and-decision-making)
 
 *On executing*
 - [On starting, right time and procrastination](#on-starting-right-timing-and-procrastination)
@@ -1801,8 +1800,7 @@ more high status -> more exposure to any parasite whose transmission isn't envir
 
 
 
-===
-###On creativity and ideas
+###On creativity, visions and ideas
 
 Always be doing something creative. Without new experiences, your soul rots.
 
@@ -1917,7 +1915,20 @@ most important question ever: what do you need to see to change your view? -- Ad
 
 
 ===
-###On decision making
+###On planning and decision making
+
+Plan ahead and prepare for the highly probable scenarios.<br>
+Make the decisions right now. When in the moment of making the decision, you have already done it.
+
+> *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
+
+> *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
+
+> *'The best way to predict the future is to invent it.' -- Alan Kay*
+
+> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
+
+> *'The script is going to be bad but in the end we'll finish eating pizza.'*
 
 'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove
 
@@ -1950,28 +1961,6 @@ decisions are tainted by the emotional investments you accumulate, and the more 
 inoculate yourself from the stress of making hard decisions when you need to. -- Allen Tucker
 -->
 
-HOWEVER, too many decisions will drain you. Attention is the most limited resource.
-
-> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
-
-
-
-===
-###On planning and vision
-
-Plan ahead and prepare for the highly probable scenarios.<br>
-Make the decisions right now. When in the moment of making the decision, you have already done it.
-
-> *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
-
-> *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
-
-> *'The best way to predict the future is to invent it.' -- Alan Kay*
-
-> *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
-
-> *'The script is going to be bad but in the end we'll finish eating pizza.'*
-
 How to plan: start with a vision.
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
@@ -1999,6 +1988,10 @@ Decide in advance what your time is worth. Do not let others tell you how much y
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
+
+And too many decisions will drain you. Attention is the most limited resource.
+
+> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
 
 
 
