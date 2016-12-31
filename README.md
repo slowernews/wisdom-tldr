@@ -62,7 +62,7 @@ Exceptions to most rules also..
 
 
 *On preparing action*
-- [On creativity, visions and ideas](#on-creativity-visions-and-ideas)
+- [On creativity, vision and ideas](#on-creativity-vision-and-ideas)
 - [On analysis](#on-analysis)
 - [On planning and decision making](#on-planning-and-decision-making)
 
@@ -1281,6 +1281,8 @@ my standard of value for a weekend: some combination of rejuvenation and human c
 normally we fall into habits. we don't do what is best for ourselves.
 people have different standards of value: weekend example
 rejuvenation and human conception will derail to your habits.
+
+Only Is Better Than Best
 -->
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
@@ -1291,10 +1293,6 @@ Negotiation establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
-
-<!--
-Only Is Better Than Best
--->
 
 HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
@@ -1320,12 +1318,6 @@ we build trust through presence. leadership is based on trust.
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
 
 on a deep relationship, politics must match
-
-on gifting
-be an expert gift giver.
-practical luxuries make better gifts than merchandise branded with your company’s logo. give value. always give best in class
-a gift can have the opposite
-always be generous/giving
 -->
 
 HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
@@ -1568,8 +1560,6 @@ reduce you feelings of power to be more effective
 boss ask employee to do x
 employee resist, boss come back later after thinking about his resistance, maybe you can do something about
 
-mix com persuasion 
-
 Refuse to work with people you don’t like.
 Fire customers that cause you to much stress or that cost too much to service.
 It takes a very small number of people (one) to ruin an environment. One person in the office is all it takes to make everyone miserable. Don’t tolerate these people. Take it as far as you need to take it. 
@@ -1584,7 +1574,7 @@ backup what you're preaching
 make yourself as part of a team
 make people feel as part of a family
 
-leader persuader
+leader persuader - mix com persuasion 
 
 When someone is out of line, don’t let it slide too far.
 If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
@@ -1648,8 +1638,6 @@ The speed that you offload your stuff will be the speed of your team.'*
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
 <!--
-
-
 Productivity is different from workflow engineering.
 
 > *'Too busy pretending I'm occupied.'* 
@@ -1736,8 +1724,7 @@ becoming the go to guy for some questions
 - career ecosystems, get back into them, reconnect.<br>
 - reboot self confidence. Surround yourself with confident people.'
 
-Hint from interviews:
-People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
+Hint from interviews: People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
 
 100% on one thing or 80% on 5 things!
 100% -> 100% time
@@ -1766,6 +1753,8 @@ HOWEVER, don't vow to the gatekeepers.
 > *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
 
 <!--
+everything is hierarchy
+
 social cartography, that draw the power relations, who's the decision maker.
 to whom people are speaking, and who is speaking
 
@@ -1786,7 +1775,7 @@ more high status -> more exposure to any parasite whose transmission isn't envir
 
 
 
-###On creativity, visions and ideas
+###On creativity, vision and ideas
 
 Always be doing something creative. Without new experiences, your soul rots.
 
@@ -1804,14 +1793,6 @@ Always be doing something creative. Without new experiences, your soul rots.
 
 > *'Creative minds are rarely tidy.'*
 
-<!--
-judging ideas
-
-negative inspiration (things that don't work) - positive inspiration!
-
-idea sex
--->
-
 > *'We can't solve problems by using the same kind of thinking we used when we created them.'*
 
 > *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
@@ -1819,13 +1800,17 @@ idea sex
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
 
 <!-- 
+judging ideas
+
+negative inspiration (things that don't work) - positive inspiration!
+
+idea sex
+
 > *'Moments of originality and moments of conformity.'*
 
 > *'Teach no one your tricks or they will be used against you.'* 
 
 ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
-
-idea sex
 
 creativity is a muscle - you have to practice it every day.
 
@@ -1956,7 +1941,7 @@ decisions are tainted by the emotional investments you accumulate, and the more 
 inoculate yourself from the stress of making hard decisions when you need to. -- Allen Tucker
 -->
 
-How to plan: start with a vision.
+How to plan: start with a [vision](#on-creativity-vision-and-ideas).
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
 
@@ -1966,7 +1951,7 @@ How to plan: start with a vision.
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-Practical hints:
+HINTS:
 
 > *'Choose the plan with more options. The one that lets you change plan.'*
 
@@ -2099,18 +2084,6 @@ You’re not managing time, you're managing attention.
 
 > *'Busy imply out of control. lack of time is lack of priorities.'*
 
-<!--
-automation:
-> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
-
-focus: the notion of tackling your most important thing (MIT) first thing in the morning.
-
-look at situations as systems. i help to create systems.
-Bad luck vs. bad planning
-
-don't major on minor things
--->
-
 First the essential. Then the details.
 
 > *'Concentrate your forces.'<br>
@@ -2149,6 +2122,16 @@ HOWEVER,
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+automate what you can:
+> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
+
+focus: the notion of tackling your most important thing (MIT) first thing in the morning.
+
+look at situations as systems. i help to create systems.
+Bad luck vs. bad planning
+
+don't major on minor things
+
 *guerrilla* has their strengths also. cena do mosquito
 
 Focus. Do one thing really well. Solve one problem with one solution.
@@ -2240,6 +2223,7 @@ Don’t try to make your job your whole life
 Don’t try to make your art your sole income
 
 most things are not binary.
+a balance sheet must balance.
 -->
 
 
