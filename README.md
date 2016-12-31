@@ -23,8 +23,8 @@ Exceptions to most rules also..
 - [On generosity and mentorship](#on-generosity-and-mentorship)
 
 *On your worst enemy: yourself*
-- [On limits and resistance](#on-limits-and-resistance)
 - [On stress and health](#on-stress-and-health)
+- [On limits and resistance](#on-limits-and-resistance)
 - [On fear, anger and excuses](#on-fear-anger-and-excuses)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
@@ -40,10 +40,10 @@ Exceptions to most rules also..
 - [On business and entrepreneurship](#on-business-and-entrepreneurship)
 - [On selling](#on-selling)
 - [On negotiation and price](#on-negotiation-and-price)
-- [On rewards](#on rewards) 
 - [On relationships](#on-relationships)
 - [On lovers](#on-lovers)
 - [On family and friends](#on-family-and-friends)
+- [On rewards](#on rewards) 
 
 *On interactions: drawbacks*
 - [On conflicts](#on-conflicts)
@@ -218,7 +218,7 @@ find your context. you don't need to suceed in every context
 ===
 ###On freedom
 
-Choose *yourself*.<br>
+Choose *yourself*. Choose to be independent.<br>
 Tell *your* truth no matter what.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
@@ -247,8 +247,6 @@ The only thing separating you from your wildest dreams and ambitions is that you
 You Need to Stand Up for Yourself
 Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears
 -->
-
-Choose to be independent.
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
@@ -581,7 +579,6 @@ what happens when we step too far out of our comfort zones, how James mitigates 
 -->
 
 <a id="on-improving-by-theory"></a>2) analysis of past situations.<br>
-Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -594,6 +591,8 @@ Take moments to be reflective and examine your failures. It will help you [letti
 > *'You can only connect the dots looking back, not looking forward.'*
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
+
+HINT: Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -750,35 +749,6 @@ And «givers» attract «takers». Don't let them drain you, you're [free](#on-f
 
 
 
-###On limits and resistance
-
-Your limits are where are your fears.
-
-> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
-
-> *'The only person standing in your way is you.' -- Black Swan*
-
-HOWEVER, your level of success will seldom exceed your level of personal development.
-
-> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
-
-<!--
-Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
-
-impostor syndrome
-
-4. Break Down Your Dreams/goals into Achievable Steps
-
-break through your plateaus
-
-Resistance and plateaus Comes from Negative Projections
-
-> *'On a plateau take a step back.'*
-There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
--->
-
-
-===
 ###On stress and health
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
@@ -844,6 +814,36 @@ Reframe Your Pain and Become Grateful
 The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
 If you feel powerless/being dominated you will be chronically stressed.
+-->
+
+
+
+===
+###On limits and resistance
+
+Your limits are where are your fears.
+
+> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
+> *'The only person standing in your way is you.' -- Black Swan*
+
+HOWEVER, your level of success will seldom exceed your level of personal development.
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
+
+<!--
+Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
+
+impostor syndrome
+
+4. Break Down Your Dreams/goals into Achievable Steps
+
+break through your plateaus
+
+Resistance and plateaus Comes from Negative Projections
+
+> *'On a plateau take a step back.'*
+There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
 -->
 
 
@@ -1148,7 +1148,7 @@ Successful *entrepreneurs* are good risk managers.
 
 > *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
-> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough? Is the price high enough? Are the costs low enough?'*
+> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
@@ -1319,25 +1319,9 @@ HOWEVER, always strive to achieve a win-win situation. The deal will fall if bot
 
 
 ===
-###On rewards
-
-Be an expert gift giver.
-
-<!--
-negative reinforcement isn’t as effective as positive reinforcement — even for people.
-punishment works near the situation that did that to you.
-
-practical luxuries make better gifts than merchandise branded with your company’s logo
-always give best in class
-give value. a gift can have the opposite
-always be generous/giving
--->
-
-
-===
 ###On relationships
 
-Relationships are based on [trust](#on-trust).
+Relationships are based on mutual [trust](#on-trust).
 
 > *'A great relationship is about finding the similarities and respect the differences.'*
 
@@ -1431,7 +1415,6 @@ But keep your friends for friendship, work with the skilled and competent.
 
 > *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
 
-
 you're never a prophet in your homeland.
 
 > *'Work friends are just that, work friends. Nothing more.'*
@@ -1441,6 +1424,23 @@ you're never a prophet in your homeland.
 Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.
 
 brothers
+-->
+
+
+
+===
+###On rewards
+
+Be an expert gift giver.
+
+<!--
+negative reinforcement isn’t as effective as positive reinforcement — even for people.
+punishment works near the situation that did that to you.
+
+practical luxuries make better gifts than merchandise branded with your company’s logo
+always give best in class
+give value. a gift can have the opposite
+always be generous/giving
 -->
 
 
@@ -1470,7 +1470,7 @@ Rotten peace builds resentment.'*
 ===
 ###On criticism and envy
 
-Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck), [beauty](#on-beauty) and combination of them ([lifestyle](#on-lifestyle)) are the main triggers. 
+Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck), [beauty](#on-beauty) and a mix of them ([lifestyle](#on-lifestyle)) are the main triggers. 
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
@@ -1548,7 +1548,7 @@ HOWEVER, common sense is not so common.
 
 ###On leadership
 
-Being a leader is different from being a boss. Leadership is based on [trust](#on-trust).
+Being a leader is different from being a boss. Leadership is based on mutual Rcr[trust](#on-trust).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -1622,7 +1622,7 @@ Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-Hint: don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
+HINT: don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
 Ask instead of telling. If feedback is needed, give a reason.
 
 > *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
@@ -1687,7 +1687,7 @@ He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
 How to keep talented people? Respect them.<br>
-You'll never respect them if you don't pay them accordingly.
+You'll never respect them if you don't reward them accordingly.
 
 <!--
 make them part of the solution and part of the answer.
@@ -1898,13 +1898,13 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
-PRACTICAL HINTS:
+Practical HINTS:
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
 > *'Pay attention to negative cues: what should have happened but did not.'*
 
-> *'look for something that doesn't make sense. That's where the gold mine is:<br>
+> *'Look for something that doesn't make sense. That's where the gold mine is:<br>
 «It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.' -- Adam Robinson (adapted)*
 
 > *'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.' -- Adam Robinson (adapted)*
@@ -1939,7 +1939,7 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'The script is going to be bad but in the end we'll finish eating pizza.'*
 
-'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove
+> *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
 
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
@@ -1972,7 +1972,7 @@ inoculate yourself from the stress of making hard decisions when you need to. --
 
 How to plan: start with a vision.
 
-> *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift'*
+> *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
 
 > *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
 
@@ -2154,6 +2154,10 @@ First the essential. Then the details.
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
+Practical HINT: Track time and journal for hints on where to improve.
+
+> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
+
 HOWEVER, 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
@@ -2176,10 +2180,6 @@ if you are the focus you will be assumed as being the the cause.
 Do you keep busy as a way to avoid doing the important — but often difficult — things in life?
 Every man needs a fight. Not physical, but a mission to fight for
 -->
-
-Practical HINT: Track time and journal for hints on where to improve.
-
-> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
 
 
 
@@ -2631,7 +2631,7 @@ Genius and talent are rare, and as such, the most sensitive trigger points for e
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
 
-> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile. -- Malcolm Gladwell'*
+> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
 
