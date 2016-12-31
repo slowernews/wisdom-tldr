@@ -13,18 +13,17 @@ Exceptions to most rules also..
 
 *On growth*
 - [On finding a path](#on-finding-a-path)
-- [On motivation](#on-motivation)
 - [On comfort and risk](#on-comfort-and-risk)
-- [On success](#on-success)
 - [On habits and systems](#on-habits-and-systems)
 - [On improving](#on-improving)
 - [On feedback](#on-feedback)
 - [On achieving mastery](#on-achieving-mastery)
 - [On generosity and mentorship](#on-generosity-and-mentorship)
+- [On success](#on-success)
 
 *On your worst enemy: yourself*
 - [On stress and health](#on-stress-and-health)
-- [On limits and resistance](#on-limits-and-resistance)
+- [On limits, resistance and motivation](#on-limits-resistance-and-motivation)
 - [On fear, anger and excuses](#on-fear-anger-and-excuses)
 - [On mistakes and failure](#on-mistakes-and-failure)
 - [On shame](#on-shame)
@@ -353,18 +352,6 @@ Step 1: Do less of what you don’t like doing -- unless it is limiting you
 Step 2: Do more of what you like doing
 Step 3: Use envy
 “Envy is painful, but it’s a very helpful emotion for a happy life. It’s a giant red arrow sign standing over someone’s head saying, ‘They've got something you want.’”
--->
-
-
-
-===
-###On motivation
-
-<!--
-on settling:
--->
-
-> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
@@ -376,7 +363,6 @@ on settling:
 
 HOWEVER, don't be thirsty: the [journey](#on-gratefulness-and-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
-<!--
 If You Are Not Growing You Are Dying
 Life is about constant and never-ending growth.
 If you want to live your life in such a way that you can take your final breath with a smile on your face, then you must be willing to commit yourself to constant growth.F!ck complacency.
@@ -432,48 +418,6 @@ Risk looks different for everyone.
 So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
 
 You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
--->
-
-
-
-===
-###On success
-
-There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
-Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
-
-> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
-
-> *'Success is simple, but it is not easy. Success is nothing but the accumulation of small things done consistently over a long period of time.'*
-
-> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
-
-HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
-
-> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
-
-> *'Doubt kills more dreams than failure ever will.'*
-
-<!--
-1. Success is in Our Decisions Not Our Conclusions
-Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
-Success is truly about living a life with honor and integrity, not any material outcome.
-
-success is not the accumulation of stuff
-
-If you want to succeed at anything in your life, then forget about the Joneses.
-You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
-
-True fulfillment comes from living your life, not from achievement.
-
-Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal.
-
-If you want to succeed at anything in your life, then forget about the Joneses.
-You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people
-
-Experiences worth more than material
-
-“The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
 -->
 
 
@@ -739,6 +683,48 @@ And «givers» attract «takers». Don't let them drain you, you're [free](#on-f
 
 
 
+===
+###On success
+
+There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
+Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
+
+> *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
+
+> *'Success is simple, but it is not easy. Success is nothing but the accumulation of small things done consistently over a long period of time.'*
+
+> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
+
+HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
+
+> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
+
+> *'Doubt kills more dreams than failure ever will.'*
+
+<!--
+1. Success is in Our Decisions Not Our Conclusions
+Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
+Success is truly about living a life with honor and integrity, not any material outcome.
+
+success is not the accumulation of stuff
+
+If you want to succeed at anything in your life, then forget about the Joneses.
+You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
+
+True fulfillment comes from living your life, not from achievement.
+
+Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal.
+
+If you want to succeed at anything in your life, then forget about the Joneses.
+You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people
+
+Experiences worth more than material
+
+“The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
+-->
+
+
+
 ===                                                                                                                                 
 	  __                                                                                                                                      __ 
 	 /  |                                                        /                                                                         / /   
@@ -819,7 +805,7 @@ If you feel powerless/being dominated you will be chronically stressed.
 
 
 ===
-###On limits and resistance
+###On limits, resistance and motivation
 
 Your limits are where are your fears.
 
@@ -2520,6 +2506,7 @@ It's not just about winning. The way you win sets you up for the next round.
 
 > *'The destination is not the end of the road; it's just a stop along the way. An intersection to take you to your next destination.'*
 
+> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 
 ===
