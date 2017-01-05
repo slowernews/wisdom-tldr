@@ -815,7 +815,7 @@ Your limits are where are your fears.
 
 HOWEVER, your level of success will seldom exceed your level of personal development.
 
-> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).'*
+> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).' -- Archilochus*
 
 <!--
 Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
@@ -2050,8 +2050,6 @@ Don’t be afraid to take time away to find your direction.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
-> *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
-
 > *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
 
 > *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
@@ -2187,6 +2185,8 @@ Control what you can. Ignore what you can't.
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 
 HOWEVER,
+
+> *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
 
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
@@ -2421,14 +2421,14 @@ HOWEVER, there are same people acting stupid. Easy wins if you can identify them
 
 > *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
-2) On difficult opponents, to win, besides outworking them, you'll need all weaponry. Even the «dirty stuff».
+2) On difficult opponents, to win, besides outworking them, you'll need all weaponry.
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
-«Pawn sacrifices», bribes and lying are examples of «dirty stuff».<br>
+Even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff».<br>
 They can be effective but use them *only* on life changing situations: it's a scar for life.
 
-> *'Get others to do the work for you, but always take the credit.'
+> *'Get others to do the work for you, but always take the credit.'<br>
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-opponents) if you can see the end already.
@@ -2549,19 +2549,17 @@ You will die soon. Act accordingly and don't postpone joy.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
+> *'We are like butterflies who flutter for a day and think it's forever.'*
+
+> *'Now will not be with us forever.'*
+
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
+
+> *'Live life ready to meet god.'*
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
 > *'Never get so busy making a living that you forget to make a life.'*
-
-> *'Now will not be with us forever.'*
-
-> *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
-
-> *'We are like butterflies who flutter for a day and think it's forever.'*
-
-> *'Live life ready to meet god.'*
 
 <!--
 life is long enough
@@ -2581,6 +2579,8 @@ Dream big. If your dreams don't scare you, they are not big enough.
 > *'Anomalies often represent the future but to our eyes they seem strange.'*
 
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
+
+> *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
 
 
 
@@ -2685,7 +2685,7 @@ science of patterns.
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
-> *'Run away from complexity. Complexity doesn't add much to your life.'*
+> *'Run away from complexity. Complexity doesn't add much to life.'*
 
 <!--
 minimalism an essencialism - the value in less - the joy of missing out
