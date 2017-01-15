@@ -52,7 +52,7 @@ Exceptions to most rules also..
 *On teams*
 - [On leadership](#on-leadership)
 - [On management](#on-management)
-- [On delegation](#on-delegation)
+- [On delegation and productivity](#on-delegation-and-productivity)
 - [On hiring and keeping talent](#on-hiring-and-keeping-talent)
 - [On being hired](#on-being-hired)
 - [On hierarchy](#on-hierarchy)
@@ -1619,7 +1619,7 @@ HOWEVER, a leader needs [humility](#on-identity). Gaining an understanding and g
 
 
 ===
-###On delegation
+###On delegation and productivity
 
 Managing is delegating. Your speed as a manager is the speed of the team.<br>
 
@@ -1628,18 +1628,18 @@ Managing is delegating. Your speed as a manager is the speed of the team.<br>
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 > *'A manager should make himself 2 questions a day: <br>
-«What is important to accomplish?» (where are you going) <br>
-«Where was I uncomfortable the day before?» (what went right and where do you need support) <br>
+«What is important to accomplish?» (where are you going)<br>
+«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
 The speed that you offload your stuff will be the speed of your team.'*
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
+> *'Productivity is different from workflow engineering.'*
 
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
 <!--
-Productivity is different from workflow engineering.
-
 > *'Too busy pretending I'm occupied.'* 
 -->
 
@@ -1648,11 +1648,11 @@ Productivity is different from workflow engineering.
 ===
 ###On hiring and keeping talent
 
-Hire anyone but only retain the best.
-
-> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
+Hire most but only retain the best.
 
 > *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
+
+> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
@@ -1661,7 +1661,7 @@ He who works with his hands and his head is a craftsman.<br>
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
 How to keep talented people? Respect them.<br>
-You'll never respect them if you don't reward them accordingly.
+You'll never respect them if you don't pay them accordingly.
 
 <!--
 make them part of the solution and part of the answer.
@@ -1674,7 +1674,7 @@ everything has to be win win. team members and not employees
 ===
 ###On being hired
 
-Employers hire you because you are a likable person that «get shit done».
+Employers hire you because you are a likable person that «gets shit done».
 
 > *'When applying for a job be more of a consultant than an applicant.'*
 
@@ -1779,9 +1779,15 @@ more high status -> more exposure to any parasite whose transmission isn't envir
 
 Always be doing something creative. Without new experiences, your soul rots.
 
+Finding a good idea: idea sex - mix stuff
+
+> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
+
+> *'We can’t solve problems by using the same kind of thinking we used when we created them.'*
+
 > *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
 
-> *'We don’t have an «imagination» we have a memory. You cannot «imagine» anything you haven’t seen or heard in your life time.'*
+> *'We don’t have an «imagination» we have a memory.'*
 
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
 
@@ -1793,18 +1799,14 @@ Always be doing something creative. Without new experiences, your soul rots.
 
 > *'Creative minds are rarely tidy.'*
 
-> *'We can't solve problems by using the same kind of thinking we used when we created them.'*
+Judging ideas?
 
 > *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
 
-> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
+> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 <!-- 
-judging ideas
-
 negative inspiration (things that don't work) - positive inspiration!
-
-idea sex
 
 > *'Moments of originality and moments of conformity.'*
 
@@ -1818,8 +1820,6 @@ Creativity and critical thinking. In subordinate position it gets you labelled a
 In executive position, visionary, maverick, multidisciplinary thinker, etc.
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
 -->
-
-> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 
 
