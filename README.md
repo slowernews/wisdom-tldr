@@ -1,4 +1,3 @@
-# Wisdom TLDR guide
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from quotes that match *my* biased experience.<br>
 Exceptions to most rules also..
 
@@ -418,6 +417,9 @@ Risk looks different for everyone.
 So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
 
 You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
+
+> *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
+
 -->
 
 
@@ -436,7 +438,7 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 > *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
 
 Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.<br>
-Avoid low value systems: social media, news, owning a TV, working long hours, control of petty stuff.
+Avoid low value systems: social media, news, owning a TV, working long hours, control of petty stuff, perfectionism..
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
 
@@ -588,6 +590,10 @@ Mentors are your best source of feedback. Only take advice from them.
 
 > *'Your father is your first mentor.'*
 
+<!--
+Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
+-->
+
 
 
 ===
@@ -612,9 +618,15 @@ trade-able skills: figure out what skills you already have that you can charge f
 
 > *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
 
+> *'The master’s tools will never dismantle the master’s house.' -- Audre Lorde*
+
 > *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
 
 > *'If you aren’t growing you’re dying.' -- Tony Robbins*
+
+<!--
+> *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
+-->
 
 HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
@@ -830,6 +842,8 @@ Resistance and plateaus Comes from Negative Projections
 
 > *'On a plateau take a step back.'*
 There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
+
+> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 -->
 
 
@@ -1091,6 +1105,8 @@ Learn how to talk to people: smile, don't ramble, look for external catalysts as
 
 <!--
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
+
+> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 -->
 
 
@@ -1485,6 +1501,8 @@ HOWEVER, beware of blindspots, not all criticism is envy.
 
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
+> *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
+
 
 
 ===
@@ -1735,6 +1753,8 @@ I wouldn’t say I was hired because I’m really good with a piece of software,
 Happy, Smart, and Useful
 
 stack of skills -- scott adams
+
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. -- Robert Heinlein
 -->
 
 
@@ -2254,6 +2274,8 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
+> *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
+
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
 > *'If I don’t have red, I use blue.' -- Pablo Picasso*
@@ -2754,11 +2776,17 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
 
+> *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
+
 > *'Science is a wonderful thing if one does not have to earn one's living at it.'*
+
+> *'The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...' -- Isaac Asimov*
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.'*
 
 > *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
+
+> *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
 
 
 
@@ -2779,3 +2807,5 @@ That's where «big bucks» are.
 > *'Artistic death is made by consensus.'*
 
 > *'Life is Capitalism but art is Socialism.'*
+
+> *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald E. Knuth*
