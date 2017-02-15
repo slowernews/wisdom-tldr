@@ -2624,8 +2624,8 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 
 See fame as a multiplier. If you want to impact the world, be famous.
 
-> *'Do everything in public. Other people are facing the same problems. They not only will identify with you, they can provide solutions.'<br>
-'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker*
+> *'Do everything in public. Other people are facing the same problems. They will identify with you and provide solutions.'<br>
+'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (adapted)*
 
 
 
@@ -2633,13 +2633,9 @@ See fame as a multiplier. If you want to impact the world, be famous.
 ###On luck
 
 Unless you’re winning, life will seem hideously unfair to you.<br>
-But be positive, luck is a pattern and the pendulum will swing back your way eventually.
-
-> *'Bad luck is normally bad planning.'*
+Be positive, luck is a pattern and the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
-
-> *'Even a broken clock is right twice a day.'*
 
 > *'There’s no magic in the world. It’s all math.' -- discrete math professor*
 
@@ -2651,8 +2647,14 @@ But be positive, luck is a pattern and the pendulum will swing back your way eve
 
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
-What’s the difference between chance and luck?
-Luck is an open door. Chance is the willingness to step through. This creates the illusin that certain people are luckier than others.
+What’s the difference between luck and chance?<br>
+Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
+
+HOWEVER,
+
+> *'Bad luck is normally bad planning.'*
+
+> *'Even a broken clock is right twice a day.'*
 
 <!--
 science of patterns.
