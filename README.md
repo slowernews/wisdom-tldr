@@ -419,7 +419,6 @@ So adventure is more than just grist for future storytelling — it’s a way to
 You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
 
 > *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
-
 -->
 
 
@@ -1023,18 +1022,23 @@ Don't isolate yourself. The people you know and whether they like you will deter
 
 > *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
+HINTS:
+
+> *'Networking types: advocates a, boomerang b, celebrities c, drainers d<br>
+shark, dolphin, drowner'*
+
+> *'Social inadequacy AKA creepiness is based on unpredictability.'*
+
+> *'Regarding networking adding value is everything.'*
+
+> *'Prepare an elevator pitch.'*
+
+
 <!--
-networking types: advocates a, boomerang b, celebrities c, drainers d / shark, dolphin, drowner 
-
-Social inadequacy AKA creepiness is based on unpredictability. 
-
-prepare an elevator pitch
 
 building a network is critical
 
 3) Find out what people actually want
-
-regarding networking adding value is everything
 
 if people forget it wasn't a good network anyway
 
@@ -1055,6 +1059,7 @@ i didn't get your text can you resend it? less strong. will you write a whole bo
 
 introvert is not shyness
 most things are not binary.
+introvert and extrovert scale 1-7
 introvert and extrovert scale 1-7
 it's hard to pass from a 2 to 7 but you can pass to a 2 to 3 or 4
 
@@ -1083,9 +1088,7 @@ Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
 
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
 
-<!--
 > *'Judge a man by his questions, not by his answers.'*
--->
 
 Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and listen.
 
@@ -1369,7 +1372,7 @@ Never love anyone that treats you like you're ordinary.
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
-Practical HINT: keep separate bank accounts.
+HINT: keep separate bank accounts.
 
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
@@ -1398,16 +1401,16 @@ Instead change/filter who you are around. You are the average of the people you 
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
+> *'If you're the smartest in the room, you're in the wrong room.'*
+
+> *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
+
 <!--
 You need to build your board of directors. Life is meant to be lived in community.
 
 But keep your friends for friendship, work with the skilled and competent.
 
-> *'If you're the smartest in the room, you're in the wrong room.'*
-
 > *'Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.'*
-
-> *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
 
 you're never a prophet in your homeland.
 
@@ -1416,8 +1419,6 @@ you're never a prophet in your homeland.
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.
-
-brothers
 -->
 
 
@@ -1427,15 +1428,11 @@ brothers
 
 Be an expert gift giver.
 
-<!--
-negative reinforcement isn’t as effective as positive reinforcement — even for people.
-punishment works near the situation that did that to you.
+> *'Negative reinforcement isn’t as effective as positive reinforcement - even for people. Punishment only works near the situation that did that to you.'*
 
-practical luxuries make better gifts than merchandise branded with your company’s logo
-always give best in class
-give value. a gift can have the opposite
-always be generous/giving
--->
+> *'Always be generous: a low value gift can have the opposite effect.'*
+
+> *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'*
 
 
 
@@ -1508,7 +1505,7 @@ HOWEVER, beware of blindspots, not all criticism is envy.
 ===
 ###On following the herd
 
-Most people are other people. Their thoughts are someone else opinions.
+Most people are other people. Their thoughts are someone else opinions and they jump to conclusions.
 
 > *'Common sense is the collection of prejudices acquired by age eighteen.'*
 
@@ -1516,20 +1513,11 @@ Most people are other people. Their thoughts are someone else opinions.
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-<!--
-There are no smart people or stupid people, just people being smart or being stupid.
-Being smart means thinking things through - trying to find the real answer, not the first answer.
-Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game : you lose by default.
-That’s why saying “I don’t know” is usually smart, because it’s refusing to jump to a conclusion.
-So when someone says “They are so stupid!” - it means they’ve stopped thinking.
-
-So if you decide someone is stupid, it means you’re not thinking, which is not being smart.
-Therefore: smart people don’t think others are stupid.
--->
-
-HOWEVER, common sense is not so common.
+HOWEVER, smart people don’t think others are stupid and common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
+
+> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying “I don’t know” is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» - it means they’ve stopped thinking.'*
 
 
 
@@ -1721,18 +1709,23 @@ So avoid the trap of following one set career path. It will be easier to pivot w
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
+'My luggage is always ready.'
+
 > *'People pivot to near areas, combining two skills.'*
 
-<!--
-> *'How to pivot:
+> *'Stack of skills -- Scott Adams
+
+100% time -> 100% results<br>
+20% time -> 80%results<br>
+So: 100% on one thing = 80% on 5 things!<br>
+
+> *'How to pivot:<br>
 1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
+write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc <br>
+2) question: talent ledger: what are the people that were working for them. top leaders ask for help and give knowledge away. more open source.<br>
+3) take risks to boost your immune system.'*
 
-write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc
-
-2) question: talent ledger: what are the people that were working for them.
-top leaders ask for help and give knowledge away. more open source.
-3) take risks to boost your immune system
-
+<!--
 differentiate yourself / volunteer for an assignment
 becoming the go to guy for some questions
 
@@ -1744,15 +1737,7 @@ becoming the go to guy for some questions
 
 Hint from interviews: People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
 
-100% on one thing or 80% on 5 things!
-100% -> 100% time
-5 * 80% -> 5 * 20% = 100%
-
-I wouldn’t say I was hired because I’m really good with a piece of software, you are hired to problem solve: that problem being the brief and your solution being a design. No one cares how you get from A to B as long as you get there fast and the design looks good.
-
 Happy, Smart, and Useful
-
-stack of skills -- scott adams
 
 A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. -- Robert Heinlein
 -->
@@ -1768,20 +1753,17 @@ Only comedians can speak the truth without consequences.
 'Know who you’re dealing with: do not offend the wrong person.'<br>
 'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
 
+> *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Read books written by managers for managers. Their actions aren't random or stupid.'*
+
+> *'Higher the status, more exposure to parasites whose transmission isn't environmentally mediated.'*
+
+> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
+
+> *'Everything is hierarchy. Social cartography: who's the decision maker, to whom people are speaking and who is speaking.'*
+
 HOWEVER, don't vow to the gatekeepers.
 
 > *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
-
-<!--
-everything is hierarchy
-
-social cartography, that draw the power relations, who's the decision maker.
-to whom people are speaking, and who is speaking
-
-weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is weighed as far more important than keeping skilled talent. Read books written by managers for managers. Their actions aren't random or stupid.
-
-more high status -> more exposure to any parasite whose transmission isn't environmentally mediated.
--->
 
 
 
@@ -1834,12 +1816,17 @@ negative inspiration (things that don't work) - positive inspiration!
 
 ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
 
-creativity is a muscle - you have to practice it every day.
-
-Creativity and critical thinking. In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.
-In executive position, visionary, maverick, multidisciplinary thinker, etc.
-You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.
+Creativity is a muscle - you have to practice it every day.
 -->
+
+Creativity is linked to autonomy.
+
+> *'Creativity and critical thinking:<br>
+In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.<br>
+In executive position, visionary, maverick, multidisciplinary thinker, etc.<br>
+You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
+
+
 
 
 
@@ -1853,8 +1840,6 @@ Analysis is an art, not a science.
 > *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Levenstein*
 
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
-
-> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
 And, as such, error-prone: 
 
@@ -1889,20 +1874,17 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
-Practical HINTS:
+HINTS:
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
 > *'Pay attention to negative cues: what should have happened but did not.'*
 
 > *'Look for something that doesn't make sense. That's where the gold mine is:<br>
-«It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.' -- Adam Robinson (adapted)*
-
-> *'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.' -- Adam Robinson (adapted)*
-
-> *'look for the obvious: «If you want to be a writer you should have something to say.»' -- Adam Robinson (adapted)*
-
-> *'The most important question ever: «What do you need to see to change your view?»' -- Adam Robinson (adapted)*
+«It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.'<br>
+'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'<br>
+'look for the obvious: «Do you want to be a writer? You should have something to say.»'<br>
+'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (adapted)*
 
 <!--
 not playing your hand but playing your opponent.'*
@@ -1988,10 +1970,6 @@ Decide in advance what your time is worth. Do not let others tell you how much y
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
-
-And too many decisions will drain you. Attention is the most limited resource.
-
-> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
 
 
 
@@ -2095,10 +2073,10 @@ Don't be thirsty.
 ===
 ###On focus and time management
 
-Time itself, is not your limitation. It's attention.<br>
+Time itself, is not your limitation. Attention is.<br>
 You’re not managing time, you're managing attention.
 
-> *'Do things in batch all at once. Interruption and switching between tasks costs too much.' -- Allen Tucker*
+> *'Do things in batch all at once. Interruption and switching between tasks costs too much.'*
 
 > *'Any media company harvest your attention and transform it into revenue.'*
 
@@ -2125,37 +2103,33 @@ First the essential. Then the details.
 
 > *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
 
-> *'The ability to ignore immediate dangers and pleasures translates into power.'*
-
 > *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
 
 > *'Always look where you want to go, not where you don't want to go.'*
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-Practical HINT: Track time and journal for hints on where to improve.
+HINTS:
 
-> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.' -- Allen Tucker*
+> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.'*
+
+> *'Tackle your most important thing (MIT) first thing in the morning.'*
+
+> *'Don't major on minor things.'*
+
+> *'Focus. Do one thing really well. Solve one problem with one solution.<br>
+Focus on the one thing most likely to get maximum results. Forget everything else.'*
 
 HOWEVER, 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-automate what you can:
-> *'Paying bills automatically means you won’t be late and you free up your mental energy to focus on other things.' -- Allen Tucker*
-
-focus: the notion of tackling your most important thing (MIT) first thing in the morning.
 
 look at situations as systems. i help to create systems.
 Bad luck vs. bad planning
 
-don't major on minor things
-
 *guerrilla* has their strengths also. cena do mosquito
-
-Focus. Do one thing really well. Solve one problem with one solution.
-Focus on the one thing most likely to get maximum results. Forget everything else.
 
 4. Focus on Revenue Generating Activities
 One of the simplest habits that you can start implementing today is to shift all of your focus towards revenue generating activities.
@@ -2166,8 +2140,9 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 if you are the focus you will be assumed as being the the cause.
 
-Do you keep busy as a way to avoid doing the important — but often difficult — things in life?
-Every man needs a fight. Not physical, but a mission to fight for
+And too many decisions will drain you. Attention is the most limited resource.
+
+> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
 -->
 
 
@@ -2196,9 +2171,7 @@ Control what you can. Ignore what you can't.
 
 > *'You can lead a horse to water but you can’t make him drink.'*
 
-> *'You can only control yourself. Power comes from that.'*
-
-> *'Control what you’re primed by, who you are around, the ideas and problems you focus on.' -- Allen Tucker*
+> *'You can only control yourself. Control what you’re primed by, who you are around, the ideas and problems you focus on. Power comes from that. '*
 
 > *'You want everything to stay the same until you’re ready for it to change. But you can’t do that. You can’t expect the whole world to stand still until you’re ready.' -- Gayle Friesen*
 
@@ -2230,23 +2203,21 @@ The hardest skill is knowing when to stop.
 
 > *'If half of the room laughs and half doesn't is a success.'*
 
+> *'A balance sheet must balance.'*
+
+> *'Most things are not binary.'*
+
+> *'Balance is not about spending the same amount of time focused on every area of your life either. It's about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.'*
+
+Diversification solves a lot of problems.
+
+> *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.'*
+
 How to balance an imbalance? Overcompensate.
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
 > *'Some people get passion from something they struggled with.'*
-
-<!--
-Balance is not about spending the same amount of time focused on every area of your life either.
-It is about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
-
-balance:
-Don’t try to make your job your whole life
-Don’t try to make your art your sole income
-
-most things are not binary.
-a balance sheet must balance.
--->
 
 
 
@@ -2271,8 +2242,6 @@ Sometimes you need to say YES to everything and be open to growth;<br>
 Sometimes you need to say NO to everything and focus.<br>
 It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'<br>
 -- Derek Sivers (adapted)*
-
-> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
 > *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
 
@@ -2707,13 +2676,15 @@ science of patterns.
 
 'Don't be a plant.'
 
-> *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
-
 > *'Run away from complexity. Complexity doesn't add much to life.'*
 
-<!--
-minimalism an essencialism - the value in less - the joy of missing out
+HINTS:
 
+> *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
+
+> *'Essencialism: the value in less and the joy of missing out.'*
+
+<!--
 permission to rethink
 weekly design session - think on longer term
 reactive to proactive life
