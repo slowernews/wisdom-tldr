@@ -67,7 +67,7 @@ Exceptions to most rules also..
 
 *On executing*
 - [On starting, right time and procrastination](#on-starting-right-time-and-procrastination)
-- [On pace](#on-pace)
+- [On pace and position](#on-pace-and-position)
 - [On focus and time management](#on-focus-and-time-management)
 - [On position](#on-position)
 - [On control](#on-control)
@@ -2034,6 +2034,8 @@ You will languish if you stop for a long time.
 
 > *'The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing.' -- Winston Churchill*
 
+> *'Perfectionism leads to procrastination, which leads to paralysis.'*
+
 HOWEVER, you should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
@@ -2043,10 +2045,10 @@ HOWEVER, you should have a [plan](#on-planning).
 
 
 ===
-###On pace
+###On pace and position
 
 Direction is more important than pace.<br>
-Don’t be afraid to take time away to find your direction.
+Don’t be afraid to take time away to find your direction. 
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
@@ -2063,6 +2065,19 @@ Don't be thirsty.
 > *'Vai procurar, vai achar o que não tinha perdido.'*
 
 > *'Who seeks shall find.' -- Sophocles*
+
+'Position yourself for victory.'
+
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
+> *'Convenience (location) is better than space amount.'*
+
+> *'Trade space for time.'*
+
+<!--
+chess gambits -- exchange material by position-time.
+-->
+
 
 <!--
 > *'Go-Karts - Feel fast, are slow 747s - Feel slow, are fast Ship it! - Feels fast, is slow Test > *'Document it! - Feels slow, is fast.'*
@@ -2143,23 +2158,6 @@ if you are the focus you will be assumed as being the the cause.
 And too many decisions will drain you. Attention is the most limited resource.
 
 > *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
--->
-
-
-
-===
-###On position
-
-'Position yourself for victory.'
-
-> *'Start as close to the end as possible.' -- Kurt Vonnegu*
-
-> *'Convenience (location) is better than space amount.'*
-
-> *'Trade space for time.'*
-
-<!--
-chess gambits -- exchange material by position-time.
 -->
 
 
