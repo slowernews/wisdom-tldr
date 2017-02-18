@@ -670,6 +670,8 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 
 > *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
+> *'All my life I was taught how to deal with failure. My dad would ask us at the dinner table every night: «how did you fail today?»' -- Sara Blakely*
+
 <!--
 educating kids
 convenience for you vs best thing for the kid.
@@ -1513,6 +1515,12 @@ Most people are other people. Their thoughts are someone else opinions and they 
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
+> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
+
+> *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
+
+> *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
+
 HOWEVER, smart people don’t think others are stupid and common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
@@ -1765,6 +1773,7 @@ HOWEVER, don't vow to the gatekeepers.
 
 > *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
 
+> *'Only the truth is funny.' -- Rick Reynolds*
 
 
 ===
@@ -2676,13 +2685,15 @@ science of patterns.
 
 'Don't be a plant.'
 
-> *'Run away from complexity. Complexity doesn't add much to life.'*
-
 HINTS:
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
 > *'Essencialism: the value in less and the joy of missing out.'*
+
+> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
+
+> *'Run away from complexity. Complexity doesn't add much to life.'*
 
 <!--
 permission to rethink
