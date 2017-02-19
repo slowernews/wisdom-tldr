@@ -259,7 +259,7 @@ Never be afraid to stand up for yourself, your friends, or your values, because 
 ===
 ###On gratefulness and happiness
 
-We can't chase happiness, happiness is a byproduct of our actions.
+'Happiness is not a goal, it is a byproduct.' -- Eleanor Roosevelt
 
 > *'Happy life = mastery + belonging + autonomy.'*
 
@@ -271,6 +271,8 @@ Meanwhile, while you create the life of your dreams, lower your expectations and
 
 <!--
 seek happiness actively (action) and passively (lower expectations)
+
+happiness is inside you, not with another person.
 -->
 
 > *'Happiness = reality / expectations'*
@@ -419,6 +421,15 @@ So adventure is more than just grist for future storytelling — it’s a way to
 You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
 
 > *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
+
+“The size of our life is in direct proportion to how uncomfortable we are willing to be”
+
+1. To Improve Your Life, You First First Become Uncomfortable
+If you want to improve the quality of your life, then start by improving your tolerance for risk and adversity.
+Because almost everything that you want is on the other side of the uncomfortable and the scary.
+
+Adventure Comes from Percieved Risk, Not Peril
+develop a tolerance for risk so that you can build up to the scarier activities later.
 -->
 
 
@@ -428,7 +439,6 @@ You will live a life that is filled with more excitement and fulfillment the mor
 
 Habits allow [mastery](#on-mastery) and [success](#on-success).<br>
 Consistency doesn’t come from effort, it comes from systems. Decisions compound.
-
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
 
@@ -682,6 +692,8 @@ to combat perfectionism
 You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
 Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
 Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
+
+Pete and his wife pay their son for each mile he rides his bike (with interest on what he decides not to spend).
 -->
 
 HOWEVER, some people are not ready to have a mentor and accept your vision.
@@ -882,6 +894,14 @@ People will do anything, no matter how absurd, in order to avoid facing their ow
 <!--
 Be careful not to let fear paralyze you either.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
+
+> *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
+
+
+Break Down Your Fears Until You Figure Out the Truth
+we stuck in the fear of consequences
+you will never achieve anything if you allow indecisiveness to lead to inaction.
+
 -->
 
 
@@ -1525,7 +1545,7 @@ HOWEVER, smart people don’t think others are stupid and common sense is not so
 
 > *'Taking a fence down without knowing why is there.'*
 
-> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying “I don’t know” is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» - it means they’ve stopped thinking.'*
+> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» - it means they’ve stopped thinking.'*
 
 
 
@@ -1540,7 +1560,7 @@ HOWEVER, smart people don’t think others are stupid and common sense is not so
 
 ###On leadership
 
-Being a leader is different from being a boss. Leadership is based on mutual Rcr[trust](#on-trust).
+Being a leader is different from being a boss. Leadership is based on mutual [trust](#on-trust).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -1950,6 +1970,11 @@ white collar want to feel different from others.
 decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
 
 inoculate yourself from the stress of making hard decisions when you need to. -- Allen Tucker
+
+Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success.
+You must know exactly what you want, when you want it, and why you want it.
+Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
+
 -->
 
 How to plan: start with a [vision](#on-creativity-vision-and-ideas).
@@ -2745,6 +2770,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Good fences make good neighbors.'*
 
+> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
 
 
 ===
@@ -2769,6 +2795,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
 
 > *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
+
+> *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
 
 
