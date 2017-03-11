@@ -114,7 +114,8 @@ Exceptions to most rules also..
 
 #### TL;DR 
 
-3 rules for life: *'Fuck, don't give a fuck and don't be fucked over.'*<br>
+*'Fuck, don't give a fuck and don't be fucked over.'*
+
 3 general advices:<br>
 *'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
 *'Avoiding conflict will not keep peace, will rot it.'*<br>
@@ -141,7 +142,9 @@ You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
-Choose to be your best self. You need to come alive.<br>
+Living is choosing:
+
+a) Choose to be your best self. You need to come alive.<br>
 Succeeding at mediocrity isn't a worthwhile life.
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
@@ -152,7 +155,7 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'Be the person your dog thinks you are.'*
 
-<a id="on-trust"></a>Choose to keep your integrity.<br>
+<a id="on-trust"></a>b) Choose to keep your integrity.<br>
 It's the only way to be respected and build trust.
 
 > *'Trust, not money, is the currency of business and life.'*
@@ -195,21 +198,19 @@ do you want short term popularity or long term respect
 5Cs: courage, congruence, confidence, calibration, conviction
 -->
 
-HOWEVER, live in accordance with your nature. If something is forced it will not be sustainable.
-
-> *'If you try to be something you're not, you end up being nothing.'*
-
-> *'Focus more on what you’re naturally good at. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker*
-
-<!--
-find your context. you don't need to suceed in every context
--->
-
-<a id="on-humbleness"></a>And remember to be humble, you are not perfect neither you'll ever be.
+<a id="on-humbleness"></a>c) Choose to be humble and grateful. You are not perfect neither you'll ever be.
 
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
 > *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
+
+HOWEVER, live in accordance with your nature. If you try to be something you're not, you end up being nothing.
+
+> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker*
+
+<!--
+find your context. you don't need to suceed in every context
+-->
 
 
 
@@ -2773,6 +2774,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
 
 
+
 ===
 ###On science and religion
 
@@ -2786,6 +2788,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
 
+> *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
+
 > *'Science is a wonderful thing if one does not have to earn one's living at it.'*
 
 > *'The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...' -- Isaac Asimov*
@@ -2795,8 +2799,6 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
 
 > *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
-
-> *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
 
 
