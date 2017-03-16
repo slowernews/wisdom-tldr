@@ -112,7 +112,7 @@ Exceptions to most rules also..
 - [On art and aesthetics](#on-art-and-aesthetics)
 
 
-#### TL;DR 
+### TL;DR 
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
@@ -125,7 +125,7 @@ One last advice (specially for shy people): *'Aim at relying on your network and
 
 
 
-===
+---
 	  __             __                                                
 	 /  |           /                      |      /    /               
 	(   | ___      (     ___       ___  ___| ___ (___    ___  ___  ___ 
@@ -134,7 +134,7 @@ One last advice (specially for shy people): *'Aim at relying on your network and
 
 
 
-###On identity
+### On identity
 
 You are your deeds.
 
@@ -214,8 +214,8 @@ find your context. you don't need to suceed in every context
 
 
 
-===
-###On freedom
+---
+### On freedom
 
 Choose *yourself*. Choose to be independent.<br>
 Tell *your* truth no matter what.
@@ -257,8 +257,8 @@ Never be afraid to stand up for yourself, your friends, or your values, because 
 
 
 
-===
-###On gratefulness and happiness
+---
+### On gratefulness and happiness
 
 'Happiness is not a goal, it is a byproduct.' -- Eleanor Roosevelt
 
@@ -300,7 +300,7 @@ authentic self is a state
 
 
 
-===
+---
 	  __                                         
 	 /  |                               /    /   
 	(   | ___       ___  ___  ___      (___ (___ 
@@ -310,7 +310,7 @@ authentic self is a state
 
 
 
-###On finding a path
+### On finding a path
 
 Cancel your pity party. No one is coming to save you.<br>
 Pull yourself together and take total ownership for everything in your life.
@@ -386,8 +386,8 @@ play to win, not hoping to make it, or why are you doing it? committed to win
 
 
 
-===
-###On comfort and risk
+---
+### On comfort and risk
 
 You need to break rules to achieve anything great.<br>
 Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement.
@@ -435,8 +435,8 @@ develop a tolerance for risk so that you can build up to the scarier activities 
 
 
 
-===
-###On habits and systems
+---
+### On habits and systems
 
 Habits allow [mastery](#on-mastery) and [success](#on-success).<br>
 Consistency doesn’t come from effort, it comes from systems. Decisions compound.
@@ -487,8 +487,8 @@ look at situations as systems. i help to create systems.
 
 
 
-===
-###On improving
+---
+### On improving
 
 Most problems can be solved by graded exposure over time.
 
@@ -580,8 +580,8 @@ I’ve started a list of advice or things I know. Perhaps things I believe I kno
 
 
 
-===
-###On feedback
+---
+### On feedback
 
 Feedback speeds up improvement.<br>
 Mentors are your best source of feedback. Only take advice from them.
@@ -606,8 +606,8 @@ Surround yourself with people who challenge you to be better, not people who are
 
 
 
-===
-###On achieving mastery
+---
+### On achieving mastery
 
 After learning the rules, break them. Only then you can achieve mastery.<br>
 But the path to mastery is a never ending story: skills are perishable.
@@ -648,8 +648,8 @@ HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's alwa
 
 
 
-===
-###On generosity and mentorship
+---
+### On generosity and mentorship
 
 Be generous and share your strengths. Impact the world.
 
@@ -709,8 +709,8 @@ And «givers» attract «takers». Don't let them drain you, you're [free](#on-f
 
 
 
-===
-###On success
+---
+### On success
 
 There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
 Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
@@ -751,7 +751,7 @@ Experiences worth more than material
 
 
 
-===                                                                                                                                 
+---                                                                                                                                 
 	  __                                                                                                                                      __ 
 	 /  |                                                        /                                                                         / /   
 	(   | ___            ___       ___            ___  ___  ___ (___       ___  ___  ___  _ _       _             ___       ___  ___  ___ ( (    
@@ -761,7 +761,7 @@ Experiences worth more than material
 
 
 
-###On stress and health
+### On stress and health
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
 HOWEVER, the origin of most health problems is not physical but mental.
@@ -830,8 +830,8 @@ If you feel powerless/being dominated you will be chronically stressed.
 
 
 
-===
-###On limits, resistance and motivation
+---
+### On limits, resistance and motivation
 
 Your limits are where are your fears.
 
@@ -862,8 +862,8 @@ There are few actual rules. The police aren't coming for you. No one is watching
 
 
 
-===
-###On fear, anger and excuses
+---
+### On fear, anger and excuses
 
 Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
@@ -907,8 +907,8 @@ you will never achieve anything if you allow indecisiveness to lead to inaction.
 
 
 
-===
-###On mistakes and failure
+---
+### On mistakes and failure
 
 Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness):<br>
 Sometimes you win, sometimes you learn. Accept failure as part of the process.
@@ -944,8 +944,8 @@ Calling it an experiment gives you permission to fail. -- A.J. Jacobs
 
 
 
-===
-###On shame
+---
+### On shame
 
 Speaking openly about an imperfection is a sign of strength, not a weakness.<br>
 You are not you think you are: *you are what you hide*.
@@ -974,8 +974,8 @@ You can hide the ugly parts, but you can't make them disappear.
 
 
 
-===
-###On confidence and validation
+---
+### On confidence and validation
 
 If you say it with confidence, you are who you say you are.
 
@@ -1020,7 +1020,7 @@ Confidence is a result, not a requirement
 
 
 
-===
+---
 	  __                                                            
 	 /  |           /      /                        /    /          
 	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___ 
@@ -1030,7 +1030,7 @@ Confidence is a result, not a requirement
 
 
 
-###On networking
+### On networking
 
 Don't isolate yourself. The people you know and whether they like you will determine what opportunities you get.
 
@@ -1096,8 +1096,8 @@ Personal branding means you are a liar
 
 
 
-===
-###On communication
+---
+### On communication
 
 Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
 
@@ -1136,8 +1136,8 @@ It’s a common belief that your first reaction is the most honest, but I disagr
 -->
 
 
-===
-###On business and entrepreneurship
+---
+### On business and entrepreneurship
 
 Business exchanges value for money.<br>
 Focus on areas where you are motivated to add value AND there's demand.
@@ -1215,8 +1215,8 @@ If you only have to be right once, your goal must be to allow yourself many oppo
 
 
 
-===
-###On selling
+---
+### On selling
 
 We're all in sales. You're in sales anytime you interact with anybody.
 
@@ -1273,8 +1273,8 @@ I use to go into job interviews with a story in mind. All an interviewer really 
 
 
 
-===
-###On negotiation and price
+---
+### On negotiation and price
 
 To negotiate is to have options.<br>
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
@@ -1344,8 +1344,8 @@ HOWEVER, always strive to achieve a win-win situation. The deal will fall if bot
 
 
 
-===
-###On relationships
+---
+### On relationships
 
 Relationships are based on mutual [trust](#on-trust).
 
@@ -1380,8 +1380,8 @@ HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run
 
 
 
-===
-###On lovers
+---
+### On lovers
 
 Never love anyone that treats you like you're ordinary.
 
@@ -1412,8 +1412,8 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 
 
 
-===
-###On family and friends
+---
+### On family and friends
 
 You will waste your life trying to make those around into who you want them to be.<br>
 Instead change/filter who you are around. You are the average of the people you surround yourself.
@@ -1446,8 +1446,8 @@ Seek out mentors and friends who are achieving on a higher level than you who ar
 
 
 
-===
-###On rewards
+---
+### On rewards
 
 Be an expert gift giver.
 
@@ -1459,7 +1459,7 @@ Be an expert gift giver.
 
 
 
-===   
+---   
 	  __                                                                                                                  
 	 /  |           /      /                        /    /                       |                /              /        
 	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  _        ___| ___  ___      (___  ___  ___ (     ___ 
@@ -1468,7 +1468,7 @@ Be an expert gift giver.
 
 
 
-###On conflicts
+### On conflicts
 
 Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.<br>
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
@@ -1481,8 +1481,8 @@ Rotten peace builds resentment.'*
 > *'Well-kept gardens die by pacifism.'*
 
 
-===
-###On criticism and envy
+---
+### On criticism and envy
 
 Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck), [beauty](#on-beauty) and a mix of them ([lifestyle](#on-lifestyle)) are the main triggers. 
 
@@ -1525,8 +1525,8 @@ HOWEVER, beware of blindspots, not all criticism is envy.
 
 
 
-===
-###On following the herd
+---
+### On following the herd
 
 Most people are other people. Their thoughts are someone else opinions and they jump to conclusions.
 
@@ -1550,7 +1550,7 @@ HOWEVER, smart people don’t think others are stupid and common sense is not so
 
 
 
-===
+---
 	  __                                    
 	 /  |           /                       
 	(   | ___      (___  ___  ___  _ _  ___ 
@@ -1559,7 +1559,7 @@ HOWEVER, smart people don’t think others are stupid and common sense is not so
 	                                        
 
 
-###On leadership
+### On leadership
 
 Being a leader is different from being a boss. Leadership is based on mutual [trust](#on-trust).
 
@@ -1621,8 +1621,8 @@ a good leader: a) knows when to speak and when don't. b) knows to create a visio
 
 
 
-===
-###On management
+---
+### On management
 
 Management is about communication.<br>
 Being a leader requires to be equal parts manager and psychotherapist.
@@ -1653,8 +1653,8 @@ HOWEVER, a leader needs [humility](#on-identity). Gaining an understanding and g
 
 
 
-===
-###On delegation and productivity
+---
+### On delegation and productivity
 
 Managing is delegating. Your speed as a manager is the speed of the team.<br>
 
@@ -1680,8 +1680,8 @@ The key principle is putting your team’s productivity first. Remember, you are
 
 
 
-===
-###On hiring and keeping talent
+---
+### On hiring and keeping talent
 
 Hire most but only retain the best.
 
@@ -1706,8 +1706,8 @@ everything has to be win win. team members and not employees
 
 
 
-===
-###On being hired
+---
+### On being hired
 
 Employers hire you because you are a likable person that «gets shit done».
 
@@ -1773,8 +1773,8 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 
 
-===
-###On hierarchy
+---
+### On hierarchy
 
 Only comedians can speak the truth without consequences.
 
@@ -1797,7 +1797,7 @@ HOWEVER, don't vow to the gatekeepers.
 > *'Only the truth is funny.' -- Rick Reynolds*
 
 
-===
+---
 	  __                                                                                     
 	 /  |                                         /                          /    /          
 	(   | ___       ___  ___  ___  ___  ___  ___    ___  ___       ___  ___ (___    ___  ___ 
@@ -1807,7 +1807,7 @@ HOWEVER, don't vow to the gatekeepers.
 
 
 
-###On creativity, vision and ideas
+### On creativity, vision and ideas
 
 Always be doing something creative. Without new experiences, your soul rots.
 
@@ -1860,8 +1860,8 @@ You can only truly creative in a position with autonomy, so you either climb the
 
 
 
-===
-###On analysis
+---
+### On analysis
 
 Analysis is an art, not a science.
 
@@ -1926,8 +1926,8 @@ It is possible to view this as an isolated event or a trend
 
 
 
-===
-###On planning and decision making
+---
+### On planning and decision making
 
 Plan ahead and prepare for the highly probable scenarios.<br>
 Make the decisions right now. When in the moment of making the decision, you have already done it.
@@ -2008,7 +2008,7 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 
 
-===
+---
 	  __                                                     
 	 /  |                                    /    /          
 	(   | ___       ___       ___  ___      (___    ___  ___ 
@@ -2018,7 +2018,7 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 
 
-###On starting, right time and procrastination
+### On starting, right time and procrastination
 
 Just start.<br>
 You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
@@ -2079,8 +2079,8 @@ HOWEVER, you should have a [plan](#on-planning).
 
 
 
-===
-###On pace and position
+---
+### On pace and position
 
 Direction is more important than pace.<br>
 Don’t be afraid to take time away to find your direction. 
@@ -2120,8 +2120,8 @@ chess gambits -- exchange material by position-time.
 
 
 
-===
-###On focus and time management
+---
+### On focus and time management
 
 Time itself, is not your limitation. Attention is.<br>
 You’re not managing time, you're managing attention.
@@ -2197,8 +2197,8 @@ And too many decisions will drain you. Attention is the most limited resource.
 
 
 
-===
-###On control
+---
+### On control
 
 Control what you can. Ignore what you can't.
 
@@ -2220,8 +2220,8 @@ HOWEVER,
 
 
 
-===
-###On balance
+---
+### On balance
 
 Life is a balancing act.
 
@@ -2254,8 +2254,8 @@ How to balance an imbalance? Overcompensate.
 
 
 
-===
-###On adapting
+---
+### On adapting
 
 Plans are not static. Adapt or die.<br>
 You need to switch strategies a few times to get where you want to go.
@@ -2288,7 +2288,7 @@ HOWEVER
 
 
 
-===
+---
 	  __                                                     
 	 /  |                                    /    /          
 	(   | ___       ___  ___  _ _  ___  ___ (___    ___  ___ 
@@ -2298,7 +2298,7 @@ HOWEVER
 
 
 
-###On creating imbalances
+### On creating imbalances
 
 Create imbalances in your target to create an advantage and raise chances of winning.<br>
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
@@ -2320,8 +2320,8 @@ HOWEVER, beware of counter-attacking.
 
 
 
-===
-###On charming
+---
+### On charming
 
 Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
@@ -2357,8 +2357,8 @@ HOWEVER, use absence with [moderation](#on-balance).
 
 
 
-===
-###On deceiving
+---
+### On deceiving
 
 'Appear weak when you are strong and strong when you are weak.' -- Sun Tzu
 
@@ -2393,8 +2393,8 @@ the good reason (the reason they tell you) and the real reason.
 
 
 
-===
-###On unpredictability
+---
+### On unpredictability
 
 > *'Conceal your intention.'<br>
 'Say less than necessary.'<br>
@@ -2405,8 +2405,8 @@ HOWEVER, unpredictability can work against you: if you are in a subordinate posi
 
 
 
-===
-###On mirroring
+---
+### On mirroring
 
 Mirroring works best when your group is in minority.
 
@@ -2418,8 +2418,8 @@ Mirroring works best when your group is in minority.
 
 
 
-===
-###On opponents
+---
+### On opponents
 
 1) Beware of easy opponents. Most times it's [bait](#on-charming).
 
@@ -2461,8 +2461,8 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go [a
 
 
 
-===
-###On defeating status quo
+---
+### On defeating status quo
 
 The only successful changes are those coming from within.
 
@@ -2474,7 +2474,7 @@ burocracy prevents low probability events to happen at the expense of making mor
 -->
 
 
-===
+---
 	  __                                      
 	 /  |                        | /          
 	(   | ___       ___  ___  ___|   ___  ___ 
@@ -2484,7 +2484,7 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 
 
-###On finishing
+### On finishing
 
 Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
@@ -2502,8 +2502,8 @@ Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
 
 
-===
-###On winning
+---
+### On winning
 
 It's not just about winning. The way you win sets you up for the next round.
 
@@ -2519,8 +2519,8 @@ It's not just about winning. The way you win sets you up for the next round.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 
-===
-###On surrendering
+---
+### On surrendering
 
 Use this opportunity to re-create yourself.<br>
 'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk
@@ -2532,7 +2532,7 @@ Use this opportunity to re-create yourself.<br>
 
 
 
-===
+---
 	  __                            
 	 /  |           /    /          
 	(   | ___      (___    _ _  ___ 
@@ -2541,7 +2541,7 @@ Use this opportunity to re-create yourself.<br>
 
 
 
-###On past and memory
+### On past and memory
 
 You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
 They are meant to guide you, not to define you or determine your future.
@@ -2568,8 +2568,8 @@ How memory works? People forget by decaying and giving them other stuff to remem
 
 
 
-===
-###On present
+---
+### On present
 
 You will die soon. Act accordingly and don't postpone joy.
 
@@ -2595,8 +2595,8 @@ life is long enough
 
 
 
-===
-###On future
+---
+### On future
 
 Dream big. If your dreams don't scare you, they are not big enough.
 
@@ -2610,7 +2610,7 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 
 
-===
+---
 	  __                                                                         
 	 /  |                                    /         /                         
 	(   | ___       ___  ___                (___  ___    ___  ___  ___  ___  ___ 
@@ -2620,7 +2620,7 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 
 
-###On intelligence and talent
+### On intelligence and talent
 
 Genius and talent are rare, and as such, the most sensitive trigger points for envy.
 
@@ -2634,8 +2634,8 @@ Genius and talent are rare, and as such, the most sensitive trigger points for e
 
 
 
-===
-###On wealth
+---
+### On wealth
 
 Being rich is not counting money all day but being fulfilled.
 
@@ -2652,8 +2652,8 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 
 
 
-===
-###On fame
+---
+### On fame
 
 See fame as a multiplier. If you want to impact the world, be famous.
 
@@ -2662,8 +2662,8 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 
 
-===
-###On luck
+---
+### On luck
 
 Unless you’re winning, life will seem hideously unfair to you.<br>
 Be positive, luck is a pattern and the pendulum will swing back your way eventually.
@@ -2695,8 +2695,8 @@ science of patterns.
 
 
 
-===
-###On beauty
+---
+### On beauty
 
 > *'Beauty is not a gift, it's a burden.'*
 
@@ -2706,8 +2706,8 @@ science of patterns.
 
 
 
-===
-###On lifestyle
+---
+### On lifestyle
 
 'Don't be a plant.'
 
@@ -2731,7 +2731,7 @@ Essentialism: The Disciplined Pursuit of Less
 
 
 
-===
+---
 	  __                          
 	 /  | /    /                  
 	(   |(___ (___  ___  ___  ___ 
@@ -2740,7 +2740,7 @@ Essentialism: The Disciplined Pursuit of Less
 
 
 
-###On investment
+### On investment
 
 Spend less, a lot less, than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
 
@@ -2756,8 +2756,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 
 
-===
-###On economics and politics
+---
+### On economics and politics
 
 'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt
 
@@ -2775,8 +2775,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 
 
-===
-###On science and religion
+---
+### On science and religion
 
 'And on the first day, men created god.'
 
@@ -2802,8 +2802,8 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 
 
-===
-###On art and aesthetics
+---
+### On art and aesthetics
 
 'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso<br>
 That's where «big bucks» are.
