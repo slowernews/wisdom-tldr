@@ -67,9 +67,8 @@ Exceptions to most rules also..
 
 *On executing*
 - [On starting, right time and procrastination](#on-starting-right-time-and-procrastination)
-- [On pace and position](#on-pace-and-position)
-- [On focus and time management](#on-focus-and-time-management)
 - [On pace, position and direction](#on-pace-position-and-direction)
+- [On focus and time management](#on-focus-and-time-management)
 - [On control](#on-control)
 - [On balance](#on-balance)
 - [On adapting](#on-adapting)
@@ -122,7 +121,9 @@ Exceptions to most rules also..
 *'Avoiding conflict will not keep peace, will rot it.'*<br>
 *'Life is a balancing act.'*<br>
 *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
-One practical advice: *'Have more than one child.'*<br>
+
+One practical advice: *'Have more than one child.'*
+
 One last advice (specially for shy people): *'Aim at relying on your network and not at being self-sufficient.'*
 
 
