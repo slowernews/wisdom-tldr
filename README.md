@@ -69,7 +69,7 @@ Exceptions to most rules also..
 - [On starting, right time and procrastination](#on-starting-right-time-and-procrastination)
 - [On pace and position](#on-pace-and-position)
 - [On focus and time management](#on-focus-and-time-management)
-- [On position](#on-position)
+- [On pace, position and direction](#on-pace-position-and-direction)
 - [On control](#on-control)
 - [On balance](#on-balance)
 - [On adapting](#on-adapting)
@@ -2127,10 +2127,10 @@ HOWEVER, you should have a [plan](#on-planning).
 
 
 ---
-### On pace and direction
+### On pace, position and direction
 
 Direction is more important than pace.<br>
-Don’t be afraid to take time away to find your direction. 
+Don’t be afraid to take time away to find it. 
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
