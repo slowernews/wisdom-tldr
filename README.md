@@ -108,7 +108,8 @@ Exceptions to most rules also..
 *Others*
 - [On investment](#on-investment)
 - [On economics and politics](#on-economics-and-politics)
-- [On science and religion](#on-science-and-religion)
+- [On science](#on-science)
+- [On religion](#on-religion)
 - [On art and aesthetics](#on-art-and-aesthetics)
 
 
@@ -116,10 +117,11 @@ Exceptions to most rules also..
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
-3 general advices:<br>
+4 general advices:<br>
 *'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
 *'Avoiding conflict will not keep peace, will rot it.'*<br>
 *'Life is a balancing act.'*<br>
+*'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
 One practical advice: *'Have more than one child.'*<br>
 One last advice (specially for shy people): *'Aim at relying on your network and not at being self-sufficient.'*
 
@@ -245,6 +247,10 @@ The only thing separating you from your wildest dreams and ambitions is that you
 
 You Need to Stand Up for Yourself
 Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears
+
+What is more selfless?
+-Making sure that you are taken care of so that you can take care of others?
+-Or focusing all of your energy on others until you are burnt out, angry, and depressed?
 -->
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
@@ -287,6 +293,8 @@ happiness is inside you, not with another person.
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+> *'Being grateful is looking down.'*
 
 By breaking long term goals you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
@@ -382,6 +390,8 @@ lying in death bed and regretting your life is the worst that can happen to you.
 > *'I miss being the age when i thought I would have my shit together by the time I was the age I am now.'*
 
 play to win, not hoping to make it, or why are you doing it? committed to win
+
+“Your temporary circumstances do not have to become your permanent identity” ~Greg Hartle
 -->
 
 
@@ -411,6 +421,15 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 > *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
 
 <!--
+Avoiding stress is avoiding life.
+
+Reinvention should be an habit not an event.
+
+if you are not growing you are dying
+stepping outside what is easy and embracing discomfort.
+
+risk over safety is the way to pull forward.
+
 Risk Leads to Growth and Excitement
 
 Risk looks different for everyone.
@@ -423,7 +442,7 @@ You will live a life that is filled with more excitement and fulfillment the mor
 
 > *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
 
-“The size of our life is in direct proportion to how uncomfortable we are willing to be”
+> *'The size of our life is in direct proportion to how uncomfortable we are willing to be'*
 
 1. To Improve Your Life, You First First Become Uncomfortable
 If you want to improve the quality of your life, then start by improving your tolerance for risk and adversity.
@@ -431,6 +450,10 @@ Because almost everything that you want is on the other side of the uncomfortabl
 
 Adventure Comes from Percieved Risk, Not Peril
 develop a tolerance for risk so that you can build up to the scarier activities later.
+
+> *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
+
+I sort of became comfortable with being uncomfortable to the point where now…if I start getting comfortable, I feel like I’m not learning anything and that I might be in a bubble.
 -->
 
 
@@ -438,7 +461,7 @@ develop a tolerance for risk so that you can build up to the scarier activities 
 ---
 ### On habits and systems
 
-Habits allow [mastery](#on-mastery) and [success](#on-success).<br>
+Habits allow [mastery](#on-achieving-mastery) and [success](#on-success).<br>
 Consistency doesn’t come from effort, it comes from systems. Decisions compound.
 
 > *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
@@ -455,6 +478,8 @@ Avoid low value systems: social media, news, owning a TV, working long hours, co
 > *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.' -- Allen Tucker*
 
 > *'It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
+
+However, while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
 mental checklist of positive habits.
@@ -475,6 +500,8 @@ b. One new thing: learn at least one new thing everyday. Read, watch a documenta
 c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 d. Gratitude
 
+when you wake up, ensure that your morning is run by systems instead of feelings.
+
 don't focus in productivity.
 productivity coach vs creativity coach.
 i hired a 23 year old coach.
@@ -483,6 +510,8 @@ optimize for time and peace of mind.
 goals and systems
 
 look at situations as systems. i help to create systems.
+
+Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
 -->
 
 
@@ -519,6 +548,8 @@ You improve by:<br>
 > *'Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.' -- Chinese proverb*
 
 > *'Welcome the attacks of your enemies for how much they improve your work and toughen you up.'*
+
+> *'The difference between theory and practice: in theory, there's no difference between theory and practice; in practice, there is.' -- Van de Snepscheut*
 
 <!--
 deliberated practice
@@ -712,7 +743,7 @@ And «givers» attract «takers». Don't let them drain you, you're [free](#on-f
 ---
 ### On success
 
-There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits).<br>
+There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits-and-systems).<br>
 Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
@@ -808,6 +839,8 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
 
 > *'I've decided to be happy because it is good to my health.'*
+
+> *'If I knew I was going to live this long, I would have taken better care of myself.' -- Mickey Mantle*
 
 <!-- 
 You can’t perform under pain, stress, etc. without adequate capacity. That capacity is physical.
@@ -932,6 +965,8 @@ Sometimes you win, sometimes you learn. Accept failure as part of the process.
 > *'When you don't know something you will pay for it. That's the stupidity tax.'*
 
 > *'Prove all things; hold fast that which is good.' -- 1 Thessalonians 5:21*
+
+> *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
 
 <!--
 failures are flip-sides of our strengths
@@ -1155,6 +1190,8 @@ Focus on areas where you are motivated to add value AND there's demand.
 > *'Scratch your own itch it's good only as a start.'*
 
 > *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
+
+> *'Sara Blakely used the word «empower» several times. Spanx clothes gives women more confidence. Empowers women. The Belly Art Project empowers pregnant women'*
 
 Validate your business by finding paying clients.
 
@@ -1738,7 +1775,9 @@ So avoid the trap of following one set career path. It will be easier to pivot w
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
-'My luggage is always ready.'
+> *'The boss wants the most sophisticated talent he can get, and he doesn't want to pay anything for it. Every penny he pays, and every second of your life he doesn't get for it, is a failure in his eyes.'*
+
+> *'My luggage is always ready.'*
 
 > *'People pivot to near areas, combining two skills.'*
 
@@ -1847,6 +1886,10 @@ negative inspiration (things that don't work) - positive inspiration!
 ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
 
 Creativity is a muscle - you have to practice it every day.
+
+> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
+
+Once creativity stays the same, it is no longer creative.
 -->
 
 Creativity is linked to autonomy.
@@ -1855,8 +1898,6 @@ Creativity is linked to autonomy.
 In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.<br>
 In executive position, visionary, maverick, multidisciplinary thinker, etc.<br>
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
-
-
 
 
 
@@ -1876,6 +1917,8 @@ And, as such, error-prone:
 a) randomness;
 
 > *'Most facts are a «tell» but some are just random.'*
+
+> *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
 c) [being deceived](#on-deceiveness);
 
@@ -1944,8 +1987,6 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
 
-> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
-
 > *'You have choices. Choices are experiments.'*
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
@@ -1978,6 +2019,10 @@ Without this clarity, you will find yourself wandering aimlessly for years, or e
 
 -->
 
+Detach emotions from your decision-making process.
+
+> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
+
 How to plan: start with a [vision](#on-creativity-vision-and-ideas).
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
@@ -1993,7 +2038,9 @@ HINTS:
 > *'Choose the plan with more options. The one that lets you change plan.'*
 
 > *'Look for actionable steps.'*
- 
+
+> *'A well defined problem seeks its own solution' -- Mike Brundant*
+
 HOWEVER, some people get paralyzed by [over thinking](#on-starting-and-timing).
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
@@ -2080,12 +2127,14 @@ HOWEVER, you should have a [plan](#on-planning).
 
 
 ---
-### On pace and position
+### On pace and direction
 
 Direction is more important than pace.<br>
 Don’t be afraid to take time away to find your direction. 
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
+
+> *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
 
 > *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
 
@@ -2727,6 +2776,10 @@ weekly design session - think on longer term
 reactive to proactive life
 start where do you have control of. go slowly over time.
 Essentialism: The Disciplined Pursuit of Less
+
+/r/buyitforlife
+
+using simpler tools to force simplicity is very interesting
 -->
 
 
@@ -2754,6 +2807,10 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Wherever oil goes, the stock market goes.'*
 
+<!--
+It is often said that the secret to getting rich is not to make more money, but to keep it.
+-->
+
 
 
 ---
@@ -2776,11 +2833,7 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 
 ---
-### On science and religion
-
-'And on the first day, men created god.'
-
-> *'Science without religion is lame. Religion without science is blind.'*
+### On science
 
 > *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
 
@@ -2795,6 +2848,15 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 > *'The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...' -- Isaac Asimov*
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.'*
+
+
+
+---
+### On religion
+
+'And on the first day, men created god.'
+
+> *'Science without religion is lame. Religion without science is blind.'*
 
 > *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
 
