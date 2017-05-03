@@ -8,110 +8,110 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On identity](part-1-self.md)
-- [On freedom](part-1-self.md#on-freedom)
-- [On gratefulness and happiness](part-1-self.md#on-gratefulness-and-happiness)
+- [On identity](1-self.md)
+- [On freedom](1-self.md#on-freedom)
+- [On gratefulness and happiness](1-self.md#on-gratefulness-and-happiness)
 
 *On growth*
-- [On finding a path](part-1-self.md#on-finding-a-path)
-- [On comfort and risk](part-1-self.md#on-comfort-and-risk)
-- [On habits and systems](part-1-self.md#on-habits-and-systems)
-- [On improving](part-1-self.md#on-improving)
-- [On feedback](part-1-self.md#on-feedback)
-- [On achieving mastery](part-1-self.md#on-achieving-mastery)
-- [On generosity and mentorship](part-1-self.md#on-generosity-and-mentorship)
-- [On success](part-1-self.md#on-success)
+- [On finding a path](1-self.md#on-finding-a-path)
+- [On comfort and risk](1-self.md#on-comfort-and-risk)
+- [On habits and systems](1-self.md#on-habits-and-systems)
+- [On improving](1-self.md#on-improving)
+- [On feedback](1-self.md#on-feedback)
+- [On achieving mastery](1-self.md#on-achieving-mastery)
+- [On generosity and mentorship](1-self.md#on-generosity-and-mentorship)
+- [On success](1-self.md#on-success)
 
 *On your worst enemy: yourself*
-- [On stress and health](part-1-self.md#on-stress-and-health)
-- [On limits, resistance and motivation](part-1-self.md#on-limits-resistance-and-motivation)
-- [On fear, anger and excuses](part-1-self.md#on-fear-anger-and-excuses)
-- [On mistakes and failure](part-1-self.md#on-mistakes-and-failure)
-- [On shame](part-1-self.md#on-shame)
-- [On confidence and validation](part-1-self.md#on-confidence-and-validation)
+- [On stress and health](1-self.md#on-stress-and-health)
+- [On limits, resistance and motivation](1-self.md#on-limits-resistance-and-motivation)
+- [On fear, anger and excuses](1-self.md#on-fear-anger-and-excuses)
+- [On mistakes and failure](1-self.md#on-mistakes-and-failure)
+- [On shame](1-self.md#on-shame)
+- [On confidence and validation](1-self.md#on-confidence-and-validation)
 
 
 ### Part 2 - Groups
 
 
 *On interactions*
-- [On networking](part-2-groups.md)
-- [On communication](part-2-groups.md#on-communication)
-- [On business and entrepreneurship](part-2-groups.md#on-business-and-entrepreneurship)
-- [On selling](part-2-groups.md#on-selling)
-- [On negotiation and price](part-2-groups.md#on-negotiation-and-price)
-- [On relationships](part-2-groups.md#on-relationships)
-- [On lovers](part-2-groups.md#on-lovers)
-- [On family and friends](part-2-groups.md#on-family-and-friends)
-- [On rewards](part-2-groups.md#on-rewards) 
+- [On networking](2-groups.md)
+- [On communication](2-groups.md#on-communication)
+- [On business and entrepreneurship](2-groups.md#on-business-and-entrepreneurship)
+- [On selling](2-groups.md#on-selling)
+- [On negotiation and price](2-groups.md#on-negotiation-and-price)
+- [On relationships](2-groups.md#on-relationships)
+- [On lovers](2-groups.md#on-lovers)
+- [On family and friends](2-groups.md#on-family-and-friends)
+- [On rewards](2-groups.md#on-rewards) 
 
 *On interactions: drawbacks*
-- [On conflicts](part-2-groups.md#on-conflicts)
-- [On criticism and envy](part-2-groups.md#on-criticism-and-envy)
-- [On following the herd](part-2-groups.md#on-following-the-herd)
+- [On conflicts](2-groups.md#on-conflicts)
+- [On criticism and envy](2-groups.md#on-criticism-and-envy)
+- [On following the herd](2-groups.md#on-following-the-herd)
 
 *On teams*
-- [On leadership](part-2-groups.md#on-leadership)
-- [On management](part-2-groups.md#on-management)
-- [On delegation and productivity](part-2-groups.md#on-delegation-and-productivity)
-- [On hiring and keeping talent](part-2-groups.md#on-hiring-and-keeping-talent)
-- [On being hired](part-2-groups.md#on-being-hired)
-- [On hierarchy](part-2-groups.md#on-hierarchy)
+- [On leadership](2-groups.md#on-leadership)
+- [On management](2-groups.md#on-management)
+- [On delegation and productivity](2-groups.md#on-delegation-and-productivity)
+- [On hiring and keeping talent](2-groups.md#on-hiring-and-keeping-talent)
+- [On being hired](2-groups.md#on-being-hired)
+- [On hierarchy](2-groups.md#on-hierarchy)
 
 
 ### Part 3 - Action
 
 
 *On preparing action*
-- [On creativity, vision and ideas](part-3-action.md)
-- [On analysis](part-3-action.md#on-analysis)
-- [On planning and decision making](part-3-action.md#on-planning-and-decision-making)
+- [On creativity, vision and ideas](3-action.md)
+- [On analysis](3-action.md#on-analysis)
+- [On planning and decision making](3-action.md#on-planning-and-decision-making)
 
 *On executing*
-- [On starting, right time and procrastination](part-3-action.md#on-starting-right-time-and-procrastination)
-- [On pace, position and direction](part-3-action.md#on-pace-position-and-direction)
-- [On focus and time management](part-3-action.md#on-focus-and-time-management)
-- [On control](part-3-action.md#on-control)
-- [On balance](part-3-action.md#on-balance)
-- [On adapting](part-3-action.md#on-adapting)
+- [On starting, right time and procrastination](3-action.md#on-starting-right-time-and-procrastination)
+- [On pace, position and direction](3-action.md#on-pace-position-and-direction)
+- [On focus and time management](3-action.md#on-focus-and-time-management)
+- [On control](3-action.md#on-control)
+- [On balance](3-action.md#on-balance)
+- [On adapting](3-action.md#on-adapting)
 
 *On competing*
-- [On creating imbalances](part-3-action.md#on-creating-imbalances)
-- [On charming](part-3-action.md#on-charming)
-- [On deceiving](part-3-action.md#on-deceiving)
-- [On unpredictability](part-3-action.md#on-unpredictability)
-- [On mirroring](part-3-action.md#on-mirroring)
-- [On opponents](part-3-action.md#on-opponents)
-- [On defeating status quo](part-3-action.md#on-defeating-status-quo)
+- [On creating imbalances](3-action.md#on-creating-imbalances)
+- [On charming](3-action.md#on-charming)
+- [On deceiving](3-action.md#on-deceiving)
+- [On unpredictability](3-action.md#on-unpredictability)
+- [On mirroring](3-action.md#on-mirroring)
+- [On opponents](3-action.md#on-opponents)
+- [On defeating status quo](3-action.md#on-defeating-status-quo)
 
 *On ending*
-- [On finishing](part-3-action.md#on-finishing)
-- [On winning](part-3-action.md#on-winning)
-- [On surrendering](part-3-action.md#on-surrendering)
+- [On finishing](3-action.md#on-finishing)
+- [On winning](3-action.md#on-winning)
+- [On surrendering](3-action.md#on-surrendering)
 
 
 ### Bonus
 
 
 *On time*
-- [On past and memory](part-bonus.md)
-- [On present](part-bonus.md#on-present)
-- [On future](part-bonus.md#on-future)
+- [On past and memory](bonus.md)
+- [On present](bonus.md#on-present)
+- [On future](bonus.md#on-future)
 
 *On envy triggers*
-- [On intelligence and talent](part-bonus.md#on-intelligence-and-talent)
-- [On wealth](part-bonus.md#on-wealth)
-- [On fame](part-bonus.md#on-fame)
-- [On luck](part-bonus.md#on-luck)
-- [On beauty](part-bonus.md#on-beauty)
-- [On lifestyle](part-bonus.md#on-lifestyle)
+- [On intelligence and talent](bonus.md#on-intelligence-and-talent)
+- [On wealth](bonus.md#on-wealth)
+- [On fame](bonus.md#on-fame)
+- [On luck](bonus.md#on-luck)
+- [On beauty](bonus.md#on-beauty)
+- [On lifestyle](bonus.md#on-lifestyle)
 
 *Others*
-- [On investment](part-bonus.md#on-investment)
-- [On economics and politics](part-bonus.md#on-economics-and-politics)
-- [On science](part-bonus.md#on-science)
-- [On religion](part-bonus.md#on-religion)
-- [On art and aesthetics](part-bonus.md#on-art-and-aesthetics)
+- [On investment](bonus.md#on-investment)
+- [On economics and politics](bonus.md#on-economics-and-politics)
+- [On science](bonus.md#on-science)
+- [On religion](bonus.md#on-religion)
+- [On art and aesthetics](bonus.md#on-art-and-aesthetics)
 
 
 ### TL;DR 
