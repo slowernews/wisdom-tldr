@@ -94,24 +94,24 @@ Exceptions to most rules also..
 
 
 *On time*
-- [On past and memory](bonus.md)
-- [On present](bonus.md#on-present)
-- [On future](bonus.md#on-future)
+- [On past and memory](part-bonus.md)
+- [On present](part-bonus.md#on-present)
+- [On future](part-bonus.md#on-future)
 
 *On envy triggers*
-- [On intelligence and talent](bonus.md#on-intelligence-and-talent)
-- [On wealth](bonus.md#on-wealth)
-- [On fame](bonus.md#on-fame)
-- [On luck](bonus.md#on-luck)
-- [On beauty](bonus.md#on-beauty)
-- [On lifestyle](bonus.md#on-lifestyle)
+- [On intelligence and talent](part-bonus.md#on-intelligence-and-talent)
+- [On wealth](part-bonus.md#on-wealth)
+- [On fame](part-bonus.md#on-fame)
+- [On luck](part-bonus.md#on-luck)
+- [On beauty](part-bonus.md#on-beauty)
+- [On lifestyle](part-bonus.md#on-lifestyle)
 
 *Others*
-- [On investment](bonus.md#on-investment)
-- [On economics and politics](bonus.md#on-economics-and-politics)
-- [On science](bonus.md#on-science)
-- [On religion](bonus.md#on-religion)
-- [On art and aesthetics](bonus.md#on-art-and-aesthetics)
+- [On investment](part-bonus.md#on-investment)
+- [On economics and politics](part-bonus.md#on-economics-and-politics)
+- [On science](part-bonus.md#on-science)
+- [On religion](part-bonus.md#on-religion)
+- [On art and aesthetics](part-bonus.md#on-art-and-aesthetics)
 
 
 ### TL;DR 
