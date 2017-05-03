@@ -8,7 +8,7 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On identity](part-1-self.md#on-identity)
+- [On identity](part-1-self.md)
 - [On freedom](part-1-self.md#on-freedom)
 - [On gratefulness and happiness](part-1-self.md#on-gratefulness-and-happiness)
 
@@ -35,7 +35,7 @@ Exceptions to most rules also..
 
 
 *On interactions*
-- [On networking](part-2-groups.md#on-networking)
+- [On networking](part-2-groups.md)
 - [On communication](part-2-groups.mdpart-1-self.md#on-communication)
 - [On business and entrepreneurship](part-2-groups.mdpart-1-self.md#on-business-and-entrepreneurship)
 - [On selling](part-2-groups.mdpart-1-self.md#on-selling)
@@ -63,7 +63,7 @@ Exceptions to most rules also..
 
 
 *On preparing action*
-- [On creativity, vision and ideas](part-3-action.md#on-creativity-vision-and-ideas)
+- [On creativity, vision and ideas](part-3-action.md)
 - [On analysis](part-3-action.md#on-analysis)
 - [On planning and decision making](part-3-action.md#on-planning-and-decision-making)
 
@@ -94,7 +94,7 @@ Exceptions to most rules also..
 
 
 *On time*
-- [On past and memory](bonus.md#on-past-and-memory)
+- [On past and memory](bonus.md)
 - [On present](bonus.md#on-present)
 - [On future](bonus.md#on-future)
 
