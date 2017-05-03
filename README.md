@@ -90,28 +90,28 @@ Exceptions to most rules also..
 - [On surrendering](3-action.md#on-surrendering)
 
 
-### Bonus
+### 4-bonus
 
 
 *On time*
-- [On past and memory](bonus.md)
-- [On present](bonus.md#on-present)
-- [On future](bonus.md#on-future)
+- [On past and memory](4-bonus.md)
+- [On present](4-bonus.md#on-present)
+- [On future](4-bonus.md#on-future)
 
 *On envy triggers*
-- [On intelligence and talent](bonus.md#on-intelligence-and-talent)
-- [On wealth](bonus.md#on-wealth)
-- [On fame](bonus.md#on-fame)
-- [On luck](bonus.md#on-luck)
-- [On beauty](bonus.md#on-beauty)
-- [On lifestyle](bonus.md#on-lifestyle)
+- [On intelligence and talent](4-bonus.md#on-intelligence-and-talent)
+- [On wealth](4-bonus.md#on-wealth)
+- [On fame](4-bonus.md#on-fame)
+- [On luck](4-bonus.md#on-luck)
+- [On beauty](4-bonus.md#on-beauty)
+- [On lifestyle](4-bonus.md#on-lifestyle)
 
 *Others*
-- [On investment](bonus.md#on-investment)
-- [On economics and politics](bonus.md#on-economics-and-politics)
-- [On science](bonus.md#on-science)
-- [On religion](bonus.md#on-religion)
-- [On art and aesthetics](bonus.md#on-art-and-aesthetics)
+- [On investment](4-bonus.md#on-investment)
+- [On economics and politics](4-bonus.md#on-economics-and-politics)
+- [On science](4-bonus.md#on-science)
+- [On religion](4-bonus.md#on-religion)
+- [On art and aesthetics](4-bonus.md#on-art-and-aesthetics)
 
 
 ### TL;DR 
