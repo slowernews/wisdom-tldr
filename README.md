@@ -36,14 +36,14 @@ Exceptions to most rules also..
 
 *On interactions*
 - [On networking](part-2-groups.md)
-- [On communication](part-2-groups.mdpart-1-self.md#on-communication)
-- [On business and entrepreneurship](part-2-groups.mdpart-1-self.md#on-business-and-entrepreneurship)
-- [On selling](part-2-groups.mdpart-1-self.md#on-selling)
-- [On negotiation and price](part-2-groups.mdpart-1-self.md#on-negotiation-and-price)
-- [On relationships](part-2-groups.mdpart-1-self.md#on-relationships)
-- [On lovers](part-2-groups.mdpart-1-self.md#on-lovers)
-- [On family and friends](part-2-groups.mdpart-1-self.md#on-family-and-friends)
-- [On rewards](part-2-groups.mdpart-1-self.md#on-rewards) 
+- [On communication](part-2-groups.md#on-communication)
+- [On business and entrepreneurship](part-2-groups.md#on-business-and-entrepreneurship)
+- [On selling](part-2-groups.md#on-selling)
+- [On negotiation and price](part-2-groups.md#on-negotiation-and-price)
+- [On relationships](part-2-groups.md#on-relationships)
+- [On lovers](part-2-groups.md#on-lovers)
+- [On family and friends](part-2-groups.md#on-family-and-friends)
+- [On rewards](part-2-groups.md#on-rewards) 
 
 *On interactions: drawbacks*
 - [On conflicts](part-2-groups.md#on-conflicts)
