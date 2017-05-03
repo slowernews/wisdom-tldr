@@ -1,4 +1,6 @@
-Rse[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from quotes that match *my* biased experience.<br>
+# Wisdom TLDR Guide
+
+[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) skeptically distilled from quotes that match *my* biased experience.<br>
 Exceptions to most rules also..
 
 
@@ -6,7 +8,7 @@ Exceptions to most rules also..
 
 
 *On foundations*
-- [On identity](#on-identity)
+- [On identity](part-1-self.md#on-identity)
 - [On freedom](part-1-self.md#on-freedom)
 - [On gratefulness and happiness](part-1-self.md#on-gratefulness-and-happiness)
 
