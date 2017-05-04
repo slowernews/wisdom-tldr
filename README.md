@@ -148,7 +148,7 @@ You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.'*
 
-Living is choosing:
+Living is choosing.
 
 a) Choose to be your best self. You need to come alive.<br>
 Succeeding at mediocrity isn't a worthwhile life.
@@ -780,7 +780,7 @@ Experiences worth more than material
 
 
 ---                                                                                                                                 
-# On your worst enemy: yourself
+# 1.3 - On your worst enemy: yourself
 
 ### On stress and health
 
@@ -796,7 +796,9 @@ HOWEVER, the origin of most health problems is not physical but mental.
 Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).<br>
 The more relaxed you are, the better you are at everything.
 
-> *'Under-stimulation (boredom) / right amount of stress (hustling = stretching comfort zone) / over-stimulation (anxiety)'*
+> *'Under-stimulation = boredom<br>
+right amount of stress = hustling (stretching comfort zone)
+over-stimulation = anxiety'*
 
 <!--
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
@@ -920,7 +922,6 @@ Be careful not to let fear paralyze you either.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
 
 > *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
-
 
 Break Down Your Fears Until You Figure Out the Truth
 we stuck in the fear of consequences
@@ -1058,12 +1059,12 @@ Confidence is a result, not a requirement
 
 Don't isolate yourself. The people you know and whether they like you will determine what opportunities you get.
 
+> *'The purpose of high education is first and foremost to meet people and build relationships.'*
+
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'<br>
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
-
-> *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
 > *'You're never too old to make a friend. Always be looking for a new one.'*
 
@@ -1082,7 +1083,6 @@ shark, dolphin, drowner'*
 
 
 <!--
-
 building a network is critical
 
 3) Find out what people actually want
@@ -1137,7 +1137,8 @@ Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
 
 > *'Judge a man by his questions, not by his answers.'*
 
-Learn how to talk to people: smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of your accomplishments, never be stubborn and listen.
+How talk to people?<br>
+Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of accomplishments, don't be stubborn and listen.
 
 > *'Rambling and not smiling are two things to get better speaking to anybody.'*
 
@@ -1220,7 +1221,6 @@ how to purge to do list and focus right now
 Most items were already purged.
 
 hot to make, how to keep, how to grow money
-
 
 4. Focus on Revenue Generating Activities
 
@@ -1418,19 +1418,22 @@ Never love anyone that treats you like you're ordinary.
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
-HINT: keep separate bank accounts.
-
-> *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
-
 HOWEVER
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
+HINTS: keep separate bank accounts.
+
+> *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
+
 <!--
-If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
-You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.R
+How to move on?
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+
+
+If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
+You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.R
 -->
 
 
@@ -1438,33 +1441,33 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 ---
 ### On family and friends
 
-You will waste your life trying to make those around into who you want them to be.<br>
-Instead change/filter who you are around. You are the average of the people you surround yourself.
+You need to build your board of directors. Life is meant to be lived in community.
+
+> *'Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
-> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
+You will waste your life trying to make those around into who you want them to be.<br>
+Instead change/filter who you are around. You are the average of the people you surround yourself.
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
-> *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
-
-<!--
-You need to build your board of directors. Life is meant to be lived in community.
-
-But keep your friends for friendship, work with the skilled and competent.
-
 > *'Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.'*
 
-you're never a prophet in your homeland.
+HOWEVER..
 
-> *'Work friends are just that, work friends. Nothing more.'*
+> *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
-Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.
+> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
+
+<!--
+But keep your friends for friendship, work with the skilled and competent.
+
+you're never a prophet in your homeland.
 -->
 
 
@@ -1496,6 +1499,7 @@ Rotten peace builds resentment.'*
 > *'I am either part of the solution or part of the problem.'*
 
 > *'Well-kept gardens die by pacifism.'*
+
 
 
 ---
@@ -1751,7 +1755,7 @@ So avoid the trap of following one set career path. It will be easier to pivot w
 
 > *'The boss wants the most sophisticated talent he can get, and he doesn't want to pay anything for it. Every penny he pays, and every second of your life he doesn't get for it, is a failure in his eyes.'*
 
-> *'My luggage is always ready.'*
+> *'My luggage is always ready.' -- Portuguese soccer coach*
 
 > *'People pivot to near areas, combining two skills.'*
 
@@ -1789,25 +1793,27 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 ---
 ### On hierarchy
 
-Only comedians can speak the truth without consequences.
+Only comedians can speak the truth without consequences. Everything is hierarchy.
 
 > *'Never outshine the master.'<br>
 'Know who you’re dealing with: do not offend the wrong person.'<br>
 'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
 
-> *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Read books written by managers for managers. Their actions aren't random or stupid.'*
+> *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren't random or stupid.'*
 
 > *'Higher the status, more exposure to parasites whose transmission isn't environmentally mediated.'*
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-> *'Everything is hierarchy. Social cartography: who's the decision maker, to whom people are speaking and who is speaking.'*
+> *'Social cartography: who's the decision maker, to whom people are speaking and who is speaking.'*
 
 HOWEVER, don't vow to the gatekeepers.
 
 > *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
 
 > *'Only the truth is funny.' -- Rick Reynolds*
+
+
 
 ---
 	  __                                      __            __                       
@@ -2484,6 +2490,7 @@ Make a non-violent revolution: low risk will make more people to participate.' -
 <!--
 burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happyness from them.
 -->
+
 
 
 ---
