@@ -210,7 +210,7 @@ do you want short term popularity or long term respect
 
 > *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
 
-HOWEVER, live in accordance with your nature. If you try to be something you're not, you end up being nothing.
+HOWEVER... live in accordance with your nature. If you try to be something you're not, you end up being nothing.
 
 > *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker*
 
@@ -368,7 +368,7 @@ Step 3: Use envy
 
 > *'How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.' -- Allen Tucker*
 
-HOWEVER, don't be thirsty: the [journey](#on-gratefulness-and-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
+HOWEVER... don't be thirsty: the [journey](#on-gratefulness-and-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
 
 If You Are Not Growing You Are Dying
 Life is about constant and never-ending growth.
@@ -476,7 +476,7 @@ Avoid low value systems: social media, news, owning a TV, working long hours, co
 
 > *'It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
 
-However, while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
+HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
 mental checklist of positive habits.
@@ -584,7 +584,7 @@ HINT: Take moments to be reflective and examine your failures. It will help you 
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
-HOWEVER, action not knowledge leads to [success](#on-success).
+HOWEVER... action not knowledge leads to [success](#on-success).
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
@@ -666,7 +666,7 @@ trade-able skills: figure out what skills you already have that you can charge f
 > *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
 -->
 
-HOWEVER, mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
+HOWEVER... mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
@@ -725,7 +725,7 @@ Then, and only then, will you be fully equipped and able to serve others to your
 Pete and his wife pay their son for each mile he rides his bike (with interest on what he decides not to spend).
 -->
 
-HOWEVER, some people are not ready to have a mentor and accept your vision.
+HOWEVER... some people are not ready to have a mentor and accept your vision.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -749,7 +749,7 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
-HOWEVER, [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
+HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
 
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
 
@@ -785,7 +785,7 @@ Experiences worth more than material
 ### On stress and health
 
 Take care of your body. It’s the most important thing you’ll get for free.<br>
-HOWEVER, the origin of most health problems is not physical but mental.
+HOWEVER... the origin of most health problems is not physical but mental.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
 
@@ -864,7 +864,7 @@ Your limits are where are your fears.
 
 > *'The only person standing in your way is you.' -- Black Swan*
 
-HOWEVER, your level of success will seldom exceed your level of personal development.
+HOWEVER... your level of success will seldom exceed your level of personal development.
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).' -- Archilochus*
 
@@ -1027,7 +1027,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-<a id="on-arrogance"></a>HOWEVER, know the frontier between confidence and arrogance.
+<a id="on-arrogance"></a>HOWEVER... know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 
@@ -1070,7 +1070,7 @@ Don't isolate yourself. The people you know and whether they like you will deter
 
 > *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
-HINTS:
+HINTS...
 
 > *'Networking types: advocates a, boomerang b, celebrities c, drainers d<br>
 shark, dolphin, drowner'*
@@ -1359,7 +1359,7 @@ That said, a bad/good negotiation means that you are adding more/less value to t
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
-HOWEVER, always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
+HOWEVER... always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.'*
 
@@ -1385,7 +1385,7 @@ we build trust through presence. leadership is based on trust.
 on a deep relationship, politics must match
 -->
 
-HOWEVER, after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
+HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
 
 > *'Don't hide your feelings from people who show you theirs.'*
 
@@ -1418,11 +1418,11 @@ Never love anyone that treats you like you're ordinary.
 First, your observations, or what you have noticed is happening in your relationship.<br>
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
-HOWEVER
+HOWEVER...
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-HINTS: keep separate bank accounts.
+HINTS... keep separate bank accounts.
 
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
@@ -1456,7 +1456,7 @@ Instead change/filter who you are around. You are the average of the people you 
 
 > *'Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.'*
 
-HOWEVER..
+HOWEVER...
 
 > *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
 
@@ -1534,7 +1534,7 @@ Only take advice from [those who are achieving what you want to achieve](#on-fee
 
 > *'Consensus happens just in the beginning and in the end of something.'*
 
-HOWEVER, beware of blindspots, not all criticism is envy.
+HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
 
@@ -1563,7 +1563,7 @@ Most people are other people. Their thoughts are someone else opinions and they 
 
 > *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
 
-HOWEVER, smart people don’t think others are stupid and common sense is not so common.
+HOWEVER... smart people don’t think others are stupid and common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
 
@@ -1600,7 +1600,7 @@ People want leadership because they want autonomy and influence.
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
-HOWEVER,
+HOWEVER...
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
@@ -1664,7 +1664,7 @@ Ask instead of telling. If feedback is needed, give a reason.
 
 > *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
 
-HOWEVER, a leader needs [humility](#on-identity). Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
+HOWEVER... a leader needs [humility](#on-identity). Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
 
 
@@ -1740,7 +1740,7 @@ To be employed, you'll do better as a specialist. If you pick the right speciali
 
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
-HOWEVER, having a job is risky: companies don't care about you.<br>
+HOWEVER... having a job is risky: companies don't care about you.<br>
 So avoid the trap of following one set career path. It will be easier to pivot when needed.
 
 > *'I work for money, if you want loyalty hire a dog.'*
@@ -1807,7 +1807,7 @@ Only comedians can speak the truth without consequences. Everything is hierarchy
 
 > *'Social cartography: who's the decision maker, to whom people are speaking and who is speaking.'*
 
-HOWEVER, don't vow to the gatekeepers.
+HOWEVER... don't vow to the gatekeepers.
 
 > *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
 
@@ -1926,7 +1926,7 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
-HINTS:
+HINTS...
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
@@ -2008,7 +2008,7 @@ How to plan: start with a [vision](#on-creativity-vision-and-ideas).
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-HINTS:
+HINTS...
 
 > *'Choose the plan with more options. The one that lets you change plan.'*
 
@@ -2016,7 +2016,7 @@ HINTS:
 
 > *'A well defined problem seeks its own solution' -- Mike Brundant*
 
-HOWEVER, some people get paralyzed by [over thinking](#on-starting-and-timing).
+HOWEVER... some people get paralyzed by [over thinking](#on-starting-and-timing).
 
 > *'Don’t think too much, you’ll create a problem that wasn’t there in the first place.'*
 
@@ -2094,7 +2094,7 @@ You will languish if you stop for a long time.
 
 > *'Perfectionism leads to procrastination, which leads to paralysis.'*
 
-HOWEVER, you should have a [plan](#on-planning).
+HOWEVER... you should have a [plan](#on-planning).
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
@@ -2181,7 +2181,7 @@ First the essential. Then the details.
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-HINTS:
+HINTS...
 
 > *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.'*
 
@@ -2192,7 +2192,7 @@ HINTS:
 > *'Focus. Do one thing really well. Solve one problem with one solution.<br>
 Focus on the one thing most likely to get maximum results. Forget everything else.'*
 
-HOWEVER, 
+HOWEVER... 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
@@ -2234,7 +2234,7 @@ Control what you can. Ignore what you can't.
 
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 
-HOWEVER,
+HOWEVER...
 
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
 
@@ -2323,7 +2323,7 @@ and [bait](#on-charming). Some opponents may require special tools.
 
 > *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
 
-HOWEVER, beware of counter-attacking.
+HOWEVER... beware of counter-attacking.
 
 > *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
 
@@ -2369,7 +2369,7 @@ Use absence and bait to attract people.
 
 > *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
 
-HOWEVER, use absence with [moderation](#on-balance).
+HOWEVER... use absence with [moderation](#on-balance).
 
 > *'If you're always absent, soon you'll not be needed.'*
 
@@ -2389,7 +2389,7 @@ HOWEVER, use absence with [moderation](#on-balance).
 
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
-HOWEVER, deceiving is not lying.
+HOWEVER... deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
 
@@ -2419,7 +2419,7 @@ the good reason (the reason they tell you) and the real reason.
 'Keep others in suspended terror: cultivate an air of unpredictability.'<br>
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
-HOWEVER, unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+HOWEVER... unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
 
 
@@ -2457,7 +2457,7 @@ And desperate opponents will risk anything in a fight. This gives them a huge ad
 
 > *'Our fearlessness shall be our secret weapon.' -- John Green* 
 
-HOWEVER, there are same people acting stupid. Easy wins if you can identify them.
+HOWEVER... there are same people acting stupid. Easy wins if you can identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
@@ -2690,7 +2690,7 @@ Be positive, luck is a pattern and the pendulum will swing back your way eventua
 What’s the difference between luck and chance?<br>
 Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
 
-HOWEVER,
+HOWEVER...
 
 > *'Bad luck is normally bad planning.'*
 
@@ -2718,7 +2718,7 @@ science of patterns.
 
 'Don't be a plant.'
 
-HINTS:
+HINTS...
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
