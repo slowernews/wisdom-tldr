@@ -467,6 +467,8 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
 
+> *'The pathway to freedom is discipline.'*
+
 Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.<br>
 Avoid low value systems: social media, news, owning a TV, working long hours, control of petty stuff, perfectionism..
 
@@ -480,8 +482,6 @@ HOWEVER... while routines and habits are important, so is variety and novelty. [
 
 <!--
 mental checklist of positive habits.
-
-> *'The pathway to freedom is discipline.'*
 
 People who are driven by the fear of missing out or the dream of early adopter super stardom are deploying a “middlebrow inference” that examines only the maximum possible return, not the value derived in expectation.
 The opportunity cost of missing a ‘new new thing’ like the airplane and the automobile is minuscule compared to the toxicity of all the garbage one has to go through to get these jewels.”
@@ -576,7 +576,7 @@ what happens when we step too far out of our comfort zones, how James mitigates 
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
-HINT: Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
+HINT... Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -588,7 +588,7 @@ HOWEVER... action not knowledge leads to [success](#on-success).
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-> *'«Pathological learners» who are voracious consumers of knowledge. They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera. Yet they know all this information! The problem is that they do not apply it. You have to realize that knowledge without action is useless.'*
+> *'«Pathological learners» who are voracious consumers of knowledge. They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera. Yet they know all this information! The problem is that they do not apply it. Knowledge without action is useless.'*
 
 <!--
 career day an year -> journaling self analysis.
@@ -796,8 +796,8 @@ HOWEVER... the origin of most health problems is not physical but mental.
 Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).<br>
 The more relaxed you are, the better you are at everything.
 
-> *'Under-stimulation = boredom<br>
-right amount of stress = hustling (stretching comfort zone)
+> *'Under-stimulation = boredom <br>
+right amount of stress = hustling (stretching comfort zone) <br>
 over-stimulation = anxiety'*
 
 <!--
@@ -2302,7 +2302,7 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 
 > *'If I don’t have red, I use blue.' -- Pablo Picasso*
 
-HOWEVER
+HOWEVER...
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
@@ -2627,7 +2627,7 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 ### On intelligence and talent
 
-Genius and talent are rare, and as such, the most sensitive trigger points for envy.
+Genius and talent are rare, and as such, the most sensitive trigger for envy.
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
