@@ -90,7 +90,7 @@ Exceptions to most rules also..
 - [On surrendering](#on-surrendering)
 
 
-### 4-bonus
+### Appendix
 
 
 *On time*
@@ -133,9 +133,14 @@ One last advice (specially for shy people): *'Aim at relying on your network and
 
 ---
 
-# Chapter 1 - Self
+		  __                                      _             __          __ 
+		 /    /              /                   /|            /         / /   
+		(    (___  ___  ___ (___  ___  ___      ( |   _       (___  ___ ( (    
+		|   )|   )|   )|   )|    |___)|   )       |               )|___)| |___ 
+		|__/ |  / |__/||__/ |__  |__  |          _|   -        __/ |__  | |    
+		               |                                                       
 
-## 1.1 - On foundations
+# 1.1 - On foundations
 
 ### On identity
 
@@ -310,14 +315,8 @@ authentic self is a state
 
 
 ---
-	  __                                         
-	 /  |                               /    /   
-	(   | ___       ___  ___  ___      (___ (___ 
-	|   )|   )     |   )|   )|   )|   )|    |   )
-	|__/ |  /      |__/ |    |__/ |/\/ |__  |  / 
-	               __/                           
 
-## 1.2 - On growth
+# 1.2 - On growth
 
 ### On finding a path
 
@@ -1054,18 +1053,16 @@ Confidence is a result, not a requirement
 
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
+---
 
+		  __                                      __            __                          
+		 /    /              /                   /  )          /                            
+		(    (___  ___  ___ (___  ___  ___      (  /  _       ( __  ___  ___       ___  ___ 
+		|   )|   )|   )|   )|    |___)|   )       /           |   )|   )|   )|   )|   )|___ 
+		|__/ |  / |__/||__/ |__  |__  |          /__  -       |__/ |    |__/ |__/ |__/  __/ 
+		               |                                                          |         
 
-# Chapter 2 - Groups
-
-	  __                                                            
-	 /  |           /      /                        /    /          
-	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___ 
-	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )
-	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  / 
-                                                                
-
-## 2.1 - On interaction
+# 2.1 - On interaction
 
 ### On networking
 
@@ -1496,13 +1493,8 @@ Be an expert gift giver.
 
 
 ---   
-	  __                                                                                                                  
-	 /  |           /      /                        /    /                       |                /              /        
-	(   | ___         ___ (___  ___  ___  ___  ___ (___    ___  ___  _        ___| ___  ___      (___  ___  ___ (     ___ 
-	|   )|   )     | |   )|    |___)|   )|   )|    |    | |   )|   )         |   )|   )|   )|   )|   )|   )|    |___)|___ 
-	|__/ |  /      | |  / |__  |__  |    |__/||__  |__  | |__/ |  /  -       |__/ |    |__/||/\/ |__/ |__/||__  | \   __/ 
 
-## 2.2 - On interaction: drawbacks
+# 2.2 - On interaction: drawbacks
 
 ### On conflicts
 
@@ -1587,14 +1579,8 @@ HOWEVER, smart people don’t think others are stupid and common sense is not so
 
 
 ---
-	  __                                    
-	 /  |           /                       
-	(   | ___      (___  ___  ___  _ _  ___ 
-	|   )|   )     |    |___)|   )| | )|___ 
-	|__/ |  /      |__  |__  |__/||  /  __/ 
-	                                        
 
-## 2.3 - On teams
+# 2.3 - On teams
 
 ### On leadership
 
@@ -1835,16 +1821,15 @@ HOWEVER, don't vow to the gatekeepers.
 
 > *'Only the truth is funny.' -- Rick Reynolds*
 
-# Chapter 3 - Action
+---
+	  __                                      __            __                       
+	 /    /              /                      |          /  |      /    /          
+	(    (___  ___  ___ (___  ___  ___       ___| _       (___| ___ (___    ___  ___ 
+	|   )|   )|   )|   )|    |___)|   )         )         |   )|    |    | |   )|   )
+	|__/ |  / |__/||__/ |__  |__  |          __/  -       |  / |__  |__  | |__/ |  / 
+	               |                                                                 
 
-	  __                                                                                     
-	 /  |                                         /                          /    /          
-	(   | ___       ___  ___  ___  ___  ___  ___    ___  ___       ___  ___ (___    ___  ___ 
-	|   )|   )     |   )|   )|___)|   )|   )|   )| |   )|   )     |   )|    |    | |   )|   )
-	|__/ |  /      |__/ |    |__  |__/ |__/||    | |  / |__/      |__/||__  |__  | |__/ |  / 
-	               |              |                     __/                                  
-
-## 3.1 - On preparing action
+# 3.1 - On preparing action
 
 ### On creativity, vision and ideas
 
@@ -2060,14 +2045,8 @@ Detach emotions from your decision-making process.
 
 
 ---
-	  __                                                     
-	 /  |                                    /    /          
-	(   | ___       ___       ___  ___      (___    ___  ___ 
-	|   )|   )     |___)(_/_ |___)|    |   )|    | |   )|   )
-	|__/ |  /      |__   / / |__  |__  |__/ |__  | |  / |__/ 
-	                                                    __/  
 
-## 3.2 - On executing
+# 3.2 - On executing
 
 ### On starting, right time and procrastination
 
@@ -2342,14 +2321,8 @@ HOWEVER
 
 
 ---
-	  __                                                     
-	 /  |                                    /    /          
-	(   | ___       ___  ___  _ _  ___  ___ (___    ___  ___ 
-	|   )|   )     |    |   )| | )|   )|___)|    | |   )|   )
-	|__/ |  /      |__  |__/ |  / |__/ |__  |__  | |  / |__/ 
-	                              |                     __/  
 
-## 3.3 - On competing
+# 3.3 - On competing
 
 ### On creating imbalances
 
@@ -2531,14 +2504,8 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 
 ---
-	  __                                      
-	 /  |                        | /          
-	(   | ___       ___  ___  ___|   ___  ___ 
-	|   )|   )     |___)|   )|   )| |   )|   )
-	|__/ |  /      |__  |  / |__/ | |  / |__/ 
-	                                     __/  
 
-## 3.4 - On ending
+# 3.4 - On ending
 
 ### On finishing
 
@@ -2586,15 +2553,16 @@ Use this opportunity to re-create yourself.<br>
 > *'Use the surrender tactic: transform weakness into power.'<br>
 'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
 
-# Chapter Bonus
+---
 
-	  __                            
-	 /  |           /    /          
-	(   | ___      (___    _ _  ___ 
-	|   )|   )     |    | | | )|___)
-	|__/ |  /      |__  | |  / |__  
+		  __                                 
+		 /  |                        | /     
+		(___| ___  ___  ___  ___  ___|       
+		|   )|   )|   )|___)|   )|   )| (_/_ 
+		|  / |__/ |__/ |__  |  / |__/ |  / / 
+		     |    |                          
 
-## Bonus A - Time
+# Appendix A - Time
 
 ### On past and memory
 
@@ -2663,17 +2631,9 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
 
+---           
 
-
----
-	  __                                                                         
-	 /  |                                    /         /                         
-	(   | ___       ___  ___                (___  ___    ___  ___  ___  ___  ___ 
-	|   )|   )     |___)|   ) \  )\   )     |    |   )| |   )|   )|___)|   )|___ 
-	|__/ |  /      |__  |  /   \/  \_/      |__  |    | |__/ |__/ |__  |     __/ 
-	                                /                   __/  __/                 
-
-## Bonus B - On envy triggers
+# Appendix B - On envy triggers
 
 ### On intelligence and talent
 
@@ -2791,13 +2751,8 @@ using simpler tools to force simplicity is very interesting
 
 
 ---
-	  __                          
-	 /  | /    /                  
-	(   |(___ (___  ___  ___  ___ 
-	|   )|    |   )|___)|   )|___ 
-	|__/ |__  |  / |__  |     __/ 
 
-## Bonus C - Others
+# Appendix C - Others
 
 ### On investment
 
