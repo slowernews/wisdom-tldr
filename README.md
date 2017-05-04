@@ -1447,26 +1447,24 @@ You need to build your board of directors. Life is meant to be lived in communit
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
-You will waste your life trying to make those around into who you want them to be.<br>
-Instead change/filter who you are around. You are the average of the people you surround yourself.
-
-> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
+HOWEVER... choose who surrond you: you are the average of these people<br>
+You will waste your life trying to make those around into who you want them to be.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
 > *'Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.'*
 
-HOWEVER...
+> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
-> *'Working with friends is not good, because there will be always problems of fixing hierarchy. Peers are peers, not boss and employee.'*
+> *'here will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee.'*
+
+> *'Keep your friends for friendship, work with the skilled and competent.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 <!--
-But keep your friends for friendship, work with the skilled and competent.
-
 you're never a prophet in your homeland.
 -->
 
