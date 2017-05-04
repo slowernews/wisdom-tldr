@@ -130,15 +130,13 @@ One last advice (specially for shy people): *'Aim at relying on your network and
 
 
 
-
 ---
-
-		  __                                      _             __          __ 
-		 /    /              /                   /|            /         / /   
-		(    (___  ___  ___ (___  ___  ___      ( |   _       (___  ___ ( (    
-		|   )|   )|   )|   )|    |___)|   )       |               )|___)| |___ 
-		|__/ |  / |__/||__/ |__  |__  |          _|   -        __/ |__  | |    
-		               |                                                       
+	  __                                      _             __          __ 
+	 /    /              /                   /|            /         / /   
+	(    (___  ___  ___ (___  ___  ___      ( |   _       (___  ___ ( (    
+	|   )|   )|   )|   )|    |___)|   )       |               )|___)| |___ 
+	|__/ |  / |__/||__/ |__  |__  |          _|   -        __/ |__  | |    
+	               |                                                       
 
 # 1.1 - On foundations
 
@@ -315,7 +313,6 @@ authentic self is a state
 
 
 ---
-
 # 1.2 - On growth
 
 ### On finding a path
@@ -783,14 +780,7 @@ Experiences worth more than material
 
 
 ---                                                                                                                                 
-	  __                                                                                                                                      __ 
-	 /  |                                                        /                                                                         / /   
-	(   | ___            ___       ___            ___  ___  ___ (___       ___  ___  ___  _ _       _             ___       ___  ___  ___ ( (    
-	|   )|   )     \   )|   )|   )|   )     |   )|   )|   )|___ |         |___)|   )|___)| | )\   )         \   )|   )|   )|   )|___ |___)| |___ 
-	|__/ |  /       \_/ |__/ |__/ |         |/\/ |__/ |     __/ |__       |__  |  / |__  |  /  \_/  -        \_/ |__/ |__/ |     __/ |__  | |    
-	                 /                                                                          /             /                                  
-
-
+# On your worst enemy: yourself
 
 ### On stress and health
 
@@ -935,7 +925,6 @@ Realize that on the other side of every fear is a stronger, more powerful, and m
 Break Down Your Fears Until You Figure Out the Truth
 we stuck in the fear of consequences
 you will never achieve anything if you allow indecisiveness to lead to inaction.
-
 -->
 
 
@@ -1053,14 +1042,15 @@ Confidence is a result, not a requirement
 
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
----
 
-		  __                                      __            __                          
-		 /    /              /                   /  )          /                            
-		(    (___  ___  ___ (___  ___  ___      (  /  _       ( __  ___  ___       ___  ___ 
-		|   )|   )|   )|   )|    |___)|   )       /           |   )|   )|   )|   )|   )|___ 
-		|__/ |  / |__/||__/ |__  |__  |          /__  -       |__/ |    |__/ |__/ |__/  __/ 
-		               |                                                          |         
+
+---
+	  __                                      __            __                          
+	 /    /              /                   /  )          /                            
+	(    (___  ___  ___ (___  ___  ___      (  /  _       ( __  ___  ___       ___  ___ 
+	|   )|   )|   )|   )|    |___)|   )       /           |   )|   )|   )|   )|   )|___ 
+	|__/ |  / |__/||__/ |__  |__  |          /__  -       |__/ |    |__/ |__/ |__/  __/ 
+	               |                                                          |         
 
 # 2.1 - On interaction
 
@@ -1493,7 +1483,6 @@ Be an expert gift giver.
 
 
 ---   
-
 # 2.2 - On interaction: drawbacks
 
 ### On conflicts
@@ -1579,7 +1568,6 @@ HOWEVER, smart people don’t think others are stupid and common sense is not so
 
 
 ---
-
 # 2.3 - On teams
 
 ### On leadership
@@ -2045,7 +2033,6 @@ Detach emotions from your decision-making process.
 
 
 ---
-
 # 3.2 - On executing
 
 ### On starting, right time and procrastination
@@ -2143,10 +2130,7 @@ Don't be thirsty.
 
 <!--
 chess gambits -- exchange material by position-time.
--->
 
-
-<!--
 > *'Go-Karts - Feel fast, are slow 747s - Feel slow, are fast Ship it! - Feels fast, is slow Test > *'Document it! - Feels slow, is fast.'*
 -->
 
@@ -2321,7 +2305,6 @@ HOWEVER
 
 
 ---
-
 # 3.3 - On competing
 
 ### On creating imbalances
@@ -2504,7 +2487,6 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 
 ---
-
 # 3.4 - On ending
 
 ### On finishing
@@ -2542,6 +2524,7 @@ It's not just about winning. The way you win sets you up for the next round.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 
+
 ---
 ### On surrendering
 
@@ -2553,14 +2536,15 @@ Use this opportunity to re-create yourself.<br>
 > *'Use the surrender tactic: transform weakness into power.'<br>
 'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
 
----
 
-		  __                                 
-		 /  |                        | /     
-		(___| ___  ___  ___  ___  ___|       
-		|   )|   )|   )|___)|   )|   )| (_/_ 
-		|  / |__/ |__/ |__  |  / |__/ |  / / 
-		     |    |                          
+
+---
+	  __                                 
+	 /  |                        | /     
+	(___| ___  ___  ___  ___  ___|       
+	|   )|   )|   )|___)|   )|   )| (_/_ 
+	|  / |__/ |__/ |__  |  / |__/ |  / / 
+	     |    |                          
 
 # Appendix A - Time
 
@@ -2631,8 +2615,9 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
 
----           
 
+
+---           
 # Appendix B - On envy triggers
 
 ### On intelligence and talent
@@ -2751,7 +2736,6 @@ using simpler tools to force simplicity is very interesting
 
 
 ---
-
 # Appendix C - Others
 
 ### On investment
