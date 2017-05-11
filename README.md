@@ -47,6 +47,7 @@ Exceptions to most rules also..
 
 *On interactions: drawbacks*
 - [On conflicts](#on-conflicts)
+- [On economics and politics](#on-economics-and-politics)
 - [On criticism and envy](#on-criticism-and-envy)
 - [On following the herd](#on-following-the-herd)
 
@@ -96,7 +97,7 @@ Exceptions to most rules also..
 *On time*
 - [On past and memory](#on-past-and-memory)
 - [On present](#on-present)
-- [On future](#on-future)
+- [On future and investment](#on-future-and-investment)
 
 *On envy triggers*
 - [On intelligence and talent](#on-intelligence-and-talent)
@@ -107,8 +108,6 @@ Exceptions to most rules also..
 - [On lifestyle](#on-lifestyle)
 
 *Others*
-- [On investment](#on-investment)
-- [On economics and politics](#on-economics-and-politics)
 - [On science](#on-science)
 - [On religion](#on-religion)
 - [On art and aesthetics](#on-art-and-aesthetics)
@@ -1070,7 +1069,7 @@ Don't isolate yourself. The people you know and whether they like you will deter
 
 > *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
-HINTS...
+HINTS:
 
 > *'Networking types: advocates a, boomerang b, celebrities c, drainers d<br>
 shark, dolphin, drowner'*
@@ -1140,12 +1139,10 @@ Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
 How talk to people?<br>
 Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of accomplishments, don't be stubborn and listen.
 
-> *'Rambling and not smiling are two things to get better speaking to anybody.'*
-
 > *'Get better asking questions. They are more important than answers.'*
 
-> *'Talk about your passions instead of your accomplishments (aka bragging), transform it in a story.'*
 
+> *'Talk about your passions instead of your accomplishments (aka bragging), transform it in a story.'*
 > *'Storytelling is about the details.'*
 
 > *'On improvisation is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
@@ -1422,7 +1419,7 @@ HOWEVER...
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-HINTS... keep separate bank accounts.
+HINTS: keep separate bank accounts.
 
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
@@ -1889,8 +1886,7 @@ Analysis is an art, not a science.
 
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
-And, as such, error-prone: 
-
+And, as such, error-prone:<br>
 a) randomness;
 
 > *'Most facts are a «tell» but some are just random.'*
@@ -1924,7 +1920,7 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
-HINTS...
+HINTS:
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
@@ -2006,13 +2002,19 @@ How to plan: start with a [vision](#on-creativity-vision-and-ideas).
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-HINTS...
-
-> *'Choose the plan with more options. The one that lets you change plan.'*
+HINTS: How to plan?
 
 > *'Look for actionable steps.'*
 
 > *'A well defined problem seeks its own solution' -- Mike Brundant*
+
+HINTS: How to decide?
+
+> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
+
+> *'Choose the plan with more options. The one that lets you change plan.'*
+
+> *'Hell yes or no.' -- Derek Sivers*
 
 HOWEVER... some people get paralyzed by [over thinking](#on-starting-and-timing).
 
@@ -2025,14 +2027,6 @@ Decide in advance what your time is worth. Do not let others tell you how much y
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
-
-How to decide:
-
-Detach emotions from your decision-making process.
-
-> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
-
-> *'Hell yes or no.' -- Derek Sivers*
 
 
 
@@ -2179,23 +2173,24 @@ First the essential. Then the details.
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-HINTS...
-
-> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.'*
+HINTS:
 
 > *'Tackle your most important thing (MIT) first thing in the morning.'*
 
-> *'Don't major on minor things.'*
+> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.'*
 
 > *'Focus. Do one thing really well. Solve one problem with one solution.<br>
 Focus on the one thing most likely to get maximum results. Forget everything else.'*
+
+> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
+
+> *'Don't major on minor things.'*
 
 HOWEVER... 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-
 look at situations as systems. i help to create systems.
 Bad luck vs. bad planning
 
@@ -2211,8 +2206,6 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 if you are the focus you will be assumed as being the the cause.
 
 And too many decisions will drain you. Attention is the most limited resource.
-
-> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
 -->
 
 
@@ -2387,6 +2380,8 @@ HOWEVER... use absence with [moderation](#on-balance).
 
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
+
 HOWEVER... deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
@@ -2397,11 +2392,9 @@ HOWEVER... deceiving is not lying.
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
-<!-- 
 > *'Disappointment destroys trust.'*
 
-> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
-
+<!-- 
 > *'Bad liars should speak as little as possible.'*
 
 the good reason (the reason they tell you) and the real reason.
@@ -2498,17 +2491,17 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
+> *'Don't take a half step where a full step is required.'*
+
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
-
-> *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
-
-> *'When the end finally comes, it comes quickly.'*
 
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
 > *'Reconciliation is out of the question. Only one side can win, and it must win totally.'*
 
-> *'Don't take a half step where a full step is required.'*
+> *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
+
+> *'When the end finally comes, it comes quickly.'*
 
 
 
@@ -2589,8 +2582,6 @@ You will die soon. Act accordingly and don't postpone joy.
 
 > *'We are like butterflies who flutter for a day and think it's forever.'*
 
-> *'Now will not be with us forever.'*
-
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
 > *'Live life ready to meet god.'*
@@ -2599,10 +2590,12 @@ You will die soon. Act accordingly and don't postpone joy.
 
 > *'Never get so busy making a living that you forget to make a life.'*
 
-<!--
-life is long enough
+HINTS:
 
 100 blocks a day - wait but why
+
+<!--
+life is long enough
 -->
 
 
@@ -2716,7 +2709,7 @@ science of patterns.
 
 'Don't be a plant.'
 
-HINTS...
+HINTS:
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
