@@ -47,9 +47,9 @@ Exceptions to most rules also..
 
 *On interactions: drawbacks*
 - [On conflicts](#on-conflicts)
-- [On economics and politics](#on-economics-and-politics)
 - [On criticism and envy](#on-criticism-and-envy)
 - [On following the herd](#on-following-the-herd)
+- [On politics](#on-politics)
 
 *On teams*
 - [On leadership](#on-leadership)
@@ -172,6 +172,22 @@ It's the only way to be respected and build trust.
 > *'Seek respect, not attention. It lasts longer.'*
 
 <!--
+bravery is learned -> micro-bravery, start small
+
+2. Understand the Effect of Your Childhood Conditioning 
+The first step to changing this conditioning is to simply become aware of it.
+So take the time now to truly understand what your beliefs and patterns are in every area of life.
+
+For some of you, you must make the conscious decision that you are going to change your story.
+No matter where you are in your life, you have the power to change everything in an instant.
+
+If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
+Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+
+Take Extreme Ownership. why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
+
+Humility With forward action: 'I wasn’t the smartest in X but..'
+
 Life is About Who You Become Not What You Achieve
 On this journey called life, many people lose sight of what is really important.
 They believe that material wealth, sexual experiences, and physical prowess are what makes a man.
@@ -201,6 +217,17 @@ Background values will change how you think
 do you want short term popularity or long term respect
 
 5Cs: courage, congruence, confidence, calibration, conviction
+
+Show respect to others. Respect others and earn the respect of others. That is where true manliness lies.
+
+Manhood is Defined by Your Values and Your Code
+(integrity, honor, service, and generosity should be at the top of your list)
+
+You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
+
+4. Focus on Vulnerability, Not Perfection
+The world responds to vulnerability, not meticulously written articles that require a month of editing.
+Be raw, be real, tell people what is really going on. The more vulnerable you are, the more people will be able to relate with you and the more of an impact you will be able to have. Don’t try to be perfect. Just be real and the results will come.
 -->
 
 <a id="on-humbleness"></a>c) Choose to be humble and grateful. You are not perfect neither you'll ever be.
@@ -211,11 +238,11 @@ do you want short term popularity or long term respect
 
 HOWEVER... live in accordance with your nature. If you try to be something you're not, you end up being nothing.
 
-> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker*
+> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything.' -- Allen Tucker*
 
-<!--
-find your context. you don't need to suceed in every context
--->
+> *'Find your context. You don't need to suceed in every context.'*
+
+> *'You’re not going to succeed at stuff you don’t want to do.' -- Mark Bittman*
 
 
 
@@ -239,8 +266,24 @@ Tell *your* truth no matter what.
 
 > *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
 
+HINT:
+
+> *'If I loved myself at a level 10 of 10, would i do this?'*
+
 <!--
+Optimizing happiness on a personal level vs. succumbing to what society says will make you happy.
+
+> *'Freedom is not giving a f*ck.' -- Dorian Yates*
+
+3. Take Care of Yourself First
+Take care of your emotions, spend time with people you love, pursue your hobbies and passions, and be grateful for what you have in your life.
+Take care of yourself and the money, love, and prosperity will follow.
+
+look for 100% financial freedom
+
 The freedom to express oneself fully.
+
+-Commit to yourself: it starts by learning to value yourself and the commitments that you are making.
 
 set boundaries
 Practice doing without things you think you need.
@@ -254,6 +297,8 @@ Never be afraid to stand up for yourself, your friends, or your values, because 
 What is more selfless?
 -Making sure that you are taken care of so that you can take care of others?
 -Or focusing all of your energy on others until you are burnt out, angry, and depressed?
+
+Codependent No More: How to Stop Controlling Others and Start Caring for Yourself
 -->
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
@@ -299,6 +344,8 @@ happiness is inside you, not with another person.
 
 > *'Being grateful is looking down.'*
 
+> *'Comparison is the thief of joy.' -- Theodore Roosevelt*
+
 By breaking long term goals you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
@@ -328,6 +375,31 @@ Pull yourself together and take total ownership for everything in your life.
 > *'Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.'*
 
 <!--
+5. Passion is Made Not Found
+
+how to design a life?
+“Your Ten-Year Plan for a Remarkable Life”
+in 2027 how a day of your life will look like?
+write how will look this day. dream big. write it with no fear and read it once a year.
+these things can make a difference.
+exercise: what would be your life if you wouldnt have fear of failure of life.
+
+Scott’s story is not about movies, or addiction, or creativity, it’s about knowing the right direction to take the next step.
+
+Step 1: FIND OUT WHAT YOU’RE CRAVING:
+These are the two types of cravings:
+a) Addiction: I felt powerless. I was addicted to money. More was never enough. Then I left Wall Street. Because they were the supplier.
+b) Depletion: Your body needs something. It can be water, a vitamin or mineral or a change. That’s where reinvention comes in.
+
+Creating a vision for your life and achieving that vision is possible.
+
+The reason that most people are not fulfilled in the work that they do isn’t because they haven’t found their “calling” but rather because they are bored and disengaged.
+
+Fulfillment in Any Endeavor Comes from Variety and Engagement 
+Most people continue to chase down their ever elusive “calling”.
+You know, that one thing that if they do not do it, they have wasted their entire life and skillsets on trivial activities and distractions.
+Allow me to share a little secret with you. This doesn’t exist.
+
 Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
 
 search for actionable steps\
@@ -388,6 +460,18 @@ lying in death bed and regretting your life is the worst that can happen to you.
 play to win, not hoping to make it, or why are you doing it? committed to win
 
 “Your temporary circumstances do not have to become your permanent identity” ~Greg Hartle
+
+We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love?
+I can tell you from experience, it leaves a lot of room for change.
+I still love everything I quit. But not as much as I love all this room for change._sivers
+
+Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose.
+
+So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.
+challenge
+Because that is where you will find true fulfillment and satisfaction.
+
+Create Projects, Not Goals
 -->
 
 
@@ -417,6 +501,10 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 > *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
 
 <!--
+1. The Goal of Life is Not Comfort it’s Contribution
+Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
+But the problem with this philosophy is that no great work ever came from comfort.
+
 Avoiding stress is avoiding life.
 
 Reinvention should be an habit not an event.
@@ -450,6 +538,8 @@ develop a tolerance for risk so that you can build up to the scarier activities 
 > *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
 
 I sort of became comfortable with being uncomfortable to the point where now…if I start getting comfortable, I feel like I’m not learning anything and that I might be in a bubble.
+
+parabola do sapo e da agua a ferver
 -->
 
 
@@ -477,14 +567,21 @@ Avoid low value systems: social media, news, owning a TV, working long hours, co
 
 > *'It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
 
+HINT: Mental checklist of positive habits.
+
 HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
-mental checklist of positive habits.
+> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
+
+Study successful individuals and you will start to notice patterns that they all follow.
+Most of them wake up early, work on a clear schedule, exercise daily, and give 10% of their income to charities.
 
 People who are driven by the fear of missing out or the dream of early adopter super stardom are deploying a “middlebrow inference” that examines only the maximum possible return, not the value derived in expectation.
 The opportunity cost of missing a ‘new new thing’ like the airplane and the automobile is minuscule compared to the toxicity of all the garbage one has to go through to get these jewels.”
 it’s the rejection of such thinking that has led me to continue to abstain from Facebook and Twitter, among other popular pastimes in the rapidly evolving digital attention casino.
+
+Do whatever you need to do to break your current patterns and start achieving the success that you know you have the potential to achieve.
 
 Use your phone to set reminders for really important things automatically. Turn off push notifications for everything else.
 
@@ -508,6 +605,8 @@ goals and systems
 look at situations as systems. i help to create systems.
 
 Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
+
+catalyst
 -->
 
 
@@ -530,6 +629,13 @@ Just in time learning. You can learn faster if you have something your working o
 there are consequences for acting and don't acting
 
 4. Education not Schooling is What Separates the Winners from the Losers
+
+2. Start with the Basics
+
+1. Anything You Desire is an Attainable Skill 
+Short of physical characteristics like height, bone structure, and other unchangeable genetic factors, anything in your life can be changed.
+you can change aspects of your personality that you don’t like And for most people, this is a scary realization. you are now “burdened” with the realization that you are completely responsible for everything in your life and everything not in your life.
+you have to choose now. what you want.
 -->
 
 You improve by:<br>
@@ -575,7 +681,7 @@ what happens when we step too far out of our comfort zones, how James mitigates 
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
-HINT... Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
+HINTS: Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -590,6 +696,9 @@ HOWEVER... action not knowledge leads to [success](#on-success).
 > *'«Pathological learners» who are voracious consumers of knowledge. They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera. Yet they know all this information! The problem is that they do not apply it. Knowledge without action is useless.'*
 
 <!--
+And if you are not constantly taking action on the new information that you are learning then you haven’t truly learned anything at all.
+Your first priority in life should always be to expand your knowledge and skill sets so that you are equipped to face whatever challenges life might throw at you.
+
 career day an year -> journaling self analysis.
 
 am i learning? if not you'll have a problem down the road.
@@ -663,6 +772,8 @@ trade-able skills: figure out what skills you already have that you can charge f
 
 <!--
 > *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
+
+“We don’t rise to the level of our expectations; we fall to the level of our training.” -Archilochus
 -->
 
 HOWEVER... mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
@@ -693,6 +804,8 @@ Be generous and share your strengths. Impact the world.
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
 <!--
+If you are giving back, it’s because you’ve taken too much. -- Ricardo Semler
+
 mix with guerrilla thinking
 
 karma
@@ -748,6 +861,8 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
+> *'Try not to become a man of success, rather become a man of value' -- Albert Einstein*
+
 HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
 
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
@@ -755,6 +870,16 @@ HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest b
 > *'Doubt kills more dreams than failure ever will.'*
 
 <!--
+Succeeding means securing advantage.
+
+> *'It’s never your identity, it’s always your strategy'*
+
+Success is subjective. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
+
+1. All of Success is About Conquering Yourself
+Most people assume that success is all about the mechanics.
+Guess what, no matter what you are striving for, you will face failure at some point in your life, however, if you have developed yourself, if you have conquered your own emotions of fear, doubt, and unconfidence, you can return from any failure and be victorious.
+
 1. Success is in Our Decisions Not Our Conclusions
 Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
 Success is truly about living a life with honor and integrity, not any material outcome.
@@ -774,6 +899,11 @@ You don’t need the fancy car, expensive watch, or flashy toys, spend your mone
 Experiences worth more than material
 
 “The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
+
+The key to all success in life lies in education and massive action.
+If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
+
+The story he told me was a combination of luck, learning skills, building a network, and acting on the intersection of all of the above. But more than anything, it’s being open to surrender. Surrendering to constant reinvention.
 -->
 
 
@@ -800,6 +930,12 @@ right amount of stress = hustling (stretching comfort zone) <br>
 over-stimulation = anxiety'*
 
 <!--
+“There is no such thing as successful aging because aging is damage.” – Art De Vany
+
+> *'Depression is a lack of your expression.' -- Scott Steindorff
+
+You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker
+
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 
 on placebos
@@ -868,6 +1004,8 @@ HOWEVER... your level of success will seldom exceed your level of personal devel
 > *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).' -- Archilochus*
 
 <!--
+We live in a society where the greatest lies that are told are the ones that we tell ourself.
+
 Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
 
 impostor syndrome
@@ -912,11 +1050,16 @@ Anger and excuses are fear clothed. All excuses are refutable.
 > *'There is no coming to consciousness without pain.<br>
 People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
 
-> *'You cannot use your personality type as an excuse.'*
+> *'You cannot use your personality type as a\n excuse.'*
 
 > *'You'll never be as young as you are today.'*
 
 <!--
+“Fear is the mind eater”
+
+Reframe Fears as Fiction
+In AA, they define fear as “False evidence appearing real”.\
+
 Be careful not to let fear paralyze you either.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
 
@@ -1036,6 +1179,9 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.'*
 
 Confidence is a result, not a requirement
+
+confidence relies on pride
+pursue authentic pride
 -->
 
 > *'Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.'*
@@ -1082,6 +1228,8 @@ shark, dolphin, drowner'*
 
 
 <!--
+we don’t like people that see us in a way that doesn’t resonate with how we see ourselves — even if they see us…better than we see ourselves.
+
 building a network is critical
 
 3) Find out what people actually want
@@ -1115,6 +1263,10 @@ unlocking dormant ties
 networking you must exchange value
 
 Personal branding means you are a liar
+
+list the people i met
+
+the importance of enthusiasm; the importance of connecting people; expect magic in any encounter
 -->
 
 
@@ -1141,8 +1293,8 @@ Smile, don't ramble, look for external catalysts as hints for stories and questi
 
 > *'Get better asking questions. They are more important than answers.'*
 
-
 > *'Talk about your passions instead of your accomplishments (aka bragging), transform it in a story.'*
+
 > *'Storytelling is about the details.'*
 
 > *'On improvisation is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
@@ -1155,6 +1307,8 @@ Smile, don't ramble, look for external catalysts as hints for stories and questi
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
+
+Don’t Talk to Somone. Talk with Them
 -->
 
 
@@ -1205,6 +1359,12 @@ Successful *entrepreneurs* are good risk managers.
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
 <!--
+There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
+
+You Have to Beat Your “Hopium” Addiction
+If you want to wean yourself off this potent “substance” the first step is to cultivate a sense of positive skepticism.
+“How could this decision negatively affect my financial future and stability.”
+
 It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
 
 zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it
@@ -1256,6 +1416,8 @@ Its a different game now. Everybody knows immediately the alternatives.'*
 > *'Best sellers are ambiverts.'*
 
 <!--
+Advertising is a symptom not of excess consumption but of excess production. And all communication is a form of mind control.
+
 irritation -> challenge people to make something that they don't want to do
 agitation -> challenge people to make something that they want to do. suggesting ego etc
 
@@ -1319,7 +1481,9 @@ Tone of voice is a big clue to know with whom we are negotiating:
 The assertive guy (eg. Trump) wants to make it fast; <br>
 For the accomodator, the relationship is the most important'*
 
-<!-- 
+<!--
+“No one’s going to help you in a way that’s not beneficial to them.”
+
 > *'Unexpressed feelings never die.'*
 > *'Releasing pressure is different from venting.'*
 > *'The more influence somebody is the more they use we / plural pronouns.'*
@@ -1345,6 +1509,28 @@ people have different standards of value: weekend example
 rejuvenation and human conception will derail to your habits.
 
 Only Is Better Than Best
+
+---
+
+“What’s your best out-the-door price?”
+“Can you do X% below that?“
+“If you can reach my price, I’ll buy today.”
+
+Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
+
+What am I negotiating?
+What is my timeline? (This will affect your urgency.)
+Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.)
+What are my interests in this particular case?
+
+when asked for a number:
+“I’m looking at a few different offers and opportunities — what were you thinking?”
+
+When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base.
+
+A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.”
+
+Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
 -->
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
@@ -1380,6 +1566,8 @@ we build trust through presence. leadership is based on trust.
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
 
 on a deep relationship, politics must match
+
+“I won’t be less just because you cannot be more”
 -->
 
 HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
@@ -1411,29 +1599,30 @@ Never love anyone that treats you like you're ordinary.
 
 > *'Love doesn’t hurt. Expectations do.'*
 
-> *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
-First, your observations, or what you have noticed is happening in your relationship.<br>
-Next talk about how the observation has made you feel. Finally, discuss your values.'*
-
 HOWEVER...
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-HINTS: keep separate bank accounts.
+HINTS:
+
+> *'If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
+You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.'
+
+> *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
+First, your observations, or what you have noticed is happening in your relationship.<br>
+Next talk about how the observation has made you feel. Finally, discuss your values.'*
+
+Keep separate bank accounts.
 
 > *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
-<!--
 How to move on?
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 
-
-If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
-You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.R
+<!--
+1. You Need to Partner with Someone Who Wants you to Be All You Can Be
 -->
-
-
 
 ---
 ### On family and friends
@@ -1463,6 +1652,14 @@ You will waste your life trying to make those around into who you want them to b
 
 <!--
 you're never a prophet in your homeland.
+
+4. Surround Yourself with People Who are Smarter than You 
+One of the first steps to becoming a more successful in all areas of your life is to surround yourself with people who are better than you in every area of life.
+If you want to improve your bank account, get around millionaires.
+If you want to improve your body, befriend competitive athletes
+If you want to improve your love life, go hang out with the town “Casanova”.
+When you are intentional about surrounding yourself with the right people, you will find every area of your life accelerating.
+Jim Rohn said it best, “You are the average of the five people you spend your time with most.” 
 -->
 
 
@@ -1564,7 +1761,38 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» - it means they’ve stopped thinking.'*
 
+<!--
+Never attribute to malice that which can be adequately explained by neglect. -- Hanlon’s Razor
 
+From Scott Adams (Dilbert):
+> Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
+> Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
+> Persuaders: Use simplicity, repetition, emotion, habit, aspirations, visual communication, and other tools of persuasion to program other people and themselves. This group is about 1% of the population and effectively control the word-thinkers of the world.
+
+3 types of man: spectators, the dabblers and the men in the arena.
+-->
+
+
+---
+### On politics
+
+'Politicians don't get educated. They get bought.'
+
+> *'The hardest thing in the world to understand is the income tax.'*
+
+> *'80% of all people are voluntarily overpaying on their taxes.'*
+
+> *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
+
+> *'Good fences make good neighbors.'*
+
+> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
+
+> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
+
+<!--
+politicians is a profession that doesn't like risk. what's the least amount of risk that i can offend anybody.
+-->
 
 ---
 # 2.3 - On teams
@@ -1600,6 +1828,8 @@ HOWEVER...
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
 <!--
+> *'I’m not here to help; I’m here to learn.'*
+
 reduce you feelings of power to be more effective
 
 boss ask employee to do x
@@ -1712,6 +1942,15 @@ You'll never respect them if you don't pay them accordingly.
 make them part of the solution and part of the answer.
 you don't pay your family members, if its just money let them go.
 everything has to be win win. team members and not employees
+
+Your goal in business should be to “fire” yourself and hire people who are better at your job than you are.
+And to build an empire you must become a master at finding and hiring talent.
+But you have to learn how to create contracts that build up “golden handcuffs” offering your new hires the ability to earn as much as they want… provided that they are earning you even more income in the process.
+From finances to health to relationships, expand your mind and your reality will follow
+Ok, so their base pay is only $50,000  a year…
+But what is their long term potential when you include bonuses, equity, and commission?
+If you offer enough incentives, you will attract incredible talent into your business.
+Real Talent Cares More About Upside than Income
 -->
 
 
@@ -1781,6 +2020,8 @@ Hint from interviews: People will describe your strengths, if you ask them why d
 Happy, Smart, and Useful
 
 A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. -- Robert Heinlein
+
+They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.
 -->
 
 
@@ -1850,7 +2091,9 @@ Judging ideas?
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
-<!-- 
+<!--
+-ideas are not worth a damn thing. Only execution is.Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.
+
 negative inspiration (things that don't work) - positive inspiration!
 
 > *'Moments of originality and moments of conformity.'*
@@ -1930,7 +2173,7 @@ HINTS:
 «It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.'<br>
 'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'<br>
 'look for the obvious: «Do you want to be a writer? You should have something to say.»'<br>
-'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (adapted)*
+'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 <!--
 not playing your hand but playing your opponent.'*
@@ -1965,6 +2208,15 @@ Make the decisions right now. When in the moment of making the decision, you hav
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
 <!--
+“Hard decisions are only hard when you’re in the process of making them.” -- Debbie Millman
+
+D: Define the problem simply.
+A: Assess the impact.
+N: Name the underlying dynamic.
+C: Create the smallest next step you can.
+E: Establish personal accountability.
+
+
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
 too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
@@ -2051,6 +2303,9 @@ Learn something new.
 Missions are for people who DO. Mission statements are for people who DON’T.
 
 lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita e vence-se a procrastination
+
+1. Just Jump in and Figure it Out. “It can’t be that hard” ~Chris Voss
+Don’t overthink it. Don’t waste time analyzing it.
 -->
 
 > *'Stop making resolutions and start making something.'*
@@ -2060,6 +2315,8 @@ lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita 
 > *'The inspiration you are waiting for, in order to start, is on the other side of starting.'*
 
 > *'You don't have to be great to start, but you have to start to be great.'*
+
+> *'The journey of a thousand miles begins with a single step' -- Lao Tzu*
 
 > *'A year from now, you will wish you had started today.' -- Karen Lamb*
 
@@ -2130,6 +2387,8 @@ Don't be thirsty.
 chess gambits -- exchange material by position-time.
 
 > *'Go-Karts - Feel fast, are slow 747s - Feel slow, are fast Ship it! - Feels fast, is slow Test > *'Document it! - Feels slow, is fast.'*
+
+> *'You overestimate what you can do in a year but underestimate what you can do in two or three decades.' -- Tony Robbins*
 -->
 
 
@@ -2175,6 +2434,8 @@ First the essential. Then the details.
 
 HINTS:
 
+> *'working by layers: functional -> perfect'*
+
 > *'Tackle your most important thing (MIT) first thing in the morning.'*
 
 > *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.'*
@@ -2191,6 +2452,10 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+don't be a dabbler.
+
+'«No» is no to one thing. «Yes» is no to a lot of things.'
+
 look at situations as systems. i help to create systems.
 Bad luck vs. bad planning
 
@@ -2206,6 +2471,11 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 if you are the focus you will be assumed as being the the cause.
 
 And too many decisions will drain you. Attention is the most limited resource.
+
+make the basics in life, and you're good to go. you don't need to optimise.
+
+1. Learn to Focus on What You Are Doing Now- be fully present
+The more present and focused you can be in one area, the more focus and presence you will be able to bring to the other areas of your life.
 -->
 
 
@@ -2287,7 +2557,7 @@ You need to switch strategies a few times to get where you want to go.
 Sometimes you need to say YES to everything and be open to growth;<br>
 Sometimes you need to say NO to everything and focus.<br>
 It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'<br>
--- Derek Sivers (adapted)*
+-- Derek Sivers (paraphrased)*
 
 > *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
 
@@ -2295,11 +2565,24 @@ It's scary to make those direction choices, but that's how I know I'm on to some
 
 > *'If I don’t have red, I use blue.' -- Pablo Picasso*
 
+HINT: Willpower is finite. So there are limits on change. Change requires attention.
+
 HOWEVER...
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
+<!--
+stick to the plan. poople sabotage their one plans when it get tedious, nobnotusos, challegnig or too difficult. people think they need a new plan.
 
+Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.
+You need to be comfortable both in a suit and tie and in camouflaged jacket.
+
+Go With the Flow of Change
+One of the biggest mistakes that you can make in any endeavor is to stick to rigidly to the old axioms and ways of thinking.
+As Bruce Lee said “Be like water”, be willing to change and adapt to the world around you.
+
+equipa que ganha, não se mexe
+-->
 
 ---
 # 3.3 - On competing
@@ -2394,7 +2677,9 @@ HOWEVER... deceiving is not lying.
 
 > *'Disappointment destroys trust.'*
 
-<!-- 
+<!--
+Clean players on shady markets usually don't do well on the long term.
+
 > *'Bad liars should speak as little as possible.'*
 
 the good reason (the reason they tell you) and the real reason.
@@ -2534,6 +2819,8 @@ Use this opportunity to re-create yourself.<br>
 > *'Use the surrender tactic: transform weakness into power.'<br>
 'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
 
+> *'The greatest revenge is success.' -- Frank Sinatra*
+
 
 
 ---
@@ -2595,7 +2882,12 @@ HINTS:
 100 blocks a day - wait but why
 
 <!--
+“Just because you use your eyes, doesn’t mean you see what’s actually there.” -- Murray Carter
+be present
+
 life is long enough
+
+We are all made of time and we keep wasting each other..
 -->
 
 
@@ -2648,7 +2940,10 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 
 > *'You can spend your time making money but you can't spend your money making time.'*
 
-
+<!--
+“You’re not supposed to optimize for money; you’re supposed to optimize for happiness.”
+-- Mr. Money Mustache (AKA Pete Adeney)
+-->
 
 ---
 ### On fame
@@ -2656,7 +2951,7 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 See fame as a multiplier. If you want to impact the world, be famous.
 
 > *'Do everything in public. Other people are facing the same problems. They will identify with you and provide solutions.'<br>
-'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (adapted)*
+'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (paraphrased)*
 
 
 
@@ -2689,6 +2984,8 @@ HOWEVER...
 
 <!--
 science of patterns.
+
+> *'If you live long enough, most people will get what they deserve.' -- Charlie Munger*
 -->
 
 
@@ -2717,9 +3014,19 @@ HINTS:
 
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
+> *'Use it or loose it.'*
+
 > *'Run away from complexity. Complexity doesn't add much to life.'*
 
+> *'Car: max 10K. Job: try to live next to it.' -- Mr. Money Moustache*
+
+
 <!--
+“Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
+
+James Michener’s Nomadic Pursuit of Depth
+health is also an envy trigger.
+
 permission to rethink
 weekly design session - think on longer term
 reactive to proactive life
@@ -2753,25 +3060,6 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 <!--
 It is often said that the secret to getting rich is not to make more money, but to keep it.
 -->
-
-
-
----
-### On economics and politics
-
-'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt
-
-> *'The hardest thing in the world to understand is the income tax.'*
-
-> *'80% of all people are voluntarily overpaying on their taxes.'*
-
-> *'Politicians don't get educated. They get bought.'*
-
-> *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
-
-> *'Good fences make good neighbors.'*
-
-> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
 
 
 
