@@ -14,10 +14,10 @@ This book will never be complete. I'll be updating it during my lifetime and on 
 
 *Why?*
 
-I haven't a straightforward answer. It started as something I wanted and couldn't find elsewhere and as way of using my research/procrastination positively.
+I haven't a straightforward answer. It started as something I wanted and couldn't find elsewhere. Later I started to see it as way of using my research/procrastination positively.
 
 ---
 
 *Can I help?*
 
-Not sure yet but I'm opening the source on Github for transparency. Anyway I'm open to pull requests.
+Not sure yet. Anyway, for transparency, the source is available on Github and I'm open to pull requests.
