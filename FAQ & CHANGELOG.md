@@ -14,7 +14,7 @@ Not sure yet. Anyway, for transparency, the source is available on Github and I'
 
 *Will you publish it as a paperback and as a proper ebook?*
 
-Yes. As soon as I arrive to a stable draft (v1.0), I'll publish it more formally. I'm still far from it.
+Yes. As soon as I arrive to a stable draft (and I'm still far from it.), I'll publish it more formally.
 
 ---
 
