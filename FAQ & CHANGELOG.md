@@ -14,10 +14,10 @@ Not sure yet. Anyway, for transparency, the source is available on Github and I'
 
 *Will you publish it as a paperback and as a proper ebook?*
 
-Yes. As soon as I arrive to a stable draft (v1.0), I'll publish it more formally.
+Yes. As soon as I arrive to a stable draft (v1.0), I'll publish it more formally. I'm still far from it.
 
 ---
 
 *What's the milestone for this project?*
 
-This book will never be complete. I'll be updating it during my lifetime and on relevant occasions I will release a new version.
+This book will never be complete. I'll be polishing it during my lifetime and on relevant occasions I will release a new version.
