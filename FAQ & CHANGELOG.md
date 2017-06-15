@@ -6,6 +6,12 @@ I haven't a straightforward answer. It started as something I wanted and couldn'
 
 ---
 
+*What are your main bias?
+
+Western culture and Agnosticism.
+
+---
+
 *Can I help?*
 
 Not sure yet. Anyway, for transparency, the source is available on Github and I'm open to pull requests.
