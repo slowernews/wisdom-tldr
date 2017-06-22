@@ -2,7 +2,7 @@
 
 *Why?*
 
-I haven't a straightforward answer. It started as something I wanted and couldn't find elsewhere. Later I started to see it as way of using my research/procrastination positively.
+I haven't a straightforward answer. It started as something I wanted and couldn't find elsewhere. Later I started to see it as a way of using my research/procrastination positively.
 
 ---
 
@@ -14,7 +14,7 @@ Western culture and Agnosticism.
 
 *Can I help?*
 
-Not sure yet. Anyway, for transparency, the source is available on Github and I'm open to pull requests.
+Not sure yet. Anyway, for transparency, the source is available on Github and I'm open to criticism.
 
 ---
 
