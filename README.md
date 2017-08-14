@@ -1,7 +1,7 @@
 # Wisdom TLDR Guide
 
 [Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from quotes that match *my* biased experience.<br>
-'Distillation' is still far from ready, so count with inconsistencies, innacuracies and omissions.
+'Distillation' is still far from ready, so expect inconsistencies, innacuracies and omissions.
 
 
 ### Chapter 1 - Self
@@ -10,7 +10,7 @@
 *On foundations*
 - [On identity](/chapters/chapter_1_self.md#on-identity)
 - [On freedom](/chapters/chapter_1_self.md#on-freedom)
-- [On gratefulness and happiness](/chapters/chapter.md#on-gratefulness-and-happiness)
+- [On gratefulness and happiness](/chapters/chapter_1_self.md#on-gratefulness-and-happiness)
 
 *On growth*
 - [On finding a path](/chapters/chapter_1_self.md#on-finding-a-path)
@@ -109,9 +109,10 @@
 
 *Others*
 - [On investment](/chapters/chapter_appendix.md#on-investment)
-- [On science](/chapters/chapter_appendix.md#on-science)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
-- [On art and aesthetics](/chapters/chapter_appendix.md#on-art-and-aesthetics)
+- [On science](/chapters/chapter_appendix.md#on-science)
+- [On art](/chapters/chapter_appendix.md#on-art)
+- [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 
 
 ### TL;DR 
