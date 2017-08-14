@@ -226,15 +226,26 @@ Spend less, a lot less, than you make. Stay liquid. Never invest in anything you
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
+> *'It is often said that the secret to getting rich is not to make more money, but to keep it.'*
+
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
 > *'The best companies aren't sold, they're bought.'*
 
 > *'Wherever oil goes, the stock market goes.'*
 
-<!--
-It is often said that the secret to getting rich is not to make more money, but to keep it.
--->
+
+
+---
+### On religion
+
+'And on the first day, men created god.'
+
+> *'Science without religion is lame. Religion without science is blind.'*
+
+> *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
+
+> *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
 
 
 
@@ -258,34 +269,26 @@ It is often said that the secret to getting rich is not to make more money, but 
 
 
 ---
-### On religion
+### On art
 
-'And on the first day, men created god.'
+'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald E. Knuth
 
-> *'Science without religion is lame. Religion without science is blind.'*
+> *'Art is just another form of screaming.'*
 
-> *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
+> *'Artistic death is made by consensus.'*
 
-> *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
+> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
+
+> *'Life is Capitalism but art is Socialism.'*
 
 
 
 ---
-### On art and aesthetics
+### On aesthetics
 
 'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso<br>
 That's where «big bucks» are.
 
 > *'Most people with good taste are young and poor.'*
 
-> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
-
-> *'Art is just another form of screaming.'*
-
 > *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
-
-> *'Artistic death is made by consensus.'*
-
-> *'Life is Capitalism but art is Socialism.'*
-
-> *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald E. Knuth*
