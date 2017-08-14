@@ -14,7 +14,7 @@ You are your deeds.
 
 > *'How you do anything is how you do everything.'*
 
-> *'Weakness of attitude becomes weakness of character.'*
+> *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
 Living is choosing.
 
@@ -27,7 +27,7 @@ Succeeding at mediocrity isn't a worthwhile life.
 
 > *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
 
-> *'Be the person your dog thinks you are.'*
+> *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
 <a id="on-trust"></a>b) Choose to keep your integrity.<br>
 It's the only way to be respected and build trust.
@@ -183,47 +183,47 @@ Codependent No More: How to Stop Controlling Others and Start Caring for Yoursel
 ---
 ### On gratefulness and happiness
 
-'Happiness is not a goal, it is a byproduct.' -- Eleanor Roosevelt
+Formula of happiness:
 
-> *'Happy life = mastery + belonging + autonomy.'*
+'Happiness = reality / expectations'
 
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
-
-> *'We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability».'*
-
-Meanwhile, while you create the life of your dreams, lower your expectations and love the life you have.
-
-<!--
-seek happiness actively (action) and passively (lower expectations)
-
-happiness is inside you, not with another person.
--->
-
-> *'Happiness = reality / expectations'*
+to raise your happiness, So while you create the reality of your dreams, lower your expectations.<br>
+Seek happiness actively (action) and passively (lower expectations). Derived from:
 
 > *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
 
-> *'Being grateful is looking down.'*
+> *'Happiness is not a goal, it is a byproduct.' -- Eleanor Roosevelt*
 
-> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+> *'Happy life = mastery + belonging + autonomy.'*
+
+> *'happiness is inside you, not with another person.'*
+
+How to lower your expectations? Be grateful.
+
+> *'Being grateful is looking down.'*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
 > *'Comparison is the thief of joy.' -- Theodore Roosevelt*
 
+> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+> *'anchor yourself - remember who you are, the things you are good at, even when completely different thing. authentic self is a state'*
+
+How to improve reality? Be patient.
+
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
+
+> *'We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability».'*
 
 By breaking long term goals you can enjoy the journey.<br>
 Happiness is a journey, not a destination.
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
-
-<!--
-anchor yourself - remember who you are, the things you are good at, even when completely different thing
-authentic self is a state
--->
 
 
 
