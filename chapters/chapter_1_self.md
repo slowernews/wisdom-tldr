@@ -19,7 +19,7 @@ You are your deeds.
 Living is choosing.
 
 a) Choose to be your best self. You need to come alive.<br>
-Succeeding at mediocrity isn't a worthwhile life.
+Is succeeding at mediocrity a worthwhile life?
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -183,20 +183,31 @@ Codependent No More: How to Stop Controlling Others and Start Caring for Yoursel
 ---
 ### On gratefulness and happiness
 
-Formula of happiness:
-
 'Happiness = reality / expectations'
 
-to raise your happiness, So while you create the reality of your dreams, lower your expectations.<br>
 Seek happiness actively (action) and passively (lower expectations). Derived from:
 
 > *'Need to jump start happiness? Lower your expectations.' -- James Altucher*
 
 > *'Happiness is not a goal, it is a byproduct.' -- Eleanor Roosevelt*
 
+> *'Happiness is a journey, not a destination.' -- Ben Sweetland*
+
 > *'Happy life = mastery + belonging + autonomy.'*
 
-> *'happiness is inside you, not with another person.'*
+> *'Happiness is inside you, not with another person.'*
+
+How to improve reality? Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
+
+> *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
+
+> *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
+
+> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
+
+> *'We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability».'*
+
+> *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 
 How to lower your expectations? Be grateful.
 
@@ -208,22 +219,9 @@ How to lower your expectations? Be grateful.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
-> *'anchor yourself - remember who you are, the things you are good at, even when completely different thing. authentic self is a state'*
-
-How to improve reality? Be patient.
-
-> *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
-
-> *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
-
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
-
-> *'We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability».'*
-
-By breaking long term goals you can enjoy the journey.<br>
-Happiness is a journey, not a destination.
-
-> *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
+<!--
+> *'Anchor yourself - remember who you are, the things you are good at, even when completely different thing. authentic self is a state'*
+-->
 
 
 
@@ -562,12 +560,11 @@ HOWEVER... action not knowledge leads to [success](#on-success).
 
 > *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
 
-> *'«Pathological learners» who are voracious consumers of knowledge. They live in a 400 square foot apartment, are overweight, and in a relationship that looks like something out of a bad soap opera. Yet they know all this information! The problem is that they do not apply it. Knowledge without action is useless.'*
+> *'Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it.'*
+
+> *'If you are not constantly taking action on the new information that you are learning then you haven’t truly learned anything at all.'*
 
 <!--
-And if you are not constantly taking action on the new information that you are learning then you haven’t truly learned anything at all.
-Your first priority in life should always be to expand your knowledge and skill sets so that you are equipped to face whatever challenges life might throw at you.
-
 career day an year -> journaling self analysis.
 
 am i learning? if not you'll have a problem down the road.
@@ -605,9 +602,7 @@ Mentors are your best source of feedback. Only take advice from them.
 
 > *'Your father is your first mentor.'*
 
-<!--
-Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
--->
+> *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
 
 
 
@@ -621,6 +616,15 @@ But the path to mastery is a never ending story: skills are perishable.
 effort * talent = skill
 
 trade-able skills: figure out what skills you already have that you can charge for
+
+“The person who says he knows what he thinks but cannot express it usually does not know what he thinks.” -- Mortimer Adler
+
+teach something to a toddler to learn stuff
+
+the most credible people in any field are the people who have lived what they are preaching.
+Stop Hacking and do the work
+
+amateurs play for tricks, masters play for position
 -->
 
 > *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back' -- James Altucher*
@@ -639,11 +643,9 @@ trade-able skills: figure out what skills you already have that you can charge f
 
 > *'If you aren’t growing you’re dying.' -- Tony Robbins*
 
-<!--
 > *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
 
-“We don’t rise to the level of our expectations; we fall to the level of our training.” -Archilochus
--->
+> *'We don’t rise to the level of our expectations; we fall to the level of our training.' -- Archilochus*
 
 HOWEVER... mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
 
@@ -1044,6 +1046,10 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
 
+> *'Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.'*
+
+> *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
+
 <!-- 
 > *'Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.'*
 
@@ -1052,7 +1058,3 @@ Confidence is a result, not a requirement
 confidence relies on pride
 pursue authentic pride
 -->
-
-> *'Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.'*
-
-> *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
