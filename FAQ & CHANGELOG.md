@@ -8,13 +8,13 @@ I haven't a straightforward answer. It started as something I wanted and couldn'
 
 *What are your main biases?*
 
-Western culture and Agnosticism. Less relevant biases: Centrism, Minimalism and Intellectualism.
+Western culture and Agnosticism. Other biases: Centrism, Minimalism and Intellectualism.
 
 ---
 
 *Can I help?*
 
-Not sure yet. Anyway, for transparency, the source is available on Github and I'm open to criticism.
+I'm open to criticism.
 
 ---
 
