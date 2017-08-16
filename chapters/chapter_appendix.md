@@ -174,6 +174,8 @@ science of patterns.
 
 > *'Once I was beautiful, now I'm myself.'*
 
+> *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
+
 
 
 ---
@@ -193,7 +195,7 @@ HINTS:
 
 > *'Run away from complexity. Complexity doesn't add much to life.'*
 
-> *'Car: max 10K. Job: try to live next to it.' -- Mr. Money Moustache*
+> *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
 
 
 <!--
@@ -211,6 +213,25 @@ Essentialism: The Disciplined Pursuit of Less
 /r/buyitforlife
 
 using simpler tools to force simplicity is very interesting
+
+The simple reason for this is that we are not designed to live in this world.
+We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die.
+
+(follow your circadian rhythm, eat more real foods, and exercise more)
+the specifics are actually highly bio-individual.
+What works for one person will not necessarily work for another, because every body is different.
+Your body responds to substances, sleep patterns, forms of exercise, and supplementation differently from your best friend’s body which responds differently from his girlfriend’s body.
+
+house + work + third place (coffeeshop)
+
+“Exercise is king. Nutrition is queen
+
+Take Naps at Work. Apologize to No One.
+
+water, cold, hot, cold shower
+minimum effective dose
+
+Drinking alcohol borrows energy (and happiness) from tomorrow.
 -->
 
 
@@ -292,3 +313,12 @@ That's where «big bucks» are.
 > *'Most people with good taste are young and poor.'*
 
 > *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
+
+<!--
+
+---
+### On superpowers
+
+Not caring what other people think is a superpower.
+
+-->
