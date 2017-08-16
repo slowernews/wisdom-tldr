@@ -101,6 +101,8 @@ b) and specially, bias, will trigger miscalculations.
 
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 
+> *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
+
 Be specially careful when facing new ideas.<br>
 Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs.
 
