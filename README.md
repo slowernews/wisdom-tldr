@@ -119,11 +119,12 @@
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
-4 general advices:<br>
+5 general advices:<br>
 *'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
 *'Avoiding conflict will not keep peace, will rot it.'*<br>
 *'Life is a balancing act.'*<br>
 *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
+*'Happiness = reality / expectations'*
 
 One practical advice: *'Have more than one child.'*
 
