@@ -8,7 +8,7 @@ I haven't a straightforward answer. It started as something I wanted and couldn'
 
 *What are your main biases?*
 
-Western culture and Agnosticism.
+Western culture and Agnosticism. Less relevant biases: Centrism, Minimalism and Intellectualism.
 
 ---
 
