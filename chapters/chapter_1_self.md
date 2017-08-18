@@ -16,6 +16,10 @@ You are your deeds.
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
+<!--
+> *'If you can’t do the little things right you will never do the big things right' -- Admiral McRaven*
+-->
+
 Living is choosing.
 
 a) Choose to be your best self. You need to come alive.<br>
@@ -407,6 +411,10 @@ develop a tolerance for risk so that you can build up to the scarier activities 
 I sort of became comfortable with being uncomfortable to the point where now…if I start getting comfortable, I feel like I’m not learning anything and that I might be in a bubble.
 
 parabola do sapo e da agua a ferver
+
+To become stronger, you must push against resistance, you must struggle, you must sweat, and you must bleed.
+If you want your relationship to be stronger, you will have to face resistance. You cannot have a thriving marriage and never face adversity together.
+> *'To risk nothing is to risk even more'*
 -->
 
 
@@ -414,10 +422,11 @@ parabola do sapo e da agua a ferver
 ---
 ### On habits and systems
 
-Habits allow [mastery](#on-achieving-mastery) and [success](#on-success).<br>
 Consistency doesn’t come from effort, it comes from systems. Decisions compound.
 
-> *'We are what we repeatedly do, excellence therefore is not an act, but an habit.' -- Aristotle*
+> *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
+
+Will Durant “You are what you repeatedly do, excellence, therefore, is not an action, but a habit“.
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
@@ -578,6 +587,8 @@ If you are facing health struggles, you need to ask yourself these three questio
 
 Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
+
+If you’re not getting better today, you’re getting worse.”
 -->
 
 
