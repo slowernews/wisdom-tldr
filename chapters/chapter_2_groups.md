@@ -75,6 +75,15 @@ Personal branding means you are a liar
 list the people i met
 
 the importance of enthusiasm; the importance of connecting people; expect magic in any encounter
+
+people want to form relationships with those who seem like they’ll give more (or at least as much) than they take
+
+How to Enter a Room So People Take Notice
+1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
+2. Don’t Look Away! Eye contact builds trust.
+3. dont hide yourself.
+4. dont wait to start talking. a groou or a double might be an easy place to start.
+5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
 -->
 
 
@@ -82,7 +91,7 @@ the importance of enthusiasm; the importance of connecting people; expect magic 
 ---
 ### On communication
 
-Speak less and listen more: be [humble](#on-humbleness). Listening is powerful.
+Speak less and listen more: be humble. Listening is powerful.
 
 > *'Listen to many, speak to a few.' -- William Shakespeare*
 
@@ -505,7 +514,7 @@ Rotten peace builds resentment.'*
 ---
 ### On criticism and envy
 
-Outliers inspire envy. [Intelligence](#on-intelligence), [wealth](#on-wealth), [ambition](#on-ambition-and-motivation), [fame](#on-fame), [luck](#on-luck), [beauty](#on-beauty), [health](#on-stress-and-health) and a mix of them ([lifestyle](#on-lifestyle)) are the main triggers. 
+Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [wealth](/chapter_appendix.md#on-wealth), [ambition](/chapter_appendix.md#on-ambition-and-motivation), [fame](/chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](/chapter_appendix.md#on-beauty), [health](/chapter_appendix.md#on-stress-and-health) and a mix of them ([lifestyle](/chapter_appendix.md#on-lifestyle)) are the main triggers. 
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
@@ -544,7 +553,9 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
-
+<!--
+once they stop talking to you, they start to talk about you
+-->
 
 ---
 ### On following the herd
@@ -600,6 +611,8 @@ From Scott Adams (Dilbert):
 
 <!--
 politicians is a profession that doesn't like risk. what's the least amount of risk that i can offend anybody.
+
+para reduzir a corrupção deve-se diminuir o nr de pessoas envolvidas em processos analógicos.
 -->
 
 ---
