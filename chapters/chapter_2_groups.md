@@ -84,6 +84,23 @@ How to Enter a Room So People Take Notice
 3. dont hide yourself.
 4. dont wait to start talking. a groou or a double might be an easy place to start.
 5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
+
+Truth: A Better Way to Talk About Ourselves
+But after years of interviewing people about their lives, I’ve realized that there’s one story that’s actually pretty dangerous: the Story We Tell About Ourselves to Other People.
+The Seduction of Self-Mythology
+What a good story does, really, is condense a massive amount of information into a consumable and shareable form.
+Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant. As a result, most stories gloss over the banal and nonessential, and instead focus on the Most Interesting Parts (or MIPs, because who doesn’t love a useless acronym?) — the stuff that will keep your audience engaged.
+Hitchcock said that cinema is just life with the boring parts cut out. You could say the same thing about the stories we tell about ourselves.
+When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years.
+So a bio becomes a highlight reel of pedigree and accomplishments.
+They’d fail to accomplish our goal with a good story, which is to impress, to attract, to reassure, to sell.
+Because most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool.
+That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes
+We talk about authenticity here at AoC as a subtractive process, a quality you achieve not by adding things to yourself, but by subtracting the things that get in the way.
+
+You Attract What You Are
+
+If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
 -->
 
 
@@ -126,6 +143,19 @@ It’s a common belief that your first reaction is the most honest, but I disagr
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
 Don’t Talk to Somone. Talk with Them
+
+I walk up to perfect strangers and start a conversation?
+
+It comes back to the same advice we’ve given again and again: You have to be interested to be interesting.
+Take an interest in the other person, and they’ll walk away thinking you are interesting.
+Ask a question. Listen to the answer. Respond in the form of a statement.
+
+But What about Keeping a Conversation Going?
+Lots of people claim they’ve got nothing exciting to say during a conversation -- and it gets awkward when the initial small talk winds down. You actually do have interesting things to say, it just takes a little bit of preparation and getting to know yourself.
+
+Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
+
+Calm is largely a matter of slowing your speech down. Warmth comes from smiling while you speak.
 -->
 
 
@@ -348,6 +378,10 @@ When you do get an offer, Alex recommends not counteroffering immediately. “Sa
 A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.”
 
 Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
+
+“People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.” -- David Mamet
+
+The most dangerous negotiation is the one you don’t know you’re in.
 -->
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
@@ -459,6 +493,10 @@ You will waste your life trying to make those around into who you want them to b
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
+> *'When you enter a workplace, think that you will become like them and not the opposite.'*
+
+HINT: resist to temptation of working with friends.
+
 > *'here will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee.'*
 
 > *'Keep your friends for friendship, work with the skilled and competent.'*
@@ -468,15 +506,15 @@ You will waste your life trying to make those around into who you want them to b
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 <!--
-you're never a prophet in your homeland.
-
 4. Surround Yourself with People Who are Smarter than You 
 One of the first steps to becoming a more successful in all areas of your life is to surround yourself with people who are better than you in every area of life.
 If you want to improve your bank account, get around millionaires.
 If you want to improve your body, befriend competitive athletes
 If you want to improve your love life, go hang out with the town “Casanova”.
 When you are intentional about surrounding yourself with the right people, you will find every area of your life accelerating.
-Jim Rohn said it best, “You are the average of the five people you spend your time with most.” 
+Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
+
+If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.
 -->
 
 
@@ -573,6 +611,8 @@ Most people are other people. Their thoughts are someone else opinions and they 
 > *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
 
 > *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
+
+> *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*
 
 HOWEVER... smart people don’t think others are stupid and common sense is not so common.
 
