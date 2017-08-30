@@ -6,9 +6,9 @@
 	|  / |__/ |__/ |__  |  / |__/ |  / / 
 	     |    |                          
 
-# Appendix A - Time
 
 ### On past and memory
+# Appendix A - Time
 
 You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
 They are meant to guide you, not to define you or determine your future.
@@ -33,6 +33,9 @@ How memory works? People forget by decaying and giving them other stuff to remem
 
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* 
 
+<!--
+“Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.”
+-->
 
 
 ---
@@ -63,6 +66,8 @@ be present
 life is long enough
 
 We are all made of time and we keep wasting each other..
+
+> *'If you are waiting for anything in order to live and love without holding back, then you suffer.' -- David Deida*
 -->
 
 
@@ -118,6 +123,10 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 <!--
 “You’re not supposed to optimize for money; you’re supposed to optimize for happiness.”
 -- Mr. Money Mustache (AKA Pete Adeney)
+
+nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, question
+
+> *'Don’t think money does everything or you are going to end up doing everything for money.' -- Voltaire*
 -->
 
 ---
@@ -161,6 +170,8 @@ HOWEVER...
 science of patterns.
 
 > *'If you live long enough, most people will get what they deserve.' -- Charlie Munger*
+
+You create your luck by being healthy and not regretting the past or being anxious about the future.
 -->
 
 
@@ -170,11 +181,11 @@ science of patterns.
 
 > *'Beauty is not a gift, it's a burden.'*
 
-> *'Beauty doesn't always correlate with virtue.'*
-
 > *'Once I was beautiful, now I'm myself.'*
 
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
+
+> *'Beauty doesn't always correlate with virtue.'*
 
 
 
@@ -196,7 +207,6 @@ HINTS:
 > *'Run away from complexity. Complexity doesn't add much to life.'*
 
 > *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
-
 
 <!--
 “Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
@@ -232,6 +242,17 @@ water, cold, hot, cold shower
 minimum effective dose
 
 Drinking alcohol borrows energy (and happiness) from tomorrow.
+
+Discover why travel solves a plethora of self-improvement goals in one fell swoop.
+How does really traveling differ from a standard vacation?
+
+When life becomes about seizing every moment enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
+
+Simplify. Cut the crap. Get rid of the unnecessary distractions. Toss out any possessions that don’t bring value or joy into your life. Remove any obligations that aren’t truly serving your end goals.
+
+Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
+
+digital travleing -> mini lifes
 -->
 
 
@@ -241,21 +262,37 @@ Drinking alcohol borrows energy (and happiness) from tomorrow.
 
 ### On investment
 
-Spend less, a lot less, than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
-
-> *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
-
-> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
 
 > *'It is often said that the secret to getting rich is not to make more money, but to keep it.'*
 
+> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
+
+> *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
+
+HINT: Buy low and sell high. But how?
+
+> *'Don’t buy on future hopes; only buy on past mistakes.'*
 
 > *'The best companies aren't sold, they're bought.'*
 
+> *'What's your religion? Arbitrage.' -- Me*
+
+HINT: How to spot trends?
+
 > *'Wherever oil goes, the stock market goes.'*
 
+> *'Recessions are caused when a bunch of people lose confidence all at once.'*
 
+<!--
+entrepreneurship vs investment (2 different mentalities
+
+investment: the Barbell strategy
+
+fazer dinheiro: cambios e rendas
+-->
 
 ---
 ### On religion
