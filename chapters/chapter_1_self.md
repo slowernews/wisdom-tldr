@@ -14,10 +14,14 @@ You are your deeds.
 
 > *'How you do anything is how you do everything.'*
 
+> *'If you can’t do the little things right you will never do the big things right' -- Admiral McRaven*
+
+> *'Words are deeds.' -- Ludwig Wittgenstein*
+
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
 <!--
-> *'If you can’t do the little things right you will never do the big things right' -- Admiral McRaven*
+your actions reveal your real values.
 -->
 
 Living is choosing.
@@ -225,6 +229,8 @@ How to lower your expectations? Be grateful.
 
 <!--
 > *'Anchor yourself - remember who you are, the things you are good at, even when completely different thing. authentic self is a state'*
+
+high expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed
 -->
 
 
@@ -343,6 +349,10 @@ challenge
 Because that is where you will find true fulfillment and satisfaction.
 
 Create Projects, Not Goals
+
+When you start walking, the path will be revealed.
+
+"Mediocrity, as a goal, sucks... as a result, is OK"
 -->
 
 
@@ -415,6 +425,13 @@ parabola do sapo e da agua a ferver
 To become stronger, you must push against resistance, you must struggle, you must sweat, and you must bleed.
 If you want your relationship to be stronger, you will have to face resistance. You cannot have a thriving marriage and never face adversity together.
 > *'To risk nothing is to risk even more'*
+
+Exposing ourselves to potentially uncomfortable situations doesn’t just give us opportunities to grow, but it provides us with the grist for good stories we may well be telling for the rest of our lives
+
+“I like to do things that are BIG. Every year I want to make sure I do something really big. Really special.
+I want to do my special thing each year. I want my life to compound into wonder.
+
+people have to risk or we never would have to the moon or making new stuff.
 -->
 
 
@@ -483,6 +500,11 @@ look at situations as systems. i help to create systems.
 Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
 
 catalyst
+
+fixing bad habits?
+Kill Bad Habits With Mindfulness. Pay attention. Don’t judge
+RAIN: Recognize, Accept, Investigate, Note
+bad habits not only don’t fix your problems, they often make them worse.
 -->
 
 
@@ -597,23 +619,23 @@ If you’re not getting better today, you’re getting worse.”
 ### On feedback
 
 Feedback speeds up improvement.<br>
-Mentors are your best source of feedback. Only take advice from them.
-
-> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
-
-> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach'*
+But only take advice from mentors. They are the best source of feedback.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
-
-> *'Follow the thought leaders instead of the traffic leaders.'*
 
 > *'Find mentors to help you improve, even virtual mentors as a good book.'*
 
 > *'A coach spots your bullshit before you open your mouth.'*
 
-> *'Your father is your first mentor.'*
+> *'Follow the thought leaders instead of the traffic leaders.'*
+
+<!--
+> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
+
+> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach.'*
 
 > *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
+-->
 
 
 
@@ -704,6 +726,8 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 > *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
 > *'All my life I was taught how to deal with failure. My dad would ask us at the dinner table every night: «how did you fail today?»' -- Sara Blakely*
+
+> *'Your father is your first mentor.'*
 
 <!--
 educating kids
@@ -814,6 +838,8 @@ over-stimulation = anxiety'*
 <!--
 “There is no such thing as successful aging because aging is damage.” – Art De Vany
 
+how to fight depression? starve and exercise
+
 > *'Depression is a lack of your expression.' -- Scott Steindorff
 
 You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker
@@ -868,6 +894,8 @@ Reframe Your Pain and Become Grateful
 The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
 If you feel powerless/being dominated you will be chronically stressed.
+
+If you need an alarm clock to get you started mornings, you are cheating yourself on rest.
 -->
 
 
@@ -950,6 +978,12 @@ Realize that on the other side of every fear is a stronger, more powerful, and m
 Break Down Your Fears Until You Figure Out the Truth
 we stuck in the fear of consequences
 you will never achieve anything if you allow indecisiveness to lead to inaction.
+
+> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
+
+> *'Hatred is born of ignorance. Fear is its father, and isolation is its mother.' -- Christian Picciolini*
+
+Someone else’s strengths don’t make you look bad—but being jealous and insecure does.
 -->
 
 
@@ -989,6 +1023,8 @@ the opposite is true also
 you fail by the same reasons that you sometimes you will succeed
 
 Calling it an experiment gives you permission to fail. -- A.J. Jacobs
+
+> *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
 -->
 
 
