@@ -54,6 +54,14 @@ Creativity is a muscle - you have to practice it every day.
 > *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
 
 Once creativity stays the same, it is no longer creative.
+
+Amos Tversky, the late collaborator of Nobel-winning psychologist Daniel Kahneman, once said “the secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.”
+
+boredom leads to creativity
+
+“If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?”
+
+I believe creativity is born out of free time
 -->
 
 Creativity is linked to autonomy.
@@ -130,6 +138,15 @@ not playing your hand but playing your opponent.'*
 Nietszche says to measure one's strength by the number of parasites one can support.
 
 It is possible to view this as an isolated event or a trend
+
+One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
+
+“A world constructed from the familiar is the world in which there's nothing to learn.”
+In shaping what we see, filter bubbles show us a distorted map and not the terrain
+
+> *'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?' -- George Carlin*
+
+> *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
 -->
 
 
@@ -632,6 +649,8 @@ Clean players on shady markets usually don't do well on the long term.
 > *'Bad liars should speak as little as possible.'*
 
 the good reason (the reason they tell you) and the real reason.
+
+“The moment a magician says, ‘Now we begin,’ you’re already screwed!” -Brian Brushwood
 -->
 
 
