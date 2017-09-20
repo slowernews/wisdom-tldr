@@ -6,9 +6,9 @@
 	|  / |__/ |__/ |__  |  / |__/ |  / / 
 	     |    |                          
 
+# Appendix A - Time
 
 ### On past and memory
-# Appendix A - Time
 
 You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
 They are meant to guide you, not to define you or determine your future.
@@ -301,6 +301,8 @@ fazer dinheiro: cambios e rendas
 
 > *'Science without religion is lame. Religion without science is blind.'*
 
+> *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
+
 > *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
 
 > *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
@@ -310,19 +312,19 @@ fazer dinheiro: cambios e rendas
 ---
 ### On science
 
-> *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
-
-> *'The whole of science is nothing more than a refinement of everyday thinking.'*
-
 > *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
 
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
-> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
-
 > *'The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...' -- Isaac Asimov*
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.'*
+
+<!--
+> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
+
+> *'The whole of science is nothing more than a refinement of everyday thinking.'*
+-->
 
 
 
