@@ -159,6 +159,7 @@ Calm is largely a matter of slowing your speech down. Warmth comes from smiling 
 -->
 
 
+
 ---
 ### On business and entrepreneurship
 
@@ -241,6 +242,10 @@ You only have to be really right once.
 - Bill Gates didn’t think the Internet had any potential. Seriously.
 - History is filled with examples of people like this. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.
 If you only have to be right once, your goal must be to allow yourself many opportunities to be wrong and still keep going.
+
+People Don’t Buy Products, They Buy Better Versions of Themselves
+Learn to Provide Relative Value on a Massive Scale and You Will Become Rich
+three things make anything possible: People, technology and money.
 -->
 
 
@@ -252,11 +257,6 @@ We're all in sales. You're in sales anytime you interact with anybody.
 
 Sales used to be about information asymmetry but times are changing.<br>
 Now it's mostly [applied persuasion](#on-charming) and keeping relationships.
-
-> *'Historically, the seller had more information than the buyer.<br>
-Its a different game now. Everybody knows immediately the alternatives.'*
-
-> *'Selling by just keeping in touch.'*
 
 > *'To sell is to deal with objections.'*
 
@@ -298,12 +298,31 @@ ocean of rejection. face your failures is a good indicator of being a good selle
 most rejections are not your fault.
 
 I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
+
+traditional selling: -> extroverts -> cold calling -> tech made it more difficult
+Intruding (to get your foot in the door)
+Pitching (to persuade the customer to buy)
+Persisting (to push until you make the sale)
+
+effective selling: -> ambiverts and introverts -> We don't need hunters, just farmers
+Research (to understand the customer - time spent alone on the Web, reading and analyzing information)
+Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)
+Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
+
+If They Can’t Pay, Walk Away
 -->
 
 
 
 ---
 ### On negotiation and price
+
+Negotiation establishes the price (exchange rate between money and value).
+That said, a bad/good negotiation means that you are adding more/less value than receiving for it.
+
+> *'You don’t get what you deserve in life, you only get what you negotiate.'*
+
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 To negotiate is to have options.<br>
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
@@ -314,23 +333,39 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
+«What’s your best out-the-door price?»
+«Can you do X% below that?»
+«If you can reach my price, I’ll buy today.»
+
 Never negotiate with binary questions: 
 
 > *'«What can you do?» instead of «Will you do this?»'*
 
-Best way to say no:
+How to say no?
 
 > *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
 
 Tone of voice is a big clue to know with whom we are negotiating:
 
-> *'The analytical cold guy is very patient; <br>
-The assertive guy (eg. Trump) wants to make it fast; <br>
+> *'The analytical cold guy is very patient;<br>
+The assertive guy (eg. Trump) wants to make it fast;<br>
 For the accomodator, the relationship is the most important'*
 
-<!--
-“No one’s going to help you in a way that’s not beneficial to them.”
+> *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
 
+> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
+
+> *'Mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
+
+HOWEVER... always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
+
+> *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
+
+> *'You can’t make a good deal with a bad person.' -- Warren Buffett*
+
+> *'The most dangerous negotiation is the one you don’t know you’re in.'*
+
+<!--
 > *'Unexpressed feelings never die.'*
 > *'Releasing pressure is different from venting.'*
 > *'The more influence somebody is the more they use we / plural pronouns.'*
@@ -341,27 +376,15 @@ naming the negatives first.'*
 
 REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
 
-you don’t get what you deserve in life, you only get what you negotiate.
-
 never split the difference
 
 Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-
-> *'Instead of generalizing, stick with the facts.'*
 
 make an agreement on a standard of value.
 my standard of value for a weekend: some combination of rejuvenation and human connection.
 normally we fall into habits. we don't do what is best for ourselves.
 people have different standards of value: weekend example
 rejuvenation and human conception will derail to your habits.
-
-Only Is Better Than Best
-
----
-
-“What’s your best out-the-door price?”
-“Can you do X% below that?“
-“If you can reach my price, I’ll buy today.”
 
 Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
 
@@ -378,27 +401,7 @@ When you do get an offer, Alex recommends not counteroffering immediately. “Sa
 A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.”
 
 Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
-
-“People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.” -- David Mamet
-
-The most dangerous negotiation is the one you don’t know you’re in.
 -->
-
-> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
-
-> *'mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
-
-Negotiation establishes the price (exchange rate between money and value).
-That said, a bad/good negotiation means that you are adding more/less value to the world than receiving money for it
-
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
-
-HOWEVER... always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
-
-> *'Peace cannot be kept by force. It can only be achieved by understanding.'*
-
-> *'You can’t make a good deal with a bad person.'*
-
 
 
 ---
@@ -409,17 +412,6 @@ Relationships are based on mutual [trust](#on-trust).
 > *'A great relationship is about finding the similarities and respect the differences.'*
 
 > *'Focus on what you can give not what you can get. You only receive in proportion to what you give.'*
-
-<!--
-first we judge trust, before strength.
-we build trust through presence. leadership is based on trust.
-
-> *'If a person is nice to you and to nobody else, that person is not nice.'*
-
-on a deep relationship, politics must match
-
-“I won’t be less just because you cannot be more”
--->
 
 HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
 
@@ -433,10 +425,20 @@ HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. R
 
 > *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
+> *'If a person is nice to you and to nobody else, that person is not nice.'*
+
 > *'You loose your identity, you loose people.' -- Amy Cuddy*
 
 > *'Don't let people that are bad influences to put you down.'*
 
+<!--
+first we judge trust, before strength.
+we build trust through presence. leadership is based on trust.
+
+on a deep relationship, politics must match
+
+“I won’t be less just because you cannot be more”
+-->
 
 
 ---
@@ -457,7 +459,7 @@ HOWEVER...
 HINTS:
 
 > *'If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
-You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.'
+You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.'*
 
 > *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
 First, your observations, or what you have noticed is happening in your relationship.<br>
@@ -474,6 +476,7 @@ How to move on?
 <!--
 1. You Need to Partner with Someone Who Wants you to Be All You Can Be
 -->
+
 
 ---
 ### On family and friends
@@ -495,17 +498,17 @@ You will waste your life trying to make those around into who you want them to b
 
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
 
-HINT: resist to temptation of working with friends.
+HINT: resist to temptation of working with family and friends.
 
-> *'here will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee.'*
+> *'There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee.'*
 
 > *'Keep your friends for friendship, work with the skilled and competent.'*
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
+<!--
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
-<!--
 4. Surround Yourself with People Who are Smarter than You 
 One of the first steps to becoming a more successful in all areas of your life is to surround yourself with people who are better than you in every area of life.
 If you want to improve your bank account, get around millionaires.
@@ -522,7 +525,7 @@ If you spend the majority of your time in worlds where people are accomplishing 
 ---
 ### On rewards
 
-Be an expert gift giver.
+Be generous.
 
 > *'Negative reinforcement isn’t as effective as positive reinforcement - even for people. Punishment only works near the situation that did that to you.'*
 
@@ -558,13 +561,10 @@ Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [we
 
 > *'They called her witch because she knew how to heal herself.'*
 
-> *'Never appear too perfect.' -- Robert Greene (46th law of power)*
-
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
-You’re judged by what you say, not what you think.
-
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)*
+> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)<br>
+'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
@@ -591,9 +591,9 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
-<!--
-once they stop talking to you, they start to talk about you
--->
+> *'Once they stop talking to you, they start to talk about you.'*
+
+
 
 ---
 ### On following the herd
@@ -614,6 +614,8 @@ Most people are other people. Their thoughts are someone else opinions and they 
 
 > *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*
 
+> *'Never attribute to malice that which can be adequately explained by neglect. -- Hanlon’s Razor'*
+
 HOWEVER... smart people don’t think others are stupid and common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
@@ -621,8 +623,6 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» - it means they’ve stopped thinking.'*
 
 <!--
-Never attribute to malice that which can be adequately explained by neglect. -- Hanlon’s Razor
-
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
@@ -649,11 +649,13 @@ From Scott Adams (Dilbert):
 
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
-<!--
-politicians is a profession that doesn't like risk. what's the least amount of risk that i can offend anybody.
+> *'Politician is a profession that doesn't like risk. Decisions are made based on the lowest risk of offending anybody.'*
 
+<!--
 para reduzir a corrupção deve-se diminuir o nr de pessoas envolvidas em processos analógicos.
 -->
+
+
 
 ---
 # 2.3 - On teams
@@ -689,6 +691,8 @@ HOWEVER...
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
 <!--
+Being a leader requires to be equal parts manager and psychotherapist.
+
 > *'I’m not here to help; I’m here to learn.'*
 
 reduce you feelings of power to be more effective
@@ -723,14 +727,35 @@ a good leader: a) knows when to speak and when don't. b) knows to create a visio
 
 
 ---
-### On management
+### On management and delegation
 
-Management is about communication.<br>
-Being a leader requires to be equal parts manager and psychotherapist.
+Managing is delegating. Your speed as a manager is the speed of the team.
+
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
+> *'A manager should make himself 2 questions a day: <br>
+«What is important to accomplish?» (where are you going)<br>
+«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
+The speed that you offload your stuff will be the speed of your team.'*
+
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
+> *'Productivity is different from workflow engineering.'*
+
+> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
+The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
+
+<!--
+> *'Too busy pretending I'm occupied.'* 
+-->
 
 > *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
 
-> *'Spend 1 hour a day just talking to your people and everything will be OK.'*
+For that you need to communicate.
+
+> *'Spend one hour a day just talking to your people and everything will be OK.'*
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
@@ -755,42 +780,13 @@ HOWEVER... a leader needs [humility](#on-identity). Gaining an understanding and
 
 
 ---
-### On delegation and productivity
-
-Managing is delegating. Your speed as a manager is the speed of the team.<br>
-
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
-
-> *'A manager should make himself 2 questions a day: <br>
-«What is important to accomplish?» (where are you going)<br>
-«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
-The speed that you offload your stuff will be the speed of your team.'*
-
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
-
-> *'Productivity is different from workflow engineering.'*
-
-> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
-
-<!--
-> *'Too busy pretending I'm occupied.'* 
--->
-
-
-
----
-### On hiring and keeping talent
+### On hiring and being hired
 
 Hire most but only retain the best.
 
 > *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
 
-> *'2 valid methods: hiring on culture contribution and hiring on culture matching.'*
-
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+> *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
 
 > *'He who works with his hands is a laborer.<br>
 He who works with his hands and his head is a craftsman.<br>
@@ -812,14 +808,11 @@ Ok, so their base pay is only $50,000  a year…
 But what is their long term potential when you include bonuses, equity, and commission?
 If you offer enough incentives, you will attract incredible talent into your business.
 Real Talent Cares More About Upside than Income
+
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 -->
 
-
-
----
-### On being hired
-
-Employers hire you because you are a likable person that «gets shit done».
+Employers hire likable persons that «gets shit done».
 
 > *'When applying for a job be more of a consultant than an applicant.'*
 
@@ -835,8 +828,7 @@ To be employed, you'll do better as a specialist. If you pick the right speciali
 
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
-HOWEVER... having a job is risky: companies don't care about you.<br>
-So avoid the trap of following one set career path. It will be easier to pivot when needed.
+HOWEVER... jobs are risky. So avoid the trap of following one set career path. It will be easier to pivot when needed.
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
@@ -854,7 +846,10 @@ So avoid the trap of following one set career path. It will be easier to pivot w
 
 > *'People pivot to near areas, combining two skills.'*
 
-> *'Stack of skills -- Scott Adams
+<!--
+
+Stack of skills -- Scott Adams
+
 
 100% time -> 100% results<br>
 20% time -> 80%results<br>
@@ -866,7 +861,6 @@ write a pitch, are u persuasive, can you change somebody else opinion. making a 
 2) question: talent ledger: what are the people that were working for them. top leaders ask for help and give knowledge away. more open source.<br>
 3) take risks to boost your immune system.'*
 
-<!--
 differentiate yourself / volunteer for an assignment
 becoming the go to guy for some questions
 
@@ -890,7 +884,7 @@ They don’t want to lose you. They don’t want to lose the negotiation. And th
 ---
 ### On hierarchy
 
-Only comedians can speak the truth without consequences. Everything is hierarchy.
+Everything is hierarchy. Only comedians can speak the truth without consequences.
 
 > *'Never outshine the master.'<br>
 'Know who you’re dealing with: do not offend the wrong person.'<br>
