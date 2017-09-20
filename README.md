@@ -53,10 +53,8 @@
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)
-- [On management](/chapters/chapter_2_groups.md#on-management)
-- [On delegation and productivity](/chapters/chapter_2_groups.md#on-delegation-and-productivity)
-- [On hiring and keeping talent](/chapters/chapter_2_groups.md#on-hiring-and-keeping-talent)
-- [On being hired](/chapters/chapter_2_groups.md#on-being-hired)
+- [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
+- [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
 
 
@@ -124,8 +122,9 @@
 *'Avoiding conflict will not keep peace, will rot it.'*<br>
 *'Life is a balancing act.'*<br>
 *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
-*'Happiness = reality / expectations'*
+*'Happiness = reality / expectations'*<br>
 *'No man is a prophet in his own land'*
+
 
 One practical advice: *'Have more than one child.'*
 
