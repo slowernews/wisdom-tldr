@@ -14,31 +14,29 @@ You are your deeds.
 
 > *'How you do anything is how you do everything.'*
 
-> *'If you can’t do the little things right you will never do the big things right' -- Admiral McRaven*
+> *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
 > *'Words are deeds.' -- Ludwig Wittgenstein*
-
-> *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
 <!--
 your actions reveal your real values.
 -->
 
-Living is choosing.
+You are your choices.
 
-a) Choose to be your best self. You need to come alive.<br>
-Is succeeding at mediocrity a worthwhile life?
+a) Choose to come alive. Is succeeding at mediocrity a worthwhile life?
+
+> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
+
+How?
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
 
-> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
+<a id="on-trust"></a>b) Choose integrity. It's the only way to be respected and build trust.
 
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
-
-<a id="on-trust"></a>b) Choose to keep your integrity.<br>
-It's the only way to be respected and build trust.
 
 > *'Trust, not money, is the currency of business and life.'*
 
@@ -107,11 +105,13 @@ The world responds to vulnerability, not meticulously written articles that requ
 Be raw, be real, tell people what is really going on. The more vulnerable you are, the more people will be able to relate with you and the more of an impact you will be able to have. Don’t try to be perfect. Just be real and the results will come.
 -->
 
-<a id="on-humbleness"></a>c) Choose to be humble and grateful. You are not perfect neither you'll ever be.
-
-> *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
+<a id="on-humbleness"></a>c) Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
+
+How?
+
+> *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
 HOWEVER... live in accordance with your nature. If you try to be something you're not, you end up being nothing.
 
