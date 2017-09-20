@@ -487,12 +487,12 @@ You need to build your board of directors. Life is meant to be lived in communit
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
 
+> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
+
 HOWEVER... choose who surrond you: you are the average of these people<br>
 You will waste your life trying to make those around into who you want them to be.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
-
-> *'Get proximity to successful, happy, and rich people. Be cool. They will likely influence you automatically.'*
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
@@ -507,8 +507,6 @@ HINT: resist to temptation of working with family and friends.
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
-> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
-
 4. Surround Yourself with People Who are Smarter than You 
 One of the first steps to becoming a more successful in all areas of your life is to surround yourself with people who are better than you in every area of life.
 If you want to improve your bank account, get around millionaires.
@@ -525,11 +523,9 @@ If you spend the majority of your time in worlds where people are accomplishing 
 ---
 ### On rewards
 
-Be generous.
+Always be generous: a low value gift can have the opposite effect.
 
 > *'Negative reinforcement isn’t as effective as positive reinforcement - even for people. Punishment only works near the situation that did that to you.'*
-
-> *'Always be generous: a low value gift can have the opposite effect.'*
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'*
 
@@ -561,17 +557,15 @@ Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [we
 
 > *'They called her witch because she knew how to heal herself.'*
 
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
 > *'Think as you like but behave like others.' -- Robert Greene (38th law of power)<br>
 'Never appear too perfect.' -- Robert Greene (46th law of power)*
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
-When people criticize your life they are speaking about their fears and limitations not yours.<br>
-So ignore and be flattered by these people, whether they are bosses, life-long friends, or even family members.
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
-Only take advice from [those who are achieving what you want to achieve](#on-feedback), and ignore the rest.
+When people criticize your life they are speaking about their fears and limitations not yours.<br>
+Only take advice from [those achieving what you want to achieve](#on-feedback). Ignore and be flattered by the rest.
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
 
@@ -614,7 +608,7 @@ Most people are other people. Their thoughts are someone else opinions and they 
 
 > *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*
 
-> *'Never attribute to malice that which can be adequately explained by neglect. -- Hanlon’s Razor'*
+> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
 
 HOWEVER... smart people don’t think others are stupid and common sense is not so common.
 
@@ -649,7 +643,7 @@ From Scott Adams (Dilbert):
 
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
-> *'Politician is a profession that doesn't like risk. Decisions are made based on the lowest risk of offending anybody.'*
+> *'Politician is a profession that doesn't like risk. Decisions are made on the lowest risk of offending anybody.'*
 
 <!--
 para reduzir a corrupção deve-se diminuir o nr de pessoas envolvidas em processos analógicos.
