@@ -10,17 +10,9 @@
 
 ### On creativity, vision and ideas
 
-Always be doing something creative. Without new experiences, your soul rots.
-
-Finding a good idea: idea sex - mix stuff
-
-> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
-
-> *'We can’t solve problems by using the same kind of thinking we used when we created them.'*
+We don’t have an «imagination» we have a memory. Creative minds are rarely tidy.
 
 > *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
-
-> *'We don’t have an «imagination» we have a memory.'*
 
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
 
@@ -30,39 +22,38 @@ Finding a good idea: idea sex - mix stuff
 
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
-> *'Creative minds are rarely tidy.'*
-
-Judging ideas?
+How to find and judge ideas?
 
 > *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
 
+> *'If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?'*
+
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
-<!--
--ideas are not worth a damn thing. Only execution is.Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.
-
-negative inspiration (things that don't work) - positive inspiration!
-
-> *'Moments of originality and moments of conformity.'*
-
-> *'Teach no one your tricks or they will be used against you.'* 
-
-ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
-
-Creativity is a muscle - you have to practice it every day.
+> *'Ideas are not worth a damn thing. Only execution is. Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.'*
 
 > *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
 
+ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
+
+Finding a good idea: idea sex - mix stuff
+
+Always be doing something creative. Without new experiences, your soul rots.
+
+> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
+
+> *'We can’t solve problems by using the same kind of thinking we used when we created them.'*
+
+> *'Moments of originality and moments of conformity.'*
+
+Creativity is a muscle - you have to practice it every day.
 Once creativity stays the same, it is no longer creative.
 
-Amos Tversky, the late collaborator of Nobel-winning psychologist Daniel Kahneman, once said “the secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.”
+Creativity is born out of free time, boredom leads to creativity
 
-boredom leads to creativity
+> *'The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.' -- Amos Tversky*
 
-“If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?”
-
-I believe creativity is born out of free time
--->
+> *'I cultivate empty space as a way of life for the creative process.' -- Josh Waitzkin*
 
 Creativity is linked to autonomy.
 
@@ -70,6 +61,14 @@ Creativity is linked to autonomy.
 In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.<br>
 In executive position, visionary, maverick, multidisciplinary thinker, etc.<br>
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
+
+<!--
+Play is a gateway to possibility.
+
+Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
+
+“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.”
+-->
 
 
 
@@ -85,17 +84,19 @@ Analysis is an art, not a science.
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
 And, as such, error-prone:<br>
-a) randomness;
-
-> *'Most facts are a «tell» but some are just random.'*
+a) randomness: most facts are a «tell» but some are just random.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
-c) [being deceived](#on-deceiveness);
+> *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
 > *'Not everything that counts can be counted, and not everything that can be counted counts.'*
 
-> *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
+It is possible to view this as an isolated event or a trend
+
+c) [being deceived](#on-deceiveness);
+
+> *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
 
 b) and specially, bias, will trigger miscalculations.
 
@@ -110,6 +111,10 @@ b) and specially, bias, will trigger miscalculations.
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 
 > *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
+
+> *'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?' -- George Carlin*
+
+One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
 Be specially careful when facing new ideas.<br>
 Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs.
@@ -135,18 +140,8 @@ HINTS:
 <!--
 not playing your hand but playing your opponent.'*
 
-Nietszche says to measure one's strength by the number of parasites one can support.
-
-It is possible to view this as an isolated event or a trend
-
-One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
-
 “A world constructed from the familiar is the world in which there's nothing to learn.”
 In shaping what we see, filter bubbles show us a distorted map and not the terrain
-
-> *'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?' -- George Carlin*
-
-> *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
 -->
 
 
@@ -174,6 +169,10 @@ Make the decisions right now. When in the moment of making the decision, you hav
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
 <!--
+bad decisions, good memories
+
+if you do do the decision somebody will make it for you.
+
 “Hard decisions are only hard when you’re in the process of making them.” -- Debbie Millman
 
 D: Define the problem simply.
@@ -181,7 +180,6 @@ A: Assess the impact.
 N: Name the underlying dynamic.
 C: Create the smallest next step you can.
 E: Establish personal accountability.
-
 
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
@@ -207,7 +205,6 @@ inoculate yourself from the stress of making hard decisions when you need to. --
 Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success.
 You must know exactly what you want, when you want it, and why you want it.
 Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
-
 -->
 
 How to plan: start with a [vision](#on-creativity-vision-and-ideas).
@@ -220,8 +217,6 @@ How to plan: start with a [vision](#on-creativity-vision-and-ideas).
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
-HINTS: How to plan?
-
 > *'Look for actionable steps.'*
 
 > *'A well defined problem seeks its own solution' -- Mike Brundant*
@@ -233,6 +228,8 @@ HINTS: How to decide?
 > *'Choose the plan with more options. The one that lets you change plan.'*
 
 > *'Hell yes or no.' -- Derek Sivers*
+
+> *'My brother says to never make a big decision before you take a shower.'*
 
 HOWEVER... some people get paralyzed by [over thinking](#on-starting-and-timing).
 
@@ -251,7 +248,7 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 ---
 # 3.2 - On executing
 
-### On starting, right time and procrastination
+### On starting and timing
 
 Just start.<br>
 You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
@@ -296,18 +293,20 @@ Don’t overthink it. Don’t waste time analyzing it.
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
-> *'People procrastinate specially when there are no urgency/deadlines: the panic monster.'*
+> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
 Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.<br>
 You will languish if you stop for a long time.
 
 > *'Master the art of timing.' -- Robert Greene (35th law of power)*
 
-> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
-
 > *'The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing.' -- Winston Churchill*
 
 > *'Perfectionism leads to procrastination, which leads to paralysis.'*
+
+> *'People procrastinate specially when there are no urgency/deadlines: the panic monster.'*
+
+> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
 HOWEVER... you should have a [plan](#on-planning).
 
@@ -315,13 +314,14 @@ HOWEVER... you should have a [plan](#on-planning).
 
 > *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
 
+> *'No one ever wrote a plan to be fat lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
+
 
 
 ---
 ### On pace, position and direction
 
-Direction is more important than pace.<br>
-Don’t be afraid to take time away to find it. 
+Direction is more important than pace.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
@@ -329,17 +329,21 @@ Don’t be afraid to take time away to find it.
 
 > *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
 
+Don’t be afraid to take time away to find it. 
+
 > *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
+
+Don't be thirsty.
 
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
 > *'You finished ahead of time, that means you forgot something.'*
 
-Don't be thirsty.
-
 > *'Vai procurar, vai achar o que não tinha perdido.'*
 
 > *'Who seeks shall find.' -- Sophocles*
+
+> *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
 
 'Position yourself for victory.'
 
