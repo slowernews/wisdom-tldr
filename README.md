@@ -67,7 +67,7 @@
 - [On planning and decision making](/chapters/chapter_3_action.md#on-planning-and-decision-making)
 
 *On executing*
-- [On starting, right time and procrastination](/chapters/chapter_3_action.md#on-starting-right-time-and-procrastination)
+- [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
 - [On pace, position and direction](/chapters/chapter_3_action.md#on-pace-position-and-direction)
 - [On focus and time management](/chapters/chapter_3_action.md#on-focus-and-time-management)
 - [On control](/chapters/chapter_3_action.md#on-control)
@@ -105,15 +105,19 @@
 - [On beauty](/chapters/chapter_appendix.md#on-beauty)
 - [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
 
-*Others*
+*Other*
 - [On investment](/chapters/chapter_appendix.md#on-investment)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science](/chapters/chapter_appendix.md#on-science)
 - [On art](/chapters/chapter_appendix.md#on-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 
+*Bonus*
+- [On superpowers](/chapters/chapter_appendix.md#on-superpowers)
+
 
 ### TL;DR 
+
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
