@@ -10,83 +10,39 @@
 
 ### On networking
 
-Don't isolate yourself. The people you know and whether they like you will determine what opportunities you get.
-
-> *'The purpose of high education is first and foremost to meet people and build relationships.'*
+Don't isolate yourself. Who you know and whether they like you will determine what opportunities you get.
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'<br>
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
 
-> *'You're never too old to make a friend. Always be looking for a new one.'*
+> *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
-> *'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
+> *'You're never too old to make a friend. Always be looking for a new one.'<br>
+'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
-HINTS:
+> *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves — even if they see us better than we see ourselves.'*
 
-> *'Networking types: advocates a, boomerang b, celebrities c, drainers d<br>
-shark, dolphin, drowner'*
+How to network?
+
+Adding value is everything. Find out what people actually want and give it to them.<br>
+People want to form relationships with those who seem like they’ll give more (or at least as much) than they take.
+
+> *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*
 
 > *'Social inadequacy AKA creepiness is based on unpredictability.'*
 
-> *'Regarding networking adding value is everything.'*
+> *'Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real'*
 
-> *'Prepare an elevator pitch.'*
+> *'If people forget it wasn't a good network anyway'*
 
+> *'The importance of enthusiasm; the importance of connecting people; expect magic in any encounter'*
 
-<!--
-we don’t like people that see us in a way that doesn’t resonate with how we see ourselves — even if they see us…better than we see ourselves.
+How to prepare an elevator pitch?
 
-building a network is critical
-
-3) Find out what people actually want
-
-if people forget it wasn't a good network anyway
-
-A person starts to live when he can live outside himself. Be in the moment instead of being in your head.
-
-network --
-raw connections
-community of experts (that give you good answers)
-critical colleagues (10 people that make a big difference in your immediate career) - boss / boss's boss
-
-ask advice to a person that you know, everybody says that you're the best to explain that. people will like you more
-
-build rapport - cut the BS. speak whats in your mind, sometimes it backfires. be real
-
-i didn't get your text can you resend it? less strong. will you write a whole book in your phone? make it non threating
-
-> *'on networking: expand from too dense networks. custom tailor teams from project to project. same team from same project is not the best option. if anybody in your list knows everybody is a big pro
-
-introvert is not shyness
-most things are not binary.
-introvert and extrovert scale 1-7
-introvert and extrovert scale 1-7
-it's hard to pass from a 2 to 7 but you can pass to a 2 to 3 or 4
-
-And while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing
-unlocking dormant ties
-
-networking you must exchange value
-
-Personal branding means you are a liar
-
-list the people i met
-
-the importance of enthusiasm; the importance of connecting people; expect magic in any encounter
-
-people want to form relationships with those who seem like they’ll give more (or at least as much) than they take
-
-How to Enter a Room So People Take Notice
-1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
-2. Don’t Look Away! Eye contact builds trust.
-3. dont hide yourself.
-4. dont wait to start talking. a groou or a double might be an easy place to start.
-5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
-
-Truth: A Better Way to Talk About Ourselves
-But after years of interviewing people about their lives, I’ve realized that there’s one story that’s actually pretty dangerous: the Story We Tell About Ourselves to Other People.
+Personal branding means you are a liar. Truth is a better way to talk about ourselves.
+I’ve realized that there’s one story that’s actually pretty dangerous: the Story We Tell About Ourselves to Other People.
 The Seduction of Self-Mythology
 What a good story does, really, is condense a massive amount of information into a consumable and shareable form.
 Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant. As a result, most stories gloss over the banal and nonessential, and instead focus on the Most Interesting Parts (or MIPs, because who doesn’t love a useless acronym?) — the stuff that will keep your audience engaged.
@@ -98,9 +54,39 @@ Because most of the stories we hear about people’s success are nothing more th
 That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes
 We talk about authenticity here at AoC as a subtractive process, a quality you achieve not by adding things to yourself, but by subtracting the things that get in the way.
 
-You Attract What You Are
-
 If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
+
+How to Enter a Room So People Take Notice
+1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
+2. Don’t Look Away! Eye contact builds trust.
+3. dont hide yourself.
+4. dont wait to start talking. a groou or a double might be an easy place to start.
+5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
+
+Your personality type is not an excuse to not network.
+
+introvert is not shyness.
+
+most things are not binary. Imagine a introvertness scale from 1 to 7.
+It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+
+How to taylor a network?
+
+> *'Networking types: advocates a, boomerang b, celebrities c, drainers d<br>
+shark, dolphin, drowner'*
+
+> *'community of experts (that give you good answers)
+critical colleagues (10 people that make a big difference in your immediate career) - boss / boss's boss'*
+
+> *'expand from too dense networks'*
+
+while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing
+unlocking dormant ties
+
+<!--
+> *'Custom tailor teams from project to project. Same team from same project is not the best option.'*
+
+list the people i met
 -->
 
 
@@ -475,7 +461,14 @@ How to move on?
 
 <!--
 1. You Need to Partner with Someone Who Wants you to Be All You Can Be
+
+You Attract What You Are
+
+the love that lasts the longest is the love that is never returned -- W. Somerset Maugham
+
+There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.
 -->
+
 
 
 ---
@@ -489,7 +482,7 @@ You need to build your board of directors. Life is meant to be lived in communit
 
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
-HOWEVER... choose who surrond you: you are the average of these people<br>
+HOWEVER... choose who surrond you: you are the average of these people  
 You will waste your life trying to make those around into who you want them to be.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
@@ -516,6 +509,8 @@ When you are intentional about surrounding yourself with the right people, you w
 Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
 
 If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.
+
+> *'Family is not an important thing, it’s everything.' -- Michael J Fox*
 -->
 
 
@@ -557,8 +552,8 @@ Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [we
 
 > *'They called her witch because she knew how to heal herself.'*
 
-> *'Think as you like but behave like others.' -- Robert Greene (38th law of power)<br>
-'Never appear too perfect.' -- Robert Greene (46th law of power)*
+> *'Think as you like but behave like others.'<br>
+'Never appear too perfect.' -- Robert Greene (38th and 46th law of power)*
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
@@ -742,7 +737,10 @@ The speed that you offload your stuff will be the speed of your team.'*
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
 <!--
-> *'Too busy pretending I'm occupied.'* 
+> *'Too busy pretending I'm occupied.'*
+
+> *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
+
 -->
 
 > *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
