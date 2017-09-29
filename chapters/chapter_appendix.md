@@ -34,7 +34,7 @@ How memory works? People forget by decaying and giving them other stuff to remem
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* 
 
 <!--
-“Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.”
+> *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.'*
 -->
 
 
@@ -60,14 +60,15 @@ HINTS:
 100 blocks a day - wait but why
 
 <!--
-“Just because you use your eyes, doesn’t mean you see what’s actually there.” -- Murray Carter
+> *'Just because you use your eyes, doesn’t mean you see what’s actually there.' -- Murray Carter*
+
+> *'If you are waiting for anything in order to live and love without holding back, then you suffer.' -- David Deida*
+
 be present
 
 life is long enough
 
 We are all made of time and we keep wasting each other..
-
-> *'If you are waiting for anything in order to live and love without holding back, then you suffer.' -- David Deida*
 -->
 
 
@@ -253,6 +254,8 @@ Simplify. Cut the crap. Get rid of the unnecessary distractions. Toss out any po
 Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
 
 digital travleing -> mini lifes
+
+Travel is the only thing you buy that makes you richer
 -->
 
 
@@ -294,6 +297,8 @@ investment: the Barbell strategy
 fazer dinheiro: cambios e rendas
 -->
 
+
+
 ---
 ### On religion
 
@@ -324,6 +329,8 @@ fazer dinheiro: cambios e rendas
 > *'Science is a wonderful thing if one does not have to earn one's living at it.'*
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
+
+> *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
 -->
 
 
@@ -346,18 +353,24 @@ fazer dinheiro: cambios e rendas
 ---
 ### On aesthetics
 
-'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso<br>
+'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso  
 That's where «big bucks» are.
 
 > *'Most people with good taste are young and poor.'*
 
 > *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
+> *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
+
 <!--
+Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+-->
+
+
 
 ---
 ### On superpowers
 
 Not caring what other people think is a superpower.
 
--->
+The ability to change your mind is a superpower.
