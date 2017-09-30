@@ -14,7 +14,7 @@ Don't isolate yourself. Who you know and whether they like you will determine wh
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
-> *'Do not build fortresses to protect yourself: isolation is dangerous.'<br>
+> *'Do not build fortresses to protect yourself: isolation is dangerous.'  
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.'*
@@ -23,7 +23,7 @@ Don't isolate yourself. Who you know and whether they like you will determine wh
 
 How to network?
 
-Adding value is everything. Find out what people actually want and give it to them.<br>
+Adding value is everything. Find out what people actually want and give it to them.  
 People want to form relationships with those who seem like they’ll give more (or at least as much) than they take.
 
 > *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*
@@ -67,7 +67,7 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 
 How to taylor a network?
 
-> *'Networking types: advocates a, boomerang b, celebrities c, drainers d<br>
+> *'Networking types: advocates a, boomerang b, celebrities c, drainers d  
 shark, dolphin, drowner'*
 
 > *'community of experts (that give you good answers)
@@ -100,7 +100,7 @@ Listening is powerful.
 
 > *'Arguing as you're right. Listening as you're wrong.'*
 
-How talk to people?<br>
+How talk to people?  
 Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of accomplishments, don't be stubborn and listen.
 
 > *'Get better asking questions. They are more important than answers.'*
@@ -151,7 +151,7 @@ Calm is largely a matter of slowing your speech down. Warmth comes from smiling 
 ---
 ### On business and entrepreneurship
 
-Business exchanges value for money.<br>
+Business exchanges value for money.  
 Focus on areas where you are motivated to add value AND there's demand.
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
@@ -180,8 +180,8 @@ Validate your business by finding paying clients.
 
 > *'Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no demand.'*
 
-> *'In general, it's not about what you know, it's about who trusts you to solve their problems.<br>
-Often, that requires the technical skills to reliably solve their problems.<br>
+> *'In general, it's not about what you know, it's about who trusts you to solve their problems.  
+Often, that requires the technical skills to reliably solve their problems.  
 Always, that requires the communication skills to persuade someone you can solve their problems.'*
 
 Successful *entrepreneurs* are good risk managers.
@@ -243,7 +243,7 @@ three things make anything possible: People, technology and money.
 
 We're all in sales. You're in sales anytime you interact with anybody.
 
-Sales used to be about information asymmetry but times are changing.<br>
+Sales used to be about information asymmetry but times are changing.  
 Now it's mostly [applied persuasion](#on-charming) and keeping relationships.
 
 > *'To sell is to deal with objections.'*
@@ -307,7 +307,7 @@ That said, a bad/good negotiation means that you are adding more/less value than
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
-To negotiate is to have options.<br>
+To negotiate is to have options.  
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
@@ -330,8 +330,8 @@ How to say no?
 
 Tone of voice is a big clue to know with whom we are negotiating:
 
-> *'The analytical cold guy is very patient;<br>
-The assertive guy (eg. Trump) wants to make it fast;<br>
+> *'The analytical cold guy is very patient;  
+The assertive guy (eg. Trump) wants to make it fast;  
 For the accomodator, the relationship is the most important'*
 
 > *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
@@ -432,7 +432,7 @@ on a deep relationship, politics must match
 ---
 ### On lovers
 
-Never love anyone that treats you like you're ordinary.
+Never love anyone who treats you like you're ordinary.
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
@@ -449,8 +449,8 @@ HINTS:
 > *'If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
 You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.'*
 
-> *'On a serious conversation with a SO, instead of generalizing, talk about three things:<br>
-First, your observations, or what you have noticed is happening in your relationship.<br>
+> *'On a serious conversation with a SO, instead of generalizing, talk about three things:  
+First, your observations, or what you have noticed is happening in your relationship.  
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
 Keep separate bank accounts.
@@ -484,8 +484,8 @@ You need to build your board of directors. Life is meant to be lived in communit
 
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
-> *'You're never too old to make a friend. Always be looking for a new one.'<br>
-'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
+> *'You're never too old to make a friend. Always be looking for a new one.  
+If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
 HOWEVER... choose who surrond you: you are the average of these people  
 You will waste your life trying to make those around into who you want them to be.
@@ -540,10 +540,10 @@ Here’s the reality: The people who love you most can care less about how much 
 
 ### On conflicts
 
-Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.<br>
+Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.  
 Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
 
-> *'Avoiding conflict will not keep peace, will rot it.<br>
+> *'Avoiding conflict will not keep peace, will rot it.  
 Rotten peace builds resentment.'*
 
 > *'I am either part of the solution or part of the problem.'*
@@ -570,14 +570,14 @@ Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [we
 
 > *'They called her witch because she knew how to heal herself.'*
 
-> *'Think as you like but behave like others.'<br>
+> *'Think as you like but behave like others.'  
 'Never appear too perfect.' -- Robert Greene (38th and 46th law of power)*
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
-When people criticize your life they are speaking about their fears and limitations not yours.<br>
+When people criticize your life they are speaking about their fears and limitations not yours.  
 Only take advice from [those achieving what you want to achieve](#on-feedback). Ignore and be flattered by the rest.
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
@@ -762,9 +762,9 @@ Managing is delegating. Your speed as a manager is the speed of the team.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-> *'A manager should make himself 2 questions a day: <br>
-«What is important to accomplish?» (where are you going)<br>
-«Where was I uncomfortable the day before?» (what went right and where do you need support)<br>
+> *'A manager should make himself 2 questions a day:   
+«What is important to accomplish?» (where are you going)  
+«Where was I uncomfortable the day before?» (what went right and where do you need support)  
 The speed that you offload your stuff will be the speed of your team.'*
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
@@ -782,28 +782,19 @@ The key principle is putting your team’s productivity first. Remember, you are
 
 > *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
 
-For that you need to communicate.
+For that you need to [communicate](#on-communication).
 
 > *'Spend one hour a day just talking to your people and everything will be OK.'*
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-HINT: 
+How to give feedback? Ask instead of telling and don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough. If so, give a reason.
 
-How to give feedback? Ask instead of telling.
-
-> *'Try questions as: <br>
-«Is that the best you can do?» <br>
-«Interesting, how do you feel about it?» <br>
+> *'«Is that the best you can do?»  
+«Interesting, how do you feel about it?»  
 «What does your team think?»  
-«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.*
-
-Don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
-If feedback is needed, give a reason:
-
-> *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
-
-> *'«Because» is a great motivator.'*
+«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.  
+«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
 
 HOWEVER... a leader needs humbleness. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
@@ -818,11 +809,11 @@ Hire most but only retain the best.
 
 > *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
 
-> *'He who works with his hands is a laborer.<br>
-He who works with his hands and his head is a craftsman.<br>
+> *'He who works with his hands is a laborer.  
+He who works with his hands and his head is a craftsman.  
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
-How to keep talented people? Respect them.<br>
+How to keep talented people? Respect them.  
 You'll never respect them if you don't pay them accordingly.
 
 <!--
@@ -848,12 +839,12 @@ Employers hire likable persons that «gets shit done».
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
-> *'While deep work will promote you, shallow work will only prevent you from being fired.'<br>
-'Career capital is the unique skills that make you rare and valuable'<br>
+> *'While deep work will promote you, shallow work will only prevent you from being fired.'  
+'Career capital is the unique skills that make you rare and valuable'  
 'Be so good that they cannot ignore you' -- Cal Newport*
 
-> *'Is it better to be good at many things or great at one thing?<br>
-To be an entrepreneur you need to know a little about a lot of things.<br>
+> *'Is it better to be good at many things or great at one thing?  
+To be an entrepreneur you need to know a little about a lot of things.  
 To be employed, you'll do better as a specialist. If you pick the right specialization.'*
 
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
@@ -881,23 +872,23 @@ HOWEVER... jobs are risky. So avoid the trap of following one set career path. I
 Stack of skills -- Scott Adams
 
 
-100% time -> 100% results<br>
-20% time -> 80%results<br>
-So: 100% on one thing = 80% on 5 things!<br>
+100% time -> 100% results  
+20% time -> 80%results  
+So: 100% on one thing = 80% on 5 things!  
 
-> *'How to pivot:<br>
+> *'How to pivot:  
 1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
-write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc <br>
-2) question: talent ledger: what are the people that were working for them. top leaders ask for help and give knowledge away. more open source.<br>
+write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc   
+2) question: talent ledger: what are the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
 3) take risks to boost your immune system.'*
 
 differentiate yourself / volunteer for an assignment
 becoming the go to guy for some questions
 
-> *'How to return to an workplace:<br>
-- reframe your experience. Use today and future jargons. Make your homework.<br>
-- refresh your skill set, if you got rusty.<br>
-- career ecosystems, get back into them, reconnect.<br>
+> *'How to return to an workplace:  
+- reframe your experience. Use today and future jargons. Make your homework.  
+- refresh your skill set, if you got rusty.  
+- career ecosystems, get back into them, reconnect.  
 - reboot self confidence. Surround yourself with confident people.'
 
 Hint from interviews: People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
@@ -917,8 +908,8 @@ They don’t want to lose you. They don’t want to lose the negotiation. And th
 Everything is hierarchy.  
 Only comedians can speak the truth without consequences.
 
-> *'Never outshine the master.'<br>
-'Know who you’re dealing with: do not offend the wrong person.'<br>
+> *'Never outshine the master.'  
+'Know who you’re dealing with: do not offend the wrong person.'  
 'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
 
 > *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren't random or stupid.'*
