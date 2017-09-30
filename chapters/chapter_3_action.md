@@ -63,6 +63,10 @@ In executive position, visionary, maverick, multidisciplinary thinker, etc.<br>
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
 <!--
+The mind that opens to a new idea never returns to its original size. -- Albert Einstein
+
+“I cultivate empty space as a way of life for the creative process.” -- Josh Waitzkin
+
 Play is a gateway to possibility.
 
 Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
@@ -354,6 +358,8 @@ Don't be thirsty.
 > *'Trade space for time.'*
 
 <!--
+be clear that your ladder is laid on the right building.
+	
 chess gambits -- exchange material by position-time.
 
 > *'Go-Karts - Feel fast, are slow 747s - Feel slow, are fast Ship it! - Feels fast, is slow Test > *'Document it! - Feels slow, is fast.'*
@@ -754,11 +760,13 @@ Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
-> *'Reconciliation is out of the question. Only one side can win, and it must win totally.'*
-
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
 > *'When the end finally comes, it comes quickly.'*
+
+<!--
+“If you’re going to try, go all the way. Otherwise, don’t even start.” ~Charles Bukowski
+-->
 
 
 
@@ -778,6 +786,22 @@ It's not just about winning. The way you win sets you up for the next round.
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
+<!--
+tecnically win or fundamentally win
+
+winning by exhaustion
+Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy's resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength.
+
+Attrition warfare is usually a last resort only. And most of the time when you win, it's only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time.
+
+“The war will be ended by the exhaustion of nations rather than the victories of armies.” -- Winston Churchill
+
+From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities.
+
+The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it's a grind for the companies involved.
+
+History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
+-->
 
 
 ---
