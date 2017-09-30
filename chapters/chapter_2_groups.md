@@ -19,9 +19,6 @@ Don't isolate yourself. Who you know and whether they like you will determine wh
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
-> *'You're never too old to make a friend. Always be looking for a new one.'<br>
-'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
-
 > *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves — even if they see us better than we see ourselves.'*
 
 How to network?
@@ -64,9 +61,7 @@ How to Enter a Room So People Take Notice
 5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
 
 Your personality type is not an excuse to not network.
-
 introvert is not shyness.
-
 most things are not binary. Imagine a introvertness scale from 1 to 7.
 It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 
@@ -94,7 +89,8 @@ list the people i met
 ---
 ### On communication
 
-Speak less and listen more: be humble. Listening is powerful.
+Speak less and listen more: be humble.  
+Listening is powerful.
 
 > *'Listen to many, speak to a few.' -- William Shakespeare*
 
@@ -103,10 +99,6 @@ Speak less and listen more: be humble. Listening is powerful.
 > *'Listen to predict a collapse.'*
 
 > *'Arguing as you're right. Listening as you're wrong.'*
-
-> *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
-
-> *'Judge a man by his questions, not by his answers.'*
 
 How talk to people?<br>
 Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of accomplishments, don't be stubborn and listen.
@@ -124,6 +116,16 @@ Smile, don't ramble, look for external catalysts as hints for stories and questi
 > *'You don't always have to get the last word. Make your point and leave it that way. Let go.'*
 
 <!--
+The best conversationalists are the best listeners.
+What do you do when you run out of things to say in a conversation?
+Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
+Understand how to stay tuned in to the conversation by picking up on often-ignored (but crucially important) nonverbal cues.
+Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation.
+
+> *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
+
+> *'Judge a man by his questions, not by his answers.'*
+
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
@@ -237,7 +239,7 @@ three things make anything possible: People, technology and money.
 
 
 ---
-### On selling
+### On selling, negotiation and price
 
 We're all in sales. You're in sales anytime you interact with anybody.
 
@@ -298,11 +300,6 @@ Reacting (to adapt to the identified needs - letting the other person set the pa
 If They Can’t Pay, Walk Away
 -->
 
-
-
----
-### On negotiation and price
-
 Negotiation establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value than receiving for it.
 
@@ -352,6 +349,9 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+“You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.”
+— Ryan Holiday, The Obstacle Is the Way
+	
 > *'Unexpressed feelings never die.'*
 > *'Releasing pressure is different from venting.'*
 > *'The more influence somebody is the more they use we / plural pronouns.'*
@@ -418,6 +418,8 @@ HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. R
 > *'Don't let people that are bad influences to put you down.'*
 
 <!--
+trust and vulnerability are conected.
+
 first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
 
@@ -482,6 +484,9 @@ You need to build your board of directors. Life is meant to be lived in communit
 
 > *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
+> *'You're never too old to make a friend. Always be looking for a new one.'<br>
+'If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
+
 HOWEVER... choose who surrond you: you are the average of these people  
 You will waste your life trying to make those around into who you want them to be.
 
@@ -524,6 +529,10 @@ Always be generous: a low value gift can have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'*
 
+<!--
+Here’s the reality: The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
+-->
+
 
 
 ---   
@@ -540,6 +549,15 @@ Rotten peace builds resentment.'*
 > *'I am either part of the solution or part of the problem.'*
 
 > *'Well-kept gardens die by pacifism.'*
+
+<!--
+conflict resolution:
+- Offer Value from the Start: Set the stage by coming in smiling. Pay a compliment, make a joke, shake hands, or give a high five to get the interaction off to a friendly start.
+- Take Responsibility
+- Show Some Empathy
+- Use “We” to Show You’re on the Same Team
+- Bring Options to the Table: A high-value person always knows what they want before they come to the table. They also understand that it’s much easier to negotiate down
+-->
 
 
 
@@ -582,6 +600,9 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'Once they stop talking to you, they start to talk about you.'*
 
+<!--
+freedom is an envy trigger also
+-->
 
 
 ---
@@ -618,6 +639,18 @@ From Scott Adams (Dilbert):
 > Persuaders: Use simplicity, repetition, emotion, habit, aspirations, visual communication, and other tools of persuasion to program other people and themselves. This group is about 1% of the population and effectively control the word-thinkers of the world.
 
 3 types of man: spectators, the dabblers and the men in the arena.
+
+As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
+
+Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
+
+But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
+
+The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
+
+Tribal feminists, in the name of fighting shame and oppression, shame and oppress views that contradict their own.
+
+And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
 -->
 
 
@@ -639,6 +672,8 @@ From Scott Adams (Dilbert):
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
 > *'Politician is a profession that doesn't like risk. Decisions are made on the lowest risk of offending anybody.'*
+
+> *'I love individuals. I hate groups of people. I hate a group of people with a ‘common purpose’. Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals.' -- George Carlin*
 
 <!--
 para reduzir a corrupção deve-se diminuir o nr de pessoas envolvidas em processos analógicos.
@@ -680,6 +715,9 @@ HOWEVER...
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
 <!--
+
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+
 Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'I’m not here to help; I’m here to learn.'*
@@ -738,10 +776,9 @@ The key principle is putting your team’s productivity first. Remember, you are
 
 <!--
 > *'Too busy pretending I'm occupied.'*
+-->
 
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
-
--->
 
 > *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
 
@@ -751,23 +788,24 @@ For that you need to communicate.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-HINT: don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
-Ask instead of telling. If feedback is needed, give a reason.
+HINT: 
 
-> *'Try «can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
+How to give feedback? Ask instead of telling.
+
+> *'Try questions as: <br>
+«Is that the best you can do?» <br>
+«Interesting, how do you feel about it?» <br>
+«What does your team think?»  
+«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.*
+
+Don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough.<br>
+If feedback is needed, give a reason:
+
+> *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked.'*
 
 > *'«Because» is a great motivator.'*
 
-> *'«Why did you decide to do X in that order?». This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
-
-> *'Make questions as: <br>
-«Is that the best you can do?» <br>
-«Interesting, how do you feel about it?» <br>
-«What does your team think?»'*
-
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
-
-HOWEVER... a leader needs [humility](#on-identity). Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
+HOWEVER... a leader needs humbleness. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
 
 
@@ -876,7 +914,8 @@ They don’t want to lose you. They don’t want to lose the negotiation. And th
 ---
 ### On hierarchy
 
-Everything is hierarchy. Only comedians can speak the truth without consequences.
+Everything is hierarchy.  
+Only comedians can speak the truth without consequences.
 
 > *'Never outshine the master.'<br>
 'Know who you’re dealing with: do not offend the wrong person.'<br>
