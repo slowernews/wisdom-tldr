@@ -399,6 +399,8 @@ Relationships are based on mutual [trust](#on-trust).
 
 > *'Focus on what you can give not what you can get. You only receive in proportion to what you give.'*
 
+> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
+
 HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
 
 > *'Don't hide your feelings from people who show you theirs.'*
@@ -788,13 +790,18 @@ For that you need to [communicate](#on-communication).
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
 
-How to give feedback? Ask instead of telling and don't add your two cents, specially on subjective stuff, unless you're certain the delivered work is not good enough. If so, give a reason.
+How to give feedback?
+
+1. Ask instead of telling.
 
 > *'«Is that the best you can do?»  
 «Interesting, how do you feel about it?»  
 «What does your team think?»  
-«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.  
-«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
+«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
+
+2. If you're certain the delivered work is not good enough give a reason.
+
+> *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
 
 HOWEVER... a leader needs humbleness. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
@@ -803,18 +810,16 @@ HOWEVER... a leader needs humbleness. Gaining an understanding and giving approp
 ---
 ### On hiring and being hired
 
-Hire most but only retain the best.
-
-> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
+Hire likable persons that «get shit done» but only retain the best.
 
 > *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
+
+How to keep talented people? Respect them.  
+You'll never respect them if you don't pay them accordingly.
 
 > *'He who works with his hands is a laborer.  
 He who works with his hands and his head is a craftsman.  
 He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
-
-How to keep talented people? Respect them.  
-You'll never respect them if you don't pay them accordingly.
 
 <!--
 make them part of the solution and part of the answer.
@@ -833,7 +838,7 @@ Real Talent Cares More About Upside than Income
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 -->
 
-Employers hire likable persons that «gets shit done».
+How to apply for a job?
 
 > *'When applying for a job be more of a consultant than an applicant.'*
 
@@ -868,9 +873,7 @@ HOWEVER... jobs are risky. So avoid the trap of following one set career path. I
 > *'People pivot to near areas, combining two skills.'*
 
 <!--
-
 Stack of skills -- Scott Adams
-
 
 100% time -> 100% results  
 20% time -> 80%results  
