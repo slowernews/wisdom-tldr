@@ -312,6 +312,7 @@ fazer dinheiro: cambios e rendas
 
 > *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
 
+> *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
 
 ---
@@ -347,6 +348,10 @@ fazer dinheiro: cambios e rendas
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 > *'Life is Capitalism but art is Socialism.'*
+
+<!--
+The more ‘art’ you allow in to your photography the less commercial success you’ll have. People don’t want ‘art’ they want entertainment.
+-->
 
 
 
