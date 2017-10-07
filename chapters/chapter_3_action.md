@@ -12,9 +12,9 @@
 
 We don’t have an «imagination» we have a memory. Creative minds are rarely tidy.
 
-> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
-
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
+
+> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
 
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
@@ -22,23 +22,8 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
-How to find and judge ideas?
-
-> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
-
-> *'If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?'*
-
-> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
-
-> *'Ideas are not worth a damn thing. Only execution is. Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.'*
-
-> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
-
-ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.
-
-Finding a good idea: idea sex - mix stuff
-
-Always be doing something creative. Without new experiences, your soul rots.
+Creativity is a muscle - you have to practice it every day.  
+Once creativity stays the same, it is no longer creative. Without new experiences, your soul rots.
 
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
 
@@ -46,32 +31,42 @@ Always be doing something creative. Without new experiences, your soul rots.
 
 > *'Moments of originality and moments of conformity.'*
 
-Creativity is a muscle - you have to practice it every day.
-Once creativity stays the same, it is no longer creative.
+How to find ideas?  
+Creativity is born out of free time, play and boredom lead to creativity.
 
-Creativity is born out of free time, boredom leads to creativity
+> *'If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?'*
+
+> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
+
+> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
+
+> *'ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.'*
+
+> *'Finding a good idea: idea sex - mix stuff'*
 
 > *'The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.' -- Amos Tversky*
 
 > *'I cultivate empty space as a way of life for the creative process.' -- Josh Waitzkin*
 
+> *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.'*
+
+How to judge ideas?
+
+> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
+
+> *'Ideas are not worth a damn thing. Only execution is. Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.'*
+
 Creativity is linked to autonomy.
 
-> *'Creativity and critical thinking:<br>
-In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.<br>
-In executive position, visionary, maverick, multidisciplinary thinker, etc.<br>
+> *'Creativity and critical thinking:  
+In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.  
+In executive position, visionary, maverick, multidisciplinary thinker, etc.  
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
 <!--
 The mind that opens to a new idea never returns to its original size. -- Albert Einstein
 
-“I cultivate empty space as a way of life for the creative process.” -- Josh Waitzkin
-
-Play is a gateway to possibility.
-
-Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
-
-“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.”
+Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
 -->
 
 
@@ -87,14 +82,14 @@ Analysis is an art, not a science.
 
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
-And, as such, error-prone:<br>
+And, as such, error-prone:  
 a) randomness: most facts are a «tell» but some are just random.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
 > *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
 
-> *'Not everything that counts can be counted, and not everything that can be counted counts.'*
+> *'Not everything that counts can be counted, and not everything that can be counted counts.' -- ALbert Einstein*
 
 It is possible to view this as an isolated event or a trend
 
@@ -110,8 +105,6 @@ b) and specially, bias, will trigger miscalculations.
 
 > *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
 
-> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
-
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 
 > *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
@@ -120,7 +113,7 @@ b) and specially, bias, will trigger miscalculations.
 
 One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
-Be specially careful when facing new ideas.<br>
+Be specially careful when facing new ideas.  
 Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs.
 
 > *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
@@ -129,16 +122,18 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
+> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
+
 HINTS:
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
 > *'Pay attention to negative cues: what should have happened but did not.'*
 
-> *'Look for something that doesn't make sense. That's where the gold mine is:<br>
-«It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.'<br>
-'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'<br>
-'look for the obvious: «Do you want to be a writer? You should have something to say.»'<br>
+> *'Look for something that doesn't make sense. That's where the gold mine is:  
+«It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.'  
+'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
+'look for the obvious: «Do you want to be a writer? You should have something to say.»'  
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 <!--
@@ -153,7 +148,7 @@ In shaping what we see, filter bubbles show us a distorted map and not the terra
 ---
 ### On planning and decision making
 
-Plan ahead and prepare for the highly probable scenarios.<br>
+Plan ahead and prepare for the highly probable scenarios.  
 Make the decisions right now. When in the moment of making the decision, you have already done it.
 
 > *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
@@ -254,8 +249,8 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 ### On starting and timing
 
-Just start.<br>
-You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.<br>
+Just start.  
+You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.  
 Stop preparing and start doing. You can learn while you do it.
 
 <!--
@@ -299,7 +294,7 @@ Don’t overthink it. Don’t waste time analyzing it.
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.<br>
+Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.  
 You will languish if you stop for a long time.
 
 > *'Master the art of timing.' -- Robert Greene (35th law of power)*
@@ -372,7 +367,7 @@ chess gambits -- exchange material by position-time.
 ---
 ### On focus and time management
 
-Time itself, is not your limitation. Attention is.<br>
+Time itself, is not your limitation. Attention is.  
 You’re not managing time, you're managing attention.
 
 > *'Do things in batch all at once. Interruption and switching between tasks costs too much.'*
@@ -383,7 +378,7 @@ You’re not managing time, you're managing attention.
 
 First the essential. Then the details.
 
-> *'Concentrate your forces.'<br>
+> *'Concentrate your forces.'  
 'Strike the shepherd and the sheep will scatter.' -- Robert Greene (23rd and 42nd law of power)*
 
 > *'In a divided world, power will come from keeping your own group united and cohesive.'*
@@ -416,7 +411,7 @@ HINTS:
 
 > *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.'*
 
-> *'Focus. Do one thing really well. Solve one problem with one solution.<br>
+> *'Focus. Do one thing really well. Solve one problem with one solution.  
 Focus on the one thing most likely to get maximum results. Forget everything else.'*
 
 > *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
@@ -484,7 +479,7 @@ HOWEVER...
 
 Life is a balancing act.
 
-The dose makes the poison: things in excess become their opposite.<br>
+The dose makes the poison: things in excess become their opposite.  
 The hardest skill is knowing when to stop.
 
 > *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
@@ -516,7 +511,7 @@ How to balance an imbalance? Overcompensate.
 ---
 ### On adapting
 
-Plans are not static. Adapt or die.<br>
+Plans are not static. Adapt or die.  
 You need to switch strategies a few times to get where you want to go.
 
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
@@ -529,10 +524,10 @@ You need to switch strategies a few times to get where you want to go.
 
 > *'What got you here won't get you there.'*
 
-> *'The directions to get you anywhere include a few turns:<br>
-Sometimes you need to say YES to everything and be open to growth;<br>
-Sometimes you need to say NO to everything and focus.<br>
-It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'<br>
+> *'The directions to get you anywhere include a few turns:  
+Sometimes you need to say YES to everything and be open to growth;  
+Sometimes you need to say NO to everything and focus.  
+It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'  
 -- Derek Sivers (paraphrased)*
 
 > *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
@@ -565,7 +560,7 @@ equipa que ganha, não se mexe
 
 ### On creating imbalances
 
-Create imbalances in your target to create an advantage and raise chances of winning.<br>
+Create imbalances in your target to create an advantage and raise chances of winning.  
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-charming). Some opponents may require special tools.
 
@@ -592,23 +587,23 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
 > *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
-> *'Use selective honesty and generosity to disarm your victim.'<br>
-'Pose as a friend, work as a spy.'<br>
-'Discover each man’s thumbscrew.'<br>
+> *'Use selective honesty and generosity to disarm your victim.'  
+'Pose as a friend, work as a spy.'  
+'Discover each man’s thumbscrew.'  
 'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
 
 > *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
 
 > *'If you talk to a man in a language he understands, that goes to his head. If you talk to him in his own language, that goes to his heart.' -- Nelson Mandela*
 
-> *'When you go up in an hierarchy, the need of persuasion is higher.<br>
+> *'When you go up in an hierarchy, the need of persuasion is higher.  
 To persuade up, focus in interests; to persuade down focus in emotions.'*
 
 Use absence and bait to attract people.
 
 > *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
 
-> *'Make other people come to you: use bait if necessary.'<br>
+> *'Make other people come to you: use bait if necessary.'  
 'Learn to keep people dependent on you.' -- Robert Greene (8th and 11th law of power)*
 
 > *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
@@ -630,9 +625,9 @@ HOWEVER... use absence with [moderation](#on-balance).
 
 'Appear weak when you are strong and strong when you are weak.' -- Sun Tzu
 
-> *'Court attention at all cost.'<br>
-'Play to people’s fantasies.'<br>
-'Create compelling spectacles.'<br>
+> *'Court attention at all cost.'  
+'Play to people’s fantasies.'  
+'Create compelling spectacles.'  
 'Stir up waters to catch fish.' -- Robert Greene (6th, 32nd, 37th and 39th law of power)*
 
 > *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
@@ -668,9 +663,9 @@ the good reason (the reason they tell you) and the real reason.
 ---
 ### On unpredictability
 
-> *'Conceal your intention.'<br>
-'Say less than necessary.'<br>
-'Keep others in suspended terror: cultivate an air of unpredictability.'<br>
+> *'Conceal your intention.'  
+'Say less than necessary.'  
+'Keep others in suspended terror: cultivate an air of unpredictability.'  
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
 HOWEVER... unpredictability can work against you: if you are in a subordinate position, it reduces trust.
@@ -723,10 +718,10 @@ HOWEVER... there are same people acting stupid. Easy wins if you can identify th
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 
-Even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff».<br>
+Even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff».  
 They can be effective but use them *only* on life changing situations: it's a scar for life.
 
-> *'Get others to do the work for you, but always take the credit.'<br>
+> *'Get others to do the work for you, but always take the credit.'  
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-opponents) if you can see the end already.
@@ -738,7 +733,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go [a
 
 The only successful changes are those coming from within.
 
-> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How?<br>
+> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How?  
 Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
 
 <!--
@@ -775,7 +770,7 @@ Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
 It's not just about winning. The way you win sets you up for the next round.
 
-> *'Win through your actions, never through argument.'<br>
+> *'Win through your actions, never through argument.'  
 'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
 
 > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
@@ -807,12 +802,12 @@ History shows that the way out of trench warfare is the use of asymmetric weapon
 ---
 ### On surrendering
 
-Use this opportunity to re-create yourself.<br>
+Use this opportunity to re-create yourself.  
 'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
-> *'Use the surrender tactic: transform weakness into power.'<br>
+> *'Use the surrender tactic: transform weakness into power.'  
 'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
 
 > *'The greatest revenge is success.' -- Frank Sinatra*
