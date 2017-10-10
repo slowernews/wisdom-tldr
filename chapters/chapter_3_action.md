@@ -23,13 +23,11 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
 Creativity is a muscle - you have to practice it every day.  
-Once creativity stays the same, it is no longer creative. Without new experiences, your soul rots.
+Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
 
 > *'We can’t solve problems by using the same kind of thinking we used when we created them.'*
-
-> *'Moments of originality and moments of conformity.'*
 
 How to find ideas?  
 Creativity is born out of free time, play and boredom lead to creativity.
@@ -40,9 +38,7 @@ Creativity is born out of free time, play and boredom lead to creativity.
 
 > *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
 
-> *'ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.'*
-
-> *'Finding a good idea: idea sex - mix stuff'*
+> *'Ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.'*
 
 > *'The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.' -- Amos Tversky*
 
@@ -50,9 +46,11 @@ Creativity is born out of free time, play and boredom lead to creativity.
 
 > *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.'*
 
+> *'Finding a good idea: idea sex, mix stuff.'*
+
 How to judge ideas?
 
-> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached (they will regret more a false positive than a false negative).'*
+> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.'*
 
 > *'Ideas are not worth a damn thing. Only execution is. Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.'*
 
@@ -67,6 +65,8 @@ You can only truly creative in a position with autonomy, so you either climb the
 The mind that opens to a new idea never returns to its original size. -- Albert Einstein
 
 Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
+
+> *'Moments of originality and moments of conformity.'*
 -->
 
 
@@ -249,71 +249,79 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 ### On starting and timing
 
-Just start.  
-You cannot afford to wait for inspiration or opportunities, time is the most precious thing you own.  
-Stop preparing and start doing. You can learn while you do it.
+Just start. 
+
+> *'You don't have to be great to start, but you have to start to be great.' -- Zig Ziglar*
+
+> *'The journey of a thousand miles begins with a single step' -- Lao Tzu*
+
+> *'A year from now, you will wish you had started today.' -- Karen Lamb*
+
+Stop making resolutions and start making something.
+
+> *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
+
+> *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
+
+Why people procrastinate?
+
+1. lack of urgency / deadlines (the panic monster)
+No inspiration or opportunities - the inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.
+
+> *'If opportunity doesn't knock, build a door.' -- Milton Berle*
+
+> *'Pressed by circumstances, we feel unusually energized and focused.'*
+
+No preparation - you can learn while you do it.  
+
+> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
+
+> *'Just jump in and figure it out. It can’t be that hard.' -- Chris Voss*
+
+2. perfectionism
+
+3. fear (of change)
+
+> *'When hope disappears, so does action'*
+
+> *'What gets measured gets done.'*
 
 <!--
-fear of starting, excuse
-
 > *add mark manson on procrastination*
-> *'Pressed by circumstances, we feel unusually energized and focused.'*
+lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita e vence-se a procrastination
+
+Time is the most precious thing you own.
 
 – Have a Mission
 Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission.
 Learn something new.
 Missions are for people who DO. Mission statements are for people who DON’T.
 
-lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita e vence-se a procrastination
-
-1. Just Jump in and Figure it Out. “It can’t be that hard” ~Chris Voss
-Don’t overthink it. Don’t waste time analyzing it.
+1. Don’t overthink it. Don’t waste time analyzing it.
 -->
 
-> *'Stop making resolutions and start making something.'*
+Timing is important.
 
-> *'Momentum generates motivation.'*
+> *'Enter action with boldness.'*
 
-> *'The inspiration you are waiting for, in order to start, is on the other side of starting.'*
+'Master the art of timing' -- Robert Greene (28th and 35th law of power)*
 
-> *'You don't have to be great to start, but you have to start to be great.'*
-
-> *'The journey of a thousand miles begins with a single step' -- Lao Tzu*
-
-> *'A year from now, you will wish you had started today.' -- Karen Lamb*
-
-> *'If opportunity doesn't knock, build a door.' -- Milton Berle*
-
-> *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
-
-> *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
-
-> *'Enter action with boldness.' -- Robert Greene (28th law of power)*
-
-> *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
-
-> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
-
-Timing in important but don't wait for the perfect occasion, a good occasion is a safer bet.  
-You will languish if you stop for a long time.
-
-> *'Master the art of timing.' -- Robert Greene (35th law of power)*
+However don't wait for the [perfect occasion](), a good occasion is a safer bet.  
+You will languish if you stop for a long time. Paralysis is worse than bad timing.
 
 > *'The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing.' -- Winston Churchill*
 
-> *'Perfectionism leads to procrastination, which leads to paralysis.'*
-
-> *'People procrastinate specially when there are no urgency/deadlines: the panic monster.'*
-
 > *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
-HOWEVER... you should have a [plan](#on-planning).
+> *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
+
+HOWEVER, have a [plan](#on-planning). Any plan will do it.
+
+> *'No one ever wrote a plan to be fat lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
 
 > *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
 
 > *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
-
-> *'No one ever wrote a plan to be fat lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
 
 
 

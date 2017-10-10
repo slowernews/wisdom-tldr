@@ -126,7 +126,7 @@ HOWEVER... live in accordance with your nature. If you try to be something you'r
 ---
 ### On freedom
 
-Choose *yourself*. Choose to be independent.<br>
+Choose *yourself*. Choose to be independent.  
 Tell *your* truth no matter what.
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
@@ -240,7 +240,7 @@ high expectations make you miserable, expectations nowadays are more and more tr
 
 ### On finding a path
 
-Cancel your pity party. No one is coming to save you.<br>
+Cancel your pity party. No one is coming to save you.  
 Pull yourself together and take total ownership for everything in your life.
 
 > *'If you are feeling lost in life, you need to experience more things.'*
@@ -362,7 +362,7 @@ When you start walking, the path will be revealed.
 ---
 ### On comfort and risk
 
-You need to break rules to achieve anything great.<br>
+You need to break rules to achieve anything great.  
 Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement.
 
 > *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.'*
@@ -453,7 +453,7 @@ Will Durant “You are what you repeatedly do, excellence, therefore, is not an 
 
 > *'The pathway to freedom is discipline.'*
 
-Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.<br>
+Create high value systems: [meditate](#on-meditation), spend time outside, [rest](#on-health), travel, learn useful skills.  
 Avoid low value systems: social media, news, owning a TV, working long hours, control of petty stuff, perfectionism..
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
@@ -538,7 +538,7 @@ you can change aspects of your personality that you don’t like And for most pe
 you have to choose now. what you want.
 -->
 
-You improve by:<br>
+You improve by:  
 <a id="on-improving-by-practice"></a>1) getting out of your comfort zone. Don't be afraid of [failure](#on-mistakes-and-failure).
 
 > *'Make the mind tougher by exposing it to adversity.'*
@@ -567,7 +567,7 @@ when expanding comfort zones you are learning.
 what happens when we step too far out of our comfort zones, how James mitigates risk by assuming the worst, how experience with failure can be a valuable skillset, why being in debt is better than simply being broke, and lots more.
 -->
 
-<a id="on-improving-by-theory"></a>2) analysis of past situations.<br>
+<a id="on-improving-by-theory"></a>2) analysis of past situations.  
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -620,7 +620,7 @@ If you’re not getting better today, you’re getting worse.”
 ---
 ### On feedback
 
-Feedback speeds up improvement.<br>
+Feedback speeds up improvement.  
 But only take advice from mentors. They are the best source of feedback.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
@@ -644,7 +644,7 @@ But only take advice from mentors. They are the best source of feedback.
 ---
 ### On achieving mastery
 
-After learning the rules, break them. Only then you can achieve mastery.<br>
+After learning the rules, break them. Only then you can achieve mastery.  
 But the path to mastery is a never ending story: skills are perishable.
 
 <!--
@@ -670,7 +670,7 @@ amateurs play for tricks, masters play for position
 
 > *'The master has failed more times than the beginner has ever tried.' -- Stephen McCraine*
 
-> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.'*
+> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.' -- Robert Greene*
 
 > *'The master’s tools will never dismantle the master’s house.' -- Audre Lorde*
 
@@ -760,7 +760,7 @@ And «givers» attract «takers». Don't let them drain you, you're [free](#on-f
 ---
 ### On success
 
-There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits-and-systems).<br>
+There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits-and-systems).  
 Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
@@ -821,7 +821,7 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 ### On stress and health
 
-Take care of your body. It’s the most important thing you’ll get for free.<br>
+Take care of your body. It’s the most important thing you’ll get for free.  
 HOWEVER... the origin of most health problems is not physical but mental.
 
 > *'There are links between mental health and physical health. Physical stress avoids need for control.'*
@@ -830,11 +830,11 @@ HOWEVER... the origin of most health problems is not physical but mental.
 
 > *'Action cures everything. Plain and simple.'*
 
-Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).<br>
+Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  
 The more relaxed you are, the better you are at everything.
 
-> *'Under-stimulation = boredom <br>
-right amount of stress = hustling (stretching comfort zone) <br>
+> *'Under-stimulation = boredom   
+right amount of stress = hustling (stretching comfort zone)   
 over-stimulation = anxiety'*
 
 <!--
@@ -853,8 +853,8 @@ on placebos
 – Erik Vance
 -->
 
-> *'If you are depressed you are living in the past. <br>
-If you are anxious you are living in the future. <br>
+> *'If you are depressed you are living in the past.   
+If you are anxious you are living in the future.   
 If you are at peace you are living in the present.' -- Lao Tzu*
 
 <!-- ligar com #on-control -->
@@ -959,7 +959,7 @@ Anger and excuses are fear clothed. All excuses are refutable.
 
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
-> *'There is no coming to consciousness without pain.<br>
+> *'There is no coming to consciousness without pain.  
 People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
 
 > *'You cannot use your personality type as a\n excuse.'*
@@ -993,7 +993,7 @@ Someone else’s strengths don’t make you look bad—but being jealous and ins
 ---
 ### On mistakes and failure
 
-Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness):<br>
+Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness):  
 Sometimes you win, sometimes you learn. Accept failure as part of the process.
 
 > *'Anyone who has never made a mistake has never tried anything new.'*
@@ -1034,7 +1034,7 @@ Calling it an experiment gives you permission to fail. -- A.J. Jacobs
 ---
 ### On shame
 
-Speaking openly about an imperfection is a sign of strength, not a weakness.<br>
+Speaking openly about an imperfection is a sign of strength, not a weakness.  
 You are not you think you are: *you are what you hide*.
 
 <!--
@@ -1082,7 +1082,7 @@ Don’t wait for someone to tell you that you are special. If the universe didn'
 
 > *'Let go of your ego and your need for validation.'*
 
-[Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.<br>
+[Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.  
 In the meanwhile any source is good. Don't stop till you get it.
 
 > *'If you don't believe in yourself. Believe in me who believes in you.'*

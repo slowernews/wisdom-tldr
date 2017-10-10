@@ -10,7 +10,7 @@
 
 ### On past and memory
 
-You are your memory but *let go* your past [failures](#on-mistakes-and-failure).<br>
+You are your memory but *let go* your past [failures](#on-mistakes-and-failure).  
 They are meant to guide you, not to define you or determine your future.
 
 > *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
@@ -36,6 +36,7 @@ How memory works? People forget by decaying and giving them other stuff to remem
 <!--
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.'*
 -->
+
 
 
 ---
@@ -112,7 +113,7 @@ Being rich is not counting money all day but being fulfilled.
 
 > *'Life, is not a having and a getting, but a being and a becoming.' -- Myrna Loy*
 
-> *'Shift your focus from achievement to fulfillment:<br>
+> *'Shift your focus from achievement to fulfillment:  
 What makes you come alive, what do you enjoy doing, who do you enjoy being around?'*
 
 > *'Some people are so poor, all they have is money.'*
@@ -122,8 +123,7 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 > *'You can spend your time making money but you can't spend your money making time.'*
 
 <!--
-“You’re not supposed to optimize for money; you’re supposed to optimize for happiness.”
--- Mr. Money Mustache (AKA Pete Adeney)
+“You’re not supposed to optimize for money; you’re supposed to optimize for happiness.” -- Mr. Money Mustache (AKA Pete Adeney)
 
 nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, question
 
@@ -135,7 +135,7 @@ nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 
 See fame as a multiplier. If you want to impact the world, be famous.
 
-> *'Do everything in public. Other people are facing the same problems. They will identify with you and provide solutions.'<br>
+> *'Do everything in public. Other people are facing the same problems. They will identify with you and provide solutions.'  
 'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (paraphrased)*
 
 
@@ -143,7 +143,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 ---
 ### On luck
 
-Unless you’re winning, life will seem hideously unfair to you.<br>
+Unless you’re winning, life will seem hideously unfair to you.  
 Be positive, luck is a pattern and the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
@@ -158,7 +158,7 @@ Be positive, luck is a pattern and the pendulum will swing back your way eventua
 
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 
-What’s the difference between luck and chance?<br>
+What’s the difference between luck and chance?  
 Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
 
 HOWEVER...
@@ -315,31 +315,21 @@ fazer dinheiro: cambios e rendas
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
 
+
 ---
-### On science
+### On science and art
+
+'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald E. Knuth
 
 > *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
 
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
+> *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
+
 > *'The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...' -- Isaac Asimov*
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.'*
-
-<!--
-> *'Science is a wonderful thing if one does not have to earn one's living at it.'*
-
-> *'The whole of science is nothing more than a refinement of everyday thinking.'*
-
-> *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
--->
-
-
-
----
-### On art
-
-'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald E. Knuth
 
 > *'Art is just another form of screaming.'*
 
@@ -350,6 +340,10 @@ fazer dinheiro: cambios e rendas
 > *'Life is Capitalism but art is Socialism.'*
 
 <!--
+> *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
+
+> *'The whole of science is nothing more than a refinement of everyday thinking.'*
+
 The more ‘art’ you allow in to your photography the less commercial success you’ll have. People don’t want ‘art’ they want entertainment.
 -->
 
@@ -379,3 +373,5 @@ Perfection is achieved, not when there is nothing more to add, but when there is
 Not caring what other people think is a superpower.
 
 The ability to change your mind is a superpower.
+
+The ability to focus is a superpower.

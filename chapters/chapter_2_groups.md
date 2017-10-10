@@ -635,6 +635,8 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» - it means they’ve stopped thinking.'*
 
 <!--
+> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
+	
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
@@ -810,9 +812,13 @@ HOWEVER... a leader needs humbleness. Gaining an understanding and giving approp
 ---
 ### On hiring and being hired
 
-Hire likable persons that «get shit done» but only retain the best.
+Hire most but only retain likable persons that «get shit done».
 
 > *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
+
+> *'Is it better to be good at many things or great at one thing?  
+To be an entrepreneur you need to know a little about a lot of things.  
+To be employed, you'll do better as a specialist. If you pick the right specialization.'*
 
 How to keep talented people? Respect them.  
 You'll never respect them if you don't pay them accordingly.
@@ -842,15 +848,13 @@ How to apply for a job?
 
 > *'When applying for a job be more of a consultant than an applicant.'*
 
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+How to keep a job?
 
 > *'While deep work will promote you, shallow work will only prevent you from being fired.'  
 'Career capital is the unique skills that make you rare and valuable'  
 'Be so good that they cannot ignore you' -- Cal Newport*
 
-> *'Is it better to be good at many things or great at one thing?  
-To be an entrepreneur you need to know a little about a lot of things.  
-To be employed, you'll do better as a specialist. If you pick the right specialization.'*
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
