@@ -107,8 +107,7 @@
 *Other*
 - [On investment](/chapters/chapter_appendix.md#on-investment)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
-- [On science](/chapters/chapter_appendix.md#on-science)
-- [On art](/chapters/chapter_appendix.md#on-art)
+- [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 
 *Bonus*
