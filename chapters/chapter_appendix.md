@@ -34,7 +34,11 @@ How memory works? People forget by decaying and giving them other stuff to remem
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* 
 
 <!--
+I’m like that. Either I forget right away or I never forget.
+
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.'*
+
+The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 -->
 
 
@@ -56,11 +60,19 @@ You will die soon. Act accordingly and don't postpone joy.
 
 > *'Never get so busy making a living that you forget to make a life.'*
 
+> *'As you walk and eat and travel be where you are. Otherwise you will miss most of your life.' -- Siddhartha Guatama*
+
 HINTS:
 
 100 blocks a day - wait but why
 
+HOWEVER:
+
+> *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
+
 <!--
+> *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
+
 > *'Just because you use your eyes, doesn’t mean you see what’s actually there.' -- Murray Carter*
 
 > *'If you are waiting for anything in order to live and love without holding back, then you suffer.' -- David Deida*
@@ -129,6 +141,8 @@ nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 
 > *'Don’t think money does everything or you are going to end up doing everything for money.' -- Voltaire*
 -->
+
+
 
 ---
 ### On fame
@@ -209,6 +223,10 @@ HINTS:
 
 > *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
 
+HOWEVER:
+
+> *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
+
 <!--
 “Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
 
@@ -269,32 +287,73 @@ Spend less than you make. Stay liquid. Never invest in anything you can’t sell
 
 > *'It is often said that the secret to getting rich is not to make more money, but to keep it.'*
 
+> *'Do not save what is left after spending, but spend what is left after saving.' -- Warren Buffett*
+
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
-HINT: Buy low and sell high. But how?
-
-> *'Don’t buy on future hopes; only buy on past mistakes.'*
-
-> *'The best companies aren't sold, they're bought.'*
-
-> *'What's your religion? Arbitrage.' -- Me*
-
 HINT: How to spot trends?
-
-> *'Wherever oil goes, the stock market goes.'*
 
 > *'Recessions are caused when a bunch of people lose confidence all at once.'*
 
+Understand who are the buyers and the sellers and their motivations. It's very different from value investing.
+
+Understand that Investments are competing with each other.
+
+> *'Wherever oil goes, the stock market goes.'*
+
+HINT: How to spot good investments?
+
+> *'The best companies aren't sold, they're bought.'*
+
+> *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
+
+> *'You should remember that good ideas are rare - when the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
+
+> *'What's your religion? Arbitrage and rents.' -- EF*
+
+HINT: How to buy low and sell high?
+
+> *'Don’t buy on future hopes; only buy on past mistakes.'*
+
+> *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.' -- Charlie Munger*
+
 <!--
+Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
+A gestão ativa traz selectividade e timing. -- Karen Kharmandarian
+
+Everything is economy. -- EF
+
+deleveraging = reducing balance sheet from both sides
+
+For example, most of us have a basic understanding of the economics of a restaurant: You rent or buy space, spend money to outfit the place and then hire employees to seat, serve, cook, and clean. (And, if you don’t want to do it yourself, manage.)
+From there it’s a matter of generating enough traffic and setting the appropriate prices to generate a profit on the food and drinks you serve—after all of your operating expenses have been paid. Though the cuisine, atmosphere, and price points will vary by restaurant, they all have to follow the same economic formula.
+
+charlie munger:'.If you want to improve your odds of success in life and business then define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say “I don’t know.''
+
+diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
+humility and triangulation of great people levete your probabbilities of making good decisions
+
+taking risk of the table.
+
+start with small investments till you are confortable with them. psycology is a huge factor.
+
+legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
+
+Know When to Fold Em
+“Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand-- you must learn to handle mistakes and new facts that change the odds.” Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile. - munger
+
+	
 entrepreneurship vs investment (2 different mentalities
+“I succeeded because I have a long attention span.”
+“It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.” - munger
+
+“You’re looking for a mispriced gamble.” - about investing -munger
 
 investment: the Barbell strategy
-
-fazer dinheiro: cambios e rendas
 -->
 
 

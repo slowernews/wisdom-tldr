@@ -82,6 +82,8 @@ unlocking dormant ties
 > *'Custom tailor teams from project to project. Same team from same project is not the best option.'*
 
 list the people i met
+
+> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 -->
 
 
@@ -764,6 +766,8 @@ Managing is delegating. Your speed as a manager is the speed of the team.
 
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
+> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 > *'A manager should make himself 2 questions a day:   
@@ -771,18 +775,10 @@ Managing is delegating. Your speed as a manager is the speed of the team.
 «Where was I uncomfortable the day before?» (what went right and where do you need support)  
 The speed that you offload your stuff will be the speed of your team.'*
 
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
-
-> *'Productivity is different from workflow engineering.'*
-
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
-<!--
-> *'Too busy pretending I'm occupied.'*
--->
-
-> *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
+> *'Productivity is different from workflow engineering.'*
 
 > *'Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».'*
 
@@ -807,25 +803,39 @@ How to give feedback?
 
 HOWEVER... a leader needs humbleness. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
+> *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
+
+<!--
+> *'Too busy pretending I'm occupied.'*
+-->
+
 
 
 ---
 ### On hiring and being hired
 
-Hire most but only retain likable persons that «get shit done».
+Trial most but only hire likable persons that «get shit done».
 
 > *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
+
+> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+
+> *'He who works with his hands is a laborer.  
+He who works with his hands and his head is a craftsman.  
+He who works with his hands and his head and his heart is an artist.' -- St. Francis of Assisi*
 
 > *'Is it better to be good at many things or great at one thing?  
 To be an entrepreneur you need to know a little about a lot of things.  
 To be employed, you'll do better as a specialist. If you pick the right specialization.'*
 
+> *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
+
+> *'While deep work will promote you, shallow work will only prevent you from being fired.'  
+'Career capital is the unique skills that make you rare and valuable'  
+'Be so good that they cannot ignore you' -- Cal Newport*
+
 How to keep talented people? Respect them.  
 You'll never respect them if you don't pay them accordingly.
-
-> *'He who works with his hands is a laborer.  
-He who works with his hands and his head is a craftsman.  
-He who works with his hands and his head and his heart is an artist.' --  St. Francis of Assisi*
 
 <!--
 make them part of the solution and part of the answer.
@@ -844,23 +854,10 @@ Real Talent Cares More About Upside than Income
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 -->
 
-How to apply for a job?
+When applying for a job be more of a consultant than an applicant.
 
-> *'When applying for a job be more of a consultant than an applicant.'*
-
-How to keep a job?
-
-> *'While deep work will promote you, shallow work will only prevent you from being fired.'  
-'Career capital is the unique skills that make you rare and valuable'  
-'Be so good that they cannot ignore you' -- Cal Newport*
-
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
-
-> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
-
-HOWEVER... jobs are risky. So avoid the trap of following one set career path. It will be easier to pivot when needed.
-
-> *'I work for money, if you want loyalty hire a dog.'*
+HOWEVER.. avoid the trap of following one set career path. It will be easier to pivot when needed.  
+Being an employee is risky.
 
 > *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
@@ -868,7 +865,7 @@ HOWEVER... jobs are risky. So avoid the trap of following one set career path. I
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
-> *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
+> *'I work for money, if you want loyalty hire a dog.'*
 
 > *'The boss wants the most sophisticated talent he can get, and he doesn't want to pay anything for it. Every penny he pays, and every second of your life he doesn't get for it, is a failure in his eyes.'*
 
@@ -877,6 +874,8 @@ HOWEVER... jobs are risky. So avoid the trap of following one set career path. I
 > *'People pivot to near areas, combining two skills.'*
 
 <!--
+> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
+
 Stack of skills -- Scott Adams
 
 100% time -> 100% results  

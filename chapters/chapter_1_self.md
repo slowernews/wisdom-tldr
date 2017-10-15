@@ -252,6 +252,8 @@ Pull yourself together and take total ownership for everything in your life.
 > *'Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.'*
 
 <!--
+> *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
+
 “Look at every path closely and deliberately, try it as many times as you think necessary, then ask yourself and yourself alone one question: Does this path have a heart? If it does the path is good, if it doesn’t it is of no use.” -- jack-kornfield
 	
 5. Passion is Made Not Found

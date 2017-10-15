@@ -249,15 +249,14 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 ### On starting and timing
 
-Just start. 
+Just start.  
+Stop making resolutions and start making something.
 
 > *'You don't have to be great to start, but you have to start to be great.' -- Zig Ziglar*
 
 > *'The journey of a thousand miles begins with a single step' -- Lao Tzu*
 
 > *'A year from now, you will wish you had started today.' -- Karen Lamb*
-
-Stop making resolutions and start making something.
 
 > *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
 
@@ -280,13 +279,21 @@ No preparation - you can learn while you do it.
 
 2. perfectionism
 
+> *'Perfectionism doesn’t make you feel perfect; it makes you feel inadequate.' -- Maria Shriver*
+
+> *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
+
 3. fear (of change)
+
+> *'We distract ourselves because we are not willing to face up with what bothers us.'*
 
 > *'When hope disappears, so does action'*
 
 > *'What gets measured gets done.'*
 
 <!--
+We feel anxiety over a deadline or a task that we don’t want to do, even though we know we should. So we procrastinate in order to remove that anxiety.
+	
 > *add mark manson on procrastination*
 lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita e vence-se a procrastination
 
@@ -298,6 +305,8 @@ Learn something new.
 Missions are for people who DO. Mission statements are for people who DON’T.
 
 1. Don’t overthink it. Don’t waste time analyzing it.
+
+> *'Do not wait to strike till the iron is hot; but make it hot by striking.' -- Yeats*
 -->
 
 Timing is important.
@@ -480,6 +489,9 @@ HOWEVER...
 
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
+<!--
+past and future doesn't exist. we cannot control anything, at most we can influenciate something.
+-->
 
 
 ---
@@ -519,7 +531,7 @@ How to balance an imbalance? Overcompensate.
 ---
 ### On adapting
 
-Plans are not static. Adapt or die.  
+Plans are not static. Adapt not react.  
 You need to switch strategies a few times to get where you want to go.
 
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
@@ -538,6 +550,8 @@ Sometimes you need to say NO to everything and focus.
 It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'  
 -- Derek Sivers (paraphrased)*
 
+> *'When the winds of change blow, some people build walls while others build windmills.' -- Chinese proverb*
+
 > *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
 
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
@@ -551,6 +565,8 @@ HOWEVER...
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 <!--
+
+
 stick to the plan. poople sabotage their one plans when it get tedious, nobnotusos, challegnig or too difficult. people think they need a new plan.
 
 Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.

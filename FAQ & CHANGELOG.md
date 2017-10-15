@@ -10,6 +10,10 @@ I haven't a straightforward answer. It started as something I wanted and couldn'
 
 Western culture and Agnosticism. Other biases: Centrism, Minimalism, Essencialism and Intellectualism.
 
+<!--
+changeism, frugalism
+-->
+
 ---
 
 *Can I help?*
