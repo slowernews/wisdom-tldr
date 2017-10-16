@@ -569,7 +569,7 @@ conflict resolution:
 ---
 ### On criticism and envy
 
-Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [wealth](/chapter_appendix.md#on-wealth), [ambition](/chapter_appendix.md#on-ambition-and-motivation), [fame](/chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](/chapter_appendix.md#on-beauty), [health](/chapter_appendix.md#on-stress-and-health) and a mix of them ([lifestyle](/chapter_appendix.md#on-lifestyle)) are the main triggers. 
+Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [wealth](/chapter_appendix.md#on-wealth), [ambition](/chapter_appendix.md#on-ambition-and-motivation), [fame](/chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](/chapter_appendix.md#on-beauty), [health](/chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](/chapter_appendix.md#on-lifestyle)) are the main triggers. 
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
@@ -593,6 +593,8 @@ Only take advice from [those achieving what you want to achieve](#on-feedback). 
 
 > *'Consensus happens just in the beginning and in the end of something.'*
 
+> *'Once they stop talking to you, they start to talk about you.'*
+
 HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
@@ -603,11 +605,6 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
-> *'Once they stop talking to you, they start to talk about you.'*
-
-<!--
-freedom is an envy trigger also
--->
 
 
 ---
@@ -674,17 +671,15 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'Good fences make good neighbors.'*
 
-> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
-
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
 > *'Politician is a profession that doesn't like risk. Decisions are made on the lowest risk of offending anybody.'*
 
 > *'I love individuals. I hate groups of people. I hate a group of people with a ‘common purpose’. Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals.' -- George Carlin*
 
-<!--
-para reduzir a corrupção deve-se diminuir o nr de pessoas envolvidas em processos analógicos.
--->
+> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
+
+> *'To reduce corruption diminish people involved on analogic processes.'*
 
 
 
@@ -717,7 +712,7 @@ People want leadership because they want autonomy and influence.
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
-HOWEVER...
+HOWEVER... Be humble.
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
@@ -788,13 +783,13 @@ How to give feedback?
 > *'«Is that the best you can do?»  
 «Interesting, how do you feel about it?»  
 «What does your team think?»  
-«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or you may learn something, if you are humble enough to listen.'*
+«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.'*
 
 2. If you're certain the delivered work is not good enough give a reason.
 
 > *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
 
-HOWEVER... a leader needs humbleness. Gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
+HOWEVER... gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
 
@@ -822,10 +817,6 @@ To build an empire you must become a master at finding and hiring talent.
 > *'He who works with his hands is a laborer.  
 He who works with his hands and his head is a craftsman.  
 He who works with his hands and his head and his heart is an artist.' -- St. Francis of Assisi*
-
-> *'Is it better to be good at many things or great at one thing?  
-To be an entrepreneur you need to know a little about a lot of things.  
-To be employed, you'll do better as a specialist. If you pick the right specialization.'*
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
@@ -861,6 +852,10 @@ Being an employee is risky.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
+> *'Is it better to be good at many things or great at one thing?  
+To be an entrepreneur you need to know a little about a lot of things.  
+To be employed, you'll do better as a specialist. If you pick the right specialization.'*
+
 > *'I work for money, if you want loyalty hire a dog.'*
 
 > *'The boss wants the most sophisticated talent he can get, and he doesn't want to pay anything for it. Every penny he pays, and every second of your life he doesn't get for it, is a failure in his eyes.'*
@@ -879,8 +874,8 @@ becoming the go to guy for some questions
 How to «pivot» career?
 
 > *1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
-write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.  
-2) find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
+write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.<br>
+2) find the people that were working for them. top leaders ask for help and give knowledge away. more open source.<br>
 3) take risks to boost your immune system.*
 
 > *'People pivot to near areas, combining two skills.'*
