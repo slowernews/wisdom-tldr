@@ -54,6 +54,7 @@
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)
 - [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
 - [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
+- [On career](/chapters/chapter_2_groups.md#on-career)
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
 
 

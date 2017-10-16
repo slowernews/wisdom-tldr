@@ -392,6 +392,7 @@ Alex points out that he wouldn’t hire someone who would simply accept the firs
 -->
 
 
+
 ---
 ### On relationships
 
@@ -696,19 +697,19 @@ Being a leader is different from being a boss. Leadership is based on mutual [tr
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
-> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
-
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 > *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
 
 > *'The only thing that gives orders, is balls.' -- Tony Montana*
 
-> *'People don't follow robots.'*
+Being a leader requires to be equal parts manager and psychotherapist.
 
 > *'There are no bad teams, only bad leaders.'*
 
-> *'No one is smarter than a small group.'*
+> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
+
+> *'People don't follow robots.'*
 
 People want leadership because they want autonomy and influence.
 
@@ -720,23 +721,11 @@ HOWEVER...
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
-<!--
-
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
-
-Being a leader requires to be equal parts manager and psychotherapist.
-
 > *'I’m not here to help; I’m here to learn.'*
 
-reduce you feelings of power to be more effective
+> *'No one is smarter than a small group.'*
 
-boss ask employee to do x
-employee resist, boss come back later after thinking about his resistance, maybe you can do something about
-
-Refuse to work with people you don’t like.
-Fire customers that cause you to much stress or that cost too much to service.
-It takes a very small number of people (one) to ruin an environment. One person in the office is all it takes to make everyone miserable. Don’t tolerate these people. Take it as far as you need to take it. 
-
+<!--
 In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers. Owners make more than employees in the long run.
 
 We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others.
@@ -749,12 +738,14 @@ make people feel as part of a family
 
 leader persuader - mix com persuasion 
 
-When someone is out of line, don’t let it slide too far.
-If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
+Fire customers that cause you to much stress or that cost too much to service.
 
 Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
 
 a good leader: a) knows when to speak and when don't. b) knows to create a vision of where they wanna go.
+
+When someone is out of line, don’t let it slide too far.
+If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
 -->
 
 
@@ -786,7 +777,9 @@ For that you need to [communicate](#on-communication).
 
 > *'Spend one hour a day just talking to your people and everything will be OK.'*
 
-> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent». Some people also go through «incompetent and confident», «where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.' -- exelius*
+> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius*
+
+> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
 
 How to give feedback?
 
@@ -807,6 +800,8 @@ HOWEVER... a leader needs humbleness. Gaining an understanding and giving approp
 
 <!--
 > *'Too busy pretending I'm occupied.'*
+
+boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about
 -->
 
 
@@ -814,11 +809,15 @@ HOWEVER... a leader needs humbleness. Gaining an understanding and giving approp
 ---
 ### On hiring and being hired
 
-Trial most but only hire likable persons that «get shit done».
+Trial most but only hire likable persons that «get shit done».  
+Your goal in business should be to «fire» yourself and hire people who are better at your job than you are.  
+To build an empire you must become a master at finding and hiring talent.
 
 > *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+
+> *'Refuse to work with people you don’t like. One person in the office is all it takes to make everyone miserable. Don’t tolerate these people.'*
 
 > *'He who works with his hands is a laborer.  
 He who works with his hands and his head is a craftsman.  
@@ -830,33 +829,30 @@ To be employed, you'll do better as a specialist. If you pick the right speciali
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
-> *'While deep work will promote you, shallow work will only prevent you from being fired.'  
-'Career capital is the unique skills that make you rare and valuable'  
-'Be so good that they cannot ignore you' -- Cal Newport*
+How to attract and keep talented people? Respect them.  
+You'll never respect them if you don't reward them accordingly.
 
-How to keep talented people? Respect them.  
-You'll never respect them if you don't pay them accordingly.
+> *'Create contracts that build up «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process.'*
 
-<!--
-make them part of the solution and part of the answer.
-you don't pay your family members, if its just money let them go.
-everything has to be win win. team members and not employees
-
-Your goal in business should be to “fire” yourself and hire people who are better at your job than you are.
-And to build an empire you must become a master at finding and hiring talent.
-But you have to learn how to create contracts that build up “golden handcuffs” offering your new hires the ability to earn as much as they want… provided that they are earning you even more income in the process.
-From finances to health to relationships, expand your mind and your reality will follow
-Ok, so their base pay is only $50,000  a year…
-But what is their long term potential when you include bonuses, equity, and commission?
-If you offer enough incentives, you will attract incredible talent into your business.
-Real Talent Cares More About Upside than Income
+HOWEVER good employeees are not easy to find.
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
--->
+
+> *'They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.'*
+
+<!--
+> *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
 
 When applying for a job be more of a consultant than an applicant.
 
-HOWEVER.. avoid the trap of following one set career path. It will be easier to pivot when needed.  
+leadership, family style
+-->
+
+
+
+### On career
+
+Avoid the trap of following one set career path. It will be easier to pivot when needed.  
 Being an employee is risky.
 
 > *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
@@ -871,25 +867,33 @@ Being an employee is risky.
 
 > *'My luggage is always ready.' -- Portuguese soccer coach*
 
+How to keep a job?
+
+> *'While deep work will promote you, shallow work will only prevent you from being fired.'  
+'Career capital is the unique skills that make you rare and valuable'  
+'Be so good that they cannot ignore you' -- Cal Newport*
+
+differentiate yourself / volunteer for assignments
+becoming the go to guy for some questions
+
+How to «pivot» career?
+
+> *1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
+write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.  
+2) find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
+3) take risks to boost your immune system.*
+
 > *'People pivot to near areas, combining two skills.'*
 
-<!--
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
-Stack of skills -- Scott Adams
+How to get employers feedback?  
+If you ask them why did they asked you for an interview, they will describe your strengths.
 
+<!--
 100% time -> 100% results  
 20% time -> 80%results  
 So: 100% on one thing = 80% on 5 things!  
-
-> *'How to pivot:  
-1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
-write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc   
-2) question: talent ledger: what are the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
-3) take risks to boost your immune system.'*
-
-differentiate yourself / volunteer for an assignment
-becoming the go to guy for some questions
 
 > *'How to return to an workplace:  
 - reframe your experience. Use today and future jargons. Make your homework.  
@@ -897,13 +901,7 @@ becoming the go to guy for some questions
 - career ecosystems, get back into them, reconnect.  
 - reboot self confidence. Surround yourself with confident people.'
 
-Hint from interviews: People will describe your strengths, if you ask them why did you ask him for an interview. Than work from there.
-
 Happy, Smart, and Useful
-
-A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. -- Robert Heinlein
-
-They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.
 -->
 
 
