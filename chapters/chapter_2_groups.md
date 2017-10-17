@@ -196,6 +196,8 @@ Successful *entrepreneurs* are good risk managers.
 
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
+Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
+
 <!--
 There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
 
@@ -340,7 +342,7 @@ For the accomodator, the relationship is the most important'*
 
 > *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
 
-> *'Mirroring and reword. repeating the last one to three words of the other person. it opens up people's brain. Its' very effective.'*test the firmness of what they want. the others had to think about it. people didn't even realize it.'*
+> *'Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.'*
 
 HOWEVER... always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
 
@@ -846,7 +848,7 @@ leadership, family style
 Avoid the trap of following one set career path. It will be easier to pivot when needed.  
 Being an employee is risky.
 
-> *'The moment you [rigidly follow a plan](#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
+> *'The moment you [rigidly follow a plan](chapter_3_action.md#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
 > *'If your job doesn't require originality, next decade you might not have one.'*
 

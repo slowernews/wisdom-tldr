@@ -121,6 +121,9 @@ HOWEVER... live in accordance with your nature. If you try to be something you'r
 
 > *'You’re not going to succeed at stuff you don’t want to do.' -- Mark Bittman*
 
+<a id="on-authenticity"></a>d) Choose authenticity.  
+Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
+
 
 
 ---
