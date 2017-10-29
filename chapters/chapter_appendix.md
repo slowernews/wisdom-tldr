@@ -628,19 +628,8 @@ That's where «big bucks» are.
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
 <!--
-Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
 -->
-
-
-
----
-### On superpowers
-
-Not caring what other people think is a superpower.
-
-The ability to change your mind is a superpower.
-
-The ability to focus is a superpower.
 
 
 
@@ -649,18 +638,29 @@ The ability to focus is a superpower.
 
 a) Keep it under three lines -> more than this call
 
-b)  Make the subject line a) unique, b) meaningful and c) easily searchable
+b) Make the subject line a) unique, b) meaningful and c) easily searchable
 
-c)  Use EASY-TO-READ formatting! font 12/14, Use bold, underline, and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
+c) Use EASY-TO-READ formatting! font 12/14, Use bold, underline, and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
 
 d) Put your specific action request in the first line. A busy exec wants to touch an email once and take action: delete, respond or forward for action.
 Start with the action/request, and then explain if you need to.
 be specific in your request… Instead of saying, “Can you meet sometime next week?” say, “Can you meet Wed, Sept 10 in XYZ location between 10 a.m. and 12 p.m. PST?” “I’m available to meet at these three time windows. My EA is copied. What works?” (Then list the three windows.)
 
-e)  Make the ask really, really simple – such that it’s hard for your reader to say “No”
+e) Make the ask really, really simple – such that it’s hard for your reader to say “No”
 Have your email make a single, specific, simple request:
 Do you have time for a 5 min call this week?
 Please review and sign this document.
 Can you make a quick intro to XYZ person?
 I’d love a letter of support from you. I’ve attached a draft for your review.
 I should be able to reply to the email in one word (ideally Yes or No), or forward it on to the right person to reply in full.
+
+
+
+---
+### On superpowers
+
+[Not caring what other people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
+
+The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpower.
+
+The ability to [focus](chapter_3_action.md#on-focus-time-management-and-productivity) is a superpower.

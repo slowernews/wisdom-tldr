@@ -112,8 +112,8 @@
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 
 *Bonus*
-- [On superpowers](/chapters/chapter_appendix.md#on-superpowers)
 - [On email](/chapters/chapter_appendix.md#on-email)
+- [On superpowers](/chapters/chapter_appendix.md#on-superpowers)
 
 
 ### TL;DR 

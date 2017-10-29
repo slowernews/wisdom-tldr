@@ -211,8 +211,6 @@ Smile, don't ramble, look for external catalysts as hints for stories and questi
 
 > *'Get better asking questions. They are more important than answers.'*
 
-> *'Talk about your passions instead of your accomplishments (aka bragging), transform it in a story.'*
-
 > *'Storytelling is about the details.'*
 
 > *'On improvisation is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
@@ -629,21 +627,24 @@ There comes a time when you have to stop crossing oceans for people who wouldn�
 ---
 ### On family and friends
 
-You need to build your board of directors. Life is meant to be lived in community.
+Life is meant to be lived in community.  
+Build your «board of directors». 
 
 > *'Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
-
-> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
-
-> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 > *'You're never too old to make a friend. Always be looking for a new one.  
 If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
-HOWEVER... choose who surrond you: you are the average of these people  
+> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
+
+> *'Family is not an important thing, it’s everything.' -- Michael J Fox*
+
+HOWEVER... choose who surrond you: you are the average of them. 
 You will waste your life trying to make those around into who you want them to be.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
+
+> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
@@ -667,8 +668,6 @@ When you are intentional about surrounding yourself with the right people, you w
 Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
 
 If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.
-
-> *'Family is not an important thing, it’s everything.' -- Michael J Fox*
 -->
 
 
@@ -683,7 +682,7 @@ Always be generous: a low value gift can have the opposite effect.
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'*
 
 <!--
-Here’s the reality: The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
+The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
 -->
 
 
