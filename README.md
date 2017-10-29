@@ -20,7 +20,6 @@
 - [On feedback](/chapters/chapter_1_self.md#on-feedback)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
 - [On generosity and mentorship](/chapters/chapter_1_self.md#on-generosity-and-mentorship)
-- [On success](/chapters/chapter_1_self.md#on-success)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
@@ -69,7 +68,7 @@
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
 - [On pace, position and direction](/chapters/chapter_3_action.md#on-pace-position-and-direction)
-- [On focus and time management](/chapters/chapter_3_action.md#on-focus-and-time-management)
+- [On focus, time management and productivity](/chapters/chapter_3_action.md#on-focus-time-management-and-productivity)
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On adapting](/chapters/chapter_3_action.md#on-adapting)
@@ -85,8 +84,8 @@
 
 *On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)
-- [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)
+- [On winning](/chapters/chapter_3_action.md#on-winning)
 
 
 ### Appendix
@@ -104,6 +103,7 @@
 - [On luck](/chapters/chapter_appendix.md#on-luck)
 - [On beauty](/chapters/chapter_appendix.md#on-beauty)
 - [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
+- [On success](/chapters/chapter_appendix_action.md#on-success)
 
 *Other*
 - [On investment](/chapters/chapter_appendix.md#on-investment)
@@ -113,6 +113,7 @@
 
 *Bonus*
 - [On superpowers](/chapters/chapter_appendix.md#on-superpowers)
+- [On email](/chapters/chapter_appendix.md#on-email)
 
 
 ### TL;DR 

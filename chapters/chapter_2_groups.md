@@ -79,6 +79,110 @@ while drumming up new connections by networking is important, it’s even more i
 unlocking dormant ties
 
 <!--
+“The enemy of excellence is isolation.”
+
+what people really want:
+Because when it comes to social dynamics, we are what we want.
+And since most of what we want is facilitated by words, we are what we say.
+
+Which means that if you can look past the literal meaning of language, and learn to read the matrix of goals that drive the people you interact with, you’ll have a huge advantage in this world.
+ask yourself why this person is using these words at this moment.
+
+emotional bank accounts. You make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.
+
+people see networking as something to do rather than a habit that forms up part of who you are: something to be.
+
+you were interested in who they were, not just in what they did (or what they could do for you), and you took the time to add value and help them. You’re also not interested in simply helping someone with one sale or one connection, but in building a long-term connection if mutual interests and respect are in place
+
+age is a mindset.
+I was a late bloomer. Some people are early bloomers.
+I only really have 3 friends in the world. Here are the ages of my 3 friends: younger than me, same as me, older than me.
+And they all do what I do. That's the glue that holds us together. Everybody else is an acquaintance.
+Everybody comes for the advice, everyone comes for the know-how.
+But nobody stays for the follow-through. Only those 3 ever did. Those who stay for the follow-through get the benefits and the rewards.
+You see, it’s time. You don’t just get the knowledge and then receive the reward. In between the knowledge and the reward comes time.
+It’s time that you are required to give. Time time time. Time and content. That's how I do it.
+
+
+The best way to be highly influential is to be human to everyone you meet.
+add value -> give positive energy
+1. Convey genuine appreciationTo make it clear you’re interested in the other person, think about what they know that you don’t. What do you actually want to learn in the interaction? Focus on that so that they can walk away knowing they added value too
+2. Listen with intent.Being a good listener is about two things: 1) Demonstrating that you’ve heard exactly what was said by the other person, and 2) encouraging them to continue.
+3. Use humility markers. I’ll often start that conversation saying, ‘I’m wrong all the time and I very well may be here
+4. Offer unvarnished honesty. Just remember to root your honesty in what will actually have utility for the other part
+5. Blue-sky brainstorm.
+6. End every meeting or conversation with the feeling and optimism you’d like to have at the start of your next conversation with the person.
+7. Don't fake it till you make it. If you can’t explain something in simple terms, you don’t understand it.
+What I cannot create, I do not understand.
+
+1/3 of people hate you. 1/3 of people love you. 1/3 don’t care. You can’t change this formula.
+
+we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his.
+
+focus in others people sucess but pick the right people.
+
+make poeple being interested in you by making them good/unusual questions.
+ex: make equestions to a producer that is not from the top of their webiste. be intrested in them to them be intrested in you.
+
+curate your network.
+
+Rapport Building Questions
+“What Do You Want to Be When You Grow Up?”
+“What Did You Like About Where You Grew Up?”
+“What Places Do You Most Want to Travel To?”
+“If Money Were No Object What Would You Do With Your Life?”
+“What Are the Three Things You Most Want to Do Before You Die?
+
+“Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.” -- Patanjali
+
+the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
+
+include people to gain allies.
+
+“You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.”  -- Dale Carnegie
+
+super connectors: people with long networks, spend more time with these people
+be a giver, points in common
+
+---
+
+models of kinds of people in the world:
+hedonists + stoics
+takers + matchers + givers
+people that like you + people that don't like you + people that don't care about you
+finders + grinders (work bees) + minders
+
+---
+
+> *'No one’s going to help you in a way that’s not beneficial to them.'*
+
+How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress
+research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
+The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
+Seek someone else’s thoughts and opinions without judging them.
+How to be a great listener: active listening.
+Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
+Paraphrasing: Repeat what they just said in your own words.
+Labeling: Put a name on what they say they’re feeling. “Sounds like you’re feeling pressured.
+Emphasize Similarity, we like people who are like us
+Questions Are Powerful
+A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.
+What the best subjects to discuss are: Travel, Compliments And asking for Advice, Offer sincere compliments
+tarted speaking with more enthusiasm
+How to prevent awkward silences:
+How to politely end a conversation:
+
+Make sure the other person walks away better for having met you.: add value
+Stop trying to impress people or “win” the conversation. It’s really much simpler than that.
+
+A lot of people really like answering good questions!
+
+Pro Tip: Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
+
+Curiosity is King
+
+Be useful, not important. It’s not about you. It’s about the impact you have on others and the legacy that you leave.
+	
 > *'Custom tailor teams from project to project. Same team from same project is not the best option.'*
 
 list the people i met
@@ -199,6 +303,38 @@ Successful *entrepreneurs* are good risk managers.
 Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
 
 <!--
+9 Key Lessons from 150 Startups
+1. It’s easier when YOU are the customer. You truly understand the problem.
+2. If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP
+3. Create a culture that rewards killing ideas. kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something. We save a lot of money when we kill a bad idea.
+4. Equity unlocks human potential. When people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.
+5. TIMING is the most important factor in startup success. Team and Execution came next.
+“You really need to look at the signals and be honest about what they are telling you. Go out to market – test if people want your product. If there aren’t enough people, hoard money and conserve momentum.”
+
+failing business -> fire 60% top managers (ricardo semler)
+process of asking 3 whys is a row -> the first why is easy to answer
+
+There’s the myth that failure makes you a better entrepreneur. This is FALSE. study your failures!
+
+Changes in the environment unlock startup opportunities.
+
+Everything in demand is on a competitive scale.
+
+There are two types of entrepreneurs: Missionaries and mercenaries.
+
+disney salvation:
+1. Create a Clear, Simple Vision (Your Corporate MTP). -> deleverage
+2. Make long-term bets.
+3. Make fearless acquisitions on the edge.
+
+startup ideas -> problems and trends
+
+i recall reading that someone had more success with a "unlock feature X" model of payment, even though it in total was more expensive than unlocking everything at once.
+
+people underestimate the power of free. trusted to one day pay me. send an email to all readers saying that i'm making consultations.
+there's a price for it always. everything is an exchange. you can achieve everything but there is a price.
+people don't achieve anything because they are not willing to sacrifice. everything is a trade.
+
 There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
 
 You Have to Beat Your “Hopium” Addiction
@@ -391,6 +527,16 @@ When you do get an offer, Alex recommends not counteroffering immediately. “Sa
 A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.”
 
 Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
+
+Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device. -- seth godin
+
+It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
+
+Call all owners to rent. 8 said yes. Then auction! 2200 -> 1500
+
+To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
+Business is 80% psychological.
+
 -->
 
 
@@ -607,6 +753,9 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
+<!--
+Treat Your Haters Like Toddlers
+-->
 
 
 ---
@@ -743,6 +892,72 @@ a good leader: a) knows when to speak and when don't. b) knows to create a visio
 
 When someone is out of line, don’t let it slide too far.
 If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
+
+I’ve always thought that the hardest and most valuable thing in work is to get a group of smart people to work together toward a common goal.
+
+Beth Comstock outlined eight principles for Exponential Leadership:
+
+2. Organize Around Information Flows: In the digital age, information moves fast. To keep up with information flows, you have to ditch hierarchy. There’s no room for bureaucracy. It’s about openness, candor, radical feedback and full transparency. If you organize your organization around these tenets, you’ll thrive.
+
+3. Empower Individuals: Build a team of people who are prepared for change and empower them to do great work. The question is: how do you get people to get excited to grab power and go for it? More autonomy.
+
+4. Define your company’s “MO” - Mindset Orientation: Mindset is everything. As a leader, you must provide the vision and then allow your teams to figure their way out. Create a mindset that incentivizes them to do what they need to do the fastest, best way they can. It means they may fail. You should encourage them to fail fast, learn from their mistakes, and keep going. At GE, this process is called FastWorks, and it’s built on lean startup methodology.
+
+5. Establish Feedback Loops: Exponential leaders must both give and receive feedback – and importantly, they have to actually use it. Beth offers three ideas here:
+
+First: “One of the things we’ve done at GE is we’ve actually gotten rid of our employee performance reviews. Anyone in the organization can give anyone feedback. I just did a Facebook Live event last week and one of my young colleagues in the company gave me some feedback. It wasn’t so good… ‘You weren’t looking at the camera at the right point. You looked like you were distracted.’ It was hard feedback to receive, but it was encouraged.”
+
+“What is the one thing that is true that you think I don’t want to hear?” Beth comments that you’ll be amazed what you’ll learn. It’s extremely valuable.
+
+Third: Rather than doing long, convoluted employee surveys, stick to a simple feedback mechanism: Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
+
+6. Get Used to Living in the In-Between: Exponential leaders are comfortable with ambiguity and uncertainty. This is going to be key to survive the change that is coming.
+
+7. Mash Up Minds and Machines: Exponential leaders use technology to their advantage, combining the power of computing and data with human leadership.
+
+8. Prioritize Innovation and Observe Patterns That Block It: Innovating is really hard. Good leaders understand they have to navigate the tension. Sometimes leaders give up, and they don’t hold their team accountable for growing. They themselves back off on it. And so is it any wonder that the people on the team deprioritize innovating?.
+
+---
+
+Sue Siegel on Exponential Leadership
+
+1. Always be an Ambassador for Your Team, Innovation Happens Everywhere.
+
+3. Once a Decision is Made, It is Supported. Period. This is really important. Once a decision is made in a meeting, there must be no second-guessing of that decision after the fact. Sue explains, “When we walk out of that room, and you’ve had all the chance to actually defend your position to make the decision, it’s time to start executing. That’s it.” If you need to change a strategy, use data from implementation to support your argument and bring it up in the next decision-making meeting.
+
+4. Proactive Problem Management – Go Directly to the Source: As complexity increases, so too does the potential for conflict or confusion. As an exponential leader, you must be proactive in managing this. Sue’s strategy is simple and clear: “Go to the source, directly to the source. Don’t complain to managers or others before you’ve gone to the person first to resolve the conflict.”
+
+7. You Can’t Delegate Culture: This is absolutely critical for exponential leaders. Culture can make or break a company, and therefore it a) must be very high on a leader’s list of priorities and b) must come from the top. Leaders can’t delegate culture. Sue goes on, “Leaders are the culture bearers, the torchkeepers of culture in our companies. They might have change agents, or those that actually help them amplify their culture, but the leader cannot delegate culture. This is a truth that a lot of us forget because we’re so busy. Employees and teams really want to see it from their leaders. They want to hear the talk, they want to watch them walk the talk, all the time.” Interestingly, while leaders cannot delegate culture creation, they can delegate culture keeping.
+
+Be a Manager: The only reason there’s so many awful managers is that good people like you refuse to do the job.
+
+A necessary condition for leadership is trust, which doesn't come from titles. You have to earn it.
+Necessary conditions are those that must be present, but are not, on their own, enough for achievement.
+
+leadership is based on emotional intelligence
+
+"You have to be the boss or you have to play ball."
+
+If friendship is your weakest point then you are the strongest person in the world — Abraham Lincoln
+
+Just last week I reminded my team to leave in all internal key Meetings one seat free - for our customer ... like Jeff Bezos practiced it in all Amazon meetings.
+
+The Keys to Good Government
+There are three keys: honesty, effectiveness, and efficiency.
+
+evolutionary instinct to follow the strong person
+
+the quiet leader vs heroic leader
+
+leaders as team maker
+
+learn more about the importance of being trusted over being liked as a leader
+
+exelius 337 days ago | parent | favorite | on: Don't add your 2 cents
+Situational leadership :) Adapt your leadership style to the skills and confidence of those you are leading.
+In a situation where your subordinates are unsure of what to do and they really don't have the skills to do it alone, you have to provide leadership and encouragement. Lead by example, show them how to do it, and let them iterate without too much micromanagement.
+When your subordinates are competent but lacking confidence, it's often a better option to stand back and say nothing. The "ownership" piece is huge -- if this is the first big project you've "owned", you'll probably iron out the kinks even if I don't say anything to you. Also keep in mind is that there are many correct ways to solve a problem; while your solution may not be the one I would go with, you're more comfortable with your solution and can probably see things about it that I can't. I trust you to be the expert on the solution; I've got bigger things to worry about like how I'm going to continue servicing my same workload with a 10% cut in budget.
+The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.
 -->
 
 
@@ -834,11 +1049,147 @@ HOWEVER good employeees are not easy to find.
 > *'They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.'*
 
 <!--
+The Pocket Guide of Essential YC Advice:
+• Launch now
+• Build something people want
+• Do things that don’t scale
+• Find the 90 / 10 solution
+• Find 10-100 customers who love your product
+• All startups are badly broken at some point
+• Write code – talk to users
+• “It’s not your money”
+• Growth is the result of a great product not the precursor
+• Don’t scale your team/product until you have built something people want
+• Valuation is not equal to success or even probability of success
+• Avoid long negotiated deals with big customers if you can
+• Avoid big company corporate development queries – they will only waste time
+• Avoid conferences unless they are the best way to get customers
+• Pre-product market fit – do things that don’t scale: remain small/nimble
+• Startups can only solve one problem well at any given time
+• Founder relationships matter more than you think
+• Sometimes you need to fire your customers (they might be killing you)
+• Ignore your competitors, you will more likely die of suicide than murder
+• Most companies don’t die because they run out of money
+• Be nice! Or at least don’t be a jerk
+• Get sleep and exercise – take care of yourself
+
+Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
+Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
+
+Raising money:
+The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don't.
+The right people are too busy working to be chasing down investors 24/7.
+The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
+
+startups are similar to biological life. Wherever the conditions are hospitable, life already exists.
+The difference is that startups live in an economic rather than a biological environment. -> funds dont mind that u fail if they have also some winners
+
+1) Do networking and listen. It's not about how great you are in your wildest dreams.
+2) Deliver a little bit more than expected. That'll help to get you some recommendations.
+3) Don't follow every new tech stack, framework whatsoever hype. Choose your toolchain where you are feeling comfortable with.
+4) Raise your hourly rate. There's nothing wrong with it, if you're doing a great job based on past projects.
+5) Say "No" to nasty, time consuming and time wasting clients.
+6) Build your own brand to be proud of.
+
+The biggest assumption I ever made in business is that most people are telling me the truth. Most people have no idea what truth is.
+
 > *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
 
 When applying for a job be more of a consultant than an applicant.
 
 leadership, family style
+
+The risk is the salaried employee in an economy with shrinking corporations, more outsourcing, more automation, who get their stable paycheck and every month risk being fired. The economy forces all the risk on it’s poorest members – employees who have no control over their futures. Entrepreneurs get rid of risk so they can have more control over their future.
+
+people want freedom to choose their process
+
+Learn to focus on people’s character and their virtues, not just their raw talent
+
+slow to hire, slow to fire VS fast to hire, fast to fire
+
+The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
+Hire people you can trust. You have to trust them to be adults. Give them clear goals and then get the hell out of the way so that they can do their job.
+Give them the tools they ask for, not the tools a vendor suggested. They have a reason they asked for a proprietary compiler, get it for them.
+Respect goes a long way and begins in the recruitment phase. It surely doesn't end there. To get respect, you have to give respect.
+Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There's no reason to pay crap wages.
+At the same time, wages aren't everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don't offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won't just up and go to a new company after you've trained them.
+I can go on, but there's a few things I've learned.
+
+I’m a recruiter. The best advice that I can give.
+Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
+DON’T tell me about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell me HOW you accomplished your responsibilities better than the next person.
+ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
+
+> *'I had a manager at Google who once said the people who were terminated at Google were those who question too much and code too little.'*
+
+pivoting?
+1) Pivoting isn’t easy, even if you know it’s right.
+2) Pivoting is a mindset.
+3) You will either pivot or get pivoted. -> everything is changing all the time
+4) Changes are usually for the best.
+5) You don’t have to be a “brand” to be discoverable. - just add value!
+
+Most reviewers are only going to understand two skill levels:
+You’re still learning the skill
+You feel confident in the skill
+
+A resume or list of previous jobs is a nice timeline. But as a maker, your creation is the ultimate validation.
+
+Have you seen that one position that you absolutely want? Build your portfolio around that job’s requirements and responsibilities. -> targeted cv
+
+Tip #3: A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences.
+
+Every little detail matters.
+Here is the toughest point for a lot of people: you can’t control what your reviewer sees on your portfolio.
+
+"Estimativas são Promessas. Promessas devem ser cumpridas.".
+In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
+
+Therefore, there is zero correlation between an estimate and the actual outcome.
+
+If you're a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
+
+If you want an average successful life, it doesn’t take much planning. Just stay out of trouble, go to school, and apply for jobs you might like. But if you want something extraordinary, you have two paths:
+
+1. Become the best at one specific thing.
+2. Become very good (top 25%) at two or more things.
+
+---
+
+I always advise young people to become good public speakers (top 25%). Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your engineering degree, law degree, medical degree, science degree, or whatever. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.
+
+Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
+
+There’s also the unfortunate culture in technology that devalues everything unrelated to militant capitalism.
+If you’re not trying to make money, what are you even doing?
+
+“I want to have a safety net so I can get a job.”
+This is what my daughter said to me. Where did she learn the phrase “Safety net”?
+Maybe the thing about college is that a child is not yet ready to be an adult.
+It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were.
+It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you.
+I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears.
+So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up.
+
+career advancement: knowledge + metaknowledge (don't ask, journal higher hierarchy than you)
+
+There's nothing wrong in specialization -- it's how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don't have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
+
+Data Scientist: Person who is better at statistics than any software engineer and better at software engineering than any statistician.
+
+“Go where you can make a difference Not where you think there’s a home run.”
+
+“Your income is directly proportional to the need for what you do and your ability to do it” ~Jim Rohn
+
+You dont get any where, and for more money, sitting in the same seat
+
+A constellation of talents is just a laundry list of skills until you decide to put it into action. A combination of qualities is just a personality until you use it to navigate the world.
+
+The key to developing a killer stack is to a) be aware of it, b) cultivate it consciously, and c) apply it in pursuit of a personal goal.
+
+HOW CAN I BE USEFUL?
+
+autentic pride (genuine) vs hubristic pride (egotistic)
 -->
 
 

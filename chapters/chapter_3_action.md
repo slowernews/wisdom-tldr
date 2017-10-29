@@ -67,6 +67,11 @@ The mind that opens to a new idea never returns to its original size. -- Albert 
 Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
 
 > *'Moments of originality and moments of conformity.'*
+
+Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas. -- altucher
+
+It's true that some ideas are better than other ones. But movement, action is the only thing that matters in the end. Because the right idea not executed is worth nothing, but a mediocre one well taken care of and well executed can prove to be worth much.
+Ideas mature, evolve. They smash themselves against real life, sometimes for good
 -->
 
 
@@ -137,10 +142,131 @@ HINTS:
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 <!--
+The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
+
+Your ability to think clearly determines the decisions you make and the actions you take.
+
+The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
+
+Ask yourself “does this decision require fast or slow thinking?” 
+
+Create a hypothesis-- a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do.
+
+This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
+
+Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.”
+
+If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.
+
+“To understand is to know what to do.”
+
+What’s your advantage: informational, analytical, or behavioral?
+
+simplicity is the ultimate sophistication
+	
 not playing your hand but playing your opponent.'*
 
 “A world constructed from the familiar is the world in which there's nothing to learn.”
 In shaping what we see, filter bubbles show us a distorted map and not the terrain
+
+"Life is understood backwards, but must be lived forwards." -- Kierkegaard
+
+> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
+
+The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation.
+Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
+
+scheduling free time can make it feel like chores
+
+Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
+
+Yes, you should have a strong, crystal clear vision and end game, but you must be flexible about how you achieve that vision.
+
+“All models are wrong but some are useful.” -- George Box
+
+> *'You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.' -- steve jobs*
+
+“Anything perceived has a cause.~// humm-- rational and irrational players
+All conclusions have premises. 
+All effects have causes. 
+All actions have motives.”
+— Arthur Schopenhauer
+
+key variables that you need to maximize and minimize, and follow the agile path blazed by Henry Singleton (My only plan is to keep coming to work. … I like to steer the boat each day rather than plan ahead way into the future.)
+
+“I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.” -- Charlie Munger
+
+My first thought,” William Deresiewicz said in one of my favorite speeches, “is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.”
+
+Knowing what you want is not enough, you must have a very clear blueprint for the specific actions you are going to take in order to achieve your end game
+
+best way to del awith confirmation bias: You need to search out disconfirming evidence.
+
+Almost everything people say to me has a good reason and a real reas
+
+everybody is a genious. but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
+(under ideal conditions everybody si a genious)
+
+GET AN EXIT STRATEGY
+
+identifing needs
+
+um texto historico é biased/shortsighted mais que um gráfico historico onde cada um tira as suas comclusoes.
+
+> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
+
+confirmaton bias, the mother of all bias
+In truth, we all believe in things we can’t prove.
+If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated.
+Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite.
+We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
+
+Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
+
+If an animal hears a rustle in the grass, it might be a predator. Of course, it might just as easily be the wind, or a smaller animal, or it might be nothing at all. But if it is a predator, that would be dangerous. The end of the animal’s life, probably. They would be removed from the gene pool forever. So it’s much better -- in evolutionary terms -- to assume that all these rustles in the grass are predators, because the cost of not assuming it’s a predator is too high.
+
+You might be thinking, “But why can’t this animal collect more data about these rustles in the grass? Why couldn’t it have evolved the capacity to do a more rational analysis?” Well, because that would take more time, and a predator doesn’t wait around for its prey to make a decision. Assuming is what keeps an animal alive, and therefore gives it more of a chance to reproduce -- and so it’s the animals that developed the ability to assume and make decisions rapidly that were more effective at reproducing.
+
+This is why research in rapid cognition says that we -- that is, humans -- make our decisions intuitively most of the time.
+
+It’s like buying a house. You make a list of all the things you want, and then usually it comes to down a feeling. “I don’t know why, but I just like this one.”
+
+> *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
+
+Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas.
+Two people with opposing views on a topic can see the same evidence, and still come away both validated by it
+We can be cautious of data which seems to immediately support our views.The desire to be right is the thirst for truth.
+Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts.
+This saves the time needed to make decisions, in particular when under pressure.
+
+Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
+
+Lewis Carroll stated “we are what we believe we are”, but it seems that the world is also what we believe it to be
+
+The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him.
+
+Much of this is the result of our need for cognitive consistency. 
+
+As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. 
+
+confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
+
+“The eye sees only what the mind is prepared to comprehend.” -- Robertson Davies
+
+You need to search out disconfirming evidence.
+
+As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel:
+
+All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth. Our knowing minds are not embedded in truth. Rather, the entire notion of truth is embedded in our minds, which are themselves the unwitting lackeys of organizational forms of influence.
+
+Truth in stereotypes there'es truth on GROUP opinions.
+steryotypes are the falsy _group_ opinions that account for a small amout.
+groups opinios self correct themselves.
+
+> *'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' -- Mark Twain*
+
+> *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
+
 -->
 
 
@@ -168,6 +294,98 @@ Make the decisions right now. When in the moment of making the decision, you hav
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
 <!--
+All models are wrong, some are useful. -- George Box
+Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
+
+A model is a simplification which fosters understanding.
+the wrong way to understand models: Too literally
+
+“Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.” -- Yuval Noah Harari
+
+“The basic trouble, you see, is that people think that “right” and “wrong” are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.” -- Isaac Asimov
+
+Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad
+
+Occam’s razor states that the simplest solution is usually correct
+
+“The world doesn’t have the luxury of waiting for complete answers before it takes action. — Daniel Gilber
+
+Think of mental models as minimum viable products.
+Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them.
+
+Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
+
+Georg Rasch said the following:
+When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential…. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.
+
+As we know, the map is not the territory. A map can be seen as a symbol or index of a place, not an icon.
+
+“A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.” -- Alfred Korzybski
+
+mapa mental!
+
+Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way.
+
+The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge “set”.
+
+“A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.” -- Joan Robinson
+
+Too many people are caught up wasting time on physics-like precision in areas of practical life that do not have such precision available. A better approach is to ask “Is it useful?” and, if yes, “To what extent?”
+
+Mental models are a way of thinking about the world that prepares us to make good decisions in the first place.
+
+The critical point for any innovation is the transition from the early adapters to the sceptics, for at this point there is a ‘chasm'.
+
+When enough people (a critical mass) think about and truly consider the plausibility of a concept, it becomes reality.” -- Joseph Duda
+
+His hypothesis was that white families had different levels of tolerance for the number of people of racial minorities in their neighborhoods. Some white families were completely racist; others were not concerned with the race of their neighbors. As increasing numbers of racial minorities moved into neighborhoods, the most racist people would soon leave. Then a tipping point would occur — a critical mass of white people would leave until the area was populated by racial minorities. This phenomenon became known as “white flight
+
+Critical Mass in Psychology
+Psychologists have known for a long time that groups of people behave differently than individuals.
+Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. (An interesting detail is that mob psychology is one of the few branches of psychology which does not concern individuals.) As a general rule, the larger the crowd, the less responsibility people have for their behaviour. (This is also why individuals and not groups should make decisions.)
+
+In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
+For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up.
+We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
+
+The Problems With Goals:
+-Goals have an enndpoint
+-Goals rely on factors which we do not always have control over.
+-Goals rely on willpower and self-discipline.
+-Keeping a goal in mind and using it to direct our actions requires constant willpower.
+-Goals can make us complacent or reckless.
+
+even the best and most useful maps suffer from limitations, and Korzybski gives us a few to explore: (A.) The map could be incorrect without us realizing it; (B.) The map is, by necessity, a reduction of the actual thing, a process in which you lose certain important information; and (C.) A map needs interpretation, a process that can cause major errors. (The only way to truly solve the last would be an endless chain of maps-of-maps, which he called self-reflexiveness.)
+
+charlie munger:
+
+Wisdom and Circle of Competence
+“Knowing what you don’t know is more useful than being brilliant.”
+“Acknowledging what you don’t know is the dawning of wisdom.”
+“People are trying to be smart—all I am trying to do is not to be idiotic, but it’s harder than most people think.”
+“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”
+
+Map and Terrain
+“At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information.”
+
+Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong). Scrap it, isolate the 
+
+Getting rich is a function of being happy with what you have, spending less than you make, and time.
+
+“Know the big ideas in the big disciplines and use them routinely-- all of them, not just a few.”
+
+you don't win by predicting the future; you win by getting the odds right. You can be right about the future and still not make any money. At the racetrack, for example, the favorite horse may be the one most likely to win, but since everyone wants to bet on the favorite, how likely is it that betting on the favorite will make you money? The horse to bet on is the one more likely to win than most people expect. That's the one that gives you the best odds. That's the bet that pays off over time. -- will bonner
+
+The ability to destroy your ideas rapidly instead of slowly when the occasion is right is one of the most valuable things.
+
+As Rabbi Moses ben Maimon (1135-1204), commonly known as Maimonides, said: “Teach thy tongue to say I do not know, and thou shalt progress.”
+Great thinkers, like Darwin, did the work necessary to hold an opinion. And it's one of the biggest reasons he's buried at Westminster Abbey. Doing the work counteracts our natural desire seek out only information that confirms what we believe we know.
+
+Most of the time people don't put us to the test. When they do, the results don't match our confidence.
+
+If you want to win an argument, ask the person trying to convince you of something to explain how it would work.
+Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
+	
 bad decisions, good memories
 
 if you do do the decision somebody will make it for you.
@@ -382,7 +600,7 @@ chess gambits -- exchange material by position-time.
 
 
 ---
-### On focus and time management
+### On focus, time management and productivity
 
 Time itself, is not your limitation. Attention is.  
 You’re not managing time, you're managing attention.
@@ -440,6 +658,31 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+Focus just on 3 outcomes per day.
+Focus on doing the right things instead of doing things right.
+Set specific, measurable, attainable, realistic and time-based goals.
+View actions towards a goal not in terms of progress, but of commitment to the goal.
+Set process goals (which help you achieve a larger goal).
+Work with a purpose in mind.
+
+you're not perfect in everything. find your specialty.
+
+When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize. - munger
+
+Não se pode fazer colecção de tudo.
+
+read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
+
+focusing-art-not-science
+
+Do Less to Achieve More
+
+> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
+
+school rewards generalist and not focusing: the world does so.
+
+Real success happens when we focus on one thing at a time.
+
 don't be a dabbler.
 
 '«No» is no to one thing. «Yes» is no to a lot of things.'
@@ -526,6 +769,14 @@ How to balance an imbalance? Overcompensate.
 
 > *'Some people get passion from something they struggled with.'*
 
+<!--
+if you want to have a balance life you need to draw a line.
+if not this not leads to happiness, it leads to achievement.
+work/life balance.
+you have the option to work 24/7, with the 9to5 the option was made to you, now is more difficult and you need to draw a line.
+most of us don't want to draw the line and they suffer the consequences.
+-->
+
 
 
 ---
@@ -599,7 +850,21 @@ HOWEVER... beware of counter-attacking.
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
 <!-- 
-> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'* 
+> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
+
+Divide and conquer it.
+
+1. You need to recognize when you're not learning, for one thing. If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
+2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
+3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
+4. Learn how to learn: https://www.youtube.com/watch?v=FKTxC9pl-WM
+5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
+
+The metagame is playing a different game than your competitors. A game they can't play.
+The metagame is this psychological game that exists among players, involving adjustments – adjustments based on how an opponent is likely to interpret a given set of actions. Better players adjust their strategies and styles to those of particular opponents, always analyzing how the opponents are playing in terms of how the opponents believe they're playing.
+Maintaining a well-balanced strategy, while deciphering your opponents' strategies, is the key to the metagame. If you comprehend the concept of the metagame, accurately perceive the flow of your table and then tournament, and stay alerted to and aware of current strategy trends, you'll be able to successfully mix up your play when considering your image and that of your opponents. In return, your game will be highly unpredictable and difficult to read, which should be your ultimate goal.
+Part of their greatness comes from identifying the constraints of others and capitalizing on those structural disadvantages.
+In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
 -->
 
 
@@ -790,6 +1055,31 @@ Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
 
 ---
+### On surrendering
+
+Use this opportunity to re-create yourself.  
+'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk
+
+> *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
+
+> *'Use the surrender tactic: transform weakness into power.'  
+'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
+
+> *'The greatest revenge is success.' -- Frank Sinatra*
+
+<!--
+if you didnt quit anything you woud be still playing with toddlers
+
+when do you decide how to quit something else?
+quit or grit? woop
+wish / outcome / obstacle / plan
+
+> *'Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere.' -- Paul Coelho*
+-->
+
+
+
+---
 ### On winning
 
 It's not just about winning. The way you win sets you up for the next round.
@@ -821,17 +1111,3 @@ The concept of attrition applies outside of war. Bureaucracies grind people out.
 
 History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
 -->
-
-
----
-### On surrendering
-
-Use this opportunity to re-create yourself.  
-'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk
-
-> *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
-
-> *'Use the surrender tactic: transform weakness into power.'  
-'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
-
-> *'The greatest revenge is success.' -- Frank Sinatra*
