@@ -6,7 +6,7 @@
 	|  / |__/ |__/ |__  |  / |__/ |  / / 
 	     |    |                          
 
-# Appendix A - Time
+# Appendix A -- Time
 
 ### On past and memory
 
@@ -64,7 +64,7 @@ You will die soon. Act accordingly and don't postpone joy.
 
 HINTS:
 
-100 blocks a day - wait but why
+100 blocks a day -- wait but why
 
 HOWEVER:
 
@@ -133,7 +133,7 @@ make the exercise: imageine you life in 10years. possible futures
 
 
 ---           
-# Appendix B - On envy triggers
+# Appendix B -- On envy triggers
 
 ### On intelligence and talent
 
@@ -344,7 +344,7 @@ James Michener’s Nomadic Pursuit of Depth
 health is also an envy trigger.
 
 permission to rethink
-weekly design session - think on longer term
+weekly design session -- think on longer term
 reactive to proactive life
 start where do you have control of. go slowly over time.
 Essentialism: The Disciplined Pursuit of Less
@@ -409,8 +409,11 @@ HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest b
 > *'Doubt kills more dreams than failure ever will.'*
 
 <!--
+There are two things you need to do to be successful.
+know what is he right thing and having the courage to do it
+
 rules of success are universal.
-“Feel. Don’t think.. Use your instinct.” - We allow logic and egoic reasoning to dictate what we want (or what we say we want) and what goals we pursue.
+“Feel. Don’t think.. Use your instinct.” -- We allow logic and egoic reasoning to dictate what we want (or what we say we want) and what goals we pursue.
 But if you want to be truly happy. When you trust your instincts instead of your head, you will be in greater alignment with your true purpose and your actual desires. So drop the logic and just feel.
 
 1. Do What Works and Forget the Rest
@@ -484,83 +487,36 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 
 ---
-# Appendix C - Others
+# Appendix C -- Others
 
-### On investment
+### On assumptions, ideals and beliefs
 
-Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
+Beliefs lag behind reality.
 
-> *'It is often said that the secret to getting rich is not to make more money, but to keep it.'*
+But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
+Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 
-> *'Do not save what is left after spending, but spend what is left after saving.' -- Warren Buffett*
+> *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
 
-> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
-
-> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
-
-> *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
-
-HINT: How to spot trends?
-
-> *'Recessions are caused when a bunch of people lose confidence all at once.'*
-
-Understand who are the buyers and the sellers and their motivations. It's very different from value investing.
-
-Understand that Investments are competing with each other.
-
-> *'Wherever oil goes, the stock market goes.'*
-
-HINT: How to spot good investments?
-
-> *'The best companies aren't sold, they're bought.'*
-
-> *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
-
-> *'You should remember that good ideas are rare - when the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
-
-> *'What's your religion? Arbitrage and rents.' -- EF*
-
-HINT: How to buy low and sell high?
-
-> *'Don’t buy on future hopes; only buy on past mistakes.'*
-
-> *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.' -- Charlie Munger*
+Mental models
 
 <!--
-14. Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.
+Actions > Thoughts
+ACTIONS change the world. Not beliefs.
 
-Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
-A gestão ativa traz selectividade e timing. -- Karen Kharmandarian
+If you don't understand the limitations of the model, you don't understand the model.
 
-Everything is economy. -- EF
+a fundamentalist gives answers, a scholar gives questions
 
-deleveraging = reducing balance sheet from both sides
+i'm right -> how do i know i'm right
+radical openmindedness -> stress test your ideas
 
-For example, most of us have a basic understanding of the economics of a restaurant: You rent or buy space, spend money to outfit the place and then hire employees to seat, serve, cook, and clean. (And, if you don’t want to do it yourself, manage.)
-From there it’s a matter of generating enough traffic and setting the appropriate prices to generate a profit on the food and drinks you serve—after all of your operating expenses have been paid. Though the cuisine, atmosphere, and price points will vary by restaurant, they all have to follow the same economic formula.
+Idea-meritocratic decision-making is the best decision-making
 
-charlie munger:'.If you want to improve your odds of success in life and business then define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say “I don’t know.''
-
-diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
-humility and triangulation of great people levete your probabbilities of making good decisions
-
-taking risk of the table.
-
-start with small investments till you are confortable with them. psycology is a huge factor.
-
-legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
-
-Know When to Fold Em
-“Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand-- you must learn to handle mistakes and new facts that change the odds.” Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile. - munger
-
-	
-entrepreneurship vs investment (2 different mentalities
-“I succeeded because I have a long attention span.”
-“It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.” - munger
-
-“You’re looking for a mispriced gamble.” - about investing -munger
-
-investment: the Barbell strategy
+idea meritocracy
+The difference between an autocratic decision maker and a democratic decision maker.
+What is believability?
+find 3 people that high expertise but that they discord and listen. take your conclusions
 -->
 
 
@@ -634,6 +590,88 @@ That's where «big bucks» are.
 
 
 ---
+# Appendix D -- Bonus
+
+### On investment
+
+Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
+
+> *'It is often said that the secret to getting rich is not to make more money, but to keep it.'*
+
+> *'Do not save what is left after spending, but spend what is left after saving.' -- Warren Buffett*
+
+> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+
+> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
+
+> *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
+
+HINT: How to spot trends?
+
+> *'Recessions are caused when a bunch of people lose confidence all at once.'*
+
+Understand who are the buyers and the sellers and their motivations. It's very different from value investing.
+
+Understand that Investments are competing with each other.
+
+> *'Wherever oil goes, the stock market goes.'*
+
+HINT: How to spot good investments?
+
+> *'The best companies aren't sold, they're bought.'*
+
+> *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
+
+> *'You should remember that good ideas are rare -- when the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
+
+> *'What's your religion? Arbitrage and rents.' -- EF*
+
+HINT: How to buy low and sell high?
+
+> *'Don’t buy on future hopes; only buy on past mistakes.'*
+
+> *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.' -- Charlie Munger*
+
+<!--
+Two economists are walking along the street, and one says, “Hey, someone dropped a $20 bill!” and the other says, “Well, it can’t be a real $20 bill because someone would have picked it up already.”
+
+14. Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.
+
+Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
+A gestão ativa traz selectividade e timing. -- Karen Kharmandarian
+
+Everything is economy. -- EF
+
+deleveraging = reducing balance sheet from both sides
+
+For example, most of us have a basic understanding of the economics of a restaurant: You rent or buy space, spend money to outfit the place and then hire employees to seat, serve, cook, and clean. (And, if you don’t want to do it yourself, manage.)
+From there it’s a matter of generating enough traffic and setting the appropriate prices to generate a profit on the food and drinks you serve—after all of your operating expenses have been paid. Though the cuisine, atmosphere, and price points will vary by restaurant, they all have to follow the same economic formula.
+
+charlie munger:'.If you want to improve your odds of success in life and business then define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say “I don’t know.''
+
+diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
+humility and triangulation of great people levete your probabbilities of making good decisions
+
+taking risk of the table.
+
+start with small investments till you are confortable with them. psycology is a huge factor.
+
+legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
+
+Know When to Fold Em
+“Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand-- you must learn to handle mistakes and new facts that change the odds.” Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile. -- munger
+
+	
+entrepreneurship vs investment (2 different mentalities
+“I succeeded because I have a long attention span.”
+“It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.” -- munger
+
+“You’re looking for a mispriced gamble.” -- about investing -munger
+
+investment: the Barbell strategy
+-->
+
+---
 ### On email
 
 a) Keep it under three lines -> more than this call
@@ -666,6 +704,14 @@ takers + matchers + givers
 people that like you + people that don't like you + people that don't care about you
 
 finders + grinders (work bees) + minders
+
+<!--
+introverts have more probability of being an expert in their field
+extraversion is not good for mastery
+most people are not extremes and most people are in the middle
+introvert is not shyness. most things are not binary. Imagine a introvertness scale from 1 to 7.
+It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+-->
 
 
 

@@ -3,15 +3,15 @@
 	 /    /              /                   /  )          /                            
 	(    (___  ___  ___ (___  ___  ___      (  /  _       ( __  ___  ___       ___  ___ 
 	|   )|   )|   )|   )|    |___)|   )       /           |   )|   )|   )|   )|   )|___ 
-	|__/ |  / |__/||__/ |__  |__  |          /__  -       |__/ |    |__/ |__/ |__/  __/ 
+	|__/ |  / |__/||__/ |__  |__  |          /__  --       |__/ |    |__/ |__/ |__/  __/ 
 	               |                                                          |         
 
-# 2.1 - On interaction
+# 2.1 -- On interaction
 
 ### On networking
 
 Don't isolate yourself. Who you know and whether they like you will determine what opportunities you get.  
-Make networking an [habit](chapter_1_self.md#on-habits-and-systems) - your personality type is not an excuse.
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems) -- your personality type is not an excuse.
 
 > *'The enemy of excellence is isolation.'*
 
@@ -45,6 +45,8 @@ Personal branding means you are a liar. Truth is a better way to talk about ours
 The story we tell about ourselves to other people is dangerous. Our self-mythology will seduce us.  
 
 <!--
+you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
+
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
 Make sure the other person walks away better for having met you.: add value
@@ -79,6 +81,9 @@ How to prevent awkward silences:
 How to politely end a conversation:
 
 Stop trying to impress people or “win” the conversation. It’s really much simpler than that.
+
+How to Talk to Strangers. ask stuff outside of their expertise where you can add value.
+network on relevant groups that can help you.
 -->
 
 HINTS:
@@ -91,13 +96,13 @@ b) «Rescue people instead of «cold calling». Include people to gain allies.
 
 Pro Tip: Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
 
-How to taylor a network?
+How to taylor/curate a network?
 
 > *'Networking types: advocates a, boomerang b, celebrities c, drainers d  
 shark, dolphin, drowner'*
 
 > *'community of experts (that give you good answers)
-critical colleagues (10 people that make a big difference in your immediate career) - boss / boss's boss'*
+critical colleagues (10 people that make a big difference in your immediate career) -- boss / boss's boss'*
 
 > *'expand from too dense networks'*
 
@@ -162,6 +167,10 @@ Because most of the stories we hear about people’s success are nothing more th
 That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes. authenticity as subtracting the things that get in the way.
 
 <!--
+Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
+
+listening without worrying about what we’re going to say next
+
 The best conversationalists are the best listeners.
 Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
 Understand how to stay tuned in to the conversation by picking up on often-ignored (but crucially important) nonverbal cues.
@@ -235,6 +244,8 @@ Successful *entrepreneurs* are good risk managers.
 Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
 
 <!--
+femael buy man products. mens don't buy products targetted to females.
+
 give where you are naturally good
 quick to start but not the first
 
@@ -349,7 +360,7 @@ when you have passion you communicate better
 
 intro: //clay hebert
 I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words - short and sweet and confident and interesting.
+6 or 7 words -- short and sweet and confident and interesting.
 
 ask them first so you can costumise it for the context and make it more relevant.
 
@@ -368,9 +379,9 @@ Pitching (to persuade the customer to buy)
 Persisting (to push until you make the sale)
 
 effective selling: -> ambiverts and introverts -> We don't need hunters, just farmers
-Research (to understand the customer - time spent alone on the Web, reading and analyzing information)
-Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)
-Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
+Research (to understand the customer -- time spent alone on the Web, reading and analyzing information)
+Listening (to understand individual needs -- being patient and quiet while remaining open to new ideas and perspectives)
+Reacting (to adapt to the identified needs -- letting the other person set the pace and the agenda)
 
 If They Can’t Pay, Walk Away
 -->
@@ -497,7 +508,7 @@ HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. R
 
 > *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
-> *'The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+> *'The free soul is rare, but you know it when you see it -- basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
 > *'If a person is nice to you and to nobody else, that person is not nice.'*
 
@@ -598,6 +609,8 @@ HINT: resist to temptation of working with family and friends.
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
+
 “Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.” -- Patanjali
 
 4. Surround Yourself with People Who are Smarter than You 
@@ -621,18 +634,38 @@ focus in others people sucess but pick the right people.
 
 Always be generous: a low value gift can have the opposite effect.
 
-> *'Negative reinforcement isn’t as effective as positive reinforcement - even for people. Punishment only works near the situation that did that to you.'*
+> *'Negative reinforcement isn’t as effective as positive reinforcement -- even for people. Punishment only works near the situation that did that to you.'*
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'*
 
 <!--
 The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
+
+To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one
+
+power of incentives: Ignoring incentives almost never works out well
+Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
+
+continuous reinforcement |> intermitent reinforcement
+
+impredictable shecule / fixed work amount schedule / fixed time amount schedule
+
+the power of punishment to suppress behavior usually disappears when the threat of punishment is removed
+punishment often triggers a fight-or-flight response and renders us aggressive
+punishment inhibits the ability to learn new and better responses
+punishment is often applied unequally
+
+There are three alternatives that you can try the next time you feel tempted to punish someone.
+extintion of rewards
+positively reinforcing preferred activities.
+
+prompting and shaping are two actions we can use together to change behavior in an iterative manner. A prompt is a cue or stimulus that encourages the desired behavior. When shaping begins, any approximation of the target response is reinforced.
 -->
 
 
 
 ---   
-# 2.2 - On interaction: drawbacks
+# 2.2 -- On interaction: drawbacks
 
 ### On conflicts
 
@@ -726,7 +759,7 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 
 > *'Taking a fence down without knowing why is there.'*
 
-> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» - it means they’ve stopped thinking.'*
+> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
 
 <!--
 > *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
@@ -775,10 +808,12 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'To reduce corruption diminish people involved on analogic processes.'*
 
+> *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
+
 
 
 ---
-# 2.3 - On teams
+# 2.3 -- On teams
 
 ### On leadership
 
@@ -815,6 +850,8 @@ HOWEVER... Be humble.
 > *'No one is smarter than a small group.'*
 
 <!--
+you area a leader to somebody.leaders must be good followers. good leaders are leaders that grow up in the hierarchy.
+
 In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers. Owners make more than employees in the long run.
 
 We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others.
@@ -825,7 +862,7 @@ backup what you're preaching
 make yourself as part of a team
 make people feel as part of a family
 
-leader persuader - mix com persuasion 
+leader persuader -- mix com persuasion 
 
 Fire customers that cause you to much stress or that cost too much to service.
 
@@ -844,7 +881,7 @@ Beth Comstock outlined eight principles for Exponential Leadership:
 
 3. Empower Individuals: Build a team of people who are prepared for change and empower them to do great work. The question is: how do you get people to get excited to grab power and go for it? More autonomy.
 
-4. Define your company’s “MO” - Mindset Orientation: Mindset is everything. As a leader, you must provide the vision and then allow your teams to figure their way out. Create a mindset that incentivizes them to do what they need to do the fastest, best way they can. It means they may fail. You should encourage them to fail fast, learn from their mistakes, and keep going. At GE, this process is called FastWorks, and it’s built on lean startup methodology.
+4. Define your company’s “MO” -- Mindset Orientation: Mindset is everything. As a leader, you must provide the vision and then allow your teams to figure their way out. Create a mindset that incentivizes them to do what they need to do the fastest, best way they can. It means they may fail. You should encourage them to fail fast, learn from their mistakes, and keep going. At GE, this process is called FastWorks, and it’s built on lean startup methodology.
 
 5. Establish Feedback Loops: Exponential leaders must both give and receive feedback – and importantly, they have to actually use it. Beth offers three ideas here:
 
@@ -883,7 +920,7 @@ leadership is based on emotional intelligence
 
 If friendship is your weakest point then you are the strongest person in the world — Abraham Lincoln
 
-Just last week I reminded my team to leave in all internal key Meetings one seat free - for our customer ... like Jeff Bezos practiced it in all Amazon meetings.
+Just last week I reminded my team to leave in all internal key Meetings one seat free -- for our customer ... like Jeff Bezos practiced it in all Amazon meetings.
 
 The Keys to Good Government
 There are three keys: honesty, effectiveness, and efficiency.
@@ -1070,7 +1107,7 @@ pivoting?
 2) Pivoting is a mindset.
 3) You will either pivot or get pivoted. -> everything is changing all the time
 4) Changes are usually for the best.
-5) You don’t have to be a “brand” to be discoverable. - just add value!
+5) You don’t have to be a “brand” to be discoverable. -- just add value!
 
 Most reviewers are only going to understand two skill levels:
 You’re still learning the skill
@@ -1182,6 +1219,8 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
+ask what's your secret mission -- something you want to do here that another person is interested also\
+
 100% time -> 100% results  
 20% time -> 80%results  
 So: 100% on one thing = 80% on 5 things!  

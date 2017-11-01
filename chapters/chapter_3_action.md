@@ -3,10 +3,10 @@
 	 /    /              /                      |          /  |      /    /          
 	(    (___  ___  ___ (___  ___  ___       ___| _       (___| ___ (___    ___  ___ 
 	|   )|   )|   )|   )|    |___)|   )         )         |   )|    |    | |   )|   )
-	|__/ |  / |__/||__/ |__  |__  |          __/  -       |  / |__  |__  | |__/ |  / 
+	|__/ |  / |__/||__/ |__  |__  |          __/  --       |  / |__  |__  | |__/ |  / 
 	               |                                                                 
 
-# 3.1 - On preparing action
+# 3.1 -- On preparing action
 
 ### On creativity, vision and ideas
 
@@ -22,7 +22,7 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
-Creativity is a muscle - you have to practice it every day.  
+Creativity is a muscle -- you have to practice it every day.  
 Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 > *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
@@ -146,6 +146,8 @@ HINTS:
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 <!--
+Sometimes we know that A+B=C but we don’t realize that A=C-B
+
 The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
 
 Your ability to think clearly determines the decisions you make and the actions you take.
@@ -404,10 +406,10 @@ E: Establish personal accountability.
 
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
+too familiar -- too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
 
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
-too familiar - too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
+too familiar -- too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
 Always assume that you’re wrong from a purely philosophical point of view. We are always wrong about whatever we believe. Knowledge is always moving forward, and if you think about things you used to believe 10 years ago or five years ago, it embarrasses you now. And the things that you hold dear and hold to be true today are likely going to embarrass you in 10 or 20 years from now. 
 
 Say no to things you aren’t really excited about doing. Hell yes or no. The mediocre robs you of the great. sivers 
@@ -467,7 +469,7 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 
 ---
-# 3.2 - On executing
+# 3.2 -- On executing
 
 ### On starting and timing
 
@@ -487,13 +489,13 @@ Stop making resolutions and start making something.
 Why people procrastinate?
 
 1. lack of urgency / deadlines (the panic monster)
-No inspiration or opportunities - the inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.
+No inspiration or opportunities -- the inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 > *'Pressed by circumstances, we feel unusually energized and focused.'*
 
-No preparation - you can learn while you do it.  
+No preparation -- you can learn while you do it.  
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
@@ -514,6 +516,8 @@ No preparation - you can learn while you do it.
 > *'What gets measured gets done.'*
 
 <!--
+there is no right time! its a delusion
+	
 > *'Action expresses priorities.' -- Ghandi*
 	
 > *'Now is no time to think of what you do not have. Think of what you can do with what there is.' -- Ernest Hemingway*
@@ -610,7 +614,7 @@ be clear that your ladder is laid on the right building.
 	
 chess gambits -- exchange material by position-time.
 
-> *'Go-Karts - Feel fast, are slow 747s - Feel slow, are fast Ship it! - Feels fast, is slow Test > *'Document it! - Feels slow, is fast.'*
+> *'Go-Karts -- Feel fast, are slow 747s -- Feel slow, are fast Ship it! -- Feels fast, is slow Test > *'Document it! -- Feels slow, is fast.'*
 
 > *'You overestimate what you can do in a year but underestimate what you can do in two or three decades.' -- Tony Robbins*
 -->
@@ -685,7 +689,7 @@ Work with a purpose in mind.
 
 you're not perfect in everything. find your specialty.
 
-When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize. - munger
+When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize. -- munger
 
 Não se pode fazer colecção de tudo.
 
@@ -875,7 +879,7 @@ equipa que ganha, não se mexe
 -->
 
 ---
-# 3.3 - On competing
+# 3.3 -- On competing
 
 ### On creating imbalances
 
@@ -963,7 +967,7 @@ HOWEVER... use absence with [moderation](#on-balance).
 'Create compelling spectacles.'  
 'Stir up waters to catch fish.' -- Robert Greene (6th, 32nd, 37th and 39th law of power)*
 
-> *'Play a sucker to catch a sucker - seem dumber than your mark.' -- Robert Greene (21st law of power)*
+> *'Play a sucker to catch a sucker -- seem dumber than your mark.' -- Robert Greene (21st law of power)*
 
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 
@@ -1076,7 +1080,7 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 
 ---
-# 3.4 - On ending
+# 3.4 -- On ending
 
 ### On finishing
 

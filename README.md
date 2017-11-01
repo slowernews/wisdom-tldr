@@ -106,12 +106,13 @@
 - [On success](/chapters/chapter_appendix_action.md#on-success)
 
 *Other*
-- [On investment](/chapters/chapter_appendix.md#on-investment)
+- [On assumptions, ideals and beliefs](/chapters/chapter_appendix.md#on-assumptions-ideals-and-beliefs)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 
 *Bonus*
+- [On investment](/chapters/chapter_appendix.md#on-investment)
 - [On email](/chapters/chapter_appendix.md#on-email)
 - [On types of people](/chapters/chapter_appendix.md#on-types-of-people)
 - [On superpowers](/chapters/chapter_appendix.md#on-superpowers)

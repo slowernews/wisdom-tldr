@@ -3,10 +3,10 @@
 	 /    /              /                   /|            /         / /   
 	(    (___  ___  ___ (___  ___  ___      ( |   _       (___  ___ ( (    
 	|   )|   )|   )|   )|    |___)|   )       |               )|___)| |___ 
-	|__/ |  / |__/||__/ |__  |__  |          _|   -        __/ |__  | |    
+	|__/ |  / |__/||__/ |__  |__  |          _|   --        __/ |__  | |    
 	               |                                                       
 
-# 1.1 - On foundations
+# 1.1 -- On foundations
 
 ### On identity
 
@@ -17,6 +17,8 @@ You are your deeds. Your actions reveal your real values.
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
 > *'Words are deeds.' -- Ludwig Wittgenstein*
+
+> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 You are your choices.
 
@@ -75,9 +77,9 @@ you don’t live a life that is incongruent with what you want to make others ha
 You live a life of congruence where everything is in line.
 This is the pathway to true power.
 
-1 - i approve of me.
-2 - i am my word.
-5 - i keep my word / i take nothing she says seriously, helps me relax.
+1 -- i approve of me.
+2 -- i am my word.
+5 -- i keep my word / i take nothing she says seriously, helps me relax.
 
 Part of being a man is being a protector.protector of everyone who comes into your life.
 Part of Being a Man is Getting Shit Done
@@ -121,6 +123,12 @@ HOWEVER... live in accordance with your nature. If you try to be something you'r
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
 <!--
+a real man loves problems. it's an opportunity to do your best.
+
+Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
+
+The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.
+
 You must play by your rules, funnel your weird stuff to give you some advantage.
 
 _im bad in following a script_
@@ -267,7 +275,10 @@ How to lower your expectations? Be grateful.
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
 <!--
-> *'Anchor yourself - remember who you are, the things you are good at, even when completely different thing. authentic self is a state'*
+You Don’t Have to Pick Happiness or Profit
+If you are unhappy, use your pain to fuel you towards the pleasure of something new.
+
+> *'Anchor yourself -- remember who you are, the things you are good at, even when completely different thing. authentic self is a state'*
 
 high expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed
 
@@ -344,7 +355,7 @@ be sucessful -> people more sucessful
 
 
 ---
-# 1.2 - On growth
+# 1.2 -- On growth
 
 ### On finding a path
 
@@ -500,8 +511,8 @@ Divergence
 “Mimicking the herd, invites regression to the mean.” -> if you act average, you're going to be average, If you want to move away from average, you must diverge. And if you want to outperform, you must be different and correct. -- munger
 
 It is very popular to be over positive or over negative about it in the media (those people are usually wrong). So keep that in mind when reading those kind of opinions.
-Billions of dollars are already invested in the infrastructure so far - This will not disappear over night. It might already be "too big to fail" - If needed, It can pivot multiple times and still keep a high value.
-As times change rapidly - Not taking risks is too risky! So if you only slightly believe this can be a major financial instrument, you should start to understand and invest, according to the risk you are willing to take of course.
+Billions of dollars are already invested in the infrastructure so far -- This will not disappear over night. It might already be "too big to fail" -- If needed, It can pivot multiple times and still keep a high value.
+As times change rapidly -- Not taking risks is too risky! So if you only slightly believe this can be a major financial instrument, you should start to understand and invest, according to the risk you are willing to take of course.
 
 > *'When the love-of-life line crosses the fear-of-death line, all hell breaks loose.' -- Johannes Rand*
 
@@ -626,6 +637,9 @@ Cultivate high leverage systems: [meditate](#on-meditation), spend time outside,
 Avoid low leverage systems: social media, news, pointless notifications, smartphones, owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..
 
 <!--
+Keep a journal, record your thoughts, learn what’s happening with you. We get 3-4 thoughts a year that would change our life if we acted on them.” – Les Brown
+Why You Should Record Your Conversations with Strangers
+
 List highest-leverage activities (where 80% of your time should go).
 Complete at least 1 important but not urgent task per day.
 
@@ -716,7 +730,7 @@ Take advantage of early hours in the day.
 Create a concentrated environment.
 Fight Procrastination
 
-> *'Continuous effort - not strength or intelligence - is the key to unlocking our potential.' -- Winston Churchill*
+> *'Continuous effort -- not strength or intelligence -- is the key to unlocking our potential.' -- Winston Churchill*
 -->
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
@@ -796,12 +810,11 @@ Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms o
 
 “Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).”— Stephen Covey
 
-“First we make our habits, then our habits make us.” — Charles C. Nobel
+“First we make our habits, then our habits make us.” -- Charles C. Nobel
 
-“Pain plus reflection equals progress.” - ray dalio
+“Pain plus reflection equals progress.” -- ray dalio
 
-> *'Miss a meal, but don’t miss your reading.' – Jim Rohn*
-
+> *'Miss a meal, but don’t miss your reading.' -- Jim Rohn*
 -->
 
 
@@ -816,6 +829,15 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+How to learn?
+There are four simple steps to the Feynman Technique:
+Choose a Concept
+Teach it to a Toddler
+Identify Gaps and Go Back to The Source Material
+Review and Simplify (optional\
+
+It’s important to separate attributes from skills
+
 Only applied knowledge is power, and if you have spent years devoting your time and energy to learning without taking the proper proportion of action, then it is time to get off your ass, leave the theory on your nightstand, and get in the game
 
 Just in time learning. You can learn faster if you have something your working on rather than some future idea that may not happen. Improves retention, wastes less time.
@@ -952,6 +974,7 @@ build self awareness
 mix with BIAS
 
 
+
 ---
 ### On feedback
 
@@ -983,6 +1006,8 @@ After learning the rules, break them. Only then you can achieve mastery.
 But the path to mastery is a never ending story: skills are perishable.
 
 <!--
+some of the skills that you need to achive expertise are not yet systemised/conscientent
+
 If you can’t explain something in simple terms, you don’t understand it.
 What I cannot create, I do not understand.
 	
@@ -1048,7 +1073,13 @@ Be generous and share your strengths. Impact the world.
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
 <!--
- when looking for a mentor, look for the silver medalist. has more availability, and sometimes, a better attitude than “the golden child.” 
+generosity: what did u do this week for somebody?
+bed time: 8.30 and i turn off the light or 9 and you have the responsability to turn off the light?
+
+kid: why do i have to do this?
+me: i was a boy myself. i know what is that for you and why is important.
+
+when looking for a mentor, look for the silver medalist. has more availability, and sometimes, a better attitude than “the golden child.” 
 	
 “Don’t follow your mentors; follow your mentors’ mentors.” -- DAVID LEACH
 
@@ -1059,7 +1090,7 @@ He said that what he'd learned to do was to condition whatever help he was offer
 My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work.
 There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.
 
-Really great people make you feel that you too can be great. — Mark Twain
+Really great people make you feel that you too can be great. -- Mark Twain
 
 One of the reasons why I think your uncle's gestures made such a big impact is that he made gestures that rewarded good things AND he wasn't a relative to many of the people he interacted with.
 
@@ -1098,6 +1129,8 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 
 > *'Your father is your first mentor.'*
 
+> *'He who can reach a child’s heart, can reach the world’s heart.' -- Rudyard Kipling*
+
 <!--
 educating kids
 convenience for you vs best thing for the kid.
@@ -1125,7 +1158,7 @@ And «givers» attract «takers». Don't let them drain you, you [don't owe them
 
 
 ---                                                                                                                                 
-# 1.3 - On your worst enemy: yourself
+# 1.3 -- On your worst enemy: yourself
 
 ### On stress and health
 
@@ -1288,6 +1321,9 @@ People will do anything, no matter how absurd, in order to avoid facing their ow
 > *'You'll never be as young as you are today.'*
 
 <!--
+ Fear-Setting
+“Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
+
 “Fear is the mind eater”
 
 Reframe Fears as Fiction
@@ -1475,7 +1511,12 @@ Write about it: Thinking about it makes it worse. Writing about it makes it bert
 Speaking openly about an imperfection is a sign of strength, not a weakness.  
 You are not you think you are: *you are what you hide*.
 
-<!--
+<!--\
+Usually the things you hate most about yourself are the things you hide from the rest of the world.
+What I’m saying is, you gotta share that shit in order to heal it, son.
+
+It’s not just other people we need to forgive. Sometimes we need to forgive ourselves. — Mitch Albom
+
 You can hide the ugly parts, but you can't make them disappear.
 -->
 
