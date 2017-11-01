@@ -622,14 +622,24 @@ Will Durant “You are what you repeatedly do, excellence, therefore, is not an 
 
 > *'The pathway to freedom is discipline.'*
 
-Cultivate high leverage systems: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, listen music, create, network and make friends, massaging, spending time w/ friends & family, journal, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  
+Cultivate high leverage systems: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, listen music, create, network and make friends, massaging, spending time w/ friends & family, journal, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap
 Avoid low leverage systems: social media, news, pointless notifications, smartphones, owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..
+
+<!--
+List highest-leverage activities (where 80% of your time should go).
+Complete at least 1 important but not urgent task per day.
+
+Prioritize
+
+Always work with a specific purpose in mind. 
 
 How to creat habits?
 - Identify keystone habits (e.g. waking up early)
 - Anticipate obstacles to new habits.
 - Reward yourself to solidify new habits.
 - Focus on the costs of bad habits.
+Schedule less time for important tasks
+Be mindful of how you spend your time.
 
 Shut off the phone when meeting w/ someone. listen
 Avoid mindless Internet surfing.
@@ -637,8 +647,77 @@ Shut off email notifications.
 Declare an email holiday.
 Do stuff in batches.
 
+Calculate your “Biological Prime Time”
+
+95. Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits.
+
+96. Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.
+
+99. See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
+
+smile
+use the power of colors
+
+Start very small. I think one of the keys to becoming more productive is to simply make one small change at a time. The smaller the change you try to make to your life, the more likely you’ll actually make it.
+
+94. Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.
+
+79. At the start of every day, define three outcomes you want to accomplish (not to-dos; actual outcomes). When you limit yourself to just three outcomes, you force yourself to prioritize and focus on what’s actually important.
+Instead of focusing on doing more things, focus on doing the right things.
+Wait a bit before sending important emails/messages
+
+Get more time: Spend time on the right things.
+
+when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
+
+Work no more than 35 hours a week.
+
+Pomodoro time
+
+“perfect is the enemy of good.”
+
+Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom.
+
 Ask yourself for advice.
 Life as 7 hotspots: mind, body, emotions, career, finances, relationships, fun.
+
+2. A FEW BAD HABITS CAN DERAIL ALL GOOD HABITS
+some bad habits:
+– don’t feel sorry for themselves
+– don’t host a pity party
+– don’t look for sympathy
+
+more mindful -> meditation
+
+Learn how to say no, or not to say yes
+
+Buy yourself time.
+Delegate.
+
+Put first things first (surely not emails).
+Selective perfectionism
+
+20% of your effort will give you 80% of output: it may be enough, or more than enough.
+Set yourself deadlines.
+
+Too many options may paralize you: remove them.
+What is the next action? Leave yourself a note if you suspend working.
+Big rocks are too big: split them
+
+Take micro/nano steps at a time.
+Minimize interruptions
+
+Paperwork: either do it, diarise it, or ditch it.
+Multitasking is not efficient for single-focused tasks.
+Get rid of technology, turn off any notification, unsubscribe.
+Protect your hours of real work.
+Separate “real hours” with breaks.
+Take advantage of early hours in the day.
+Create a concentrated environment.
+Fight Procrastination
+
+> *'Continuous effort - not strength or intelligence - is the key to unlocking our potential.' -- Winston Churchill*
+-->
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
 
@@ -691,6 +770,38 @@ fixing bad habits?
 Kill Bad Habits With Mindfulness. Pay attention. Don’t judge
 RAIN: Recognize, Accept, Investigate, Note
 bad habits not only don’t fix your problems, they often make them worse.
+
+First forget inspiration.
+Habit is more dependable.
+Habit will sustain you whether you're inspired or not.
+Habit is persistence in practice.” — Octavia Butler
+
+The Benefits of Habits
+Habits can mean we overshoot our goals.
+Habits are easy to complete.
+Habits are for life.
+Habits can compound.
+Habits can be as small as necessary
+
+creation of habits:
+
+1. Small Steps Beat Big Dreams
+get accountable
+
+Nothing will change your future trajectory like habits
+
+Charles Duhigg wrote in The Power of Habit:
+
+Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.
+
+“Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).”— Stephen Covey
+
+“First we make our habits, then our habits make us.” — Charles C. Nobel
+
+“Pain plus reflection equals progress.” - ray dalio
+
+> *'Miss a meal, but don’t miss your reading.' – Jim Rohn*
+
 -->
 
 
@@ -836,6 +947,9 @@ Staying open-minded won’t happen by accident.
 
 Do you know anyone who doesn’t have any blind spots? I strongly doubt it. Then why would you be any different?curious as to why the other person disagrees.
 
+build self awareness
+
+mix with BIAS
 
 
 ---
@@ -869,6 +983,9 @@ After learning the rules, break them. Only then you can achieve mastery.
 But the path to mastery is a never ending story: skills are perishable.
 
 <!--
+If you can’t explain something in simple terms, you don’t understand it.
+What I cannot create, I do not understand.
+	
 effort * talent = skill
 
 trade-able skills: figure out what skills you already have that you can charge for
@@ -931,6 +1048,8 @@ Be generous and share your strengths. Impact the world.
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
 <!--
+ when looking for a mentor, look for the silver medalist. has more availability, and sometimes, a better attitude than “the golden child.” 
+	
 “Don’t follow your mentors; follow your mentors’ mentors.” -- DAVID LEACH
 
 the way of man is the way of the gang
@@ -1002,10 +1121,6 @@ HOWEVER... some people are not ready to have a mentor and accept your vision.
 And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
 
 > *'You give people a hand, they rip your arm out.'*
-
-
-
-
 
 
 
@@ -1423,10 +1538,21 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 <!-- 
+If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
+
+How to Enter a Room So People Take Notice
+1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
+2. Don’t Look Away! Eye contact builds trust.
+3. dont hide yourself.
+4. dont wait to start talking. a groou or a double might be an easy place to start.
+5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
+
 > *'Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.'*
 
 Confidence is a result, not a requirement
 
 confidence relies on pride
 pursue authentic pride
+
+“I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.”
 -->

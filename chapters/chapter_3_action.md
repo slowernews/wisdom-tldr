@@ -116,6 +116,10 @@ b) and specially, bias, will trigger miscalculations.
 
 > *'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?' -- George Carlin*
 
+<!--
+> *'I look for ways of changing my mind.' -- Chalie Munger*
+-->
+
 One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
 Be specially careful when facing new ideas.  
@@ -510,6 +514,18 @@ No preparation - you can learn while you do it.
 > *'What gets measured gets done.'*
 
 <!--
+> *'Action expresses priorities.' -- Ghandi*
+	
+> *'Now is no time to think of what you do not have. Think of what you can do with what there is.' -- Ernest Hemingway*
+
+> *'Start where you are. Use what you have. Do what you can.' -- Arthur Ashe*
+
+> *'You must think like a man of action, and act like a man of thought.'*
+
+> *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
+
+> *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
+
 We feel anxiety over a deadline or a task that we don’t want to do, even though we know we should. So we procrastinate in order to remove that anxiety.
 	
 > *add mark manson on procrastination*
@@ -588,6 +604,8 @@ Don't be thirsty.
 > *'Trade space for time.'*
 
 <!--
+> *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
+
 be clear that your ladder is laid on the right building.
 	
 chess gambits -- exchange material by position-time.
@@ -775,6 +793,32 @@ if not this not leads to happiness, it leads to achievement.
 work/life balance.
 you have the option to work 24/7, with the 9to5 the option was made to you, now is more difficult and you need to draw a line.
 most of us don't want to draw the line and they suffer the consequences.
+
+self improvement as a limit: 20% will give 80% of results.
+
+MM
+There are two approaches to improving yourself:
+1) The self-improvement junkie. 
+2) The self-improvement tourists.
+I would argue that self-help tourists are using self-improvement advice in a healthy manner and that self-help junkies are (often, but not always) using it in an unhealthy manner. Remember, the paradoxical point of all self-improvement is to reach a point where you no longer feel you need to improve yourself. Therefore, the constant indulgence in self-improvement material just continues to feed that feeling of inadequacy.
+
+fomo -> fear of missing out
+
+Where does it end? It doesn’t. At least not until you decide it does.
+Because the only way to truly benefit from self-improvement is to one day arrive at a place where you no longer need it. Like a cast for a broken arm. Or a bandage for a deep cut. You put it on, let it heal you. And then you take it off and move on with your life.
+
+The 80/20 Principle states that 80% of the output or results will come from 20% of the input or action.
+
+“Growth for growth’s sake is the ideology of the cancer cell.” -- Edward Abbey
+
+Enough is the opposite of hunger. The counter to paranoia. The antidote to anxiety.
+
+Exponential growth devours and corrupts
+There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
+
+Disease of More.
+
+FROM GOOD ENOUGH YOU CAN DERIVE sucess
 -->
 
 

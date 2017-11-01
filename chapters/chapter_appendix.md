@@ -657,6 +657,19 @@ I should be able to reply to the email in one word (ideally Yes or No), or forwa
 
 
 ---
+### On types of people
+
+hedonists + stoics
+
+takers + matchers + givers
+
+people that like you + people that don't like you + people that don't care about you
+
+finders + grinders (work bees) + minders
+
+
+
+---
 ### On superpowers
 
 [Not caring what other people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.

@@ -10,7 +10,10 @@
 
 ### On networking
 
-Don't isolate yourself. Who you know and whether they like you will determine what opportunities you get.
+Don't isolate yourself. Who you know and whether they like you will determine what opportunities you get.  
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems) - your personality type is not an excuse.
+
+> *'The enemy of excellence is isolation.'*
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
 
@@ -19,143 +22,46 @@ Don't isolate yourself. Who you know and whether they like you will determine wh
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
-> *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves — even if they see us better than we see ourselves.'*
+> *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.'*
 
-How to network?
+How to network? Adding value is everything. Help people.  
+People want to form relationships with those who seem like they’ll give at least as much than they take.
 
-Adding value is everything. Find out what people actually want and give it to them.  
-People want to form relationships with those who seem like they’ll give more (or at least as much) than they take.
+So find out what people actually want and give it to them.  
+[Pay attention](chapter_2_groups.md#on-communication) to what people «say» and [infer](chapter_3_action.md#on-analysis) their goals.  
 
 > *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*
 
 > *'Social inadequacy AKA creepiness is based on unpredictability.'*
 
-> *'Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real'*
-
 > *'If people forget it wasn't a good network anyway'*
 
 > *'The importance of enthusiasm; the importance of connecting people; expect magic in any encounter'*
 
-How to prepare an elevator pitch?
+> *'Be useful, not important. It’s not about you. It’s about the impact you have on others and the legacy that you leave.'*
 
-Personal branding means you are a liar. Truth is a better way to talk about ourselves.
-I’ve realized that there’s one story that’s actually pretty dangerous: the Story We Tell About Ourselves to Other People.
-The Seduction of Self-Mythology
-What a good story does, really, is condense a massive amount of information into a consumable and shareable form.
-Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant. As a result, most stories gloss over the banal and nonessential, and instead focus on the Most Interesting Parts (or MIPs, because who doesn’t love a useless acronym?) — the stuff that will keep your audience engaged.
-Hitchcock said that cinema is just life with the boring parts cut out. You could say the same thing about the stories we tell about ourselves.
-When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years.
-So a bio becomes a highlight reel of pedigree and accomplishments.
-They’d fail to accomplish our goal with a good story, which is to impress, to attract, to reassure, to sell.
-Because most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool.
-That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes
-We talk about authenticity here at AoC as a subtractive process, a quality you achieve not by adding things to yourself, but by subtracting the things that get in the way.
-
-If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
-
-How to Enter a Room So People Take Notice
-1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
-2. Don’t Look Away! Eye contact builds trust.
-3. dont hide yourself.
-4. dont wait to start talking. a groou or a double might be an easy place to start.
-5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
-
-Your personality type is not an excuse to not network.
-introvert is not shyness.
-most things are not binary. Imagine a introvertness scale from 1 to 7.
-It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
-
-How to taylor a network?
-
-> *'Networking types: advocates a, boomerang b, celebrities c, drainers d  
-shark, dolphin, drowner'*
-
-> *'community of experts (that give you good answers)
-critical colleagues (10 people that make a big difference in your immediate career) - boss / boss's boss'*
-
-> *'expand from too dense networks'*
-
-while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing
-unlocking dormant ties
+How to prepare an elevator pitch?  
+Personal branding means you are a liar. Truth is a better way to talk about ourselves.  
+The story we tell about ourselves to other people is dangerous. Our self-mythology will seduce us.  
 
 <!--
-“The enemy of excellence is isolation.”
+> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
-what people really want:
-Because when it comes to social dynamics, we are what we want.
-And since most of what we want is facilitated by words, we are what we say.
+Make sure the other person walks away better for having met you.: add value
 
-Which means that if you can look past the literal meaning of language, and learn to read the matrix of goals that drive the people you interact with, you’ll have a huge advantage in this world.
-ask yourself why this person is using these words at this moment.
-
-emotional bank accounts. You make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.
-
-people see networking as something to do rather than a habit that forms up part of who you are: something to be.
-
-you were interested in who they were, not just in what they did (or what they could do for you), and you took the time to add value and help them. You’re also not interested in simply helping someone with one sale or one connection, but in building a long-term connection if mutual interests and respect are in place
-
-age is a mindset.
-I was a late bloomer. Some people are early bloomers.
-I only really have 3 friends in the world. Here are the ages of my 3 friends: younger than me, same as me, older than me.
-And they all do what I do. That's the glue that holds us together. Everybody else is an acquaintance.
-Everybody comes for the advice, everyone comes for the know-how.
-But nobody stays for the follow-through. Only those 3 ever did. Those who stay for the follow-through get the benefits and the rewards.
-You see, it’s time. You don’t just get the knowledge and then receive the reward. In between the knowledge and the reward comes time.
-It’s time that you are required to give. Time time time. Time and content. That's how I do it.
-
+autenticity
 
 The best way to be highly influential is to be human to everyone you meet.
 add value -> give positive energy
-1. Convey genuine appreciationTo make it clear you’re interested in the other person, think about what they know that you don’t. What do you actually want to learn in the interaction? Focus on that so that they can walk away knowing they added value too
-2. Listen with intent.Being a good listener is about two things: 1) Demonstrating that you’ve heard exactly what was said by the other person, and 2) encouraging them to continue.
-3. Use humility markers. I’ll often start that conversation saying, ‘I’m wrong all the time and I very well may be here
-4. Offer unvarnished honesty. Just remember to root your honesty in what will actually have utility for the other part
-5. Blue-sky brainstorm.
-6. End every meeting or conversation with the feeling and optimism you’d like to have at the start of your next conversation with the person.
-7. Don't fake it till you make it. If you can’t explain something in simple terms, you don’t understand it.
-What I cannot create, I do not understand.
-
-1/3 of people hate you. 1/3 of people love you. 1/3 don’t care. You can’t change this formula.
-
-we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his.
-
-focus in others people sucess but pick the right people.
 
 make poeple being interested in you by making them good/unusual questions.
-ex: make equestions to a producer that is not from the top of their webiste. be intrested in them to them be intrested in you.
 
-curate your network.
+be intrested in them to them be intrested in you.
+-->
 
-Rapport Building Questions
-“What Do You Want to Be When You Grow Up?”
-“What Did You Like About Where You Grew Up?”
-“What Places Do You Most Want to Travel To?”
-“If Money Were No Object What Would You Do With Your Life?”
-“What Are the Three Things You Most Want to Do Before You Die?
+How to give a good first impression?
 
-“Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.” -- Patanjali
-
-the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
-
-include people to gain allies.
-
-“You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.”  -- Dale Carnegie
-
-super connectors: people with long networks, spend more time with these people
-be a giver, points in common
-
----
-
-models of kinds of people in the world:
-hedonists + stoics
-takers + matchers + givers
-people that like you + people that don't like you + people that don't care about you
-finders + grinders (work bees) + minders
-
----
-
-> *'No one’s going to help you in a way that’s not beneficial to them.'*
-
+<!--
 How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress
 research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
 The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
@@ -172,23 +78,44 @@ tarted speaking with more enthusiasm
 How to prevent awkward silences:
 How to politely end a conversation:
 
-Make sure the other person walks away better for having met you.: add value
 Stop trying to impress people or “win” the conversation. It’s really much simpler than that.
+-->
 
-A lot of people really like answering good questions!
+HINTS:
+
+a) Treat new aquaintances as old friends.
+
+> *'Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real'*
+
+b) «Rescue people instead of «cold calling». Include people to gain allies.
 
 Pro Tip: Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
 
+How to taylor a network?
+
+> *'Networking types: advocates a, boomerang b, celebrities c, drainers d  
+shark, dolphin, drowner'*
+
+> *'community of experts (that give you good answers)
+critical colleagues (10 people that make a big difference in your immediate career) - boss / boss's boss'*
+
+> *'expand from too dense networks'*
+
 Curiosity is King
+curate your network.
+while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing
+unlocking dormant ties
+super connectors: people with long networks, spend more time with these people
+long term
+be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
+ãge is a mindset
+the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
 
-Be useful, not important. It’s not about you. It’s about the impact you have on others and the legacy that you leave.
-	
-> *'Custom tailor teams from project to project. Same team from same project is not the best option.'*
+> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.'  -- Dale Carnegie*
 
-list the people i met
+HOWEVER:
 
-> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
--->
+> *'No one’s going to help you in a way that’s not beneficial to them.'*
 
 
 
@@ -198,9 +125,9 @@ list the people i met
 Speak less and listen more: be humble.  
 Listening is powerful.
 
-> *'Listen to many, speak to a few.' -- William Shakespeare*
-
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+
+> *'Listen to many, speak to a few.' -- William Shakespeare*
 
 > *'Listen to predict a collapse.'*
 
@@ -219,9 +146,23 @@ Smile, don't ramble, look for external catalysts as hints for stories and questi
 
 > *'You don't always have to get the last word. Make your point and leave it that way. Let go.'*
 
+> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
+
+How to tell good stories?
+
+A good story does condenses a massive amount of information into a consumable and shareable form.  
+Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+
+> *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
+
+When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments.
+
+They’d fail to accomplish our goal with a good story, which is to impress, to attract, to reassure, to sell.
+Because most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool.
+That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes. authenticity as subtracting the things that get in the way.
+
 <!--
 The best conversationalists are the best listeners.
-What do you do when you run out of things to say in a conversation?
 Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
 Understand how to stay tuned in to the conversation by picking up on often-ignored (but crucially important) nonverbal cues.
 Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation.
@@ -232,18 +173,11 @@ Banish meaningless small talk and learn how to ask questions that build rapport 
 
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
 
-> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
-
 Don’t Talk to Somone. Talk with Them
 
-I walk up to perfect strangers and start a conversation?
-
-It comes back to the same advice we’ve given again and again: You have to be interested to be interesting.
+You have to be interested to be interesting.
 Take an interest in the other person, and they’ll walk away thinking you are interesting.
 Ask a question. Listen to the answer. Respond in the form of a statement.
-
-But What about Keeping a Conversation Going?
-Lots of people claim they’ve got nothing exciting to say during a conversation -- and it gets awkward when the initial small talk winds down. You actually do have interesting things to say, it just takes a little bit of preparation and getting to know yourself.
 
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 
@@ -301,6 +235,9 @@ Successful *entrepreneurs* are good risk managers.
 Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
 
 <!--
+give where you are naturally good
+quick to start but not the first
+
 9 Key Lessons from 150 Startups
 1. It’s easier when YOU are the customer. You truly understand the problem.
 2. If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP
@@ -569,6 +506,8 @@ HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. R
 > *'Don't let people that are bad influences to put you down.'*
 
 <!--
+emotional bank accounts. You make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.
+
 trust and vulnerability are conected.
 
 first we judge trust, before strength.
@@ -659,6 +598,8 @@ HINT: resist to temptation of working with family and friends.
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+“Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.” -- Patanjali
+
 4. Surround Yourself with People Who are Smarter than You 
 One of the first steps to becoming a more successful in all areas of your life is to surround yourself with people who are better than you in every area of life.
 If you want to improve your bank account, get around millionaires.
@@ -668,6 +609,9 @@ When you are intentional about surrounding yourself with the right people, you w
 Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
 
 If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.
+
+we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his.
+focus in others people sucess but pick the right people.
 -->
 
 
