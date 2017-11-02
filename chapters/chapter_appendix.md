@@ -6,7 +6,7 @@
 	|  / |__/ |__/ |__  |  / |__/ |  / / 
 	     |    |                          
 
-# Appendix A -- Time
+# Appendix A - Time
 
 ### On past and memory
 
@@ -133,7 +133,7 @@ make the exercise: imageine you life in 10years. possible futures
 
 
 ---           
-# Appendix B -- On envy triggers
+# Appendix B - On envy triggers
 
 ### On intelligence and talent
 
@@ -188,8 +188,8 @@ See fame as a multiplier. If you want to impact the world, be famous.
 ---
 ### On luck
 
-Unless you’re winning, life will seem hideously unfair to you.  
-Be positive, luck is a pattern and the pendulum will swing back your way eventually.
+Bad luck is normally bad planning.  
+If you're sure it's not, be positive, the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -206,13 +206,15 @@ Be positive, luck is a pattern and the pendulum will swing back your way eventua
 What’s the difference between luck and chance?  
 Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
 
-HOWEVER...
-
-> *'Bad luck is normally bad planning.'*
+HOWEVER positive results don't imply good planning..
 
 > *'Even a broken clock is right twice a day.'*
 
 <!--
+Unless you’re winning, life will seem hideously unfair to you. 
+
+Coincidence is God’s way of remaining anonymous.” – Albert Einstein
+
 science of patterns.
 
 > *'If you live long enough, most people will get what they deserve.' -- Charlie Munger*
@@ -487,7 +489,7 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 
 ---
-# Appendix C -- Others
+# Appendix C - Others
 
 ### On assumptions, ideals and beliefs
 
@@ -535,6 +537,8 @@ find 3 people that high expertise but that they discord and listen. take your co
 > *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
 
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
+
+> *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
 
 
 
@@ -590,7 +594,7 @@ That's where «big bucks» are.
 
 
 ---
-# Appendix D -- Bonus
+# Appendix D - Bonus
 
 ### On investment
 

@@ -3,15 +3,15 @@
 	 /    /              /                   /  )          /                            
 	(    (___  ___  ___ (___  ___  ___      (  /  _       ( __  ___  ___       ___  ___ 
 	|   )|   )|   )|   )|    |___)|   )       /           |   )|   )|   )|   )|   )|___ 
-	|__/ |  / |__/||__/ |__  |__  |          /__  --       |__/ |    |__/ |__/ |__/  __/ 
+	|__/ |  / |__/||__/ |__  |__  |          /__  -       |__/ |    |__/ |__/ |__/  __/ 
 	               |                                                          |         
 
-# 2.1 -- On interaction
+# 2.1 - On interaction
 
 ### On networking
 
 Don't isolate yourself. Who you know and whether they like you will determine what opportunities you get.  
-Make networking an [habit](chapter_1_self.md#on-habits-and-systems) -- your personality type is not an excuse.
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems) - your personality type is not an excuse.
 
 > *'The enemy of excellence is isolation.'*
 
@@ -609,6 +609,8 @@ HINT: resist to temptation of working with family and friends.
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+There comes a time in life when you’ll have to leave everything behind and start something new but never forget the ones who stood by your side, especially the ones who never let you let go.
+
 Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
 
 “Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.” -- Patanjali
@@ -665,7 +667,7 @@ prompting and shaping are two actions we can use together to change behavior in 
 
 
 ---   
-# 2.2 -- On interaction: drawbacks
+# 2.2 - On interaction: drawbacks
 
 ### On conflicts
 
@@ -731,6 +733,8 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 <!--
 Treat Your Haters Like Toddlers
+
+'It is not greed that drives the world, but envy' -- Warren Buffett
 -->
 
 
@@ -810,10 +814,12 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
 
+> *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
+
 
 
 ---
-# 2.3 -- On teams
+# 2.3 - On teams
 
 ### On leadership
 
@@ -991,6 +997,12 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
 
 <!--
+Jeff Bezos, for example, famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.
+
+As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
+
+if you're stuck chnage tools
+
 > *'Too busy pretending I'm occupied.'*
 
 boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about

@@ -17,6 +17,7 @@
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
+- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 - [On feedback](/chapters/chapter_1_self.md#on-feedback)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
 - [On generosity and mentorship](/chapters/chapter_1_self.md#on-generosity-and-mentorship)
@@ -71,7 +72,7 @@
 - [On focus, time management and productivity](/chapters/chapter_3_action.md#on-focus-time-management-and-productivity)
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
-- [On adapting](/chapters/chapter_3_action.md#on-adapting)
+- [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
 
 *On competing*
 - [On creating imbalances](/chapters/chapter_3_action.md#on-creating-imbalances)

@@ -3,10 +3,10 @@
 	 /    /              /                      |          /  |      /    /          
 	(    (___  ___  ___ (___  ___  ___       ___| _       (___| ___ (___    ___  ___ 
 	|   )|   )|   )|   )|    |___)|   )         )         |   )|    |    | |   )|   )
-	|__/ |  / |__/||__/ |__  |__  |          __/  --       |  / |__  |__  | |__/ |  / 
+	|__/ |  / |__/||__/ |__  |__  |          __/  -       |  / |__  |__  | |__/ |  / 
 	               |                                                                 
 
-# 3.1 -- On preparing action
+# 3.1 - On preparing action
 
 ### On creativity, vision and ideas
 
@@ -469,7 +469,7 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 
 ---
-# 3.2 -- On executing
+# 3.2 - On executing
 
 ### On starting and timing
 
@@ -516,6 +516,124 @@ No preparation -- you can learn while you do it.
 > *'What gets measured gets done.'*
 
 <!--
+“[S]ome systems … are very sensitive to their starting conditions, 
+so that a tiny difference in the initial push you give them 
+causes a big difference in where they end up, and there is 
+feedback, so that what a system does affects its own behavior.”
+-- John Gribbin, Deep Simplicity
+
+your feelings don’t mean shit. It’s only your actions.
+
+If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal. -- Bruce Lee
+
+research is not doing something!
+define milestones to know when to stop your research
+
+[Knowledge is Never the Issue, action is]
+
+Forget All About Doing Good Work and Focus on Great Work
+Good work, on the other hand, is an innocuous killer of greatness.
+Good work is often what we use to fill our time and distract ourselves from great work we know we should be doing
+Good work is that high-paying freelance project that distracts your focus from your new startup. Or that client you keep on retainer who doesn’t push your abilities or stretch you.
+
+Bad execution of your designs does less harm than irresolution in forming them.
+
+procrastination is deeply tied to anxiety
+
+STRATEGIC LAZINESS AS A LEVERAGE POINT
+
+WORK THAT PRODUCES DIMINISHING (OR EVEN NEGATIVE) RETURNS
+Imagine that you went outside and jogged for 10 minutes. This would be a healthy thing to do.
+Now imagine you went outside and ran for 20 minutes. It’d also be healthy, but it wouldn’t necessarily be twice as healthy as the 10 minutes.
+But she noticed that most of this extra time was pretty ineffective. The four hours at the end of the day, from say 6 PM to 10 PM, contributed about as much usable work as the first two hours of the day. People were essentially slaving away for marginal benefits.
+And in worst case scenarios, people would start producing bad work or make bad decisions because they were so tired. And when you accumulate enough bad work and bad decisions, you actually unintentionally create more work for yourself. So you go from working for diminishing returns to working for negative returns.
+
+The more “goal oriented” is the task, the more a potential 10x programmer
+
+If 20% of the effort creates 80% of the value (think of a job: 20% of the employees do 80% of the work), then square that.
+So now 20% of the 20% of the effort makes 80% of 80% of the value.
+So 4% of the work you do in life creates 64% of the benefits in your life.
+
+Bring the Target Closer
+
+He said, “I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.”
+If they really wanted to do it, they would have done it.
+I had been fooling myself for years, telling myself I wanted to do this, but my actions prove otherwise.
+keep earning your title, or it expires”.
+
+It's a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn't like ot climb much. I just liked to imagine the summit.
+
+One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
+In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
+
+If You Aren’t Happy on the Journey You Won’t Be Happy at the Destination
+If you cannot learn to be happy while you are building your business, you will not be happy when you sell it for $10 million.
+
+I love how the '80/20' rule gets stretched so often that in this article it talks about hyperdominate trees that take up 50% of the Amazon. So 80/20 can go anywhere form 99/1 to 50/50. What an interesting 'pattern'.
+
+The martial art kung fu literally translates into two words. Effort and time.
+And the only things that are standing between you and your goals are these two factors.
+
+Make your _business_ case, not a technical case
+Sometimes writing a one-off script will take 30 minutes, and doing it by hand will take 10. Do it by hand.
+
+stop lionizing efficiency, and start asking the question that has guided craftsmen for millennia: what’s the most effective way for me to accomplish the things that are most important?
+
+> *'Be useful, not important.'*
+
+jogar c o baralho todo / jogar com um subset
+
+I feared releasing something unimportant, so I didn’t release anything at all.
+But actions, not words, reveal our real values.
+
+external focus, attached to outcome.
+youre never done making everybody happy.
+everything is a problem to be solved.
+permission yourself to make different.
+sabbatical: scared and excited at the same time
+letting go allows progress
+letting things happen instead of trying things to happen.
+
+monk mode -> no communication during mornings, only deep work -> meetings afternoon
+
+If something compounds at 1% a day, it will be 37 times better in a year.
+If something loses 1% a day, it will be 0.03% of what it was in a year.
+I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end.
+This is the path to improvement any area of life.
+
+Your productivity as a manager is measured as the productivity of your team. This is why, above, I wrote that sitting at your desk can be detrimental to your productivity. I think the key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do.
+Ideally, the 'captain' would remain technical, and fight the war against complexity alongside his team. depends on the size of the team.
+
+productivity methods dont bnecessarily add value to your career. making stuff that others can't do
+But in order to build an awesome career doing hard but satisfying long-term work, you need to build your ability to focus for hours at a time. You need to learn hard skills. You need to let go of multitasking, distraction, and the temptation to be “busy.
+
+“People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.”
+
+The key take-aways from the Pyramid Principle at McKinsey were:
+- Start with the answer first.
+- Group and summarize your supporting arguments.
+- Logically order your supporting ideas.
+
+Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
+
+The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present 3 reasons. Not 2, not 4, but exactly 3.
+“There are 3 reasons why we should do this” and then proceed to list my reasons in almost a numbered bullet point format (“First…”, “Second…”, and “Last…”).
+
+I observed that The Rule of 3 was actually pretty effective in persuading clients to take action. Why? Three reasons:
+- Your argument gets their attention and is memorable
+- You are forced to choose the 3 most important reasons
+- You sound more structured, confident and decisive when you speak
+
+Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
+KonMari Method -> Marie kondo, perita em arrumação
+
+The non-linearity of productivity
+
+never mistake action for motion
+
+Nothing happens in the world because of thought. Or because of talking. Or because of writing.
+It happens because of DO-ing.
+
 there is no right time! its a delusion
 	
 > *'Action expresses priorities.' -- Ghandi*
@@ -680,6 +798,10 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+“If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.”
+
+Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies.
+
 Focus just on 3 outcomes per day.
 Focus on doing the right things instead of doing things right.
 Set specific, measurable, attainable, realistic and time-based goals.
@@ -828,7 +950,7 @@ FROM GOOD ENOUGH YOU CAN DERIVE sucess
 
 
 ---
-### On adapting
+### On change and adapting
 
 Plans are not static. Adapt not react.  
 You need to switch strategies a few times to get where you want to go.
@@ -864,7 +986,7 @@ HOWEVER...
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 <!--
-
+Surely by now I’m desperate enough to change. — John Tottenham
 
 stick to the plan. poople sabotage their one plans when it get tedious, nobnotusos, challegnig or too difficult. people think they need a new plan.
 
@@ -879,7 +1001,7 @@ equipa que ganha, não se mexe
 -->
 
 ---
-# 3.3 -- On competing
+# 3.3 - On competing
 
 ### On creating imbalances
 
@@ -1080,7 +1202,7 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 
 ---
-# 3.4 -- On ending
+# 3.4 - On ending
 
 ### On finishing
 
@@ -1098,6 +1220,8 @@ Finish it. [Going halfway](#on-focus) is too expensive to do it often.
 
 <!--
 “If you’re going to try, go all the way. Otherwise, don’t even start.” ~Charles Bukowski
+
+Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
 -->
 
 

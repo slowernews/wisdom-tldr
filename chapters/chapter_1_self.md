@@ -3,10 +3,10 @@
 	 /    /              /                   /|            /         / /   
 	(    (___  ___  ___ (___  ___  ___      ( |   _       (___  ___ ( (    
 	|   )|   )|   )|   )|    |___)|   )       |               )|___)| |___ 
-	|__/ |  / |__/||__/ |__  |__  |          _|   --        __/ |__  | |    
+	|__/ |  / |__/||__/ |__  |__  |          _|   -        __/ |__  | |    
 	               |                                                       
 
-# 1.1 -- On foundations
+# 1.1 - On foundations
 
 ### On identity
 
@@ -355,7 +355,7 @@ be sucessful -> people more sucessful
 
 
 ---
-# 1.2 -- On growth
+# 1.2 - On growth
 
 ### On finding a path
 
@@ -829,6 +829,138 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+making resolutions: Guilt will carry you when willpower fails. By all means involve friends, but make your pressures real.
+Just saying words doesn’t make a thing happen. Try walking through a door instead.
+
+And that's one reason we like to believe in genius. It gives us an excuse for being lazy. -- Paul Graham
+
+'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes
+
+a friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
+“Recognizing the good people from the bad,” he said. “Working with those people. Connecting them. That’s a life-multiplier.”
+
+None of her “13 Things” can be taught in school. School teaches facts. And it teaches you to memorize facts. And it punishes you if you forget the facts.
+But facts won’t help you survive the tragedies of life.
+I wish school had taught me how to really live. How to be healthy. How to survive the hardest relationships. How to be creative every day. How to surrender to the things I can’t control.
+
+Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
+
+The better players did not examine more possibilities, only better ones — just as Capablanca had claimed.
+Yet in both cases, the expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge.
+experts rely more on structured knowledge than on analysis
+
+Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
+
+The very best old-time masters were considerably
+stronger but still well below the level of today’s leaders.
+Then again, Capablanca and his contemporaries had neither
+computers nor game databases. They had to work things out
+for themselves, as did Bach, Mozart and Beethoven, and if they
+fall below today’s masters in technique, they tower above them
+in creative power. The same comparison can be made between
+Newton and the typical newly minted Ph.D. in physics.
+
+Thus, motivation appears to be a more important factor
+than innate ability in the development of expertise
+
+EXPERTS ARE MADE, NOT BORN.
+
+learning process: the macro from the micro.
+if you're studing my game, ill win because i'll be bette rthan you at it.
+
+Whatever your strengths are, they will likely lead straight into your weaknesses.
+
+---
+
+5 Fool-Proof Ways to End Procrastination Today
+
+Pay attention to these inner-dialogue sentences (and causes of procrastination)
+
+It’s easy to do so I’ll fit it in later (Complacency)
+strong self-confidence
+laziness
+lack of concern
+I’d much rather do something easier instead (Avoiding discomfort)
+unpleasantness of an activity
+pleasantness of another activity
+I won’t do it because I’ll probably fail (Fear of failure)
+I’m just not in the mood to do this right now (Emotional state)
+too tired
+too hungry
+too stressed
+I’ve done everything I could, and still no progress has been made (Action illusion)
+Tactics for remedy
+
+Home run
+
+Set (realistic) goals and (suitable) rewards. Each time you hit a goal, you earn the reward. Select a time to review your progress and adjust your targets accordingly.
+
+Be good to yourself
+
+Imagine a conversation between ‘you today’ and ‘you tomorrow’… what would he have to say?
+
+Set creative punishments
+
+Make the consequences of inaction so unbearable that you have no choice but to get busy now. You could write a check to someone or something you really dislike. Give the check to a friend with strict instructions to mail the check if you do not achieve your goal.
+Going public with a goal increases your support and accountability. Ask for support, but don’t kid yourself that support equals progress.
+
+framework for accelerated learning: (deconstruction, selection, right sequence, and reward/punishment
+
+Discipline eliminates complexity. Everyday, you make micro and macro decisions. If you reduce the number of decisions you need to make daily, you have more freedom.
+
+> *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
+
+i have no special talent, i'm only passionately curious -- einstein
+
+“Lift heavy weights for 5 hours a week and only eat real food. Start a side hustle, save away every extra penny, and then invest in some sort of asset like a real estate deal. Talk to five new women every day, be genuinely interested, and be authentic with them. Start journaling, meditating, and pushing yourself to embrace adversity.”
+
+Unlike IQ, which tends to stay the same throughout life, emotional intelligence is a flexible set of skills that can be acquired and improved with practice. Emotional intelligence is determined by self-awareness, self-management, social awareness, and relationship management.
+
+> *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
+
+Unable to discern between what we know and what we pretend to know, we ultimately become victims of our own laziness and intellectual dishonesty.
+
+knowing the name of something and knowing something.
+
+One way to tease out the difference between Planck and chauffeur knowledge is to ask them why.
+
+True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
+
+No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
+
+This is the formula for getting better at anything: find your PLUS, MINUS, EQUAL.
+
+This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
+
+> *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
+
+(what skills and tricks he teaches snipers and practices himself: visualization, positive self-talk, solution-based thinking and so on.)
+He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
+
+Amateurs talk about money. Professionals talk about ideas.
+
+lazyness is nothing more than resting before getting tired
+
+> *'I’m always looking for a way to make it happen, not excuses why it won’t work.' -- Aaron Walker*
+
+Understand why we should fear missing opportunity more than we should fear failure.
+The importance of living proactively instead of reactively.
+
+> *'It's not about the money, it's about the game.' -- Gordon Gekko*
+
+“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
+“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
+I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
+
+Discipline equals freedom ~ Jocko Willink
+
+4. Win the Morning, Win the Day
+
+Assorted exterior surfaces (facade, roof, garage door and gate) and outside areas (front yard, parking lot) of detached and semi-attached houses.
+
+The hardest part is showing up
+
+
 How to learn?
 There are four simple steps to the Feynman Technique:
 Choose a Concept
@@ -938,6 +1070,7 @@ If you’re not getting better today, you’re getting worse.”
 
 When we don’t have self awareness the gap between who we are and who we think we are grows. As this gap grows it becomes harder to prevent and solve problems. It becomes harder to be who we want to be in the future.
 
+<!--
 The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
 
 > *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
@@ -972,6 +1105,15 @@ Do you know anyone who doesn’t have any blind spots? I strongly doubt it. Then
 build self awareness
 
 mix with BIAS
+
+7. SELF-AWARENESS OVER HUSTLE
+
+“If you don’t know who you are it’s over,” Gary said.
+What does that mean?
+Exercise: Write down the ten things you value most in the world.
+Do you really value them? Dig deep. Write them down again.
+Dig deeper. What are you doing about them today?
+-->
 
 
 
@@ -1158,7 +1300,7 @@ And «givers» attract «takers». Don't let them drain you, you [don't owe them
 
 
 ---                                                                                                                                 
-# 1.3 -- On your worst enemy: yourself
+# 1.3 - On your worst enemy: yourself
 
 ### On stress and health
 
@@ -1316,7 +1458,7 @@ Anger and excuses are fear clothed. All excuses are refutable.
 > *'There is no coming to consciousness without pain.  
 People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
 
-> *'You cannot use your personality type as a\n excuse.'*
+> *'You cannot use your personality type as an excuse.'*
 
 > *'You'll never be as young as you are today.'*
 
@@ -1376,6 +1518,8 @@ Sometimes you win, sometimes you learn. Accept failure as part of the process.
 > *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
 
 <!--
+Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
+
 failures are flip-sides of our strengths
 the opposite is true also
 
@@ -1401,7 +1545,6 @@ But in a meritocratic society, something changes. In a meritocracy, if you’re 
 De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
 
 After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
-
 
 It might sound selfish or egotistic, but the simple fact of the matter is that you should come first.
 
