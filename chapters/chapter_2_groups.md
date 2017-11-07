@@ -44,10 +44,10 @@ How to prepare an elevator pitch?
 Personal branding means you are a liar. Truth is a better way to talk about ourselves.  
 The story we tell about ourselves to other people is dangerous. Our self-mythology will seduce us.  
 
+> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
+
 <!--
 you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
-
-> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
 Make sure the other person walks away better for having met you.: add value
 
@@ -84,6 +84,8 @@ Stop trying to impress people or “win” the conversation. It’s really much 
 
 How to Talk to Strangers. ask stuff outside of their expertise where you can add value.
 network on relevant groups that can help you.
+
+Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
 -->
 
 HINTS:
@@ -167,8 +169,6 @@ Because most of the stories we hear about people’s success are nothing more th
 That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes. authenticity as subtracting the things that get in the way.
 
 <!--
-Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
-
 listening without worrying about what we’re going to say next
 
 The best conversationalists are the best listeners.
@@ -182,7 +182,7 @@ Banish meaningless small talk and learn how to ask questions that build rapport 
 
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
 
-Don’t Talk to Somone. Talk with Them
+Don’t Talk to Someone. Talk with Them
 
 You have to be interested to be interesting.
 Take an interest in the other person, and they’ll walk away thinking you are interesting.
@@ -191,6 +191,13 @@ Ask a question. Listen to the answer. Respond in the form of a statement.
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 
 Calm is largely a matter of slowing your speech down. Warmth comes from smiling while you speak.
+
+intro: //clay hebert
+I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
+6 or 7 words -- short and sweet and confident and interesting.
+ask them first so you can costumise it for the context and make it more relevant.
+
+when you have passion you communicate better
 -->
 
 
@@ -243,28 +250,40 @@ Successful *entrepreneurs* are good risk managers.
 
 Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
 
+HINTS:
+
+a) Focus on revenue generating activities. If it is not going to earn you money, then don’t do it.
+
+b) You only have to be really right once. History is filled with examples of people like this.
+- Mark Zuckerberg thought that facebook was going to be a college directory and that was it.
+- Bill Gates didn’t think the Internet had any potential. Seriously.
+They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.
+
+c) It’s easier when YOU are the customer. You truly understand the problem.
+
+d) If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP
+
+e) Create a culture that rewards killing ideas. kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something. We save a lot of money when we kill a bad idea.
+
+f) Equity unlocks human potential. When people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.
+
+g) TIMING is the most important factor in startup success. Team and Execution came next.
+“You really need to look at the signals and be honest about what they are telling you. Go out to market – test if people want your product. If there aren’t enough people, hoard money and conserve momentum.”
+
+
 <!--
-femael buy man products. mens don't buy products targetted to females.
+Fire customers that cause you to much stress or that cost too much to service.
 
 give where you are naturally good
 quick to start but not the first
 
-9 Key Lessons from 150 Startups
-1. It’s easier when YOU are the customer. You truly understand the problem.
-2. If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP
-3. Create a culture that rewards killing ideas. kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something. We save a lot of money when we kill a bad idea.
-4. Equity unlocks human potential. When people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.
-5. TIMING is the most important factor in startup success. Team and Execution came next.
-“You really need to look at the signals and be honest about what they are telling you. Go out to market – test if people want your product. If there aren’t enough people, hoard money and conserve momentum.”
-
 failing business -> fire 60% top managers (ricardo semler)
 process of asking 3 whys is a row -> the first why is easy to answer
 
-There’s the myth that failure makes you a better entrepreneur. This is FALSE. study your failures!
+There’s the myth that failure makes you a better entrepreneur. This is FALSE. study your failures.
 
 Changes in the environment unlock startup opportunities.
-
-Everything in demand is on a competitive scale.
+startup ideas -> problems and trends
 
 There are two types of entrepreneurs: Missionaries and mercenaries.
 
@@ -273,10 +292,7 @@ disney salvation:
 2. Make long-term bets.
 3. Make fearless acquisitions on the edge.
 
-startup ideas -> problems and trends
-
 i recall reading that someone had more success with a "unlock feature X" model of payment, even though it in total was more expensive than unlocking everything at once.
-
 people underestimate the power of free. trusted to one day pay me. send an email to all readers saying that i'm making consultations.
 there's a price for it always. everything is an exchange. you can achieve everything but there is a price.
 people don't achieve anything because they are not willing to sacrifice. everything is a trade.
@@ -301,23 +317,9 @@ Most items were already purged.
 
 hot to make, how to keep, how to grow money
 
-4. Focus on Revenue Generating Activities
-
-One of the simplest habits that you can start implementing today is to shift all of your focus towards revenue generating activities.
-Plain and simple, if it is not going to earn you money, then don’t do it. Focus only on the activities that are going to push the envelope forward for you and your company and result in an influx of cash.
-If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow
-
 there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
 
-as long as we’re not on the good side, we say ‘what the hell?’ because we don’t enjoy the middle ground. The middle ground is not helping us define who we are. Rather than trying to fix a problem that we see as mostly broken, it’s common for us to hope for a clean slate or a reset button of some kind. This is why mechanisms like Catholic confession are so powerful.
 
-You only have to be really right once.
-- Mark Zuckerberg thought that facebook was going to be a college directory and that was it.
-- Bill Gates didn’t think the Internet had any potential. Seriously.
-- History is filled with examples of people like this. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.
-If you only have to be right once, your goal must be to allow yourself many opportunities to be wrong and still keep going.
-
-People Don’t Buy Products, They Buy Better Versions of Themselves
 Learn to Provide Relative Value on a Massive Scale and You Will Become Rich
 three things make anything possible: People, technology and money.
 -->
@@ -327,64 +329,36 @@ three things make anything possible: People, technology and money.
 ---
 ### On selling, negotiation and price
 
-We're all in sales. You're in sales anytime you interact with anybody.
+We're all in sales anytime we interact with anybody.  
+To sell is to deal with objections.
 
+Best sellers are now ambiverts.  
 Sales used to be about information asymmetry but times are changing.  
-Now it's mostly [applied persuasion](#on-charming) and keeping relationships.
+Now it's mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping relationships.
 
-> *'To sell is to deal with objections.'*
+> *'Traditional selling: extroverts -> cold calling -> tech made it more difficult  
+Intruding (to get your foot in the door)  
+Pitching (to persuade the customer to buy)  
+Persisting (to push until you make the sale)'*
 
-> *'Best sellers are ambiverts.'*
+> *'Effective selling: ambiverts and introverts -> we don't need hunters, just farmers  
+Research (to understand the customer - time spent alone on the Web, reading and analyzing information)  
+Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
+Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)'*
 
-<!--
-Advertising is a symptom not of excess consumption but of excess production. And all communication is a form of mind control.
+> *'Instead of details use interesting testimonials that allow people to relate.'*
 
-irritation -> challenge people to make something that they don't want to do
-agitation -> challenge people to make something that they want to do. suggesting ego etc
+HINTS:
 
-agitate more than irritate
+> *'If they can’t pay, walk away.'*
 
-mimicking people gestures and words works!
+> *'Marketing is a symptom not of excess consumption but of excess production.'*
 
-So can you pitch me what our company does?
+> *'People don’t buy products, they buy better versions of themselves.'*
 
-people minds work by association.
-pre-suasion
+> *'Females buy male products. Males don't buy products targetted to females.'*
 
-use testimonials that allow people to see themselves in that testimony
-people are intrigued by mystery! stories!
-
-get to objections
-
-when you have passion you communicate better
-
-intro: //clay hebert
-I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words -- short and sweet and confident and interesting.
-
-ask them first so you can costumise it for the context and make it more relevant.
-
-then give an interesting story: choose one testimonial
-instead of detail and inaccurate.
-
-success in sales
-ocean of rejection. face your failures is a good indicator of being a good seller.
-most rejections are not your fault.
-
-I use to go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you
-
-traditional selling: -> extroverts -> cold calling -> tech made it more difficult
-Intruding (to get your foot in the door)
-Pitching (to persuade the customer to buy)
-Persisting (to push until you make the sale)
-
-effective selling: -> ambiverts and introverts -> We don't need hunters, just farmers
-Research (to understand the customer -- time spent alone on the Web, reading and analyzing information)
-Listening (to understand individual needs -- being patient and quiet while remaining open to new ideas and perspectives)
-Reacting (to adapt to the identified needs -- letting the other person set the pace and the agenda)
-
-If They Can’t Pay, Walk Away
--->
+> *'Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.'*
 
 Negotiation establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value than receiving for it.
@@ -483,6 +457,16 @@ Call all owners to rent. 8 said yes. Then auction! 2200 -> 1500
 To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
 Business is 80% psychological.
 
+irritation -> challenge people to make something that they don't want to do
+agitation -> challenge people to make something that they want to do. suggesting ego etc
+agitate more than irritate
+
+So can you pitch me what our company does?
+
+people minds work by association.
+pre-suasion
+
+most rejections are not your fault.
 -->
 
 
@@ -490,7 +474,8 @@ Business is 80% psychological.
 ---
 ### On relationships
 
-Relationships are based on mutual [trust](#on-trust).
+Relationships are based on mutual trust.  
+Trust and vulnerability are conected.
 
 > *'A great relationship is about finding the similarities and respect the differences.'*
 
@@ -498,7 +483,10 @@ Relationships are based on mutual [trust](#on-trust).
 
 > *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
 
-HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
+> *'Trust bank account analogy: you make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.'*
+
+HOWEVER... after taking the first step [mirror](chapter_3_action.md#on-mirroring) their behavior.  
+Run away from mediocrity and be ready to loose people.
 
 > *'Don't hide your feelings from people who show you theirs.'*
 
@@ -516,24 +504,35 @@ HOWEVER... after taking the first step [mirror](#on-mirroring) their behavior. R
 
 > *'Don't let people that are bad influences to put you down.'*
 
+> *'I won’t be less just because you cannot be more'*
+
 <!--
-emotional bank accounts. You make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.
-
-trust and vulnerability are conected.
-
 first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
-
-on a deep relationship, politics must match
-
-“I won’t be less just because you cannot be more”
 -->
+
 
 
 ---
 ### On lovers
 
-Never love anyone who treats you like you're ordinary.
+You attract what you are.  
+
+HINTS:
+
+> *'If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
+You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.'*
+
+> *'On a serious conversation with a SO, instead of generalizing, talk about three things:  
+First, your observations, or what you have noticed is happening in your relationship.  
+Next talk about how the observation has made you feel. Finally, discuss your values.'*
+
+> *'For a long and deep relationship, values must match.'*
+
+> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
+
+Never love anyone who treats you like you're ordinary.  
+You need to partner with someone who wants you to be all you can be.
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
 
@@ -545,32 +544,12 @@ HOWEVER...
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-HINTS:
+> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*
 
-> *'If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
-You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.'*
-
-> *'On a serious conversation with a SO, instead of generalizing, talk about three things:  
-First, your observations, or what you have noticed is happening in your relationship.  
-Next talk about how the observation has made you feel. Finally, discuss your values.'*
-
-Keep separate bank accounts.
-
-> *'Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
-
+There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.  
 How to move on?
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
-
-<!--
-1. You Need to Partner with Someone Who Wants you to Be All You Can Be
-
-You Attract What You Are
-
-the love that lasts the longest is the love that is never returned -- W. Somerset Maugham
-
-There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.
--->
 
 
 
@@ -586,8 +565,6 @@ Build your «board of directors».
 If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
 
 > *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
-
-> *'Family is not an important thing, it’s everything.' -- Michael J Fox*
 
 HOWEVER... choose who surrond you: you are the average of them. 
 You will waste your life trying to make those around into who you want them to be.
@@ -672,7 +649,7 @@ prompting and shaping are two actions we can use together to change behavior in 
 ### On conflicts
 
 Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.  
-Neutrality is not possible. Anyway preserve your [freedom](#on-freedom).
+Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom).
 
 > *'Avoiding conflict will not keep peace, will rot it.  
 Rotten peace builds resentment.'*
@@ -695,7 +672,9 @@ conflict resolution:
 ---
 ### On criticism and envy
 
-Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [wealth](/chapter_appendix.md#on-wealth), [ambition](/chapter_appendix.md#on-ambition-and-motivation), [fame](/chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](/chapter_appendix.md#on-beauty), [health](/chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](/chapter_appendix.md#on-lifestyle)) are the main triggers. 
+Treat your haters like toddlers.
+
+Outliers inspire envy. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers. 
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
@@ -709,7 +688,7 @@ Outliers inspire envy. [Intelligence](/chapter_appendix.md#on-intelligence), [we
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 When people criticize your life they are speaking about their fears and limitations not yours.  
-Only take advice from [those achieving what you want to achieve](#on-feedback). Ignore and be flattered by the rest.
+Only take advice from [those achieving what you want to achieve](chapter_1_self.md#on-feedback). Ignore and be flattered by the rest.
 
 > *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
 
@@ -721,6 +700,8 @@ Only take advice from [those achieving what you want to achieve](#on-feedback). 
 
 > *'Once they stop talking to you, they start to talk about you.'*
 
+> *'It is not greed that drives the world, but envy.' -- Warren Buffet*
+
 HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
@@ -731,11 +712,6 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
-<!--
-Treat Your Haters Like Toddlers
-
-'It is not greed that drives the world, but envy' -- Warren Buffett
--->
 
 
 ---
@@ -759,6 +735,8 @@ Most people are other people. Their thoughts are someone else opinions and they 
 
 > *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
 
+> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
+
 HOWEVER... smart people don’t think others are stupid and common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
@@ -766,8 +744,6 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
 
 <!--
-> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
-	
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
@@ -823,7 +799,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 ### On leadership
 
-Being a leader is different from being a boss. Leadership is based on mutual [trust](#on-trust).
+Being a leader is different from being a boss. Leadership is based on mutual [trust](#on-relationships).
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -847,6 +823,10 @@ People want leadership because they want autonomy and influence.
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
+HINTS:
+
+
+
 HOWEVER... Be humble.
 
 > *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
@@ -869,8 +849,6 @@ make yourself as part of a team
 make people feel as part of a family
 
 leader persuader -- mix com persuasion 
-
-Fire customers that cause you to much stress or that cost too much to service.
 
 Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
 

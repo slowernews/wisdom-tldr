@@ -678,23 +678,22 @@ investment: the Barbell strategy
 ---
 ### On email
 
-a) Keep it under three lines -> more than this call
+a) Keep it under three lines, more than this call.
 
-b) Make the subject line a) unique, b) meaningful and c) easily searchable
+b) Make the subject unique, meaningful and easily searchable.
 
-c) Use EASY-TO-READ formatting! font 12/14, Use bold, underline, and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
+c) Use easy-to-read formatting! Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
 
 d) Put your specific action request in the first line. A busy exec wants to touch an email once and take action: delete, respond or forward for action.
 Start with the action/request, and then explain if you need to.
-be specific in your request… Instead of saying, “Can you meet sometime next week?” say, “Can you meet Wed, Sept 10 in XYZ location between 10 a.m. and 12 p.m. PST?” “I’m available to meet at these three time windows. My EA is copied. What works?” (Then list the three windows.)
+be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»
 
-e) Make the ask really, really simple – such that it’s hard for your reader to say “No”
-Have your email make a single, specific, simple request:
-Do you have time for a 5 min call this week?
-Please review and sign this document.
-Can you make a quick intro to XYZ person?
+e) Make a single, specific, simple request – such that it’s hard  to say no.  
+The reader should be able to reply to the email in one word (ideally yes or no), or forward it on to the right person.  
+Do you have time for a 5 min call this week?  
+Please review and sign this document.  
+Can you make a quick intro to XYZ person?  
 I’d love a letter of support from you. I’ve attached a draft for your review.
-I should be able to reply to the email in one word (ideally Yes or No), or forward it on to the right person to reply in full.
 
 
 

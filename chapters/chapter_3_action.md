@@ -98,7 +98,7 @@ a) randomness: most facts are a «tell» but some are just random.
 
 It is possible to view this as an isolated event or a trend
 
-c) [being deceived](#on-deceiveness);
+c) [being deceived](#on-deceiving);
 
 > *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
 
@@ -680,7 +680,7 @@ You will languish if you stop for a long time. Paralysis is worse than bad timin
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-HOWEVER, have a [plan](#on-planning). Any plan will do it.
+HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 
 > *'No one ever wrote a plan to be fat lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
 
@@ -1044,7 +1044,7 @@ In any system where there are norms, there are strengths and weaknesses to those
 
 Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-trust) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
+> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-relationships) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
 
 > *'Use selective honesty and generosity to disarm your victim.'  
 'Pose as a friend, work as a spy.'  
@@ -1077,7 +1077,9 @@ HOWEVER... use absence with [moderation](#on-balance).
 
 > *'If you're always absent, soon you'll not be needed.'*
 
-
+<!--
+mimicking people gestures and words works!
+-->
 
 ---
 ### On deceiving
@@ -1183,7 +1185,7 @@ They can be effective but use them *only* on life changing situations: it's a sc
 > *'Get others to do the work for you, but always take the credit.'  
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
-When nothing else works, [surrender](#on-surrendering). Only use anger and go [all in](#on-desperate-opponents) if you can see the end already.
+When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 
 
@@ -1206,7 +1208,7 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 ### On finishing
 
-Finish it. [Going halfway](#on-focus) is too expensive to do it often.
+Finish it. [Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often.
 
 > *'Don't take a half step where a full step is required.'*
 
