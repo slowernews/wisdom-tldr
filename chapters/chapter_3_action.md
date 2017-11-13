@@ -1208,23 +1208,20 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 ### On finishing
 
-Finish it. [Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often.
+Starting is fun but success belongs to finishers.  
+[Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often.
 
 > *'Don't take a half step where a full step is required.'*
 
 > *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
+
+> *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
 > *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
 > *'When the end finally comes, it comes quickly.'*
-
-<!--
-“If you’re going to try, go all the way. Otherwise, don’t even start.” ~Charles Bukowski
-
-Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
--->
 
 
 
@@ -1249,6 +1246,8 @@ quit or grit? woop
 wish / outcome / obstacle / plan
 
 > *'Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere.' -- Paul Coelho*
+
+Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
 -->
 
 

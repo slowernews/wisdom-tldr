@@ -829,6 +829,8 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+fastest way to learn is to teach.
+
 making resolutions: Guilt will carry you when willpower fails. By all means involve friends, but make your pressures real.
 Just saying words doesn’t make a thing happen. Try walking through a door instead.
 

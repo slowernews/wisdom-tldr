@@ -262,25 +262,31 @@ HINTS:
 
 > *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
 
+> *'Your job should be a product of your lifestyle, not the other way around'*
+
+> *'We don’t stop playing because we grow old; we grow old because we stop playing.'*
+
+> *'The opposite of play isn’t work, it’s depression.'*
+
+> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+
+> *'A good traveler has no fixed plans and is not intent on arriving.' -- Lao Tzu*
+
 HOWEVER:
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+There’s also the unfortunate culture in technology that devalues everything unrelated to militant capitalism.
+If you’re not trying to make money, what are you even doing?
+
 feel like a local celebrity: everybody knows who you are.
 you are in a city, without knowing the language, manage to go to the hostel, meet people there
 make your way there
 
-> *'Your job should be a product of your lifestyle, not the other way around'*
+Life is a game of tradeoffs. And you must eventually choose what you’re willing to trade based on what you value.
 
-
-Life is not a checklist.
-Life is a game of tradeoffs. And you must eventually choose what you’re willing to trade based on what you value. And if you’re not careful with your values, if you are willing to trade things away for the sake of another hit of dopamine, another temporary trip to your own personal psychological 10,
-
-
-How? By not playing the government’s game. Instead, I created a different game, a game that worked by my rules, a game I could win.
-
-> *'We don’t stop playing because we grow old; we grow old because we stop playing.'*
+Don't play the government’s game. Instead, create a game that worked by my rules, a game I could win.
 
 “the paradise tax”
 
@@ -306,17 +312,10 @@ Best Effort + Surrender = DESTINY
 
 That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
 
-essentialism vs minimalism
-
-> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
-
-A good traveler has no fixed plans and is not intent on arriving. -- Lao Tzu
-
 tips for great vacations: anticipate, Avoid the 2 big mistakes: Think about your personality and who you’ll be going with. And keep the trip between 3 to 6 dThink a little less about getting the most for your buck and more about who you’re going with and what the two of you will really enjoy. And how long should your vacation be? Research says aim for 3 to 6 days:
 People who schedule their free time are happier:
 frequency beats intensity
 
-I take a lot of vacation. I find it more enjoyable than working.
 So I set out to build a business with the heuristic of "Maximize Jason's Vacation Time".
 
 Stage One: Contracting
@@ -334,7 +333,7 @@ Men are living their whole lives in pursuit of some arbitrary goal that somehow 
 Money is nothing more than a magnifying glass. Money simply makes you more of what you already are.
 They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!
 
-“The opposite of play isn’t work, it’s depression.”
+
 
 But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 
