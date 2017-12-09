@@ -86,6 +86,29 @@ How to Talk to Strangers. ask stuff outside of their expertise where you can add
 network on relevant groups that can help you.
 
 Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
+
+-
+
+on a aparty you start to talk with a stranger. you should go on after 10 or 15 minutes.
+think about it as exploring.
+
+tactics:
+- people that need to be saved
+- help the hosters to serve food
+- go to the bar and meet people there
+- small and open groups
+
+opening line:
+"hi, I'm X and I dont know anybody in this party."
+smart flattery
+
+escaping line:
+"excuse me but i must to talk with somebody that entered the room"
+"excuse me i have to make a phone call"
+human sacrifice.. intro him and leave
+
+to rude people:
+"my mum always told me not to speak with strangers, now i know why"
 -->
 
 HINTS:
@@ -550,6 +573,8 @@ Run away from mediocrity and be ready to loose people.
 > *'I won’t be less just because you cannot be more'*
 
 <!--
+> *'love is what happens to men and women that don't know each other.'*
+	
 first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
 -->
@@ -1009,6 +1034,8 @@ Jeff Bezos, for example, famously banned PowerPoints in favor of “narratives�
 
 As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
 
+Data shows people want more feedback: monthly, not daily.
+
 if you're stuck chnage tools
 
 > *'Too busy pretending I'm occupied.'*
@@ -1096,6 +1123,14 @@ There's nothing wrong in specialization -- it's how we stay sane. A very workabl
 > *'Go where you can make a difference not where you think there’s a home run.'
 
 autentic pride (genuine) vs hubristic pride (egotistic)
+-
+Startups are (by necessity) filled with generalists; big companies are filled with specialists. People underestimate how effective a generalist can be at things which are done by specialists. People underestimate how deep specialties can run. These are simultaneously true.
+
+companies hire for a problem and not general optimizations. Even if they need a generalist.
+
+Try consulting or entrepreneurship.
+When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
+When you sell your ability to deliver results, nobody asks about your skillset.
 -->
 
 

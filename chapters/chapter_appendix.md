@@ -62,6 +62,8 @@ You will die soon. Act accordingly and don't postpone joy.
 
 > *'As you walk and eat and travel be where you are. Otherwise you will miss most of your life.' -- Siddhartha Guatama*
 
+> *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
+
 HINTS:
 
 100 blocks a day -- wait but why
@@ -71,13 +73,10 @@ HOWEVER:
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
-> *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
 > *'Just because you use your eyes, doesn’t mean you see what’s actually there.' -- Murray Carter*
 
 > *'If you are waiting for anything in order to live and love without holding back, then you suffer.' -- David Deida*
-
-be present
 
 life is long enough
 
@@ -127,7 +126,7 @@ Dream big. If your dreams don't scare you, they are not big enough.
 > *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
 
 <!--
-make the exercise: imageine you life in 10years. possible futures
+make the exercise: imagine you life in 10years. possible futures
 -->
 
 
@@ -159,29 +158,33 @@ Being rich is not counting money all day but being fulfilled.
 > *'Shift your focus from achievement to fulfillment:  
 What makes you come alive, what do you enjoy doing, who do you enjoy being around?'*
 
-> *'Some people are so poor, all they have is money.'*
+> *'Some people are so poor, all they have is money.' -- Patrick Meagher*
 
 > *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
 > *'You can spend your time making money but you can't spend your money making time.'*
 
-<!--
-“You’re not supposed to optimize for money; you’re supposed to optimize for happiness.” -- Mr. Money Mustache (AKA Pete Adeney)
-
-nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, question
+> *'You’re not supposed to optimize for money; you’re supposed to optimize for happiness.' -- Mr. Money Mustache*
 
 > *'Don’t think money does everything or you are going to end up doing everything for money.' -- Voltaire*
+
+<!--
+nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
 -->
 
 
 
 ---
-### On fame
+### On fame and popularity
 
 See fame as a multiplier. If you want to impact the world, be famous.
 
 > *'Do everything in public. Other people are facing the same problems. They will identify with you and provide solutions.'  
 'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (paraphrased)*
+
+<!--
+> *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
+-->
 
 
 
@@ -244,23 +247,22 @@ surprises only happen when they didnt repaeat on ones lifetime
 
 
 ---
+### On health
+
+Health is also an envy trigger.
+
+
+
+---
 ### On lifestyle
 
-'Don't be a plant.'
+'Don't be a plant: travel.'
+
+'Run away from complexity. Complexity doesn't add much to life.'
 
 HINTS:
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
-
-> *'Essencialism: the value in less and the joy of missing out.'*
-
-> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
-
-> *'Use it or loose it.'*
-
-> *'Run away from complexity. Complexity doesn't add much to life.'*
-
-> *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
 
 > *'Your job should be a product of your lifestyle, not the other way around'*
 
@@ -268,9 +270,56 @@ HINTS:
 
 > *'The opposite of play isn’t work, it’s depression.'*
 
-> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+HINTS on the value in less and the joy of missing out:
+
+The perpetual chase for more is not the path that leads to more freedom and happiness.  
+You were not born to only have a successful professional life. You were born to have a great, full, well-balanced happy life.
+
+Simplify. Cut the crap. Get rid of the unnecessary distractions. Toss out any possessions that don’t bring value or joy into your life. Remove any obligations that aren’t truly serving your end goals.
+
+The simple reason for this is that we are not designed to live in this world.
+We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die.
+
+using simpler tools to force simplicity is very interesting
+
+When life becomes about seizing every moment enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
+
+> *'Essencialism: The disciplined pursuit of less.'*
+
+> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
+
+> *'Use it or loose it.'*
+
+> *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
+
+HINTS on travel:
+
+travel solves a plethora of self-improvement goals in one fell swoop
+people have a cultural memory of travelling as expensive.
+travelling is getting under the skin of the place
+travellers are the best money managers.
+travellers grow in different ways other than careers
 
 > *'A good traveler has no fixed plans and is not intent on arriving.' -- Lao Tzu*
+
+> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+
+tips for great vacations: anticipate, Avoid the 2 big mistakes: Think about your personality and who you’ll be going with. And keep the trip between 3 to 6 dThink a little less about getting the most for your buck and more about who you’re going with and what the two of you will really enjoy. And how long should your vacation be? Research says aim for 3 to 6 days:
+People who schedule their free time are happier:
+frequency beats intensity
+
+traveleing -> mini lifes
+
+Travel is the only thing you buy that makes you richer
+
+HINTS on nomadism:
+
+So I set out to build a business with the heuristic of "Maximize Jason's Vacation Time":
+Stage One: Contracting
+Stage Two: Travelling Between Contracts
+Stage Three: Travelling While Contracting
+Stage Four: Software Product Business
+Stage Five: Chillin'
 
 HOWEVER:
 
@@ -284,107 +333,53 @@ feel like a local celebrity: everybody knows who you are.
 you are in a city, without knowing the language, manage to go to the hostel, meet people there
 make your way there
 
-Life is a game of tradeoffs. And you must eventually choose what you’re willing to trade based on what you value.
+Life is a game of tradeoffs. You must eventually choose what you’re willing to trade based on what you value.
 
 Don't play the government’s game. Instead, create a game that worked by my rules, a game I could win.
 
 “the paradise tax”
 
-“Get yourself into a state of calmness, and then ferocity will take care of itself.” -- Stewart Copeland
-
-travel solves a plethora of self-improvement goals in one fell swoop
-people have a cultural memory of travelling as expensive.
-travelling is getting under the skin of the place
-travellers are the best money managers.
-travelleres grow in diffrent ways other than careers
-
 I quickly realized that I had to find another way to derive meaning from my life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
 
 I think it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
 
-The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
-
-> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
-
-> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
-
-Best Effort + Surrender = DESTINY
-
 That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
-
-tips for great vacations: anticipate, Avoid the 2 big mistakes: Think about your personality and who you’ll be going with. And keep the trip between 3 to 6 dThink a little less about getting the most for your buck and more about who you’re going with and what the two of you will really enjoy. And how long should your vacation be? Research says aim for 3 to 6 days:
-People who schedule their free time are happier:
-frequency beats intensity
-
-So I set out to build a business with the heuristic of "Maximize Jason's Vacation Time".
-
-Stage One: Contracting
-Stage Two: Travelling Between Contracts
-Stage Three: Travelling While Contracting
-Stage Four: Software Product Business
-Stage Five: Chillin'
-
-stop viewing our work as our lives
-
-The perpetual chase for more is not the path that leads to more freedom and happiness.
-You were not born to only have a successful professional life. You were born to have a great, full, well-balanced happy life.
 
 Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now.
 Money is nothing more than a magnifying glass. Money simply makes you more of what you already are.
 They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!
 
-
-
 But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 
 My life has been a series of questions and odd experiments.
 
+Exercise is king. Nutrition is queen.
+water, cold, hot, cold shower
+minimum effective dose
+
+Take naps at work. Apologize to no one.
 “Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
-
-James Michener’s Nomadic Pursuit of Depth
-health is also an envy trigger.
-
-permission to rethink
-weekly design session -- think on longer term
-reactive to proactive life
-start where do you have control of. go slowly over time.
-Essentialism: The Disciplined Pursuit of Less
-
-/r/buyitforlife
-
-using simpler tools to force simplicity is very interesting
-
-The simple reason for this is that we are not designed to live in this world.
-We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die.
-
 (follow your circadian rhythm, eat more real foods, and exercise more)
 the specifics are actually highly bio-individual.
 What works for one person will not necessarily work for another, because every body is different.
 Your body responds to substances, sleep patterns, forms of exercise, and supplementation differently from your best friend’s body which responds differently from his girlfriend’s body.
 
-house + work + third place (coffeeshop)
-
-“Exercise is king. Nutrition is queen
-
-Take Naps at Work. Apologize to No One.
-
-water, cold, hot, cold shower
-minimum effective dose
-
 Drinking alcohol borrows energy (and happiness) from tomorrow.
+
+permission to rethink
+weekly design session -- think on longer term
+reactive to proactive life
+start where do you have control of. go slowly over time.
+Essentialism: 
+
+/r/buyitforlife
+
+house + work + third place (coffeeshop)
 
 Discover why travel solves a plethora of self-improvement goals in one fell swoop.
 How does really traveling differ from a standard vacation?
 
-When life becomes about seizing every moment enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
-
-Simplify. Cut the crap. Get rid of the unnecessary distractions. Toss out any possessions that don’t bring value or joy into your life. Remove any obligations that aren’t truly serving your end goals.
-
 Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
-
-digital travleing -> mini lifes
-
-Travel is the only thing you buy that makes you richer
 -->
 
 
@@ -674,6 +669,8 @@ entrepreneurship vs investment (2 different mentalities
 investment: the Barbell strategy
 -->
 
+
+
 ---
 ### On email
 
@@ -708,6 +705,10 @@ people that like you + people that don't like you + people that don't care about
 finders + grinders (work bees) + minders
 
 <!--
+people of all political persuasions
+
+dreamer + maker + manager
+
 introverts have more probability of being an expert in their field
 extraversion is not good for mastery
 most people are not extremes and most people are in the middle

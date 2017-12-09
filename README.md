@@ -100,9 +100,10 @@
 *On envy triggers*
 - [On intelligence and talent](/chapters/chapter_appendix.md#on-intelligence-and-talent)
 - [On wealth](/chapters/chapter_appendix.md#on-wealth)
-- [On fame](/chapters/chapter_appendix.md#on-fame)
+- [On fame and popularity](/chapters/chapter_appendix.md#on-fame-and-popularity)
 - [On luck](/chapters/chapter_appendix.md#on-luck)
 - [On beauty](/chapters/chapter_appendix.md#on-beauty)
+- [On health](/chapters/chapter_appendix.md#on-health)
 - [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
 - [On success](/chapters/chapter_appendix_action.md#on-success)
 
@@ -131,7 +132,6 @@
 *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
 *'Happiness = reality / expectations'*<br>
 *'No man is a prophet in his own land'*
-
 
 One practical advice: *'Have more than one child.'*
 

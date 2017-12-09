@@ -62,6 +62,8 @@ In executive position, visionary, maverick, multidisciplinary thinker, etc.
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
 <!--
+Best ideas come from the market, not from you.
+
 The mind that opens to a new idea never returns to its original size. -- Albert Einstein
 
 Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
@@ -798,6 +800,8 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+> *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin, The Dip*
+
 “If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.”
 
 Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies.
@@ -1097,6 +1101,8 @@ mimicking people gestures and words works!
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
+> *'The moment a magician says, «Now we begin» you’re already screwed!' -- Brian Brushwood*
+
 HOWEVER... deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
@@ -1115,8 +1121,6 @@ Clean players on shady markets usually don't do well on the long term.
 > *'Bad liars should speak as little as possible.'*
 
 the good reason (the reason they tell you) and the real reason.
-
-“The moment a magician says, ‘Now we begin,’ you’re already screwed!” -Brian Brushwood
 -->
 
 

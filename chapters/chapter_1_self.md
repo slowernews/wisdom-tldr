@@ -45,6 +45,9 @@ How?
 > *'Seek respect, not attention. It lasts longer.'*
 
 <!--
+28. Always remain diligent
+Have no careless Days. Fate loves to play tricks, and will heap up chances to catch us unawares. Our intelligence, prudence, and courage, even our beauty, must always be ready for trial. For their day of careless trust will be that of their discredit. Care always fails just when it was most wanted.
+	
 bravery is learned -> micro-bravery, start small
 
 2. Understand the Effect of Your Childhood Conditioning 
@@ -275,6 +278,8 @@ How to lower your expectations? Be grateful.
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
 <!--
+EDGE: temos q estar sempre nos limites para sermos felizes.
+
 You Don’t Have to Pick Happiness or Profit
 If you are unhappy, use your pain to fuel you towards the pleasure of something new.
 
@@ -360,7 +365,8 @@ be sucessful -> people more sucessful
 ### On finding a path
 
 Cancel your pity party. No one is coming to save you.  
-Pull yourself together and take total ownership for everything in your life.
+Pull yourself together and take total ownership for everything in your life.  
+Passion is made not found.
 
 > *'If you are feeling lost in life, you need to experience more things.'*
 
@@ -370,12 +376,20 @@ Pull yourself together and take total ownership for everything in your life.
 
 > *'Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.'*
 
+> *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
+
 <!--
+Best Effort + Surrender = DESTINY
+	
+The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
+
+> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
+
+> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
+
 > *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
 
-“Look at every path closely and deliberately, try it as many times as you think necessary, then ask yourself and yourself alone one question: Does this path have a heart? If it does the path is good, if it doesn’t it is of no use.” -- jack-kornfield
-	
-5. Passion is Made Not Found
+> *'Look at every path closely and deliberately, try it as many times as you think necessary, then ask yourself and yourself alone one question: Does this path have a heart? If it does the path is good, if it doesn’t it is of no use.' -- Jack Kornfield*
 
 how to design a life?
 “Your Ten-Year Plan for a Remarkable Life”
@@ -387,7 +401,6 @@ exercise: what would be your life if you wouldnt have fear of failure of life.
 Scott’s story is not about movies, or addiction, or creativity, it’s about knowing the right direction to take the next step.
 
 Step 1: FIND OUT WHAT YOU’RE CRAVING:
-These are the two types of cravings:
 a) Addiction: I felt powerless. I was addicted to money. More was never enough. Then I left Wall Street. Because they were the supplier.
 b) Depletion: Your body needs something. It can be water, a vitamin or mineral or a change. That’s where reinvention comes in.
 
