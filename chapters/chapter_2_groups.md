@@ -10,7 +10,7 @@
 
 ### On networking
 
-Don't isolate yourself. Who you know and whether they like you will determine what opportunities you get.  
+Who you know and whether they like you will determine what opportunities you get.  
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems) - your personality type is not an excuse.
 
 > *'The enemy of excellence is isolation.'*
@@ -61,7 +61,7 @@ make poeple being interested in you by making them good/unusual questions.
 be intrested in them to them be intrested in you.
 -->
 
-How to give a good first impression?
+HOW TO: give a good first impression?
 
 <!--
 How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress
@@ -152,8 +152,8 @@ HOWEVER:
 ---
 ### On communication
 
-Speak less and listen more: be humble.  
-Listening is powerful.
+Speak less and listen more.  
+Be humble, listening is powerful.
 
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
@@ -163,7 +163,7 @@ Listening is powerful.
 
 > *'Arguing as you're right. Listening as you're wrong.'*
 
-How talk to people?  
+HOW TO: talk to people?  
 Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of accomplishments, don't be stubborn and listen.
 
 > *'Get better asking questions. They are more important than answers.'*
@@ -317,6 +317,8 @@ The Pocket Guide of Essential YC Advice:
 • Ignore your competitors, you will more likely die of suicide than murder
 • Most companies don’t die because they run out of money
 • Be nice! Or at least don’t be a jerk
+
+k) Focus on revenue generating activities. if it is not going to earn you money, then don’t do it.
 
 Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
 Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
@@ -1085,8 +1087,7 @@ DON’T tell me about your responsibilities. Everyone who is doing your type of 
 ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
 
 Most reviewers are only going to understand two skill levels:
-You’re still learning the skill
-You feel confident in the skill
+still learning the skill / confident in the skill
 
 <!--
 
@@ -1215,6 +1216,8 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
+read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
+	
 ask what's your secret mission -- something you want to do here that another person is interested also\
 
 100% time -> 100% results  
@@ -1228,6 +1231,8 @@ So: 100% on one thing = 80% on 5 things!
 - reboot self confidence. Surround yourself with confident people.'
 
 Happy, Smart, and Useful
+
+look at situations as systems. i help to create systems.
 -->
 
 

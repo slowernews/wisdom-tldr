@@ -378,6 +378,8 @@ Passion is made not found.
 
 > *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
 
+> *'When life gets blurry, just adjust your focus.'*
+
 <!--
 Best Effort + Surrender = DESTINY
 	
@@ -842,6 +844,8 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+> *'Don't major on minor things.'* ->  applied focus
+
 fastest way to learn is to teach.
 
 making resolutions: Guilt will carry you when willpower fails. By all means involve friends, but make your pressures real.
@@ -975,7 +979,6 @@ Assorted exterior surfaces (facade, roof, garage door and gate) and outside area
 
 The hardest part is showing up
 
-
 How to learn?
 There are four simple steps to the Feynman Technique:
 Choose a Concept
@@ -1080,48 +1083,36 @@ If you’re not getting better today, you’re getting worse.”
 -->
 
 
+
 ---
 ### On self awareness
 
-When we don’t have self awareness the gap between who we are and who we think we are grows. As this gap grows it becomes harder to prevent and solve problems. It becomes harder to be who we want to be in the future.
+Self awareness reduces the gap between who we are and who we think we are.  
+As this gap grows it becomes harder to prevent and solve problems.
+
+HOW TO: stay open-minded?
+
+a) Understanding: Closed-minded people focus much more on being understood than on understanding others. They don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views.
+
+b) Statements vs. Questions: Closed-minded people are more likely to make statements than ask questions. Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.
+
+How do i know i'm right? Do you know anyone who doesn’t have any blind spots? I strongly doubt it.
+Then why would you be any different? Curious as to why the other person disagrees.
 
 <!--
+LISTEN, BE CURIOUS INSTEAD, IT MIGHT BE BIAS.
+
 The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
 
-> *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
-
 self-awareness is the single greatest predictor of leadership success
-know thyself
 1) Reflect Less, Notice More: spend less time theorizing and more time collecting data points to see patterns and trends.
 2) Ask “What” Not “Why”
 3) Set Goals
 4) Do A Survey
 
-how do i know i'm right
-
-Closed-minded people don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. … They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views
-
-2. Statements vs. Questions
-
-Closed-minded people are more likely to make statements than ask questions.
-Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.
-
-3. Understanding
-
-Closed-minded people focus much more on being understood than on understanding others.
-
-“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.”
-— F. Scott Fitzgerald
-
-Staying open-minded won’t happen by accident.
-
-Do you know anyone who doesn’t have any blind spots? I strongly doubt it. Then why would you be any different?curious as to why the other person disagrees.
-
-build self awareness
-
 mix with BIAS
 
-7. SELF-AWARENESS OVER HUSTLE
+SELF-AWARENESS > HUSTLE
 
 “If you don’t know who you are it’s over,” Gary said.
 What does that mean?

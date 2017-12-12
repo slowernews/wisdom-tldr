@@ -405,6 +405,10 @@ HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest b
 > *'Doubt kills more dreams than failure ever will.'*
 
 <!--
+> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
+
+Real success happens when we focus on one thing at a time.
+
 There are two things you need to do to be successful.
 know what is he right thing and having the courage to do it
 
@@ -492,6 +496,8 @@ Beliefs lag behind reality.
 But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 
+> *'The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.' -- F. Scott Fitzgerald*
+
 > *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
 
 Mental models
@@ -499,6 +505,8 @@ Mental models
 <!--
 Actions > Thoughts
 ACTIONS change the world. Not beliefs.
+
+> *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
 
 If you don't understand the limitations of the model, you don't understand the model.
 
@@ -721,8 +729,10 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On superpowers
 
-[Not caring what other people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
+The ability to [not caring what other people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
 
 The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpower.
+
+The ability to [listen](chapter_2_groups.md#on-communication) is a superpower.
 
 The ability to [focus](chapter_3_action.md#on-focus-time-management-and-productivity) is a superpower.

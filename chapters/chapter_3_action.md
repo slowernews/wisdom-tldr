@@ -56,14 +56,14 @@ How to judge ideas?
 
 Creativity is linked to autonomy.
 
+Best ideas come from the market, not from you.
+
 > *'Creativity and critical thinking:  
 In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.  
 In executive position, visionary, maverick, multidisciplinary thinker, etc.  
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
 <!--
-Best ideas come from the market, not from you.
-
 The mind that opens to a new idea never returns to its original size. -- Albert Einstein
 
 Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
@@ -744,12 +744,12 @@ chess gambits -- exchange material by position-time.
 ---
 ### On focus, time management and productivity
 
+'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy.  
+Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin, The Dip
+
 Time itself, is not your limitation. Attention is.  
 You’re not managing time, you're managing attention.
-
-> *'Do things in batch all at once. Interruption and switching between tasks costs too much.'*
-
-> *'Any media company harvest your attention and transform it into revenue.'*
+Focusing is an art, not a science.
 
 > *'Busy imply out of control. lack of time is lack of priorities.'*
 
@@ -758,103 +758,64 @@ First the essential. Then the details.
 > *'Concentrate your forces.'  
 'Strike the shepherd and the sheep will scatter.' -- Robert Greene (23rd and 42nd law of power)*
 
-> *'In a divided world, power will come from keeping your own group united and cohesive.'*
-
 > *'You can do anything, but not everything.' -- David Allen*
 
 > *'Focusing is about saying no.' -- Steve Jobs*
-
-> *'When life gets blurry, just adjust your focus.'*
+'«No» is no to one thing. «Yes» is no to a lot of things.'
 
 > *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
 
 > *'A man with a watch knows what time it is. A man with two watches is never sure.'*
 
-> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
-
 > *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
 
 > *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
+you're not perfect in everything. find your specialty.
+
+When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize. -- munger
 
 > *'Always look where you want to go, not where you don't want to go.'*
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-HINTS:
+PRACTICAL HINTS:
 
-> *'working by layers: functional -> perfect'*
-
-> *'Tackle your most important thing (MIT) first thing in the morning.'*
-
-> *'Track your time manually so you have to see it and deal with it. Use a spreadsheet or paper.'*
-
-> *'Focus. Do one thing really well. Solve one problem with one solution.  
-Focus on the one thing most likely to get maximum results. Forget everything else.'*
-
-> *'Reduce decision making on small tasks to a minimum and do it quickly and in bulk: what to wear, what to eat, etc.'*
-
-> *'Don't major on minor things.'*
+> *'a) Be fully present: learn to focus on what you are doing now;  
+b) Reduce decision making on small tasks to a minimum and do it quickly and in bulk. Too many decisions will drain you;  
+d) Do things in batch. Interruption and switching between tasks costs too much.  
+f) Focus just on 3 outcomes per day. Tackle your most important thing (MIT) first thing in the morning.  
+g) Focus on doing the right things instead of doing things right. Focus on the one thing most likely to get maximum results. Forget everything else.  
+Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies.  
+h) Set specific, measurable, attainable, realistic and time-based goals.  
+i) View actions towards a goal not in terms of progress, but of commitment to the goal.  
+j) Set process goals (which help you achieve a larger goal).'*
 
 HOWEVER... 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-> *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin, The Dip*
+b) Work by layers: functional -> perfect; 
 
-“If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.”
+If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
 
-Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies.
+> *'Media companies harvest your attention and transform it into revenue.'*
 
-Focus just on 3 outcomes per day.
-Focus on doing the right things instead of doing things right.
-Set specific, measurable, attainable, realistic and time-based goals.
-View actions towards a goal not in terms of progress, but of commitment to the goal.
-Set process goals (which help you achieve a larger goal).
-Work with a purpose in mind.
-
-you're not perfect in everything. find your specialty.
-
-When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize. -- munger
+> *'If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
 
 Não se pode fazer colecção de tudo.
 
-read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
-
-focusing-art-not-science
-
-Do Less to Achieve More
-
 > *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
 
-school rewards generalist and not focusing: the world does so.
+school rewards generalist and not focusing: the world not so.
 
-Real success happens when we focus on one thing at a time.
-
-don't be a dabbler.
-
-'«No» is no to one thing. «Yes» is no to a lot of things.'
-
-look at situations as systems. i help to create systems.
 Bad luck vs. bad planning
 
 *guerrilla* has their strengths also. cena do mosquito
 
-4. Focus on Revenue Generating Activities
-One of the simplest habits that you can start implementing today is to shift all of your focus towards revenue generating activities.
-Plain and simple, if it is not going to earn you money, then don’t do it. Focus only on the activities that are going to push the envelope forward for you and your company and result in an influx of cash.
-If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
-
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
 
-if you are the focus you will be assumed as being the the cause.
-
-And too many decisions will drain you. Attention is the most limited resource.
-
-make the basics in life, and you're good to go. you don't need to optimise.
-
-1. Learn to Focus on What You Are Doing Now- be fully present
-The more present and focused you can be in one area, the more focus and presence you will be able to bring to the other areas of your life.
+Do less to achieve more. make the basics in life, and you're good to go. you don't need to optimise.
 -->
 
 
@@ -862,19 +823,13 @@ The more present and focused you can be in one area, the more focus and presence
 ---
 ### On control
 
+'You can lead a horse to water but you can’t make him drink.'
+
 Control what you can. Ignore what you can't.
 
-> *'You can lead a horse to water but you can’t make him drink.'*
-
-> *'You can only control yourself. Control what you’re primed by, who you are around, the ideas and problems you focus on. Power comes from that. '*
-
-> *'You want everything to stay the same until you’re ready for it to change. But you can’t do that. You can’t expect the whole world to stand still until you’re ready.' -- Gayle Friesen*
-
-> *'Disdain things you cannot have: ignoring them is the best revenge.' -- Robert Greene (36th law of power)*
+> *'You can only control yourself. Control what you’re primed by, who you are around, the ideas and problems you focus on. Power comes from that.'*
 
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
-
-HOWEVER...
 
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
 
@@ -883,6 +838,7 @@ HOWEVER...
 <!--
 past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 -->
+
 
 
 ---
@@ -972,7 +928,7 @@ You need to switch strategies a few times to get where you want to go.
 > *'The directions to get you anywhere include a few turns:  
 Sometimes you need to say YES to everything and be open to growth;  
 Sometimes you need to say NO to everything and focus.  
-It's scary to make those direction choices, but that's how I know I'm on to something. Fear is a great road sign.'  
+It's scary to make those direction choices but fear is a great road sign.'  
 -- Derek Sivers (paraphrased)*
 
 > *'When the winds of change blow, some people build walls while others build windmills.' -- Chinese proverb*
@@ -1003,6 +959,8 @@ As Bruce Lee said “Be like water”, be willing to change and adapt to the wor
 
 equipa que ganha, não se mexe
 -->
+
+
 
 ---
 # 3.3 - On competing
