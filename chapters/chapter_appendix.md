@@ -46,15 +46,14 @@ The people who struggle most are the ones who can’t accept the incessant unfai
 ---
 ### On present
 
-You will die soon. Act accordingly and don't postpone joy.
+You will die soon.  
+Act accordingly and don't postpone joy: live life ready to meet god.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
 > *'We are like butterflies who flutter for a day and think it's forever.'*
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
-
-> *'Live life ready to meet god.'*
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
@@ -251,87 +250,62 @@ surprises only happen when they didnt repaeat on ones lifetime
 
 Health is also an envy trigger.
 
+<!--
+Exercise is king. Nutrition is queen.
+water, cold, hot, cold shower
+minimum effective dose
+-->
 
+s
 
 ---
 ### On lifestyle
 
-'Don't be a plant: travel.'
+'We were designed to [walk dozens of miles each day](travel), [catch our own meals](?), [live in a close-knit tribe](friends), [have regular sex](relationships), [raise children](mentorship) and die.
+When life becomes about [enjoying every second over accumulating more stuff](wealth), we are able to live lives of true abundance and joy.'
+
+'Don't be a plant: [travel](#on-travel-and-nomadism).'
 
 'Run away from complexity. Complexity doesn't add much to life.'
 
-HINTS:
+*PRACTICAL HINTS:*
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
 > *'Your job should be a product of your lifestyle, not the other way around'*
 
-> *'We don’t stop playing because we grow old; we grow old because we stop playing.'*
-
 > *'The opposite of play isn’t work, it’s depression.'*
 
-HINTS on the value in less and the joy of missing out:
-
-The perpetual chase for more is not the path that leads to more freedom and happiness.  
-You were not born to only have a successful professional life. You were born to have a great, full, well-balanced happy life.
-
-Simplify. Cut the crap. Get rid of the unnecessary distractions. Toss out any possessions that don’t bring value or joy into your life. Remove any obligations that aren’t truly serving your end goals.
-
-The simple reason for this is that we are not designed to live in this world.
-We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die.
-
-using simpler tools to force simplicity is very interesting
-
-When life becomes about seizing every moment enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
-
-> *'Essencialism: The disciplined pursuit of less.'*
-
-> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
-
-> *'Use it or loose it.'*
+> *'We don’t stop playing because we grow old; we grow old because we stop playing.'*
 
 > *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
 
-HINTS on travel:
+> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
-travel solves a plethora of self-improvement goals in one fell swoop
-people have a cultural memory of travelling as expensive.
-travelling is getting under the skin of the place
-travellers are the best money managers.
-travellers grow in different ways other than careers
+> *'Essencialism: The disciplined pursuit of less.'*
 
-> *'A good traveler has no fixed plans and is not intent on arriving.' -- Lao Tzu*
+*HOW TO* simplify?
 
-> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
-
-tips for great vacations: anticipate, Avoid the 2 big mistakes: Think about your personality and who you’ll be going with. And keep the trip between 3 to 6 dThink a little less about getting the most for your buck and more about who you’re going with and what the two of you will really enjoy. And how long should your vacation be? Research says aim for 3 to 6 days:
-People who schedule their free time are happier:
-frequency beats intensity
-
-traveleing -> mini lifes
-
-Travel is the only thing you buy that makes you richer
-
-HINTS on nomadism:
-
-So I set out to build a business with the heuristic of "Maximize Jason's Vacation Time":
-Stage One: Contracting
-Stage Two: Travelling Between Contracts
-Stage Three: Travelling While Contracting
-Stage Four: Software Product Business
-Stage Five: Chillin'
+a) Use simpler tools.  
+b) Use it or loose it.  
+c) [Get rid of the unnecessary distractions.](focus)
+d) [Remove any obligations that aren’t truly serving your end goals](freedom)
 
 HOWEVER:
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+HINTS on the value in less and the joy of missing out:
+
+I think it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
+
 There’s also the unfortunate culture in technology that devalues everything unrelated to militant capitalism.
 If you’re not trying to make money, what are you even doing?
 
 feel like a local celebrity: everybody knows who you are.
-you are in a city, without knowing the language, manage to go to the hostel, meet people there
-make your way there
+you are in a city, without knowing the language, manage to go to the hostel, meet people there.
+make your way there.
 
 Life is a game of tradeoffs. You must eventually choose what you’re willing to trade based on what you value.
 
@@ -339,9 +313,9 @@ Don't play the government’s game. Instead, create a game that worked by my rul
 
 “the paradise tax”
 
-I quickly realized that I had to find another way to derive meaning from my life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
+_meaning_
 
-I think it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
+I quickly realized that I had to find another way to derive meaning from my life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
 
 That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
 
@@ -352,10 +326,6 @@ They start by focusing on their goals instead of themselves. They are more than 
 But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 
 My life has been a series of questions and odd experiments.
-
-Exercise is king. Nutrition is queen.
-water, cold, hot, cold shower
-minimum effective dose
 
 Take naps at work. Apologize to no one.
 “Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
@@ -376,7 +346,6 @@ Essentialism:
 
 house + work + third place (coffeeshop)
 
-Discover why travel solves a plethora of self-improvement goals in one fell swoop.
 How does really traveling differ from a standard vacation?
 
 Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
@@ -420,11 +389,11 @@ But if you want to be truly happy. When you trust your instincts instead of your
 But the simple truth is that success leaves clues.
 There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
 
-"The successful results of evolution are organisms that aren't perfect, but 'good enough' to survive and reproduce themselves."
-Rafe Sagarin
+"The successful results of evolution are organisms that aren't perfect, but 'good enough' to survive and reproduce themselves." -- 
 
-"You and I know that it isn't what a man has that constitutes wealth. No-it is to be satisfied with what one has-that is wealth."
-Mark Twain
+"You and I know that it isn't what a man has that constitutes wealth. No-it is to be satisfied with what one has-that is wealth." -- Mark Twain
+
+Succeeding means securing advantage.
 
 Defining Success for Yourself:
 1. What makes me come alive?
@@ -444,11 +413,9 @@ And when they finally became a “success” they realized that they were no mor
 
 sucess is a dangerous word. i dont know any sucessful person.
 
-sucesses keep you making the same stuff, mistakes not
+sucesses keep you making the same stuff, mistakes not.
 
 “To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.”louis-lamour
-
-Succeeding means securing advantage.
 
 > *'It’s never your identity, it’s always your strategy'*
 
@@ -461,7 +428,6 @@ Guess what, no matter what you are striving for, you will face failure at some p
 1. Success is in Our Decisions Not Our Conclusions
 Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
 Success is truly about living a life with honor and integrity, not any material outcome.
-
 success is not the accumulation of stuff
 
 If you want to succeed at anything in your life, then forget about the Joneses.
@@ -596,8 +562,6 @@ That's where «big bucks» are.
 
 
 ---
-# Appendix D - Bonus
-
 ### On investment
 
 Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
@@ -612,7 +576,7 @@ Spend less than you make. Stay liquid. Never invest in anything you can’t sell
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
-HINT: How to spot trends?
+*HOW TO* spot trends?
 
 > *'Recessions are caused when a bunch of people lose confidence all at once.'*
 
@@ -639,8 +603,6 @@ HINT: How to buy low and sell high?
 > *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.' -- Charlie Munger*
 
 <!--
-Two economists are walking along the street, and one says, “Hey, someone dropped a $20 bill!” and the other says, “Well, it can’t be a real $20 bill because someone would have picked it up already.”
-
 14. Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.
 
 Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
@@ -667,7 +629,6 @@ legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you 
 Know When to Fold Em
 “Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand-- you must learn to handle mistakes and new facts that change the odds.” Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile. -- munger
 
-	
 entrepreneurship vs investment (2 different mentalities
 “I succeeded because I have a long attention span.”
 “It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.” -- munger
@@ -680,18 +641,45 @@ investment: the Barbell strategy
 
 
 ---
+### On travel and nomadism
+
+Travel is the only thing you buy that makes you richer. Traveling as mini lifes.
+
+> *'A good traveler has no fixed plans and is not intent on arriving.' -- Lao Tzu*
+
+> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+
+HINTS on travel:
+
+a) People who schedule their free time are happier but think less about getting the most for your buck and more about who you’re going with.
+And how long should your vacation be? Research says aim for 3 to 6 days. Frequency beats intensity. People have a cultural memory of travelling as expensive but it's not.
+
+b) Travel solves a plethora of self-improvement goals in one fell swoop. Travellers grow in different ways other than careers.
+
+c) Travelling is getting under the skin of the place.
+travellers are the best money managers.
+
+HINTS on nomadism:
+
+> *'Build a business with the heuristic of "Maximize Jason's Vacation Time":
+Stage One: Contracting  
+Stage Two: Travelling Between Contracts  
+Stage Three: Travelling While Contracting  
+Stage Four: Software Product Business  
+Stage Five: Chillin'*
+
+
+
+---
+# Appendix D - Bonus
+
 ### On email
 
-a) Keep it under three lines, more than this call.
-
-b) Make the subject unique, meaningful and easily searchable.
-
+a) Keep it under three lines, more than this call.  
+b) Make the subject unique, meaningful and easily searchable.  
 c) Use easy-to-read formatting! Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
-
 d) Put your specific action request in the first line. A busy exec wants to touch an email once and take action: delete, respond or forward for action.
-Start with the action/request, and then explain if you need to.
-be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»
-
+Start with the action/request, and then explain if you need to. be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»  
 e) Make a single, specific, simple request – such that it’s hard  to say no.  
 The reader should be able to reply to the email in one word (ideally yes or no), or forward it on to the right person.  
 Do you have time for a 5 min call this week?  
@@ -729,7 +717,7 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On superpowers
 
-The ability to [not caring what other people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
+The ability to [not caring what most people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
 
 The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpower.
 

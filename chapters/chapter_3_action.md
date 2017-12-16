@@ -742,7 +742,7 @@ chess gambits -- exchange material by position-time.
 
 
 ---
-### On focus, time management and productivity
+### On focus, priorities and productivity
 
 'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy.  
 Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin, The Dip
@@ -772,7 +772,7 @@ First the essential. Then the details.
 > *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
 you're not perfect in everything. find your specialty.
 
-When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize. -- munger
+> *'When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize.' -- Charlie Munger*
 
 > *'Always look where you want to go, not where you don't want to go.'*
 

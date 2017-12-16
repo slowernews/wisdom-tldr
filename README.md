@@ -18,9 +18,8 @@
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
 - [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
-- [On feedback](/chapters/chapter_1_self.md#on-feedback)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
-- [On generosity and mentorship](/chapters/chapter_1_self.md#on-generosity-and-mentorship)
+- [On feedback and mentorship](/chapters/chapter_1_self.md#on-feedback-and-mentorship)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
@@ -69,7 +68,7 @@
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
 - [On pace, position and direction](/chapters/chapter_3_action.md#on-pace-position-and-direction)
-- [On focus, time management and productivity](/chapters/chapter_3_action.md#on-focus-time-management-and-productivity)
+- [On focus, priorities and productivity](/chapters/chapter_3_action.md#on-focus-priorities-and-productivity)
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
@@ -112,9 +111,10 @@
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
+- [On investment](/chapters/chapter_appendix.md#on-investment)
+- [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
 
 *Bonus*
-- [On investment](/chapters/chapter_appendix.md#on-investment)
 - [On email](/chapters/chapter_appendix.md#on-email)
 - [On types of people](/chapters/chapter_appendix.md#on-types-of-people)
 - [On superpowers](/chapters/chapter_appendix.md#on-superpowers)

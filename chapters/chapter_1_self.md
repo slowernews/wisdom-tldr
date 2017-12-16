@@ -381,6 +381,8 @@ Passion is made not found.
 > *'When life gets blurry, just adjust your focus.'*
 
 <!--
+The perpetual chase for more is not the path that leads to more freedom and happiness.
+
 Best Effort + Surrender = DESTINY
 	
 The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
@@ -1124,30 +1126,6 @@ Dig deeper. What are you doing about them today?
 
 
 ---
-### On feedback
-
-Feedback speeds up improvement.  
-But only take advice from mentors. They are the best source of feedback.
-
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
-
-> *'Find mentors to help you improve, even virtual mentors as a good book.'*
-
-> *'A coach spots your bullshit before you open your mouth.'*
-
-> *'Follow the thought leaders instead of the traffic leaders.'*
-
-<!--
-> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
-
-> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach.'*
-
-> *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
--->
-
-
-
----
 ### On achieving mastery
 
 After learning the rules, break them. Only then you can achieve mastery.  
@@ -1204,7 +1182,27 @@ HOWEVER... mastery is the main trigger of [arrogance](#on-arrogance). There's al
 
 
 ---
-### On generosity and mentorship
+### On feedback and mentorship
+
+Feedback speeds up improvement.  
+But only take advice from mentors. They are the best source of feedback.
+
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
+
+> *'Find mentors to help you improve, even virtual mentors as a good book.'*
+
+> *'A coach spots your bullshit before you open your mouth.'*
+
+> *'Follow the thought leaders instead of the traffic leaders.'*
+
+<!--
+> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
+
+> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach.'*
+
+> *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
+-->
+
 
 Be generous and share your strengths. Impact the world.
 
