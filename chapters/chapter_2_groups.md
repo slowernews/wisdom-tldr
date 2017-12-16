@@ -477,8 +477,7 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
-“You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.”
-— Ryan Holiday, The Obstacle Is the Way
+> *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
 	
 > *'Unexpressed feelings never die.'*
 > *'Releasing pressure is different from venting.'*
@@ -516,7 +515,7 @@ A great closing line: “Based on other opportunities, if you can match this (sa
 
 Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
 
-Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device. -- seth godin
+> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
 
 It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
 
@@ -575,8 +574,6 @@ Run away from mediocrity and be ready to loose people.
 > *'I won’t be less just because you cannot be more'*
 
 <!--
-> *'love is what happens to men and women that don't know each other.'*
-	
 first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
 -->
@@ -621,6 +618,10 @@ How to move on?
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 
+<!--
+> *'Love is what happens to men and women that don't know each other.'*
+-->
+
 
 
 ---
@@ -660,7 +661,7 @@ There comes a time in life when you’ll have to leave everything behind and sta
 
 Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
 
-“Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.” -- Patanjali
+> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
 
 4. Surround Yourself with People Who are Smarter than You 
 One of the first steps to becoming a more successful in all areas of your life is to surround yourself with people who are better than you in every area of life.
@@ -679,7 +680,7 @@ focus in others people sucess but pick the right people.
 
 
 ---
-### On rewards
+### On rewards and generosity
 
 Always be generous: a low value gift can have the opposite effect.
 
@@ -687,10 +688,10 @@ Always be generous: a low value gift can have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'*
 
+> *'He that gives should never remember and he that receives should never forget.'*
+
 <!--
 The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
-
-To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one
 
 power of incentives: Ignoring incentives almost never works out well
 Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
@@ -864,6 +865,8 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
 
+> *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
+
 
 
 ---
@@ -880,7 +883,7 @@ Being a leader is different from being a boss. Leadership is based on mutual [tr
 
 > *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
 
-> *'The only thing that gives orders, is balls.' -- Tony Montana*
+> *'The only thing that gives orders is balls.' -- Tony Montana*
 
 Being a leader requires to be equal parts manager and psychotherapist.
 
@@ -1092,9 +1095,6 @@ Most reviewers are only going to understand two skill levels:
 still learning the skill / confident in the skill
 
 <!--
-
-> *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
-
 people want freedom to choose their process
 
 The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.

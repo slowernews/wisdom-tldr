@@ -64,7 +64,7 @@ In executive position, visionary, maverick, multidisciplinary thinker, etc.
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
 <!--
-The mind that opens to a new idea never returns to its original size. -- Albert Einstein
+> *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
 Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
 
@@ -177,7 +177,7 @@ not playing your hand but playing your opponent.'*
 “A world constructed from the familiar is the world in which there's nothing to learn.”
 In shaping what we see, filter bubbles show us a distorted map and not the terrain
 
-"Life is understood backwards, but must be lived forwards." -- Kierkegaard
+> *'Life is understood backwards, but must be lived forwards.' -- Kierkegaard*
 
 > *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
 
@@ -190,7 +190,7 @@ Simple rules focus on the critical variables that govern a situation and help yo
 
 Yes, you should have a strong, crystal clear vision and end game, but you must be flexible about how you achieve that vision.
 
-“All models are wrong but some are useful.” -- George Box
+> *'All models are wrong but some are useful.' -- George Box*
 
 > *'You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.' -- steve jobs*
 
@@ -202,7 +202,7 @@ All actions have motives.”
 
 key variables that you need to maximize and minimize, and follow the agile path blazed by Henry Singleton (My only plan is to keep coming to work. … I like to steer the boat each day rather than plan ahead way into the future.)
 
-“I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.” -- Charlie Munger
+> *'I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.' -- Charlie Munger
 
 My first thought,” William Deresiewicz said in one of my favorite speeches, “is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.”
 
@@ -259,7 +259,7 @@ As a consequence, we tend to see more evidence which enforces our worldview. Con
 
 confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
 
-“The eye sees only what the mind is prepared to comprehend.” -- Robertson Davies
+> *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
 
 You need to search out disconfirming evidence.
 
@@ -302,13 +302,12 @@ Make the decisions right now. When in the moment of making the decision, you hav
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
 <!--
-All models are wrong, some are useful. -- George Box
 Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
 
 A model is a simplification which fosters understanding.
 the wrong way to understand models: Too literally
 
-“Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.” -- Yuval Noah Harari
+> *'Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
 
 “The basic trouble, you see, is that people think that “right” and “wrong” are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.” -- Isaac Asimov
 
@@ -316,7 +315,7 @@ Take a look at almost any comment section on the internet and you are guaranteed
 
 Occam’s razor states that the simplest solution is usually correct
 
-“The world doesn’t have the luxury of waiting for complete answers before it takes action. — Daniel Gilber
+> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber
 
 Think of mental models as minimum viable products.
 Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them.
@@ -328,7 +327,7 @@ When you construct a model you leave out all the details which you, with the kno
 
 As we know, the map is not the territory. A map can be seen as a symbol or index of a place, not an icon.
 
-“A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.” -- Alfred Korzybski
+> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
 
 mapa mental!
 
@@ -336,7 +335,7 @@ Physical maps generally become more accurate as time passes. Not long ago, they 
 
 The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge “set”.
 
-“A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.” -- Joan Robinson
+> *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
 
 Too many people are caught up wasting time on physics-like precision in areas of practical life that do not have such precision available. A better approach is to ask “Is it useful?” and, if yes, “To what extent?”
 
@@ -344,7 +343,7 @@ Mental models are a way of thinking about the world that prepares us to make goo
 
 The critical point for any innovation is the transition from the early adapters to the sceptics, for at this point there is a ‘chasm'.
 
-When enough people (a critical mass) think about and truly consider the plausibility of a concept, it becomes reality.” -- Joseph Duda
+> *'When enough people (a critical mass) think about and truly consider the plausibility of a concept, it becomes reality.' -- Joseph Duda*
 
 His hypothesis was that white families had different levels of tolerance for the number of people of racial minorities in their neighborhoods. Some white families were completely racist; others were not concerned with the race of their neighbors. As increasing numbers of racial minorities moved into neighborhoods, the most racist people would soon leave. Then a tipping point would occur — a critical mass of white people would leave until the area was populated by racial minorities. This phenomenon became known as “white flight
 
@@ -398,7 +397,7 @@ bad decisions, good memories
 
 if you do do the decision somebody will make it for you.
 
-“Hard decisions are only hard when you’re in the process of making them.” -- Debbie Millman
+> *'Hard decisions are only hard when you’re in the process of making them.' -- Debbie Millman*
 
 D: Define the problem simply.
 A: Assess the impact.
@@ -778,9 +777,9 @@ you're not perfect in everything. find your specialty.
 
 > *'Anything that does not bring me alive is too small for me.' -- David Whyte*
 
-PRACTICAL HINTS:
+HINTS:
 
-> *'a) Be fully present: learn to focus on what you are doing now;  
+a) Be fully present: learn to focus on what you are doing now;  
 b) Reduce decision making on small tasks to a minimum and do it quickly and in bulk. Too many decisions will drain you;  
 d) Do things in batch. Interruption and switching between tasks costs too much.  
 f) Focus just on 3 outcomes per day. Tackle your most important thing (MIT) first thing in the morning.  
@@ -788,7 +787,7 @@ g) Focus on doing the right things instead of doing things right. Focus on the o
 Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies.  
 h) Set specific, measurable, attainable, realistic and time-based goals.  
 i) View actions towards a goal not in terms of progress, but of commitment to the goal.  
-j) Set process goals (which help you achieve a larger goal).'*
+j) Set process goals (which help you achieve a larger goal).
 
 HOWEVER... 
 
@@ -895,7 +894,7 @@ Because the only way to truly benefit from self-improvement is to one day arrive
 
 The 80/20 Principle states that 80% of the output or results will come from 20% of the input or action.
 
-“Growth for growth’s sake is the ideology of the cancer cell.” -- Edward Abbey
+> *'Growth for growth’s sake is the ideology of the cancer cell.' -- Edward Abbey*
 
 Enough is the opposite of hunger. The counter to paranoia. The antidote to anxiety.
 
@@ -1185,6 +1184,8 @@ Starting is fun but success belongs to finishers.
 
 > *'When the end finally comes, it comes quickly.'*
 
+> *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
+
 
 
 ---
@@ -1237,8 +1238,6 @@ winning by exhaustion
 Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy's resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength.
 
 Attrition warfare is usually a last resort only. And most of the time when you win, it's only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time.
-
-“The war will be ended by the exhaustion of nations rather than the victories of armies.” -- Winston Churchill
 
 From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities.
 

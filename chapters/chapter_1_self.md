@@ -32,7 +32,7 @@ How?
 
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
 
-<a id="on-trust"></a>b) Choose integrity. It's the only way to be respected and build trust.
+b) Choose integrity. It's the only way to be respected and build trust.
 
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
@@ -80,9 +80,9 @@ you don’t live a life that is incongruent with what you want to make others ha
 You live a life of congruence where everything is in line.
 This is the pathway to true power.
 
-1 -- i approve of me.
-2 -- i am my word.
-5 -- i keep my word / i take nothing she says seriously, helps me relax.
+i approve of me.
+i am my word.
+i keep my word / i take nothing she says seriously, helps me relax.
 
 Part of being a man is being a protector.protector of everyone who comes into your life.
 Part of Being a Man is Getting Shit Done
@@ -106,7 +106,7 @@ The world responds to vulnerability, not meticulously written articles that requ
 Be raw, be real, tell people what is really going on. The more vulnerable you are, the more people will be able to relate with you and the more of an impact you will be able to have. Don’t try to be perfect. Just be real and the results will come.
 -->
 
-<a id="on-humbleness"></a>c) Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
+c) Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
 
@@ -122,7 +122,7 @@ HOWEVER... live in accordance with your nature. If you try to be something you'r
 
 > *'You’re not going to succeed at stuff you don’t want to do.' -- Mark Bittman*
 
-<a id="on-authenticity"></a>d) Choose authenticity.  
+d) Choose authenticity.  
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
 <!--
@@ -170,8 +170,9 @@ Finally, you have to be willing to put your inauthenticity aside.
 truth-a-better-way-to-talk-about-ourselves
 
 If you can’t find pleasure in the simple or the mundane, then you won’t find pleasure anywhere.
-
 -->
+
+
 
 ---
 ### On freedom
@@ -289,7 +290,7 @@ high expectations make you miserable, expectations nowadays are more and more tr
 
 No podemos elegir nuestro origen pero podemos elegir hacia donde ir
 
-“Pay every debt, as if God wrote the bill.” — Ralph Waldo Emerson
+> *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
 > *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
@@ -303,11 +304,11 @@ I’m a straight capitalist-meritocratist, entirely driven by gratitude.
 
 people are in the excuse business
 
-“Success is getting what you want. Happiness is wanting what you get.” -- Dale Carnegie
+> *'Success is getting what you want. Happiness is wanting what you get.' -- Dale Carnegie*
 
-“Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.”  ~Franklin D. Roosevelt
+> *'Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.' -- Franklin D. Roosevelt
 
-“You can’t lose everything when what you care about are the people and the memories you have.” -- Blake Mycoskie
+> *'You can’t lose everything when what you care about are the people and the memories you have.' -- Blake Mycoskie*
 
 Self-worth is how you feel about the negative aspects of yourself.
 The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
@@ -352,7 +353,6 @@ In the absence of such an outlet, masculine energy collapses. Men lose their sen
 
 > *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
 
-people are great making excuses
 be happy -> people less sucessful
 be sucessful -> people more sucessful
 -->
@@ -419,7 +419,7 @@ Allow me to share a little secret with you. This doesn’t exist.
 
 Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
 
-search for actionable steps\
+search for actionable steps
 
 When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
 
@@ -476,7 +476,7 @@ lying in death bed and regretting your life is the worst that can happen to you.
 
 play to win, not hoping to make it, or why are you doing it? committed to win
 
-“Your temporary circumstances do not have to become your permanent identity” ~Greg Hartle
+> *'Your temporary circumstances do not have to become your permanent identity' -- Greg Hartle*
 
 We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love?
 I can tell you from experience, it leaves a lot of room for change.
@@ -565,7 +565,7 @@ And it ought to be remembered that there is nothing more difficult to take in ha
 
 The risk of not changing is almost always greater than the risk of changing. Leap while you’re at the top of the curve, and the next curve builds on the momentum.
 
-“If we’re growing, we’re always going to be out of our comfort zone.” – John Maxwell
+> *'If we’re growing, we’re always going to be out of our comfort zone.' -- John Maxwell*
 
 when you control for one set of risks, another simply arises in its place.In treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
@@ -825,11 +825,11 @@ Charles Duhigg wrote in The Power of Habit:
 
 Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.
 
-“Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).”— Stephen Covey
+> *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
 
-“First we make our habits, then our habits make us.” -- Charles C. Nobel
+> *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
 
-“Pain plus reflection equals progress.” -- ray dalio
+> *'Pain plus reflection equals progress.' -- Ray Dalio*
 
 > *'Miss a meal, but don’t miss your reading.' -- Jim Rohn*
 -->
@@ -1189,11 +1189,21 @@ But only take advice from mentors. They are the best source of feedback.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
-> *'Find mentors to help you improve, even virtual mentors as a good book.'*
-
 > *'A coach spots your bullshit before you open your mouth.'*
 
 > *'Follow the thought leaders instead of the traffic leaders.'*
+
+> *'Really great people make you feel that you too can be great.' -- Mark Twain*
+
+How to find mentors?
+
+> *'Find mentors to help you improve, even virtual mentors as a good book.'*
+
+> *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
+
+> *'When looking for a mentor, look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».'*
+
+> *'Your father is your first mentor.'*
 
 <!--
 > *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
@@ -1203,8 +1213,7 @@ But only take advice from mentors. They are the best source of feedback.
 > *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
 -->
 
-
-Be generous and share your strengths. Impact the world.
+Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world.
 
 > *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
 
@@ -1218,17 +1227,9 @@ Be generous and share your strengths. Impact the world.
 
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
+> *'When you teach, you do something useful. When you do research, most days you don’t.'*
+
 <!--
-generosity: what did u do this week for somebody?
-bed time: 8.30 and i turn off the light or 9 and you have the responsability to turn off the light?
-
-kid: why do i have to do this?
-me: i was a boy myself. i know what is that for you and why is important.
-
-when looking for a mentor, look for the silver medalist. has more availability, and sometimes, a better attitude than “the golden child.” 
-	
-“Don’t follow your mentors; follow your mentors’ mentors.” -- DAVID LEACH
-
 the way of man is the way of the gang
 
 Actually, the last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people.
@@ -1236,23 +1237,14 @@ He said that what he'd learned to do was to condition whatever help he was offer
 My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work.
 There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.
 
-Really great people make you feel that you too can be great. -- Mark Twain
-
 One of the reasons why I think your uncle's gestures made such a big impact is that he made gestures that rewarded good things AND he wasn't a relative to many of the people he interacted with.
-
-“He that gives should never remember and he that receives should never forget.”
 
 Everyone has investment advice. Health advice (no “gluten!”). Money advice (“401ks!”), Education advice (“Harvard!”). Career advice (“Wall Street!”), etc.
 They are only telling you their dreams.
 
-things i say to my children: ask good questions today
-In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.
-
 But that's the point of this whole post: If you can't justify being nice for the sake of others, at least be nice for the sake of yourself. It'll work out well for others. some people are takers and lack the reflex to give.
 
 have your corner man to indicate your blindspots
-
-“When you teach, you do something useful. When you do research, most days you don’t.”
 
 If you are giving back, it’s because you’ve taken too much. -- Ricardo Semler
 
@@ -1265,39 +1257,37 @@ Be generous from a place of abundance, where you are giving because you are alre
 
 Fatherhood makes you a mentor independently of your will. Learn how to give advice.
 
-> *'I don't tell my boys them how to live. I live fully and let them see.'*
-
-> *'If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.'*
-
 > *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
-> *'All my life I was taught how to deal with failure. My dad would ask us at the dinner table every night: «how did you fail today?»' -- Sara Blakely*
-
-> *'Your father is your first mentor.'*
+> *'I don't tell my boys them how to live. I live fully and let them see.'*
 
 > *'He who can reach a child’s heart, can reach the world’s heart.' -- Rudyard Kipling*
 
+HINTS: to teach your kids.
+
+- generosity: «What did u do this week for somebody?»  
+- responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
+- improvement: «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
+- autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
+- money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
+- fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»
+- deal with failure: «How did you fail today?»
+
 <!--
-educating kids
 convenience for you vs best thing for the kid.
 ipad example. you must provide interesting activities.
-
-to combat perfectionism
 
 You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
 Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
 Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
-
-Pete and his wife pay their son for each mile he rides his bike (with interest on what he decides not to spend).
 -->
 
-HOWEVER... some people are not ready to have a mentor and accept your vision.
+HOWEVER... some people are not ready to have a mentor and accept your vision.  
+And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
 
 > *'Do not teach a starving man to fish.'*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
-
-And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
 
 > *'You give people a hand, they rip your arm out.'*
 
@@ -1325,19 +1315,18 @@ right amount of stress = hustling (stretching comfort zone)
 over-stimulation = anxiety'*
 
 <!--
-“There is no such thing as successful aging because aging is damage.” – Art De Vany
+> *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
 
 how to fight depression? starve and exercise
 
-> *'Depression is a lack of your expression.' -- Scott Steindorff
+> *'Depression is a lack of your expression.' -- Scott Steindorff*
 
 You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker
 
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 
 on placebos
-“Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference.”
-– Erik Vance
+> *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
 -->
 
 > *'If you are depressed you are living in the past.   
@@ -1529,7 +1518,7 @@ the opposite is true also
 
 you fail by the same reasons that you sometimes you will succeed
 
-Calling it an experiment gives you permission to fail. -- A.J. Jacobs
+> *'Calling it an experiment gives you permission to fail.' -- A.J. Jacobs*
 
 > *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
 
@@ -1608,15 +1597,15 @@ therapy (awareness of past) / yoga (awareness of future) / spirituality (awarene
 
 Uncovering Fear Disguised as Optimism
 
-“There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.” -- Yvon Chouinard, founder of Patagonia
+> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard, founder of Patagonia*
 
-“Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?” -- Seneca
+> *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*
 
 I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.  
 
-“Named must your fear be before banish it you can.” -- Yoda
+> *'Named must your fear be before banish it you can.' -- Yoda*
 
-“Action may not always bring happiness, but there is no happiness without action.” -- Benjamin Disraeli, former British Prime Minister
+> *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
 
 Conquering Fear = Defining Fear
 
@@ -1658,7 +1647,7 @@ Write about it: Thinking about it makes it worse. Writing about it makes it bert
 Speaking openly about an imperfection is a sign of strength, not a weakness.  
 You are not you think you are: *you are what you hide*.
 
-<!--\
+<!--
 Usually the things you hate most about yourself are the things you hide from the rest of the world.
 What I’m saying is, you gotta share that shit in order to heal it, son.
 
@@ -1742,5 +1731,5 @@ Confidence is a result, not a requirement
 confidence relies on pride
 pursue authentic pride
 
-“I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.”
+> *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
 -->

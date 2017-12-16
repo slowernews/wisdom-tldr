@@ -41,7 +41,7 @@
 - [On relationships](/chapters/chapter_2_groups.md#on-relationships)
 - [On lovers](/chapters/chapter_2_groups.md#on-lovers)
 - [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
-- [On rewards](/chapters/chapter_2_groups.md#on-rewards) 
+- [On rewards and generosity](/chapters/chapter_2_groups.md#on-rewards-and-generosity) 
 
 *On interactions: drawbacks*
 - [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)

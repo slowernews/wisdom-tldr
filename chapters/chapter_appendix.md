@@ -150,7 +150,7 @@ Genius and talent are rare, and as such, the most sensitive trigger for envy.
 ---
 ### On wealth
 
-Being rich is not counting money all day but being fulfilled.
+Being rich is being fulfilled, not counting money all day.
 
 > *'Life, is not a having and a getting, but a being and a becoming.' -- Myrna Loy*
 
@@ -181,9 +181,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 > *'Do everything in public. Other people are facing the same problems. They will identify with you and provide solutions.'  
 'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (paraphrased)*
 
-<!--
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
--->
 
 
 
@@ -215,7 +213,7 @@ HOWEVER positive results don't imply good planning..
 <!--
 Unless you’re winning, life will seem hideously unfair to you. 
 
-Coincidence is God’s way of remaining anonymous.” – Albert Einstein
+> *'Coincidence is God’s way of remaining anonymous.' -- Albert Einstein*
 
 science of patterns.
 
@@ -227,7 +225,7 @@ The best things in life are born from coincidence. I am a firm believer in this.
 
 surprises only happen when they didnt repaeat on ones lifetime
 
-“Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.” -- Ralph Waldo Emerson
+> *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
 -->
 
 
@@ -254,25 +252,32 @@ Health is also an envy trigger.
 Exercise is king. Nutrition is queen.
 water, cold, hot, cold shower
 minimum effective dose
+
+Take naps at work. Apologize to no one.
+“Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
+(follow your circadian rhythm, eat more real foods, and exercise more)
+the specifics are actually highly bio-individual.
+What works for one person will not necessarily work for another, because every body is different.
+Your body responds to substances, sleep patterns, forms of exercise, and supplementation differently from your best friend’s body which responds differently from his girlfriend’s body.
+
+Drinking alcohol borrows energy (and happiness) from tomorrow.
 -->
 
-s
+
 
 ---
 ### On lifestyle
 
-'We were designed to [walk dozens of miles each day](travel), [catch our own meals](?), [live in a close-knit tribe](friends), [have regular sex](relationships), [raise children](mentorship) and die.
+'We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), [catch our own meals](?), [live in a close-knit tribe](friends), [have regular sex](relationships), [raise children](mentorship) and die.
 When life becomes about [enjoying every second over accumulating more stuff](wealth), we are able to live lives of true abundance and joy.'
 
 'Don't be a plant: [travel](#on-travel-and-nomadism).'
 
 'Run away from complexity. Complexity doesn't add much to life.'
 
-*PRACTICAL HINTS:*
+HINTS:
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
-
-> *'Your job should be a product of your lifestyle, not the other way around'*
 
 > *'The opposite of play isn’t work, it’s depression.'*
 
@@ -284,24 +289,26 @@ When life becomes about [enjoying every second over accumulating more stuff](wea
 
 > *'Essencialism: The disciplined pursuit of less.'*
 
-*HOW TO* simplify?
+HINT: How to simplify?
 
-a) Use simpler tools.  
-b) Use it or loose it.  
-c) [Get rid of the unnecessary distractions.](focus)
-d) [Remove any obligations that aren’t truly serving your end goals](freedom)
+- Use simpler tools.  
+- Use it or loose it.  
+- [Get rid of the unnecessary distractions](focus).  
+- [Remove any obligations that aren’t truly serving your end goals](freedom).  
+- Your job should be a product of your lifestyle, not the other way around.
 
-HOWEVER:
+*HOWEVER:*
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+> *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
+	
 HINTS on the value in less and the joy of missing out:
 
-I think it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
+it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
 
-There’s also the unfortunate culture in technology that devalues everything unrelated to militant capitalism.
-If you’re not trying to make money, what are you even doing?
+the unfortunate culture in technology that devalues everything unrelated to militant capitalism. If you’re not trying to make money, what are you even doing?
 
 feel like a local celebrity: everybody knows who you are.
 you are in a city, without knowing the language, manage to go to the hostel, meet people there.
@@ -327,15 +334,6 @@ But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing t
 
 My life has been a series of questions and odd experiments.
 
-Take naps at work. Apologize to no one.
-“Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
-(follow your circadian rhythm, eat more real foods, and exercise more)
-the specifics are actually highly bio-individual.
-What works for one person will not necessarily work for another, because every body is different.
-Your body responds to substances, sleep patterns, forms of exercise, and supplementation differently from your best friend’s body which responds differently from his girlfriend’s body.
-
-Drinking alcohol borrows energy (and happiness) from tomorrow.
-
 permission to rethink
 weekly design session -- think on longer term
 reactive to proactive life
@@ -345,8 +343,6 @@ Essentialism:
 /r/buyitforlife
 
 house + work + third place (coffeeshop)
-
-How does really traveling differ from a standard vacation?
 
 Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
 -->
@@ -391,7 +387,7 @@ There are certain habits, patterns, and routines that lead to your success, and 
 
 "The successful results of evolution are organisms that aren't perfect, but 'good enough' to survive and reproduce themselves." -- 
 
-"You and I know that it isn't what a man has that constitutes wealth. No-it is to be satisfied with what one has-that is wealth." -- Mark Twain
+> *'You and I know that it isn't what a man has that constitutes wealth. No-it is to be satisfied with what one has-that is wealth.' -- Mark Twain*
 
 Succeeding means securing advantage.
 
@@ -415,7 +411,7 @@ sucess is a dangerous word. i dont know any sucessful person.
 
 sucesses keep you making the same stuff, mistakes not.
 
-“To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.”louis-lamour
+> *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
 
 > *'It’s never your identity, it’s always your strategy'*
 
@@ -469,8 +465,7 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 Mental models
 
 <!--
-Actions > Thoughts
-ACTIONS change the world. Not beliefs.
+Actions > Thoughts; Actions change the world. Not beliefs.
 
 > *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
 
@@ -482,8 +477,6 @@ i'm right -> how do i know i'm right
 radical openmindedness -> stress test your ideas
 
 Idea-meritocratic decision-making is the best decision-making
-
-idea meritocracy
 The difference between an autocratic decision maker and a democratic decision maker.
 What is believability?
 find 3 people that high expertise but that they discord and listen. take your conclusions
@@ -576,19 +569,22 @@ Spend less than you make. Stay liquid. Never invest in anything you can’t sell
 
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
-*HOW TO* spot trends?
+> *'Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.'*
+
+HINT: How to spot trends?
 
 > *'Recessions are caused when a bunch of people lose confidence all at once.'*
 
-Understand who are the buyers and the sellers and their motivations. It's very different from value investing.
+> *'I succeeded because I have a long attention span.' -- Charlie Munger*
 
+Understand who are the buyers and the sellers and their motivations. It's very different from value investing.  
 Understand that Investments are competing with each other.
-
-> *'Wherever oil goes, the stock market goes.'*
 
 HINT: How to spot good investments?
 
 > *'The best companies aren't sold, they're bought.'*
+
+> *'You’re looking for a mispriced gamble.' -- Charlie Munger*
 
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
 
@@ -603,10 +599,8 @@ HINT: How to buy low and sell high?
 > *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.' -- Charlie Munger*
 
 <!--
-14. Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.
-
-Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
-A gestão ativa traz selectividade e timing. -- Karen Kharmandarian
+> *'Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
+A gestão ativa traz selectividade e timing.' -- Karen Kharmandarian*
 
 Everything is economy. -- EF
 
@@ -615,7 +609,7 @@ deleveraging = reducing balance sheet from both sides
 For example, most of us have a basic understanding of the economics of a restaurant: You rent or buy space, spend money to outfit the place and then hire employees to seat, serve, cook, and clean. (And, if you don’t want to do it yourself, manage.)
 From there it’s a matter of generating enough traffic and setting the appropriate prices to generate a profit on the food and drinks you serve—after all of your operating expenses have been paid. Though the cuisine, atmosphere, and price points will vary by restaurant, they all have to follow the same economic formula.
 
-charlie munger:'.If you want to improve your odds of success in life and business then define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say “I don’t know.''
+> *'If you want to improve your odds of success in life and business then define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say «I don’t know».'*
 
 diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
 humility and triangulation of great people levete your probabbilities of making good decisions
@@ -623,17 +617,14 @@ humility and triangulation of great people levete your probabbilities of making 
 taking risk of the table.
 
 start with small investments till you are confortable with them. psycology is a huge factor.
-
 legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
 
 Know When to Fold Em
-“Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand-- you must learn to handle mistakes and new facts that change the odds.” Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile. -- munger
+
+> *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand-- you must learn to handle mistakes and new facts that change the odds.” Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile.' -- Charlie Munger*
 
 entrepreneurship vs investment (2 different mentalities
-“I succeeded because I have a long attention span.”
-“It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.” -- munger
-
-“You’re looking for a mispriced gamble.” -- about investing -munger
+> *'It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
 
 investment: the Barbell strategy
 -->
@@ -667,6 +658,10 @@ Stage Two: Travelling Between Contracts
 Stage Three: Travelling While Contracting  
 Stage Four: Software Product Business  
 Stage Five: Chillin'*
+
+<!--
+How does really traveling differ from a standard vacation?
+-->
 
 
 
@@ -717,7 +712,7 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On superpowers
 
-The ability to [not caring what most people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
+The ability to [not care what most people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
 
 The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpower.
 
