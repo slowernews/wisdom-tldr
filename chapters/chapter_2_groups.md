@@ -1218,6 +1218,8 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
+trade-able skills: figure out what skills you already have that you can charge for
+
 read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
 	
 ask what's your secret mission -- something you want to do here that another person is interested also\

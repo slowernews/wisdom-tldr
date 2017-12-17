@@ -794,6 +794,54 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+- Identify keystone habits (e.g. waking up early)
+	
+Schedule less time for important tasks
+Be mindful of how you spend your time.
+
+Too many options may paralize you: remove them.
+What is the next action? Leave yourself a note if you suspend working.
+Big rocks are too big: split them
+
+Paperwork: either do it, diarise it, or ditch it.
+Multitasking is not efficient for single-focused tasks.
+Get rid of technology, turn off any notification, unsubscribe.
+Protect your hours of real work.
+Separate “real hours” with breaks.
+Take advantage of early hours in the day.
+Create a concentrated environment.
+Fight Procrastination
+
+Buy yourself time. Delegate.
+
+Put first things first (surely not emails).
+Selective perfectionism
+
+20% of your effort will give you 80% of output: it may be enough, or more than enough.
+Set yourself deadlines.
+
+when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
+
+Pomodoro time
+
+“perfect is the enemy of good.”
+
+Get more time: Spend time on the right things.
+
+List highest-leverage activities (where 80% of your time should go).
+Complete at least 1 important but not urgent task per day.
+Prioritize
+Always work with a specific purpose in mind. 
+Shut off the phone when meeting w/ someone. listen
+Avoid mindless Internet surfing.
+Shut off email notifications.
+Declare an email holiday.
+Do stuff in batches.
+
+At the start of every day, define three outcomes you want to accomplish (not to-dos; actual outcomes). When you limit yourself to just three outcomes, you force yourself to prioritize and focus on what’s actually important.
+Instead of focusing on doing more things, focus on doing the right things.
+Wait a bit before sending important emails/messages
+
 b) Work by layers: functional -> perfect; 
 
 If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.

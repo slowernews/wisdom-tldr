@@ -650,107 +650,25 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'The pathway to freedom is discipline.'*
 
-HINT: how to create new habits?
+> *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
 
-- Start very small. I think one of the keys to becoming more productive is to simply make one small change at a time. The smaller the change you try to make to your life, the more likely you’ll actually make it.
+> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
 
-- Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.
+> *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
 
-- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits.
+HINTS: how to create new habits?
 
-- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.
-
-- Small Steps Beat Big Dreams, get accountable
+- Small Steps Beat Big Dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
+- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
+- get accountable: Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.  
+- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
+- Focus on the costs of bad habits.
 
 HINTS:
 
-- Cultivate high leverage systems: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, listen music, create, network and make friends, massaging, spending time w/ friends & family, journal, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap
-
-- Avoid low leverage systems: social media, news, pointless notifications, smartphones, owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..
-
+- Cultivate high leverage habits: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
+- Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
 - Mental checklist of positive habits.
-
-<!--
-Keep a journal, record your thoughts, learn what’s happening with you. We get 3-4 thoughts a year that would change our life if we acted on them.” – Les Brown
-Why You Should Record Your Conversations with Strangers
-
-List highest-leverage activities (where 80% of your time should go).
-Complete at least 1 important but not urgent task per day.
-
-Prioritize
-
-Always work with a specific purpose in mind. 
-
-How to creat habits?
-- Identify keystone habits (e.g. waking up early)
-- Anticipate obstacles to new habits.
-- Reward yourself to solidify new habits.
-- Focus on the costs of bad habits.
-Schedule less time for important tasks
-Be mindful of how you spend your time.
-
-Shut off the phone when meeting w/ someone. listen
-Avoid mindless Internet surfing.
-Shut off email notifications.
-Declare an email holiday.
-Do stuff in batches.
-
-Calculate your “Biological Prime Time”
-
-99. See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
-
-smile, use the power of colors
-
-79. At the start of every day, define three outcomes you want to accomplish (not to-dos; actual outcomes). When you limit yourself to just three outcomes, you force yourself to prioritize and focus on what’s actually important.
-Instead of focusing on doing more things, focus on doing the right things.
-Wait a bit before sending important emails/messages
-
-Get more time: Spend time on the right things.
-
-when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
-
-Pomodoro time
-
-“perfect is the enemy of good.”
-
-Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom.
-
-Ask yourself for advice.
-Life as 7 hotspots: mind, body, emotions, career, finances, relationships, fun.
-
-2. A FEW BAD HABITS CAN DERAIL ALL GOOD HABITS
-– don’t feel sorry for themselves
-– don’t host a pity party
-– don’t look for sympathy
-
-more mindful -> meditation
-
-Learn how to say no, or not to say yes
-
-Buy yourself time. Delegate.
-
-Put first things first (surely not emails).
-Selective perfectionism
-
-20% of your effort will give you 80% of output: it may be enough, or more than enough.
-Set yourself deadlines.
-
-Too many options may paralize you: remove them.
-What is the next action? Leave yourself a note if you suspend working.
-Big rocks are too big: split them
-
-Take micro/nano steps at a time.
-Minimize interruptions
-
-Paperwork: either do it, diarise it, or ditch it.
-Multitasking is not efficient for single-focused tasks.
-Get rid of technology, turn off any notification, unsubscribe.
-Protect your hours of real work.
-Separate “real hours” with breaks.
-Take advantage of early hours in the day.
-Create a concentrated environment.
-Fight Procrastination
--->
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
 
@@ -761,7 +679,22 @@ Fight Procrastination
 HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
-> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
+Why You Should Record Your Conversations with Strangers
+
+Calculate your “Biological Prime Time”
+
+99. See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
+
+Ask yourself for advice.
+
+2. A FEW BAD HABITS CAN DERAIL ALL GOOD HABITS
+– don’t feel sorry for themselves
+– don’t host a pity party
+– don’t look for sympathy
+
+more mindful -> meditation
+
+Learn how to say no, or not to say yes
 
 Study successful individuals and you will start to notice patterns that they all follow.
 Most of them wake up early, work on a clear schedule, exercise daily, and give 10% of their income to charities.
@@ -813,15 +746,10 @@ Habits are easy to complete.
 Habits are for life.
 Habits can compound.
 Habits can be as small as necessary
-
 Nothing will change your future trajectory like habits
 
 Charles Duhigg wrote in The Power of Habit:
 Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.
-
-> *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
-
-> *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
 
 > *'Pain plus reflection equals progress.' -- Ray Dalio*
 
@@ -840,6 +768,8 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+effort * talent = skill
+
 > *'Don't major on minor things.'* ->  applied focus
 
 fastest way to learn is to teach.
@@ -1086,10 +1016,9 @@ If you’re not getting better today, you’re getting worse.”
 Self awareness reduces the gap between who we are and who we think we are.  
 As this gap grows it becomes harder to prevent and solve problems.
 
-HOW TO: stay open-minded?
+HINT: How to stay open-minded?
 
-- Understanding: Closed-minded people focus much more on being understood than on understanding others. They don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views.
-
+- Understanding: Closed-minded people focus much more on being understood than on understanding others. They don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views.  
 - Statements vs. Questions: Closed-minded people are more likely to make statements than ask questions. Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.
 
 How do i know i'm right? Do you know anyone who doesn’t have any blind spots? I strongly doubt it.
@@ -1125,53 +1054,43 @@ Dig deeper. What are you doing about them today?
 After learning the rules, break them. Only then you can achieve mastery.  
 But the path to mastery is a never ending story: skills are perishable.
 
-<!--
-some of the skills that you need to achive expertise are not yet systemised/conscientent
-
-If you can’t explain something in simple terms, you don’t understand it.
-What I cannot create, I do not understand.
-	
-effort * talent = skill
-
-trade-able skills: figure out what skills you already have that you can charge for
-
-“The person who says he knows what he thinks but cannot express it usually does not know what he thinks.” -- Mortimer Adler
-
-teach something to a toddler to learn stuff
-
-the most credible people in any field are the people who have lived what they are preaching.
-Stop Hacking and do the work
-
-amateurs play for tricks, masters play for position
--->
-
 > *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back' -- James Altucher*
 
-> *'An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.' -- Werner Heisenberg*
+> *'An expert is someone who knows some of the worst mistakes that can be made in his subject and how to avoid them.' -- Werner Heisenberg*
 
-> *'Masters are able to ask the kinds of simple questions that most people pass over.'*
+> *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
+
+> *'The person who says he knows what he thinks but cannot express it usually does not know what he thinks.' -- Mortimer Adler*
 
 > *'The master has failed more times than the beginner has ever tried.' -- Stephen McCraine*
+
+> *'Masters are able to ask the kinds of simple questions that most people pass over.'-- Robert Greene*
 
 > *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.' -- Robert Greene*
 
 > *'The master’s tools will never dismantle the master’s house.' -- Audre Lorde*
 
-> *'You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.'*
-
 > *'If you aren’t growing you’re dying.' -- Tony Robbins*
-
-> *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our training.' -- Archilochus*
 
-HOWEVER... mastery is the main trigger of [arrogance](#on-arrogance). There's always room for improvement: be [humble](#on-humbleness).
+HOWEVER... mastery is the main trigger of arrogance. There's always room for improvement: be humble.  
+You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
-> *'How often our early triumphs turn us into a kind of caricature of ourselves.'*
+> *'How often our early triumphs turn us into a kind of caricature of ourselves.'  
+'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
 
-> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.'*
+<!--
+Some of the skills that you need to achieve expertise were not yet systemised.
+
+If you can’t explain something in simple terms, you don’t understand it.
+What I cannot create, I do not understand.
+teach something to a toddler to learn stuff
+
+amateurs play for tricks, masters play for position
+-->
 
 
 
@@ -1189,7 +1108,7 @@ But only take advice from mentors. They are the best source of feedback.
 
 > *'Really great people make you feel that you too can be great.' -- Mark Twain*
 
-How to find mentors?
+HINT: How to find mentors?
 
 > *'Find mentors to help you improve, even virtual mentors as a good book.'*
 
@@ -1257,15 +1176,16 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 
 > *'He who can reach a child’s heart, can reach the world’s heart.' -- Rudyard Kipling*
 
-HINTS: to teach your kids.
+HINTS: How to teach your kids...
 
 - generosity: «What did u do this week for somebody?»  
 - responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
-- improvement: «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
+- self improvement: «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
 - autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
 - money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
-- fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»
-- deal with failure: «How did you fail today?»
+- fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
+- deal with failure: «How did you fail today?»  
+- optimism: «You have the gift of today.»
 
 <!--
 convenience for you vs best thing for the kid.
@@ -1301,27 +1221,13 @@ HOWEVER... the origin of most health problems is not physical but mental.
 
 > *'Action cures everything. Plain and simple.'*
 
+HINT: What is stress?  
 Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  
 The more relaxed you are, the better you are at everything.
 
 > *'Under-stimulation = boredom   
 right amount of stress = hustling (stretching comfort zone)   
 over-stimulation = anxiety'*
-
-<!--
-> *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
-
-how to fight depression? starve and exercise
-
-> *'Depression is a lack of your expression.' -- Scott Steindorff*
-
-You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker
-
-- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-
-on placebos
-> *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
--->
 
 > *'If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
@@ -1333,33 +1239,52 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Anxiety and depression are symptoms, not diseases.'*
 
+> *'Depression is a lack of your expression.' -- Scott Steindorff*
+
 > *'Worry is a misuse of the imagination.'*
 
 > *'Stress is caused by giving a fuck.'*
 
-> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
-
-> *'If you are feeling stressed out.. breathe.'*
-
 > *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
+
+> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
 
 > *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
 
-> *'I've decided to be happy because it is good to my health.'*
-
 > *'If I knew I was going to live this long, I would have taken better care of myself.' -- Mickey Mantle*
 
-<!-- 
-You can’t perform under pain, stress, etc. without adequate capacity. That capacity is physical.
-
-You mind is a made of physical things. Neurons, chemicals, electricity. Your physical state, capacity for physical stress, sleep, diet, experiences, determine the bulk of your mental state. Do not rely upon cognition to make change. Behavior and the physical world are your key to changing affect and cognition. Your mental performance IS physical performance.
-
-> *'Balance on body training = flexibility (yoga or animal movements) + strength (weights)'*
+HINT: How to fight depression? Starve and exercise. When sick, move!
 
 > *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
 
-intermittent fasting
-napping
+> *'If you are feeling stressed out.. breathe.'*
+
+> *'Get out of yourself and go make something for somebody else.'*
+
+> *'I've decided to be happy because it is good to my health.'*
+
+> *'Forgiving yourself is not a nice to have, but a must have.' -- Tim Ferriss*
+
+HINTS: keeping health
+
+- If you need an alarm clock to get you started mornings, you are cheating yourself on rest.
+- intermittent fasting
+- napping
+- Balance on body training = flexibility (yoga or animal movements) + strength (weights)'*
+
+<!--
+> *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
+
+You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker
+
+- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+
+on placebos
+> *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
+
+You can’t perform under pain, stress, etc. without adequate capacity. That capacity is physical.
+
+You mind is a made of physical things. Neurons, chemicals, electricity. Your physical state, capacity for physical stress, sleep, diet, experiences, determine the bulk of your mental state. Do not rely upon cognition to make change. Behavior and the physical world are your key to changing affect and cognition. Your mental performance IS physical performance.
 
 When most people are struggling with pain, they fail to realize that often times, their pain is caused by a mental or emotional problem and not a physical problem. This could stem from a childhood trauma, a tragic event, or simply a personal insecurity.
 Reframe Your Pain and Become Grateful 
@@ -1367,20 +1292,9 @@ The simple truth is, it is hard to be in pain when you are in a state of gratitu
 
 If you feel powerless/being dominated you will be chronically stressed.
 
-If you need an alarm clock to get you started mornings, you are cheating yourself on rest.
-
-escape depression -> get out of yourself and go make something for somebody else.
-
-when sick, move!
-
 exercise diminishes need of control. people burn extra calories through anxiety
 streessed out by being under estimulated, people will create streeses trying to estimulate themselves.
 Our bodies were built to hunt and gather and move. Humans aren’t meant to stay still.
-
-SMARTPHONES ARE THE NEW CIGARETTES
-“Is there really nothing in your life that can’t wait 30 minutes? Or are you curing cancer or something?”
-I was pissed. But fuck them. I felt like I was in the right, that I was saying what pretty much everyone else in the room was silently thinking
-Their inability to focus interferes with our (already-fragile) ability to focus.
 -->
 
 
@@ -1438,6 +1352,10 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
 > *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
 
+> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
+
+> *'Hatred is born of ignorance. Fear is its father, and isolation is its mother.' -- Christian Picciolini*
+
 Anger and excuses are fear clothed. All excuses are refutable.
 
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
@@ -1449,29 +1367,22 @@ People will do anything, no matter how absurd, in order to avoid facing their ow
 
 > *'You'll never be as young as you are today.'*
 
+> *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
+
 <!--
- Fear-Setting
+I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
 “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
 
 “Fear is the mind eater”
 
-Reframe Fears as Fiction
-In AA, they define fear as “False evidence appearing real”.\
+Reframe Fears as Fiction. In AA, they define fear as “False evidence appearing real”.\
 
-Be careful not to let fear paralyze you either.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
 
-> *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
-
-Break Down Your Fears Until You Figure Out the Truth
-we stuck in the fear of consequences
+Break Down Your Fears Until You Figure Out the Truth. we stuck in the fear of consequences
 you will never achieve anything if you allow indecisiveness to lead to inaction.
 
-> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
-
-> *'Hatred is born of ignorance. Fear is its father, and isolation is its mother.' -- Christian Picciolini*
-
-Someone else’s strengths don’t make you look bad—but being jealous and insecure does.
+Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 -->
 
 
@@ -1504,6 +1415,12 @@ Sometimes you win, sometimes you learn. Accept failure as part of the process.
 
 > *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
 
+> *'Calling it an experiment gives you permission to fail.' -- A.J. Jacobs*
+
+> *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
+
+> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
+
 <!--
 Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 
@@ -1511,10 +1428,6 @@ failures are flip-sides of our strengths
 the opposite is true also
 
 you fail by the same reasons that you sometimes you will succeed
-
-> *'Calling it an experiment gives you permission to fail.' -- A.J. Jacobs*
-
-> *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
 
 Trauma is a tattoo on the soul.
 When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it.
@@ -1537,8 +1450,6 @@ It might sound selfish or egotistic, but the simple fact of the matter is that y
 
 > *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
-> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
-
 > *'If you want to lift yourself up, lift up someone else.' -- Booker T. Washington*
 
 > *'People do not die from suicide. they die from sadness.'*
@@ -1559,8 +1470,6 @@ All in all, just keep it simple. Don’t try to complicate the situation. Focus 
 Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
 
 every difficulty carries with it a corresponding opportunity of equal size.
-
-> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
 Have a little arrogance to step in!
 
@@ -1591,11 +1500,9 @@ therapy (awareness of past) / yoga (awareness of future) / spirituality (awarene
 
 Uncovering Fear Disguised as Optimism
 
-> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard, founder of Patagonia*
+> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 
-> *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*
-
-I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.  
+> *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*  
 
 > *'Named must your fear be before banish it you can.' -- Yoda*
 
@@ -1630,7 +1537,7 @@ Corollary: Stand next to the smartest person in the room.
 
 Nothing is gained by worrying about "not knowing".
 
-Write about it: Thinking about it makes it worse. Writing about it makes it bertte.
+Write about it: Thinking about it makes it worse. Writing about it makes it better.
 -->
 
 

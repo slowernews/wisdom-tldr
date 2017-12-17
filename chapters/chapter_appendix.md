@@ -277,6 +277,8 @@ When life becomes about [enjoying every second over accumulating more stuff](wea
 
 HINTS:
 
+> *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
+
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
 > *'The opposite of play isn’t work, it’s depression.'*
@@ -303,9 +305,7 @@ HINT: How to simplify?
 
 <!--
 Work no more than 35 hours a week.
-	
-> *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
-	
+
 HINTS on the value in less and the joy of missing out:
 
 it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
@@ -322,9 +322,7 @@ Don't play the government’s game. Instead, create a game that worked by my rul
 
 “the paradise tax”
 
-_meaning_
-
-I quickly realized that I had to find another way to derive meaning from my life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
+_meaning_ I quickly realized that I had to find another way to derive meaning from my life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
 
 That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
 
@@ -460,17 +458,18 @@ Beliefs lag behind reality.
 But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 
+Actions > Thoughts; Actions change the world. Not beliefs.
+
 > *'The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.' -- F. Scott Fitzgerald*
 
 > *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
 
-Mental models
-
-<!--
-Actions > Thoughts; Actions change the world. Not beliefs.
+> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
 
 > *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
 
+<!--
+Mental models
 If you don't understand the limitations of the model, you don't understand the model.
 
 a fundamentalist gives answers, a scholar gives questions
@@ -532,8 +531,6 @@ find 3 people that high expertise but that they discord and listen. take your co
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.'*
-
-The more ‘art’ you allow in to your photography the less commercial success you’ll have. People don’t want ‘art’ they want entertainment.
 -->
 
 
@@ -552,6 +549,8 @@ That's where «big bucks» are.
 
 <!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
+
+The more ‘art’ you allow in to your photography the less commercial success you’ll have. People don’t want ‘art’ they want entertainment.
 -->
 
 
@@ -584,13 +583,12 @@ Understand that Investments are competing with each other.
 
 HINT: How to spot good investments?
 
-> *'The best companies aren't sold, they're bought.'*
-
-> *'You’re looking for a mispriced gamble.' -- Charlie Munger*
+> *'You’re looking for a mispriced gamble.'  
+'You should remember that good ideas are rare. When the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
 
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
 
-> *'You should remember that good ideas are rare -- when the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
+> *'The best companies aren't sold, they're bought.'*
 
 > *'What's your religion? Arbitrage and rents.' -- EF*
 
@@ -598,7 +596,14 @@ HINT: How to buy low and sell high?
 
 > *'Don’t buy on future hopes; only buy on past mistakes.'*
 
-> *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.' -- Charlie Munger*
+> *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.'  
+'It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
+
+HINT: When to fold them?
+
+> *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds. Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile.' -- Charlie Munger*
+
+HINT: Barbell strategy
 
 <!--
 > *'Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
@@ -607,9 +612,6 @@ A gestão ativa traz selectividade e timing.' -- Karen Kharmandarian*
 Everything is economy. -- EF
 
 deleveraging = reducing balance sheet from both sides
-
-For example, most of us have a basic understanding of the economics of a restaurant: You rent or buy space, spend money to outfit the place and then hire employees to seat, serve, cook, and clean. (And, if you don’t want to do it yourself, manage.)
-From there it’s a matter of generating enough traffic and setting the appropriate prices to generate a profit on the food and drinks you serve—after all of your operating expenses have been paid. Though the cuisine, atmosphere, and price points will vary by restaurant, they all have to follow the same economic formula.
 
 > *'If you want to improve your odds of success in life and business then define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say «I don’t know».'*
 
@@ -621,14 +623,7 @@ taking risk of the table.
 start with small investments till you are confortable with them. psycology is a huge factor.
 legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
 
-Know When to Fold Em
-
-> *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand-- you must learn to handle mistakes and new facts that change the odds.” Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile.' -- Charlie Munger*
-
 entrepreneurship vs investment (2 different mentalities
-> *'It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
-
-investment: the Barbell strategy
 -->
 
 
@@ -647,7 +642,7 @@ HINTS on travel:
 - People who schedule their free time are happier but think less about getting the most for your buck and more about who you’re going with.
 And how long should your vacation be? Research says aim for 3 to 6 days. Frequency beats intensity. People have a cultural memory of travelling as expensive but it's not.  
 - Travel solves a plethora of self-improvement goals in one fell swoop. Travellers grow in different ways other than careers.  
-- Travelling is getting under the skin of the place.  
+- How does really traveling differ from a standard vacation? Travelling is getting under the skin of the place.  
 - Travellers are the best money managers.
 
 HINTS on nomadism:
@@ -659,10 +654,6 @@ Stage Three: Travelling While Contracting
 Stage Four: Software Product Business  
 Stage Five: Chillin'*
 
-<!--
-How does really traveling differ from a standard vacation?
--->
-
 
 
 ---
@@ -670,12 +661,12 @@ How does really traveling differ from a standard vacation?
 
 ### On email
 
-a) Keep it under three lines, more than this call.  
-b) Make the subject unique, meaningful and easily searchable.  
-c) Use easy-to-read formatting! Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
-d) Put your specific action request in the first line. A busy exec wants to touch an email once and take action: delete, respond or forward for action.
+- Keep it under three lines, more than this call.  
+- Make the subject unique, meaningful and easily searchable.  
+- Use easy-to-read formatting! Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.  
+- Put your specific action request in the first line. A busy exec wants to touch an email once and take action: delete, respond or forward for action.
 Start with the action/request, and then explain if you need to. be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»  
-e) Make a single, specific, simple request – such that it’s hard  to say no.  
+- Make a single, specific, simple request – such that it’s hard  to say no.  
 The reader should be able to reply to the email in one word (ideally yes or no), or forward it on to the right person.  
 Do you have time for a 5 min call this week?  
 Please review and sign this document.  
