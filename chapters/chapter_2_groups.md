@@ -113,11 +113,11 @@ to rude people:
 
 HINTS:
 
-a) Treat new aquaintances as old friends.
+- Treat new aquaintances as old friends.
 
 > *'Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real'*
 
-b) «Rescue people instead of «cold calling». Include people to gain allies.
+- «Rescue people instead of «cold calling». Include people to gain allies.
 
 Pro Tip: Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
 
@@ -275,22 +275,22 @@ Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
 
 HINTS:
 
-a) Focus on revenue generating activities. If it is not going to earn you money, then don’t do it.
+- Focus on revenue generating activities. If it is not going to earn you money, then don’t do it.
 
-b) You only have to be really right once. History is filled with examples of people like this.
-- Mark Zuckerberg thought that facebook was going to be a college directory and that was it.
-- Bill Gates didn’t think the Internet had any potential. Seriously.
+- You only have to be really right once. History is filled with examples of people like this.
+Mark Zuckerberg thought that facebook was going to be a college directory and that was it.
+Bill Gates didn’t think the Internet had any potential. Seriously.
 They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.
 
-c) It’s easier when YOU are the customer. You truly understand the problem.
+- It’s easier when YOU are the customer. You truly understand the problem.
 
-d) If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP
+- If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP
 
-e) Create a culture that rewards killing ideas. kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something. We save a lot of money when we kill a bad idea.
+- Create a culture that rewards killing ideas. kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something. We save a lot of money when we kill a bad idea.
 
-f) Equity unlocks human potential. When people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.
+- Equity unlocks human potential. When people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.
 
-g) TIMING is the most important factor in startup success. Team and Execution came next.
+- TIMING is the most important factor in startup success. Team and Execution came next.
 “You really need to look at the signals and be honest about what they are telling you. Go out to market – test if people want your product. If there aren’t enough people, hoard money and conserve momentum.”
 
 
@@ -1182,7 +1182,7 @@ How to «pivot» career?
 
 Cultivate a relevant skill stack. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
 
-a) be aware of it, b) cultivate it consciously, and c) apply it in pursuit of a personal goal.
+- be aware of it, b) cultivate it consciously, and c) apply it in pursuit of a personal goal.
 
 > *1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
 write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.<br>
@@ -1190,18 +1190,18 @@ write a pitch, are u persuasive, can you change somebody else opinion. making a 
 3) take risks to boost your immune system.*
 
 pivoting?
-1) Pivoting isn’t easy, even if you know it’s right.
-2) Pivoting is a mindset.
-3) You will either pivot or get pivoted. -> everything is changing all the time
-4) Changes are usually for the best.
-5) You don’t have to be a “brand” to be discoverable. -- just add value!
+- Pivoting isn’t easy, even if you know it’s right.  
+- Pivoting is a mindset.  
+- You will either pivot or get pivoted. -> everything is changing all the time  
+- Changes are usually for the best.  
+- You don’t have to be a “brand” to be discoverable. -- just add value!
 
 > *'People pivot combining two skills.. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
 
 How to advance career? knowledge + metaknowledge (don't ask, journal higher hierarchy than you)
 
-1. Become the best at one specific thing.
-2. Become very good (top 25%) at two or more things.
+- Become the best at one specific thing.  
+- Become very good (top 25%) at two or more things.
 
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 

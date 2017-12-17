@@ -10,9 +10,8 @@
 
 ### On identity
 
-You are your deeds. Your actions reveal your real values.
-
-> *'How you do anything is how you do everything.'*
+You are your deeds. Your actions reveal your real values.  
+How you do anything is how you do everything.
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
@@ -364,7 +363,7 @@ be sucessful -> people more sucessful
 
 ### On finding a path
 
-Cancel your pity party. No one is coming to save you.  
+Cancel your pity party, no one is coming to save you.  
 Pull yourself together and take total ownership for everything in your life.  
 Passion is made not found.
 
@@ -450,10 +449,9 @@ Step 3: Use envy
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
+DO THE WORK
 > *'Work until your idols become your rivals.'*
-
 > *'Work hard in silence. Let your silence be your noise.'*
-
 > *'How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.' -- Allen Tucker*
 
 HOWEVER... don't be thirsty: the [journey](#on-gratefulness-and-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
@@ -642,7 +640,9 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
-Will Durant “You are what you repeatedly do, excellence, therefore, is not an action, but a habit“.
+> *'Continuous effort -- not strength or intelligence -- is the key to unlocking our potential.' -- Winston Churchill*
+
+> *'You are what you repeatedly do, excellence, therefore, is not an action, but a habit' -- Will Durant*
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
@@ -650,8 +650,25 @@ Will Durant “You are what you repeatedly do, excellence, therefore, is not an 
 
 > *'The pathway to freedom is discipline.'*
 
-Cultivate high leverage systems: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, listen music, create, network and make friends, massaging, spending time w/ friends & family, journal, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap
-Avoid low leverage systems: social media, news, pointless notifications, smartphones, owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..
+HINT: how to create new habits?
+
+- Start very small. I think one of the keys to becoming more productive is to simply make one small change at a time. The smaller the change you try to make to your life, the more likely you’ll actually make it.
+
+- Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.
+
+- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits.
+
+- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.
+
+- Small Steps Beat Big Dreams, get accountable
+
+HINTS:
+
+- Cultivate high leverage systems: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, listen music, create, network and make friends, massaging, spending time w/ friends & family, journal, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap
+
+- Avoid low leverage systems: social media, news, pointless notifications, smartphones, owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..
+
+- Mental checklist of positive habits.
 
 <!--
 Keep a journal, record your thoughts, learn what’s happening with you. We get 3-4 thoughts a year that would change our life if we acted on them.” – Les Brown
@@ -680,18 +697,9 @@ Do stuff in batches.
 
 Calculate your “Biological Prime Time”
 
-95. Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits.
-
-96. Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.
-
 99. See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
 
-smile
-use the power of colors
-
-Start very small. I think one of the keys to becoming more productive is to simply make one small change at a time. The smaller the change you try to make to your life, the more likely you’ll actually make it.
-
-94. Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.
+smile, use the power of colors
 
 79. At the start of every day, define three outcomes you want to accomplish (not to-dos; actual outcomes). When you limit yourself to just three outcomes, you force yourself to prioritize and focus on what’s actually important.
 Instead of focusing on doing more things, focus on doing the right things.
@@ -700,8 +708,6 @@ Wait a bit before sending important emails/messages
 Get more time: Spend time on the right things.
 
 when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
-
-Work no more than 35 hours a week.
 
 Pomodoro time
 
@@ -713,7 +719,6 @@ Ask yourself for advice.
 Life as 7 hotspots: mind, body, emotions, career, finances, relationships, fun.
 
 2. A FEW BAD HABITS CAN DERAIL ALL GOOD HABITS
-some bad habits:
 – don’t feel sorry for themselves
 – don’t host a pity party
 – don’t look for sympathy
@@ -722,8 +727,7 @@ more mindful -> meditation
 
 Learn how to say no, or not to say yes
 
-Buy yourself time.
-Delegate.
+Buy yourself time. Delegate.
 
 Put first things first (surely not emails).
 Selective perfectionism
@@ -746,8 +750,6 @@ Separate “real hours” with breaks.
 Take advantage of early hours in the day.
 Create a concentrated environment.
 Fight Procrastination
-
-> *'Continuous effort -- not strength or intelligence -- is the key to unlocking our potential.' -- Winston Churchill*
 -->
 
 > *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
@@ -755,8 +757,6 @@ Fight Procrastination
 > *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.' -- Allen Tucker*
 
 > *'It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
-
-HINT: Mental checklist of positive habits.
 
 HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
@@ -782,12 +782,12 @@ b. One new thing: learn at least one new thing everyday. Read, watch a documenta
 c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 d. Gratitude
 
-when you wake up, ensure that your morning is run by systems instead of feelings.
-
 don't focus in productivity.
 productivity coach vs creativity coach.
 i hired a 23 year old coach.
 optimize for time and peace of mind.
+
+when you wake up, ensure that your morning is run by systems instead of feelings.
 
 goals and systems
 
@@ -814,15 +814,9 @@ Habits are for life.
 Habits can compound.
 Habits can be as small as necessary
 
-creation of habits:
-
-1. Small Steps Beat Big Dreams
-get accountable
-
 Nothing will change your future trajectory like habits
 
 Charles Duhigg wrote in The Power of Habit:
-
 Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.
 
 > *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
@@ -1094,9 +1088,9 @@ As this gap grows it becomes harder to prevent and solve problems.
 
 HOW TO: stay open-minded?
 
-a) Understanding: Closed-minded people focus much more on being understood than on understanding others. They don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views.
+- Understanding: Closed-minded people focus much more on being understood than on understanding others. They don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views.
 
-b) Statements vs. Questions: Closed-minded people are more likely to make statements than ask questions. Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.
+- Statements vs. Questions: Closed-minded people are more likely to make statements than ask questions. Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.
 
 How do i know i'm right? Do you know anyone who doesn’t have any blind spots? I strongly doubt it.
 Then why would you be any different? Curious as to why the other person disagrees.

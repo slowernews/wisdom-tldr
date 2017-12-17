@@ -302,6 +302,8 @@ HINT: How to simplify?
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+Work no more than 35 hours a week.
+	
 > *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
 	
 HINTS on the value in less and the joy of missing out:
@@ -642,13 +644,11 @@ Travel is the only thing you buy that makes you richer. Traveling as mini lifes.
 
 HINTS on travel:
 
-a) People who schedule their free time are happier but think less about getting the most for your buck and more about who you’re going with.
-And how long should your vacation be? Research says aim for 3 to 6 days. Frequency beats intensity. People have a cultural memory of travelling as expensive but it's not.
-
-b) Travel solves a plethora of self-improvement goals in one fell swoop. Travellers grow in different ways other than careers.
-
-c) Travelling is getting under the skin of the place.
-travellers are the best money managers.
+- People who schedule their free time are happier but think less about getting the most for your buck and more about who you’re going with.
+And how long should your vacation be? Research says aim for 3 to 6 days. Frequency beats intensity. People have a cultural memory of travelling as expensive but it's not.  
+- Travel solves a plethora of self-improvement goals in one fell swoop. Travellers grow in different ways other than careers.  
+- Travelling is getting under the skin of the place.  
+- Travellers are the best money managers.
 
 HINTS on nomadism:
 

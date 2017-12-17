@@ -779,15 +779,15 @@ you're not perfect in everything. find your specialty.
 
 HINTS:
 
-a) Be fully present: learn to focus on what you are doing now;  
-b) Reduce decision making on small tasks to a minimum and do it quickly and in bulk. Too many decisions will drain you;  
-d) Do things in batch. Interruption and switching between tasks costs too much.  
-f) Focus just on 3 outcomes per day. Tackle your most important thing (MIT) first thing in the morning.  
-g) Focus on doing the right things instead of doing things right. Focus on the one thing most likely to get maximum results. Forget everything else.  
+- Be fully present: learn to focus on what you are doing now;  
+- Reduce decision making on small tasks to a minimum and do it quickly and in bulk. Too many decisions will drain you;  
+- Do things in batch. Interruption and switching between tasks costs too much.  
+- Focus just on 3 outcomes per day. Tackle your most important thing (MIT) first thing in the morning.  
+- Focus on doing the right things instead of doing things right. Focus on the one thing most likely to get maximum results. Forget everything else.  
 Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies.  
-h) Set specific, measurable, attainable, realistic and time-based goals.  
-i) View actions towards a goal not in terms of progress, but of commitment to the goal.  
-j) Set process goals (which help you achieve a larger goal).
+- Set specific, measurable, attainable, realistic and time-based goals.  
+- View actions towards a goal not in terms of progress, but of commitment to the goal.  
+- Set process goals (which help you achieve a larger goal).
 
 HOWEVER... 
 
