@@ -10,16 +10,10 @@
 
 ### On identity
 
-You are your deeds. Your actions reveal your real values.  
+You are your deeds: your actions reveal your real values.  
 How you do anything is how you do everything.
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
-
-> *'Words are deeds.' -- Ludwig Wittgenstein*
-
-> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
-
-You are your choices.
 
 a) Choose to come alive. Is succeeding at mediocrity a worthwhile life?
 
@@ -44,6 +38,12 @@ b) Choose integrity. It's the only way to be respected and build trust.
 > *'Seek respect, not attention. It lasts longer.'*
 
 <!--
+You are your choices.
+	
+> *'Words are deeds.' -- Ludwig Wittgenstein*
+
+> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
+
 28. Always remain diligent
 Have no careless Days. Fate loves to play tricks, and will heap up chances to catch us unawares. Our intelligence, prudence, and courage, even our beauty, must always be ready for trial. For their day of careless trust will be that of their discredit. Care always fails just when it was most wanted.
 	
@@ -255,7 +255,7 @@ Seek happiness actively (action) and passively (lower expectations). Derived fro
 
 > *'Happiness is inside you, not with another person.'*
 
-How to improve reality? Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
+HINT: How to improve reality? Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
@@ -267,7 +267,7 @@ How to improve reality? Act, be patient and break long term goals into smaller o
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 
-How to lower your expectations? Be grateful.
+HINT: How to lower your expectations? Be grateful.
 
 > *'Being grateful is looking down.'*
 
@@ -1108,6 +1108,8 @@ But only take advice from mentors. They are the best source of feedback.
 
 > *'Really great people make you feel that you too can be great.' -- Mark Twain*
 
+> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
+
 HINT: How to find mentors?
 
 > *'Find mentors to help you improve, even virtual mentors as a good book.'*
@@ -1174,8 +1176,6 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 
 > *'I don't tell my boys them how to live. I live fully and let them see.'*
 
-> *'He who can reach a child’s heart, can reach the world’s heart.' -- Rudyard Kipling*
-
 HINTS: How to teach your kids...
 
 - generosity: «What did u do this week for somebody?»  
@@ -1237,21 +1237,16 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
-> *'Anxiety and depression are symptoms, not diseases.'*
+HINT: What is depression?  
+Depression is a lack of your expression.  
+Anxiety and depression are symptoms, not diseases.
+If you feel powerless/being dominated you will be chronically stressed.
 
-> *'Depression is a lack of your expression.' -- Scott Steindorff*
+> *'Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination.'*
 
-> *'Worry is a misuse of the imagination.'*
-
-> *'Stress is caused by giving a fuck.'*
-
-> *'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.'*
+> *'Nothing is gained by worrying about "not knowing"'*
 
 > *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
-
-> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
-
-> *'If I knew I was going to live this long, I would have taken better care of myself.' -- Mickey Mantle*
 
 HINT: How to fight depression? Starve and exercise. When sick, move!
 
@@ -1265,35 +1260,37 @@ HINT: How to fight depression? Starve and exercise. When sick, move!
 
 > *'Forgiving yourself is not a nice to have, but a must have.' -- Tim Ferriss*
 
+> *'If you want to lift yourself up, lift up someone else.' -- Booker T. Washington*
+
+> *'People do not die from suicide. they die from sadness.'*
+
+- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+
 HINTS: keeping health
 
 - If you need an alarm clock to get you started mornings, you are cheating yourself on rest.
 - intermittent fasting
 - napping
-- Balance on body training = flexibility (yoga or animal movements) + strength (weights)'*
+- Balance on body training = flexibility (yoga or animal movements) + strength (weights)
 
-<!--
+> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
+
+> *'If I knew I was going to live this long, I would have taken better care of myself.' -- Mickey Mantle*
+
 > *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
 
-You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker
+> *'You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker'*
 
-- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-
+<!--
 on placebos
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
-
-You can’t perform under pain, stress, etc. without adequate capacity. That capacity is physical.
-
-You mind is a made of physical things. Neurons, chemicals, electricity. Your physical state, capacity for physical stress, sleep, diet, experiences, determine the bulk of your mental state. Do not rely upon cognition to make change. Behavior and the physical world are your key to changing affect and cognition. Your mental performance IS physical performance.
 
 When most people are struggling with pain, they fail to realize that often times, their pain is caused by a mental or emotional problem and not a physical problem. This could stem from a childhood trauma, a tragic event, or simply a personal insecurity.
 Reframe Your Pain and Become Grateful 
 The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
-If you feel powerless/being dominated you will be chronically stressed.
-
 exercise diminishes need of control. people burn extra calories through anxiety
-streessed out by being under estimulated, people will create streeses trying to estimulate themselves.
+stressed out by being under estimulated, people will create stresses trying to estimulate themselves.
 Our bodies were built to hunt and gather and move. Humans aren’t meant to stay still.
 -->
 
@@ -1310,25 +1307,20 @@ Your limits are where are your fears.
 
 HOWEVER... your level of success will seldom exceed your level of personal development.
 
-> *'We don’t rise to the level of our expectations; we fall to the level of our [training](#on-mastery).' -- Archilochus*
-
 <!--
 We live in a society where the greatest lies that are told are the ones that we tell ourself.
 
-Your belief that you are not good enough, that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will
+Your belief that you are not good enough:
+that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 
 impostor syndrome
 
 4. Break Down Your Dreams/goals into Achievable Steps
 
-break through your plateaus
-
-Resistance and plateaus Comes from Negative Projections
+break through your plateaus - Resistance and plateaus Comes from Negative Projections
 
 > *'On a plateau take a step back.'*
 There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
-
-> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 -->
 
 
@@ -1374,12 +1366,10 @@ I do an exercise called “fear-setting” at least once a quarter, often once a
 “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
 
 “Fear is the mind eater”
-
-Reframe Fears as Fiction. In AA, they define fear as “False evidence appearing real”.\
-
+Reframe Fears as Fiction. In AA, they define fear as “False evidence appearing real”.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
 
-Break Down Your Fears Until You Figure Out the Truth. we stuck in the fear of consequences
+break down your fears until you figure out the truth. we stuck in the fear of consequences
 you will never achieve anything if you allow indecisiveness to lead to inaction.
 
 Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
@@ -1405,7 +1395,7 @@ Sometimes you win, sometimes you learn. Accept failure as part of the process.
 
 > *'Making mistakes is better than faking perfections.'*
 
-> *'Be gentle first with yourself.'*
+HINT: Be gentle first with yourself.
 
 > *'The more you fail, the more you learn.'*
 
@@ -1421,11 +1411,12 @@ Sometimes you win, sometimes you learn. Accept failure as part of the process.
 
 > *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
+> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
+
 <!--
 Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 
-failures are flip-sides of our strengths
-the opposite is true also
+failures are flip-sides of our strengths, the opposite is true also
 
 you fail by the same reasons that you sometimes you will succeed
 
@@ -1436,8 +1427,6 @@ Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to 
 
 Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
 
-> *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
-
 The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
 
 But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
@@ -1447,12 +1436,6 @@ De Botton doesn’t argue that feudal societies or poor societies were somehow b
 After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
 
 It might sound selfish or egotistic, but the simple fact of the matter is that you should come first.
-
-> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
-
-> *'If you want to lift yourself up, lift up someone else.' -- Booker T. Washington*
-
-> *'People do not die from suicide. they die from sadness.'*
 
 Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
 
@@ -1487,10 +1470,9 @@ I had a scarcity mindset = pessimism, about life and zero confidence
 
 I do my best to always pay attention to how I am presenting myself to others everywhere I go. I do a body check every time I walk into a room and make sure to keep a high value mindset. I feel that I am a better listener now and I pay close attention to low value behaviors that try to creep back into my life. My conversations are better. People see me as a confident person and as someone they can talk to. The increased enjoyment of my life and my relationships are priceless and the investment I made in myself has already financially paid itself back several times.
 
-Tony Robbins says, “With a strong enough ‘why’, you can overcome any ‘how'.”
+“With a strong enough ‘why’, you can overcome any ‘how'.” -- Tony Robbins
 
-Conquering Fear = Defining Fear
-define your fears not yor goals
+Conquering Fear = Defining Fear: define your fears not yor goals
 
 hero and coward feel the same fear but their answers to it are different.
 
@@ -1500,15 +1482,13 @@ therapy (awareness of past) / yoga (awareness of future) / spirituality (awarene
 
 Uncovering Fear Disguised as Optimism
 
-> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
-
 > *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*  
 
 > *'Named must your fear be before banish it you can.' -- Yoda*
 
-> *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
+> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 
-Conquering Fear = Defining Fear
+> *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
 
 few points of failure
 the massive amount of failure needed to..
@@ -1534,8 +1514,6 @@ As my psychotherapist put it yesterday: people that seek self-esteem in an unhea
 
 anger is fear clothed: Understanding the underlying fears that angry people have leads to mastery in life.
 Corollary: Stand next to the smartest person in the room.
-
-Nothing is gained by worrying about "not knowing".
 
 Write about it: Thinking about it makes it worse. Writing about it makes it better.
 -->
@@ -1597,6 +1575,8 @@ Don’t wait for someone to tell you that you are special. If the universe didn'
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
 > *'Let go of your ego and your need for validation.'*
+
+> *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
 
 [Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.  
 In the meanwhile any source is good. Don't stop till you get it.

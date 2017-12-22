@@ -24,7 +24,7 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems) - your perso
 
 > *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.'*
 
-How to network? Adding value is everything. Help people.  
+HINT: How to network? Adding value is everything. Help people.  
 People want to form relationships with those who seem like they’ll give at least as much than they take.
 
 So find out what people actually want and give it to them.  
@@ -39,87 +39,26 @@ So find out what people actually want and give it to them.
 > *'The importance of enthusiasm; the importance of connecting people; expect magic in any encounter'*
 
 > *'Be useful, not important. It’s not about you. It’s about the impact you have on others and the legacy that you leave.'*
+Make sure the other person walks away better for having met you.: add value
 
-How to prepare an elevator pitch?  
+HINT: How to prepare an elevator pitch?  
 Personal branding means you are a liar. Truth is a better way to talk about ourselves.  
 The story we tell about ourselves to other people is dangerous. Our self-mythology will seduce us.  
 
-> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
-
-<!--
 you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
-
-Make sure the other person walks away better for having met you.: add value
 
 autenticity
 
-The best way to be highly influential is to be human to everyone you meet.
-add value -> give positive energy
+> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
-make poeple being interested in you by making them good/unusual questions.
+HINT: How to give a good first impression?
 
-be intrested in them to them be intrested in you.
--->
-
-HOW TO: give a good first impression?
-
-<!--
-How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress
-research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
-The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
-Seek someone else’s thoughts and opinions without judging them.
-How to be a great listener: active listening.
-Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
-Paraphrasing: Repeat what they just said in your own words.
-Labeling: Put a name on what they say they’re feeling. “Sounds like you’re feeling pressured.
-Emphasize Similarity, we like people who are like us
-Questions Are Powerful
-A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.
-What the best subjects to discuss are: Travel, Compliments And asking for Advice, Offer sincere compliments
-tarted speaking with more enthusiasm
-How to prevent awkward silences:
-How to politely end a conversation:
-
-Stop trying to impress people or “win” the conversation. It’s really much simpler than that.
-
-How to Talk to Strangers. ask stuff outside of their expertise where you can add value.
-network on relevant groups that can help you.
-
-Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
-
--
-
-on a aparty you start to talk with a stranger. you should go on after 10 or 15 minutes.
-think about it as exploring.
-
-tactics:
-- people that need to be saved
-- help the hosters to serve food
-- go to the bar and meet people there
-- small and open groups
-
-opening line:
-"hi, I'm X and I dont know anybody in this party."
-smart flattery
-
-escaping line:
-"excuse me but i must to talk with somebody that entered the room"
-"excuse me i have to make a phone call"
-human sacrifice.. intro him and leave
-
-to rude people:
-"my mum always told me not to speak with strangers, now i know why"
--->
-
-HINTS:
-
-- Treat new aquaintances as old friends.
-
-> *'Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real'*
-
-- «Rescue people instead of «cold calling». Include people to gain allies.
-
-Pro Tip: Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
+- Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real.  
+- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
+- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
+- the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
+- Curiosity is King
+How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
 
 How to taylor/curate a network?
 
@@ -131,21 +70,54 @@ critical colleagues (10 people that make a big difference in your immediate care
 
 > *'expand from too dense networks'*
 
-Curiosity is King
-curate your network.
-while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing
-unlocking dormant ties
-super connectors: people with long networks, spend more time with these people
-long term
-be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
-ãge is a mindset
-the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
+> *'super connectors: people with long networks, spend more time with these people / network on relevant groups that can help you.*
+
+while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing, unlocking dormant ties, long term
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.'  -- Dale Carnegie*
 
+HINT: some field tactics
+
+- people that need to be saved
+- help the hosters to serve food
+- go to the bar and meet people there
+- small and open groups
+
+opening line:
+"hi, I'm X and I dont know anybody in this party."
+smart flattery
+
+best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments And asking for advice.
+Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
+The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
+Seek someone else’s thoughts and opinions without judging them.
+How to be a great listener: active listening.
+Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
+Paraphrasing: Repeat what they just said in your own words.
+Labeling: Put a name on what they say they’re feeling. “Sounds like you’re feeling pressured.
+Emphasize Similarity, we like people who are like us
+Questions Are Powerful
+A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.
+
+How to politely end a conversation -> escaping line ( you should go on after 10 or 15 minutes. think about it as exploring.)
+"excuse me but i must to talk with somebody that entered the room"
+"excuse me i have to make a phone call"
+human sacrifice.. intro him and leave
+
+to rude people: "my mum always told me not to speak with strangers, now i know why"
+
 HOWEVER:
 
-> *'No one’s going to help you in a way that’s not beneficial to them.'*
+> *'No one’s going to help you in a way that’s prejudicial to them.'*
+
+<!--
+The best way to be highly influential is to be human to everyone you meet.
+add value -> give positive energy
+
+make poeple being interested in you by making them good/unusual questions.
+
+be intrested in them to them be intrested in you.
+-->
 
 
 
@@ -163,27 +135,29 @@ Be humble, listening is powerful.
 
 > *'Arguing as you're right. Listening as you're wrong.'*
 
-HOW TO: talk to people?  
-Smile, don't ramble, look for external catalysts as hints for stories and questions, talk about your passions instead of accomplishments, don't be stubborn and listen.
+HINT: How to talk to people?
 
-> *'Get better asking questions. They are more important than answers.'*
-
-> *'Storytelling is about the details.'*
+- listen.  
+- smile.  
+- don't ramble.   
+- look for external catalysts as hints for stories and questions. Get better asking questions. They are more important than answers.  
+- talk about your passions instead of accomplishments.
+- don't be stubborn. You don't always have to get the last word. Make your point and leave it that way. Let go.
 
 > *'On improvisation is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
 
 > *'Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.'*
 
-> *'You don't always have to get the last word. Make your point and leave it that way. Let go.'*
-
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
-How to tell good stories?
+HINT: How to tell good stories?
 
 A good story does condenses a massive amount of information into a consumable and shareable form.  
 Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
 > *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
+
+> *'Storytelling is about the details.'*
 
 When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments.
 
@@ -213,14 +187,12 @@ Ask a question. Listen to the answer. Respond in the form of a statement.
 
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 
-Calm is largely a matter of slowing your speech down. Warmth comes from smiling while you speak.
+Calm is largely a matter of slowing your speech down. Warmth comes from smiling while you speak. when you have passion you communicate better
 
 intro: //clay hebert
 I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words -- short and sweet and confident and interesting.
 ask them first so you can costumise it for the context and make it more relevant.
-
-when you have passion you communicate better
 -->
 
 
@@ -235,19 +207,7 @@ Focus on areas where you are motivated to add value AND there's demand.
 
 > *'Focus on what can you give instead of focusing in making money. Find your market and you'll get the reward.'*
 
-> *'Money is energy.'*
-
-> *'Money is the expression of your creativity.'*
-
-> *'To make money focus on the fun.'*
-
-> *'Scratch your own itch it's good only as a start.'*
-
-> *'In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.'*
-
-> *'Sara Blakely used the word «empower» several times. Spanx clothes gives women more confidence. Empowers women. The Belly Art Project empowers pregnant women'*
-
-Validate your business by finding paying clients.
+HINT: Validate your business by finding paying clients.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
@@ -255,70 +215,61 @@ Validate your business by finding paying clients.
 
 > *'Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one.'*
 
-> *'Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no demand.'*
-
 > *'In general, it's not about what you know, it's about who trusts you to solve their problems.  
 Often, that requires the technical skills to reliably solve their problems.  
 Always, that requires the communication skills to persuade someone you can solve their problems.'*
 
-Successful *entrepreneurs* are good risk managers.
+HINTS: on successful *entrepreneurs*
 
-> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'*
+- Focus on revenue generating activities. If it is not going to earn you money, then don’t do it.  
+- You only have to be really right once. History is filled with examples of people like this. Mark Zuckerberg thought that facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. Seriously. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
+- It’s easier when YOU are the customer. You truly understand the problem.  
+- If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP  
+- Create a culture that rewards killing ideas. kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something. We save a lot of money when we kill a bad idea.  
+- Equity unlocks human potential. When people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
+- TIMING is the most important factor in startup success. Team and Execution came next.
+“You really need to look at the signals and be honest about what they are telling you. Go out to market – test if people want your product. If there aren’t enough people, hoard money and conserve momentum.”  
+- Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
+- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no demand.  
+- To make money focus on the fun.
+- Scratch your own itch it's good only as a start.
+- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.
+- Successful *entrepreneurs* are good risk managers.
 
-> *'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
+> *'Sara Blakely used the word «empower» several times. Spanx clothes gives women more confidence. Empowers women. The Belly Art Project empowers pregnant women'*
+
+> *'Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population.'
+'Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.'*
 
 > *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
-Successful CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting).
-
-HINTS:
-
-- Focus on revenue generating activities. If it is not going to earn you money, then don’t do it.
-
-- You only have to be really right once. History is filled with examples of people like this.
-Mark Zuckerberg thought that facebook was going to be a college directory and that was it.
-Bill Gates didn’t think the Internet had any potential. Seriously.
-They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.
-
-- It’s easier when YOU are the customer. You truly understand the problem.
-
-- If you have an idea, test it! it’s called putting out a “minimally viable product,” or MVP
-
-- Create a culture that rewards killing ideas. kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something. We save a lot of money when we kill a bad idea.
-
-- Equity unlocks human potential. When people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.
-
-- TIMING is the most important factor in startup success. Team and Execution came next.
-“You really need to look at the signals and be honest about what they are telling you. Go out to market – test if people want your product. If there aren’t enough people, hoard money and conserve momentum.”
-
+> *'The Pocket Guide of Essential YC Advice:  
+• Launch now  
+• Build something people want  
+• Do things that don’t scale  
+• Find the 90 / 10 solution  
+• Find 10-100 customers who love your product  
+• All startups are badly broken at some point  
+• Write code – talk to users  
+• “It’s not your money”  
+• Growth is the result of a great product not the precursor  
+• Don’t scale your team/product until you have built something people want  
+• Valuation is not equal to success or even probability of success  
+• Avoid long negotiated deals with big customers if you can  
+• Avoid big company corporate development queries – they will only waste time  
+• Avoid conferences unless they are the best way to get customers  
+• Pre-product market fit – do things that don’t scale: remain small/nimble  
+• Startups can only solve one problem well at any given time  
+• Founder relationships matter more than you think  
+• Sometimes you need to fire your customers (they might be killing you)  
+• Ignore your competitors, you will more likely die of suicide than murder  
+• Most companies don’t die because they run out of money  
+• Be nice! Or at least don’t be a jerk'*
 
 <!--
-The Pocket Guide of Essential YC Advice:
-• Launch now
-• Build something people want
-• Do things that don’t scale
-• Find the 90 / 10 solution
-• Find 10-100 customers who love your product
-• All startups are badly broken at some point
-• Write code – talk to users
-• “It’s not your money”
-• Growth is the result of a great product not the precursor
-• Don’t scale your team/product until you have built something people want
-• Valuation is not equal to success or even probability of success
-• Avoid long negotiated deals with big customers if you can
-• Avoid big company corporate development queries – they will only waste time
-• Avoid conferences unless they are the best way to get customers
-• Pre-product market fit – do things that don’t scale: remain small/nimble
-• Startups can only solve one problem well at any given time
-• Founder relationships matter more than you think
-• Sometimes you need to fire your customers (they might be killing you)
-• Ignore your competitors, you will more likely die of suicide than murder
-• Most companies don’t die because they run out of money
-• Be nice! Or at least don’t be a jerk
-
-k) Focus on revenue generating activities. if it is not going to earn you money, then don’t do it.
+HINT: Money is energy and the expression of your creativity.
 
 Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
 Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
@@ -387,7 +338,6 @@ hot to make, how to keep, how to grow money
 
 there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
 
-
 Learn to Provide Relative Value on a Massive Scale and You Will Become Rich
 three things make anything possible: People, technology and money.
 -->
@@ -428,14 +378,14 @@ HINTS:
 
 > *'Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.'*
 
-Negotiation establishes the price (exchange rate between money and value).
+HINT: Negotiation establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value than receiving for it.
 
 > *'You don’t get what you deserve in life, you only get what you negotiate.'*
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
-To negotiate is to have options.  
+HINT: To negotiate is to have options.  
 Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
@@ -448,13 +398,8 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 «Can you do X% below that?»
 «If you can reach my price, I’ll buy today.»
 
-Never negotiate with binary questions: 
-
-> *'«What can you do?» instead of «Will you do this?»'*
-
-How to say no?
-
-> *'«How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'*
+- Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
+- How to say no? «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
 
 Tone of voice is a big clue to know with whom we are negotiating:
 
@@ -613,14 +558,11 @@ HOWEVER...
 
 > *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*
 
-There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.  
-How to move on?
+> *'Love is what happens to men and women that don't know each other.'*
+
+HINT: How to move on? There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.  
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
-
-<!--
-> *'Love is what happens to men and women that don't know each other.'*
--->
 
 
 
@@ -628,14 +570,20 @@ How to move on?
 ### On family and friends
 
 Life is meant to be lived in community.  
-Build your «board of directors». 
 
-> *'Seek out mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
+HINT: build your «board of directors». 
 
-> *'You're never too old to make a friend. Always be looking for a new one.  
-If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.'*
+- Surround Yourself with mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.  
+If you want to improve your bank account, get around millionaires.
+If you want to improve your body, befriend competitive athletes
+If you want to improve your love life, go hang out with the town “Casanova”.
+When you are intentional about surrounding yourself with the right people, you will find every area of your life accelerating.
+Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
+If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.
 
-> *'Cleave from your family but then come back. You need to be independent and loyal at the same time.'*
+- You're never too old to make a friend. Always be looking for a new one. If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.
+
+- Cleave from your family but then come back. You need to be independent and loyal at the same time.
 
 HOWEVER... choose who surrond you: you are the average of them. 
 You will waste your life trying to make those around into who you want them to be.
@@ -648,31 +596,17 @@ You will waste your life trying to make those around into who you want them to b
 
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
 
-HINT: resist to temptation of working with family and friends.
+There comes a time in life when you’ll have to leave everything behind and start something new but never forget the ones who stood by your side, especially the ones who never let you let go.
 
-> *'There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee.'*
-
-> *'Keep your friends for friendship, work with the skilled and competent.'*
+HINT: resist to temptation of working with family and friends.  
+There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee. Keep your friends for friendship, work with the skilled and competent.
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
-There comes a time in life when you’ll have to leave everything behind and start something new but never forget the ones who stood by your side, especially the ones who never let you let go.
-
-Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
-
 > *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
 
-4. Surround Yourself with People Who are Smarter than You 
-One of the first steps to becoming a more successful in all areas of your life is to surround yourself with people who are better than you in every area of life.
-If you want to improve your bank account, get around millionaires.
-If you want to improve your body, befriend competitive athletes
-If you want to improve your love life, go hang out with the town “Casanova”.
-When you are intentional about surrounding yourself with the right people, you will find every area of your life accelerating.
-Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
-
-If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.
-
+Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
 we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his.
 focus in others people sucess but pick the right people.
 -->
@@ -690,15 +624,9 @@ Always be generous: a low value gift can have the opposite effect.
 
 > *'He that gives should never remember and he that receives should never forget.'*
 
-<!--
-The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
-
-power of incentives: Ignoring incentives almost never works out well
-Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
+HINT: punish VS reward
 
 continuous reinforcement |> intermitent reinforcement
-
-impredictable shecule / fixed work amount schedule / fixed time amount schedule
 
 the power of punishment to suppress behavior usually disappears when the threat of punishment is removed
 punishment often triggers a fight-or-flight response and renders us aggressive
@@ -708,8 +636,15 @@ punishment is often applied unequally
 There are three alternatives that you can try the next time you feel tempted to punish someone.
 extintion of rewards
 positively reinforcing preferred activities.
-
 prompting and shaping are two actions we can use together to change behavior in an iterative manner. A prompt is a cue or stimulus that encourages the desired behavior. When shaping begins, any approximation of the target response is reinforced.
+
+power of incentives: Ignoring incentives almost never works out well
+Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
+
+<!--
+The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
+
+impredictable shecule / fixed work amount schedule / fixed time amount schedule
 -->
 
 
@@ -729,14 +664,13 @@ Rotten peace builds resentment.'*
 
 > *'Well-kept gardens die by pacifism.'*
 
-<!--
-conflict resolution:
-- Offer Value from the Start: Set the stage by coming in smiling. Pay a compliment, make a joke, shake hands, or give a high five to get the interaction off to a friendly start.
-- Take Responsibility
-- Show Some Empathy
-- Use “We” to Show You’re on the Same Team
+HINT: on conflict resolution
+
+- Offer Value from the Start: Set the stage by coming in smiling. Pay a compliment, make a joke, shake hands, or give a high five to get the interaction off to a friendly start.  
+- Take Responsibility  
+- Show Some Empathy  
+- Use “We” to Show You’re on the Same Team  
 - Bring Options to the Table: A high-value person always knows what they want before they come to the table. They also understand that it’s much easier to negotiate down
--->
 
 
 
