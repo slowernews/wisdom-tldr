@@ -43,6 +43,7 @@ The people who struggle most are the ones who can’t accept the incessant unfai
 
 
 
+
 ---
 ### On present
 
@@ -111,6 +112,7 @@ When we listen to the regrets of the elderly and dying, they invariably lament o
 
 
 
+
 ---
 ### On future
 
@@ -130,6 +132,7 @@ make the exercise: imagine you life in 10years. possible futures
 
 
 
+
 ---           
 # Appendix B - On envy triggers
 
@@ -144,6 +147,7 @@ Genius and talent are rare, and as such, the most sensitive trigger for envy.
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 > *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
+
 
 
 
@@ -173,6 +177,7 @@ nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 
 
 
+
 ---
 ### On fame and popularity
 
@@ -182,6 +187,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (paraphrased)*
 
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
+
 
 
 
@@ -230,6 +236,7 @@ surprises only happen when they didnt repaeat on ones lifetime
 
 
 
+
 ---
 ### On beauty
 
@@ -240,6 +247,7 @@ surprises only happen when they didnt repaeat on ones lifetime
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
 
 > *'Beauty doesn't always correlate with virtue.'*
+
 
 
 
@@ -262,6 +270,7 @@ Your body responds to substances, sleep patterns, forms of exercise, and supplem
 
 Drinking alcohol borrows energy (and happiness) from tomorrow.
 -->
+
 
 
 
@@ -349,6 +358,7 @@ Since he has taken the red pill his hobbies are: working out, writing, mentoring
 
 
 
+
 ---
 ### On success
 
@@ -363,6 +373,8 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 
 > *'Try not to become a man of success, rather become a man of value' -- Albert Einstein*
 
+> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
+
 HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
 
 > *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
@@ -370,8 +382,6 @@ HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest b
 > *'Doubt kills more dreams than failure ever will.'*
 
 <!--
-> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
-
 Real success happens when we focus on one thing at a time.
 
 There are two things you need to do to be successful.
@@ -448,6 +458,7 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 
 
+
 ---
 # Appendix C - Others
 
@@ -485,6 +496,7 @@ find 3 people that high expertise but that they discord and listen. take your co
 
 
 
+
 ---
 ### On religion
 
@@ -504,6 +516,7 @@ find 3 people that high expertise but that they discord and listen. take your co
 
 
 
+
 ---
 ### On science and art
 
@@ -512,6 +525,8 @@ find 3 people that high expertise but that they discord and listen. take your co
 > *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
 
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
+
+> *'The whole of science is nothing more than a refinement of everyday thinking.'*
 
 > *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
 
@@ -527,11 +542,8 @@ find 3 people that high expertise but that they discord and listen. take your co
 
 > *'Life is Capitalism but art is Socialism.'*
 
-<!--
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
-> *'The whole of science is nothing more than a refinement of everyday thinking.'*
--->
 
 
 
@@ -552,6 +564,7 @@ That's where «big bucks» are.
 
 The more ‘art’ you allow in to your photography the less commercial success you’ll have. People don’t want ‘art’ they want entertainment.
 -->
+
 
 
 
@@ -628,6 +641,7 @@ entrepreneurship vs investment (2 different mentalities
 
 
 
+
 ---
 ### On travel and nomadism
 
@@ -647,12 +661,13 @@ And how long should your vacation be? Research says aim for 3 to 6 days. Frequen
 
 HINTS on nomadism:
 
-> *'Build a business with the heuristic of "Maximize Jason's Vacation Time":
+> *'Build a business with the heuristic of "Maximize Jason's vacation time":
 Stage One: Contracting  
 Stage Two: Travelling Between Contracts  
 Stage Three: Travelling While Contracting  
 Stage Four: Software Product Business  
 Stage Five: Chillin'*
+
 
 
 
@@ -672,6 +687,7 @@ Do you have time for a 5 min call this week?
 Please review and sign this document.  
 Can you make a quick intro to XYZ person?  
 I’d love a letter of support from you. I’ve attached a draft for your review.
+
 
 
 
@@ -697,6 +713,7 @@ most people are not extremes and most people are in the middle
 introvert is not shyness. most things are not binary. Imagine a introvertness scale from 1 to 7.
 It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
+
 
 
 

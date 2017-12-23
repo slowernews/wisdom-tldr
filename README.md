@@ -19,7 +19,6 @@
 - [On improving](/chapters/chapter_1_self.md#on-improving)
 - [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
-- [On feedback and mentorship](/chapters/chapter_1_self.md#on-feedback-and-mentorship)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
@@ -41,6 +40,7 @@
 - [On relationships](/chapters/chapter_2_groups.md#on-relationships)
 - [On lovers](/chapters/chapter_2_groups.md#on-lovers)
 - [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
+- [On feedback and mentorship](/chapters/chapter_2_groups.md#on-feedback-and-mentorship)
 - [On rewards and generosity](/chapters/chapter_2_groups.md#on-rewards-and-generosity) 
 
 *On interactions: drawbacks*

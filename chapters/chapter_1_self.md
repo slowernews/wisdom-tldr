@@ -11,21 +11,18 @@
 ### On identity
 
 You are your deeds: your actions reveal your real values.  
-How you do anything is how you do everything.
+How you do anything is how you do everything. So you are your choices.
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
-
-a) Choose to come alive. Is succeeding at mediocrity a worthwhile life?
-
-> *'The definition of a man is and should be an evolving target. Never stop working on yourself. Always strive to be better.'*
-
-How?
+  
+- Choose to come alive. A man is and should be an evolving target. Never stop working on yourself.  
+Always strive to be better. Is succeeding at mediocrity a worthwhile life?
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
 
-b) Choose integrity. It's the only way to be respected and build trust.
+- Choose integrity. It's the only way to be respected and build trust.
 
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
@@ -38,8 +35,6 @@ b) Choose integrity. It's the only way to be respected and build trust.
 > *'Seek respect, not attention. It lasts longer.'*
 
 <!--
-You are your choices.
-	
 > *'Words are deeds.' -- Ludwig Wittgenstein*
 
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
@@ -87,12 +82,11 @@ Part of being a man is being a protector.protector of everyone who comes into yo
 Part of Being a Man is Getting Shit Done
 As an occasional treat, video games or TV are not inherently bad, but we live in a society where most men waste 3+ hours a day in a virtual world when they should be getting shit done.
 
+5Cs: courage, congruence, confidence, calibration, conviction
+
 Background values will change how you think
 
 do you want short term popularity or long term respect
-
-5Cs: courage, congruence, confidence, calibration, conviction
-
 Show respect to others. Respect others and earn the respect of others. That is where true manliness lies.
 
 Manhood is Defined by Your Values and Your Code
@@ -105,24 +99,20 @@ The world responds to vulnerability, not meticulously written articles that requ
 Be raw, be real, tell people what is really going on. The more vulnerable you are, the more people will be able to relate with you and the more of an impact you will be able to have. Don’t try to be perfect. Just be real and the results will come.
 -->
 
-c) Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
+- Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
 
-How?
-
 > *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
-HOWEVER... live in accordance with your nature. If you try to be something you're not, you end up being nothing.
+- Choose authenticity. Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
+Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
 > *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything.' -- Allen Tucker*
 
 > *'Find your context. You don't need to suceed in every context.'*
 
 > *'You’re not going to succeed at stuff you don’t want to do.' -- Mark Bittman*
-
-d) Choose authenticity.  
-Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
 <!--
 a real man loves problems. it's an opportunity to do your best.
@@ -141,8 +131,6 @@ The simple mantra, “I know nothing” has helped me so many times in the past 
 I owe any success to those simple three words: I. Know. Nothing.
 
 I sometimes forget that a group of people blazed the trail I’m enjoying and that another group continues to maintain it without any fanfare.
-
-“Service to others is the rent you pay for your room here on Earth.” – Muhammad Ali
 
 Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love. -- Miguel Angel Ruiz
 
@@ -170,6 +158,7 @@ truth-a-better-way-to-talk-about-ourselves
 
 If you can’t find pleasure in the simple or the mundane, then you won’t find pleasure anywhere.
 -->
+
 
 
 
@@ -235,6 +224,7 @@ Codependent No More: How to Stop Controlling Others and Start Caring for Yoursel
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
 > *'My independence is my legacy.' -- Bagão Felix*
+
 
 
 
@@ -355,6 +345,7 @@ In the absence of such an outlet, masculine energy collapses. Men lose their sen
 be happy -> people less sucessful
 be sucessful -> people more sucessful
 -->
+
 
 
 
@@ -492,6 +483,7 @@ When you start walking, the path will be revealed.
 
 "Mediocrity, as a goal, sucks... as a result, is OK"
 -->
+
 
 
 
@@ -633,6 +625,7 @@ people have to risk or we never would have to the moon or making new stuff.
 
 
 
+
 ---
 ### On habits and systems
 
@@ -755,6 +748,7 @@ Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms o
 
 > *'Miss a meal, but don’t miss your reading.' -- Jim Rohn*
 -->
+
 
 
 
@@ -1010,6 +1004,7 @@ If you’re not getting better today, you’re getting worse.”
 
 
 
+
 ---
 ### On self awareness
 
@@ -1045,6 +1040,7 @@ Exercise: Write down the ten things you value most in the world.
 Do you really value them? Dig deep. Write them down again.
 Dig deeper. What are you doing about them today?
 -->
+
 
 
 
@@ -1092,118 +1088,6 @@ teach something to a toddler to learn stuff
 amateurs play for tricks, masters play for position
 -->
 
-
-
----
-### On feedback and mentorship
-
-Feedback speeds up improvement.  
-But only take advice from mentors. They are the best source of feedback.
-
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
-
-> *'A coach spots your bullshit before you open your mouth.'*
-
-> *'Follow the thought leaders instead of the traffic leaders.'*
-
-> *'Really great people make you feel that you too can be great.' -- Mark Twain*
-
-> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
-
-HINT: How to find mentors?
-
-> *'Find mentors to help you improve, even virtual mentors as a good book.'*
-
-> *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
-
-> *'When looking for a mentor, look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».'*
-
-> *'Your father is your first mentor.'*
-
-<!--
-> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
-
-> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach.'*
-
-> *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
--->
-
-Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world.
-
-> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
-
-> *'Powerful people give freely, buying influence rather than things.'*
-
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
-
-> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
-
-> *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
-
-> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
-
-> *'When you teach, you do something useful. When you do research, most days you don’t.'*
-
-<!--
-the way of man is the way of the gang
-
-Actually, the last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people.
-He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as "make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check." He said that almost everyone who was just in it for the handouts couldn't be bothered.
-My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work.
-There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.
-
-One of the reasons why I think your uncle's gestures made such a big impact is that he made gestures that rewarded good things AND he wasn't a relative to many of the people he interacted with.
-
-Everyone has investment advice. Health advice (no “gluten!”). Money advice (“401ks!”), Education advice (“Harvard!”). Career advice (“Wall Street!”), etc.
-They are only telling you their dreams.
-
-But that's the point of this whole post: If you can't justify being nice for the sake of others, at least be nice for the sake of yourself. It'll work out well for others. some people are takers and lack the reflex to give.
-
-have your corner man to indicate your blindspots
-
-If you are giving back, it’s because you’ve taken too much. -- Ricardo Semler
-
-mix with guerrilla thinking
-
-karma
-
-Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
--->
-
-Fatherhood makes you a mentor independently of your will. Learn how to give advice.
-
-> *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
-
-> *'I don't tell my boys them how to live. I live fully and let them see.'*
-
-HINTS: How to teach your kids...
-
-- generosity: «What did u do this week for somebody?»  
-- responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
-- self improvement: «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
-- autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
-- money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
-- fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
-- deal with failure: «How did you fail today?»  
-- optimism: «You have the gift of today.»
-
-<!--
-convenience for you vs best thing for the kid.
-ipad example. you must provide interesting activities.
-
-You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
-Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
-Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
--->
-
-HOWEVER... some people are not ready to have a mentor and accept your vision.  
-And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
-
-> *'Do not teach a starving man to fish.'*
-
-> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
-
-> *'You give people a hand, they rip your arm out.'*
 
 
 
@@ -1296,6 +1180,7 @@ Our bodies were built to hunt and gather and move. Humans aren’t meant to stay
 
 
 
+
 ---
 ### On limits, resistance and motivation
 
@@ -1322,6 +1207,7 @@ break through your plateaus - Resistance and plateaus Comes from Negative Projec
 > *'On a plateau take a step back.'*
 There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
 -->
+
 
 
 
@@ -1374,6 +1260,7 @@ you will never achieve anything if you allow indecisiveness to lead to inaction.
 
 Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 -->
+
 
 
 
@@ -1520,6 +1407,7 @@ Write about it: Thinking about it makes it worse. Writing about it makes it bett
 
 
 
+
 ---
 ### On shame
 
@@ -1552,6 +1440,7 @@ You can hide the ugly parts, but you can't make them disappear.
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
+
 
 
 

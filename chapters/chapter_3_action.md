@@ -78,6 +78,7 @@ Ideas mature, evolve. They smash themselves against real life, sometimes for goo
 
 
 
+
 ---
 ### On analysis
 
@@ -279,6 +280,7 @@ groups opinios self correct themselves.
 
 
 
+
 ---
 ### On planning and decision making
 
@@ -466,6 +468,7 @@ Decide in advance what your time is worth. Do not let others tell you how much y
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
+
 
 
 
@@ -691,6 +694,7 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 
 
 
+
 ---
 ### On pace, position and direction
 
@@ -737,6 +741,7 @@ chess gambits -- exchange material by position-time.
 
 > *'You overestimate what you can do in a year but underestimate what you can do in two or three decades.' -- Tony Robbins*
 -->
+
 
 
 
@@ -867,6 +872,7 @@ Do less to achieve more. make the basics in life, and you're good to go. you don
 
 
 
+
 ---
 ### On control
 
@@ -885,6 +891,7 @@ Control what you can. Ignore what you can't.
 <!--
 past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 -->
+
 
 
 
@@ -956,6 +963,7 @@ FROM GOOD ENOUGH YOU CAN DERIVE sucess
 
 
 
+
 ---
 ### On change and adapting
 
@@ -1009,6 +1017,7 @@ equipa que ganha, não se mexe
 
 
 
+
 ---
 # 3.3 - On competing
 
@@ -1045,6 +1054,7 @@ Maintaining a well-balanced strategy, while deciphering your opponents' strategi
 Part of their greatness comes from identifying the constraints of others and capitalizing on those structural disadvantages.
 In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
 -->
+
 
 
 
@@ -1130,6 +1140,7 @@ the good reason (the reason they tell you) and the real reason.
 
 
 
+
 ---
 ### On unpredictability
 
@@ -1139,6 +1150,7 @@ the good reason (the reason they tell you) and the real reason.
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
 HOWEVER... unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+
 
 
 
@@ -1152,6 +1164,7 @@ Mirroring works best when your group is in minority.
 > *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
 
 
 
@@ -1198,6 +1211,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 
 
 
+
 ---
 ### On defeating status quo
 
@@ -1209,6 +1223,7 @@ Make a non-violent revolution: low risk will make more people to participate.' -
 <!--
 burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happyness from them.
 -->
+
 
 
 
@@ -1236,6 +1251,7 @@ Starting is fun but success belongs to finishers.
 
 
 
+
 ---
 ### On surrendering
 
@@ -1260,6 +1276,7 @@ wish / outcome / obstacle / plan
 
 Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
 -->
+
 
 
 

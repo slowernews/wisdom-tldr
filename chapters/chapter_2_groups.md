@@ -62,19 +62,14 @@ How to make a good first impression: putting your best foot forward actually rev
 
 How to taylor/curate a network?
 
-> *'Networking types: advocates a, boomerang b, celebrities c, drainers d  
-shark, dolphin, drowner'*
+- Networking types: advocates a, boomerang b, celebrities c, drainers d  
+shark, dolphin, drowner  
+- community of experts (that give you good answers) critical colleagues (10 people that make a big difference in your immediate career) -- boss / boss's boss  
+- expand from too dense networks  
+- super connectors: people with long networks, spend more time with these people / network on relevant groups that can help you.  
+- while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing, unlocking dormant ties, long term
 
-> *'community of experts (that give you good answers)
-critical colleagues (10 people that make a big difference in your immediate career) -- boss / boss's boss'*
-
-> *'expand from too dense networks'*
-
-> *'super connectors: people with long networks, spend more time with these people / network on relevant groups that can help you.*
-
-while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing, unlocking dormant ties, long term
-
-> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.'  -- Dale Carnegie*
+> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
 HINT: some field tactics
 
@@ -82,12 +77,8 @@ HINT: some field tactics
 - help the hosters to serve food
 - go to the bar and meet people there
 - small and open groups
-
-opening line:
-"hi, I'm X and I dont know anybody in this party."
-smart flattery
-
-best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments And asking for advice.
+- opening line: "hi, I'm X and I dont know anybody in this party." smart flattery  
+- best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments And asking for advice.
 Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
 The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
 Seek someone else’s thoughts and opinions without judging them.
@@ -99,16 +90,14 @@ Emphasize Similarity, we like people who are like us
 Questions Are Powerful
 A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.
 
-How to politely end a conversation -> escaping line ( you should go on after 10 or 15 minutes. think about it as exploring.)
+- How to politely end a conversation -> escaping line ( you should go on after 10 or 15 minutes. think about it as exploring.):
 "excuse me but i must to talk with somebody that entered the room"
 "excuse me i have to make a phone call"
 human sacrifice.. intro him and leave
 
-to rude people: "my mum always told me not to speak with strangers, now i know why"
+- to rude people: "my mum always told me not to speak with strangers, now i know why"
 
-HOWEVER:
-
-> *'No one’s going to help you in a way that’s prejudicial to them.'*
+HOWEVER: no one’s going to help you in a way that’s prejudicial to them.
 
 <!--
 The best way to be highly influential is to be human to everyone you meet.
@@ -116,8 +105,9 @@ add value -> give positive energy
 
 make poeple being interested in you by making them good/unusual questions.
 
-be intrested in them to them be intrested in you.
+be interested in them to them be interested in you.
 -->
+
 
 
 
@@ -144,7 +134,7 @@ HINT: How to talk to people?
 - talk about your passions instead of accomplishments.
 - don't be stubborn. You don't always have to get the last word. Make your point and leave it that way. Let go.
 
-> *'On improvisation is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
+> *'Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
 
 > *'Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.'*
 
@@ -152,8 +142,7 @@ HINT: How to talk to people?
 
 HINT: How to tell good stories?
 
-A good story does condenses a massive amount of information into a consumable and shareable form.  
-Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+A good story does condenses a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
 > *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
 
@@ -197,6 +186,7 @@ ask them first so you can costumise it for the context and make it more relevant
 
 
 
+
 ---
 ### On business and entrepreneurship
 
@@ -235,6 +225,27 @@ HINTS: on successful *entrepreneurs*
 - Scratch your own itch it's good only as a start.
 - In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.
 - Successful *entrepreneurs* are good risk managers.
+- Launch now  
+- Build something people want  
+- Do things that don’t scale  
+- Find the 90 / 10 solution  
+- Find 10-100 customers who love your product  
+- All startups are badly broken at some point  
+- Write code – talk to users  
+- “It’s not your money”  
+- Growth is the result of a great product not the precursor  
+- Don’t scale your team/product until you have built something people want  
+- Valuation is not equal to success or even probability of success  
+- Avoid long negotiated deals with big customers if you can  
+- Avoid big company corporate development queries – they will only waste time  
+- Avoid conferences unless they are the best way to get customers  
+- Pre-product market fit – do things that don’t scale: remain small/nimble  
+- Startups can only solve one problem well at any given time  
+- Founder relationships matter more than you think  
+- Sometimes you need to fire your customers (they might be killing you)  
+- Ignore your competitors, you will more likely die of suicide than murder  
+- Most companies don’t die because they run out of money  
+- Be nice! Or at least don’t be a jerk'*
 
 > *'Sara Blakely used the word «empower» several times. Spanx clothes gives women more confidence. Empowers women. The Belly Art Project empowers pregnant women'*
 
@@ -244,29 +255,6 @@ HINTS: on successful *entrepreneurs*
 > *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
-
-> *'The Pocket Guide of Essential YC Advice:  
-• Launch now  
-• Build something people want  
-• Do things that don’t scale  
-• Find the 90 / 10 solution  
-• Find 10-100 customers who love your product  
-• All startups are badly broken at some point  
-• Write code – talk to users  
-• “It’s not your money”  
-• Growth is the result of a great product not the precursor  
-• Don’t scale your team/product until you have built something people want  
-• Valuation is not equal to success or even probability of success  
-• Avoid long negotiated deals with big customers if you can  
-• Avoid big company corporate development queries – they will only waste time  
-• Avoid conferences unless they are the best way to get customers  
-• Pre-product market fit – do things that don’t scale: remain small/nimble  
-• Startups can only solve one problem well at any given time  
-• Founder relationships matter more than you think  
-• Sometimes you need to fire your customers (they might be killing you)  
-• Ignore your competitors, you will more likely die of suicide than murder  
-• Most companies don’t die because they run out of money  
-• Be nice! Or at least don’t be a jerk'*
 
 <!--
 HINT: Money is energy and the expression of your creativity.
@@ -341,6 +329,7 @@ there's not a lot competition neither a lot of people looking for change. our bi
 Learn to Provide Relative Value on a Massive Scale and You Will Become Rich
 three things make anything possible: People, technology and money.
 -->
+
 
 
 
@@ -483,6 +472,7 @@ most rejections are not your fault.
 
 
 
+
 ---
 ### On relationships
 
@@ -525,6 +515,7 @@ we build trust through presence. leadership is based on trust.
 
 
 
+
 ---
 ### On lovers
 
@@ -539,11 +530,11 @@ You need to open up, tell her the truth, be honest with her without fear of outc
 First, your observations, or what you have noticed is happening in your relationship.  
 Next talk about how the observation has made you feel. Finally, discuss your values.'*
 
-> *'For a long and deep relationship, values must match.'*
+> *'For a long and deep relationship, values must match.' -- EF*
 
 > *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
-Never love anyone who treats you like you're ordinary.  
+Run away from lovers who treats you like you're ordinary.  
 You need to partner with someone who wants you to be all you can be.
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
@@ -551,6 +542,10 @@ You need to partner with someone who wants you to be all you can be.
 > *'Every person feels loved in a different form.'*
 
 > *'Love doesn’t hurt. Expectations do.'*
+
+HINT: There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.  
+
+> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 
 HOWEVER...
 
@@ -560,9 +555,6 @@ HOWEVER...
 
 > *'Love is what happens to men and women that don't know each other.'*
 
-HINT: How to move on? There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.  
-
-> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 
 
 
@@ -571,22 +563,16 @@ HINT: How to move on? There comes a time when you have to stop crossing oceans f
 
 Life is meant to be lived in community.  
 
-HINT: build your «board of directors». 
+HINT: build your «board of directors». However choose who surrond you: you are the average of them. 
 
-- Surround Yourself with mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.  
+- Surround yourself with mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.  
 If you want to improve your bank account, get around millionaires.
 If you want to improve your body, befriend competitive athletes
 If you want to improve your love life, go hang out with the town “Casanova”.
 When you are intentional about surrounding yourself with the right people, you will find every area of your life accelerating.
 Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
-If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.
-
+If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
 - You're never too old to make a friend. Always be looking for a new one. If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.
-
-- Cleave from your family but then come back. You need to be independent and loyal at the same time.
-
-HOWEVER... choose who surrond you: you are the average of them. 
-You will waste your life trying to make those around into who you want them to be.
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
@@ -594,9 +580,13 @@ You will waste your life trying to make those around into who you want them to b
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
+HINT: You will waste your life trying to make those around into who you want them to be.
+
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
 
 There comes a time in life when you’ll have to leave everything behind and start something new but never forget the ones who stood by your side, especially the ones who never let you let go.
+
+- Cleave from your family but then come back. You need to be independent and loyal at the same time.
 
 HINT: resist to temptation of working with family and friends.  
 There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee. Keep your friends for friendship, work with the skilled and competent.
@@ -610,6 +600,120 @@ Remember that sometimes people wind up in our lives not because we judged them a
 we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his.
 focus in others people sucess but pick the right people.
 -->
+
+
+
+
+---
+### On feedback and mentorship
+
+Feedback speeds up improvement.  
+But only take advice from mentors. They are the best source of feedback.
+
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
+
+> *'A coach spots your bullshit before you open your mouth.'*
+
+> *'Follow the thought leaders instead of the traffic leaders.'*
+
+> *'Really great people make you feel that you too can be great.' -- Mark Twain*
+
+> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
+
+HINT: How to find mentors?
+
+> *'Find mentors to help you improve, even virtual mentors as a good book.'*
+
+> *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
+
+> *'When looking for a mentor, look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».'*
+
+> *'Your father is your first mentor.'*
+
+<!--
+> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
+
+> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach.'*
+
+> *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
+-->
+
+Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world.  
+When you teach, you do something useful. When you do research, most days you don’t.
+
+> *'Service to others is the rent you pay for your room here on Earth.' -- Muhammad Ali*
+
+> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
+
+> *'Powerful people give freely, buying influence rather than things.'*
+
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
+
+> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
+
+> *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
+
+> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+
+<!--
+the way of man is the way of the gang
+
+Actually, the last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people.
+He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as "make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check." He said that almost everyone who was just in it for the handouts couldn't be bothered.
+My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work.
+There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.
+
+One of the reasons why I think your uncle's gestures made such a big impact is that he made gestures that rewarded good things AND he wasn't a relative to many of the people he interacted with.
+
+Everyone has investment advice. Health advice (no “gluten!”). Money advice (“401ks!”), Education advice (“Harvard!”). Career advice (“Wall Street!”), etc.
+They are only telling you their dreams.
+
+But that's the point of this whole post: If you can't justify being nice for the sake of others, at least be nice for the sake of yourself. It'll work out well for others. some people are takers and lack the reflex to give.
+
+have your corner man to indicate your blindspots
+
+If you are giving back, it’s because you’ve taken too much. -- Ricardo Semler
+
+mix with guerrilla thinking
+
+karma
+-->
+
+Fatherhood makes you a mentor independently of your will. Learn how to give advice.
+
+> *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
+
+> *'I don't tell my boys them how to live. I live fully and let them see.'*
+
+HINTS: How to teach your kids...
+
+- generosity: «What did u do this week for somebody?»  
+- responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
+- self improvement: «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
+- autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
+- money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
+- fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
+- deal with failure: «How did you fail today?»  
+- optimism: «You have the gift of today.»
+
+<!--
+convenience for you vs best thing for the kid.
+ipad example. you must provide interesting activities.
+
+You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
+Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
+Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
+-->
+
+HOWEVER... some people are not ready to have a mentor and accept your vision.  
+And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
+
+> *'Do not teach a starving man to fish.'*
+
+> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+
+> *'You give people a hand, they rip your arm out.'*
+
 
 
 
@@ -642,10 +746,13 @@ power of incentives: Ignoring incentives almost never works out well
 Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
 
 <!--
+Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
+
 The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
 
 impredictable shecule / fixed work amount schedule / fixed time amount schedule
 -->
+
 
 
 
@@ -658,19 +765,20 @@ Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.
 Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom).
 
 > *'Avoiding conflict will not keep peace, will rot it.  
-Rotten peace builds resentment.'*
+Rotten peace builds resentment.' -- EF*
 
 > *'I am either part of the solution or part of the problem.'*
 
 > *'Well-kept gardens die by pacifism.'*
 
-HINT: on conflict resolution
+HINTS on conflict resolution:
 
-- Offer Value from the Start: Set the stage by coming in smiling. Pay a compliment, make a joke, shake hands, or give a high five to get the interaction off to a friendly start.  
-- Take Responsibility  
-- Show Some Empathy  
-- Use “We” to Show You’re on the Same Team  
-- Bring Options to the Table: A high-value person always knows what they want before they come to the table. They also understand that it’s much easier to negotiate down
+- Offer value from the start: Set the stage by coming in smiling. Pay a compliment, make a joke, shake hands, or give a high five to get the interaction off to a friendly start.  
+- Take responsibility  
+- Show some empathy  
+- Use “we” to show you’re on the same team  
+- Bring options to the table: A high-value person always knows what they want before they come to the table. They also understand that it’s much easier to negotiate down
+
 
 
 
@@ -716,6 +824,7 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
+
 
 
 
@@ -772,6 +881,8 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 -->
 
 
+
+
 ---
 ### On politics
 
@@ -800,6 +911,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 > *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
 
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
+
 
 
 
@@ -836,6 +948,7 @@ People want leadership because they want autonomy and influence.
 > *'You have to be the boss or you have to play ball.'*
 
 HINTS:
+
 
 
 
@@ -921,6 +1034,7 @@ The goal is to move everyone up from "unconfident and incompetent" to "confident
 
 
 
+
 ---
 ### On management and delegation
 
@@ -986,6 +1100,7 @@ boss ask employee to do x. employee resist, boss come back later after thinking 
 
 
 
+
 ---
 ### On hiring and being hired
 
@@ -1041,6 +1156,7 @@ I can go on, but there's a few things I've learned.
 
 
 
+
 Have you seen that one position that you absolutely want? Build your portfolio around that job’s requirements and responsibilities. -> targeted cv
 
 Tip #3: A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences.
@@ -1069,6 +1185,7 @@ Try consulting or entrepreneurship.
 When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
 When you sell your ability to deliver results, nobody asks about your skillset.
 -->
+
 
 
 
@@ -1175,6 +1292,7 @@ look at situations as systems. i help to create systems.
 
 
 
+
 ---
 ### On hierarchy
 
@@ -1193,8 +1311,6 @@ Only comedians can speak the truth without consequences.
 
 > *'Social cartography: who's the decision maker, to whom people are speaking and who is speaking.'*
 
-HOWEVER... don't vow to the gatekeepers.
-
-> *'Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.'*
+HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.
 
 > *'Only the truth is funny.' -- Rick Reynolds*
