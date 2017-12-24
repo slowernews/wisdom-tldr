@@ -8,17 +8,11 @@
 
 
 *On foundations*
-- [On identity](/chapters/chapter_1_self.md#on-identity)
+- [On the real you](/chapters/chapter_1_self.md#on-the-real-you)
+- [On integrity](/chapters/chapter_1_self.md#on-integrity)
+- [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On freedom](/chapters/chapter_1_self.md#on-freedom)
 - [On gratefulness and happiness](/chapters/chapter_1_self.md#on-gratefulness-and-happiness)
-
-*On growth*
-- [On finding a path](/chapters/chapter_1_self.md#on-finding-a-path)
-- [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
-- [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
-- [On improving](/chapters/chapter_1_self.md#on-improving)
-- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
-- [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
@@ -27,6 +21,14 @@
 - [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
 - [On shame](/chapters/chapter_1_self.md#on-shame)
 - [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
+
+*On growth*
+- [On finding a path](/chapters/chapter_1_self.md#on-finding-a-path)
+- [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
+- [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
+- [On improving](/chapters/chapter_1_self.md#on-improving)
+- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
+- [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
 
 
 ### Chapter 2 - Groups

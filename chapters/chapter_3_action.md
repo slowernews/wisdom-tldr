@@ -731,6 +731,8 @@ Don't be thirsty.
 > *'Trade space for time.'*
 
 <!--
+No podemos elegir nuestro origen pero podemos elegir hacia donde ir
+
 > *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
 
 be clear that your ladder is laid on the right building.
@@ -793,13 +795,13 @@ Leverage is built on the notion that small, well-focused actions can sometimes p
 - Set specific, measurable, attainable, realistic and time-based goals.  
 - View actions towards a goal not in terms of progress, but of commitment to the goal.  
 - Set process goals (which help you achieve a larger goal).
+- Identify keystone habits (e.g. waking up early)
 
 HOWEVER... 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-- Identify keystone habits (e.g. waking up early)
 	
 Schedule less time for important tasks
 Be mindful of how you spend your time.

@@ -677,6 +677,8 @@ If you are giving back, it’s because you’ve taken too much. -- Ricardo Semle
 mix with guerrilla thinking
 
 karma
+
+convenience for you vs best thing for the kid. ipad example. you must provide interesting activities.
 -->
 
 Fatherhood makes you a mentor independently of your will. Learn how to give advice.
@@ -695,15 +697,6 @@ HINTS: How to teach your kids...
 - fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
 - deal with failure: «How did you fail today?»  
 - optimism: «You have the gift of today.»
-
-<!--
-convenience for you vs best thing for the kid.
-ipad example. you must provide interesting activities.
-
-You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
-Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
-Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
--->
 
 HOWEVER... some people are not ready to have a mentor and accept your vision.  
 And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
@@ -746,6 +739,12 @@ power of incentives: Ignoring incentives almost never works out well
 Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
 
 <!--
+Generosity without Expectation is Sexy
+It means that your thoughts, words, and actions are all in congruence.
+you don’t live a life that is incongruent with what you want to make others happy.
+You live a life of congruence where everything is in line.
+This is the pathway to true power.
+
 Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
 
 The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
@@ -777,7 +776,7 @@ HINTS on conflict resolution:
 - Take responsibility  
 - Show some empathy  
 - Use “we” to show you’re on the same team  
-- Bring options to the table: A high-value person always knows what they want before they come to the table. They also understand that it’s much easier to negotiate down
+- Bring options to the table: an high-value person always knows what they want before they come to the table. They also understand that it’s much easier to negotiate down
 
 
 

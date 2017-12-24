@@ -73,6 +73,9 @@ HOWEVER:
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
+If you can’t find pleasure in the simple or the mundane, then you won’t find pleasure anywhere.
+
+live life like it’s everyone else’s last day.
 
 > *'Just because you use your eyes, doesn’t mean you see what’s actually there.' -- Murray Carter*
 
@@ -138,15 +141,13 @@ make the exercise: imagine you life in 10years. possible futures
 
 ### On intelligence and talent
 
-Genius and talent are rare, and as such, the most sensitive trigger for envy.
+'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson
 
-> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
-
-> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.'*
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction. Genius and talent are rare, and as such, the most sensitive trigger for envy.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
-> *'To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.'*
+HINT: To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.
 
 
 
@@ -382,6 +383,13 @@ HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest b
 > *'Doubt kills more dreams than failure ever will.'*
 
 <!--
+Life is About Who You Become Not What You Achieve
+On this journey called life, many people lose sight of what is really important.
+They believe that material wealth, sexual experiences, and physical prowess are what makes a man.
+But the reality is, life is about the man that you become, not the things that you do or the possessions that you gather.
+It’s about your character.
+It’s about who you impact, the way you show up in the world, and the way that you treat those around you.
+
 Real success happens when we focus on one thing at a time.
 
 There are two things you need to do to be successful.
@@ -442,9 +450,6 @@ You don’t need the fancy car, expensive watch, or flashy toys, spend your mone
 True fulfillment comes from living your life, not from achievement.
 
 Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal.
-
-If you want to succeed at anything in your life, then forget about the Joneses.
-You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people
 
 Experiences worth more than material
 
