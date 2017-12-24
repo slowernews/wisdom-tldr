@@ -11,8 +11,9 @@
 - [On the real you](/chapters/chapter_1_self.md#on-the-real-you)
 - [On integrity](/chapters/chapter_1_self.md#on-integrity)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
+- [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
 - [On freedom](/chapters/chapter_1_self.md#on-freedom)
-- [On gratefulness and happiness](/chapters/chapter_1_self.md#on-gratefulness-and-happiness)
+- [On happiness](/chapters/chapter_1_self.md#on-gratefulness-and-happiness)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)

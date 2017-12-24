@@ -48,7 +48,8 @@ The people who struggle most are the ones who can’t accept the incessant unfai
 ### On present
 
 You will die soon.  
-Act accordingly and don't postpone joy: live life ready to meet god.
+Act accordingly and don't postpone joy: live life ready to meet god like it’s everyone else’s last day.  
+If you can’t find pleasure in the simple or the mundane, then you won’t find pleasure anywhere.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
@@ -66,33 +67,30 @@ Act accordingly and don't postpone joy: live life ready to meet god.
 
 HINTS:
 
-100 blocks a day -- wait but why
+100 blocks a day -- wait but why  
+life is long enough
 
 HOWEVER:
 
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
-If you can’t find pleasure in the simple or the mundane, then you won’t find pleasure anywhere.
-
-live life like it’s everyone else’s last day.
+Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now.
+Money is nothing more than a magnifying glass. Money simply makes you more of what you already are.
+They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!
 
 > *'Just because you use your eyes, doesn’t mean you see what’s actually there.' -- Murray Carter*
 
 > *'If you are waiting for anything in order to live and love without holding back, then you suffer.' -- David Deida*
-
-life is long enough
 
 We are all made of time and we keep wasting each other..
 
 But just because you are not where you want to be, does not mean that you cannot have fulfillment and joy in the present moment.
 Learn to reframe your current situation and find meaning within it.
 
-the day will always pass, spend your time like money
-
 Time never has, and never will solve a damn thing.
 
-1) Protect Your Time Like Your Money
+1) Protect Your Time Like Your Money. the day will always pass, spend your time like money
 2) Manage Emotions To Better Manage Time: It’s your beliefs that create your feelings, not reality.
 Men are disturbed, not by things, but by the principles and notions which they form concerning things. -- Epictetus
 procrastination is a mood-management technique
@@ -145,9 +143,9 @@ make the exercise: imagine you life in 10years. possible futures
 
 Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction. Genius and talent are rare, and as such, the most sensitive trigger for envy.
 
-> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
+HINT: talent is fragile. To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.
 
-HINT: To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.
+> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 
 
@@ -255,22 +253,31 @@ surprises only happen when they didnt repaeat on ones lifetime
 ---
 ### On health
 
-Health is also an envy trigger.
+Health is also an envy trigger. Normally what people really envy is self-control.
 
-<!--
-Exercise is king. Nutrition is queen.
-water, cold, hot, cold shower
-minimum effective dose
+HINTS: keeping health
 
-Take naps at work. Apologize to no one.
-“Don’t buy complexity; the simpler you make your training, the better the results become.” – Ryan Flaherty
-(follow your circadian rhythm, eat more real foods, and exercise more)
-the specifics are actually highly bio-individual.
-What works for one person will not necessarily work for another, because every body is different.
+- If you need an alarm clock to get you started mornings, you are cheating yourself on rest.  
+- intermittent fasting  
+- napping: Take naps at work. Apologize to no one.  
+- Balance on body training = flexibility (yoga or animal movements) + strength (weights)  
+- Exercise is king. Nutrition is queen. (follow your circadian rhythm, eat more real foods, and exercise more)   
+- water, cold, hot, cold shower  
+- minimum effective dose  
+- Drinking alcohol borrows energy (and happiness) from tomorrow.
+
+> *'Don’t buy complexity; the simpler you make your training, the better the results become.' – Ryan Flaherty*
+
+> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
+
+> *'If I knew I was going to live this long, I would have taken better care of myself.' -- Mickey Mantle*
+
+> *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
+
+> *'You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker'*
+
+the specifics are actually highly bio-individual.: What works for one person will not necessarily work for another, because every body is different.
 Your body responds to substances, sleep patterns, forms of exercise, and supplementation differently from your best friend’s body which responds differently from his girlfriend’s body.
-
-Drinking alcohol borrows energy (and happiness) from tomorrow.
--->
 
 
 
@@ -335,10 +342,6 @@ Don't play the government’s game. Instead, create a game that worked by my rul
 _meaning_ I quickly realized that I had to find another way to derive meaning from my life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
 
 That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
-
-Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now.
-Money is nothing more than a magnifying glass. Money simply makes you more of what you already are.
-They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!
 
 But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 

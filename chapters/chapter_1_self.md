@@ -66,6 +66,8 @@ Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
 
+consciently work on being honest
+
 
 
 
@@ -122,6 +124,20 @@ I sometimes forget that a group of people blazed the trail I’m enjoying and th
 
 
 ---
+### On gratitude and humbleness
+
+> *'Being grateful is looking down.'*
+
+> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
+
+> *'Comparison is the thief of joy.' -- Theodore Roosevelt*
+
+> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+
+
+
+---
 ### On freedom
 
 Choose *yourself*. Choose to be independent.  
@@ -151,6 +167,8 @@ What is more selfless?
 > *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
 Optimizing happiness on a personal level vs. succumbing to what society says will make you happy.
 
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
 > *'Freedom is not giving a f*ck.' -- Dorian Yates*
 
 HINT:
@@ -171,8 +189,6 @@ Practice doing without things you think you need.
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 -->
 
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
 > *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
 
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
@@ -183,7 +199,7 @@ Practice doing without things you think you need.
 
 
 ---
-### On gratefulness and happiness
+### On happiness
 
 'Happiness = reality / expectations'
 
@@ -212,15 +228,7 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 
-HINT: How to lower your expectations? Be grateful.
-
-> *'Being grateful is looking down.'*
-
-> *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
-
-> *'Comparison is the thief of joy.' -- Theodore Roosevelt*
-
-> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+HINT: How to lower your expectations? Be [grateful]().
 
 <!--
 EDGE: temos q estar sempre nos limites para sermos felizes.
@@ -276,8 +284,6 @@ How to define success for yourself. self-awareness?
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.'*
 
 Happiness is a choice, and if you aren’t choosing to be happy along the journey, you will arrive at the destination and wonder “Is this it?”
-
-consciently work on being honest
 
 Happiness Comes from Autonomy Not Money
 
@@ -354,21 +360,6 @@ HINT: How to fight depression? Starve and exercise. When sick, move!
 > *'People do not die from suicide. they die from sadness.'*
 
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-
-HINTS: keeping health
-
-- If you need an alarm clock to get you started mornings, you are cheating yourself on rest.
-- intermittent fasting
-- napping
-- Balance on body training = flexibility (yoga or animal movements) + strength (weights)
-
-> *'Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.'*
-
-> *'If I knew I was going to live this long, I would have taken better care of myself.' -- Mickey Mantle*
-
-> *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
-
-> *'You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker'*
 
 <!--
 on placebos
