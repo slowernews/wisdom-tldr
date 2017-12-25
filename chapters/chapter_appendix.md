@@ -127,6 +127,10 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
 
+> *'Life is understood backwards, but must be lived forwards.' -- Kierkegaard*
+
+> *'You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.' -- Steve Jobs*
+
 <!--
 make the exercise: imagine you life in 10years. possible futures
 -->
@@ -216,6 +220,8 @@ HOWEVER positive results don't imply good planning..
 > *'Even a broken clock is right twice a day.'*
 
 <!--
+Bad luck vs. bad planning
+
 Unless you’re winning, life will seem hideously unfair to you. 
 
 > *'Coincidence is God’s way of remaining anonymous.' -- Albert Einstein*
@@ -428,8 +434,7 @@ your neeed for aceptance can make you invisible in this world.
 
 And when they finally became a “success” they realized that they were no more fulfilled at 40 with $100,000 in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them. They worked tirelessly to achieve goals that they didn’t truly care about.
 
-sucess is a dangerous word. i dont know any sucessful person.
-
+success is a dangerous word. i dont know any sucessful person.
 sucesses keep you making the same stuff, mistakes not.
 
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
@@ -470,42 +475,6 @@ The story he told me was a combination of luck, learning skills, building a netw
 ---
 # Appendix C - Others
 
-### On assumptions, ideals and beliefs
-
-Beliefs lag behind reality.
-
-But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
-Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
-
-Actions > Thoughts; Actions change the world. Not beliefs.
-
-> *'The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.' -- F. Scott Fitzgerald*
-
-> *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
-
-> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
-
-> *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
-
-<!--
-Mental models
-If you don't understand the limitations of the model, you don't understand the model.
-
-a fundamentalist gives answers, a scholar gives questions
-
-i'm right -> how do i know i'm right
-radical openmindedness -> stress test your ideas
-
-Idea-meritocratic decision-making is the best decision-making
-The difference between an autocratic decision maker and a democratic decision maker.
-What is believability?
-find 3 people that high expertise but that they discord and listen. take your conclusions
--->
-
-
-
-
----
 ### On religion
 
 'And on the first day, men created god.'
@@ -552,6 +521,8 @@ find 3 people that high expertise but that they discord and listen. take your co
 
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
+> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
+
 
 
 
@@ -569,8 +540,6 @@ That's where «big bucks» are.
 
 <!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
-
-The more ‘art’ you allow in to your photography the less commercial success you’ll have. People don’t want ‘art’ they want entertainment.
 -->
 
 
@@ -627,6 +596,8 @@ HINT: When to fold them?
 HINT: Barbell strategy
 
 <!--
+GET AN EXIT STRATEGY
+
 > *'Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
 A gestão ativa traz selectividade e timing.' -- Karen Kharmandarian*
 
@@ -644,7 +615,7 @@ taking risk of the table.
 start with small investments till you are confortable with them. psycology is a huge factor.
 legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
 
-entrepreneurship vs investment (2 different mentalities
+entrepreneurship vs investment - 2 different mentalities.
 -->
 
 

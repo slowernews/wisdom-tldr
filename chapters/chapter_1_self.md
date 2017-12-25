@@ -38,7 +38,7 @@ bravery is learned -> micro-bravery, start small
 
 
 
-
+---
 ### On integrity
 
 > *'Trust, not money, is the currency of business and life.'*
@@ -71,7 +71,7 @@ consciently work on being honest
 
 
 
-
+---
 ### On authenticity
 
 Choose authenticity. Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
@@ -133,6 +133,8 @@ I sometimes forget that a group of people blazed the trail I’m enjoying and th
 > *'Comparison is the thief of joy.' -- Theodore Roosevelt*
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
 
 
@@ -339,7 +341,7 @@ If you feel powerless/being dominated you will be chronically stressed.
 
 > *'Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination.'*
 
-> *'Nothing is gained by worrying about "not knowing"'*
+> *'Nothing is gained by worrying about «not knowing»'*
 
 > *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
 
@@ -359,7 +361,7 @@ HINT: How to fight depression? Starve and exercise. When sick, move!
 
 > *'People do not die from suicide. they die from sadness.'*
 
-- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 
 <!--
 on placebos
@@ -432,8 +434,6 @@ Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
 
 Anger and excuses are fear clothed. All excuses are refutable.
 
-> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
-
 > *'There is no coming to consciousness without pain.  
 People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
 
@@ -444,12 +444,14 @@ People will do anything, no matter how absurd, in order to avoid facing their ow
 > *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
 
 <!--
+your personality type is not an excuse.
+
 The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.
 
 I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
 “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
 
-“Fear is the mind eater”
+Fear is the mind eater
 Reframe Fears as Fiction. In AA, they define fear as “False evidence appearing real”.
 Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
 
@@ -555,7 +557,7 @@ I had a scarcity mindset = pessimism, about life and zero confidence
 
 I do my best to always pay attention to how I am presenting myself to others everywhere I go. I do a body check every time I walk into a room and make sure to keep a high value mindset. I feel that I am a better listener now and I pay close attention to low value behaviors that try to creep back into my life. My conversations are better. People see me as a confident person and as someone they can talk to. The increased enjoyment of my life and my relationships are priceless and the investment I made in myself has already financially paid itself back several times.
 
-“With a strong enough ‘why’, you can overcome any ‘how'.” -- Tony Robbins
+> *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
 
 Conquering Fear = Defining Fear: define your fears not yor goals
 
@@ -582,15 +584,13 @@ It’s really hard to have self-esteem. Everyone wants to take it from us. A bos
 
 HARD WORK = CONFIDENCE
 
-“Failure is necessary to be successful in life. There’s a big difference between quitting and failure.
+Failure is necessary to be successful in life. There’s a big difference between quitting and failure.
 
 put a gun to your head: what do you want to accomplish in your life.
 burning bridges to get the motivation.
 
 “There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die.
 “Every day I wake up with that gun to my head. Every day I live.”
-
-analogy: confidence is like a building
 
 Why Self-Compassion Works Better Than Self-Esteem
 Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
@@ -678,11 +678,11 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
 
-> *'Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.'*
-
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
-<!-- 
+<!--
+analogy: confidence is like a building
+
 If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
 
 How to Enter a Room So People Take Notice

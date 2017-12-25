@@ -110,7 +110,6 @@
 - [On success](/chapters/chapter_appendix_action.md#on-success)
 
 *Other*
-- [On assumptions, ideals and beliefs](/chapters/chapter_appendix.md#on-assumptions-ideals-and-beliefs)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)

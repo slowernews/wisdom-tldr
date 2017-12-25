@@ -119,7 +119,13 @@ b) and specially, bias, will trigger miscalculations.
 
 > *'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?' -- George Carlin*
 
+> *'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' -- Mark Twain*
+
+Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
+
 <!--
+> *'Judge a man by his questions, not by his answers.'*
+	
 > *'I look for ways of changing my mind.' -- Chalie Munger*
 -->
 
@@ -178,12 +184,9 @@ not playing your hand but playing your opponent.'*
 “A world constructed from the familiar is the world in which there's nothing to learn.”
 In shaping what we see, filter bubbles show us a distorted map and not the terrain
 
-> *'Life is understood backwards, but must be lived forwards.' -- Kierkegaard*
-
 > *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
 
-The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation.
-Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
+The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
 
 scheduling free time can make it feel like chores
 
@@ -191,32 +194,21 @@ Simple rules focus on the critical variables that govern a situation and help yo
 
 Yes, you should have a strong, crystal clear vision and end game, but you must be flexible about how you achieve that vision.
 
-> *'All models are wrong but some are useful.' -- George Box*
-
-> *'You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.' -- steve jobs*
-
 “Anything perceived has a cause.~// humm-- rational and irrational players
-All conclusions have premises. 
-All effects have causes. 
-All actions have motives.”
-— Arthur Schopenhauer
+All conclusions have premises. All effects have causes. All actions have motives. -- Arthur Schopenhauer
 
 key variables that you need to maximize and minimize, and follow the agile path blazed by Henry Singleton (My only plan is to keep coming to work. … I like to steer the boat each day rather than plan ahead way into the future.)
 
-> *'I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.' -- Charlie Munger
-
-My first thought,” William Deresiewicz said in one of my favorite speeches, “is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.”
+> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
 Knowing what you want is not enough, you must have a very clear blueprint for the specific actions you are going to take in order to achieve your end game
 
-best way to del awith confirmation bias: You need to search out disconfirming evidence.
+best way to deal with confirmation bias: You need to search out disconfirming evidence.
 
-Almost everything people say to me has a good reason and a real reas
+Almost everything people say to me has a good reason and a reason
 
 everybody is a genious. but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
-(under ideal conditions everybody si a genious)
-
-GET AN EXIT STRATEGY
+(under ideal conditions everybody is a genious)
 
 identifing needs
 
@@ -230,17 +222,9 @@ If you’re intelligent, well-educated, and good at pulling facts, you’re goin
 Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite.
 We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
 
-Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
-
 If an animal hears a rustle in the grass, it might be a predator. Of course, it might just as easily be the wind, or a smaller animal, or it might be nothing at all. But if it is a predator, that would be dangerous. The end of the animal’s life, probably. They would be removed from the gene pool forever. So it’s much better -- in evolutionary terms -- to assume that all these rustles in the grass are predators, because the cost of not assuming it’s a predator is too high.
 
 You might be thinking, “But why can’t this animal collect more data about these rustles in the grass? Why couldn’t it have evolved the capacity to do a more rational analysis?” Well, because that would take more time, and a predator doesn’t wait around for its prey to make a decision. Assuming is what keeps an animal alive, and therefore gives it more of a chance to reproduce -- and so it’s the animals that developed the ability to assume and make decisions rapidly that were more effective at reproducing.
-
-This is why research in rapid cognition says that we -- that is, humans -- make our decisions intuitively most of the time.
-
-It’s like buying a house. You make a list of all the things you want, and then usually it comes to down a feeling. “I don’t know why, but I just like this one.”
-
-> *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
 
 Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas.
 Two people with opposing views on a topic can see the same evidence, and still come away both validated by it
@@ -272,10 +256,7 @@ Truth in stereotypes there'es truth on GROUP opinions.
 steryotypes are the falsy _group_ opinions that account for a small amout.
 groups opinios self correct themselves.
 
-> *'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' -- Mark Twain*
-
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
-
 -->
 
 
@@ -303,7 +284,49 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
+This is why research in rapid cognition says that we -- that is, humans -- make our decisions intuitively most of the time.
+It’s like buying a house. You make a list of all the things you want, and then usually it comes to down a feeling. “I don’t know why, but I just like this one.”
+
+HINTS: mental models are decision making helpers.
+
+> *'All models are wrong but some are useful.' -- George Box*
+
 <!--
+Beliefs lag behind reality.
+
+But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
+Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
+
+Actions > Thoughts; Actions change the world. Not beliefs.
+
+> *'The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.' -- F. Scott Fitzgerald*
+
+> *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
+
+> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
+
+> *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
+
+> *'I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.' -- Charlie Munger*
+
+> *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
+
+<!--
+
+a fundamentalist gives answers, a scholar gives questions
+
+i'm right -> how do i know i'm right
+radical openmindedness -> stress test your ideas
+
+Idea-meritocratic decision-making is the best decision-making
+The difference between an autocratic decision maker and a democratic decision maker.
+What is believability?
+find 3 people that high expertise but that they discord and listen. take your conclusions
+-->
+
+
+If you don't understand the limitations of the model, you don't understand the model.
+
 Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
 
 A model is a simplification which fosters understanding.
@@ -768,7 +791,6 @@ First the essential. Then the details.
 
 > *'Focusing is about saying no.' -- Steve Jobs*
 '«No» is no to one thing. «Yes» is no to a lot of things.'
-
 > *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
 
 > *'A man with a watch knows what time it is. A man with two watches is never sure.'*
@@ -782,56 +804,56 @@ you're not perfect in everything. find your specialty.
 
 > *'Always look where you want to go, not where you don't want to go.'*
 
-> *'Anything that does not bring me alive is too small for me.' -- David Whyte*
+> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
+
+HINT: perfectionism is as bad as procrastination
+
+> *'Perfect is the enemy of good.'*
+
+Work by layers: functional -> perfect; 
+Do less to achieve more. make the basics in life, and you're good to go. you don't need to optimise.
 
 HINTS:
 
+- Focus just on 3 outcomes (not todos) per day and tackle your most important thing (MIT) first thing in the morning.  
+- Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right. 
+- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk, Too many options may paralize you: remove them.
+- when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
 - Be fully present: learn to focus on what you are doing now;  
-- Reduce decision making on small tasks to a minimum and do it quickly and in bulk. Too many decisions will drain you;  
-- Do things in batch. Interruption and switching between tasks costs too much.  
-- Focus just on 3 outcomes per day. Tackle your most important thing (MIT) first thing in the morning.  
-- Focus on doing the right things instead of doing things right. Focus on the one thing most likely to get maximum results. Forget everything else.  
-Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies.  
 - Set specific, measurable, attainable, realistic and time-based goals.  
-- View actions towards a goal not in terms of progress, but of commitment to the goal.  
 - Set process goals (which help you achieve a larger goal).
 - Identify keystone habits (e.g. waking up early)
+- Buy yourself time. Delegate.
 
 HOWEVER... 
 
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-	
+how to purge to do list and focus right now
+- does this need to be done regarding my business? Y/N
+- does this be needed by me? Y/N
+- does this need to be done now? Y/N
+Most items were already purged.
+
 Schedule less time for important tasks
 Be mindful of how you spend your time.
 
-Too many options may paralize you: remove them.
 What is the next action? Leave yourself a note if you suspend working.
 Big rocks are too big: split them
 
 Paperwork: either do it, diarise it, or ditch it.
 Multitasking is not efficient for single-focused tasks.
 Get rid of technology, turn off any notification, unsubscribe.
-Protect your hours of real work.
-Separate “real hours” with breaks.
-Take advantage of early hours in the day.
-Create a concentrated environment.
-Fight Procrastination
+Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
+Create a concentrated environment. Fight Procrastination
 
-Buy yourself time. Delegate.
-
-Put first things first (surely not emails).
 Selective perfectionism
 
 20% of your effort will give you 80% of output: it may be enough, or more than enough.
 Set yourself deadlines.
 
-when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
-
 Pomodoro time
-
-“perfect is the enemy of good.”
 
 Get more time: Spend time on the right things.
 
@@ -842,34 +864,20 @@ Always work with a specific purpose in mind.
 Shut off the phone when meeting w/ someone. listen
 Avoid mindless Internet surfing.
 Shut off email notifications.
-Declare an email holiday.
-Do stuff in batches.
-
-At the start of every day, define three outcomes you want to accomplish (not to-dos; actual outcomes). When you limit yourself to just three outcomes, you force yourself to prioritize and focus on what’s actually important.
-Instead of focusing on doing more things, focus on doing the right things.
-Wait a bit before sending important emails/messages
-
-b) Work by layers: functional -> perfect; 
+Declare an email holiday. Wait a bit before sending important emails/messages
 
 If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
+
+Não se pode fazer colecção de tudo.
+
+school rewards generalist and not focusing: the world not so.
+
+*guerrilla* has their strengths also. cena do mosquito
 
 > *'Media companies harvest your attention and transform it into revenue.'*
 
 > *'If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
-
-Não se pode fazer colecção de tudo.
-
-> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
-
-school rewards generalist and not focusing: the world not so.
-
-Bad luck vs. bad planning
-
-*guerrilla* has their strengths also. cena do mosquito
-
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
-
-Do less to achieve more. make the basics in life, and you're good to go. you don't need to optimise.
 -->
 
 
@@ -880,9 +888,8 @@ Do less to achieve more. make the basics in life, and you're good to go. you don
 
 'You can lead a horse to water but you can’t make him drink.'
 
-Control what you can. Ignore what you can't.
-
-> *'You can only control yourself. Control what you’re primed by, who you are around, the ideas and problems you focus on. Power comes from that.'*
+Control what you can: [what you’re primed by](), [who you are around](), the ideas and problems you [focus]() on.  
+Ignore the rest.
 
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 
@@ -1101,6 +1108,9 @@ HOWEVER... use absence with [moderation](#on-balance).
 <!--
 mimicking people gestures and words works!
 -->
+
+
+
 
 ---
 ### On deceiving

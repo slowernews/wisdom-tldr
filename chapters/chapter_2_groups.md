@@ -11,7 +11,7 @@
 ### On networking
 
 Who you know and whether they like you will determine what opportunities you get.  
-Make networking an [habit](chapter_1_self.md#on-habits-and-systems) - your personality type is not an excuse.
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems).
 
 > *'The enemy of excellence is isolation.'*
 
@@ -41,6 +41,8 @@ So find out what people actually want and give it to them.
 > *'Be useful, not important. It’s not about you. It’s about the impact you have on others and the legacy that you leave.'*
 Make sure the other person walks away better for having met you.: add value
 
+> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
+
 HINT: How to prepare an elevator pitch?  
 Personal branding means you are a liar. Truth is a better way to talk about ourselves.  
 The story we tell about ourselves to other people is dangerous. Our self-mythology will seduce us.  
@@ -51,15 +53,6 @@ autenticity
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
-HINT: How to give a good first impression?
-
-- Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real.  
-- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
-- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
-- the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
-- Curiosity is King
-How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
-
 How to taylor/curate a network?
 
 - Networking types: advocates a, boomerang b, celebrities c, drainers d  
@@ -69,44 +62,7 @@ shark, dolphin, drowner
 - super connectors: people with long networks, spend more time with these people / network on relevant groups that can help you.  
 - while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing, unlocking dormant ties, long term
 
-> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
-
-HINT: some field tactics
-
-- people that need to be saved
-- help the hosters to serve food
-- go to the bar and meet people there
-- small and open groups
-- opening line: "hi, I'm X and I dont know anybody in this party." smart flattery  
-- best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments And asking for advice.
-Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
-The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
-Seek someone else’s thoughts and opinions without judging them.
-How to be a great listener: active listening.
-Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
-Paraphrasing: Repeat what they just said in your own words.
-Labeling: Put a name on what they say they’re feeling. “Sounds like you’re feeling pressured.
-Emphasize Similarity, we like people who are like us
-Questions Are Powerful
-A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.
-
-- How to politely end a conversation -> escaping line ( you should go on after 10 or 15 minutes. think about it as exploring.):
-"excuse me but i must to talk with somebody that entered the room"
-"excuse me i have to make a phone call"
-human sacrifice.. intro him and leave
-
-- to rude people: "my mum always told me not to speak with strangers, now i know why"
-
 HOWEVER: no one’s going to help you in a way that’s prejudicial to them.
-
-<!--
-The best way to be highly influential is to be human to everyone you meet.
-add value -> give positive energy
-
-make poeple being interested in you by making them good/unusual questions.
-
-be interested in them to them be interested in you.
--->
 
 
 
@@ -127,10 +83,10 @@ Be humble, listening is powerful.
 
 HINT: How to talk to people?
 
-- listen.  
+- listen: listening without worrying about what we’re going to say next. The best conversationalists are the best listeners.  
 - smile.  
 - don't ramble.   
-- look for external catalysts as hints for stories and questions. Get better asking questions. They are more important than answers.  
+- look for external catalysts as hints for stories and questions. Understand how to stay tuned in to the conversation by picking up on often-ignored (but crucially important) nonverbal cues. Get better asking questions. They are more important than answers.  
 - talk about your passions instead of accomplishments.
 - don't be stubborn. You don't always have to get the last word. Make your point and leave it that way. Let go.
 
@@ -139,6 +95,39 @@ HINT: How to talk to people?
 > *'Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.'*
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
+
+HINT: How to give a good first impression? some field tactics
+
+- Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real.add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
+- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
+- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
+- the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
+- Curiosity is King
+How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
+- Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
+- people that need to be saved
+- help the hosters to serve food
+- go to the bar and meet people there
+- small and open groups
+- opening line: "hi, I'm X and I dont know anybody in this party." smart flattery  
+- best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments And asking for advice.
+- Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
+- The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
+- Seek someone else’s thoughts and opinions without judging them.
+- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
+- How to be a great listener: active listening.
+- Paraphrasing: Repeat what they just said in your own words.
+- Labeling: Put a name on what they say they’re feeling. “Sounds like you’re feeling pressured.
+Emphasize Similarity, we like people who are like us
+- Questions Are Powerful. A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.  
+- How to politely end a conversation -> escaping line ( you should go on after 10 or 15 minutes. think about it as exploring.):
+"excuse me but i must to talk with somebody that entered the room"
+"excuse me i have to make a phone call"
+human sacrifice.. intro him and leave  
+- to rude people: «my mum always told me not to speak with strangers, now i know why»
+/ make poeple being interested in you by making them good/unusual questions.
+be interested in them to them be interested in you.
+- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation.
 
 HINT: How to tell good stories?
 
@@ -155,20 +144,13 @@ Because most of the stories we hear about people’s success are nothing more th
 That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes. authenticity as subtracting the things that get in the way.
 
 <!--
-listening without worrying about what we’re going to say next
-
-The best conversationalists are the best listeners.
 Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
-Understand how to stay tuned in to the conversation by picking up on often-ignored (but crucially important) nonverbal cues.
-Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation.
 
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
 
-> *'Judge a man by his questions, not by his answers.'*
-
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
 
-Don’t Talk to Someone. Talk with Them
+Don’t talk to someone. Talk with them.
 
 You have to be interested to be interesting.
 Take an interest in the other person, and they’ll walk away thinking you are interesting.
@@ -209,7 +191,7 @@ HINT: Validate your business by finding paying clients.
 Often, that requires the technical skills to reliably solve their problems.  
 Always, that requires the communication skills to persuade someone you can solve their problems.'*
 
-HINTS: on successful *entrepreneurs*
+HINTS: on successful *entrepreneurs*.
 
 - Focus on revenue generating activities. If it is not going to earn you money, then don’t do it.  
 - You only have to be really right once. History is filled with examples of people like this. Mark Zuckerberg thought that facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. Seriously. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
@@ -226,26 +208,24 @@ HINTS: on successful *entrepreneurs*
 - In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.
 - Successful *entrepreneurs* are good risk managers.
 - Launch now  
-- Build something people want  
-- Do things that don’t scale  
-- Find the 90 / 10 solution  
-- Find 10-100 customers who love your product  
+- Find the 90/10 solution  
 - All startups are badly broken at some point  
+- Growth is the result of a great product not the precursor  
+- Build something people want: Find 10-100 customers who love your product   
+- Don’t scale your team/product until you have built something people want  
+- Do things that don’t scale  
 - Write code – talk to users  
 - “It’s not your money”  
-- Growth is the result of a great product not the precursor  
-- Don’t scale your team/product until you have built something people want  
 - Valuation is not equal to success or even probability of success  
 - Avoid long negotiated deals with big customers if you can  
 - Avoid big company corporate development queries – they will only waste time  
 - Avoid conferences unless they are the best way to get customers  
 - Pre-product market fit – do things that don’t scale: remain small/nimble  
 - Startups can only solve one problem well at any given time  
-- Founder relationships matter more than you think  
 - Sometimes you need to fire your customers (they might be killing you)  
 - Ignore your competitors, you will more likely die of suicide than murder  
 - Most companies don’t die because they run out of money  
-- Be nice! Or at least don’t be a jerk'*
+- Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
 
 > *'Sara Blakely used the word «empower» several times. Spanx clothes gives women more confidence. Empowers women. The Belly Art Project empowers pregnant women'*
 
@@ -316,17 +296,11 @@ zona genius: only 3 things I'm allowed to do in my business, the things that rea
 top 5 list you do, the rest is avoid at all cost list.
 genius area / excellence area / competence area / incompetence area
 
-how to purge to do list and focus right now
-- does this need to be done regarding my business? Y/N
-- does this be needed by me? Y/N
-- does this need to be done now? Y/N
-Most items were already purged.
-
 hot to make, how to keep, how to grow money
 
 there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
 
-Learn to Provide Relative Value on a Massive Scale and You Will Become Rich
+Learn to provide relative value on a massive scale and you will become rich
 three things make anything possible: People, technology and money.
 -->
 
@@ -580,7 +554,7 @@ If you spend the majority of your time in worlds where people are accomplishing 
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
-HINT: You will waste your life trying to make those around into who you want them to be.
+HINT: you will waste your life trying to make those around into who you want them to be.
 
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
 
@@ -588,8 +562,7 @@ There comes a time in life when you’ll have to leave everything behind and sta
 
 - Cleave from your family but then come back. You need to be independent and loyal at the same time.
 
-HINT: resist to temptation of working with family and friends.  
-There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee. Keep your friends for friendship, work with the skilled and competent.
+HINT: resist to temptation of working with family and friends. There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee. Keep your friends for friendship, work with the skilled and competent.  
 
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
@@ -1188,6 +1161,7 @@ When you sell your ability to deliver results, nobody asks about your skillset.
 
 
 
+---
 ### On career
 
 Avoid the trap of following one set career path. Instead focus on being useful.
