@@ -91,7 +91,7 @@ Analysis is an art, not a science.
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
 And, as such, error-prone:  
-a) randomness: most facts are a «tell» but some are just random.
+- randomness: most facts are a «tell» but some are just random.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
@@ -101,11 +101,11 @@ a) randomness: most facts are a «tell» but some are just random.
 
 It is possible to view this as an isolated event or a trend
 
-c) [being deceived](#on-deceiving);
+- [being deceived](#on-deceiving);
 
 > *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
 
-b) and specially, bias, will trigger miscalculations.
+- and specially, bias, will trigger miscalculations.
 
 > *'What Susie says of Sally says mores about Susie than of Sally.'*
 
@@ -340,7 +340,7 @@ Take a look at almost any comment section on the internet and you are guaranteed
 
 Occam’s razor states that the simplest solution is usually correct
 
-> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber
+> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
 Think of mental models as minimum viable products.
 Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them.
@@ -370,6 +370,7 @@ The critical point for any innovation is the transition from the early adapters 
 
 > *'When enough people (a critical mass) think about and truly consider the plausibility of a concept, it becomes reality.' -- Joseph Duda*
 
+<!--
 His hypothesis was that white families had different levels of tolerance for the number of people of racial minorities in their neighborhoods. Some white families were completely racist; others were not concerned with the race of their neighbors. As increasing numbers of racial minorities moved into neighborhoods, the most racist people would soon leave. Then a tipping point would occur — a critical mass of white people would leave until the area was populated by racial minorities. This phenomenon became known as “white flight
 
 Critical Mass in Psychology
@@ -513,28 +514,28 @@ Stop making resolutions and start making something.
 
 > *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
 
-Why people procrastinate?
+HINT: Why people procrastinate?
 
-1. lack of urgency / deadlines (the panic monster)
+- lack of urgency / deadlines (the panic monster)
 No inspiration or opportunities -- the inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 > *'Pressed by circumstances, we feel unusually energized and focused.'*
 
-No preparation -- you can learn while you do it.  
+- no preparation -- you can learn while you do it.  
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
 > *'Just jump in and figure it out. It can’t be that hard.' -- Chris Voss*
 
-2. perfectionism
+- perfectionism
 
 > *'Perfectionism doesn’t make you feel perfect; it makes you feel inadequate.' -- Maria Shriver*
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
 
-3. fear (of change)
+- fear (of change)
 
 > *'We distract ourselves because we are not willing to face up with what bothers us.'*
 
@@ -1183,7 +1184,8 @@ Mirroring works best when your group is in minority.
 ---
 ### On opponents
 
-1) Beware of easy opponents. Most times it's [bait](#on-charming).
+Beware of all opponents.  
+Easy opponents are normally just just [bait](#on-charming).
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1191,7 +1193,7 @@ Mirroring works best when your group is in minority.
 
 > *«El dorados» are never drawn in the map.'*
 
-And desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+HINTS: on Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
@@ -1209,7 +1211,7 @@ HOWEVER... there are same people acting stupid. Easy wins if you can identify th
 
 > *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
-2) On difficult opponents, to win, besides outworking them, you'll need all weaponry.
+HINTS: on difficult opponents, to win, besides outworking them, you'll need all weaponry.
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
 

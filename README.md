@@ -133,7 +133,7 @@
 *'Life is a balancing act.'*<br>
 *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
 *'Happiness = reality / expectations'*<br>
-*'No man is a prophet in his own land'*
+*'No one is a prophet in his own land'*
 
 One practical advice: *'Have more than one child.'*
 

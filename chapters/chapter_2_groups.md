@@ -858,7 +858,9 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 ---
 ### On politics
 
-'Politicians don't get educated. They get bought.'
+'For the friends: everything. For the enemies: nothing. For the others: the law.'
+
+> *Politicians don't get educated. They get bought.*
 
 > *'The hardest thing in the world to understand is the income tax.'*
 
@@ -1039,16 +1041,15 @@ For that you need to [communicate](#on-communication).
 Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».  
 The only reason there’s so many awful managers is that people like you refuse to do the job.
 
-How to give feedback?
-
-1. Ask instead of telling.
+How to give feedback?  
+- Ask instead of telling.
 
 > *'«Is that the best you can do?»  
 «Interesting, how do you feel about it?»  
 «What does your team think?»  
 «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.'*
 
-2. If you're certain the delivered work is not good enough give a reason.
+- If you're certain the delivered work is not good enough give a reason.
 
 > *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
 
@@ -1164,8 +1165,8 @@ When you sell your ability to deliver results, nobody asks about your skillset.
 ---
 ### On career
 
-Avoid the trap of following one set career path. Instead focus on being useful.
-It will be easier to pivot when needed. Remember: being an employee is risky.
+Avoid the trap of following one set career path. Instead focus on being useful, it will be easier to pivot when needed.  
+However being an employee is risky.
 
 > *'The moment you [rigidly follow a plan](chapter_3_action.md#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
@@ -1206,12 +1207,11 @@ How to «pivot» career?
 
 Cultivate a relevant skill stack. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
 
-- be aware of it, b) cultivate it consciously, and c) apply it in pursuit of a personal goal.
-
-> *1) use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
-write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.<br>
-2) find the people that were working for them. top leaders ask for help and give knowledge away. more open source.<br>
-3) take risks to boost your immune system.*
+- be aware of it, cultivate it consciously, and apply it in pursuit of a personal goal.  
+- use the career fuel (transportable skills) that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
+write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.  
+- find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
+- take risks to boost your immune system.*
 
 pivoting?
 - Pivoting isn’t easy, even if you know it’s right.  

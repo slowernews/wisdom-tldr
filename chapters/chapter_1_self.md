@@ -991,8 +991,6 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'Continuous effort -- not strength or intelligence -- is the key to unlocking our potential.' -- Winston Churchill*
 
-> *'You are what you repeatedly do, excellence, therefore, is not an action, but a habit' -- Will Durant*
-
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
 > *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*

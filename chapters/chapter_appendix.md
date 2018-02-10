@@ -145,7 +145,9 @@ make the exercise: imagine you life in 10years. possible futures
 
 'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson
 
-Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction. Genius and talent are rare, and as such, the most sensitive trigger for envy.
+'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher
+
+Genius and talent are rare, and as such, the most sensitive trigger for envy.
 
 HINT: talent is fragile. To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.
 
