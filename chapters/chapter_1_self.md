@@ -6,9 +6,12 @@
 	|__/ |  / |__/||__/ |__  |__  |          _|   -        __/ |__  | |    
 	               |                                                       
 
-# 1.1 - On foundations
 
-### On the real you
+# 1 - Intro
+
+The real you.
+
+> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 You are your deeds: your actions reveal your real values.  
 How you do anything is how you do everything. Ultimately you are your choices.
@@ -20,20 +23,26 @@ Always strive to be better. Is succeeding at mediocrity a worthwhile life?
 For some of you, you must make the conscious decision that you are going to change your story.
 No matter where you are in your life, you have the power to change everything in an instant.
 
-If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
-Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
-
-Take Extreme Ownership. why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
-
 You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
-
-> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
 
 <!--
 bravery is learned -> micro-bravery, start small
 -->
+
+
+
+
+---
+# 1.1 - On foundations
+
+### On accountability
+
+If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
+Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+
+Take Extreme Ownership. why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
 
 
 
@@ -55,12 +64,6 @@ Do you want short term popularity or long term respect? Show respect to others. 
 > *'Seek respect, not attention. It lasts longer.'*
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
-
-Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
-
-> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
-
-> *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
 
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
@@ -126,6 +129,12 @@ I sometimes forget that a group of people blazed the trail I’m enjoying and th
 ---
 ### On gratitude and humbleness
 
+Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
+
+> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
+
+> *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
+
 > *'Being grateful is looking down.'*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
@@ -171,7 +180,7 @@ Optimizing happiness on a personal level vs. succumbing to what society says wil
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
-> *'Freedom is not giving a f*ck.' -- Dorian Yates*
+> *'Freedom is not giving a fuck.' -- Dorian Yates*
 
 HINT:
 
@@ -189,6 +198,10 @@ The freedom to express oneself fully.
 Practice doing without things you think you need.
 
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
+
+> *'Never complain; never explain.' -- Benjamin Disraeli*
+
+> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
 -->
 
 > *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
@@ -275,10 +288,6 @@ How to define success for yourself. self-awareness?
 
 > *'Evil will prevail if good men stand back and do nothing.'*
 
-> *'Never complain; never explain.' -- Benjamin Disraeli*
-
-> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
-
 > *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
 
 > *'Ego is the unhealthy belief in our own importance.'*
@@ -318,7 +327,7 @@ HOWEVER... the origin of most health problems is not physical but mental.
 
 > *'Action cures everything. Plain and simple.'*
 
-HINT: What is stress?  
+HINT: What causes stress?  
 Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  
 The more relaxed you are, the better you are at everything.
 
@@ -335,7 +344,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 > *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
 HINT: What is depression?  
-Depression is a lack of your expression.  
+Depression is the lack of self-expression.  
 Anxiety and depression are symptoms, not diseases.
 If you feel powerless/being dominated you will be chronically stressed.
 
@@ -708,7 +717,7 @@ pursue authentic pride
 ---
 # 1.3 - On growth
 
-### On finding a path
+### On finding your path
 
 Cancel your pity party, no one is coming to save you.  
 Pull yourself together and take total ownership for everything in your life.  
@@ -1198,14 +1207,14 @@ Make the consequences of inaction so unbearable that you have no choice but to g
 Going public with a goal increases your support and accountability. Ask for support, but don’t kid yourself that support equals progress.
 
 framework for accelerated learning: (deconstruction, selection, right sequence, and reward/punishment
-
-Discipline eliminates complexity. Everyday, you make micro and macro decisions. If you reduce the number of decisions you need to make daily, you have more freedom.
+ more freedom.
 
 > *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
 
 i have no special talent, i'm only passionately curious -- einstein
 
-“Lift heavy weights for 5 hours a week and only eat real food. Start a side hustle, save away every extra penny, and then invest in some sort of asset like a real estate deal. Talk to five new women every day, be genuinely interested, and be authentic with them. Start journaling, meditating, and pushing yourself to embrace adversity.”
+“Lift heavy weights for 5 hours a week and only eat real food. Start a side hustle, save away every extra penny, and then invest in some sort of 
+Discipline eliminates complexity. Everyday, you make micro and macro decisions. If you reduce the number of decisions you need to make daily, you haveasset like a real estate deal. Talk to five new women every day, be genuinely interested, and be authentic with them. Start journaling, meditating, and pushing yourself to embrace adversity.”
 
 Unlike IQ, which tends to stay the same throughout life, emotional intelligence is a flexible set of skills that can be acquired and improved with practice. Emotional intelligence is determined by self-awareness, self-management, social awareness, and relationship management.
 

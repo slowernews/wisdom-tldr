@@ -20,8 +20,6 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems).
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
 
-> *'The purpose of high education is first and foremost to meet people and build relationships.'*
-
 > *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.'*
 
 HINT: How to network? Adding value is everything. Help people.  
@@ -1057,14 +1055,12 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
 
+But data shows people want more feedback but monthly, not daily.
+
 <!--
 Jeff Bezos, for example, famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.
 
 As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
-
-Data shows people want more feedback: monthly, not daily.
-
-if you're stuck chnage tools
 
 > *'Too busy pretending I'm occupied.'*
 
@@ -1127,9 +1123,6 @@ Train, train, train. If you treat your employee right, you can absolutely train 
 At the same time, wages aren't everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don't offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won't just up and go to a new company after you've trained them.
 I can go on, but there's a few things I've learned.
 
-
-
-
 Have you seen that one position that you absolutely want? Build your portfolio around that job’s requirements and responsibilities. -> targeted cv
 
 Tip #3: A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences.
@@ -1165,8 +1158,8 @@ When you sell your ability to deliver results, nobody asks about your skillset.
 ---
 ### On career
 
-Avoid the trap of following one set career path. Instead focus on being useful, it will be easier to pivot when needed.  
-However being an employee is risky.
+Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed.  
+Being an employee is long-term risky.
 
 > *'The moment you [rigidly follow a plan](chapter_3_action.md#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'*
 
@@ -1190,7 +1183,7 @@ The risk is the salaried employee in an economy with shrinking corporations, mor
 
 How to keep a job?
 
-> *'I had a manager at Google who once said the people who were terminated at Google were those who question too much and code too little.'*
+> *'I had a manager who once said the people who were terminated were those who question too much and do too little.'*
 
 > *'While deep work will promote you, shallow work will only prevent you from being fired.'  
 'Career capital is the unique skills that make you rare and valuable'  
@@ -1237,6 +1230,8 @@ It’s the last time they will ever hang out with people their own age. My close
 It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you.
 I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears.
 So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up.' -- James Altucher*
+
+> *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
 How to get employers feedback?  
 If you ask them why did they asked you for an interview, they will describe your strengths.

@@ -7,8 +7,10 @@
 ### Chapter 1 - Self
 
 
+- [Intro](/chapters/chapter_1_self.md#intro)
+
 *On foundations*
-- [On the real you](/chapters/chapter_1_self.md#on-the-real-you)
+- [On accountability](/chapters/chapter_1_self.md#on-accountability)
 - [On integrity](/chapters/chapter_1_self.md#on-integrity)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
@@ -24,7 +26,7 @@
 - [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
 
 *On growth*
-- [On finding a path](/chapters/chapter_1_self.md#on-finding-a-path)
+- [On finding your path](/chapters/chapter_1_self.md#on-finding-your-path)
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
