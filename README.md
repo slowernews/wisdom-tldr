@@ -4,10 +4,15 @@
 'Distillation' is still far from ready, so expect inconsistencies, innacuracies and omissions.
 
 
+### Intro
+
+
+- [Intro](/chapters/intro.md#intro)
+- [On happiness](/chapters/intro.md#on-gratefulness-and-happiness)
+
+
 ### Chapter 1 - Self
 
-
-- [Intro](/chapters/chapter_1_self.md#intro)
 
 *On foundations*
 - [On accountability](/chapters/chapter_1_self.md#on-accountability)
@@ -15,7 +20,6 @@
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
 - [On freedom](/chapters/chapter_1_self.md#on-freedom)
-- [On happiness](/chapters/chapter_1_self.md#on-gratefulness-and-happiness)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
