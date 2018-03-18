@@ -4,11 +4,11 @@
 'Distillation' is still far from ready, so expect inconsistencies, innacuracies and omissions.
 
 
-### Intro
+### Introduction
 
 
-- [Intro](/chapters/intro.md#intro)
-- [On happiness](/chapters/intro.md#on-gratefulness-and-happiness)
+- [Intro](/chapters/introduction.md#intro)
+- [On happiness](/chapters/introduction.md#on-gratefulness-and-happiness)
 
 
 ### Chapter 1 - Self
@@ -21,14 +21,6 @@
 - [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
 - [On freedom](/chapters/chapter_1_self.md#on-freedom)
 
-*On your worst enemy: yourself*
-- [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
-- [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
-- [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
-- [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
-- [On shame](/chapters/chapter_1_self.md#on-shame)
-- [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
-
 *On growth*
 - [On finding your path](/chapters/chapter_1_self.md#on-finding-your-path)
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
@@ -36,6 +28,14 @@
 - [On improving](/chapters/chapter_1_self.md#on-improving)
 - [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
+
+*On your worst enemy: yourself*
+- [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
+- [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
+- [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
+- [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
+- [On shame](/chapters/chapter_1_self.md#on-shame)
+- [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
 
 
 ### Chapter 2 - Groups

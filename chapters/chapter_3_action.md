@@ -301,6 +301,8 @@ Actions > Thoughts; Actions change the world. Not beliefs.
 
 > *'The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.' -- F. Scott Fitzgerald*
 
+> *'He who fails to plan is planning to fail.' -- Sir Winston Churchill*
+
 > *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
 
 > *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*

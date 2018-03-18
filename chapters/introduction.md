@@ -1,14 +1,12 @@
 
-	                      
-	 /      /             
-	(  ___ (___  ___  ___ 
-	| |   )|    |   )|   )
-	| |  / |__  |    |__/ 
-                       
+                                                      
+	 /      /                 |           /    /          
+	(  ___ (___  ___  ___  ___|      ___ (___    ___  ___ 
+	| |   )|    |   )|   )|   )|   )|    |    | |   )|   )
+	| |  / |__  |    |__/ |__/ |__/ |__  |__  | |__/ |  / 
+		
 
-### Intro
-
-The real you.
+### The real you
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -25,11 +23,6 @@ No matter where you are in your life, you have the power to change everything in
 You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
 
 > *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
-
-<!--
-bravery is learned -> micro-bravery, start small
--->
-
 
 
 

@@ -15,6 +15,10 @@ Your results are yours and yours alone. Your choices determined the body, bank a
 
 Take Extreme Ownership. why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
 
+<!--
+bravery is learned -> micro-bravery, start small
+-->
+
 
 
 
@@ -116,6 +120,8 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
+> *'[Gratitude] is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
+
 
 
 
@@ -184,409 +190,8 @@ Practice doing without things you think you need.
 
 
 
----                                                                                                                                 
-# 1.2 - On your worst enemy: yourself
-
-### On stress and health
-
-Take care of your body. It’s the most important thing you’ll get for free.  
-HOWEVER... the origin of most health problems is not physical but mental.
-
-> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
-
-> *'Body language affects your psychology, your mood, and even your hormonal balance.'*
-
-> *'Action cures everything. Plain and simple.'*
-
-HINT: What causes stress?  
-Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  
-The more relaxed you are, the better you are at everything.
-
-> *'Under-stimulation = boredom   
-right amount of stress = hustling (stretching comfort zone)   
-over-stimulation = anxiety'*
-
-> *'If you are depressed you are living in the past.   
-If you are anxious you are living in the future.   
-If you are at peace you are living in the present.' -- Lao Tzu*
-
-<!-- ligar com #on-control -->
-
-> *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
-
-HINT: What is depression?  
-Depression is the lack of self-expression.  
-Anxiety and depression are symptoms, not diseases.
-If you feel powerless/being dominated you will be chronically stressed.
-
-> *'Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination.'*
-
-> *'Nothing is gained by worrying about «not knowing»'*
-
-> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
-
-HINT: How to fight depression? Starve and exercise. When sick, move!
-
-> *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
-
-> *'If you are feeling stressed out.. breathe.'*
-
-> *'Get out of yourself and go make something for somebody else.'*
-
-> *'I've decided to be happy because it is good to my health.'*
-
-> *'Forgiving yourself is not a nice to have, but a must have.' -- Tim Ferriss*
-
-> *'If you want to lift yourself up, lift up someone else.' -- Booker T. Washington*
-
-> *'People do not die from suicide. they die from sadness.'*
-
-HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-
-<!--
-on placebos
-> *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
-
-When most people are struggling with pain, they fail to realize that often times, their pain is caused by a mental or emotional problem and not a physical problem. This could stem from a childhood trauma, a tragic event, or simply a personal insecurity.
-Reframe Your Pain and Become Grateful 
-The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
-
-exercise diminishes need of control. people burn extra calories through anxiety
-stressed out by being under estimulated, people will create stresses trying to estimulate themselves.
-Our bodies were built to hunt and gather and move. Humans aren’t meant to stay still.
--->
-
-
-
-
 ---
-### On limits, resistance and motivation
-
-Your limits are where are your fears.
-
-> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
-
-> *'The only person standing in your way is you.' -- Black Swan*
-
-HOWEVER... your level of success will seldom exceed your level of personal development.
-
-<!--
-We live in a society where the greatest lies that are told are the ones that we tell ourself.
-
-Your belief that you are not good enough:
-that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
-
-impostor syndrome
-
-4. Break Down Your Dreams/goals into Achievable Steps
-
-break through your plateaus - Resistance and plateaus Comes from Negative Projections
-
-> *'On a plateau take a step back.'*
-There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
--->
-
-
-
-
----
-### On fear, anger and excuses
-
-Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
-
-> *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
-
-> *'Behaviors are driven by fear. to change behaviors focus on fear, not on the behavior itself.'*
-
-> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
-
-> *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
-
-> *'The things we fear the most have already happened to us.'*
-
-> *'You'll never have fear of loss when you give more value to lessons than successes.'*
-
-> *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
-
-> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
-
-> *'Hatred is born of ignorance. Fear is its father, and isolation is its mother.' -- Christian Picciolini*
-
-Anger and excuses are fear clothed. All excuses are refutable.
-
-> *'There is no coming to consciousness without pain.  
-People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
-
-> *'You cannot use your personality type as an excuse.'*
-
-> *'You'll never be as young as you are today.'*
-
-> *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
-
-<!--
-your personality type is not an excuse.
-
-The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.
-
-I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
-“Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
-
-Fear is the mind eater
-Reframe Fears as Fiction. In AA, they define fear as “False evidence appearing real”.
-Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
-
-break down your fears until you figure out the truth. we stuck in the fear of consequences
-you will never achieve anything if you allow indecisiveness to lead to inaction.
-
-Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
--->
-
-
-
-
----
-### On mistakes and failure
-
-Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness):  
-Sometimes you win, sometimes you learn. Accept failure as part of the process.
-
-> *'Anyone who has never made a mistake has never tried anything new.'*
-
-> *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
-
-> *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
-
-> *'Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.'*
-
-> *'You are more than your mistakes. Your past mistakes are meant to guide you, not to define you.'*
-
-> *'Making mistakes is better than faking perfections.'*
-
-HINT: Be gentle first with yourself.
-
-> *'The more you fail, the more you learn.'*
-
-> *'When you don't know something you will pay for it. That's the stupidity tax.'*
-
-> *'Prove all things; hold fast that which is good.' -- 1 Thessalonians 5:21*
-
-> *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
-
-> *'Calling it an experiment gives you permission to fail.' -- A.J. Jacobs*
-
-> *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
-
-> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
-
-> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
-
-<!--
-Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
-
-failures are flip-sides of our strengths, the opposite is true also
-
-you fail by the same reasons that you sometimes you will succeed
-
-Trauma is a tattoo on the soul.
-When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it.
-Surrender is ACTIVE. It teams you up with the strongest part of yourself.
-Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
-
-Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
-
-The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
-
-But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
-
-De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
-
-After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
-
-It might sound selfish or egotistic, but the simple fact of the matter is that you should come first.
-
-Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
-
-Avoiding Anxiety Leads to More Anxiety
-Avoiding Anxiety Restricts Our Lives
-While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
-Social Anxiety is never the problem, but trying to avoid social anxiety is.
-Learn How to Deal With Social Anxiety to Live a Rich and Full Life
-Social Anxiety Buster #1: Fake It ‘Til You Make It
-Social Anxiety Buster #2: Be Present and Listen
-
-Like Mike Tyson says, “Everyone has a plan until they get punched in the mouth.”
-Social Anxiety Buster #3: Mind Your Body Language
-All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either
-Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
-
-every difficulty carries with it a corresponding opportunity of equal size.
-
-Have a little arrogance to step in!
-
-> *'Whenever I climb I am followed by a dog called ‘Ego’.' -- Friedrich Nietzsche*
-
-Better antidepressant is knowing we matter to others.
-
-The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible.
-When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility. All in all, it makes your dating life 1,000 times easier and more fun to navigate.
-
-Seek Validation from Yourself and Yourself Only, specially men
-The problem is that men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
-
-I had a scarcity mindset = pessimism, about life and zero confidence
-
-I do my best to always pay attention to how I am presenting myself to others everywhere I go. I do a body check every time I walk into a room and make sure to keep a high value mindset. I feel that I am a better listener now and I pay close attention to low value behaviors that try to creep back into my life. My conversations are better. People see me as a confident person and as someone they can talk to. The increased enjoyment of my life and my relationships are priceless and the investment I made in myself has already financially paid itself back several times.
-
-> *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
-
-Conquering Fear = Defining Fear: define your fears not yor goals
-
-hero and coward feel the same fear but their answers to it are different.
-
-You don’t have to prove anything to anybody, including yourself.
-
-therapy (awareness of past) / yoga (awareness of future) / spirituality (awareness of present)
-
-Uncovering Fear Disguised as Optimism
-
-> *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*  
-
-> *'Named must your fear be before banish it you can.' -- Yoda*
-
-> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
-
-> *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
-
-few points of failure
-the massive amount of failure needed to..
-
-It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover.
-
-HARD WORK = CONFIDENCE
-
-Failure is necessary to be successful in life. There’s a big difference between quitting and failure.
-
-put a gun to your head: what do you want to accomplish in your life.
-burning bridges to get the motivation.
-
-“There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die.
-“Every day I wake up with that gun to my head. Every day I live.”
-
-Why Self-Compassion Works Better Than Self-Esteem
-Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
-
-As my psychotherapist put it yesterday: people that seek self-esteem in an unhealthy way are vampires. "You have to become your own bloodsource" she said.
-
-anger is fear clothed: Understanding the underlying fears that angry people have leads to mastery in life.
-Corollary: Stand next to the smartest person in the room.
-
-Write about it: Thinking about it makes it worse. Writing about it makes it better.
--->
-
-
-
-
----
-### On shame
-
-Speaking openly about an imperfection is a sign of strength, not a weakness.  
-You are not you think you are: *you are what you hide*.
-
-<!--
-Usually the things you hate most about yourself are the things you hide from the rest of the world.
-What I’m saying is, you gotta share that shit in order to heal it, son.
-
-It’s not just other people we need to forgive. Sometimes we need to forgive ourselves. — Mitch Albom
-
-You can hide the ugly parts, but you can't make them disappear.
--->
-
-> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
-
-> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
-
-> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
-
-> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
-
-> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
-
-> *'What you fear you attract; what you resist, you make it bigger.'*
-
-> *'Just get out of the room.' -- Robert Glover*
-
-> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
-
-> *'Nobody feels love when they feel shame.' -- John Townsend*
-
-
-
-
----
-### On confidence and validation
-
-If you say it with confidence, you are who you say you are.
-
-> *'You're only as good as your next speech.'*
-
-> *'A speech is a performance. Authenticity is crucial.'*
-
-> *'Believe you can, and you’re half way there.'*
-
-Don’t wait for someone to tell you that you are special. If the universe didn't need you, you wouldn't be here.
-
-> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
-
-> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
-
-> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
-
-> *'Let go of your ego and your need for validation.'*
-
-> *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
-
-[Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.  
-In the meanwhile any source is good. Don't stop till you get it.
-
-> *'If you don't believe in yourself. Believe in me who believes in you.'*
-
-> *'Fake it till you make it.'*
-
-<a id="on-arrogance"></a>HOWEVER... know the frontier between confidence and arrogance.
-
-> *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
-
-> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
-
-> *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
-
-<!--
-analogy: confidence is like a building
-
-If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
-
-How to Enter a Room So People Take Notice
-1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
-2. Don’t Look Away! Eye contact builds trust.
-3. dont hide yourself.
-4. dont wait to start talking. a groou or a double might be an easy place to start.
-5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
-
-> *'Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.'*
-
-Confidence is a result, not a requirement
-
-confidence relies on pride
-pursue authentic pride
-
-> *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
--->
-
-
-
-
----
-# 1.3 - On growth
+# 1.2 - On growth
 
 ### On finding your path
 
@@ -1325,3 +930,410 @@ teach something to a toddler to learn stuff
 
 amateurs play for tricks, masters play for position
 -->
+
+
+
+
+---                                                                                                                                 
+# 1.3 - On your worst enemy: yourself
+
+### On stress and health
+
+Take care of your body. It’s the most important thing you’ll get for free.  
+HOWEVER... the origin of most health problems is not physical but mental.
+
+> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
+
+> *'Body language affects your psychology, your mood, and even your hormonal balance.'*
+
+> *'Action cures everything. Plain and simple.'*
+
+HINT: What causes stress?  
+Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  
+The more relaxed you are, the better you are at everything.
+
+> *'Under-stimulation = boredom   
+right amount of stress = hustling (stretching comfort zone)   
+over-stimulation = anxiety'*
+
+> *'If you are depressed you are living in the past.   
+If you are anxious you are living in the future.   
+If you are at peace you are living in the present.' -- Lao Tzu*
+
+<!-- ligar com #on-control -->
+
+> *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+
+HINT: What is depression?  
+Depression is the lack of self-expression.  
+Anxiety and depression are symptoms, not diseases.
+If you feel powerless/being dominated you will be chronically stressed.
+
+> *'Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination.'*
+
+> *'Nothing is gained by worrying about «not knowing»'*
+
+> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
+
+HINT: How to fight depression? Starve and exercise. When sick, move!
+
+> *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
+
+> *'If you are feeling stressed out.. breathe.'*
+
+> *'Get out of yourself and go make something for somebody else.'*
+
+> *'I've decided to be happy because it is good to my health.'*
+
+> *'Forgiving yourself is not a nice to have, but a must have.' -- Tim Ferriss*
+
+> *'If you want to lift yourself up, lift up someone else.' -- Booker T. Washington*
+
+> *'People do not die from suicide. they die from sadness.'*
+
+HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+
+<!--
+Boredom is a soul sucker.
+	
+on placebos
+> *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
+
+When most people are struggling with pain, they fail to realize that often times, their pain is caused by a mental or emotional problem and not a physical problem. This could stem from a childhood trauma, a tragic event, or simply a personal insecurity.
+Reframe Your Pain and Become Grateful 
+The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
+
+exercise diminishes need of control. people burn extra calories through anxiety
+stressed out by being under estimulated, people will create stresses trying to estimulate themselves.
+Our bodies were built to hunt and gather and move. Humans aren’t meant to stay still.
+-->
+
+
+
+
+---
+### On limits, resistance and motivation
+
+Your limits are where are your fears.
+
+> *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
+
+> *'The only person standing in your way is you.' -- Black Swan*
+
+HOWEVER... your level of success will seldom exceed your level of personal development.
+
+<!--
+We live in a society where the greatest lies that are told are the ones that we tell ourself.
+
+Your belief that you are not good enough:
+that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+
+impostor syndrome
+
+4. Break Down Your Dreams/goals into Achievable Steps
+
+break through your plateaus - Resistance and plateaus Comes from Negative Projections
+
+> *'On a plateau take a step back.'*
+There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
+-->
+
+
+
+
+---
+### On fear, anger and excuses
+
+Fear is paralyzing. To overcome it, replace fear of unknown with curiosity.
+
+> *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
+
+> *'Behaviors are driven by fear. to change behaviors focus on fear, not on the behavior itself.'*
+
+> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
+
+> *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
+
+> *'The things we fear the most have already happened to us.'*
+
+> *'You'll never have fear of loss when you give more value to lessons than successes.'*
+
+> *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
+
+> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
+
+> *'Hatred is born of ignorance. Fear is its father, and isolation is its mother.' -- Christian Picciolini*
+
+Anger and excuses are fear clothed. All excuses are refutable.
+
+> *'There is no coming to consciousness without pain.  
+People will do anything, no matter how absurd, in order to avoid facing their own Soul.'*
+
+> *'You cannot use your personality type as an excuse.'*
+
+> *'You'll never be as young as you are today.'*
+
+> *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
+
+<!--
+your personality type is not an excuse.
+
+The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.
+
+I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
+“Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
+
+Fear is the mind eater
+Reframe Fears as Fiction. In AA, they define fear as “False evidence appearing real”.
+Realize that on the other side of every fear is a stronger, more powerful, and more grounded man. Embrace the fear and achieve your dream life.
+
+break down your fears until you figure out the truth. we stuck in the fear of consequences
+you will never achieve anything if you allow indecisiveness to lead to inaction.
+
+Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
+-->
+
+
+
+
+---
+### On mistakes and failure
+
+Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness):  
+Sometimes you win, sometimes you learn. Accept failure as part of the process.
+
+> *'Anyone who has never made a mistake has never tried anything new.'*
+
+> *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
+
+> *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
+
+> *'Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.'*
+
+> *'You are more than your mistakes. Your past mistakes are meant to guide you, not to define you.'*
+
+> *'Making mistakes is better than faking perfections.'*
+
+HINT: Be gentle first with yourself.
+
+> *'The more you fail, the more you learn.'*
+
+> *'When you don't know something you will pay for it. That's the stupidity tax.'*
+
+> *'Prove all things; hold fast that which is good.' -- 1 Thessalonians 5:21*
+
+> *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
+
+> *'Calling it an experiment gives you permission to fail.' -- A.J. Jacobs*
+
+> *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
+
+> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
+
+> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
+
+<!--
+Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
+
+failures are flip-sides of our strengths, the opposite is true also
+
+you fail by the same reasons that you sometimes you will succeed
+
+Trauma is a tattoo on the soul.
+When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it.
+Surrender is ACTIVE. It teams you up with the strongest part of yourself.
+Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
+
+Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
+
+The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
+
+But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
+
+De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
+
+After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
+
+It might sound selfish or egotistic, but the simple fact of the matter is that you should come first.
+
+Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
+
+Avoiding Anxiety Leads to More Anxiety
+Avoiding Anxiety Restricts Our Lives
+While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
+Social Anxiety is never the problem, but trying to avoid social anxiety is.
+Learn How to Deal With Social Anxiety to Live a Rich and Full Life
+Social Anxiety Buster #1: Fake It ‘Til You Make It
+Social Anxiety Buster #2: Be Present and Listen
+
+Like Mike Tyson says, “Everyone has a plan until they get punched in the mouth.”
+Social Anxiety Buster #3: Mind Your Body Language
+All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either
+Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
+
+every difficulty carries with it a corresponding opportunity of equal size.
+
+Have a little arrogance to step in!
+
+> *'Whenever I climb I am followed by a dog called ‘Ego’.' -- Friedrich Nietzsche*
+
+Better antidepressant is knowing we matter to others.
+
+The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible.
+When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility. All in all, it makes your dating life 1,000 times easier and more fun to navigate.
+
+Seek Validation from Yourself and Yourself Only, specially men
+The problem is that men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
+
+I had a scarcity mindset = pessimism, about life and zero confidence
+
+I do my best to always pay attention to how I am presenting myself to others everywhere I go. I do a body check every time I walk into a room and make sure to keep a high value mindset. I feel that I am a better listener now and I pay close attention to low value behaviors that try to creep back into my life. My conversations are better. People see me as a confident person and as someone they can talk to. The increased enjoyment of my life and my relationships are priceless and the investment I made in myself has already financially paid itself back several times.
+
+> *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
+
+Conquering Fear = Defining Fear: define your fears not yor goals
+
+hero and coward feel the same fear but their answers to it are different.
+
+You don’t have to prove anything to anybody, including yourself.
+
+therapy (awareness of past) / yoga (awareness of future) / spirituality (awareness of present)
+
+Uncovering Fear Disguised as Optimism
+
+> *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*  
+
+> *'Named must your fear be before banish it you can.' -- Yoda*
+
+> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
+
+> *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
+
+few points of failure
+the massive amount of failure needed to..
+
+It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover.
+
+HARD WORK = CONFIDENCE
+
+Failure is necessary to be successful in life. There’s a big difference between quitting and failure.
+
+put a gun to your head: what do you want to accomplish in your life.
+burning bridges to get the motivation.
+
+“There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die.
+“Every day I wake up with that gun to my head. Every day I live.”
+
+Why Self-Compassion Works Better Than Self-Esteem
+Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
+
+As my psychotherapist put it yesterday: people that seek self-esteem in an unhealthy way are vampires. "You have to become your own bloodsource" she said.
+
+anger is fear clothed: Understanding the underlying fears that angry people have leads to mastery in life.
+Corollary: Stand next to the smartest person in the room.
+
+Write about it: Thinking about it makes it worse. Writing about it makes it better.
+-->
+
+
+
+
+---
+### On shame
+
+Speaking openly about an imperfection is a sign of strength, not a weakness.  
+You are not you think you are: *you are what you hide*.
+
+<!--
+Usually the things you hate most about yourself are the things you hide from the rest of the world.
+What I’m saying is, you gotta share that shit in order to heal it, son.
+
+It’s not just other people we need to forgive. Sometimes we need to forgive ourselves. — Mitch Albom
+
+You can hide the ugly parts, but you can't make them disappear.
+-->
+
+> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+> *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
+
+> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
+
+> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
+
+> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
+
+> *'What you fear you attract; what you resist, you make it bigger.'*
+
+> *'Just get out of the room.' -- Robert Glover*
+
+> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+
+> *'Nobody feels love when they feel shame.' -- John Townsend*
+
+
+
+
+---
+### On confidence and validation
+
+If you say it with confidence, you are who you say you are.
+
+> *'You're only as good as your next speech.'*
+
+> *'A speech is a performance. Authenticity is crucial.'*
+
+> *'Believe you can, and you’re half way there.'*
+
+Don’t wait for someone to tell you that you are special. If the universe didn't need you, you wouldn't be here.
+
+> *'You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness.'*
+
+> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
+
+> *'Let go of your ego and your need for validation.'*
+
+> *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
+
+[Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.  
+In the meanwhile any source is good. Don't stop till you get it.
+
+> *'If you don't believe in yourself. Believe in me who believes in you.'*
+
+> *'Fake it till you make it.'*
+
+<a id="on-arrogance"></a>HOWEVER... know the frontier between confidence and arrogance.
+
+> *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
+
+> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
+
+> *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
+
+<!--
+analogy: confidence is like a building
+
+If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
+
+How to Enter a Room So People Take Notice
+1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
+2. Don’t Look Away! Eye contact builds trust.
+3. dont hide yourself.
+4. dont wait to start talking. a groou or a double might be an easy place to start.
+5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
+
+> *'Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.'*
+
+Confidence is a result, not a requirement
+
+confidence relies on pride
+pursue authentic pride
+
+> *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
+-->
+
+
+
+

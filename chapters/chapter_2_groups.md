@@ -821,6 +821,8 @@ Most people are other people. Their thoughts are someone else opinions and they 
 
 > *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
 
+> *'Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it.' -- Anders Hejlsberg*
+
 HOWEVER... smart people don’t think others are stupid and common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
@@ -883,6 +885,10 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 > *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
 
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
+
+<!--
+I would not consider taxes to be “punitive.” Taxes aren’t punishment. They are much more like a membership fee
+-->
 
 
 

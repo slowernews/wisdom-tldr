@@ -39,6 +39,8 @@ I’m like that. Either I forget right away or I never forget.
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.'*
 
 The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
+
+> *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
 -->
 
 
@@ -152,6 +154,15 @@ Genius and talent are rare, and as such, the most sensitive trigger for envy.
 HINT: talent is fragile. To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
+
+<!--
+So many geniuses, are really good at eliminating unnecessary complexity. Enstien, for instance, was a master at sifting the essential from the non-essential. Steve Jobs was the same.
+
+“Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.”
+— Andy Benoit
+
+> *'The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.' -- John Holt*
+-->
 
 
 
@@ -525,6 +536,16 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 > *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
 
+> *'Art doesn’t end at the edge of the canvas.'*
+
+<!--
+arte é expressão, e normalmente arte é resposta ao sofrimento. qd tas bem não fazes arte.
+
+Art is a meditation and design is a negotiation.
+
+an artist normally is an egocentric, free and creative person.
+-->
+
 
 
 
@@ -708,3 +729,22 @@ The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpow
 The ability to [listen](chapter_2_groups.md#on-communication) is a superpower.
 
 The ability to [focus](chapter_3_action.md#on-focus-time-management-and-productivity) is a superpower.
+
+<!--
+sustainable competitive advantage.Here are five big ones.
+1 - The ability to learn faster than your competition
+Marc Andreessen promotes the idea of “strong beliefs, weakly held,”
+
+2 - The ability to empathize with customers more than your competition
+What percentage of McDonald’s executives frequent their own restaurant as a legitimate customer interested in the chain’s food, rather than a fact-finding mission? Few, I imagine. How many times has the CEO of Delta Airlines been bumped from a flight, or had his bags lost by the airline? Never, I assume.
+
+3 - The ability to communicate more effectively than your competition
+Most business edges are found at the intersection of trust and simplicity. Both rely on the ability to tell customers what and why you’re doing something before losing their attention.
+
+4 - The willingness to fail more than your competition
+Here’s Bezos again: “If you double the number of experiments you do per year, you’re going to double your inventiveness.”
+The key is creating a culture that allows you to fail often without ruin.
+
+5 - The willingness to wait longer than your competition
+Expected value refers to the long-run average of a random variable.
+-->
