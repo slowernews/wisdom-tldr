@@ -187,6 +187,8 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 
 > *'Don’t think money does everything or you are going to end up doing everything for money.' -- Voltaire*
 
+> *'We don't make movies to make money; We make money to make more movies.' -- Walt Disney*
+
 <!--
 nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
 -->
@@ -340,6 +342,8 @@ HINT: How to simplify?
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+geoarbitrage
+	
 Work no more than 35 hours a week.
 
 HINTS on the value in less and the joy of missing out:

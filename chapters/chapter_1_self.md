@@ -212,6 +212,8 @@ Passion is made not found.
 > *'When life gets blurry, just adjust your focus.'*
 
 <!--
+The obstacle is the way
+	
 The perpetual chase for more is not the path that leads to more freedom and happiness.
 
 Best Effort + Surrender = DESTINY

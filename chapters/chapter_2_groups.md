@@ -383,6 +383,8 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+on negotiation if you want to go fast, let the other part go first.
+	
 > *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
 	
 > *'Unexpressed feelings never die.'*
@@ -658,6 +660,8 @@ Fatherhood makes you a mentor independently of your will. Learn how to give advi
 
 > *'I don't tell my boys them how to live. I live fully and let them see.'*
 
+> *'The best gift you can give your children is failure'*
+
 HINTS: How to teach your kids...
 
 - generosity: «What did u do this week for somebody?»  
@@ -830,6 +834,10 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
 
 <!--
+> *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
+
+most people don't actually think. They just take their first thought and go.	
+
 Two economists are walking along the street, and one says, “Hey, someone dropped a $20 bill!” and the other says, “Well, it can’t be a real $20 bill because someone would have picked it up already.”
 	
 From Scott Adams (Dilbert):
@@ -888,6 +896,8 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 <!--
 I would not consider taxes to be “punitive.” Taxes aren’t punishment. They are much more like a membership fee
+
+> *'When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
 -->
 
 

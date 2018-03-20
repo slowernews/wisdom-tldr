@@ -56,9 +56,14 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 
+> *'Happiness is your default state when you remove everything.' -- Naval Ravikant*
+
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+happiness is not about positive thoughts. but every positive thought is based on a negative thought.
+happiness is about absense of desire! and embrace the presence on the present time.
+	
 EDGE: temos q estar sempre nos limites para sermos felizes.
 
 You Don’t Have to Pick Happiness or Profit
