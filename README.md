@@ -15,19 +15,19 @@
 
 
 *On foundations*
-- [On accountability](/chapters/chapter_1_self.md#on-accountability)
+- [On freedom](/chapters/chapter_1_self.md#on-freedom)
 - [On integrity](/chapters/chapter_1_self.md#on-integrity)
+- [On accountability](/chapters/chapter_1_self.md#on-accountability)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
-- [On freedom](/chapters/chapter_1_self.md#on-freedom)
 
 *On growth*
 - [On finding your path](/chapters/chapter_1_self.md#on-finding-your-path)
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
-- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
+- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)

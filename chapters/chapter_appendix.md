@@ -538,8 +538,6 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
-> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
-
 > *'Art doesn’t end at the edge of the canvas.'*
 
 <!--
@@ -565,6 +563,8 @@ That's where «big bucks» are.
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
+> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
+
 <!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
 -->
@@ -575,11 +575,8 @@ That's where «big bucks» are.
 ---
 ### On investment
 
-Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.
-
-> *'It is often said that the secret to getting rich is not to make more money, but to keep it.'*
-
-> *'Do not save what is left after spending, but spend what is left after saving.' -- Warren Buffett*
+Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.  
+The secret to getting rich is not to make more money but to keep it.
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
@@ -598,7 +595,7 @@ HINT: How to spot trends?
 Understand who are the buyers and the sellers and their motivations. It's very different from value investing.  
 Understand that Investments are competing with each other.
 
-HINT: How to spot good investments?
+HINT: How to spot good investments AKA buy low/sell high?
 
 > *'You’re looking for a mispriced gamble.'  
 'You should remember that good ideas are rare. When the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
@@ -609,9 +606,7 @@ HINT: How to spot good investments?
 
 > *'What's your religion? Arbitrage and rents.' -- EF*
 
-HINT: How to buy low and sell high?
-
-> *'Don’t buy on future hopes; only buy on past mistakes.'*
+> *'Don’t buy on future hopes; buy on past mistakes.'*
 
 > *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.'  
 'It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*

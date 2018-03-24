@@ -8,16 +8,66 @@
 
 # 1.1 - On foundations
 
-### On accountability
+### On freedom
 
-If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
-Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+Choose *yourself*. Choose to be independent.  
+Tell *your* truth no matter what.
 
-Take Extreme Ownership. why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
+What is more selfless?  
+-Making sure that you are taken care of so that you can take care of others?  
+-Or focusing all of your energy on others until you are burnt out, angry, and depressed?
+
+- Set boundaries.  
+- Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.
+- Stand up for yourself. Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears.
+- Codependent no more: How to stop controlling others and start caring for yourself.
+
+> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
+
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
+
+> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
+
+> *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
+Optimizing happiness on a personal level vs. succumbing to what society says will make you happy.
+
+> *'A man is free at the instant he wants to be.' -- Voltaire*
+
+> *'Freedom is not giving a fuck.' -- Dorian Yates*
+
+HINT:
+
+> *'If I loved myself at a level 10 of 10, would i do this?'*
 
 <!--
-bravery is learned -> micro-bravery, start small
+You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
+Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
+Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
+
+look for 100% financial freedom
+
+The freedom to express oneself fully.
+
+Practice doing without things you think you need.
+
+3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
+
+> *'Never complain; never explain.' -- Benjamin Disraeli*
+
+> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
 -->
+
+> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
+
+> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
+
+> *'My independence is my legacy.' -- Bagão Felix*
 
 
 
@@ -45,6 +95,21 @@ integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
 
 consciently work on being honest
+
+
+
+
+---
+### On accountability
+
+If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
+Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+
+Take Extreme Ownership. why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
+
+<!--
+bravery is learned -> micro-bravery, start small
+-->
 
 
 
@@ -121,71 +186,6 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
 > *'[Gratitude] is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
-
-
-
-
----
-### On freedom
-
-Choose *yourself*. Choose to be independent.  
-Tell *your* truth no matter what.
-
-What is more selfless?  
--Making sure that you are taken care of so that you can take care of others?  
--Or focusing all of your energy on others until you are burnt out, angry, and depressed?
-
-- Set boundaries.  
-- Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.
-- Stand up for yourself. Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears.
-- Codependent no more: How to stop controlling others and start caring for yourself.
-
-> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
-
-> *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
-> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
-
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
-
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
-
-> *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
-Optimizing happiness on a personal level vs. succumbing to what society says will make you happy.
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
-> *'Freedom is not giving a fuck.' -- Dorian Yates*
-
-HINT:
-
-> *'If I loved myself at a level 10 of 10, would i do this?'*
-
-<!--
-You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
-Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
-Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
-
-look for 100% financial freedom
-
-The freedom to express oneself fully.
-
-Practice doing without things you think you need.
-
-3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
-
-> *'Never complain; never explain.' -- Benjamin Disraeli*
-
-> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
--->
-
-> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
-
-> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
-
-> *'My independence is my legacy.' -- Bagão Felix*
 
 
 
@@ -847,49 +847,6 @@ If you’re not getting better today, you’re getting worse.”
 
 
 ---
-### On self awareness
-
-Self awareness reduces the gap between who we are and who we think we are.  
-As this gap grows it becomes harder to prevent and solve problems.
-
-HINT: How to stay open-minded?
-
-- Understanding: Closed-minded people focus much more on being understood than on understanding others. They don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views.  
-- Statements vs. Questions: Closed-minded people are more likely to make statements than ask questions. Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.
-
-How do i know i'm right? Do you know anyone who doesn’t have any blind spots? I strongly doubt it.
-Then why would you be any different? Curious as to why the other person disagrees.
-
-<!--
-2. Understand the Effect of Your Childhood Conditioning 
-The first step to changing this conditioning is to simply become aware of it.
-So take the time now to truly understand what your beliefs and patterns are in every area of life.
-	
-LISTEN, BE CURIOUS INSTEAD, IT MIGHT BE BIAS.
-
-The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
-
-self-awareness is the single greatest predictor of leadership success
-1) Reflect Less, Notice More: spend less time theorizing and more time collecting data points to see patterns and trends.
-2) Ask “What” Not “Why”
-3) Set Goals
-4) Do A Survey
-
-mix with BIAS
-
-SELF-AWARENESS > HUSTLE
-
-“If you don’t know who you are it’s over,” Gary said.
-What does that mean?
-Exercise: Write down the ten things you value most in the world.
-Do you really value them? Dig deep. Write them down again.
-Dig deeper. What are you doing about them today?
--->
-
-
-
-
----
 ### On achieving mastery
 
 After learning the rules, break them. Only then you can achieve mastery.  
@@ -931,6 +888,49 @@ What I cannot create, I do not understand.
 teach something to a toddler to learn stuff
 
 amateurs play for tricks, masters play for position
+-->
+
+
+
+
+---
+### On self awareness
+
+Self awareness reduces the gap between who we are and who we think we are.  
+As this gap grows it becomes harder to prevent and solve problems.
+
+HINT: How to stay open-minded?
+
+- Understanding: Closed-minded people focus much more on being understood than on understanding others. They don’t want their ideas challenged. They are typically frustrated that they can’t get the other person to agree with them instead of Open-minded people are more curious about why there is disagreement. They understand that there is always the possibility that they might be wrong and that it’s worth the little bit of time it takes to consider the other person’s views.  
+- Statements vs. Questions: Closed-minded people are more likely to make statements than ask questions. Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.
+
+How do i know i'm right? Do you know anyone who doesn’t have any blind spots? I strongly doubt it.
+Then why would you be any different? Curious as to why the other person disagrees.
+
+<!--
+2. Understand the Effect of Your Childhood Conditioning 
+The first step to changing this conditioning is to simply become aware of it.
+So take the time now to truly understand what your beliefs and patterns are in every area of life.
+	
+LISTEN, BE CURIOUS INSTEAD, IT MIGHT BE BIAS.
+
+The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
+
+self-awareness is the single greatest predictor of leadership success
+1) Reflect Less, Notice More: spend less time theorizing and more time collecting data points to see patterns and trends.
+2) Ask “What” Not “Why”
+3) Set Goals
+4) Do A Survey
+
+mix with BIAS
+
+SELF-AWARENESS > HUSTLE
+
+“If you don’t know who you are it’s over,” Gary said.
+What does that mean?
+Exercise: Write down the ten things you value most in the world.
+Do you really value them? Dig deep. Write them down again.
+Dig deeper. What are you doing about them today?
 -->
 
 

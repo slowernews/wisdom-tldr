@@ -866,7 +866,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 ---
 ### On politics
 
-'For the friends: everything. For the enemies: nothing. For the others: the law.'
+'For the friends: everything. For the others: the law.'
 
 > *Politicians don't get educated. They get bought.*
 
