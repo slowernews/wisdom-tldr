@@ -8,27 +8,14 @@
 
 # 1.1 - On foundations
 
-### On freedom
+### On independence
 
 Choose *yourself*. Choose to be independent.  
 Tell *your* truth no matter what.
 
-What is more selfless?  
--Making sure that you are taken care of so that you can take care of others?  
--Or focusing all of your energy on others until you are burnt out, angry, and depressed?
-
-- Set boundaries.  
-- Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.
-- Stand up for yourself. Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears.
-- Codependent no more: How to stop controlling others and start caring for yourself.
-
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
-> *'That’s the problem with putting others first: you’ve taught them you come second.'*
-
 > *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
-
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
@@ -41,9 +28,17 @@ Optimizing happiness on a personal level vs. succumbing to what society says wil
 
 > *'Freedom is not giving a fuck.' -- Dorian Yates*
 
-HINT:
+HINT: how to set boundaries?
 
-> *'If I loved myself at a level 10 of 10, would i do this?'*
+> *'If I loved myself at a level 10 of 10, would I do this?'*
+  
+- Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.
+- Stand up for yourself. Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. Codependent no more: How to stop controlling others and start caring for yourself.
+
+What is more selfless?  
+Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed?
+
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 <!--
 You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
@@ -90,11 +85,13 @@ Do you want short term popularity or long term respect? Show respect to others. 
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
+<!--
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
 
 consciently work on being honest
+-->
 
 
 
@@ -197,7 +194,7 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 Cancel your pity party, no one is coming to save you.  
 Pull yourself together and take total ownership for everything in your life.  
-Passion is made not found.
+When you start walking, the path will be revealed. Passion is made not found.
 
 > *'If you are feeling lost in life, you need to experience more things.'*
 
@@ -211,9 +208,9 @@ Passion is made not found.
 
 > *'When life gets blurry, just adjust your focus.'*
 
+> *'The obstacle is the way.'*
+
 <!--
-The obstacle is the way
-	
 The perpetual chase for more is not the path that leads to more freedom and happiness.
 
 Best Effort + Surrender = DESTINY
@@ -322,8 +319,6 @@ Because that is where you will find true fulfillment and satisfaction.
 
 Create Projects, Not Goals
 
-When you start walking, the path will be revealed.
-
 "Mediocrity, as a goal, sucks... as a result, is OK"
 -->
 
@@ -393,7 +388,7 @@ Stability without Stagnation
 FIVE PSYCHOLOGICAL ROADBLOCKS TO EXPLORING OUTSIDE OUR COMFORT ZONES
 Authenticity, Likeability, Competence, resentment, morality
 
-Humans once opposed coffee and refrigeration: why we often hate new stuff: This was all said very, very well by Machiavelli hundreds of years ago in chapter 6 of _The Prince_.
+Humans once opposed coffee and refrigeration: why we often hate new stuff: This was all said very, very well by Machiavelli hundreds of years ago in chapter 6 of _The Prince_
 And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.
 
 The risk of not changing is almost always greater than the risk of changing. Leap while you’re at the top of the curve, and the next curve builds on the momentum.
@@ -426,9 +421,7 @@ if you are not growing you are dying
 stepping outside what is easy and embracing discomfort.
 
 risk over safety is the way to pull forward.
-
 Risk Leads to Growth and Excitement
-
 Risk looks different for everyone.
 
 2.Suffering is a Temporary But Essential Part of Life
@@ -438,7 +431,6 @@ So adventure is more than just grist for future storytelling — it’s a way to
 You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
 
 > *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
-
 > *'The size of our life is in direct proportion to how uncomfortable we are willing to be'*
 
 1. To Improve Your Life, You First First Become Uncomfortable
@@ -450,10 +442,9 @@ develop a tolerance for risk so that you can build up to the scarier activities 
 
 > *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
 
-I sort of became comfortable with being uncomfortable to the point where now…if I start getting comfortable, I feel like I’m not learning anything and that I might be in a bubble.
+I sort of became comfortable with being uncomfortable to the point where now. if I start getting comfortable, I feel like I’m not learning anything and that I might be in a bubble.
 
 parabola do sapo e da agua a ferver
-
 To become stronger, you must push against resistance, you must struggle, you must sweat, and you must bleed.
 If you want your relationship to be stronger, you will have to face resistance. You cannot have a thriving marriage and never face adversity together.
 > *'To risk nothing is to risk even more'*
@@ -476,7 +467,7 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
-> *'Continuous effort -- not strength or intelligence -- is the key to unlocking our potential.' -- Winston Churchill*
+> *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
 
 > *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
 
@@ -586,8 +577,6 @@ Charles Duhigg wrote in The Power of Habit:
 Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.
 
 > *'Pain plus reflection equals progress.' -- Ray Dalio*
-
-> *'Miss a meal, but don’t miss your reading.' -- Jim Rohn*
 -->
 
 
@@ -649,8 +638,6 @@ learning process: the macro from the micro.
 if you're studing my game, ill win because i'll be bette rthan you at it.
 
 Whatever your strengths are, they will likely lead straight into your weaknesses.
-
----
 
 5 Fool-Proof Ways to End Procrastination Today
 
@@ -1335,7 +1322,3 @@ pursue authentic pride
 
 > *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
 -->
-
-
-
-

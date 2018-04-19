@@ -15,7 +15,7 @@
 
 
 *On foundations*
-- [On freedom](/chapters/chapter_1_self.md#on-freedom)
+- [On independence](/chapters/chapter_1_self.md#on-independence)
 - [On integrity](/chapters/chapter_1_self.md#on-integrity)
 - [On accountability](/chapters/chapter_1_self.md#on-accountability)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
