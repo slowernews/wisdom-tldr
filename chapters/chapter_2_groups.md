@@ -20,12 +20,13 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems).
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
 
+Why some people don't like networking?
+
 > *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.'*
 
-HINT: How to network? Adding value is everything. Help people.  
-People want to form relationships with those who seem like they’ll give at least as much than they take.
+HINT: How to network? Add value and help people. So find out what people actually want and give it to them.  
+We want to form relationships with those who seem like they’ll give at least as much than they take.
 
-So find out what people actually want and give it to them.  
 [Pay attention](chapter_2_groups.md#on-communication) to what people «say» and [infer](chapter_3_action.md#on-analysis) their goals.  
 
 > *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*
@@ -48,6 +49,12 @@ The story we tell about ourselves to other people is dangerous. Our self-mytholo
 you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
 
 autenticity
+
+When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments.
+
+They’d fail to accomplish our goal with a good story, which is to impress, to attract, to reassure, to sell.
+Because most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool.
+That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes. authenticity as subtracting the things that get in the way.
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
@@ -79,46 +86,32 @@ Be humble, listening is powerful.
 
 > *'Arguing as you're right. Listening as you're wrong.'*
 
-HINT: How to talk to people?
+HINT: How to communicate? 
 
-- listen: listening without worrying about what we’re going to say next. The best conversationalists are the best listeners.  
-- smile.  
-- don't ramble.   
+- listen: listening without worrying about what we’re going to say next. The best conversationalists are the best listeners. Be interested to be interesting, curiosity is king. Active listening.
+- smile. the most popular guys smile more than other people and like more other kids.
+- don't ramble.  
 - look for external catalysts as hints for stories and questions. Understand how to stay tuned in to the conversation by picking up on often-ignored (but crucially important) nonverbal cues. Get better asking questions. They are more important than answers.  
 - talk about your passions instead of accomplishments.
-- don't be stubborn. You don't always have to get the last word. Make your point and leave it that way. Let go.
+- don't be stubborn. You don't always have to get the last word. Make your point and leave it that way. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
 
-> *'Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.'*
+HINT: Some field tactics.
 
-> *'Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.'*
-
-> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
-
-HINT: How to give a good first impression? some field tactics
-
-- Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real.add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
-- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
-- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
-- the most popular guys smile more than other people and like more other kids. -> be interested to be interesting
-- Curiosity is King
-How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
-- Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
 - people that need to be saved
-- help the hosters to serve food
+- help the hosters to serve food.
 - go to the bar and meet people there
 - small and open groups
+- Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
 - opening line: "hi, I'm X and I dont know anybody in this party." smart flattery  
 - best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments And asking for advice.
 - Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
 - The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
 - Seek someone else’s thoughts and opinions without judging them.
 - Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
-- How to be a great listener: active listening.
 - Paraphrasing: Repeat what they just said in your own words.
-- Labeling: Put a name on what they say they’re feeling. “Sounds like you’re feeling pressured.
 Emphasize Similarity, we like people who are like us
 - Questions Are Powerful. A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.  
-- How to politely end a conversation -> escaping line ( you should go on after 10 or 15 minutes. think about it as exploring.):
+- How to politely end a conversation -> escaping line (you should go on after 10 or 15 minutes. think about it as exploring.):
 "excuse me but i must to talk with somebody that entered the room"
 "excuse me i have to make a phone call"
 human sacrifice.. intro him and leave  
@@ -126,6 +119,14 @@ human sacrifice.. intro him and leave
 / make poeple being interested in you by making them good/unusual questions.
 be interested in them to them be interested in you.
 - Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation.
+- Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real.add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
+- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
+- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
+How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
+
+> *'Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.'*
+
+> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
 HINT: How to tell good stories?
 
@@ -134,12 +135,6 @@ A good story does condenses a massive amount of information into a consumable an
 > *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
 
 > *'Storytelling is about the details.'*
-
-When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments.
-
-They’d fail to accomplish our goal with a good story, which is to impress, to attract, to reassure, to sell.
-Because most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool.
-That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes. authenticity as subtracting the things that get in the way.
 
 <!--
 Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
@@ -150,8 +145,7 @@ It’s a common belief that your first reaction is the most honest, but I disagr
 
 Don’t talk to someone. Talk with them.
 
-You have to be interested to be interesting.
-Take an interest in the other person, and they’ll walk away thinking you are interesting.
+You have to be interested to be interesting. Take an interest in the other person, and they’ll walk away thinking you are interesting.
 Ask a question. Listen to the answer. Respond in the form of a statement.
 
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
@@ -666,7 +660,7 @@ HINTS: How to teach your kids...
 
 - generosity: «What did u do this week for somebody?»  
 - responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
-- self improvement: «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
+- self improvement: «Did u give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
 - autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
 - money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
 - fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  

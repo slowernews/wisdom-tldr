@@ -16,8 +16,7 @@
 
 *On foundations*
 - [On independence](/chapters/chapter_1_self.md#on-independence)
-- [On integrity](/chapters/chapter_1_self.md#on-integrity)
-- [On accountability](/chapters/chapter_1_self.md#on-accountability)
+- [On integrity and accountability](/chapters/chapter_1_self.md#on-integrity-and-accountability)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
 
@@ -135,7 +134,7 @@
 
 6 general advices:<br>
 *'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
-*'Avoiding conflict will not keep peace, will rot it.'*<br>
+*'Avoiding conflict will not keep peace, will rot it.' -- EF*<br>
 *'Life is a balancing act.'*<br>
 *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
 *'Happiness = reality / expectations'*<br>

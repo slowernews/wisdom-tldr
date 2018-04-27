@@ -580,11 +580,13 @@ The secret to getting rich is not to make more money but to keep it.
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
-> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
-
 > *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
 
 > *'Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.'*
+
+HINT: How to spot your risk confort sone?
+
+> *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
 HINT: How to spot trends?
 
@@ -646,28 +648,22 @@ entrepreneurship vs investment - 2 different mentalities.
 ---
 ### On travel and nomadism
 
-Travel is the only thing you buy that makes you richer. Traveling as mini lifes.
-
-> *'A good traveler has no fixed plans and is not intent on arriving.' -- Lao Tzu*
+Travel is the only thing you buy that makes you richer. Traveling as mini lifes.  
+Travel solves a plethora of self-improvement goals.
 
 > *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
 
 HINTS on travel:
 
-- People who schedule their free time are happier but think less about getting the most for your buck and more about who you’re going with.
-And how long should your vacation be? Research says aim for 3 to 6 days. Frequency beats intensity. People have a cultural memory of travelling as expensive but it's not.  
-- Travel solves a plethora of self-improvement goals in one fell swoop. Travellers grow in different ways other than careers.  
 - How does really traveling differ from a standard vacation? Travelling is getting under the skin of the place.  
-- Travellers are the best money managers.
+- Think less about getting the most for your buck and more about who you’re going with.
+- How long should your vacation be? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
+- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not.
 
 HINTS on nomadism:
 
-> *'Build a business with the heuristic of "Maximize Jason's vacation time":
-Stage One: Contracting  
-Stage Two: Travelling Between Contracts  
-Stage Three: Travelling While Contracting  
-Stage Four: Software Product Business  
-Stage Five: Chillin'*
+> *'Build a business with the heuristic of "Maximize my vacation time":
+Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chillin'*
 
 
 
@@ -679,15 +675,14 @@ Stage Five: Chillin'*
 
 - Keep it under three lines, more than this call.  
 - Make the subject unique, meaningful and easily searchable.  
-- Use easy-to-read formatting! Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.  
-- Put your specific action request in the first line. A busy exec wants to touch an email once and take action: delete, respond or forward for action.
-Start with the action/request, and then explain if you need to. be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»  
-- Make a single, specific, simple request – such that it’s hard  to say no.  
-The reader should be able to reply to the email in one word (ideally yes or no), or forward it on to the right person.  
-Do you have time for a 5 min call this week?  
-Please review and sign this document.  
-Can you make a quick intro to XYZ person?  
-I’d love a letter of support from you. I’ve attached a draft for your review.
+- Use easy-to-read formatting. Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.  
+- Make a single, specific, simple request – such that it’s hard to say no - in the first line and then explain if you need to.
+«Do you have time for a 5 min call this week?»  
+«Please review and sign this document.»  
+«Can you make a quick intro to XYZ person?» 
+«I’d love a letter of support from you. I’ve attached a draft for your review.»  
+The reader should be able to reply to the email in one word, forward it on to the right person or delete it. 
+Be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»  
 
 
 
@@ -701,12 +696,10 @@ takers + matchers + givers
 
 people that like you + people that don't like you + people that don't care about you
 
-finders + grinders (work bees) + minders
+dreamers + makers + managers
 
 <!--
 people of all political persuasions
-
-dreamer + maker + manager
 
 introverts have more probability of being an expert in their field
 extraversion is not good for mastery

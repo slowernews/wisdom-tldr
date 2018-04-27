@@ -68,7 +68,7 @@ Practice doing without things you think you need.
 
 
 ---
-### On integrity
+### On integrity and accountability
 
 > *'Trust, not money, is the currency of business and life.'*
 
@@ -85,26 +85,18 @@ Do you want short term popularity or long term respect? Show respect to others. 
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
+If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
+Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+
+Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
+
 <!--
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
 
 consciently work on being honest
--->
 
-
-
-
----
-### On accountability
-
-If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
-Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
-
-Take Extreme Ownership. why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
-
-<!--
 bravery is learned -> micro-bravery, start small
 -->
 
