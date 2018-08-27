@@ -75,7 +75,7 @@
 
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
-- [On pace, position and direction](/chapters/chapter_3_action.md#on-pace-position-and-direction)
+- [On velocity, position and direction](/chapters/chapter_3_action.md#on-velocity-position-and-direction)
 - [On focus, priorities and productivity](/chapters/chapter_3_action.md#on-focus-priorities-and-productivity)
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
@@ -132,14 +132,15 @@
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
-6 general advices:<br>
-*'The root of our problems is our inability to let go.' -- Leo Babauta*<br>
-*'Avoiding conflict will not keep peace, will rot it.' -- EF*<br>
-*'Life is a balancing act.'*<br>
-*'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*<br>
-*'Happiness = reality / expectations'*<br>
+Five general advices:  
 *'No one is a prophet in his own land'*
+*'The root of our problems is our inability to let go.' -- Leo Babauta*  
+*'Avoiding conflict will not keep peace, will rot it.' -- EF*  
+*'Life is a balancing act.'*  
+*'Happiness = reality / expectations'*  
 
-One practical advice: *'Have more than one child.'*
+Two practical advices:  
+*'Have more than one child.'*
+*'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*  
 
-One last advice (specially for introverts): *'Aim at relying on your network and not at being self-sufficient.'*
+One last advice for introverts: *'Aim at relying on your network and not at being self-sufficient.'*

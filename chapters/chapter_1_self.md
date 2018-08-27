@@ -41,6 +41,13 @@ Making sure that you are taken care of so that you can take care of others or fo
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 <!--
+you lifestlyle depends on your independence
+
+Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
+The bank owned them. Work owned them.
+
+I define financial freedom as: “The ability to do what you want when you want, where you want, and with whom you want… within reason”.
+
 You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
 Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
 Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
@@ -56,6 +63,8 @@ Practice doing without things you think you need.
 > *'Never complain; never explain.' -- Benjamin Disraeli*
 
 > *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
+
+freedom to -> freedom from: evolving of my concept of freedom
 -->
 
 > *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
@@ -91,6 +100,8 @@ Your results are yours and yours alone. Your choices determined the body, bank a
 Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
 
 <!--
+> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
@@ -203,13 +214,21 @@ When you start walking, the path will be revealed. Passion is made not found.
 > *'The obstacle is the way.'*
 
 <!--
+
+
+> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
+
+> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
+
+> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
+
+> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
+
 The perpetual chase for more is not the path that leads to more freedom and happiness.
 
 Best Effort + Surrender = DESTINY
 	
 The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
-
-> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
 
 > *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
@@ -496,6 +515,12 @@ HINTS:
 HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
+Focus on Building Systems
+	
+It’s not about working harder to get better results. You have only so much energy to apply. Pick what matters. Eliminate the rest.
+
+> *'The great enemy of any attempt to change men’s habits is inertia. Civilization is limited by inertia.'*
+
 Why You Should Record Your Conversations with Strangers
 
 Calculate your “Biological Prime Time”
@@ -584,6 +609,21 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+first understand the basics! then pass to next level
+
+Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
+The Key to Double Loop Learning: Push to the Point of Failure
+
+> *'The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.' -- Alvin Toffler*
+
+Pain Plus Reflection Equals Progress
+
+> *'Any fool can know. The point is to understand.' -- Albert Einstein*
+
+a college education can help you make a living, self-education can make you a fortune.
+
+> *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
+
 effort * talent = skill
 
 > *'Don't major on minor things.'* ->  applied focus
@@ -860,6 +900,8 @@ You want to learn every aspect of that subject, you are expected to be a pro. Th
 'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
 
 <!--
+> *'If I’d followed all the rules I’d never have gotten anywhere.' -- Marylin Monroe*
+
 Some of the skills that you need to achieve expertise were not yet systemised.
 
 If you can’t explain something in simple terms, you don’t understand it.
@@ -867,6 +909,8 @@ What I cannot create, I do not understand.
 teach something to a toddler to learn stuff
 
 amateurs play for tricks, masters play for position
+
+“An expert is a person who has made all the mistakes which can be made in a very narrow field,” -- Niels Bohr.
 -->
 
 
@@ -887,6 +931,8 @@ How do i know i'm right? Do you know anyone who doesn’t have any blind spots? 
 Then why would you be any different? Curious as to why the other person disagrees.
 
 <!--
+“The things we see every day are the things we never see at all. -- G.K. Chesterton
+
 2. Understand the Effect of Your Childhood Conditioning 
 The first step to changing this conditioning is to simply become aware of it.
 So take the time now to truly understand what your beliefs and patterns are in every area of life.
@@ -905,11 +951,19 @@ mix with BIAS
 
 SELF-AWARENESS > HUSTLE
 
+--
+
 “If you don’t know who you are it’s over,” Gary said.
 What does that mean?
 Exercise: Write down the ten things you value most in the world.
 Do you really value them? Dig deep. Write them down again.
 Dig deeper. What are you doing about them today?
+
+people justify all kinds of mistakes to preserve the personal narratives they are invested in
+Countries rewrite their histories, from the textbook up, to support how they see themselves now.
+
+If we cut ourselves off from the full scope of history because it makes us uncomfortable, or doesn’t fit with the cultural narrative in which we live, we reduce our ability to learn from the past and apply those lessons to the situations we are facing today.
+We need to accept that people can do great things while still having flaws. Our heroes don’t have to be perfect, and we can learn just as much from their imperfections as from their achievements.
 -->
 
 
@@ -975,8 +1029,15 @@ HINT: How to fight depression? Starve and exercise. When sick, move!
 HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 
 <!--
+> *'Nature itself is the best physician.' -- Hippocrates*
+
+> *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
+
+> *'No medicine cures what happiness cannot.' -- Gabriel Garcí­a Márquez*
+
 Boredom is a soul sucker.
-	
+the unfed mind devours itself.
+
 on placebos
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
 
@@ -995,7 +1056,8 @@ Our bodies were built to hunt and gather and move. Humans aren’t meant to stay
 ---
 ### On limits, resistance and motivation
 
-Your limits are where are your fears.
+Your limits are where are your fears.  
+People underestimate their possibilities.
 
 > *'Your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.'*
 
@@ -1004,6 +1066,8 @@ Your limits are where are your fears.
 HOWEVER... your level of success will seldom exceed your level of personal development.
 
 <!--
+> *'Do one thing that scares you everyday.' -- Eleanor Roosevelt*
+
 We live in a society where the greatest lies that are told are the ones that we tell ourself.
 
 Your belief that you are not good enough:
@@ -1114,6 +1178,8 @@ HINT: Be gentle first with yourself.
 > *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
 <!--
+> *'It's not the load that breaks you down, it's the way you carry it.' -- Lou Holtz*
+
 Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 
 failures are flip-sides of our strengths, the opposite is true also

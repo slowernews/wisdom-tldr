@@ -64,6 +64,8 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+> *'One of the keys to happiness is a bad memory.' -- Rita Mae Brown*
+	
 happiness is not about positive thoughts. but every positive thought is based on a negative thought.
 happiness is about absense of desire! and embrace the presence on the present time.
 	

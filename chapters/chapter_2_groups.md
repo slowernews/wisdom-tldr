@@ -69,6 +69,13 @@ shark, dolphin, drowner
 
 HOWEVER: no one’s going to help you in a way that’s prejudicial to them.
 
+<!--
+not what should i do next, but who should you speak next?
+
+Your network determines your net worth.
+Your Income is Directly Proportional to the Quality of Your Network
+-->
+
 
 
 
@@ -137,6 +144,18 @@ A good story does condenses a massive amount of information into a consumable an
 > *'Storytelling is about the details.'*
 
 <!--
+open up question: Why is your best friend, your best friend? You can't fake an answer.
+asking questions without paying attention is worthless. you must be curious.
+the first question should go to the heart, just than to the head
+can be as simple as what is your favourite book?
+
+heart, head and soul in your interview
+make the interview feeling safe
+
+Staring isn’t staring if you’re smiling. Or waving. Or if you say hi.
+
+> *'When you listen, you may learn something new.' -- Dalai Lama*
+	
 Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
 
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
@@ -377,6 +396,15 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
+
+creative pricing:
+One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show.
+I said, “$1500”. She said, “Oh, that’s a bit too much. What would you charge to do just a one-hour show?”
+I said, “$2000”. She said, “No, wait, you’ll be performing less, not more!”
+I said, “Yeah! Exactly! What you’re paying me for is to get there! Once I’m there, playing music is the fun part! If you tell me I have to get back in the van after only an hour, and drive home, then I’m going to charge you more than if you let me play for a couple hours first.”
+She liked that so much she came up with the $1500.
+
 on negotiation if you want to go fast, let the other part go first.
 	
 > *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
@@ -561,6 +589,10 @@ HINT: resist to temptation of working with family and friends. There will be alw
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
+
+pedestals prevent friendships
+
 > *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
 
 Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
@@ -645,6 +677,8 @@ mix with guerrilla thinking
 
 karma
 
+kids learn from watching you.
+
 convenience for you vs best thing for the kid. ipad example. you must provide interesting activities.
 -->
 
@@ -708,6 +742,8 @@ power of incentives: Ignoring incentives almost never works out well
 Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
 
 <!--
+> *'No one has ever become poor by giving.' -- Anne Frank*
+
 Generosity without Expectation is Sexy
 It means that your thoughts, words, and actions are all in congruence.
 you don’t live a life that is incongruent with what you want to make others happy.
@@ -793,6 +829,10 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
+<!--
+> *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
+-->
+
 
 
 
@@ -821,6 +861,8 @@ Most people are other people. Their thoughts are someone else opinions and they 
 
 > *'Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it.' -- Anders Hejlsberg*
 
+> *'In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.' -- Friedrich Nietzsche*
+
 HOWEVER... smart people don’t think others are stupid and common sense is not so common.
 
 > *'Taking a fence down without knowing why is there.'*
@@ -828,6 +870,10 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
 
 <!--
+Great things are not accomplished by those who yield to trends and fads and popular opinion. -- Jack Kerouac
+
+> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
+
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
 most people don't actually think. They just take their first thought and go.	
@@ -890,6 +936,8 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 <!--
 I would not consider taxes to be “punitive.” Taxes aren’t punishment. They are much more like a membership fee
+
+Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.
 
 > *'When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
 -->
@@ -1068,6 +1116,8 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 But data shows people want more feedback but monthly, not daily.
 
 <!--
+manager is a dreammaker
+
 Jeff Bezos, for example, famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.
 
 As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
@@ -1075,6 +1125,15 @@ As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinke
 > *'Too busy pretending I'm occupied.'*
 
 boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about
+
+on a meeting Do not share your opinion on possible solutions before asking for input from your team.
+
+low power people should speak fisrt: hierarchy and everybody the right to their opinion and not copying others' opinion.
+hierarchy with low power voices
+
+it focuses on how to do email faster instead of on how to do less email
+The best thing I did this year was to switch my default to “no” for all meetings. 
+If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
 -->
 
 
@@ -1123,6 +1182,8 @@ Most reviewers are only going to understand two skill levels:
 still learning the skill / confident in the skill
 
 <!--
+people leave managers, not companies
+
 people want freedom to choose their process
 
 The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
@@ -1247,6 +1308,10 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
+> *'Be a jack-of-all-trades and a master of one.'*
+
+specialization is dangereous
+
 trade-able skills: figure out what skills you already have that you can charge for
 
 read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
@@ -1292,3 +1357,12 @@ Only comedians can speak the truth without consequences.
 HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.
 
 > *'Only the truth is funny.' -- Rick Reynolds*
+
+<!--
+right amount of hierarchy and structure
+
+> *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
+
+To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity.
+This is why the comedians are the modern day philosophers.
+-->

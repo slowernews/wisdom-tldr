@@ -77,6 +77,8 @@ HOWEVER:
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
+> *'We should all start to live before we get too old. Fear is stupid. So are regrets.' -- Marilyn Monroe*
+
 Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now.
 Money is nothing more than a magnifying glass. Money simply makes you more of what you already are.
 They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!
@@ -135,6 +137,8 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 <!--
 make the exercise: imagine you life in 10years. possible futures
+
+> *'Finding a place to die is an important thing to do.' -- Nagasaki*
 -->
 
 
@@ -156,10 +160,11 @@ HINT: talent is fragile. To reveal the true nature of your intelligence rarely p
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 <!--
+> *'Talent hits a target no one else can hit. Genius hits a target no one else can see.' -- Arthur Schopenhauer*
+
 So many geniuses, are really good at eliminating unnecessary complexity. Enstien, for instance, was a master at sifting the essential from the non-essential. Steve Jobs was the same.
 
-“Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.”
-— Andy Benoit
+> *'Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.' -- Andy Benoit*
 
 > *'The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.' -- John Holt*
 -->
@@ -190,7 +195,13 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 > *'We don't make movies to make money; We make money to make more movies.' -- Walt Disney*
 
 <!--
+You cannot save your way to wealth.
+
 nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
+
+money is merely an arbitrary store of value. It is not value itself.
+Money is not the cause of wealth in one’s life. It is the effect.
+Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.
 -->
 
 
@@ -235,6 +246,8 @@ HOWEVER positive results don't imply good planning..
 > *'Even a broken clock is right twice a day.'*
 
 <!--
+The Key to Good Luck Is an Open Mind
+
 Bad luck vs. bad planning
 
 Unless you’re winning, life will seem hideously unfair to you. 
@@ -260,13 +273,19 @@ surprises only happen when they didnt repaeat on ones lifetime
 ---
 ### On beauty
 
+Beauty doesn't always correlate with virtue.  
+
+> *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
+
 > *'Beauty is not a gift, it's a burden.'*
 
 > *'Once I was beautiful, now I'm myself.'*
 
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
 
-> *'Beauty doesn't always correlate with virtue.'*
+<!--
+The sign of a beautiful person is that they always see beauty in others.
+-->
 
 
 
@@ -342,6 +361,18 @@ HINT: How to simplify?
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+
+How to Reduce Your Expenses without Sacrificing Your Quality of Life
+> *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
+
+> *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
+
+“Lifestyle before money. But money also.”
+In life, you will often be presented with two options: The lucrative option, The lifestyle option
+job -> money + lifestyle!
+
+live the life you want now and not later.
+
 geoarbitrage
 	
 Work no more than 35 hours a week.
@@ -546,6 +577,8 @@ arte é expressão, e normalmente arte é resposta ao sofrimento. qd tas bem nã
 Art is a meditation and design is a negotiation.
 
 an artist normally is an egocentric, free and creative person.
+
+> *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 -->
 
 
@@ -567,6 +600,10 @@ That's where «big bucks» are.
 
 <!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
+
+> *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
+
+> *'There is no exquisite beauty… without some strangeness in the proportion.' -- Edgar Allan Poe*
 -->
 
 
@@ -665,6 +702,10 @@ HINTS on nomadism:
 > *'Build a business with the heuristic of "Maximize my vacation time":
 Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chillin'*
 
+<!--
+thats how we do it, you just buy a ticket to the next destination
+looking for empty seats and get people to take you home
+-->
 
 
 

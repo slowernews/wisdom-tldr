@@ -64,6 +64,12 @@ In executive position, visionary, maverick, multidisciplinary thinker, etc.
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
 <!--
+there’s a will there’s a way.
+
+If you’re willing to get creative, there’s nothing that you can’t do, be, or achieve. But you must be willing to think outside of the box and cut yourself off from any possibility of failure.
+
+Get creative to achieve your dreams
+	
 > *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
 Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
@@ -292,7 +298,11 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+in most knowledge organizations, your product is decisions. you are evaluated by yours
+
 Beliefs lag behind reality.
+
+> *'You make plans and god laughs.' -- Yiddish proverbs* >> Plans are a starting point
 
 But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
@@ -324,6 +334,8 @@ Idea-meritocratic decision-making is the best decision-making
 The difference between an autocratic decision maker and a democratic decision maker.
 What is believability?
 find 3 people that high expertise but that they discord and listen. take your conclusions
+
+is the decision reversible or irreversible? if it is reversible make it fast.
 -->
 
 
@@ -546,6 +558,13 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+Play the ball before it plays you.
+
+It requires an individual to accept responsibility for his situation
+Act; don’t be acted upon.
+
+> *'A good plan, violently executed now, is better than a perfect plan next week.' -- General George Patton*
+
 “[S]ome systems … are very sensitive to their starting conditions, 
 so that a tiny difference in the initial push you give them 
 causes a big difference in where they end up, and there is 
@@ -722,9 +741,9 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 
 
 ---
-### On pace, position and direction
+### On velocity, position and direction
 
-Direction is more important than pace.
+Direction is more important than velocity.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
@@ -757,6 +776,12 @@ Don't be thirsty.
 > *'Trade space for time.'*
 
 <!--
+Here are three ways you can increase your velocity:
+
+- To the extent possible, ruthlessly shave away the unnecessary tasks, priorities, meetings, and BS. Put all your effort into the projects that really matter.
+- Don’t rely on your willpower to say no; instead, create systems that help you fend off distractions.example: One of my management principles was “no meeting mornings.”
+- say “no” to your boss.
+
 No podemos elegir nuestro origen pero podemos elegir hacia donde ir
 
 > *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
@@ -833,6 +858,10 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
+That’s why you need to re-evaluate your old dreams to see if new means have come along.
+Don’t let the details distract you from your goal.
+	
 how to purge to do list and focus right now
 - does this need to be done regarding my business? Y/N
 - does this be needed by me? Y/N
@@ -1110,6 +1139,8 @@ HOWEVER... use absence with [moderation](#on-balance).
 
 <!--
 mimicking people gestures and words works!
+
+To Persuade Someone, Look Emotional
 -->
 
 
@@ -1189,7 +1220,7 @@ Mirroring works best when your group is in minority.
 ### On opponents
 
 Beware of all opponents.  
-Easy opponents are normally just just [bait](#on-charming).
+Easy opponents are normally just [bait](#on-charming).
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1226,6 +1257,12 @@ They can be effective but use them *only* on life changing situations: it's a sc
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
+
+<!--
+surpass a gatekeeper:
+i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
+HOW open up people, is an open end question. they can say yes or no.
+-->
 
 
 
