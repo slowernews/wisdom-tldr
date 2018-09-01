@@ -33,6 +33,7 @@
 - [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
 - [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
 - [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
+- [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 - [On shame](/chapters/chapter_1_self.md#on-shame)
 - [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
 
@@ -59,7 +60,7 @@
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)
-- [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
+- [On teams: management and delegation](/chapters/chapter_2_groups.md#on-teams-management-and-delegation)
 - [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
 - [On career](/chapters/chapter_2_groups.md#on-career)
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
@@ -75,7 +76,7 @@
 
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
-- [On velocity, position and direction](/chapters/chapter_3_action.md#on-velocity-position-and-direction)
+- [On speed, position and direction](/chapters/chapter_3_action.md#on-speed-position-and-direction)
 - [On focus, priorities and productivity](/chapters/chapter_3_action.md#on-focus-priorities-and-productivity)
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
@@ -83,6 +84,7 @@
 
 *On competing*
 - [On creating imbalances](/chapters/chapter_3_action.md#on-creating-imbalances)
+- [On leverage](/chapters/chapter_3_action.md#on-leverage)
 - [On charming](/chapters/chapter_3_action.md#on-charming)
 - [On deceiving](/chapters/chapter_3_action.md#on-deceiving)
 - [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
@@ -93,6 +95,7 @@
 *On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)
+- [On forgiveness](/chapters/chapter_3_action.md#on-forgiveness)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 
 
@@ -106,7 +109,7 @@
 
 *On envy triggers*
 - [On intelligence and talent](/chapters/chapter_appendix.md#on-intelligence-and-talent)
-- [On wealth](/chapters/chapter_appendix.md#on-wealth)
+- [On money and wealth](/chapters/chapter_appendix.md#on-money-and-wealth)
 - [On fame and popularity](/chapters/chapter_appendix.md#on-fame-and-popularity)
 - [On luck](/chapters/chapter_appendix.md#on-luck)
 - [On beauty](/chapters/chapter_appendix.md#on-beauty)
@@ -115,6 +118,7 @@
 - [On success](/chapters/chapter_appendix_action.md#on-success)
 
 *Other*
+- [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
@@ -122,7 +126,10 @@
 - [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
 
 *Bonus*
+- [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)
+- [On books](/chapters/chapter_appendix.md#on-books)
 - [On email](/chapters/chapter_appendix.md#on-email)
+- [On comedy](/chapters/chapter_appendix.md#on-comedy)
 - [On types of people](/chapters/chapter_appendix.md#on-types-of-people)
 - [On superpowers](/chapters/chapter_appendix.md#on-superpowers)
 

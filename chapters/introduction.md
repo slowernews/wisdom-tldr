@@ -26,6 +26,25 @@ You need to develop an unshakable identity as a high achiever and peak performer
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
+<!--
+> *'Só os mais corajosos conseguem fazer a paz' -- Trump*
+
+Life is not something that “has' meaning -- it’s something we give meaning to. You don’t “end up' with a meaningful life, you create it.
+
+There have been times where I felt conflicted and confused, where I mourned for a past self that I knew I would never see again while anxiously awaiting a future self who seemingly would never come. Old habits, both good and bad, have fallen by the wayside while I’ve picked up both good and bad habits to fill their space. mm
+
+{{fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto}}
+
+> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- sma harris*
+
+There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently.
+Feelings are what give a module control: You get worked up by what your buddy said and suddenly your brain is hijacked by “Angry Birds” instead of “Words With Friends.”
+Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings.
+Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
+
+personality is not static. - rollo tomassi
+-->
+
 
 
 
@@ -64,6 +83,23 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+regrets fof the dyieng: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
+
+True happiness, at its core, is simply about creating a life where your positive experiences and emotions outweigh the bad ones.
+You need to understand that you aren’t supposed to be happy all the time.
+You need the negative emotions and difficult times to help you appreciate it when things are great.
+Happiness isn’t something that you achieve. It’s not a goal to be had.
+It’s a state that you have access to every second of every day. Happiness is a choice.
+
+psychological bias that’s very common but can be disastrous to poker players (and the rest of us as well). It’s called “resulting,” and it’s when you judge the quality of a decision by its outcome.It’s a narrative fallacy: a decision can be good but still garner a bad result, because other circumstances, like luck, are in play.
+
+Encourage people to think in terms of probabilities
+you cant guarantee good outcome, you can is maximise the chances
+
+love, sucess and happiness are a byproduct
+
+It’s quite liberating to understand reality as a construction.
+
 > *'One of the keys to happiness is a bad memory.' -- Rita Mae Brown*
 	
 happiness is not about positive thoughts. but every positive thought is based on a negative thought.

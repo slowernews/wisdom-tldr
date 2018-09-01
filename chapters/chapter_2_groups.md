@@ -70,6 +70,14 @@ shark, dolphin, drowner
 HOWEVER: no one’s going to help you in a way that’s prejudicial to them.
 
 <!--
+The difference between success and failure can be as simple as keeping in touch
+
+Handle Rejection Gracefully
+
+list the people i met
+
+What if I told you that the best way to get value was to start giving it away? you're giving validation!!
+
 not what should i do next, but who should you speak next?
 
 Your network determines your net worth.
@@ -144,6 +152,12 @@ A good story does condenses a massive amount of information into a consumable an
 > *'Storytelling is about the details.'*
 
 <!--
+Don’t explain. People only hear what they want to hear.
+
+How to discord?
+> *'Will you tell me your story? I’d love to know how you came to this point of view.'*
+> *'I don't have an opinion on that; why don't you tell me how you got to have such a firm one? It sounds like I could learn something.'*
+
 open up question: Why is your best friend, your best friend? You can't fake an answer.
 asking questions without paying attention is worthless. you must be curious.
 the first question should go to the heart, just than to the head
@@ -248,6 +262,35 @@ HINTS: on successful *entrepreneurs*.
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
 <!--
+The disruptor’s credo, say it with me: Your profit margin is my opportunity. 
+Friend of a friend owns a small chain of grocery stores in New Jersey. A few years ago, when Amazon got into groceries, he changed his mind about investing in the growth of his own business. He started buying Amazon shares with his investment capital instead. He saw what happened to Circuit City and Tower Records, Borders and Barnes & Noble. So he bought some Amazon and then he bought some more.
+This wasn’t retirement investing. This was something else. What should we call it? Disruption Insurance?
+	
+when you dont have the monopoly, all markets are like online dating, people need to fall in love with our ideas. cretaivity doesnt operate in the vacuum. rivals and _distraction_ are your compettion. you need to seel your ideas.
+
+I’m proud to announce to you that I’m a problem solver and business creator.
+
+Nate has grown and sold several businesses, and he’s found that there’s a critical tipping point in each business (typically when it hits $5,000,000 in revenue) where he begins to burn out and lose interest.
+Instead of fighting this, he’s adopted the “Serial Entrepreneur” approach and will sell his equity or the entire business, once a project passes a certain revenue threshold.
+
+Jeff Bezos summed this up when he said “Your margin is my opportunity.”
+The key to business and investing success isn’t finding an advantage. It’s having a sustainable advantage. Something that others either can’t or aren’t willing to copy once your idea is exposed and patents expire.
+
+social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
+
+É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
+	
+The more people pay for something, the more they value it.
+
+One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It's cool; users love it; it just doesn't matter. But if you're living in the future and you build something cool that users love, it may matter more than outsiders think."
+
+I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
+Part of that may simply be wariness about spending a lot of money on stuff that's going to be shipped and could be lost, but that's not all. Owning the luxury goods themselves is only part of the experience -- being treated well during the purchase and during future customer service interactions is a big part of the draw of luxury items. You don't get that from most online retailers.
+
+Start with something I'm interested in. Don't worry about the theory; just focus on solving the problem. Solve the problem; start broadening my focus from there. <- on learning programming
+
+For example, if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others. The importance of finding this variable cannot be overstated.
+	
 HINT: Money is energy and the expression of your creativity.
 
 Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
@@ -396,6 +439,63 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+always negotiate. dont communicate weaknes on your negotiation.
+your first reaction should be no reaction. fight impulse to imediatelly give the answer.
+
+Responding to Job Offers for Maximum Impact
+Alex takes us through the process of responding to a job offer and sending a counteroffer.
+These sample letters should help you craft your own when the time comes.
+
+Letter One [Strong Response]
+Bob, [First name: power play.]
+
+I appreciate the consideration and the offer. I truly enjoyed our conversation and feel great about the team and company. [Reiterate passion; set the tone.]
+
+I need to evaluate this based on other opportunities I am looking at and will get back to you shortly. [Display social proof/market validation.] As I am doing that it would be helpful to know if there is any flexibility in the terms? [Put them on the defensive.]
+
+I look forward to your response. [Power close.]
+
+Cheers,
+Alex “Dream Employee” Kouts
+415.555.ALEX
+
+Letter Two [Counteroffer]
+Bob, [First name: power play.]
+
+I appreciate the consideration and the offer. [A meaningless courtesy that doesn’t do much, but when it isn’t there, people notice.] I am very excited about the team, the product and the direction of the company. I know I can make a big impact on the organization. [Reiterate passion and set the tone for the back-and-forth. Also a power play.]
+
+Based on other opportunities I am looking at, I feel xxx,xxx,xxx.xx is a fair number for what I can bring to ______. [12%-15% above the offer is optimal. Higher, and you risk insulting them or pricing yourself out of the job. Lower and you could be leaving money on the table.] If you can match that I am ready to sign today and will give my notice tomorrow. [This is the most important part. Present a slam dunk and dare them not to take it. You are coming over the top with enthusiasm; it’s a power play and almost always pays off.]
+
+I look forward to your response. [Power play; leave them with good vibes.]
+
+Cheers,
+Alex “Dream Employee” Kouts
+415.555.ALEX
+
+Review:
+
+Always use first names (caveat: unless their title vastly exceeds yours — if they’re on LinkedIn, use how they address themselves there as a reference.)
+Never make the first offer.
+Thank them.
+Set the tone for the negotiation.
+Display social proof/market validation.
+Set your “ask.”
+Help them visualize the win.
+Reiterate interest and close strong.
+Negotiating for a Car/Motorcycle/Mattress
+Alex shrewdly picked up a mattress for his girlfriend — plus a box spring, plus a frame — for less than half of what the salesman was originally asking for the mattress alone. Here’s his list of things you can say or do when negotiating for something like a car, motorcycle, or mattress — keep this handy on your phone so you can put it to use next time you’re trying to get a good deal!
+
+First establish a baseline — use Google.
+Ask if they will match advertised prices from a competitor.
+“What is your best out the door price?”
+“Will you do that -10%?”
+“If you reach my price, I will buy today.”
+“I am on the phone with xxxx; they have this advertised for $xxxx. Can you beat that?”
+“If I buy here, will you throw in xxxx?”
+“What if I pay cash?”
+“Okay, thank you. It’s helpful to know where you stand. I am going to check out a couple of your competitors and will be back if it makes sense.”
+WALK AWAY.
+
 I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
 
 creative pricing:
@@ -507,6 +607,9 @@ Run away from mediocrity and be ready to loose people.
 <!--
 first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
+
+There are four types of relationships with people:
+Win Win (long term), Win Lose, Lose Win, Lose Lose
 -->
 
 
@@ -551,6 +654,12 @@ HOWEVER...
 
 > *'Love is what happens to men and women that don't know each other.'*
 
+<!--
+> *'Afinal... Todas as pessoas são normais até as cohecermos melhor.' -- Margarida Rebelo Pinto*
+
+> *'Primeiro veem-se as qualidades depois os defeitos' -- EF*
+-->
+
 
 
 
@@ -589,6 +698,10 @@ HINT: resist to temptation of working with family and friends. There will be alw
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+i wanted to make part of the group, but that group is made of broken people. than you realise that is too stressful.
+
+its the tribe that you dont want to belong but you are.
+
 Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
 
 pedestals prevent friendships
@@ -598,6 +711,16 @@ pedestals prevent friendships
 Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
 we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his.
 focus in others people sucess but pick the right people.
+
+One time I had a friend who consistently would put me down. Or find reasons to be upset at me whenever something good was happening in my life.
+The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
+
+I also know someone is a friend when I can go long stretches without talking to him or her and then we talk and its right where we left off. I have a lot of friends like that.
+
+look for people with the same interests as you: meetup, learn a new skill
+second step is inviting them to do something.
+
+Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.
 -->
 
 
@@ -630,6 +753,8 @@ HINT: How to find mentors?
 > *'Your father is your first mentor.'*
 
 <!--
+I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill.
+
 > *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
 
 > *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach.'*
@@ -655,6 +780,8 @@ When you teach, you do something useful. When you do research, most days you don
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 
 <!--
+the value of getting a coach. spend more time fixing weaknesses than developing strengths!
+
 the way of man is the way of the gang
 
 Actually, the last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people.
@@ -742,6 +869,7 @@ power of incentives: Ignoring incentives almost never works out well
 Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
 
 <!--
+
 > *'No one has ever become poor by giving.' -- Anne Frank*
 
 Generosity without Expectation is Sexy
@@ -830,6 +958,12 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
 <!--
+> *'There’s only one thing that will make them stop hating you. And that’s being so good at what you do that they can’t ignore you.' -- Orson Scott Card*
+
+Vives do que? Vivo da minha criatividade.
+
+o homem de negocios sonha (ambicao - forcas activas), o ersto da populacao por necessidade ou medo constrói o sonho (forcas reactivas)
+
 > *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
 -->
 
@@ -870,6 +1004,13 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
 
 <!--
+changing course is hard and this scares us so we look around and try to copy the courses other people took
+
+everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+
+it’s kind of funny. But if everyone is thinking of the same joke, it loses some of its humor.
+If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
+
 Great things are not accomplished by those who yield to trends and fads and popular opinion. -- Jack Kerouac
 
 > *'Talk sense to a fool and he calls you foolish.' -- Euripides*
@@ -935,6 +1076,10 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
 
 <!--
+Multicultural is by absurdum the true monocultural."
+
+> *'Não há direitos sem obrigações e viceversa.' -- EF*
+
 I would not consider taxes to be “punitive.” Taxes aren’t punishment. They are much more like a membership fee
 
 Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.
@@ -1066,7 +1211,7 @@ The goal is to move everyone up from "unconfident and incompetent" to "confident
 
 
 ---
-### On management and delegation
+### On teams: management and delegation
 
 Managing is delegating. Your speed as a manager is the speed of the team.
 
@@ -1116,6 +1261,28 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 But data shows people want more feedback but monthly, not daily.
 
 <!--
+“A chain is only as strong as its weakest link”
+
+you can't make any judgement of the worker without detailed understanding of the specifics of the work.
+	
+I divide my officers into four groups. There are clever, diligent, stupid, and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.
+https://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord
+
+These are questions this manager has homed in on during his decades-long career at a high-tech company. Here they are:
+What do you need?
+What’s getting in your way?
+What can I do as your manager to help?
+
+succeful takers are the most visible people in organizations.
+reward system. culture is influenced by structure
+give to the right person
+
+as estruturas funcionam qd ha coesao
+
+servant leadership -> my responsability is to make my team better.
+
+convincing vs inspiring! leadership
+
 manager is a dreammaker
 
 Jeff Bezos, for example, famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.
@@ -1182,6 +1349,8 @@ Most reviewers are only going to understand two skill levels:
 still learning the skill / confident in the skill
 
 <!--
+If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.
+
 people leave managers, not companies
 
 people want freedom to choose their process
@@ -1308,6 +1477,50 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
+From the point of view of a noob. I might be completely wrong:
+- Tech marketability is important WHEN you are below average (my case). Otherwise any technology will grant you a job: if you know how to program, all languages are easy to pick. In my case, I'm still between React and Vue. While I prefer Vue, all jobs ask for React.
+	
+work smart not harder but hard still.
+
+3. Always Focus on Delivering More Value than Expected
+
+For every million people that want to be a successful musician, only one is going to achieve it.
+If you’re going to be that one, you can’t do what everyone else is doing.
+Whatever you do, it’ll be creative, efficient, and effective. That’s my definition of resourceful.
+It means making something happen, instead of saying you can’t.
+It means accessing all the people and skills you know, including the ones that take extra effort.
+It usually means doing things for free, but can also mean spending a little money to save a lot of time.
+It means using a shortcut around obstacles, getting in through a back door, bending the rules, and never waiting for permission.
+It means asking for help, but not waiting for help.
+So why do I hate to admit this?
+Because I love how the internet has made it possible for anyone to get successful anywhere. I love the idea of living in the middle of nowhere, surrounded by nature, yet being connected to the world. But still, when I look at the facts, it’s impossible to deny. Actually living in the big city, and being in the middle of where everything is happening, will help your career the most. Being elsewhere won’t hurt you, but it won’t help. -- sivers
+
+finding and winning a great job is a competitive subject. it's not very correlated with luck.
+
+You are a learning machine… Not an occupation.
+Ideas are Welcomed, Execution is Worshiped
+Your Success is Someone Else’s Miracle
+
+{{link to change}}
+My passionate interests have changed 30 times since I graduated college.
+
+recruiting better than hiring: find a place whre you can do a good job
+
+Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
+
+You don’t give a damn about that job. It’s someone else’s dream
+
+you need to get people attention
+
+I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
+
+ex: selling generic copyright instead of mass persuasion
+find your secret sauce and NAME it. whats unique.
+
+> *'The difference between your best and your worst? The perception of others. Block out the noise and you’ll stay on track.' -- Phil Hellmuth*
+
+its good to be better, but is better to be different.
+
 > *'Be a jack-of-all-trades and a master of one.'*
 
 specialization is dangereous
@@ -1331,6 +1544,8 @@ So: 100% on one thing = 80% on 5 things!
 Happy, Smart, and Useful
 
 look at situations as systems. i help to create systems.
+
+> *'Custom tailor teams from project to project. Same team from same project is not the best option.'*
 -->
 
 
@@ -1359,6 +1574,11 @@ HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of the
 > *'Only the truth is funny.' -- Rick Reynolds*
 
 <!--
+on gatekeepers
+
+> *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
+Es triste que gente con talento y sin dinero tenga que depender de gente con dinero y sin talento.
+
 right amount of hierarchy and structure
 
 > *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*

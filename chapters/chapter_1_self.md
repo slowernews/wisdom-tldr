@@ -41,6 +41,20 @@ Making sure that you are taken care of so that you can take care of others or fo
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 <!--
+- healthy people will respect your boundaries
+boundaries is knowing what you want and what you don't want in a moment
+neighbours example: fence and steping in your flowers.
+we dont need to like everybody. dot.
+being nice is not being able to tolerate the other being upset with him
+niceness leads to passivity
+they don't rise to leadership positions
+the quality of friendship is not the best
+nice people take overresponsability for other's feelings and all?
+a nice person can't be angry -> then it manifest as depression, anxiety, health problems, passive agressiveness
+resentment is created when we say yes when we want to say no.
+
+That’s me. One of the best days of my life was the day I took the elevator down to freedom. It was the middle of the day. I walked out. No boxes. No handshakes. I left and played chess in Union Square. The same place I got my first client after starting my own company.
+
 you lifestlyle depends on your independence
 
 Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
@@ -100,6 +114,16 @@ Your results are yours and yours alone. Your choices determined the body, bank a
 Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
 
 <!--
+Men take responsibility for their lives, treat others with respect, and do what needs to be done.
+
+Rather go to bed without dinner then to rise in debt. -- Benjmain Franklin
+
+Be willing to side with the minority.
+
+> *'Quality means doing it right when no one is looking.' -- Henry Ford*
+
+> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
+
 > *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
 
 Humility With forward action: 'I wasn’t the smartest in X but..'
@@ -138,6 +162,18 @@ Be raw, be real, tell people what is really going on. The more vulnerable you ar
 - truth-a-better-way-to-talk-about-ourselves.
 
 <!--
+core values:
+honesty everywhere. i dont want to be in place where i cant be honest.
+i want to make relationships with a long term prospect.
+flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer.
+angry. i dont want to be around angry people
+
+Personal branding will kill you. Personal DOING will save everyone around you.
+
+CHANGE YOUR ACTIONS, NOT YOURSELF
+
+Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change.
+
 i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
 
 Part of being a man is being a protector of everyone who comes into your life.
@@ -187,6 +223,14 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'[Gratitude] is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
 
+<!--
+> *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
+
+A good life is not a life without problems. A good life is a life with good problems. mm
+
+play the cards you are dealt. And you will often be dealt bad cards.
+-->
+
 
 
 
@@ -214,7 +258,23 @@ When you start walking, the path will be revealed. Passion is made not found.
 > *'The obstacle is the way.'*
 
 <!--
+parabol: that door is only for you.
+	
+i FEEL that THIS was what I was meant to do, its ok to be vulnerable
 
+
+“Ever since I was a little kid, I wanted to be in combat,” he said. “Why?”
+“Well… what did you want to do when you were growing up?” he asked.
+“I guess I wanted to write and interview people.”
+“Well, there you go.” I don’t think my brain fully realizes that I’m doing what I dreamt of doing as a kid.
+
+When you don’t know your next step… When you’re feeling unmotivated… When asking someone to help you… Get more specific about what you want.
+
+if you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price. -- roger kipling
+
+> *'The question is not who is going to let me; it's who is going to stop me.' -- Ayn Rand*
+
+> *'It’s easier to ask forgiveness than to get permission'*
 
 > *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
 
@@ -361,6 +421,11 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 > *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
 
 <!--
+Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value' is a surprising result.
+
+> *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
+> *'When we are tired, we are attacked by ideas we conquered long ago.' -- Friedrich Nietzsche*
+
 #CONFORT AND RISK, ON CHANGE
 
 Divergence
@@ -515,6 +580,22 @@ HINTS:
 HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
+A lot of things in life are first-order positive and second-order negative.
+A real advantage is conferred on people who can do things that are first-order negative, second-order positive.
+
+Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
+
+> *'Discipline is the power to believe.'*
+
+What use is it to read [hundreds of books in my life] if I remember so little from them? [...]
+Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists.
+
+{{link to planning: habits are plans}}
+
+Srinivas recommends that you also write 1,000 words every morning before you do anything else.
+
+The muse doesn’t wait for you. You have to constantly romance the muse.
+
 Focus on Building Systems
 	
 It’s not about working harder to get better results. You have only so much energy to apply. Pick what matters. Eliminate the rest.
@@ -594,6 +675,8 @@ Charles Duhigg wrote in The Power of Habit:
 Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.
 
 > *'Pain plus reflection equals progress.' -- Ray Dalio*
+
+This is because our minds are essentially accumulations of habits.
 -->
 
 
@@ -609,6 +692,37 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+When I asked him what separated his student from the other people he’d mentored Russel’s answer was simple.
+“He’s willing to listen to people who are smarter than he is and he has a tremendous hustle and drive.”
+
+Project-based learning is not a superior new idea. Project-based learning is the most inefficient form of learning that still works.
+learning concepts is much more important than learning applications
+
+People often ask me what’s the best language to learn to study software design. I ask them what’s the best instrument to learn to study music theory. Everyone answers piano. In piano, you can see the chords in a way that you can’t in, say, trombone. We see something similar in other domains. In The Art of Learning, Josh Waitzkin recounts how, unlike others, he started studying chess at the fundamentals, in situations with few pieces on the board. He ultimately beat competitors who studied many times harder. In The Art of Game Design: A Book of Lenses, Jesse Schell advocates looking past modern video games and instead studying the concepts in board games, dice games, playground games.
+
+The second big argument for project-based learning is that it more closely resembles what students will actually do on the job. This, in turn, is based on the idea that the best way to practice an activity is to do it.
+you isolate subskills and drill them
+
+You can spend hundreds of hours practicing a piece using too many muscles on every key press. If your body awareness isn’t great, you might not find out until your hand cramps up right before your performance. A couple seconds to catch that mistake, a couple minutes to tell you a story of that happening to others, and the piano teacher’s just saved you months. -> value of a coach\
+
+If [more]information was the answer we’d all be billionaires with six packs. -- derek sivers
+
+Here’s how it works:
+Read your programming book as normal. When you get to a code sample, read it over
+Then close the book.Then try to type it up.
+
+> *'Education: the path from cocky ignorance to miserable uncertainty.' -- Mark Twain*p
+
+The first 25 of the above words make up about 1/3 of all printed material in English. The first 100 comprise 1/2 of all written material, and the first 300 make up about 65% percent of all written material in English.
+
+the value of education is signaling, rather than actual learning.
+
+> *'Once you stop learning, you start dying.' -- Albert Einstein*
+
+> *'The perfect is the enemy of the good.' -- Voltaire*
+
+As famed gymnastics coach Chris Sommer puts it, the fastest way to learn is to do things the slow way.
+	
 first understand the basics! then pass to next level
 
 Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
@@ -783,6 +897,8 @@ there are consequences for acting and don't acting
 Short of physical characteristics like height, bone structure, and other unchangeable genetic factors, anything in your life can be changed.
 you can change aspects of your personality that you don’t like And for most people, this is a scary realization. you are now “burdened” with the realization that you are completely responsible for everything in your life and everything not in your life.
 you have to choose now. what you want.
+
+Develop a High-Value Skill Set and Turn It Into Passive Income
 -->
 
 You improve by:  
@@ -860,6 +976,52 @@ Write advice to yourself or other people. Review it regularly. Edit it. Refine i
 I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
 
 If you’re not getting better today, you’re getting worse.”
+
+on learning:
+1. Teachers are viewed as saviors when materials are actually the determining factor.
+2. Classes move as slowly as the slowest student.
+beginner, intermediate, and advanced
+there are at least 20 different skill levels.
+3-Conversation can be learned but not taught.
+Somewhat like riding a bike, though unfortunately not as permanent, language fluency is more dependent on practicing the right things than learning the right things. The rules (grammar) can be learned through materials and classes, but the necessary tools (vocabulary and idiomatic usage) will come from independent study and practice in a native environment.
+Separate grammar from conversation practice. I recommend choosing one school for grammar and several native books or comics to identify sticking points, which are then discussed in one-one-one language exchanges, where your partner provides examples of usage and does not explain rules.
+4. Teachers are often prescriptive instead of descriptive.
+teachers should give you tricks.
+In conclusion—the learner is the problem (what?)
+Classes are easily used to infinitely postpone making the thousands of mistakes necessary to achieve fluency. 
+
+Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.)
+
+Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. 
+
+I was able to pass the Certificado de Espanol Avanzado, the most diffucult Spanish certification test in South America, in eight weeks, which is said to require near-native fluency and years of immersion. How? By following the above fixes and making more mistakes in eight weeks than most make in eight years.
+
+!!!!!It is easier, and much more time-efficient, to catch up versus keep up.!!!!!
+
+I began reactivation of irretrievable German just over a week ago and can already hold a decent conversation. This is not a testament to my ability, but to the efficacy of a process that begins with massive passive exposure and avoids time-consuming review from square one:
+
+1. Days 1-7: German films with English subtitles for at least two hours each evening for one week.
+2. Days 3+: 10-20 pages of dialogue-rich manga (Japanese comics, here translated into German, that can be ordered in most languages from comic stores in your target country) for 30 minutes each morning and prior to bed. I’m a big fan of One Piece.
+3. On the plane: Read a phrasebook in its entirety for active recall practice of common phrases (45 minutes of study alternated with 15 minutes of rest — this takes advantage of what is called the “primacy and recency” effect).
+4. Upon arrival: Continue with manga and grammar reference checks as needed, using an electronic dictionary to reactivate vocabulary from conversation that is familiar but not understood.
+5. Weeks 2-3: Thirty to sixty Vis-Ed flashcards daily. This seems like a lot, but most will have been covered in steps 1-3 using active recall (English to German). Vis-Ed compiles its sets of flashcards from word frequency lists and includes sample phrases for usage. I begin flashcards after three or four days in-country.
+
+!!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!!
+
+Consider a new language like a new sport. analogy. advantages and train
+
+The apple is red.
+It is John’s apple.
+I give John the apple. - I give John the apple.
+We give him the apple.
+He gives it to John.
+She gives it to him.
+I must give it to him.
+I want to give it to her.
+
+learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible.
+
+skill fluency!
 -->
 
 
@@ -964,6 +1126,8 @@ Countries rewrite their histories, from the textbook up, to support how they see
 
 If we cut ourselves off from the full scope of history because it makes us uncomfortable, or doesn’t fit with the cultural narrative in which we live, we reduce our ability to learn from the past and apply those lessons to the situations we are facing today.
 We need to accept that people can do great things while still having flaws. Our heroes don’t have to be perfect, and we can learn just as much from their imperfections as from their achievements.
+
+professionals ask questions, amateurs make statements.
 -->
 
 
@@ -1029,6 +1193,8 @@ HINT: How to fight depression? Starve and exercise. When sick, move!
 HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 
 <!--
+debug your brain as much as you can. DEBUG MODE!
+
 > *'Nature itself is the best physician.' -- Hippocrates*
 
 > *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
@@ -1121,6 +1287,8 @@ People will do anything, no matter how absurd, in order to avoid facing their ow
 > *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
 
 <!--
+> *'If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.' -- Hermann Hesse*
+
 your personality type is not an excuse.
 
 The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.
@@ -1178,6 +1346,12 @@ HINT: Be gentle first with yourself.
 > *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
 <!--
+I wasted thousands of dollars investing in lousy stocks when I was in my early 20’s.
+
+> *'I can think, I can wait and I can fast.' -- Siddahrta*
+
+Failure is only failure if you don’t learn from it, if you don’t grow from it, and if you don’t reframe it so that you see each failure as a valuable teacher, educating you about how to achieve your dreams.
+
 > *'It's not the load that breaks you down, it's the way you carry it.' -- Lou Holtz*
 
 Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
@@ -1286,6 +1460,27 @@ Write about it: Thinking about it makes it worse. Writing about it makes it bett
 
 
 ---
+### On perfectionism
+
+
+Instead of seeing yourself as a perfectionist, try and see yourself as a doist. This is liberating.
+
+> *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism -- but in cases where the "perfect" path isn't obvious. It's better to do nothing at all until the perfect path is understood.
+Defeating this is a real challenge and requires serious conscious effort. People who have reputation as "doers" often gain it by finding the "good enough" target and driving towards it. Many "do nothings" are really people who have an overdeveloped desire to "do it right" and can't overcome it.
+'  -- bane_HN*
+
+<!--
+I encourage you to stop thinking about the world in binary terms. how much engineering matters for financial success is a continuous function of several parameters. It's never about either not mattering at all or mattering 100%
+
+Instead, think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions.
+Keep your “self” out of your decisions, because most likely, it’s not about “you.” Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it. - mm
+aka action and dont think too much
+-->
+
+
+
+
+---
 ### On shame
 
 Speaking openly about an imperfection is a sign of strength, not a weakness.  
@@ -1360,6 +1555,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 <!--
+Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
+	
 analogy: confidence is like a building
 
 If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.

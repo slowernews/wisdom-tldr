@@ -77,6 +77,11 @@ HOWEVER:
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
+We’re building tomorrow’s legacy today
+
+“It is never too late to be what you might have been.” -- George Eliot
+age is a mindset
+
 > *'We should all start to live before we get too old. Fear is stupid. So are regrets.' -- Marilyn Monroe*
 
 Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now.
@@ -139,6 +144,8 @@ Dream big. If your dreams don't scare you, they are not big enough.
 make the exercise: imagine you life in 10years. possible futures
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
+
+> *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 -->
 
 
@@ -167,13 +174,15 @@ So many geniuses, are really good at eliminating unnecessary complexity. Enstien
 > *'Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.' -- Andy Benoit*
 
 > *'The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.' -- John Holt*
+
+When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
 -->
 
 
 
 
 ---
-### On wealth
+### On money and wealth
 
 Being rich is being fulfilled, not counting money all day.
 
@@ -195,6 +204,28 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 > *'We don't make movies to make money; We make money to make more movies.' -- Walt Disney*
 
 <!--
+How to Get Rich (without getting lucky):
+Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible.
+Ignore people playing status games. They gain status by attacking people playing wealth creation games.
+You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
+You will get rich by giving society what it wants but does not yet know how to get. At scale.
+Pick an industry where you can play long term games with long term people.
+The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet.
+Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.
+Pick business partners with high intelligence, energy, and, above all, integrity.
+Don't partner with cynics and pessimists. Their beliefs are self-fulfilling.
+Learn to sell. Learn to build. If you can do both, you will be unstoppable.
+Arm yourself with specific knowledge, accountability, and leverage.
+Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you.
+Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now.
+Building specific knowledge will feel like play to you but will look like work to others.
+When specific knowledge is taught, it’s through apprenticeships, not schools.
+Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.
+Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.
+The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.
+
+Money is a tool. it can serve as a force multiplier to help you live the life of your dreams, enjoy wild adventures, and create a lasting legacy.
+
 You cannot save your way to wealth.
 
 nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
@@ -202,6 +233,17 @@ nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 money is merely an arbitrary store of value. It is not value itself.
 Money is not the cause of wealth in one’s life. It is the effect.
 Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.
+
+Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person, and therefore we all get a little bit testy and scooch around uncomfortably in our chairs whenever money is brought up.
+But money is merely an arbitrary store of value. It is not value itself.
+There are many stores of value in life. Time is a form of value. Knowledge is a form of value. Happiness and other positive emotions are a form of value. Money is often just the vehicle of interchanging these various forms of value with one another.
+Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems.
+
+Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others. You then give your money to others to receive experiences in return.
+
+Because money is an exchange of experiences, money often results in experience cycles: we give up one (negative) experience to earn money that then purchases the opposite (positive) experience. Once the money runs out, we’re forced back to the negative experience and the cycle starts again.
+
+True wealth occurs when the way we spend our money is not simply compensating for how we earn it. Wealth occurs when the way we earn money and the way we spend money are aligned with one another — when our money is earned through a positive experience and spent on other positive experiences. -- mm
 -->
 
 
@@ -216,6 +258,12 @@ See fame as a multiplier. If you want to impact the world, be famous.
 'Do things worthy of making you famous. The audience you build allows you to multiply everything you do across all those people. It increases your impact. It makes it easy to sell something. It makes it easy to come up with products and services. They will ask you or you can ask them.' -- Allen Tucker (paraphrased)*
 
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
+
+<!--
+Kardashian Rule: The more viral a person or event is, the more the culture will overestimate its importance.
+It implies: that how important a thing actually is matters little and what matters is how shocking and memorable a piece of information is. 
+Werther Effect: remexer nas coisas dá-lhes importancia.
+-->
 
 
 
@@ -243,7 +291,7 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 
 HOWEVER positive results don't imply good planning..
 
-> *'Even a broken clock is right twice a day.'*
+> *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 
 <!--
 The Key to Good Luck Is an Open Mind
@@ -361,6 +409,15 @@ HINT: How to simplify?
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+making life more difficult than needed!
+
+5. Spend Your Money on Experiences and Adopt a Minimalist Lifestyle
+
+> *'All men die, but not every man lives' -- William Wallace*
+> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+
+I have no plans to retire. It’s the perfect combination of work and play that keep you young.
+If I quit work it would be the beginning of the end for me.
 
 How to Reduce Your Expenses without Sacrificing Your Quality of Life
 > *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
@@ -440,6 +497,9 @@ HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest b
 > *'Doubt kills more dreams than failure ever will.'*
 
 <!--
+Society judges people by what they can do for others. But we judge ourselves by our thoughts.
+Abilities are not prized by their virtue.
+
 Life is About Who You Become Not What You Achieve
 On this journey called life, many people lose sight of what is really important.
 They believe that material wealth, sexual experiences, and physical prowess are what makes a man.
@@ -523,6 +583,19 @@ The story he told me was a combination of luck, learning skills, building a netw
 ---
 # Appendix C - Others
 
+### On humanness and irrationality
+
+> *'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Starship Troopers by Robert Heinlein*
+
+> *'If there is one thing you can count on, it's human greed. And I'm not pretending I'm above it myself.'*
+
+<!--
+most people approach each and every year in the exact same way while (somehow) expecting drastically different results.
+-->
+
+
+
+
 ### On religion
 
 'And on the first day, men created god.'
@@ -538,6 +611,10 @@ The story he told me was a combination of luck, learning skills, building a netw
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
 > *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
+
+<!--
+there is some power in believing that somebody is going to happen.
+-->
 
 
 
@@ -572,6 +649,8 @@ The story he told me was a combination of luck, learning skills, building a netw
 > *'Art doesn’t end at the edge of the canvas.'*
 
 <!--
+chef invents based on ingredents, cook follows a recipe
+
 arte é expressão, e normalmente arte é resposta ao sofrimento. qd tas bem não fazes arte.
 
 Art is a meditation and design is a negotiation.
@@ -604,6 +683,8 @@ That's where «big bucks» are.
 > *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
 
 > *'There is no exquisite beauty… without some strangeness in the proportion.' -- Edgar Allan Poe*
+
+> *'Poetry is what gets lost in translation.'
 -->
 
 
@@ -657,6 +738,10 @@ HINT: When to fold them?
 HINT: Barbell strategy
 
 <!--
+analise de tendencias: perceber o q esta fora de moda
+
+you dont get rich by selling commodities.
+
 GET AN EXIT STRATEGY
 
 > *'Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
@@ -677,6 +762,18 @@ start with small investments till you are confortable with them. psycology is a 
 legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
 
 entrepreneurship vs investment - 2 different mentalities.
+
+> *'Anything is illiquid if you hold a large enough percentage of the total amount.'*
+> *'Stock buybacks are effectively same as dividends.'*
+> *'Don't buy junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.'*
+
+dealers vs brokers: liquid markets (dealers with enough inventory)
+Tons money, zero money, negative money.
+
+Since “Budget” has become a four-letter word to many people, I prefer using the term “Conscious Spending Plan” (coined by Ramit Sethi).
+If you show me a man’s spending you can show me what he values”.
+
+understand market cycles
 -->
 
 
@@ -703,8 +800,14 @@ HINTS on nomadism:
 Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chillin'*
 
 <!--
+camping come from military campaign
+
+For both tourists and artists, much of the seaside’s appeal comes from its association with less structure and more freedom
+
 thats how we do it, you just buy a ticket to the next destination
 looking for empty seats and get people to take you home
+
+On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
 -->
 
 
@@ -712,6 +815,128 @@ looking for empty seats and get people to take you home
 ---
 # Appendix D - Bonus
 
+### On computers & maths
+
+> *'Controlling complexity is the essence of computer programming.' -- Brian Kernighan*
+
+> *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
+
+<!--
+> *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
+> *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger W. Dijkstra*
+> *'I was shocked to realize how dependent I’ve grown on three simple features that just aren’t available in the analog world: search, sort and filter.'*
+
+In the battle of man vs algorithm, unfortunately, man often loses
+
+All software gets developed under time, budget, management, requirements, and skill constraints that prevent doing anything perfectly. We should keep those constraints and limits in mind when we look at code and immediately conclude the code resists understanding, or that only fools would have produced such software.
+
+a fundamental rule of technology: There is no third ecosystem
+
+OOP is a natural enemy to concurrency (because of state) and about how transforming data (I.e functional) is a better match
+
+hash is a fingerprint of an amount of information. SHA256 -> 64 characters
+blockchain is a data structure that individual mistakes doent go unnoticed as they transform in a chain of mistakes
+
+Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
+
+Top 4 desirable developer skills:
+Ability to ignore new tools and technologies;
+Taste for simplicity;
+Good code deletion skills;
+Humility.
+
+silicon valley celebrate failure only after they achieve success
+
+engineer is an optimizer
+
+MATHS:
+> *'As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality.'*
+> *'In mathematics you don’t understand things. You just get used to them.' -- John von Neumann*
+> *'Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigor should be a signal to the historian that the maps have been made, and the real explorers have gone elsewhere. '-- William S. Anglin*
+math shortcut: Years to double = 72 / Interest Rate
+> *'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' -- John von Neumann*
+
+AUTOMATION
+
+- This is the classical economic expectation of what would happen as automated output starts to outperform labor, and capital can be automatically produced. When this happens, scarce natural resources (such as location) increase in value. Henry George saw this nearly 140 years ago, with his "Fool's Paradise" thought experiment. As efficiency rises and rises, can the cost of living ever approach zero, or will the landlords (in their many forms) be able to extract what they will?
+
+Until the robots decide to stop feeding their "owners".
+Money is a social construct. Power comes from controlling energetic resources, and automation is gradually stripping that control away from humans.
+
+In other words, this is the normal destructive (and positive) cycle of capitalism. It is always painful for people who adapt slowly, and provides opportunities for those willing and able to jump into the development and use of new automation tools.
+
+An article somewhere had a useful categorizaiton of automation of jobs in terms of human jobs
+1) Automation removes a bottleneck, and lets workers be more productive - often creating more work.
+2) Automation removes a better paying job, and leaves behind a less skilled role for humans
+But as I have pointed out elsewhere, and economists also admit - retraining is not really an option. For someone to change tack and learn an entirely new set of skills is more than slightly challenging on its own. Let alone with the tensions of losing a job and having to take care of a family with their time needs.
+The weakpoint in the larger economic model is retraining.
+
+Humanity stuck on this notion that labor = virtue, which made some sense in an agricultural society where everyone would starve to death if most of the population wasn't actively engaged in production, but is getting increasingly toxic as we approach a post-scarcity world.
+
+CobrastanJorji
+The best outcome is the "Culture" endpoint: a post-need society. 10% of people are called upon to work, and the rest thrive on basic income and become artists and inventors, philosophers and musicians and actors.
+The worst outcome, on the other hand, is rather more dystopian. A society with a very large percentage of young, unemployed people with no particular path to success is not a stable society.
+I suppose it matters how comfortable the 90% is when they become unemployed. Is basic income enough to fulfill individual passions and interests? What happens to a large body of humans whose needs are taken care of but who aren't strictly needed for anything?
+reply
+    
+germinalphrase
+Also, do the 10% believe that they are a static group deserving of persistent participation in the "working class" - or is this a competitive and fluid group in which the children of the 90% may move into/out of as their skills/ability apply? Which is to ask - is it worth maintaining a 90% at all or should we 'solve that problem'?
+
+logfromblammo
+Prior to industrialization, "pull your own bootstraps" fortunes were extremely rare, and largely a matter of accidentally being in the right place at the right time. Most wealthy folks got there from skimming off their human herd by force or threat of force and by bribing the most docile and cooperative by giving them some of their own production back.
+After industrialization, a lot of people were able to leverage first-mover advantages and unrealized frontier opportunities into vast fortunes. But even then, having one extra dollar from daddy in 1790 meant having many, many more to give your own kids by 1820, even if you had 12 of them. That extra dollar might have meant you carried a full feedbag and got there a day before the guy who had to stop to let his horse forage, and getting there first was worth thousands.
+Now, daddy's dollars might allow you to start from second place, and grow faster than the first-mover, who might be trying to bootstrap. Or you could do the same with investor money, but with corresponding loss of equity. If mommy or daddy fund you, you probably get to keep more of your own company.
+
+richardknop
+If you go down the history, most wealth was stolen from people violently and from then on anybody born into these aristocratic families would continue benefiting from the wealth.
+A lot of new wealth has been created by people born into poor / middle class families in last 1-2 centuries for sure, especially 20th century.
+But there are still families today that are wealthy and their wealth have been with them for 400-500 or more years. And in those cases it's very likely the original wealth was stolen.
+It could be that original wealth was gathered during robber baron times by exploiting workers or it could be even older, being passed from generation to generation since medieval times. Which means the original aristocracy probably gained this wealth in a violent conquest.
+
+The more likely outcome of a true post-scarcity society is the 90% will be house servants for the 10%.
+This has always proved to be unstable.
+It will always result in revolution. The 90% will demand an equal share.
+The sad bit is that the revolutions seem to destroy the robots, not share the wealth. The 90% elect a different 10%, who then build more robots. See Animal Farm for details.
+The 10% have to share the pie, at least enough to prevent revolution.
+
+Very few people would "thrive" on a basic income. Look at communities today where a large percentage of people live on government aid. People need a reason to exist and meaningful work to do. Very few have the drive and discipline to become artists/inventors/philosophers/musicians/actors. Plus the majority of those who do become artists are unlikely to create anything that the rest of society would value. Have you been to an Arts & Crafts fair lately? Most of the stuff there has negative value, in that you'd have to pay me to take it.
+We need a better solution than basic income.
+
+What will that tech need to survive?
+Lithium, for batteries. Heavy metals, for processing. Energy, most of all.
+I wonder how long it'll be until we replace fiat currencies with a balance of kilowatt-hours.
+
+3) Automation removes an entire type of work.
+Automation doomsday scenarios focus on the last work.
+-->
+
+
+
+
+### On books
+
+> *'The great books are the books that never have to be written again.'-- Carl Van Doren*
+
+<!--
+active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
+Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.
+
+when you start writing a book start with your own ideas
+writing a paper is different from writing a book
+
+> *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
+> *'What if we just went home and read books to each other?' -- Gary Shteyngart*
+> *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
+> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
+> *'Reading is to the mind what exercise is to the body.' -- Joseph Addison*
+> *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
+Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
+-->
+
+
+
+
+---
 ### On email
 
 - Keep it under three lines, more than this call.  
@@ -724,6 +949,40 @@ looking for empty seats and get people to take you home
 «I’d love a letter of support from you. I’ve attached a draft for your review.»  
 The reader should be able to reply to the email in one word, forward it on to the right person or delete it. 
 Be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»  
+
+
+
+
+---
+### On comedy
+
+Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. And standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
+
+> *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin (1878-1953), to Anastas Mikoyan*
+
+<!--
+    > *'La que no es puta non desfruta.'*
+    > *'love people and use money vs love money and use people'*
+    > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
+    > *'The four most expensive words in the English language: «This time is different».'
+    > *'Reality continues to ruin my life.' -- Bill Watterson*
+    > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
+- There’s a great joke about an automated car plant in Japan, where the machines work in the dark (no need for light, they don’t have eyes) and there are only two living things authorized to be on the factory floor – a man and a dog.
+What’s the man there for? His job is to feed the dog.
+What’s the dog for? The dog keeps the man from touching any of the machines.
+
+> *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
+
+SEX:
+    > *'You should have sex more than you think you should, as pizza.'*
+    > *'When it's good is good. When it's bad it gets in your shirt.'*
+WHERE IS HOME?
+    > *'Home is where the bra isn´t.'*
+    > *'Home is where the parking lot is?'*
+WHAT IS LOVE?
+    > *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
+    > *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
+-->
 
 
 
@@ -763,7 +1022,14 @@ The ability to [listen](chapter_2_groups.md#on-communication) is a superpower.
 
 The ability to [focus](chapter_3_action.md#on-focus-time-management-and-productivity) is a superpower.
 
+The ability to [forgive]() is a superpower.
+
 <!--
+> *'Perspective shifts will unlock more than smartness will.' -- Astro Teller*
+	
+People who can't change their minds never move forward. Worse still, they see themselves as heroes.
+They stop getting promoted. Their work colleagues avoid them. Their friends call less often. Their disagreeable dispositions mean that people don't want them around. They are prisoners of their beliefs. They want everyone to see that they're right. If they persist long enough, the only people they have in their circles are people who have the same (incorrect) worldview.
+
 sustainable competitive advantage.Here are five big ones.
 1 - The ability to learn faster than your competition
 Marc Andreessen promotes the idea of “strong beliefs, weakly held,”

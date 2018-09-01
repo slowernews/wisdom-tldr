@@ -64,6 +64,8 @@ In executive position, visionary, maverick, multidisciplinary thinker, etc.
 You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
 <!--
+> *'If you don't imagine, nothing ever happens at all.' -- John Green*
+
 there’s a will there’s a way.
 
 If you’re willing to get creative, there’s nothing that you can’t do, be, or achieve. But you must be willing to think outside of the box and cut yourself off from any possibility of failure.
@@ -130,6 +132,16 @@ It is possible to view this as an isolated event or a trend
 Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
 
 <!--
+you have to be macchaviellan but you need also other skills! tese antitheses -> syntesis
+
+FATALITIES VS FALSE POSITIVES:
+
+The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches
+
+> *'The truth is rarely pure and never simple.' -- Oscar Wilde*
+
+> *'When a measure becomes a target, it ceases to be a good measure.' -- Goodhart's Law*
+
 > *'Judge a man by his questions, not by his answers.'*
 	
 > *'I look for ways of changing my mind.' -- Chalie Munger*
@@ -161,6 +173,20 @@ HINTS:
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 <!--
+*reasoning by first principles and reasoning by analogy*
+
+> *'To understand is to know what to do.' -- Wittgenstein*
+
+correlations is not causation
+
+aditional information only feeds your confirmation bias
+
+Skepticism is a great servant and a terrible master.
+
+> *'That's the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- PG*
+
+There is too much going on – too many decisions and interactions happening in every moment – for us to be able to conclude cause and effect with any certainty.
+
 Sometimes we know that A+B=C but we don’t realize that A=C-B
 
 The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
@@ -263,6 +289,11 @@ steryotypes are the falsy _group_ opinions that account for a small amout.
 groups opinios self correct themselves.
 
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
+
+Every word someone says is the tip of the iceberg.
+Underneath that word are thoughts, fears, emotions.
+Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
+There’s always a good reason and a real reason.
 -->
 
 
@@ -298,6 +329,44 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+oftentimes, the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
+
+estimates are promises
+What makes promises special is that once you promise something it is expected that you ACT upon realizing it.
+No one that has no 'skin in the game' should give estimates.
+
+questions to make to your self.
+who owns the problem?
+if a problem is too small or too big to solve
+what's really bothering you.
+
+fixing problems by adding things vs by subtracting things.
+
+> *'Se não houvesse decisoes eramos todos bons/iguais.' -- antónio simoes, benfica*
+
+sink or swim
+
+My New Strategy: Test Stuff Out - trial first!
+
+“Is this the smallest thing we can do to test our riskiest assumption?”
+
+decision-making heuristics to remove the need for deliberation in particular situations:
+- default to no (steve jobs)
+- hell yes or no (derek sivers)
+- no to any decision that requires a calculator or computer (Warren Buffett)
+- reversible or irreversible decision (jeff bezos)
+
+If a decision is reversible, we can make it fast and without perfect information. If a decision is irreversible, we had better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can.
+The ability to make decisions fast is a competitive advantage.
+Type 2 decisions can and should be made quickly by high judgment individuals or small groups.
+
+With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
+As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
+
+> *'Opportunity cost is how intelligent people assess things.' -- Munger*
+
+plan ahead plannin 20% action 80%?
+
 in most knowledge organizations, your product is decisions. you are evaluated by yours
 
 Beliefs lag behind reality.
@@ -558,6 +627,14 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+in order to understand i destried myself
+	
+At some point, the pain of not doing it becomes greater than the pain of doing it. -> law of procrastination
+
+the most difficult is the decision to act, the rest is just tenacity. -- andrea earhart
+
+> *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
+
 Play the ball before it plays you.
 
 It requires an individual to accept responsibility for his situation
@@ -741,7 +818,7 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 
 
 ---
-### On velocity, position and direction
+### On speed, position and direction
 
 Direction is more important than velocity.
 
@@ -776,6 +853,8 @@ Don't be thirsty.
 > *'Trade space for time.'*
 
 <!--
+Velocity and speed are different things. Speed is the distance traveled over time. I can run around in circles with a lot of speed and cover several miles that way, but I’m not getting anywhere. Velocity measures displacement. It’s direction-aware.
+
 Here are three ways you can increase your velocity:
 
 - To the extent possible, ruthlessly shave away the unnecessary tasks, priorities, meetings, and BS. Put all your effort into the projects that really matter.
@@ -858,6 +937,49 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+Top performers definitely focus on fewer goals — but they also obsess like crazy over them.
+“Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all t
+So start ruthlessly cutting all the activities in your workday that aren’t producing value.
+
+> *'As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself' -- Arthur Schopenhauer*
+
+Mind the process, not the results
+Takeaway: Focus on the process when intention setting—the actions you need to get what you want. For example, “finish TPS report” might turn into “write TPS report for 45 uninterrupted minutes.”
+
+there are only three ways in which you can increase productivity:
+Increase the physical, mental, and emotional energy you have available for each task
+Doing more of the right things and fewer unnecessary things
+Improve the systems that you use to complete a given task or project.
+In other words, the three paths to productivity are:
+
+Energy - Effectiveness - Efficiency
+productivity is about understanding your constraints
+
+getting the right things done
+
+> *'The difference between successful people and very successful people is that very successful people say ‘no' to almost everything.' -- Warren Buffett*
+
+saying yes to everything is a quick road to mediocrity.
+
+“Instead of asking how many tasks you can tackle given your working hours,” writes Morten Hansen in Great at Work, “ask how many you can ditch given what you must do to excel.” I did what I needed to do to keep my job. As John Stuart Mill said, “as few as you can, as many as you must.”
+
+busy is a decision. what you are really saying: is not a priority.
+is a excuse for not doing something we don't feel like doing.
+
+> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.' -- Steve Jobs*
+
+> *'If you are going through hell, keep going.' -- Winston Churchill*
+
+Right now, you can give yourself the gift of joy by choosing to focus on what is good instead of what is missing.
+
+Only operate from strengths: outsource your weaknesses. focus on what you’re naturally good at and what you enjoy the most.
+
+Focus on Adaptability Not Effectiveness
+
+Life is like a camera. Focus on what’s important. Capture the good times. Work on the negatives. And if it doesn’t work out this time, take another shot.
+
+when doing something that you are not good on: -- partner with them. -- outsource it.
+
 There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
 That’s why you need to re-evaluate your old dreams to see if new means have come along.
 Don’t let the details distract you from your goal.
@@ -930,6 +1052,8 @@ Ignore the rest.
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
 <!--
+focus on what doesnt change
+	
 past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 -->
 
@@ -969,6 +1093,8 @@ How to balance an imbalance? Overcompensate.
 > *'Some people get passion from something they struggled with.'*
 
 <!--
+alguem mais loose q tu é um maluco, mais tight é um nhónhó
+	
 if you want to have a balance life you need to draw a line.
 if not this not leads to happiness, it leads to achievement.
 work/life balance.
@@ -1011,6 +1137,8 @@ FROM GOOD ENOUGH YOU CAN DERIVE sucess
 Plans are not static. Adapt not react.  
 You need to switch strategies a few times to get where you want to go.
 
+> *'Take advantage of the opportunities - that’s probably more important than charting your path.'-- Admiral William Mcraven*
+
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
 
 > *'Life is more like tetris than chess.'*
@@ -1042,6 +1170,14 @@ HOWEVER...
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 <!--
+Inertia is why a car does not stop the moment the brakes are applied.
+
+When problems shift faster than your rate of adaptation you go extinct.
+
+Small changes in a complex system can cause sudden and large changes. 
+
+opportunities is taking the jobs that others don't want.
+
 Surely by now I’m desperate enough to change. — John Tottenham
 
 stick to the plan. poople sabotage their one plans when it get tedious, nobnotusos, challegnig or too difficult. people think they need a new plan.
@@ -1079,6 +1215,8 @@ HOWEVER... beware of counter-attacking.
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
 <!-- 
+divide and conquer
+
 > *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
 
 Divide and conquer it.
@@ -1094,6 +1232,65 @@ The metagame is this psychological game that exists among players, involving adj
 Maintaining a well-balanced strategy, while deciphering your opponents' strategies, is the key to the metagame. If you comprehend the concept of the metagame, accurately perceive the flow of your table and then tournament, and stay alerted to and aware of current strategy trends, you'll be able to successfully mix up your play when considering your image and that of your opponents. In return, your game will be highly unpredictable and difficult to read, which should be your ultimate goal.
 Part of their greatness comes from identifying the constraints of others and capitalizing on those structural disadvantages.
 In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
+
+“The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
+A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.
+
+Geoffrey P. Chamberlain:
+A strategy has a single, well defined focus.
+A strategy lays out a path to be followed.
+A strategy is made up of parts (tactics).
+Each of a strategy’s parts pushes towards the defined focus.
+A strategy is either intentionally formed or emerges naturally.
+
+According to Rumelt, a strategy must include “premeditation, the anticipation of others’ behavior, and the purposeful design of coordinated actions. As a general rule, strategy is more important in situations where other parties have the potential to thwart or disrupt actions, or where our plans are at risk if we don’t take meaningful steps to achieve them. Good strategy requires us to both focus on a goal, and anticipate obstacles to reaching that goal.  When we encounter obstacles, we may need to employ what Freedman calls “deceits, ruses, feints, manoeuvres and a quicker wit”—our tactics.
+
+Shuai-Jan is a snake that is found in the Ch’ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both.”
+— Sun Tzu, The Art of War
+
+Sun Tzu, strategy is about winning before the battle begins, while tactics are about striking at weakness.
+-->
+
+
+
+
+---
+### On leverage
+
+> *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
+
+<!--
+	on scaling
+What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
+Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone's needs and shrinking their ability, aided by envy and reciprocation effects.
+
+
+The power of compounding: you can achieve anything, if you stop trying to do everything.
+
+> *'The greatest shortcoming of the human race is our inability to understand the exponential function.' -- Albert Allen Bartlett*
+
+Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
+Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.
+Labor means people working for you. It's the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
+Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
+An army of robots is freely available - it's just packed in data centers for heat and space efficiency. Use it.
+If you can't code, write books and blogs, record videos and podcasts.
+Leverage is a force multiplier for your judgement.
+Judgement requires experience, but can be built faster by learning foundational skills.
+There is no skill called “business.” Avoid business magazines and business classes.
+Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
+Reading is faster than listening. Doing is faster than watching.
+You should be too busy to “do coffee" while still keeping an uncluttered calendar.
+Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
+Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
+Become the best in the world at what you do. Keep redefining what you do until this is true.
+There are no get rich quick schemes. That's just someone else getting rich off you.
+Apply specific knowledge, with leverage, and eventually you will get what you deserve.
+When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
+
+Warnings: Finding Cassandras to Stop Catastrophes
+The “Cassandras” featured in R.P’s book are experts in their field. these people are data driven
 -->
 
 
@@ -1138,6 +1335,13 @@ HOWEVER... use absence with [moderation](#on-balance).
 > *'If you're always absent, soon you'll not be needed.'*
 
 <!--
+Hooking Curiosity
+A screenwriter friend of mine recently told me his secret to writing compelling characters.
+“It’s easy,” he said. “Just make them contradictions.”
+Becoming a Contradiction
+To be human is to be a contradiction
+So begin by taking inventory of the various qualities and skills you already have, right now. I recommend doing it in that order -- qualities first (your personality stack), then skills (your talent stack). Write them down. Notice the ways in which you already contradict yourself. Notice how you defy your categories. Trust that these exist in you for a reason. Know that people will gravitate to you because of these qualities. Notice that they already do.
+
 mimicking people gestures and words works!
 
 To Persuade Someone, Look Emotional
@@ -1179,11 +1383,17 @@ HOWEVER... deceiving is not lying.
 > *'Disappointment destroys trust.'*
 
 <!--
+> *'Never be mean to anybody that can hurt you by doing nothing.'*
+
 Clean players on shady markets usually don't do well on the long term.
 
 > *'Bad liars should speak as little as possible.'*
 
 the good reason (the reason they tell you) and the real reason.
+
+One common thing I learned at three in the morning: everyone lied to survive. Truth is a luxury we day-people take for granted.
+
+if somebody asks for the evidence, normally he is lieing
 -->
 
 
@@ -1212,6 +1422,17 @@ Mirroring works best when your group is in minority.
 > *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
+<!--
+reciprocation bias
+The archaeologist Richard Leakey believes reciprocation is the foundation on which we have evolved: “We are human because our ancestors learned to share their food and their skills in an honored network of obligation.
+social sanctions can be tough on those who fail to cooperate
+As with most things, however, reciprocation has a darker side. Just as we tend to reciprocate good behavior, sometimes we also pay back bad deeds. One of the most effective game-theory strategies is tit for tat.
+The standard antidote to one’s overactive hostility is to train oneself to defer reaction.
+There’s also another way. Because the reciprocation tendency is so extreme, we can reverse the course of events by doing good rather than harm to the other party.
+We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
+Cialdini moved from rejection to compliance after the boy had moved from a larger to a smaller request.  The remarkable thing, and this is where bias comes in, was that Cialdini was not at all interested in either of the things the boy had offered.
+-->
 
 
 
@@ -1259,6 +1480,10 @@ They can be effective but use them *only* on life changing situations: it's a sc
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
+People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage.
+	
+Nietszche says to measure one's strength by the number of parasites one can support.
+
 surpass a gatekeeper:
 i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
 HOW open up people, is an open end question. they can say yes or no.
@@ -1321,6 +1546,8 @@ Use this opportunity to re-create yourself.
 > *'The greatest revenge is success.' -- Frank Sinatra*
 
 <!--
+In order to come back you have to go away.
+
 if you didnt quit anything you woud be still playing with toddlers
 
 when do you decide how to quit something else?
@@ -1331,6 +1558,18 @@ wish / outcome / obstacle / plan
 
 Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
 -->
+
+
+
+
+---
+### On forgiveness
+
+If forgiveness is a process of release — of letting go of something — then the opposite of forgiveness is a decision to hold — to hold onto something.
+Many people think that the alternative to forgiveness is punishment: We either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution.
+But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. People do this all the time. Governments do it every day.
+By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.”
+In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
 
 
 
@@ -1352,6 +1591,10 @@ It's not just about winning. The way you win sets you up for the next round.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 <!--
+There are two ways of spreading light: to be the candle or the mirror that reflects it — Edith Wharton
+
+quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- sergio conceição
+
 tecnically win or fundamentally win
 
 winning by exhaustion
