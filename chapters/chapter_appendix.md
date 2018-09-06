@@ -77,6 +77,8 @@ HOWEVER:
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
+> *'Either write something worth reading or do something worth writing.' -- Benjamin Franklin*
+	
 We’re building tomorrow’s legacy today
 
 “It is never too late to be what you might have been.” -- George Eliot
@@ -140,7 +142,13 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.' -- Steve Jobs*
 
+HOWEVER don't obcess on that.
+
+> *'And it made me understand: no matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened.' -- John Hodgman*
+
 <!--
+> *'Rich people think big. Poor people think small.' -- T. Harv Eker*
+
 make the exercise: imagine you life in 10years. possible futures
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
@@ -294,6 +302,8 @@ HOWEVER positive results don't imply good planning..
 > *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 
 <!--
+> *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban 2010*
+
 The Key to Good Luck Is an Open Mind
 
 Bad luck vs. bad planning
@@ -496,7 +506,13 @@ HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest b
 
 > *'Doubt kills more dreams than failure ever will.'*
 
+And success might have a price.
+
+> *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
+
 <!--
+16. Success can hurt friendships. A wise friend wards off worries, a foolish one brings them about. But do not wish them too much luck, or you may lose them. -- Balthasar Gracian
+
 Society judges people by what they can do for others. But we judge ourselves by our thoughts.
 Abilities are not prized by their virtue.
 
@@ -649,6 +665,10 @@ there is some power in believing that somebody is going to happen.
 > *'Art doesn’t end at the edge of the canvas.'*
 
 <!--
+    news as the first draft of history
+
+> *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
+
 chef invents based on ingredents, cook follows a recipe
 
 arte é expressão, e normalmente arte é resposta ao sofrimento. qd tas bem não fazes arte.
@@ -961,6 +981,8 @@ Comedy is about observing the hidden truths in life that everyone knows but nobo
 > *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin (1878-1953), to Anastas Mikoyan*
 
 <!--
+> *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
+	
     > *'La que no es puta non desfruta.'*
     > *'love people and use money vs love money and use people'*
     > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
@@ -982,6 +1004,7 @@ WHERE IS HOME?
 WHAT IS LOVE?
     > *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
     > *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
+    > *'I am a cage in search for a bird.' -- Franz Kafka*
 -->
 
 

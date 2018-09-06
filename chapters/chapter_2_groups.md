@@ -70,6 +70,8 @@ shark, dolphin, drowner
 HOWEVER: no one’s going to help you in a way that’s prejudicial to them.
 
 <!--
+know your audience: podcast -> network of friends
+	
 The difference between success and failure can be as simple as keeping in touch
 
 Handle Rejection Gracefully
@@ -152,6 +154,8 @@ A good story does condenses a massive amount of information into a consumable an
 > *'Storytelling is about the details.'*
 
 <!--
+17. Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine. -- Balthasar Gracian
+
 Don’t explain. People only hear what they want to hear.
 
 How to discord?
@@ -262,6 +266,8 @@ HINTS: on successful *entrepreneurs*.
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
 <!--
+overdesign / don't start from scratch / Throw Shit at the Wall and See What Sticks. Life is about experimenting.
+
 The disruptor’s credo, say it with me: Your profit margin is my opportunity. 
 Friend of a friend owns a small chain of grocery stores in New Jersey. A few years ago, when Amazon got into groceries, he changed his mind about investing in the growth of his own business. He started buying Amazon shares with his investment capital instead. He saw what happened to Circuit City and Tower Records, Borders and Barnes & Noble. So he bought some Amazon and then he bought some more.
 This wasn’t retirement investing. This was something else. What should we call it? Disruption Insurance?
@@ -439,6 +445,8 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. The idol never wishes to see before him the sculptor who shaped him, nor does the benefited wish to see his benefactor always before his eyes. -- Balthasar Gracian
+
 always negotiate. dont communicate weaknes on your negotiation.
 your first reaction should be no reaction. fight impulse to imediatelly give the answer.
 
@@ -605,6 +613,8 @@ Run away from mediocrity and be ready to loose people.
 > *'I won’t be less just because you cannot be more'*
 
 <!--
+14. Earn respect before demanding it. Do not enforce respect, but try and create it. Those who insist on the dignity of their office, show they have not deserved it, and that it is too much for them. If you wish to be valued, be valued for your talents, not for anything adventitious. Even kings prefer to be honoured for their personal qualifications rather than for their station. -- Balthasar Gracian
+
 first we judge trust, before strength.
 we build trust through presence. leadership is based on trust.
 
@@ -698,6 +708,13 @@ HINT: resist to temptation of working with family and friends. There will be alw
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+26. Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution. -- Balthasar Gracian
+
+22. Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
+They are dangerous company and ruinous confidants. -- Balthasar Gracian
+
+3. Don’t succumb to the collective flaws of your peers. Avoid the Faults of your Nation. Water shares the good or bad qualities of the strata through which it flows, and man those of the climate in which he is born.  -- Balthasar Gracian
+
 i wanted to make part of the group, but that group is made of broken people. than you realise that is too stressful.
 
 its the tribe that you dont want to belong but you are.
@@ -753,6 +770,10 @@ HINT: How to find mentors?
 > *'Your father is your first mentor.'*
 
 <!--
+> *'Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own.' -- Paulo Coelho*
+
+> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
+
 I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill.
 
 > *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
@@ -1049,7 +1070,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 'For the friends: everything. For the others: the law.'
 
-> *Politicians don't get educated. They get bought.*
+> *'Politicians don't get educated. They get bought.'*
 
 > *'The hardest thing in the world to understand is the income tax.'*
 
@@ -1123,9 +1144,6 @@ People want leadership because they want autonomy and influence.
 > *'You have to be the boss or you have to play ball.'*
 
 HINTS:
-
-
-
 
 HOWEVER... Be humble.
 
@@ -1261,6 +1279,11 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 But data shows people want more feedback but monthly, not daily.
 
 <!--
+I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.”
+Even the greatest communicators get angry, flustered, or confused when they find themselves in conflict.
+
+> *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
+	
 “A chain is only as strong as its weakest link”
 
 you can't make any judgement of the worker without detailed understanding of the specifics of the work.

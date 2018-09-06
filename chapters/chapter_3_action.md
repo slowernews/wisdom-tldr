@@ -132,6 +132,10 @@ It is possible to view this as an isolated event or a trend
 Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
 
 <!--
+in behavioural science the opposite is always true, depending on the environment
+
+Opinions are like a shirt: everyone should have at least a basic one, and it's okay to really love yours, but try to remember to change it every now and again.
+
 you have to be macchaviellan but you need also other skills! tese antitheses -> syntesis
 
 FATALITIES VS FALSE POSITIVES:
@@ -294,6 +298,8 @@ Every word someone says is the tip of the iceberg.
 Underneath that word are thoughts, fears, emotions.
 Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
 There’s always a good reason and a real reason.
+
+> *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
 -->
 
 
@@ -329,6 +335,48 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+negative inspiration (things that don't work) -- positive inspiration!
+
+results-oriented approach to feedback -> process-oriented feedback
+	
+How Can We Overcome Complexity Bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
+
+decision matrix
+
+What is the least painful way to X?
+Evaluate goals independently and consider taking on only one goal at a time.
+How can I achieve a goal with the least effort?
+How can I achieved these goals separately?
+Are there methods for achieving multiple goals which are not in conflict for resources and are easy to do?
+
+MENTAL MODELS:
+	market: supply and demand explain a lot of phenomenons
+	macro scale - high level / micro scale - low level: https://en.'*wikipedia.'*org/wiki/Level_of_analysis - everything is a system
+	high tech way / low tech way 
+	everything is: http://c2.'*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
+	momentum: virtuous circle / vicious circle
+	spaced learning system: anki, supermemo, goldenlist
+	programming languages: type annotation theory / OO vs functional paradigm
+	log scales: hyperbolic function - pareto law 80/20 - plateaus
+	noise rate
+	great breakthroughs are always counter-intuitive
+	understand people: 16personality types INTP-A was a breakthrough
+    framing = everything is
+    80% man are stronger than 80% woman
+    A Jevons Effect[1] in a web site's bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
+
+1. Put Your Happiness Before Goals
+2. Fulfillment is Dependent on Direction
+3. Pain is a Messenger 
+4. Focus on Financial Freedom First 
+5. Pick One Thing and Stick With it to Completion 
+
+as all the great questions. answers are always evolving
+
+> *'You should take pictures from what you forget and not of things you don't.'*
+
+8. Easy come, easy go: Quickly done can be quickly undone. To last an eternity requires an eternity of preparation. -- Balthasar Gracian
+
 oftentimes, the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
 
 estimates are promises
@@ -853,6 +901,10 @@ Don't be thirsty.
 > *'Trade space for time.'*
 
 <!--
+15. Waiting may be the best course of action. A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. -- Balthasar Gracian
+
+7. Be patient. You must pass through the circumference of time before arriving at the centre of opportunity. A wise reserve seasons the aims and matures the means. Time’s crutch effects more than the iron club of Hercules. God Himself chasteneth not with a rod but with time. He spake a great word who said, “Time and I against any two.” Fortune herself rewards waiting with the first prize. -- Balthasar Gracian
+
 Velocity and speed are different things. Speed is the distance traveled over time. I can run around in circles with a lot of speed and cover several miles that way, but I’m not getting anywhere. Velocity measures displacement. It’s direction-aware.
 
 Here are three ways you can increase your velocity:
@@ -937,6 +989,12 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+People As Response Functions. response triggers: your primary trigger, your secundary trigger
+
+> *'Romans ship, Greeks maintain.' -- anon*
+
+> *'Whatever you are, be a good one.' -- Abraham Lincoln*
+
 Top performers definitely focus on fewer goals — but they also obsess like crazy over them.
 “Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all t
 So start ruthlessly cutting all the activities in your workday that aren’t producing value.
@@ -1214,7 +1272,11 @@ HOWEVER... beware of counter-attacking.
 
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
-<!-- 
+<!--
+24. Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
+
+2. Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy. -- Balthasar Gracian
+
 divide and conquer
 
 > *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
@@ -1383,6 +1445,8 @@ HOWEVER... deceiving is not lying.
 > *'Disappointment destroys trust.'*
 
 <!--
+> *'If Socrates was right in saying that no one does wrong knowingly, someone who has caused you grief probably didn’t set out to do it on purpose.'*
+
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
 
 Clean players on shady markets usually don't do well on the long term.
@@ -1408,6 +1472,10 @@ if somebody asks for the evidence, normally he is lieing
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
 HOWEVER... unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+
+<!--
+> *'Teach no one your tricks or they will be used against you.'* 
+-->
 
 
 
@@ -1480,6 +1548,8 @@ They can be effective but use them *only* on life changing situations: it's a sc
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
+19. Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence. -- Balthasar Gracian
+
 People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage.
 	
 Nietszche says to measure one's strength by the number of parasites one can support.
@@ -1546,6 +1616,8 @@ Use this opportunity to re-create yourself.
 > *'The greatest revenge is success.' -- Frank Sinatra*
 
 <!--
+> *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
+
 In order to come back you have to go away.
 
 if you didnt quit anything you woud be still playing with toddlers
@@ -1591,6 +1663,8 @@ It's not just about winning. The way you win sets you up for the next round.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 <!--
+18. Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat. -- Balthasar Gracian
+
 There are two ways of spreading light: to be the candle or the mirror that reflects it — Edith Wharton
 
 quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- sergio conceição

@@ -41,6 +41,8 @@ Making sure that you are taken care of so that you can take care of others or fo
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 <!--
+29. Don’t be quick to vouch for others. Do not become responsible for all or for every one, otherwise you become a slave and the slave of all. Some are born more fortunate than others: they are born to do good as others to receive it. Freedom is more precious than any gifts for which you may be tempted to give it up. -- Balthasar Gracian
+
 - healthy people will respect your boundaries
 boundaries is knowing what you want and what you don't want in a moment
 neighbours example: fence and steping in your flowers.
@@ -114,6 +116,10 @@ Your results are yours and yours alone. Your choices determined the body, bank a
 Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
 
 <!--
+> *'I was gratified to be able to answer promptly. I said I didn’t know.' -- Mark Twain*
+
+31. Virtue is greater than wealth. A man’s capacity and greatness are to be measured by his virtue and not by his fortune. She alone is all-sufficient. -- Balthasar Gracian
+
 Men take responsibility for their lives, treat others with respect, and do what needs to be done.
 
 Rather go to bed without dinner then to rise in debt. -- Benjmain Franklin
@@ -162,6 +168,10 @@ Be raw, be real, tell people what is really going on. The more vulnerable you ar
 - truth-a-better-way-to-talk-about-ourselves.
 
 <!--
+21. Great men aren’t perfect- No one o’ersteps the narrow bounds of humanity: all have their weaknesses either in heart or head. -- Balthasar Gracian
+
+13. Know thyself. Learn the force of your intellect and capacity for affairs, test the force of your courage in order to apply it, and keep your foundations secure and your head clear for everything. -- Balthasar Gracian
+
 core values:
 honesty everywhere. i dont want to be in place where i cant be honest.
 i want to make relationships with a long term prospect.
@@ -258,10 +268,13 @@ When you start walking, the path will be revealed. Passion is made not found.
 > *'The obstacle is the way.'*
 
 <!--
+> *'you can, you should, and if you’re brave enough to start, you will' -- Stephen King*
+
+9. Carve your own path. Those who come first are the heirs of Fame; the others get only a younger brother’s allowance: whatever they do, they cannot persuade the world they are anything more than parrots. -- Balthasar Gracian
+
 parabol: that door is only for you.
 	
 i FEEL that THIS was what I was meant to do, its ok to be vulnerable
-
 
 “Ever since I was a little kid, I wanted to be in combat,” he said. “Why?”
 “Well… what did you want to do when you were growing up?” he asked.
@@ -421,6 +434,13 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 > *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
 
 <!--
+This is where margins of safety come in. We build them to reduce the precariousness of chance.
+Large margins of safety are not always possible. Sometimes they are too expensive. Sometimes they are not available.
+The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money.
+Sometimes when the stakes are low, we decide the trade-off isn’t worth it.
+What decisions would you make differently if you were factoring safety margins into your life? To be fair, you can’t put them everywhere. Otherwise, your life might be all margin and no living.
+To figure out where else you should build margins of safety into your life, think of the times you’ve been terrified and desperate. Those might be good places to start learning from experience and making the most of your second chances.
+
 Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value' is a surprising result.
 
 > *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
@@ -580,6 +600,24 @@ HINTS:
 HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
+Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
+
+> *'I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day.' -- Ernest Hemingway*
+
+Here are a few snippets from my own annual review:
+GOOD:
+Health & Fitness: I was consistent with my training regimen and I’m in the best shape of my life. I ride my bike daily and now follow a diet that is heavy in healthy fruits and vegetables and very low in meat (still love steak!). I’ve also completed my third year of daily cold showers.
+Business & Career: 2017 was a record year for me. My company broke 7-figures, I expanded my team to 12 highly talented people, my podcast has grown to 4.5 million downloads and my books and courses are selling more than ever before.
+Finances: This has been my best year financially, I no longer have to worry about bills or look at my bank account when I want to buy something. However, I keep a minimalist approach to my life so I rarely spend money on “things” and instead invest in my team, friends, and family.
+Relationships: I dramatically improved my networking and social circle in 2017 and have enjoyed a great romantic relationship. I’m learning a lot, growing, and getting outside of my comfort zone on a daily basis.
+Personal Growth: In 2017, I gained massive clarity on who I am and what I want out of life. I no longer suffer from “Guru” worship and have found a way to tailor personal growth to my life in a way that brings me more joy and fulfillment. (Goodbye “Crush it work 18 hours a day!” mentality)
+BAD:
+Health & Fitness: The main issue with my health and fitness in 2017 was chronic pelvic and knee pain which reduces overall quality of life. And, as I’ve expanded my network and social circle, I’ve allowed my social drinking to increase in the past few months.
+Business & Career: Even though 2017 was a great year, Knowledge for Men did experience some growing pains. Early in the year, I didn’t focus heavily enough on creating systems to successfully scale the coaching side of my business and ended up overextending myself as a result. I also didn’t focus on scalable assets like books and online courses. Also an employee of mine flooded my office by accident which cost me nearly $25k in damages to the structure of the building.
+Finances: Although I made plenty of money in 2017, I didn’t do very well investing that money into long-term cash flow producing assets. I’ve also struggled to keep up with taxes as my income has increased.
+Relationships: Although my relationship is great, I’m still working on improving my communication with my partner so that I can show up as authentically and honestly as possible. I’ve also struggled to keep up with old friends while expanding my social circle.
+Personal Growth: 2017 was the first year in nearly a decade where I didn’t do much reading. I used to read 2-3 books a month and this year I read maybe 5 books total. I also stayed very close to San Diego for the entire year and didn’t travel the way that I wanted too.
+	
 A lot of things in life are first-order positive and second-order negative.
 A real advantage is conferred on people who can do things that are first-order negative, second-order positive.
 
@@ -692,6 +730,12 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
+	
+> *'The brain switches off if it becomes too bored, that is the problem. You must always look for new things to learn.' -- Anand, Viswanathan*
+
+1. Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile. -- Balthasar Gracian
+
 When I asked him what separated his student from the other people he’d mentored Russel’s answer was simple.
 “He’s willing to listen to people who are smarter than he is and he has a tremendous hustle and drive.”
 
@@ -1555,6 +1599,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 <!--
+> *'Dress for the job you want, not for the one you have.'*
+
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 	
 analogy: confidence is like a building

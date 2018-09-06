@@ -27,6 +27,10 @@ You need to develop an unshakable identity as a high achiever and peak performer
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
 <!--
+> *'Quem não chora não mama.'*
+	
+> *'how we spend our days is how we spend our lives.' -- Annie Dillard*
+	
 > *'Só os mais corajosos conseguem fazer a paz' -- Trump*
 
 Life is not something that “has' meaning -- it’s something we give meaning to. You don’t “end up' with a meaningful life, you create it.
