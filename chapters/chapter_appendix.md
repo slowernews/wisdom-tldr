@@ -419,6 +419,8 @@ HINT: How to simplify?
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
+Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)
+	
 making life more difficult than needed!
 
 5. Spend Your Money on Experiences and Adopt a Minimalist Lifestyle
@@ -611,12 +613,50 @@ most people approach each and every year in the exact same way while (somehow) e
 
 
 
+---
+### On comedy
+
+Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. And standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
+
+> *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin (1878-1953), to Anastas Mikoyan*
+
+<!--
+> *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
+	
+    > *'La que no es puta non desfruta.'*
+    > *'love people and use money vs love money and use people'*
+    > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
+    > *'The four most expensive words in the English language: «This time is different».'
+    > *'Reality continues to ruin my life.' -- Bill Watterson*
+    > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
+- There’s a great joke about an automated car plant in Japan, where the machines work in the dark (no need for light, they don’t have eyes) and there are only two living things authorized to be on the factory floor – a man and a dog.
+What’s the man there for? His job is to feed the dog.
+What’s the dog for? The dog keeps the man from touching any of the machines.
+
+> *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
+
+SEX:
+    > *'You should have sex more than you think you should, as pizza.'*
+    > *'When it's good is good. When it's bad it gets in your shirt.'*
+WHERE IS HOME?
+    > *'Home is where the bra isn´t.'*
+    > *'Home is where the parking lot is?'*
+WHAT IS LOVE?
+    > *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
+    > *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
+    > *'I am a cage in search for a bird.' -- Franz Kafka*
+-->
+
+
+
 
 ### On religion
 
 'And on the first day, men created god.'
 
 > *'Science without religion is lame. Religion without science is blind.'*
+
+> *'God has no religion.' -- Mahatma Gandhi'*
 
 > *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
 
@@ -627,6 +667,8 @@ most people approach each and every year in the exact same way while (somehow) e
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
 > *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
+
+> *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
 <!--
 there is some power in believing that somebody is going to happen.
@@ -665,7 +707,7 @@ there is some power in believing that somebody is going to happen.
 > *'Art doesn’t end at the edge of the canvas.'*
 
 <!--
-    news as the first draft of history
+news as the first draft of history
 
 > *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
 
@@ -705,6 +747,8 @@ That's where «big bucks» are.
 > *'There is no exquisite beauty… without some strangeness in the proportion.' -- Edgar Allan Poe*
 
 > *'Poetry is what gets lost in translation.'
+
+> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
 -->
 
 
@@ -832,8 +876,47 @@ On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenal
 
 
 
+
+### On books
+
+> *'The great books are the books that never have to be written again.'-- Carl Van Doren*
+
+> *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
+
+> *'Reading is to the mind what exercise is to the body.' -- Joseph Addison*
+
+> *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
+
+<!--
+active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
+Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.
+
+when you start writing a book start with your own ideas
+
+> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
+> *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
+Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
+> *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
+-->
+
+
+
+
 ---
-# Appendix D - Bonus
+### On email
+
+- Make the subject unique, meaningful and easily searchable.  
+- Make a single, specific, simple request – such that it’s hard to say no - in the first line and then explain if you need to. The reader should be able to reply to the email in one word, forward it on to the right person or delete it so be specific in your request. Examples:
+	- «Do you have time for a 5 min call this week?»  
+	- «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?» instead of «Can you meet sometime next week?»
+	- «Please review and sign this document.»  
+	- «Can you make a quick intro to XYZ person?» 
+	- «I’d love a letter of support from you. I’ve attached a draft for your review.»  
+- Keep it under three lines, more than this call.  
+- Use easy-to-read formatting. Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.  
+
+
+
 
 ### On computers & maths
 
@@ -933,84 +1016,9 @@ Automation doomsday scenarios focus on the last work.
 
 
 
-### On books
-
-> *'The great books are the books that never have to be written again.'-- Carl Van Doren*
-
-<!--
-active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
-Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.
-
-when you start writing a book start with your own ideas
-writing a paper is different from writing a book
-
-> *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
-> *'What if we just went home and read books to each other?' -- Gary Shteyngart*
-> *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
-> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
-> *'Reading is to the mind what exercise is to the body.' -- Joseph Addison*
-> *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
-Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
--->
-
-
-
-
 ---
-### On email
+# Appendix D - Bonus
 
-- Keep it under three lines, more than this call.  
-- Make the subject unique, meaningful and easily searchable.  
-- Use easy-to-read formatting. Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.  
-- Make a single, specific, simple request – such that it’s hard to say no - in the first line and then explain if you need to.
-«Do you have time for a 5 min call this week?»  
-«Please review and sign this document.»  
-«Can you make a quick intro to XYZ person?» 
-«I’d love a letter of support from you. I’ve attached a draft for your review.»  
-The reader should be able to reply to the email in one word, forward it on to the right person or delete it. 
-Be specific in your request: Instead of saying, «Can you meet sometime next week?» say, «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?»  
-
-
-
-
----
-### On comedy
-
-Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. And standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
-
-> *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin (1878-1953), to Anastas Mikoyan*
-
-<!--
-> *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
-	
-    > *'La que no es puta non desfruta.'*
-    > *'love people and use money vs love money and use people'*
-    > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
-    > *'The four most expensive words in the English language: «This time is different».'
-    > *'Reality continues to ruin my life.' -- Bill Watterson*
-    > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
-- There’s a great joke about an automated car plant in Japan, where the machines work in the dark (no need for light, they don’t have eyes) and there are only two living things authorized to be on the factory floor – a man and a dog.
-What’s the man there for? His job is to feed the dog.
-What’s the dog for? The dog keeps the man from touching any of the machines.
-
-> *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
-
-SEX:
-    > *'You should have sex more than you think you should, as pizza.'*
-    > *'When it's good is good. When it's bad it gets in your shirt.'*
-WHERE IS HOME?
-    > *'Home is where the bra isn´t.'*
-    > *'Home is where the parking lot is?'*
-WHAT IS LOVE?
-    > *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
-    > *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
-    > *'I am a cage in search for a bird.' -- Franz Kafka*
--->
-
-
-
-
----
 ### On types of people
 
 hedonists + stoics

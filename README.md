@@ -119,17 +119,17 @@
 
 *Other*
 - [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
+- [On comedy](/chapters/chapter_appendix.md#on-comedy)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 - [On investment](/chapters/chapter_appendix.md#on-investment)
 - [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
-
-*Bonus*
-- [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)
 - [On books](/chapters/chapter_appendix.md#on-books)
 - [On email](/chapters/chapter_appendix.md#on-email)
-- [On comedy](/chapters/chapter_appendix.md#on-comedy)
+- [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)
+
+*Bonus*
 - [On types of people](/chapters/chapter_appendix.md#on-types-of-people)
 - [On superpowers](/chapters/chapter_appendix.md#on-superpowers)
 

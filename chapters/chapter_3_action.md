@@ -675,6 +675,8 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+It isn't what we say or think that defines us, but what we do. -- Jane Austen
+
 in order to understand i destried myself
 	
 At some point, the pain of not doing it becomes greater than the pain of doing it. -> law of procrastination
