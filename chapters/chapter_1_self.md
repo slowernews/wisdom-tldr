@@ -11,7 +11,9 @@
 ### On independence
 
 Choose *yourself*. Choose to be independent.  
-Tell *your* truth no matter what.
+Telling *your* truth is not being selfish. 
+
+> *'Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live.' -- Oscar Wilde*
 
 > *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
 
@@ -41,6 +43,7 @@ Making sure that you are taken care of so that you can take care of others or fo
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
 <!--
+
 29. Don’t be quick to vouch for others. Do not become responsible for all or for every one, otherwise you become a slave and the slave of all. Some are born more fortunate than others: they are born to do good as others to receive it. Freedom is more precious than any gifts for which you may be tempted to give it up. -- Balthasar Gracian
 
 - healthy people will respect your boundaries
@@ -1599,6 +1602,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 <!--
+> *'Don't be so humble - you are not that great.' -- Golda Meir*
+	
 > *'Dress for the job you want, not for the one you have.'*
 
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.

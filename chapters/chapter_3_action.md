@@ -132,6 +132,10 @@ It is possible to view this as an isolated event or a trend
 Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
 
 <!--
+show me a man’s spending you can show me what he values”
+
+We always think that the people who agree with us are really smart.
+	
 in behavioural science the opposite is always true, depending on the environment
 
 Opinions are like a shirt: everyone should have at least a basic one, and it's okay to really love yours, but try to remember to change it every now and again.
@@ -311,13 +315,13 @@ There’s always a good reason and a real reason.
 Plan ahead and prepare for the highly probable scenarios.  
 Make the decisions right now. When in the moment of making the decision, you have already done it.
 
-> *'Plan all the way to the end.' -- Robert Greene (29th law of power)*
-
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
 > *'The best way to predict the future is to invent it.' -- Alan Kay*
 
 > *'If I had 9 hours to chop down a tree, I'd spend the first six sharpening my ax.' -- Abraham Lincoln*
+
+You can’t predict. You can prepare.
 
 > *'The script is going to be bad but in the end we'll finish eating pizza.'*
 
@@ -335,6 +339,9 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+“We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.” 
+we have to feel we know enough to take action
+
 negative inspiration (things that don't work) -- positive inspiration!
 
 results-oriented approach to feedback -> process-oriented feedback
@@ -440,8 +447,6 @@ Actions > Thoughts; Actions change the world. Not beliefs.
 
 > *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
 
-<!--
-
 a fundamentalist gives answers, a scholar gives questions
 
 i'm right -> how do i know i'm right
@@ -454,7 +459,6 @@ find 3 people that high expertise but that they discord and listen. take your co
 
 is the decision reversible or irreversible? if it is reversible make it fast.
 -->
-
 
 If you don't understand the limitations of the model, you don't understand the model.
 

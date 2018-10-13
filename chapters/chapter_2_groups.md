@@ -154,6 +154,8 @@ A good story does condenses a massive amount of information into a consumable an
 > *'Storytelling is about the details.'*
 
 <!--
+“Think before you speak. Read before you think.” -- Fran Lebowitz
+
 17. Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine. -- Balthasar Gracian
 
 Don’t explain. People only hear what they want to hear.
@@ -613,6 +615,9 @@ Run away from mediocrity and be ready to loose people.
 > *'I won’t be less just because you cannot be more'*
 
 <!--
+Again, something I once wrote on the subject of a good partnership was “Shared values and complementary skills.”
+So I think it’s very important to share values, but I also think it’s important to not be the same person, a copy of yourself. If it’s a copy of yourself, you don’t need it.
+	
 14. Earn respect before demanding it. Do not enforce respect, but try and create it. Those who insist on the dignity of their office, show they have not deserved it, and that it is too much for them. If you wish to be valued, be valued for your talents, not for anything adventitious. Even kings prefer to be honoured for their personal qualifications rather than for their station. -- Balthasar Gracian
 
 first we judge trust, before strength.
@@ -1154,6 +1159,9 @@ HOWEVER... Be humble.
 > *'No one is smarter than a small group.'*
 
 <!--
+
+> *'Praise by name, criticize by category.' -- Warren Buffet*
+
 you are a leader to somebody.leaders must be good followers. good leaders are leaders that grow up in the hierarchy.
 
 In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers. Owners make more than employees in the long run.

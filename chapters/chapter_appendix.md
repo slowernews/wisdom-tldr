@@ -41,6 +41,9 @@ I’m like that. Either I forget right away or I never forget.
 The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
 > *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
+
+Life becomes very easy when you have studied the past to the extent that you have seen the recurring patterns
+Mark Twain, “History does not repeat, but it does rhyme.
 -->
 
 
@@ -77,6 +80,10 @@ HOWEVER:
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
+what's life? showing up for the people you love, again and again, until you can’t show up anymore. -- Rebecca Walker
+
+“The trick is to enjoy life. Don’t wish away your days, waiting for better ones ahead.” --  Marjorie Pay Hinckley
+
 > *'Either write something worth reading or do something worth writing.' -- Benjamin Franklin*
 	
 We’re building tomorrow’s legacy today
@@ -758,86 +765,77 @@ That's where «big bucks» are.
 ### On investment
 
 Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.  
-The secret to getting rich is not to make more money but to keep it.
-
-> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
-
-> *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
+The secret to get rich is not to make more money but to keep it. Buy cheap.
 
 > *'Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.'*
 
-HINT: How to spot your risk confort sone?
+> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+
+HINT: How to spot your investment confort zone? Scared money never wins, start small.
+twin risks: the risk of losing money vs the risk of missing opportunity.
+
+diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
+humility and triangulation of great people levete your probabbilities of making good decisions
 
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
-HINT: How to spot trends?
+> *'The safest way to double your money is to fold it over once and put it in your pocket.' -- Kin Hubbard*
+
+> *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
+
+HINT: How to spot trends? Understand:
+- who are the buyers and the sellers and their motivations. It's very different from value investing.  
+- that investments are competing with each other.
+- where is low optimism.
+- market cycles.
 
 > *'Recessions are caused when a bunch of people lose confidence all at once.'*
 
 > *'I succeeded because I have a long attention span.' -- Charlie Munger*
 
-Understand who are the buyers and the sellers and their motivations. It's very different from value investing.  
-Understand that Investments are competing with each other.
+> *'What's your religion? Arbitrage and rents.' -- EF*
 
 HINT: How to spot good investments AKA buy low/sell high?
 
 > *'You’re looking for a mispriced gamble.'  
 'You should remember that good ideas are rare. When the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
 
+> *'It’s not what you buy. It’s what you pay.'  
+'There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced'  
+'How do you get low price to value? The answer is low optimism.' -- Howard Marks*
+
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
 
 > *'The best companies aren't sold, they're bought.'*
 
-> *'What's your religion? Arbitrage and rents.' -- EF*
-
 > *'Don’t buy on future hopes; buy on past mistakes.'*
 
-> *'Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.'  
-'It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
+HINT: When to fold them? Get an exit strategy and take risk from the table when possible.
 
-HINT: When to fold them?
+> *'Waiting helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
 
-> *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds. Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile.' -- Charlie Munger*
+> *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds. Mistakes are an opportunity to grow.' -- Charlie Munger*
+
+HINTS:
+
+> *'Instead of finding the winners, active management might make you evite the loosers.' -- Karen Kharmandarian*
+
+> *'Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.'*
+
+> *'Stock buybacks are effectively same as dividends.'*
+
+> *'Anything is illiquid if you hold a large enough percentage of the total amount.'*
 
 HINT: Barbell strategy
 
 <!--
-analise de tendencias: perceber o q esta fora de moda
-
-you dont get rich by selling commodities.
-
-GET AN EXIT STRATEGY
-
-> *'Em vez de tentar encontrar os vencedores, julgo que a mais-valia que um gestor traz é evitar os perdedores. O que é bem mais fácil.
-A gestão ativa traz selectividade e timing.' -- Karen Kharmandarian*
-
-Everything is economy. -- EF
+Hypothetically, if someone were making $100,000 a year and had $100,000 to deploy in some way, how would you suggest they invest that capital?” It was along the lines of, “Invest in the S&P 500 or a low-cost index fund in the S&P 500 and get back to work.”
 
 deleveraging = reducing balance sheet from both sides
 
-> *'If you want to improve your odds of success in life and business then define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say «I don’t know».'*
-
-diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
-humility and triangulation of great people levete your probabbilities of making good decisions
-
-taking risk of the table.
-
-start with small investments till you are confortable with them. psycology is a huge factor.
-legendary 1968 book The Money Game by George Goodman, aka Adam Smith: “If you do not know who you are, Wall Street is an expensive place to find out.”
-
 entrepreneurship vs investment - 2 different mentalities.
 
-> *'Anything is illiquid if you hold a large enough percentage of the total amount.'*
-> *'Stock buybacks are effectively same as dividends.'*
-> *'Don't buy junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.'*
-
 dealers vs brokers: liquid markets (dealers with enough inventory)
-Tons money, zero money, negative money.
-
-Since “Budget” has become a four-letter word to many people, I prefer using the term “Conscious Spending Plan” (coined by Ramit Sethi).
-If you show me a man’s spending you can show me what he values”.
-
-understand market cycles
 -->
 
 
@@ -857,6 +855,7 @@ HINTS on travel:
 - Think less about getting the most for your buck and more about who you’re going with.
 - How long should your vacation be? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
 - Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not.
+- Just buy a ticket to the next destination, look for empty seats and get people to take you home.
 
 HINTS on nomadism:
 
@@ -865,11 +864,6 @@ Contracting -> Travelling Between Contracts -> Travelling While Contracting -> S
 
 <!--
 camping come from military campaign
-
-For both tourists and artists, much of the seaside’s appeal comes from its association with less structure and more freedom
-
-thats how we do it, you just buy a ticket to the next destination
-looking for empty seats and get people to take you home
 
 On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
 -->
@@ -883,9 +877,9 @@ On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenal
 
 > *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
 
-> *'Reading is to the mind what exercise is to the body.' -- Joseph Addison*
-
 > *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
+
+> *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.' -- Julian Barnes*
 
 <!--
 active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
@@ -1047,11 +1041,11 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 
 The ability to [not care what most people think](chapter_2_groups.md#on-criticism-and-envy) is a superpower.
 
-The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpower.
-
 The ability to [listen](chapter_2_groups.md#on-communication) is a superpower.
 
 The ability to [focus](chapter_3_action.md#on-focus-time-management-and-productivity) is a superpower.
+
+The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpower.
 
 The ability to [forgive]() is a superpower.
 
