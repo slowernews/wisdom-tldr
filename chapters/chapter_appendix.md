@@ -182,6 +182,8 @@ HINT: talent is fragile. To reveal the true nature of your intelligence rarely p
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 <!--
+> *'Andy Warhol is the only genius I’ve ever known with an IQ of 60.' -- Gore Vidal*
+
 > *'Talent hits a target no one else can hit. Genius hits a target no one else can see.' -- Arthur Schopenhauer*
 
 So many geniuses, are really good at eliminating unnecessary complexity. Enstien, for instance, was a master at sifting the essential from the non-essential. Steve Jobs was the same.
@@ -338,11 +340,7 @@ surprises only happen when they didnt repaeat on ones lifetime
 ---
 ### On beauty
 
-Beauty doesn't always correlate with virtue.  
-
-> *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
-
-> *'Beauty is not a gift, it's a burden.'*
+'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett  
 
 > *'Once I was beautiful, now I'm myself.'*
 
@@ -661,25 +659,22 @@ WHAT IS LOVE?
 
 'And on the first day, men created god.'
 
-> *'Science without religion is lame. Religion without science is blind.'*
-
-> *'God has no religion.' -- Mahatma Gandhi'*
-
-> *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.' -- Albert Einstein*
+> *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.'  
+'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
 
 > *'A rebel of God hates the family, loves the state, and comes up with endless excuses and rationalizations to dismiss their actions.'*
 
-> *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
+> *'God has no religion.' -- Mahatma Gandhi'*
 
-> *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
+> *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
 
 > *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
 
+> *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
+
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
-<!--
-there is some power in believing that somebody is going to happen.
--->
+> *'There is some power in believing that somebody is going to happen.'*
 
 
 
@@ -703,30 +698,30 @@ there is some power in believing that somebody is going to happen.
 
 > *'Art is just another form of screaming.'*
 
-> *'Artistic death is made by consensus.'*
-
-> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
-
-> *'Life is Capitalism but art is Socialism.'*
-
-> *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
+> *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 
 > *'Art doesn’t end at the edge of the canvas.'*
 
+> *'Art is a meditation and design is a negotiation.'*
+
+> *'Life is Capitalism but art is Socialism.'*
+
+> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
+
+> *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
+
 <!--
+> *'Artistic death is made by consensus.'*
+
 news as the first draft of history
 
 > *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
 
 chef invents based on ingredents, cook follows a recipe
 
-arte é expressão, e normalmente arte é resposta ao sofrimento. qd tas bem não fazes arte.
-
-Art is a meditation and design is a negotiation.
-
 an artist normally is an egocentric, free and creative person.
 
-> *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
+every act of creation starts with the act of destruction -- picasso
 -->
 
 
@@ -746,16 +741,14 @@ That's where «big bucks» are.
 
 > *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
 
+> *'There is no exquisite beauty without some strangeness in the proportion.' -- Edgar Allan Poe*
+
+> *'Poetry is what gets lost in translation.'*
+
 <!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
 
-> *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
-
-> *'There is no exquisite beauty… without some strangeness in the proportion.' -- Edgar Allan Poe*
-
-> *'Poetry is what gets lost in translation.'
-
-> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
+> *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe
 -->
 
 
@@ -836,6 +829,11 @@ deleveraging = reducing balance sheet from both sides
 entrepreneurship vs investment - 2 different mentalities.
 
 dealers vs brokers: liquid markets (dealers with enough inventory)
+
+auctions ao contrario!
+vendo por 40mil. o q venderes dai para cima 50% é para ti!
+
+math shortcut: Years to double = 72 / Interest Rate
 -->
 
 
@@ -844,23 +842,22 @@ dealers vs brokers: liquid markets (dealers with enough inventory)
 ---
 ### On travel and nomadism
 
-Travel is the only thing you buy that makes you richer. Traveling as mini lifes.  
-Travel solves a plethora of self-improvement goals.
+Travel is the only thing you buy that makes you richer.   
+Travel solves a plethora of self-improvement goals. Traveling as mini lifes.
 
 > *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
 
 HINTS on travel:
 
-- How does really traveling differ from a standard vacation? Travelling is getting under the skin of the place.  
-- Think less about getting the most for your buck and more about who you’re going with.
-- How long should your vacation be? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
-- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not.
-- Just buy a ticket to the next destination, look for empty seats and get people to take you home.
+- Travelling is getting under the skin of the place.  
+- For how long? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
+- Think less about money optimization and more about who you’re going with.
+- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
 
-HINTS on nomadism:
+HINT on nomadism:
 
-> *'Build a business with the heuristic of "Maximize my vacation time":
-Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chillin'*
+- Build a business with the heuristic of "Maximize my vacation time":
+Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling'*
 
 <!--
 camping come from military campaign
@@ -875,19 +872,23 @@ On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenal
 
 > *'The great books are the books that never have to be written again.'-- Carl Van Doren*
 
+> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
+
 > *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
 
 > *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
 
 > *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.' -- Julian Barnes*
 
+> *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.'*
+
+> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
+
 <!--
 active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
-Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.
 
 when you start writing a book start with your own ideas
 
-> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
 > *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
 > *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
@@ -918,6 +919,10 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 
 > *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
 
+> *'As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality.' -- Albert Einstein*
+
+> *'Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigor should be a signal to the historian that the maps have been made, and the real explorers have gone elsewhere. '-- William S. Anglin*
+
 <!--
 > *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
 > *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger W. Dijkstra*
@@ -946,11 +951,6 @@ silicon valley celebrate failure only after they achieve success
 
 engineer is an optimizer
 
-MATHS:
-> *'As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality.'*
-> *'In mathematics you don’t understand things. You just get used to them.' -- John von Neumann*
-> *'Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigor should be a signal to the historian that the maps have been made, and the real explorers have gone elsewhere. '-- William S. Anglin*
-math shortcut: Years to double = 72 / Interest Rate
 > *'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' -- John von Neumann*
 
 AUTOMATION
@@ -996,15 +996,9 @@ It will always result in revolution. The 90% will demand an equal share.
 The sad bit is that the revolutions seem to destroy the robots, not share the wealth. The 90% elect a different 10%, who then build more robots. See Animal Farm for details.
 The 10% have to share the pie, at least enough to prevent revolution.
 
-Very few people would "thrive" on a basic income. Look at communities today where a large percentage of people live on government aid. People need a reason to exist and meaningful work to do. Very few have the drive and discipline to become artists/inventors/philosophers/musicians/actors. Plus the majority of those who do become artists are unlikely to create anything that the rest of society would value. Have you been to an Arts & Crafts fair lately? Most of the stuff there has negative value, in that you'd have to pay me to take it.
-We need a better solution than basic income.
-
 What will that tech need to survive?
 Lithium, for batteries. Heavy metals, for processing. Energy, most of all.
 I wonder how long it'll be until we replace fiat currencies with a balance of kilowatt-hours.
-
-3) Automation removes an entire type of work.
-Automation doomsday scenarios focus on the last work.
 -->
 
 

@@ -696,7 +696,7 @@ If you spend the majority of your time in worlds where people are accomplishing 
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
 
-> *'Your friends are the ones that go to your funeral AND in a day of rain.'*
+> *'Your friends are the ones that go to your funeral in a day of rain.'*
 
 > *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
 
@@ -707,6 +707,8 @@ HINT: you will waste your life trying to make those around into who you want the
 There comes a time in life when you’ll have to leave everything behind and start something new but never forget the ones who stood by your side, especially the ones who never let you let go.
 
 - Cleave from your family but then come back. You need to be independent and loyal at the same time.
+
+> *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
 
 HINT: resist to temptation of working with family and friends. There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee. Keep your friends for friendship, work with the skilled and competent.  
 

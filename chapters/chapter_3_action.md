@@ -679,6 +679,8 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+you always throw out your first pancake - primeiro milho é para os pardais
+	
 It isn't what we say or think that defines us, but what we do. -- Jane Austen
 
 in order to understand i destried myself
