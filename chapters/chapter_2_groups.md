@@ -268,6 +268,18 @@ HINTS: on successful *entrepreneurs*.
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
 <!--
+> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
+
+Fall in love with the problem, not the solution.
+
+You're a wannapreneur if:
+- You talk to people about your ideas, but never build anything
+- You build something without first talking to people
+- You build something and never try to sell it
+If you build something that people say they'll pay for and then they don't actually pay for it then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle. -- Alex3917
+
+“Make something people will buy from you”
+
 overdesign / don't start from scratch / Throw Shit at the Wall and See What Sticks. Life is about experimenting.
 
 The disruptor’s credo, say it with me: Your profit margin is my opportunity. 
@@ -673,6 +685,8 @@ HOWEVER...
 > *'Afinal... Todas as pessoas são normais até as cohecermos melhor.' -- Margarida Rebelo Pinto*
 
 > *'Primeiro veem-se as qualidades depois os defeitos' -- EF*
+
+> *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
 -->
 
 
@@ -715,6 +729,8 @@ HINT: resist to temptation of working with family and friends. There will be alw
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+> *'When everything goes to hell, the people who stand by you without flinching -- they are your family.' -- Jim Butcher*
+
 26. Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution. -- Balthasar Gracian
 
 22. Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
@@ -1032,16 +1048,19 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
 
 <!--
-changing course is hard and this scares us so we look around and try to copy the courses other people took
+> *'If everybody is thinking alike, then somebody isn't thinking.' -- George S. Patton Jr.*
+> *'If people around you don’t think what you’re doing is a bit strange, maybe it’s not strange enough.' -- Patrick Collison*
+> *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
+> *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
+> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
+> *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
-everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+Stupidity is easier to see in others than ourselves. Stupidity is easier to recognize the farther we are from the act. 
+	
+changing course is hard and this scares us so we look around and try to copy the courses other people took
 
 it’s kind of funny. But if everyone is thinking of the same joke, it loses some of its humor.
 If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
-
-Great things are not accomplished by those who yield to trends and fads and popular opinion. -- Jack Kerouac
-
-> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
 
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
@@ -1104,8 +1123,9 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
 
 <!--
-Multicultural is by absurdum the true monocultural."
+> *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
 
+> *'Multicultural is by absurdum the true monocultural.' -- EF*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
 
 I would not consider taxes to be “punitive.” Taxes aren’t punishment. They are much more like a membership fee
@@ -1510,6 +1530,8 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
+Jobs are like clothes. There is no "wrong job". There are jobs which fit now, and all other jobs.
+	
 From the point of view of a noob. I might be completely wrong:
 - Tech marketability is important WHEN you are below average (my case). Otherwise any technology will grant you a job: if you know how to program, all languages are easy to pick. In my case, I'm still between React and Vue. While I prefer Vue, all jobs ask for React.
 	

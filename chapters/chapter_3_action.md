@@ -997,6 +997,8 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
+
 People As Response Functions. response triggers: your primary trigger, your secundary trigger
 
 > *'Romans ship, Greeks maintain.' -- anon*

@@ -34,6 +34,10 @@ How memory works? People forget by decaying and giving them other stuff to remem
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* 
 
 <!--
+> *'We are surrounded by story.' -- Alice McDermott*
+
+> *'There are years that ask questions and years that answer.' -- Zora Neale Hurston*
+
 I’m like that. Either I forget right away or I never forget.
 
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.'*
@@ -80,6 +84,8 @@ HOWEVER:
 > *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
 
 <!--
+> *'We never know where we’re going, but we sure as hell ought to know where we are.'*
+	
 what's life? showing up for the people you love, again and again, until you can’t show up anymore. -- Rebecca Walker
 
 “The trick is to enjoy life. Don’t wish away your days, waiting for better ones ahead.” --  Marjorie Pay Hinckley
@@ -621,11 +627,16 @@ most people approach each and every year in the exact same way while (somehow) e
 ---
 ### On comedy
 
-Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. And standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
+Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated.  
+Standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
 
 > *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin (1878-1953), to Anastas Mikoyan*
 
 <!--
+> *'Eat to please thyself, but dress to please others.' -- Benjamin Franklin*
+
+"In Europe 100 miles is a long way, In the US 100 years is a long time"
+
 > *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
 	
     > *'La que no es puta non desfruta.'*
@@ -645,7 +656,7 @@ SEX:
     > *'When it's good is good. When it's bad it gets in your shirt.'*
 WHERE IS HOME?
     > *'Home is where the bra isn´t.'*
-    > *'Home is where the parking lot is?'*
+    > *'Home is where the parking lot is'*
 WHAT IS LOVE?
     > *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
     > *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
@@ -676,6 +687,8 @@ WHAT IS LOVE?
 
 > *'There is some power in believing that somebody is going to happen.'*
 
+> *'We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further.' -- Richard Dawkins*
+
 
 
 
@@ -684,33 +697,32 @@ WHAT IS LOVE?
 
 'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald E. Knuth
 
-> *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
-
+> *'The whole of science is nothing more than a refinement of everyday thinking.'  
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
-> *'The whole of science is nothing more than a refinement of everyday thinking.'*
+> *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
 
 > *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
 
 > *'The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...' -- Isaac Asimov*
 
-> *'Technological progress is like an ax in the hands of a pathological criminal.'*
+> *'Technological progress is like an ax in the hands of a pathological criminal.' -- Albert Einstein*
 
 > *'Art is just another form of screaming.'*
 
 > *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 
-> *'Art doesn’t end at the edge of the canvas.'*
+> *'Art doesn’t end at the edge of the canvas.' -- Derek Sivers*
 
 > *'Art is a meditation and design is a negotiation.'*
 
 > *'Life is Capitalism but art is Socialism.'*
 
-> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
-
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
 <!--
+everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+
 > *'Artistic death is made by consensus.'*
 
 news as the first draft of history
@@ -735,17 +747,20 @@ That's where «big bucks» are.
 
 > *'Most people with good taste are young and poor.'*
 
-> *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
-
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
-> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
+> *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
 > *'There is no exquisite beauty without some strangeness in the proportion.' -- Edgar Allan Poe*
 
-> *'Poetry is what gets lost in translation.'*
+> *'Poetry is what gets lost in translation.' -- Robert Frost*
+
+> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 <!--
+
+> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
+
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
 
 > *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe
@@ -822,6 +837,8 @@ HINTS:
 HINT: Barbell strategy
 
 <!--
+Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
+
 Hypothetically, if someone were making $100,000 a year and had $100,000 to deploy in some way, how would you suggest they invest that capital?” It was along the lines of, “Invest in the S&P 500 or a low-cost index fund in the S&P 500 and get back to work.”
 
 deleveraging = reducing balance sheet from both sides
@@ -883,6 +900,8 @@ On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenal
 > *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.'*
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
+
+> *'A library is infinity under a roof.' -- Gail Carson Levine*
 
 <!--
 active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
@@ -1042,6 +1061,8 @@ The ability to [focus](chapter_3_action.md#on-focus-time-management-and-producti
 The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpower.
 
 The ability to [forgive]() is a superpower.
+
+The ability to keep your head when others are losing theirs is a superpower.
 
 <!--
 > *'Perspective shifts will unlock more than smartness will.' -- Astro Teller*
