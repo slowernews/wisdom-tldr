@@ -140,14 +140,14 @@
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
 Five general advices:  
-*'A prophet has no honour in his own country.' -- Bible (John 4: 44)
+*'A prophet has no honour in his own country.' -- Bible (John 4: 44)*  
 *'The root of our problems is our inability to let go.' -- Leo Babauta*  
 *'Avoiding conflict will not keep peace, will rot it.' -- EF*  
 *'Life is a balancing act.'*  
 *'Happiness = reality / expectations'*  
 
 Two practical advices:  
-*'Have more than one child.'*
+*'Have more than one child.'*  
 *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*  
 
 One last advice for introverts: *'Aim at relying on your network and not at being self-sufficient.'*
