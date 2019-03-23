@@ -689,6 +689,8 @@ WHAT IS LOVE?
 
 > *'We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further.' -- Richard Dawkins*
 
+> *'There are causes worth dying for, but none worth killing for.' -- Albert Camus*
+
 
 
 
@@ -903,6 +905,8 @@ On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenal
 
 > *'A library is infinity under a roof.' -- Gail Carson Levine*
 
+> *'If a book is well written, I always find it too short.' -- Jane Austen*
+
 <!--
 active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
 
@@ -1063,6 +1067,8 @@ The ability to [change your mind](chapter_3_action.md#on-adapting) is a superpow
 The ability to [forgive]() is a superpower.
 
 The ability to keep your head when others are losing theirs is a superpower.
+
+The ability to control your fear is a superpower.
 
 <!--
 > *'Perspective shifts will unlock more than smartness will.' -- Astro Teller*
