@@ -29,7 +29,7 @@ You need to develop an unshakable identity as a high achiever and peak performer
 <!--
 > *'Quem não chora não mama.'*
 	
-> *'how we spend our days is how we spend our lives.' -- Annie Dillard*
+> *'How we spend our days is how we spend our lives.' -- Annie Dillard*
 	
 > *'Só os mais corajosos conseguem fazer a paz' -- Trump*
 
@@ -55,20 +55,20 @@ personality is not static. - rollo tomassi
 ---
 ### On happiness
 
-'Happiness = reality / expectations'
-
+'Happiness = reality / expectations'  
 Seek happiness actively (action) and passively (lower expectations). Derived from:
 
 > *'Need to jump start happiness? Lower your expectations.'  
 'If I have no expectations than I will easily exceed them' -- James Altucher*
 
-> *'Happiness is not a goal, it is a byproduct.' -- Eleanor Roosevelt*
+What's happiness? Happiness is...
 
-> *'Happiness is a journey, not a destination.' -- Ben Sweetland*
+> *'...not a goal, it's a byproduct.' -- Eleanor Roosevelt*  
+*'...a journey, not a destination.' -- Ben Sweetland*  
+*'...inside you, not with another person.'*  
+*'...your default state when you remove everything.' -- Naval Ravikant*
 
-> *'Happy life = mastery + belonging + autonomy.'*
-
-> *'Happiness is inside you, not with another person.'*
+'Happy life = mastery + belonging + autonomy'
 
 HINT: How to improve reality? Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
 
@@ -82,12 +82,12 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 
-> *'Happiness is your default state when you remove everything.' -- Naval Ravikant*
+> *'One of the keys to happiness is a bad memory.' -- Rita Mae Brown*
 
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
-regrets fof the dyieng: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
+regrets of the dying: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
 
 True happiness, at its core, is simply about creating a life where your positive experiences and emotions outweigh the bad ones.
 You need to understand that you aren’t supposed to be happy all the time.
@@ -104,8 +104,6 @@ love, sucess and happiness are a byproduct
 
 It’s quite liberating to understand reality as a construction.
 
-> *'One of the keys to happiness is a bad memory.' -- Rita Mae Brown*
-	
 happiness is not about positive thoughts. but every positive thought is based on a negative thought.
 happiness is about absense of desire! and embrace the presence on the present time.
 	
@@ -117,8 +115,6 @@ If you are unhappy, use your pain to fuel you towards the pleasure of something 
 > *'Anchor yourself -- remember who you are, the things you are good at, even when completely different thing. authentic self is a state'*
 
 high expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed
-
-> *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
 > *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
 

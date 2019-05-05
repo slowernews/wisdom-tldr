@@ -139,12 +139,11 @@
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
-Five general advices:  
+Four general advices:  
 *'A prophet has no honour in his own country.' -- Bible (John 4: 44)*  
 *'The root of our problems is our inability to let go.' -- Leo Babauta*  
 *'Avoiding conflict will not keep peace, will rot it.' -- EF*  
-*'Life is a balancing act.'*  
-*'Happiness = reality / expectations'*  
+*'Life is a balancing act.'*
 
 Two practical advices:  
 *'Have more than one child.'*  

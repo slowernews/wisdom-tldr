@@ -618,9 +618,8 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 > *'If there is one thing you can count on, it's human greed. And I'm not pretending I'm above it myself.'*
 
-<!--
-most people approach each and every year in the exact same way while (somehow) expecting drastically different results.
--->
+> *'Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.'*
+
 
 
 
@@ -631,6 +630,29 @@ Comedy is about observing the hidden truths in life that everyone knows but nobo
 Standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
 
 > *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin (1878-1953), to Anastas Mikoyan*
+
+> *'You should have sex more than you think you should, as pizza.'*  
+*'When it's good is good. When it's bad it gets in your shirt.'*
+
+> *'There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog.  
+What’s the man there for? His job is to feed the dog.  
+What’s the dog for? The dog keeps the man from touching any of the machines.'*
+
+> *'I miss being the age when I thought I would have my shit together by the time I was the age I am now.'*
+
+Where is home?
+
+> *'Home is where the bra isn´t.'*
+
+> *'Home is where the parking lot is'*
+
+What is love?
+
+> *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
+
+> *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
+
+> *'I am a cage in search for a bird.' -- Franz Kafka*
 
 <!--
 > *'Eat to please thyself, but dress to please others.' -- Benjamin Franklin*
@@ -645,22 +667,8 @@ Standup is about how to articulate that truth in such a way that people feel mom
     > *'The four most expensive words in the English language: «This time is different».'
     > *'Reality continues to ruin my life.' -- Bill Watterson*
     > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
-- There’s a great joke about an automated car plant in Japan, where the machines work in the dark (no need for light, they don’t have eyes) and there are only two living things authorized to be on the factory floor – a man and a dog.
-What’s the man there for? His job is to feed the dog.
-What’s the dog for? The dog keeps the man from touching any of the machines.
 
 > *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
-
-SEX:
-    > *'You should have sex more than you think you should, as pizza.'*
-    > *'When it's good is good. When it's bad it gets in your shirt.'*
-WHERE IS HOME?
-    > *'Home is where the bra isn´t.'*
-    > *'Home is where the parking lot is'*
-WHAT IS LOVE?
-    > *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
-    > *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
-    > *'I am a cage in search for a bird.' -- Franz Kafka*
 -->
 
 
@@ -718,24 +726,23 @@ WHAT IS LOVE?
 
 > *'Art is a meditation and design is a negotiation.'*
 
+> *'Artistic death is made by consensus.'*
+
 > *'Life is Capitalism but art is Socialism.'*
 
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
 <!--
-everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 
-> *'Artistic death is made by consensus.'*
-
-news as the first draft of history
+News are the first draft of History.
 
 > *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
 
 chef invents based on ingredents, cook follows a recipe
-
 an artist normally is an egocentric, free and creative person.
 
-every act of creation starts with the act of destruction -- picasso
+> *'Every act of creation starts with the act of destruction. -- Pablo Picasso'
 -->
 
 
@@ -759,10 +766,9 @@ That's where «big bucks» are.
 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
-<!--
-
 > *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
 
+<!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
 
 > *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe
@@ -879,8 +885,6 @@ HINT on nomadism:
 Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling'*
 
 <!--
-camping come from military campaign
-
 On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
 -->
 
@@ -1019,8 +1023,7 @@ It will always result in revolution. The 90% will demand an equal share.
 The sad bit is that the revolutions seem to destroy the robots, not share the wealth. The 90% elect a different 10%, who then build more robots. See Animal Farm for details.
 The 10% have to share the pie, at least enough to prevent revolution.
 
-What will that tech need to survive?
-Lithium, for batteries. Heavy metals, for processing. Energy, most of all.
+What will that tech need to survive? Lithium, for batteries. Heavy metals, for processing. Energy, most of all.
 I wonder how long it'll be until we replace fiat currencies with a balance of kilowatt-hours.
 -->
 
@@ -1073,23 +1076,20 @@ The ability to control your fear is a superpower.
 <!--
 > *'Perspective shifts will unlock more than smartness will.' -- Astro Teller*
 	
-People who can't change their minds never move forward. Worse still, they see themselves as heroes.
-They stop getting promoted. Their work colleagues avoid them. Their friends call less often. Their disagreeable dispositions mean that people don't want them around. They are prisoners of their beliefs. They want everyone to see that they're right. If they persist long enough, the only people they have in their circles are people who have the same (incorrect) worldview.
-
 sustainable competitive advantage.Here are five big ones.
 1 - The ability to learn faster than your competition
 Marc Andreessen promotes the idea of “strong beliefs, weakly held,”
 
 2 - The ability to empathize with customers more than your competition
 What percentage of McDonald’s executives frequent their own restaurant as a legitimate customer interested in the chain’s food, rather than a fact-finding mission? Few, I imagine. How many times has the CEO of Delta Airlines been bumped from a flight, or had his bags lost by the airline? Never, I assume.
-
 3 - The ability to communicate more effectively than your competition
 Most business edges are found at the intersection of trust and simplicity. Both rely on the ability to tell customers what and why you’re doing something before losing their attention.
 
+People who can't change their minds never move forward. Worse still, they see themselves as heroes.
+They stop getting promoted. Their work colleagues avoid them. Their friends call less often. Their disagreeable dispositions mean that people don't want them around. They are prisoners of their beliefs. They want everyone to see that they're right. If they persist long enough, the only people they have in their circles are people who have the same (incorrect) worldview.
 4 - The willingness to fail more than your competition
 Here’s Bezos again: “If you double the number of experiments you do per year, you’re going to double your inventiveness.”
 The key is creating a culture that allows you to fail often without ruin.
-
 5 - The willingness to wait longer than your competition
 Expected value refers to the long-run average of a random variable.
 -->

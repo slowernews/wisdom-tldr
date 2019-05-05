@@ -1283,6 +1283,8 @@ HOWEVER... beware of counter-attacking.
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
 <!--
+play to win, not hoping to make it, or why are you doing it? committed to win
+
 24. Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
 
 2. Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy. -- Balthasar Gracian
@@ -1440,13 +1442,15 @@ To Persuade Someone, Look Emotional
 
 > *'The moment a magician says, «Now we begin» you’re already screwed!' -- Brian Brushwood*
 
+> *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.'*
+
 HOWEVER... deceiving is not lying.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
 
-> *'One of the most potent weapons in the battle for information is giving out false information.'*
-
 > *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
+
+> *'One of the most potent weapons in the battle for information is giving out false information.'*
 
 > *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
 
@@ -1558,6 +1562,8 @@ They can be effective but use them *only* on life changing situations: it's a sc
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
+> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+
 19. Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence. -- Balthasar Gracian
 
 People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage.

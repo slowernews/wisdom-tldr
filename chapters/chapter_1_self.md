@@ -42,8 +42,9 @@ Making sure that you are taken care of so that you can take care of others or fo
 
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
-<!--
+> *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
+<!--
 29. Don’t be quick to vouch for others. Do not become responsible for all or for every one, otherwise you become a slave and the slave of all. Some are born more fortunate than others: they are born to do good as others to receive it. Freedom is more precious than any gifts for which you may be tempted to give it up. -- Balthasar Gracian
 
 - healthy people will respect your boundaries
@@ -234,7 +235,7 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
-> *'[Gratitude] is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
+> *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
 
 <!--
 > *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
@@ -254,23 +255,35 @@ play the cards you are dealt. And you will often be dealt bad cards.
 
 Cancel your pity party, no one is coming to save you.  
 Pull yourself together and take total ownership for everything in your life.  
-When you start walking, the path will be revealed. Passion is made not found.
+The path will be revealed as you start walking.
 
 > *'If you are feeling lost in life, you need to experience more things.'*
 
+> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
+
 > *'What do you do for fun? What are you interested in that everybody in the world is interested in?'*
-
-> *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, do it.'*
-
-> *'Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.'*
 
 > *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
 
-> *'When life gets blurry, just adjust your focus.'*
+> *'Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.'*  
 
-> *'The obstacle is the way.'*
+> *'The obstacle is the way.' -- Marcus Aurelius*
+
+> *'The question is not who is going to let me; it's who is going to stop me.' -- Ayn Rand*
+
+> *'It’s easier to ask forgiveness than to get permission'*
+
+> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
+
+> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 <!--
+> *'When life gets blurry, just adjust your focus.'*
+
+> *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, do it.'*
+
+Passion is made not found.
+
 > *'you can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
 9. Carve your own path. Those who come first are the heirs of Fame; the others get only a younger brother’s allowance: whatever they do, they cannot persuade the world they are anything more than parrots. -- Balthasar Gracian
@@ -284,21 +297,9 @@ i FEEL that THIS was what I was meant to do, its ok to be vulnerable
 “I guess I wanted to write and interview people.”
 “Well, there you go.” I don’t think my brain fully realizes that I’m doing what I dreamt of doing as a kid.
 
-When you don’t know your next step… When you’re feeling unmotivated… When asking someone to help you… Get more specific about what you want.
-
 if you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price. -- roger kipling
 
-> *'The question is not who is going to let me; it's who is going to stop me.' -- Ayn Rand*
-
-> *'It’s easier to ask forgiveness than to get permission'*
-
-> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
-
 > *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
-
-> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
-
-> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
 
 The perpetual chase for more is not the path that leads to more freedom and happiness.
 
@@ -306,11 +307,7 @@ Best Effort + Surrender = DESTINY
 	
 The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
 
-> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
-
 > *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
-
-> *'Look at every path closely and deliberately, try it as many times as you think necessary, then ask yourself and yourself alone one question: Does this path have a heart? If it does the path is good, if it doesn’t it is of no use.' -- Jack Kornfield*
 
 how to design a life?
 “Your Ten-Year Plan for a Remarkable Life”
@@ -355,17 +352,12 @@ Getting very clear about what is important allows you to stop caring so much abo
 What skills are you missing to be able to do what you want? What skills do others have who possess what you wan
 allen tucker
 
-What does it mean to be you? Who are you?
-
 “It seems so easy because you hang out with yourself all day,” she said. “But it’s so easy to get distracted by who you feel you should be… or who you wish you were. Or who other people expect you to be.”
 it’s OK to stop doing things that should make you feel good, but don’t.
 
 Step 1: Do less of what you don’t like doing -- unless it is limiting you
 Step 2: Do more of what you like doing
-Step 3: Use envy
-“Envy is painful, but it’s a very helpful emotion for a happy life. It’s a giant red arrow sign standing over someone’s head saying, ‘They've got something you want.’”
-
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+Step 3: Use envy “Envy is painful, but it’s a very helpful emotion for a happy life. It’s a giant red arrow sign standing over someone’s head saying, ‘They've got something you want.’”
 
 DO THE WORK
 > *'Work until your idols become your rivals.'*
@@ -387,10 +379,6 @@ And most people waste their lives away in 9-5 jobs. It's not an age thing.
 “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
 lying in death bed and regretting your life is the worst that can happen to you.
-
-> *'I miss being the age when i thought I would have my shit together by the time I was the age I am now.'*
-
-play to win, not hoping to make it, or why are you doing it? committed to win
 
 > *'Your temporary circumstances do not have to become your permanent identity' -- Greg Hartle*
 
@@ -418,17 +406,13 @@ Create Projects, Not Goals
 You need to break rules to achieve anything great.  
 Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement.
 
-> *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.'*
-
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
-> *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*
+> *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*  
+*'There is pleasure in the pathless woods.' -- Lord Byron*
 
-> *'There is pleasure in the pathless woods.' -- Lord Byron*
-
-> *'A ship is safe in the harbor but that's not what ships are for.'*
-
-> *'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
+> *'A ship is safe in the harbor but that's not what ships are for.'*  
+*'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
 
 > *'You can choose courage or you can choose comfort, but you can't choose both.'*
 
