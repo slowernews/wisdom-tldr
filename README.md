@@ -131,7 +131,6 @@
 
 *Bonus*
 - [On types of people](/chapters/chapter_appendix.md#on-types-of-people)
-- [On superpowers](/chapters/chapter_appendix.md#on-superpowers)
 
 
 ### TL;DR 
