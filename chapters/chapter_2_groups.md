@@ -459,6 +459,8 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
+
 27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. The idol never wishes to see before him the sculptor who shaped him, nor does the benefited wish to see his benefactor always before his eyes. -- Balthasar Gracian
 
 always negotiate. dont communicate weaknes on your negotiation.
