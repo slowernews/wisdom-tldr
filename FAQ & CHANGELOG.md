@@ -8,7 +8,7 @@ It started as something I wanted to read and couldn't find elsewhere. Later I st
 
 #### What are your main biases?
 
-Male Western culture (European flavour) and Agnosticism. Other biases: Centrism, Essencialism, Frugalism and Intellectualism. But I might be biased...
+Western culture (European flavour). Other biases: I'm male, agnosticist, centrist, essencialist and frugalist. But I might be biased...
 
 ---
 

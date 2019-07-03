@@ -294,7 +294,7 @@ Werther Effect: remexer nas coisas dá-lhes importancia.
 ---
 ### On luck
 
-Bad luck is normally bad planning.  
+Bad luck is often bad planning.  
 If you're sure it's not, be positive, the pendulum will swing back your way eventually.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
@@ -751,12 +751,14 @@ an artist normally is an egocentric, free and creative person.
 ---
 ### On aesthetics
 
-'Good taste is easy. What is challenging, is to be close to vulgarity.' -- Adam Caruso  
+'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso  
 That's where «big bucks» are.
 
 > *'Most people with good taste are young and poor.'*
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
+
+> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
 
 > *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
@@ -765,8 +767,6 @@ That's where «big bucks» are.
 > *'Poetry is what gets lost in translation.' -- Robert Frost*
 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
-
-> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
 
 <!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
