@@ -183,11 +183,15 @@ make the exercise: imagine you life in 10years. possible futures
 
 Genius and talent are rare, and as such, the most sensitive trigger for envy.
 
+> *'Talent hits a target no one else can hit. Genius hits a target no one else can see.' -- Arthur Schopenhauer*
+
 HINT: talent is fragile. To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 <!--
+> *'Great minds are always feared by lesser minds.' -- Dan Brown*
+
 > *'Andy Warhol is the only genius I’ve ever known with an IQ of 60.' -- Gore Vidal*
 
 > *'Talent hits a target no one else can hit. Genius hits a target no one else can see.' -- Arthur Schopenhauer*
@@ -604,6 +608,9 @@ The key to all success in life lies in education and massive action.
 If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
 
 The story he told me was a combination of luck, learning skills, building a network, and acting on the intersection of all of the above. But more than anything, it’s being open to surrender. Surrendering to constant reinvention.
+
+> *'Everything is possible. The impossible just takes longer.' -- Dan Brown*
+> *'Whether you think you can, or you think you can't, you're right.' -- Henry Ford* (power of belief)
 -->
 
 
@@ -733,6 +740,8 @@ What is love?
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
 <!--
+> *'Art washes away from the soul the dust of everyday life.' -- Pablo Picasso*
+
 Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 
 News are the first draft of History.
@@ -845,6 +854,10 @@ HINTS:
 HINT: Barbell strategy
 
 <!--
+> *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith, “The Wealth Of Nations”*
+
+Seguimos aquilo que vem nos livros, que é o negócio faz-se na compra. Daí sermos muito investidores de contraciclo, gostamos de comprar ativos quando não estão inflacionados, que não é o cenário atual. 
+
 Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
 
 Hypothetically, if someone were making $100,000 a year and had $100,000 to deploy in some way, how would you suggest they invest that capital?” It was along the lines of, “Invest in the S&P 500 or a low-cost index fund in the S&P 500 and get back to work.”
@@ -885,12 +898,22 @@ HINT on nomadism:
 Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling'*
 
 <!--
-On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
+- Choose places with “lifers”: owners and employees who are dedicated to the business itself, not to a paycheck.
+- On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
 -->
 
 
 
 
+---
+### On accumulation
+
+> *'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
+
+
+
+
+---
 ### On books
 
 > *'The great books are the books that never have to be written again.'-- Carl Van Doren*
@@ -1039,9 +1062,9 @@ hedonists + stoics
 
 takers + matchers + givers
 
-people that like you + people that don't like you + people that don't care about you
-
 dreamers + makers + managers
+
+people that like you + people that don't like you + people that don't care about you
 
 <!--
 people of all political persuasions

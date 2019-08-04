@@ -45,6 +45,8 @@ Making sure that you are taken care of so that you can take care of others or fo
 > *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
 <!--
+> *'I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.' -- Jimi Hendrix*
+
 29. Don’t be quick to vouch for others. Do not become responsible for all or for every one, otherwise you become a slave and the slave of all. Some are born more fortunate than others: they are born to do good as others to receive it. Freedom is more precious than any gifts for which you may be tempted to give it up. -- Balthasar Gracian
 
 - healthy people will respect your boundaries
@@ -278,6 +280,8 @@ The path will be revealed as you start walking.
 > *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 <!--
+- Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
+
 > *'When life gets blurry, just adjust your focus.'*
 
 > *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, do it.'*
@@ -717,6 +721,10 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+- entry trick to learn something.
+- success is the worst teacher
+- Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
+
 Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
 	
 > *'The brain switches off if it becomes too bored, that is the problem. You must always look for new things to learn.' -- Anand, Viswanathan*
@@ -1124,6 +1132,9 @@ How do i know i'm right? Do you know anyone who doesn’t have any blind spots? 
 Then why would you be any different? Curious as to why the other person disagrees.
 
 <!--
+- grow self awareness by / pause / feedback
+self awareness is leadership?
+
 “The things we see every day are the things we never see at all. -- G.K. Chesterton
 
 2. Understand the Effect of Your Childhood Conditioning 
@@ -1224,6 +1235,8 @@ HINT: How to fight depression? Starve and exercise. When sick, move!
 HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 
 <!--
+> *'No medicine cures what happiness cannot.' -- Gabriel Garcí­a Márquez*
+
 debug your brain as much as you can. DEBUG MODE!
 
 > *'Nature itself is the best physician.' -- Hippocrates*
@@ -1263,6 +1276,8 @@ People underestimate their possibilities.
 HOWEVER... your level of success will seldom exceed your level of personal development.
 
 <!--
+> *'To define is to limit.' -- Oscar Wilde*
+
 > *'Do one thing that scares you everyday.' -- Eleanor Roosevelt*
 
 We live in a society where the greatest lies that are told are the ones that we tell ourself.
@@ -1335,6 +1350,8 @@ break down your fears until you figure out the truth. we stuck in the fear of co
 you will never achieve anything if you allow indecisiveness to lead to inaction.
 
 Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
+
+- the antidote to fear is not courage is aceptance.
 -->
 
 
@@ -1377,6 +1394,8 @@ HINT: Be gentle first with yourself.
 > *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
 <!--
+> *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
+
 I wasted thousands of dollars investing in lousy stocks when I was in my early 20’s.
 
 > *'I can think, I can wait and I can fast.' -- Siddahrta*
@@ -1506,6 +1525,8 @@ I encourage you to stop thinking about the world in binary terms. how much engin
 Instead, think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions.
 Keep your “self” out of your decisions, because most likely, it’s not about “you.” Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it. - mm
 aka action and dont think too much
+
+- strive for excellence, not for perfection.
 -->
 
 
@@ -1524,6 +1545,9 @@ What I’m saying is, you gotta share that shit in order to heal it, son.
 It’s not just other people we need to forgive. Sometimes we need to forgive ourselves. — Mitch Albom
 
 You can hide the ugly parts, but you can't make them disappear.
+
+- when you try to fix something about yourself, you automatically create shame, because you’re saying this thing that’s true about myself is wrong – it is a problem, there is something wrong with me, I am broken. When you create that frame, you’re saying “I am wrong,” and that’s where shame comes in.
+
 -->
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
@@ -1586,6 +1610,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 <!--
+- confidence: state + mastery. impress yourself
+
 > *'Don't be so humble - you are not that great.' -- Golda Meir*
 	
 > *'Dress for the job you want, not for the one you have.'*

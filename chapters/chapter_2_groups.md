@@ -459,6 +459,8 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+- There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
+
 What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
 
 27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. The idol never wishes to see before him the sculptor who shaped him, nor does the benefited wish to see his benefactor always before his eyes. -- Balthasar Gracian
@@ -684,11 +686,15 @@ HOWEVER...
 > *'Love is what happens to men and women that don't know each other.'*
 
 <!--
+> *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
+
 > *'Afinal... Todas as pessoas são normais até as cohecermos melhor.' -- Margarida Rebelo Pinto*
 
 > *'Primeiro veem-se as qualidades depois os defeitos' -- EF*
 
 > *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
+
+> *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
 -->
 
 
@@ -1183,6 +1189,7 @@ HOWEVER... Be humble.
 > *'No one is smarter than a small group.'*
 
 <!--
+- leadership i sthe ability to locate yourself. sleep walking through life. self awareness is the ability to pause mind 
 
 > *'Praise by name, criticize by category.' -- Warren Buffet*
 
@@ -1255,6 +1262,10 @@ Situational leadership :) Adapt your leadership style to the skills and confiden
 In a situation where your subordinates are unsure of what to do and they really don't have the skills to do it alone, you have to provide leadership and encouragement. Lead by example, show them how to do it, and let them iterate without too much micromanagement.
 When your subordinates are competent but lacking confidence, it's often a better option to stand back and say nothing. The "ownership" piece is huge -- if this is the first big project you've "owned", you'll probably iron out the kinks even if I don't say anything to you. Also keep in mind is that there are many correct ways to solve a problem; while your solution may not be the one I would go with, you're more comfortable with your solution and can probably see things about it that I can't. I trust you to be the expert on the solution; I've got bigger things to worry about like how I'm going to continue servicing my same workload with a 10% cut in budget.
 The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.
+
+- Life in a zoo is easier, but it isn't the life they were designed for.
+- A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don't generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
+- Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
 -->
 
 

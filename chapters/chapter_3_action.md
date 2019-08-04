@@ -679,6 +679,10 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+> *'If we wait for the moment when everything, absolutely everything is ready, we shall never begin.' -- Ivan Turgenev*
+
+- Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
+
 you always throw out your first pancake - primeiro milho é para os pardais
 	
 It isn't what we say or think that defines us, but what we do. -- Jane Austen
@@ -845,6 +849,8 @@ Missions are for people who DO. Mission statements are for people who DON’T.
 1. Don’t overthink it. Don’t waste time analyzing it.
 
 > *'Do not wait to strike till the iron is hot; but make it hot by striking.' -- Yeats*
+
+- Knowing is half the battle, the other half is action implementing that knowledge to your own advantage.
 -->
 
 Timing is important.
@@ -932,6 +938,7 @@ chess gambits -- exchange material by position-time.
 > *'Go-Karts -- Feel fast, are slow 747s -- Feel slow, are fast Ship it! -- Feels fast, is slow Test > *'Document it! -- Feels slow, is fast.'*
 
 > *'You overestimate what you can do in a year but underestimate what you can do in two or three decades.' -- Tony Robbins*
+> *'Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.' -- Gates’s Law: how progress compounds and why it matters*
 -->
 
 
@@ -997,6 +1004,10 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+- Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
+- Productivity is about attention management - productive procrastination
+- maker days and manager days
+
 > *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
 
 People As Response Functions. response triggers: your primary trigger, your secundary trigger
@@ -1258,6 +1269,8 @@ One of the biggest mistakes that you can make in any endeavor is to stick to rig
 As Bruce Lee said “Be like water”, be willing to change and adapt to the world around you.
 
 equipa que ganha, não se mexe
+
+> *'When things break, it's not the actual breaking that prevents them from getting back together again. It's because a little piece gets lost - the two remaining ends couldn't fit together even if they wanted to. The whole shape has changed.' -- John Green*
 -->
 
 
@@ -1283,6 +1296,8 @@ HOWEVER... beware of counter-attacking.
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
 <!--
+- In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.
+
 play to win, not hoping to make it, or why are you doing it? committed to win
 
 24. Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
@@ -1419,6 +1434,8 @@ So begin by taking inventory of the various qualities and skills you already hav
 mimicking people gestures and words works!
 
 To Persuade Someone, Look Emotional
+
+- It’s hard to be angry with someone who agrees with you. Making enemies is expensive.
 -->
 
 
@@ -1658,6 +1675,12 @@ Many people think that the alternative to forgiveness is punishment: We either c
 But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. People do this all the time. Governments do it every day.
 By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.”
 In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
+
+> *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
+
+<!--
+> *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
+-->
 
 
 

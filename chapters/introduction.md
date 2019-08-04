@@ -87,6 +87,8 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+> *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
+
 regrets of the dying: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
 
 True happiness, at its core, is simply about creating a life where your positive experiences and emotions outweigh the bad ones.
