@@ -23,7 +23,7 @@ They are meant to guide you, not to define you or determine your future.
 
 > *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
-> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
+> *'There are years that ask questions and years that answer.' -- Zora Neale Hurston*
 
 How memory works? People forget by decaying and giving them other stuff to remember.
 
@@ -31,12 +31,16 @@ How memory works? People forget by decaying and giving them other stuff to remem
 
 > *'People remember more the beginning and the end of something.'*
 
-> *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'* 
+> *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
+
+> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
 
 <!--
-> *'We are surrounded by story.' -- Alice McDermott*
+> *'There is no past or future. Using tenses to divide time is like making chalk marks on water.'*
 
-> *'There are years that ask questions and years that answer.' -- Zora Neale Hurston*
+Death leaves a heartache no one can heal; love leaves a memory no one can steal.
+
+> *'We are surrounded by story.' -- Alice McDermott*
 
 I’m like that. Either I forget right away or I never forget.
 
@@ -619,18 +623,6 @@ The story he told me was a combination of luck, learning skills, building a netw
 ---
 # Appendix C - Others
 
-### On humanness and irrationality
-
-> *'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Starship Troopers by Robert Heinlein*
-
-> *'If there is one thing you can count on, it's human greed. And I'm not pretending I'm above it myself.'*
-
-> *'Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.'*
-
-
-
-
----
 ### On comedy
 
 Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated.  
@@ -677,6 +669,32 @@ What is love?
 
 > *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
 -->
+
+
+
+
+---
+### On humanness and irrationality
+
+> *'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Starship Troopers by Robert Heinlein*
+
+> *'If there is one thing you can count on, it's human greed. And I'm not pretending I'm above it myself.'*
+
+> *'Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.'*
+
+
+
+
+---
+### On marriage
+
+> *'Marry or do not marry, you will regret it either way. ...Laugh at the stupidities of the world or weep over them, you will regret it either way. ...Trust a girl or do not trust her, you will regret it either way. ...Hang yourself or do not hang yourself, you will regret it either way. ...This, gentlemen, is the quintessence of all the wisdom of life.' -- Kierkegaard, Either/Or*
+
+> *'Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed.' -- H.Harwood and R. Gore-Bro*
+
+> *'He who marries for love without money has good nights and sorry days.' -- Ani Difranco*
+
+> *'(On conventional marriage) If Apple sold you a product that failed 50% of the time, would you buy it?' -- Esther Perel*
 
 
 

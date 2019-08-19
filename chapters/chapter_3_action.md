@@ -1004,6 +1004,8 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+> *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
+
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
 - Productivity is about attention management - productive procrastination
 - maker days and manager days
@@ -1134,6 +1136,8 @@ Ignore the rest.
 focus on what doesnt change
 	
 past and future doesn't exist. we cannot control anything, at most we can influenciate something.
+
+> *'Sometimes people don't want to hear the truth because they don't want their illusions destroyed.' -- Friedrich Nietzsche*
 -->
 
 

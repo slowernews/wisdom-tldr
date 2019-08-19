@@ -118,8 +118,9 @@
 - [On success](/chapters/chapter_appendix.md#on-success)
 
 *Other*
-- [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
 - [On comedy](/chapters/chapter_appendix.md#on-comedy)
+- [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
+- [On marriage](/chapters/chapter_appendix.md#on-marriage)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)

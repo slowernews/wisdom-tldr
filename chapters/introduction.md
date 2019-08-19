@@ -87,6 +87,8 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+> *'And all the books you've read have been read by other people. And all the songs you've loved have been heard by other people. And that girl that's pretty to you is pretty to other people. and that if you looked at these facts when you were happy, you would feel great because you are describing 'unity.' -- Stephen Chbosky*
+	
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
 
 regrets of the dying: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.

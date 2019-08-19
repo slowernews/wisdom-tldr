@@ -1101,6 +1101,8 @@ You want to learn every aspect of that subject, you are expected to be a pro. Th
 'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
 
 <!--
+> *'He who knows all the answers has not been asked all the questions.' -- Confucius*
+
 > *'If I’d followed all the rules I’d never have gotten anywhere.' -- Marylin Monroe*
 
 Some of the skills that you need to achieve expertise were not yet systemised.
