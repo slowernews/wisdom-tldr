@@ -36,6 +36,8 @@ How memory works? People forget by decaying and giving them other stuff to remem
 > *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
 
 <!--
+> *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy^*
+
 > *'There is no past or future. Using tenses to divide time is like making chalk marks on water.'*
 
 Death leaves a heartache no one can heal; love leaves a memory no one can steal.
@@ -628,10 +630,9 @@ The story he told me was a combination of luck, learning skills, building a netw
 Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated.  
 Standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
 
-> *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin (1878-1953), to Anastas Mikoyan*
+> *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin  to Anastas Mikoyan*
 
-> *'You should have sex more than you think you should, as pizza.'*  
-*'When it's good is good. When it's bad it gets in your shirt.'*
+*'Sex, like pizza, when it's good is good. When it's bad it gets in your shirt.'*
 
 > *'There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog.  
 What’s the man there for? His job is to feed the dog.  
@@ -655,18 +656,14 @@ What is love?
 
 <!--
 > *'Eat to please thyself, but dress to please others.' -- Benjamin Franklin*
-
-"In Europe 100 miles is a long way, In the US 100 years is a long time"
-
+> *'In Europe 100 miles is a long way, In the US 100 years is a long time'* 
 > *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
-	
-    > *'La que no es puta non desfruta.'*
-    > *'love people and use money vs love money and use people'*
-    > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
-    > *'The four most expensive words in the English language: «This time is different».'
-    > *'Reality continues to ruin my life.' -- Bill Watterson*
-    > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
-
+> *'La que no es puta non desfruta.'*
+> *'love people and use money vs love money and use people'*
+> *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
+> *'The four most expensive words in the English language: «This time is different».'
+> *'Reality continues to ruin my life.' -- Bill Watterson*
+> *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
 > *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
 -->
 
@@ -981,6 +978,7 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 
 
 
+---
 ### On computers & maths
 
 > *'Controlling complexity is the essence of computer programming.' -- Brian Kernighan*
@@ -1093,3 +1091,31 @@ most people are not extremes and most people are in the middle
 introvert is not shyness. most things are not binary. Imagine a introvertness scale from 1 to 7.
 It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
+
+
+
+
+---
+### On what women value in men
+
+'All that women want is for you to listen.'
+
+> *'Most man bore women. Women want to feel that its always a different man.'*
+
+> *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
+
+> *'Chicks dig a man who exhibits grace under pressure.'*
+
+> *'She likes a gentleman who knows when not to be gentle.'*
+
+> *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
+
+> *'A suit to women is like lingerie to men.'*
+
+
+
+
+---
+### On what men value in women
+
+> *'> *'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*

@@ -133,10 +133,10 @@
 
 *Bonus*
 - [On types of people](/chapters/chapter_appendix.md#on-types-of-people)
-
+- [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
+- [On what men value in women](/chapters/chapter_appendix.md#on-what-men-value-in-women)
 
 ### TL;DR 
-
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
