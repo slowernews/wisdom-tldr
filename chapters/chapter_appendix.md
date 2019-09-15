@@ -363,7 +363,8 @@ surprises only happen when they didnt repaeat on ones lifetime
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
 
 <!--
-The sign of a beautiful person is that they always see beauty in others.
+- The sign of a beautiful person is that they always see beauty in others.
+- beauty as a panacea
 -->
 
 
@@ -679,6 +680,12 @@ What is love?
 
 > *'Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.'*
 
+> *'The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.' -- Elizabeth Taylor*
+
+<!--
+- we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it's our default. Order is always artificial and temporary.
+-->
+
 
 
 
@@ -793,8 +800,8 @@ That's where «big bucks» are.
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 <!--
+> *'We must never confuse elegance with snobbery' -- Yves Saint Laurent*
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
-
 > *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe
 -->
 
@@ -997,8 +1004,8 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 In the battle of man vs algorithm, unfortunately, man often loses
 
 All software gets developed under time, budget, management, requirements, and skill constraints that prevent doing anything perfectly. We should keep those constraints and limits in mind when we look at code and immediately conclude the code resists understanding, or that only fools would have produced such software.
-
-a fundamental rule of technology: There is no third ecosystem
+- 90% of webapps are database frontends.
+- a fundamental rule of technology: There is no third ecosystem
 
 OOP is a natural enemy to concurrency (because of state) and about how transforming data (I.e functional) is a better match
 
@@ -1090,6 +1097,8 @@ extraversion is not good for mastery
 most people are not extremes and most people are in the middle
 introvert is not shyness. most things are not binary. Imagine a introvertness scale from 1 to 7.
 It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+
+- Putt's Law: "Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand."
 -->
 
 
@@ -1100,15 +1109,13 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 
 'All that women want is for you to listen.'
 
-> *'Most man bore women. Women want to feel that its always a different man.'*
-
 > *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
-
-> *'Chicks dig a man who exhibits grace under pressure.'*
 
 > *'She likes a gentleman who knows when not to be gentle.'*
 
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
+
+> *'Chicks dig a man who exhibits grace under pressure.'*
 
 > *'A suit to women is like lingerie to men.'*
 

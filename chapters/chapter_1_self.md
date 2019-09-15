@@ -280,6 +280,8 @@ The path will be revealed as you start walking.
 > *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 <!--
+> *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
+
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 
 > *'When life gets blurry, just adjust your focus.'*
@@ -1134,6 +1136,8 @@ How do i know i'm right? Do you know anyone who doesn’t have any blind spots? 
 Then why would you be any different? Curious as to why the other person disagrees.
 
 <!--
+> *'Weeds are flowers, too, once you get to know them.' -- A.A. Milne*
+
 - grow self awareness by / pause / feedback
 self awareness is leadership?
 
@@ -1237,6 +1241,9 @@ HINT: How to fight depression? Starve and exercise. When sick, move!
 HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 
 <!--
+> *'Anxiety is the dizziness of freedom.' -- Søren Kierkegaard*
+- anxiety creates hypersensitivity
+
 > *'No medicine cures what happiness cannot.' -- Gabriel Garcí­a Márquez*
 
 debug your brain as much as you can. DEBUG MODE!
@@ -1335,6 +1342,7 @@ People will do anything, no matter how absurd, in order to avoid facing their ow
 > *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
 
 <!--
+> *'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
 > *'If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.' -- Hermann Hesse*
 
 your personality type is not an excuse.
@@ -1354,6 +1362,7 @@ you will never achieve anything if you allow indecisiveness to lead to inaction.
 Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 
 - the antidote to fear is not courage is aceptance.
+- victim constiousness requires a great amount of energy. it sucks your energy to escape reality. living reality consumes less energy.
 -->
 
 
@@ -1396,6 +1405,8 @@ HINT: Be gentle first with yourself.
 > *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
 <!--
+> *'No persons are more frequently wrong, than those who will not admit they are wrong.' --  François de La Rochefoucauld*
+
 > *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
 I wasted thousands of dollars investing in lousy stocks when I was in my early 20’s.

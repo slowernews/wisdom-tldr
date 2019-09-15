@@ -459,6 +459,10 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+- how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
+- how to say no to an interview: i think i said already everthing about that subject.
+- how to say no to something else: i think i did already what i can do.
+
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
 
 What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
@@ -1056,6 +1060,7 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
 
 <!--
+> *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
 > *'If everybody is thinking alike, then somebody isn't thinking.' -- George S. Patton Jr.*
 > *'If people around you don’t think what you’re doing is a bit strange, maybe it’s not strange enough.' -- Patrick Collison*
 > *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
@@ -1189,6 +1194,8 @@ HOWEVER... Be humble.
 > *'No one is smarter than a small group.'*
 
 <!--
+- power is having options than you can metabolize. Power is making decisions
+
 - leadership i sthe ability to locate yourself. sleep walking through life. self awareness is the ability to pause mind 
 
 > *'Praise by name, criticize by category.' -- Warren Buffet*
@@ -1322,6 +1329,9 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 But data shows people want more feedback but monthly, not daily.
 
 <!--
+- Amazon’s “two-pizza teams”: The ultimate divisional organization
+- a great manager is a great facilitator
+
 I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.”
 Even the greatest communicators get angry, flustered, or confused when they find themselves in conflict.
 
@@ -1543,12 +1553,12 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
-Jobs are like clothes. There is no "wrong job". There are jobs which fit now, and all other jobs.
-	
-From the point of view of a noob. I might be completely wrong:
-- Tech marketability is important WHEN you are below average (my case). Otherwise any technology will grant you a job: if you know how to program, all languages are easy to pick. In my case, I'm still between React and Vue. While I prefer Vue, all jobs ask for React.
-	
-work smart not harder but hard still.
+- trabalhar de porta aberta vs trabalhar à porta fechada
+- jobs that are specialized are boring.
+- Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
+- Jobs are like clothes. There is no "wrong job". There are jobs which fit now, and all other jobs.	
+- From the point of view of a noob. I might be completely wrong: Tech marketability is important WHEN you are below average (my case). Otherwise any technology will grant you a job: if you know how to program, all languages are easy to pick. In my case, I'm still between React and Vue. While I prefer Vue, all jobs ask for React.	
+- work smart not harder but hard still.
 
 3. Always Focus on Delivering More Value than Expected
 

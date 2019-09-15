@@ -679,6 +679,9 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+- what's the next action >> if u dont know think what's the next project -- gtd guy
+- inspiration is for amateurs -- picasso??
+
 > *'If we wait for the moment when everything, absolutely everything is ready, we shall never begin.' -- Ivan Turgenev*
 
 - Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
@@ -1004,6 +1007,8 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+- dont make 100 decisions when one will do -- peter drucker
+
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
@@ -1133,9 +1138,9 @@ Ignore the rest.
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
 <!--
-focus on what doesnt change
-	
-past and future doesn't exist. we cannot control anything, at most we can influenciate something.
+- control is the master adiction.
+- focus on what doesnt change
+- past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 
 > *'Sometimes people don't want to hear the truth because they don't want their illusions destroyed.' -- Friedrich Nietzsche*
 -->
@@ -1300,6 +1305,8 @@ HOWEVER... beware of counter-attacking.
 > *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
 
 <!--
+> *'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
+
 - In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.
 
 play to win, not hoping to make it, or why are you doing it? committed to win
