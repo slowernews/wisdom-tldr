@@ -154,7 +154,8 @@ A good story does condenses a massive amount of information into a consumable an
 > *'Storytelling is about the details.'*
 
 <!--
-“Think before you speak. Read before you think.” -- Fran Lebowitz
+> *'The more you say, the less people remember.' -- François Fénelon*
+> *'Think before you speak. Read before you think.' -- Fran Lebowitz*
 
 17. Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine. -- Balthasar Gracian
 
@@ -1067,19 +1068,15 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 > *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
 > *'Talk sense to a fool and he calls you foolish.' -- Euripides*
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
-
-Stupidity is easier to see in others than ourselves. Stupidity is easier to recognize the farther we are from the act. 
-	
-changing course is hard and this scares us so we look around and try to copy the courses other people took
-
-it’s kind of funny. But if everyone is thinking of the same joke, it loses some of its humor.
-If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
-
+> *'Life's hard. It's even harder when you're stupid.' -- John Wayne*
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
-most people don't actually think. They just take their first thought and go.	
-
-Two economists are walking along the street, and one says, “Hey, someone dropped a $20 bill!” and the other says, “Well, it can’t be a real $20 bill because someone would have picked it up already.”
+- Stupidity is easier to see in others than ourselves. Stupidity is easier to recognize the farther we are from the act. 
+- changing course is hard and this scares us so we look around and try to copy the courses other people took
+- it’s kind of funny. But if everyone is thinking of the same joke, it loses some of its humor.
+- If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
+- most people don't actually think. They just take their first thought and go.	
+- Two economists are walking along the street, and one says, “Hey, someone dropped a $20 bill!” and the other says, “Well, it can’t be a real $20 bill because someone would have picked it up already.”
 	
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
@@ -1087,6 +1084,8 @@ From Scott Adams (Dilbert):
 > Persuaders: Use simplicity, repetition, emotion, habit, aspirations, visual communication, and other tools of persuasion to program other people and themselves. This group is about 1% of the population and effectively control the word-thinkers of the world.
 
 3 types of man: spectators, the dabblers and the men in the arena.
+
+- Stupidity is the cost of intelligence operating in a complex environment. It’s almost inevitable
 
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 
@@ -1136,6 +1135,8 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society.There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
 
 <!--
+it may be pop psychology stuff, but it’s convenient for my point so in the spirit of American politics I will treat it as fact.
+
 > *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
 
 > *'Multicultural is by absurdum the true monocultural.' -- EF*
@@ -1329,6 +1330,7 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 But data shows people want more feedback but monthly, not daily.
 
 <!--
+- Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
 - Amazon’s “two-pizza teams”: The ultimate divisional organization
 - a great manager is a great facilitator
 

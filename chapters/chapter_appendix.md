@@ -894,6 +894,8 @@ auctions ao contrario!
 vendo por 40mil. o q venderes dai para cima 50% é para ti!
 
 math shortcut: Years to double = 72 / Interest Rate
+
+“When innovative companies begin making decent profits, landlords raise the rents to adjust for the new ability to pay. As a result, these additional wages are neither reinvested, nor reflected in the disposable income of employees. This is the dynamic behind the mystery of stagnant wages. When workers in a particularly well-paid sector begin pouring into a city, landlords likewise raise the rent to absorb these incomes. It isn’t gentrification, but absorption through monopoly power.”
 -->
 
 
@@ -1125,4 +1127,4 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On what men value in women
 
-> *'> *'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*
+> *'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*

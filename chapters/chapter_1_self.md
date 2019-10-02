@@ -280,8 +280,10 @@ The path will be revealed as you start walking.
 > *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 <!--
+> *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
+	
 > *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
-
+- the talent to change your life
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 
 > *'When life gets blurry, just adjust your focus.'*
@@ -1623,6 +1625,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 <!--
+- when you break an agreement that you make with yourself, your selfestime plummets: don't do it or renegociate it
+
 - confidence: state + mastery. impress yourself
 
 > *'Don't be so humble - you are not that great.' -- Golda Meir*

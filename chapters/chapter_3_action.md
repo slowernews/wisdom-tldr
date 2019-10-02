@@ -132,6 +132,8 @@ It is possible to view this as an isolated event or a trend
 Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
 
 <!--
+- Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
+	
 show me a man’s spending you can show me what he values”
 
 We always think that the people who agree with us are really smart.
@@ -181,6 +183,8 @@ HINTS:
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 <!--
+- I think he's very smart and great at setting huge goals then hitting them, but I'm not sure he's a great prognosticator. (about bill gates)
+
 *reasoning by first principles and reasoning by analogy*
 
 > *'To understand is to know what to do.' -- Wittgenstein*
@@ -304,6 +308,9 @@ Underneath those emotions is history and experiences. A single word is the final
 There’s always a good reason and a real reason.
 
 > *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
+
+- fascinated by models. how the invisible afects the visible
+- you're always looking to patterns of differences! pattern recognition
 -->
 
 
