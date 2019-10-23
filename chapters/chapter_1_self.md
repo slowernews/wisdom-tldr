@@ -240,11 +240,13 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 > *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
 
 <!--
+> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
+> *'#332. Nothing is more highly to be prized than the value of each day.' -- goethe*
+> *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
 > *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
-
-A good life is not a life without problems. A good life is a life with good problems. mm
-
-play the cards you are dealt. And you will often be dealt bad cards.
+> *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
+- A good life is not a life without problems. A good life is a life with good problems. mm
+- play the cards you are dealt. And you will often be dealt bad cards.
 -->
 
 
@@ -281,7 +283,7 @@ The path will be revealed as you start walking.
 
 <!--
 > *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
-	
+> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 > *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
 - the talent to change your life
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
@@ -725,6 +727,7 @@ Most problems can be solved by graded exposure over time.
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
 
 <!--
+> *'#383. Every man hears only what he understands.' -- goethe*
 - entry trick to learn something.
 - success is the worst teacher
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
@@ -1407,6 +1410,8 @@ HINT: Be gentle first with yourself.
 > *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
 <!--
+> *'Failure is the condiment that gives success its flavor.' -- Truman Capote*
+
 > *'No persons are more frequently wrong, than those who will not admit they are wrong.' --  François de La Rochefoucauld*
 
 > *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*

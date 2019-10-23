@@ -237,6 +237,7 @@ What makes you come alive, what do you enjoy doing, who do you enjoy being aroun
 > *'We don't make movies to make money; We make money to make more movies.' -- Walt Disney*
 
 <!--
+> *'After a certain point, money is meaningless. It ceases to be the goal. The game is what counts.' --  Aristotle Onassis*
 How to Get Rich (without getting lucky):
 Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible.
 Ignore people playing status games. They gain status by attacking people playing wealth creation games.
@@ -365,6 +366,7 @@ surprises only happen when they didnt repaeat on ones lifetime
 <!--
 - The sign of a beautiful person is that they always see beauty in others.
 - beauty as a panacea
+> *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
 -->
 
 
@@ -535,10 +537,11 @@ And success might have a price.
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 
 <!--
-16. Success can hurt friendships. A wise friend wards off worries, a foolish one brings them about. But do not wish them too much luck, or you may lose them. -- Balthasar Gracian
+> *'#239. To live in a great idea means to treat the impossible as though it were possible. It is just the same with a strong character; and when an idea and a character meet, things arise which fill the world with wonder for thousands of years.' -- goethe*
+> 16. Success can hurt friendships. A wise friend wards off worries, a foolish one brings them about. But do not wish them too much luck, or you may lose them. -- Balthasar Gracian
 
-Society judges people by what they can do for others. But we judge ourselves by our thoughts.
-Abilities are not prized by their virtue.
+- Society judges people by what they can do for others. But we judge ourselves by our thoughts.
+- Abilities are not prized by their virtue.
 
 Life is About Who You Become Not What You Achieve
 On this journey called life, many people lose sight of what is really important.
@@ -656,6 +659,8 @@ What is love?
 > *'I am a cage in search for a bird.' -- Franz Kafka*
 
 <!--
+- Which is more hipster: using the latest modern web framework, or bragging about how you don't use modern web frameworks?
+> *'All God does is watch us and kills us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 > *'Eat to please thyself, but dress to please others.' -- Benjamin Franklin*
 > *'In Europe 100 miles is a long way, In the US 100 years is a long time'* 
 > *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
@@ -762,12 +767,12 @@ What is love?
 > *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
 
 <!--
+> *'If experiment doesn't match theory the theory is wrong.' -- Feynman*
 > *'Art washes away from the soul the dust of everyday life.' -- Pablo Picasso*
 
 Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 
-News are the first draft of History.
-
+- News are the first draft of History.
 > *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
 
 chef invents based on ingredents, cook follows a recipe
@@ -942,7 +947,8 @@ Contracting -> Travelling Between Contracts -> Travelling While Contracting -> S
 
 > *'The great books are the books that never have to be written again.'-- Carl Van Doren*
 
-> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
+> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*  
+> *'A classic is a book which people praise and don't read.' -- Mark Twain*
 
 > *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
 

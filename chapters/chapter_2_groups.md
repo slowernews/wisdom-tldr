@@ -154,6 +154,7 @@ A good story does condenses a massive amount of information into a consumable an
 > *'Storytelling is about the details.'*
 
 <!--
+> *'Knowledge speaks, but wisdom listens' -- Jimi Hendrix*
 > *'The more you say, the less people remember.' -- François Fénelon*
 > *'Think before you speak. Read before you think.' -- Fran Lebowitz*
 
@@ -460,6 +461,8 @@ HOWEVER... always strive to achieve a win-win situation. The deal will fall if b
 > *'The most dangerous negotiation is the one you don’t know you’re in.'*
 
 <!--
+- make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them
+
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
@@ -708,7 +711,7 @@ HOWEVER...
 ---
 ### On family and friends
 
-Life is meant to be lived in community.  
+Life is meant to be lived in community. Life is people.
 
 HINT: build your «board of directors». However choose who surrond you: you are the average of them. 
 
@@ -742,6 +745,7 @@ HINT: resist to temptation of working with family and friends. There will be alw
 > *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
 
 <!--
+> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 > *'When everything goes to hell, the people who stand by you without flinching -- they are your family.' -- Jim Butcher*
 
 26. Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution. -- Balthasar Gracian
@@ -1098,6 +1102,8 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 Tribal feminists, in the name of fighting shame and oppression, shame and oppress views that contradict their own.
 
 And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
+
+> *'#276. Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- goethe*
 -->
 
 
@@ -1555,6 +1561,7 @@ How to get employers feedback?
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
+- three-paths-in-the-tech-industry-founder-executive-or-employee
 - trabalhar de porta aberta vs trabalhar à porta fechada
 - jobs that are specialized are boring.
 - Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.

@@ -132,6 +132,8 @@ It is possible to view this as an isolated event or a trend
 Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
 
 <!--
+> *'I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things.' -- Benjamin Franklin*
+> *'That which can be asserted without evidence, can be dismissed without evidence.' -- Christopher Hitchens*
 - Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
 	
 show me a man’s spending you can show me what he values”
@@ -346,9 +348,10 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
-“We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.” 
+> *'#346. The senses do not deceive; it is the judgment that deceives.' -- goethe*
+> *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 we have to feel we know enough to take action
-
+> *'The best way out is always through.' -- Robert Frost*
 negative inspiration (things that don't work) -- positive inspiration!
 
 results-oriented approach to feedback -> process-oriented feedback
@@ -689,8 +692,10 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 - what's the next action >> if u dont know think what's the next project -- gtd guy
 - inspiration is for amateurs -- picasso??
 
+> *'#324. It is not enough to know, we must also apply; it is not enough to will, we must also do.' -- goethe*
 > *'If we wait for the moment when everything, absolutely everything is ready, we shall never begin.' -- Ivan Turgenev*
 
+- Major epiphany: Energy creates motion, motion creates emotions, and women are highly emotional beings.
 - Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
 
 you always throw out your first pancake - primeiro milho é para os pardais
@@ -939,16 +944,15 @@ Here are three ways you can increase your velocity:
 
 No podemos elegir nuestro origen pero podemos elegir hacia donde ir
 
-> *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
-
 be clear that your ladder is laid on the right building.
 	
 chess gambits -- exchange material by position-time.
 
+> *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
 > *'Go-Karts -- Feel fast, are slow 747s -- Feel slow, are fast Ship it! -- Feels fast, is slow Test > *'Document it! -- Feels slow, is fast.'*
-
 > *'You overestimate what you can do in a year but underestimate what you can do in two or three decades.' -- Tony Robbins*
 > *'Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.' -- Gates’s Law: how progress compounds and why it matters*
+> *'Things may come to those who wait, but only the things left by those who hustle. -- Abraham Lincoln*
 -->
 
 
@@ -1507,6 +1511,8 @@ the good reason (the reason they tell you) and the real reason.
 One common thing I learned at three in the morning: everyone lied to survive. Truth is a luxury we day-people take for granted.
 
 if somebody asks for the evidence, normally he is lieing
+
+> *'#320. A man is not deceived by others, he deceives himself.' -- goethe*
 -->
 
 
@@ -1650,6 +1656,10 @@ Starting is fun but success belongs to finishers.
 
 > *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
 
+<!--
+> *'#278. Difficulties increase the nearer we come to our aim.' -- goethe*
+-->
+
 
 
 
@@ -1720,6 +1730,7 @@ It's not just about winning. The way you win sets you up for the next round.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 <!--
+> *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
 18. Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat. -- Balthasar Gracian
 
 There are two ways of spreading light: to be the candle or the mirror that reflects it — Edith Wharton
