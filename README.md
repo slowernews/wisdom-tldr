@@ -56,7 +56,7 @@
 - [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
 - [On criticism and envy](/chapters/chapter_2_groups.md#on-criticism-and-envy)
 - [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
-- [On politics](/chapters/chapter_2_groups.md#on-politics)
+- [On politics and taxes](/chapters/chapter_2_groups.md#on-politics-and-taxes)
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)

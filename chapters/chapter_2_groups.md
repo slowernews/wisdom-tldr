@@ -1091,7 +1091,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 
 ---
-### On politics
+### On politics and taxes
 
 'For the friends: everything. For the others: the law.'
 
@@ -1101,19 +1101,19 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'Politician is a profession that doesn't like risk. Decisions are made on the lowest risk of offending anybody.'*
 
-> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
-
 > *'Good fences make good neighbors.'*
 
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
+
+> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
 > *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
 
 > *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
 
-> *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
-
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
+
+> *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
 
 > *'Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.'*
 
@@ -1121,12 +1121,13 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
 
-<!--
-On taxes:
-> *'The hardest thing in the world to understand is the income tax.'*
-> *'80% of all people are voluntarily overpaying on their taxes.'*
-I would not consider taxes to be “punitive.” Taxes aren’t punishment. They are much more like a membership fee
+Taxes aren’t punishment. They are much more like a membership fee.
 
+> *'80% of all people are voluntarily overpaying on their taxes.'*
+
+> *'The hardest thing in the world to understand is the income tax.'*
+
+<!--
 it may be pop psychology stuff, but it’s convenient for my point so in the spirit of American politics I will treat it as fact.
 
 > *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
@@ -1461,7 +1462,7 @@ When you sell your ability to deliver results, nobody asks about your skillset.
 ---
 ### On career
 
-'The moment you [rigidly follow a plan](chapter_3_action.md#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.'
+'The moment you [rigidly follow a plan](chapter_3_action.md#on-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene
 
 Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed.  
 
@@ -1471,7 +1472,7 @@ Avoid the trap of following one set career path. Focus on being useful, it will 
 
 > *'Is it better to be good at many things or great at one thing?  
 To be an entrepreneur you need to know a little about a lot of things.  
-To be employed, if you pick the right specialization, you'll do better as a specialist.'*
+To be employed, if you pick the right specialization (specialization is dangereous), you'll do better as a specialist.'*
 
 > *'I always advise young people to become good public speakers (top 25%). Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
 
@@ -1500,6 +1501,8 @@ How to keep a job or advance career? knowledge + metaknowledge (don't ask, journ
 
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
+> *'For every million people that want to be a successful musician, only one is going to achieve it. If you’re going to be that one, you can’t do what everyone else is doing. Whatever you do, it’ll be creative, efficient, and effective. That’s my definition of resourceful. It means making something happen, instead of saying you can’t. It means accessing all the people and skills you know, including the ones that take extra effort. It usually means doing things for free, but can also mean spending a little money to save a lot of time. It means using a shortcut around obstacles, getting in through a back door, bending the rules, and never waiting for permission. It means asking for help, but not waiting for help. So why do I hate to admit this? Because I love how the internet has made it possible for anyone to get successful anywhere. I love the idea of living in the middle of nowhere, surrounded by nature, yet being connected to the world. But still, when I look at the facts, it’s impossible to deny. Actually living in the big city, and being in the middle of where everything is happening, will help your career the most. Being elsewhere won’t hurt you, but it won’t help.' -- Derek Sivers*
+
 How to «pivot» career?
 
 Cultivate a relevant skill stack. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
@@ -1513,6 +1516,8 @@ write a pitch, are u persuasive, can you change somebody else opinion. making a 
 - You will either pivot or get pivoted. 
 
 > *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
+
+> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now, and all other jobs.'*
 
 On college:
 
@@ -1530,24 +1535,11 @@ becoming the go to guy for some questions
 
 - three-paths-in-the-tech-industry-founder-executive-or-employee
 - trabalhar de porta aberta vs trabalhar à porta fechada
-- 
 - Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
-- Jobs are like clothes. There is no "wrong job". There are jobs which fit now, and all other jobs.	
 - From the point of view of a noob. I might be completely wrong: Tech marketability is important WHEN you are below average (my case). Otherwise any technology will grant you a job: if you know how to program, all languages are easy to pick. In my case, I'm still between React and Vue. While I prefer Vue, all jobs ask for React.	
 - work smart not harder but hard still.
 
 3. Always Focus on Delivering More Value than Expected
-
-For every million people that want to be a successful musician, only one is going to achieve it.
-If you’re going to be that one, you can’t do what everyone else is doing.
-Whatever you do, it’ll be creative, efficient, and effective. That’s my definition of resourceful.
-It means making something happen, instead of saying you can’t.
-It means accessing all the people and skills you know, including the ones that take extra effort.
-It usually means doing things for free, but can also mean spending a little money to save a lot of time.
-It means using a shortcut around obstacles, getting in through a back door, bending the rules, and never waiting for permission.
-It means asking for help, but not waiting for help.
-So why do I hate to admit this?
-Because I love how the internet has made it possible for anyone to get successful anywhere. I love the idea of living in the middle of nowhere, surrounded by nature, yet being connected to the world. But still, when I look at the facts, it’s impossible to deny. Actually living in the big city, and being in the middle of where everything is happening, will help your career the most. Being elsewhere won’t hurt you, but it won’t help. -- sivers
 
 finding and winning a great job is a competitive subject. it's not very correlated with luck.
 
@@ -1563,10 +1555,9 @@ recruiting better than hiring: find a place where you can do a good job
 Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 
 You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring.
+I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
 
 you need to get people attention
-
-I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
 
 ex: selling generic copyright instead of mass persuasion
 find your secret sauce and NAME it. whats unique.
@@ -1576,8 +1567,6 @@ find your secret sauce and NAME it. whats unique.
 its good to be better, but is better to be different.
 
 > *'Be a jack-of-all-trades and a master of one.'*
-
-specialization is dangereous
 
 trade-able skills: figure out what skills you already have that you can charge for
 
@@ -1627,16 +1616,14 @@ HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of the
 
 > *'Only the truth is funny.' -- Rick Reynolds*
 
-<!--
-on gatekeepers
-
 > *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
-Es triste que gente con talento y sin dinero tenga que depender de gente con dinero y sin talento.
 
-right amount of hierarchy and structure
+> *'Es triste que gente con talento y sin dinero tenga que depender de gente con dinero y sin talento.'*
 
 > *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
 
-To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity.
-This is why the comedians are the modern day philosophers.
+<!--
+on gatekeepers
+
+right amount of hierarchy and structure
 -->

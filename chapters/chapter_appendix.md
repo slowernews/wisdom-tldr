@@ -671,6 +671,9 @@ What is love?
 > *'Reality continues to ruin my life.' -- Bill Watterson*
 > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
 > *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
+
+To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity.
+This is why the comedians are the modern day philosophers.
 -->
 
 
