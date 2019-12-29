@@ -28,14 +28,19 @@ Optimizing happiness on a personal level vs. succumbing to what society says wil
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
+> *'I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.' -- Jimi Hendrix*
+
 > *'Freedom is not giving a fuck.' -- Dorian Yates*
 
-HINT: how to set boundaries?
+> *'Don’t be quick to vouch for others. Do not become responsible for all or for every one, otherwise you become a slave and the slave of all. Some are born more fortunate than others: they are born to do good as others to receive it. Freedom is more precious than any gifts for which you may be tempted to give it up.' -- Balthasar Gracian*
+
+Boundaries is knowing what you want and what you don't want in a moment.
 
 > *'If I loved myself at a level 10 of 10, would I do this?'*
   
 - Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.
 - Stand up for yourself. Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. Codependent no more: How to stop controlling others and start caring for yourself.
+- Healthy people will respect your boundaries
 
 What is more selfless?  
 Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed?
@@ -44,49 +49,32 @@ Making sure that you are taken care of so that you can take care of others or fo
 
 > *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
-<!--
-> *'I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.' -- Jimi Hendrix*
-
-29. Don’t be quick to vouch for others. Do not become responsible for all or for every one, otherwise you become a slave and the slave of all. Some are born more fortunate than others: they are born to do good as others to receive it. Freedom is more precious than any gifts for which you may be tempted to give it up. -- Balthasar Gracian
-
-- healthy people will respect your boundaries
-boundaries is knowing what you want and what you don't want in a moment
-neighbours example: fence and steping in your flowers.
-we dont need to like everybody. dot.
-being nice is not being able to tolerate the other being upset with him
-niceness leads to passivity
-they don't rise to leadership positions
+<!-- 
+we dont need to like everybody. dot. being nice is not being able to tolerate the other being upset with him. niceness leads to passivity
+they don't rise to leadership positions.
 the quality of friendship is not the best
 nice people take overresponsability for other's feelings and all?
 a nice person can't be angry -> then it manifest as depression, anxiety, health problems, passive agressiveness
 resentment is created when we say yes when we want to say no.
 
-That’s me. One of the best days of my life was the day I took the elevator down to freedom. It was the middle of the day. I walked out. No boxes. No handshakes. I left and played chess in Union Square. The same place I got my first client after starting my own company.
+One of the best days of my life was the day I took the elevator down to freedom. It was the middle of the day. I walked out. No boxes. No handshakes. I left and played chess in Union Square. The same place I got my first client after starting my own company.
 
-you lifestlyle depends on your independence
+you lifestlyle depends on your independence. The freedom to express oneself fully.
 
+Practice doing without things you think you need.
 Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
 The bank owned them. Work owned them.
 
 I define financial freedom as: “The ability to do what you want when you want, where you want, and with whom you want… within reason”.
+look for 100% financial freedom
+
+freedom to -> freedom from: evolving of my concept of freedom
 
 You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
 Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
 Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
 
-look for 100% financial freedom
-
-The freedom to express oneself fully.
-
-Practice doing without things you think you need.
-
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
-
-> *'Never complain; never explain.' -- Benjamin Disraeli*
-
-> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
-
-freedom to -> freedom from: evolving of my concept of freedom
 -->
 
 > *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
@@ -94,6 +82,10 @@ freedom to -> freedom from: evolving of my concept of freedom
 > *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
 
 > *'My independence is my legacy.' -- Bagão Felix*
+
+> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
+
+> *'Never complain; never explain.' -- Benjamin Disraeli*
 
 
 
@@ -124,27 +116,20 @@ Take extreme ownership. Why? when are willing to swallow your pride and take own
 <!--
 > *'I was gratified to be able to answer promptly. I said I didn’t know.' -- Mark Twain*
 
-31. Virtue is greater than wealth. A man’s capacity and greatness are to be measured by his virtue and not by his fortune. She alone is all-sufficient. -- Balthasar Gracian
-
 Men take responsibility for their lives, treat others with respect, and do what needs to be done.
+consciently work on being honest
 
-Rather go to bed without dinner then to rise in debt. -- Benjmain Franklin
+> *'Rather go to bed without dinner then to rise in debt.' -- Benjamin Franklin*
+> *'Quality means doing it right when no one is looking.' -- Henry Ford*
+> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
+> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+bravery is learned -> micro-bravery, start small
 
 Be willing to side with the minority.
-
-> *'Quality means doing it right when no one is looking.' -- Henry Ford*
-
-> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
-
-> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
 
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
-
-consciently work on being honest
-
-bravery is learned -> micro-bravery, start small
 -->
 
 
@@ -174,10 +159,6 @@ Be raw, be real, tell people what is really going on. The more vulnerable you ar
 - truth-a-better-way-to-talk-about-ourselves.
 
 <!--
-21. Great men aren’t perfect- No one o’ersteps the narrow bounds of humanity: all have their weaknesses either in heart or head. -- Balthasar Gracian
-
-13. Know thyself. Learn the force of your intellect and capacity for affairs, test the force of your courage in order to apply it, and keep your foundations secure and your head clear for everything. -- Balthasar Gracian
-
 core values:
 honesty everywhere. i dont want to be in place where i cant be honest.
 i want to make relationships with a long term prospect.
@@ -202,7 +183,6 @@ Manhood is Defined by Your Values and Your Code
 Always remain diligent. Have no careless Days. Fate loves to play tricks, and will heap up chances to catch us unawares. Our intelligence, prudence, and courage, even our beauty, must always be ready for trial. For their day of careless trust will be that of their discredit. Care always fails just when it was most wanted.
 
 > *'Words are deeds.' -- Ludwig Wittgenstein*
-
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
@@ -241,7 +221,7 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 <!--
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
-> *'#332. Nothing is more highly to be prized than the value of each day.' -- goethe*
+> *'#332. Nothing is more highly to be prized than the value of each day.' -- Goethe*
 > *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
 > *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
 > *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
@@ -285,19 +265,15 @@ The path will be revealed as you start walking.
 > *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
 > *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 > *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
+
 - the talent to change your life
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 
 > *'When life gets blurry, just adjust your focus.'*
 
-> *'Take some time away from all external influences and really decide what you want for yourself in the areas of health, wealth, relationships, and personal growth. Then, do it.'*
+> *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
 Passion is made not found.
-
-> *'you can, you should, and if you’re brave enough to start, you will' -- Stephen King*
-
-9. Carve your own path. Those who come first are the heirs of Fame; the others get only a younger brother’s allowance: whatever they do, they cannot persuade the world they are anything more than parrots. -- Balthasar Gracian
-
 parabol: that door is only for you.
 	
 i FEEL that THIS was what I was meant to do, its ok to be vulnerable
@@ -421,14 +397,17 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 > *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*  
 *'There is pleasure in the pathless woods.' -- Lord Byron*
 
-> *'A ship is safe in the harbor but that's not what ships are for.'*  
-*'Think of yourself as an explorer. You cannot find anything new if you are unwilling to leave the shore.'*
+> *'A ship is safe in the harbor but that's not what ships are for.'*
 
 > *'You can choose courage or you can choose comfort, but you can't choose both.'*
 
 > *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
 
 > *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
+
+> *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
+
+> *'When we are tired, we are attacked by ideas we conquered long ago.' -- Friedrich Nietzsche*
 
 <!--
 This is where margins of safety come in. We build them to reduce the precariousness of chance.
@@ -439,9 +418,6 @@ What decisions would you make differently if you were factoring safety margins i
 To figure out where else you should build margins of safety into your life, think of the times you’ve been terrified and desperate. Those might be good places to start learning from experience and making the most of your second chances.
 
 Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value' is a surprising result.
-
-> *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
-> *'When we are tired, we are attacked by ideas we conquered long ago.' -- Friedrich Nietzsche*
 
 #CONFORT AND RISK, ON CHANGE
 
@@ -470,8 +446,6 @@ You keep doing what you’re good at to avoid facing the real problems in your l
 
 What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
 
-choose courage over confort
-
 growth: get unconfortable
 
 confort in disconfort
@@ -490,13 +464,9 @@ The risk of not changing is almost always greater than the risk of changing. Lea
 
 when you control for one set of risks, another simply arises in its place.In treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
-> *'He or she who is willing to be the most uncomfortable is not only the bravest but rises the fastest.' -- Brené Brown*
+> *'Your pain, is the breaking of the shell that encloses your understanding.' -- Kahil Gibran, The Prophet*
 
-> *'If you always do what you’ve always done, you’ll always get what you’ve always got.' -- Henry Ford*
-
-“Your pain,” writes Kahil Gibran in The Prophet, “is the breaking of the shell that encloses your understanding.
-
-risk prone is better than risk averse but dont allo wto be out of teh game
+risk prone is better than risk averse but dont allow to be out of the game
 
 The Discomfort zone is NOT about experiencing pain.
 Happiness and well-being are also outside of the comfort zone. You have to travel into your discomfort to find the silver linings hidden. The mystery.
@@ -537,17 +507,9 @@ develop a tolerance for risk so that you can build up to the scarier activities 
 
 I sort of became comfortable with being uncomfortable to the point where now. if I start getting comfortable, I feel like I’m not learning anything and that I might be in a bubble.
 
-parabola do sapo e da agua a ferver
 To become stronger, you must push against resistance, you must struggle, you must sweat, and you must bleed.
 If you want your relationship to be stronger, you will have to face resistance. You cannot have a thriving marriage and never face adversity together.
 > *'To risk nothing is to risk even more'*
-
-Exposing ourselves to potentially uncomfortable situations doesn’t just give us opportunities to grow, but it provides us with the grist for good stories we may well be telling for the rest of our lives
-
-“I like to do things that are BIG. Every year I want to make sure I do something really big. Really special.
-I want to do my special thing each year. I want my life to compound into wonder.
-
-people have to risk or we never would have to the moon or making new stuff.
 -->
 
 
@@ -724,8 +686,6 @@ Most problems can be solved by graded exposure over time.
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Gandhi*
-
 <!--
 > *'#383. Every man hears only what he understands.' -- goethe*
 - entry trick to learn something.
@@ -751,7 +711,7 @@ you isolate subskills and drill them
 
 You can spend hundreds of hours practicing a piece using too many muscles on every key press. If your body awareness isn’t great, you might not find out until your hand cramps up right before your performance. A couple seconds to catch that mistake, a couple minutes to tell you a story of that happening to others, and the piano teacher’s just saved you months. -> value of a coach\
 
-If [more]information was the answer we’d all be billionaires with six packs. -- derek sivers
+> *'If more information was the answer we’d all be billionaires with six packs.' -- Derek Sivers*
 
 Here’s how it works:
 Read your programming book as normal. When you get to a code sample, read it over
@@ -788,27 +748,24 @@ effort * talent = skill
 
 > *'Don't major on minor things.'* ->  applied focus
 
-fastest way to learn is to teach.
+- fastest way to learn is to teach.
 
 making resolutions: Guilt will carry you when willpower fails. By all means involve friends, but make your pressures real.
 Just saying words doesn’t make a thing happen. Try walking through a door instead.
 
-And that's one reason we like to believe in genius. It gives us an excuse for being lazy. -- Paul Graham
+We like to believe in genius. It gives us an excuse for being lazy. -- Paul Graham
 
 'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes
 
-a friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
+A friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
 “Recognizing the good people from the bad,” he said. “Working with those people. Connecting them. That’s a life-multiplier.”
 
-None of her “13 Things” can be taught in school. School teaches facts. And it teaches you to memorize facts. And it punishes you if you forget the facts.
-But facts won’t help you survive the tragedies of life.
-I wish school had taught me how to really live. How to be healthy. How to survive the hardest relationships. How to be creative every day. How to surrender to the things I can’t control.
+None of her “13 Things” can be taught in school. School teaches facts. And it teaches you to memorize facts. And it punishes you if you forget the facts. But facts won’t help you survive the tragedies of life. I wish school had taught me how to really live. How to be healthy. How to survive the hardest relationships. How to be creative every day. How to surrender to the things I can’t control.
 
 Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
 
 The better players did not examine more possibilities, only better ones — just as Capablanca had claimed.
 Yet in both cases, the expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge.
-experts rely more on structured knowledge than on analysis
 
 Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
 
@@ -1503,8 +1460,6 @@ Uncovering Fear Disguised as Optimism
 few points of failure
 the massive amount of failure needed to..
 
-It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover.
-
 HARD WORK = CONFIDENCE
 
 Failure is necessary to be successful in life. There’s a big difference between quitting and failure.
@@ -1515,15 +1470,13 @@ burning bridges to get the motivation.
 “There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die.
 “Every day I wake up with that gun to my head. Every day I live.”
 
-Why Self-Compassion Works Better Than Self-Esteem
-Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
-
-As my psychotherapist put it yesterday: people that seek self-esteem in an unhealthy way are vampires. "You have to become your own bloodsource" she said.
+It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover.
+Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
 
 anger is fear clothed: Understanding the underlying fears that angry people have leads to mastery in life.
 Corollary: Stand next to the smartest person in the room.
 
-Write about it: Thinking about it makes it worse. Writing about it makes it better.
+Thinking about it makes it worse. Writing about it makes it better.
 -->
 
 
@@ -1532,22 +1485,12 @@ Write about it: Thinking about it makes it worse. Writing about it makes it bett
 ---
 ### On perfectionism
 
+Strive for excellence, not for perfection.  
+Try to see yourself as a doist, not a perfectionist. This is liberating.
 
-Instead of seeing yourself as a perfectionist, try and see yourself as a doist. This is liberating.
+> *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism -- but in cases where the "perfect" path isn't obvious. It's better to do nothing at all until the perfect path is understood. Defeating this is a real challenge and requires serious conscious effort. People who have reputation as "doers" often gain it by finding the "good enough" target and driving towards it. Many "do nothings" are really people who have an overdeveloped desire to "do it right" and can't overcome it.' -- bane_HN*
 
-> *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism -- but in cases where the "perfect" path isn't obvious. It's better to do nothing at all until the perfect path is understood.
-Defeating this is a real challenge and requires serious conscious effort. People who have reputation as "doers" often gain it by finding the "good enough" target and driving towards it. Many "do nothings" are really people who have an overdeveloped desire to "do it right" and can't overcome it.
-'  -- bane_HN*
-
-<!--
-I encourage you to stop thinking about the world in binary terms. how much engineering matters for financial success is a continuous function of several parameters. It's never about either not mattering at all or mattering 100%
-
-Instead, think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions.
-Keep your “self” out of your decisions, because most likely, it’s not about “you.” Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it. - mm
-aka action and dont think too much
-
-- strive for excellence, not for perfection.
--->
+> *'Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your “self” out of your decisions, because most likely, it’s not about “you.” Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it.' -- Mark Manson*
 
 
 
@@ -1629,16 +1572,14 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
-<!--
-- when you break an agreement that you make with yourself, your selfestime plummets: don't do it or renegociate it
+> *'Don't be so humble - you are not that great.' -- Golda Meir*
 
+<!--
+Confidence movers:
+- when you break an agreement that you make with yourself, your selfestime plummets: don't do it or renegociate it
 - confidence: state + mastery. impress yourself
 
-> *'Don't be so humble - you are not that great.' -- Golda Meir*
-	
 > *'Dress for the job you want, not for the one you have.'*
-
-Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 	
 analogy: confidence is like a building
 

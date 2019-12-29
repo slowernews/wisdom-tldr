@@ -879,6 +879,8 @@ HINTS: How to teach your kids...
 - deal with failure: «How did you fail today?»  
 - optimism: «You have the gift of today.»
 
+> *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
+
 HOWEVER... some people are not ready to have a mentor and accept your vision.  
 And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
 
@@ -1000,6 +1002,7 @@ HOWEVER... beware of blindspots, not all criticism is envy.
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 
 <!--
+> *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*	
 > *'There’s only one thing that will make them stop hating you. And that’s being so good at what you do that they can’t ignore you.' -- Orson Scott Card*
 
 Vives do que? Vivo da minha criatividade.
@@ -1062,7 +1065,9 @@ HOWEVER... smart people don’t think others are stupid and common sense is not 
 - If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
 - most people don't actually think. They just take their first thought and go.	
 - Two economists are walking along the street, and one says, “Hey, someone dropped a $20 bill!” and the other says, “Well, it can’t be a real $20 bill because someone would have picked it up already.”
-	
+
+Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
+
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
@@ -1268,7 +1273,7 @@ The goal is to move everyone up from "unconfident and incompetent" to "confident
 ---
 ### On teams: management and delegation
 
-Managing is delegating. Your speed as a manager is the speed of the team.
+Managing is delegating. Your speed as a manager is the speed of your team.
 
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 

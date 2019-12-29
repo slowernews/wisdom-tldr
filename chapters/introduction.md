@@ -27,6 +27,8 @@ You need to develop an unshakable identity as a high achiever and peak performer
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
 
 <!--
+> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
+
 > *'Quem não chora não mama.'*
 	
 > *'How we spend our days is how we spend our lives.' -- Annie Dillard*
@@ -87,6 +89,8 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+> *'Happiness always you hold it in your hands, but let it go, and you learn at once how big and precious it is.' -- Maxim Gorky*
+
 > *'And all the books you've read have been read by other people. And all the songs you've loved have been heard by other people. And that girl that's pretty to you is pretty to other people. and that if you looked at these facts when you were happy, you would feel great because you are describing 'unity.' -- Stephen Chbosky*
 	
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*

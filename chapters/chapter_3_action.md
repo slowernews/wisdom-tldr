@@ -338,6 +338,8 @@ You can’t predict. You can prepare.
 
 > *'You have choices. Choices are experiments.'*
 
+> *'There are no solutions. There are only trade-offs.' -- Thomas Sowell*
+
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
 This is why research in rapid cognition says that we -- that is, humans -- make our decisions intuitively most of the time.
@@ -348,6 +350,7 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+> *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
 > *'#346. The senses do not deceive; it is the judgment that deceives.' -- goethe*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 we have to feel we know enough to take action
@@ -1018,10 +1021,9 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-- dont make 100 decisions when one will do -- peter drucker
-
+> *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
-
+- dont make 100 decisions when one will do -- peter drucker
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
 - Productivity is about attention management - productive procrastination
 - maker days and manager days
@@ -1526,7 +1528,7 @@ if somebody asks for the evidence, normally he is lieing
 'Keep others in suspended terror: cultivate an air of unpredictability.'  
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
-HOWEVER... unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+HOWEVER... unpredictability can work against you: if you are in a subordinate position, it reduces [trust]().
 
 <!--
 > *'Teach no one your tricks or they will be used against you.'* 

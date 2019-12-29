@@ -126,7 +126,6 @@
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 - [On investment](/chapters/chapter_appendix.md#on-investment)
 - [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
-- [On accumulation](/chapters/chapter_appendix.md#on-accumulation)
 - [On books](/chapters/chapter_appendix.md#on-books)
 - [On email](/chapters/chapter_appendix.md#on-email)
 - [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)
