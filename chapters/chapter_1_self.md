@@ -270,7 +270,6 @@ The path will be revealed as you start walking.
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 
 > *'When life gets blurry, just adjust your focus.'*
-
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
 Passion is made not found.
@@ -359,8 +358,7 @@ I don’t care if you have $10,000,000 in the bank account, a model wife, and al
 Never settle in life, never be content with who you are and what you have achieved.
 You have to constantly push yourself to do more, achieve more, and, most importantly become more.
 
-Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn.
-And most people waste their lives away in 9-5 jobs. It's not an age thing.
+Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It's not an age thing.
 
 “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
@@ -375,9 +373,7 @@ I still love everything I quit. But not as much as I love all this room for chan
 Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose.
 
 So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.
-challenge
-Because that is where you will find true fulfillment and satisfaction.
-
+challenge Because that is where you will find true fulfillment and satisfaction.
 Create Projects, Not Goals
 
 "Mediocrity, as a goal, sucks... as a result, is OK"
@@ -550,15 +546,14 @@ HINTS:
 - Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
 - Mental checklist of positive habits.
 
-> *'Go for a walk in the morning and decide what would make the day a successful day.' -- Allen Tucker*
-
-> *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.' -- Allen Tucker*
-
-> *'It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
+> *'Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.'  
+'It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.' -- Allen Tucker*
 
 HOWEVER... while routines and habits are important, so is variety and novelty. [Balance](#on-balance) it.
 
 <!--
+Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
+
 Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
 
 > *'I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day.' -- Ernest Hemingway*
@@ -577,19 +572,13 @@ Finances: Although I made plenty of money in 2017, I didn’t do very well inves
 Relationships: Although my relationship is great, I’m still working on improving my communication with my partner so that I can show up as authentically and honestly as possible. I’ve also struggled to keep up with old friends while expanding my social circle.
 Personal Growth: 2017 was the first year in nearly a decade where I didn’t do much reading. I used to read 2-3 books a month and this year I read maybe 5 books total. I also stayed very close to San Diego for the entire year and didn’t travel the way that I wanted too.
 	
-A lot of things in life are first-order positive and second-order negative.
-A real advantage is conferred on people who can do things that are first-order negative, second-order positive.
-
 Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
 
 > *'Discipline is the power to believe.'*
 
-What use is it to read [hundreds of books in my life] if I remember so little from them? [...]
-Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists.
-
 {{link to planning: habits are plans}}
 
-Srinivas recommends that you also write 1,000 words every morning before you do anything else.
+Srinivas recommends that you also write 1000 words every morning before you do anything else.
 
 The muse doesn’t wait for you. You have to constantly romance the muse.
 
@@ -616,16 +605,9 @@ more mindful -> meditation
 
 Learn how to say no, or not to say yes
 
-Study successful individuals and you will start to notice patterns that they all follow.
-Most of them wake up early, work on a clear schedule, exercise daily, and give 10% of their income to charities.
-
-People who are driven by the fear of missing out or the dream of early adopter super stardom are deploying a “middlebrow inference” that examines only the maximum possible return, not the value derived in expectation.
-The opportunity cost of missing a ‘new new thing’ like the airplane and the automobile is minuscule compared to the toxicity of all the garbage one has to go through to get these jewels.”
-it’s the rejection of such thinking that has led me to continue to abstain from Facebook and Twitter, among other popular pastimes in the rapidly evolving digital attention casino.
+Study successful individuals and you will start to notice patterns that they all follow. Most of them wake up early, work on a clear schedule, exercise daily, and give to charities.
 
 Do whatever you need to do to break your current patterns and start achieving the success that you know you have the potential to achieve.
-
-Use your phone to set reminders for really important things automatically. Turn off push notifications for everything else.
 
 Focus on Showing Up not Achieving Goals 
 
@@ -645,8 +627,7 @@ when you wake up, ensure that your morning is run by systems instead of feelings
 goals and systems
 
 look at situations as systems. i help to create systems.
-
-Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
+This is because our minds are essentially accumulations of habits.
 
 catalyst
 
@@ -668,12 +649,9 @@ Habits can compound.
 Habits can be as small as necessary
 Nothing will change your future trajectory like habits
 
-Charles Duhigg wrote in The Power of Habit:
-Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.
+Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things. -- Charles Duhigg wrote in The Power of Habit
 
 > *'Pain plus reflection equals progress.' -- Ray Dalio*
-
-This is because our minds are essentially accumulations of habits.
 -->
 
 
@@ -711,13 +689,11 @@ you isolate subskills and drill them
 
 You can spend hundreds of hours practicing a piece using too many muscles on every key press. If your body awareness isn’t great, you might not find out until your hand cramps up right before your performance. A couple seconds to catch that mistake, a couple minutes to tell you a story of that happening to others, and the piano teacher’s just saved you months. -> value of a coach\
 
-> *'If more information was the answer we’d all be billionaires with six packs.' -- Derek Sivers*
-
 Here’s how it works:
 Read your programming book as normal. When you get to a code sample, read it over
 Then close the book.Then try to type it up.
 
-> *'Education: the path from cocky ignorance to miserable uncertainty.' -- Mark Twain*p
+> *'Education: the path from cocky ignorance to miserable uncertainty.' -- Mark Twain*
 
 The first 25 of the above words make up about 1/3 of all printed material in English. The first 100 comprise 1/2 of all written material, and the first 300 make up about 65% percent of all written material in English.
 
@@ -735,27 +711,17 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 The Key to Double Loop Learning: Push to the Point of Failure
 
 > *'The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.' -- Alvin Toffler*
-
-Pain Plus Reflection Equals Progress
-
 > *'Any fool can know. The point is to understand.' -- Albert Einstein*
 
-a college education can help you make a living, self-education can make you a fortune.
-
-> *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
-
-effort * talent = skill
+- Pain + Reflection = Progress
+- effort * talent = skill
+- fastest way to learn is to teach.
+- formula for getting better at anything: find your PLUS, MINUS, EQUAL.
 
 > *'Don't major on minor things.'* ->  applied focus
 
-- fastest way to learn is to teach.
-
 making resolutions: Guilt will carry you when willpower fails. By all means involve friends, but make your pressures real.
 Just saying words doesn’t make a thing happen. Try walking through a door instead.
-
-We like to believe in genius. It gives us an excuse for being lazy. -- Paul Graham
-
-'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes
 
 A friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
 “Recognizing the good people from the bad,” he said. “Working with those people. Connecting them. That’s a life-multiplier.”
@@ -764,6 +730,7 @@ None of her “13 Things” can be taught in school. School teaches facts. And i
 
 Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
 
+'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes
 The better players did not examine more possibilities, only better ones — just as Capablanca had claimed.
 Yet in both cases, the expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge.
 
@@ -811,12 +778,10 @@ Home run
 
 Set (realistic) goals and (suitable) rewards. Each time you hit a goal, you earn the reward. Select a time to review your progress and adjust your targets accordingly.
 
-Be good to yourself
-
-Imagine a conversation between ‘you today’ and ‘you tomorrow’… what would he have to say?
+- Be good to yourself
+- Imagine a conversation between ‘you today’ and ‘you tomorrow’… what would he have to say?
 
 Set creative punishments
-
 Make the consequences of inaction so unbearable that you have no choice but to get busy now. You could write a check to someone or something you really dislike. Give the check to a friend with strict instructions to mail the check if you do not achieve your goal.
 Going public with a goal increases your support and accountability. Ask for support, but don’t kid yourself that support equals progress.
 
@@ -843,8 +808,6 @@ One way to tease out the difference between Planck and chauffeur knowledge is to
 True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
 
 No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
-
-This is the formula for getting better at anything: find your PLUS, MINUS, EQUAL.
 
 This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
 
@@ -1010,7 +973,6 @@ I began reactivation of irretrievable German just over a week ago and can alread
 5. Weeks 2-3: Thirty to sixty Vis-Ed flashcards daily. This seems like a lot, but most will have been covered in steps 1-3 using active recall (English to German). Vis-Ed compiles its sets of flashcards from word frequency lists and includes sample phrases for usage. I begin flashcards after three or four days in-country.
 
 !!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!!
-
 Consider a new language like a new sport. analogy. advantages and train
 
 The apple is red.

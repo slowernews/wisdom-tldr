@@ -186,6 +186,8 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays; y
 > *'The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.' -- John Holt*
 
 When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
+
+We like to believe in genius. It gives us an excuse for being lazy. -- Paul Graham
 -->
 
 
@@ -865,6 +867,8 @@ Contracting -> Travelling Between Contracts -> Travelling While Contracting -> S
 ---
 ### On books
 
+Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists.
+
 > *'The great books are the books that never have to be written again.'-- Carl Van Doren*  
 > *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*  
 > *'A classic is a book which people praise and don't read.' -- Mark Twain*
@@ -888,7 +892,7 @@ Contracting -> Travelling Between Contracts -> Travelling While Contracting -> S
 <!--
 active readers read, the better they get. They develop a latticework of mental models to hang ideas on, further increasing retention. They learn to differentiate good arguments and structures from bad ones.
 
-when you start writing a book start with your own ideas
+when writing a book start with your own ideas
 
 > *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.

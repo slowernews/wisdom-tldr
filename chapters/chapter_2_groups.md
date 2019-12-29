@@ -1531,6 +1531,10 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
+> *'A college education can help you make a living, self-education can make you a fortune.'*
+
+> *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
+
 How to get employers feedback?  
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
