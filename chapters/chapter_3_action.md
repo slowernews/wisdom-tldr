@@ -350,6 +350,7 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+Like Mike Tyson says, “Everyone has a plan until they get punched in the mouth.”
 > *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
 > *'#346. The senses do not deceive; it is the judgment that deceives.' -- goethe*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
@@ -692,6 +693,10 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
+
+> *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
+	
 - what's the next action >> if u dont know think what's the next project -- gtd guy
 - inspiration is for amateurs -- picasso??
 
@@ -1448,6 +1453,8 @@ HOWEVER... use absence with [moderation](#on-balance).
 > *'If you're always absent, soon you'll not be needed.'*
 
 <!--
+- All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
+	
 Hooking Curiosity
 A screenwriter friend of mine recently told me his secret to writing compelling characters.
 “It’s easy,” he said. “Just make them contradictions.”

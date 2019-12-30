@@ -30,12 +30,12 @@
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
-- [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
 - [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
-- [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
-- [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 - [On shame](/chapters/chapter_1_self.md#on-shame)
+- [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
 - [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
+- [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
+- [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 
 
 ### Chapter 2 - Groups
