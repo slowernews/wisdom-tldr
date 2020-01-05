@@ -10,78 +10,55 @@
 
 ### On networking
 
-Who you know and whether they like you will determine what opportunities you get.
-Ultimately, your network determines your net worth. Make networking an [habit](chapter_1_self.md#on-habits-and-systems).
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
 
-> *'The enemy of excellence is isolation.'*
-
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.'*
-
-> *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*
+> *'The enemy of excellence is isolation.' -- Aaron Walker*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
 
-How to network? Add value and help people.  
-[Pay attention](chapter_2_groups.md#on-communication) to what people «say» and [infer](chapter_3_action.md#on-analysis) their goals. Find out what they actually want and give it to them.
+> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
+
+> *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*  
+> *'Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling. Or if you say hi.'*
+
+How to network? [Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. Be useful, not important. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
-> *'Be useful, not important. It’s not about you. It’s about the impact you have on others and the legacy that you leave.'*
+How to prepare an elevator pitch? The story we tell about ourselves is dangerous: our self-mythology will seduce us. Choose truth. 
 
-> *'The importance of enthusiasm; the importance of connecting people; expect magic in any encounter'*
-
-> *'If people forget it wasn't a good network anyway'*
-
-> *'Social inadequacy AKA creepiness is based on unpredictability.'*
-
-How to prepare an elevator pitch?
-
-The story we tell about ourselves is dangerous, our self-mythology will seduce us.  
-Truth is a better way to talk about ourselves, personal branding means you are a liar. 
-
-<!--
-When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments.
-
-They’d fail to accomplish our goal with a good story, which is to impress, to attract, to reassure, to sell.
-Because most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool.
-That story might be Rags to Riches, Rising from the Ashes, One Yes after a Thousand Nos, Crazy Till I Wasn’t, or any one of the familiar narratives we’ve heard from our heroes. authenticity as subtracting the things that get in the way.
--->
+> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments.'  
+'Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till i wasn’t», or any one of the familiar narratives we’ve heard from our heroes.'*
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
-How to taylor/curate a network?
-
-- Networking types: advocates a, boomerang b, celebrities c, drainers d  
-shark, dolphin, drowner  
-- community of experts (that give you good answers) critical colleagues (10 people that make a big difference in your immediate career) -- boss / boss's boss  
-- expand from too dense networks  
-- super connectors: people with long networks, spend more time with these people / network on relevant groups that can help you.  
-- while drumming up new connections by networking is important, it’s even more important to remember and recognize your connections that already exist. buzz marketing, unlocking dormant ties, long term
-
-HOWEVER: no one’s going to help you in a way that’s prejudicial to them.
-
-Why some people don't like networking?
-
-> *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.'*
+<!--
+intro: //clay hebert
+I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
+6 or 7 words -- short and sweet and confident and interesting.
+ask them first so you can costumise it for the context and make it more relevant.
+-->
 
 <!--
-Form relationships with those who seem like they’ll give at least as much than they take (?).
+How to curate your network?
 
-you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
-
-know your audience: podcast -> network of friends
-	
-The difference between success and failure can be as simple as keeping in touch
-
-Handle Rejection Gracefully
-
-list the people i met
-
-What if I told you that the best way to get value was to start giving it away? you're giving validation!!
-
-not what should i do next, but who should you speak next?
+- Form relationships with those who seem like they’ll give at least as much than they take.  
+- Expand from too long networks.
+- Building new connections is important but it’s even more important to remember your connections that already exist. The difference between success and failure can be as simple as keeping in touch.  
+- Community of experts (that give you good answers).  
+- Critical peers (10 people that make a big difference in your immediate career).
+- Networking types: advocates a, boomerang b, celebrities c, drainers d  
+- Networking types: shark, dolphin, drowner.  
+- Not what should I do next but who should you speak next?
+- the best way to get value was to start giving it away? you're giving validation
 -->
+
+Why some people don't like networking? [It's hard to handle rejection]() and we don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
+
+> *'If you expect magic in every encounter, you find it.' — Adam Robinson*
+
+> *'If people forget it wasn't a good network anyway.'*
 
 
 
@@ -89,108 +66,78 @@ not what should i do next, but who should you speak next?
 ---
 ### On communication
 
-Speak less and listen more.  
-Be humble, listening is powerful.
+'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk
 
-> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+Speak less and listen more. Be humble, listening is powerful.
 
-> *'Knowledge speaks, but wisdom listens' -- Jimi Hendrix*
-
+> *'Knowledge speaks, but wisdom listens' -- Jimi Hendrix*  
 > *'When you listen, you may learn something new.' -- Dalai Lama*
-
-> *'Listen to predict a collapse.'*
 
 How to communicate? 
 
-- listen: listening without worrying about what we’re going to say next. The best conversationalists are the best listeners. Be interested to be interesting, curiosity is king. Active listening.
-- smile. the most popular guys smile more than other people and like more other kids.
-- don't ramble.  
-- look for external catalysts as hints for stories and questions. Understand how to stay tuned in to the conversation by picking up on often-ignored (but crucially important) nonverbal cues. Get better asking questions. They are more important than answers.  
-- talk about your passions instead of accomplishments.
-- don't be stubborn. You don't always have to get the last word. Make your point and leave it that way. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
+- Smile: popular people smile more than other people.
+- Listen: don't worry about what you’re going to say next. The best conversationalists are the best listeners. Be interested to be interesting, curiosity is king.  
+<!--
+You have to be interested to be interesting. Take an interest in the other person, and they’ll walk away thinking you are interesting.
+Ask a question. Listen to the answer. Respond in the form of a statement.
+Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
 
-Practical hints:
+Heart, head and soul in your interview. Make the interview feeling safe. Calm is largely a matter of slowing your speech down. Warmth comes from smiling while you speak. when you have passion you communicate better
 
-- people that need to be saved
-- help the hosters to serve food.
-- go to the bar and meet people there
-- small and open groups
-- Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
-- opening line: "hi, I'm X and I dont know anybody in this party." smart flattery  
-- best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments And asking for advice.
-- Want to Be the Most Interesting Person in the Room? Learn the Art of Active Listening.
-- The right question is “How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
-- Seek someone else’s thoughts and opinions without judging them.
-- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
-- Paraphrasing: Repeat what they just said in your own words.
-Emphasize Similarity, we like people who are like us
-- Questions Are Powerful. A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.  
-- How to politely end a conversation -> escaping line (you should go on after 10 or 15 minutes. think about it as exploring.):
-"excuse me but i must to talk with somebody that entered the room"
-"excuse me i have to make a phone call"
-human sacrifice.. intro him and leave  
-- to rude people: «my mum always told me not to speak with strangers, now i know why»
-/ make poeple being interested in you by making them good/unusual questions.
-be interested in them to them be interested in you.
-- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation.
-- Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real.add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
-- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
-- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation
-How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it:
+Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.
+-->
+- Don’t talk to someone, talk with them: look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Get better at asking questions, they are more important than answers.  
+<!--
+Open up question: Why is your best friend, your best friend? You can't fake an answer.  
+Asking questions without paying attention is worthless. you must be curious.  
+The first question should go to the heart, just than to the head.  
+Can be as simple as what is your favourite book?  
 
-> *'Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.'*
+Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
+-->
+- Talk about your passions instead of accomplishments.
+- Don't be stubborn: you don't always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
 
-How to tell good stories?
+How to discord? Argue as you're right. Listen as you're wrong.
 
-Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+- «I don't have an opinion on that. Why don't you tell me how you got to have such a firm one? It sounds like I could learn something.»
+- «Will you tell me your story? I’d love to know how you came to this point of view.»  
+
+> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
+
+> *'Don’t explain. People only hear what they want to hear.'*
+
+How to tell good stories? Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
 > *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
 
 > *'The more you say, the less people remember.' -- François Fénelon*
 
-How to discord?
-
-- «Will you tell me your story? I’d love to know how you came to this point of view.»  
-- «I don't have an opinion on that. Why don't you tell me how you got to have such a firm one? It sounds like I could learn something.»
-
-> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
-
-> *'Arguing as you're right. Listening as you're wrong.'*
-
 <!--
+1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
+2 - Small and open groups. Opening line: "Hi, I'm X and I dont know anybody in this party."
+3 - Go to the bar and meet people there.
+4 - Help the hosters to serve food.
+
+- Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
+- Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments and asking for advice.
+- Want to be the most interesting person in the room? learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
+- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
+- Paraphrasing: Repeat what they just said in your own words.
+- Emphasize Similarity, we like people who are like us.
+- Questions are powerful. A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.  
+
+- Escaping lines: how to politely end conversations. You should go on after 10 or 15 minutes. Think about it as exploring.
+	"excuse me but i must to talk with somebody that entered the room"
+	"excuse me i have to make a phone call"
+	human sacrifice.. intro him and leave.
+	To rude people: «my mum always told me not to speak with strangers, now I know why»
+
+- Make people being interested in you by making them good/unusual questions. Be interested in them to them be interested in you.
+- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. Add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
+- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly. Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it.
+
 17. Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine. -- Balthasar Gracian
-
-Don’t explain. People only hear what they want to hear.
-
-open up question: Why is your best friend, your best friend? You can't fake an answer.
-asking questions without paying attention is worthless. you must be curious.
-the first question should go to the heart, just than to the head
-can be as simple as what is your favourite book?
-
-heart, head and soul in your interview
-make the interview feeling safe
-
-Staring isn’t staring if you’re smiling. Or waving. Or if you say hi.
-	
-Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
-
-> *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
-
-It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
-
-Don’t talk to someone. Talk with them.
-
-You have to be interested to be interesting. Take an interest in the other person, and they’ll walk away thinking you are interesting.
-Ask a question. Listen to the answer. Respond in the form of a statement.
-
-Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
-
-Calm is largely a matter of slowing your speech down. Warmth comes from smiling while you speak. when you have passion you communicate better
-
-intro: //clay hebert
-I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words -- short and sweet and confident and interesting.
-ask them first so you can costumise it for the context and make it more relevant.
 -->
 
 
@@ -266,30 +213,29 @@ HINTS: on successful *entrepreneurs*.
 <!--
 > *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
 
-Fall in love with the problem, not the solution.
+- Fall in love with the problem, not the solution.
+- Make something people will buy from you.
 
 You're a wannapreneur if:
-- You talk to people about your ideas, but never build anything
-- You build something without first talking to people
-- You build something and never try to sell it
-If you build something that people say they'll pay for and then they don't actually pay for it then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle. -- Alex3917
+- You talk to people about your ideas, but never build anything.
+- You build something without first talking to people.
+- You build something and never try to sell it.
+- If you build something that people say they'll pay for and then they don't actually pay for it then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle. -- Alex3917
 
-“Make something people will buy from you”
+- Overdesign. Don't start from scratch. Throw shit at the wall and see what sticks. Life is about experimenting.
 
-overdesign / don't start from scratch / Throw Shit at the Wall and See What Sticks. Life is about experimenting.
-
-The disruptor’s credo, say it with me: Your profit margin is my opportunity. 
+- The disruptor’s credo, say it with me: Your profit margin is my opportunity. 
 Friend of a friend owns a small chain of grocery stores in New Jersey. A few years ago, when Amazon got into groceries, he changed his mind about investing in the growth of his own business. He started buying Amazon shares with his investment capital instead. He saw what happened to Circuit City and Tower Records, Borders and Barnes & Noble. So he bought some Amazon and then he bought some more.
 This wasn’t retirement investing. This was something else. What should we call it? Disruption Insurance?
 	
-when you dont have the monopoly, all markets are like online dating, people need to fall in love with our ideas. cretaivity doesnt operate in the vacuum. rivals and _distraction_ are your compettion. you need to seel your ideas.
+- when you dont have the monopoly, all markets are like online dating, people need to fall in love with our ideas. cretaivity doesnt operate in the vacuum. rivals and _distraction_ are your compettion. you need to seel your ideas.
 
-I’m proud to announce to you that I’m a problem solver and business creator.
+- I’m proud to announce to you that I’m a problem solver and business creator.
 
-Nate has grown and sold several businesses, and he’s found that there’s a critical tipping point in each business (typically when it hits $5,000,000 in revenue) where he begins to burn out and lose interest.
+- Nate has grown and sold several businesses, and he’s found that there’s a critical tipping point in each business (typically when it hits $5,000,000 in revenue) where he begins to burn out and lose interest.
 Instead of fighting this, he’s adopted the “Serial Entrepreneur” approach and will sell his equity or the entire business, once a project passes a certain revenue threshold.
 
-Jeff Bezos summed this up when he said “Your margin is my opportunity.”
+- Jeff Bezos summed this up when he said “Your margin is my opportunity.”
 The key to business and investing success isn’t finding an advantage. It’s having a sustainable advantage. Something that others either can’t or aren’t willing to copy once your idea is exposed and patents expire.
 
 social adeptness is balancing two seemingly opposing social strategies: competing and cooperating

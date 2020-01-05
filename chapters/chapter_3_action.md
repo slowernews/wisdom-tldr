@@ -350,6 +350,8 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
+	
 Like Mike Tyson says, “Everyone has a plan until they get punched in the mouth.”
 > *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
 > *'#346. The senses do not deceive; it is the judgment that deceives.' -- goethe*
@@ -1276,6 +1278,9 @@ HOWEVER...
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 <!--
+
+> *'Listen to predict a collapse.'*
+	
 Inertia is why a car does not stop the moment the brakes are applied.
 
 When problems shift faster than your rate of adaptation you go extinct.
@@ -1465,7 +1470,7 @@ So begin by taking inventory of the various qualities and skills you already hav
 mimicking people gestures and words works!
 
 To Persuade Someone, Look Emotional
-
+- you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
 - It’s hard to be angry with someone who agrees with you. Making enemies is expensive.
 -->
 
@@ -1612,6 +1617,10 @@ They can be effective but use them *only* on life changing situations: it's a sc
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
+> *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
+
+- no one will help you in a way that’s prejudicial to them.
+
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 19. Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence. -- Balthasar Gracian
