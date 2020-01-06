@@ -1364,6 +1364,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Don't be so humble - you are not that great.' -- Golda Meir*
 
 <!--
+> *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
+
 It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
 
 > *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
@@ -1411,6 +1413,7 @@ I do my best to always pay attention to how I am presenting myself to others eve
 > *'Dress for the job you want, not for the one you have.'*
 
 Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
+> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu* 
 -->
 
 

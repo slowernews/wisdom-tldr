@@ -505,17 +505,24 @@ A great relationship is about finding the similarities and respect the differenc
 
 > *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
 
-Focus on what you can give not what you can get. You only receive in proportion to what you give. However after taking «first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people.
+> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness.'*
+
+Focus on what you can give not what you can get. You only receive in proportion to what you give. However after taking «first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary.  
+You need to partner with someone who wants you to be all you can be.
+
+> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+> *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'Don't hide your feelings from people who show you theirs.'*
 
 > *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*  
 > *'If a person is nice to you and to nobody else, that person is not nice.'*  
 > *'If you are lonely when you are not alone, you are in bad company.'*
+> *'I won’t be less just because you cannot be more.'*
+
+> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
 
 > *'Trust bank account analogy: you make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.'*
-
-> *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 <!--
 Again, something I once wrote on the subject of a good partnership was “Shared values and complementary skills.”
@@ -530,51 +537,28 @@ There are four types of relationships with people:
 Win Win (long term), Win Lose, Lose Win, Lose Lose
 -->
 
-On lovers: you attract what you are.  
+On lovers: you attract what you are. Love is what happens to men and women that don't know each other.
 
 > *'The free soul is rare, but you know it when you see it -- basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
-HINTS:
+> *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
 
-> *'If you are struggling in your relationships, odds are, you are withholding your truth from your woman.
-You need to open up, tell her the truth, be honest with her without fear of outcome and without any neediness from her.'*
+> *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
 
-> *'On a serious conversation with a SO, instead of generalizing, talk about three things:  
-First, your observations, or what you have noticed is happening in your relationship.  
-Next talk about how the observation has made you feel. Finally, discuss your values.'*
+Long relationships.
 
 > *'For a long and deep relationship, values must match.' -- EF*
-
-> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
-
-Run away from people who treats you like you're ordinary.  
-You need to partner with someone who wants you to be all you can be.
-
-> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
-
-> *'Every person feels loved in a different form.'*
-
+> *'First you see the virtues. Then the flaws.' -- EF*
+> *'Every person feels loved in a different form.'*  
 > *'Love doesn’t hurt. Expectations do.'*
 
-There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you.  
-
-> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
 HOWEVER...
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*
-
-> *'Love is what happens to men and women that don't know each other.'*
-
-<!--
-> *'I won’t be less just because you cannot be more.'*
-> *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
-> *'Afinal... Todas as pessoas são normais até as conhecermos melhor.' -- Margarida Rebelo Pinto*
-> *'Primeiro veem-se as qualidades depois os defeitos' -- EF*
-> *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
--->
+> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*  
 
 
 
@@ -591,61 +575,46 @@ Life is people and is meant to be lived in community.
 However choose who surround you: you are the average of them. 
 
 > *'If you're the smartest in the room, you're in the wrong room.'*
+> *'Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.'*
 
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
 
-How to build your «board of directors»? 
+How to build your «board of directors»? Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
 
-- Surround yourself with mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.  
-If you want to improve your bank account, get around millionaires.
-If you want to improve your body, befriend competitive athletes
-If you want to improve your love life, go hang out with the town “Casanova”.
-When you are intentional about surrounding yourself with the right people, you will find every area of your life accelerating.
-Jim Rohn said it best, “You are the average of the five people you spend your time with most.”
-If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
+Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
 
-- You're never too old to make a friend. Always be looking for a new one. If a buddy calls and needs to get a drink, go. No matter the hour, how busy you are, or what else you have going on.
+Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
+we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
 
-There comes a time in life when you’ll have to leave everything behind and start something new but never forget the ones who stood by your side, especially the ones who never let you let go.
+You're never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one.
+If a buddy calls and needs to get a drink, go.
+I also know someone is a friend when I can go long stretches without talking to him and then we talk and its right where we left off.
 
 Cleave from your family but come back. You need to be independent and loyal at the same time.
 
 > *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
 
-Resist to temptation of working with family and friends. There will be always problems of fixing hierarchy when working with friends. Peers are peers, not boss and employee. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
+Resist to temptation of working with family and friends. Peers are peers, not boss and employee: pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
 
 > *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
 
-> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (10th law of power)*
-
-> *'Never put too much trust in friends, learn how to use enemies.' -- Robert Greene (2nd law of power)*
+> *'Never put too much trust in friends, learn how to use enemies.'*  
+> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (2nd and 10th law of power)*  
 
 > *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
 
 > *'Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
 They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
-> *'Don’t succumb to the collective flaws of your peers. Avoid the Faults of your Nation. Water shares the good or bad qualities of the strata through which it flows, and man those of the climate in which he is born.' -- Balthasar Gracian 3rd*
-
 <!--
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 
-- i wanted to make part of the group, but that group is made of broken people. than you realise that is too stressful.
-- its the tribe that you dont want to belong but you are.
 - Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
-One time I had a friend who consistently would put me down. Or find reasons to be upset at me whenever something good was happening in my life.
 The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
-- pedestals prevent friendships
 
-I also know someone is a friend when I can go long stretches without talking to him or her and then we talk and its right where we left off. I have a lot of friends like that.
+Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 
-Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
-we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his.
-focus in others people sucess but pick the right people.
-
-Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something.
-
-Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.
+the way of man is the way of the gang
 -->
 
 
@@ -654,8 +623,7 @@ Every employee should eventually leave and start a better competitor to me. Ever
 ---
 ### On feedback and mentorship
 
-Feedback speeds up improvement.  
-But only take advice from mentors. They are the best source of feedback.
+Feedback speeds up improvement but only take advice from mentors.
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
@@ -665,110 +633,57 @@ But only take advice from mentors. They are the best source of feedback.
 
 > *'Really great people make you feel that you too can be great.' -- Mark Twain*
 
+> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
+
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 
-How to find mentors?
-
-> *'Find mentors to help you improve, even virtual mentors as a good book.'*
+How to find mentors? Look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
-
-> *'When looking for a mentor, look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».'*
 
 > *'Your father is your first mentor.'*
 
 <!--
-> *'Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own.' -- Paulo Coelho*
-
-> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
-
-I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill.
-
-> *'Build your Board of Directors. Mentors and friends who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform.'*
-
-> *'Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach.'*
-
-> *'Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.'*
+I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
 -->
 
-Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world.  
-When you teach, you do something useful. When you do research, most days you don’t.
+You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
 
-> *'Service to others is the rent you pay for your room here on Earth.' -- Muhammad Ali*
+> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*  
+> *'Service to others is the rent you pay for your room here on Earth.' -- Muhammad Ali*  
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*  
 
-> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
-
-> *'Powerful people give freely, buying influence rather than things.'*
-
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
-
-> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.'*
-
-> *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
-
-> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.' -- Dalai Lama*
 
 <!--
+> *'Powerful people give freely, buying influence rather than things.'*
+> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+> *'If you are giving back, it’s because you’ve taken too much.'  -- Ricardo Semler*
+
 the value of getting a coach. Spend more time fixing weaknesses than developing strengths!
-
-the way of man is the way of the gang
-
-Actually, the last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people.
-He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as "make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check." He said that almost everyone who was just in it for the handouts couldn't be bothered.
-My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work.
-There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.
-
-One of the reasons why I think your uncle's gestures made such a big impact is that he made gestures that rewarded good things AND he wasn't a relative to many of the people he interacted with.
-
-Everyone has investment advice. Health advice (no “gluten!”). Money advice (“401ks!”), Education advice (“Harvard!”). Career advice (“Wall Street!”), etc.
-They are only telling you their dreams.
-
-But that's the point of this whole post: If you can't justify being nice for the sake of others, at least be nice for the sake of yourself. It'll work out well for others. some people are takers and lack the reflex to give.
-
 have your corner man to indicate your blindspots
-
-If you are giving back, it’s because you’ve taken too much. -- Ricardo Semler
-
-mix with guerrilla thinking
-
-karma
-
-kids learn from watching you.
-
-convenience for you vs best thing for the kid. ipad example. you must provide interesting activities.
-
-Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 -->
 
-Fatherhood makes you a mentor independently of your will. Learn how to give advice.
+Fatherhood makes you a mentor independently of your will. Don't tell my kids them how to live. Live fully and let them see.
 
 > *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
-> *'I don't tell my boys them how to live. I live fully and let them see.'*
-
-> *'The best gift you can give your children is failure'*
-
-HINTS: How to teach your kids...
-
-- generosity: «What did u do this week for somebody?»  
-- responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
-- self improvement: «Did u give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
-- autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
-- money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
-- fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
-- deal with failure: «How did you fail today?»  
-- optimism: «You have the gift of today.»
-
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
-HOWEVER... some people are not ready to have a mentor and accept your vision.  
-And «givers» attract «takers». Don't let them drain you, you [don't owe them](#on-freedom) anything.
+How to teach your kids...
+
+- Generosity: «What did u do this week for somebody?»  
+- Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
+- Self improvement: «Did u give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
+- Autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
+- Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
+- Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
+- Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
+- Optimism: «You have the gift of today.»
+
+HOWEVER... some people are not ready to accept your vision. And «givers» attract «takers»: remember you [don't owe them](#on-freedom) anything.
 
 > *'Do not teach a starving man to fish.'*
-
-> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
-
-> *'You give people a hand, they rip your arm out.'*
 
 
 
@@ -776,13 +691,13 @@ And «givers» attract «takers». Don't let them drain you, you [don't owe them
 ---
 ### On rewards and generosity
 
+'No one has ever become poor by giving.' -- Anne Frank
+
 Always be generous: a low value gift can have the opposite effect.
 
-> *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'*
+> *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
 
-> *'He that gives should never remember and he that receives should never forget.'*
-
-> *'No one has ever become poor by giving.' -- Anne Frank*
+> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
 Punishments aren’t as effective as rewards. Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses.
 
@@ -791,23 +706,15 @@ Alternatives that you can try the next time you feel tempted to punish someone:
 - positively reinforcing preferred activities.
 - prompting and shaping are two actions we can use together to change behavior in an iterative manner. A prompt is a cue or stimulus that encourages the desired behavior. When shaping begins, any approximation of the target response is reinforced.
 
+> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as "make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check." He said that almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.'*
+
 <!--
-continuous reinforcement |> intermitent reinforcement
+- power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
 
-power of incentives: Ignoring incentives almost never works out well
-Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed.
+- Generosity without Expectation is Sexy. It means that your thoughts, words, and actions are all in congruence. you don’t live a life that is incongruent with what you want to make others happy. You live a life of congruence where everything is in line. This is the pathway to true power. Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
+- The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
 
-Generosity without Expectation is Sexy
-It means that your thoughts, words, and actions are all in congruence.
-you don’t live a life that is incongruent with what you want to make others happy.
-You live a life of congruence where everything is in line.
-This is the pathway to true power.
-
-Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
-
-The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
-
-impredictable shecule / fixed work amount schedule / fixed time amount schedule
+impredictable schedule / fixed work amount schedule / fixed time amount schedule
 -->
 
 
@@ -856,40 +763,29 @@ Outliers inspire envy. [Intelligence](chapter_appendix.md#on-intelligence), [wea
 
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
+> *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
+
 When people criticize your life they are speaking about their fears and limitations not yours.  
 Only take advice from [those achieving what you want to achieve](chapter_1_self.md#on-feedback). Ignore and be flattered by the rest.
 
-> *'Never hate people who are jealous of you, but respect their jealousy. They think that you're better than them.'*
-
+> *'The dogs bark but the caravan moves on.' -- Arab proverb*  
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
-> *'The dogs bark but the caravan moves on.' -- Arab proverb*
+> *'It is not greed that drives the world, but envy.' -- Warren Buffet*  
+> *'Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.'*  
+> *'Once they stop talking to you, they start to talk about you.'*
 
 > *'Consensus happens just in the beginning and in the end of something.'*
 
-> *'Once they stop talking to you, they start to talk about you.'*
+However beware of blindspots, not all criticism is envy.
 
-> *'It is not greed that drives the world, but envy.' -- Warren Buffet*
-
-HOWEVER... beware of blindspots, not all criticism is envy.
-
+> *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
 > *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
-
-> *'If too many users are wrong, it's probably your fault.'*
 
 > *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
-> *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
-
 <!--
 > *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*	
-> *'There’s only one thing that will make them stop hating you. And that’s being so good at what you do that they can’t ignore you.' -- Orson Scott Card*
-
-Vives do que? Vivo da minha criatividade.
-
-o homem de negocios sonha (ambicao - forcas activas), o ersto da populacao por necessidade ou medo constrói o sonho (forcas reactivas)
-
-> *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
 -->
 
 
@@ -1144,6 +1040,8 @@ The goal is to move everyone up from "unconfident and incompetent" to "confident
 - Life in a zoo is easier, but it isn't the life they were designed for.
 - A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don't generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
 - Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
+
+o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por necessidade ou medo constrói o sonho (forcas reactivas)
 -->
 
 
