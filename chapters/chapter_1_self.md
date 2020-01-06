@@ -265,10 +265,13 @@ The path will be revealed as you start walking.
 > *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 <!--
+> *'Go where you can make a difference not where you think there’s a home run.'	
 > *'I can think, I can wait and I can fast.' -- Siddahrta*
 > *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
 > *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 > *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
+
+there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
 
 - the talent to change your life
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
@@ -1449,3 +1452,5 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 > *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
 
 > *'Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your “self” out of your decisions, because most likely, it’s not about “you”. Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it.' -- Mark Manson*
+
+> *'From good enough you can derive success.'*

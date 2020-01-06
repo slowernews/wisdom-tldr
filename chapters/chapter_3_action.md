@@ -1232,8 +1232,6 @@ Exponential growth devours and corrupts
 There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
 
 Disease of More.
-
-FROM GOOD ENOUGH YOU CAN DERIVE sucess
 -->
 
 
@@ -1245,9 +1243,9 @@ FROM GOOD ENOUGH YOU CAN DERIVE sucess
 Plans are not static. Adapt not react.  
 You need to switch strategies a few times to get where you want to go.
 
-> *'Take advantage of the opportunities - that’s probably more important than charting your path.'-- Admiral William Mcraven*
-
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
+
+> *'Take advantage of the opportunities - that’s probably more important than charting your path.'-- Admiral William Mcraven*
 
 > *'Life is more like tetris than chess.'*
 
@@ -1617,11 +1615,11 @@ They can be effective but use them *only* on life changing situations: it's a sc
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
+> *'#276. Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- goethe*
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
+> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 - no one will help you in a way that’s prejudicial to them.
-
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 19. Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence. -- Balthasar Gracian
 

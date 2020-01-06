@@ -47,7 +47,6 @@
 - [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
 - [On selling, negotiation and price](/chapters/chapter_2_groups.md#on-selling-negotiation-and-price)
 - [On relationships](/chapters/chapter_2_groups.md#on-relationships)
-- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
 - [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
 - [On feedback and mentorship](/chapters/chapter_2_groups.md#on-feedback-and-mentorship)
 - [On rewards and generosity](/chapters/chapter_2_groups.md#on-rewards-and-generosity) 
