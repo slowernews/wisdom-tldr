@@ -350,6 +350,8 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
+> *'Hope is not a strategy.' -- Vince Lombardi*
+
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
 	
 Like Mike Tyson says, “Everyone has a plan until they get punched in the mouth.”
@@ -940,6 +942,8 @@ Don't be thirsty.
 > *'Trade space for time.'*
 
 <!--
+> *'Trees that are slow to grow bear the best fruit.' -- Molière*
+
 15. Waiting may be the best course of action. A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. -- Balthasar Gracian
 
 7. Be patient. You must pass through the circumference of time before arriving at the centre of opportunity. A wise reserve seasons the aims and matures the means. Time’s crutch effects more than the iron club of Hercules. God Himself chasteneth not with a rod but with time. He spake a great word who said, “Time and I against any two.” Fortune herself rewards waiting with the first prize. -- Balthasar Gracian
@@ -1510,8 +1514,8 @@ HOWEVER... deceiving is not lying.
 > *'Disappointment destroys trust.'*
 
 <!--
+> *'The underground of the city is like what's underground in people. Beneath the surface, it's boiling with monsters.' -- Guillermo del Toro*
 > *'If Socrates was right in saying that no one does wrong knowingly, someone who has caused you grief probably didn’t set out to do it on purpose.'*
-
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
 
 Clean players on shady markets usually don't do well on the long term.
@@ -1615,6 +1619,7 @@ They can be effective but use them *only* on life changing situations: it's a sc
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
+> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
 > *'#276. Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- goethe*
 > *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
@@ -1722,9 +1727,9 @@ In reality, we only keep the suffering alive for ourselves. We are the ones we e
 
 > *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
-<!--
 > *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
--->
+
+> *'Life has become immeasurably better since I have been forced to stop taking it seriously.' -- Hunter S. Thompson*
 
 
 
@@ -1746,6 +1751,8 @@ It's not just about winning. The way you win sets you up for the next round.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 <!--
+“You might be winning but you’re not growing, and growing might be the most important form of winning.”, “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”, Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.” -- jordan peterson
+
 > *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
 18. Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat. -- Balthasar Gracian
 

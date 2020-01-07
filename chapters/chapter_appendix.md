@@ -153,6 +153,8 @@ HOWEVER don't obcess on that.
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
 <!--
+you can't stop the future -> control
+
 make the exercise: imagine you life in 10years. possible futures.
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
@@ -632,6 +634,8 @@ This is why the comedians are the modern day philosophers.
 
 > *'The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.' -- Elizabeth Taylor*
 
+> *'I am lonely, yet not everybody will do. I don't know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them».' --  Anaïs Nin*
+
 <!--
 - we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it's our default. Order is always artificial and temporary.
 -->
@@ -1049,6 +1053,10 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 > *'Chicks dig a man who exhibits grace under pressure.'*
 
 > *'A suit to women is like lingerie to men.'*
+
+<!--
+> *'Why are women... so much more interesting to men than men are to women?' -- Virginia Woolf*
+-->
 
 
 

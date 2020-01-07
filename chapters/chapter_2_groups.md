@@ -13,6 +13,7 @@
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
 
 > *'The enemy of excellence is isolation.' -- Aaron Walker*
+> *'Your silence will not protect you.' -- Audre Lorde*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
@@ -592,6 +593,8 @@ I also know someone is a friend when I can go long stretches without talking to 
 
 Cleave from your family but come back. You need to be independent and loyal at the same time.
 
+> *'To lose one parent may be regarded as a misfortune; to lose both looks like carelessness.' -- Oscar Wilde*
+
 > *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
 
 Resist to temptation of working with family and friends. Peers are peers, not boss and employee: pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
@@ -607,6 +610,7 @@ Resist to temptation of working with family and friends. Peers are peers, not bo
 They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
 <!--
+> *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 
 - Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
@@ -796,53 +800,58 @@ However beware of blindspots, not all criticism is envy.
 
 Most people are other people. Their thoughts are someone else opinions and they jump to conclusions.
 
-> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+<!--
+Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
+-->
 
+> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*  
+> *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
+> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
+
+> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*  
+> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
+
+> *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
+
+> *'In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.' -- Friedrich Nietzsche*
+
+> *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
+
+> *'Common sense is the collection of prejudices acquired by age eighteen.'*  
 > *'People accept the defaults very easily.'*
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
+What is stupidity? Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
 
-> *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
-
-> *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
-
-> *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*
-
-> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
-
-> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
-
-> *'Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it.' -- Anders Hejlsberg*
-
-> *'In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.' -- Friedrich Nietzsche*
-
-HOWEVER... smart people don’t think others are stupid and common sense is not so common.
-
-> *'Taking a fence down without knowing why is there.'*
-
-> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default.That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!» -- it means they’ve stopped thinking.'*
-
-<!--
-> *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
-> *'If everybody is thinking alike, then somebody isn't thinking.' -- George S. Patton Jr.*
-> *'If people around you don’t think what you’re doing is a bit strange, maybe it’s not strange enough.' -- Patrick Collison*
-> *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
-> *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
-> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
-> *'Life's hard. It's even harder when you're stupid.' -- John Wayne*
+
+> *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
+
+> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*
+
+Tricks to deceive stupidity? Most people don't actually think, they just take their first thought and go.	
+
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
-- Stupidity is easier to see in others than ourselves. Stupidity is easier to recognize the farther we are from the act. 
-- changing course is hard and this scares us so we look around and try to copy the courses other people took
-- it’s kind of funny. But if everyone is thinking of the same joke, it loses some of its humor.
-- If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
-- most people don't actually think. They just take their first thought and go.	
-- Two economists are walking along the street, and one says, “Hey, someone dropped a $20 bill!” and the other says, “Well, it can’t be a real $20 bill because someone would have picked it up already.”
+> *'If everybody is thinking alike, then somebody isn't thinking.' -- George S. Patton Jr.*  
+> *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*  
+> *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
 
-Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
+> *'If people around you don’t think what you’re doing is a bit strange, maybe it’s not strange enough.' -- Patrick Collison*  
+> *'Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it.' -- Anders Hejlsberg*  
+
+Despite being easier to recognise stupidity in others than ourselves, don’t take for granted that others are acting stupid. Common sense is not so common.
+
+> *'Don't take a fence down without knowing why is there.'*
+
+> *'Life's hard. It's even harder when you're stupid.' -- John Wayne*
+
+> *'Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
+
+<!--
+- changing course is hard and this scares us so we look around and try to copy the courses other people took
+- If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
 
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
@@ -850,8 +859,6 @@ From Scott Adams (Dilbert):
 > Persuaders: Use simplicity, repetition, emotion, habit, aspirations, visual communication, and other tools of persuasion to program other people and themselves. This group is about 1% of the population and effectively control the word-thinkers of the world.
 
 3 types of man: spectators, the dabblers and the men in the arena.
-
-- Stupidity is the cost of intelligence operating in a complex environment. It’s almost inevitable
 
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 
@@ -874,20 +881,13 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 'For the friends: everything. For the others: the law.'
 
-> *'Politicians don't get educated. They get bought.'*
-
+> *'Politicians don't get educated. They get bought.'*  
 > *'To reduce corruption diminish people involved on analogic processes.'*
 
 > *'Politician is a profession that doesn't like risk. Decisions are made on the lowest risk of offending anybody.'*
 
-> *'Good fences make good neighbors.'*
-
-> *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
-
-> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
-
-> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
-
+> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*  
+> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*  
 > *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
 
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
@@ -896,17 +896,16 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.'*
 
-> *'I love individuals. I hate groups of people. I hate a group of people with a ‘common purpose’. Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals.' -- George Carlin*
+> *'I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals.' -- George Carlin*
 
 > *'When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
 
+> *'Good fences make good neighbors.'*  
+> *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
+
 > *'Multicultural is by absurdum the true monocultural.' -- EF*
 
-Taxes aren’t punishment. They are much more like a membership fee.
-
-> *'80% of all people are voluntarily overpaying on their taxes.'*
-
-> *'The hardest thing in the world to understand is the income tax.'*
+Taxes aren’t a punishment. They are a membership fee and 80% of all people are voluntarily overpaying them.
 
 <!--
 it may be pop psychology stuff, but it’s convenient for my point so in the spirit of American politics I will treat it as fact.
@@ -923,24 +922,20 @@ it may be pop psychology stuff, but it’s convenient for my point so in the spi
 
 ### On leadership
 
-Leaders are team makers.  
-Being a leader is different from being a boss. Leadership is based on mutual [trust](#on-relationships).
+Leaders are team makers. Being a leader is different from being a boss: it requires to be manager and psychotherapist. Leadership is based on [mutual trust](#on-relationships).
 
-> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*  
+> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
 
-> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*  
+> *'People don't follow robots.'*  
+> *'There are no bad teams, only bad leaders.'*
 
 > *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
 
 > *'The only thing that gives orders is balls.' -- Tony Montana*
 
-Being a leader requires to be equal parts manager and psychotherapist.
-
-> *'There are no bad teams, only bad leaders.'*
-
-> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
-
-> *'People don't follow robots.'*
+> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
 
 People want leadership because they want autonomy and influence.
 
@@ -948,43 +943,25 @@ People want leadership because they want autonomy and influence.
 
 > *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
 
-> *'You have to be the boss or you have to play ball.'*
-
-HINTS:
-
-HOWEVER... Be humble.
-
-> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
-
-> *'I’m not here to help; I’m here to learn.'*
-
-> *'No one is smarter than a small group.'*
+Patterns of good leaders:
+- Knows when to speak and when don't.
+- Knows how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
+- Are part of the team. 'No one is smarter than a small group.'
+- Make people feel as part of a family.
+- Power is having options than you can metabolize. Power is making decisions.
+- Leadership is based on emotional intelligence.
 
 <!--
-- power is having options than you can metabolize. Power is making decisions
+- leadership is the ability to locate yourself. sleep walking through life. self awareness is the ability to pause mind 
+leaders must be good followers. good leaders are leaders that grow up in the hierarchy.
 
-- leadership i sthe ability to locate yourself. sleep walking through life. self awareness is the ability to pause mind 
-
-> *'Praise by name, criticize by category.' -- Warren Buffet*
-
-you are a leader to somebody.leaders must be good followers. good leaders are leaders that grow up in the hierarchy.
-
-In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers. Owners make more than employees in the long run.
+- In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succe
+ed and you must teach them how to do it. You won’t do it alone. Put employees before customers. Owners make more than employees in the long run.
 
 We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others.
 Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
 
-backup what you're preaching
-make yourself as part of a team
-make people feel as part of a family
-
-leader persuader -- mix com persuasion 
-
 Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
-
-a good leader:
-a) knows when to speak and when don't.
-b) knows to create a vision of where they wanna go.
 
 When someone is out of line, don’t let it slide too far.
 If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
@@ -1019,16 +996,11 @@ Third: Rather than doing long, convoluted employee surveys, stick to a simple fe
 
 7. You Can’t Delegate Culture: This is absolutely critical for exponential leaders. Culture can make or break a company, and therefore it a) must be very high on a leader’s list of priorities and b) must come from the top. Leaders can’t delegate culture. Sue goes on, “Leaders are the culture bearers, the torchkeepers of culture in our companies. They might have change agents, or those that actually help them amplify their culture, but the leader cannot delegate culture. This is a truth that a lot of us forget because we’re so busy. Employees and teams really want to see it from their leaders. They want to hear the talk, they want to watch them walk the talk, all the time.” Interestingly, while leaders cannot delegate culture creation, they can delegate culture keeping.
 
-leadership is based on emotional intelligence
-
-If friendship is your weakest point then you are the strongest person in the world -- Abraham Lincoln
-
 Just last week I reminded my team to leave in all internal key Meetings one seat free -- for our customer ... like Jeff Bezos practiced it in all Amazon meetings.
 
 There are three keys: honesty, effectiveness, and efficiency.
 
 evolutionary instinct to follow the strong person
-leadership, family style
 the quiet leader vs heroic leader
 
 exelius 337 days ago
@@ -1037,7 +1009,6 @@ In a situation where your subordinates are unsure of what to do and they really 
 When your subordinates are competent but lacking confidence, it's often a better option to stand back and say nothing. The "ownership" piece is huge -- if this is the first big project you've "owned", you'll probably iron out the kinks even if I don't say anything to you. Also keep in mind is that there are many correct ways to solve a problem; while your solution may not be the one I would go with, you're more comfortable with your solution and can probably see things about it that I can't. I trust you to be the expert on the solution; I've got bigger things to worry about like how I'm going to continue servicing my same workload with a 10% cut in budget.
 The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.
 
-- Life in a zoo is easier, but it isn't the life they were designed for.
 - A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don't generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
 - Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
 
@@ -1098,6 +1069,7 @@ HOWEVER... gaining an understanding and giving appropriate feedback makes your j
 But data shows people want more feedback but monthly, not daily.
 
 <!--
+> *'Praise by name, criticize by category.' -- Warren Buffet*
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
 - Amazon’s “two-pizza teams”: The ultimate divisional organization
 - a great manager is a great facilitator

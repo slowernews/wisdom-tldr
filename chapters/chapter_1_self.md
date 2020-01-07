@@ -130,6 +130,8 @@ Be willing to side with the minority.
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
+
+> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
 -->
 
 
@@ -245,6 +247,8 @@ Pull yourself together and take total ownership for everything in your life.
 The path will be revealed as you start walking.
 
 > *'If you are feeling lost in life, you need to experience more things.'*
+
+> *'When it is dark enough, you can see the stars.' -- Ralph Waldo Emerson*
 
 > *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
@@ -1364,6 +1368,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Don't be so humble - you are not that great.' -- Golda Meir*
 
 <!--
+Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
+
 > *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
 
 It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
