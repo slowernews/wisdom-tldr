@@ -12,7 +12,7 @@
 
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
 
-> *'The enemy of excellence is isolation.' -- Aaron Walker*
+> *'The enemy of excellence is isolation.' -- Aaron Walker*  
 > *'Your silence will not protect you.' -- Audre Lorde*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
@@ -56,7 +56,7 @@ How to curate your network?
 
 Why most people don't like networking? [It's hard to handle rejection](). We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
-> *'If you expect magic in every encounter, you find it.' — Adam Robinson*
+> *'If you expect magic in every encounter, you'll find it.' — Adam Robinson*
 
 > *'If people forget it wasn't a good network anyway.'*
 
@@ -154,7 +154,7 @@ Focus on what can you give instead of focusing in making money. When you'll find
 
 > *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
 
-Validate your business by finding paying clients. The more people pay for something, the more they value it: the consumer votes with his wallet.
+Validate your business by finding paying clients. The more they pay, the more they value it: the consumer votes with his wallet.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
@@ -500,7 +500,8 @@ most rejections are not your fault.
 ---
 ### On relationships
 
-A great relationship is about finding the similarities and respect the differences: mutual trust. Trust and vulnerability are correlated.
+A great relationship is about finding the similarities and respect the differences.  
+Trust and vulnerability are correlated.
 
 > *'You loose your identity, you loose people.' -- Amy Cuddy*
 
@@ -508,10 +509,9 @@ A great relationship is about finding the similarities and respect the differenc
 
 > *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness.'*
 
-Focus on what you can give not what you can get. You only receive in proportion to what you give. However after taking «first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. Run away from mediocrity and be ready to loose people. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary.  
-You need to partner with someone who wants you to be all you can be.
+Focus on what you can give not what you can get. You only receive in proportion to what you give. However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. You need to partner with someone who wants you to be all you can be.
 
-> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*  
 > *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'Don't hide your feelings from people who show you theirs.'*
@@ -580,11 +580,11 @@ However choose who surround you: you are the average of them.
 
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
 
-How to build your «board of directors»? Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
+How to build your «board of directors»?
 
-Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
-
-Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
+- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
+- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
+- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
 we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
 
 You're never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one.
@@ -674,7 +674,7 @@ Fatherhood makes you a mentor independently of your will. Don't tell my kids the
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
-How to teach your kids...
+How to teach your kids:
 
 - Generosity: «What did u do this week for somebody?»  
 - Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
@@ -685,7 +685,7 @@ How to teach your kids...
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
 - Optimism: «You have the gift of today.»
 
-HOWEVER... some people are not ready to accept your vision. And «givers» attract «takers»: remember you [don't owe them](#on-freedom) anything.
+HOWEVER... some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -695,13 +695,13 @@ HOWEVER... some people are not ready to accept your vision. And «givers» attra
 ---
 ### On rewards and generosity
 
-'No one has ever become poor by giving.' -- Anne Frank
+> *'No one has ever become poor by giving.' -- Anne Frank*
+
+> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
 Always be generous: a low value gift can have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
-
-> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
 Punishments aren’t as effective as rewards. Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses.
 
