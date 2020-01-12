@@ -12,75 +12,62 @@
 
 We don’t have an «imagination» we have a memory. Creative minds are rarely tidy.
 
+> *'Good artists copy; great artists steal.' -- Steve Jobs & others*
+
+> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
+
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
 
 > *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
 
-> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
-
-> *'Good artists copy; great artists steal.' -- Steve Jobs & others*
-
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
-Creativity is a muscle -- you have to practice it every day.  
-Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
+> *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.' -- Steve Jobs*
 
-> *'Good ideas are a numbers game. You need a lot of bad ones to get one good.'*
+How to find ideas? Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
-> *'We can’t solve problems by using the same kind of thinking we used when we created them.'*
+> *'The way to get good ideas is to get lots of ideas and throw the bad ones away.' -- Linus Pauling*
 
-How to find ideas?  
-Creativity is born out of free time, play and boredom lead to creativity.
+> *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
 > *'If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?'*
 
-> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
-
-> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
-
-> *'Ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.'*
+> *'We can’t solve problems by using the same kind of thinking we used when we created them.' -- Albert Einstein*
 
 > *'The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.' -- Amos Tversky*
 
 > *'I cultivate empty space as a way of life for the creative process.' -- Josh Waitzkin*
 
-> *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.'*
+> *'Ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.'*
 
-> *'Finding a good idea: idea sex, mix stuff.'*
+What is the value of an idea?
 
-How to judge ideas?
-
-> *'Peers (fellow creators) are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.'*
+> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 > *'Ideas are not worth a damn thing. Only execution is. Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.'*
 
-Creativity is linked to autonomy.
+> *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
-Best ideas come from the market, not from you.
+> *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- james Altucher*
 
-> *'Creativity and critical thinking:  
-In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot.  
-In executive position, visionary, maverick, multidisciplinary thinker, etc.  
-You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
+How to judge ideas? Best ideas come from the market, not from you.
+
+> *'Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.'*
 
 <!--
-> *'If you don't imagine, nothing ever happens at all.' -- John Green*
+Creativity is linked to autonomy.
+
+> *'Finding a good idea: idea sex, mix stuff.'*
+
+> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
 
 there’s a will there’s a way.
 
-If you’re willing to get creative, there’s nothing that you can’t do, be, or achieve. But you must be willing to think outside of the box and cut yourself off from any possibility of failure.
-
-Get creative to achieve your dreams
-	
-> *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
-
-Play is a gateway to possibility. Einstein called play the essential feature of productive thought. Seneca was also a fan of combinatorial play.
+Play is a gateway to possibility. Einstein called play the essential feature of productive thought.
 
 > *'Moments of originality and moments of conformity.'*
 
-Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas. -- altucher
-
-It's true that some ideas are better than other ones. But movement, action is the only thing that matters in the end. Because the right idea not executed is worth nothing, but a mediocre one well taken care of and well executed can prove to be worth much.
+Some ideas are better than other ones but action is the only thing that matters in the end. The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much.
 Ideas mature, evolve. They smash themselves against real life, sometimes for good
 -->
 
@@ -90,74 +77,41 @@ Ideas mature, evolve. They smash themselves against real life, sometimes for goo
 ---
 ### On analysis
 
-Analysis is an art, not a science.
+Analysis is an art, not a science. To find deep truths intuition is better than statistics.
 
-> *'To find deep truths intuition is better than statistics.'*
-
-> *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Levenstein*
+> *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
 
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
-And, as such, error-prone:  
-- randomness: most facts are a «tell» but some are just random.
+And, as such, error-prone by:
+
+- Randomness: most facts are a «tell» but some are just random.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
-> *'Never assume that what people say or do in a particular moment is a statement of their permanent desires.'*
-
 > *'Not everything that counts can be counted, and not everything that can be counted counts.' -- ALbert Einstein*
 
-It is possible to view this as an isolated event or a trend
-
-- [being deceived](#on-deceiving);
+- [Being deceived](#on-deceiving).
 
 > *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
 
-- and specially, bias, will trigger miscalculations.
+- Bias. E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
+
+> *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.' -- Marcus Aurelius*
 
 > *'What Susie says of Sally says mores about Susie than of Sally.'*
 
-> *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.'*
+> *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
 
 > *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
 
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 
-> *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
-
 > *'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?' -- George Carlin*
 
 > *'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' -- Mark Twain*
 
-Here’s an example of the confirmation bias: if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
-
-<!--
-> *'I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things.' -- Benjamin Franklin*
-> *'That which can be asserted without evidence, can be dismissed without evidence.' -- Christopher Hitchens*
-- Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
-	
-show me a man’s spending you can show me what he values”
-
-We always think that the people who agree with us are really smart.
-	
-in behavioural science the opposite is always true, depending on the environment
-
-Opinions are like a shirt: everyone should have at least a basic one, and it's okay to really love yours, but try to remember to change it every now and again.
-
-you have to be macchaviellan but you need also other skills! tese antitheses -> syntesis
-
-FATALITIES VS FALSE POSITIVES:
-
-The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches
-
-> *'The truth is rarely pure and never simple.' -- Oscar Wilde*
-
-> *'When a measure becomes a target, it ceases to be a good measure.' -- Goodhart's Law*
-
-> *'Judge a man by his questions, not by his answers.'*
-	
-> *'I look for ways of changing my mind.' -- Chalie Munger*
--->
+> *'Opinions are like a shirt: everyone should have at least a basic one, and it's okay to really love yours, but try to remember to change it every now and again.'*
 
 One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
@@ -172,69 +126,82 @@ Too much info is also prone to bias: you'll always find confirmation to your pre
 
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
 
-HINTS:
+Hints on the art of analysis:
 
 > *'«Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.'*
 
 > *'Pay attention to negative cues: what should have happened but did not.'*
 
-> *'Look for something that doesn't make sense. That's where the gold mine is:  
-«It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden.'  
-'Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
+> *'Look for something that doesn't make sense. That's where the gold mine is: «It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
 'look for the obvious: «Do you want to be a writer? You should have something to say.»'  
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
+> *'I look for ways of changing my mind.' -- Chalie Munger*
+
+> *'The truth is rarely pure and never simple.' -- Oscar Wilde*
+
+> *'When a measure becomes a target, it ceases to be a good measure.' -- Goodhart's Law*
+
+> *'That's the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
+
+How to judge a man?
+
+> *'Judge a man by his questions, not by his answers.' -- Voltaire*
+
+> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
+
 <!--
+> *'I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things.' -- Benjamin Franklin*
+> *'That which can be asserted without evidence, can be dismissed without evidence.' -- Christopher Hitchens*
+- Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
+
+We always think that the people who agree with us are really smart.
+
+tese antitheses -> syntesis
+
+The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches).
+
 - I think he's very smart and great at setting huge goals then hitting them, but I'm not sure he's a great prognosticator. (about bill gates)
 
-*reasoning by first principles and reasoning by analogy*
+- reasoning by first principles and reasoning by analogy
+- correlations is not causation
+- There is too much going on – too many decisions and interactions happening in every moment – for us to be able to conclude cause and effect with any certainty.
+- aditional information only feeds your confirmation bias
+- Skepticism is a great servant and a terrible master.
+- Sometimes we know that A+B=C but we don’t realize that A=C-B
+- The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
+- Ask yourself “does this decision require fast or slow thinking?” 
+- Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
+Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.
+- best way to deal with confirmation bias: You need to search out disconfirming evidence.
+- confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
+
+If an animal hears a rustle in the grass, it might be a predator. Of course, it might just as easily be the wind, or a smaller animal, or it might be nothing at all. But if it is a predator, that would be dangerous. The end of the animal’s life, probably. They would be removed from the gene pool forever. So it’s much better -- in evolutionary terms -- to assume that all these rustles in the grass are predators, because the cost of not assuming it’s a predator is too high.
+
+You might be thinking, “But why can’t this animal collect more data about these rustles in the grass? Why couldn’t it have evolved the capacity to do a more rational analysis?” Well, because that would take more time, and a predator doesn’t wait around for its prey to make a decision. Assuming is what keeps an animal alive, and therefore gives it more of a chance to reproduce -- and so it’s the animals that developed the ability to assume and make decisions rapidly that were more effective at reproducing.
+
+Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas.
+Two people with opposing views on a topic can see the same evidence, and still come away both validated by it
+We can be cautious of data which seems to immediately support our views.The desire to be right is the thirst for truth.
+Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts.
+This saves the time needed to make decisions, in particular when under pressure.
+
+Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
 
 > *'To understand is to know what to do.' -- Wittgenstein*
 
-correlations is not causation
-
-aditional information only feeds your confirmation bias
-
-Skepticism is a great servant and a terrible master.
-
-> *'That's the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- PG*
-
-There is too much going on – too many decisions and interactions happening in every moment – for us to be able to conclude cause and effect with any certainty.
-
-Sometimes we know that A+B=C but we don’t realize that A=C-B
-
 The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
 
-Your ability to think clearly determines the decisions you make and the actions you take.
-
-The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
-
-Ask yourself “does this decision require fast or slow thinking?” 
-
-Create a hypothesis-- a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do.
-
-This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
-
-Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.”
-
-If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.
-
-“To understand is to know what to do.”
-
 What’s your advantage: informational, analytical, or behavioral?
-
-simplicity is the ultimate sophistication
 	
-not playing your hand but playing your opponent.'*
+- not playing your hand but playing your opponent.'*
 
 “A world constructed from the familiar is the world in which there's nothing to learn.”
 In shaping what we see, filter bubbles show us a distorted map and not the terrain
 
-> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
+- The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
 
-The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
-
-scheduling free time can make it feel like chores
+- scheduling free time can make it feel like chores
 
 Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
 
@@ -249,36 +216,14 @@ key variables that you need to maximize and minimize, and follow the agile path 
 
 Knowing what you want is not enough, you must have a very clear blueprint for the specific actions you are going to take in order to achieve your end game
 
-best way to deal with confirmation bias: You need to search out disconfirming evidence.
-
-Almost everything people say to me has a good reason and a reason
+- Almost everything people say to me has a good reason and a reason
 
 everybody is a genious. but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 (under ideal conditions everybody is a genious)
 
-identifing needs
-
 um texto historico é biased/shortsighted mais que um gráfico historico onde cada um tira as suas comclusoes.
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
-
-confirmaton bias, the mother of all bias
-In truth, we all believe in things we can’t prove.
-If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated.
-Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite.
-We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
-
-If an animal hears a rustle in the grass, it might be a predator. Of course, it might just as easily be the wind, or a smaller animal, or it might be nothing at all. But if it is a predator, that would be dangerous. The end of the animal’s life, probably. They would be removed from the gene pool forever. So it’s much better -- in evolutionary terms -- to assume that all these rustles in the grass are predators, because the cost of not assuming it’s a predator is too high.
-
-You might be thinking, “But why can’t this animal collect more data about these rustles in the grass? Why couldn’t it have evolved the capacity to do a more rational analysis?” Well, because that would take more time, and a predator doesn’t wait around for its prey to make a decision. Assuming is what keeps an animal alive, and therefore gives it more of a chance to reproduce -- and so it’s the animals that developed the ability to assume and make decisions rapidly that were more effective at reproducing.
-
-Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas.
-Two people with opposing views on a topic can see the same evidence, and still come away both validated by it
-We can be cautious of data which seems to immediately support our views.The desire to be right is the thirst for truth.
-Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts.
-This saves the time needed to make decisions, in particular when under pressure.
-
-Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
 
 Lewis Carroll stated “we are what we believe we are”, but it seems that the world is also what we believe it to be
 

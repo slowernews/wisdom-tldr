@@ -153,6 +153,8 @@ HOWEVER don't obcess on that.
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
 <!--
+> *'If you don't imagine, nothing ever happens at all.' -- John Green*
+
 you can't stop the future -> control
 
 make the exercise: imagine you life in 10years. possible futures.
@@ -356,7 +358,9 @@ HINTS: How to keep health?
 'We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), [catch our own meals](?), [live in a close-knit tribe](friends), [have regular sex](relationships), [raise children](mentorship) and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.'
 
-'Don't be a plant: [travel](#on-travel-and-nomadism).'
+> *'Don't be a plant: [travel](#on-travel-and-nomadism).'* 
+
+> *'All men die, but not every man lives' -- William Wallace*
 
 HINTS:
 
@@ -387,13 +391,10 @@ HINT: How to simplify?
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
-Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)
-	
-making life more difficult than needed!
+- Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)
+- simplicity is the ultimate sophistication
+- Spend Your Money on Experiences and Adopt a Minimalist Lifestyle
 
-5. Spend Your Money on Experiences and Adopt a Minimalist Lifestyle
-
-> *'All men die, but not every man lives' -- William Wallace*
 > *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
 
 I have no plans to retire. It’s the perfect combination of work and play that keep you young.
