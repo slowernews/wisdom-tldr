@@ -247,8 +247,6 @@ Truth in stereotypes there'es truth on GROUP opinions.
 steryotypes are the falsy _group_ opinions that account for a small amout.
 groups opinios self correct themselves.
 
-> *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
-
 Every word someone says is the tip of the iceberg.
 Underneath that word are thoughts, fears, emotions.
 Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
@@ -627,12 +625,7 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 
 > *'Just jump in and figure it out. It can’t be that hard.' -- Chris Voss*
 
-- perfectionism
-
-> *'Perfectionism doesn’t make you feel perfect; it makes you feel inadequate.' -- Maria Shriver*
-
-> *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
-
+- [Perfectionism](chapter_1_self.md#on-perfectionism) 
 - fear (of change)
 
 > *'We distract ourselves because we are not willing to face up with what bothers us.'*
@@ -866,27 +859,21 @@ Don’t be afraid to take time away to find it.
 
 > *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
 
-Don't be thirsty.
+> *'Who seeks shall find.' -- Sophocles*
 
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
-> *'You finished ahead of time, that means you forgot something.'*
-
 > *'Vai procurar, vai achar o que não tinha perdido.'*
-
-> *'Who seeks shall find.' -- Sophocles*
 
 > *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
 
-'Position yourself for victory.'
+Position yourself for victory. Convenience (location) is better than space amount. Trade space for time.
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
-> *'Convenience (location) is better than space amount.'*
-
-> *'Trade space for time.'*
-
 <!--
+> *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
+
 > *'Trees that are slow to grow bear the best fruit.' -- Molière*
 
 15. Waiting may be the best course of action. A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. -- Balthasar Gracian
@@ -901,9 +888,8 @@ Here are three ways you can increase your velocity:
 - Don’t rely on your willpower to say no; instead, create systems that help you fend off distractions.example: One of my management principles was “no meeting mornings.”
 - say “no” to your boss.
 
-No podemos elegir nuestro origen pero podemos elegir hacia donde ir
-
-be clear that your ladder is laid on the right building.
+- No podemos elegir nuestro origen pero podemos elegir hacia donde ir
+- be clear that your ladder is laid on the right building.
 	
 chess gambits -- exchange material by position-time.
 
@@ -920,12 +906,11 @@ chess gambits -- exchange material by position-time.
 ---
 ### On focus, priorities and productivity
 
-'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy.  
-Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin, The Dip
+> *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy.  
+Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
 
-Time itself, is not your limitation. Attention is.  
-You’re not managing time, you're managing attention.
-Focusing is an art, not a science.
+Time itself is not your limitation: attention is. You’re always managing attention, not time.
+Focusing is an art.
 
 > *'Busy imply out of control. lack of time is lack of priorities.'*
 
@@ -937,7 +922,7 @@ First the essential. Then the details.
 > *'You can do anything, but not everything.' -- David Allen*
 
 > *'Focusing is about saying no.' -- Steve Jobs*
-'«No» is no to one thing. «Yes» is no to a lot of things.'
+
 > *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
 
 > *'A man with a watch knows what time it is. A man with two watches is never sure.'*
@@ -953,9 +938,7 @@ you're not perfect in everything. find your specialty.
 
 > *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
 
-HINT: perfectionism is as bad as procrastination
-
-> *'Perfect is the enemy of good.'*
+[Perfectionism](chapter_1_self.md#on-perfectionism) is as bad as procrastination
 
 Work by layers: functional -> perfect; 
 Do less to achieve more. make the basics in life, and you're good to go. you don't need to optimise.
@@ -977,7 +960,10 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-> *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
+> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.' -- Steve Jobs*
+
+'«No» is no to one thing. «Yes» is no to a lot of things.'
+
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 - dont make 100 decisions when one will do -- peter drucker
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
@@ -989,7 +975,6 @@ HOWEVER...
 People As Response Functions. response triggers: your primary trigger, your secundary trigger
 
 > *'Romans ship, Greeks maintain.' -- anon*
-
 > *'Whatever you are, be a good one.' -- Abraham Lincoln*
 
 Top performers definitely focus on fewer goals — but they also obsess like crazy over them.
@@ -1020,10 +1005,6 @@ saying yes to everything is a quick road to mediocrity.
 
 busy is a decision. what you are really saying: is not a priority.
 is a excuse for not doing something we don't feel like doing.
-
-> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.' -- Steve Jobs*
-
-> *'If you are going through hell, keep going.' -- Winston Churchill*
 
 Right now, you can give yourself the gift of joy by choosing to focus on what is good instead of what is missing.
 
@@ -1063,8 +1044,7 @@ Selective perfectionism
 Set yourself deadlines.
 
 Pomodoro time
-
-Get more time: Spend time on the right things.
+- Get more time: Spend time on the right things.
 
 List highest-leverage activities (where 80% of your time should go).
 Complete at least 1 important but not urgent task per day.
@@ -1074,10 +1054,6 @@ Shut off the phone when meeting w/ someone. listen
 Avoid mindless Internet surfing.
 Shut off email notifications.
 Declare an email holiday. Wait a bit before sending important emails/messages
-
-If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
-
-Não se pode fazer colecção de tudo.
 
 school rewards generalist and not focusing: the world not so.
 
@@ -1095,23 +1071,24 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 ---
 ### On control
 
-'You can lead a horse to water but you can’t make him drink.'
+> *'You can lead a horse to water but you can’t make him drink.'* 
 
 Control what you can: [what you’re primed by](), [who you are around](), the ideas and problems you [focus]() on.  
 Ignore the rest.
-
-> *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti*
 
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
 <!--
+> *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 - control is the master adiction.
 - focus on what doesnt change
 - past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 
 > *'Sometimes people don't want to hear the truth because they don't want their illusions destroyed.' -- Friedrich Nietzsche*
+
+- Não se pode fazer colecção de tudo.
 -->
 
 
@@ -1165,9 +1142,6 @@ There are two approaches to improving yourself:
 1) The self-improvement junkie. 
 2) The self-improvement tourists.
 I would argue that self-help tourists are using self-improvement advice in a healthy manner and that self-help junkies are (often, but not always) using it in an unhealthy manner. Remember, the paradoxical point of all self-improvement is to reach a point where you no longer feel you need to improve yourself. Therefore, the constant indulgence in self-improvement material just continues to feed that feeling of inadequacy.
-
-fomo -> fear of missing out
-
 Where does it end? It doesn’t. At least not until you decide it does.
 Because the only way to truly benefit from self-improvement is to one day arrive at a place where you no longer need it. Like a cast for a broken arm. Or a bandage for a deep cut. You put it on, let it heal you. And then you take it off and move on with your life.
 
@@ -1327,17 +1301,17 @@ Sun Tzu, strategy is about winning before the battle begins, while tactics are a
 ---
 ### On leverage
 
+Leverage is a force multiplier for your judgement.
+
 > *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
 
+> *'The greatest shortcoming of the human race is our inability to understand the exponential function.' -- Albert Allen Bartlett*
+
 <!--
-	on scaling
-What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
+on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone's needs and shrinking their ability, aided by envy and reciprocation effects.
 
-
 The power of compounding: you can achieve anything, if you stop trying to do everything.
-
-> *'The greatest shortcoming of the human race is our inability to understand the exponential function.' -- Albert Allen Bartlett*
 
 Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
 Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.
@@ -1346,7 +1320,7 @@ Capital and labor are permissioned leverage. Everyone is chasing capital, but so
 Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it's just packed in data centers for heat and space efficiency. Use it.
 If you can't code, write books and blogs, record videos and podcasts.
-Leverage is a force multiplier for your judgement.
+
 Judgement requires experience, but can be built faster by learning foundational skills.
 There is no skill called “business.” Avoid business magazines and business classes.
 Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
@@ -1427,16 +1401,15 @@ To Persuade Someone, Look Emotional
 ---
 ### On deceiving
 
-'Appear weak when you are strong and strong when you are weak.' -- Sun Tzu
-
-> *'Court attention at all cost.'  
-'Play to people’s fantasies.'  
-'Create compelling spectacles.'  
-'Stir up waters to catch fish.' -- Robert Greene (6th, 32nd, 37th and 39th law of power)*
-
-> *'Play a sucker to catch a sucker -- seem dumber than your mark.' -- Robert Greene (21st law of power)*
+> *'Appear weak when you are strong and strong when you are weak' -- Sun Tzu*
 
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
+
+> *'Court attention at all cost.'  
+'Play a sucker to catch a sucker: seem dumber than your mark.'  
+'Play to people’s fantasies.'  
+'Create compelling spectacles.'  
+'Stir up waters to catch fish.' -- Robert Greene (6th, 21st, 32nd, 37th and 39th law of power)*
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
@@ -1444,19 +1417,17 @@ To Persuade Someone, Look Emotional
 
 > *'If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.'*
 
-HOWEVER... deceiving is not lying.
+> *'A man is not deceived by others, he deceives himself.' -- Goethe*
+
+However deceiving is not lying. Disappointment destroys trust.
 
 > *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
-
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
-
-> *'One of the most potent weapons in the battle for information is giving out false information.'*
 
 > *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
-> *'Disappointment destroys trust.'*
+> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
 
 <!--
 > *'The underground of the city is like what's underground in people. Beneath the surface, it's boiling with monsters.' -- Guillermo del Toro*
@@ -1469,11 +1440,9 @@ Clean players on shady markets usually don't do well on the long term.
 
 the good reason (the reason they tell you) and the real reason.
 
-One common thing I learned at three in the morning: everyone lied to survive. Truth is a luxury we day-people take for granted.
+- One common thing I learned at three in the morning: everyone lied to survive. Truth is a luxury we day-people take for granted. - james altucher
 
 if somebody asks for the evidence, normally he is lieing
-
-> *'#320. A man is not deceived by others, he deceives himself.' -- goethe*
 -->
 
 
@@ -1487,7 +1456,7 @@ if somebody asks for the evidence, normally he is lieing
 'Keep others in suspended terror: cultivate an air of unpredictability.'  
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
-HOWEVER... unpredictability can work against you: if you are in a subordinate position, it reduces [trust]().
+However unpredictability can work against you: if you are in a subordinate position, it reduces [trust]().
 
 <!--
 > *'Teach no one your tricks or they will be used against you.'* 
@@ -1503,7 +1472,7 @@ Mirroring works best when your group is in minority.
 
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
-> *'To change a status quo based on a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
+> *'To change a status quo established by a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
@@ -1533,7 +1502,7 @@ Easy opponents are normally just [bait](#on-charming).
 
 > *«El dorados» are never drawn in the map.'*
 
-HINTS: on Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
@@ -1543,20 +1512,21 @@ HINTS: on Desperate opponents will risk anything in a fight. This gives them a h
 
 > *'Our fearlessness shall be our secret weapon.' -- John Green* 
 
-HOWEVER... there are same people acting stupid. Easy wins if you can identify them.
+> *'Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
+
+However there are people acting stupid. Easy wins if you can identify them. There are simply too many to avoid.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
-> *'In the course of your life you will be continually encountering fools. There are simply too many to avoid.'*
-
 > *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
-HINTS: on difficult opponents, to win, besides outworking them, you'll need all weaponry.
+> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
+
+> *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
+
+To win to difficult opponents, besides outworking them, you'll need all weaponry. Even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
 
 > *'Put all the meat in the barbecue.' -- Portuguese soccer coach*
-
-Even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff».  
-They can be effective but use them *only* on life changing situations: it's a scar for life.
 
 > *'Get others to do the work for you, but always take the credit.'  
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
@@ -1564,22 +1534,14 @@ They can be effective but use them *only* on life changing situations: it's a sc
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
-> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
-> *'#276. Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- goethe*
-> *'You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow.'*
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 - no one will help you in a way that’s prejudicial to them.
-
-19. Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence. -- Balthasar Gracian
-
-People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage.
+- People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage.
 	
-Nietszche says to measure one's strength by the number of parasites one can support.
+- Nietszche says to measure one's strength by the number of parasites one can support.
 
-surpass a gatekeeper:
-i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
-HOW open up people, is an open end question. they can say yes or no.
+surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
 -->
 
 
@@ -1594,7 +1556,7 @@ The only successful changes are those coming from within.
 Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
 
 <!--
-burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happyness from them.
+burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
 -->
 
 
@@ -1622,9 +1584,9 @@ Starting is fun but success belongs to finishers.
 
 > *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
 
-<!--
-> *'#278. Difficulties increase the nearer we come to our aim.' -- goethe*
--->
+> *'You finished ahead of time, that means you forgot something.'*
+
+> *'Difficulties increase the nearer we come to our aim.' -- Goethe*
 
 
 
@@ -1632,8 +1594,9 @@ Starting is fun but success belongs to finishers.
 ---
 ### On surrendering
 
-Use this opportunity to re-create yourself.  
-'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk
+> *'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk*
+
+Use this opportunity to re-create yourself. In order to come back you have to go away. If you didnt quit anything you woud be still playing with toddlers.
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
@@ -1642,18 +1605,14 @@ Use this opportunity to re-create yourself.
 
 > *'The greatest revenge is success.' -- Frank Sinatra*
 
+> *'Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere.' -- Paul Coelho*
+
 <!--
 > *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
-
-In order to come back you have to go away.
-
-if you didnt quit anything you woud be still playing with toddlers
 
 when do you decide how to quit something else?
 quit or grit? woop
 wish / outcome / obstacle / plan
-
-> *'Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere.' -- Paul Coelho*
 
 Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
 -->
@@ -1696,12 +1655,12 @@ It's not just about winning. The way you win sets you up for the next round.
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 <!--
-“You might be winning but you’re not growing, and growing might be the most important form of winning.”, “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”, Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.” -- jordan peterson
+> *'You might be winning but you’re not growing, and growing might be the most important form of winning.”, “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”, Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 
 > *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
 18. Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat. -- Balthasar Gracian
 
-There are two ways of spreading light: to be the candle or the mirror that reflects it — Edith Wharton
+> *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 
 quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- sergio conceição
 

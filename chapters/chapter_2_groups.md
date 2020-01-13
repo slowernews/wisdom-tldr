@@ -208,6 +208,8 @@ Patterns on successful *wannapreneurs*.
 > *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 <!--
+- If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
+
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
 
 I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.

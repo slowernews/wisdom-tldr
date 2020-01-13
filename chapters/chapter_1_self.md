@@ -269,6 +269,7 @@ The path will be revealed as you start walking.
 > *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 <!--
+> *'If you are going through hell, keep going.' -- Winston Churchill*
 > *'Go where you can make a difference not where you think there’s a home run.'	
 > *'I can think, I can wait and I can fast.' -- Siddahrta*
 > *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
@@ -1441,10 +1442,12 @@ How to break through your plateaus?
 - On a plateau take a step back.  
 - Break down your dreams/goals into achievable steps.
 
-HOWEVER... your level of success will seldom exceed your level of personal development.
+However your level of success will seldom exceed your level of personal development.
+
+> *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
 
 <!--
-Your belief that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 -->
 
 
@@ -1453,7 +1456,7 @@ Your belief that you are not good enough: that you will never find a woman as go
 ---
 ### On perfectionism
 
-'The perfect is the enemy of the good.' -- Voltaire
+> *'The perfect is the enemy of the good.' -- Voltaire*
 
 Strive for excellence, not for perfection.  
 Try to see yourself as a doist, not a perfectionist. This is liberating.
@@ -1463,3 +1466,9 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 > *'Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your “self” out of your decisions, because most likely, it’s not about “you”. Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it.' -- Mark Manson*
 
 > *'From good enough you can derive success.'*
+
+> *'Perfectionism doesn’t make you feel perfect; it makes you feel inadequate.' -- Maria Shriver*
+
+<!--
+> *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
+-->
