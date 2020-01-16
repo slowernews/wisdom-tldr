@@ -1208,6 +1208,7 @@ The best years of your life are the ones in which you decide your problems are y
 > *'Behaviors are driven by fear. To change behaviors focus on fear, not on the behavior itself.'*
 
 <!--
+age is a mindset
 > *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*  
 > *'Named must your fear be before banish it you can.' -- Yoda*
 anger is fear clothed: Understanding the underlying fears that angry people have leads to mastery in life.

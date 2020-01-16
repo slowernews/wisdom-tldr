@@ -10,8 +10,8 @@
 
 ### On past and memory
 
-You are your memory but *let go* your past [failures](#on-mistakes-and-failure).  
-They are meant to guide you, not to define you or determine your future.
+You are your memory but let go your past [failures](#on-mistakes-and-failure).  
+They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
 > *'Half of the game is learning how to forget events in the past that eat away at you and cloud your reason.'*
 
@@ -23,11 +23,19 @@ They are meant to guide you, not to define you or determine your future.
 
 > *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
+> *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.'*
+
+Life becomes very easy when you have studied the past to the extent that you have seen the recurring patterns.
+
 > *'There are years that ask questions and years that answer.' -- Zora Neale Hurston*
 
 > *'We are surrounded by story.' -- Alice McDermott*
 
 > *'History does not repeat, but it does rhyme.' -- Mark Twain*
+
+> *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
+
+> *'There is no past or future. Using tenses to divide time is like making chalk marks on water.'*
 
 How memory works? People forget by decaying and giving them other stuff to remember.
 
@@ -35,27 +43,17 @@ How memory works? People forget by decaying and giving them other stuff to remem
 
 > *'People remember more the beginning and the end of something.'*
 
+> *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy^*
+
+> *'Either I forget right away or I never forget.'*
+
 > *'Repetition is good for memory but its a thin line between repetition and getting annoyed.'*
 
-> *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.'*
+> *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.' -- Rosalind Cartwright*
 
 > *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
 
-> *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy^*
-
 > *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
-
-<!--
-> *'There is no past or future. Using tenses to divide time is like making chalk marks on water.'*
-
-> *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.'* 
-
-I’m like that. Either I forget right away or I never forget.
-
-The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
-
-Life becomes very easy when you have studied the past to the extent that you have seen the recurring patterns
--->
 
 
 
@@ -64,14 +62,11 @@ Life becomes very easy when you have studied the past to the extent that you hav
 ### On present
 
 You will die soon.  
-Act accordingly and don't postpone joy: live life ready to meet god like it’s everyone else’s last day.  
-If you can’t find pleasure in the simple or the mundane, then you won’t find pleasure anywhere.
+Act accordingly and don't postpone joy: live life ready to meet god like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, does not mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
 
 > *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
-
-> *'We are like butterflies who flutter for a day and think it's forever.'*
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
@@ -85,32 +80,19 @@ If you can’t find pleasure in the simple or the mundane, then you won’t find
 
 > *'It is never too late to be what you might have been.' -- George Eliot*
 
-HINTS:
+> *'What's life? Showing up for the people you love, again and again, until you can’t show up anymore.'* -- Rebecca Walker*
 
-100 blocks a day -- wait but why  
-life is long enough
-
-HOWEVER:
-
-> *'Live not in dreams but in contemplation of a reality that is perhaps the future.' -- Rainer Rilke*
-
-> *'We never know where we’re going, but we sure as hell ought to know where we are.'*
+> *'Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now. Money is nothing more than a magnifying glass. Money simply makes you more of what you already are. They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!'*
 
 <!--
-> *'What's life? showing up for the people you love, again and again, until you can’t show up anymore.'* -- Rebecca Walker*
-When we listen to the regrets of the elderly and dying, they invariably lament on what they neglected to do, not what they did.
+- 100 blocks a day -- wait but why  
+- life is long enough
+I’m with Seneca. Life doesn’t have to be short. We all have 24h in a day. Every single one of us.
+You can use them to create something awesome, to visit that someone special who misses you desperately, to provide for your family, or to savor a great moment. But don’t waste your hours. Don’t end up wondering, “What have I been doing with my time?” Leave a trail of accomplishments or smiles behind you.
+- When we listen to the regrets of the elderly and dying, they invariably lament on what they neglected to do, not what they did.
+- We are all made of time and we keep wasting each other..
+- Time never has, and never will solve a damn thing.
 
-age is a mindset
-
-Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now. Money is nothing more than a magnifying glass. Money simply makes you more of what you already are. They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!
-
-We are all made of time and we keep wasting each other..
-
-But just because you are not where you want to be, does not mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
-
-Time never has, and never will solve a damn thing.
-
-1) Protect your time like your money.
 2) Manage emotions to better manage time: it’s your beliefs that create your feelings, not reality.
 procrastination is a mood-management technique
 3) Important Beats Urgent
@@ -122,10 +104,6 @@ Doing something well does not make it important. I think this is one of the most
 What’s that have to do with productivity? Plenty. Because you worry about all kinds of stuff that you can’t do anything about. And that’s wasted time and energy.
 And neuroscience research shows that by focusing on what you have control over, you decrease stress.
 You can’t control whether it ends up as a “robbery” or an “attempted robbery”, just focus on executing the heist in a way that would make mom proud.
-No offense to Karl. He did a survey. So he didn’t necessarily get the right answer, he got the most common answer.
-
-I’m with Seneca. Life doesn’t have to be short. We all have 24h in a day. Every single one of us.
-You can use them to create something awesome, to visit that someone special who misses you desperately, to provide for your family, or to savor a great moment. But don’t waste your hours. Don’t end up wondering, “What have I been doing with my time?” Leave a trail of accomplishments or smiles behind you.
 -->
 
 
@@ -142,9 +120,15 @@ Dream big. If your dreams don't scare you, they are not big enough.
 
 > *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
 
+> *'If you don't imagine, nothing ever happens at all.' -- John Green*
+
 > *'Life is understood backwards, but must be lived forwards.' -- Kierkegaard*
 
 > *'Anomalies often represent the future but to our eyes they seem strange.'*
+
+> *'Finding a place to die is an important thing to do.' -- Nagasaki*
+
+> *'Rich people think big. Poor people think small.' -- T. Harv Eker*
 
 HOWEVER don't obcess on that.
 
@@ -153,13 +137,8 @@ HOWEVER don't obcess on that.
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
 <!--
-> *'If you don't imagine, nothing ever happens at all.' -- John Green*
-
-you can't stop the future -> control
-
-make the exercise: imagine you life in 10years. possible futures.
-
-> *'Finding a place to die is an important thing to do.' -- Nagasaki*
+- you can't stop the future -> control
+- make the exercise: imagine you life in 10years. possible futures.
 -->
 
 
@@ -186,12 +165,12 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays; y
 
 > *'Most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.' -- Andy Benoit*
 
-<!--
 > *'The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.' -- John Holt*
 
-When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
+> *'We like to believe in genius. It gives us an excuse for being lazy.' -- Paul Graham*
 
-We like to believe in genius. It gives us an excuse for being lazy. -- Paul Graham
+<!--
+When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
 -->
 
 
@@ -205,7 +184,8 @@ Money is a tool. it can serve as a force multiplier to help you live the life of
 
 > *'Life, is not a having and a getting, but a being and a becoming.' -- Myrna Loy*
 
-> *'Shift your focus from achievement to fulfillment: what makes you come alive, what do you enjoy doing, who do you enjoy being around?'*  
+> *'Shift your focus from achievement to fulfillment: what makes you come alive, what do you enjoy doing, who do you enjoy being around?'*
+
 > *'You can spend your time making money but you can't spend your money making time.'*
 
 > *'You’re not supposed to optimize for money; you’re supposed to optimize for happiness.' -- Mr. Money Mustache*
@@ -220,37 +200,22 @@ Money is a tool. it can serve as a force multiplier to help you live the life of
 
 > *'After a certain point, money is meaningless. It ceases to be the goal. The game is what counts.' --  Aristotle Onassis*
 
-<!--
-How to get money (without getting lucky):
-Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible.
-Ignore people playing status games. They gain status by attacking people playing wealth creation games.
-You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
-You will get rich by giving society what it wants but does not yet know how to get. At scale.
-Pick an industry where you can play long term games with long term people.
-The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet.
-Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.
-Pick business partners with high intelligence, energy, and, above all, integrity.
-Don't partner with cynics and pessimists. Their beliefs are self-fulfilling.
-Learn to sell. Learn to build. If you can do both, you will be unstoppable.
-Arm yourself with specific knowledge, accountability, and leverage.
-Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you.
-Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now.
-Building specific knowledge will feel like play to you but will look like work to others.
-When specific knowledge is taught, it’s through apprenticeships, not schools.
-Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.
-Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.
-The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.
-You cannot save your way to wealth.
-
-nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
-
-- Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems.
-- Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.
-- Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person.
-
-> *'Rich people think big. Poor people think small.' -- T. Harv Eker*
-
 > *'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
+
+How to get money (without getting lucky):  
+- Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible. Ignore people playing status games. They gain status by attacking people playing wealth creation games. Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems. Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person.  
+- You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
+You will get rich by giving society what it wants but does not yet know how to get. At scale. Pick an industry where you can play long term games with long term people. The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.  
+- Pick business partners with high intelligence, energy, and, above all, integrity. Don't partner with cynics and pessimists. Their beliefs are self-fulfilling.  
+- Learn to sell. Learn to build. If you can do both, you will be unstoppable.  
+- Arm yourself with specific knowledge, accountability, and leverage. Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others. When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.  
+- Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage. The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.  
+- You cannot save your way to wealth.
+
+Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
+
+<!--
+> *'You and I know that it isn't what a man has that constitutes wealth. No-it is to be satisfied with what one has-that is wealth.' -- Mark Twain*
 -->
 
 
@@ -290,24 +255,16 @@ If you're sure it's not, be positive, the pendulum will swing back your way even
 
 > *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
 
-What’s the difference between luck and chance?  
-Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
-
-HOWEVER positive results don't imply good planning.
+What’s the difference between luck and chance? Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. However positive results don't imply good planning.
 
 > *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 
 <!--
-> *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban 2010*
+> *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
 
-Unless you’re winning, life will seem hideously unfair to you. 
-
-science of patterns.
-
-You create your luck by being healthy and not regretting the past or being anxious about the future.
-
-The best things in life are born from coincidence. I am a firm believer in this.
-surprises only happen when they didnt repaeat on ones lifetime
+- Unless you’re winning, life will seem hideously unfair to you. You create your luck by being healthy and not regretting the past or being anxious about the future. The best things in life are born from coincidence.
+- surprises only happen when they didnt repaeat on ones lifetime
+- science of patterns.
 -->
 
 
@@ -324,9 +281,7 @@ surprises only happen when they didnt repaeat on ones lifetime
 
 > *'The sign of a beautiful person is that they always see beauty in others.'* 
 
-<!--
 > *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
--->
 
 
 
@@ -370,7 +325,11 @@ HINTS:
 
 > *'We don’t stop playing because we grow old; we grow old because we stop playing.'*
 
+> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+
 > *'The opposite of play isn’t work, it’s depression.'*
+
+> *'I have no plans to retire. It’s the perfect combination of work and play that keep you young.'*
 
 > *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
 
@@ -378,78 +337,47 @@ HINTS:
 
 > *'Essencialism: The disciplined pursuit of less.'*
 
-HINT: How to simplify?
+> *'Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)'*
 
+> *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
+
+> *'House + work + third place (coffeeshop).'* 
+
+How to reduce your expenses without sacrificing your quality of life?
+
+> *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
+
+> *'Geoarbitrage.'*
+
+Simplicity is the ultimate sophistication. How to simplify?  
 - Use simpler tools.  
 - Use it or loose it.  
 - [Get rid of the unnecessary distractions](focus).  
 - [Remove any obligations that aren’t truly serving your end goals](freedom).  
 - Your job should be a product of your lifestyle, not the other way around.
+- Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
+- Work no more than 35 hours a week.
 
-*HOWEVER:*
+However:
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
 <!--
-- Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)
-- simplicity is the ultimate sophistication
-- Spend Your Money on Experiences and Adopt a Minimalist Lifestyle
-
-> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
-
-I have no plans to retire. It’s the perfect combination of work and play that keep you young.
-If I quit work it would be the beginning of the end for me.
-
-How to Reduce Your Expenses without Sacrificing Your Quality of Life
-> *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
-
-> *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
-
-“Lifestyle before money. But money also.”
-In life, you will often be presented with two options: The lucrative option, The lifestyle option
-job -> money + lifestyle!
-
-live the life you want now and not later.
-
-geoarbitrage
-	
-Work no more than 35 hours a week.
-
-HINTS on the value in less and the joy of missing out:
-
-it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
-
-the unfortunate culture in technology that devalues everything unrelated to militant capitalism. If you’re not trying to make money, what are you even doing?
-
-feel like a local celebrity: everybody knows who you are.
-you are in a city, without knowing the language, manage to go to the hostel, meet people there.
-make your way there.
-
-Life is a game of tradeoffs. You must eventually choose what you’re willing to trade based on what you value.
-
-Don't play the government’s game. Instead, create a game that worked by my rules, a game I could win.
-
-“the paradise tax”
-
-_meaning_ I quickly realized that I had to find another way to derive meaning from my life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
-
-That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
-
-But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
-
-My life has been a series of questions and odd experiments.
-
-permission to rethink
-weekly design session -- think on longer term
-reactive to proactive life
-start where do you have control of. go slowly over time.
-Essentialism: 
-
-/r/buyitforlife
-
-house + work + third place (coffeeshop)
-
-Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
+- In life, you will often be presented with two options: The lucrative option, The lifestyle option. job -> money + lifestyle!
+- value in less and the joy of missing out:
+- it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
+- the unfortunate culture in technology that devalues everything unrelated to militant capitalism. If you’re not trying to make money, what are you even doing?
+- feel like a local celebrity: everybody knows who you are.
+You are in a city, without knowing the language, manage to go to the hostel, meet people there. Make your way there.
+- Life is a game of tradeoffs. You must eventually choose what you’re willing to trade based on what you value.
+- Don't play the government’s game. Instead, create a game that worked by my rules, a game I could win.
+- the paradise tax
+- find another way to derive meaning from life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
+- That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
+- But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
+- My life has been a series of questions and odd experiments.
+- /r/buyitforlife
+- Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
 -->
 
 
@@ -458,10 +386,11 @@ Since he has taken the red pill his hobbies are: working out, writing, mentoring
 ---
 ### On success
 
-There is no shortcut to the top. Success is a castle that you build [brick by brick](#on-habits-and-systems).  
-Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-and-happiness).
+There is no shortcut. Success is a castle that you build [brick by brick](#on-habits-and-systems). But success is not being [wealthy](#on-wealth), is being [happy](#on-gratefulness-and-happiness). Success is subjective. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
+
+> *'A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.'*
 
 > *'Success is simple, but it is not easy. Success is nothing but the accumulation of small things done consistently over a long period of time.'*
 
@@ -471,73 +400,34 @@ Success is not being [wealthy](#on-wealth) but being [happy](#on-gratefulness-an
 
 > *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
 
-HOWEVER... [doubt](#on-confidence-and-validation), not failure, is the biggest barrier to success.
+> *'Society judges people by what they can do for others. But we judge ourselves by our thoughts.'*
 
-> *'The greatest barrier to success is the fear of failure.' -- Sven Goran Eriksson*
+> *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
+
+HOWEVER... [fear](#on-confidence-and-validation), not failure, is the biggest barrier to success.
 
 > *'Doubt kills more dreams than failure ever will.'*
+
+> *'Whether you think you can, or you think you can't, you're right.' -- Henry Ford*
 
 And success might have a price.
 
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 
 <!--
-> *'#239. To live in a great idea means to treat the impossible as though it were possible. It is just the same with a strong character; and when an idea and a character meet, things arise which fill the world with wonder for thousands of years.' -- goethe*
-> 16. Success can hurt friendships. A wise friend wards off worries, a foolish one brings them about. But do not wish them too much luck, or you may lose them. -- Balthasar Gracian
-
-- Society judges people by what they can do for others. But we judge ourselves by our thoughts.
 - Abilities are not prized by their virtue.
+- Real success happens when we focus on one thing at a time.
+- There are two things you need to do to be successful: know what is he right thing and having the courage to do it
+- rules of success are universal.
+- Success is sequential, not simultaneous.
+- your neeed for aceptance can make you invisible in this world.
+- And when they finally became a “success” they realized that they were no more fulfilled at 40 with $100,000 in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them. They worked tirelessly to achieve goals that they didn’t truly care about.
+- success is a dangerous word. i dont know any sucessful person.
+- sucesses keep you making the same stuff, mistakes not.
+- It’s never your identity, it’s always your strategy
+- Succeeding means securing advantage.
 
-Life is About Who You Become Not What You Achieve
-On this journey called life, many people lose sight of what is really important.
-They believe that material wealth, sexual experiences, and physical prowess are what makes a man.
-But the reality is, life is about the man that you become, not the things that you do or the possessions that you gather.
-It’s about your character.
-It’s about who you impact, the way you show up in the world, and the way that you treat those around you.
-
-Real success happens when we focus on one thing at a time.
-
-There are two things you need to do to be successful.
-know what is he right thing and having the courage to do it
-
-rules of success are universal.
-“Feel. Don’t think.. Use your instinct.” -- We allow logic and egoic reasoning to dictate what we want (or what we say we want) and what goals we pursue.
-But if you want to be truly happy. When you trust your instincts instead of your head, you will be in greater alignment with your true purpose and your actual desires. So drop the logic and just feel.
-
-1. Do What Works and Forget the Rest
-But the simple truth is that success leaves clues.
-There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
-
-"The successful results of evolution are organisms that aren't perfect, but 'good enough' to survive and reproduce themselves." -- 
-
-> *'You and I know that it isn't what a man has that constitutes wealth. No-it is to be satisfied with what one has-that is wealth.' -- Mark Twain*
-
-Succeeding means securing advantage.
-
-Defining Success for Yourself:
-1. What makes me come alive?
-2. What do I hate?
-3. How Do I Want to Be Remembered?
-4. Write Down Your Own Definition of Success
-
-your neeed for aceptance can make you invisible in this world.
-
-> *'A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.'*
-
-> *'Success is sequential, not simultaneous.'*
-
-> *'You can often be the biggest barrier to your own success. We aren’t very emotionally open, and often many of us are brought up that way.'*
-
-And when they finally became a “success” they realized that they were no more fulfilled at 40 with $100,000 in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them. They worked tirelessly to achieve goals that they didn’t truly care about.
-
-success is a dangerous word. i dont know any sucessful person.
-sucesses keep you making the same stuff, mistakes not.
-
-> *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
-
-> *'It’s never your identity, it’s always your strategy'*
-
-Success is subjective. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
+1. Do What Works and Forget the Rest. But the simple truth is that success leaves clues. There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
 
 1. All of Success is About Conquering Yourself
 Most people assume that success is all about the mechanics.
@@ -551,21 +441,13 @@ success is not the accumulation of stuff
 If you want to succeed at anything in your life, then forget about the Joneses.
 You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
 
-True fulfillment comes from living your life, not from achievement.
-
-Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal.
-
-Experiences worth more than material
+- Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal. True fulfillment comes from living your life, not from achievement. Experiences worth more than material
 
 “The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
 
-The key to all success in life lies in education and massive action.
-If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
+- The key to all success in life lies in education and massive action. If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
 
-The story he told me was a combination of luck, learning skills, building a network, and acting on the intersection of all of the above. But more than anything, it’s being open to surrender. Surrendering to constant reinvention.
-
-> *'Everything is possible. The impossible just takes longer.' -- Dan Brown*
-> *'Whether you think you can, or you think you can't, you're right.' -- Henry Ford* (power of belief)
+- The story he told me was a combination of luck, learning skills, building a network, and acting on the intersection of all of the above. But more than anything, it’s being open to surrender. Surrendering to constant reinvention.
 -->
 
 
@@ -576,8 +458,7 @@ The story he told me was a combination of luck, learning skills, building a netw
 
 ### On comedy
 
-Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated.  
-Standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
+Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. Standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
 
 > *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin  to Anastas Mikoyan*
 
@@ -617,8 +498,7 @@ What is love?
 > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
 > *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
 
-To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity.
-This is why the comedians are the modern day philosophers.
+To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity. This is why the comedians are the modern day philosophers.
 -->
 
 
@@ -714,7 +594,6 @@ This is why the comedians are the modern day philosophers.
 Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 
 - News are the first draft of History.
-> *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
 
 chef invents based on ingredents, cook follows a recipe
 an artist normally is an egocentric, free and creative person.

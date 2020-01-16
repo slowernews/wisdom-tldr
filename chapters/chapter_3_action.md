@@ -635,6 +635,7 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+1) Protect your time like your money.
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 
 > *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
@@ -652,7 +653,7 @@ you always throw out your first pancake - primeiro milho é para os pardais
 	
 It isn't what we say or think that defines us, but what we do. -- Jane Austen
 
-in order to understand i destried myself
+- in order to understand i destried myself
 	
 At some point, the pain of not doing it becomes greater than the pain of doing it. -> law of procrastination
 
