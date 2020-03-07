@@ -75,29 +75,33 @@ Speak less and listen more. Be humble, listening is powerful.
 
 How to communicate? 
 
-- Smile: popular people smile more than other people.  
-<!--
-Heart, head and soul in your interview. Make the interview feeling safe. Calm is largely a matter of slowing your speech down. Warmth comes from smiling while you speak. when you have passion you communicate better
--->
-- Listen: don't worry about what you’re going to say next. The best conversationalists are the best listeners. Be interested to be interesting, curiosity is king.  
-<!--
-You have to be interested to be interesting. Take an interest in the other person, and they’ll walk away thinking you are interesting.
-Ask a question. Listen to the answer. Respond in the form of a statement.
-Learn how to lessen the crushing pressure of being interesting by focusing on being interested.
-Know how to lead a conversation and how to go with the conversational flow. Get out of your head and become more situationally aware, always looking for external catalysts.
--->
-- Don’t talk to someone, talk with them: look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Get better at asking questions, they are more important than answers.  
-<!--
-Open up question: Why is your best friend, your best friend? You can't fake an answer.  
-Asking questions without paying attention is worthless. you must be curious.  
-The first question should go to the heart, just than to the head.  
-Can be as simple as what is your favourite book?
--->
-- Talk about your passions instead of accomplishments.  
-<!--
-Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
--->
+- Smile and relax. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
+
+- Listen. Don't worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
+	- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
+	- Paraphrasing: Repeat what they just said in your own words.
+	- Emphasize Similarity, we like people who are like us.
+
+- Get better at asking questions, they are more important than answers. But asking questions without paying attention is worthless. You must be curious. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It's hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. - Make people being interested in you by making them good/unusual questions. Be interested in them to them be interested in you.
+
+- Talk about your passions instead of accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments and asking for advice.
+
+- Know how to lead a conversation and how to go with the conversational flow.
+
 - Don't be stubborn: you don't always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
+<!--
+- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. Add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
+- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly. Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it.
+
+Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
+Heart, head and soul in your interview. Make the interview feeling safe. when you have passion you communicate better
+-->
+
+How to tell good stories? Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+
+> *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
+
+> *'The more you say, the less people remember.' -- François Fénelon*
 
 How to discord? Argue as you're right. Listen as you're wrong.
 
@@ -108,35 +112,16 @@ How to discord? Argue as you're right. Listen as you're wrong.
 
 > *'Don’t explain. People only hear what they want to hear.'*
 
-How to tell good stories? Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
-
-> *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
-
-> *'The more you say, the less people remember.' -- François Fénelon*
-
 <!--
 1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
 2 - Small and open groups. Opening line: "Hi, I'm X and I dont know anybody in this party."
 3 - Go to the bar and meet people there.
 4 - Help the hosters to serve food.
-
-- Controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
-- Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments and asking for advice.
-- Want to be the most interesting person in the room? learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge.
-- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
-- Paraphrasing: Repeat what they just said in your own words.
-- Emphasize Similarity, we like people who are like us.
-- Questions are powerful. A great question I love is challenges. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time.  
-
-- Escaping lines: how to politely end conversations. You should go on after 10 or 15 minutes. Think about it as exploring.
+5 - Escaping lines: how to politely end conversations. You should go on after 10 or 15 minutes. Think about it as exploring.
 	"excuse me but i must to talk with somebody that entered the room"
 	"excuse me i have to make a phone call"
 	human sacrifice.. intro him and leave.
 	To rude people: «my mum always told me not to speak with strangers, now I know why»
-
-- Make people being interested in you by making them good/unusual questions. Be interested in them to them be interested in you.
-- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. Add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
-- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly. Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it.
 
 17. Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine. -- Balthasar Gracian
 -->
@@ -148,7 +133,7 @@ How to tell good stories? Good stories condense a massive amount of information 
 ### On business and entrepreneurship
 
 There are two types of entrepreneurs: missionaries and mercenaries.  
-Focus on what can you give instead of focusing in making money. When you'll find your market you'll get the reward.  
+Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
@@ -194,46 +179,31 @@ Patterns on successful *entrepreneurs*.
 - Avoid conferences unless they are the best way to get customers  
 - Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
 - Fall in love with the problem, not the solution.
+- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.
+- If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
 
 Patterns on successful *wannapreneurs*.
 
-- You talk to people about your ideas, but never build anything.  
-- You build something without first talking to people.  
-- You build something and never try to sell it.  
-- If you build something that people say they'll pay for and then they don't actually pay for it then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle. -- Alex3917
-- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.
+- They talk to people about their ideas, but never build anything.  
+- They build something without first talking to people.  
+- They build something and never try to sell it.  
+- If you build something that people say they'll pay for and then they don't actually pay for it then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle.
 
 > *'Sara Blakely used the word «empower» several times. Spanx clothes gives women more confidence. Empowers women. The Belly Art Project empowers pregnant women'*
  
 > *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 <!--
-- If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
-
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
-
-I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
-Part of that may simply be wariness about spending a lot of money on stuff that's going to be shipped and could be lost, but that's not all. Owning the luxury goods themselves is only part of the experience -- being treated well during the purchase and during future customer service interactions is a big part of the draw of luxury items. You don't get that from most online retailers.
-
-For example, if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others. The importance of finding this variable cannot be overstated.
+- I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
+- if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others.
 -->
 
 > *'Startup fortune cookie: that company that seems so interested in buying you won't.'*
 
 <!--
-- Overdesign. Don't start from scratch. Throw shit at the wall and see what sticks. Life is about experimenting.
-
-- The disruptor’s credo, say it with me: Your profit margin is my opportunity. 
 Friend of a friend owns a small chain of grocery stores in New Jersey. A few years ago, when Amazon got into groceries, he changed his mind about investing in the growth of his own business. He started buying Amazon shares with his investment capital instead. He saw what happened to Circuit City and Tower Records, Borders and Barnes & Noble. So he bought some Amazon and then he bought some more.
 This wasn’t retirement investing. This was something else. What should we call it? Disruption Insurance?
-	
-- when you dont have the monopoly, all markets are like online dating, people need to fall in love with our ideas. cretaivity doesnt operate in the vacuum. rivals and _distraction_ are your compettion. you need to seel your ideas.
-
-- I’m proud to announce to you that I’m a problem solver and business creator.
-
-- Nate has grown and sold several businesses, and he’s found that there’s a critical tipping point in each business (typically when it hits $5,000,000 in revenue) where he begins to burn out and lose interest.
-Instead of fighting this, he’s adopted the “Serial Entrepreneur” approach and will sell his equity or the entire business, once a project passes a certain revenue threshold.
-
 - Jeff Bezos summed this up when he said “Your margin is my opportunity.” The key to business and investing success isn’t finding an advantage. It’s having a sustainable advantage. Something that others either can’t or aren’t willing to copy once your idea is exposed and patents expire.
 
 - social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
@@ -242,8 +212,6 @@ Instead of fighting this, he’s adopted the “Serial Entrepreneur” approach 
 
 - One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It's cool; users love it; it just doesn't matter. But if you're living in the future and you build something cool that users love, it may matter more than outsiders think."
 	
-Money is energy and the expression of your creativity.
-
 Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
 Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
 
@@ -757,6 +725,8 @@ HINTS on conflict resolution:
 Treat your haters like toddlers.
 
 Outliers inspire envy. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers. 
+
+> *'Remember if people talk behind your back, it only means you are two steps ahead.' -- Fannie Flagg*
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 

@@ -48,7 +48,7 @@ What is the value of an idea?
 
 > *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
 
-> *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- james Altucher*
+> *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
 
 How to judge ideas? Best ideas come from the market, not from you.
 
@@ -329,15 +329,15 @@ MENTAL MODELS:
 	noise rate
 	great breakthroughs are always counter-intuitive
 	understand people: 16personality types INTP-A was a breakthrough
-    framing = everything is
-    80% man are stronger than 80% woman
-    A Jevons Effect[1] in a web site's bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
+	framing = everything is
+	80% man are stronger than 80% woman
+	A Jevons Effect[1] in a web site's bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
 
 1. Put Your Happiness Before Goals
 2. Fulfillment is Dependent on Direction
-3. Pain is a Messenger 
-4. Focus on Financial Freedom First 
-5. Pick One Thing and Stick With it to Completion 
+3. Pain is a Messenger
+4. Focus on Financial Freedom First
+5. Pick One Thing and Stick With it to Completion
 
 as all the great questions. answers are always evolving
 
@@ -358,7 +358,7 @@ what's really bothering you.
 
 fixing problems by adding things vs by subtracting things.
 
-> *'Se não houvesse decisoes eramos todos bons/iguais.' -- antónio simoes, benfica*
+> *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
 
 sink or swim
 
@@ -458,7 +458,7 @@ The same goes for mental models – they are always evolving, being revised – 
 
 > *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
 
-Too many people are caught up wasting time on physics-like precision in areas of practical life that do not have such precision available. A better approach is to ask “Is it useful?” and, if yes, “To what extent?”
+Too many people are caught up wasting time on physics-like precision in areas of practical life that do not have such precision available. A better approach is to ask “is it useful?” and, if yes, “To what extent?”
 
 Mental models are a way of thinking about the world that prepares us to make good decisions in the first place.
 

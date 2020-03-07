@@ -10,56 +10,39 @@
 
 ### On independence
 
-Choose *yourself*. Choose to be independent.  
-Telling *your* truth is not being selfish. 
+'A man is free at the instant he wants to be.' -- Voltaire
 
-> *'Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live.' -- Oscar Wilde*
-
-> *'Do not commit to anyone.' -- Robert Greene (20th law of power)*
-
-> *'Choose a life you want and then create the things you need around it. A girl, a job, a friend, all of those should help you achieve the life you want. If it doesn’t, get rid of it.'*
+Choose *yourself*. Choose to be independent.
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-> *'You have only so much energy and so much time. Every moment wasted on the affairs of others subtracts from your strength.'*
-
-> *'At the core of every man is the desire to be free yet ironically men often confine themselves to a cage.'*
-Optimizing happiness on a personal level vs. succumbing to what society says will make you happy.
-
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
-> *'I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.' -- Jimi Hendrix*
-
-> *'Freedom is not giving a fuck.' -- Dorian Yates*
-
-> *'Don’t be quick to vouch for others. Do not become responsible for all or for every one, otherwise you become a slave and the slave of all. Some are born more fortunate than others: they are born to do good as others to receive it. Freedom is more precious than any gifts for which you may be tempted to give it up.' -- Balthasar Gracian*
-
-Boundaries is knowing what you want and what you don't want in a moment.
-
-> *'If I loved myself at a level 10 of 10, would I do this?'*
+> *'My independence is my legacy.' -- Bagão Felix*
   
-- Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.
-- Stand up for yourself. Never be afraid to stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. Codependent no more: How to stop controlling others and start caring for yourself.
-- Healthy people will respect your boundaries
+Choose a life you want and then create the things you need around it. Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.  A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
-What is more selfless?  
-Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed?
-
-> *'That’s the problem with putting others first: you’ve taught them you come second.'*
+Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You cannot give what you do not have. the first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
 
 > *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
-<!-- 
-we dont need to like everybody. dot. being nice is not being able to tolerate the other being upset with him. niceness leads to passivity
-they don't rise to leadership positions.
-the quality of friendship is not the best
-nice people take overresponsability for other's feelings and all?
-a nice person can't be angry -> then it manifest as depression, anxiety, health problems, passive agressiveness
+> *'That’s the problem with putting others first: you’ve taught them you come second.'*
+
+> *'Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live.' -- Oscar Wilde*
+
+Stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. A boundary is knowing what you want and what you don't want in a moment. E.g: «If I loved myself at a level 10 of 10, would I do this?»
+
+> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
+
+> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
+
+<!--
+Codependent no more: How to stop controlling others and start caring for yourself.
+
+we dont need to like everybody. dot. being nice is not being able to tolerate the other being upset with him. niceness leads to passivity they don't rise to leadership positions. a nice person can't be angry -> then it manifest as depression, anxiety, health problems, passive agressiveness
 resentment is created when we say yes when we want to say no.
 
 One of the best days of my life was the day I took the elevator down to freedom. It was the middle of the day. I walked out. No boxes. No handshakes. I left and played chess in Union Square. The same place I got my first client after starting my own company.
 
-you lifestlyle depends on your independence. The freedom to express oneself fully.
+Your lifestlyle depends on your independence. The freedom to express oneself fully.
 
 Practice doing without things you think you need.
 Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
@@ -68,24 +51,8 @@ The bank owned them. Work owned them.
 I define financial freedom as: “The ability to do what you want when you want, where you want, and with whom you want… within reason”.
 look for 100% financial freedom
 
-freedom to -> freedom from: evolving of my concept of freedom
-
-You cannot give what you do not have, and the first step to truly serving others is to serve yourself.
-Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education.
-Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
-
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 -->
-
-> *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
-
-> *'Freedom is more precious than any gifts for which you may be tempted to give it up.'*
-
-> *'My independence is my legacy.' -- Bagão Felix*
-
-> *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
-
-> *'Never complain; never explain.' -- Benjamin Disraeli*
 
 
 
@@ -93,36 +60,28 @@ Then, and only then, will you be fully equipped and able to serve others to your
 ---
 ### On integrity and accountability
 
-> *'Trust, not money, is the currency of business and life.'*
+'Trust, not money, is the currency of business and life.'
 
-Choose integrity. It's the only way to be respected and build trust.
-Do you want short term popularity or long term respect? Show respect to others. Respect others and earn the respect of others. That is where true manliness lies. Be impeccable with your word. Speak with integrity.
+The only way to build trust is to seek respect. Be impeccable with your word and consciently work on being honest.
 
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
-> *'So much depends on reputation – guard it with your life.' -- Robert Greene (5th law of power)*
-
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
-
-> *'Seek respect, not attention. It lasts longer.'*
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
-If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
+> *'Quality means doing it right when no one is looking.' -- Henry Ford*
+
+Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
 Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
 
-Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others.
+> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+
+> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
 
 <!--
-> *'I was gratified to be able to answer promptly. I said I didn’t know.' -- Mark Twain*
-
-Men take responsibility for their lives, treat others with respect, and do what needs to be done.
-consciently work on being honest
-
-> *'Rather go to bed without dinner then to rise in debt.' -- Benjamin Franklin*
-> *'Quality means doing it right when no one is looking.' -- Henry Ford*
 > *'Look for results, not salutes.' -- Captain Michael Abrashoff*
-> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+
 bravery is learned -> micro-bravery, start small
 
 Be willing to side with the minority.
@@ -130,8 +89,6 @@ Be willing to side with the minority.
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
-
-> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
 -->
 
 
@@ -161,9 +118,6 @@ Be raw, be real, tell people what is really going on. The more vulnerable you ar
 - truth-a-better-way-to-talk-about-ourselves.
 
 <!--
-people justify all kinds of mistakes to preserve the personal narratives they are invested in
-Countries rewrite their histories, from the textbook up, to support how they see themselves now.
-
 core values:
 honesty everywhere. i dont want to be in place where i cant be honest.
 i want to make relationships with a long term prospect.
@@ -171,6 +125,8 @@ flat hierarchy. i dont want to be around hierarchical systems. i want to treat e
 angry. i dont want to be around angry people
 
 Personal branding will kill you. Personal DOING will save everyone around you.
+people justify all kinds of mistakes to preserve the personal narratives they are invested in
+Countries rewrite their histories, from the textbook up, to support how they see themselves now.
 
 CHANGE YOUR ACTIONS, NOT YOURSELF
 
@@ -194,10 +150,6 @@ Work for a cause, not for applause. Live life to express, not to impress. Don’
 You must play by your rules, funnel your weird stuff to give you some advantage.
 _im bad in following a script_
 
-The simple mantra, “I know nothing” has helped me so many times in the past seven years.
-I owe any success to those simple three words: I. Know. Nothing.
-
-I sometimes forget that a group of people blazed the trail I’m enjoying and that another group continues to maintain it without any fanfare.
 -->
 
 
@@ -232,6 +184,11 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 > *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
 - A good life is not a life without problems. A good life is a life with good problems. mm
 - play the cards you are dealt. And you will often be dealt bad cards.
+
+The simple mantra, “I know nothing” has helped me so many times in the past seven years.
+I owe any success to those simple three words: I. Know. Nothing.
+
+I sometimes forget that a group of people blazed the trail I’m enjoying and that another group continues to maintain it without any fanfare.
 -->
 
 
@@ -242,25 +199,26 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 ### On finding your path
 
-Cancel your pity party, no one is coming to save you.  
-Pull yourself together and take total ownership for everything in your life.  
+Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life.  
 The path will be revealed as you start walking.
-
-> *'If you are feeling lost in life, you need to experience more things.'*
-
-> *'When it is dark enough, you can see the stars.' -- Ralph Waldo Emerson*
 
 > *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
-> *'What do you do for fun? What are you interested in that everybody in the world is interested in?'*
-
 > *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
 
-> *'Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.'*  
+> *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
+
+Hints:
+
+- Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.
+- If you are feeling lost in life, you need to experience more things.  
+- What do you do for fun? What are you interested in that everybody in the world is interested in?
 
 > *'The obstacle is the way.' -- Marcus Aurelius*
 
-> *'The question is not who is going to let me; it's who is going to stop me.' -- Ayn Rand*
+> *'If you are going through hell, keep going.' -- Winston Churchill*
+
+> *'Go where you can make a difference not where you think there’s a home run.'*
 
 > *'It’s easier to ask forgiveness than to get permission'*
 
@@ -268,20 +226,23 @@ The path will be revealed as you start walking.
 
 > *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
-<!--
-> *'If you are going through hell, keep going.' -- Winston Churchill*
-> *'Go where you can make a difference not where you think there’s a home run.'	
-> *'I can think, I can wait and I can fast.' -- Siddahrta*
-> *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
-> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
+> *'The question is not who is going to let me; it's who is going to stop me.' -- Ayn Rand*
+
+> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
+
 > *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
+
+> *'When life gets blurry, just adjust your focus.'*
+
+<!--
+> *'I can think, I can wait and I can fast.' -- Siddahrta*
+> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 
 there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
 
 - the talent to change your life
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 
-> *'When life gets blurry, just adjust your focus.'*
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
 Passion is made not found.
@@ -318,10 +279,6 @@ Scott’s story is not about movies, or addiction, or creativity, it’s about k
 Step 1: FIND OUT WHAT YOU’RE CRAVING:
 a) Addiction: I felt powerless. I was addicted to money. More was never enough. Then I left Wall Street. Because they were the supplier.
 b) Depletion: Your body needs something. It can be water, a vitamin or mineral or a change. That’s where reinvention comes in.
-
-Creating a vision for your life and achieving that vision is possible.
-
-The reason that most people are not fulfilled in the work that they do isn’t because they haven’t found their “calling” but rather because they are bored and disengaged.
 
 Fulfillment in Any Endeavor Comes from Variety and Engagement 
 Most people continue to chase down their ever elusive “calling”.
@@ -1007,46 +964,37 @@ skill fluency!
 ### On achieving mastery
 
 After learning the rules, break them. Only then you can achieve mastery.  
-But the path to mastery is a never ending story: skills are perishable.
 
-> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back' -- James Altucher*
-
-> *'An expert is someone who knows some of the worst mistakes that can be made in his subject and how to avoid them.' -- Werner Heisenberg*
-
-> *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
-
-> *'The person who says he knows what he thinks but cannot express it usually does not know what he thinks.' -- Mortimer Adler*
+> *'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
 
 > *'The master has failed more times than the beginner has ever tried.' -- Stephen McCraine*
 
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'-- Robert Greene*
 
-> *'The very desire to find shortcuts makes you eminently unsuited for any kind of mastery.' -- Robert Greene*
+> *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
 
-> *'The master’s tools will never dismantle the master’s house.' -- Audre Lorde*
+> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back' -- James Altucher*
 
-> *'If you aren’t growing you’re dying.' -- Tony Robbins*
-
-> *'We don’t rise to the level of our expectations; we fall to the level of our training.' -- Archilochus*
+> *'The person who says he knows what he thinks but cannot express it usually does not know what he thinks.' -- Mortimer Adler*
 
 > *'If I’d followed all the rules I’d never have gotten anywhere.' -- Marylin Monroe*
 
 > *'Amateurs play for tricks, masters play for position.'*
 
-> *'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
+And don't stop, skills are perishable and the path to mastery a never ending story.
+
 > *'Some of the skills that you need to achieve expertise were not yet systemised.'*
 
-HOWEVER... mastery is the main trigger of arrogance. There's always room for improvement: be humble.  
-You want to learn every aspect of that subject, you are expected to be a pro. There is no place for a prima donna.
+> *'If you aren’t growing you’re dying.' -- Tony Robbins*
+
+> *'We don’t rise to the level of our expectations; we fall to the level of our training.' -- Archilochus*
+
+HOWEVER... mastery is an important trigger of arrogance. There is no place for a prima donna. There's always room for improvement: be humble.
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.'  
 'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
-
-<!--
-If you can’t explain something in simple terms, you don’t understand it. What I cannot create, I do not understand. teach something to a toddler to learn stuff
--->
 
 
 
@@ -1055,21 +1003,18 @@ If you can’t explain something in simple terms, you don’t understand it. Wha
 ### On self awareness
 
 Self awareness reduces the gap between who we are and who we think we are.  
-As this gap grows it becomes harder to prevent and solve problems.
 
 > *'The things we see every day are the things we never see at all.' -- G.K. Chesterton*
 
-> *'Weeds are flowers, too, once you get to know them.' -- A.A. Milne*
+> *'Weeds are flowers too, once you get to know them.' -- A.A. Milne*
 
-HINT: How to grow self awareness?
+How to grow self awareness?
 
-- Statements vs. Questions: closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [question](/chapter_2_groups.md#on-communication) the other person’s views.  
+- Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
 
-> *'Professionals ask questions. Amateurs make statements.'* 
+> *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
 
-> *'No persons are more frequently wrong, than those who will not admit they are wrong.' --  François de La Rochefoucauld*
-
-> *'How do I know I'm right? Do you know anyone who doesn’t have any blind spots? Then why would you be any different? Curious as to why the other person disagrees.'*
+> *'Do you know anyone who doesn’t have any blind spots? Then why would you be any different?'*
 
 <!--
 So take the time now to truly understand what your beliefs and patterns are in every area of life.
