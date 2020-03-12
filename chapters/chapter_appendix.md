@@ -177,6 +177,14 @@ When you don’t create things, you become defined by your tastes rather than ab
 
 
 ---
+### On growing old
+
+> *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
+
+
+
+
+---
 ### On money and wealth
 
 Being rich is being fulfilled, not counting money all day.  
@@ -398,8 +406,6 @@ There is no shortcut. Success is a castle that you build [brick by brick](#on-ha
 
 > *'Try not to become a man of success, rather become a man of value' -- Albert Einstein*
 
-> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
-
 > *'Society judges people by what they can do for others. But we judge ourselves by our thoughts.'*
 
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
@@ -415,6 +421,8 @@ And success might have a price.
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 
 <!--
+silicon valley celebrate failure only after they achieve success
+
 - Abilities are not prized by their virtue.
 - Real success happens when we focus on one thing at a time.
 - There are two things you need to do to be successful: know what is he right thing and having the courage to do it
@@ -557,8 +565,6 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
-> *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
-
 
 
 
@@ -567,7 +573,8 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth
 
-> *'The whole of science is nothing more than a refinement of everyday thinking.'  
+> *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albet Einstein*
+
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
 > *'To do science is to search for repeated patterns, not simply to accumulate the facts.' -- Robert MacArthur*
@@ -628,9 +635,7 @@ That's where «big bucks» are.
 
 > *'Artistic death is made by consensus.'*
 
-<!--
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
--->
 
 
 
@@ -664,7 +669,6 @@ HINT: How to spot trends? Understand:
 - market cycles.
 
 > *'Recessions are caused when a bunch of people lose confidence all at once.'*
-
 
 > *'What's your religion? Arbitrage and rents.' -- EF*
 
@@ -751,14 +755,18 @@ Contracting -> Travelling Between Contracts -> Travelling While Contracting -> S
 ---
 ### On books
 
-Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists.
+Reading (and experience) train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists.
 
-> *'The great books are the books that never have to be written again.'-- Carl Van Doren*  
-> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*  
+> *'The great books are the books that never have to be written again.'-- Carl Van Doren*
+
+> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
+
 > *'A classic is a book which people praise and don't read.' -- Mark Twain*
 
-> *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*  
-> *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*  
+> *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
+
+> *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
+
 > *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.'*
 
 > *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.' -- Julian Barnes*
@@ -805,13 +813,9 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 ---
 ### On computers & maths
 
-> *'Controlling complexity is the essence of computer programming.' -- Brian Kernighan*
-
 > *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
 
 > *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
-
-> *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger Dijkstra*
 
 > *'I was shocked to realize how dependent I’ve grown on three simple features that just aren’t available in the analog world: search, sort and filter.'*
 
@@ -822,9 +826,9 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 > *'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' -- John von Neumann*
 
 <!--
-In the battle of man vs algorithm, unfortunately, man often loses
+> *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger Dijkstra*
 
-All software gets developed under time, budget, management, requirements, and skill constraints that prevent doing anything perfectly. We should keep those constraints and limits in mind when we look at code and immediately conclude the code resists understanding, or that only fools would have produced such software.
+In the battle of man vs algorithm, unfortunately, man often loses
 
 - OOP is a natural enemy to concurrency (because of state) and about how transforming data (I.e functional) is a better match
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
@@ -838,8 +842,6 @@ Ability to ignore new tools and technologies;
 Taste for simplicity;
 Good code deletion skills;
 Humility.
-
-- silicon valley celebrate failure only after they achieve success
 
 engineer is an optimizer
 
@@ -878,12 +880,6 @@ If you go down the history, most wealth was stolen from people violently and fro
 A lot of new wealth has been created by people born into poor / middle class families in last 1-2 centuries for sure, especially 20th century.
 But there are still families today that are wealthy and their wealth have been with them for 400-500 or more years. And in those cases it's very likely the original wealth was stolen.
 It could be that original wealth was gathered during robber baron times by exploiting workers or it could be even older, being passed from generation to generation since medieval times. Which means the original aristocracy probably gained this wealth in a violent conquest.
-
-The more likely outcome of a true post-scarcity society is the 90% will be house servants for the 10%.
-This has always proved to be unstable.
-It will always result in revolution. The 90% will demand an equal share.
-The sad bit is that the revolutions seem to destroy the robots, not share the wealth. The 90% elect a different 10%, who then build more robots. See Animal Farm for details.
-The 10% have to share the pie, at least enough to prevent revolution.
 
 What will that tech need to survive? Lithium, for batteries. Heavy metals, for processing. Energy, most of all.
 I wonder how long it'll be until we replace fiat currencies with a balance of kilowatt-hours.
@@ -929,7 +925,8 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
 
-> *'She likes a gentleman who knows when not to be gentle.'*  
+> *'She likes a gentleman who knows when not to be gentle.'*
+
 > *'Chicks dig a man who exhibits grace under pressure.'*
 
 > *'A suit to women is like lingerie to men.'*

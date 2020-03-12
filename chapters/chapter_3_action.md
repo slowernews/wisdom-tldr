@@ -1380,6 +1380,8 @@ HOWEVER... use absence with [moderation](#on-balance).
 > *'If you're always absent, soon you'll not be needed.'*
 
 <!--
+> *'I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.' --  Marilyn Monroe*
+
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
 	
 Hooking Curiosity
@@ -1535,6 +1537,7 @@ To win to difficult opponents, besides outworking them, you'll need all weaponry
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
+> *'Do I not destroy my enemies when I make them my friends?' --  Abraham Lincoln*
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 - no one will help you in a way that’s prejudicial to them.

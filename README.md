@@ -105,6 +105,7 @@
 - [On past and memory](/chapters/chapter_appendix.md#on-past-and-memory)
 - [On present](/chapters/chapter_appendix.md#on-present)
 - [On future](/chapters/chapter_appendix.md#on-future)
+- [On growing old](/chapters/chapter_appendix.md#on-growing-old)
 
 *On envy triggers*
 - [On intelligence and talent](/chapters/chapter_appendix.md#on-intelligence-and-talent)
@@ -134,19 +135,19 @@
 - [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
 - [On what men value in women](/chapters/chapter_appendix.md#on-what-men-value-in-women)
 
-### TL;DR 
+### TL;DR
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
 Five general advices:  
 *'Life is a balancing act.'*  
-*'If more information was the answer we’d all be billionaires with six packs.' -- Derek Sivers*
+*'If more information was the answer we’d all be billionaires with six packs.' -- Derek Sivers*  
 *'The root of our problems is our inability to let go.' -- Leo Babauta*  
 *'A prophet has no honour in his own country.' -- Bible (John 4: 44)*  
 *'Avoiding conflict will not keep peace, will rot it.' -- EF*  
 
 Two practical advices:  
 *'Have more than one child.'*  
-*'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*  
+*'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
 
 One last advice for introverts: *'Aim at relying on your network and not at being self-sufficient.'*

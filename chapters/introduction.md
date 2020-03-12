@@ -28,11 +28,9 @@ You need to develop an unshakable identity as a high achiever and peak performer
 
 <!--
 > *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
-
-> *'Quem não chora não mama.'*
-	
-> *'How we spend our days is how we spend our lives.' -- Annie Dillard*
-	
+> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston S. Churchill*
+> *'Quem não chora não mama.'*	
+> *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
 > *'Só os mais corajosos conseguem fazer a paz' -- Trump*
 
 Life is not something that “has' meaning -- it’s something we give meaning to. You don’t “end up' with a meaningful life, you create it.
@@ -89,10 +87,10 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
+> *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
 > *'Happiness always you hold it in your hands, but let it go, and you learn at once how big and precious it is.' -- Maxim Gorky*
-
-> *'And all the books you've read have been read by other people. And all the songs you've loved have been heard by other people. And that girl that's pretty to you is pretty to other people. and that if you looked at these facts when you were happy, you would feel great because you are describing 'unity.' -- Stephen Chbosky*
-	
+> *'And all the books you've read have been read by other people. And all the songs you've loved have been heard by other people. And that girl that's pretty to you is pretty to other people. and that if you looked at these facts when you were happy, you would feel great because you are describing 'unity.' -- Stephen Chbosky*	
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
 
 regrets of the dying: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
