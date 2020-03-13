@@ -144,6 +144,16 @@ HOWEVER don't obcess on that.
 
 
 
+---
+### On growing old
+
+> *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
+
+> *'We don’t stop playing because we grow old; we grow old because we stop playing.'*
+
+
+
+
 ---           
 # Appendix B - On envy triggers
 
@@ -172,14 +182,6 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays; y
 <!--
 When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
 -->
-
-
-
-
----
-### On growing old
-
-> *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
 
 
@@ -331,17 +333,11 @@ HINTS:
 
 > *'9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.'*
 
-> *'We don’t stop playing because we grow old; we grow old because we stop playing.'*
-
-> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
-
 > *'The opposite of play isn’t work, it’s depression.'*
 
 > *'I have no plans to retire. It’s the perfect combination of work and play that keep you young.'*
 
 > *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
-
-> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
 > *'Essencialism: The disciplined pursuit of less.'*
 
@@ -811,11 +807,9 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 
 
 ---
-### On computers & maths
+### On computers and maths
 
 > *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
-
-> *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
 
 > *'I was shocked to realize how dependent I’ve grown on three simple features that just aren’t available in the analog world: search, sort and filter.'*
 

@@ -1416,5 +1416,7 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 > *'Perfectionism doesn’t make you feel perfect; it makes you feel inadequate.' -- Maria Shriver*
 
 <!--
+> *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
+> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
 -->
