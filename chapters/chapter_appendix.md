@@ -637,20 +637,12 @@ That's where «big bucks» are.
 
 
 ---
-### On investment
+### On money management
 
-Spend less than you make. Stay liquid. Never invest in anything you can’t sell in 30 days.  
-The secret to get rich is not to make more money but to keep it. Buy cheap.
+*'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
-> *'Save a higher proportion of your income. This allows you to cut decades off of your working life, because you prioritize working less and retiring early over living a fancier life.'*
-
-> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
-
-HINT: How to spot your investment confort zone? Scared money never wins, start small.
-twin risks: the risk of losing money vs the risk of missing opportunity.
-
-diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
-humility and triangulation of great people levete your probabbilities of making good decisions
+Spend less than you make. Stay liquid. Never invest in anything you can't sell in 30 days.  
+The secret to get rich is not to make more money but to keep it.
 
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
@@ -658,17 +650,22 @@ humility and triangulation of great people levete your probabbilities of making 
 
 > *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
 
-HINT: How to spot trends? Understand:
-- who are the buyers and the sellers and their motivations. It's very different from value investing.  
-- that investments are competing with each other.
-- where is low optimism.
-- market cycles.
+> *'Save a higher proportion of your income. This allows you to cut decades off of your working life.'*
 
-> *'Recessions are caused when a bunch of people lose confidence all at once.'*
+HINT: How to spot your investment confort zone? Scared money never wins, start small.
+twin risks: the risk of losing money vs the risk of missing opportunity.
 
-> *'What's your religion? Arbitrage and rents.' -- EF*
+diversify with uncorrelated bets is incredibly important! Holy grail is 15 uncorrelated bets.
+humility and triangulation of great people levete your probabbilities of making good decisions
 
-HINT: How to spot good investments AKA buy low/sell high?
+How to spot trends? Understand:
+
+- who are the buyers, the sellers and their motivations.  
+- that investments are competing with each other.  
+- where is low optimism.  
+- market cycles. Recessions are caused when a bunch of people lose confidence all at once.
+
+How to spot good investments (AKA buy low/sell high)?
 
 > *'You’re looking for a mispriced gamble.'  
 'You should remember that good ideas are rare. When the odds are greatly in your favor, bet heavily.' -- Charlie Munger*
@@ -676,6 +673,8 @@ HINT: How to spot good investments AKA buy low/sell high?
 > *'It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism.' -- Howard Marks*
 
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
+
+> *'What's your religion? Arbitrage and rents.' -- EF*
 
 > *'The best companies aren't sold, they're bought.'*
 
@@ -699,6 +698,7 @@ HINTS:
 HINT: Barbell strategy
 
 <!--
+- Buy cheap.
 Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
 
 Hypothetically, if someone were making $100,000 a year and had $100,000 to deploy in some way, how would you suggest they invest that capital?” It was along the lines of, “Invest in the S&P 500 or a low-cost index fund in the S&P 500 and get back to work.”

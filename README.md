@@ -124,7 +124,7 @@
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science and art](/chapters/chapter_appendix.md#on-science-and-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
-- [On investment](/chapters/chapter_appendix.md#on-investment)
+- [On money management](/chapters/chapter_appendix.md#on-money-management)
 - [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
 - [On books](/chapters/chapter_appendix.md#on-books)
 - [On email](/chapters/chapter_appendix.md#on-email)
