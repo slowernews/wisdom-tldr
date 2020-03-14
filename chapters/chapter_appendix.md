@@ -913,15 +913,15 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On what women value in men
 
-'All that women want is for you to listen.'
-
-> *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
+'She likes a gentleman who knows when not to be gentle.'
 
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
 
-> *'She likes a gentleman who knows when not to be gentle.'*
-
 > *'Chicks dig a man who exhibits grace under pressure.'*
+
+> *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
+
+> *'All that women want is for you to listen.'*
 
 > *'A suit to women is like lingerie to men.'*
 
@@ -935,4 +935,4 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On what men value in women
 
-> *'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*
+'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'

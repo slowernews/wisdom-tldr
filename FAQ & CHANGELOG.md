@@ -20,10 +20,10 @@ I'm always open to criticism, suggestions and grammar corrections (I'm not a nat
 
 #### Will you publish it as a paperback and as a proper ebook?
 
-Yes. As soon as I arrive to a stable draft (and I'm still far from it), I might publish it more formally.
+Yes. As soon as I arrive to a stable draft (and I'm still far from it), I'll publish it more formally. On relevant occasions I might even release a new version.
 
 ---
 
 #### What's the milestone for this project?
 
-This project will never be complete. I'll be polishing it during my lifetime and on relevant occasions I might release a new version.
+This project will never be complete. It started formally in 2016 (but lived outside Github at least a couple of years) and It'll be polished during my lifetime. At the time of writing, Wisdom TLDR Guide has 5 chapters and 83 sections. This means that spending just 15 minutes per month researching or updating each section means spending, easily, 3 fulltime days.

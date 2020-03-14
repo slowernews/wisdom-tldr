@@ -377,6 +377,8 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 > *'Do one thing that scares you everyday.' -- Eleanor Roosevelt*
 
 <!--
+> *'If I’d followed all the rules I’d never have gotten anywhere.' -- Marylin Monroe*
+
 This is where margins of safety come in. We build them to reduce the precariousness of chance.
 Large margins of safety are not always possible. Sometimes they are too expensive. Sometimes they are not available.
 The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money.
@@ -977,8 +979,6 @@ After learning the rules, break them. Only then you can achieve mastery.
 
 > *'The person who says he knows what he thinks but cannot express it usually does not know what he thinks.' -- Mortimer Adler*
 
-> *'If I’d followed all the rules I’d never have gotten anywhere.' -- Marylin Monroe*
-
 > *'Amateurs play for tricks, masters play for position.'*
 
 And don't stop, skills are perishable and the path to mastery a never ending story.
@@ -989,12 +989,13 @@ And don't stop, skills are perishable and the path to mastery a never ending sto
 
 > *'We don’t rise to the level of our expectations; we fall to the level of our training.' -- Archilochus*
 
-HOWEVER... mastery is an important trigger of arrogance. There is no place for a prima donna. There's always room for improvement: be humble.
-
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
-> *'How often our early triumphs turn us into a kind of caricature of ourselves.'  
-'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
+HOWEVER... mastery is an important trigger of arrogance. There's always room for improvement: be humble. There is no place for a prima donna.
+
+> *'How often our early triumphs turn us into a kind of caricature of ourselves.' -- Robert Greene*  
+
+> *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
 
 
 
