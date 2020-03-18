@@ -28,4 +28,4 @@ Yes. As soon as I arrive to a stable draft (and I'm still far from it), I'll pub
 
 This project will never be complete.
 
-It started formally in 2016 (but lived outside Github at least a couple of years) and it'll be polished during my lifetime. At the time of writing, Wisdom TLDR Guide has 5 chapters and 83 sections. Spending 10 minutes per month researching or updating every section seems underwhelming, still it accrues - easily - to two full-time days.
+It started formally in 2016 (but lived outside Github at least a couple of years) and it'll be polished during my lifetime. At the time of writing, Wisdom TLDR Guide has 5 chapters and 83 sections. Spending 10 minutes per month researching or updating each section seems underwhelming, still it accrues - easily - to two full-time days.

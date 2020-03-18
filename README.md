@@ -152,4 +152,6 @@ Two practical advices:
 
 One last advice for introverts: *'Aim at relying on your network and not at being self-sufficient.'*
 
-Copyright © 2016-2020 Enio Ferreira
+<hr>
+
+Copyright © 2016-2020 Enio Ferreira | [FAQ](FAQ.md)
