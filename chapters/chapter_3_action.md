@@ -1498,24 +1498,6 @@ Cialdini moved from rejection to compliance after the boy had moved from a large
 ### On opponents
 
 Beware of all opponents.  
-Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
-
-> *'Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
-
-> *'Beware the fury of a patient man.' -- John Dryden*
-
-> *'Beware of sad people.'*
-
-> *'Our fearlessness shall be our secret weapon.' -- John Green*
-
-Easy opponents are often just [bait](#on-charming).
-
-> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
-
-> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
-
-> *'«El dorados» are never drawn in the map.'*
-
 However there are people acting stupid. Easy wins if you can identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
@@ -1526,9 +1508,31 @@ However there are people acting stupid. Easy wins if you can identify them.
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
 
-To win to difficult opponents, besides outworking them, you'll need all weaponry. Even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
+Easy opponents are often just [bait](#on-charming).
+
+> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
+
+> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
+
+> *'«El dorados» are never drawn in the map.'*
+
+Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+
+> *'Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
+
+> *'Beware the fury of a patient man.' -- John Dryden*
+
+> *'Beware of sad people.'*
+
+> *'Our fearlessness shall be our secret weapon.' -- John Green*
+
+ On difficult opponents, besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
 
 > *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
+
+> *'Do I not destroy my enemies when I make them my friends?' --  Abraham Lincoln*
+
+> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 > *'Get others to do the work for you, but always take the credit.'  
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
@@ -1537,9 +1541,6 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 
 <!--
 - Use anger only as a tool, when you need it to improve your situation.
-> *'Do I not destroy my enemies when I make them my friends?' --  Abraham Lincoln*
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
-
 - no one will help you in a way that’s prejudicial to them.
 - People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage.
 	
