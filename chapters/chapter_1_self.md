@@ -1079,14 +1079,11 @@ Fear is paralyzing.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
 
-> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
-
 How to overcome it?
 
 - Replace fear of unknown with curiosity.  
-- Reframe fears as fiction. Define fear as «false evidence appearing real».  
-- The antidote to fear is not courage is aceptance.  
-- You'll never have fear of loss when you give more value to lessons than successes.  
+- Reframe fear as «false evidence appearing real».  
+- The antidote to fear is not courage is aceptance. You'll never have fear when you give more value to lessons than successes.  
 - Break down your fears until you figure out the truth.
 
 > *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*  
@@ -1097,9 +1094,6 @@ How to overcome it?
 Anger and excuses are fear clothed. All excuses are refutable.  
 The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny. living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
 
-> *'You cannot use your personality type as an excuse.'*  
-> *'You'll never be as young as you are today.'*
-
 > *'Hatred is born of ignorance. Fear is its father, and isolation is its mother.' -- Christian Picciolini*
 
 > *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
@@ -1109,6 +1103,10 @@ The best years of your life are the ones in which you decide your problems are y
 > *'Behaviors are driven by fear. To change behaviors focus on fear, not on the behavior itself.'*
 
 <!--
+
+> *'You cannot use your personality type as an excuse.'*  
+> *'You'll never be as young as you are today.'*
+> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
 age is a mindset
 > *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*  
 > *'Named must your fear be before banish it you can.' -- Yoda*
@@ -1117,7 +1115,7 @@ anger is fear clothed: Understanding the underlying fears that angry people have
 > *'The things we fear the most have already happened to us.'*
 > *'If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.' -- Hermann Hesse*
 
-- Conquering Fear = Defining Fear: define your fears not yor goals
+- Conquering Fear = Defining Fear: define your fears not your goals
 - I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
 “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
 -->
