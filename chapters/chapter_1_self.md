@@ -16,7 +16,7 @@ Choose *yourself*. Choose to be independent.
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-> *'My independence is my legacy.' -- Bagão Felix*
+> *'My independence is my legacy.' -- Bagão Felix (politician)*
   
 Choose a life you want and then create the things you need around it. Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.  A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
@@ -583,9 +583,9 @@ Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms o
 ---
 ### On improving
 
-Most problems can be solved by graded exposure over time.
+*'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
-> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+Most problems can be solved by graded exposure over time.
 
 <!--
 > *'#383. Every man hears only what he understands.' -- goethe*
@@ -822,13 +822,11 @@ when expanding comfort zones you are learning.
 what happens when we step too far out of our comfort zones, how James mitigates risk by assuming the worst, how experience with failure can be a valuable skillset, why being in debt is better than simply being broke, and lots more.
 -->
 
-<a id="on-improving-by-theory"></a>2) analysis of past situations.  
+<a id="on-improving-by-theory"></a>2) analysis of past situations. Practice makes perfect but doesn't make new. New comes from having a broader perspective.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
 > *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
-
-> *'Practice makes perfect but doesn't make new. New comes from having a broader perspective.'*
 
 > *'People repeat very easily the same mistakes. You improve by examining them.'*
 
