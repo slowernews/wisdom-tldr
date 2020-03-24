@@ -151,6 +151,7 @@ How to judge a man?
 > *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
 
 <!--
+> *'We don't look at what we look, but at what we are.' -- Fernando Pessoa*
 > *'I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things.' -- Benjamin Franklin*
 > *'That which can be asserted without evidence, can be dismissed without evidence.' -- Christopher Hitchens*
 - Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.

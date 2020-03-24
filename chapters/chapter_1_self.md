@@ -176,6 +176,9 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
 
+Your success means nothing in life. It’s forgotten in one generation, two at best.
+But your emotional health lives for hundreds of generations after in the lives of everyone you touch and their descendants.
+
 <!--
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 > *'#332. Nothing is more highly to be prized than the value of each day.' -- Goethe*
@@ -220,6 +223,8 @@ Hints:
 
 > *'Go where you can make a difference not where you think there’s a home run.'*
 
+> *'If we’re growing, we’re always going to be out of our comfort zone.' -- John Maxwell*
+
 > *'It’s easier to ask forgiveness than to get permission'*
 
 > *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
@@ -235,6 +240,10 @@ Hints:
 > *'When life gets blurry, just adjust your focus.'*
 
 <!--
+1. To Improve Your Life, You First First Become Uncomfortable
+If you want to improve the quality of your life, then start by improving your tolerance for risk and adversity.
+Because almost everything that you want is on the other side of the uncomfortable and the scary.
+
 > *'I can think, I can wait and I can fast.' -- Siddahrta*
 > *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 
@@ -354,131 +363,72 @@ Create Projects, Not Goals
 ---
 ### On comfort and risk
 
-You need to break rules to achieve anything great.  
-Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement.
+*'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
-> *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
+You need to break rules to achieve anything great.  
+Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement. You keep doing what you’re good at to avoid facing the real problems in your life. The size of our life is in direct proportion to how uncomfortable we are willing to be.
+
+> *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
+
+> *'When we are tired, we are attacked by ideas we conquered long ago.' -- Friedrich Nietzsche*
+
+> *'If I’d followed all the rules I’d never have gotten anywhere.' -- Marylin Monroe*
+
+> *'Do one thing that scares you everyday.' -- Eleanor Roosevelt*
+
+> *'When the love-of-life line crosses the fear-of-death line, all hell breaks loose.' -- Johannes Rand*
 
 > *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*  
 *'There is pleasure in the pathless woods.' -- Lord Byron*
 
 > *'A ship is safe in the harbor but that's not what ships are for.'*
 
-> *'You can choose courage or you can choose comfort, but you can't choose both.'*
+> *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
 
-> *'Take risk. Big audacious risk. You’ll never get what you want in life without it.'*
+You can choose courage or you can choose comfort, but you can't choose both.  
+Take risk. Big audacious risk. You’ll never get what you want in life without it. Not taking risks is too risky.
 
-> *'Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.'*
+If you act average, you're going to be average, If you want to move away from average, you must diverge. And if you want to outperform, you must be different and correct.
 
-> *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
+> *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
 
-> *'When we are tired, we are attacked by ideas we conquered long ago.' -- Friedrich Nietzsche*
+Hints:
 
-> *'Do one thing that scares you everyday.' -- Eleanor Roosevelt*
+- The risk of not changing is almost always greater than the risk of changing.  
+- Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value' is a surprising result.  
+- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.  
+- Being uncomfortable should be “play” for you. Get confort in disconfort.  
+- Leap while you’re at the top of the curve, and the next curve builds on the momentum.  
+- The discomfort zone is NOT about experiencing pain.  
+- The goal of life is not comfort it’s contribution. Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
+But the problem with this philosophy is that no great work ever came from comfort.  
+- Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.  
+- Risk looks different for everyone.  
+- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later.   
 
 <!--
-> *'If I’d followed all the rules I’d never have gotten anywhere.' -- Marylin Monroe*
-
 This is where margins of safety come in. We build them to reduce the precariousness of chance.
 Large margins of safety are not always possible. Sometimes they are too expensive. Sometimes they are not available.
-The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money.
-Sometimes when the stakes are low, we decide the trade-off isn’t worth it.
+The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money. Sometimes when the stakes are low, we decide the trade-off isn’t worth it.
 What decisions would you make differently if you were factoring safety margins into your life? To be fair, you can’t put them everywhere. Otherwise, your life might be all margin and no living.
 To figure out where else you should build margins of safety into your life, think of the times you’ve been terrified and desperate. Those might be good places to start learning from experience and making the most of your second chances.
 
-Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value' is a surprising result.
-
-#CONFORT AND RISK, ON CHANGE
-
-Divergence
-“Mimicking the herd, invites regression to the mean.” -> if you act average, you're going to be average, If you want to move away from average, you must diverge. And if you want to outperform, you must be different and correct. -- munger
-
 It is very popular to be over positive or over negative about it in the media (those people are usually wrong). So keep that in mind when reading those kind of opinions.
-Billions of dollars are already invested in the infrastructure so far -- This will not disappear over night. It might already be "too big to fail" -- If needed, It can pivot multiple times and still keep a high value.
-As times change rapidly -- Not taking risks is too risky! So if you only slightly believe this can be a major financial instrument, you should start to understand and invest, according to the risk you are willing to take of course.
 
-> *'When the love-of-life line crosses the fear-of-death line, all hell breaks loose.' -- Johannes Rand*
+make meetings over playing something. Charlie replaced “let’s grab coffee” with hikes and catch meetings in the park.
 
-Being uncomfortable is “play” for me.
-make meetings over playing something
-Charlie replaced “let’s grab coffee” with hikes and catch meetings in the park.
-
-“Have a spirit of adventure, the desire to learn something new, be an explorer and never get too comfortable.”
-We are always the average of the five people we surround ourselves with.
 This isn’t a success strategy. This is a WELL-BEING strategy.
-Your success means nothing in life. It’s forgotten in one generation, two at best.
-But your emotional health lives for hundreds of generations after in the lives of everyone you touch and their descendants.
-
-mudar so se for para melhor, mudança de manutencao não é suficiente para vencer a inercia.
-
-You keep doing what you’re good at to avoid facing the real problems in your life.
-
-What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
-
-growth: get unconfortable
-
-confort in disconfort
 
 Stability without Stagnation
 
-FIVE PSYCHOLOGICAL ROADBLOCKS TO EXPLORING OUTSIDE OUR COMFORT ZONES
-Authenticity, Likeability, Competence, resentment, morality
+FIVE PSYCHOLOGICAL ROADBLOCKS TO EXPLORING OUTSIDE OUR COMFORT ZONES: Authenticity, Likeability, Competence, resentment, morality
 
-Humans once opposed coffee and refrigeration: why we often hate new stuff: This was all said very, very well by Machiavelli hundreds of years ago in chapter 6 of _The Prince_
-And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.
+'And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.' -- machiavelli, chapter 6 of _The Prince_
 
-The risk of not changing is almost always greater than the risk of changing. Leap while you’re at the top of the curve, and the next curve builds on the momentum.
-
-> *'If we’re growing, we’re always going to be out of our comfort zone.' -- John Maxwell*
-
-when you control for one set of risks, another simply arises in its place.In treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
-
-> *'Your pain, is the breaking of the shell that encloses your understanding.' -- Kahil Gibran, The Prophet*
-
-risk prone is better than risk averse but dont allow to be out of the game
-
-The Discomfort zone is NOT about experiencing pain.
-Happiness and well-being are also outside of the comfort zone. You have to travel into your discomfort to find the silver linings hidden. The mystery.
-Happiness is outside of my comfort zone. Every day.
-
-1. The Goal of Life is Not Comfort it’s Contribution
-Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
-But the problem with this philosophy is that no great work ever came from comfort.
-
-Avoiding stress is avoiding life.
-
-Reinvention should be an habit not an event.
-
-if you are not growing you are dying
-stepping outside what is easy and embracing discomfort.
-
-risk over safety is the way to pull forward.
-Risk Leads to Growth and Excitement
-Risk looks different for everyone.
-
-2.Suffering is a Temporary But Essential Part of Life
-
-So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
+risk over safety is the way to pull forward. Risk Leads to Growth and Excitement. 
 
 You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
 
-> *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
-> *'The size of our life is in direct proportion to how uncomfortable we are willing to be'*
-
-1. To Improve Your Life, You First First Become Uncomfortable
-If you want to improve the quality of your life, then start by improving your tolerance for risk and adversity.
-Because almost everything that you want is on the other side of the uncomfortable and the scary.
-
-Adventure Comes from Percieved Risk, Not Peril
-develop a tolerance for risk so that you can build up to the scarier activities later.
-
-> *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
-
-I sort of became comfortable with being uncomfortable to the point where now. if I start getting comfortable, I feel like I’m not learning anything and that I might be in a bubble.
-
-To become stronger, you must push against resistance, you must struggle, you must sweat, and you must bleed.
-If you want your relationship to be stronger, you will have to face resistance. You cannot have a thriving marriage and never face adversity together.
-> *'To risk nothing is to risk even more'*
 -->
 
 
@@ -642,6 +592,12 @@ Most problems can be solved by graded exposure over time.
 - entry trick to learn something.
 - success is the worst teacher
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
+
+- If you are not growing you are dying.
+
+So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
+
+growth: get unconfortable. 
 
 Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
 	
@@ -1100,6 +1056,7 @@ On placebos:
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
 
 <!--
+- Avoiding stress is avoiding life.
 - Better antidepressant is knowing we matter to others.
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 
@@ -1211,7 +1168,7 @@ You can hide the ugly parts, but you can't make them disappear.
 ---
 ### On mistakes and failure
 
-'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde
+*'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
 Fail fast and bounce back quickly by being [grateful](#on-gratefulness-and-happiness):  
 Sometimes you win, sometimes you learn. Accept failure as part of the process.
@@ -1250,7 +1207,15 @@ HINT: Be gentle first with yourself.
 
 > *'It's not the load that breaks you down, it's the way you carry it.' -- Lou Holtz*
 
+Suffering is a temporary but essential part of life.
+
+> *'Your pain, is the breaking of the shell that encloses your understanding.' -- Kahil Gibran, The Prophet*
+
 <!--
+> *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
+
+What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
+
 - Failure is only failure if you don’t learn from it, if you don’t grow from it, and if you don’t reframe it so that you see each failure as a valuable teacher, educating you about how to achieve your dreams.
 - failures are flip-sides of our strengths, the opposite is true also. you fail by the same reasons that you sometimes you will succeed
 - When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.

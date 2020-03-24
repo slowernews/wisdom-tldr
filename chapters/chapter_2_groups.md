@@ -582,6 +582,7 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 <!--
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
+> *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun'.' -- Groucho Marx*
 
 - Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
 The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
@@ -618,6 +619,8 @@ How to find mentors? Look for the silver medalist. He has more availability, and
 > *'Your father is your first mentor.'*
 
 <!--
+In treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
+
 I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
 -->
 

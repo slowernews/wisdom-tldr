@@ -87,6 +87,9 @@ HINT: How to improve reality? Act, be patient and break long term goals into sma
 HINT: How to lower your expectations? Be [grateful]().
 
 <!--
+Happiness and well-being are also outside of the comfort zone. You have to travel into your discomfort to find the silver linings hidden. The mystery.
+Happiness is outside of my comfort zone. Every day.
+	
 > *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
 > *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
 > *'Happiness always you hold it in your hands, but let it go, and you learn at once how big and precious it is.' -- Maxim Gorky*

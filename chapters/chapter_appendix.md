@@ -785,6 +785,7 @@ when writing a book start with your own ideas
 > *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
 > *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
+> *'Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.' -- J.K. Rowling*
 -->
 
 
