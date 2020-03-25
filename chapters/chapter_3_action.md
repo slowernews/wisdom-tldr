@@ -908,7 +908,7 @@ chess gambits -- exchange material by position-time.
 ---
 ### On focus, priorities and productivity
 
-> *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy.  
+*'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy.  
 Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
 
 Time itself is not your limitation: attention is. You’re always managing attention, not time.
@@ -1073,7 +1073,7 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 ---
 ### On control
 
-> *'You can lead a horse to water but you can’t make him drink.'* 
+*'You can lead a horse to water but you can’t make him drink.'* 
 
 Control what you can: [what you’re primed by](), [who you are around](), the ideas and problems you [focus]() on.  
 Ignore the rest.
@@ -1599,7 +1599,7 @@ Starting is fun but success belongs to finishers.
 ---
 ### On surrendering
 
-> *'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk*
+*'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk*
 
 Use this opportunity to re-create yourself. In order to come back you have to go away. If you didnt quit anything you woud be still playing with toddlers.
 

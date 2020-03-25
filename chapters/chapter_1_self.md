@@ -10,7 +10,7 @@
 
 ### On independence
 
-'A man is free at the instant he wants to be.' -- Voltaire
+*'A man is free at the instant he wants to be.' -- Voltaire*
 
 Choose *yourself*. Choose to be independent.
 
@@ -60,7 +60,7 @@ look for 100% financial freedom
 ---
 ### On integrity and accountability
 
-'Trust, not money, is the currency of business and life.'
+*'Trust, not money, is the currency of business and life.'*
 
 The only way to build trust is to seek respect. Be impeccable with your word and consciently work on being honest.
 
@@ -1364,7 +1364,7 @@ fear that you are not good enough: that you will never find a woman as good as y
 ---
 ### On perfectionism
 
-> *'The perfect is the enemy of the good.' -- Voltaire*
+*'The perfect is the enemy of the good.' -- Voltaire*
 
 Strive for excellence, not for perfection.  
 Try to see yourself as a doist, not a perfectionist. This is liberating.

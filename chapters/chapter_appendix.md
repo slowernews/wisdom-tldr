@@ -283,7 +283,7 @@ What’s the difference between luck and chance? Luck is an open door. Chance is
 ---
 ### On beauty
 
-'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett  
+*'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
 
 > *'Once I was beautiful, now I'm myself.'*
 
@@ -544,7 +544,7 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 ### On religion
 
-'And on the first day, men created god.'
+*'And on the first day, men created god.'*
 
 > *'The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science.'  
 'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
@@ -567,7 +567,7 @@ To find the truths inside of us that make us all relate to each other. That brin
 ---
 ### On science and art
 
-'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth
+*'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albet Einstein*
 
@@ -608,7 +608,7 @@ an artist normally is an egocentric, free and creative person.
 ---
 ### On aesthetics
 
-'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso  
+*'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*  
 That's where «big bucks» are.
 
 > *'Most people with good taste are young and poor.'*
@@ -914,7 +914,7 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On what women value in men
 
-'She likes a gentleman who knows when not to be gentle.'
+*'She likes a gentleman who knows when not to be gentle.'*
 
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
 
@@ -936,4 +936,4 @@ It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 ---
 ### On what men value in women
 
-'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'
+*'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*

@@ -66,7 +66,7 @@ Why most people don't like networking? [It's hard to handle rejection](). We don
 ---
 ### On communication
 
-'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk
+*'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
 Speak less and listen more. Be humble, listening is powerful.
 
@@ -668,9 +668,9 @@ HOWEVER... some people are not ready to accept your vision. And «givers» attra
 ---
 ### On rewards and generosity
 
-> *'No one has ever become poor by giving.' -- Anne Frank*
+*'No one has ever become poor by giving.' -- Anne Frank*
 
-> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
+*'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
 Always be generous: a low value gift can have the opposite effect.
 
@@ -854,7 +854,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 ---
 ### On politics and taxes
 
-'For the friends: everything. For the others: the law.'
+*'For the friends: everything. For the others: the law.'*
 
 > *'Politicians don't get educated. They get bought.'*  
 > *'To reduce corruption diminish people involved on analogic processes.'*
@@ -1189,7 +1189,7 @@ When you sell your ability to deliver results, nobody asks about your skillset.
 ---
 ### On career
 
-'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene
+*'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
 Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed.  
 
