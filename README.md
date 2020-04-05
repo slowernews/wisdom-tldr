@@ -7,7 +7,6 @@
 ### Introduction
 
 
-- [Intro](/chapters/introduction.md#intro)
 - [On happiness](/chapters/introduction.md#on-gratefulness-and-happiness)
 
 
@@ -126,12 +125,12 @@
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 - [On money management](/chapters/chapter_appendix.md#on-money-management)
 - [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
+- [On college](/chapters/chapter_appendix.md#on-college)
 - [On books](/chapters/chapter_appendix.md#on-books)
 - [On email](/chapters/chapter_appendix.md#on-email)
 - [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)
 
 *Bonus*
-- [On types of people](/chapters/chapter_appendix.md#on-types-of-people)
 - [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
 - [On what men value in women](/chapters/chapter_appendix.md#on-what-men-value-in-women)
 

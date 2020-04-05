@@ -10,11 +10,11 @@
 
 ### On creativity, vision and ideas
 
+*'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
+
 We don’t have an «imagination» we have a memory. Creative minds are rarely tidy.
 
 > *'Good artists copy; great artists steal.' -- Steve Jobs & others*
-
-> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
 
@@ -50,9 +50,9 @@ What is the value of an idea?
 
 > *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
 
-How to judge ideas? Best ideas come from the market, not from you.
-
-> *'Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.'*
+How to judge ideas?  
+- Best ideas come from the market, not from you.  
+- Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
 
 <!--
 Creativity is linked to autonomy.
@@ -77,6 +77,8 @@ Ideas mature, evolve. They smash themselves against real life, sometimes for goo
 ---
 ### On analysis
 
+*'Not everything that counts can be counted, and not everything that can be counted counts.' -- ALbert Einstein*
+
 Analysis is an art, not a science. To find deep truths intuition is better than statistics.
 
 > *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
@@ -88,8 +90,6 @@ And, as such, error-prone by:
 - Randomness: most facts are a «tell» but some are just random.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
-
-> *'Not everything that counts can be counted, and not everything that can be counted counts.' -- ALbert Einstein*
 
 - [Being deceived](#on-deceiving).
 
@@ -265,10 +265,10 @@ There’s always a good reason and a real reason.
 ---
 ### On planning and decision making
 
+*'All battles are won or lost before they are ever fought.' -- Sun Tzu*
+
 Plan ahead and prepare for the highly probable scenarios.  
 Make the decisions right now. When in the moment of making the decision, you have already done it.
-
-> *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
 > *'The best way to predict the future is to invent it.' -- Alan Kay*
 
@@ -276,7 +276,7 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 You can’t predict. You can prepare.
 
-> *'The script is going to be bad but in the end we'll finish eating pizza.'*
+> *'The movie might be good or bad but in the end we'll finish eating pizza.'*
 
 > *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
 
@@ -286,6 +286,8 @@ You can’t predict. You can prepare.
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 
+> *'Hope is not a strategy.' -- Vince Lombardi*
+
 This is why research in rapid cognition says that we -- that is, humans -- make our decisions intuitively most of the time.
 It’s like buying a house. You make a list of all the things you want, and then usually it comes to down a feeling. “I don’t know why, but I just like this one.”
 
@@ -294,8 +296,6 @@ HINTS: mental models are decision making helpers.
 > *'All models are wrong but some are useful.' -- George Box*
 
 <!--
-> *'Hope is not a strategy.' -- Vince Lombardi*
-
 It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
 	
 Like Mike Tyson says, “Everyone has a plan until they get punched in the mouth.”
@@ -380,7 +380,7 @@ Type 2 decisions can and should be made quickly by high judgment individuals or 
 With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
 As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
 
-> *'Opportunity cost is how intelligent people assess things.' -- Munger*
+> *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
 
 plan ahead plannin 20% action 80%?
 
@@ -398,15 +398,10 @@ Actions > Thoughts; Actions change the world. Not beliefs.
 > *'The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.' -- F. Scott Fitzgerald*
 
 > *'He who fails to plan is planning to fail.' -- Sir Winston Churchill*
-
 > *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
-
 > *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
-
 > *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
-
 > *'I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.' -- Charlie Munger*
-
 > *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
 
 a fundamentalist gives answers, a scholar gives questions
@@ -422,16 +417,17 @@ find 3 people that high expertise but that they discord and listen. take your co
 is the decision reversible or irreversible? if it is reversible make it fast.
 -->
 
-If you don't understand the limitations of the model, you don't understand the model.
+- If you don't understand the limitations of the model, you don't understand the model.  
+- Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.  
+- A model is a simplification which fosters understanding. The wrong way to understand models: Too literally.  
+- Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
 
-Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
-
-A model is a simplification which fosters understanding.
-the wrong way to understand models: Too literally
+Georg Rasch said the following:
+When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential…. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.
 
 > *'Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
 
-“The basic trouble, you see, is that people think that “right” and “wrong” are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.” -- Isaac Asimov
+> *'The basic trouble, you see, is that people think that “right” and “wrong” are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
 
 Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad
 
@@ -439,19 +435,9 @@ Occam’s razor states that the simplest solution is usually correct
 
 > *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
-Think of mental models as minimum viable products.
-Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them.
-
-Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
-
-Georg Rasch said the following:
-When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential…. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.
-
 As we know, the map is not the territory. A map can be seen as a symbol or index of a place, not an icon.
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
-
-mapa mental!
 
 Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way.
 
@@ -500,8 +486,6 @@ Map and Terrain
 
 Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong). Scrap it, isolate the 
 
-Getting rich is a function of being happy with what you have, spending less than you make, and time.
-
 “Know the big ideas in the big disciplines and use them routinely-- all of them, not just a few.”
 
 you don't win by predicting the future; you win by getting the odds right. You can be right about the future and still not make any money. At the racetrack, for example, the favorite horse may be the one most likely to win, but since everyone wants to bet on the favorite, how likely is it that betting on the favorite will make you money? The horse to bet on is the one more likely to win than most people expect. That's the one that gives you the best odds. That's the bet that pays off over time. -- will bonner
@@ -516,11 +500,8 @@ Most of the time people don't put us to the test. When they do, the results don'
 If you want to win an argument, ask the person trying to convince you of something to explain how it would work.
 Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
 	
-bad decisions, good memories
-
-if you do do the decision somebody will make it for you.
-
-> *'Hard decisions are only hard when you’re in the process of making them.' -- Debbie Millman*
+- bad decisions, good memories
+- if you dont do the decision somebody will make it for you.
 
 D: Define the problem simply.
 A: Assess the impact.
@@ -547,11 +528,11 @@ white collar want to feel different from others.
 
 decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
 
-inoculate yourself from the stress of making hard decisions when you need to. -- Allen Tucker
-
 Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success.
 You must know exactly what you want, when you want it, and why you want it.
 Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
+
+understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
 
 How to plan: start with a [vision](#on-creativity-vision-and-ideas).
@@ -584,12 +565,6 @@ HOWEVER... some people get paralyzed by [over thinking](#on-starting-and-timing)
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
-<!--
-Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
-
-understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
--->
-
 
 
 
@@ -598,27 +573,23 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 ### On starting and timing
 
+*'A year from now, you will wish you had started today.' -- Karen Lamb*
+
 Just start.  
 Stop making resolutions and start making something.
 
-> *'You don't have to be great to start, but you have to start to be great.' -- Zig Ziglar*
-
 > *'The journey of a thousand miles begins with a single step' -- Lao Tzu*
 
-> *'A year from now, you will wish you had started today.' -- Karen Lamb*
+> *'You don't have to be great to start, but you have to start to be great.' -- Zig Ziglar*
 
 > *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
 
 > *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
 
-HINT: Why people procrastinate?
+Why people procrastinate?
 
-- lack of urgency / deadlines (the panic monster)
+- Lack of urgency / deadlines (the panic monster) Pressed by circumstances, we feel unusually energized and focused.
 No inspiration or opportunities -- the inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.
-
-> *'If opportunity doesn't knock, build a door.' -- Milton Berle*
-
-> *'Pressed by circumstances, we feel unusually energized and focused.'*
 
 - no preparation -- you can learn while you do it.  
 
@@ -627,7 +598,7 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'Just jump in and figure it out. It can’t be that hard.' -- Chris Voss*
 
 - [Perfectionism](chapter_1_self.md#on-perfectionism) 
-- fear (of change)
+- Fear (of change).
 
 > *'We distract ourselves because we are not willing to face up with what bothers us.'*
 
@@ -636,6 +607,8 @@ No inspiration or opportunities -- the inspiration you are waiting for, in order
 > *'What gets measured gets done.'*
 
 <!--
+> *'If opportunity doesn't knock, build a door.' -- Milton Berle*
+
 1) Protect your time like your money.
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 
@@ -849,17 +822,15 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 ---
 ### On speed, position and direction
 
-Direction is more important than velocity.
+*'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
-> *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
+Direction is more important than velocity.
 
 > *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
 
 > *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
 
-Don’t be afraid to take time away to find it. 
-
-> *'Only fools rush into a situation. By committing too quickly you lose your maneuverability.'*
+Don’t be afraid to take time away to find it. Only fools rush into a situation. By committing too quickly you lose your maneuverability.
 
 > *'Who seeks shall find.' -- Sophocles*
 
@@ -891,14 +862,11 @@ Here are three ways you can increase your velocity:
 - say “no” to your boss.
 
 - No podemos elegir nuestro origen pero podemos elegir hacia donde ir
-- be clear that your ladder is laid on the right building.
 	
 chess gambits -- exchange material by position-time.
 
 > *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
 > *'Go-Karts -- Feel fast, are slow 747s -- Feel slow, are fast Ship it! -- Feels fast, is slow Test > *'Document it! -- Feels slow, is fast.'*
-> *'You overestimate what you can do in a year but underestimate what you can do in two or three decades.' -- Tony Robbins*
-> *'Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.' -- Gates’s Law: how progress compounds and why it matters*
 > *'Things may come to those who wait, but only the things left by those who hustle. -- Abraham Lincoln*
 -->
 
@@ -972,10 +940,9 @@ HOWEVER...
 - Productivity is about attention management - productive procrastination
 - maker days and manager days
 
-> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
-
 People As Response Functions. response triggers: your primary trigger, your secundary trigger
 
+> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
 > *'Romans ship, Greeks maintain.' -- anon*
 > *'Whatever you are, be a good one.' -- Abraham Lincoln*
 
@@ -1015,8 +982,6 @@ Only operate from strengths: outsource your weaknesses. focus on what you’re n
 Focus on Adaptability Not Effectiveness
 
 Life is like a camera. Focus on what’s important. Capture the good times. Work on the negatives. And if it doesn’t work out this time, take another shot.
-
-when doing something that you are not good on: -- partner with them. -- outsource it.
 
 There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
 That’s why you need to re-evaluate your old dreams to see if new means have come along.
@@ -1116,11 +1081,11 @@ The hardest skill is knowing when to stop.
 
 > *'Most things are not binary.'*
 
-> *'Balance is not about spending the same amount of time focused on every area of your life either. It's about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.'*
-
-Diversification solves a lot of problems.
+Balance is not about spending the same amount of time focused on every area of your life either. It's about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
 
 > *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.'*
+
+Diversification solves a lot of problems.
 
 How to balance an imbalance? Overcompensate.
 
@@ -1153,8 +1118,7 @@ The 80/20 Principle states that 80% of the output or results will come from 20% 
 
 Enough is the opposite of hunger. The counter to paranoia. The antidote to anxiety.
 
-Exponential growth devours and corrupts
-There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
+Exponential growth devours and corrupts. There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
 
 Disease of More.
 -->
@@ -1196,12 +1160,9 @@ It's scary to make those direction choices but fear is a great road sign.'
 
 HINT: Willpower is finite. So there are limits on change. Change requires attention.
 
-HOWEVER...
-
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 <!--
-
 > *'Listen to predict a collapse.'*
 	
 Inertia is why a car does not stop the moment the brakes are applied.
@@ -1599,27 +1560,24 @@ Starting is fun but success belongs to finishers.
 ---
 ### On surrendering
 
-*'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk*
+*'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk (skater)*
 
-Use this opportunity to re-create yourself. In order to come back you have to go away. If you didnt quit anything you woud be still playing with toddlers.
+Use this opportunity to re-create yourself. In order to come back you have to go away. If you didnt quit anything you woud be still playing with toddlers.  
+Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
 
 > *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
 
 > *'Use the surrender tactic: transform weakness into power.'  
 'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
 
-> *'The greatest revenge is success.' -- Frank Sinatra*
-
 > *'Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere.' -- Paul Coelho*
+
+> *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
+
+> *'The greatest revenge is success.' -- Frank Sinatra*
 
 <!--
 > *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
-
-when do you decide how to quit something else?
-quit or grit? woop
-wish / outcome / obstacle / plan
-
-Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
 -->
 
 
@@ -1628,13 +1586,12 @@ Sometimes good things fall apart so better things can fall together. Every story
 ---
 ### On forgiveness
 
-If forgiveness is a process of release — of letting go of something — then the opposite of forgiveness is a decision to hold — to hold onto something.
-Many people think that the alternative to forgiveness is punishment: We either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution.
-But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. People do this all the time. Governments do it every day.
-By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.”
-In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
+*'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
-> *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
+If forgiveness is a process of release — of letting go of something — then the opposite of forgiveness is a decision to hold onto something.
+Many people think that the alternative to forgiveness is punishment: e either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution. But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. People do this all the time. Governments do it every day.
+
+By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
 
 > *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
 
@@ -1653,6 +1610,8 @@ It's not just about winning. The way you win sets you up for the next round.
 
 > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
 
+> *'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
+
 > *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
 > *'The destination is not the end of the road; it's just a stop along the way. An intersection to take you to your next destination.'*
@@ -1661,9 +1620,6 @@ It's not just about winning. The way you win sets you up for the next round.
 
 <!--
 > *'You might be winning but you’re not growing, and growing might be the most important form of winning.”, “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”, Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
-
-> *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
-18. Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat. -- Balthasar Gracian
 
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 

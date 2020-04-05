@@ -10,11 +10,11 @@
 
 ### On independence
 
-*'A man is free at the instant he wants to be.' -- Voltaire*
+*'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 Choose *yourself*. Choose to be independent.
 
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+> *'A man is free at the instant he wants to be.' -- Voltaire*
 
 > *'My independence is my legacy.' -- Bagão Felix (politician)*
   
@@ -23,6 +23,8 @@ Choose a life you want and then create the things you need around it. Take care 
 Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You cannot give what you do not have. the first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
 
 > *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
+
+> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
 
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
@@ -52,6 +54,47 @@ I define financial freedom as: “The ability to do what you want when you want,
 look for 100% financial freedom
 
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
+
+### The real you
+
+> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
+
+You are your deeds: your actions reveal your real values.  
+How you do anything is how you do everything. Ultimately you are your choices.
+
+> *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
+  
+HINT: to come alive. A man is and should be an evolving target. Never stop working on yourself.  
+Always strive to be better. Is succeeding at mediocrity a worthwhile life?
+For some of you, you must make the conscious decision that you are going to change your story.
+No matter where you are in your life, you have the power to change everything in an instant.
+
+You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
+
+> *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
+> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston S. Churchill*
+> *'Quem não chora não mama.'*	
+> *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
+> *'Só os mais corajosos conseguem fazer a paz' -- Trump*
+
+Life is not something that “has' meaning -- it’s something we give meaning to. You don’t “end up' with a meaningful life, you create it.
+
+There have been times where I felt conflicted and confused, where I mourned for a past self that I knew I would never see again while anxiously awaiting a future self who seemingly would never come. Old habits, both good and bad, have fallen by the wayside while I’ve picked up both good and bad habits to fill their space. mm
+
+{{fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto}}
+
+> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- sma harris*
+
+There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently.
+Feelings are what give a module control: You get worked up by what your buddy said and suddenly your brain is hijacked by “Angry Birds” instead of “Words With Friends.”
+Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings.
+Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
+
+personality is not static. - rollo tomassi
 -->
 
 
@@ -180,6 +223,8 @@ Your success means nothing in life. It’s forgotten in one generation, two at b
 But your emotional health lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
 <!--
+r> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
+
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 > *'#332. Nothing is more highly to be prized than the value of each day.' -- Goethe*
 > *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
@@ -437,9 +482,9 @@ You will live a life that is filled with more excitement and fulfillment the mor
 ---
 ### On habits and systems
 
-Consistency doesn’t come from effort, it comes from systems. Decisions compound.
+*'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
-> *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
+Consistency doesn’t come from effort, it comes from systems. Decisions compound.
 
 > *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
 
@@ -951,11 +996,17 @@ HOWEVER... mastery is an important trigger of arrogance. There's always room for
 
 > *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
 
+<!--
+> *'Ego is the unhealthy belief in our own importance.'*
+-->
+
 
 
 
 ---
 ### On self awareness
+
+*'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
 
 Self awareness reduces the gap between who we are and who we think we are.  
 
@@ -967,11 +1018,12 @@ How to grow self awareness?
 
 - Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
 
-> *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
-
 > *'Do you know anyone who doesn’t have any blind spots? Then why would you be any different?'*
 
 <!--
+Why we should always question our assumptions -- “what if I’m wrong about this?”
+How to define success for yourself. self-awareness?
+
 So take the time now to truly understand what your beliefs and patterns are in every area of life.
 The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
 
@@ -1075,6 +1127,8 @@ HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author
 ---
 ### On fear, anger and excuses
 
+*'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
+
 Fear is paralyzing.
 
 > *'If you view everything through the lens of fear, then you tend to stay in retreat mode.'*
@@ -1086,10 +1140,9 @@ How to overcome it?
 - The antidote to fear is not courage is aceptance. You'll never have fear when you give more value to lessons than successes.  
 - Break down your fears until you figure out the truth.
 
-> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*  
-> *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
+> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
 
-> *'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
+> *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
 
 Anger and excuses are fear clothed. All excuses are refutable.  
 The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny. living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
@@ -1103,7 +1156,7 @@ The best years of your life are the ones in which you decide your problems are y
 > *'Behaviors are driven by fear. To change behaviors focus on fear, not on the behavior itself.'*
 
 <!--
-
+> *'Tolerance of intolerance is cowardice.' -- Ayaan Hirsi Ali*
 > *'You cannot use your personality type as an excuse.'*  
 > *'You'll never be as young as you are today.'*
 > *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
@@ -1118,6 +1171,8 @@ anger is fear clothed: Understanding the underlying fears that angry people have
 - Conquering Fear = Defining Fear: define your fears not your goals
 - I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
 “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
+
+> *'Evil will prevail if good men stand back and do nothing.'*
 -->
 
 
@@ -1126,8 +1181,10 @@ anger is fear clothed: Understanding the underlying fears that angry people have
 ---
 ### On shame
 
-Speaking openly about an imperfection is a sign of strength, not a weakness.  
-You are not you think you are: *you are what you hide*.
+*'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
+
+You are not you think you are: *you are what you hide*.  
+Speaking openly about an imperfection is a sign of strength, not a weakness.
 
 <!--
 Usually the things you hate most about yourself are the things you hide from the rest of the world.
@@ -1143,8 +1200,6 @@ You can hide the ugly parts, but you can't make them disappear.
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
 > *'Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions.'*
-
-> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
@@ -1239,13 +1294,12 @@ Thinking about it makes it worse. Writing about it makes it better.
 ---
 ### On confidence and validation
 
-If you say it with confidence, you are who you say you are.
+*'Believe you can, and you’re halfway there.'*
 
-> *'You're only as good as your next speech.'*
+If you say it with confidence, you are who you say you are.  
+You're only as good as your next speech.
 
 > *'A speech is a performance. Authenticity is crucial.'*
-
-> *'Believe you can, and you’re half way there.'*
 
 Don’t wait for someone to tell you that you are special. If the universe didn't need you, you wouldn't be here.
 
@@ -1277,6 +1331,8 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Don't be so humble - you are not that great.' -- Golda Meir*
 
 <!--
+Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
+
 Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
 
 > *'The best way to cheer yourself up is to try to cheer someone else up.' -- Mark Twain*
@@ -1329,6 +1385,11 @@ I do my best to always pay attention to how I am presenting myself to others eve
 
 Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu* 
+
+9. Entitlement comes in two forms.
+Form one: I’m better than everybody and therefore deserve special treatment.
+Form two: I’m worse than everybody and therefore deserve special treatment.
+They’re both forms of narcissism (because they’re both about me me me), and both are pretty much never true. Which one do you usually fall into?
 -->
 
 
@@ -1337,11 +1398,11 @@ Someone else’s strengths don’t make you look bad, but being jealous and inse
 ---
 ### On limits, resistance and motivation
 
+*'The only person standing in your way is you.' -- Black Swan*
+
 Your limits are where are your [fears](#on-fear-anger-and-excuses).  
 
 Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.  People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
-
-> *'The only person standing in your way is you.' -- Black Swan*
 
 > *'To define is to limit.' -- Oscar Wilde*
 
@@ -1366,10 +1427,10 @@ fear that you are not good enough: that you will never find a woman as good as y
 
 *'The perfect is the enemy of the good.' -- Voltaire*
 
+*'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
+
 Strive for excellence, not for perfection.  
 Try to see yourself as a doist, not a perfectionist. This is liberating.
-
-> *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
 
 > *'Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your “self” out of your decisions, because most likely, it’s not about “you”. Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it.' -- Mark Manson*
 
@@ -1378,6 +1439,7 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 > *'Perfectionism doesn’t make you feel perfect; it makes you feel inadequate.' -- Maria Shriver*
 
 <!--
+> *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
 > *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*

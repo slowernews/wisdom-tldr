@@ -10,15 +10,16 @@
 
 ### On networking
 
+*'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
+
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
 
-> *'The enemy of excellence is isolation.' -- Aaron Walker*  
+> *'The enemy of excellence is isolation.' -- Aaron Walker*
+
 > *'Your silence will not protect you.' -- Audre Lorde*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
-
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
 
 > *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*  
 > *'Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.'*
@@ -38,9 +39,7 @@ intro: //clay hebert
 I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words -- short and sweet and confident and interesting.
 ask them first so you can costumise it for the context and make it more relevant.
--->
 
-<!--
 How to curate your network?
 
 - Form relationships with those who seem like they’ll give at least as much than they take.  
@@ -54,7 +53,7 @@ How to curate your network?
 - the best way to get value was to start giving it away? you're giving validation
 -->
 
-Why most people don't like networking? [It's hard to handle rejection](). We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
+Why most people don't like networking? It's hard to handle rejection. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
 > *'If you expect magic in every encounter, you'll find it.' — Adam Robinson*
 
@@ -89,6 +88,7 @@ How to communicate?
 - Know how to lead a conversation and how to go with the conversational flow.
 
 - Don't be stubborn: you don't always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
+
 <!--
 - Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. Add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly. Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it.
@@ -132,12 +132,12 @@ How to discord? Argue as you're right. Listen as you're wrong.
 ---
 ### On business and entrepreneurship
 
+*'What you need to start a new business: generosity.' -- Derek Sivers*
+
+*'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
+
 There are two types of entrepreneurs: missionaries and mercenaries.  
 Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
-
-> *'What you need to start a new business: generosity.' -- Derek Sivers*
-
-> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
 
 Validate your business by finding paying clients. The more they pay, the more they value it: the consumer votes with his wallet.
 
@@ -273,12 +273,12 @@ Reacting (to adapt to the identified needs - letting the other person set the pa
 
 > *'Instead of details use interesting testimonials that allow people to relate.'*
 
-HINTS:
+Hints:
 
-> *'Marketing is a symptom not of excess consumption but of excess production.'*  
-> *'People don’t buy products, they buy better versions of themselves.'*  
-> *'Females buy male products. Males don't buy products targetted to females.'*  
-> *'If they can’t pay, walk away.'*
+- Marketing is a symptom not of excess consumption but of excess production.  
+- People don’t buy products, they buy better versions of themselves.  
+- Females buy male products. Males don't buy products targetted to females.  
+- If they can’t pay, walk away.  
 
 > *'Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.'*
 
@@ -298,9 +298,8 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
-«What’s your best out-the-door price?»
-«Can you do X% below that?»
-«If you can reach my price, I’ll buy today.»
+«What’s your best out-the-door price?»  
+«Can you do X% below that? If you can reach my price, I’ll buy today.»
 
 - Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
 - How to say no? «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
@@ -317,34 +316,29 @@ For the accomodator, the relationship is the most important'*
 
 > *'Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.'*
 
-HOWEVER... always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.
+HOWEVER... always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.  
+The most dangerous negotiation is the one you don’t know you’re in.
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
 
 > *'You can’t make a good deal with a bad person.' -- Warren Buffett*
 
-> *'The most dangerous negotiation is the one you don’t know you’re in.'*
-
 <!--
-- make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them
+- make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
 
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
+- What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
 
-What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
+- 27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. -- Balthasar Gracian
 
-27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. The idol never wishes to see before him the sculptor who shaped him, nor does the benefited wish to see his benefactor always before his eyes. -- Balthasar Gracian
-
-always negotiate. dont communicate weaknes on your negotiation.
+- always negotiate. dont communicate weaknes on your negotiation.
 your first reaction should be no reaction. fight impulse to imediatelly give the answer.
 
-Responding to Job Offers for Maximum Impact
-Alex takes us through the process of responding to a job offer and sending a counteroffer.
-These sample letters should help you craft your own when the time comes.
-
+- Responding to Job Offers for Maximum Impact
 Letter One [Strong Response]
 Bob, [First name: power play.]
 
@@ -371,8 +365,6 @@ Cheers,
 Alex “Dream Employee” Kouts
 415.555.ALEX
 
-Review:
-
 Always use first names (caveat: unless their title vastly exceeds yours — if they’re on LinkedIn, use how they address themselves there as a reference.)
 Never make the first offer.
 Thank them.
@@ -381,10 +373,8 @@ Display social proof/market validation.
 Set your “ask.”
 Help them visualize the win.
 Reiterate interest and close strong.
-Negotiating for a Car/Motorcycle/Mattress
-Alex shrewdly picked up a mattress for his girlfriend — plus a box spring, plus a frame — for less than half of what the salesman was originally asking for the mattress alone. Here’s his list of things you can say or do when negotiating for something like a car, motorcycle, or mattress — keep this handy on your phone so you can put it to use next time you’re trying to get a good deal!
 
-First establish a baseline — use Google.
+- First establish a baseline — use Google.
 Ask if they will match advertised prices from a competitor.
 “What is your best out the door price?”
 “Will you do that -10%?”
@@ -395,73 +385,37 @@ Ask if they will match advertised prices from a competitor.
 “Okay, thank you. It’s helpful to know where you stand. I am going to check out a couple of your competitors and will be back if it makes sense.”
 WALK AWAY.
 
-I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
+- if you want to go fast, let the other part go first.
+- Unexpressed feelings never die. Releasing pressure is different from venting.
+- The more influence somebody is the more they use we / plural pronouns.
+- never split the difference
 
-creative pricing:
-One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show.
+- Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
+
+- make an agreement on a standard of value. my standard of value for a weekend: some combination of rejuvenation and human connection.
+normally we fall into habits. we don't do what is best for ourselves.
+
+- One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show.
 I said, “$1500”. She said, “Oh, that’s a bit too much. What would you charge to do just a one-hour show?”
 I said, “$2000”. She said, “No, wait, you’ll be performing less, not more!”
 I said, “Yeah! Exactly! What you’re paying me for is to get there! Once I’m there, playing music is the fun part! If you tell me I have to get back in the van after only an hour, and drive home, then I’m going to charge you more than if you let me play for a couple hours first.”
-She liked that so much she came up with the $1500.
+She liked that so much she came up with the $1500. -- Derek Sivers
 
-on negotiation if you want to go fast, let the other part go first.
-	
-> *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
-	
-> *'Unexpressed feelings never die.'*
-> *'Releasing pressure is different from venting.'*
-> *'The more influence somebody is the more they use we / plural pronouns.'*
-> *'There are so many wingman breaking communication. looking for cliches, profanity, adjectives, emotions, whats important for them, body language.'*
-> *'Listening for things that you didn't see. for incongruence.'*
-> *'They will hurt, and than say what you have to say. people then are expecting and it doesn't hurt as much.'*
-naming the negatives first.'* 
+- Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
+What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
 
-REMeMBER PEOPLE THAT THEY HAVE CHOICES, That they can control.
-
-never split the difference
-
-Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-
-make an agreement on a standard of value.
-my standard of value for a weekend: some combination of rejuvenation and human connection.
-normally we fall into habits. we don't do what is best for ourselves.
-people have different standards of value: weekend example
-rejuvenation and human conception will derail to your habits.
-
-Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
-
-What am I negotiating?
-What is my timeline? (This will affect your urgency.)
-Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.)
-What are my interests in this particular case?
-
-when asked for a number:
-“I’m looking at a few different offers and opportunities — what were you thinking?”
-
-When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base.
-
-A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.”
-
-Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
-
-> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
-
-It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
-
-Call all owners to rent. 8 said yes. Then auction! 2200 -> 1500
-
-To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
+- Call all owners to rent. 8 said yes. Then auction! 2200 -> 1500.  
+- To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
 Business is 80% psychological.
-
 irritation -> challenge people to make something that they don't want to do
 agitation -> challenge people to make something that they want to do. suggesting ego etc
-agitate more than irritate
+agitate more than irritate.
+- Most rejections are not your fault.
 
-So can you pitch me what our company does?
-
-people minds work by association. pre-suasion
-
-most rejections are not your fault.
+So can you pitch me what our company does? people minds work by association. pre-suasion
+> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
+> *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
+- It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
 -->
 
 
@@ -469,6 +423,8 @@ most rejections are not your fault.
 
 ---
 ### On relationships
+
+*'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 A great relationship is about finding the similarities and respect the differences.  
 Trust and vulnerability are correlated.
@@ -482,13 +438,15 @@ Trust and vulnerability are correlated.
 Focus on what you can give not what you can get. You only receive in proportion to what you give. However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. You need to partner with someone who wants you to be all you can be.
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*  
-> *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 > *'Don't hide your feelings from people who show you theirs.'*
 
-> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*  
-> *'If a person is nice to you and to nobody else, that person is not nice.'*  
+> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
+
+> *'If a person is nice to you and to nobody else, that person is not nice.'*
+
 > *'If you are lonely when you are not alone, you are in bad company.'*
+
 > *'I won’t be less just because you cannot be more.'*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
@@ -496,16 +454,11 @@ Focus on what you can give not what you can get. You only receive in proportion 
 > *'Trust bank account analogy: you make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.'*
 
 <!--
-Again, something I once wrote on the subject of a good partnership was “Shared values and complementary skills.”
-So I think it’s very important to share values, but I also think it’s important to not be the same person, a copy of yourself. If it’s a copy of yourself, you don’t need it.
-	
-14. Earn respect before demanding it. Do not enforce respect, but try and create it. Those who insist on the dignity of their office, show they have not deserved it, and that it is too much for them. If you wish to be valued, be valued for your talents, not for anything adventitious. Even kings prefer to be honoured for their personal qualifications rather than for their station. -- Balthasar Gracian
+- good partnership is “Shared values and complementary skills.” So I think it’s very important to share values, but I also think it’s important to not be the same person, a copy of yourself. If it’s a copy of yourself, you don’t need it.
 
-first we judge trust, before strength.
-we build trust through presence. leadership is based on trust.
+- first we judge trust, before strength. we build trust through presence. leadership is based on trust.
 
-There are four types of relationships with people:
-Win Win (long term), Win Lose, Lose Win, Lose Lose
+- There are four types of relationships: Win Win (long term), Win Lose, Lose Win, Lose Lose
 -->
 
 On lovers: you attract what you are. Love is what happens to men and women that don't know each other.
@@ -541,14 +494,17 @@ Life is people and is meant to be lived in community.
 
 > *'When everything goes to hell, the people who stand by you without flinching, they are your family.' -- Jim Butcher*
 
-> *'Your friends are the ones that go to your funeral and in a day of rain.' -- an old General*
+> *'Your friends are the ones that go to your funeral in a day of rain.' -- an old General*
 
 However choose who surround you: you are the average of them. 
 
-> *'If you're the smartest in the room, you're in the wrong room.'*
+> *'If you're the smartest in the room, you're in the wrong room.'*  
+
 > *'Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.'*
 
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
+
+> *'Really great people make you feel that you too can be great.' -- Mark Twain*
 
 How to build your «board of directors»?
 
@@ -585,11 +541,10 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 > *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun'.' -- Groucho Marx*
 
 - Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
-The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
+- The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
 
-Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
-
-the way of man is the way of the gang
+- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
+- the way of man is the way of the gang
 -->
 
 
@@ -598,15 +553,11 @@ the way of man is the way of the gang
 ---
 ### On feedback and mentorship
 
+*'I’d rather have criticism from a genius than praise from an idiot.'*
+
 Feedback speeds up improvement but only take advice from mentors.
 
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
-
 > *'A coach spots your bullshit before you open your mouth.'*
-
-> *'Follow the thought leaders instead of the traffic leaders.'*
-
-> *'Really great people make you feel that you too can be great.' -- Mark Twain*
 
 > *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
 
@@ -615,6 +566,8 @@ Feedback speeds up improvement but only take advice from mentors.
 How to find mentors? Look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
+
+> *'Follow the thought leaders instead of the traffic leaders.'*
 
 > *'Your father is your first mentor.'*
 
@@ -702,17 +655,16 @@ impredictable schedule / fixed work amount schedule / fixed time amount schedule
 
 ### On conflicts
 
-Don't avoid *relevant* conflicts. Small conflicts will grow into big conflicts.  
-Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom).
+*'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
 
-> *'Avoiding conflict will not keep peace, will rot it.  
-Rotten peace builds resentment.' -- EF*
+Don't avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
+Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom).
 
 > *'I am either part of the solution or part of the problem.'*
 
 > *'Well-kept gardens die by pacifism.'*
 
-HINTS on conflict resolution:
+Hints on conflict resolution:
 
 - Offer value from the start: Set the stage by coming in smiling, pay a compliment, make a joke and shake hands.
 - Show some empathy and use “we” to show you’re on the same team.  
@@ -725,13 +677,13 @@ HINTS on conflict resolution:
 ---
 ### On criticism and envy
 
+*'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+
 Treat your haters like toddlers.
 
 Outliers inspire envy. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers. 
 
 > *'Remember if people talk behind your back, it only means you are two steps ahead.' -- Fannie Flagg*
-
-> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
 > *'They called her witch because she knew how to heal herself.'*
 
@@ -779,11 +731,14 @@ Most people are other people. Their thoughts are someone else opinions and they 
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 -->
 
-> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*  
+> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
+
 > *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
+
 > *'Talk sense to a fool and he calls you foolish.' -- Euripides*
 
-> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*  
+> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
+
 > *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
 
 > *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
@@ -792,7 +747,8 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
 
-> *'Common sense is the collection of prejudices acquired by age eighteen.'*  
+> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+
 > *'People accept the defaults very easily.'*
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
@@ -833,8 +789,6 @@ From Scott Adams (Dilbert):
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
 > Persuaders: Use simplicity, repetition, emotion, habit, aspirations, visual communication, and other tools of persuasion to program other people and themselves. This group is about 1% of the population and effectively control the word-thinkers of the world.
 
-3 types of man: spectators, the dabblers and the men in the arena.
-
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
@@ -856,13 +810,16 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 *'For the friends: everything. For the others: the law.'*
 
-> *'Politicians don't get educated. They get bought.'*  
+> *'Politicians don't get educated. They get bought.'*
+
 > *'To reduce corruption diminish people involved on analogic processes.'*
 
 > *'Politician is a profession that doesn't like risk. Decisions are made on the lowest risk of offending anybody.'*
 
-> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*  
-> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*  
+> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
+
+> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
+
 > *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
 
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
@@ -875,12 +832,13 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 > *'When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
 
-> *'Good fences make good neighbors.'*  
+> *'Good fences make good neighbors.'*
+
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
 > *'Multicultural is by absurdum the true monocultural.' -- EF*
 
-Taxes aren’t a punishment. They are a membership fee and 80% of all people are voluntarily overpaying them.
+Taxes aren’t a punishment. They are a membership fee that 80% of us are voluntarily overpaying.
 
 <!--
 it may be pop psychology stuff, but it’s convenient for my point so in the spirit of American politics I will treat it as fact.
@@ -897,13 +855,16 @@ it may be pop psychology stuff, but it’s convenient for my point so in the spi
 
 ### On leadership
 
+*'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+
 Leaders are team makers. Being a leader is different from being a boss: it requires to be manager and psychotherapist. Leadership is based on [mutual trust](#on-relationships).
 
-> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*  
+> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+
 > *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
 
-> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*  
-> *'People don't follow robots.'*  
+> *'People don't follow robots.'*
+
 > *'There are no bad teams, only bad leaders.'*
 
 > *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
@@ -996,9 +957,9 @@ o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por n
 ---
 ### On teams: management and delegation
 
-Managing is delegating. Your speed as a manager is the speed of your team.
+*'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+Managing is delegating. Your speed as a manager is the speed of your team.
 
 > *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
 
@@ -1102,6 +1063,10 @@ If I can’t say no, I schedule the meeting for the afternoon. If I have to do i
 ---
 ### On hiring and being hired
 
+*'He who works with his hands is a laborer.  
+He who works with his hands and his head is a craftsman.  
+He who works with his hands and his head and his heart is an artist.' -- St. Francis of Assisi*
+
 Trial most but only hire likable persons that «get shit done».  
 Your goal in business should be to «fire» yourself and hire people who are better at your job than you are.  
 To build an empire you must become a master at finding and hiring talent.
@@ -1109,10 +1074,6 @@ To build an empire you must become a master at finding and hiring talent.
 > *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
-
-> *'He who works with his hands is a laborer.  
-He who works with his hands and his head is a craftsman.  
-He who works with his hands and his head and his heart is an artist.' -- St. Francis of Assisi*
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
@@ -1142,6 +1103,8 @@ Most reviewers are only going to understand two skill levels:
 still learning the skill / confident in the skill
 
 <!--
+- I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
+
 If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.
 
 people leave managers, not companies
@@ -1181,6 +1144,8 @@ companies hire for a problem and not general optimizations. Even if they need a 
 Try consulting or entrepreneurship.
 When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
 When you sell your ability to deliver results, nobody asks about your skillset.
+
+Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 -->
 
 
@@ -1191,9 +1156,7 @@ When you sell your ability to deliver results, nobody asks about your skillset.
 
 *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
-Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed.  
-
-> *'If your job doesn't require originality, next decade you might not have one.'*
+Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed. If your job doesn't require originality, next decade you might not have one.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
@@ -1211,9 +1174,9 @@ Being an employee is long-term risky. In an economy with shrinking corporations,
 
 > *'You dont get anywhere, and for more money, sitting in the same seat.'*
 
-> *'My luggage is always ready.' -- Portuguese soccer coach*
+> *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
 
-How to keep a job or advance career? knowledge + metaknowledge (don't ask, journal higher hierarchy than you)
+How to keep a job or advance career? knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 > *'I had a manager who once said the people who were terminated were those who question too much and do too little.'*
 
@@ -1244,66 +1207,40 @@ write a pitch, are u persuasive, can you change somebody else opinion. making a 
 
 > *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
 
-> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now, and all other jobs.'*
-
-On college:
-
-> *'«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase “Safety net”?
-Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up.' -- James Altucher*
-
-> *'The purpose of high education is first and foremost to meet people and build relationships.'*
-
-> *'A college education can help you make a living, self-education can make you a fortune.'*
-
-> *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
+> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
 
 How to get employers feedback?  
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
-differentiate yourself / volunteer for assignments
-becoming the go to guy for some questions
-
+- differentiate yourself / volunteer for assignments / becoming the go to guy for some questions
 - three-paths-in-the-tech-industry-founder-executive-or-employee
 - trabalhar de porta aberta vs trabalhar à porta fechada
 - Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
 - From the point of view of a noob. I might be completely wrong: Tech marketability is important WHEN you are below average (my case). Otherwise any technology will grant you a job: if you know how to program, all languages are easy to pick. In my case, I'm still between React and Vue. While I prefer Vue, all jobs ask for React.	
 - work smart not harder but hard still.
+- Be a jack-of-all-trades and a master of one.
+- trade-able skills: figure out what skills you already have that you can charge for
 
-3. Always Focus on Delivering More Value than Expected
+- Always Focus on Delivering More Value than Expected
 
-finding and winning a great job is a competitive subject. it's not very correlated with luck.
-
-You are a learning machine… Not an occupation.
-Ideas are welcomed, execution is worshiped
-Your Success is Someone Else’s Miracle
-
-{{link to change}}
-My passionate interests have changed 30 times since I graduated college.
-
-recruiting better than hiring: find a place where you can do a good job
-
-Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
-
-You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring.
-I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
-
-you need to get people attention
-
-ex: selling generic copyright instead of mass persuasion
-find your secret sauce and NAME it. whats unique.
-
+- finding and winning a great job is a competitive subject. it's not very correlated with luck.
+- Your Success is Someone Else’s Miracle
 > *'The difference between your best and your worst? The perception of others. Block out the noise and you’ll stay on track.' -- Phil Hellmuth*
+- find your secret sauce and NAME it. whats unique. you need to get people attention
+- ask what's your secret mission -- something you want to do here that another person is interested also\
 
-its good to be better, but is better to be different.
+- you are a learning machine… Not an occupation.
+- Ideas are welcomed, execution is worshiped
 
-> *'Be a jack-of-all-trades and a master of one.'*
+- recruiting better than hiring: find a place where you can do a good job
+- its good to be better, but is better to be different.
 
-trade-able skills: figure out what skills you already have that you can charge for
+- Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
+- My passionate interests have changed 30 times since I graduated college.
+- You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
 
-read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
-	
-ask what's your secret mission -- something you want to do here that another person is interested also\
+- read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
 
 100% time -> 100% results  
 20% time -> 80%results  
@@ -1344,8 +1281,6 @@ Only comedians can speak the truth without consequences.
 > *'Social cartography: who's the decision maker, to whom people are speaking and who is speaking.'*
 
 HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.
-
-> *'Only the truth is funny.' -- Rick Reynolds*
 
 > *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
 
