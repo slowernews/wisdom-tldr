@@ -21,8 +21,6 @@ What's happiness?
 
 > *'Happiness is a journey, not a destination.' -- Ben Sweetland*
 
-> *'Happiness is inside you, not with another person.'*
-
 > *'Happiness is your default state when you remove everything.' -- Naval Ravikant*
 
 How to improve reality? Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
@@ -43,6 +41,8 @@ How to improve reality? Act, be patient and break long term goals into smaller o
 
 > *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
 
+> *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
+
 How to lower your expectations? Be [grateful]().
 
 'Happy life = mastery + belonging + autonomy'
@@ -50,22 +50,23 @@ How to lower your expectations? Be [grateful]().
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
 
 <!--
+> *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli, former British Prime Minister*
+
 - Anchor yourself -- remember who you are, the things you are good at, even when completely different thing. authentic self is a state
 - Encourage people to think in terms of probabilities. You cant guarantee good outcome, you can is maximise the chances
 - Focus on internal fulfillment not external success
 - Happiness and well-being are also outside of the comfort zone. You have to travel into your discomfort to find the silver linings hidden. The mystery. Happiness is outside of my comfort zone. Every day. temos q estar sempre nos limites para sermos felizes.
-- Happiness comes from autonomy not money
-- Happiness is a choice, and if you aren’t choosing to be happy along the journey, you will arrive at the destination and wonder “Is this it?”
-- Happiness is not about positive thoughts but every positive thought is based on a negative thought. Happiness is about absense of desire! and embrace the presence on the present time.	
+- Happiness comes from autonomy not money.
+- Happiness is about absense of desire! and embrace the presence on the present time.
 - Love, sucess and happiness are a byproduct
 - Persistence + Love = Abundance
 - Regrets of the dying: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
-- True happiness, at its core, is simply about creating a life where your positive experiences and emotions outweigh the bad ones.
-You need to understand that you aren’t supposed to be happy all the time. You need the negative emotions and difficult times to help you appreciate it when things are great. Happiness isn’t something that you achieve. It’s not a goal to be had. It’s a state that you have access to every second of every day. Happiness is a choice.
+- True happiness, at its core, is simply about creating a life where your positive experiences and emotions outweigh the bad ones. You need to understand that you aren’t supposed to be happy all the time. You need the negative emotions and difficult times to help you appreciate it when things are great. Happiness isn’t something that you achieve. It’s not a goal to be had. It’s a state that you have access to every second of every day. Happiness is a choice.
 - In the absence of such an outlet, masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
 
-> *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.'*
 > *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
+{{fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto}}
+Life is not something that “has' meaning -- it’s something we give meaning to. You don’t “end up' with a meaningful life, you create it.
 -->

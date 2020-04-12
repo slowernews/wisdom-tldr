@@ -8,17 +8,40 @@
 
 # 1.1 - On foundations
 
+### On the real you
+
+*'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
+
+You are your deeds: your actions reveal your real values.  
+How you do anything is how you do everything. Ultimately you are your choices.
+
+> *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
+  
+How to come alive?
+
+A man is and should be an evolving target. Never stop working on yourself. Always strive to be better. Is succeeding at mediocrity a worthwhile life? For some of you, you must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant.
+
+You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
+
+> *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
+
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+
+> *'Your temporary circumstances do not have to become your permanent identity' -- Greg Hartle*
+
+
+
+
+---
 ### On independence
 
-*'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+*'A man is free at the instant he wants to be.' -- Voltaire*
 
 Choose *yourself*. Choose to be independent.
 
-> *'A man is free at the instant he wants to be.' -- Voltaire*
-
 > *'My independence is my legacy.' -- Bagão Felix (politician)*
   
-Choose a life you want and then create the things you need around it. Take care of yourself first. Take care of yourself and the money, love, and prosperity will follow.  A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
+Choose a life you want and then create the things you need around it. Take care of yourself first and the money, love, and prosperity will follow. A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
 Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You cannot give what you do not have. the first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
 
@@ -37,6 +60,8 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 > *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
 
 <!--
+> *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
+
 Codependent no more: How to stop controlling others and start caring for yourself.
 
 we dont need to like everybody. dot. being nice is not being able to tolerate the other being upset with him. niceness leads to passivity they don't rise to leadership positions. a nice person can't be angry -> then it manifest as depression, anxiety, health problems, passive agressiveness
@@ -55,44 +80,17 @@ look for 100% financial freedom
 
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 
-### The real you
-
-> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
-
-You are your deeds: your actions reveal your real values.  
-How you do anything is how you do everything. Ultimately you are your choices.
-
-> *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
-  
-HINT: to come alive. A man is and should be an evolving target. Never stop working on yourself.  
-Always strive to be better. Is succeeding at mediocrity a worthwhile life?
-For some of you, you must make the conscious decision that you are going to change your story.
-No matter where you are in your life, you have the power to change everything in an instant.
-
-You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
-
-> *'Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive.' -- Howard Thurman*
-
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
-
 > *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
-> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston S. Churchill*
+> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston Churchill*
 > *'Quem não chora não mama.'*	
 > *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
 > *'Só os mais corajosos conseguem fazer a paz' -- Trump*
 
-Life is not something that “has' meaning -- it’s something we give meaning to. You don’t “end up' with a meaningful life, you create it.
-
 There have been times where I felt conflicted and confused, where I mourned for a past self that I knew I would never see again while anxiously awaiting a future self who seemingly would never come. Old habits, both good and bad, have fallen by the wayside while I’ve picked up both good and bad habits to fill their space. mm
 
-{{fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto}}
+> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
 
-> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- sma harris*
-
-There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently.
-Feelings are what give a module control: You get worked up by what your buddy said and suddenly your brain is hijacked by “Angry Birds” instead of “Words With Friends.”
-Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings.
-Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
+- There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
 
 personality is not static. - rollo tomassi
 -->
@@ -101,44 +99,9 @@ personality is not static. - rollo tomassi
 
 
 ---
-### On integrity and accountability
-
-*'Trust, not money, is the currency of business and life.'*
-
-The only way to build trust is to seek respect. Be impeccable with your word and consciently work on being honest.
-
-> *'Be the person your dog thinks you are.' -- J.W. Stephens*
-
-> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
-
-> *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
-
-> *'Quality means doing it right when no one is looking.' -- Henry Ford*
-
-Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
-Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
-
-> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
-
-> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
-
-<!--
-> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
-
-bravery is learned -> micro-bravery, start small
-
-Be willing to side with the minority.
-
-Humility With forward action: 'I wasn’t the smartest in X but..'
-integrity is what you think is what you say, and the same what you do.
-being vulnerable is taking don't be afraid of taking a risk.
--->
-
-
-
-
----
 ### On authenticity
+
+*'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 Choose authenticity. Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
@@ -192,7 +155,43 @@ Always remain diligent. Have no careless Days. Fate loves to play tricks, and wi
 Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 You must play by your rules, funnel your weird stuff to give you some advantage.
 _im bad in following a script_
+-->
 
+
+
+
+---
+### On integrity and accountability
+
+*'Trust, not money, is the currency of business and life.'*
+
+Be impeccable with your word and consciently work on being honest. The only way to build trust is to seek respect.
+
+> *'Be the person your dog thinks you are.' -- J.W. Stephens*
+
+> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
+
+> *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
+
+> *'Quality means doing it right when no one is looking.' -- Henry Ford*
+
+Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
+Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+
+> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+
+> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
+
+<!--
+> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
+
+bravery is learned -> micro-bravery, start small
+
+Be willing to side with the minority.
+
+Humility With forward action: 'I wasn’t the smartest in X but..'
+integrity is what you think is what you say, and the same what you do.
+being vulnerable is taking don't be afraid of taking a risk.
 -->
 
 
@@ -219,17 +218,17 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
 
+> *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
+
 Your success means nothing in life. It’s forgotten in one generation, two at best.
 But your emotional health lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
 <!--
-r> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
-
+> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 > *'#332. Nothing is more highly to be prized than the value of each day.' -- Goethe*
 > *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
 > *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
-> *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
 - A good life is not a life without problems. A good life is a life with good problems. mm
 - play the cards you are dealt. And you will often be dealt bad cards.
 
@@ -247,10 +246,11 @@ I sometimes forget that a group of people blazed the trail I’m enjoying and th
 
 ### On finding your path
 
-Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life.  
-The path will be revealed as you start walking.
+*'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
-> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
+*'The obstacle is the way.' -- Marcus Aurelius*
+
+Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
 
 > *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
 
@@ -258,19 +258,20 @@ The path will be revealed as you start walking.
 
 Hints:
 
-- Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.
-- If you are feeling lost in life, you need to experience more things.  
-- What do you do for fun? What are you interested in that everybody in the world is interested in?
+- Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.  
+- What do you do for fun? What are you interested in that everybody in the world is interested in?  
+- If you are feeling lost in life experience more things.  
+- Go where you can make a difference not where you think there’s a home run.  
+- When life gets blurry, just adjust your focus.
+- It’s easier to ask forgiveness than to get permission.  
 
-> *'The obstacle is the way.' -- Marcus Aurelius*
-
-> *'If you are going through hell, keep going.' -- Winston Churchill*
-
-> *'Go where you can make a difference not where you think there’s a home run.'*
+> *'I can think, I can wait and I can fast.' -- Siddahrta*
 
 > *'If we’re growing, we’re always going to be out of our comfort zone.' -- John Maxwell*
 
-> *'It’s easier to ask forgiveness than to get permission'*
+> *'If you are going through hell, keep going.' -- Winston Churchill*
+
+> *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
 
 > *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
 
@@ -278,50 +279,38 @@ Hints:
 
 > *'The question is not who is going to let me; it's who is going to stop me.' -- Ayn Rand*
 
-> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
+> *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
-> *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
+> *'The best way out is always through.' -- Robert Frost*
 
-> *'When life gets blurry, just adjust your focus.'*
+How to design a life?
+
+> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 
 <!--
-1. To Improve Your Life, You First First Become Uncomfortable
+
+- To Improve Your Life, You First First Become Uncomfortable
 If you want to improve the quality of your life, then start by improving your tolerance for risk and adversity.
 Because almost everything that you want is on the other side of the uncomfortable and the scary.
 
-> *'I can think, I can wait and I can fast.' -- Siddahrta*
-> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
-
-there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
+- there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
 
 - the talent to change your life
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
-
-> *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
-
-Passion is made not found.
-parabol: that door is only for you.
-	
-i FEEL that THIS was what I was meant to do, its ok to be vulnerable
+- Passion is made not found.
+- parabol: that door is only for you.	
 
 “Ever since I was a little kid, I wanted to be in combat,” he said. “Why?”
 “Well… what did you want to do when you were growing up?” he asked.
 “I guess I wanted to write and interview people.”
 “Well, there you go.” I don’t think my brain fully realizes that I’m doing what I dreamt of doing as a kid.
 
-if you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price. -- roger kipling
+> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- roger kipling
 
-> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
-
-The perpetual chase for more is not the path that leads to more freedom and happiness.
-
-Best Effort + Surrender = DESTINY
+- Best Effort + Surrender = DESTINY
 	
-The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
-
 > *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
 
-how to design a life?
 “Your Ten-Year Plan for a Remarkable Life”
 in 2027 how a day of your life will look like?
 write how will look this day. dream big. write it with no fear and read it once a year.
@@ -381,20 +370,17 @@ I don’t care if you have $10,000,000 in the bank account, a model wife, and al
 Never settle in life, never be content with who you are and what you have achieved.
 You have to constantly push yourself to do more, achieve more, and, most importantly become more.
 
-Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It's not an age thing.
+- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It's not an age thing.
 
-“We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
+- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
-lying in death bed and regretting your life is the worst that can happen to you.
-
-> *'Your temporary circumstances do not have to become your permanent identity' -- Greg Hartle*
+- lying in death bed and regretting your life is the worst that can happen to you.
 
 We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love?
 I can tell you from experience, it leaves a lot of room for change.
 I still love everything I quit. But not as much as I love all this room for change._sivers
 
 Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose.
-
 So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.
 challenge Because that is where you will find true fulfillment and satisfaction.
 Create Projects, Not Goals
@@ -500,7 +486,7 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
 
-HINTS: how to create new habits?
+Hints: how to create new habits?
 
 - Small Steps Beat Big Dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
 - Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
@@ -508,7 +494,7 @@ HINTS: how to create new habits?
 - Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
 - Focus on the costs of bad habits.
 
-HINTS:
+Hints:
 
 - Cultivate high leverage habits: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
 - Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
@@ -879,7 +865,7 @@ what happens when we step too far out of our comfort zones, how James mitigates 
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
-HINTS: Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
+Hints: Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -1416,6 +1402,8 @@ However your level of success will seldom exceed your level of personal developm
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
 
 <!--
+- The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
+
 fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 -->
 

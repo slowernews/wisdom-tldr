@@ -14,9 +14,10 @@
 
 
 *On foundations*
+- [On the real you](/chapters/chapter_1_self.md#on-the-real-you)
 - [On independence](/chapters/chapter_1_self.md#on-independence)
-- [On integrity and accountability](/chapters/chapter_1_self.md#on-integrity-and-accountability)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
+- [On integrity and accountability](/chapters/chapter_1_self.md#on-integrity-and-accountability)
 - [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
 
 *On growth*
@@ -70,7 +71,8 @@
 *On preparing action*
 - [On creativity, vision and ideas](/chapters/chapter_3_action.md#on-creativity-vision-and-ideas)
 - [On analysis](/chapters/chapter_3_action.md#on-analysis)
-- [On planning and decision making](/chapters/chapter_3_action.md#on-planning-and-decision-making)
+- [On planning](/chapters/chapter_3_action.md#on-planning)
+- [On decision making](/chapters/chapter_3_action.md#on-decision-making)
 
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
@@ -111,7 +113,7 @@
 - [On money and wealth](/chapters/chapter_appendix.md#on-money-and-wealth)
 - [On fame and popularity](/chapters/chapter_appendix.md#on-fame-and-popularity)
 - [On luck](/chapters/chapter_appendix.md#on-luck)
-- [On beauty](/chapters/chapter_appendix.md#on-beauty)
+- [On beauty and style](/chapters/chapter_appendix.md#on-beauty-and-style)
 - [On health](/chapters/chapter_appendix.md#on-health)
 - [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
 - [On success](/chapters/chapter_appendix.md#on-success)

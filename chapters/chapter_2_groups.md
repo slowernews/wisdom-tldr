@@ -35,6 +35,7 @@ How to prepare an elevator pitch? Choose truth or our self-mythology will seduce
 > *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till i wasn’t», or any one of the familiar narratives we’ve heard from our heroes.'*
 
 <!--
+> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
 intro: //clay hebert
 I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words -- short and sweet and confident and interesting.
@@ -434,6 +435,8 @@ Trust and vulnerability are correlated.
 > *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
 
 > *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness.'*
+
+> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
 
 Focus on what you can give not what you can get. You only receive in proportion to what you give. However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. You need to partner with someone who wants you to be all you can be.
 
@@ -1088,7 +1091,7 @@ HOWEVER good employeees are not easy to find.
 
 > *'They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.'*
 
-HINTS on CVs:
+Hints on CVs:
 
 When applying for a job be more of a consultant than an applicant.
 
