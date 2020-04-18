@@ -109,6 +109,8 @@ And, as such, error-prone by:
 
 > *'We don't look at what we look, but at what we are.' -- Fernando Pessoa*
 
+> *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
+
 One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
 Be specially careful when facing new ideas.  
@@ -136,7 +138,7 @@ Hints on the art of analysis:
 
 > *'The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches).' -- Paul Graham*
 
-> *'I look for ways of changing my mind.' -- Chalie Munger*
+> *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do. ' -- Chalie Munger*
 
 > *'The truth is rarely pure and never simple.' -- Oscar Wilde*
 
@@ -157,9 +159,6 @@ How to judge a man?
 > *'It isn't what we say or think that defines us, but what we do.' -- Jane Austen*
 
 <!--
-> *'I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.' -- Charlie Munger*
-
-> *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
 - Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
 
 tese antitheses -> syntesis
@@ -225,9 +224,7 @@ Lewis Carroll stated “we are what we believe we are”, but it seems that the 
 - fascinated by models. how the invisible afects the visible
 - you're always looking to patterns of differences! pattern recognition
 
-As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel:
-
-All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth. Our knowing minds are not embedded in truth. Rather, the entire notion of truth is embedded in our minds, which are themselves the unwitting lackeys of organizational forms of influence.
+As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth. Our knowing minds are not embedded in truth. Rather, the entire notion of truth is embedded in our minds, which are themselves the unwitting lackeys of organizational forms of influence.
 
 Truth in stereotypes there'es truth on GROUP opinions. Steryotypes are the falsy _group_ opinions that account for a small amout. groups opinios self correct themselves.
 
@@ -278,6 +275,8 @@ Choose the plan with more options. The one that lets you change plan.
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
+
+> *'I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day.' -- Ernest Hemingway*
 
 <!--
 stick to the plan. poople sabotage their one plans when it get tedious, nobnotusos, challegnig or too difficult. people think they need a new plan.
@@ -806,7 +805,7 @@ First the essential. Then the details.
 
 > *'You can do anything, but not everything.' -- David Allen*
 
-> *'Focusing is about saying no.' -- Steve Jobs*
+> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.' -- Steve Jobs*
 
 > *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
 
@@ -823,12 +822,16 @@ you're not perfect in everything. find your specialty.
 
 > *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
 
-[Perfectionism](chapter_1_self.md#on-perfectionism) is as bad as procrastination
+> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
+
+> *'As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself' -- Arthur Schopenhauer*
+
+[Perfectionism](chapter_1_self.md#on-perfectionism) is as bad as procrastination.
 
 Work by layers: functional -> perfect; 
-Do less to achieve more. make the basics in life, and you're good to go. you don't need to optimise.
+Do less to achieve more. Make the basics in life and you're good to go. You don't need to optimise.
 
-Hints:
+Hints on productivity:
 
 - Focus just on 3 outcomes (not todos) per day and tackle your most important thing (MIT) first thing in the morning.  
 - Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right. 
@@ -845,105 +848,48 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
-> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.' -- Steve Jobs*
-
-'«No» is no to one thing. «Yes» is no to a lot of things.'
-
+> *'The difference between successful people and very successful people is that very successful people say «no» to almost everything.' -- Warren Buffett*
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
+
 - dont make 100 decisions when one will do -- peter drucker
-- Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
 - Productivity is about attention management - productive procrastination
 - maker days and manager days
-
-People As Response Functions. response triggers: your primary trigger, your secundary trigger
-
-> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
-> *'Romans ship, Greeks maintain.' -- anon*
-> *'Whatever you are, be a good one.' -- Abraham Lincoln*
-
-Top performers definitely focus on fewer goals — but they also obsess like crazy over them.
-“Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all t
-So start ruthlessly cutting all the activities in your workday that aren’t producing value.
-
-> *'As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself' -- Arthur Schopenhauer*
-
-Mind the process, not the results
-Takeaway: Focus on the process when intention setting—the actions you need to get what you want. For example, “finish TPS report” might turn into “write TPS report for 45 uninterrupted minutes.”
-
-there are only three ways in which you can increase productivity:
-Increase the physical, mental, and emotional energy you have available for each task
-Doing more of the right things and fewer unnecessary things
-Improve the systems that you use to complete a given task or project.
-In other words, the three paths to productivity are:
-
-Energy - Effectiveness - Efficiency
-productivity is about understanding your constraints
-
-getting the right things done
-
-> *'The difference between successful people and very successful people is that very successful people say ‘no' to almost everything.' -- Warren Buffett*
-
-saying yes to everything is a quick road to mediocrity.
-
-“Instead of asking how many tasks you can tackle given your working hours,” writes Morten Hansen in Great at Work, “ask how many you can ditch given what you must do to excel.” I did what I needed to do to keep my job. As John Stuart Mill said, “as few as you can, as many as you must.”
-
-busy is a decision. what you are really saying: is not a priority.
-is a excuse for not doing something we don't feel like doing.
-
-Right now, you can give yourself the gift of joy by choosing to focus on what is good instead of what is missing.
-
-Only operate from strengths: outsource your weaknesses. focus on what you’re naturally good at and what you enjoy the most.
-
-Focus on Adaptability Not Effectiveness
-
-Life is like a camera. Focus on what’s important. Capture the good times. Work on the negatives. And if it doesn’t work out this time, take another shot.
-
-There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
-That’s why you need to re-evaluate your old dreams to see if new means have come along.
-Don’t let the details distract you from your goal.
-	
-how to purge to do list and focus right now
-- does this need to be done regarding my business? Y/N
-- does this be needed by me? Y/N
-- does this need to be done now? Y/N
-Most items were already purged.
-
-Schedule less time for important tasks
-Be mindful of how you spend your time.
-
-What is the next action? Leave yourself a note if you suspend working.
-Big rocks are too big: split them
-
-Paperwork: either do it, diarise it, or ditch it.
-Multitasking is not efficient for single-focused tasks.
-Get rid of technology, turn off any notification, unsubscribe.
-Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
-Create a concentrated environment. Fight Procrastination
-
-Selective perfectionism
-
-20% of your effort will give you 80% of output: it may be enough, or more than enough.
-Set yourself deadlines.
-
-Pomodoro time
-- Get more time: Spend time on the right things.
-
-List highest-leverage activities (where 80% of your time should go).
-Complete at least 1 important but not urgent task per day.
-Prioritize
-Always work with a specific purpose in mind. 
-Shut off the phone when meeting w/ someone. listen
-Avoid mindless Internet surfing.
-Shut off email notifications.
-Declare an email holiday. Wait a bit before sending important emails/messages
-
-school rewards generalist and not focusing: the world not so.
-
-*guerrilla* has their strengths also. cena do mosquito
-
-> *'Media companies harvest your attention and transform it into revenue.'*
-
-> *'If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
+- People As Response Functions. response triggers: your primary trigger, your secundary trigger
+- Top performers definitely focus on fewer goals — but they also obsess like crazy over them.
+- “Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all the activities in your workday that aren’t producing value.
+- Mind the process, not the results. For example, “finish TPS report” might turn into “write TPS report for 45 uninterrupted minutes.”
+- there are only three ways in which you can increase productivity: Increase the physical, mental, and emotional energy you have available for each task. Doing more of the right things and fewer unnecessary things. Improve the systems that you use to complete a given task or project. In other words, the three paths to productivity are: Energy - Effectiveness - Efficiency: productivity is about understanding your constraints. getting the right things done
+- saying yes to everything is a quick road to mediocrity.
+- “Instead of asking how many tasks you can tackle given your working hours,” writes Morten Hansen in Great at Work, “ask how many you can ditch given what you must do to excel.” I did what I needed to do to keep my job. As John Stuart Mill said, “as few as you can, as many as you must.”
+- Busy is a decision. What you are really saying: is not a priority. Is a excuse for not doing something we don't feel like doing.
+- Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
+- Focus on adaptability not effectiveness	
+- how to purge to do list and focus right now
+	- does this need to be done regarding my business? Y/N
+	- does this be needed by me? Y/N
+	- does this need to be done now? Y/N
+	Most items were already purged.
+- Schedule less time for important tasks. Be mindful of how you spend your time.
+- What is the next action? Leave yourself a note if you suspend working. Big rocks are too big: split them
+- Paperwork: either do it, diarise it, or ditch it.
+- Multitasking is not efficient for single-focused tasks.
+- Get rid of technology, turn off any notification, unsubscribe.
+- Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
+- Create a concentrated environment. Fight Procrastination
+- Selective perfectionism
+- 20% of your effort will give you 80% of output: it may be enough, or more than enough.
+- Set yourself deadlines.
+- Pomodoro time. Get more time: Spend time on the right things.
+- List highest-leverage activities (where 80% of your time should go).
+- complete at least 1 important but not urgent task per day.
+- Prioritize
+- Always work with a specific purpose in mind. 
+- Shut off the phone when meeting w/ someone. listen
+- Avoid mindless Internet surfing. Shut off email notifications. Declare an email holiday. Wait a bit before sending important emails/messages
+- school rewards generalist and not focusing: the world not so.
+- *guerrilla* has their strengths also. cena do mosquito
+- Media companies harvest your attention and transform it into revenue.
+- If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
 -->
 

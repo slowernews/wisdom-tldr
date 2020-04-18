@@ -7,6 +7,7 @@
 ### Introduction
 
 
+- [The real you](/chapters/introduction.md#the-real-you)
 - [On happiness](/chapters/introduction.md#on-gratefulness-and-happiness)
 
 
@@ -14,7 +15,6 @@
 
 
 *On foundations*
-- [On the real you](/chapters/chapter_1_self.md#on-the-real-you)
 - [On independence](/chapters/chapter_1_self.md#on-independence)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On integrity and accountability](/chapters/chapter_1_self.md#on-integrity-and-accountability)

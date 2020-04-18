@@ -473,7 +473,6 @@ What is love?
 > *'The four most expensive words in the English language: «This time is different».'
 > *'Reality continues to ruin my life.' -- Bill Watterson*
 > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
-> *'If you want to keep a secret, you must also hide it from yourself.' -- George Orwell*
 
 To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity. This is why the comedians are the modern day philosophers.
 -->
@@ -493,6 +492,8 @@ To find the truths inside of us that make us all relate to each other. That brin
 > *'The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.' -- Elizabeth Taylor*
 
 > *'I am lonely, yet not everybody will do. I don't know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them».' --  Anaïs Nin*
+
+> *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
 
 <!--
 - we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it's our default. Order is always artificial and temporary.

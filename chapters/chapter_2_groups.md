@@ -70,7 +70,8 @@ Why most people don't like networking? It's hard to handle rejection. We don’t
 
 Speak less and listen more. Be humble, listening is powerful.
 
-> *'Knowledge speaks, but wisdom listens.' -- Jimi Hendrix*  
+> *'Knowledge speaks, but wisdom listens.' -- Jimi Hendrix*
+
 > *'When you listen, you may learn something new.' -- Dalai Lama*
 
 How to communicate? 
@@ -106,12 +107,9 @@ How to tell good stories? Good stories condense a massive amount of information 
 
 How to discord? Argue as you're right. Listen as you're wrong.
 
-- «I don't have an opinion on that. Why don't you tell me how you got to have such a firm one? It sounds like I could learn something.»
-- «Will you tell me your story? I’d love to know how you came to this point of view.»  
+- «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
-
-> *'Don’t explain. People only hear what they want to hear.'*
 
 <!--
 1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
@@ -428,21 +426,17 @@ So can you pitch me what our company does? people minds work by association. pre
 *'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
 
 A great relationship is about finding the similarities and respect the differences.  
-Trust and vulnerability are correlated.
-
+Trust and vulnerability are correlated. Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them.
+ 
 > *'You loose your identity, you loose people.' -- Amy Cuddy*
 
-> *'Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding such conflicts.'*
-
-> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness.'*
+> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don't hide your feelings from people who show you theirs.'*
 
 > *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
 
 Focus on what you can give not what you can get. You only receive in proportion to what you give. However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. You need to partner with someone who wants you to be all you can be.
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*  
-
-> *'Don't hide your feelings from people who show you theirs.'*
 
 > *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
@@ -464,28 +458,19 @@ Focus on what you can give not what you can get. You only receive in proportion 
 - There are four types of relationships: Win Win (long term), Win Lose, Lose Win, Lose Lose
 -->
 
-On lovers: you attract what you are. Love is what happens to men and women that don't know each other.
-
-> *'The free soul is rare, but you know it when you see it -- basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+Hints on romance: *you attract what you are*. Love is what happens to men and women that don't know each other. Every person feels loved in a different form. Love doesn’t hurt, expectations do.
 
 > *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
 
-> *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
+> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*  
 
-Long relationships.
-
-> *'For a long and deep relationship, values must match.' -- EF*
-> *'First you see the virtues. Then the flaws.' -- EF*
-> *'Every person feels loved in a different form.'*  
-> *'Love doesn’t hurt. Expectations do.'*
-
-> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
-
-HOWEVER...
+> *'The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
 > *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
 
-> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*  
+> *'First you see the virtues. Then the flaws. For a long and deep relationship, values must match.' -- EF*
+
+> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
 
 
 
@@ -728,7 +713,7 @@ However beware of blindspots, not all criticism is envy.
 ---
 ### On following the herd
 
-Most people are other people. Their thoughts are someone else opinions and they jump to conclusions.
+Most people are other people. Their thoughts are someone else opinions and they jump to conclusions. People accept the defaults very easily.
 
 <!--
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
@@ -752,8 +737,6 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'Common sense is the collection of prejudices acquired by age eighteen.'*
 
-> *'People accept the defaults very easily.'*
-
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
 What is stupidity? Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
@@ -762,7 +745,7 @@ What is stupidity? Stupidity is the cost of intelligence operating in a complex 
 
 > *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
 
-> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through -- trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*
+> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*
 
 Tricks to deceive stupidity? Most people don't actually think, they just take their first thought and go.	
 
@@ -860,50 +843,34 @@ it may be pop psychology stuff, but it’s convenient for my point so in the spi
 
 *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
-Leaders are team makers. Being a leader is different from being a boss: it requires to be manager and psychotherapist. Leadership is based on [mutual trust](#on-relationships).
+Leaders are team makers: there are no bad teams, only bad leaders. 
+
+Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence. People don't follow robots. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
-
-> *'The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group.'*
-
-> *'People don't follow robots.'*
-
-> *'There are no bad teams, only bad leaders.'*
 
 > *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
 
 > *'The only thing that gives orders is balls.' -- Tony Montana*
 
-> *'Keep your attempts at intimidation under control. Be careful not to become intoxicated by the power fear brings.'*
-
-People want leadership because they want autonomy and influence.
+People want leadership positions because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
-> *'Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.'*
+Hints:
 
-Patterns of good leaders:
-- Knows when to speak and when don't.
-- Knows how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
-- Are part of the team. 'No one is smarter than a small group.'
-- Make people feel as part of a family.
-- Power is having options than you can metabolize. Power is making decisions.
-- Leadership is based on emotional intelligence.
+- Knows when to speak and when don't.  
+- Knows how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
+- Are part of the team. 'No one is smarter than a small group.'  
+- Make people feel as part of a family.  
+- Power is having options than you can metabolize. Power is making decisions.  
+- Good leaders are leaders that grow up in the hierarchy.  
+- In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers.  
+- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.  
+- When someone is out of line, don’t let it slide too far. If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business.
 
 <!--
-- leadership is the ability to locate yourself. sleep walking through life. self awareness is the ability to pause mind 
-leaders must be good followers. good leaders are leaders that grow up in the hierarchy.
-
-- In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succe
-ed and you must teach them how to do it. You won’t do it alone. Put employees before customers. Owners make more than employees in the long run.
-
-We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others.
-Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
-
-Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
-
-When someone is out of line, don’t let it slide too far.
-If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business, etc.
+We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others. Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
 
 Beth Comstock:
 
@@ -939,18 +906,10 @@ Just last week I reminded my team to leave in all internal key Meetings one seat
 
 There are three keys: honesty, effectiveness, and efficiency.
 
-evolutionary instinct to follow the strong person
-the quiet leader vs heroic leader
-
-exelius 337 days ago
-Situational leadership :) Adapt your leadership style to the skills and confidence of those you are leading.
-In a situation where your subordinates are unsure of what to do and they really don't have the skills to do it alone, you have to provide leadership and encouragement. Lead by example, show them how to do it, and let them iterate without too much micromanagement.
-When your subordinates are competent but lacking confidence, it's often a better option to stand back and say nothing. The "ownership" piece is huge -- if this is the first big project you've "owned", you'll probably iron out the kinks even if I don't say anything to you. Also keep in mind is that there are many correct ways to solve a problem; while your solution may not be the one I would go with, you're more comfortable with your solution and can probably see things about it that I can't. I trust you to be the expert on the solution; I've got bigger things to worry about like how I'm going to continue servicing my same workload with a 10% cut in budget.
-The goal is to move everyone up from "unconfident and incompetent" to "confident and competent". Some people also go through "incompetent and confident", which is also something where the best option is often to stand back and act as a safety net while letting the person learn whatever lesson they needed to learn.
-
 - A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don't generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
 - Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
 
+evolutionary instinct to follow the strong person
 o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por necessidade ou medo constrói o sonho (forcas reactivas)
 -->
 
@@ -964,7 +923,7 @@ o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por n
 
 Managing is delegating. Your speed as a manager is the speed of your team.
 
-> *'Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.'*
+Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
@@ -976,32 +935,26 @@ The speed that you offload your stuff will be the speed of your team.'*
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
-> *'Productivity is different from workflow engineering.'*
+For that you need to [communicate](#on-communication). Hints:
 
-For that you need to [communicate](#on-communication).
+- Spend one hour a day just talking to your people and everything will be OK.  
+- Start a meeting with an overachieving question: «how can we raise sales by 12%?»
 
-> *'Spend one hour a day just talking to your people and everything will be OK.'*
-
-> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius*
-
-> *'Start a meeting with an overachieving question: «how can we raise sales by 12%?»'*
+> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
 Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».  
 The only reason there’s so many awful managers is that people like you refuse to do the job.
 
-How to give feedback?  
-- Ask instead of telling.
+How to give feedback? Ask instead of telling. If you're certain the delivered work is not good enough give a reason.
 
 > *'«Is that the best you can do?»  
 «Interesting, how do you feel about it?»  
 «What does your team think?»  
 «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.'*
 
-- If you're certain the delivered work is not good enough give a reason.
-
 > *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
 
-HOWEVER... gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
+However gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
 
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
 
