@@ -271,16 +271,15 @@ Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regre
 > *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
 
 <!--
-There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
+> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
+
+- There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
 That’s why you need to re-evaluate your old dreams to see if new means have come along.
 Don’t let the details distract you from your goal.
-	
 - To Improve Your Life, You First First Become Uncomfortable
 If you want to improve the quality of your life, then start by improving your tolerance for risk and adversity.
 Because almost everything that you want is on the other side of the uncomfortable and the scary.
-
 - there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
-
 - the talent to change your life
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 - Passion is made not found.
@@ -464,6 +463,8 @@ Hints on good habits:
 However variety and novelty are also important, so [Balance](#on-balance) it.
 
 <!--
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+
 Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
 
 Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.

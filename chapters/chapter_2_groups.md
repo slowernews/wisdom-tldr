@@ -667,43 +667,34 @@ Hints on conflict resolution:
 
 *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
+*'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
+
 Treat your haters like toddlers.
 
-Outliers inspire envy. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](/chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers. 
+Once they stop talking to you, they start to talk about you. Outliers inspire envy. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers.
 
 > *'Remember if people talk behind your back, it only means you are two steps ahead.' -- Fannie Flagg*
 
-> *'They called her witch because she knew how to heal herself.'*
+> *'They called her witch because she knew how to heal herself.' -- Te' V. Smith (Here we are, reflections of a God gone mad)*
 
 > *'Think as you like but behave like others.'  
 'Never appear too perfect.' -- Robert Greene (38th and 46th law of power)*
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
-> *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
-
-When people criticize your life they are speaking about their fears and limitations not yours.  
-Only take advice from [those achieving what you want to achieve](chapter_1_self.md#on-feedback). Ignore and be flattered by the rest.
+When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_1_self.md#on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*  
-> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
-> *'It is not greed that drives the world, but envy.' -- Warren Buffet*  
-> *'Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.'*  
-> *'Once they stop talking to you, they start to talk about you.'*
+> *'It is not greed that drives the world, but envy.' -- Warren Buffet*
 
-> *'Consensus happens just in the beginning and in the end of something.'*
-
-However beware of blindspots, not all criticism is envy.
+However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
-> *'When somebody says something bad about you, is negativity. When everyone says it, is advice.'*
-
-> *'The important thing is not to stop questioning. Curiosity has its own reason for existing.'*
 
 <!--
+Consensus happens just in the beginning and in the end of something.
+The important thing is not to stop questioning. Curiosity has its own reason for existing.
 > *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*	
 -->
 
