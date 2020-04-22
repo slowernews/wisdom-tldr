@@ -49,7 +49,7 @@
 - [On relationships](/chapters/chapter_2_groups.md#on-relationships)
 - [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
 - [On feedback and mentorship](/chapters/chapter_2_groups.md#on-feedback-and-mentorship)
-- [On rewards and generosity](/chapters/chapter_2_groups.md#on-rewards-and-generosity) 
+- [On generosity and incentives](/chapters/chapter_2_groups.md#on-generosity-and-incentives) 
 
 *On interactions: drawbacks*
 - [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)

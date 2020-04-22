@@ -107,7 +107,7 @@ You can’t control whether it ends up as a “robbery” or an “attempted rob
 ---
 ### On future
 
-*'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.'*
+*'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
 Dream big. If your dreams don't scare you, they are not big enough.  
 Anomalies often represent the future but to our eyes they seem strange.
@@ -555,7 +555,7 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.' -- Albert Einstein*
 
-> *'Science is a wonderful thing if one does not have to earn one's living at it.' -- ALbert Einstein*
+> *'Science is a wonderful thing if one does not have to earn one's living at it.' -- Albert Einstein*
 
 > *'If we knew what it was we were doing, it would not be called research, would it?' --  Albert Einstein*
 

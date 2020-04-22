@@ -607,15 +607,19 @@ HOWEVER... some people are not ready to accept your vision. And «givers» attra
 
 
 ---
-### On rewards and generosity
+### On generosity and incentives
 
 *'No one has ever become poor by giving.' -- Anne Frank*
 
 *'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
-Always be generous: a low value gift can have the opposite effect.
+Always be generous. A low value gift can have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
+
+> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as "make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check." He said that almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- danielvf_HN*
+
+> *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- danielvf_HN*
 
 Punishments aren’t as effective as rewards. Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses.
 
@@ -623,8 +627,6 @@ Alternatives that you can try the next time you feel tempted to punish someone:
 - extintion of rewards
 - positively reinforcing preferred activities.
 - prompting and shaping are two actions we can use together to change behavior in an iterative manner. A prompt is a cue or stimulus that encourages the desired behavior. When shaping begins, any approximation of the target response is reinforced.
-
-> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as "make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check." He said that almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.'*
 
 <!--
 - power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
@@ -682,7 +684,7 @@ Once they stop talking to you, they start to talk about you. Outliers inspire en
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
-When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_1_self.md#on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.
+When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_2_groups.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*  
 
