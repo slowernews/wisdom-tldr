@@ -134,19 +134,16 @@ How to discord? Argue as you're right. Listen as you're wrong.
 *'What you need to start a new business: generosity.' -- Derek Sivers*
 
 *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
-
-There are two types of entrepreneurs: missionaries and mercenaries.  
+  
 Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
 
-Validate your business by finding paying clients. The more they pay, the more they value it: the consumer votes with his wallet.
+Test sales first. Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it: the consumer votes with his wallet.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
-> *'Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one.'*
-
 > *'It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.'*
 
-Patterns on successful *entrepreneurs*.
+Hints:
 
 - Focus on revenue generating activities: if it is not going to earn you money, then don’t do it.  
 - Do things that don’t scale  
@@ -256,9 +253,9 @@ I recall reading that someone had more success with a "unlock feature X" model o
 ---
 ### On selling, negotiation and price
 
-We're all in sales anytime we interact. To sell is to deal with objections.
+We're all in sales. 
 
-Sales used to be about information asymmetry but now it's mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](). Best sellers are now ambiverts.
+To sell is to deal with objections. Sales used to be about information asymmetry but now it's mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](). Best sellers are now ambiverts.
 
 > *'Traditional selling: extroverts -> cold calling -> tech made it more difficult  
 Intruding (to get your foot in the door)  
@@ -272,13 +269,6 @@ Reacting (to adapt to the identified needs - letting the other person set the pa
 
 > *'Instead of details use interesting testimonials that allow people to relate.'*
 
-Hints:
-
-- Marketing is a symptom not of excess consumption but of excess production.  
-- People don’t buy products, they buy better versions of themselves.  
-- Females buy male products. Males don't buy products targetted to females.  
-- If they can’t pay, walk away.  
-
 > *'Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.'*
 
 Negotiation establishes the price (exchange rate between money and value).
@@ -288,8 +278,14 @@ That said, a bad/good negotiation means that you are adding more/less value than
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
-To negotiate is to have options.  
-Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
+How to negotiate? 
+
+To negotiate is to have options. Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
+
+- «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
+- Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
+- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
+- If you want to go fast, let the other part go first.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
 
@@ -297,13 +293,7 @@ Negotiate while advancing. The more you take, the more you can give back in mean
 
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
-«What’s your best out-the-door price?»  
-«Can you do X% below that? If you can reach my price, I’ll buy today.»
-
-- Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
-- How to say no? «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
-
-Tone of voice is a big clue to know with whom we are negotiating:
+- Tone of voice is a big clue to know with whom we are negotiating:
 
 > *'The analytical cold guy is very patient;  
 The assertive guy (eg. Trump) wants to make it fast;  
@@ -315,14 +305,18 @@ For the accomodator, the relationship is the most important'*
 
 > *'Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.'*
 
-HOWEVER... always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it.  
-The most dangerous negotiation is the one you don’t know you’re in.
-
-> *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
+However always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it. The most dangerous negotiation is the one you don’t know you’re in.
 
 > *'You can’t make a good deal with a bad person.' -- Warren Buffett*
 
+> *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
+
 <!--
+- Marketing is a symptom of excess production.  
+- People don’t buy products, they buy better versions of themselves.  
+- Females buy male products. Males don't buy products targetted to females.  
+- If they can’t pay, walk away.  
+
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
@@ -384,7 +378,6 @@ Ask if they will match advertised prices from a competitor.
 “Okay, thank you. It’s helpful to know where you stand. I am going to check out a couple of your competitors and will be back if it makes sense.”
 WALK AWAY.
 
-- if you want to go fast, let the other part go first.
 - Unexpressed feelings never die. Releasing pressure is different from venting.
 - The more influence somebody is the more they use we / plural pronouns.
 - never split the difference
@@ -423,7 +416,10 @@ So can you pitch me what our company does? people minds work by association. pre
 ---
 ### On relationships
 
-*'Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.'*
+*'Humans make connections.  
+Sometimes these connections grow.  
+Sometimes they stay the same.  
+Sometimes they collapse.'*
 
 A great relationship is about finding the similarities and respect the differences.  
 Trust and vulnerability are correlated. Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them.
@@ -838,7 +834,7 @@ it may be pop psychology stuff, but it’s convenient for my point so in the spi
 
 Leaders are team makers: there are no bad teams, only bad leaders. 
 
-Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence. People don't follow robots. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
+Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don't follow robots. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -852,8 +848,8 @@ People want leadership positions because they want autonomy and influence. Influ
 
 Hints:
 
-- Knows when to speak and when don't.  
-- Knows how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
+- Know when to speak and when don't.  
+- Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
 - Are part of the team. 'No one is smarter than a small group.'  
 - Make people feel as part of a family.  
 - Power is having options than you can metabolize. Power is making decisions.  
@@ -920,10 +916,7 @@ Be productive, not cheap. Stop dicking around trying to figure stuff out that so
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-> *'A manager should make himself 2 questions a day:   
-«What is important to accomplish?» (where are you going)  
-«Where was I uncomfortable the day before?» (what went right and where do you need support)  
-The speed that you offload your stuff will be the speed of your team.'*
+> *'A manager should make himself 2 questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?». The speed that you offload your stuff will be the speed of your team.'*
 
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
@@ -947,14 +940,13 @@ How to give feedback? Ask instead of telling. If you're certain the delivered wo
 
 > *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
 
-However gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators.
+> *'Praise by name, criticize by category.' -- Warren Buffet*
+
+However gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Data shows people want more feedback but monthly, not daily.
 
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
 
-But data shows people want more feedback but monthly, not daily.
-
 <!--
-> *'Praise by name, criticize by category.' -- Warren Buffet*
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
 - Amazon’s “two-pizza teams”: The ultimate divisional organization
 - a great manager is a great facilitator
@@ -1001,9 +993,7 @@ on a meeting Do not share your opinion on possible solutions before asking for i
 low power people should speak fisrt: hierarchy and everybody the right to their opinion and not copying others' opinion.
 hierarchy with low power voices
 
-it focuses on how to do email faster instead of on how to do less email
-The best thing I did this year was to switch my default to “no” for all meetings. 
-If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
+The best thing I did this year was to switch my default to “no” for all meetings. If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
 -->
 
 
@@ -1016,9 +1006,9 @@ If I can’t say no, I schedule the meeting for the afternoon. If I have to do i
 He who works with his hands and his head is a craftsman.  
 He who works with his hands and his head and his heart is an artist.' -- St. Francis of Assisi*
 
-Trial most but only hire likable persons that «get shit done».  
-Your goal in business should be to «fire» yourself and hire people who are better at your job than you are.  
-To build an empire you must become a master at finding and hiring talent.
+Trial most but only hire likable persons that «get shit done».
+
+Your goal in business should be to «fire» yourself and hire people who are better at your job than you are. To build an empire you must become a master at finding and hiring talent.
 
 > *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
 
@@ -1037,19 +1027,11 @@ HOWEVER good employeees are not easy to find.
 
 > *'They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.'*
 
-Hints on CVs:
+When applying for a job be more of a consultant than an applicant. Hints:
 
-When applying for a job be more of a consultant than an applicant.
-
-A resume or list of previous jobs is a nice timeline. But as a maker, your creation is the ultimate validation.
-
-I’m a recruiter. The best advice that I can give.
-Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
-DON’T tell me about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell me HOW you accomplished your responsibilities better than the next person.
-ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
-
-Most reviewers are only going to understand two skill levels:
-still learning the skill / confident in the skill
+- Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
+DON’T tell about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell HOW you accomplished your responsibilities better than the next person. ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.  
+- Most reviewers are only going to understand two skill levels: still learning the skill or confident in the skill.
 
 <!--
 - I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
@@ -1067,8 +1049,6 @@ Respect goes a long way and begins in the recruitment phase. It surely doesn't e
 Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There's no reason to pay crap wages.
 At the same time, wages aren't everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don't offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won't just up and go to a new company after you've trained them.
 I can go on, but there's a few things I've learned.
-
-Have you seen that one position that you absolutely want? Build your portfolio around that job’s requirements and responsibilities. -> targeted cv
 
 Tip #3: A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences.
 
@@ -1105,7 +1085,7 @@ Decide in advance what your time is worth. Do not let others tell you how much y
 
 *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
-Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed. If your job doesn't require originality, next decade you might not have one.
+Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed. If your job doesn't require originality, next decade you might not have it.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
@@ -1125,7 +1105,7 @@ Being an employee is long-term risky. In an economy with shrinking corporations,
 
 > *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
 
-How to keep a job or advance career? knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
+How to keep a job or advance career? Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 > *'I had a manager who once said the people who were terminated were those who question too much and do too little.'*
 

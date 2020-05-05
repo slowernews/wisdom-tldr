@@ -1200,6 +1200,15 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
+other confidence «movers»:
+
+- When you break an agreement that you make with yourself, your selfestime plummets: don't do it or renegociate it.  
+- Confidence: state + mastery. impress yourself.  
+- Confidence is a result, not a requirement.  
+- Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.  
+- Confidence relies on pride. pursue authentic pride.  
+- HARD WORK = CONFIDENCE
+
 <a id="on-arrogance"></a>HOWEVER... know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
@@ -1209,15 +1218,6 @@ In the meanwhile any source is good. Don't stop till you get it.
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 > *'Don't be so humble - you are not that great.' -- Golda Meir*
-
-Confidence movers:
-
-- When you break an agreement that you make with yourself, your selfestime plummets: don't do it or renegociate it.  
-- Confidence: state + mastery. impress yourself.  
-- Confidence is a result, not a requirement.  
-- Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.  
-- Confidence relies on pride. pursue authentic pride.  
-- HARD WORK = CONFIDENCE
 
 <!--
 Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.

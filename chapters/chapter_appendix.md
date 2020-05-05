@@ -850,6 +850,8 @@ I wonder how long it'll be until we replace fiat currencies with a balance of ki
 <!--
 ### On types of people
 
+types of entrepreneurs: missionaries and mercenaries.
+
 hedonists + stoics
 
 takers + matchers + givers
