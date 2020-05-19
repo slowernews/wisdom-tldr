@@ -55,25 +55,19 @@ How memory works? Hints:
 ---
 ### On present
 
-*'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
+*'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
-You will die soon.
+You will die soon. Never get so busy making a living that you forget to make a life.
 
 Act accordingly and don't postpone joy: live life ready to meet god like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, does not mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
 
-> *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
-
-> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
-
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
-> *'Never get so busy making a living that you forget to make a life.'*
+> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
 > *'As you walk and eat and travel be where you are. Otherwise you will miss most of your life.' -- Siddhartha Guatama*
 
 > *'Either write something worth reading or do something worth writing.' -- Benjamin Franklin*
-
-> *'It is never too late to be what you might have been.' -- George Eliot*
 
 > *'What's life? Showing up for the people you love, again and again, until you can’t show up anymore.'* -- Rebecca Walker*
 
@@ -81,24 +75,9 @@ Act accordingly and don't postpone joy: live life ready to meet god like it’s 
 
 <!--
 - 100 blocks a day -- wait but why  
-- life is long enough
-I’m with Seneca. Life doesn’t have to be short. We all have 24h in a day. Every single one of us.
-You can use them to create something awesome, to visit that someone special who misses you desperately, to provide for your family, or to savor a great moment. But don’t waste your hours. Don’t end up wondering, “What have I been doing with my time?” Leave a trail of accomplishments or smiles behind you.
+- Leave a trail of accomplishments or smiles behind you.
 - When we listen to the regrets of the elderly and dying, they invariably lament on what they neglected to do, not what they did.
-- We are all made of time and we keep wasting each other..
 - Time never has, and never will solve a damn thing.
-
-2) Manage emotions to better manage time: it’s your beliefs that create your feelings, not reality.
-procrastination is a mood-management technique
-3) Important Beats Urgent
-You do what’s easy or urgent, not what really moves the needle.
-Since the vast majority of our words and actions are unnecessary, corralling them will create an abundance of leisure and tranquility. As a result, we shouldn’t forget at each moment to ask, is this one of the unnecessary things?
-Getting a lot of unnecessary things done is not productivity; it’s stupidity.
-Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all. -- tim ferriss
-4) Focus On Effort, Not Outcome
-What’s that have to do with productivity? Plenty. Because you worry about all kinds of stuff that you can’t do anything about. And that’s wasted time and energy.
-And neuroscience research shows that by focusing on what you have control over, you decrease stress.
-You can’t control whether it ends up as a “robbery” or an “attempted robbery”, just focus on executing the heist in a way that would make mom proud.
 -->
 
 
@@ -122,14 +101,13 @@ Anomalies often represent the future but to our eyes they seem strange.
 
 > *'Rich people think big. Poor people think small.' -- T. Harv Eker*
 
-However don't obcess on that.
+However don't obcess on that. You can't control the future.
 
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
 > *'No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened.' -- John Hodgman*
 
 <!--
-- you can't stop the future -> control
 - make the exercise: imagine you life in 10years. Possible futures.
 -->
 
@@ -139,15 +117,19 @@ However don't obcess on that.
 ---
 ### On growing old
 
-*'We don’t stop playing because we grow old; we grow old because we stop playing.'*
-
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
+
+We don’t stop playing because we grow old; we grow old because we stop playing.
 
 > *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
 
 > *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
 
+> *'It is never too late to be what you might have been.' -- George Eliot*
+
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
+
+> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
 
 
@@ -176,10 +158,6 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays; y
 > *'The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.' -- John Holt*
 
 > *'Andy Warhol is the only genius I’ve ever known with an IQ of 60.' -- Gore Vidal*
-
-<!--
-When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
--->
 
 
 
@@ -218,12 +196,6 @@ You will get rich by giving society what it wants but does not yet know how to g
 
 Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
 
-<!--
-- Getting rich is a function of being happy with what you have, spending less than you make, and time.
-
-> *'You and I know that it isn't what a man has that constitutes wealth. No-it is to be satisfied with what one has-that is wealth.' -- Mark Twain*
--->
-
 
 
 
@@ -242,7 +214,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
 
-Bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world. It’s all math.
+Unless you’re winning, life will seem hideously unfair to you. Bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world. It’s all math. The best things in life are born from coincidence.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -256,14 +228,14 @@ Bad luck is often bad planning. If you're sure it's not, be positive, the pendul
 
 > *'Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
 
-What’s the difference between luck and chance? Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. However positive results don't imply good planning.
+What’s the difference between luck and chance?
+
+Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. However positive results don't imply good planning.
 
 > *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 
 <!--
 > *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
-
-- Unless you’re winning, life will seem hideously unfair to you. You create your luck by being healthy and not regretting the past or being anxious about the future. The best things in life are born from coincidence.
 - surprises only happen when they didnt repaeat on ones lifetime
 - science of patterns.
 -->
@@ -296,10 +268,9 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 How to keep healthy?
 
-- Exercise is king. Nutrition is queen. (follow your circadian rhythm, eat more real foods, and exercise more)   
-- Balance on body training = flexibility (yoga or animal movements) + strength (weights). Minimum effective dose.  
-- Intermittent fasting.  
-- If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Take naps at work. Apologize to no one. Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
+- Exercise is king. Balance on body training = flexibility (yoga or animal movements) + strength (weights). Minimum effective dose.  
+- Nutrition is queen. Eat more real foods and practice intermittent fasting.  
+- Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Take naps at work. Apologize to no one. Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
 
 
 
@@ -307,40 +278,36 @@ How to keep healthy?
 ---
 ### On lifestyle
 
-*'All men die, but not every man lives' -- William Wallace*
+> *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
+
+*'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
 
 *'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
 
-We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), [catch our own meals](?), [live in a close-knit tribe](friends), [have regular sex](relationships), [raise children](mentorship) and die.
+We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children](/chapter_2_groups.md#on-feedback-and-mentorship) and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.
-
-> *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
-
-> *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
 
 Hints:
 
 - 9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.  
-- The opposite of play isn’t work, it’s depression.  
-- I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
-- Essencialism: The disciplined pursuit of less.  
-- Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
 - House + work + third place (coffeeshop).
+- The opposite of play isn’t work, it’s depression.  
+- Essencialism: the disciplined pursuit of less.  
+- Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
+- I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 
-Simplicity is the ultimate sophistication. How to simplify?  
-- Use simpler tools.  
+Simplicity is the ultimate sophistication. How to simplify?
+
 - Use it or loose it.  
-- [Get rid of the unnecessary distractions](focus).  
-- [Remove any obligations that aren’t truly serving your end goals](freedom).  
+- [Remove unnecessary distractions]().  
+- [Remove any obligations that aren’t truly serving your end goals]().  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
 How to reduce your expenses without sacrificing your quality of life?
 
+Geoarbitrage. Car: max 10K. Job: live next to it.
+
 > *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
-
-> *'Car: max 10K. Job: try to live next to it.' -- paraphrased from Mr. Money Moustache*
-
-> *'Geoarbitrage.' -- EF*
 
 <!--
 - In life, you will often be presented with two options: The lucrative option, The lifestyle option. job -> money + lifestyle!
@@ -378,8 +345,6 @@ There is no shortcut. Success is a castle that you build [brick by brick](#on-ha
 
 > *'Try not to become a man of success, rather become a man of value' -- Albert Einstein*
 
-> *'Society judges people by what they can do for others. But we judge ourselves by our thoughts.'*
-
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
 
 However [fear](#on-confidence-and-validation), not failure, is the biggest barrier to success.
@@ -389,6 +354,7 @@ However [fear](#on-confidence-and-validation), not failure, is the biggest barri
 > *'Whether you think you can, or you think you can't, you're right.' -- Henry Ford*
 
 <!--
+
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 silicon valley celebrate failure only after they achieve success
 
@@ -473,6 +439,7 @@ What is love?
 > *'The four most expensive words in the English language: «This time is different».'
 > *'Reality continues to ruin my life.' -- Bill Watterson*
 > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
+“I wrote the story myself. It's about a girl who lost her reputation and never missed it.” — Mae West
 
 To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity. This is why the comedians are the modern day philosophers.
 -->
@@ -483,17 +450,19 @@ To find the truths inside of us that make us all relate to each other. That brin
 ---
 ### On humanness and irrationality
 
-*'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Starship Troopers by Robert Heinlein*
+*'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Robert Heinlein on Starship Troopers*
+
+Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.
 
 > *'If there is one thing you can count on, it's human greed. And I'm not pretending I'm above it myself.'*
-
-> *'Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.'*
 
 > *'The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.' -- Elizabeth Taylor*
 
 > *'I am lonely, yet not everybody will do. I don't know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them».' --  Anaïs Nin*
 
 > *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
+
+> *'“Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.”' --  Neil Gaiman*
 
 <!--
 - we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it's our default. Order is always artificial and temporary.
@@ -545,7 +514,7 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
 
-> *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albet Einstein*
+> *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albert Einstein*
 
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
@@ -569,6 +538,8 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 > *'Life is Capitalism but art is Socialism.'*
 
+> *'Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.' -- Robert Benchley*
+
 <!--
 - Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
@@ -584,15 +555,12 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 *'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*
 
-That's where «big bucks» are.
-
-> *'Most people with good taste are young and poor.'*
+That's where «big bucks» are. The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
+Most people with good taste are young and poor.
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
 > *'Art is a meditation and design is a negotiation.'*
-
-> *'The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.'*
 
 > *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
@@ -653,13 +621,13 @@ How to spot a good investment?
 
 > *'Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.'*
 
-When to fold them? Get an exit strategy and take risk from the table when possible.
+When to fold them?
 
-> *'I succeeded because I have a long attention span.' -- Charlie Munger*
-
-> *'Waiting helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*  
+Get an exit strategy and take risk from the table when possible.
 
 > *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds.' -- Charlie Munger*
+
+> *'I succeeded because I have a long attention span. (...) Waiting helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
 
 <!--
 > *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith in The Wealth Of Nations*
@@ -689,7 +657,7 @@ math shortcut: Years to double = 72 / Interest Rate
 *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
 
 Travel is the only thing you buy that makes you richer.   
-Travel solves a plethora of self-improvement goals. Traveling as mini lifes.
+It solves a plethora of self-improvement goals. Travela are mini lifes.
 
 Hints:
 
@@ -698,8 +666,7 @@ Hints:
 - Think less about money optimization and more about who you’re going with.
 - Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
 - Choose places with “lifers”: owners and employees who are dedicated to the business itself, not to a paycheck.
-- Build a business with the heuristic of "Maximize my vacation time":
-Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling'*
+- Build a business with the heuristic of "Maximize my vacation time": Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling'*
 
 <!--
 - On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
@@ -715,16 +682,19 @@ Contracting -> Travelling Between Contracts -> Travelling While Contracting -> S
 
 A college education can help you make a living, self-education can make you a fortune.
 
+> *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
+
 > *'«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase “Safety net”?
 Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up.' -- James Altucher*
 
-> *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
 
 
 
 
 ---
 ### On books
+
+> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
 
 Reading train your model of the world. Even if you forget most, its effect on your model of the world persists.
 
@@ -742,8 +712,6 @@ Reading train your model of the world. Even if you forget most, its effect on yo
 
 > *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.' -- Julian Barnes*
 
-> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
-
 > *'Think before you speak. Read before you think.' -- Fran Lebowitz*
 
 > *'A library is infinity under a roof.' -- Gail Carson Levine*
@@ -756,7 +724,7 @@ Reading train your model of the world. Even if you forget most, its effect on yo
 
 <!--
 when writing a book start with your own ideas
-
+> *'Tears are words that need to be written.' -- Paulo Coelho*
 > *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
 > *'Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.' -- J.K. Rowling*
@@ -784,9 +752,9 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 ---
 ### On computers and maths
 
-> *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
+*'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
 
-> *'I was shocked to realize how dependent I’ve grown on three simple features that just aren’t available in the analog world: search, sort and filter.'*
+We’ve grown dependent on three simple features that just aren’t available in the analog world: search, sort and filter.
 
 > *'As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality.' -- Albert Einstein*
 
@@ -824,19 +792,17 @@ I wonder how long it'll be until we replace fiat currencies with a balance of ki
 
 *'She likes a gentleman who knows when not to be gentle.'*
 
+Chicks dig a man who exhibits grace under pressure.
+
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
-
-> *'Chicks dig a man who exhibits grace under pressure.'*
-
-> *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
 
 > *'All that women want is for you to listen.'*
 
 > *'A suit to women is like lingerie to men.'*
 
-<!--
+> *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
+
 > *'Why are women... so much more interesting to men than men are to women?' -- Virginia Woolf*
--->
 
 
 
@@ -845,7 +811,6 @@ I wonder how long it'll be until we replace fiat currencies with a balance of ki
 ### On what men value in women
 
 *'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*
-
 
 <!--
 ### On types of people

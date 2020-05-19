@@ -52,7 +52,8 @@ Some ideas are better but action is the only thing that matters in the end. The 
 
 > *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
 
-How to judge ideas?  
+How to judge ideas?
+
 - Best ideas come from the market, not from you.  
 - Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
 
@@ -79,21 +80,11 @@ Analysis is an art, not a science. To find deep truths intuition is better than 
 
 > *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
-And, as such, error-prone by:
-
-- Randomness: most facts are a «tell» but some are just random.
-
-> *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
-
-- [Being deceived](#on-deceiving).
-
-> *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
-
-- Bias. E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted. If you tell someone the person they’re about to meet is introverted, they’re more likely to describe them as introverted.
+And, as such, error-prone by bias.
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.' -- Marcus Aurelius*
 
-> *'What Susie says of Sally says mores about Susie than of Sally.'*
+> *'What Susie says of Sally says more about Susie than of Sally.'*
 
 > *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
 
@@ -113,16 +104,23 @@ And, as such, error-prone by:
 
 One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
-Be specially careful when facing new ideas.  
-Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs.
-
-> *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
-
-> *'I am both worse and better than you thought.' -- Sylvia Plath*
+Be specially careful when facing new ideas. Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs.
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
+> *'I am both worse and better than you thought.' -- Sylvia Plath*
+
+> *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
+
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
+
+- Randomness: most facts are a «tell» but some are just random.
+
+> *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
+
+- [Being deceived](#on-deceiving).
+
+> *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
 
 Hints on the art of analysis:
 
@@ -150,7 +148,11 @@ Hints on the art of analysis:
 
 > *'I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things.' -- Benjamin Franklin*
 
+> *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
+
 How to judge a man?
+
+Society judges people by what they can do for others. But we judge ourselves by our thoughts.
 
 > *'Judge a man by his questions, not by his answers.' -- Voltaire*
 
@@ -158,7 +160,14 @@ How to judge a man?
 
 > *'It isn't what we say or think that defines us, but what we do.' -- Jane Austen*
 
+> *'Whenever you feel like criticizing any one... just remember that all the people in this world haven't had the advantages that you've had.' -- F. Scott Fitzgerald*
+
 <!--
+> *'To understand is to know what to do.' -- Wittgenstein*
+> *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
+
+E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
+
 - Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
 
 tese antitheses -> syntesis
@@ -181,16 +190,11 @@ This saves the time needed to make decisions, in particular when under pressure.
 
 Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
 
-> *'To understand is to know what to do.' -- Wittgenstein*
-
 The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
 
 What’s your advantage: informational, analytical, or behavioral?
 	
 - not playing your hand but playing your opponent.
-
-“A world constructed from the familiar is the world in which there's nothing to learn.”
-In shaping what we see, filter bubbles show us a distorted map and not the terrain
 
 - The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
 
@@ -200,8 +204,7 @@ Simple rules focus on the critical variables that govern a situation and help yo
 
 Yes, you should have a strong, crystal clear vision and end game, but you must be flexible about how you achieve that vision.
 
-“Anything perceived has a cause.~// humm-- rational and irrational players
-> *'All conclusions have premises. All effects have causes. All actions have motives.' -- Arthur Schopenhauer*
+rational and irrational players
 
 Key variables that you need to maximize and minimize, and follow the agile path blazed by Henry Singleton (My only plan is to keep coming to work. … I like to steer the boat each day rather than plan ahead way into the future.)
 
@@ -230,8 +233,6 @@ Truth in stereotypes there'es truth on GROUP opinions. Steryotypes are the falsy
 
 Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
 - There’s always a good reason and a real reason.
-
-> *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
 -->
 
 
@@ -259,13 +260,9 @@ You can’t predict. You can prepare.
 
 > *'You have choices. Choices are experiments.'*
 
-Plans are a starting point.
+How to plan? 
 
-> *'You make plans and god laughs.' -- Yiddish proverbs*
-
-> *'Everyone has a plan until they get punched in the mouth.' -- Mike Tyson*
-
-How to plan? Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable steps.  
+Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable steps.  
 Choose the plan with more options. The one that lets you change plan. 
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
@@ -278,8 +275,14 @@ Choose the plan with more options. The one that lets you change plan.
 
 > *'I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day.' -- Ernest Hemingway*
 
+However plans are only a starting point.
+
+> *'You make plans and god laughs.' -- Yiddish proverbs*
+
+> *'Everyone has a plan until they get punched in the mouth.' -- Mike Tyson*
+
 <!--
-stick to the plan. poople sabotage their one plans when it get tedious, nobnotusos, challegnig or too difficult. people think they need a new plan.
+stick to the plan. poople sabotage their one plans when it get tedious or too difficult. people think they need a new plan.
 -->
 
 
@@ -848,6 +851,18 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+2) Manage emotions to better manage time: it’s your beliefs that create your feelings, not reality.
+procrastination is a mood-management technique
+3) Important Beats Urgent
+You do what’s easy or urgent, not what really moves the needle.
+Since the vast majority of our words and actions are unnecessary, corralling them will create an abundance of leisure and tranquility. As a result, we shouldn’t forget at each moment to ask, is this one of the unnecessary things?
+Getting a lot of unnecessary things done is not productivity; it’s stupidity.
+Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all. -- tim ferriss
+4) Focus On Effort, Not Outcome
+What’s that have to do with productivity? Plenty. Because you worry about all kinds of stuff that you can’t do anything about. And that’s wasted time and energy.
+And neuroscience research shows that by focusing on what you have control over, you decrease stress.
+You can’t control whether it ends up as a “robbery” or an “attempted robbery”, just focus on executing the heist in a way that would make mom proud.
+
 > *'The difference between successful people and very successful people is that very successful people say «no» to almost everything.' -- Warren Buffett*
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 
@@ -915,6 +930,7 @@ Ignore the rest.
 - past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 
 > *'Sometimes people don't want to hear the truth because they don't want their illusions destroyed.' -- Friedrich Nietzsche*
+- control freak: doesnt want to acknowledge that the universe doesnt make sense. and he doesnt trust himself to handle disorder in a situation that will get out of your league or skillset.
 
 - Não se pode fazer colecção de tudo.
 -->
@@ -948,8 +964,9 @@ Balance is not about spending the same amount of time focused on every area of y
 
 Diversification solves a lot of problems.
 
-How to balance an imbalance? Overcompensate.  
-Some people get passion from something they struggled with.
+How to balance an imbalance?
+
+Overcompensate. Some people get passion from something they struggled with.
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
@@ -1312,7 +1329,7 @@ Cialdini moved from rejection to compliance after the boy had moved from a large
 ---
 ### On opponents
 
-Beware of all opponents.  
+Beware of all players.  
 However there are people acting stupid. Easy wins if you can identify them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
@@ -1323,7 +1340,7 @@ However there are people acting stupid. Easy wins if you can identify them.
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
 
-Easy opponents are often just [bait](#on-charming).
+Easy players are often just [bait](#on-charming).
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1331,7 +1348,7 @@ Easy opponents are often just [bait](#on-charming).
 
 > *'«El dorados» are never drawn in the map.'*
 
-Desperate opponents will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+Desperate players will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
 
@@ -1341,7 +1358,7 @@ Desperate opponents will risk anything in a fight. This gives them a huge advant
 
 > *'Our fearlessness shall be our secret weapon.' -- John Green*
 
- On difficult opponents, besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
+ On difficult players, besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
 
 > *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
 

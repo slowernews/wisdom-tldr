@@ -35,8 +35,6 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 > *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
 
 <!--
-> *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
-
 Codependent no more: How to stop controlling others and start caring for yourself.
 
 we dont need to like everybody. dot. being nice is not being able to tolerate the other being upset with him. niceness leads to passivity they don't rise to leadership positions. a nice person can't be angry -> then it manifest as depression, anxiety, health problems, passive agressiveness
@@ -945,6 +943,8 @@ SELF-AWARENESS > HUSTLE
 
 If we cut ourselves off from the full scope of history because it makes us uncomfortable, or doesn’t fit with the cultural narrative in which we live, we reduce our ability to learn from the past and apply those lessons to the situations we are facing today.
 We need to accept that people can do great things while still having flaws. Our heroes don’tr have to be perfect, and we can learn just as much from their imperfections as from their achievements.
+
+When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
 -->
 
 
@@ -963,7 +963,9 @@ Take care of your body. It’s the most important thing you’ll get for free. H
 
 > *'Action cures everything. Plain and simple.'*
 
-What is the cause of stress? Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  The more relaxed you are, the better you are at everything.
+What is the cause of stress?
+
+Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  The more relaxed you are, the better you are at everything.
 
 > *'Under-stimulation = boredom   
 right amount of stress = hustling (stretching comfort zone)   
@@ -977,7 +979,9 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
-What is depression? Depression is the lack of self-expression. Anxiety and depression are symptoms, not diseases. If you feel powerless/being dominated you will be chronically stressed.
+What is depression?
+
+Depression is the lack of self-expression. Anxiety and depression are symptoms, not diseases. If you feel powerless/being dominated you will be chronically stressed.
 
 > *'Anxiety creates hypersensitivity.'*  
 > *'Anxiety is the dizziness of freedom.' -- Søren Kierkegaard*  
@@ -994,7 +998,9 @@ What is depression? Depression is the lack of self-expression. Anxiety and depre
 
 > *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
 
-How to fight depression? Best antidepressant is knowing we matter to others. Exercise and starving a close second.
+How to fight depression?
+
+Best antidepressant is knowing we matter to others. Exercise and starving a close second.
 
 <!--
 When sick, move! Debug your brain as much as you can.
@@ -1200,7 +1206,7 @@ In the meanwhile any source is good. Don't stop till you get it.
 
 > *'Fake it till you make it.'*
 
-other confidence «movers»:
+Other confidence «movers»:
 
 - When you break an agreement that you make with yourself, your selfestime plummets: don't do it or renegociate it.  
 - Confidence: state + mastery. impress yourself.  
@@ -1283,14 +1289,14 @@ Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you
 
 > *'To define is to limit.' -- Oscar Wilde*
 
+However your level of success will seldom exceed your level of personal development.
+
+> *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
+
 How to break through your plateaus?
 
 - On a plateau take a step back.  
 - Break down your dreams/goals into achievable steps.
-
-However your level of success will seldom exceed your level of personal development.
-
-> *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
 
 <!--
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
@@ -1321,7 +1327,10 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
 
+What is perfectionism?
+
+> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
+
 <!--
 > *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
-> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 -->

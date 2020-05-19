@@ -8,6 +8,8 @@
 
 ### The real you
 
+*'All men die, but not every man lives' -- William Wallace*
+
 *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 You are your deeds. Your actions reveal your real values.  
@@ -28,7 +30,10 @@ Never stop working on yourself. Always strive to be better. Is succeeding at med
 > *'Whatever you are, be a good one.' -- Abraham Lincoln*
 
 <!--
+> *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
+to be real you need to be vulnerable
+> *'Do you want to know who you are? Don't ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
 -->
 
 
@@ -74,6 +79,8 @@ How to lower expectations? Be [grateful]().
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
 
 <!--
+“The rise is always better than the peak.” -- Jim Jefferies
+
 It’s quite liberating to understand reality as a construction.  
 High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
 

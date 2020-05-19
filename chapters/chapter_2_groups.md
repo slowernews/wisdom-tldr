@@ -24,11 +24,15 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 > *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*  
 > *'Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.'*
 
-How to network? [Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. Be useful, not important. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
+How to network?
+
+[Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. Be useful, not important. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
-How to prepare an elevator pitch? Choose truth or our self-mythology will seduce us.
+How to prepare an elevator pitch?
+
+Choose truth or our self-mythology will seduce us.
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
@@ -54,7 +58,9 @@ How to curate your network?
 - the best way to get value was to start giving it away? you're giving validation
 -->
 
-Why most people don't like networking? It's hard to handle rejection. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
+Why most people don't like networking?
+
+It's hard to handle rejection. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
 > *'If you expect magic in every encounter, you'll find it.' — Adam Robinson*
 
@@ -99,19 +105,27 @@ Keep a journal and write about what you’re looking forward to and excited abou
 Heart, head and soul in your interview. Make the interview feeling safe. when you have passion you communicate better
 -->
 
-How to tell good stories? Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+How to tell good stories?
+
+Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
 > *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
 
 > *'The more you say, the less people remember.' -- François Fénelon*
 
-How to discord? Argue as you're right. Listen as you're wrong.
+How to discord?
+
+Argue as you're right. Listen as you're wrong.
 
 - «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
 <!--
+Hints on public speaking:
+
+When public speaking you dont need to answer their question. you can say whatever you want if its interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of saying desagreements.
+
 1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
 2 - Small and open groups. Opening line: "Hi, I'm X and I dont know anybody in this party."
 3 - Go to the bar and meet people there.
@@ -131,10 +145,10 @@ How to discord? Argue as you're right. Listen as you're wrong.
 ---
 ### On business and entrepreneurship
 
+*'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
+
 *'What you need to start a new business: generosity.' -- Derek Sivers*
 
-*'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
-  
 Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
 
 Test sales first. Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it: the consumer votes with his wallet.
@@ -190,6 +204,9 @@ Patterns on successful *wannapreneurs*.
 > *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 <!--
+- a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
+
+- pro tip: Ask your current customers “What nearly stopped you buying from us?”
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
 - I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
 - if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others.
@@ -312,10 +329,13 @@ However always strive to achieve a win-win situation. The deal will fall if both
 > *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
 
 <!--
+- best marketing is recomendation from other person
 - Marketing is a symptom of excess production.  
 - People don’t buy products, they buy better versions of themselves.  
 - Females buy male products. Males don't buy products targetted to females.  
 - If they can’t pay, walk away.  
+- nowadays the messenger is the message
+- Flattery is the infantry of negotiation. —Lord Chandos
 
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 
@@ -541,13 +561,13 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
 Feedback speeds up improvement but only take advice from mentors.
 
-> *'A coach spots your bullshit before you open your mouth.'*
-
 > *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
 
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 
-How to find mentors? Look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».
+How to find mentors?
+
+Look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
 
@@ -584,7 +604,7 @@ Fatherhood makes you a mentor independently of your will. Don't tell my kids the
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
-How to teach your kids:
+How to mentor your kids:
 
 - Generosity: «What did u do this week for somebody?»  
 - Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
@@ -595,7 +615,7 @@ How to teach your kids:
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
 - Optimism: «You have the gift of today.»
 
-HOWEVER... some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
+However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -728,7 +748,9 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-What is stupidity? Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
+What is stupidity?
+
+Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
 
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
@@ -736,7 +758,9 @@ What is stupidity? Stupidity is the cost of intelligence operating in a complex 
 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*
 
-Tricks to deceive stupidity? Most people don't actually think, they just take their first thought and go.	
+Tricks to deceive stupidity?
+
+Most people don't actually think, they just take their first thought and go.	
 
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
@@ -749,7 +773,7 @@ Tricks to deceive stupidity? Most people don't actually think, they just take th
 
 Despite being easier to recognise stupidity in others than ourselves, don’t take for granted that others are acting stupid. Common sense is not so common.
 
-> *'Don't take a fence down without knowing why is there.'*
+> *'Don't ever take a fence down until you know the reason why it was put up.' -- John F. Kennedy, paraphrasing G.K.Chesterton*
 
 > *'Life's hard. It's even harder when you're stupid.' -- John Wayne*
 
@@ -771,8 +795,6 @@ Once a philosophy goes tribal, its beliefs no longer exist to serve some moral p
 But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
 
 The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
-
-Tribal feminists, in the name of fighting shame and oppression, shame and oppress views that contradict their own.
 
 And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
 -->
@@ -921,17 +943,17 @@ Be productive, not cheap. Stop dicking around trying to figure stuff out that so
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
-For that you need to [communicate](#on-communication). Hints:
-
-- Spend one hour a day just talking to your people and everything will be OK.  
-- Start a meeting with an overachieving question: «how can we raise sales by 12%?»
+For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK.  
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
 Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».  
 The only reason there’s so many awful managers is that people like you refuse to do the job.
 
-How to give feedback? Ask instead of telling. If you're certain the delivered work is not good enough give a reason.
+How to give feedback?
+
+You can't make any judgement of the worker without detailed understanding of the specifics of the work. 
+Ask instead of telling. If you're certain the delivered work is not good enough give a reason.
 
 > *'«Is that the best you can do?»  
 «Interesting, how do you feel about it?»  
@@ -946,20 +968,24 @@ However gaining an understanding and giving appropriate feedback makes your juni
 
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
 
+Hints on meetings:
+
+- Start a meeting with an overachieving question: «how can we raise sales by 12%?».  
+- Jeff Bezos famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.  
+- On a meeting do not share your opinion on possible solutions before asking for input from your team. Lower ranked people should speak first. Everybody the right to their opinion and not copying others' opinion.  
+- Switch my default to “no” for all meetings. If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
+
 <!--
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
 - Amazon’s “two-pizza teams”: The ultimate divisional organization
 - a great manager is a great facilitator
 
-I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.”
-Even the greatest communicators get angry, flustered, or confused when they find themselves in conflict.
+I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
 
 > *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
 	
 “A chain is only as strong as its weakest link”
 
-you can't make any judgement of the worker without detailed understanding of the specifics of the work.
-	
 I divide my officers into four groups. There are clever, diligent, stupid, and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.
 https://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord
 
@@ -969,18 +995,12 @@ What’s getting in your way?
 What can I do as your manager to help?
 
 succeful takers are the most visible people in organizations.
-reward system. culture is influenced by structure
-give to the right person
-
+reward system. culture is influenced by structure. give to the right person
 as estruturas funcionam qd ha coesao
 
 servant leadership -> my responsability is to make my team better.
-
 convincing vs inspiring! leadership
-
 manager is a dreammaker
-
-Jeff Bezos, for example, famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.
 
 As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
 
@@ -988,12 +1008,7 @@ As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinke
 
 boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about
 
-on a meeting Do not share your opinion on possible solutions before asking for input from your team.
-
-low power people should speak fisrt: hierarchy and everybody the right to their opinion and not copying others' opinion.
-hierarchy with low power voices
-
-The best thing I did this year was to switch my default to “no” for all meetings. If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
+- Custom tailor teams from project to project. Same team from same project is not the best option.
 -->
 
 
@@ -1016,8 +1031,10 @@ Your goal in business should be to «fire» yourself and hire people who are bet
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
-How to attract and keep talented people? Respect them.  
-You'll never respect them if you don't reward them accordingly.
+How to attract and keep talented people?
+
+Respect them. You'll never respect them if you don't reward them accordingly.  
+people leave managers, not companies.
 
 > *'Create contracts that build up «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process.'*
 
@@ -1038,8 +1055,6 @@ DON’T tell about your responsibilities. Everyone who is doing your type of job
 
 If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.
 
-people leave managers, not companies
-
 people want freedom to choose their process
 
 The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
@@ -1050,14 +1065,10 @@ Train, train, train. If you treat your employee right, you can absolutely train 
 At the same time, wages aren't everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don't offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won't just up and go to a new company after you've trained them.
 I can go on, but there's a few things I've learned.
 
-Tip #3: A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences.
-
-Every little detail matters.
-Here is the toughest point for a lot of people: you can’t control what your reviewer sees on your portfolio.
+Tip #3: A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences. Every little detail matters. Here is the toughest point for a lot of people: you can’t control what your reviewer sees on your portfolio.
 
 "Estimativas são Promessas. Promessas devem ser cumpridas.".
 In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
-
 Therefore, there is zero correlation between an estimate and the actual outcome.
 
 If you're a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
@@ -1066,8 +1077,7 @@ There's nothing wrong in specialization -- it's how we stay sane. A very workabl
 
 autentic pride (genuine) vs hubristic pride (egotistic)
 -
-Startups are (by necessity) filled with generalists; big companies are filled with specialists. People underestimate how effective a generalist can be at things which are done by specialists. People underestimate how deep specialties can run. These are simultaneously true.
-
+Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 companies hire for a problem and not general optimizations. Even if they need a generalist.
 
 Try consulting or entrepreneurship.
@@ -1089,9 +1099,10 @@ Avoid the trap of following one set career path. Focus on being useful, it will 
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
-> *'Is it better to be good at many things or great at one thing?  
-To be an entrepreneur you need to know a little about a lot of things.  
-To be employed, if you pick the right specialization (specialization is dangereous), you'll do better as a specialist.'*
+Is it better to be good at many things or great at one thing?
+
+- To be an entrepreneur you need to know a little about a lot of things.  
+- To be employed, if you pick the right specialization (specialization is dangereous), you'll do better as a specialist.
 
 > *'I always advise young people to become good public speakers (top 25%). Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
 
@@ -1105,7 +1116,9 @@ Being an employee is long-term risky. In an economy with shrinking corporations,
 
 > *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
 
-How to keep a job or advance career? Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
+How to keep a job or advance career?
+
+Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 > *'I had a manager who once said the people who were terminated were those who question too much and do too little.'*
 
@@ -1128,17 +1141,17 @@ Cultivate a relevant skill stack. Capitalism rewards things that are both rare a
 
 - use the transportable skills that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
 write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.  
-
 - find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
-- take risks to boost your immune system.
+- take risks to boost your immune system.  
 - Pivoting is a mindset. Pivoting isn’t easy, even if you know it’s right.  
-- You will either pivot or get pivoted. 
+- You will either pivot or get pivoted.
 
 > *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
 
 > *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
 
-How to get employers feedback?  
+How to get employers feedback?
+ 
 If you ask them why did they asked you for an interview, they will describe your strengths.
 
 <!--
@@ -1146,20 +1159,16 @@ If you ask them why did they asked you for an interview, they will describe your
 - three-paths-in-the-tech-industry-founder-executive-or-employee
 - trabalhar de porta aberta vs trabalhar à porta fechada
 - Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
-- From the point of view of a noob. I might be completely wrong: Tech marketability is important WHEN you are below average (my case). Otherwise any technology will grant you a job: if you know how to program, all languages are easy to pick. In my case, I'm still between React and Vue. While I prefer Vue, all jobs ask for React.	
 - work smart not harder but hard still.
 - Be a jack-of-all-trades and a master of one.
 - trade-able skills: figure out what skills you already have that you can charge for
-
 - Always Focus on Delivering More Value than Expected
-
 - finding and winning a great job is a competitive subject. it's not very correlated with luck.
 - Your Success is Someone Else’s Miracle
-> *'The difference between your best and your worst? The perception of others. Block out the noise and you’ll stay on track.' -- Phil Hellmuth*
 - find your secret sauce and NAME it. whats unique. you need to get people attention
 - ask what's your secret mission -- something you want to do here that another person is interested also\
 
-- you are a learning machine… Not an occupation.
+- you are a learning machine. Not an occupation.
 - Ideas are welcomed, execution is worshiped
 
 - recruiting better than hiring: find a place where you can do a good job
@@ -1181,11 +1190,8 @@ So: 100% on one thing = 80% on 5 things!
 - career ecosystems, get back into them, reconnect.  
 - reboot self confidence. Surround yourself with confident people.'
 
-Happy, Smart, and Useful
-
-look at situations as systems. i help to create systems.
-
-> *'Custom tailor teams from project to project. Same team from same project is not the best option.'*
+- Happy, Smart, and Useful
+- look at situations as systems. i help to create systems.
 -->
 
 
@@ -1216,8 +1222,3 @@ HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of the
 > *'Es triste que gente con talento y sin dinero tenga que depender de gente con dinero y sin talento.'*
 
 > *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
-
-<!--
-- on gatekeepers
-- right amount of hierarchy and structure
--->
