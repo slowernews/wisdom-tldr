@@ -24,13 +24,13 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 > *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*  
 > *'Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.'*
 
-How to network?
+#### How to network?
 
 [Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. Be useful, not important. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
-How to prepare an elevator pitch?
+##### How to prepare an elevator pitch?
 
 Choose truth or our self-mythology will seduce us.
 
