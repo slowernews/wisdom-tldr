@@ -17,7 +17,7 @@ How you do anything is how you do everything. Ultimately you are your choices.
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
   
-How to come alive?
+#### How to come alive?
 
 Never stop working on yourself. Always strive to be better. Is succeeding at mediocrity a worthwhile life? For some of you, you must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant. You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
 
@@ -57,8 +57,11 @@ What is happiness?
 
 > *'Success is getting what you want. Happiness is wanting what you get.' -- Dale Carnegie*
 
-Seek happiness actively (improve reality) and passively (lower expectations).  
-How to improve reality? Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
+Seek happiness actively (improve reality) and passively (lower expectations).
+
+#### How to improve reality?
+
+Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
 
@@ -70,7 +73,7 @@ How to improve reality? Act, be patient and break long term goals into smaller o
 
 > *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli*
 
-How to lower expectations? Be [grateful]().
+#### How to lower expectations? Be [grateful]().
 
 > *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
 

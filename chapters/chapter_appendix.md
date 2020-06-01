@@ -184,7 +184,7 @@ Money is a tool. It can serve as a force multiplier to help you live the life of
 
 > *'After a certain point, money is meaningless. It ceases to be the goal. The game is what counts.' -- Aristotle Onassis*
 
-How to get wealthy (without getting lucky):  
+#### How to get wealthy (without getting lucky):  
 - Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible. Ignore people playing status games. They gain status by attacking people playing wealth creation games. Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems. Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person.  
 - You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
 You will get rich by giving society what it wants but does not yet know how to get. At scale. Pick an industry where you can play long term games with long term people. The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.  
@@ -266,7 +266,7 @@ The sign of a beautiful person is that they always see beauty in others.
 
 Health is also an envy trigger. Often what people really envy is self-control.
 
-How to keep healthy?
+#### How to keep healthy?
 
 - Exercise is king. Balance on body training = flexibility (yoga or animal movements) + strength (weights). Minimum effective dose.  
 - Nutrition is queen. Eat more real foods and practice intermittent fasting.  
@@ -296,14 +296,14 @@ Hints:
 - Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 
-Simplicity is the ultimate sophistication. How to simplify?
+#### Simplicity is the ultimate sophistication. How to simplify?
 
 - Use it or loose it.  
 - [Remove unnecessary distractions]().  
 - [Remove any obligations that aren’t truly serving your end goals]().  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
-How to reduce your expenses without sacrificing your quality of life?
+#### How to reduce your expenses without sacrificing your quality of life?
 
 Geoarbitrage. Car: max 10K. Job: live next to it.
 
@@ -588,7 +588,7 @@ Spend less than you make. Stay liquid. Never invest in anything you can't sell i
 Saving a higher proportion of your income allows to cut decades off of your working life.
 The secret to get rich is not to make more money but to keep it.  
 
-How to spot your investment confort zone?
+#### How to spot your investment confort zone?
 
 - Scared money never wins.  
 - Risk of losing money vs the risk of missing opportunity.
@@ -599,13 +599,13 @@ How to spot your investment confort zone?
 
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
-How to spot trends? Understand:
+#### How to spot trends? Understand:
 
 - who are the buyers, the sellers and their motivations.  
 - that investments are competing with each other.  
 - where is low optimism. market cycles. Recessions are caused when a bunch of people lose confidence all at once.
 
-How to spot a good investment?
+#### How to spot a good investment?
 
 > *'You’re looking for a mispriced gamble.' -- Charlie Munger*
 

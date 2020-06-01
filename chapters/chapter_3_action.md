@@ -24,7 +24,9 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 > *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.' -- Steve Jobs*
 
-How to find ideas? Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
+#### How to find ideas?
+
+Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 > *'The way to get good ideas is to get lots of ideas and throw the bad ones away.' -- Linus Pauling*
 
@@ -52,7 +54,7 @@ Some ideas are better but action is the only thing that matters in the end. The 
 
 > *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
 
-How to judge ideas?
+#### How to judge ideas?
 
 - Best ideas come from the market, not from you.  
 - Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
@@ -150,7 +152,7 @@ Hints on the art of analysis:
 
 > *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
 
-How to judge a man?
+#### How to judge a man?
 
 Society judges people by what they can do for others. But we judge ourselves by our thoughts.
 
@@ -260,7 +262,7 @@ You can’t predict. You can prepare.
 
 > *'You have choices. Choices are experiments.'*
 
-How to plan? 
+#### How to plan? 
 
 Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable steps.  
 Choose the plan with more options. The one that lets you change plan. 
@@ -964,7 +966,7 @@ Balance is not about spending the same amount of time focused on every area of y
 
 Diversification solves a lot of problems.
 
-How to balance an imbalance?
+#### How to balance an imbalance?
 
 Overcompensate. Some people get passion from something they struggled with.
 

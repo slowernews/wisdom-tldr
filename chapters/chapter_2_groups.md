@@ -30,7 +30,7 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
-##### How to prepare an elevator pitch?
+#### How to prepare an elevator pitch?
 
 Choose truth or our self-mythology will seduce us.
 
@@ -58,7 +58,7 @@ How to curate your network?
 - the best way to get value was to start giving it away? you're giving validation
 -->
 
-Why most people don't like networking?
+#### Why most people don't like networking?
 
 It's hard to handle rejection. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
@@ -80,7 +80,7 @@ Speak less and listen more. Be humble, listening is powerful.
 
 > *'When you listen, you may learn something new.' -- Dalai Lama*
 
-How to communicate? 
+#### How to communicate? 
 
 - Smile and relax. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
 
@@ -105,7 +105,7 @@ Keep a journal and write about what you’re looking forward to and excited abou
 Heart, head and soul in your interview. Make the interview feeling safe. when you have passion you communicate better
 -->
 
-How to tell good stories?
+#### How to tell good stories?
 
 Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
@@ -295,7 +295,7 @@ That said, a bad/good negotiation means that you are adding more/less value than
 
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
-How to negotiate? 
+#### How to negotiate? 
 
 To negotiate is to have options. Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
 
@@ -510,7 +510,7 @@ However choose who surround you: you are the average of them.
 
 > *'Really great people make you feel that you too can be great.' -- Mark Twain*
 
-How to build your «board of directors»?
+#### How to build your «board of directors»?
 
 - Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
 - Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
@@ -565,7 +565,7 @@ Feedback speeds up improvement but only take advice from mentors.
 
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 
-How to find mentors?
+#### How to find mentors?
 
 Look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».
 
@@ -604,7 +604,7 @@ Fatherhood makes you a mentor independently of your will. Don't tell my kids the
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
-How to mentor your kids:
+#### How to mentor your kids:
 
 - Generosity: «What did u do this week for somebody?»  
 - Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
@@ -950,7 +950,7 @@ For that you need to [communicate](#on-communication). Spend one hour a day just
 Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».  
 The only reason there’s so many awful managers is that people like you refuse to do the job.
 
-How to give feedback?
+#### How to give feedback?
 
 You can't make any judgement of the worker without detailed understanding of the specifics of the work. 
 Ask instead of telling. If you're certain the delivered work is not good enough give a reason.
@@ -1031,7 +1031,7 @@ Your goal in business should be to «fire» yourself and hire people who are bet
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
-How to attract and keep talented people?
+#### How to attract and keep talented people?
 
 Respect them. You'll never respect them if you don't reward them accordingly.  
 people leave managers, not companies.
@@ -1116,7 +1116,7 @@ Being an employee is long-term risky. In an economy with shrinking corporations,
 
 > *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
 
-How to keep a job or advance career?
+#### How to keep a job or advance career?
 
 Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
@@ -1135,7 +1135,7 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 > *'For every million people that want to be a successful musician, only one is going to achieve it. If you’re going to be that one, you can’t do what everyone else is doing. Whatever you do, it’ll be creative, efficient, and effective. That’s my definition of resourceful. It means making something happen, instead of saying you can’t. It means accessing all the people and skills you know, including the ones that take extra effort. It usually means doing things for free, but can also mean spending a little money to save a lot of time. It means using a shortcut around obstacles, getting in through a back door, bending the rules, and never waiting for permission. It means asking for help, but not waiting for help. So why do I hate to admit this? Because I love how the internet has made it possible for anyone to get successful anywhere. I love the idea of living in the middle of nowhere, surrounded by nature, yet being connected to the world. But still, when I look at the facts, it’s impossible to deny. Actually living in the big city, and being in the middle of where everything is happening, will help your career the most. Being elsewhere won’t hurt you, but it won’t help.' -- Derek Sivers*
 
-How to «pivot» career?
+#### How to «pivot» career?
 
 Cultivate a relevant skill stack. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
 
@@ -1150,7 +1150,7 @@ write a pitch, are u persuasive, can you change somebody else opinion. making a 
 
 > *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
 
-How to get employers feedback?
+#### How to get employers feedback?
  
 If you ask them why did they asked you for an interview, they will describe your strengths.
 

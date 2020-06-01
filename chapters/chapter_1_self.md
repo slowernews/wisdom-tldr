@@ -260,7 +260,7 @@ Hints:
 
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
-How to design a life?
+#### How to design a life?
 
 Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regretting your life is the worst that can happen to you.
 
@@ -442,7 +442,7 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
 
-How to create new habits?
+#### How to create new habits?
 
 - Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
 - Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
@@ -923,7 +923,7 @@ Do you know anyone who doesn’t have any blind spots? Then why would you be any
 
 > *'Weeds are flowers too, once you get to know them.' -- A.A. Milne*
 
-How to grow self awareness?
+#### How to grow self awareness?
 
 - Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
 
@@ -998,7 +998,7 @@ Depression is the lack of self-expression. Anxiety and depression are symptoms, 
 
 > *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
 
-How to fight depression?
+#### How to fight depression?
 
 Best antidepressant is knowing we matter to others. Exercise and starving a close second.
 
@@ -1040,7 +1040,7 @@ HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author
 
 Fear is paralyzing. If you view everything through the lens of fear, then you tend to stay in retreat mode.
 
-How to overcome it?
+#### How to overcome it?
 
 - Replace fear of unknown with curiosity.  
 - Reframe fear as «false evidence appearing real».  
@@ -1293,7 +1293,7 @@ However your level of success will seldom exceed your level of personal developm
 
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
 
-How to break through your plateaus?
+#### How to break through your plateaus?
 
 - On a plateau take a step back.  
 - Break down your dreams/goals into achievable steps.
