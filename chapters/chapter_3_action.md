@@ -42,7 +42,7 @@ Ideas born out of free time, play and boredom. Creativity is a muscle, you have 
 
 > *'Ignorance is a bliss, gives you freedom to think about stuff. being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. Do not see your ignorance as a curse, see it as a blessing.'*
 
-What is the value of an idea?
+#### What is the value of an idea?
 
 Some ideas are better but action is the only thing that matters in the end. The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much.
 

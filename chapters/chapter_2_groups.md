@@ -113,7 +113,7 @@ Good stories condense a massive amount of information into a consumable and shar
 
 > *'The more you say, the less people remember.' -- François Fénelon*
 
-How to discord?
+#### How to discord?
 
 Argue as you're right. Listen as you're wrong.
 
@@ -297,7 +297,7 @@ That said, a bad/good negotiation means that you are adding more/less value than
 
 #### How to negotiate? 
 
-To negotiate is to have options. Negotiate while advancing. The more you take, the more you can give back in meaningless concessions.
+Negotiate while advancing. The more you take, the more you can give back in meaningless concessions. To negotiate is to have options.
 
 - «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
@@ -539,10 +539,12 @@ Resist to temptation of working with family and friends. Peers are peers, not bo
 > *'Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
 They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
-<!--
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
-> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
+
 > *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun'.' -- Groucho Marx*
+
+<!--
+> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 
 - Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
 - The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
@@ -576,7 +578,6 @@ Look for the silver medalist. He has more availability, and sometimes, a better 
 > *'Your father is your first mentor.'*
 
 <!--
-In treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
 I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
 -->
@@ -614,6 +615,8 @@ Fatherhood makes you a mentor independently of your will. Don't tell my kids the
 - Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
 - Optimism: «You have the gift of today.»
+
+By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
 
@@ -748,7 +751,7 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-What is stupidity?
+#### What is stupidity?
 
 Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
 
@@ -805,9 +808,9 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 ---
 ### On politics and taxes
 
-*'For the friends: everything. For the others: the law.'*
+*'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
 
-> *'Politicians don't get educated. They get bought.'*
+Politicians don't get educated. They get bought.
 
 > *'To reduce corruption diminish people involved on analogic processes.'*
 

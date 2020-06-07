@@ -963,7 +963,7 @@ Take care of your body. It’s the most important thing you’ll get for free. H
 
 > *'Action cures everything. Plain and simple.'*
 
-What is the cause of stress?
+#### What is the cause of stress?
 
 Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  The more relaxed you are, the better you are at everything.
 
@@ -979,7 +979,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
-What is depression?
+#### What is depression?
 
 Depression is the lack of self-expression. Anxiety and depression are symptoms, not diseases. If you feel powerless/being dominated you will be chronically stressed.
 
@@ -1327,7 +1327,7 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
 
-What is perfectionism?
+#### What is perfectionism?
 
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
