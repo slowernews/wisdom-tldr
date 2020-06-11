@@ -12,6 +12,8 @@
 
 *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
+> *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' HN_dilemma*
+
 We don’t have an «imagination» we have a memory. Creative minds are rarely tidy.
 
 > *'Good artists copy; great artists steal.' -- Steve Jobs & others*
@@ -24,19 +26,17 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 > *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.' -- Steve Jobs*
 
-> *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.'*
-
 #### How to find good ideas?
 
-Ideas born out of free time, play and boredom. Ignorance is a bliss, gives you freedom to think about stuff. Being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of. See ignorance as a blessing.
+Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of.
 
 Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 > *'The way to get good ideas is to get lots of ideas and throw the bad ones away.' -- Linus Pauling*
 
-> *'We can’t solve problems by using the same kind of thinking we used when we created them.' -- Albert Einstein*
-
 > *'If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?'*
+
+> *'We can’t solve problems by using the same kind of thinking we used when we created them.' -- Albert Einstein*
 
 > *'I cultivate empty space as a way of life for the creative process.' -- Josh Waitzkin*
 
@@ -46,9 +46,7 @@ Creativity is a muscle, you have to practice it every day. Once it stays the sam
 
 #### What is the value of a good idea?
 
-The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much.
-
-Forget all of your ideas. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.
+The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much. Instead, worry about transforming yourself into the kind of person who can execute and bring ideas to life.
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
@@ -60,10 +58,6 @@ Forget all of your ideas. Instead, worry about transforming yourself into the ki
 - Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
 
 <!--
-- Creativity is linked to autonomy.
-- Moments of originality and moments of conformity.
-- Play is a gateway to possibility. Einstein called play the essential feature of productive thought.
-
 > *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
 -->
 
