@@ -235,9 +235,9 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 Hints:
 
-- Let your fear be your guide. The more fear you feel, the more you will know you are on the right track.  
-- What do you do for fun? What are you interested in that everybody in the world is interested in?  
 - If you are feeling lost in life experience more things.  
+- Let fear be your guide. The more fear you feel, the more you will know you are on the right track.  
+- What do you do for fun? What are you interested in that everybody in the world is interested in?  
 - Go where you can make a difference not where you think there’s a home run.  
 - When life gets blurry, just adjust your focus.
 - It’s easier to ask forgiveness than to get permission.  

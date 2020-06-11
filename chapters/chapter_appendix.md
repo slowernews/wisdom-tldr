@@ -49,7 +49,9 @@ How memory works? Hints:
 
 > *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
 
-
+<!--
+“Keep in mind that people change, but the past doesn't.” -- Becca Fitzpatrick
+-->
 
 
 ---
