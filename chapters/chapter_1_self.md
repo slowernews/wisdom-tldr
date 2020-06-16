@@ -461,6 +461,8 @@ Hints on good habits:
 However variety and novelty are also important, so [Balance](#on-balance) it.
 
 <!--
+“People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.”
+
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.

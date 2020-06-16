@@ -46,7 +46,9 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 
 #### What is the value of a good idea?
 
-The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can execute and bring them to life.
+The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much.
+
+Instead of focusing on ideas, focus on transforming yourself into the kind of person who can execute and bring them to life.
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
@@ -69,21 +71,19 @@ The right idea not executed is worth nothing, but a mediocre one well executed c
 
 *'Not everything that counts can be counted, and not everything that can be counted counts.' -- Albert Einstein*
 
-Analysis is an art, not a science. To find deep truths intuition is better than statistics.
+*'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
 
-> *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
+Analysis is an art, not a science.
 
-> *'«Dictator's dilemma»: when the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
+> *'When the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
-And, as such, error-prone by bias.
+#### Hints on the art of analysis
+
+One of the great problems with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. We are biased. Everybody else is biased.
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.' -- Marcus Aurelius*
 
 > *'What Susie says of Sally says more about Susie than of Sally.'*
-
-> *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
-
-> *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
 
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 
@@ -95,11 +95,36 @@ And, as such, error-prone by bias.
 
 > *'We don't look at what we look, but at what we are.' -- Fernando Pessoa*
 
+> *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
+
+> *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
+
+Be specially careful with confirmation bias. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. 
+Too much info is the main cause of it: you'll always find confirmation to your pre-existing beliefs.
+
+> *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
+
+> *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
+
+> *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do. ' -- Chalie Munger*
+
 > *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
 
-One of the great problems with filters is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
+> *'That's the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
 
-Be specially careful when facing new ideas. Too much info is also prone to bias: you'll always find confirmation to your pre-existing beliefs.
+<!--
+- best way to deal with confirmation bias: You need to search out disconfirming evidence.
+- confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
+
+Two people with opposing views on a topic can see the same evidence, and still come away both validated by it
+We can be cautious of data which seems to immediately support our views.The desire to be right is the thirst for truth.
+Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts.
+This saves the time needed to make decisions, in particular when under pressure.
+
+Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
+-->
+
+And when facing new ideas.
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
@@ -109,35 +134,23 @@ Be specially careful when facing new ideas. Too much info is also prone to bias:
 
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
 
-- Randomness: most facts are a «tell» but some are just random.
-
-> *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
-
-- [Being deceived](#on-deceiving).
-
-> *'Don't tell me what you value. Show me your budget, and I'll tell you what you value.' -- Joe Biden quoting his father*
-
-Hints on the art of analysis:
+> *'The truth is rarely pure and never simple.' -- Oscar Wilde*
 
 - Pay attention to negative cues: what should have happened but did not.  
 - «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
 - We always think that the people who agree with us are really smart.  
 - Skepticism is a great servant and a terrible master.  
-- Sometimes we know that A+B=C but we don’t realize that A=C-B
+- Sometimes we know that A+B=C but we don’t realize that A=C-B  
+- Randomness: most facts are a «tell» but some are just random.
+
+> *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
 > *'Look for something that doesn't make sense. That's where the gold mine is: «It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
-'look for the obvious: «Do you want to be a writer? You should have something to say.»'  
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 > *'The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches).' -- Paul Graham*
 
-> *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do. ' -- Chalie Munger*
-
-> *'The truth is rarely pure and never simple.' -- Oscar Wilde*
-
 > *'When a measure becomes a target, it ceases to be a good measure.' -- Goodhart's Law*
-
-> *'That's the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
 
 > *'That which can be asserted without evidence, can be dismissed without evidence.' -- Christopher Hitchens*
 
@@ -148,6 +161,8 @@ Hints on the art of analysis:
 #### How to judge a man?
 
 Society judges people by what they can do for others. But we judge ourselves by our thoughts.
+
+Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
 
 > *'Judge a man by his questions, not by his answers.' -- Voltaire*
 
@@ -174,16 +189,6 @@ tese antitheses -> syntesis
 - Ask yourself “does this decision require fast or slow thinking?” 
 - Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
 Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.
-- best way to deal with confirmation bias: You need to search out disconfirming evidence.
-- confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
-
-Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas.
-Two people with opposing views on a topic can see the same evidence, and still come away both validated by it
-We can be cautious of data which seems to immediately support our views.The desire to be right is the thirst for truth.
-Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts.
-This saves the time needed to make decisions, in particular when under pressure.
-
-Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
 
 The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
 
@@ -197,14 +202,6 @@ What’s your advantage: informational, analytical, or behavioral?
 
 Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
 
-Yes, you should have a strong, crystal clear vision and end game, but you must be flexible about how you achieve that vision.
-
-rational and irrational players
-
-Key variables that you need to maximize and minimize, and follow the agile path blazed by Henry Singleton (My only plan is to keep coming to work. … I like to steer the boat each day rather than plan ahead way into the future.)
-
-Knowing what you want is not enough, you must have a very clear blueprint for the specific actions you are going to take in order to achieve your end game
-
 Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 (under ideal conditions everybody is a genious)
 
@@ -212,11 +209,7 @@ Everybody is a genious but if you judge a fish by its ability to climb a tree, i
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
 
-Lewis Carroll stated “we are what we believe we are”, but it seems that the world is also what we believe it to be.
-
 - The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him. Much of this is the result of our need for cognitive consistency. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
-
-> *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
 
 - You need to search out disconfirming evidence.
 - fascinated by models. how the invisible afects the visible
@@ -226,7 +219,6 @@ As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Gode
 
 Truth in stereotypes there'es truth on GROUP opinions. Steryotypes are the falsy _group_ opinions that account for a small amout. groups opinios self correct themselves.
 
-Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
 - There’s always a good reason and a real reason.
 -->
 
@@ -298,12 +290,10 @@ better slow down the decision-making process and ensure that we consider ample i
 
 Decision-making heuristics to remove the need for deliberation in particular situations:
 
-- Default to no (steve jobs)
-- Hell yes or no (derek sivers)
-- No to any decision that requires a calculator or computer (Warren Buffett)
-- Reversible or irreversible decision (jeff bezos)
-
-> *'Hell yes or no.' -- Derek Sivers*
+- Default to no (Steve Jobs).
+- 'Hell yes or no' (Derek Sivers).
+- No to any decision that requires a calculator or computer (Warren Buffett).
+- Reversible or irreversible decision. (Jeff Bezos).
 
 > *'My brother says to never make a big decision before you take a shower.'*
 
@@ -312,8 +302,6 @@ However some people get paralyzed by [over thinking](#on-starting-and-timing). I
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 > *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
-
-This is why research in rapid cognition says that we make our decisions intuitively most of the time. It’s like buying a house. You make a list of all the things you want, and then usually it comes to down a feeling: «I don’t know why, but I just like this one».
 
 Mental models are decision making helpers.
 
@@ -412,7 +400,7 @@ When you construct a model you leave out all the details which you, with the kno
 
 Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad
 
-Occam’s razor states that the simplest solution is usually correct
+Occam’s razor states that the simplest solution is usually correct.
 
 > *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
@@ -538,34 +526,31 @@ Just start. Stop making resolutions and start making something.
 
 > *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
 
+> *'Do not wait to strike till the iron is hot; but make it hot by striking.' -- Yeats*
+
 > *'Start where you are. Use what you have. Do what you can.' -- Arthur Ashe*
 
 Why people procrastinate?
 
 - [Perfectionism](chapter_1_self.md#on-perfectionism)  
 - Fear (of change). Procrastination is deeply tied to anxiety.  
-- Lack of urgency / deadlines (the panic monster) Pressed by circumstances, we feel unusually energized and focused.  
-- No inspiration or opportunities -- the inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.  
-- no preparation. you can learn while you do it.  
+- Lack of urgency / deadlines (the panic monster). Pressed by circumstances, we feel unusually energized and focused. What gets measured gets done. 
+- No inspiration. The inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.  
+- No opportunities. When hope disappears, so does action.
+- No preparation. You can learn while you do it.  
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
-> *'We distract ourselves because we are not willing to face up with what bothers us.'*
-
-> *'When hope disappears, so does action'*
-
-> *'What gets measured gets done.'*
+> *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 <!--
-> *'If opportunity doesn't knock, build a door.' -- Milton Berle*
+We distract ourselves because we are not willing to face up with what bothers us.
 
 1) Protect your time like your money.
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 	
 - what's the next action >> if u dont know think what's the next project -- gtd guy
 - inspiration is for amateurs -- picasso??
-
-> *'It is not enough to know, we must also apply; it is not enough to will, we must also do.' -- Goethe*
 
 - Major epiphany: Energy creates motion, motion creates emotions, and women are highly emotional beings.
 - Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
@@ -588,14 +573,9 @@ causes a big difference in where they end up, and there is
 feedback, so that what a system does affects its own behavior.”
 -- John Gribbin, Deep Simplicity
 
-your feelings don’t mean shit. It’s only your actions.
+research is not doing something! Knowledge is Never the Issue, action is.
 
 If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal. -- Bruce Lee
-
-research is not doing something!
-define milestones to know when to stop your research
-
-[Knowledge is Never the Issue, action is]
 
 Forget All About Doing Good Work and Focus on Great Work
 Good work, on the other hand, is an innocuous killer of greatness.
@@ -625,13 +605,8 @@ If they really wanted to do it, they would have done it.
 I had been fooling myself for years, telling myself I wanted to do this, but my actions prove otherwise.
 keep earning your title, or it expires”.
 
-It's a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn't like ot climb much. I just liked to imagine the summit.
-
 One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
 In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
-
-If You Aren’t Happy on the Journey You Won’t Be Happy at the Destination
-If you cannot learn to be happy while you are building your business, you will not be happy when you sell it for $10 million.
 
 I love how the '80/20' rule gets stretched so often that in this article it talks about hyperdominate trees that take up 50% of the Amazon. So 80/20 can go anywhere form 99/1 to 50/50. What an interesting 'pattern'.
 
@@ -671,8 +646,6 @@ Ideally, the 'captain' would remain technical, and fight the war against complex
 productivity methods dont bnecessarily add value to your career. making stuff that others can't do
 But in order to build an awesome career doing hard but satisfying long-term work, you need to build your ability to focus for hours at a time. You need to learn hard skills. You need to let go of multitasking, distraction, and the temptation to be “busy.
 
-“People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.”
-
 The key take-aways from the Pyramid Principle at McKinsey were:
 - Start with the answer first.
 - Group and summarize your supporting arguments.
@@ -704,16 +677,10 @@ KonMari Method -> Marie kondo, perita em arrumação
 > *'Action expresses priorities.' -- Ghandi*
 > *'You must think like a man of action, and act like a man of thought.'*
 > *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
-> *'Do not wait to strike till the iron is hot; but make it hot by striking.' -- Yeats*
+> *'Enter action with boldness.'*
 -->
 
-Timing is important.
-
-> *'Enter action with boldness.'*
-
-'Master the art of timing' -- Robert Greene (28th and 35th law of power)*
-
-However don't wait for the [perfect occasion](), a good occasion is a safer bet.  
+Timing is important. However don't wait for the [perfect occasion](), a good occasion is a safer bet.  
 You will languish if you stop for a long time. Paralysis is worse than bad timing.
 
 > *'The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing.' -- Winston Churchill*
@@ -788,11 +755,9 @@ chess gambits -- exchange material by position-time.
 ---
 ### On focus, priorities and productivity
 
-*'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy.  
-Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
+*'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
 
-Time itself is not your limitation: attention is. You’re always managing attention, not time.
-Focusing is an art.
+Focusing is an art. Time itself is not your limitation: attention is. You’re always managing attention, not time.
 
 > *'Busy imply out of control. lack of time is lack of priorities.'*
 
@@ -911,8 +876,7 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 *'You can lead a horse to water but you can’t make him drink.'* 
 
-Control what you can: [what you’re primed by](), [who you are around](), the ideas and problems you [focus]() on.  
-Ignore the rest.
+Control what you can: [what you’re primed by](), [who you are around](), the ideas and problems you [focus]() on. Ignore the rest.
 
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti (F1 pilot)*
 

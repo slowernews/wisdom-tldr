@@ -83,6 +83,7 @@ Act, be patient and break long term goals into smaller ones so you can enjoy the
 
 <!--
 “The rise is always better than the peak.” -- Jim Jefferies
+It's a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn't like ot climb much. I just liked to imagine the summit.
 
 It’s quite liberating to understand reality as a construction.  
 High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
@@ -102,4 +103,7 @@ High expectations make you miserable, expectations nowadays are more and more tr
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.'*
 > *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
 {{fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto}}
+
+If You Aren’t Happy on the Journey You Won’t Be Happy at the Destination
+If you cannot learn to be happy while you are building your business, you will not be happy when you sell it for $10 million.
 -->
