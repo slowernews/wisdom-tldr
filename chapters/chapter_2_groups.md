@@ -204,6 +204,18 @@ Patterns on successful *wannapreneurs*.
 > *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 <!--
+Judgement requires experience, but can be built faster by learning foundational skills.
+There is no skill called “business.” Avoid business magazines and business classes.
+Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
+Reading is faster than listening. Doing is faster than watching.
+You should be too busy to “do coffee" while still keeping an uncluttered calendar.
+Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
+Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
+Become the best in the world at what you do. Keep redefining what you do until this is true.
+There are no get rich quick schemes. That's just someone else getting rich off you.
+Apply specific knowledge, with leverage, and eventually you will get what you deserve.
+When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
+	
 - a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
 
 - pro tip: Ask your current customers “What nearly stopped you buying from us?”
@@ -544,6 +556,7 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 > *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun'.' -- Groucho Marx*
 
 <!--
+, “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”- Jordan Peterson*
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 
 - Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.

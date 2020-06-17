@@ -23,9 +23,9 @@
 *On growth*
 - [On finding your path](/chapters/chapter_1_self.md#on-finding-your-path)
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
-- [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
+- [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 - [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 
 *On your worst enemy: yourself*
@@ -89,14 +89,14 @@
 - [On deceiving](/chapters/chapter_3_action.md#on-deceiving)
 - [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
 - [On mirroring](/chapters/chapter_3_action.md#on-mirroring)
-- [On opponents](/chapters/chapter_3_action.md#on-opponents)
+- [On opponents and allies](/chapters/chapter_3_action.md#on-opponents-and-allies)
 - [On defeating status quo](/chapters/chapter_3_action.md#on-defeating-status-quo)
 
 *On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)
+- [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)
 - [On forgiveness](/chapters/chapter_3_action.md#on-forgiveness)
-- [On winning](/chapters/chapter_3_action.md#on-winning)
 
 
 ### Appendix

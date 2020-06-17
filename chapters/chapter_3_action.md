@@ -77,8 +77,6 @@ Analysis is an art, not a science.
 
 > *'When the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
 
-#### Hints on the art of analysis
-
 One of the great problems with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. We are biased. Everybody else is biased.
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.' -- Marcus Aurelius*
@@ -135,6 +133,8 @@ And when facing new ideas.
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
 
 > *'The truth is rarely pure and never simple.' -- Oscar Wilde*
+
+#### Hints on the art of analysis
 
 - Pay attention to negative cues: what should have happened but did not.  
 - «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
@@ -902,12 +902,11 @@ Control what you can: [what you’re primed by](), [who you are around](), the i
 
 Life is a balancing act.
 
-The dose makes the poison: things in excess become their opposite.  
-The hardest skill is knowing when to stop.
+The dose makes the poison: things in excess become their opposite. The hardest skill is knowing when to stop.
+
+Most things are not binary.
 
 > *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
-
-> *'The hardest skill is knowing what could be simplified, and what's good enough.'*
 
 > *'Everything should be made as simple as possible, but not simpler.'*
 
@@ -915,13 +914,11 @@ The hardest skill is knowing when to stop.
 
 > *'A balance sheet must balance.'*
 
-> *'Most things are not binary.'*
-
 Balance is not about spending the same amount of time focused on every area of your life either. It's about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
 
-> *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.'*
+For a balanced life you need to draw a line. Most of us don't want to draw the line and they suffer the consequences.
 
-Diversification solves a lot of problems.
+> *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.'*
 
 #### How to balance an imbalance?
 
@@ -930,15 +927,12 @@ Overcompensate. Some people get passion from something they struggled with.
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
 <!--
-alguem mais loose q tu é um maluco, mais tight é um nhónhó
-	
-if you want to have a balance life you need to draw a line.
-if not this not leads to happiness, it leads to achievement.
-work/life balance.
-you have the option to work 24/7, with the 9to5 the option was made to you, now is more difficult and you need to draw a line.
-most of us don't want to draw the line and they suffer the consequences.
-
-self improvement as a limit: 20% will give 80% of results.
+- Diversification solves a lot of problems.
+- alguem mais loose q tu é um maluco, mais tight é um nhónhó
+- self improvement as a limit: 20% will give 80% of results.
+- Exponential growth devours and corrupts. There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
+- Disease of More.
+- The 80/20 Principle states that 80% of the output or results will come from 20% of the input or action.
 
 MM
 There are two approaches to improving yourself:
@@ -948,15 +942,7 @@ I would argue that self-help tourists are using self-improvement advice in a hea
 Where does it end? It doesn’t. At least not until you decide it does.
 Because the only way to truly benefit from self-improvement is to one day arrive at a place where you no longer need it. Like a cast for a broken arm. Or a bandage for a deep cut. You put it on, let it heal you. And then you take it off and move on with your life.
 
-The 80/20 Principle states that 80% of the output or results will come from 20% of the input or action.
-
 > *'Growth for growth’s sake is the ideology of the cancer cell.' -- Edward Abbey*
-
-Enough is the opposite of hunger. The counter to paranoia. The antidote to anxiety.
-
-Exponential growth devours and corrupts. There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
-
-Disease of More.
 -->
 
 
@@ -1028,63 +1014,45 @@ equipa que ganha, não se mexe
 
 ### On creating imbalances
 
+*'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
+
 Create imbalances in your target to create an advantage and raise chances of winning.  
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-charming). Some opponents may require special tools.
+
+> *'The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
+A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.' -- ?*
 
 > *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
 
 > *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
 
+> *'A strategy has a single, well defined focus.  
+A strategy lays out a path to be followed.  
+A strategy is made up of parts (tactics).  
+Each of a strategy’s parts pushes towards the defined focus.  
+A strategy is either intentionally formed or emerges naturally.' -- Geoffrey P. Chamberlain*
+
+> *'Shuai-Jan is a snake that is found in the Ch’ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both.' -- Sun Tzu (The Art of War)*
+
 HOWEVER... beware of counter-attacking.
 
 > *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
 
-> *'Whenever you find yourself on the defensive and in trouble, the greatest danger is the impulse to overreact.'*
-
 <!--
-> *'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
-
 - In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.
-
-play to win, not hoping to make it, or why are you doing it? committed to win
+- Divide and conquer.
 
 24. Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
-
 2. Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy. -- Balthasar Gracian
 
-divide and conquer
-
-> *'Moving first—initiating the attack—will often put you at a disadvantage: you are exposing your strategy and limiting your options.'*
-
-Divide and conquer it.
-
-1. You need to recognize when you're not learning, for one thing. If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
-2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
-3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
-4. Learn how to learn: https://www.youtube.com/watch?v=FKTxC9pl-WM
-5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
-
-The metagame is playing a different game than your competitors. A game they can't play.
+- The metagame is playing a different game than your competitors. A game they can't play.
 The metagame is this psychological game that exists among players, involving adjustments – adjustments based on how an opponent is likely to interpret a given set of actions. Better players adjust their strategies and styles to those of particular opponents, always analyzing how the opponents are playing in terms of how the opponents believe they're playing.
 Maintaining a well-balanced strategy, while deciphering your opponents' strategies, is the key to the metagame. If you comprehend the concept of the metagame, accurately perceive the flow of your table and then tournament, and stay alerted to and aware of current strategy trends, you'll be able to successfully mix up your play when considering your image and that of your opponents. In return, your game will be highly unpredictable and difficult to read, which should be your ultimate goal.
 Part of their greatness comes from identifying the constraints of others and capitalizing on those structural disadvantages.
 In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
 
-“The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
-A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.
-
-Geoffrey P. Chamberlain:
-A strategy has a single, well defined focus.
-A strategy lays out a path to be followed.
-A strategy is made up of parts (tactics).
-Each of a strategy’s parts pushes towards the defined focus.
-A strategy is either intentionally formed or emerges naturally.
-
 According to Rumelt, a strategy must include “premeditation, the anticipation of others’ behavior, and the purposeful design of coordinated actions. As a general rule, strategy is more important in situations where other parties have the potential to thwart or disrupt actions, or where our plans are at risk if we don’t take meaningful steps to achieve them. Good strategy requires us to both focus on a goal, and anticipate obstacles to reaching that goal.  When we encounter obstacles, we may need to employ what Freedman calls “deceits, ruses, feints, manoeuvres and a quicker wit”—our tactics.
-
-Shuai-Jan is a snake that is found in the Ch’ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both.”
-— Sun Tzu, The Art of War
 
 Sun Tzu, strategy is about winning before the battle begins, while tactics are about striking at weakness.
 -->
@@ -1095,37 +1063,25 @@ Sun Tzu, strategy is about winning before the battle begins, while tactics are a
 ---
 ### On leverage
 
+*'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
+
 Leverage is a force multiplier for your judgement.
 
-> *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
-
 > *'The greatest shortcoming of the human race is our inability to understand the exponential function.' -- Albert Allen Bartlett*
+
+> *'Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
+Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.
+Labor means people working for you. It's the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
+Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
+An army of robots is freely available - it's just packed in data centers for heat and space efficiency. Use it.
+If you can't code, write books and blogs, record videos and podcasts.'* 
 
 <!--
 on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone's needs and shrinking their ability, aided by envy and reciprocation effects.
 
 The power of compounding: you can achieve anything, if you stop trying to do everything.
-
-Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
-Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.
-Labor means people working for you. It's the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
-Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
-Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
-An army of robots is freely available - it's just packed in data centers for heat and space efficiency. Use it.
-If you can't code, write books and blogs, record videos and podcasts.
-
-Judgement requires experience, but can be built faster by learning foundational skills.
-There is no skill called “business.” Avoid business magazines and business classes.
-Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
-Reading is faster than listening. Doing is faster than watching.
-You should be too busy to “do coffee" while still keeping an uncluttered calendar.
-Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
-Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
-Become the best in the world at what you do. Keep redefining what you do until this is true.
-There are no get rich quick schemes. That's just someone else getting rich off you.
-Apply specific knowledge, with leverage, and eventually you will get what you deserve.
-When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
 
 Warnings: Finding Cassandras to Stop Catastrophes
 The “Cassandras” featured in R.P’s book are experts in their field. these people are data driven
@@ -1201,8 +1157,6 @@ If we play by the rules too strictly, if we take them too literally, we are crus
 
 > *'Appear weak when you are strong and strong when you are weak' -- Sun Tzu*
 
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
-
 > *'Court attention at all cost.'  
 'Play a sucker to catch a sucker: seem dumber than your mark.'  
 'Play to people’s fantasies.'  
@@ -1210,6 +1164,8 @@ If we play by the rules too strictly, if we take them too literally, we are crus
 'Stir up waters to catch fish.' -- Robert Greene (6th, 21st, 32nd, 37th and 39th law of power)*
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
+
+> *'One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted.' -- James Altucher*
 
 > *'The moment a magician says, «Now we begin» you’re already screwed!' -- Brian Brushwood*
 
@@ -1225,19 +1181,15 @@ However deceiving is not lying. Disappointment destroys trust.
 
 > *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
 
-> *'One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted.' -- James Altucher*
-
 <!--
+> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 > *'The underground of the city is like what's underground in people. Beneath the surface, it's boiling with monsters.' -- Guillermo del Toro*
-> *'If Socrates was right in saying that no one does wrong knowingly, someone who has caused you grief probably didn’t set out to do it on purpose.'*
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
 
-Clean players on shady markets usually don't do well on the long term.
-
+- Clean players on shady markets usually don't do well on the long term.
 - Bad liars should speak as little as possible.
 - if somebody asks for the evidence, normally he is lieing
-
-the good reason (the reason they tell you) and the real reason.
+- the good reason (the reason they tell you) and the real reason.
 -->
 
 
@@ -1286,10 +1238,11 @@ Cialdini moved from rejection to compliance after the boy had moved from a large
 
 
 ---
-### On opponents
+### On opponents and allies
 
-Beware of all players.  
-However there are people acting stupid. Easy wins if you can identify them.
+Beware of all players.
+
+People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage. No one will help you in a way that’s prejudicial to them.
 
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 
@@ -1299,13 +1252,17 @@ However there are people acting stupid. Easy wins if you can identify them.
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
 
-Easy players are often just [bait](#on-charming).
+#### On easy opponents
+
+Easy players are often just [bait](#on-charming). However there are people acting stupid. Easy wins if you can identify them.
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
 > *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
 
 > *'«El dorados» are never drawn in the map.'*
+
+#### On desperate opponents
 
 Desperate players will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
@@ -1317,7 +1274,9 @@ Desperate players will risk anything in a fight. This gives them a huge advantag
 
 > *'Our fearlessness shall be our secret weapon.' -- John Green*
 
- On difficult players, besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
+#### On difficult opponents
+
+Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
 
 > *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
 
@@ -1331,9 +1290,6 @@ Desperate players will risk anything in a fight. This gives them a huge advantag
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 <!--
-- Use anger only as a tool, when you need it to improve your situation.
-- no one will help you in a way that’s prejudicial to them.
-- People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage.
 - Nietszche says to measure one's strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
 -->
@@ -1344,10 +1300,9 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 ---
 ### On defeating status quo
 
-The only successful changes are those coming from within.
+*'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
 
-> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How?  
-Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
+The only successful changes are those coming from within.
 
 <!--
 burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
@@ -1361,26 +1316,56 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 ### On finishing
 
-Starting is fun but success belongs to finishers.  
-[Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often.
+*'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
-> *'Don't take a half step where a full step is required.'*
-
-> *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
-
-> *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
-
-> *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
+Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often.
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
-> *'When the end finally comes, it comes quickly.'*
+> *'Crush your enemy totally.' -- Robert Greene (15th law of power)*
 
-> *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
+> *'Ultimately the only peace and security you can hope for from your enemies is their disappearance.'*
 
 > *'You finished ahead of time, that means you forgot something.'*
 
 > *'Difficulties increase the nearer we come to our aim.' -- Goethe*
+
+> *'When the end finally comes, it comes quickly.'*
+
+
+
+
+---
+### On winning
+
+*'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
+
+*'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
+
+It's not just about winning. The way you win sets you up for the next round.
+
+> *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
+
+> *'Win through your actions, never through argument.'  
+'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
+
+> *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
+
+> *'You might be winning but you’re not growing, and growing might be the most important form of winning.' -- Jordan Peterson*
+
+> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
+
+> *'The destination is not the end of the road; it's just a stop along the way. An intersection to take you to your next destination.'*
+
+<!--
+> *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
+
+quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- sergio conceição
+
+tecnically win or fundamentally win
+
+winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy's resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it's only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it's a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
+-->
 
 
 
@@ -1424,38 +1409,3 @@ By refusing to forgive someone, we get to cast ourselves as victims, as underdog
 > *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
 
 > *'Life has become immeasurably better since I have been forced to stop taking it seriously.' -- Hunter S. Thompson*
-
-
-
-
----
-### On winning
-
-*'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
-
-It's not just about winning. The way you win sets you up for the next round.
-
-> *'Win through your actions, never through argument.'  
-'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
-
-> *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
-
-> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
-
-> *'The destination is not the end of the road; it's just a stop along the way. An intersection to take you to your next destination.'*
-
-> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
-
-> *'You might be winning but you’re not growing, and growing might be the most important form of winning.' -- Jordan Peterson*
-
-<!--
-, “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”, Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
-
-> *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
-
-quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- sergio conceição
-
-tecnically win or fundamentally win
-
-winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy's resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it's only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it's a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
--->

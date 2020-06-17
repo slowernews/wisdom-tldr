@@ -269,6 +269,8 @@ Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regre
 > *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
 
 <!--
+Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
+
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
 - There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
@@ -423,125 +425,6 @@ But the problem with this philosophy is that no great work ever came from comfor
 
 
 
----
-### On habits and systems
-
-*'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
-
-Consistency doesn’t come from effort, it comes from systems. Decisions compound. The pathway to freedom is discipline.
-
-> *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
-
-> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
-
-> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
-
-> *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
-
-> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
-
-> *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
-
-#### How to create new habits?
-
-- Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
-- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
-- Get accountable: Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.  
-- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
-- Focus on the costs of bad habits.
-
-Hints on good habits:
-
-- Cultivate high leverage habits: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
-- Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
-- Mental checklist of positive habits.
-- Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
-- It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.
-
-However variety and novelty are also important, so [Balance](#on-balance) it.
-
-<!--
-“People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.”
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-
-Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
-
-Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
-
-Here are a few snippets from my own annual review:
-GOOD:
-Health & Fitness: I was consistent with my training regimen and I’m in the best shape of my life. I ride my bike daily and now follow a diet that is heavy in healthy fruits and vegetables and very low in meat (still love steak!). I’ve also completed my third year of daily cold showers.
-Business & Career: 2017 was a record year for me. My company broke 7-figures, I expanded my team to 12 highly talented people, my podcast has grown to 4.5 million downloads and my books and courses are selling more than ever before.
-Finances: This has been my best year financially, I no longer have to worry about bills or look at my bank account when I want to buy something. However, I keep a minimalist approach to my life so I rarely spend money on “things” and instead invest in my team, friends, and family.
-Relationships: I dramatically improved my networking and social circle in 2017 and have enjoyed a great romantic relationship. I’m learning a lot, growing, and getting outside of my comfort zone on a daily basis.
-Personal Growth: In 2017, I gained massive clarity on who I am and what I want out of life. I no longer suffer from “Guru” worship and have found a way to tailor personal growth to my life in a way that brings me more joy and fulfillment. (Goodbye “Crush it work 18 hours a day!” mentality)
-BAD:
-Health & Fitness: The main issue with my health and fitness in 2017 was chronic pelvic and knee pain which reduces overall quality of life. And, as I’ve expanded my network and social circle, I’ve allowed my social drinking to increase in the past few months.
-Business & Career: Even though 2017 was a great year, Knowledge for Men did experience some growing pains. Early in the year, I didn’t focus heavily enough on creating systems to successfully scale the coaching side of my business and ended up overextending myself as a result. I also didn’t focus on scalable assets like books and online courses. Also an employee of mine flooded my office by accident which cost me nearly $25k in damages to the structure of the building.
-Finances: Although I made plenty of money in 2017, I didn’t do very well investing that money into long-term cash flow producing assets. I’ve also struggled to keep up with taxes as my income has increased.
-Relationships: Although my relationship is great, I’m still working on improving my communication with my partner so that I can show up as authentically and honestly as possible. I’ve also struggled to keep up with old friends while expanding my social circle.
-Personal Growth: 2017 was the first year in nearly a decade where I didn’t do much reading. I used to read 2-3 books a month and this year I read maybe 5 books total. I also stayed very close to San Diego for the entire year and didn’t travel the way that I wanted too.
-	
-Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
-
-{{link to planning: habits are plans}}
-
-Srinivas recommends that you also write 1000 words every morning before you do anything else.
-
-Focus on Building Systems
-
-Why You Should Record Your Conversations with Strangers
-
-99. See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
-
-Ask yourself for advice.
-
-more mindful -> meditation
-
-Learn how to say no, or not to say yes
-
-Focus on Showing Up not Achieving Goals 
-
-1) Invest in long-term wellbeing
-a. Physical health:
-b. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation.
-c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
-d. Gratitude
-
-don't focus in productivity.
-productivity coach vs creativity coach.
-i hired a 23 year old coach.
-optimize for time and peace of mind.
-
-when you wake up, ensure that your morning is run by systems instead of feelings.«
-look at situations as systems. i help to create systems.
-This is because our minds are essentially accumulations of habits.
-
-fixing bad habits?
-Kill Bad Habits With Mindfulness. Pay attention. Don’t judge
-RAIN: Recognize, Accept, Investigate, Note
-
-First forget inspiration.
-Habit is more dependable.
-Habit will sustain you whether you're inspired or not.
-Habit is persistence in practice.” — Octavia Butler
-
-The Benefits of Habits
-Habits can mean we overshoot our goals.
-Habits are easy to complete.
-Habits are for life.
-Habits can compound.
-Habits can be as small as necessary
-Nothing will change your future trajectory like habits
-
-Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things. -- Charles Duhigg wrote in The Power of Habit
-
-> *'Pain plus reflection equals progress.' -- Ray Dalio*
--->
-
-
-
 
 ---
 ### On improving
@@ -551,6 +434,12 @@ Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms o
 Most problems can be solved by graded exposure over time. Make the mind tougher by exposing it to adversity.
 
 <!--
+1. You need to recognize when you're not learning, for one thing. If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
+2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
+3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
+4. Learn how to learn: https://www.youtube.com/watch?v=FKTxC9pl-WM
+5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
+
 > *'#383. Every man hears only what he understands.' -- goethe*
 - entry trick to learn something.
 - success is the worst teacher
@@ -907,6 +796,126 @@ However mastery is an important trigger of arrogance. There's always room for im
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.' -- Robert Greene*  
 
 > *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
+
+
+
+
+---
+### On habits and systems
+
+*'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
+
+Consistency doesn’t come from effort, it comes from systems. Decisions compound. The pathway to freedom is discipline.
+
+> *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
+
+> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
+
+> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
+
+> *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
+
+> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
+
+> *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
+
+#### How to create new habits?
+
+- Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
+- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
+- Get accountable: Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.  
+- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
+- Focus on the costs of bad habits.
+
+Hints on good habits:
+
+- Cultivate high leverage habits: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
+- Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
+- Mental checklist of positive habits.
+- Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
+- It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.
+
+However variety and novelty are also important, so [Balance](#on-balance) it.
+
+<!--
+“People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.”
+
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+
+Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
+
+Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
+
+Here are a few snippets from my own annual review:
+GOOD:
+Health & Fitness: I was consistent with my training regimen and I’m in the best shape of my life. I ride my bike daily and now follow a diet that is heavy in healthy fruits and vegetables and very low in meat (still love steak!). I’ve also completed my third year of daily cold showers.
+Business & Career: 2017 was a record year for me. My company broke 7-figures, I expanded my team to 12 highly talented people, my podcast has grown to 4.5 million downloads and my books and courses are selling more than ever before.
+Finances: This has been my best year financially, I no longer have to worry about bills or look at my bank account when I want to buy something. However, I keep a minimalist approach to my life so I rarely spend money on “things” and instead invest in my team, friends, and family.
+Relationships: I dramatically improved my networking and social circle in 2017 and have enjoyed a great romantic relationship. I’m learning a lot, growing, and getting outside of my comfort zone on a daily basis.
+Personal Growth: In 2017, I gained massive clarity on who I am and what I want out of life. I no longer suffer from “Guru” worship and have found a way to tailor personal growth to my life in a way that brings me more joy and fulfillment. (Goodbye “Crush it work 18 hours a day!” mentality)
+BAD:
+Health & Fitness: The main issue with my health and fitness in 2017 was chronic pelvic and knee pain which reduces overall quality of life. And, as I’ve expanded my network and social circle, I’ve allowed my social drinking to increase in the past few months.
+Business & Career: Even though 2017 was a great year, Knowledge for Men did experience some growing pains. Early in the year, I didn’t focus heavily enough on creating systems to successfully scale the coaching side of my business and ended up overextending myself as a result. I also didn’t focus on scalable assets like books and online courses. Also an employee of mine flooded my office by accident which cost me nearly $25k in damages to the structure of the building.
+Finances: Although I made plenty of money in 2017, I didn’t do very well investing that money into long-term cash flow producing assets. I’ve also struggled to keep up with taxes as my income has increased.
+Relationships: Although my relationship is great, I’m still working on improving my communication with my partner so that I can show up as authentically and honestly as possible. I’ve also struggled to keep up with old friends while expanding my social circle.
+Personal Growth: 2017 was the first year in nearly a decade where I didn’t do much reading. I used to read 2-3 books a month and this year I read maybe 5 books total. I also stayed very close to San Diego for the entire year and didn’t travel the way that I wanted too.
+	
+Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
+
+{{link to planning: habits are plans}}
+
+Srinivas recommends that you also write 1000 words every morning before you do anything else.
+
+Focus on Building Systems
+
+Why You Should Record Your Conversations with Strangers
+
+99. See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
+
+Ask yourself for advice.
+
+more mindful -> meditation
+
+Learn how to say no, or not to say yes
+
+Focus on Showing Up not Achieving Goals 
+
+1) Invest in long-term wellbeing
+a. Physical health:
+b. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation.
+c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
+d. Gratitude
+
+don't focus in productivity.
+productivity coach vs creativity coach.
+i hired a 23 year old coach.
+optimize for time and peace of mind.
+
+when you wake up, ensure that your morning is run by systems instead of feelings.«
+look at situations as systems. i help to create systems.
+This is because our minds are essentially accumulations of habits.
+
+fixing bad habits?
+Kill Bad Habits With Mindfulness. Pay attention. Don’t judge
+RAIN: Recognize, Accept, Investigate, Note
+
+First forget inspiration.
+Habit is more dependable.
+Habit will sustain you whether you're inspired or not.
+Habit is persistence in practice.” — Octavia Butler
+
+The Benefits of Habits
+Habits can mean we overshoot our goals.
+Habits are easy to complete.
+Habits are for life.
+Habits can compound.
+Habits can be as small as necessary
+Nothing will change your future trajectory like habits
+
+Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things. -- Charles Duhigg wrote in The Power of Habit
+
+> *'Pain plus reflection equals progress.' -- Ray Dalio*
+-->
 
 
 
@@ -1316,8 +1325,6 @@ fear that you are not good enough: that you will never find a woman as good as y
 
 *'The perfect is the enemy of the good.' -- Voltaire*
 
-*'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
-
 Strive for excellence, not for perfection. From good enough you can derive success.  
 Try to see yourself as a doist, not a perfectionist. This is liberating.
 
@@ -1329,10 +1336,18 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
 
-#### What is perfectionism?
+#### What is perfection?
 
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
 <!--
 > *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
 -->
+
+
+
+
+---
+### On procrastination
+
+*'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*

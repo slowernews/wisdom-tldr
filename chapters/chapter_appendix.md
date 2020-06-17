@@ -119,9 +119,9 @@ However don't obcess on that. You can't control the future.
 ---
 ### On growing old
 
-> *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
+*'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
-We don’t stop playing because we grow old; we grow old because we stop playing.
+> *'We don’t stop playing because we grow old; we grow old because we stop playing.' -- George bernard Shaw*
 
 > *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
 
