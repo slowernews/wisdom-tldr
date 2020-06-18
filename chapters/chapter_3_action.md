@@ -173,13 +173,11 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 A fundamentalist gives answers, a scholar gives questions.
 > *'To understand is to know what to do.' -- Wittgenstein*
 > *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
+> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
 
-E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
-
+- E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
 - Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
-
-tese antitheses -> syntesis
-
+- tese antitheses -> syntesis
 - reasoning by first principles and reasoning by analogy. correlations is not causation
 - There is too much going on – too many decisions and interactions happening in every moment – for us to be able to conclude cause and effect with any certainty.
 - aditional information only feeds your confirmation bias
@@ -187,36 +185,21 @@ tese antitheses -> syntesis
 - Ask yourself “does this decision require fast or slow thinking?” 
 - Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
 Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.
-
-The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
-
-What’s your advantage: informational, analytical, or behavioral?
-	
+- The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
+- What’s your advantage: informational, analytical, or behavioral?	
 - not playing your hand but playing your opponent.
-
 - The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
-
-- scheduling free time can make it feel like chores
-
-Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
-
-Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
+- Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
+- Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 (under ideal conditions everybody is a genious)
-
-- um texto historico é biased/shortsighted mais que um gráfico historico onde cada um tira as suas comclusoes.
-
-> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
-
 - The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him. Much of this is the result of our need for cognitive consistency. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
-
 - You need to search out disconfirming evidence.
 - fascinated by models. how the invisible afects the visible
 - you're always looking to patterns of differences! pattern recognition
-
-As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth. Our knowing minds are not embedded in truth. Rather, the entire notion of truth is embedded in our minds, which are themselves the unwitting lackeys of organizational forms of influence.
-
-Truth in stereotypes there'es truth on GROUP opinions. Steryotypes are the falsy _group_ opinions that account for a small amout. groups opinios self correct themselves.
-
+- um texto historico é biased/shortsighted mais que um gráfico historico onde cada um tira as suas comclusoes.
+- scheduling free time can make it feel like chores
+- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth. Our knowing minds are not embedded in truth. Rather, the entire notion of truth is embedded in our minds, which are themselves the unwitting lackeys of organizational forms of influence.
+- Truth in stereotypes there'es truth on GROUP opinions. Steryotypes are the falsy _group_ opinions that account for a small amout. groups opinios self correct themselves.
 - There’s always a good reason and a real reason.
 -->
 
@@ -273,6 +256,7 @@ stick to the plan. poople sabotage their one plans when it get tedious or too di
 
 
 
+---
 ### On decision making
 
 *'A well defined problem seeks its own solution' -- Mike Brundant*
@@ -350,7 +334,6 @@ MENTAL MODELS:
 
 - With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
 As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
-
 - plan ahead plannin 20% action 80%?
 - in most knowledge organizations, your product is decisions. you are evaluated by yours
 > *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
@@ -368,19 +351,17 @@ What is believability?
 find 3 people that high expertise but that they discord and listen. take your conclusions
 -->
 
-- If you don't understand the limitations of the model, you don't understand the model.  
-- Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.  
-- A model is a simplification which fosters understanding. The wrong way to understand models: Too literally.  
-- Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
+If you don't understand the limitations of the model, you don't understand the model. All models are wrong; the practical question is how wrong do they have to be to not be useful. A model is a simplification which fosters understanding. The wrong way to understand models: Too literally.  
 
-Georg Rasch said the following:
-When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential…. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.
+Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
+
+> *'When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.' -- Georg Rasch*
 
 > *'Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
 
-> *'The basic trouble, you see, is that people think that “right” and “wrong” are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
+> *'The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
 
-Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad
+Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad.
 
 Occam’s razor states that the simplest solution is usually correct.
 
@@ -390,23 +371,11 @@ As we know, the map is not the territory. A map can be seen as a symbol or index
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
 
-Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way.
-
-The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge “set”.
+Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way. The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge «set».
 
 > *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
 
-Too many people are caught up wasting time on physics-like precision in areas of practical life that do not have such precision available. A better approach is to ask “is it useful?” and, if yes, “To what extent?”
-
-Mental models are a way of thinking about the world that prepares us to make good decisions in the first place.
-
-The critical point for any innovation is the transition from the early adapters to the sceptics, for at this point there is a ‘chasm'.
-
-> *'When enough people (a critical mass) think about and truly consider the plausibility of a concept, it becomes reality.' -- Joseph Duda*
-
 <!--
-His hypothesis was that white families had different levels of tolerance for the number of people of racial minorities in their neighborhoods. Some white families were completely racist; others were not concerned with the race of their neighbors. As increasing numbers of racial minorities moved into neighborhoods, the most racist people would soon leave. Then a tipping point would occur — a critical mass of white people would leave until the area was populated by racial minorities. This phenomenon became known as “white flight
-
 Critical Mass in Psychology
 Psychologists have known for a long time that groups of people behave differently than individuals.
 Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. (An interesting detail is that mob psychology is one of the few branches of psychology which does not concern individuals.) As a general rule, the larger the crowd, the less responsibility people have for their behaviour. (This is also why individuals and not groups should make decisions.)
@@ -419,7 +388,6 @@ The Problems With Goals:
 -Goals have an enndpoint
 -Goals rely on factors which we do not always have control over.
 -Goals rely on willpower and self-discipline.
--Keeping a goal in mind and using it to direct our actions requires constant willpower.
 -Goals can make us complacent or reckless.
 
 even the best and most useful maps suffer from limitations, and Korzybski gives us a few to explore: (A.) The map could be incorrect without us realizing it; (B.) The map is, by necessity, a reduction of the actual thing, a process in which you lose certain important information; and (C.) A map needs interpretation, a process that can cause major errors. (The only way to truly solve the last would be an endless chain of maps-of-maps, which he called self-reflexiveness.)
@@ -432,51 +400,22 @@ Wisdom and Circle of Competence
 “People are trying to be smart—all I am trying to do is not to be idiotic, but it’s harder than most people think.”
 “It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”
 
-Map and Terrain
-“At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information.”
+> *'At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information' -- Charlie Munger*
 
-Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong). Scrap it, isolate the 
+Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong).
 
 “Know the big ideas in the big disciplines and use them routinely-- all of them, not just a few.”
 
-you don't win by predicting the future; you win by getting the odds right. You can be right about the future and still not make any money. At the racetrack, for example, the favorite horse may be the one most likely to win, but since everyone wants to bet on the favorite, how likely is it that betting on the favorite will make you money? The horse to bet on is the one more likely to win than most people expect. That's the one that gives you the best odds. That's the bet that pays off over time. -- will bonner
-
-The ability to destroy your ideas rapidly instead of slowly when the occasion is right is one of the most valuable things.
-
-As Rabbi Moses ben Maimon (1135-1204), commonly known as Maimonides, said: “Teach thy tongue to say I do not know, and thou shalt progress.”
-Great thinkers, like Darwin, did the work necessary to hold an opinion. And it's one of the biggest reasons he's buried at Westminster Abbey. Doing the work counteracts our natural desire seek out only information that confirms what we believe we know.
-
-Most of the time people don't put us to the test. When they do, the results don't match our confidence.
+you don't win by predicting the future; you win by getting the odds right. -- will bonner
 
 If you want to win an argument, ask the person trying to convince you of something to explain how it would work.
 Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
 
-D: Define the problem simply.
-A: Assess the impact.
-N: Name the underlying dynamic.
-C: Create the smallest next step you can.
-E: Establish personal accountability.
-
-Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
-
-too familiar -- too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
-
-Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
-too familiar -- too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
-Always assume that you’re wrong from a purely philosophical point of view. We are always wrong about whatever we believe. Knowledge is always moving forward, and if you think about things you used to believe 10 years ago or five years ago, it embarrasses you now. And the things that you hold dear and hold to be true today are likely going to embarrass you in 10 or 20 years from now. 
-
-Make decisions about what you want to do ideally on the front end rather than tracking what you do on the back end. Planning a diet vs. recording a diet. Making decisions under stress vs making decisions when relaxed and clear headed.
-
 we think we make choices but our choices are affected by others. (ex of naming a child)
 people pick what is familiar. people are influenced without us realizing.
-working class want to feel the same as others.
-white collar want to feel different from others.
+working class want to feel the same as others. white collar want to feel different from others.
 
 decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
-
-Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success.
-You must know exactly what you want, when you want it, and why you want it.
-Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
@@ -515,7 +454,7 @@ Just start. Stop making resolutions and start making something.
 
 > *'Start where you are. Use what you have. Do what you can.' -- Arthur Ashe*
 
-Why people procrastinate?
+#### Why people procrastinate?
 
 - [Perfectionism](chapter_1_self.md#on-perfectionism). You fear releasing something unimportant, so you don’t release anything at all.  
 - Fear (of change). Procrastination is deeply tied to anxiety. We distract ourselves because we are not willing to face up with what bothers us.  
@@ -523,8 +462,6 @@ Why people procrastinate?
 - No inspiration. The inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation. Inspiration is for amateurs.
 - No opportunities. When hope disappears, so does action.
 - No preparation. You can learn while you do it.  
-
-At some point, the pain of not doing it becomes greater than the pain of doing it.
 
 > *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
 
@@ -535,6 +472,8 @@ At some point, the pain of not doing it becomes greater than the pain of doing i
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 <!--
+At some point, the pain of not doing it becomes greater than the pain of doing it
+
 1) Protect your time like your money.
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 	

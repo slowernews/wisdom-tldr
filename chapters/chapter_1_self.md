@@ -359,6 +359,10 @@ Most of the entrepreneurs I know love what they do, but they do not love it beca
 So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.
 challenge Because that is where you will find true fulfillment and satisfaction.
 Create Projects, Not Goals
+
+Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success.
+You must know exactly what you want, when you want it, and why you want it.
+Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
 -->
 
 
