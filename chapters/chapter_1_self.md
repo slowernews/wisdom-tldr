@@ -1307,11 +1307,10 @@ However your level of success will seldom exceed your level of personal developm
 #### How to break through your plateaus?
 
 - On a plateau take a step back.  
-- Break down your dreams/goals into achievable steps.
+- Break down your dreams/goals into achievable steps.  
+- Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation.
 
 <!--
-- Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. - what does motivate you? a pica!
-
 - The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
 
 fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
@@ -1341,13 +1340,5 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
 <!--
-> *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
+Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
 -->
-
-
-
-
----
-### On procrastination
-
-*'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*

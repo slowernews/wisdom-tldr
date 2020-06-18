@@ -38,8 +38,9 @@ How memory works? Hints:
 - People forget future events more than past events.  
 - People remember more the beginning and the end of something.  
 - Either I forget right away or I never forget.  
-- Repetition is good for memory but its a thin line between repetition and getting annoyed.
-- You should take pictures from what you forget and not of things you don't.
+- Repetition is good for memory but its a thin line between repetition and getting annoyed.  
+- You should take pictures from what you forget and not of things you don't.  
+- Bad decisions, good memories.
 
 > *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy*
 
@@ -805,6 +806,10 @@ Chicks dig a man who exhibits grace under pressure.
 > *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
 
 > *'Why are women... so much more interesting to men than men are to women?' -- Virginia Woolf*
+
+<!--
+- Major epiphany: Energy creates motion, motion creates emotions, and women are highly emotional beings.
+-->
 
 
 

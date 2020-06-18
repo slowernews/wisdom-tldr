@@ -59,10 +59,6 @@ Instead of focusing on ideas, focus on transforming yourself into the kind of pe
 - Best ideas come from the market, not from you.  
 - Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
 
-<!--
-> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
--->
-
 
 
 
@@ -97,7 +93,7 @@ One of the great problems with analysis is our human tendency to think that what
 
 > *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
 
-Be specially careful with confirmation bias. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. 
+Be specially careful with *confirmation bias*. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. 
 Too much info is the main cause of it: you'll always find confirmation to your pre-existing beliefs.
 
 > *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
@@ -111,6 +107,7 @@ Too much info is the main cause of it: you'll always find confirmation to your p
 > *'That's the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
 
 <!--
+- How can we overcome complexity bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
 - best way to deal with confirmation bias: You need to search out disconfirming evidence.
 - confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
 
@@ -173,6 +170,7 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 > *'Whenever you feel like criticizing any one... just remember that all the people in this world haven't had the advantages that you've had.' -- F. Scott Fitzgerald*
 
 <!--
+A fundamentalist gives answers, a scholar gives questions.
 > *'To understand is to know what to do.' -- Wittgenstein*
 > *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
 
@@ -277,31 +275,29 @@ stick to the plan. poople sabotage their one plans when it get tedious or too di
 
 ### On decision making
 
-*'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
-
 *'A well defined problem seeks its own solution' -- Mike Brundant*
 
 *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
 
-The ability to make fast decisions is a competitive advantage. How to decide?
+*'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
+
+The ability to make fast decisions is a competitive advantage.
+
+#### How to decide?
+
+Decision-making heuristics to remove the need for deliberation:
  
 - Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we had 
-better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can.
-
-Decision-making heuristics to remove the need for deliberation in particular situations:
-
+better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)  
+- 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
+- No to any decision that requires a calculator or computer. (Warren Buffett)  
 - Default to no (Steve Jobs).
-- 'Hell yes or no' (Derek Sivers).
-- No to any decision that requires a calculator or computer (Warren Buffett).
-- Reversible or irreversible decision. (Jeff Bezos).
 
 > *'My brother says to never make a big decision before you take a shower.'*
 
-However some people get paralyzed by [over thinking](#on-starting-and-timing). If you think too much, you’ll create a problem that wasn’t there in the first place.'*
-
-> *'While we are reasoning concerning life, life is gone.' -- David Hume*
-
 > *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
+
+> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
 Mental models are decision making helpers.
 
@@ -309,21 +305,20 @@ Mental models are decision making helpers.
 
 <!--
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
-> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
-
-It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago. -- Derek Sivers
-	
-> *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
-> *'#346. The senses do not deceive; it is the judgment that deceives.' -- goethe*
+> *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
-we have to feel we know enough to take action
-negative inspiration (things that don't work) -- positive inspiration!
 
-results-oriented approach to feedback -> process-oriented feedback
-	
-How can we overcome complexity bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
-
-decision matrix
+- negative inspiration (things that don't work) -- positive inspiration!
+- results-oriented approach to feedback -> process-oriented feedback	
+- decision matrix
+- as all the great questions. answers are always evolving
+- Easy come, easy go: Quickly done can be quickly undone. To last an eternity requires an eternity of preparation. -- Balthasar Gracian
+- oftentimes, the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
+- estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no 'skin in the game' should give estimates.
+- questions to make to your self. who owns the problem? if a problem is too small or too big to solve what's really bothering you.
+- fixing problems by adding things vs by subtracting things.
+- sink or swim
+- My New Strategy: Test Stuff Out - trial first! “Is this the smallest thing we can do to test our riskiest assumption?”
 
 What is the least painful way to X?
 Evaluate goals independently and consider taking on only one goal at a time.
@@ -353,31 +348,18 @@ MENTAL MODELS:
 4. Focus on Financial Freedom First
 5. Pick One Thing and Stick With it to Completion
 
-- as all the great questions. answers are always evolving
-- Easy come, easy go: Quickly done can be quickly undone. To last an eternity requires an eternity of preparation. -- Balthasar Gracian
-- oftentimes, the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
-- estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no 'skin in the game' should give estimates.
-- questions to make to your self. who owns the problem? if a problem is too small or too big to solve what's really bothering you.
-- fixing problems by adding things vs by subtracting things.
-- sink or swim
-- My New Strategy: Test Stuff Out - trial first! “Is this the smallest thing we can do to test our riskiest assumption?”
-
-With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
+- With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
 As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
 
-plan ahead plannin 20% action 80%?
-
-in most knowledge organizations, your product is decisions. you are evaluated by yours
+- plan ahead plannin 20% action 80%?
+- in most knowledge organizations, your product is decisions. you are evaluated by yours
 > *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
-
-Beliefs lag behind reality.
+- Beliefs lag behind reality.
 
 But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 
-Actions > Thoughts; Actions change the world. Not beliefs.
-
-- a fundamentalist gives answers, a scholar gives questions
+- Actions > Thoughts; Actions change the world. Not beliefs.
 - i'm right -> how do i know i'm right. radical openmindedness -> stress test your ideas
 
 Idea-meritocratic decision-making is the best decision-making
@@ -468,9 +450,6 @@ Most of the time people don't put us to the test. When they do, the results don'
 
 If you want to win an argument, ask the person trying to convince you of something to explain how it would work.
 Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
-	
-- bad decisions, good memories
-- if you dont do the decision somebody will make it for you.
 
 D: Define the problem simply.
 A: Assess the impact.
@@ -485,8 +464,6 @@ too familiar -- too unfamiliar. we like what is in the middle! similar enough an
 Do i need to justify my choice? What am i searching for? functional decision vs emotional decision.
 too familiar -- too unfamiliar. we like what is in the middle! similar enough and different enough to be liked. the secret is on the [middle](#on-balance)
 Always assume that you’re wrong from a purely philosophical point of view. We are always wrong about whatever we believe. Knowledge is always moving forward, and if you think about things you used to believe 10 years ago or five years ago, it embarrasses you now. And the things that you hold dear and hold to be true today are likely going to embarrass you in 10 or 20 years from now. 
-
-Say no to things you aren’t really excited about doing. Hell yes or no. The mediocre robs you of the great. sivers 
 
 Make decisions about what you want to do ideally on the front end rather than tracking what you do on the back end. Planning a diet vs. recording a diet. Making decisions under stress vs making decisions when relaxed and clear headed.
 
@@ -503,6 +480,14 @@ Without this clarity, you will find yourself wandering aimlessly for years, or e
 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
+
+If you don't decide somebody will decide it for you.
+
+Some people get paralyzed by [over thinking](#on-starting-and-timing). If you think too much, you’ll create a problem that wasn’t there in the first place but we have to feel we know enough to take action.
+
+> *'While we are reasoning concerning life, life is gone.' -- David Hume*
+
+> *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
 
 
 
@@ -532,59 +517,54 @@ Just start. Stop making resolutions and start making something.
 
 Why people procrastinate?
 
-- [Perfectionism](chapter_1_self.md#on-perfectionism)  
-- Fear (of change). Procrastination is deeply tied to anxiety.  
+- [Perfectionism](chapter_1_self.md#on-perfectionism). You fear releasing something unimportant, so you don’t release anything at all.  
+- Fear (of change). Procrastination is deeply tied to anxiety. We distract ourselves because we are not willing to face up with what bothers us.  
 - Lack of urgency / deadlines (the panic monster). Pressed by circumstances, we feel unusually energized and focused. What gets measured gets done. 
-- No inspiration. The inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation.  
+- No inspiration. The inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation. Inspiration is for amateurs.
 - No opportunities. When hope disappears, so does action.
 - No preparation. You can learn while you do it.  
+
+At some point, the pain of not doing it becomes greater than the pain of doing it.
+
+> *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
+
+> *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
 <!--
-We distract ourselves because we are not willing to face up with what bothers us.
-
 1) Protect your time like your money.
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 	
 - what's the next action >> if u dont know think what's the next project -- gtd guy
-- inspiration is for amateurs -- picasso??
-
-- Major epiphany: Energy creates motion, motion creates emotions, and women are highly emotional beings.
-- Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
 
 you always throw out your first pancake - primeiro milho é para os pardais
 
 - in order to understand i destried myself
-	
-At some point, the pain of not doing it becomes greater than the pain of doing it. -> law of procrastination
 
-the most difficult is the decision to act, the rest is just tenacity. -- andrea earhart
+> *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
 
-Play the ball before it plays you.
-
-“[S]ome systems … are very sensitive to their starting conditions, 
+“Some systems … are very sensitive to their starting conditions, 
 so that a tiny difference in the initial push you give them 
 causes a big difference in where they end up, and there is 
 feedback, so that what a system does affects its own behavior.”
 -- John Gribbin, Deep Simplicity
 
-research is not doing something! Knowledge is Never the Issue, action is.
+- Play the ball before it plays you.
+- research is not doing something! Knowledge is Never the Issue, action is.
+- Bad execution of your designs does less harm than irresolution in forming them.
+- STRATEGIC LAZINESS AS A LEVERAGE POINT
 
-If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal. -- Bruce Lee
+> *'If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal.' -- Bruce Lee*
 
 Forget All About Doing Good Work and Focus on Great Work
 Good work, on the other hand, is an innocuous killer of greatness.
 Good work is often what we use to fill our time and distract ourselves from great work we know we should be doing
 Good work is that high-paying freelance project that distracts your focus from your new startup. Or that client you keep on retainer who doesn’t push your abilities or stretch you.
-
-Bad execution of your designs does less harm than irresolution in forming them.
-
-STRATEGIC LAZINESS AS A LEVERAGE POINT
 
 WORK THAT PRODUCES DIMINISHING (OR EVEN NEGATIVE) RETURNS
 Imagine that you went outside and jogged for 10 minutes. This would be a healthy thing to do.
@@ -592,13 +572,11 @@ Now imagine you went outside and ran for 20 minutes. It’d also be healthy, but
 But she noticed that most of this extra time was pretty ineffective. The four hours at the end of the day, from say 6 PM to 10 PM, contributed about as much usable work as the first two hours of the day. People were essentially slaving away for marginal benefits.
 And in worst case scenarios, people would start producing bad work or make bad decisions because they were so tired. And when you accumulate enough bad work and bad decisions, you actually unintentionally create more work for yourself. So you go from working for diminishing returns to working for negative returns.
 
-The more “goal oriented” is the task, the more a potential 10x programmer
+- The more “goal oriented” is the task, the more a potential 10x programmer
 
 If 20% of the effort creates 80% of the value (think of a job: 20% of the employees do 80% of the work), then square that.
 So now 20% of the 20% of the effort makes 80% of 80% of the value.
 So 4% of the work you do in life creates 64% of the benefits in your life.
-
-Bring the Target Closer
 
 He said, “I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.”
 If they really wanted to do it, they would have done it.
@@ -610,11 +588,9 @@ In this moment, you might think that you will find satisfaction by purchasing th
 
 I love how the '80/20' rule gets stretched so often that in this article it talks about hyperdominate trees that take up 50% of the Amazon. So 80/20 can go anywhere form 99/1 to 50/50. What an interesting 'pattern'.
 
-The martial art kung fu literally translates into two words. Effort and time.
-And the only things that are standing between you and your goals are these two factors.
+The martial art kung fu literally translates into two words. Effort and time. And the only things that are standing between you and your goals are these two factors.
 
-Make your _business_ case, not a technical case
-Sometimes writing a one-off script will take 30 minutes, and doing it by hand will take 10. Do it by hand.
+Make your _business_ case, not a technical case. Sometimes writing a one-off script will take 30 minutes, and doing it by hand will take 10. Do it by hand.
 
 stop lionizing efficiency, and start asking the question that has guided craftsmen for millennia: what’s the most effective way for me to accomplish the things that are most important?
 
@@ -622,7 +598,6 @@ stop lionizing efficiency, and start asking the question that has guided craftsm
 
 jogar c o baralho todo / jogar com um subset
 
-I feared releasing something unimportant, so I didn’t release anything at all.
 But actions, not words, reveal our real values.
 
 external focus, attached to outcome.
@@ -703,13 +678,15 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 
 *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
-Direction is more important than velocity.
+Direction is more important than velocity. Bring the target closer.
 
 > *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
 
 > *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
 
 Don’t be afraid to take time away to find it. Only fools rush into a situation. By committing too quickly you lose your maneuverability.
+
+> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
 
 > *'Who seeks shall find.' -- Sophocles*
 
@@ -1182,6 +1159,8 @@ However deceiving is not lying. Disappointment destroys trust.
 > *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
 
 <!--
+> *'The senses do not deceive; it is the judgment that deceives.' -- Goethe*
+> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 > *'The underground of the city is like what's underground in people. Beneath the surface, it's boiling with monsters.' -- Guillermo del Toro*
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
@@ -1198,7 +1177,7 @@ However deceiving is not lying. Disappointment destroys trust.
 ---
 ### On unpredictability
 
-> *'Conceal your intention.'  
+*'Conceal your intention.'  
 'Say less than necessary.'  
 'Keep others in suspended terror: cultivate an air of unpredictability.'  
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
@@ -1215,13 +1194,13 @@ Teach no one your tricks or they will be used against you.
 ---
 ### On mirroring
 
+*'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+
 Mirroring works best when your group is in minority.
 
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
 > *'To change a status quo established by a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
-
-> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
 <!--
 reciprocation bias
@@ -1240,17 +1219,13 @@ Cialdini moved from rejection to compliance after the boy had moved from a large
 ---
 ### On opponents and allies
 
+*'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
+
 Beware of all players.
 
 People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage. No one will help you in a way that’s prejudicial to them.
 
-> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
-
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
-
 > *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
-
-> *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
 
 #### On easy opponents
 
@@ -1261,6 +1236,8 @@ Easy players are often just [bait](#on-charming). However there are people actin
 > *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
 
 > *'«El dorados» are never drawn in the map.'*
+
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
 #### On desperate opponents
 
@@ -1344,14 +1321,14 @@ Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time
 
 It's not just about winning. The way you win sets you up for the next round.
 
-> *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
-
 > *'Win through your actions, never through argument.'  
 'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
 
 > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
 
 > *'You might be winning but you’re not growing, and growing might be the most important form of winning.' -- Jordan Peterson*
+
+> *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
 
 > *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
