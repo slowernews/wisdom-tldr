@@ -6,7 +6,7 @@
 	| |  / |__  |    |__/ |__/ |__/ |__  |__  | |__/ |  / 
 		
 
-### The real you
+## The real you
 
 *'All men die, but not every man lives' -- William Wallace*
 
@@ -17,7 +17,7 @@ How you do anything is how you do everything. Ultimately you are your choices.
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
   
-#### How to come alive?
+### How to come alive?
 
 Never stop working on yourself. Always strive to be better. Is succeeding at mediocrity a worthwhile life? For some of you, you must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant. You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
 
@@ -40,7 +40,7 @@ to be real you need to be vulnerable
 
 
 ---
-### On happiness
+## On happiness
 
 *'Need to jump start happiness? Lower your expectations. If I have no expectations then I will easily exceed them' -- James Altucher*
 
@@ -59,7 +59,7 @@ What is happiness?
 
 Seek happiness actively (improve reality) and passively (lower expectations).
 
-#### How to improve reality?
+### How to improve reality?
 
 Act, be patient and break long term goals into smaller ones so you can enjoy the journey.
 
@@ -73,7 +73,7 @@ Act, be patient and break long term goals into smaller ones so you can enjoy the
 
 > *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli*
 
-#### How to lower expectations? Be [grateful]().
+### How to lower expectations? Be [grateful]().
 
 > *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
 

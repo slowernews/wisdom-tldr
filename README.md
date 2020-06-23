@@ -4,14 +4,14 @@
 'Distillation' is still far from ready, so expect inconsistencies, innacuracies and omissions.
 
 
-### Introduction
+## Introduction
 
 
 - [The real you](/chapters/introduction.md#the-real-you)
 - [On happiness](/chapters/introduction.md#on-gratefulness-and-happiness)
 
 
-### Chapter 1 - Self
+## Chapter 1 - Self
 
 
 *On foundations*
@@ -38,7 +38,7 @@
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 
 
-### Chapter 2 - Groups
+## Chapter 2 - Groups
 
 
 *On interactions*
@@ -65,7 +65,7 @@
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
 
 
-### Chapter 3 - Action
+## Chapter 3 - Action
 
 
 *On preparing action*
@@ -99,7 +99,7 @@
 - [On forgiveness](/chapters/chapter_3_action.md#on-forgiveness)
 
 
-### Appendix
+## Appendix
 
 
 *On time*
@@ -136,7 +136,7 @@
 - [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
 - [On what men value in women](/chapters/chapter_appendix.md#on-what-men-value-in-women)
 
-### TL;DR
+## TL;DR
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 

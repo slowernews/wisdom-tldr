@@ -8,7 +8,7 @@
 
 # 1.1 - On foundations
 
-### On independence
+## On independence
 
 *'A man is free at the instant he wants to be.' -- Voltaire*
 
@@ -72,7 +72,7 @@ personality is not static. - rollo tomassi
 
 
 ---
-### On authenticity
+## On authenticity
 
 *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
@@ -134,7 +134,7 @@ _im bad in following a script_
 
 
 ---
-### On integrity and accountability
+## On integrity and accountability
 
 *'Trust, not money, is the currency of business and life.'*
 
@@ -171,7 +171,7 @@ being vulnerable is taking don't be afraid of taking a risk.
 
 
 ---
-### On gratitude and humbleness
+## On gratitude and humbleness
 
 Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
@@ -260,7 +260,7 @@ Hints:
 
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
-#### How to design a life?
+### How to design a life?
 
 Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regretting your life is the worst that can happen to you.
 
@@ -369,7 +369,7 @@ Without this clarity, you will find yourself wandering aimlessly for years, or e
 
 
 ---
-### On comfort and risk
+## On comfort and risk
 
 *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
@@ -431,7 +431,7 @@ But the problem with this philosophy is that no great work ever came from comfor
 
 
 ---
-### On improving
+## On improving
 
 *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -769,7 +769,7 @@ skill fluency!
 
 
 ---
-### On achieving mastery
+## On achieving mastery
 
 *'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
 
@@ -805,7 +805,7 @@ However mastery is an important trigger of arrogance. There's always room for im
 
 
 ---
-### On habits and systems
+## On habits and systems
 
 *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
@@ -823,7 +823,7 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 > *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
 
-#### How to create new habits?
+### How to create new habits?
 
 - Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
 - Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
@@ -925,7 +925,7 @@ Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms o
 
 
 ---
-### On self awareness
+## On self awareness
 
 *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
 
@@ -938,7 +938,7 @@ Do you know anyone who doesn’t have any blind spots? Then why would you be any
 
 > *'Weeds are flowers too, once you get to know them.' -- A.A. Milne*
 
-#### How to grow self awareness?
+### How to grow self awareness?
 
 - Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
 
@@ -968,7 +968,7 @@ When you don’t create things, you become defined by your tastes rather than ab
 ---                                                                                                                                 
 # 1.3 - On your worst enemy: yourself
 
-### On stress and health
+## On stress and health
 
 Take care of your body. It’s the most important thing you’ll get for free. However the origin of most health problems is not physical but mental.
 
@@ -978,7 +978,7 @@ Take care of your body. It’s the most important thing you’ll get for free. H
 
 > *'Action cures everything. Plain and simple.'*
 
-#### What is the cause of stress?
+### What is the cause of stress?
 
 Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  The more relaxed you are, the better you are at everything.
 
@@ -994,7 +994,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 > *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
 
-#### What is depression?
+### What is depression?
 
 Depression is the lack of self-expression. Anxiety and depression are symptoms, not diseases. If you feel powerless/being dominated you will be chronically stressed.
 
@@ -1013,7 +1013,7 @@ Depression is the lack of self-expression. Anxiety and depression are symptoms, 
 
 > *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
 
-#### How to fight depression?
+### How to fight depression?
 
 Best antidepressant is knowing we matter to others. Exercise and starving a close second.
 
@@ -1049,13 +1049,13 @@ HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author
 
 
 ---
-### On fear, anger and excuses
+## On fear, anger and excuses
 
 *'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
 
 Fear is paralyzing. If you view everything through the lens of fear, then you tend to stay in retreat mode.
 
-#### How to overcome it?
+### How to overcome it?
 
 - Replace fear of unknown with curiosity.  
 - Reframe fear as «false evidence appearing real».  
@@ -1098,7 +1098,7 @@ age is a mindset
 
 
 ---
-### On shame
+## On shame
 
 *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
@@ -1131,7 +1131,7 @@ When you try to fix something about yourself, you automatically create shame, be
 
 
 ---
-### On mistakes and failure
+## On mistakes and failure
 
 *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
@@ -1200,7 +1200,7 @@ Thinking about it makes it worse. Writing about it makes it better.
 
 
 ---
-### On confidence and validation
+## On confidence and validation
 
 *'Believe you can, and you’re halfway there.'*
 
@@ -1241,6 +1241,11 @@ Other confidence «movers»:
 > *'Don't be so humble - you are not that great.' -- Golda Meir*
 
 <!--
+"low self confidence is the source of all problems. all neediness is a sign of self low confidence
+punishing yourself for failing. failing is learning.
+honesty is the pathway to confidence. when you hide you create shame and shamelessness overtime is a defense against low self estime.
+physical puberty, psychological puberty" -- dan munro
+
 Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
 
 Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
@@ -1294,7 +1299,7 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 
 
 ---
-### On limits, resistance and motivation
+## On limits, resistance and motivation
 
 *'The only person standing in your way is you.' -- Black Swan*
 
@@ -1308,7 +1313,7 @@ However your level of success will seldom exceed your level of personal developm
 
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
 
-#### How to break through your plateaus?
+### How to break through your plateaus?
 
 - On a plateau take a step back.  
 - Break down your dreams/goals into achievable steps.  
@@ -1324,7 +1329,7 @@ fear that you are not good enough: that you will never find a woman as good as y
 
 
 ---
-### On perfectionism
+## On perfectionism
 
 *'The perfect is the enemy of the good.' -- Voltaire*
 
@@ -1339,7 +1344,7 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
 
-#### What is perfection?
+### What is perfection?
 
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 

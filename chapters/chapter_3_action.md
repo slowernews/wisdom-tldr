@@ -8,7 +8,7 @@
 
 # 3.1 - On preparing action
 
-### On creativity, vision and ideas
+## On creativity, vision and ideas
 
 *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
@@ -26,7 +26,7 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 > *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.' -- Steve Jobs*
 
-#### How to find good ideas?
+### How to find good ideas?
 
 Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
@@ -44,7 +44,7 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 
 > *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
-#### What is the value of a good idea?
+### What is the value of a good idea?
 
 The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much.
 
@@ -54,7 +54,7 @@ Instead of focusing on ideas, focus on transforming yourself into the kind of pe
 
 > *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
 
-#### How to judge ideas?
+### How to judge ideas?
 
 - Best ideas come from the market, not from you.  
 - Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
@@ -63,7 +63,7 @@ Instead of focusing on ideas, focus on transforming yourself into the kind of pe
 
 
 ---
-### On analysis
+## On analysis
 
 *'Not everything that counts can be counted, and not everything that can be counted counts.' -- Albert Einstein*
 
@@ -117,6 +117,7 @@ Evaluating evidence (especially when it is complicated or unclear) requires a gr
 This saves the time needed to make decisions, in particular when under pressure.
 
 Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
+> *'There are no facts, only interpretations.' -- Friedrich Nietzsche*
 -->
 
 And when facing new ideas.
@@ -131,7 +132,7 @@ And when facing new ideas.
 
 > *'The truth is rarely pure and never simple.' -- Oscar Wilde*
 
-#### Hints on the art of analysis
+### Hints on the art of analysis
 
 - Pay attention to negative cues: what should have happened but did not.  
 - «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
@@ -155,7 +156,7 @@ And when facing new ideas.
 
 > *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
 
-#### How to judge a man?
+### How to judge a man?
 
 Society judges people by what they can do for others. But we judge ourselves by our thoughts.
 
@@ -207,7 +208,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 
 ---
-### On planning
+## On planning
 
 *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
@@ -228,7 +229,7 @@ You can’t predict. You can prepare.
 
 > *'You have choices. Choices are experiments.'*
 
-#### How to plan? 
+### How to plan? 
 
 Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable steps.  
 Choose the plan with more options. The one that lets you change plan. 
@@ -257,7 +258,7 @@ stick to the plan. poople sabotage their one plans when it get tedious or too di
 
 
 ---
-### On decision making
+## On decision making
 
 *'A well defined problem seeks its own solution' -- Mike Brundant*
 
@@ -267,7 +268,7 @@ stick to the plan. poople sabotage their one plans when it get tedious or too di
 
 The ability to make fast decisions is a competitive advantage.
 
-#### How to decide?
+### How to decide?
 
 Decision-making heuristics to remove the need for deliberation:
  
@@ -434,7 +435,7 @@ Some people get paralyzed by [over thinking](#on-starting-and-timing). If you th
 ---
 # 3.2 - On executing
 
-### On starting and timing
+## On starting and timing
 
 *'A year from now, you will wish you had started today.' -- Karen Lamb*
 
@@ -454,7 +455,7 @@ Just start. Stop making resolutions and start making something.
 
 > *'Start where you are. Use what you have. Do what you can.' -- Arthur Ashe*
 
-#### Why people procrastinate?
+### Why people procrastinate?
 
 - [Perfectionism](chapter_1_self.md#on-perfectionism). You fear releasing something unimportant, so you don’t release anything at all.  
 - Fear (of change). Procrastination is deeply tied to anxiety. We distract ourselves because we are not willing to face up with what bothers us.  
@@ -613,7 +614,7 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 
 
 ---
-### On speed, position and direction
+## On speed, position and direction
 
 *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
@@ -669,7 +670,7 @@ chess gambits -- exchange material by position-time.
 
 
 ---
-### On focus, priorities and productivity
+## On focus, priorities and productivity
 
 *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
 
@@ -788,7 +789,7 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 
 ---
-### On control
+## On control
 
 *'You can lead a horse to water but you can’t make him drink.'* 
 
@@ -814,7 +815,7 @@ Control what you can: [what you’re primed by](), [who you are around](), the i
 
 
 ---
-### On balance
+## On balance
 
 Life is a balancing act.
 
@@ -836,7 +837,7 @@ For a balanced life you need to draw a line. Most of us don't want to draw the l
 
 > *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.'*
 
-#### How to balance an imbalance?
+### How to balance an imbalance?
 
 Overcompensate. Some people get passion from something they struggled with.
 
@@ -865,7 +866,7 @@ Because the only way to truly benefit from self-improvement is to one day arrive
 
 
 ---
-### On change and adapting
+## On change and adapting
 
 *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
 
@@ -928,7 +929,7 @@ equipa que ganha, não se mexe
 ---
 # 3.3 - On competing
 
-### On creating imbalances
+## On creating imbalances
 
 *'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
 
@@ -977,7 +978,7 @@ Sun Tzu, strategy is about winning before the battle begins, while tactics are a
 
 
 ---
-### On leverage
+## On leverage
 
 *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
 
@@ -1007,7 +1008,7 @@ The “Cassandras” featured in R.P’s book are experts in their field. these 
 
 
 ---
-### On charming
+## On charming
 
 Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
@@ -1065,7 +1066,7 @@ To Persuade Someone, Look Emotional
 
 
 ---
-### On deceiving
+## On deceiving
 
 *'A man is not deceived by others, he deceives himself.' -- Goethe*
 
@@ -1114,7 +1115,7 @@ However deceiving is not lying. Disappointment destroys trust.
 
 
 ---
-### On unpredictability
+## On unpredictability
 
 *'Conceal your intention.'  
 'Say less than necessary.'  
@@ -1131,7 +1132,7 @@ Teach no one your tricks or they will be used against you.
 
 
 ---
-### On mirroring
+## On mirroring
 
 *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
@@ -1156,7 +1157,7 @@ Cialdini moved from rejection to compliance after the boy had moved from a large
 
 
 ---
-### On opponents and allies
+## On opponents and allies
 
 *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
 
@@ -1166,7 +1167,7 @@ People are amazing optimizers, and will find any loopholes or gaps that allow th
 
 > *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
 
-#### On easy opponents
+### On easy opponents
 
 Easy players are often just [bait](#on-charming). However there are people acting stupid. Easy wins if you can identify them.
 
@@ -1178,7 +1179,7 @@ Easy players are often just [bait](#on-charming). However there are people actin
 
 > *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
 
-#### On desperate opponents
+### On desperate opponents
 
 Desperate players will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
@@ -1190,7 +1191,7 @@ Desperate players will risk anything in a fight. This gives them a huge advantag
 
 > *'Our fearlessness shall be our secret weapon.' -- John Green*
 
-#### On difficult opponents
+### On difficult opponents
 
 Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
 
@@ -1214,7 +1215,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 
 
 ---
-### On defeating status quo
+## On defeating status quo
 
 *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
 
@@ -1230,7 +1231,7 @@ burocracy prevents low probability events to happen at the expense of making mor
 ---
 # 3.4 - On ending
 
-### On finishing
+## On finishing
 
 *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
@@ -1252,7 +1253,7 @@ Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time
 
 
 ---
-### On winning
+## On winning
 
 *'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
 
@@ -1287,7 +1288,7 @@ winning by exhaustion: Traditional military theorists such as Sun Tzu (“Suprem
 
 
 ---
-### On surrendering
+## On surrendering
 
 *'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk (skater)*
 
@@ -1313,7 +1314,7 @@ Sometimes good things fall apart so better things can fall together. Every story
 
 
 ---
-### On forgiveness
+## On forgiveness
 
 *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 

@@ -8,7 +8,7 @@
 
 # Appendix A - Time
 
-### On past and memory
+## On past and memory
 
 *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
@@ -51,12 +51,13 @@ How memory works? Hints:
 > *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
 
 <!--
-“Keep in mind that people change, but the past doesn't.” -- Becca Fitzpatrick
+> *'Keep in mind that people change, but the past doesn't.' -- Becca Fitzpatrick*
+> *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
 -->
 
 
 ---
-### On present
+## On present
 
 *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
@@ -87,7 +88,7 @@ Act accordingly and don't postpone joy: live life ready to meet god like it’s 
 
 
 ---
-### On future
+## On future
 
 *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
@@ -112,13 +113,14 @@ However don't obcess on that. You can't control the future.
 
 <!--
 - make the exercise: imagine you life in 10years. Possible futures.
+> *'I dream my painting and I paint my dream.' -- Vincent van Gogh*
 -->
 
 
 
 
 ---
-### On growing old
+## On growing old
 
 *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
@@ -140,7 +142,7 @@ However don't obcess on that. You can't control the future.
 ---           
 # Appendix B - On envy triggers
 
-### On intelligence and talent
+## On intelligence and talent
 
 *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
@@ -166,7 +168,7 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays; y
 
 
 ---
-### On money and wealth
+## On money and wealth
 
 *'Some people are so poor, all they have is money.' -- Patrick Meagher*
 
@@ -187,7 +189,7 @@ Money is a tool. It can serve as a force multiplier to help you live the life of
 
 > *'After a certain point, money is meaningless. It ceases to be the goal. The game is what counts.' -- Aristotle Onassis*
 
-#### How to get wealthy (without getting lucky):  
+### How to get wealthy (without getting lucky):  
 - Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible. Ignore people playing status games. They gain status by attacking people playing wealth creation games. Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems. Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person.  
 - You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
 You will get rich by giving society what it wants but does not yet know how to get. At scale. Pick an industry where you can play long term games with long term people. The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.  
@@ -203,7 +205,7 @@ Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 
 
 ---
-### On fame and popularity
+## On fame and popularity
 
 See fame as a multiplier. If you want to impact the world, be famous.
 
@@ -213,7 +215,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 
 ---
-### On luck
+## On luck
 
 *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
 
@@ -247,7 +249,7 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 
 
 ---
-### On beauty and style
+## On beauty and style
 
 *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
 
@@ -263,13 +265,13 @@ The sign of a beautiful person is that they always see beauty in others.
 
 
 ---
-### On health
+## On health
 
 *'You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker'*
 
 Health is also an envy trigger. Often what people really envy is self-control.
 
-#### How to keep healthy?
+### How to keep healthy?
 
 - Exercise is king. Balance on body training = flexibility (yoga or animal movements) + strength (weights). Minimum effective dose.  
 - Nutrition is queen. Eat more real foods and practice intermittent fasting.  
@@ -279,7 +281,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 
 ---
-### On lifestyle
+## On lifestyle
 
 > *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
 
@@ -299,14 +301,14 @@ Hints:
 - Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 
-#### Simplicity is the ultimate sophistication. How to simplify?
+### Simplicity is the ultimate sophistication. How to simplify?
 
 - Use it or loose it.  
 - [Remove unnecessary distractions]().  
 - [Remove any obligations that aren’t truly serving your end goals]().  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
-#### How to reduce your expenses without sacrificing your quality of life?
+### How to reduce your expenses without sacrificing your quality of life?
 
 Geoarbitrage. Car: max 10K. Job: live next to it.
 
@@ -334,7 +336,7 @@ You are in a city, without knowing the language, manage to go to the hostel, mee
 
 
 ---
-### On success
+## On success
 
 *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
@@ -402,7 +404,7 @@ You don’t need the fancy car, expensive watch, or flashy toys, spend your mone
 ---
 # Appendix C - Others
 
-### On comedy
+## On comedy
 
 *'Only the truth is funny.' -- Rick Reynolds*
 
@@ -418,13 +420,13 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 
 > *'I miss being the age when I thought I would have my shit together by the time I was the age I am now.'*
 
-#### Where is home?
+### Where is home?
 
 > *'Home is where the bra isn´t.'*
 
 > *'Home is where the parking lot is.'*
 
-#### What is love?
+### What is love?
 
 > *'What you call love was invented by guys like me to sell nylons.' -- Don Draper*
 
@@ -451,7 +453,7 @@ To find the truths inside of us that make us all relate to each other. That brin
 
 
 ---
-### On humanness and irrationality
+## On humanness and irrationality
 
 *'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Robert Heinlein on Starship Troopers*
 
@@ -475,7 +477,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 
 ---
-### On marriage
+## On marriage
 
 *'Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed.' -- H.Harwood and R. Gore-Bro*
 
@@ -489,7 +491,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 
 ---
-### On religion
+## On religion
 
 *'And on the first day, men created god.'*
 
@@ -513,7 +515,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 
 ---
-### On science and art
+## On science and art
 
 *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
 
@@ -554,7 +556,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 
 ---
-### On aesthetics
+## On aesthetics
 
 *'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*
 
@@ -583,7 +585,7 @@ Most people with good taste are young and poor.
 
 
 ---
-### On money management
+## On money management
 
 *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
@@ -591,7 +593,7 @@ Spend less than you make. Stay liquid. Never invest in anything you can't sell i
 Saving a higher proportion of your income allows to cut decades off of your working life.
 The secret to get rich is not to make more money but to keep it.  
 
-#### How to spot your investment confort zone?
+### How to spot your investment confort zone?
 
 - Scared money never wins.  
 - Risk of losing money vs the risk of missing opportunity.
@@ -602,13 +604,13 @@ The secret to get rich is not to make more money but to keep it.
 
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
-#### How to spot trends? Understand:
+### How to spot trends? Understand:
 
 - who are the buyers, the sellers and their motivations.  
 - that investments are competing with each other.  
 - where is low optimism. market cycles. Recessions are caused when a bunch of people lose confidence all at once.
 
-#### How to spot a good investment?
+### How to spot a good investment?
 
 > *'You’re looking for a mispriced gamble.' -- Charlie Munger*
 
@@ -655,7 +657,7 @@ math shortcut: Years to double = 72 / Interest Rate
 
 
 ---
-### On travel and nomadism
+## On travel and nomadism
 
 *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
 
@@ -679,7 +681,7 @@ Hints:
 
 
 ---
-### On college
+## On college
 
 *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
@@ -695,7 +697,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 
 ---
-### On books
+## On books
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
 
@@ -737,7 +739,7 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 
 
 ---
-### On email
+## On email
 
 - Make the subject unique, meaningful and easily searchable.  
 - Make a single, specific, simple request – such that it’s hard to say no - in the first line and then explain if you need to. The reader should be able to reply to the email in one word, forward it on to the right person or delete it so be specific in your request. Examples:
@@ -753,7 +755,7 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 
 
 ---
-### On computers and maths
+## On computers and maths
 
 *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
 
@@ -791,7 +793,7 @@ I wonder how long it'll be until we replace fiat currencies with a balance of ki
 ---
 # Appendix D - Bonus
 
-### On what women value in men
+## On what women value in men
 
 *'She likes a gentleman who knows when not to be gentle.'*
 
@@ -815,9 +817,11 @@ Chicks dig a man who exhibits grace under pressure.
 
 
 ---
-### On what men value in women
+## On what men value in women
 
 *'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*
+
+> *'No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful.' -- Eleanor Roosevelt*
 
 <!--
 ### On types of people
