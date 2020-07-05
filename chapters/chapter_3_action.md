@@ -28,7 +28,9 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 ### How to find good ideas?
 
-Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
+Best ideas come from the market, not from you.
+
+However, ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of.
 
@@ -44,20 +46,14 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 
 > *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
-### What is the value of a good idea?
+### How to judge ideas?
+Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
 
-The right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much.
-
-Instead of focusing on ideas, focus on transforming yourself into the kind of person who can execute and bring them to life.
+However the right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can execute and bring them to life. 
 
 > *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 > *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
-
-### How to judge ideas?
-
-- Best ideas come from the market, not from you.  
-- Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
 
 
 
@@ -71,7 +67,7 @@ Instead of focusing on ideas, focus on transforming yourself into the kind of pe
 
 Analysis is an art, not a science.
 
-> *'When the vote goes 79% – 21% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the vote we say that is BS.'*
+> *'When the vote goes 69% – 31% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the votes we say that is BS.'*
 
 One of the great problems with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. We are biased. Everybody else is biased.
 
@@ -156,20 +152,6 @@ And when facing new ideas.
 
 > *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
 
-### How to judge a man?
-
-Society judges people by what they can do for others. But we judge ourselves by our thoughts.
-
-Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
-
-> *'Judge a man by his questions, not by his answers.' -- Voltaire*
-
-> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
-
-> *'It isn't what we say or think that defines us, but what we do.' -- Jane Austen*
-
-> *'Whenever you feel like criticizing any one... just remember that all the people in this world haven't had the advantages that you've had.' -- F. Scott Fitzgerald*
-
 <!--
 A fundamentalist gives answers, a scholar gives questions.
 > *'To understand is to know what to do.' -- Wittgenstein*
@@ -251,7 +233,7 @@ However plans are only a starting point.
 > *'Everyone has a plan until they get punched in the mouth.' -- Mike Tyson*
 
 <!--
-stick to the plan. poople sabotage their one plans when it get tedious or too difficult. people think they need a new plan.
+stick to the plan. people sabotage their one plans when it get tedious or too difficult. people think they need a new plan.
 -->
 
 
@@ -817,11 +799,9 @@ Control what you can: [what you’re primed by](), [who you are around](), the i
 ---
 ## On balance
 
-Life is a balancing act.
+Life is a balancing act. Most things are not binary.
 
 The dose makes the poison: things in excess become their opposite. The hardest skill is knowing when to stop.
-
-Most things are not binary.
 
 > *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
 
@@ -870,7 +850,7 @@ Because the only way to truly benefit from self-improvement is to one day arrive
 
 *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
 
-*'Life is more like tetris than chess.'*
+*'Life is more like tetris than chess.' -- Tor Blair*
 
 Plans are not static. You need to switch strategies a few times to get where you want to go.
 
@@ -896,13 +876,11 @@ It's scary to make those direction choices but fear is a great road sign.'
 
 > *'When things break, it's not the actual breaking that prevents them from getting back together again. It's because a little piece gets lost - the two remaining ends couldn't fit together even if they wanted to. The whole shape has changed.' -- John Green*
 
-Adapt instead of reacting. Small changes in a complex system can cause sudden and large changes.
+Adapt instead of reacting. Small changes in a complex system can cause sudden and large changes. Willpower is finite. So there are limits on change. Change requires attention.
 
 > *'When the winds of change blow, some people build walls while others build windmills.' -- Chinese proverb*
 
 > *'Surely by now I’m desperate enough to change.' -- John Tottenham*
-
-HINT: Willpower is finite. So there are limits on change. Change requires attention.
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 

@@ -765,19 +765,15 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-### What is stupidity?
+### What is stupidity and how to deceive it?
 
-Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
+Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don't actually think, they just take their first thought and go.
 
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
 > *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
 
-> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*
-
-Tricks to deceive stupidity?
-
-Most people don't actually think, they just take their first thought and go.	
+> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*	
 
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
@@ -795,6 +791,20 @@ Despite being easier to recognise stupidity in others than ourselves, don’t ta
 > *'Life's hard. It's even harder when you're stupid.' -- John Wayne*
 
 > *'Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
+
+### How to judge a man?
+
+Society judges people by what they can do for others. But we judge ourselves by our thoughts.
+
+Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
+
+> *'Judge a man by his questions, not by his answers.' -- Voltaire*
+
+> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
+
+> *'It isn't what we say or think that defines us, but what we do.' -- Jane Austen*
+
+> *'Whenever you feel like criticizing any one... just remember that all the people in this world haven't had the advantages that you've had.' -- F. Scott Fitzgerald*
 
 <!--
 - changing course is hard and this scares us so we look around and try to copy the courses other people took
