@@ -34,6 +34,7 @@
 - [On shame](/chapters/chapter_1_self.md#on-shame)
 - [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
 - [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
+- [On optimism](/chapters/chapter_1_self.md#on-optimism)
 - [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 
@@ -55,7 +56,7 @@
 - [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
 - [On criticism and envy](/chapters/chapter_2_groups.md#on-criticism-and-envy)
 - [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
-- [On politics and taxes](/chapters/chapter_2_groups.md#on-politics-and-taxes)
+- [On society and politics](/chapters/chapter_2_groups.md#on-society-and-politics)
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)

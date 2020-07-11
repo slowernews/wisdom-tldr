@@ -972,19 +972,21 @@ When you don’t create things, you become defined by your tastes rather than ab
 
 Take care of your body. It’s the most important thing you’ll get for free. However the origin of most health problems is not physical but mental.
 
-> *'There are links between mental health and physical health. Physical stress avoids need for control.'*
+> *'Physical stress avoids need for control.'*
 
 > *'Body language affects your psychology, your mood, and even your hormonal balance.'*
 
 > *'Action cures everything. Plain and simple.'*
 
+> *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
+
 ### What is the cause of stress?
 
-Stress is caused by under-stimulation or over-stimulation (worrying about the [past](#on-past) or the [future](#on-future)).  The more relaxed you are, the better you are at everything.
+Stress is caused by under-stimulation or over-stimulation. The more relaxed you are, the better you are at everything.
 
-> *'Under-stimulation = boredom   
-right amount of stress = hustling (stretching comfort zone)   
-over-stimulation = anxiety'*
+- Under-stimulation = depression    
+- Right amount of stress = hustling (stretching comfort zone)   
+- Over-stimulation = anxiety
 
 > *'If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
@@ -1011,11 +1013,14 @@ Depression is the lack of self-expression. Anxiety and depression are symptoms, 
 
 > *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
 
-> *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
+
+<!--
+> *'When people don't express themselves, they die one piece at a time.' -- Laurie Halse Anderson*
+-->
 
 ### How to fight depression?
 
-Best antidepressant is knowing we matter to others. Exercise and starving a close second.
+Best antidepressant is knowing we matter to others. Exercise a close second. Fasting is also relevant.
 
 <!--
 When sick, move! Debug your brain as much as you can.
@@ -1055,35 +1060,32 @@ HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author
 
 Fear is paralyzing. If you view everything through the lens of fear, then you tend to stay in retreat mode.
 
-### How to overcome it?
+Anger and excuses are fear clothed. All excuses are refutable. You'll never be as young as you are today and you cannot use your personality type as an excuse. The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
+
+### How to overcome fear?
+
+*'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
+
+Behaviors are driven by fear. To change behaviors focus on fear, not on the behavior itself.
 
 - Replace fear of unknown with curiosity.  
-- Reframe fear as «false evidence appearing real».  
 - The antidote to fear is not courage is aceptance. You'll never have fear when you give more value to lessons than successes.  
 - Break down your fears until you figure out the truth.
 
-> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
-
 > *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
-
-Anger and excuses are fear clothed. All excuses are refutable. You'll never be as young as you are today and you cannot use your personality type as an excuse. The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
 
 > *'Hatred is born of ignorance. Fear is its father, and isolation is its mother.' -- Christian Picciolini*
 
 > *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
 
-> *'Behaviors are driven by fear. To change behaviors focus on fear, not on the behavior itself.'*
-
-Hints on courage:
+### On courage
 
 > *'Tolerance of intolerance is cowardice.' -- Ayaan Hirsi Ali*
 
-> *'Evil will prevail if good men stand back and do nothing.'*
+> *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
 
 <!--
-> *'Don’t be afraid to be alone. Don’t be afraid to be committed. Fear is the most limiting quality a person has.' -- Michelangelo*
 age is a mindset
-> *'Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: “Is this the condition that I feared?' -- Seneca*  
 > *'Named must your fear be before banish it you can.' -- Yoda*
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
 > *'The things we fear the most have already happened to us.'*
@@ -1102,30 +1104,31 @@ age is a mindset
 
 *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
+*'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+
 You are not you think you are: *you are what you hide*. Usually the things you hate most about yourself are the things you hide from the rest of the world.
-What I’m saying is, you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
 <!--
-You can hide the ugly parts, but you can't make them disappear.
+- What you fear you attract; what you resist, you make it bigger.
 -->
-
-> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
-> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
+> *'Nobody feels love when they feel shame.' -- John Townsend*
 
-> *'What you fear you attract; what you resist, you make it bigger.'*
+### How is shame created?
+
+When you try to fix something about yourself, you automatically create shame, because you’re saying this thing that’s true about myself is wrong.
+
+### How to fix shame?
+
+*'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+
+You gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
 > *'Just get out of the room.' -- Robert Glover*
 
-> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
-
-> *'Nobody feels love when they feel shame.' -- John Townsend*
-
-How shame is created?
-
-When you try to fix something about yourself, you automatically create shame, because you’re saying this thing that’s true about myself is wrong – it is a problem, there is something wrong with me, I am broken.
+> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
 
 
 
@@ -1294,6 +1297,18 @@ Form one: I’m better than everybody and therefore deserve special treatment.
 Form two: I’m worse than everybody and therefore deserve special treatment.
 They’re both forms of narcissism (because they’re both about me me me), and both are pretty much never true. Which one do you usually fall into?
 -->
+
+
+
+
+---
+## On optimism
+
+*'That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.' -- James Jones*
+
+> *'I've lived through some terrible things in my life, some of which actually happened.' -- Mark Twain*
+
+> *'Hope is a good breakfast, but it is a bad supper.' -- Francis Bacon*
 
 
 

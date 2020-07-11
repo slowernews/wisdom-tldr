@@ -26,13 +26,15 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 
 ### How to network?
 
-[Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. Be useful, not important. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
+Be useful, not important.
+
+[Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
 ### How to prepare an elevator pitch?
 
-Choose truth or our self-mythology will seduce us.
+Choose truth or your self-mythology will seduce you.
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
@@ -60,7 +62,7 @@ How to curate your network?
 
 ### Why most people don't like networking?
 
-It's hard to handle rejection. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
+We don’t like people that see us in a way that doesn’t resonate with how we see ourselves. Handling rejection is hard. 
 
 > *'If you expect magic in every encounter, you'll find it.' — Adam Robinson*
 
@@ -115,9 +117,7 @@ Good stories condense a massive amount of information into a consumable and shar
 
 ### How to discord?
 
-Argue as you're right. Listen as you're wrong.
-
-- «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
+Listen as you're wrong. «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
@@ -151,11 +151,11 @@ When public speaking you dont need to answer their question. you can say whateve
 
 Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
 
+It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
+
 Test sales first. Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it: the consumer votes with his wallet.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
-
-> *'It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.'*
 
 Hints:
 
@@ -309,7 +309,7 @@ That said, a bad/good negotiation means that you are adding more/less value than
 
 ### How to negotiate? 
 
-Negotiate while advancing. The more you take, the more you can give back in meaningless concessions. To negotiate is to have options.
+The more you take, the more you can give back in meaningless concessions. To negotiate is to have options.
 
 - «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
@@ -486,7 +486,11 @@ Focus on what you can give not what you can get. You only receive in proportion 
 - There are four types of relationships: Win Win (long term), Win Lose, Lose Win, Lose Lose
 -->
 
-Hints on romance: *you attract what you are*. Love is what happens to men and women that don't know each other. Every person feels loved in a different form. Love doesn’t hurt, expectations do.
+### On romantic relationships
+
+You attract what you are.
+
+Love is what happens to men and women that don't know each other. Love doesn’t hurt, expectations do. Every person feels loved in a different form.
 
 > *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
 
@@ -498,7 +502,11 @@ Hints on romance: *you attract what you are*. Love is what happens to men and wo
 
 > *'First you see the virtues. Then the flaws. For a long and deep relationship, values must match.' -- EF*
 
-> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'* 
+> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'*
+
+<!--
+> *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
+-->
 
 
 
@@ -564,6 +572,8 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
 - Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 - the way of man is the way of the gang
+
+> *'Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.' -- Elie Wiesel*
 -->
 
 
@@ -649,7 +659,7 @@ Always be generous. A low value gift can have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
 
-> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as "make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check." He said that almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- danielvf_HN*
+> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- danielvf_HN*
 
 > *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- danielvf_HN*
 
@@ -680,7 +690,7 @@ impredictable schedule / fixed work amount schedule / fixed time amount schedule
 *'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
 
 Don't avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
-Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom).
+Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom) as much as possible.
 
 > *'I am either part of the solution or part of the problem.'*
 
@@ -705,7 +715,7 @@ Hints on conflict resolution:
 
 Treat your haters like toddlers.
 
-Once they stop talking to you, they start to talk about you. Outliers inspire envy. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers.
+Outliers inspire envy. Once they stop talking to you, they start to talk about you. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers.
 
 > *'Remember if people talk behind your back, it only means you are two steps ahead.' -- Fannie Flagg*
 
@@ -751,13 +761,11 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'Talk sense to a fool and he calls you foolish.' -- Euripides*
 
-> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
-
-> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
-
 > *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
 
 > *'In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.' -- Friedrich Nietzsche*
+
+> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
 
 > *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
 
@@ -767,9 +775,11 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 ### What is stupidity and how to deceive it?
 
+*'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
+
 Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don't actually think, they just take their first thought and go.
 
-> *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
+> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
 
 > *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
 
@@ -830,15 +840,13 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 
 ---
-## On politics and taxes
+## On society and politics
 
 *'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
 
-Politicians don't get educated. They get bought.
+Politicians don't like risk. Decisions are made on the lowest risk of offending anybody.
 
-> *'To reduce corruption diminish people involved on analogic processes.'*
-
-> *'Politician is a profession that doesn't like risk. Decisions are made on the lowest risk of offending anybody.'*
+Politicians don't get educated. They get bought. To reduce corruption diminish people involved on analogic processes.
 
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
@@ -959,25 +967,22 @@ o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por n
 
 *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
+*'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+
 Managing is delegating. Your speed as a manager is the speed of your team.
 
-Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows.
-
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows. Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
 > *'A manager should make himself 2 questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?». The speed that you offload your stuff will be the speed of your team.'*
 
 > *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
 The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
 
-For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK.  
-
-> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
-
-Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive».  
-The only reason there’s so many awful managers is that people like you refuse to do the job.
-
 ### How to give feedback?
+
+*'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
+
+For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
 
 You can't make any judgement of the worker without detailed understanding of the specifics of the work. 
 Ask instead of telling. If you're certain the delivered work is not good enough give a reason.
@@ -1061,7 +1066,7 @@ Your goal in business should be to «fire» yourself and hire people who are bet
 ### How to attract and keep talented people?
 
 Respect them. You'll never respect them if you don't reward them accordingly.  
-people leave managers, not companies.
+Usually people leave managers, not companies.
 
 > *'Create contracts that build up «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process.'*
 
@@ -1126,11 +1131,6 @@ Avoid the trap of following one set career path. Focus on being useful, it will 
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
-Is it better to be good at many things or great at one thing?
-
-- To be an entrepreneur you need to know a little about a lot of things.  
-- To be employed, if you pick the right specialization (specialization is dangereous), you'll do better as a specialist.
-
 > *'I always advise young people to become good public speakers (top 25%). Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
 
 Being an employee is long-term risky. In an economy with shrinking corporations, more outsourcing, more automation, every month you risk being fired. The economy forces all the risk on employees who have no control over their futures.
@@ -1142,6 +1142,11 @@ Being an employee is long-term risky. In an economy with shrinking corporations,
 > *'You dont get anywhere, and for more money, sitting in the same seat.'*
 
 > *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
+
+### Is it better to be good at many things or great at one thing?
+
+- To be an entrepreneur you need to know a little about a lot of things.  
+- To be employed, if you pick the right specialization (specialization is dangereous), you'll do better as a specialist.
 
 ### How to keep a job or advance career?
 
