@@ -595,8 +595,7 @@ The secret to get rich is not to make more money but to keep it.
 
 ### How to spot your investment confort zone?
 
-- Scared money never wins.  
-- Risk of losing money vs the risk of missing opportunity.
+Risk of losing money vs the risk of missing opportunity. Scared money never wins.  
 
 > *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
 
@@ -662,7 +661,7 @@ math shortcut: Years to double = 72 / Interest Rate
 *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
 
 Travel is the only thing you buy that makes you richer.   
-It solves a plethora of self-improvement goals. Travela are mini lifes.
+Travels are mini-lifes. They solve a plethora of self-improvement goals. 
 
 Hints:
 
@@ -671,7 +670,7 @@ Hints:
 - Think less about money optimization and more about who you’re going with.
 - Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
 - Choose places with “lifers”: owners and employees who are dedicated to the business itself, not to a paycheck.
-- Build a business with the heuristic of "Maximize my vacation time": Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling'*
+- Build a business with the heuristic of «maximize my vacation time»: Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling
 
 <!--
 - On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
@@ -699,7 +698,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 ---
 ## On books
 
-> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
+*'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
 
 Reading train your model of the world. Even if you forget most, its effect on your model of the world persists.
 
@@ -807,7 +806,7 @@ Chicks dig a man who exhibits grace under pressure.
 
 > *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
 
-> *'Why are women... so much more interesting to men than men are to women?' -- Virginia Woolf*
+> *'Why are women so much more interesting to men than men are to women?' -- Virginia Woolf*
 
 <!--
 - Major epiphany: Energy creates motion, motion creates emotions, and women are highly emotional beings.
@@ -819,32 +818,17 @@ Chicks dig a man who exhibits grace under pressure.
 ---
 ## On what men value in women
 
-*'What do you value most in a girl? Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.'*
+Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
 
 > *'No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful.' -- Eleanor Roosevelt*
 
 <!--
-### On types of people
-
-types of entrepreneurs: missionaries and mercenaries.
-
-hedonists + stoics
-
-takers + matchers + givers
-
-dreamers + makers + managers
-
-people that like you + people that don't like you + people that don't care about you
-
-spectators + dabblers + men in the arena.
-
 people of all political persuasions
 
-introverts have more probability of being an expert in their field
-extraversion is not good for mastery
-most people are not extremes and most people are in the middle
-introvert is not shyness. most things are not binary. Imagine a introvertness scale from 1 to 7.
-It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+introverts have more probability of being an expert in their field. extraversion is not good for mastery
+most people are not extremes and most people are in the middle. most things are not binary.
+introvert is not shyness.
+Imagine a introvertness scale from 1 to 7. It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 
 - Putt's Law: "Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand."
 -->

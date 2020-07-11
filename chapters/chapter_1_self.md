@@ -1012,7 +1012,7 @@ Anxiety creates hypersensitivity. Linked with our wired out evolutionarily for a
 
 *'If you are feeling stressed out.. breathe.'*
 
-Best antidepressant is knowing we matter to others. Exercise a close second, burn extra calories to diminish the need of control. Fasting is also relevant, debug your brain as much as you can.
+Best antidepressant is knowing we matter to others. Exercise a close second, burn extra calories to diminish the need of control. Fasting is also relevant, debug your body as much as you can.
 
 > *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
 
@@ -1020,11 +1020,7 @@ Best antidepressant is knowing we matter to others. Exercise a close second, bur
 
 > *'No medicine cures what happiness cannot.' -- Gabriel Garcí­a Márquez*
 
-> *'Forgiving yourself is not a nice to have, but a must have.' -- Tim Ferriss*
-
 <!--
--The more relaxed you are, the better you are at everything.
-- 
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
