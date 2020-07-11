@@ -970,7 +970,7 @@ When you don’t create things, you become defined by your tastes rather than ab
 
 ## On stress and health
 
-Take care of your body. It’s the most important thing you’ll get for free. However the origin of most health problems is not physical but mental.
+Take care of your body, it’s the most important thing you’ll get for free. Our bodies were built to hunt and gather and move. Humans aren’t meant to stay still. However the origin of most health problems is not physical but mental.
 
 > *'Physical stress avoids need for control.'*
 
@@ -980,9 +980,15 @@ Take care of your body. It’s the most important thing you’ll get for free. H
 
 > *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
 
-### What is the cause of stress?
+> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
 
-Stress is caused by under-stimulation or over-stimulation. The more relaxed you are, the better you are at everything.
+> *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
+
+### On depression and anxiety
+
+> *'People do not die from suicide. They die from sadness.'*
+
+Anxiety and depression are symptoms, not diseases. They are caused by under-stimulation or over-stimulation.
 
 - Under-stimulation = depression    
 - Right amount of stress = hustling (stretching comfort zone)   
@@ -992,39 +998,23 @@ Stress is caused by under-stimulation or over-stimulation. The more relaxed you 
 If you are anxious you are living in the future.   
 If you are at peace you are living in the present.' -- Lao Tzu*
 
-<!-- ligar com #on-control -->
+Depression is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
 
-> *'Anxiety is linked with our wired out evolutionarily for a [need of control](#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. We don't control anything, at most we influence some stuff.'*
+> *'Boredom is a soul sucker. The unfed mind devours itself.' -- Gore Vidal*
 
-### What is depression?
-
-Depression is the lack of self-expression. Anxiety and depression are symptoms, not diseases. If you feel powerless/being dominated you will be chronically stressed.
-
-> *'Anxiety creates hypersensitivity.'*  
-> *'Anxiety is the dizziness of freedom.' -- Søren Kierkegaard*  
-> *'Exercise diminishes need of control. people burn extra calories through anxiety.'*
+> *'When people don't express themselves, they die one piece at a time.' -- Laurie Halse Anderson*
 
 > *'Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination.'*
 
-> *'Boredom is a soul sucker. The unfed mind devours itself.'*  
-> *'Stressed out by being under estimulated, people will create stresses trying to estimulate themselves.'*
+Anxiety creates hypersensitivity. Linked with our wired out evolutionarily for a [need of control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. Nothing is gained by worrying about «not knowing». We don't control anything, at most we influence some stuff.
 
-> *'Nothing is gained by worrying about «not knowing»'*
+> *'Anxiety is the dizziness of freedom.' -- Søren Kierkegaard*  
 
-> *'Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.'*
+### How to overcome them?
 
+*'If you are feeling stressed out.. breathe.'*
 
-<!--
-> *'When people don't express themselves, they die one piece at a time.' -- Laurie Halse Anderson*
--->
-
-### How to fight depression?
-
-Best antidepressant is knowing we matter to others. Exercise a close second. Fasting is also relevant.
-
-<!--
-When sick, move! Debug your brain as much as you can.
---> 
+Best antidepressant is knowing we matter to others. Exercise a close second, burn extra calories to diminish the need of control. Fasting is also relevant, debug your brain as much as you can.
 
 > *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
 
@@ -1032,22 +1022,15 @@ When sick, move! Debug your brain as much as you can.
 
 > *'No medicine cures what happiness cannot.' -- Gabriel Garcí­a Márquez*
 
-> *'People do not die from suicide. they die from sadness.'*
-
-On placebos:
-
-> *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
+> *'Forgiving yourself is not a nice to have, but a must have.' -- Tim Ferriss*
 
 <!--
+-The more relaxed you are, the better you are at everything.
 - Avoiding stress is avoiding life.
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
-- Our bodies were built to hunt and gather and move. Humans aren’t meant to stay still.
 
 HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-
-> *'If you are feeling stressed out.. breathe.'*
-> *'Forgiving yourself is not a nice to have, but a must have.' -- Tim Ferriss*
 -->
 
 
@@ -1084,6 +1067,8 @@ Behaviors are driven by fear. To change behaviors focus on fear, not on the beha
 
 > *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
 
+> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
+
 <!--
 age is a mindset
 > *'Named must your fear be before banish it you can.' -- Yoda*
@@ -1111,8 +1096,6 @@ You are not you think you are: *you are what you hide*. Usually the things you h
 <!--
 - What you fear you attract; what you resist, you make it bigger.
 -->
-
-> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
 
