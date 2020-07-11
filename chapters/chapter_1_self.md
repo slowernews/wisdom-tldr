@@ -970,13 +970,11 @@ When you don’t create things, you become defined by your tastes rather than ab
 
 ## On stress and health
 
-Take care of your body, it’s the most important thing you’ll get for free. Our bodies were built to hunt and gather and move. Humans aren’t meant to stay still. However the origin of most health problems is not physical but mental.
-
-> *'Physical stress avoids need for control.'*
+Take care of your body, it’s the most important thing you’ll get for free. Our bodies were built to hunt and gather and move, not to stay still. However the origin of most health problems is not physical but mental.
 
 > *'Body language affects your psychology, your mood, and even your hormonal balance.'*
 
-> *'Action cures everything. Plain and simple.'*
+> *'Action cures everything. Plain and simple. Physical stress avoids need for control.'*
 
 > *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
 
@@ -986,17 +984,17 @@ Take care of your body, it’s the most important thing you’ll get for free. O
 
 ### On depression and anxiety
 
-> *'People do not die from suicide. They die from sadness.'*
+*'People do not die from suicide. They die from sadness.'*
 
-Anxiety and depression are symptoms, not diseases. They are caused by under-stimulation or over-stimulation.
-
-- Under-stimulation = depression    
-- Right amount of stress = hustling (stretching comfort zone)   
-- Over-stimulation = anxiety
-
-> *'If you are depressed you are living in the past.   
+*'If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
 If you are at peace you are living in the present.' -- Lao Tzu*
+
+Depression and anxiety are symptoms, not diseases, of under-stimulation and over-stimulation.
+
+- Under-stimulation = Depression    
+- Right amount of stress = Hustling (Stretching comfort zone. Avoiding stress is avoiding life.)  
+- Over-stimulation = Anxiety
 
 Depression is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
 
@@ -1026,7 +1024,7 @@ Best antidepressant is knowing we matter to others. Exercise a close second, bur
 
 <!--
 -The more relaxed you are, the better you are at everything.
-- Avoiding stress is avoiding life.
+- 
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
@@ -1099,15 +1097,11 @@ You are not you think you are: *you are what you hide*. Usually the things you h
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
 
-### How is shame created?
-
-When you try to fix something about yourself, you automatically create shame, because you’re saying this thing that’s true about myself is wrong.
-
-### How to fix shame?
+### How is shame created and how to fix it?
 
 *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
-You gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
+When you try to fix something about yourself, you automatically create shame, because you’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
 > *'Just get out of the room.' -- Robert Glover*
 
