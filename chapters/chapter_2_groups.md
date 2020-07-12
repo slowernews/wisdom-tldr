@@ -592,7 +592,7 @@ Feedback speeds up improvement but only take advice from mentors.
 
 ### How to find mentors?
 
-Look for the silver medalist. He has more availability, and sometimes, a better attitude than «the golden child».
+Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
 
@@ -622,24 +622,24 @@ the value of getting a coach. Spend more time fixing weaknesses than developing 
 have your corner man to indicate your blindspots
 -->
 
-Fatherhood makes you a mentor independently of your will. Don't tell my kids them how to live. Live fully and let them see.
+### How to mentor your kids?
 
 > *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
-### How to mentor your kids:
+Fatherhood makes you a mentor independently of your will. Don't tell your kids them how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
-- Generosity: «What did u do this week for somebody?»  
+Hints:
+
+- Generosity: «What did you do this week for somebody?»  
 - Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
-- Self improvement: «Did u give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
-- Autority: «Kid: why do i have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
+- Self improvement: «Did you give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
+- Autority: «Kid: why do I have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
 - Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
 - Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
 - Optimism: «You have the gift of today.»
-
-By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
 
@@ -663,7 +663,9 @@ Always be generous. A low value gift can have the opposite effect.
 
 > *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- danielvf_HN*
 
-Punishments aren’t as effective as rewards. Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses.
+### On punishments
+
+Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses. Rewards are more effective.
 
 Alternatives that you can try the next time you feel tempted to punish someone:
 - extintion of rewards
@@ -696,7 +698,7 @@ Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-
 
 > *'Well-kept gardens die by pacifism.'*
 
-Hints on conflict resolution:
+### On conflict resolution
 
 - Offer value from the start: Set the stage by coming in smiling, pay a compliment, make a joke and shake hands.
 - Show some empathy and use “we” to show you’re on the same team.  
@@ -732,6 +734,8 @@ When people criticize your life they are speaking about their fears and limitati
 
 > *'It is not greed that drives the world, but envy.' -- Warren Buffet*
 
+### On blindspots
+
 However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
 
 > *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
@@ -749,13 +753,13 @@ The important thing is not to stop questioning. Curiosity has its own reason for
 ---
 ## On following the herd
 
+> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
+
 Most people are other people. Their thoughts are someone else opinions and they jump to conclusions. People accept the defaults very easily.
 
 <!--
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 -->
-
-> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
 
 > *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
 
@@ -810,9 +814,9 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 > *'Judge a man by his questions, not by his answers.' -- Voltaire*
 
-> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
-
 > *'It isn't what we say or think that defines us, but what we do.' -- Jane Austen*
+
+> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
 
 > *'Whenever you feel like criticizing any one... just remember that all the people in this world haven't had the advantages that you've had.' -- F. Scott Fitzgerald*
 
