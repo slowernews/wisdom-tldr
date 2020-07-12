@@ -10,9 +10,9 @@
 
 ## On creativity, vision and ideas
 
-*'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
+> *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
-*'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
+> *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
 
 We don’t have an «imagination» we have a memory. Creative minds are rarely tidy.
 
@@ -61,9 +61,9 @@ However the right idea not executed is worth nothing, but a mediocre one well ex
 ---
 ## On analysis
 
-*'Not everything that counts can be counted, and not everything that can be counted counts.' -- Albert Einstein*
+> *'Not everything that counts can be counted, and not everything that can be counted counts.' -- Albert Einstein*
 
-*'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
+> *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
 
 Analysis is an art, not a science.
 
@@ -192,7 +192,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ---
 ## On planning
 
-*'All battles are won or lost before they are ever fought.' -- Sun Tzu*
+> *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
 Plan ahead and prepare for the highly probable scenarios.  
 Make the decisions right now. When in the moment of making the decision, you have already done it.
@@ -242,11 +242,11 @@ stick to the plan. people sabotage their one plans when it get tedious or too di
 ---
 ## On decision making
 
-*'A well defined problem seeks its own solution' -- Mike Brundant*
+> *'A well defined problem seeks its own solution' -- Mike Brundant*
 
-*'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
+> *'I am not a product of my circumstances. I am a product of my decisions.' -- Stephen Cove*
 
-*'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
+> *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
 The ability to make fast decisions is a competitive advantage.
 
@@ -419,7 +419,7 @@ Some people get paralyzed by [over thinking](#on-starting-and-timing). If you th
 
 ## On starting and timing
 
-*'A year from now, you will wish you had started today.' -- Karen Lamb*
+> *'A year from now, you will wish you had started today.' -- Karen Lamb*
 
 Just start. Stop making resolutions and start making something.
 
@@ -598,7 +598,7 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 ---
 ## On speed, position and direction
 
-*'Speed is useful only if you are running in the right direction.' -- Joel Barker*
+> *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
 Direction is more important than velocity. Bring the target closer.
 
@@ -654,7 +654,7 @@ chess gambits -- exchange material by position-time.
 ---
 ## On focus, priorities and productivity
 
-*'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
+> *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
 
 Focusing is an art. Time itself is not your limitation: attention is. You’re always managing attention, not time.
 
@@ -773,7 +773,7 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 ---
 ## On control
 
-*'You can lead a horse to water but you can’t make him drink.'* 
+> *'You can lead a horse to water but you can’t make him drink.'* 
 
 Control what you can: [what you’re primed by](), [who you are around](), the ideas and problems you [focus]() on. Ignore the rest.
 
@@ -848,9 +848,9 @@ Because the only way to truly benefit from self-improvement is to one day arrive
 ---
 ## On change and adapting
 
-*'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
+> *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
 
-*'Life is more like tetris than chess.' -- Tor Blair*
+> *'Life is more like tetris than chess.' -- Tor Blair*
 
 Plans are not static. You need to switch strategies a few times to get where you want to go.
 
@@ -909,7 +909,7 @@ equipa que ganha, não se mexe
 
 ## On creating imbalances
 
-*'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
+> *'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
 
 Create imbalances in your target to create an advantage and raise chances of winning.  
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
@@ -958,7 +958,7 @@ Sun Tzu, strategy is about winning before the battle begins, while tactics are a
 ---
 ## On leverage
 
-*'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
+> *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
 
 Leverage is a force multiplier for your judgement.
 
@@ -1046,7 +1046,7 @@ To Persuade Someone, Look Emotional
 ---
 ## On deceiving
 
-*'A man is not deceived by others, he deceives himself.' -- Goethe*
+> *'A man is not deceived by others, he deceives himself.' -- Goethe*
 
 If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.
 
@@ -1095,7 +1095,7 @@ However deceiving is not lying. Disappointment destroys trust.
 ---
 ## On unpredictability
 
-*'Conceal your intention.'  
+> *'Conceal your intention.'  
 'Say less than necessary.'  
 'Keep others in suspended terror: cultivate an air of unpredictability.'  
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
@@ -1112,7 +1112,7 @@ Teach no one your tricks or they will be used against you.
 ---
 ## On mirroring
 
-*'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
+> *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
 Mirroring works best when your group is in minority.
 
@@ -1137,7 +1137,7 @@ Cialdini moved from rejection to compliance after the boy had moved from a large
 ---
 ## On opponents and allies
 
-*'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
+> *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
 
 Beware of all players.
 
@@ -1195,7 +1195,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 ---
 ## On defeating status quo
 
-*'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
+> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
 
 The only successful changes are those coming from within.
 
@@ -1211,7 +1211,7 @@ burocracy prevents low probability events to happen at the expense of making mor
 
 ## On finishing
 
-*'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
+> *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
 Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often.
 
@@ -1233,9 +1233,9 @@ Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time
 ---
 ## On winning
 
-*'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
+> *'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
 
-*'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
+> *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 It's not just about winning. The way you win sets you up for the next round.
 
@@ -1268,7 +1268,7 @@ winning by exhaustion: Traditional military theorists such as Sun Tzu (“Suprem
 ---
 ## On surrendering
 
-*'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk (skater)*
+> *'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk (skater)*
 
 Use this opportunity to re-create yourself. In order to come back you have to go away. If you didnt quit anything you woud be still playing with toddlers.  
 Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
@@ -1294,7 +1294,7 @@ Sometimes good things fall apart so better things can fall together. Every story
 ---
 ## On forgiveness
 
-*'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
+> *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
 If forgiveness is a process of release — of letting go of something — then the opposite of forgiveness is a decision to hold onto something.
 Many people think that the alternative to forgiveness is punishment: e either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution. But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. People do this all the time. Governments do it every day.

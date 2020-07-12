@@ -34,7 +34,7 @@
 - [On shame](/chapters/chapter_1_self.md#on-shame)
 - [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
 - [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
-- [On optimism](/chapters/chapter_1_self.md#on-optimism)
+- [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 

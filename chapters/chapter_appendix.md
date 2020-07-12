@@ -10,7 +10,7 @@
 
 ## On past and memory
 
-*'You can't start the next chapter of your life if you keep re-reading the last one.'*
+> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
 You are your memory but let go your past [failures](#on-mistakes-and-failure). They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
@@ -59,7 +59,7 @@ How memory works? Hints:
 ---
 ## On present
 
-*'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
+> *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
 You will die soon. Never get so busy making a living that you forget to make a life.
 
@@ -90,7 +90,7 @@ Act accordingly and don't postpone joy: live life ready to meet god like it’s 
 ---
 ## On future
 
-*'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
+> *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
 Dream big. If your dreams don't scare you, they are not big enough.  
 Anomalies often represent the future but to our eyes they seem strange.
@@ -122,7 +122,7 @@ However don't obcess on that. You can't control the future.
 ---
 ## On growing old
 
-*'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
+> *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
 > *'We don’t stop playing because we grow old; we grow old because we stop playing.' -- George bernard Shaw*
 
@@ -144,9 +144,9 @@ However don't obcess on that. You can't control the future.
 
 ## On intelligence and talent
 
-*'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
+> *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
-*'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
+> *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
 
 Talent is fragile. To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times. It's the most sensitive envy trigger.
 
@@ -170,7 +170,7 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays; y
 ---
 ## On money and wealth
 
-*'Some people are so poor, all they have is money.' -- Patrick Meagher*
+> *'Some people are so poor, all they have is money.' -- Patrick Meagher*
 
 Being rich is being fulfilled, not counting money all day.  
 Money is a tool. It can serve as a force multiplier to help you live the life of your dreams, enjoy wild adventures and create a lasting legacy. You can spend your time making money but you can't spend your money making time. The perpetual chase for more is not the path that leads to more freedom and happiness.
@@ -217,7 +217,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 ---
 ## On luck
 
-*'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
+> *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
 
 Unless you’re winning, life will seem hideously unfair to you. Bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world. It’s all math. The best things in life are born from coincidence.
 
@@ -251,7 +251,7 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 ---
 ## On beauty and style
 
-*'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
+> *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
 
 The sign of a beautiful person is that they always see beauty in others.
 
@@ -267,7 +267,7 @@ The sign of a beautiful person is that they always see beauty in others.
 ---
 ## On health
 
-*'You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker'*
+> *'You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness.' -- Allen Tucker'*
 
 Health is also an envy trigger. Often what people really envy is self-control.
 
@@ -285,9 +285,9 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 > *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
 
-*'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
+> *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
 
-*'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
+> *'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
 
 We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children](/chapter_2_groups.md#on-feedback-and-mentorship) and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.
@@ -338,7 +338,7 @@ You are in a city, without knowing the language, manage to go to the hostel, mee
 ---
 ## On success
 
-*'Success doesn’t come to you. You go to it.' -- Marva Collins*
+> *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
 There is no shortcut. Success is a castle that you build [brick by brick](#on-habits-and-systems). But success is not being [wealthy](#on-wealth), is being [happy](#on-gratefulness-and-happiness). Success is subjective. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
 
@@ -406,7 +406,7 @@ You don’t need the fancy car, expensive watch, or flashy toys, spend your mone
 
 ## On comedy
 
-*'Only the truth is funny.' -- Rick Reynolds*
+> *'Only the truth is funny.' -- Rick Reynolds*
 
 Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. Standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
 
@@ -455,7 +455,7 @@ To find the truths inside of us that make us all relate to each other. That brin
 ---
 ## On humanness and irrationality
 
-*'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Robert Heinlein on Starship Troopers*
+> *'If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy.' -- Robert Heinlein on Starship Troopers*
 
 Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.
 
@@ -479,7 +479,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 ---
 ## On marriage
 
-*'Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed.' -- H.Harwood and R. Gore-Bro*
+> *'Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed.' -- H.Harwood and R. Gore-Bro*
 
 > *'He who marries for love without money has good nights and sorry days.' -- Ani Difranco*
 
@@ -493,9 +493,9 @@ Most people approach each and every year in the exact same way while (somehow) e
 ---
 ## On religion
 
-*'And on the first day, men created god.'*
+> *'And on the first day, men created god.'*
 
-*'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
+> *'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
 
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
@@ -517,7 +517,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 ---
 ## On science and art
 
-*'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
+> *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albert Einstein*
 
@@ -558,7 +558,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 ---
 ## On aesthetics
 
-*'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*
+> *'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*
 
 That's where «big bucks» are. The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
 Most people with good taste are young and poor.
@@ -587,7 +587,7 @@ Most people with good taste are young and poor.
 ---
 ## On money management
 
-*'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+> *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
 Spend less than you make. Stay liquid. Never invest in anything you can't sell in 30 days and diversify with uncorrelated bets.  
 Saving a higher proportion of your income allows to cut decades off of your working life.
@@ -658,7 +658,7 @@ math shortcut: Years to double = 72 / Interest Rate
 ---
 ## On travel and nomadism
 
-*'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
 
 Travel is the only thing you buy that makes you richer.   
 Travels are mini-lifes. They solve a plethora of self-improvement goals. 
@@ -682,7 +682,7 @@ Hints:
 ---
 ## On college
 
-*'The purpose of high education is first and foremost to meet people and build relationships.'*
+> *'The purpose of high education is first and foremost to meet people and build relationships.'*
 
 A college education can help you make a living, self-education can make you a fortune.
 
@@ -698,7 +698,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 ---
 ## On books
 
-*'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
+> *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
 
 Reading train your model of the world. Even if you forget most, its effect on your model of the world persists.
 
@@ -756,7 +756,7 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 ---
 ## On computers and maths
 
-*'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
+> *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
 
 We’ve grown dependent on three simple features that just aren’t available in the analog world: search, sort and filter.
 
@@ -794,7 +794,7 @@ I wonder how long it'll be until we replace fiat currencies with a balance of ki
 
 ## On what women value in men
 
-*'She likes a gentleman who knows when not to be gentle.'*
+> *'She likes a gentleman who knows when not to be gentle.'*
 
 Chicks dig a man who exhibits grace under pressure.
 

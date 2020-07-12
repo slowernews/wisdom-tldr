@@ -10,7 +10,7 @@
 
 ## On networking
 
-*'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
+> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
 
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
 
@@ -74,7 +74,7 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 ---
 ## On communication
 
-*'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
 Speak less and listen more. Be humble, listening is powerful.
 
@@ -145,9 +145,9 @@ When public speaking you dont need to answer their question. you can say whateve
 ---
 ## On business and entrepreneurship
 
-*'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
+> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
 
-*'What you need to start a new business: generosity.' -- Derek Sivers*
+> *'What you need to start a new business: generosity.' -- Derek Sivers*
 
 Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
 
@@ -448,7 +448,7 @@ So can you pitch me what our company does? people minds work by association. pre
 ---
 ## On relationships
 
-*'Humans make connections.  
+> *'Humans make connections.  
 Sometimes these connections grow.  
 Sometimes they stay the same.  
 Sometimes they collapse.'*
@@ -582,7 +582,7 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 ---
 ## On feedback and mentorship
 
-*'I’d rather have criticism from a genius than praise from an idiot.'*
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
 
 Feedback speeds up improvement but only take advice from mentors.
 
@@ -651,9 +651,9 @@ However some people are not ready to accept your vision. And «givers» attract 
 ---
 ## On generosity and incentives
 
-*'No one has ever become poor by giving.' -- Anne Frank*
+> *'No one has ever become poor by giving.' -- Anne Frank*
 
-*'He that gives should never remember and he that receives should never forget.' -- Talmud*
+> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
 Always be generous. A low value gift can have the opposite effect.
 
@@ -687,7 +687,7 @@ impredictable schedule / fixed work amount schedule / fixed time amount schedule
 
 ## On conflicts
 
-*'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
+> *'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
 
 Don't avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
 Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom) as much as possible.
@@ -709,9 +709,9 @@ Hints on conflict resolution:
 ---
 ## On criticism and envy
 
-*'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
 
-*'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
+> *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
 
 Treat your haters like toddlers.
 
@@ -775,7 +775,7 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 ### What is stupidity and how to deceive it?
 
-*'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
+> *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
 Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don't actually think, they just take their first thought and go.
 
@@ -842,7 +842,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 ---
 ## On society and politics
 
-*'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
+> *'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
 
 Politicians don't like risk. Decisions are made on the lowest risk of offending anybody.
 
@@ -887,7 +887,7 @@ it may be pop psychology stuff, but it’s convenient for my point so in the spi
 
 ## On leadership
 
-*'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 Leaders are team makers: there are no bad teams, only bad leaders. 
 
@@ -965,9 +965,9 @@ o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por n
 ---
 ## On teams: management and delegation
 
-*'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
-*'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
 Managing is delegating. Your speed as a manager is the speed of your team.
 
@@ -980,7 +980,7 @@ The key principle is putting your team’s productivity first. Remember, you are
 
 ### How to give feedback?
 
-*'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
+> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
 For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
 
@@ -1049,7 +1049,7 @@ boss ask employee to do x. employee resist, boss come back later after thinking 
 ---
 ## On hiring and being hired
 
-*'He who works with his hands is a laborer.  
+> *'He who works with his hands is a laborer.  
 He who works with his hands and his head is a craftsman.  
 He who works with his hands and his head and his heart is an artist.' -- St. Francis of Assisi*
 
@@ -1125,7 +1125,7 @@ Decide in advance what your time is worth. Do not let others tell you how much y
 ---
 ## On career
 
-*'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
+> *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
 Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed. If your job doesn't require originality, next decade you might not have it.
 

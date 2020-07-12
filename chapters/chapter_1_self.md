@@ -10,7 +10,7 @@
 
 ## On independence
 
-*'A man is free at the instant he wants to be.' -- Voltaire*
+> *'A man is free at the instant he wants to be.' -- Voltaire*
 
 Choose *yourself*. Choose to be independent.
 
@@ -74,7 +74,7 @@ personality is not static. - rollo tomassi
 ---
 ## On authenticity
 
-*'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 Choose authenticity. Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
@@ -136,7 +136,7 @@ _im bad in following a script_
 ---
 ## On integrity and accountability
 
-*'Trust, not money, is the currency of business and life.'*
+> *'Trust, not money, is the currency of business and life.'*
 
 Be impeccable with your word and consciently work on being honest. The only way to build trust is to seek respect.
 
@@ -223,9 +223,9 @@ I sometimes forget that a group of people blazed the trail I’m enjoying and th
 
 ### On finding your path
 
-*'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
+> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
-*'The obstacle is the way.' -- Marcus Aurelius*
+> *'The obstacle is the way.' -- Marcus Aurelius*
 
 Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
 
@@ -371,7 +371,7 @@ Without this clarity, you will find yourself wandering aimlessly for years, or e
 ---
 ## On comfort and risk
 
-*'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
+> *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
 You need to break rules to achieve anything great.  
 Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement. You keep doing what you’re good at to avoid facing the real problems in your life. The size of our life is in direct proportion to how uncomfortable we are willing to be.
@@ -433,7 +433,7 @@ But the problem with this philosophy is that no great work ever came from comfor
 ---
 ## On improving
 
-*'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
 Most problems can be solved by graded exposure over time. Make the mind tougher by exposing it to adversity.
 
@@ -771,7 +771,7 @@ skill fluency!
 ---
 ## On achieving mastery
 
-*'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
+> *'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
 
 After learning the rules, break them. Only then you can achieve mastery.  
 
@@ -807,7 +807,7 @@ However mastery is an important trigger of arrogance. There's always room for im
 ---
 ## On habits and systems
 
-*'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
+> *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
 Consistency doesn’t come from effort, it comes from systems. Decisions compound. The pathway to freedom is discipline.
 
@@ -927,7 +927,7 @@ Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms o
 ---
 ## On self awareness
 
-*'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
+> *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
 
 Self awareness is the ability to pause your mind.
 
@@ -940,7 +940,7 @@ Do you know anyone who doesn’t have any blind spots? Then why would you be any
 
 ### How to grow self awareness?
 
-- Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
+Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
 
 <!--
 Why we should always question our assumptions -- “what if I’m wrong about this?”
@@ -984,9 +984,9 @@ Take care of your body, it’s the most important thing you’ll get for free. O
 
 ### On depression and anxiety
 
-*'People do not die from suicide. They die from sadness.'*
+> *'People do not die from suicide. They die from sadness.'*
 
-*'If you are depressed you are living in the past.   
+> *'If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
 If you are at peace you are living in the present.' -- Lao Tzu*
 
@@ -1010,7 +1010,7 @@ Anxiety creates hypersensitivity. Linked with our wired out evolutionarily for a
 
 ### How to overcome them?
 
-*'If you are feeling stressed out.. breathe.'*
+> *'If you are feeling stressed out.. breathe.'*
 
 Best antidepressant is knowing we matter to others. Exercise a close second, burn extra calories to diminish the need of control. Fasting is also relevant, debug your body as much as you can.
 
@@ -1033,7 +1033,7 @@ HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author
 ---
 ## On fear, anger and excuses
 
-*'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
+> *'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
 
 Fear is paralyzing. If you view everything through the lens of fear, then you tend to stay in retreat mode.
 
@@ -1041,7 +1041,7 @@ Anger and excuses are fear clothed. All excuses are refutable. You'll never be a
 
 ### How to overcome fear?
 
-*'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
+> *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
 
 Behaviors are driven by fear. To change behaviors focus on fear, not on the behavior itself.
 
@@ -1081,9 +1081,9 @@ age is a mindset
 ---
 ## On shame
 
-*'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
+> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
-*'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
+> *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
 You are not you think you are: *you are what you hide*. Usually the things you hate most about yourself are the things you hide from the rest of the world.
 
@@ -1095,7 +1095,7 @@ You are not you think you are: *you are what you hide*. Usually the things you h
 
 ### How is shame created and how to fix it?
 
-*'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
+> *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
 When you try to fix something about yourself, you automatically create shame, because you’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
@@ -1109,7 +1109,7 @@ When you try to fix something about yourself, you automatically create shame, be
 ---
 ## On mistakes and failure
 
-*'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
+> *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
 Fail fast and bounce back quickly by being [grateful](#on-gratitude-and-humbleness):  
 Sometimes you win, sometimes you learn. Accept failure as part of the process. Anyone who has never made a mistake has never tried anything new.
@@ -1178,7 +1178,7 @@ Thinking about it makes it worse. Writing about it makes it better.
 ---
 ## On confidence and validation
 
-*'Believe you can, and you’re halfway there.'*
+> *'Believe you can, and you’re halfway there.'*
 
 If you say it with confidence, you are who you say you are. You're only as good as your next speech.
 
@@ -1275,9 +1275,9 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 
 
 ---
-## On optimism
+## On pessimism
 
-*'That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.' -- James Jones*
+> *'That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.' -- James Jones*
 
 > *'I've lived through some terrible things in my life, some of which actually happened.' -- Mark Twain*
 
@@ -1289,7 +1289,7 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 ---
 ## On limits, resistance and motivation
 
-*'The only person standing in your way is you.' -- Black Swan*
+> *'The only person standing in your way is you.' -- Black Swan*
 
 Your limits are where are your [fears](#on-fear-anger-and-excuses).  
 
@@ -1319,7 +1319,7 @@ fear that you are not good enough: that you will never find a woman as good as y
 ---
 ## On perfectionism
 
-*'The perfect is the enemy of the good.' -- Voltaire*
+> *'The perfect is the enemy of the good.' -- Voltaire*
 
 Strive for excellence, not for perfection. From good enough you can derive success.  
 Try to see yourself as a doist, not a perfectionist. This is liberating.
