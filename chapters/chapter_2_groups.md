@@ -105,6 +105,8 @@ Speak less and listen more. Be humble, listening is powerful.
 
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 Heart, head and soul in your interview. Make the interview feeling safe. when you have passion you communicate better
+
+“I don't know if you've ever noticed this, but first impressions are often entirely wrong.” -- Lemony Snicket
 -->
 
 ### How to tell good stories?
@@ -484,6 +486,7 @@ Focus on what you can give not what you can get. You only receive in proportion 
 - first we judge trust, before strength. we build trust through presence. leadership is based on trust.
 
 - There are four types of relationships: Win Win (long term), Win Lose, Lose Win, Lose Lose
+good partnership: complementary skillsets with shared values
 -->
 
 ### On romantic relationships
@@ -506,6 +509,8 @@ Love is what happens to men and women that don't know each other. Love doesn’t
 
 <!--
 > *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
+
+> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can't believe that ours didn't go on forever.' -- Nicholas Sparks*
 -->
 
 
@@ -881,6 +886,7 @@ it may be pop psychology stuff, but it’s convenient for my point so in the spi
 
 > *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
+> *'The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum.' -- Noam Chomsky*
 -->
 
 
@@ -1012,6 +1018,9 @@ Hints on meetings:
 - Switch my default to “no” for all meetings. If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
 
 <!--
+- So what makes organizations productive? Making hard decisions. -- scott-belsky (behance creator)
+- elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren't. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
+
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
 - Amazon’s “two-pizza teams”: The ultimate divisional organization
 - a great manager is a great facilitator

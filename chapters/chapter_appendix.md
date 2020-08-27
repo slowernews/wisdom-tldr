@@ -294,7 +294,7 @@ When life becomes about [enjoying every second over accumulating more stuff](#on
 
 Hints:
 
-- 9 to 5; 3 days a week; 3 weeks a month; 3 months free a year.  
+- 3 days a week; 3 weeks a month; 3 months free a year.  
 - House + work + third place (coffeeshop).
 - The opposite of play isn’t work, it’s depression.  
 - Essencialism: the disciplined pursuit of less.  
@@ -315,6 +315,8 @@ Geoarbitrage. Car: max 10K. Job: live next to it.
 > *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
 
 <!--
+- travel as a way of running way from their problems
+> *'I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude.' -- Colette*
 - In life, you will often be presented with two options: The lucrative option, The lifestyle option. job -> money + lifestyle!
 - value in less and the joy of missing out:
 - it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
@@ -330,6 +332,7 @@ You are in a city, without knowing the language, manage to go to the hostel, mee
 - My life has been a series of questions and odd experiments.
 - /r/buyitforlife
 - Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
+> *'Each of us, when our day's work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
 -->
 
 

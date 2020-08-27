@@ -710,6 +710,7 @@ HOWEVER...
 > *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
 
 <!--
+> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
 2) Manage emotions to better manage time: it’s your beliefs that create your feelings, not reality.
 procrastination is a mood-management technique
 3) Important Beats Urgent
@@ -782,6 +783,8 @@ Control what you can: [what you’re primed by](), [who you are around](), the i
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
 <!--
+- Consuming information gives an illusion of control
+
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 - control is the master adiction.
 - focus on what doesnt change
@@ -1304,3 +1307,5 @@ By refusing to forgive someone, we get to cast ourselves as victims, as underdog
 > *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
 
 > *'Life has become immeasurably better since I have been forced to stop taking it seriously.' -- Hunter S. Thompson*
+
+> *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*

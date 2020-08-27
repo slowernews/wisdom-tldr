@@ -165,6 +165,9 @@ Be willing to side with the minority.
 Humility With forward action: 'I wasn’t the smartest in X but..'
 integrity is what you think is what you say, and the same what you do.
 being vulnerable is taking don't be afraid of taking a risk.
+
+> *'Truth only means something when it's hard to admit.' -- Nicholas Sparks*
+> *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
 -->
 
 
@@ -269,6 +272,9 @@ Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regre
 > *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
 
 <!--
+> *'People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
+	
+> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
 Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
@@ -1069,10 +1075,13 @@ age is a mindset
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
 > *'The things we fear the most have already happened to us.'*
 > *'If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.' -- Hermann Hesse*
+> *'We should all start to live before we get too old. Fear is stupid. So are regrets.' -- Marilyn Monroe*
 
 - Conquering Fear = Defining Fear: define your fears not your goals
 - I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
 “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
+> *'The only real prison is fear, and the only real freedom is freedom from fear' -- Aung San Suu Kyi*
+> *'Don't give in to your fears. If you do, you won't be able to talk to your heart.' -- Paulo Coelho*
 -->
 
 
@@ -1081,27 +1090,23 @@ age is a mindset
 ---
 ## On shame
 
-> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
-
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
-You are not you think you are: *you are what you hide*. Usually the things you hate most about yourself are the things you hide from the rest of the world.
+You are not you think you are: *you are what you hide*.
 
-<!--
-- What you fear you attract; what you resist, you make it bigger.
--->
+The things you hate most about yourself are the things you hide from the rest of the world. 
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
 
-### How is shame created and how to fix it?
+### How ow to deal with it?
+
+When you try to hide something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
+
+> *'Once you’ve accepted your flaws, no one can use them against you.' -- Tyrion*
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
-When you try to fix something about yourself, you automatically create shame, because you’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
-
 > *'Just get out of the room.' -- Robert Glover*
-
-> *'Being entirely honest with oneself is an important exercise.' -- Sigmund Freud*
 
 
 
@@ -1149,6 +1154,9 @@ Suffering is a temporary but essential part of life.
 > *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
 
 <!--
+> *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
+> *'It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
+
 What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
 
 - Failure is only failure if you don’t learn from it, if you don’t grow from it, and if you don’t reframe it so that you see each failure as a valuable teacher, educating you about how to achieve your dreams.
@@ -1217,6 +1225,7 @@ Other confidence «movers»:
 > *'Don't be so humble - you are not that great.' -- Golda Meir*
 
 <!--
+- nobody that is busy is confident
 "low self confidence is the source of all problems. all neediness is a sign of self low confidence
 punishing yourself for failing. failing is learning.
 honesty is the pathway to confidence. when you hide you create shame and shamelessness overtime is a defense against low self estime.
@@ -1293,7 +1302,7 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 
 Your limits are where are your [fears](#on-fear-anger-and-excuses).  
 
-Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs.  People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
+Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
 
 > *'To define is to limit.' -- Oscar Wilde*
 
