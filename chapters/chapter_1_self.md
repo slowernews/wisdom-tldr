@@ -1092,13 +1092,11 @@ age is a mindset
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
-You are not you think you are: *you are what you hide*.
-
-The things you hate most about yourself are the things you hide from the rest of the world. 
+The things you hate most about yourself are the things you hide from the rest of the world. You are not you think you are: *you are what you hide*.
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
 
-### How ow to deal with it?
+### What is shame?
 
 When you try to hide something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
@@ -1116,30 +1114,19 @@ When you try to hide something about yourself, you automatically create shame. Y
 
 > *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
-Fail fast and bounce back quickly by being [grateful](#on-gratitude-and-humbleness):  
-Sometimes you win, sometimes you learn. Accept failure as part of the process. Anyone who has never made a mistake has never tried anything new.
+> *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
 
-Making mistakes is better than faking perfections. The more you fail, the more you learn.
+Fail fast and bounce back quickly by being [grateful](#on-gratitude-and-humbleness): Sometimes you win, sometimes you learn.
+
+Failure is only failure if you don’t learn from it. Accept it as part of the process. The more you fail, the more you learn. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don't know something you will pay for it. That's the stupidity tax. 
 
 > *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
-
-> *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
-
-> *'Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.'*
 
 > *'Failure is the condiment that gives success its flavor.' -- Truman Capote*
 
 > *'Prove all things; hold fast that which is good.' -- 1 Thessalonians 5:21*
 
-> *'When you don't know something you will pay for it. That's the stupidity tax.'*
-
-> *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
-
 > *'Calling it an experiment gives you permission to fail.' -- A.J. Jacobs*
-
-> *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
-
-> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
 > *'It's not the load that breaks you down, it's the way you carry it.' -- Lou Holtz*
 
@@ -1147,37 +1134,35 @@ Be gentle first with yourself. You are more than your mistakes. Your past mistak
 
 > *'It’s not just other people we need to forgive. Sometimes we need to forgive ourselves.' -- Mitch Albom*
 
-Suffering is a temporary but essential part of life.
+> *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
+
+> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
+
+Suffering is a temporary but essential part of life. Making mistakes is better than faking perfections. Every difficulty carries with it a corresponding opportunity of equal size.
 
 > *'Your pain, is the breaking of the shell that encloses your understanding.' -- Kahil Gibran, The Prophet*
 
 > *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
 
+> *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
+
+> *'It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
+
 <!--
 > *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
-> *'It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
 
 What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
 
-- Failure is only failure if you don’t learn from it, if you don’t grow from it, and if you don’t reframe it so that you see each failure as a valuable teacher, educating you about how to achieve your dreams.
-- failures are flip-sides of our strengths, the opposite is true also. you fail by the same reasons that you sometimes you will succeed
 - When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
 - Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
-
 - The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
 But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
 De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
 After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
-
 - Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
 Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
-
-- every difficulty carries with it a corresponding opportunity of equal size.
 - I had a scarcity mindset = pessimism, about life and zero confidence
-
-Failure is necessary to be successful in life. There’s a big difference between quitting and failure.
-
-Thinking about it makes it worse. Writing about it makes it better.
+- Thinking about it makes it worse. Writing about it makes it better.
 -->
 
 
