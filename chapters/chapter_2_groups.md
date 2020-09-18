@@ -585,6 +585,7 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 - the way of man is the way of the gang
 
 > *'Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.' -- Elie Wiesel*
+> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
 -->
 
 
@@ -835,7 +836,8 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 - changing course is hard and this scares us so we look around and try to copy the courses other people took
 - If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
 
-> *'Whenever people agree with me I always feel I must be wrong.' --  Oscar Wilde*
+> *'Some people feel the rain. Others just get wet.' -- Bob Marley*
+> *'Whenever people agree with me I always feel I must be wrong.' -- Oscar Wilde*
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
@@ -869,6 +871,8 @@ Politicians don't get educated. They get bought. To reduce corruption diminish p
 > *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
 
 > *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
+
+> *'Favors granted always become defined as rights.' -- Saul Alinsky*
 
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
 

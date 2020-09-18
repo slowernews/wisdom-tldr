@@ -467,7 +467,7 @@ you always throw out your first pancake - primeiro milho é para os pardais
 - in order to understand i destried myself
 
 > *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
-
+> *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
 
 “Some systems … are very sensitive to their starting conditions, 
@@ -1186,6 +1186,8 @@ Besides outworking them, you'll need all weaponry. Sometimes even the «dirty st
 'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
+
+> *'Do I not destroy my enemies when I make them my friends?' -- Abraham Lincoln*
 
 <!--
 - Nietszche says to measure one's strength by the number of parasites one can support.

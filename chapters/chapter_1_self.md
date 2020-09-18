@@ -1031,6 +1031,8 @@ Best antidepressant is knowing we matter to others. Exercise a close second, bur
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
 HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+
+> *'Pain is inevitable. Suffering is optional.' -- Haruki Murakami*
 -->
 
 
@@ -1068,6 +1070,8 @@ Behaviors are driven by fear. To change behaviors focus on fear, not on the beha
 > *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
 
 > *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
+
+> *'Life shrinks or expands in proportion to one's courage.' -- Anaïs Nin*
 
 <!--
 age is a mindset

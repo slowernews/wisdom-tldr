@@ -514,6 +514,8 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 > *'God has no religion.' -- Mahatma Gandhi*
 
+> *'Compassion is the basis of morality.' -- Arthur Schopenhauer*
+
 
 
 
@@ -735,6 +737,7 @@ when writing a book start with your own ideas
 > *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
 > *'Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.' -- J.K. Rowling*
+> *'I'm quite illiterate, but I read a lot.' -- J.D. Salinger*
 -->
 
 
