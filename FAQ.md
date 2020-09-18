@@ -14,7 +14,7 @@ Western culture (European flavour), loose minimalism, centrism, agnosticism and 
 
 #### Can I help?
 
-I'm always open to criticism, suggestions and grammar corrections (I'm not a native english speaker).
+I'm always open to criticism, suggestions, misquotations or grammar corrections (I'm not a native english speaker).
 
 ---
 

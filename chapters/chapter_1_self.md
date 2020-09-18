@@ -1092,9 +1092,9 @@ age is a mindset
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
-The things you hate most about yourself are the things you hide from the rest of the world. You are not you think you are: *you are what you hide*.
-
 > *'Nobody feels love when they feel shame.' -- John Townsend*
+
+The things you hate most about yourself are the things you hide from the rest of the world. You are not you think you are: *you are what you hide*.
 
 ### What is shame?
 
@@ -1151,8 +1151,7 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 <!--
 > *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
 
-What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
-
+- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
 - When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
 - Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
 - The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
@@ -1213,35 +1212,25 @@ Other confidence «movers»:
 - nobody that is busy is confident
 "low self confidence is the source of all problems. all neediness is a sign of self low confidence
 punishing yourself for failing. failing is learning.
-honesty is the pathway to confidence. when you hide you create shame and shamelessness overtime is a defense against low self estime.
+- honesty is the pathway to confidence. when you hide you create shame and shamelessness overtime is a defense against low self estime.
 physical puberty, psychological puberty" -- dan munro
-
-Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
-
-Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
-
-It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
-
+- Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
+- Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
+- It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
 > *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
 “There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die.
 “Every day I wake up with that gun to my head. Every day I live.”
 burning bridges to get the motivation.
-
 - Uncovering Fear Disguised as Optimism
 - hero and coward feel the same fear but their answers to it are different.
 - You don’t have to prove anything to anybody, including yourself.
-
 - Seek Validation from Yourself and Yourself Only, specially men. The problem is that men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
-
 - The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible.
 When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility. All in all, it makes your dating life 1,000 times easier and more fun to navigate.
-
 > *'Whenever I climb I am followed by a dog called ‘Ego’.' -- Friedrich Nietzsche*
-
 - Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 - analogy: confidence is like a building
-
-Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
+- Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
 	
 > *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
 If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
@@ -1256,7 +1245,7 @@ I do my best to always pay attention to how I am presenting myself to others eve
 
 > *'Dress for the job you want, not for the one you have.'*
 
-Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
+- Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu* 
 
 9. Entitlement comes in two forms.

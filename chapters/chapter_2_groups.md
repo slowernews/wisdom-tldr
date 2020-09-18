@@ -16,6 +16,8 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 
 > *'The enemy of excellence is isolation.' -- Aaron Walker*
 
+> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
+
 > *'Your silence will not protect you.' -- Audre Lorde*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
@@ -32,16 +34,17 @@ Be useful, not important.
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
+> *'If you expect magic in every encounter, you'll find it.' -- Adam Robinson*
+
 ### How to prepare an elevator pitch?
 
 Choose truth or your self-mythology will seduce you.
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
-> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till i wasn’t», or any one of the familiar narratives we’ve heard from our heroes.'*
+> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t», or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
 
 <!--
-> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
 intro: //clay hebert
 I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words -- short and sweet and confident and interesting.
@@ -62,11 +65,14 @@ How to curate your network?
 
 ### Why most people don't like networking?
 
-We don’t like people that see us in a way that doesn’t resonate with how we see ourselves. Handling rejection is hard. 
+Handling rejection is hard.
 
-> *'If you expect magic in every encounter, you'll find it.' — Adam Robinson*
+> *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.'*
 
 > *'If people forget it wasn't a good network anyway.'*
+
+> *'I don't know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
+
 
 
 
@@ -91,22 +97,20 @@ Speak less and listen more. Be humble, listening is powerful.
 	- Paraphrasing: Repeat what they just said in your own words.
 	- Emphasize Similarity, we like people who are like us.
 
-- Get better at asking questions, they are more important than answers. But asking questions without paying attention is worthless. You must be curious. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It's hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. - Make people being interested in you by making them good/unusual questions. Be interested in them to them be interested in you.
+- Get better at asking questions, they are more important than answers. But asking questions without paying attention is worthless. You must be curious. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It's hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Making good/unusual questions will make peple interested in you. Be interested in them to them be interested in you.
 
 - Talk about your passions instead of accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments and asking for advice.
 
-- Know how to lead a conversation and how to go with the conversational flow.
+- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet.
+
+- Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
 
 - Don't be stubborn: you don't always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
 
 <!--
-- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. Add value -> give positive energy. The best way to be highly influential is to be human to everyone you meet.  
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly. Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it.
 
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
-Heart, head and soul in your interview. Make the interview feeling safe. when you have passion you communicate better
-
-“I don't know if you've ever noticed this, but first impressions are often entirely wrong.” -- Lemony Snicket
 -->
 
 ### How to tell good stories?
@@ -217,8 +221,10 @@ Become the best in the world at what you do. Keep redefining what you do until t
 There are no get rich quick schemes. That's just someone else getting rich off you.
 Apply specific knowledge, with leverage, and eventually you will get what you deserve.
 When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
-	
+- - persuade people to buy rather than teach people to buy.	
 - a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
+- startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.
+- cant be an entrepeneur without being curious
 
 - pro tip: Ask your current customers “What nearly stopped you buying from us?”
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
@@ -829,6 +835,7 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 - changing course is hard and this scares us so we look around and try to copy the courses other people took
 - If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
 
+> *'Whenever people agree with me I always feel I must be wrong.' --  Oscar Wilde*
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
