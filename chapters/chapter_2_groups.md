@@ -155,7 +155,7 @@ When public speaking you dont need to answer their question. you can say whateve
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
-Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
+Focus on what can you give instead of focusing in making money.
 
 Test sales first. Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it: the consumer votes with his wallet.
 
@@ -163,53 +163,44 @@ It's not about what you know, it's about who trusts you to solve their problems.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
-Hints:
+Patterns on successful *wannapreneurs*:
 
-- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it.  
-- Do things that don’t scale  
-- Pre-product market fit – do things that don’t scale: remain small/nimble  
-- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no demand.  
-- Don’t scale your team/product until you have built something people want  
-- You only have to be really right once: Zuckerberg thought that Facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
-- It’s easier when YOU are the customer. You truly understand the problem. Start with something I'm interested in. Don't worry about the theory; just focus on solving the problem. Solve the problem; start broadening my focus from there. <- on learning programming 
-- Scratch your own itch it's good only as a start. Build something people want: Find 10-100 customers who love your product   
-- Sometimes you need to fire your customers (they might be killing you)  
-- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.
-- If you have an idea, test it. It’s called putting out a “minimally viable product” or MVP. 
-- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.  
-- Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
-- “It’s not your money”  
-- Timing is the most important factor in startup success. Team and Execution came next.
-- Launch now. Find the 90/10 solution  
-- CEOs are [adaptable and flexible](chapter_3_action.md#on-adapting) and good risk managers.
-- Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
-- All startups are badly broken at some point  
-- Startups can only solve one problem well at any given time  
-- Growth is the result of a great product not the precursor  
-- Ignore your competitors, you will more likely die of suicide than murder  
-- Valuation is not equal to success or even probability of success  
-- Most companies don’t die because they run out of money  
-- Write code – talk to users  
-- Avoid long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service.  
-- Avoid big company corporate development queries – they will only waste time  
-- Avoid conferences unless they are the best way to get customers  
-- Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
-- Fall in love with the problem, not the solution.
-- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.
-- If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.
+- They talk to people about their ideas, but never build anything. 
+	- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
+	- Do things that don’t scale.  
+	- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no paying demand.  
+	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you're interested in. Don't worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
+	- Timing is the most important factor in startup success. Team and Execution came next.
+	- Launch now. Find the 90/10 solution.  
+	- Ignore your competitors, you will more likely die of suicide than murder.  
 
-Patterns on successful *wannapreneurs*.
+- They build something without first talking to people.
+	- You only have to be really right once: Zuckerberg thought that Facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
+	- Scratch your own itch it's good only as a start. Build something people want: Find 10-100 customers who love your product. Write code AND talk to users.  
+	-
 
-- They talk to people about their ideas, but never build anything.  
-- They build something without first talking to people.  
 - They build something and never try to sell it.  
-- If you build something that people say they'll pay for and then they don't actually pay for it then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle.
+	- If you have an idea, test it. It’s called putting out a “minimally viable product” or MVP.   
+	- Don’t scale your team/product until you have built something people want.  
+	- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money. 
+
+- If you build something that people say they'll pay for and then they don't then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle.
+	- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
+	- All startups are badly broken at some point ánd can only solve one problem well at any given time.  
+	- Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service. Big company corporate development queries – they will only waste time. Conferences unless they are the best way to get customers  
+	- Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
+	- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.  
+	- Most companies don’t die because they run out of money  
 
 > *'Sara Blakely used the word «empower» several times. Spanx clothes gives women more confidence. Empowers women. The Belly Art Project empowers pregnant women'*
  
 > *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
 
 <!--
+- Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
+- CEOs are adaptable and flexible and good risk managers.
+- Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
+
 Judgement requires experience, but can be built faster by learning foundational skills.
 There is no skill called “business.” Avoid business magazines and business classes.
 Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
