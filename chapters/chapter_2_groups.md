@@ -163,7 +163,7 @@ It's not about what you know, it's about who trusts you to solve their problems.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
-Patterns on successful *wannapreneurs*:
+### Patterns on successful *wannapreneurs*:
 
 - They talk to people about their ideas, but never build anything. 
 	- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
@@ -176,12 +176,11 @@ Patterns on successful *wannapreneurs*:
 
 - They build something without first talking to people.
 	- You only have to be really right once: Zuckerberg thought that Facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
-	- Scratch your own itch it's good only as a start. Build something people want: Find 10-100 customers who love your product. Write code AND talk to users.  
-	-
 
 - They build something and never try to sell it.  
 	- If you have an idea, test it. It’s called putting out a “minimally viable product” or MVP.   
 	- Don’t scale your team/product until you have built something people want.  
+	- Scratch your own itch it's good only as a start. Build something people want: Find 10-100 customers who love your product.    
 	- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money. 
 
 - If you build something that people say they'll pay for and then they don't then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle.
