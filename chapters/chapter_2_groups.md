@@ -42,7 +42,7 @@ Choose truth or your self-mythology will seduce you.
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
-> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t», or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
+> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
 
 <!--
 intro: //clay hebert
@@ -90,32 +90,32 @@ Speak less and listen more. Be humble, listening is powerful.
 
 ### How to communicate? 
 
-- Smile and relax. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
+- Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
 
-- Listen. Don't worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
+- Listen. Don't worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
 	- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
 	- Paraphrasing: Repeat what they just said in your own words.
 	- Emphasize Similarity, we like people who are like us.
 
-- Get better at asking questions, they are more important than answers. But asking questions without paying attention is worthless. You must be curious. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It's hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Making good/unusual questions will make peple interested in you. Be interested in them to them be interested in you.
-
-- Talk about your passions instead of accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments and asking for advice.
-
 - Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet.
 
-- Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
+- Get better at asking questions, they are more important than answers. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It's hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Be interested to be interesting.
+
+- Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
 
 - Don't be stubborn: you don't always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
 
+- Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
+
 <!--
-- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you. smile, When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly. Stop Trying To Impress research from Harvard shows people would rather work with a lovable fool than a competent jerk -- even if they won’t admit it.
+- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
 
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 -->
 
 ### How to tell good stories?
 
-Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment; and when it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment. When it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
 > *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
 
@@ -157,9 +157,9 @@ When public speaking you dont need to answer their question. you can say whateve
 
 Focus on what can you give instead of focusing in making money. Once you find your market you'll get the reward.  
 
-It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
-
 Test sales first. Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it: the consumer votes with his wallet.
+
+It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
@@ -572,7 +572,7 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 
-> *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun'.' -- Groucho Marx*
+> *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
 
 <!--
 , “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”- Jordan Peterson*
