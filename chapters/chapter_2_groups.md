@@ -278,13 +278,13 @@ We're all in sales. To sell is to deal with objections.
 
 Sales used to be about information asymmetry but now it's mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](#on-relationships). Best sellers are now ambiverts.
 
-Traditional selling: extroverts -> cold calling -> tech made it more difficult.
+Traditional selling: hunters (extroverts)
 
 - Intruding (to get your foot in the door)
 - Pitching (to persuade the customer to buy)  
 - Persisting (to push until you make the sale)  
 
-Effective selling: ambiverts and introverts -> we don't need hunters, just farmers.
+Modern selling: farmers (ambiverts and introverts)
 
 - Research (to understand the customer - time spent alone on the Web, reading and analyzing information)  
 - Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
@@ -294,16 +294,14 @@ Effective selling: ambiverts and introverts -> we don't need hunters, just farme
 
 > *'Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.'*
 
-### On negotiation and price
-
-Negotiation establishes the price (exchange rate between money and value).
-That said, a bad/good negotiation means that you are adding more/less value than receiving for it.
+### On negotiation
 
 > *'You don’t get what you deserve in life, you only get what you negotiate.'*
 
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
+Negotiation establishes the price (exchange rate between money and value).  
+That said, a bad/good negotiation means that you are giving more/less value than receiving for it.
 
-### How to negotiate? 
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 The more you take, the more you can give back in meaningless concessions. To negotiate is to have options.
 
@@ -317,6 +315,8 @@ The more you take, the more you can give back in meaningless concessions. To neg
 > *'When people feel they have a choice, they walk into your trap that much more easily.'*
 
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+> *'Flattery is the infantry of negotiation.' -- Lord Chandos*
 
 - Tone of voice is a big clue to know with whom we are negotiating:
 
@@ -343,8 +343,6 @@ However always strive to achieve a win-win situation. The deal will fall if both
 - Females buy male products. Males don't buy products targetted to females.  
 - If they can’t pay, walk away.  
 - nowadays the messenger is the message
-- Flattery is the infantry of negotiation. —Lord Chandos
-
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
