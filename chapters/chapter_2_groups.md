@@ -294,6 +294,8 @@ Effective selling: ambiverts and introverts -> we don't need hunters, just farme
 
 > *'Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.'*
 
+### On negotiation and price
+
 Negotiation establishes the price (exchange rate between money and value).
 That said, a bad/good negotiation means that you are adding more/less value than receiving for it.
 
@@ -456,26 +458,21 @@ Trust and vulnerability are correlated. Trust someone if they say they are human
  
 > *'You loose your identity, you loose people.' -- Amy Cuddy*
 
-Focus on what you can give not what you can get. You only receive in proportion to what you give.  
+Focus on what you can give. You only receive in proportion to what you give.  
 
-However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. Partner with people who wants you to be all you can be.
+However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. Partner with people who wants you to be all you can be. Hints:
 
-> *'If a person is nice to you and to nobody else, that person is not nice.'*
-
-> *'If you are lonely when you are not alone, you are in bad company.'*
-
-> *'I won’t be less just because you cannot be more.'*
+- If a person is nice to you and to nobody else, that person is not nice.  
+- If you are lonely when you are not alone, you are in bad company.  
+- Don’t be less just because they cannot be more.
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
 
 > *'Trust bank account analogy: you make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.'*
 
 <!--
-- good partnership is “Shared values and complementary skills.” So I think it’s very important to share values, but I also think it’s important to not be the same person, a copy of yourself. If it’s a copy of yourself, you don’t need it.
-
 - first we judge trust, before strength. we build trust through presence. leadership is based on trust.
 
-- There are four types of relationships: Win Win (long term), Win Lose, Lose Win, Lose Lose
 good partnership: complementary skillsets with shared values
 -->
 
