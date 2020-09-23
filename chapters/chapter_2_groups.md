@@ -447,7 +447,8 @@ Sometimes these connections grow.
 Sometimes they stay the same.  
 Sometimes they collapse.'*
 
-A great relationship is about finding the similarities and respect the differences.  
+Good partnership: complementary skillsets with shared values.
+
 Trust and vulnerability are correlated. Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them.
 
 > *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don't hide your feelings from people who show you theirs.'*
@@ -470,8 +471,6 @@ However after taking first steps [mirror](chapter_3_action.md#on-mirroring) thei
 
 <!--
 - first we judge trust, before strength. we build trust through presence. leadership is based on trust.
-
-good partnership: complementary skillsets with shared values
 -->
 
 
@@ -536,7 +535,7 @@ You're never too old to make a friend. Look for people with the same interests a
 
 ### On friends
 
-Resist the temptation of working with family and friends. Peers are peers, not boss and employee: pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
+Resist the temptation of working with family and friends. Peers are peers, not boss and employee. Pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
 
 > *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
 
@@ -560,12 +559,10 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 > *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
 
-
 <!--
 , “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”- Jordan Peterson*
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 
-- Everyone loves you when you’re a winner. But you know who your true friends are when you’re still a nobody.
 - The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
 
 - Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
@@ -573,6 +570,7 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 > *'Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.' -- Elie Wiesel*
 > *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
+> *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*
 -->
 
 
@@ -585,9 +583,9 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 Feedback speeds up improvement but only take advice from mentors.
 
-> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
-
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
+
+> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
 
 ### How to find mentors?
 
@@ -600,7 +598,6 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 > *'Your father is your first mentor.'*
 
 <!--
-
 I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
 -->
 
@@ -617,13 +614,12 @@ You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-a
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
 > *'If you are giving back, it’s because you’ve taken too much.'  -- Ricardo Semler*
 
-the value of getting a coach. Spend more time fixing weaknesses than developing strengths!
-have your corner man to indicate your blindspots
+the value of getting a coach. Spend more time fixing weaknesses than developing strengths! have your corner man to indicate your blindspots
 -->
 
 ### How to mentor your kids?
 
-> *'My advice is my autobiography instead of slogans. People relate better like that.' -- James Altucher*
+> *'My advice is my autobiography not slogans. People relate better like that.' -- James Altucher*
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
@@ -669,11 +665,9 @@ Punishment only works near the situation that did that to you, often triggers a 
 Alternatives that you can try the next time you feel tempted to punish someone:
 - extintion of rewards
 - positively reinforcing preferred activities.
-- prompting and shaping are two actions we can use together to change behavior in an iterative manner. A prompt is a cue or stimulus that encourages the desired behavior. When shaping begins, any approximation of the target response is reinforced.
 
 <!--
 - power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
-
 - Generosity without Expectation is Sexy. It means that your thoughts, words, and actions are all in congruence. you don’t live a life that is incongruent with what you want to make others happy. You live a life of congruence where everything is in line. This is the pathway to true power. Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
 - The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
 
@@ -727,6 +721,8 @@ Outliers inspire envy. Once they stop talking to you, they start to talk about y
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
+> *'Success makes so many people hate you. I wish it wasn't that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.' -- Marilyn Monroe*
+
 When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_2_groups.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*  
@@ -741,9 +737,6 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 
 <!--
 Consensus happens just in the beginning and in the end of something.
-The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*
-> *'Success makes so many people hate you. I wish it wasn't that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.' -- Marilyn Monroe*
 -->
 
 
@@ -768,15 +761,15 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.' -- Friedrich Nietzsche*
 
-> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
-
 > *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
 
 > *'Common sense is the collection of prejudices acquired by age eighteen.'*
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-### What is stupidity and how to deceive it?
+> *'Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it.' -- Anders Hejlsberg*
+
+### On stupidity
 
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
@@ -784,24 +777,23 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 
 > *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
 
+> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
+
 > *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*	
 
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
-> *'If everybody is thinking alike, then somebody isn't thinking.' -- George S. Patton Jr.*  
-> *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*  
-> *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
+> *'If everybody is thinking alike, then somebody isn't thinking.' -- George S. Patton Jr.*
 
-> *'If people around you don’t think what you’re doing is a bit strange, maybe it’s not strange enough.' -- Patrick Collison*  
-> *'Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it.' -- Anders Hejlsberg*  
+> *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*
+
+> *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
 
 Despite being easier to recognise stupidity in others than ourselves, don’t take for granted that others are acting stupid. Common sense is not so common.
 
 > *'Don't ever take a fence down until you know the reason why it was put up.' -- John F. Kennedy, paraphrasing G.K.Chesterton*
-
-> *'Life's hard. It's even harder when you're stupid.' -- John Wayne*
 
 > *'Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
 
@@ -851,11 +843,9 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 Politicians don't like risk. Decisions are made on the lowest risk of offending anybody.
 
-Politicians don't get educated. They get bought. To reduce corruption diminish people involved on analogic processes.
+Politicians don't get educated, they get bought. To reduce corruption diminish people involved on analogic processes.
 
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
-
-> *'Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist.' -- John Maynard Keynes*
 
 > *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
 
@@ -868,6 +858,8 @@ Politicians don't get educated. They get bought. To reduce corruption diminish p
 > *'Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.'*
 
 > *'I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals.' -- George Carlin*
+
+> *'The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum.' -- Noam Chomsky*
 
 > *'When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
 
@@ -884,7 +876,6 @@ it may be pop psychology stuff, but it’s convenient for my point so in the spi
 
 > *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
-> *'The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum.' -- Noam Chomsky*
 -->
 
 
@@ -911,13 +902,12 @@ People want leadership positions because they want autonomy and influence. Influ
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
-Hints:
+### Hints on leadership
 
 - Know when to speak and when don't.  
 - Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
 - Are part of the team. 'No one is smarter than a small group.'  
 - Make people feel as part of a family.  
-- Power is having options than you can metabolize. Power is making decisions.  
 - Good leaders are leaders that grow up in the hierarchy.  
 - In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers.  
 - Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.  
@@ -1008,7 +998,7 @@ However gaining an understanding and giving appropriate feedback makes your juni
 
 > *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
 
-Hints on meetings:
+### On meetings
 
 - Start a meeting with an overachieving question: «how can we raise sales by 12%?».  
 - Jeff Bezos famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.  
@@ -1048,9 +1038,7 @@ manager is a dreammaker
 As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
 
 > *'Too busy pretending I'm occupied.'*
-
-boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about
-
+- boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about
 - Custom tailor teams from project to project. Same team from same project is not the best option.
 -->
 
@@ -1154,12 +1142,12 @@ Being an employee is long-term risky. In an economy with shrinking corporations,
 
 > *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
 
-### Is it better to be good at many things or great at one thing?
+### Is it better to be a specialist or a generalist?
 
 - To be an entrepreneur you need to know a little about a lot of things.  
-- To be employed, if you pick the right specialization (specialization is dangereous), you'll do better as a specialist.
+- To be employed, if you pick the right specialization (specialization is risky), you'll do better as a specialist.
 
-### How to keep a job or advance career?
+### How to advance career?
 
 Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
@@ -1180,6 +1168,10 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 ### How to «pivot» career?
 
+> *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
+
+> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
+
 Cultivate a relevant skill stack. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
 
 - use the transportable skills that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
@@ -1188,10 +1180,6 @@ write a pitch, are u persuasive, can you change somebody else opinion. making a 
 - take risks to boost your immune system.  
 - Pivoting is a mindset. Pivoting isn’t easy, even if you know it’s right.  
 - You will either pivot or get pivoted.
-
-> *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
-
-> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
 
 ### How to get employers feedback?
  
@@ -1261,7 +1249,5 @@ Only comedians can speak the truth without consequences.
 HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.
 
 > *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
-
-> *'Es triste que gente con talento y sin dinero tenga que depender de gente con dinero y sin talento.'*
 
 > *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
