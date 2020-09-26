@@ -2,7 +2,7 @@
 
 #### Why?
 
-It started as something I wanted to read and couldn't find elsewhere. Later I started to see it as a way of using my research/procrastination positively.
+It started as something I wanted to read and couldn't find anywhere. Later, I started to see it as a way of using my research/procrastination positively.
 
 ---
 
@@ -14,13 +14,13 @@ Western culture (European flavour), loose minimalism, centrism, agnosticism and 
 
 #### Can I help?
 
-I'm always open to criticism, suggestions, misquotations or grammar corrections (I'm not a native english speaker).
+I'm always open to criticism, suggestions, misquotations or grammar corrections (I'm not a native English speaker).
 
 ---
 
-#### Will you publish it as a paperback and as a proper ebook?
+#### Will you publish it as a paperback/proper ebook?
 
-Yes. As soon as I arrive to a stable draft (and I'm still far from it), I'll publish it more formally. On relevant occasions I might even release a new version.
+Yes. As soon as I arrive to a stable draft (and I'm still far from it), I'll publish it more formally. I might release a new version on relevant occasions.
 
 ---
 

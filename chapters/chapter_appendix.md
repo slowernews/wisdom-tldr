@@ -12,6 +12,8 @@
 
 > *'You can't start the next chapter of your life if you keep re-reading the last one.'*
 
+> *'The past doesn't help understanding the present. It's the present that helps undestanding the past.' -- José Saramago*
+
 You are your memory but let go your past [failures](#on-mistakes-and-failure). They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
@@ -53,6 +55,8 @@ How memory works? Hints:
 <!--
 > *'Keep in mind that people change, but the past doesn't.' -- Becca Fitzpatrick*
 > *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
+the present that helps to understand the past, not the past that helps to undertstand the present
+
 -->
 
 
@@ -643,6 +647,8 @@ Get an exit strategy and take risk from the table when possible.
 > *'Stock buybacks are effectively same as dividends.'*
 > *'Anything is illiquid if you hold a large enough percentage of the total amount.'*
 HINT: Barbell strategy
+
+Pessimists sound smart, optimists make money.
 
 Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
 

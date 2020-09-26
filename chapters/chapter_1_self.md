@@ -444,6 +444,8 @@ But the problem with this philosophy is that no great work ever came from comfor
 Most problems can be solved by graded exposure over time. Make the mind tougher by exposing it to adversity.
 
 <!--
+A fundamentalist gives answers, a scholar gives questions.
+	
 1. You need to recognize when you're not learning, for one thing. If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
 2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
 3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.

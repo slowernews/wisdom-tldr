@@ -30,7 +30,7 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 Best ideas come from the market, not from you.
 
-However, ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
+New ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of.
 
@@ -47,6 +47,7 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 > *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
 ### How to judge ideas?
+
 Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
 
 However the right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can execute and bring them to life. 
@@ -66,8 +67,6 @@ However the right idea not executed is worth nothing, but a mediocre one well ex
 > *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
 
 Analysis is an art, not a science.
-
-> *'When the vote goes 69% – 31% for some candidate we presume it was fair and represents a popular mandate. But when his excellency and Great Father of his People, gets 97% of the votes we say that is BS.'*
 
 One of the great problems with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. We are biased. Everybody else is biased.
 
@@ -135,7 +134,8 @@ And when facing new ideas.
 - We always think that the people who agree with us are really smart.  
 - Skepticism is a great servant and a terrible master.  
 - Sometimes we know that A+B=C but we don’t realize that A=C-B  
-- Randomness: most facts are a «tell» but some are just random.
+- Randomness: most facts are a «tell» but some are just random.  
+- There’s always a good reason and a real reason.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
@@ -153,7 +153,6 @@ And when facing new ideas.
 > *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
 
 <!--
-A fundamentalist gives answers, a scholar gives questions.
 > *'To understand is to know what to do.' -- Wittgenstein*
 > *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
@@ -183,7 +182,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - scheduling free time can make it feel like chores
 - As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth. Our knowing minds are not embedded in truth. Rather, the entire notion of truth is embedded in our minds, which are themselves the unwitting lackeys of organizational forms of influence.
 - Truth in stereotypes there'es truth on GROUP opinions. Steryotypes are the falsy _group_ opinions that account for a small amout. groups opinios self correct themselves.
-- There’s always a good reason and a real reason.
 -->
 
 

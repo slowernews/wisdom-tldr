@@ -551,6 +551,8 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
 > *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
 
+> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
+
 ### On family
 
 Cleave from your family but come back. You need to be independent and loyal at the same time.
@@ -560,16 +562,15 @@ Cleave from your family but come back. You need to be independent and loyal at t
 > *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
 
 <!--
-, “If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.”- Jordan Peterson*
+- envy (worse than you) - competition (same level than you) - mentor (better than you)
+- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
+- the way of man is the way of the gang
+
+> *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 
 - The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
 
-- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
-- the way of man is the way of the gang
-
-> *'Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.' -- Elie Wiesel*
-> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
 > *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*
 -->
 
@@ -1197,18 +1198,15 @@ If you ask them why did they asked you for an interview, they will describe your
 - finding and winning a great job is a competitive subject. it's not very correlated with luck.
 - Your Success is Someone Else’s Miracle
 - find your secret sauce and NAME it. whats unique. you need to get people attention
-- ask what's your secret mission -- something you want to do here that another person is interested also\
-
+- ask what's your secret mission -- something you want to do here that another person is interested also
+- In my opinion, a job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
 - you are a learning machine. Not an occupation.
 - Ideas are welcomed, execution is worshiped
-
 - recruiting better than hiring: find a place where you can do a good job
 - its good to be better, but is better to be different.
-
 - Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 - My passionate interests have changed 30 times since I graduated college.
 - You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
-
 - read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
 
 100% time -> 100% results  

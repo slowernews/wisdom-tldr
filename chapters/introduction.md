@@ -8,9 +8,9 @@
 
 ## The real you
 
-*'All men die, but not every man lives' -- William Wallace*
+> *'All men die, but not every man lives' -- William Wallace*
 
-*'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
+> *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 You are your deeds. Your actions reveal your real values.  
 How you do anything is how you do everything. Ultimately you are your choices.
@@ -29,6 +29,8 @@ Never stop working on yourself. Always strive to be better. Is succeeding at med
 
 > *'Whatever you are, be a good one.' -- Abraham Lincoln*
 
+> *'Maybe who we are isn't so much about what we do, but rather what we're capable of when we least expect it' -- Jodi Picoult*
+
 <!--
 > *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
@@ -43,6 +45,8 @@ to be real you need to be vulnerable
 ## On happiness
 
 *'Need to jump start happiness? Lower your expectations. If I have no expectations then I will easily exceed them' -- James Altucher*
+
+> *'Happiness is when what you think, what you say, and what you do are in harmony.' --  Mahatma Gandhi*
 
 What is happiness?
 
