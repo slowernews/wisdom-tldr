@@ -192,8 +192,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
-Plan ahead and prepare for the highly probable scenarios.  
-Make the decisions right now. When in the moment of making the decision, you have already done it.
+You can’t predict but you can prepare. Plan ahead and prepare for the highly probable scenarios.
 
 > *'The best way to predict the future is to invent it.' -- Alan Kay*
 
@@ -201,18 +200,13 @@ Make the decisions right now. When in the moment of making the decision, you hav
 
 > *'He who fails to plan is planning to fail.' -- Winston Churchill*
 
-You can’t predict. You can prepare.
-
-> *'The movie might be good or bad but in the end we'll finish eating pizza.'*
-
 > *'Hope is not a strategy.' -- Vince Lombardi*
 
-> *'You have choices. Choices are experiments.'*
+> *'The movie might be good or bad but in the end we'll finish eating pizza.' -- unknown*
 
 ### How to plan? 
 
 Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable steps.  
-Choose the plan with more options. The one that lets you change plan. 
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
 
@@ -224,15 +218,13 @@ Choose the plan with more options. The one that lets you change plan.
 
 > *'I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day.' -- Ernest Hemingway*
 
-However plans are only a starting point.
+Choose the plan with more options. The one that lets you change plan. Plans are only a starting point. 
 
 > *'You make plans and god laughs.' -- Yiddish proverbs*
 
 > *'Everyone has a plan until they get punched in the mouth.' -- Mike Tyson*
 
-<!--
-stick to the plan. people sabotage their one plans when it get tedious or too difficult. people think they need a new plan.
--->
+However, don't sabotage them when they get tedious or too difficult.
 
 
 
@@ -246,44 +238,50 @@ stick to the plan. people sabotage their one plans when it get tedious or too di
 
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
-The ability to make fast decisions is a competitive advantage.
-
-### How to decide?
-
-Decision-making heuristics to remove the need for deliberation:
- 
-- Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we had 
-better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)  
-- 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
-- No to any decision that requires a calculator or computer. (Warren Buffett)  
-- Default to no (Steve Jobs).
-
-> *'My brother says to never make a big decision before you take a shower.'*
-
-> *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
-
-> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
-
-Mental models are decision making helpers.
+### How to make good decisions?
 
 > *'All models are wrong but some are useful.' -- George Box*
 
+Mental models are decision making helpers.
+
+If you don't understand the limitations of the model, you don't understand the model. All models are wrong; the practical question is how wrong do they have to be to not be useful. A model is a simplification which fosters understanding. The wrong way to understand models: Too literally.  
+
+Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
+
+> *'When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.' -- Georg Rasch*
+
+> *'Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
+
+> *'The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
+
+Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad.
+
+Occam’s razor states that the simplest solution is usually correct.
+
+> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
+
+As we know, the map is not the territory. A map can be seen as a symbol or index of a place, not an icon.
+
+> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
+
+Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way. The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge «set».
+
+> *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
+
+> *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
+
+> *'My brother says to never make a big decision before you take a shower.'*
+
 <!--
+> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
+
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 
-- negative inspiration (things that don't work) -- positive inspiration!
-- results-oriented approach to feedback -> process-oriented feedback	
-- decision matrix
 - as all the great questions. answers are always evolving
-- Easy come, easy go: Quickly done can be quickly undone. To last an eternity requires an eternity of preparation. -- Balthasar Gracian
 - oftentimes, the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
 - estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no 'skin in the game' should give estimates.
-- questions to make to your self. who owns the problem? if a problem is too small or too big to solve what's really bothering you.
-- fixing problems by adding things vs by subtracting things.
-- sink or swim
-- My New Strategy: Test Stuff Out - trial first! “Is this the smallest thing we can do to test our riskiest assumption?”
 
 What is the least painful way to X?
 Evaluate goals independently and consider taking on only one goal at a time.
@@ -330,33 +328,7 @@ Idea-meritocratic decision-making is the best decision-making
 The difference between an autocratic decision maker and a democratic decision maker.
 What is believability?
 find 3 people that high expertise but that they discord and listen. take your conclusions
--->
 
-If you don't understand the limitations of the model, you don't understand the model. All models are wrong; the practical question is how wrong do they have to be to not be useful. A model is a simplification which fosters understanding. The wrong way to understand models: Too literally.  
-
-Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
-
-> *'When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.' -- Georg Rasch*
-
-> *'Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
-
-> *'The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
-
-Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad.
-
-Occam’s razor states that the simplest solution is usually correct.
-
-> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
-
-As we know, the map is not the territory. A map can be seen as a symbol or index of a place, not an icon.
-
-> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
-
-Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way. The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge «set».
-
-> *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
-
-<!--
 Critical Mass in Psychology
 Psychologists have known for a long time that groups of people behave differently than individuals.
 Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. (An interesting detail is that mob psychology is one of the few branches of psychology which does not concern individuals.) As a general rule, the larger the crowd, the less responsibility people have for their behaviour. (This is also why individuals and not groups should make decisions.)
@@ -401,13 +373,24 @@ decisions are tainted by the emotional investments you accumulate, and the more 
 understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 -->
 
+### How to speed up your decisions?
+
+The ability to make fast decisions is a competitive advantage.  
 If you don't decide somebody will decide it for you.
 
-Some people get paralyzed by [over thinking](#on-starting-and-timing). If you think too much, you’ll create a problem that wasn’t there in the first place but we have to feel we know enough to take action.
+Some people get paralyzed by [over thinking](#on-starting-and-timing). If you think too much, you’ll create a problem that wasn’t there in the first place.
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 > *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
+
+Some heuristics:
+ 
+- Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we had 
+better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)  
+- 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
+- No to any decision that requires a calculator or computer. (Warren Buffett)  
+- Default to no. (Steve Jobs)
 
 
 

@@ -1,6 +1,7 @@
 # Wisdom TLDR Guide
 
-[Maxims](https://en.wikipedia.org/wiki/Maxim_(philosophy)) distilled from quotes that match *my* biased experience.<br>
+Principles on difficult subjects
+Concise answers to difficult questions distilled from quotes that match *my* biased experience.<br>
 'Distillation' is still far from ready, so expect inconsistencies, innacuracies and omissions.
 
 
