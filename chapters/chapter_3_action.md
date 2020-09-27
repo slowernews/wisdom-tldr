@@ -244,11 +244,9 @@ However, don't sabotage them when they get tedious or too difficult.
 
 Mental models are decision making helpers.
 
-If you don't understand the limitations of the model, you don't understand the model. All models are wrong; the practical question is how wrong do they have to be to not be useful. A model is a simplification which fosters understanding. The wrong way to understand models: Too literally.  
+If you don't understand the limitations of the model, you don't understand the model. All models are wrong; the practical question is how wrong do they have to be to not be useful.
 
 Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
-
-> *'When you construct a model you leave out all the details which you, with the knowledge at your disposal, consider inessential. Models should not be true, but it is important that they are applicable, and whether they are applicable for any given purpose must, of course, be investigated. This also means that a model is never accepted finally, only on trial.' -- Georg Rasch*
 
 > *'Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
 
