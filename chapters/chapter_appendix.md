@@ -296,6 +296,8 @@ Health is also an envy trigger. Often what people really envy is self-control.
 We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children](/chapter_2_groups.md#on-feedback-and-mentorship) and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.
 
+> *'Each of us, when our day's work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
+
 Hints:
 
 - 3 days a week; 3 weeks a month; 3 months free a year.  
@@ -319,6 +321,8 @@ Geoarbitrage. Car: max 10K. Job: live next to it.
 > *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
 
 <!--
+- One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
+In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
 - travel as a way of running way from their problems
 > *'I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude.' -- Colette*
 - In life, you will often be presented with two options: The lucrative option, The lifestyle option. job -> money + lifestyle!
@@ -336,7 +340,8 @@ You are in a city, without knowing the language, manage to go to the hostel, mee
 - My life has been a series of questions and odd experiments.
 - /r/buyitforlife
 - Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
-> *'Each of us, when our day's work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
+- Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
+KonMari Method -> Marie kondo, perita em arrumação
 -->
 
 

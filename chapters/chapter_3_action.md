@@ -226,6 +226,10 @@ Choose the plan with more options. The one that lets you change plan. Plans are 
 
 However, don't sabotage them when they get tedious or too difficult.
 
+<!--
+Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong).
+-->
+
 
 
 
@@ -248,7 +252,7 @@ If you don't understand the limitations of the model, you don't understand the m
 
 Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. A tool which maybe could be a bit sharper or easier to use, but still does the job.
 
-> *'Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
+> *'Scientists generally agree that no theory is one hundred percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
 
 > *'The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
 
@@ -272,7 +276,6 @@ Physical maps generally become more accurate as time passes. Not long ago, they 
 
 <!--
 > *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
-
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
@@ -344,7 +347,6 @@ The Problems With Goals:
 even the best and most useful maps suffer from limitations, and Korzybski gives us a few to explore: (A.) The map could be incorrect without us realizing it; (B.) The map is, by necessity, a reduction of the actual thing, a process in which you lose certain important information; and (C.) A map needs interpretation, a process that can cause major errors. (The only way to truly solve the last would be an endless chain of maps-of-maps, which he called self-reflexiveness.)
 
 charlie munger:
-
 Wisdom and Circle of Competence
 “Knowing what you don’t know is more useful than being brilliant.”
 “Acknowledging what you don’t know is the dawning of wisdom.”
@@ -352,8 +354,6 @@ Wisdom and Circle of Competence
 “It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”
 
 > *'At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information' -- Charlie Munger*
-
-Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong).
 
 “Know the big ideas in the big disciplines and use them routinely-- all of them, not just a few.”
 
@@ -374,9 +374,7 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 ### How to speed up your decisions?
 
 The ability to make fast decisions is a competitive advantage.  
-If you don't decide somebody will decide it for you.
-
-Some people get paralyzed by [over thinking](#on-starting-and-timing). If you think too much, you’ll create a problem that wasn’t there in the first place.
+Some people get paralyzed by [over thinking](#on-starting-and-timing). If you don't decide somebody will decide it for you.
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
@@ -484,14 +482,7 @@ If they really wanted to do it, they would have done it.
 I had been fooling myself for years, telling myself I wanted to do this, but my actions prove otherwise.
 keep earning your title, or it expires”.
 
-One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
-In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
-
 I love how the '80/20' rule gets stretched so often that in this article it talks about hyperdominate trees that take up 50% of the Amazon. So 80/20 can go anywhere form 99/1 to 50/50. What an interesting 'pattern'.
-
-The martial art kung fu literally translates into two words. Effort and time. And the only things that are standing between you and your goals are these two factors.
-
-Make your _business_ case, not a technical case. Sometimes writing a one-off script will take 30 minutes, and doing it by hand will take 10. Do it by hand.
 
 stop lionizing efficiency, and start asking the question that has guided craftsmen for millennia: what’s the most effective way for me to accomplish the things that are most important?
 
@@ -535,10 +526,7 @@ The Rule of 3. Whenever you’re trying to persuade a senior person to do someth
 I observed that The Rule of 3 was actually pretty effective in persuading clients to take action. Why? Three reasons:
 - Your argument gets their attention and is memorable
 - You are forced to choose the 3 most important reasons
-- You sound more structured, confident and decisive when you speak
-
-- Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
-KonMari Method -> Marie kondo, perita em arrumação
+- You sound more structured, confident and decisive when you speak.
 
 - The non-linearity of productivity
 - never mistake action for motion
