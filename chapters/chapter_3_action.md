@@ -246,6 +246,8 @@ Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-g
 
 > *'All models are wrong but some are useful.' -- George Box*
 
+> *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
+
 Mental models are decision making helpers.
 
 If you don't understand the limitations of the model, you don't understand the model. All models are wrong; the practical question is how wrong do they have to be to not be useful.
@@ -260,8 +262,6 @@ Take a look at almost any comment section on the internet and you are guaranteed
 
 Occam’s razor states that the simplest solution is usually correct.
 
-> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
-
 As we know, the map is not the territory. A map can be seen as a symbol or index of a place, not an icon.
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
@@ -269,8 +269,6 @@ As we know, the map is not the territory. A map can be seen as a symbol or index
 Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way. The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge «set».
 
 > *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
-
-> *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
 
 > *'My brother says to never make a big decision before you take a shower.'*
 
@@ -372,6 +370,8 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 -->
 
 ### How to speed up your decisions?
+
+> *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
 The ability to make fast decisions is a competitive advantage.  
 Some people get paralyzed by [over thinking](#on-starting-and-timing). If you don't decide somebody will decide it for you.
