@@ -1,9 +1,11 @@
 # Wisdom TLDR Guide
 
-Principles on difficult subjects
-Concise answers to difficult questions distilled from quotes that match *my* biased experience.<br>
+Maxims distilled from quotes that match *my* biased experience.<br>
 'Distillation' is still far from ready, so expect inconsistencies, innacuracies and omissions.
 
+<!--
+Principles on difficult subjects / Concise answers to difficult questions
+-->
 
 ## Introduction
 
