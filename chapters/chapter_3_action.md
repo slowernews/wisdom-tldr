@@ -567,33 +567,24 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do it.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
-Direction is more important than velocity. Bring the target closer.
-
-> *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
-
-> *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
-
-Don’t be afraid to take time away to find it. Only fools rush into a situation. By committing too quickly you lose your maneuverability.
-
-> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
-
-> *'Who seeks shall find.' -- Sophocles*
-
-> *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
-
-> *'Vai procurar, vai achar o que não tinha perdido.'*
-
-> *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
-
-Position yourself for victory. Convenience (location) is better than space amount. Trade space for time.
+Direction is more important than velocity. Position yourself for victory by bringing the target closer. 
+Convenience (location) is better than space amount. Trade space for time.
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
+> *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
+
+> *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
+
+Only fools rush into a situation. By committing too quickly you lose your maneuverability.
+
+> *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
+
+> *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
+
+> *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
+
 <!--
-> *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
-
-> *'Trees that are slow to grow bear the best fruit.' -- Molière*
-
 15. Waiting may be the best course of action. A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. -- Balthasar Gracian
 
 7. Be patient. You must pass through the circumference of time before arriving at the centre of opportunity. A wise reserve seasons the aims and matures the means. Time’s crutch effects more than the iron club of Hercules. God Himself chasteneth not with a rod but with time. He spake a great word who said, “Time and I against any two.” Fortune herself rewards waiting with the first prize. -- Balthasar Gracian
@@ -610,6 +601,8 @@ Here are three ways you can increase your velocity:
 	
 chess gambits -- exchange material by position-time.
 
+> *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
+> *'Trees that are slow to grow bear the best fruit.' -- Molière*
 > *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
 > *'Go-Karts -- Feel fast, are slow 747s -- Feel slow, are fast Ship it! -- Feels fast, is slow Test > *'Document it! -- Feels slow, is fast.'*
 > *'Things may come to those who wait, but only the things left by those who hustle. -- Abraham Lincoln*
@@ -634,33 +627,26 @@ First the essential. Then the details.
 
 > *'You can do anything, but not everything.' -- David Allen*
 
+> *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
+
 > *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.' -- Steve Jobs*
 
-> *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
+> *'When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize.' -- Charlie Munger*
 
 > *'A man with a watch knows what time it is. A man with two watches is never sure.'*
 
 > *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
 
-> *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
-you're not perfect in everything. find your specialty.
+> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
 
-> *'When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize.' -- Charlie Munger*
+> *'You only have to do a very few things right in your life so long as you don't do too many things wrong.' -- Warren Buffett*
 
 > *'Always look where you want to go, not where you don't want to go.'*
 
-> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
-
-> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
-
 > *'As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself' -- Arthur Schopenhauer*
 
-[Perfectionism](chapter_1_self.md#on-perfectionism) is as bad as procrastination.
 
-Work by layers: functional -> perfect; 
-Do less to achieve more. Make the basics in life and you're good to go. You don't need to optimise.
-
-Hints on productivity:
+### Productivity hints
 
 - Focus just on 3 outcomes (not todos) per day and tackle your most important thing (MIT) first thing in the morning.  
 - Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right. 
@@ -672,11 +658,13 @@ Hints on productivity:
 - Identify keystone habits (e.g. waking up early)
 - Buy yourself time. Delegate.
 
-HOWEVER... 
-
-> *'The more centralized the enemy, the more devastating becomes a blow at its leader or governing body.'*
+HOWEVER, the more centralized the enemy, the more devastating becomes a blow at its leader.
 
 <!--
+Work by layers: functional -> perfect; 
+Do less to achieve more. Make the basics in life and you're good to go. You don't need to optimise.
+> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
+
 > *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
 2) Manage emotions to better manage time: it’s your beliefs that create your feelings, not reality.
 procrastination is a mood-management technique
@@ -743,24 +731,22 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 > *'You can lead a horse to water but you can’t make him drink.'* 
 
-Control what you can: [what you’re primed by](), [who you are around](), the ideas and problems you [focus]() on. Ignore the rest.
+Control what you can: [what you’re primed by](introduction.md#the-real-you), [who you are around](chapter_2_groups.md#on-family-and-friends), the ideas and problems you [focus](#on-focus-priorities-and-productivity) on. Ignore the rest.
+
+Consuming information gives the control freak an illusion of control. He doesn't want to acknowledge that the universe doesn't make sense and he doesn't trust himself to handle disorder in a situation that will get out of his league or skillset.
 
 > *'If things seem under control, you're just not going fast enough.' -- Mario Andretti (F1 pilot)*
 
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
-<!--
-- Consuming information gives an illusion of control
-
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
-- control is the master adiction.
-- focus on what doesnt change
-- past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 
 > *'Sometimes people don't want to hear the truth because they don't want their illusions destroyed.' -- Friedrich Nietzsche*
-- control freak: doesnt want to acknowledge that the universe doesnt make sense. and he doesnt trust himself to handle disorder in a situation that will get out of your league or skillset.
 
+<!--
 - Não se pode fazer colecção de tudo.
+- focus on what doesnt change
+- past and future doesn't exist. we cannot control anything, at most we can influenciate something.
 -->
 
 
