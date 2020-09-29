@@ -582,8 +582,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
 
-> *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
-
 <!--
 15. Waiting may be the best course of action. A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. -- Balthasar Gracian
 
@@ -648,24 +646,25 @@ First the essential. Then the details.
 
 ### Productivity hints
 
-- Focus just on 3 outcomes (not todos) per day and tackle your most important thing (MIT) first thing in the morning.  
-- Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right. 
-- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk, Too many options may paralize you: remove them.
-- when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
-- Be fully present: learn to focus on what you are doing now;  
-- Set specific, measurable, attainable, realistic and time-based goals.  
-- Set process goals (which help you achieve a larger goal).
-- Identify keystone habits (e.g. waking up early)
-- Buy yourself time. Delegate.
+> *'Don't make 100 decisions when one will do.' -- Peter Drucker*
 
-HOWEVER, the more centralized the enemy, the more devastating becomes a blow at its leader.
+Do less to achieve more. You don't need to optimise everything.  
+20% of your effort will give you 80% of output: it may be enough or even more than enough.
+
+- Focus just on 3 outcomes (not todos) per day and tackle your most important one in the morning.  
+- Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right.  
+- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk, Too many options may paralize you: remove them.  
+- When a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.  
+- Be fully present: learn to focus on what you are doing now.  
+- Set specific, measurable, attainable, realistic and time-based goals. Always work with a specific purpose in mind.  
+- Identify keystone habits (e.g. waking up early)
+- Buy yourself time: delegate.
+- Work by layers: functional -> excellency.
+
 
 <!--
-Work by layers: functional -> perfect; 
-Do less to achieve more. Make the basics in life and you're good to go. You don't need to optimise.
-> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
+- the more centralized the enemy, the more devastating becomes a blow at its leader.
 
-> *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
 2) Manage emotions to better manage time: it’s your beliefs that create your feelings, not reality.
 procrastination is a mood-management technique
 3) Important Beats Urgent
@@ -678,10 +677,9 @@ What’s that have to do with productivity? Plenty. Because you worry about all 
 And neuroscience research shows that by focusing on what you have control over, you decrease stress.
 You can’t control whether it ends up as a “robbery” or an “attempted robbery”, just focus on executing the heist in a way that would make mom proud.
 
-> *'The difference between successful people and very successful people is that very successful people say «no» to almost everything.' -- Warren Buffett*
+> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 
-- dont make 100 decisions when one will do -- peter drucker
 - Productivity is about attention management - productive procrastination
 - maker days and manager days
 - People As Response Functions. response triggers: your primary trigger, your secundary trigger
@@ -693,29 +691,11 @@ You can’t control whether it ends up as a “robbery” or an “attempted rob
 - “Instead of asking how many tasks you can tackle given your working hours,” writes Morten Hansen in Great at Work, “ask how many you can ditch given what you must do to excel.” I did what I needed to do to keep my job. As John Stuart Mill said, “as few as you can, as many as you must.”
 - Busy is a decision. What you are really saying: is not a priority. Is a excuse for not doing something we don't feel like doing.
 - Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
-- Focus on adaptability not effectiveness	
-- how to purge to do list and focus right now
-	- does this need to be done regarding my business? Y/N
-	- does this be needed by me? Y/N
-	- does this need to be done now? Y/N
-	Most items were already purged.
+- Focus on adaptability not effectiveness
 - Schedule less time for important tasks. Be mindful of how you spend your time.
-- What is the next action? Leave yourself a note if you suspend working. Big rocks are too big: split them
-- Paperwork: either do it, diarise it, or ditch it.
-- Multitasking is not efficient for single-focused tasks.
-- Get rid of technology, turn off any notification, unsubscribe.
 - Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
-- Create a concentrated environment. Fight Procrastination
-- Selective perfectionism
-- 20% of your effort will give you 80% of output: it may be enough, or more than enough.
 - Set yourself deadlines.
-- Pomodoro time. Get more time: Spend time on the right things.
-- List highest-leverage activities (where 80% of your time should go).
 - complete at least 1 important but not urgent task per day.
-- Prioritize
-- Always work with a specific purpose in mind. 
-- Shut off the phone when meeting w/ someone. listen
-- Avoid mindless Internet surfing. Shut off email notifications. Declare an email holiday. Wait a bit before sending important emails/messages
 - school rewards generalist and not focusing: the world not so.
 - *guerrilla* has their strengths also. cena do mosquito
 - Media companies harvest your attention and transform it into revenue.
@@ -729,7 +709,7 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 ---
 ## On control
 
-> *'You can lead a horse to water but you can’t make him drink.'* 
+> *'You can lead a horse to water but you can’t make him drink.' -- unknown* 
 
 Control what you can: [what you’re primed by](introduction.md#the-real-you), [who you are around](chapter_2_groups.md#on-family-and-friends), the ideas and problems you [focus](#on-focus-priorities-and-productivity) on. Ignore the rest.
 
@@ -761,17 +741,11 @@ The dose makes the poison: things in excess become their opposite. The hardest s
 
 > *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
 
-> *'Everything should be made as simple as possible, but not simpler.'*
+> *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
 
-> *'If half of the room laughs and half doesn't is a success.'*
+Balance is not about spending the same amount of time focused on every area of your life either. It's about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
 
-> *'A balance sheet must balance.'*
-
-Balance is not about spending the same amount of time focused on every area of your life either. It's about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships, and personal growth.
-
-For a balanced life you need to draw a line. Most of us don't want to draw the line and they suffer the consequences.
-
-> *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.'*
+> *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.' -- unknown*
 
 ### How to balance an imbalance?
 
@@ -780,20 +754,12 @@ Overcompensate. Some people get passion from something they struggled with.
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
 
 <!--
-- Diversification solves a lot of problems.
-- alguem mais loose q tu é um maluco, mais tight é um nhónhó
-- self improvement as a limit: 20% will give 80% of results.
+- alguem mais loose q tu é um maluco, mais tight é um nhónhó. nos osmos a medida de tudo
 - Exponential growth devours and corrupts. There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
 - Disease of More.
+- Diversification solves a lot of problems.
 - The 80/20 Principle states that 80% of the output or results will come from 20% of the input or action.
-
-MM
-There are two approaches to improving yourself:
-1) The self-improvement junkie. 
-2) The self-improvement tourists.
-I would argue that self-help tourists are using self-improvement advice in a healthy manner and that self-help junkies are (often, but not always) using it in an unhealthy manner. Remember, the paradoxical point of all self-improvement is to reach a point where you no longer feel you need to improve yourself. Therefore, the constant indulgence in self-improvement material just continues to feed that feeling of inadequacy.
-Where does it end? It doesn’t. At least not until you decide it does.
-Because the only way to truly benefit from self-improvement is to one day arrive at a place where you no longer need it. Like a cast for a broken arm. Or a bandage for a deep cut. You put it on, let it heal you. And then you take it off and move on with your life.
+- There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists. MM
 
 > *'Growth for growth’s sake is the ideology of the cancer cell.' -- Edward Abbey*
 -->
@@ -818,13 +784,13 @@ Plans are not static. You need to switch strategies a few times to get where you
 
 > *'The most important thing to do if you find yourself in a hole is to stop digging.' -- Warren Buffett*
 
-> *'What got you here won't get you there.'*
-
 > *'The directions to get you anywhere include a few turns:  
 Sometimes you need to say YES to everything and be open to growth;  
 Sometimes you need to say NO to everything and focus.  
 It's scary to make those direction choices but fear is a great road sign.'  
 -- Derek Sivers (paraphrased)*
+
+> *'What got you here won't get you there.' -- Marshall Goldsmith*
 
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
@@ -832,11 +798,11 @@ It's scary to make those direction choices but fear is a great road sign.'
 
 > *'When things break, it's not the actual breaking that prevents them from getting back together again. It's because a little piece gets lost - the two remaining ends couldn't fit together even if they wanted to. The whole shape has changed.' -- John Green*
 
-Adapt instead of reacting. Small changes in a complex system can cause sudden and large changes. Willpower is finite. So there are limits on change. Change requires attention.
+Adapt instead of reacting. Opportunities is taking the jobs that others don't want.
 
 > *'When the winds of change blow, some people build walls while others build windmills.' -- Chinese proverb*
 
-> *'Surely by now I’m desperate enough to change.' -- John Tottenham*
+There are limits on change, willpower is finite and change requires attention. However small changes in a complex system can cause sudden and large changes. 
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
@@ -845,16 +811,10 @@ Adapt instead of reacting. Small changes in a complex system can cause sudden an
 
 - Inertia is why a car does not stop the moment the brakes are applied.
 - When problems shift faster than your rate of adaptation you go extinct.
-- opportunities is taking the jobs that others don't want.
+- equipa que ganha, não se mexe
 
-Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.
-You need to be comfortable both in a suit and tie and in camouflaged jacket.
-
-Go With the Flow of Change
-One of the biggest mistakes that you can make in any endeavor is to stick to rigidly to the old axioms and ways of thinking.
-As Bruce Lee said “Be like water”, be willing to change and adapt to the world around you.
-
-equipa que ganha, não se mexe
+> *'Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.
+You need to be comfortable both in a suit and tie and in camouflaged jacket.' -- Frank Miniter (paraphrased)*
 -->
 
 
