@@ -210,9 +210,11 @@ Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
 
-> *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
-
-> *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
+> *'A strategy has a single, well defined focus.  
+A strategy lays out a path to be followed.  
+A strategy is made up of parts (tactics).  
+Each of a strategy’s parts pushes towards the defined focus.  
+A strategy is either intentionally formed or emerges naturally.' -- Geoffrey P. Chamberlain*
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
@@ -228,6 +230,9 @@ However, don't sabotage them when they get tedious or too difficult.
 
 <!--
 Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong).
+
+> *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
+> *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 -->
 
 
@@ -831,41 +836,30 @@ Create imbalances in your target to create an advantage and raise chances of win
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-charming). Some opponents may require special tools.
 
+Strategy is about winning before the battle begins, while tactics are about striking at weakness.
+
 > *'The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
-A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.' -- ?*
+A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.' --  Richard Rumelt*
 
-> *'Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.'*
+Some hints:
 
-> *'If you control the overall direction and framing of the battle, anything they do will play into your hands.'*
-
-> *'A strategy has a single, well defined focus.  
-A strategy lays out a path to be followed.  
-A strategy is made up of parts (tactics).  
-Each of a strategy’s parts pushes towards the defined focus.  
-A strategy is either intentionally formed or emerges naturally.' -- Geoffrey P. Chamberlain*
-
-> *'Shuai-Jan is a snake that is found in the Ch’ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both.' -- Sun Tzu (The Art of War)*
-
-HOWEVER... beware of counter-attacking.
-
-> *'The problems created by an audacious move can be disguised, even remedied, by more and greater audacity.'*
+- Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.  
+- If you control the overall direction and framing of the battle, anything they do will play into your hands.  
+- Beware of counter-attacking: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.  
+- Divide and conquer.
 
 <!--
 - In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.
-- Divide and conquer.
 
 24. Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
+
 2. Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy. -- Balthasar Gracian
 
-- The metagame is playing a different game than your competitors. A game they can't play.
-The metagame is this psychological game that exists among players, involving adjustments – adjustments based on how an opponent is likely to interpret a given set of actions. Better players adjust their strategies and styles to those of particular opponents, always analyzing how the opponents are playing in terms of how the opponents believe they're playing.
-Maintaining a well-balanced strategy, while deciphering your opponents' strategies, is the key to the metagame. If you comprehend the concept of the metagame, accurately perceive the flow of your table and then tournament, and stay alerted to and aware of current strategy trends, you'll be able to successfully mix up your play when considering your image and that of your opponents. In return, your game will be highly unpredictable and difficult to read, which should be your ultimate goal.
-Part of their greatness comes from identifying the constraints of others and capitalizing on those structural disadvantages.
+- The metagame is playing a different game than your competitors. A game they can't play. The metagame is this psychological game that exists among players, involving adjustments – adjustments based on how an opponent is likely to interpret a given set of actions. Better players adjust their strategies and styles to those of particular opponents, always analyzing how the opponents are playing in terms of how the opponents believe they're playing.
+Maintaining a well-balanced strategy, while deciphering your opponents' strategies, is the key to the metagame. If you comprehend the concept of the metagame, accurately perceive the flow of your table and then tournament, and stay alerted to and aware of current strategy trends, you'll be able to successfully mix up your play when considering your image and that of your opponents. In return, your game will be highly unpredictable and difficult to read, which should be your ultimate goal. Part of their greatness comes from identifying the constraints of others and capitalizing on those structural disadvantages.
 In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
 
 According to Rumelt, a strategy must include “premeditation, the anticipation of others’ behavior, and the purposeful design of coordinated actions. As a general rule, strategy is more important in situations where other parties have the potential to thwart or disrupt actions, or where our plans are at risk if we don’t take meaningful steps to achieve them. Good strategy requires us to both focus on a goal, and anticipate obstacles to reaching that goal.  When we encounter obstacles, we may need to employ what Freedman calls “deceits, ruses, feints, manoeuvres and a quicker wit”—our tactics.
-
-Sun Tzu, strategy is about winning before the battle begins, while tactics are about striking at weakness.
 -->
 
 
@@ -878,24 +872,16 @@ Sun Tzu, strategy is about winning before the battle begins, while tactics are a
 
 Leverage is a force multiplier for your judgement.
 
-> *'The greatest shortcoming of the human race is our inability to understand the exponential function.' -- Albert Allen Bartlett*
-
-> *'Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
-Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.
-Labor means people working for you. It's the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
-Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+> *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
+Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It's the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
 Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
-An army of robots is freely available - it's just packed in data centers for heat and space efficiency. Use it.
-If you can't code, write books and blogs, record videos and podcasts.'* 
+An army of robots is freely available - it's just packed in data centers for heat and space efficiency. Use it.'* 
 
 <!--
-on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
+- on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone's needs and shrinking their ability, aided by envy and reciprocation effects.
-
-The power of compounding: you can achieve anything, if you stop trying to do everything.
-
-Warnings: Finding Cassandras to Stop Catastrophes
-The “Cassandras” featured in R.P’s book are experts in their field. these people are data driven
+- The power of compounding: you can achieve anything, if you stop trying to do everything.
+- Warnings: Finding cassandras to stop catastrophes. The “Cassandras” featured in R.P’s book are experts in their field. these people are data driven
 -->
 
 
@@ -906,38 +892,24 @@ The “Cassandras” featured in R.P’s book are experts in their field. these 
 
 Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
-> *'Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to [trust](#on-relationships) you. Keep your word and prove your worth, the new guy as always to prove himself.'*
-
 > *'Use selective honesty and generosity to disarm your victim.'  
 'Pose as a friend, work as a spy.'  
 'Discover each man’s thumbscrew.'  
 'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
 
-> *'People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.'*
-
-> *'If you talk to a man in a language he understands, that goes to his head. If you talk to him in his own language, that goes to his heart.' -- Nelson Mandela*
-
-> *'When you go up in an hierarchy, the need of persuasion is higher.  
-To persuade up, focus in interests; to persuade down focus in emotions.'*
-
-Use absence and bait to attract people.
-
-> *'In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.'*
+- People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.  
+- Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to trust you. Keep your word and prove your worth, the new guy as always to prove himself.  
+- To persuade up, focus in interests; to persuade down focus in emotions.  
+- In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.  
+- Stay aloof and people will come to you. It will become a challenge for them to win your affections.  
+- Use absence and bait to attract people. However use absence with moderation or soon you'll not be needed.  
+- Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.  
 
 > *'Make other people come to you: use bait if necessary.'  
-'Learn to keep people dependent on you.' -- Robert Greene (8th and 11th law of power)*
+'Learn to keep people dependent on you.'  
+Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th law of power)*
 
-> *'Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.'*
-
-> *'We attract more flies with honey than vinegar.'*
-
-> *'Stay aloof and people will come to you. It will become a challenge for them to win your affections.'*
-
-> *'Use absence to increase respect and honor.' -- Robert Greene (16th law of power)*
-
-HOWEVER... use absence with [moderation](#on-balance).
-
-> *'If you're always absent, soon you'll not be needed.'*
+> *'We catch more flies with honey than vinegar.'*
 
 <!--
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
@@ -945,11 +917,7 @@ HOWEVER... use absence with [moderation](#on-balance).
 Hooking Curiosity
 A screenwriter friend of mine recently told me his secret to writing compelling characters.
 “It’s easy,” he said. “Just make them contradictions.”
-Becoming a Contradiction
 To be human is to be a contradiction
-So begin by taking inventory of the various qualities and skills you already have, right now. I recommend doing it in that order -- qualities first (your personality stack), then skills (your talent stack). Write them down. Notice the ways in which you already contradict yourself. Notice how you defy your categories. Trust that these exist in you for a reason. Know that people will gravitate to you because of these qualities. Notice that they already do.
-
-mimicking people gestures and words works!
 
 To Persuade Someone, Look Emotional
 - you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
@@ -964,9 +932,15 @@ To Persuade Someone, Look Emotional
 
 > *'A man is not deceived by others, he deceives himself.' -- Goethe*
 
+> *'I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.' --  Marilyn Monroe*
+
 If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.
 
+> *'The moment a magician says, «Now we begin» you’re already screwed!' -- Brian Brushwood*
+
 > *'Appear weak when you are strong and strong when you are weak' -- Sun Tzu*
+
+> *'The senses do not deceive; it is the judgment that deceives.' -- Goethe*
 
 > *'Court attention at all cost.'  
 'Play a sucker to catch a sucker: seem dumber than your mark.'  
@@ -978,31 +952,23 @@ If we play by the rules too strictly, if we take them too literally, we are crus
 
 > *'One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted.' -- James Altucher*
 
-> *'The moment a magician says, «Now we begin» you’re already screwed!' -- Brian Brushwood*
-
-> *'I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.' --  Marilyn Monroe*
-
-However deceiving is not lying. Disappointment destroys trust.
-
-> *'Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.'*
-
-> *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
+However, deceiving is not lying. Disappointment destroys trust. Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+
+> *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
 
 > *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
 
 <!--
-> *'The senses do not deceive; it is the judgment that deceives.' -- Goethe*
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
-> *'The underground of the city is like what's underground in people. Beneath the surface, it's boiling with monsters.' -- Guillermo del Toro*
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
 
 - Clean players on shady markets usually don't do well on the long term.
 - Bad liars should speak as little as possible.
-- if somebody asks for the evidence, normally he is lieing
-- the good reason (the reason they tell you) and the real reason.
+- if somebody asks for the evidence, normally, he's lieing
+- the good reason and the real reason.
 -->
 
 
@@ -1016,7 +982,7 @@ However deceiving is not lying. Disappointment destroys trust.
 'Keep others in suspended terror: cultivate an air of unpredictability.'  
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
 
-However unpredictability can work against you: if you are in a subordinate position, it reduces [trust]().
+However unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
 <!--
 Teach no one your tricks or they will be used against you.
