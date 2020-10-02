@@ -176,13 +176,12 @@ being vulnerable is taking don't be afraid of taking a risk.
 ---
 ## On gratitude and humbleness
 
+> *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
+
 Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
-> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
-
-> *'A way to humble yourself is to put you in the position of being the weakest person in something during the day.'*
-
-> *'Being grateful is looking down.'*
+Success means nothing in life. It’s forgotten in one generation, two at best.  
+Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
@@ -190,31 +189,25 @@ Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
+> *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
+
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
-> *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
-
-> *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
+> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
 
 > *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
-Your success means nothing in life. It’s forgotten in one generation, two at best.
-But your emotional health lives for hundreds of generations after in the lives of everyone you touch and their descendants.
-
 <!--
-> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
-> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
-> *'#332. Nothing is more highly to be prized than the value of each day.' -- Goethe*
-> *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
-> *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
+- A way to humble yourself is to put you in the position of being the weakest person in something during the day.  
+- Being grateful is looking down.
 - A good life is not a life without problems. A good life is a life with good problems. mm
 - play the cards you are dealt. And you will often be dealt bad cards.
+- I sometimes forget that a group of people blazed the trail I’m enjoying and that another group continues to maintain it without any fanfare.
 
-The simple mantra, “I know nothing” has helped me so many times in the past seven years.
-I owe any success to those simple three words: I. Know. Nothing.
-
-I sometimes forget that a group of people blazed the trail I’m enjoying and that another group continues to maintain it without any fanfare.
-
+> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
+> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
+> *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
+> *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
 > *'Ego is the unhealthy belief in our own importance.'*
 -->
 
@@ -236,7 +229,15 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 > *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
 
-Hints:
+### How to design a life?
+
+Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regretting your life is the worst that can happen to you.
+
+> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
+
+> *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
+
+### Actionable hints:
 
 - If you are feeling lost in life experience more things.  
 - Let fear be your guide. The more fear you feel, the more you will know you are on the right track.  
@@ -263,20 +264,10 @@ Hints:
 
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
-### How to design a life?
-
-Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regretting your life is the worst that can happen to you.
-
-> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
-
-> *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
-
 <!--
 > *'People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
-	
 > *'You cannot find peace by avoiding life.' -- Virginia Woolf*
 Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
-
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
 - There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
@@ -290,11 +281,6 @@ Because almost everything that you want is on the other side of the uncomfortabl
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 - Passion is made not found.
 - parabol: that door is only for you.	
-
-“Ever since I was a little kid, I wanted to be in combat,” he said. “Why?”
-“Well… what did you want to do when you were growing up?” he asked.
-“I guess I wanted to write and interview people.”
-“Well, there you go.” I don’t think my brain fully realizes that I’m doing what I dreamt of doing as a kid.
 
 > *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- roger kipling
 
@@ -409,7 +395,7 @@ If you act average, you're going to be average. If you want to move away from av
 
 Hints:
 
-- The risk of not changing is almost always greater than the risk of changing.  
+- The risk of not changing is often greater than the risk of changing.  
 - Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.  
 - Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.  
 - Being uncomfortable should be “play” for you. Get confort in disconfort.  
@@ -846,12 +832,11 @@ Hints on good habits:
 - Mental checklist of positive habits.
 - Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
 - It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.
+- People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.
 
 However variety and novelty are also important, so [Balance](#on-balance) it.
 
 <!--
-“People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.”
-
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
@@ -999,12 +984,15 @@ If you are anxious you are living in the future.
 If you are at peace you are living in the present.' -- Lao Tzu*
 
 Depression and anxiety are symptoms, not diseases, of under-stimulation and over-stimulation.
+Depression is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
+
+Anxiety creates hypersensitivity. Linked with our wired out evolutionarily for a [need of control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. Nothing is gained by worrying about «not knowing». We don't control anything, at most we influence some stuff.
+
+Resuming:
 
 - Under-stimulation = Depression    
 - Right amount of stress = Hustling (Stretching comfort zone. Avoiding stress is avoiding life.)  
 - Over-stimulation = Anxiety
-
-Depression is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
 
 > *'Boredom is a soul sucker. The unfed mind devours itself.' -- Gore Vidal*
 
@@ -1012,29 +1000,29 @@ Depression is the lack of self-expression. If you feel powerless/being dominated
 
 > *'Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination.'*
 
-Anxiety creates hypersensitivity. Linked with our wired out evolutionarily for a [need of control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. Nothing is gained by worrying about «not knowing». We don't control anything, at most we influence some stuff.
-
 > *'Anxiety is the dizziness of freedom.' -- Søren Kierkegaard*  
 
 ### How to overcome them?
 
-> *'If you are feeling stressed out.. breathe.'*
-
-Best antidepressant is knowing we matter to others. Exercise a close second, burn extra calories to diminish the need of control. Fasting is also relevant, debug your body as much as you can.
-
 > *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
+
+Best antidepressant is knowing we matter to others.  
+Exercise a close second: burn extra calories to diminish the need of control.  
+Fasting is also relevant: debug your body as much as you can.
 
 > *'If you want to lift yourself up, lift up someone else.' -- Booker T. Washington*
 
 > *'No medicine cures what happiness cannot.' -- Gabriel Garcí­a Márquez*
+
+> *'If you are feeling stressed out.. breathe.'*
+
+> *'Pain is inevitable. Suffering is optional.' -- Haruki Murakami*
 
 <!--
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
 HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-
-> *'Pain is inevitable. Suffering is optional.' -- Haruki Murakami*
 -->
 
 
@@ -1100,9 +1088,10 @@ age is a mindset
 
 > *'Nobody feels love when they feel shame.' -- John Townsend*
 
-The things you hate most about yourself are the things you hide from the rest of the world. You are not you think you are: *you are what you hide*.
+You are not you think you are: *you are what you hide*.  
+The things you hate most about yourself are the things you hide from the rest of the world. 
 
-### What is shame?
+### How is shame created?
 
 When you try to hide something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
@@ -1202,7 +1191,7 @@ Other confidence «movers»:
 - Confidence is a result, not a requirement.  
 - Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.  
 - Confidence relies on pride. pursue authentic pride.  
-- HARD WORK = CONFIDENCE
+- Hard work = confidence
 
 <a id="on-arrogance"></a>HOWEVER... know the frontier between confidence and arrogance.
 
