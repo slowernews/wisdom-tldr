@@ -1310,10 +1310,6 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
 
-### What is perfection?
-
-> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
-
 <!--
 Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
 -->

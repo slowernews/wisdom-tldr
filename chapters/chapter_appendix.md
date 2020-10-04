@@ -10,9 +10,9 @@
 
 ## On past and memory
 
-> *'You can't start the next chapter of your life if you keep re-reading the last one.'*
-
 > *'The past doesn't help understanding the present. It's the present that helps undestanding the past.' -- José Saramago*
+
+You can't start the next chapter of your life if you keep re-reading the last one.
 
 You are your memory but let go your past [failures](#on-mistakes-and-failure). They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
@@ -34,7 +34,7 @@ Life becomes very easy when you have studied the past to the extent that you hav
 
 > *'There is no past or future. Using tenses to divide time is like making chalk marks on water.'*
 
-How memory works? Hints:
+### How memory works?
 
 - People forget by decaying and giving them other stuff to remember.  
 - People forget future events more than past events.  
@@ -52,12 +52,13 @@ How memory works? Hints:
 
 > *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
 
+> *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
+
 <!--
 > *'Keep in mind that people change, but the past doesn't.' -- Becca Fitzpatrick*
-> *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
-the present that helps to understand the past, not the past that helps to undertstand the present
-
 -->
+
+
 
 
 ---
@@ -73,8 +74,6 @@ Act accordingly and don't postpone joy: live life ready to meet god like it’s 
 
 > *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
 
-> *'As you walk and eat and travel be where you are. Otherwise you will miss most of your life.' -- Siddhartha Guatama*
-
 > *'Either write something worth reading or do something worth writing.' -- Benjamin Franklin*
 
 > *'What's life? Showing up for the people you love, again and again, until you can’t show up anymore.'* -- Rebecca Walker*
@@ -86,6 +85,7 @@ Act accordingly and don't postpone joy: live life ready to meet god like it’s 
 - Leave a trail of accomplishments or smiles behind you.
 - When we listen to the regrets of the elderly and dying, they invariably lament on what they neglected to do, not what they did.
 - Time never has, and never will solve a damn thing.
+> *'I wonder how many people I've looked at all my life and never seen.' -- John Steinbeck*
 -->
 
 
@@ -101,13 +101,15 @@ Anomalies often represent the future but to our eyes they seem strange.
 
 > *'If you don't imagine, nothing ever happens at all.' -- John Green*
 
+> *'I dream my painting and I paint my dream.' -- Vincent van Gogh*
+
 > *'Anyone who lives within their means suffers from a lack of imagination.' -- Oscar Wilde*
+
+> *'Rich people think big. Poor people think small.' -- T. Harv Eker*
 
 > *'Life is understood backwards, but must be lived forwards.' -- Soren Kierkegaard*
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
-
-> *'Rich people think big. Poor people think small.' -- T. Harv Eker*
 
 However don't obcess on that. You can't control the future.
 
@@ -117,7 +119,6 @@ However don't obcess on that. You can't control the future.
 
 <!--
 - make the exercise: imagine you life in 10years. Possible futures.
-> *'I dream my painting and I paint my dream.' -- Vincent van Gogh*
 -->
 
 
@@ -130,7 +131,9 @@ However don't obcess on that. You can't control the future.
 
 > *'We don’t stop playing because we grow old; we grow old because we stop playing.' -- George bernard Shaw*
 
-> *'Un uomo che vive di ricordi, diventa vecchio. Uno che vive di progetti resta giovane.' -- Bruno Munari*
+> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
+
+> *'A man that lives from memories becames old. One that lives from projects remains young.' -- Bruno Munari*
 
 > *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
 
@@ -138,7 +141,7 @@ However don't obcess on that. You can't control the future.
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
 
-> *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
+> *'Once I was beautiful, now I'm myself.' -- Anne Sexton*
 
 
 
@@ -152,7 +155,7 @@ However don't obcess on that. You can't control the future.
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
 
-Talent is fragile. To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times. It's the most sensitive envy trigger.
+Talent is fragile. To reveal the true nature of your intelligence rarely pays. Downplay it at all times. It's the most sensitive envy trigger.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
@@ -193,7 +196,8 @@ Money is a tool. It can serve as a force multiplier to help you live the life of
 
 > *'After a certain point, money is meaningless. It ceases to be the goal. The game is what counts.' -- Aristotle Onassis*
 
-### How to get wealthy (without getting lucky):  
+### How to get wealthy (without getting lucky)
+
 - Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible. Ignore people playing status games. They gain status by attacking people playing wealth creation games. Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems. Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person.  
 - You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
 You will get rich by giving society what it wants but does not yet know how to get. At scale. Pick an industry where you can play long term games with long term people. The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.  
@@ -223,7 +227,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 > *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
 
-Unless you’re winning, life will seem hideously unfair to you. Bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world. It’s all math. The best things in life are born from coincidence.
+Unless you’re winning, life will seem hideously unfair to you. Bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it’s all math. The best things in life are born from coincidence.
 
 > *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
 
@@ -233,17 +237,17 @@ Unless you’re winning, life will seem hideously unfair to you. Bad luck is oft
 
 > *'Coincidence is God’s way of remaining anonymous.' -- Albert Einstein*
 
-> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
-
 > *'Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
 
-What’s the difference between luck and chance?
+### Luck versus chance
 
-Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. However positive results don't imply good planning.
+Luck is an open door. Chance is the willingness to step through.  
+This creates the illusion that certain people are luckier. However positive results don't imply good planning.
 
 > *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 
 <!--
+> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 > *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
 - surprises only happen when they didnt repaeat on ones lifetime
 - science of patterns.
@@ -259,11 +263,9 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 
 The sign of a beautiful person is that they always see beauty in others.
 
-> *'Once I was beautiful, now I'm myself.'*
+> *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
 
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
-
-> *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
 
 
 
@@ -298,6 +300,8 @@ When life becomes about [enjoying every second over accumulating more stuff](#on
 
 > *'Each of us, when our day's work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
 
+> *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
+
 Hints:
 
 - 3 days a week; 3 weeks a month; 3 months free a year.  
@@ -306,19 +310,18 @@ Hints:
 - Essencialism: the disciplined pursuit of less.  
 - Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
+- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.  
+- Simplicity is the ultimate sophistication.
 
-### Simplicity is the ultimate sophistication. How to simplify?
+### How to simplify?
 
 - Use it or loose it.  
 - [Remove unnecessary distractions]().  
 - [Remove any obligations that aren’t truly serving your end goals]().  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
-### How to reduce your expenses without sacrificing your quality of life?
 
-Geoarbitrage. Car: max 10K. Job: live next to it.
 
-> *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
 
 <!--
 - One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
@@ -358,8 +361,6 @@ There is no shortcut. Success is a castle that you build [brick by brick](#on-ha
 
 > *'A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.'*
 
-> *'Success is simple, but it is not easy. Success is nothing but the accumulation of small things done consistently over a long period of time.'*
-
 > *'Try not to become a man of success, rather become a man of value' -- Albert Einstein*
 
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
@@ -371,7 +372,7 @@ However [fear](#on-confidence-and-validation), not failure, is the biggest barri
 > *'Whether you think you can, or you think you can't, you're right.' -- Henry Ford*
 
 <!--
-
+- . Success is nothing but the accumulation of small things done consistently over a long period of time.
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 silicon valley celebrate failure only after they achieve success
 
@@ -420,7 +421,10 @@ You don’t need the fancy car, expensive watch, or flashy toys, spend your mone
 
 > *'Only the truth is funny.' -- Rick Reynolds*
 
-Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. Standup is about how to articulate that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
+Comedians are the modern day philosophers.
+
+Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. This is why the 
+Standup is about articulating that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
 
 > *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin to Anastas Mikoyan*
 
@@ -431,6 +435,8 @@ What’s the man there for? His job is to feed the dog.
 What’s the dog for? The dog keeps the man from touching any of the machines.'*
 
 > *'I miss being the age when I thought I would have my shit together by the time I was the age I am now.'*
+
+> *'Reality continues to ruin my life.' -- Bill Watterson*
 
 ### Where is home?
 
@@ -450,15 +456,12 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 - Which is more hipster: using the latest modern web framework, or bragging about how you don't use modern web frameworks?
 > *'In Europe 100 miles is a long way, In the US 100 years is a long time'* 
 > *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
+> *'I wrote the story myself. It's about a girl who lost her reputation and never missed it.' -- Mae West*
 > *'La que no es puta non desfruta.'*
 > *'love people and use money vs love money and use people'*
 > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
 > *'The four most expensive words in the English language: «This time is different».'
-> *'Reality continues to ruin my life.' -- Bill Watterson*
 > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
-“I wrote the story myself. It's about a girl who lost her reputation and never missed it.” — Mae West
-
-To find the truths inside of us that make us all relate to each other. That bring us back to our common humanity. This is why the comedians are the modern day philosophers.
 -->
 
 
@@ -481,10 +484,6 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 > *'“Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.”' --  Neil Gaiman*
 
-<!--
-- we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it's our default. Order is always artificial and temporary.
--->
-
 
 
 
@@ -505,31 +504,31 @@ Most people approach each and every year in the exact same way while (somehow) e
 ---
 ## On religion
 
-> *'And on the first day, men created god.'*
+And on the first day, men created god.
 
 > *'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
 
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
-> *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
-
-> *'There are causes worth dying for, but none worth killing for.' -- Albert Camus*
-
-> *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
-
-> *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
-
 > *'We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further.' -- Richard Dawkins*
 
 > *'God has no religion.' -- Mahatma Gandhi*
 
+> *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
+
 > *'Compassion is the basis of morality.' -- Arthur Schopenhauer*
+
+> *'There are causes worth dying for, but none worth killing for.' -- Albert Camus*
+
+> *'Men never do evil so cheerfully and completely as when they do it from religious conviction.' -- Blaise Pascal*
+
+> *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
 
 
 
 
 ---
-## On science and art
+## On science
 
 > *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
 
@@ -547,18 +546,6 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 > *'If we knew what it was we were doing, it would not be called research, would it?' --  Albert Einstein*
 
-> *'Art washes away from the soul the dust of everyday life.' -- Pablo Picasso*
-
-> *'Art is just another form of screaming.'*
-
-> *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
-
-> *'Art doesn’t end at the edge of the canvas.' -- Derek Sivers*
-
-> *'Life is Capitalism but art is Socialism.'*
-
-> *'Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.' -- Robert Benchley*
-
 <!--
 - Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
@@ -570,7 +557,34 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 
 ---
+## On art
+
+> *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
+
+Art is a meditation and design is a negotiation.  
+Life is Capitalism but art is Socialism.
+
+> *'Art washes away from the soul the dust of everyday life.' -- Pablo Picasso*
+
+> *'Art is just another form of screaming.'*
+
+> *'Art doesn’t end at the edge of the canvas.' -- Derek Sivers*
+
+> *'Poetry is what gets lost in translation.' -- Robert Frost*
+
+> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
+
+> *'Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.' -- Robert Benchley*
+
+> *'Artistic death is made by consensus.'*
+
+
+
+
+---
 ## On aesthetics
+
+> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
 > *'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*
 
@@ -579,21 +593,13 @@ Most people with good taste are young and poor.
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
-> *'Art is a meditation and design is a negotiation.'*
-
 > *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
 > *'There is no exquisite beauty without some strangeness in the proportion.' -- Edgar Allan Poe*
 
 > *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
 
-> *'Poetry is what gets lost in translation.' -- Robert Frost*
-
-> *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
-
-> *'Artistic death is made by consensus.'*
-
-> *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'*
+> *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger Dijkstra*
 
 
 
@@ -603,11 +609,10 @@ Most people with good taste are young and poor.
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
-Spend less than you make. Stay liquid. Never invest in anything you can't sell in 30 days and diversify with uncorrelated bets.  
-Saving a higher proportion of your income allows to cut decades off of your working life.
-The secret to get rich is not to make more money but to keep it.  
+Spend less than you make. Stay liquid, never invest in anything you can't sell in 30 days. Diversify with uncorrelated bets.  
+Saving a higher proportion of your income allows to cut decades off of your working life. The secret to get rich is not to make more money but to keep it.  
 
-### How to spot your investment confort zone?
+### On your investment comfort zone
 
 Risk of losing money vs the risk of missing opportunity. Scared money never wins.  
 
@@ -617,13 +622,15 @@ Risk of losing money vs the risk of missing opportunity. Scared money never wins
 
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
-### How to spot trends? Understand:
+### How to spot trends?
+
+Understand:
 
 - who are the buyers, the sellers and their motivations.  
 - that investments are competing with each other.  
 - where is low optimism. market cycles. Recessions are caused when a bunch of people lose confidence all at once.
 
-### How to spot a good investment?
+### How to spot good investments?
 
 > *'You’re looking for a mispriced gamble.' -- Charlie Munger*
 
@@ -631,41 +638,32 @@ Risk of losing money vs the risk of missing opportunity. Scared money never wins
 
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
 
-> *'The best companies aren't sold, they're bought.'*
-
-> *'Don’t buy on future hopes; buy on past mistakes.'*
+- The best companies aren't sold, they're bought.  
+- Don’t buy on future hopes; buy on past mistakes.  
+- Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
 
 > *'What's your religion? Arbitrage and rents.' -- EF*
 
-> *'Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.'*
-
-When to fold them?
-
-Get an exit strategy and take risk from the table when possible.
+### When to fold?
 
 > *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds.' -- Charlie Munger*
+
+Get an exit strategy and take risk from the table when possible.
 
 > *'I succeeded because I have a long attention span. (...) Waiting helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
 
 <!--
 > *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith in The Wealth Of Nations*
-> *'Stock buybacks are effectively same as dividends.'*
-> *'Anything is illiquid if you hold a large enough percentage of the total amount.'*
-HINT: Barbell strategy
-
-Pessimists sound smart, optimists make money.
-
-Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
-
-entrepreneurship vs investment - 2 different mentalities.
-
-dealers vs brokers: liquid markets (dealers with enough inventory)
-
-auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
-
-math shortcut: Years to double = 72 / Interest Rate
-
 “When innovative companies begin making decent profits, landlords raise the rents to adjust for the new ability to pay. As a result, these additional wages are neither reinvested, nor reflected in the disposable income of employees. This is the dynamic behind the mystery of stagnant wages. When workers in a particularly well-paid sector begin pouring into a city, landlords likewise raise the rent to absorb these incomes. It isn’t gentrification, but absorption through monopoly power.”
+
+- Stock buybacks are effectively same as dividends.
+- Barbell strategy
+- Pessimists sound smart, optimists make money.
+- Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
+- entrepreneurship vs investment - 2 different mentalities.
+- dealers vs brokers: liquid markets (dealers with enough inventory)
+- auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
+- math shortcut: Years to double = 72 / Interest Rate
 -->
 
 
@@ -685,8 +683,8 @@ Hints:
 - For how long? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
 - Think less about money optimization and more about who you’re going with.
 - Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
-- Choose places with “lifers”: owners and employees who are dedicated to the business itself, not to a paycheck.
-- Build a business with the heuristic of «maximize my vacation time»: Contracting -> Travelling Between Contracts -> Travelling While Contracting -> Software Product Business -> Chilling
+- Choose places with “lifers”: people who are dedicated to the business itself, not to a paycheck.
+- Build a business with the heuristic of «maximize my vacation time»: Contracting -> Travelling between contracts -> Travelling while contracting -> Software product business -> Chilling
 
 <!--
 - On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
@@ -716,7 +714,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
 
-Reading train your model of the world. Even if you forget most, its effect on your model of the world persists.
+Reading train your model of the world. Even if you forget most, its effect persists.
 
 > *'The great books are the books that never have to be written again.'-- Carl Van Doren*
 
@@ -784,8 +782,6 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' -- John von Neumann*
 
 <!--
-> *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger Dijkstra*
-
 - OOP is a natural enemy to concurrency (because of state) and about how transforming data (I.e functional) is a better match
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - blockchain is a data structure that individual mistakes doent go unnoticed as they transform in a chain of mistakes
@@ -813,17 +809,15 @@ I wonder how long it'll be until we replace fiat currencies with a balance of ki
 
 > *'She likes a gentleman who knows when not to be gentle.'*
 
-Chicks dig a man who exhibits grace under pressure.
+Women dig a man who exhibits grace under pressure.
 
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
-
-> *'All that women want is for you to listen.'*
-
-> *'A suit to women is like lingerie to men.'*
 
 > *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
 
 > *'Why are women so much more interesting to men than men are to women?' -- Virginia Woolf*
+
+> *'A suit to women is like lingerie to men.'*
 
 <!--
 - Major epiphany: Energy creates motion, motion creates emotions, and women are highly emotional beings.

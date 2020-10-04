@@ -113,6 +113,7 @@ This saves the time needed to make decisions, in particular when under pressure.
 
 Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
 > *'There are no facts, only interpretations.' -- Friedrich Nietzsche*
+> *'Believe only half of what you see and nothing that you hear.' --  Edgar Allan Poe*
 -->
 
 And when facing new ideas.
@@ -732,6 +733,7 @@ Consuming information gives the control freak an illusion of control. He doesn't
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
 - past and future doesn't exist. we cannot control anything, at most we can influenciate something.
+- we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it's our default. Order is always artificial and temporary.
 -->
 
 
