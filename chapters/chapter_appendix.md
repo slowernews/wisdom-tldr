@@ -504,9 +504,9 @@ Most people approach each and every year in the exact same way while (somehow) e
 ---
 ## On religion
 
-And on the first day, men created god.
-
 > *'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
+
+And on the first day, men created god.
 
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
@@ -609,8 +609,14 @@ Most people with good taste are young and poor.
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
-Spend less than you make. Stay liquid, never invest in anything you can't sell in 30 days. Diversify with uncorrelated bets.  
-Saving a higher proportion of your income allows to cut decades off of your working life. The secret to get rich is not to make more money but to keep it.  
+Saving a higher proportion of your income allows to cut decades off of your working life.  
+The secret to get wealthy is not to make more money but to keep it.
+
+Hints:
+
+- Spend less than you make.  
+- Stay liquid, never invest in anything you can't sell in 30 days.  
+- Diversify with uncorrelated bets.
 
 ### On your investment comfort zone
 
@@ -638,11 +644,13 @@ Understand:
 
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
 
+> *'What's your religion? Arbitrage and rents.' -- EF*
+
+Hints:
+
 - The best companies aren't sold, they're bought.  
 - Don’t buy on future hopes; buy on past mistakes.  
 - Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
-
-> *'What's your religion? Arbitrage and rents.' -- EF*
 
 ### When to fold?
 
@@ -664,6 +672,7 @@ Get an exit strategy and take risk from the table when possible.
 - dealers vs brokers: liquid markets (dealers with enough inventory)
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - math shortcut: Years to double = 72 / Interest Rate
+- star business. i didn't lost money on star businesses. o lost money in businesses i though would be star businesses.
 -->
 
 
@@ -696,7 +705,7 @@ Hints:
 ---
 ## On college
 
-> *'The purpose of high education is first and foremost to meet people and build relationships.'*
+> *'The purpose of high education is first and foremost to meet people and build relationships.' -- my teacher*
 
 A college education can help you make a living, self-education can make you a fortune.
 
@@ -716,17 +725,13 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 Reading train your model of the world. Even if you forget most, its effect persists.
 
-> *'The great books are the books that never have to be written again.'-- Carl Van Doren*
-
-> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
-
-> *'A classic is a book which people praise and don't read.' -- Mark Twain*
-
-> *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
-
 > *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
 
 > *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.'*
+
+> *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
+
+> *'Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.' -- J.K. Rowling*
 
 > *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.' -- Julian Barnes*
 
@@ -734,19 +739,23 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'A library is infinity under a roof.' -- Gail Carson Levine*
 
-> *'If a book is well written, I always find it too short.' -- Jane Austen*
-
 > *'You don't have to burn books to destroy a culture. Just get people to stop reading them.' -- Ray Bradbury*
 
 > *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
 
+> *'Tears are words that need to be written.' -- Paulo Coelho*
+
+### On classic books
+
+> *'The great books are the books that never have to be written again.'-- Carl Van Doren*
+
+> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
+
+> *'A classic is a book which people praise and don't read.' -- Mark Twain*
+
 <!--
 when writing a book start with your own ideas
-> *'Tears are words that need to be written.' -- Paulo Coelho*
-> *'Journal Regularly: Cheap paper is less perishable than gray matter. And lead pencil markings endure longer than memory.' -- Jack London*
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
-> *'Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.' -- J.K. Rowling*
-> *'I'm quite illiterate, but I read a lot.' -- J.D. Salinger*
 -->
 
 
