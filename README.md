@@ -20,7 +20,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On independence](/chapters/chapter_1_self.md#on-independence)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On integrity and accountability](/chapters/chapter_1_self.md#on-integrity-and-accountability)
-- [On gratitude and humbleness](/chapters/chapter_1_self.md#on-gratitude-and-humbleness)
+- [On humbleness](/chapters/chapter_1_self.md#on-humbleness)
+- [On gratitude](/chapters/chapter_1_self.md#on-gratitude)
 
 *On growth*
 - [On finding your path](/chapters/chapter_1_self.md#on-finding-your-path)

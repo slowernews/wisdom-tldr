@@ -616,11 +616,11 @@ Hints:
 
 - Spend less than you make.  
 - Stay liquid, never invest in anything you can't sell in 30 days.  
-- Diversify with uncorrelated bets.
+- Diversify with uncorrelated investment bets.
 
 ### On your investment comfort zone
 
-Risk of losing money vs the risk of missing opportunity. Scared money never wins.  
+Scared money never wins. It's about the risk of losing money vs the risk of missing opportunity.  
 
 > *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
 
@@ -646,12 +646,6 @@ Understand:
 
 > *'What's your religion? Arbitrage and rents.' -- EF*
 
-Hints:
-
-- The best companies aren't sold, they're bought.  
-- Don’t buy on future hopes; buy on past mistakes.  
-- Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
-
 ### When to fold?
 
 > *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds.' -- Charlie Munger*
@@ -663,6 +657,12 @@ Get an exit strategy and take risk from the table when possible.
 <!--
 > *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith in The Wealth Of Nations*
 “When innovative companies begin making decent profits, landlords raise the rents to adjust for the new ability to pay. As a result, these additional wages are neither reinvested, nor reflected in the disposable income of employees. This is the dynamic behind the mystery of stagnant wages. When workers in a particularly well-paid sector begin pouring into a city, landlords likewise raise the rent to absorb these incomes. It isn’t gentrification, but absorption through monopoly power.”
+
+Hints:
+
+- The best companies aren't sold, they're bought.  
+- Don’t buy on future hopes; buy on past mistakes.  
+- Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
 
 - Stock buybacks are effectively same as dividends.
 - Barbell strategy
@@ -707,7 +707,8 @@ Hints:
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.' -- my teacher*
 
-A college education can help you make a living, self-education can make you a fortune.
+A college education can help you make a living. Self-education can make you a fortune.  
+The value of formal education is signaling, rather than actual learning.
 
 > *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
 

@@ -12,9 +12,9 @@
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
-Choose *yourself*. Choose to be independent.
-
 > *'My independence is my legacy.' -- Bagão Felix (politician)*
+
+Choose *yourself*. Choose to be independent.
   
 Choose a life you want and then create the things you need around it. Take care of yourself first and the money, love, and prosperity will follow. A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
@@ -76,10 +76,10 @@ personality is not static. - rollo tomassi
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Choose authenticity. Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
+Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
-the best value u can add is by being more of yourself not by changing.
+The best value you can add is by being more of yourself not by changing.
 
 Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously written articles that require a month of editing.
 Be raw, be real, tell people what is really going on. The more vulnerable you are, the more people will be able to relate with you and the more of an impact you will be able to have. Don’t try to be perfect. Just be real and the results will come.
@@ -136,17 +136,20 @@ _im bad in following a script_
 ---
 ## On integrity and accountability
 
-> *'Trust, not money, is the currency of business and life.'*
-
-Be impeccable with your word and consciently work on being honest. The only way to build trust is to seek respect.
+> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
-> *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
+Trust, not money, is the currency of business and life.  
+Be impeccable with your word and consciently work on being honest. The only way to build trust is to seek respect.
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
 > *'Quality means doing it right when no one is looking.' -- Henry Ford*
+
+> *'Truth only means something when it's hard to admit.' -- Nicholas Sparks*
+
+> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
 
 Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
 Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
@@ -156,17 +159,11 @@ Your results are yours and yours alone. Your choices determined the body, bank a
 > *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
 
 <!--
-> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
-
-bravery is learned -> micro-bravery, start small
-
-Be willing to side with the minority.
-
-Humility With forward action: 'I wasn’t the smartest in X but..'
-integrity is what you think is what you say, and the same what you do.
-being vulnerable is taking don't be afraid of taking a risk.
-
-> *'Truth only means something when it's hard to admit.' -- Nicholas Sparks*
+- bravery is learned -> micro-bravery, start small
+- Humility With forward action: 'I wasn’t the smartest in X but..'
+- integrity is what you think is what you say, and the same what you do.
+- being vulnerable is taking don't be afraid of taking a risk.
+- Be willing to side with the minority.
 > *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
 -->
 
@@ -174,41 +171,52 @@ being vulnerable is taking don't be afraid of taking a risk.
 
 
 ---
-## On gratitude and humbleness
+## On humbleness
 
-> *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
+> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
-Choose humbleness and gratefulness. You are not perfect neither you'll ever be.
+> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
+
+Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. 
 
 Success means nothing in life. It’s forgotten in one generation, two at best.  
 Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
+Hints:
+
+- A way to humble yourself is to put you in the position of being the weakest person in something during the day.  
+
+> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
+
+> *'People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
+
+
+
+
+---
+## On gratitude
+
+> *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
+
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
-> *'Comparison is the thief of joy.' -- Theodore Roosevelt*
-
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
+
+Sometimes we forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it without any fanfare.
+
+> *'Comparison is the thief of joy.' -- Theodore Roosevelt*
 
 > *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
 
 > *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
 
-> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
+> *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
 
-> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
+> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 
 <!--
-- A way to humble yourself is to put you in the position of being the weakest person in something during the day.  
-- Being grateful is looking down.
+Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
 - A good life is not a life without problems. A good life is a life with good problems. mm
-- play the cards you are dealt. And you will often be dealt bad cards.
-- I sometimes forget that a group of people blazed the trail I’m enjoying and that another group continues to maintain it without any fanfare.
-
-> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
-> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
-> *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
-> *'The frog in the well knows nothing of the mighty ocean.' -- Japanese Proverb*
-> *'Ego is the unhealthy belief in our own importance.'*
 -->
 
 
@@ -237,7 +245,7 @@ Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regre
 
 > *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
 
-### Actionable hints:
+Hints:
 
 - If you are feeling lost in life experience more things.  
 - Let fear be your guide. The more fear you feel, the more you will know you are on the right track.  
@@ -265,10 +273,11 @@ Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regre
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
 <!--
-> *'People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
 > *'You cannot find peace by avoiding life.' -- Virginia Woolf*
 Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
+> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
+> *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
 
 - There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
 That’s why you need to re-evaluate your old dreams to see if new means have come along.
@@ -281,12 +290,7 @@ Because almost everything that you want is on the other side of the uncomfortabl
 - Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
 - Passion is made not found.
 - parabol: that door is only for you.	
-
-> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- roger kipling
-
 - Best Effort + Surrender = DESTINY
-	
-> *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
 
 “Your Ten-Year Plan for a Remarkable Life”
 in 2027 how a day of your life will look like?
@@ -305,11 +309,9 @@ Most people continue to chase down their ever elusive “calling”.
 You know, that one thing that if they do not do it, they have wasted their entire life and skillsets on trivial activities and distractions.
 Allow me to share a little secret with you. This doesn’t exist.
 
-Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
-
-search for actionable steps
-
-When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
+- Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
+- search for actionable steps
+- When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
 
 Have a Mission: Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission. Learn something new. Missions are for people who DO. Mission statements are for people who DON’T.
 
@@ -340,21 +342,10 @@ HOWEVER... don't be thirsty: the [journey](#on-gratefulness-and-happiness) will 
 If You Are Not Growing You Are Dying. Life is about constant and never-ending growth. If you want to live your life in such a way that you can take your final breath with a smile on your face, then you must be willing to commit yourself to constant growth. F!ck complacency. I don’t care if you have $10,000,000 in the bank account, a model wife, and all the material possessions this world has to offer, if you are not pushing yourself to grow and expand, you are digging yourself an early grave. Never settle in life, never be content with who you are and what you have achieved. You have to constantly push yourself to do more, achieve more, and, most importantly become more.
 
 - Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It's not an age thing.
-
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
-
-We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love?
-I can tell you from experience, it leaves a lot of room for change.
-I still love everything I quit. But not as much as I love all this room for change._sivers
-
-Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose.
-So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.
-challenge Because that is where you will find true fulfillment and satisfaction.
-Create Projects, Not Goals
-
-Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success.
-You must know exactly what you want, when you want it, and why you want it.
-Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
+- We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change._sivers
+- Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose. So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you. challenge Because that is where you will find true fulfillment and satisfaction. Create Projects, Not Goals
+- Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success. You must know exactly what you want, when you want it, and why you want it. Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
 -->
 
 
@@ -475,16 +466,12 @@ Read your programming book as normal. When you get to a code sample, read it ove
 
 The first 25 of the above words make up about 1/3 of all printed material in English. The first 100 comprise 1/2 of all written material, and the first 300 make up about 65% percent of all written material in English.
 
-the value of education is signaling, rather than actual learning.
-
 > *'Once you stop learning, you start dying.' -- Albert Einstein*
 
-As famed gymnastics coach Chris Sommer puts it, the fastest way to learn is to do things the slow way.
-	
-first understand the basics! then pass to next level
-
-Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
-The Key to Double Loop Learning: Push to the Point of Failure
+- As famed gymnastics coach Chris Sommer puts it, the fastest way to learn is to do things the slow way.	
+- first understand the basics! then pass to next level
+- Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
+- The Key to Double Loop Learning: Push to the Point of Failure
 
 > *'The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.' -- Alvin Toffler*
 > *'Any fool can know. The point is to understand.' -- Albert Einstein*
