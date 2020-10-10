@@ -12,9 +12,7 @@
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
-> *'My independence is my legacy.' -- Bagão Felix (politician)*
-
-Choose *yourself*. Choose to be independent.
+Your independence is your legacy.
   
 Choose a life you want and then create the things you need around it. Take care of yourself first and the money, love, and prosperity will follow. A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
@@ -77,37 +75,22 @@ personality is not static. - rollo tomassi
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
 Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
-Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
+Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. It’s not that we’re learning how to be authentic, but that we’re un-learning inauthenticity.
 
-The best value you can add is by being more of yourself not by changing.
-
-Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously written articles that require a month of editing.
+The best value you can add is by being more of yourself not by changing.  
+Keep it real, don't show yourself too perfect. People know when they’re talking to the real thing.
+Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete.
 Be raw, be real, tell people what is really going on. The more vulnerable you are, the more people will be able to relate with you and the more of an impact you will be able to have. Don’t try to be perfect. Just be real and the results will come.
 
 > *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don't need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
 
-- meta acting. some people with no studies were much better on this than anyone I knowed. autenthic voice on your craft.
-- make your followers share their motivations and use it to make them do what must be done.
-- keep it real, don't show yourself too perfect.
-- If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. It’s not that we’re learning how to be authentic, but that we’re un-learning inauthenticity. If authenticity is the feeling of being your real self, then we can define inauthenticity as the feeling of not being your real self.
-- People know when they’re talking to the real thing.
-- Corollary to the authenticity paradox: you can be inauthentic by doing what seems authentic (that is, what feels most comfortable), and you can be more authentic by trying things that feel inauthentic (that is, new thoughts and behaviors that are uncomfortable simply because they’re new).
-- The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh.
-- Finally, you have to be willing to put your inauthenticity aside.
-- truth-a-better-way-to-talk-about-ourselves.
+> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 <!--
-core values:
-honesty everywhere. i dont want to be in place where i cant be honest.
-i want to make relationships with a long term prospect.
-flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer.
-angry. i dont want to be around angry people
-
-Personal branding will kill you. Personal DOING will save everyone around you.
-people justify all kinds of mistakes to preserve the personal narratives they are invested in
-Countries rewrite their histories, from the textbook up, to support how they see themselves now.
-
-CHANGE YOUR ACTIONS, NOT YOURSELF
+- The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. truth-a-better-way-to-talk-about-ourselves.
+- core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
+- Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
+- CHANGE YOUR ACTIONS, NOT YOURSELF
 
 Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change.
 
@@ -123,7 +106,6 @@ Manhood is Defined by Your Values and Your Code
 Always remain diligent. Have no careless Days. Fate loves to play tricks, and will heap up chances to catch us unawares. Our intelligence, prudence, and courage, even our beauty, must always be ready for trial. For their day of careless trust will be that of their discredit. Care always fails just when it was most wanted.
 
 > *'Words are deeds.' -- Ludwig Wittgenstein*
-> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 You must play by your rules, funnel your weird stuff to give you some advantage.
@@ -141,7 +123,7 @@ _im bad in following a script_
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
 Trust, not money, is the currency of business and life.  
-Be impeccable with your word and consciently work on being honest. The only way to build trust is to seek respect.
+Be impeccable with your word and consciently work on being honest.
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
@@ -179,16 +161,13 @@ Your results are yours and yours alone. Your choices determined the body, bank a
 
 Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. 
 
-Success means nothing in life. It’s forgotten in one generation, two at best.  
-Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
-
-Hints:
-
-- A way to humble yourself is to put you in the position of being the weakest person in something during the day.  
+Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
 > *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
 
 > *'People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
+
+A way to humble yourself is to put you in the position of being the weakest person in something during the day.  
 
 
 
@@ -202,15 +181,14 @@ Hints:
 
 > *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
 
-Sometimes we forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it without any fanfare.
+Often we forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
 
 > *'Comparison is the thief of joy.' -- Theodore Roosevelt*
 
 > *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
 
-> *'You can’t be grateful and angry simultaneously.' -- Tony Robbins*
-
-> *'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
+> *'You can’t be grateful and angry simultaneously.'  
+'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
 
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 
@@ -239,7 +217,7 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 ### How to design a life?
 
-Mediocrity, as a goal, sucks... as a result, is OK. Lying in death bed and regretting your life is the worst that can happen to you.
+Mediocrity, as a goal, sucks. As a result, is OK. Lying in death bed and regretting your life is the worst that can happen to you.
 
 > *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 

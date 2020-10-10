@@ -50,8 +50,7 @@ I help (or a derivative) investors (target: people is too generalist but don't o
 6 or 7 words -- short and sweet and confident and interesting.
 ask them first so you can costumise it for the context and make it more relevant.
 
-How to curate your network?
-
+* How to curate your network?
 - Form relationships with those who seem like they’ll give at least as much than they take.  
 - Expand from too long networks.
 - Building new connections is important but it’s even more important to remember your connections that already exist. The difference between success and failure can be as simple as keeping in touch.  
@@ -65,9 +64,7 @@ How to curate your network?
 
 ### Why most people don't like networking?
 
-Handling rejection is hard.
-
-> *'We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.'*
+Handling rejection is hard. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
 > *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
