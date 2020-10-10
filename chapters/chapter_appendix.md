@@ -715,6 +715,11 @@ The value of formal education is signaling, rather than actual learning.
 > *'«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase “Safety net”?
 Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up.' -- James Altucher*
 
+> *'Education: the path from cocky ignorance to miserable uncertainty.' -- Mark Twain*
+
+<!--
+None of her “13 Things” can be taught in school. School teaches facts. And it teaches you to memorize facts. And it punishes you if you forget the facts. But facts won’t help you survive the tragedies of life. I wish school had taught me how to really live. How to be healthy. How to survive the hardest relationships. How to be creative every day. How to surrender to the things I can’t control.
+-->
 
 
 

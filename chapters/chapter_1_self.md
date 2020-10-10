@@ -253,7 +253,7 @@ Hints:
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
 <!--
-> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
+
 Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 > *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
@@ -336,7 +336,8 @@ If You Are Not Growing You Are Dying. Life is about constant and never-ending gr
 
 > *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
 
-You need to break rules to achieve anything great.  
+You need to break rules to achieve anything great.
+
 Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement. You keep doing what you’re good at to avoid facing the real problems in your life. The size of our life is in direct proportion to how uncomfortable we are willing to be.
 
 > *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
@@ -398,220 +399,78 @@ But the problem with this philosophy is that no great work ever came from comfor
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
-Most problems can be solved by graded exposure over time. Make the mind tougher by exposing it to adversity.
-
-<!--
-A fundamentalist gives answers, a scholar gives questions.
-	
-1. You need to recognize when you're not learning, for one thing. If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
-2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
-3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
-4. Learn how to learn: https://www.youtube.com/watch?v=FKTxC9pl-WM
-5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
-
-> *'#383. Every man hears only what he understands.' -- goethe*
-- entry trick to learn something.
-- success is the worst teacher
-- Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
-
-- If you are not growing you are dying.
-
-So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
-
-growth: get unconfortable. 
-
-Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
-	
-> *'The brain switches off if it becomes too bored, that is the problem. You must always look for new things to learn.' -- Anand, Viswanathan*
-
-1. Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile. -- Balthasar Gracian
-
-When I asked him what separated his student from the other people he’d mentored Russel’s answer was simple.
-“He’s willing to listen to people who are smarter than he is and he has a tremendous hustle and drive.”
-
-Project-based learning is not a superior new idea. Project-based learning is the most inefficient form of learning that still works.
-learning concepts is much more important than learning applications
-
-People often ask me what’s the best language to learn to study software design. I ask them what’s the best instrument to learn to study music theory. Everyone answers piano. In piano, you can see the chords in a way that you can’t in, say, trombone. We see something similar in other domains. In The Art of Learning, Josh Waitzkin recounts how, unlike others, he started studying chess at the fundamentals, in situations with few pieces on the board. He ultimately beat competitors who studied many times harder. In The Art of Game Design: A Book of Lenses, Jesse Schell advocates looking past modern video games and instead studying the concepts in board games, dice games, playground games.
-
-The second big argument for project-based learning is that it more closely resembles what students will actually do on the job. This, in turn, is based on the idea that the best way to practice an activity is to do it.
-you isolate subskills and drill them
-
-You can spend hundreds of hours practicing a piece using too many muscles on every key press. If your body awareness isn’t great, you might not find out until your hand cramps up right before your performance. A couple seconds to catch that mistake, a couple minutes to tell you a story of that happening to others, and the piano teacher’s just saved you months. -> value of a coach\
-
-Here’s how it works:
-Read your programming book as normal. When you get to a code sample, read it over. Then close the book. Then try to type it up.
-
-> *'Education: the path from cocky ignorance to miserable uncertainty.' -- Mark Twain*
-
-The first 25 of the above words make up about 1/3 of all printed material in English. The first 100 comprise 1/2 of all written material, and the first 300 make up about 65% percent of all written material in English.
-
 > *'Once you stop learning, you start dying.' -- Albert Einstein*
 
-- As famed gymnastics coach Chris Sommer puts it, the fastest way to learn is to do things the slow way.	
-- first understand the basics! then pass to next level
-- Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
-- The Key to Double Loop Learning: Push to the Point of Failure
+Most problems can be solved by graded exposure over time.
+
+You improve with experience and analysis of past situations.
+
+> *'The fastest way to learn is to do things the slow way.' -- Chris Sommer (gymnastics coach)*
 
 > *'The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.' -- Alvin Toffler*
+
 > *'Any fool can know. The point is to understand.' -- Albert Einstein*
-
-- Pain + Reflection = Progress
-- effort * talent = skill
-- fastest way to learn is to teach.
-- formula for getting better at anything: find your PLUS, MINUS, EQUAL.
-
-> *'Don't major on minor things.'* ->  applied focus
-
-making resolutions: Guilt will carry you when willpower fails. By all means involve friends, but make your pressures real.
-Just saying words doesn’t make a thing happen. Try walking through a door instead.
-
-A friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
-“Recognizing the good people from the bad,” he said. “Working with those people. Connecting them. That’s a life-multiplier.”
-
-None of her “13 Things” can be taught in school. School teaches facts. And it teaches you to memorize facts. And it punishes you if you forget the facts. But facts won’t help you survive the tragedies of life. I wish school had taught me how to really live. How to be healthy. How to survive the hardest relationships. How to be creative every day. How to surrender to the things I can’t control.
-
-Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
-
-'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes
-The better players did not examine more possibilities, only better ones — just as Capablanca had claimed.
-Yet in both cases, the expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge.
-
-Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
-
-The very best old-time masters were considerably
-stronger but still well below the level of today’s leaders.
-Then again, Capablanca and his contemporaries had neither
-computers nor game databases. They had to work things out
-for themselves, as did Bach, Mozart and Beethoven, and if they
-fall below today’s masters in technique, they tower above them
-in creative power. The same comparison can be made between
-Newton and the typical newly minted Ph.D. in physics.
-
-Thus, motivation appears to be a more important factor
-than innate ability in the development of expertise
-
-EXPERTS ARE MADE, NOT BORN.
-
-learning process: the macro from the micro.
-if you're studing my game, ill win because i'll be bette rthan you at it.
-
-Whatever your strengths are, they will likely lead straight into your weaknesses.
-
-5 Fool-Proof Ways to End Procrastination Today
-
-Pay attention to these inner-dialogue sentences (and causes of procrastination)
-
-It’s easy to do so I’ll fit it in later (Complacency)
-strong self-confidence
-laziness
-lack of concern
-I’d much rather do something easier instead (Avoiding discomfort)
-unpleasantness of an activity
-pleasantness of another activity
-I won’t do it because I’ll probably fail (Fear of failure)
-I’m just not in the mood to do this right now (Emotional state)
-too tired
-too hungry
-too stressed
-I’ve done everything I could, and still no progress has been made (Action illusion)
-Tactics for remedy
-
-Home run
-
-Set (realistic) goals and (suitable) rewards. Each time you hit a goal, you earn the reward. Select a time to review your progress and adjust your targets accordingly.
-
-- Be good to yourself
-- Imagine a conversation between ‘you today’ and ‘you tomorrow’… what would he have to say?
-
-Set creative punishments
-Make the consequences of inaction so unbearable that you have no choice but to get busy now. You could write a check to someone or something you really dislike. Give the check to a friend with strict instructions to mail the check if you do not achieve your goal.
-Going public with a goal increases your support and accountability. Ask for support, but don’t kid yourself that support equals progress.
-
-framework for accelerated learning: (deconstruction, selection, right sequence, and reward/punishment
- more freedom.
-
-> *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
-
-i have no special talent, i'm only passionately curious -- einstein
-
-“Lift heavy weights for 5 hours a week and only eat real food. Start a side hustle, save away every extra penny, and then invest in some sort of 
-Discipline eliminates complexity. Everyday, you make micro and macro decisions. If you reduce the number of decisions you need to make daily, you haveasset like a real estate deal. Talk to five new women every day, be genuinely interested, and be authentic with them. Start journaling, meditating, and pushing yourself to embrace adversity.”
-
-Unlike IQ, which tends to stay the same throughout life, emotional intelligence is a flexible set of skills that can be acquired and improved with practice. Emotional intelligence is determined by self-awareness, self-management, social awareness, and relationship management.
 
 > *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
 
-Unable to discern between what we know and what we pretend to know, we ultimately become victims of our own laziness and intellectual dishonesty.
+<!--	
+1. You need to recognize when you're not learning, for one thing. If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
+2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
+3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
+5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
 
-knowing the name of something and knowing something.
-
-One way to tease out the difference between Planck and chauffeur knowledge is to ask them why.
-
-True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
-
-No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
-
-This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
-
+- success is the worst teacher
+- Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
+- growth: get unconfortable. So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
+- Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
+	
+> *'#383. Every man hears only what he understands.' -- goethe*
 > *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
-
-(what skills and tricks he teaches snipers and practices himself: visualization, positive self-talk, solution-based thinking and so on.)
-He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
-
-Amateurs talk about money. Professionals talk about ideas.
-
-lazyness is nothing more than resting before getting tired
-
+> *'The brain switches off if it becomes too bored, that is the problem. You must always look for new things to learn.' -- Anand, Viswanathan*
+> *'Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile.' -- Balthasar Gracian*
+> *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
+> *'I have no special talent, I'm only passionately curious.' -- Albert Einstein*
 > *'I’m always looking for a way to make it happen, not excuses why it won’t work.' -- Aaron Walker*
 
-Understand why we should fear missing opportunity more than we should fear failure.
-The importance of living proactively instead of reactively.
+- When I asked him what separated his student from the other people he’d mentored Russel’s answer was simple: «He’s willing to listen to people who are smarter than he is and he has a tremendous hustle and drive.»
+- Project-based learning is not a superior new idea. Project-based learning is the most inefficient form of learning that still works.
+- Learning concepts is much more important than learning applications.
+- first understand the basics! then pass to next level
+- entry trick to learn something. The first 25 of the above words make up about 1/3 of all printed material in English. The first 100 comprise 1/2 of all written material, and the first 300 make up about 65% percent of all written material in English.
+- Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
+- The Key to Double Loop Learning: Push to the Point of Failure
+- Pain + Reflection = Progress | effort * talent = skill
+- fastest way to learn is to teach.
+- Don't major on minor things. - applied focus
+- A friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
+“Recognizing the good people from the bad,” he said. “Working with those people. Connecting them. That’s a life-multiplier.”
+- learning process: the macro from the micro.
+- Whatever your strengths are, they will likely lead straight into your weaknesses.
+- Set creative punishments. Make the consequences of inaction so unbearable that you have no choice but to get busy now. You could write a check to someone or something you really dislike. Give the check to a friend with strict instructions to mail the check if you do not achieve your goal.
+Going public with a goal increases your support and accountability. Ask for support, but don’t kid yourself that support equals progress.
+- framework for accelerated learning: (deconstruction, selection, right sequence, and reward/punishment
+- Lift heavy weights for 5 hours a week and only eat real food. Start a side hustle, save away every extra penny, and then invest in some sort of 
+- Discipline eliminates complexity. Everyday, you make micro and macro decisions. If you reduce the number of decisions you need to make daily, you haveasset like a real estate deal. Talk to five new women every day, be genuinely interested, and be authentic with them. Start journaling, meditating, and pushing yourself to embrace adversity.
+- Unlike IQ, which tends to stay the same throughout life, emotional intelligence is a flexible set of skills that can be acquired and improved with practice. Emotional intelligence is determined by self-awareness, self-management, social awareness, and relationship management.
+- One way to tease out the difference between Planck and chauffeur knowledge is to ask them why.
+- True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
+- No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
+- This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
+- He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
+- Amateurs talk about money. Professionals talk about ideas.
+- lazyness is nothing more than resting before getting tired
+- Understand why we should fear missing opportunity more than we should fear failure.
+- The importance of living proactively instead of reactively.
+- The hardest part is showing up
+- How to learn? There are four simple steps to the Feynman Technique: choose a Concept, Teach it to a Toddler, Identify Gaps and Go Back to The Source Material, Review and Simplify
+- Only applied knowledge is power.
 
-> *'It's not about the money, it's about the game.' -- Gordon Gekko*
-
-“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
-“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
-I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
-
-Discipline equals freedom ~ Jocko Willink
-
-4. Win the Morning, Win the Day
-
-Assorted exterior surfaces (facade, roof, garage door and gate) and outside areas (front yard, parking lot) of detached and semi-attached houses.
-
-The hardest part is showing up
-
-How to learn?
-There are four simple steps to the Feynman Technique:
-Choose a Concept
-Teach it to a Toddler
-Identify Gaps and Go Back to The Source Material
-Review and Simplify (optional\
-
-It’s important to separate attributes from skills
-
-Only applied knowledge is power, and if you have spent years devoting your time and energy to learning without taking the proper proportion of action, then it is time to get off your ass, leave the theory on your nightstand, and get in the game
-
-Just in time learning. You can learn faster if you have something your working on rather than some future idea that may not happen. Improves retention, wastes less time.
-
-“We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
-there are consequences for acting and don't acting
-
-4. Education not Schooling is What Separates the Winners from the Losers
-
-2. Start with the Basics
-
-1. Anything You Desire is an Attainable Skill 
-Short of physical characteristics like height, bone structure, and other unchangeable genetic factors, anything in your life can be changed.
-you can change aspects of your personality that you don’t like And for most people, this is a scary realization. you are now “burdened” with the realization that you are completely responsible for everything in your life and everything not in your life.
-you have to choose now. what you want.
-
-Develop a High-Value Skill Set and Turn It Into Passive Income
+> *'We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.'*
 -->
 
-You improve by:  
-<a id="on-improving-by-practice"></a>1) getting out of your comfort zone. Don't be afraid of [failure](#on-mistakes-and-failure).
+### Improving by experience
+
+Get out of your comfort zone. Don't be afraid of [failure](#on-mistakes-and-failure).
 
 > *'What gives value to travel is fear.' -- Albert Camus*
 
@@ -635,7 +494,9 @@ when expanding comfort zones you are learning.
 what happens when we step too far out of our comfort zones, how James mitigates risk by assuming the worst, how experience with failure can be a valuable skillset, why being in debt is better than simply being broke, and lots more.
 -->
 
-<a id="on-improving-by-theory"></a>2) analysis of past situations. Practice makes perfect but doesn't make new. New comes from having a broader perspective.
+### Improving by analysis
+
+Practice makes perfect but doesn't make new. New comes from having a broader perspective and analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
@@ -761,6 +622,13 @@ However mastery is an important trigger of arrogance. There's always room for im
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.' -- Robert Greene*  
 
 > *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
+
+<!--
+- Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
+
+> *'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes*
+The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
+-->
 
 
 
@@ -1144,7 +1012,7 @@ Don’t wait for someone to tell you that you are special. You should look at re
 
 > *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
 
-[Mastery](#on-mastery) and [core values](#on-identity) are good sources of confidence.  
+Mastery and core values are good sources of confidence.  
 In the meanwhile any source is good. Don't stop till you get it.
 
 > *'If you don't believe in yourself. Believe in me who believes in you.'*
@@ -1160,7 +1028,7 @@ Other confidence «movers»:
 - Confidence relies on pride. pursue authentic pride.  
 - Hard work = confidence
 
-<a id="on-arrogance"></a>HOWEVER... know the frontier between confidence and arrogance.
+HOWEVER... know the frontier between confidence and arrogance.
 
 > *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
 

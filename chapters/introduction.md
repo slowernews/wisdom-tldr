@@ -36,6 +36,7 @@ Never stop working on yourself. Always strive to be better. Is succeeding at med
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
 to be real you need to be vulnerable
 > *'Do you want to know who you are? Don't ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
+> *'Whenever you think or you believe or you know, you're a lot of other people: but the moment you feel, you're nobody-but-yourself.' --  E.E. Cummings*
 -->
 
 

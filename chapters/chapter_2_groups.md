@@ -530,6 +530,12 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 
 You're never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one. If a buddy calls and needs to get a drink, go. I also know someone is a friend when I can go long stretches without talking to him and then we talk and its right where we left off.
 
+<!--
+“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
+“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
+I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
+-->
+
 ### On friends
 
 Resist the temptation of working with family and friends. Peers are peers, not boss and employee. Pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
@@ -579,7 +585,8 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
-Feedback speeds up improvement but only take advice from mentors.
+Feedback speeds up improvement but only take advice from mentors.  
+A fundamentalist gives answers, a scholar gives questions.
 
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 

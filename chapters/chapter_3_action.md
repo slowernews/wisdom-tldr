@@ -892,6 +892,8 @@ Their cheating had a small individual effect initially, so it went unnoticed. Bu
 ---
 ## On charming
 
+> *'We catch more flies with honey than vinegar.'*
+
 Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
 > *'Use selective honesty and generosity to disarm your victim.'  
@@ -910,8 +912,6 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 > *'Make other people come to you: use bait if necessary.'  
 'Learn to keep people dependent on you.'  
 Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th law of power)*
-
-> *'We catch more flies with honey than vinegar.'*
 
 <!--
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
@@ -1085,6 +1085,8 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 
 The only successful changes are those coming from within.
 
+> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
+
 <!--
 burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
 -->
@@ -1146,6 +1148,8 @@ quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- se
 tecnically win or fundamentally win
 
 winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy's resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it's only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it's a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
+
+> *'It's not about the money, it's about the game.' -- Gordon Gekko*
 -->
 
 
