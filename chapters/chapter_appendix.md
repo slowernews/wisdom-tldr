@@ -66,19 +66,17 @@ Life becomes very easy when you have studied the past to the extent that you hav
 
 > *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
+> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
+
 You will die soon. Never get so busy making a living that you forget to make a life.
 
 Act accordingly and don't postpone joy: live life ready to meet god like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, does not mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
-> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
-
 > *'Either write something worth reading or do something worth writing.' -- Benjamin Franklin*
 
 > *'What's life? Showing up for the people you love, again and again, until you can’t show up anymore.'* -- Rebecca Walker*
-
-> *'Men are living their whole lives in pursuit of some arbitrary goal that somehow gives them permission to live their lives, love themselves, and enjoy their time on this planet. And frankly, it’s complete bullshit! Life happens in the now. Money is nothing more than a magnifying glass. Money simply makes you more of what you already are. They start by focusing on their goals instead of themselves. They are more than willing to hustle and grind on their business for hours on end, but spending an hour in the gym? Not a chance!'*
 
 <!--
 - 100 blocks a day -- wait but why  
@@ -137,11 +135,13 @@ However don't obcess on that. You can't control the future.
 
 > *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
 
-> *'It is never too late to be what you might have been.' -- George Eliot*
-
-> *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older. And you can’t go back to it. It’s an endless subject.' -- John Cassavetes*
+> *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
 
 > *'Once I was beautiful, now I'm myself.' -- Anne Sexton*
+
+<!--
+> *'It is never too late to be what you might have been.' -- George Eliot*	
+-->
 
 
 

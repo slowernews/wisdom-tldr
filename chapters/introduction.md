@@ -57,9 +57,11 @@ What is happiness?
 
 > *'Happiness is a journey, not a destination.' -- Ben Sweetland*
 
-> *'Happiness is your default state when you remove everything.' -- Naval Ravikant*
-
 > *'Success is getting what you want. Happiness is wanting what you get.' -- Dale Carnegie*
+
+> *'Happiness in intelligent people is the rarest thing I know.' -- Ernest Hemingway*
+
+> *'Happiness is your default state when you remove everything.' -- Naval Ravikant*
 
 Seek happiness actively (improve reality) and passively (lower expectations).
 
@@ -68,17 +70,13 @@ Seek happiness actively (improve reality) and passively (lower expectations).
 Act, be patient and break long term goals into smaller ones so you can enjoy the journey.  
 We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability».
 
-> *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.'*
-
-> *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.'*
-
 > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
 
 > *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli*
 
 ### How to lower expectations?
 
-Be [grateful](chapter_1_self.md#on-gratefulness).
+Be [grateful](chapter_1_self.md#on-gratitude).
 
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
 
@@ -89,9 +87,7 @@ Be [grateful](chapter_1_self.md#on-gratefulness).
 <!--
 > *'The rise is always better than the peak.' -- Jim Jefferies*
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
-> *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.'*
 > *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
-> *'Happiness in intelligent people is the rarest thing I know.' -- Ernest Hemingway*
 
 - It's a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn't like ot climb much. I just liked to imagine the summit.
 - It’s quite liberating to understand reality as a construction.  

@@ -192,6 +192,8 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 
+> *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.' -- Lao Tzu*
+
 <!--
 Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
 - A good life is not a life without problems. A good life is a life with good problems. mm
@@ -1224,7 +1226,11 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 
 > *'I've lived through some terrible things in my life, some of which actually happened.' -- Mark Twain*
 
+> *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.' -- Bertram Carr*
+
 > *'Hope is a good breakfast, but it is a bad supper.' -- Francis Bacon*
+
+> *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.' -- Mark Manson*
 
 
 
