@@ -361,7 +361,7 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 You can choose courage or you can choose comfort, but you can't choose both.  
 Take risk. Big audacious risk. You’ll never get what you want in life without it. Not taking risks is too risky.
 
-If you act average, you're going to be average. If you want to move away from average, you must diverge. And if you want to outperform, you must be different and correct.
+[If you act average, you're going to be average](chapter_2_groups.md#on-following-the-herd). If you want to move away from average, you must diverge. And if you want to outperform, you must be different and correct.
 
 > *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
 
@@ -401,8 +401,7 @@ Let your fears guide you. The Things That Scare You the Most Are the Things You 
 
 > *'Once you stop learning, you start dying.' -- Albert Einstein*
 
-Most problems can be solved by graded exposure over time.
-
+Most problems can be solved by graded exposure over time.  
 You improve with experience and analysis of past situations.
 
 > *'The fastest way to learn is to do things the slow way.' -- Chris Sommer (gymnastics coach)*
@@ -493,21 +492,18 @@ New comes from having a broader perspective and analysis of past situations.
 People repeat very easily the same mistakes. You improve by examining your failures.  
 It will help you [letting go](#on-mistakes-and-failure).
 
-> *'Journal early before your inhibitions take in.'*
-
-> *'Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
+> *'Journal early before your inhibitions take in. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.'*
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
 ### Applied knowledge
 
 However action not knowledge leads to [success](chapter_appendix.md#on-success).  
-If you are not constantly taking action on the new information that you are learning then you haven’t truly learned anything at all. It's just educational porn.
+If you are not constantly taking action on the new information that you are learning then it's just educational porn.
 
 > *'Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile.' -- Balthasar Gracian*
 
 > *'Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it.'*
-
 
 <!--
 career day an year -> journaling self analysis.
