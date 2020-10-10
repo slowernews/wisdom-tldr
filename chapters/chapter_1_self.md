@@ -388,8 +388,8 @@ But the problem with this philosophy is that no great work ever came from comfor
 - FIVE PSYCHOLOGICAL ROADBLOCKS TO EXPLORING OUTSIDE OUR COMFORT ZONES: Authenticity, Likeability, Competence, resentment, morality
 - 'And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.' -- machiavelli, chapter 6 of _The Prince_
 - risk over safety is the way to pull forward. Risk Leads to Growth and Excitement. You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
+Let your fears guide you. The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
 -->
-
 
 
 
@@ -427,7 +427,6 @@ You improve with experience and analysis of past situations.
 > *'#383. Every man hears only what he understands.' -- goethe*
 > *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
 > *'The brain switches off if it becomes too bored, that is the problem. You must always look for new things to learn.' -- Anand, Viswanathan*
-> *'Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile.' -- Balthasar Gracian*
 > *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
 > *'I have no special talent, I'm only passionately curious.' -- Albert Einstein*
 > *'I’m always looking for a way to make it happen, not excuses why it won’t work.' -- Aaron Walker*
@@ -470,45 +469,29 @@ Going public with a goal increases your support and accountability. Ask for supp
 
 ### Improving by experience
 
-Get out of your comfort zone. Don't be afraid of [failure](#on-mistakes-and-failure).
-
-> *'What gives value to travel is fear.' -- Albert Camus*
-
-> *'Lessons not learned in blood are soon forgotten. Welcome the attacks of your enemies for how much they improve your work and toughen you up.'*
-
 > *'Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.' -- Chinese proverb*
+
+When expanding comfort zones you are learning. Don't be afraid of [failure](#on-mistakes-and-failure).
 
 > *'The difference between theory and practice: in theory, there's no difference between theory and practice; in practice, there is.' -- Van de Snepscheut*
 
 <!--
 deliberated practice
-
-The Things That Scare You the Most Are the Things You Most Need to Do
-Let your fears guide you.
-
-I'm not a risk taker, I'm just stupid.
-mitigate risks. some people just have larger comfort zones.
-in new situations sometimes we don't know what risks are.
-when expanding comfort zones you are learning.
-
-what happens when we step too far out of our comfort zones, how James mitigates risk by assuming the worst, how experience with failure can be a valuable skillset, why being in debt is better than simply being broke, and lots more.
 -->
 
 ### Improving by analysis
 
-Practice makes perfect but doesn't make new. New comes from having a broader perspective and analysis of past situations.
+Practice makes perfect but doesn't make new.  
+New comes from having a broader perspective and analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
 > *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
 
-> *'People repeat very easily the same mistakes. You improve by examining them.'*
-
 > *'You can only connect the dots looking back, not looking forward.'*
 
-> *'The years say, what the days can't tell.' -- Chinese proverb*
-
-Hints: Take moments to be reflective and examine your failures. It will help you [letting go](#on-mistakes-and-failure) and get [relaxed](#on-being-relaxed).
+People repeat very easily the same mistakes. You improve by examining your failures.  
+It will help you [letting go](#on-mistakes-and-failure).
 
 > *'Journal early before your inhibitions take in.'*
 
@@ -516,13 +499,15 @@ Hints: Take moments to be reflective and examine your failures. It will help you
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
-HOWEVER... action not knowledge leads to [success](#on-success).
+### Applied knowledge
 
-> *'As much as possible, try to apply your knowledge in some form of experiment or practice. If not is educational porn.'*
+However action not knowledge leads to [success](chapter_appendix.md#on-success).  
+If you are not constantly taking action on the new information that you are learning then you haven’t truly learned anything at all. It's just educational porn.
+
+> *'Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile.' -- Balthasar Gracian*
 
 > *'Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it.'*
 
-> *'If you are not constantly taking action on the new information that you are learning then you haven’t truly learned anything at all.'*
 
 <!--
 career day an year -> journaling self analysis.

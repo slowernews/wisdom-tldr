@@ -32,6 +32,8 @@ Life becomes very easy when you have studied the past to the extent that you hav
 
 > *'There are years that ask questions and years that answer.' -- Zora Neale Hurston*
 
+> *'The years say, what the days can't tell.' -- Chinese proverb*
+
 > *'There is no past or future. Using tenses to divide time is like making chalk marks on water.'*
 
 ### How memory works?
@@ -682,6 +684,8 @@ Hints:
 ## On travel and nomadism
 
 > *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+
+> *'What gives value to travel is fear.' -- Albert Camus*
 
 Travel is the only thing you buy that makes you richer.   
 Travels are mini-lifes. They solve a plethora of self-improvement goals. 
