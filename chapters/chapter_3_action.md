@@ -785,7 +785,7 @@ Plans are not static. You need to switch strategies a few times to get where you
 
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
 
-> *'Take advantage of the opportunities - that’s probably more important than charting your path.'-- Admiral William Mcraven*
+> *'Take advantage of the opportunities - that’s probably more important than charting your path.' -- Admiral William Mcraven*
 
 > *'One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing.' -- Kautilya*
 

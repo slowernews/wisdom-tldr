@@ -227,12 +227,15 @@ Mediocrity, as a goal, sucks. As a result, is OK. Lying in death bed and regrett
 
 Hints:
 
-- If you are feeling lost in life experience more things.  
+- Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change. It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.  
+- If you are feeling lost in life experience more things. Become unconfortable. It will improve your tolerance for risk and adversity. Almost everything that you want is on the other side of the uncomfortable and the scary.  
 - Let fear be your guide. The more fear you feel, the more you will know you are on the right track.  
 - What do you do for fun? What are you interested in that everybody in the world is interested in?  
 - Go where you can make a difference not where you think there’s a home run.  
-- When life gets blurry, just adjust your focus.
+- When life gets blurry, just adjust your focus. Random wandering will not move you forward.
 - It’s easier to ask forgiveness than to get permission.  
+- Passion is made not found.  
+- There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!” That’s why you need to re-evaluate your old dreams to see if new means have come along. Don’t let the details distract you from your goal.  
 
 > *'I can think, I can wait and I can fast.' -- Siddahrta*
 
@@ -252,80 +255,35 @@ Hints:
 
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
-<!--
+> *'The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 
-Random wandering will not move you forward, “The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
-> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
+
 > *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
 
-- There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!”
-That’s why you need to re-evaluate your old dreams to see if new means have come along.
-Don’t let the details distract you from your goal.
-- To Improve Your Life, You First First Become Uncomfortable
-If you want to improve the quality of your life, then start by improving your tolerance for risk and adversity.
-Because almost everything that you want is on the other side of the uncomfortable and the scary.
+<!--
+> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
+
 - there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
-- the talent to change your life
-- Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.
-- Passion is made not found.
 - parabol: that door is only for you.	
 - Best Effort + Surrender = DESTINY
 
-“Your Ten-Year Plan for a Remarkable Life”
-in 2027 how a day of your life will look like?
-write how will look this day. dream big. write it with no fear and read it once a year.
-these things can make a difference.
-exercise: what would be your life if you wouldnt have fear of failure of life.
+“Your Ten-Year Plan for a Remarkable Life”. in 2027 how a day of your life will look like? write how will look this day. dream big. write it with no fear and read it once a year. these things can make a difference. exercise: what would be your life if you wouldnt have fear of failure of life.
 
-Scott’s story is not about movies, or addiction, or creativity, it’s about knowing the right direction to take the next step.
-
-Step 1: FIND OUT WHAT YOU’RE CRAVING:
-a) Addiction: I felt powerless. I was addicted to money. More was never enough. Then I left Wall Street. Because they were the supplier.
-b) Depletion: Your body needs something. It can be water, a vitamin or mineral or a change. That’s where reinvention comes in.
-
-Fulfillment in Any Endeavor Comes from Variety and Engagement 
-Most people continue to chase down their ever elusive “calling”.
-You know, that one thing that if they do not do it, they have wasted their entire life and skillsets on trivial activities and distractions.
-Allow me to share a little secret with you. This doesn’t exist.
-
-- Figure out what you want out of life and figure out how much money you will need to make it happen, then start taking the steps necessary to get there.
-- search for actionable steps
+- Most people continue to chase down their ever elusive “calling”. You know, that one thing that if they do not do it, they have wasted their entire life and skillsets on trivial activities and distractions. Allow me to share a little secret with you. This doesn’t exist.
+- Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose. So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you. challenge Because that is where you will find true fulfillment and satisfaction. Create Projects, Not Goals
+- Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success. You must know exactly what you want, when you want it, and why you want it. Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
+- We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change._sivers
+- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It's not an age thing.
+- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 - When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
-
-Have a Mission: Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission. Learn something new. Missions are for people who DO. Mission statements are for people who DON’T.
+- DO THE WORK: Work until your idols become your rivals. Work hard in silence. Let your silence be your noise. How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.
 
 What do you really want?
 - What do the actions of your past suggest is most important to you?
 - What desires do you have that don't align with your past behavior.
 - What future path does your past behavior suggest rather than your imagination?
 - If you don't like these answers, change your existing behavior.
-Spend more time doing the things you really want to do.
-Getting very clear about what is important allows you to stop caring so much about things that are unimportant.
-What skills are you missing to be able to do what you want? What skills do others have who possess what you wan
-allen tucker
-
-“It seems so easy because you hang out with yourself all day,” she said. “But it’s so easy to get distracted by who you feel you should be… or who you wish you were. Or who other people expect you to be.”
-it’s OK to stop doing things that should make you feel good, but don’t.
-
-Step 1: Do less of what you don’t like doing -- unless it is limiting you
-Step 2: Do more of what you like doing
-Step 3: Use envy “Envy is painful, but it’s a very helpful emotion for a happy life. It’s a giant red arrow sign standing over someone’s head saying, ‘They've got something you want.’”
-
-DO THE WORK
-> *'Work until your idols become your rivals.'*
-> *'Work hard in silence. Let your silence be your noise.'*
-> *'How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.' -- Allen Tucker*
-
-HOWEVER... don't be thirsty: the [journey](#on-gratefulness-and-happiness) will not be enjoyable and people will [envy](#on-outliers) you.
-
-If You Are Not Growing You Are Dying. Life is about constant and never-ending growth. If you want to live your life in such a way that you can take your final breath with a smile on your face, then you must be willing to commit yourself to constant growth. F!ck complacency. I don’t care if you have $10,000,000 in the bank account, a model wife, and all the material possessions this world has to offer, if you are not pushing yourself to grow and expand, you are digging yourself an early grave. Never settle in life, never be content with who you are and what you have achieved. You have to constantly push yourself to do more, achieve more, and, most importantly become more.
-
-- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It's not an age thing.
-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
-- We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change._sivers
-- Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose. So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you. challenge Because that is where you will find true fulfillment and satisfaction. Create Projects, Not Goals
-- Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success. You must know exactly what you want, when you want it, and why you want it. Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
 -->
 
 
@@ -474,10 +432,6 @@ When expanding comfort zones you are learning. Don't be afraid of [failure](#on-
 
 > *'The difference between theory and practice: in theory, there's no difference between theory and practice; in practice, there is.' -- Van de Snepscheut*
 
-<!--
-deliberated practice
--->
-
 ### Improving by analysis
 
 Practice makes perfect but doesn't make new.  
@@ -496,6 +450,10 @@ It will help you [letting go](#on-mistakes-and-failure).
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
+### On learning
+
+Deliberated practice.
+
 ### Applied knowledge
 
 However action not knowledge leads to [success](chapter_appendix.md#on-success).  
@@ -510,7 +468,6 @@ career day an year -> journaling self analysis.
 
 am i learning? if not you'll have a problem down the road.
 
-2. To Lead a Balanced and Healthy Life You Need to Ask the Right Questions
 Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
 If you are facing health struggles, you need to ask yourself these three questions to truly uncover the root cause of the issues in your life.
 1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back.
@@ -520,30 +477,19 @@ If you are facing health struggles, you need to ask yourself these three questio
 Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
 
-If you’re not getting better today, you’re getting worse.”
+- If you’re not getting better today, you’re getting worse.
 
 on learning:
-1. Teachers are viewed as saviors when materials are actually the determining factor.
 2. Classes move as slowly as the slowest student.
-beginner, intermediate, and advanced
-there are at least 20 different skill levels.
 3-Conversation can be learned but not taught.
 Somewhat like riding a bike, though unfortunately not as permanent, language fluency is more dependent on practicing the right things than learning the right things. The rules (grammar) can be learned through materials and classes, but the necessary tools (vocabulary and idiomatic usage) will come from independent study and practice in a native environment.
 Separate grammar from conversation practice. I recommend choosing one school for grammar and several native books or comics to identify sticking points, which are then discussed in one-one-one language exchanges, where your partner provides examples of usage and does not explain rules.
-4. Teachers are often prescriptive instead of descriptive.
-teachers should give you tricks.
-In conclusion—the learner is the problem (what?)
-Classes are easily used to infinitely postpone making the thousands of mistakes necessary to achieve fluency. 
-
-Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.)
-
-Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. 
-
-I was able to pass the Certificado de Espanol Avanzado, the most diffucult Spanish certification test in South America, in eight weeks, which is said to require near-native fluency and years of immersion. How? By following the above fixes and making more mistakes in eight weeks than most make in eight years.
-
-!!!!!It is easier, and much more time-efficient, to catch up versus keep up.!!!!!
-
-I began reactivation of irretrievable German just over a week ago and can already hold a decent conversation. This is not a testament to my ability, but to the efficacy of a process that begins with massive passive exposure and avoids time-consuming review from square one:
+- teachers should give you tricks.
+- Classes are easily used to infinitely postpone making the thousands of mistakes necessary to achieve fluency. 
+- Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.)
+- Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. 
+- I was able to pass the Certificado de Espanol Avanzado, the most diffucult Spanish certification test in South America, in eight weeks, which is said to require near-native fluency and years of immersion. How? By following the above fixes and making more mistakes in eight weeks than most make in eight years
+- It is easier, and much more time-efficient, to catch up versus keep up.
 
 1. Days 1-7: German films with English subtitles for at least two hours each evening for one week.
 2. Days 3+: 10-20 pages of dialogue-rich manga (Japanese comics, here translated into German, that can be ordered in most languages from comic stores in your target country) for 30 minutes each morning and prior to bed. I’m a big fan of One Piece.

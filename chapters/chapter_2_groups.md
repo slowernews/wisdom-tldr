@@ -73,7 +73,6 @@ Handling rejection is hard. We don’t like people that see us in a way that doe
 
 
 
-
 ---
 ## On communication
 
@@ -122,13 +121,13 @@ Good stories condense a massive amount of information into a consumable and shar
 
 Listen as you're wrong. «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
+When public speaking you dont need to answer their question. You can say whatever you want if its interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of saying desagreements.
+
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
+> *'Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine.' -- Balthasar Gracian*
+
 <!--
-Hints on public speaking:
-
-When public speaking you dont need to answer their question. you can say whatever you want if its interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of saying desagreements.
-
 1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
 2 - Small and open groups. Opening line: "Hi, I'm X and I dont know anybody in this party."
 3 - Go to the bar and meet people there.
@@ -138,8 +137,6 @@ When public speaking you dont need to answer their question. you can say whateve
 	"excuse me i have to make a phone call"
 	human sacrifice.. intro him and leave.
 	To rude people: «my mum always told me not to speak with strangers, now I know why»
-
-17. Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine. -- Balthasar Gracian
 -->
 
 
@@ -193,7 +190,6 @@ It's not about what you know, it's about who trusts you to solve their problems.
 > *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
 
 <!--
-Entrepeneurs are curious
 
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
 - CEOs are adaptable and flexible and good risk managers.
@@ -1225,6 +1221,7 @@ So: 100% on one thing = 80% on 5 things!
 
 - Happy, Smart, and Useful
 - look at situations as systems. i help to create systems.
+- hard to find good emploieess and good bosses..
 -->
 
 

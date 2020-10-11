@@ -8,6 +8,8 @@
 
 ## The real you
 
+> *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
+
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
 You are your deeds. Your actions reveal your real values.  
@@ -16,6 +18,8 @@ How you do anything is how you do everything. Ultimately you are your choices.
 > *'All men die, but not every man lives' -- William Wallace*
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
+
+> *'Whenever you think or you believe or you know, you're a lot of other people: but the moment you feel, you're nobody-but-yourself.' --  E.E. Cummings*
   
 ### How to come alive?
 
@@ -32,11 +36,10 @@ Never stop working on yourself. Always strive to be better. Is succeeding at med
 > *'Your temporary circumstances do not have to become your permanent identity' -- Greg Hartle*
 
 <!--
-> *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
 to be real you need to be vulnerable
 > *'Do you want to know who you are? Don't ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
-> *'Whenever you think or you believe or you know, you're a lot of other people: but the moment you feel, you're nobody-but-yourself.' --  E.E. Cummings*
+Entrepeneurs are curious
 -->
 
 
