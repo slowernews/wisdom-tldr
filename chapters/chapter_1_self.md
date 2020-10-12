@@ -319,9 +319,7 @@ Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy
 You can choose courage or you can choose comfort, but you can't choose both.  
 Take risk. Big audacious risk. You’ll never get what you want in life without it. Not taking risks is too risky.
 
-[If you act average, you're going to be average](chapter_2_groups.md#on-following-the-herd). If you want to move away from average, you must diverge. And if you want to outperform, you must be different and correct.
-
-> *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
+[If you act average, you're going to be average](chapter_2_groups.md#on-following-the-herd). To outperform, you must be different and correct.
 
 Hints:
 
@@ -331,11 +329,11 @@ Hints:
 - Being uncomfortable should be “play” for you. Get confort in disconfort.  
 - Leap while you’re at the top of the curve, and the next curve builds on the momentum.  
 - The discomfort zone is NOT about experiencing pain.  
+- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later.   
 - The goal of life is not comfort it’s contribution. Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
 But the problem with this philosophy is that no great work ever came from comfort.  
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.  
 - Risk looks different for everyone.  
-- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later.   
 
 <!--
 - This is where margins of safety come in. We build them to reduce the precariousness of chance. Large margins of safety are not always possible. Sometimes they are too expensive. Sometimes they are not available. The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money. Sometimes when the stakes are low, we decide the trade-off isn’t worth it. What decisions would you make differently if you were factoring safety margins into your life? To be fair, you can’t put them everywhere. Otherwise, your life might be all margin and no living. To figure out where else you should build margins of safety into your life, think of the times you’ve been terrified and desperate. Those might be good places to start learning from experience and making the most of your second chances.

@@ -12,9 +12,9 @@
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
 
-Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
-
 > *'The enemy of excellence is isolation.' -- Aaron Walker*
+
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
 
 > *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
 
@@ -22,9 +22,6 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
 'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
-
-> *'You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.'*  
-> *'Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.'*
 
 ### How to network?
 
@@ -45,6 +42,9 @@ Choose truth or your self-mythology will seduce you.
 > *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
 
 <!--
+- You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
+- Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
+
 intro: //clay hebert
 I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words -- short and sweet and confident and interesting.
@@ -64,11 +64,12 @@ ask them first so you can costumise it for the context and make it more relevant
 
 ### Why most people don't like networking?
 
-Handling rejection is hard. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
-
-> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
+Handling rejection is hard. Period.  
+We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
 > *'I don't know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
+
+> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
 
 
@@ -151,9 +152,9 @@ When public speaking you dont need to answer their question. You can say whateve
 
 Focus on what can you give that empowers others.
 
-Test sales first. Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it: the consumer votes with his wallet.
-
 It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
+
+Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it. The consumer votes with his wallet.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
@@ -190,7 +191,7 @@ It's not about what you know, it's about who trusts you to solve their problems.
 > *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
 
 <!--
-
+- Validate your business by finding paying clients. 
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
 - CEOs are adaptable and flexible and good risk managers.
 - Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
@@ -281,11 +282,7 @@ Modern selling: farmers (ambiverts and introverts)
 
 - Research (to understand the customer - time spent alone on the Web, reading and analyzing information)  
 - Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
-- Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)'*
-
-> *'Instead of details use interesting testimonials that allow people to relate.'*
-
-> *'Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.'*
+- Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
 
 ### On negotiation
 
@@ -294,34 +291,31 @@ Modern selling: farmers (ambiverts and introverts)
 Negotiation establishes the price (exchange rate between money and value).  
 That said, a bad/good negotiation means that you are giving more/less value than receiving for it.
 
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
-
-The more you take, the more you can give back in meaningless concessions. To negotiate is to have options.
-
 - «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
 - Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
 - If you want to go fast, let the other part go first.
 
-> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
+To negotiate is to have options. Hints:
 
-> *'When people feel they have a choice, they walk into your trap that much more easily.'*
+- The more you take, the more you can give back in meaningless concessions.  
+- When people feel they have a choice, they walk into your trap that much more easily.
+- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy (eg. Trump) wants to make it fast. For the accomodator, the relationship is the most important.
+- On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.
+- Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
+- Instead of details use interesting testimonials that allow people to relate.
+
+> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
 
 > *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
 
 > *'Flattery is the infantry of negotiation.' -- Lord Chandos*
 
-- Tone of voice is a big clue to know with whom we are negotiating:
-
-> *'The analytical cold guy is very patient;  
-The assertive guy (eg. Trump) wants to make it fast;  
-For the accomodator, the relationship is the most important'*
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 > *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
 
-> *'On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.'*
-
-> *'Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.'*
+> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
 
 However always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it. The most dangerous negotiation is the one you don’t know you’re in.
 
@@ -424,7 +418,6 @@ agitate more than irritate.
 - Most rejections are not your fault.
 
 So can you pitch me what our company does? people minds work by association. pre-suasion
-> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
 > *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
 - It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
 -->
@@ -748,6 +741,8 @@ Consensus happens just in the beginning and in the end of something.
 
 > *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
 
+> *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
+
 Most people are other people. Their thoughts are someone else opinions and they jump to conclusions. People accept the defaults very easily.
 
 <!--
@@ -822,16 +817,6 @@ From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
 > Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
 > Persuaders: Use simplicity, repetition, emotion, habit, aspirations, visual communication, and other tools of persuasion to program other people and themselves. This group is about 1% of the population and effectively control the word-thinkers of the world.
-
-As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
-
-Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
-
-But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
-
-The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
-
-And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
 -->
 
 
@@ -873,10 +858,15 @@ Politicians don't get educated, they get bought. To reduce corruption diminish p
 Taxes aren’t a punishment. They are a membership fee that 80% of us are voluntarily overpaying.
 
 <!--
-it may be pop psychology stuff, but it’s convenient for my point so in the spirit of American politics I will treat it as fact.
+- it may be pop psychology stuff, but it’s convenient for my point so in the spirit of American politics I will treat it as fact.
 
 > *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
+As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
+Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
+But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
+The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
+And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
 -->
 
 
@@ -920,31 +910,19 @@ We advance the welfare of others — often unconsciously — by sharing resource
 Beth Comstock:
 
 2. Organize Around Information Flows: In the digital age, information moves fast. To keep up with information flows, you have to ditch hierarchy. There’s no room for bureaucracy. It’s about openness, candor, radical feedback and full transparency. If you organize your organization around these tenets, you’ll thrive.
-
 3. Empower Individuals: Build a team of people who are prepared for change and empower them to do great work. The question is: how do you get people to get excited to grab power and go for it? More autonomy.
-
 4. Define your company’s “MO” -- Mindset Orientation: Mindset is everything. As a leader, you must provide the vision and then allow your teams to figure their way out. Create a mindset that incentivizes them to do what they need to do the fastest, best way they can. It means they may fail. You should encourage them to fail fast, learn from their mistakes, and keep going. At GE, this process is called FastWorks, and it’s built on lean startup methodology.
-
 5. Establish Feedback Loops: Exponential leaders must both give and receive feedback – and importantly, they have to actually use it. Beth offers three ideas here:
-
 First: “One of the things we’ve done at GE is we’ve actually gotten rid of our employee performance reviews. Anyone in the organization can give anyone feedback. I just did a Facebook Live event last week and one of my young colleagues in the company gave me some feedback. It wasn’t so good… ‘You weren’t looking at the camera at the right point. You looked like you were distracted.’ It was hard feedback to receive, but it was encouraged.”
-
 “What is the one thing that is true that you think I don’t want to hear?” Beth comments that you’ll be amazed what you’ll learn. It’s extremely valuable.
-
 Third: Rather than doing long, convoluted employee surveys, stick to a simple feedback mechanism: Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
-
 6. Get Used to Living in the In-Between: Exponential leaders are comfortable with ambiguity and uncertainty. This is going to be key to survive the change that is coming.
-
 7. Mash Up Minds and Machines: Exponential leaders use technology to their advantage, combining the power of computing and data with human leadership.
-
 8. Prioritize Innovation and Observe Patterns That Block It: Innovating is really hard. Good leaders understand they have to navigate the tension. Sometimes leaders give up, and they don’t hold their team accountable for growing. They themselves back off on it. And so is it any wonder that the people on the team deprioritize innovating?.
 
 1. Always be an Ambassador for Your Team, Innovation Happens Everywhere.
-
 3. Once a Decision is Made, It is Supported. Period. This is really important. Once a decision is made in a meeting, there must be no second-guessing of that decision after the fact. Sue explains, “When we walk out of that room, and you’ve had all the chance to actually defend your position to make the decision, it’s time to start executing. That’s it.” If you need to change a strategy, use data from implementation to support your argument and bring it up in the next decision-making meeting.
-
 4. Proactive Problem Management – Go Directly to the Source: As complexity increases, so too does the potential for conflict or confusion. As an exponential leader, you must be proactive in managing this. Sue’s strategy is simple and clear: “Go to the source, directly to the source. Don’t complain to managers or others before you’ve gone to the person first to resolve the conflict.”
-
 7. You Can’t Delegate Culture: This is absolutely critical for exponential leaders. Culture can make or break a company, and therefore it a) must be very high on a leader’s list of priorities and b) must come from the top. Leaders can’t delegate culture. Sue goes on, “Leaders are the culture bearers, the torchkeepers of culture in our companies. They might have change agents, or those that actually help them amplify their culture, but the leader cannot delegate culture. This is a truth that a lot of us forget because we’re so busy. Employees and teams really want to see it from their leaders. They want to hear the talk, they want to watch them walk the talk, all the time.” Interestingly, while leaders cannot delegate culture creation, they can delegate culture keeping.
 
 Just last week I reminded my team to leave in all internal key Meetings one seat free -- for our customer ... like Jeff Bezos practiced it in all Amazon meetings.
@@ -954,8 +932,7 @@ There are three keys: honesty, effectiveness, and efficiency.
 - A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don't generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
 - Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
 
-evolutionary instinct to follow the strong person
-o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por necessidade ou medo constrói o sonho (forcas reactivas)
+evolutionary instinct to follow the strong person. o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por medo constrói o sonho (forcas reactivas)
 -->
 
 
@@ -1009,36 +986,25 @@ However gaining an understanding and giving appropriate feedback makes your juni
 <!--
 - So what makes organizations productive? Making hard decisions. -- scott-belsky (behance creator)
 - elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren't. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
-
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
 - Amazon’s “two-pizza teams”: The ultimate divisional organization
 - a great manager is a great facilitator
-
-I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
+- I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
 
 > *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
-	
-“A chain is only as strong as its weakest link”
 
-I divide my officers into four groups. There are clever, diligent, stupid, and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.
+- A chain is only as strong as its weakest link.
+- I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.
 https://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord
-
-These are questions this manager has homed in on during his decades-long career at a high-tech company. Here they are:
-What do you need?
-What’s getting in your way?
-What can I do as your manager to help?
-
-succeful takers are the most visible people in organizations.
-reward system. culture is influenced by structure. give to the right person
-as estruturas funcionam qd ha coesao
-
-servant leadership -> my responsability is to make my team better.
-convincing vs inspiring! leadership
-manager is a dreammaker
-
-As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
-
-> *'Too busy pretending I'm occupied.'*
+- These are questions this manager has homed in on during his decades-long career at a high-tech company. Here they are: What do you need? What’s getting in your way? What can I do as your manager to help?
+- succeful takers are the most visible people in organizations.
+- reward system. culture is influenced by structure. give to the right person
+- as estruturas funcionam qd ha coesao
+- servant leadership -> my responsability is to make my team better.
+- convincing vs inspiring! leadership
+- manager is a dreammaker
+- As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
+- Too busy pretending I'm occupied.
 - boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about
 - Custom tailor teams from project to project. Same team from same project is not the best option.
 -->
@@ -1084,6 +1050,7 @@ DON’T tell about your responsibilities. Everyone who is doing your type of job
 
 <!--
 - I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
+- Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.
 
 If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.
 
