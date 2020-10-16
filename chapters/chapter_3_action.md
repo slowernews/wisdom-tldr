@@ -826,10 +826,348 @@ You need to be comfortable both in a suit and tie and in camouflaged jacket.' --
 
 
 
+---
+# 3.3 - On cooperating
+
+## On selling, negotiation and price
+
+We're all in sales. To sell is to deal with objections.
+
+Sales used to be about information asymmetry but now it's mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](#on-relationships). Best sellers are now ambiverts.
+
+Traditional selling: hunters (extroverts)
+
+- Intruding (to get your foot in the door)
+- Pitching (to persuade the customer to buy)  
+- Persisting (to push until you make the sale)  
+
+Modern selling: farmers (ambiverts and introverts)
+
+- Research (to understand the customer - time spent alone on the Web, reading and analyzing information)  
+- Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
+- Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
+
+### On negotiation
+
+> *'You don’t get what you deserve in life, you only get what you negotiate.'*
+
+Negotiation establishes the price (exchange rate between money and value).  
+That said, a bad/good negotiation means that you are giving more/less value than receiving for it.
+
+- «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
+- Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
+- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
+- If you want to go fast, let the other part go first.
+
+To negotiate is to have options. Hints:
+
+- The more you take, the more you can give back in meaningless concessions.  
+- When people feel they have a choice, they walk into your trap that much more easily.
+- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy (eg. Trump) wants to make it fast. For the accomodator, the relationship is the most important.
+- On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.
+- Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
+- Instead of details use interesting testimonials that allow people to relate.
+
+> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
+
+> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+
+> *'Flattery is the infantry of negotiation.' -- Lord Chandos*
+
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
+
+> *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
+
+> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
+
+However always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it. The most dangerous negotiation is the one you don’t know you’re in.
+
+> *'You can’t make a good deal with a bad person.' -- Warren Buffett*
+
+> *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
+
+<!--
+- best marketing is recomendation from other person
+- Marketing is a symptom of excess production.  
+- People don’t buy products, they buy better versions of themselves.  
+- Females buy male products. Males don't buy products targetted to females.  
+- If they can’t pay, walk away.  
+- nowadays the messenger is the message
+- make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
+
+- how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
+- how to say no to an interview: i think i said already everthing about that subject.
+- how to say no to something else: i think i did already what i can do.
+
+- There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
+- What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
+
+- 27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. -- Balthasar Gracian
+
+- always negotiate. dont communicate weaknes on your negotiation.
+your first reaction should be no reaction. fight impulse to imediatelly give the answer.
+
+- Responding to Job Offers for Maximum Impact
+Letter One [Strong Response]
+Bob, [First name: power play.]
+
+I appreciate the consideration and the offer. I truly enjoyed our conversation and feel great about the team and company. [Reiterate passion; set the tone.]
+
+I need to evaluate this based on other opportunities I am looking at and will get back to you shortly. [Display social proof/market validation.] As I am doing that it would be helpful to know if there is any flexibility in the terms? [Put them on the defensive.]
+
+I look forward to your response. [Power close.]
+
+Cheers,
+Alex “Dream Employee” Kouts
+415.555.ALEX
+
+Letter Two [Counteroffer]
+Bob, [First name: power play.]
+
+I appreciate the consideration and the offer. [A meaningless courtesy that doesn’t do much, but when it isn’t there, people notice.] I am very excited about the team, the product and the direction of the company. I know I can make a big impact on the organization. [Reiterate passion and set the tone for the back-and-forth. Also a power play.]
+
+Based on other opportunities I am looking at, I feel xxx,xxx,xxx.xx is a fair number for what I can bring to ______. [12%-15% above the offer is optimal. Higher, and you risk insulting them or pricing yourself out of the job. Lower and you could be leaving money on the table.] If you can match that I am ready to sign today and will give my notice tomorrow. [This is the most important part. Present a slam dunk and dare them not to take it. You are coming over the top with enthusiasm; it’s a power play and almost always pays off.]
+
+I look forward to your response. [Power play; leave them with good vibes.]
+
+Cheers,
+Alex “Dream Employee” Kouts
+415.555.ALEX
+
+Always use first names (caveat: unless their title vastly exceeds yours — if they’re on LinkedIn, use how they address themselves there as a reference.)
+Never make the first offer.
+Thank them.
+Set the tone for the negotiation.
+Display social proof/market validation.
+Set your “ask.”
+Help them visualize the win.
+Reiterate interest and close strong.
+
+- First establish a baseline — use Google.
+Ask if they will match advertised prices from a competitor.
+“What is your best out the door price?”
+“Will you do that -10%?”
+“If you reach my price, I will buy today.”
+“I am on the phone with xxxx; they have this advertised for $xxxx. Can you beat that?”
+“If I buy here, will you throw in xxxx?”
+“What if I pay cash?”
+“Okay, thank you. It’s helpful to know where you stand. I am going to check out a couple of your competitors and will be back if it makes sense.”
+WALK AWAY.
+
+- Unexpressed feelings never die. Releasing pressure is different from venting.
+- The more influence somebody is the more they use we / plural pronouns.
+- never split the difference
+
+- Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
+
+- make an agreement on a standard of value. my standard of value for a weekend: some combination of rejuvenation and human connection.
+normally we fall into habits. we don't do what is best for ourselves.
+
+- One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show.
+I said, “$1500”. She said, “Oh, that’s a bit too much. What would you charge to do just a one-hour show?”
+I said, “$2000”. She said, “No, wait, you’ll be performing less, not more!”
+I said, “Yeah! Exactly! What you’re paying me for is to get there! Once I’m there, playing music is the fun part! If you tell me I have to get back in the van after only an hour, and drive home, then I’m going to charge you more than if you let me play for a couple hours first.”
+She liked that so much she came up with the $1500. -- Derek Sivers
+
+- Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
+What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
+
+- Call all owners to rent. 8 said yes. Then auction! 2200 -> 1500.  
+- To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
+Business is 80% psychological.
+irritation -> challenge people to make something that they don't want to do
+agitation -> challenge people to make something that they want to do. suggesting ego etc
+agitate more than irritate.
+- Most rejections are not your fault.
+
+So can you pitch me what our company does? people minds work by association. pre-suasion
+> *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
+- It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
+-->
+
+
+
 
 ---
-# 3.3 - On competing
+## On feedback and mentorship
 
+> *'I’d rather have criticism from a genius than praise from an idiot.'*
+
+Feedback speeds up improvement but only take advice from mentors.  
+A fundamentalist gives answers, a scholar gives questions.
+
+> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
+
+> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
+
+### How to find mentors?
+
+Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
+
+> *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
+
+> *'Follow the thought leaders instead of the traffic leaders.'*
+
+> *'Your father is your first mentor.'*
+
+<!--
+I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
+-->
+
+You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
+
+> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*  
+> *'Service to others is the rent you pay for your room here on Earth.' -- Muhammad Ali*  
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*  
+
+> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.' -- Dalai Lama*
+
+<!--
+> *'Powerful people give freely, buying influence rather than things.'*
+> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
+> *'If you are giving back, it’s because you’ve taken too much.'  -- Ricardo Semler*
+
+the value of getting a coach. Spend more time fixing weaknesses than developing strengths! have your corner man to indicate your blindspots
+-->
+
+### How to mentor your kids?
+
+> *'My advice is my autobiography not slogans. People relate better like that.' -- James Altucher*
+
+> *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
+
+Fatherhood makes you a mentor independently of your will. Don't tell your kids them how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
+
+Hints:
+
+- Generosity: «What did you do this week for somebody?»  
+- Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
+- Self improvement: «Did you give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
+- Autority: «Kid: why do I have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
+- Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
+- Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
+- Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
+- Optimism: «You have the gift of today.»
+
+However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
+
+> *'Do not teach a starving man to fish.'*
+
+
+
+
+---
+## On generosity and incentives
+
+> *'No one has ever become poor by giving.' -- Anne Frank*
+
+> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
+
+Always be generous. A low value gift can have the opposite effect.
+
+> *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
+
+> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- danielvf_HN*
+
+> *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- danielvf_HN*
+
+### On punishments
+
+Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses. Rewards are more effective.
+
+Alternatives that you can try the next time you feel tempted to punish someone:
+- extintion of rewards
+- positively reinforcing preferred activities.
+
+<!--
+- power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
+- Generosity without Expectation is Sexy. It means that your thoughts, words, and actions are all in congruence. you don’t live a life that is incongruent with what you want to make others happy. You live a life of congruence where everything is in line. This is the pathway to true power. Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
+- The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
+
+impredictable schedule / fixed work amount schedule / fixed time amount schedule
+-->
+
+
+
+
+---
+# 3.4 - On competing
+
+## On opponents and allies
+
+> *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
+
+Beware of all players.
+
+People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage. No one will help you in a way that’s prejudicial to them.
+
+> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
+
+### On easy opponents
+
+Easy players are often just [bait](#on-charming). However there are people acting stupid. Easy wins if you can identify them.
+
+> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
+
+> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
+
+> *'«El dorados» are never drawn in the map.'*
+
+> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
+
+### On desperate opponents
+
+Desperate players will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+
+> *'Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
+
+> *'Beware the fury of a patient man.' -- John Dryden*
+
+> *'Beware of sad people.'*
+
+> *'Our fearlessness shall be our secret weapon.' -- John Green*
+
+### On difficult opponents
+
+Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
+
+> *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
+
+> *'Do I not destroy my enemies when I make them my friends?' --  Abraham Lincoln*
+
+> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+
+> *'Get others to do the work for you, but always take the credit.'  
+'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
+
+When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
+
+> *'Do I not destroy my enemies when I make them my friends?' -- Abraham Lincoln*
+
+<!--
+- Nietszche says to measure one's strength by the number of parasites one can support.
+- surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
+-->
+
+
+
+
+---
+## On defeating status quo
+
+> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
+
+The only successful changes are those coming from within.
+
+> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
+
+<!--
+burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
+-->
+
+
+
+---
 ## On creating imbalances
 
 > *'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
@@ -1013,82 +1351,6 @@ The standard antidote to one’s overactive hostility is to train oneself to def
 There’s also another way. Because the reciprocation tendency is so extreme, we can reverse the course of events by doing good rather than harm to the other party.
 We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
 Cialdini moved from rejection to compliance after the boy had moved from a larger to a smaller request.  The remarkable thing, and this is where bias comes in, was that Cialdini was not at all interested in either of the things the boy had offered.
--->
-
-
-
-
----
-## On opponents and allies
-
-> *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
-
-Beware of all players.
-
-People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage. No one will help you in a way that’s prejudicial to them.
-
-> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
-
-### On easy opponents
-
-Easy players are often just [bait](#on-charming). However there are people acting stupid. Easy wins if you can identify them.
-
-> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
-
-> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
-
-> *'«El dorados» are never drawn in the map.'*
-
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
-
-### On desperate opponents
-
-Desperate players will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
-
-> *'Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
-
-> *'Beware the fury of a patient man.' -- John Dryden*
-
-> *'Beware of sad people.'*
-
-> *'Our fearlessness shall be our secret weapon.' -- John Green*
-
-### On difficult opponents
-
-Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
-
-> *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
-
-> *'Do I not destroy my enemies when I make them my friends?' --  Abraham Lincoln*
-
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
-
-> *'Get others to do the work for you, but always take the credit.'  
-'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
-
-When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
-
-> *'Do I not destroy my enemies when I make them my friends?' -- Abraham Lincoln*
-
-<!--
-- Nietszche says to measure one's strength by the number of parasites one can support.
-- surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
--->
-
-
-
-
----
-## On defeating status quo
-
-> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
-
-The only successful changes are those coming from within.
-
-> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
-
-<!--
-burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
 -->
 
 

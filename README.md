@@ -45,22 +45,19 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## Chapter 2 - Groups
 
-*On interactions*
-- [On networking](/chapters/chapter_2_groups.md#on-networking)
+*On interaction*
 - [On communication](/chapters/chapter_2_groups.md#on-communication)
-- [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
-- [On selling, negotiation and price](/chapters/chapter_2_groups.md#on-selling-negotiation-and-price)
-- [On relationships](/chapters/chapter_2_groups.md#on-relationships)
-- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
-- [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
-- [On feedback and mentorship](/chapters/chapter_2_groups.md#on-feedback-and-mentorship)
-- [On generosity and incentives](/chapters/chapter_2_groups.md#on-generosity-and-incentives) 
-
-*On interactions: drawbacks*
 - [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
 - [On criticism and envy](/chapters/chapter_2_groups.md#on-criticism-and-envy)
 - [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
+
+*On cooperation*
+- [On relationships](/chapters/chapter_2_groups.md#on-relationships)
+- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
+- [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
 - [On society and politics](/chapters/chapter_2_groups.md#on-society-and-politics)
+- [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
+- [On networking](/chapters/chapter_2_groups.md#on-networking)
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)
@@ -87,15 +84,20 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
 
+*On cooperating*
+- [On selling, negotiation and price](/chapters/chapter_3_action.md#on-selling-negotiation-and-price)
+- [On feedback and mentorship](/chapters/chapter_3_action.md#on-feedback-and-mentorship)
+- [On generosity and incentives](/chapters/chapter_3_action.md#on-generosity-and-incentives)
+
 *On competing*
+- [On opponents and allies](/chapters/chapter_3_action.md#on-opponents-and-allies)
+- [On defeating status quo](/chapters/chapter_3_action.md#on-defeating-status-quo)
 - [On creating imbalances](/chapters/chapter_3_action.md#on-creating-imbalances)
 - [On leverage](/chapters/chapter_3_action.md#on-leverage)
 - [On charming](/chapters/chapter_3_action.md#on-charming)
 - [On deceiving](/chapters/chapter_3_action.md#on-deceiving)
 - [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
 - [On mirroring](/chapters/chapter_3_action.md#on-mirroring)
-- [On opponents and allies](/chapters/chapter_3_action.md#on-opponents-and-allies)
-- [On defeating status quo](/chapters/chapter_3_action.md#on-defeating-status-quo)
 
 *On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)

@@ -87,6 +87,7 @@ Be raw, be real, tell people what is really going on. The more vulnerable you ar
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 <!--
+- its not to became something. It's to unbecome everything that is not you.
 - The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. truth-a-better-way-to-talk-about-ourselves.
 - core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
 - Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.

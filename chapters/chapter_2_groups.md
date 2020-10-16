@@ -8,73 +8,6 @@
 
 # 2.1 - On interaction
 
-## On networking
-
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
-
-> *'The enemy of excellence is isolation.' -- Aaron Walker*
-
-Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
-
-> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
-
-> *'Your silence will not protect you.' -- Audre Lorde*
-
-> *'Do not build fortresses to protect yourself: isolation is dangerous.'  
-'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
-
-### How to network?
-
-Be useful, not important.
-
-[Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
-
-> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
-
-> *'If you expect magic in every encounter, you'll find it.' -- Adam Robinson*
-
-### How to prepare an elevator pitch?
-
-Choose truth or your self-mythology will seduce you.
-
-> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
-
-> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
-
-<!--
-- You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
-- Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
-
-intro: //clay hebert
-I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words -- short and sweet and confident and interesting.
-ask them first so you can costumise it for the context and make it more relevant.
-
-* How to curate your network?
-- Form relationships with those who seem like they’ll give at least as much than they take.  
-- Expand from too long networks.
-- Building new connections is important but it’s even more important to remember your connections that already exist. The difference between success and failure can be as simple as keeping in touch.  
-- Community of experts (that give you good answers).  
-- Critical peers (10 people that make a big difference in your immediate career).
-- Networking types: advocates a, boomerang b, celebrities c, drainers d  
-- Networking types: shark, dolphin, drowner.  
-- Not what should I do next but who should you speak next?
-- the best way to get value was to start giving it away? you're giving validation
--->
-
-### Why most people don't like networking?
-
-Handling rejection is hard. Period.  
-We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
-
-> *'I don't know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
-
-> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
-
-
-
-
----
 ## On communication
 
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
@@ -144,536 +77,6 @@ When public speaking you dont need to answer their question. You can say whateve
 
 
 ---
-## On business and entrepreneurship
-
-> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
-
-> *'What you need to start a new business: generosity.' -- Derek Sivers*
-
-Focus on what can you give that empowers others.
-
-It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
-
-Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it. The consumer votes with his wallet.
-
-> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
-
-### Patterns on successful *wannapreneurs*:
-
-- They talk to people about their ideas, but never build anything. 
-	- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no paying demand.  
-	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you're interested in. Don't worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
-	- Timing is the most important factor in startup success. Team and Execution came next. Quick to start but not the first.
-	- Launch now. Find the 90/10 solution.  
-	- Ignore your competitors, you will more likely die of suicide than murder.  
-
-- They build something without first talking to people.
-	- You only have to be really right once: Zuckerberg thought that Facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
-	- Do things that don’t scale.  
-
-- They build something and never try to sell it.  
-	- If you have an idea, test it. It’s called putting out a “minimally viable product” or MVP.   
-	- Don’t scale your team/product until you have built something people want.  
-	- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
-	- Scratch your own itch it's good only as a start. Build something people want: Find 10-100 customers who love your product.    
-	- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money. 
-
-- If you build something that people say they'll pay for and then they don't then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle.
-	- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
-	- All startups are badly broken at some point ánd can only solve one problem well at any given time.  
-	- Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service. Big company corporate development queries – they will only waste time. Conferences unless they are the best way to get customers  
-	- Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
-	- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.  
-	- Most companies don’t die because they run out of money  
- 
-> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
-
-> *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
-
-<!--
-- Validate your business by finding paying clients. 
-- Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
-- CEOs are adaptable and flexible and good risk managers.
-- Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
-
-Judgement requires experience, but can be built faster by learning foundational skills.
-There is no skill called “business.” Avoid business magazines and business classes.
-Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
-Reading is faster than listening. Doing is faster than watching.
-You should be too busy to “do coffee" while still keeping an uncluttered calendar.
-Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
-Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
-Become the best in the world at what you do. Keep redefining what you do until this is true.
-There are no get rich quick schemes. That's just someone else getting rich off you.
-Apply specific knowledge, with leverage, and eventually you will get what you deserve.
-When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
-- - persuade people to buy rather than teach people to buy.	
-- a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
-
-- pro tip: Ask your current customers “What nearly stopped you buying from us?”
-- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
-- I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
-- if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others.
-
-Friend of a friend owns a small chain of grocery stores in New Jersey. A few years ago, when Amazon got into groceries, he changed his mind about investing in the growth of his own business. He started buying Amazon shares with his investment capital instead. He saw what happened to Circuit City and Tower Records, Borders and Barnes & Noble. So he bought some Amazon and then he bought some more.
-This wasn’t retirement investing. This was something else. What should we call it? Disruption Insurance?
-- Jeff Bezos summed this up when he said “Your margin is my opportunity.” The key to business and investing success isn’t finding an advantage. It’s having a sustainable advantage. Something that others either can’t or aren’t willing to copy once your idea is exposed and patents expire.
-
-- social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
-
-- É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
-
-- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It's cool; users love it; it just doesn't matter. But if you're living in the future and you build something cool that users love, it may matter more than outsiders think."
-	
-Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
-Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
-
-Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don't. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
-
-- startups are similar to biological life. Wherever the conditions are hospitable, life already exists.
-The difference is that startups live in an economic rather than a biological environment. -> funds dont mind that u fail if they have also some winners
-- there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
-- The biggest assumption I ever made in business is that most people are telling me the truth. Most people have no idea what truth is.
-
-1) Do networking and listen. It's not about how great you are in your wildest dreams.
-2) Deliver a little bit more than expected. That'll help to get you some recommendations.
-4) Raise your hourly rate. There's nothing wrong with it, if you're doing a great job based on past projects.
-5) Say "No" to nasty, time consuming and time wasting clients.
-6) Build your own brand to be proud of.
-
-- give where you are naturally good
-
-- failing business -> fire 60% top managers (ricardo semler)
-process of asking 3 whys is a row -> the first why is easy to answer
-
-disney salvation:
-1. Create a Clear, Simple Vision (Your Corporate MTP). -> deleverage
-2. Make long-term bets.
-3. Make fearless acquisitions on the edge.
-
-- Changes in the environment unlock startup opportunities. startup ideas -> problems and trends
-
-I recall reading that someone had more success with a "unlock feature X" model of payment, even though it in total was more expensive than unlocking everything at once. people underestimate the power of free. trusted to one day pay me. send an email to all readers saying that i'm making consultations. 
-
-- It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
-
-- zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
-
-- Learn to provide relative value on a massive scale and you will become rich. three things make anything possible: People, technology and money.
--->
-
-
-
-
----
-## On selling, negotiation and price
-
-We're all in sales. To sell is to deal with objections.
-
-Sales used to be about information asymmetry but now it's mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](#on-relationships). Best sellers are now ambiverts.
-
-Traditional selling: hunters (extroverts)
-
-- Intruding (to get your foot in the door)
-- Pitching (to persuade the customer to buy)  
-- Persisting (to push until you make the sale)  
-
-Modern selling: farmers (ambiverts and introverts)
-
-- Research (to understand the customer - time spent alone on the Web, reading and analyzing information)  
-- Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
-- Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
-
-### On negotiation
-
-> *'You don’t get what you deserve in life, you only get what you negotiate.'*
-
-Negotiation establishes the price (exchange rate between money and value).  
-That said, a bad/good negotiation means that you are giving more/less value than receiving for it.
-
-- «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
-- Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
-- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
-- If you want to go fast, let the other part go first.
-
-To negotiate is to have options. Hints:
-
-- The more you take, the more you can give back in meaningless concessions.  
-- When people feel they have a choice, they walk into your trap that much more easily.
-- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy (eg. Trump) wants to make it fast. For the accomodator, the relationship is the most important.
-- On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.
-- Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
-- Instead of details use interesting testimonials that allow people to relate.
-
-> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
-
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
-
-> *'Flattery is the infantry of negotiation.' -- Lord Chandos*
-
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
-
-> *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
-
-> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
-
-However always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it. The most dangerous negotiation is the one you don’t know you’re in.
-
-> *'You can’t make a good deal with a bad person.' -- Warren Buffett*
-
-> *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
-
-<!--
-- best marketing is recomendation from other person
-- Marketing is a symptom of excess production.  
-- People don’t buy products, they buy better versions of themselves.  
-- Females buy male products. Males don't buy products targetted to females.  
-- If they can’t pay, walk away.  
-- nowadays the messenger is the message
-- make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
-
-- how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
-- how to say no to an interview: i think i said already everthing about that subject.
-- how to say no to something else: i think i did already what i can do.
-
-- There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
-- What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
-
-- 27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. -- Balthasar Gracian
-
-- always negotiate. dont communicate weaknes on your negotiation.
-your first reaction should be no reaction. fight impulse to imediatelly give the answer.
-
-- Responding to Job Offers for Maximum Impact
-Letter One [Strong Response]
-Bob, [First name: power play.]
-
-I appreciate the consideration and the offer. I truly enjoyed our conversation and feel great about the team and company. [Reiterate passion; set the tone.]
-
-I need to evaluate this based on other opportunities I am looking at and will get back to you shortly. [Display social proof/market validation.] As I am doing that it would be helpful to know if there is any flexibility in the terms? [Put them on the defensive.]
-
-I look forward to your response. [Power close.]
-
-Cheers,
-Alex “Dream Employee” Kouts
-415.555.ALEX
-
-Letter Two [Counteroffer]
-Bob, [First name: power play.]
-
-I appreciate the consideration and the offer. [A meaningless courtesy that doesn’t do much, but when it isn’t there, people notice.] I am very excited about the team, the product and the direction of the company. I know I can make a big impact on the organization. [Reiterate passion and set the tone for the back-and-forth. Also a power play.]
-
-Based on other opportunities I am looking at, I feel xxx,xxx,xxx.xx is a fair number for what I can bring to ______. [12%-15% above the offer is optimal. Higher, and you risk insulting them or pricing yourself out of the job. Lower and you could be leaving money on the table.] If you can match that I am ready to sign today and will give my notice tomorrow. [This is the most important part. Present a slam dunk and dare them not to take it. You are coming over the top with enthusiasm; it’s a power play and almost always pays off.]
-
-I look forward to your response. [Power play; leave them with good vibes.]
-
-Cheers,
-Alex “Dream Employee” Kouts
-415.555.ALEX
-
-Always use first names (caveat: unless their title vastly exceeds yours — if they’re on LinkedIn, use how they address themselves there as a reference.)
-Never make the first offer.
-Thank them.
-Set the tone for the negotiation.
-Display social proof/market validation.
-Set your “ask.”
-Help them visualize the win.
-Reiterate interest and close strong.
-
-- First establish a baseline — use Google.
-Ask if they will match advertised prices from a competitor.
-“What is your best out the door price?”
-“Will you do that -10%?”
-“If you reach my price, I will buy today.”
-“I am on the phone with xxxx; they have this advertised for $xxxx. Can you beat that?”
-“If I buy here, will you throw in xxxx?”
-“What if I pay cash?”
-“Okay, thank you. It’s helpful to know where you stand. I am going to check out a couple of your competitors and will be back if it makes sense.”
-WALK AWAY.
-
-- Unexpressed feelings never die. Releasing pressure is different from venting.
-- The more influence somebody is the more they use we / plural pronouns.
-- never split the difference
-
-- Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-
-- make an agreement on a standard of value. my standard of value for a weekend: some combination of rejuvenation and human connection.
-normally we fall into habits. we don't do what is best for ourselves.
-
-- One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show.
-I said, “$1500”. She said, “Oh, that’s a bit too much. What would you charge to do just a one-hour show?”
-I said, “$2000”. She said, “No, wait, you’ll be performing less, not more!”
-I said, “Yeah! Exactly! What you’re paying me for is to get there! Once I’m there, playing music is the fun part! If you tell me I have to get back in the van after only an hour, and drive home, then I’m going to charge you more than if you let me play for a couple hours first.”
-She liked that so much she came up with the $1500. -- Derek Sivers
-
-- Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
-What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
-
-- Call all owners to rent. 8 said yes. Then auction! 2200 -> 1500.  
-- To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
-Business is 80% psychological.
-irritation -> challenge people to make something that they don't want to do
-agitation -> challenge people to make something that they want to do. suggesting ego etc
-agitate more than irritate.
-- Most rejections are not your fault.
-
-So can you pitch me what our company does? people minds work by association. pre-suasion
-> *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
-- It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
--->
-
-
-
-
----
-## On relationships
-
-> *'Humans make connections.  
-Sometimes these connections grow.  
-Sometimes they stay the same.  
-Sometimes they collapse.'*
-
-Good partnership: complementary skillsets with shared values.
-
-Trust and vulnerability are correlated. Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them.
-
-> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don't hide your feelings from people who show you theirs.'*
-
-> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
- 
-> *'You loose your identity, you loose people.' -- Amy Cuddy*
-
-Focus on what you can give. You only receive in proportion to what you give.  
-
-However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. Partner with people who wants you to be all you can be. Hints:
-
-- If a person is nice to you and to nobody else, that person is not nice.  
-- If you are lonely when you are not alone, you are in bad company.  
-- Don’t be less just because they cannot be more.
-
-> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
-
-> *'Trust bank account analogy: you make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.'*
-
-<!--
-- first we judge trust, before strength. we build trust through presence. leadership is based on trust.
--->
-
-
-
-
----
-## On lovers
-
-You attract what you are.
-
-Love is what happens to men and women that don't know each other.  
-Love doesn’t hurt, expectations do. Every person feels loved in a different form.
-
-> *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
-
-> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*  
-
-> *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
-
-> *'The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
-
-> *'First you see the virtues. Then the flaws. For a long and deep relationship, values must match.' -- EF*
-
-> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
-
-> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'*
-
-<!--
-> *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
-> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can't believe that ours didn't go on forever.' -- Nicholas Sparks*
--->
-
-
-
-
----
-## On family and friends
-
-> *'When everything goes to hell, the people who stand by you without flinching, they are your family.' -- Jim Butcher*
-
-> *'Your friends are the ones that go to your funeral in a day of rain.' -- an old General*
-
-Life is people and is meant to be lived in community.  
-However choose who surround you: you are the average of them. 
-
-> *'Really great people make you feel that you too can be great.' -- Mark Twain*
-
-> *'If you're the smartest in the room, you're in the wrong room.'*  
-
-> *'When you enter a workplace, think that you will become like them and not the opposite.'*
-
-> *'Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.'*
-
-### How to build your «board of directors»?
-
-- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
-- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
-- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
-we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
-
-You're never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one. If a buddy calls and needs to get a drink, go. I also know someone is a friend when I can go long stretches without talking to him and then we talk and its right where we left off.
-
-<!--
-“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
-“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
-I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
--->
-
-### On friends
-
-Resist the temptation of working with family and friends. Peers are peers, not boss and employee. Pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
-
-> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
-
-> *'Never put too much trust in friends, learn how to use enemies.'*  
-> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (2nd and 10th law of power)*  
-
-> *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
-
-> *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
-
-> *'Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
-They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
-
-> *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
-
-> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
-
-### On family
-
-Cleave from your family but come back. You need to be independent and loyal at the same time.
-
-> *'To lose one parent may be regarded as a misfortune; to lose both looks like carelessness.' -- Oscar Wilde*
-
-> *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
-
-<!--
-- envy (worse than you) - competition (same level than you) - mentor (better than you)
-- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
-- the way of man is the way of the gang
-
-> *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
-> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
-
-- The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
-
-> *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*
--->
-
-
-
-
----
-## On feedback and mentorship
-
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
-
-Feedback speeds up improvement but only take advice from mentors.  
-A fundamentalist gives answers, a scholar gives questions.
-
-> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
-
-> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
-
-### How to find mentors?
-
-Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
-
-> *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
-
-> *'Follow the thought leaders instead of the traffic leaders.'*
-
-> *'Your father is your first mentor.'*
-
-<!--
-I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
--->
-
-You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
-
-> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*  
-> *'Service to others is the rent you pay for your room here on Earth.' -- Muhammad Ali*  
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*  
-
-> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.' -- Dalai Lama*
-
-<!--
-> *'Powerful people give freely, buying influence rather than things.'*
-> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
-> *'If you are giving back, it’s because you’ve taken too much.'  -- Ricardo Semler*
-
-the value of getting a coach. Spend more time fixing weaknesses than developing strengths! have your corner man to indicate your blindspots
--->
-
-### How to mentor your kids?
-
-> *'My advice is my autobiography not slogans. People relate better like that.' -- James Altucher*
-
-> *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
-
-Fatherhood makes you a mentor independently of your will. Don't tell your kids them how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
-
-Hints:
-
-- Generosity: «What did you do this week for somebody?»  
-- Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
-- Self improvement: «Did you give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
-- Autority: «Kid: why do I have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
-- Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
-- Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
-- Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
-- Optimism: «You have the gift of today.»
-
-However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
-
-> *'Do not teach a starving man to fish.'*
-
-
-
-
----
-## On generosity and incentives
-
-> *'No one has ever become poor by giving.' -- Anne Frank*
-
-> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
-
-Always be generous. A low value gift can have the opposite effect.
-
-> *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
-
-> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- danielvf_HN*
-
-> *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- danielvf_HN*
-
-### On punishments
-
-Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses. Rewards are more effective.
-
-Alternatives that you can try the next time you feel tempted to punish someone:
-- extintion of rewards
-- positively reinforcing preferred activities.
-
-<!--
-- power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
-- Generosity without Expectation is Sexy. It means that your thoughts, words, and actions are all in congruence. you don’t live a life that is incongruent with what you want to make others happy. You live a life of congruence where everything is in line. This is the pathway to true power. Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
-- The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
-
-impredictable schedule / fixed work amount schedule / fixed time amount schedule
--->
-
-
-
-
----   
-# 2.2 - On interaction: drawbacks
-
 ## On conflicts
 
 > *'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
@@ -823,6 +226,152 @@ From Scott Adams (Dilbert):
 
 
 ---
+# 2.2 - On cooperations
+
+## On relationships
+
+> *'Humans make connections.  
+Sometimes these connections grow.  
+Sometimes they stay the same.  
+Sometimes they collapse.'*
+
+Good partnership: complementary skillsets with shared values.
+
+Trust and vulnerability are correlated. Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them.
+
+> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don't hide your feelings from people who show you theirs.'*
+
+> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
+ 
+> *'You loose your identity, you loose people.' -- Amy Cuddy*
+
+Focus on what you can give. You only receive in proportion to what you give.  
+
+However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. Partner with people who wants you to be all you can be. Hints:
+
+- If a person is nice to you and to nobody else, that person is not nice.  
+- If you are lonely when you are not alone, you are in bad company.  
+- Don’t be less just because they cannot be more.
+
+> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+
+> *'Trust bank account analogy: you make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.'*
+
+<!--
+- first we judge trust, before strength. we build trust through presence. leadership is based on trust.
+-->
+
+
+
+
+---
+## On lovers
+
+You attract what you are.
+
+Love is what happens to men and women that don't know each other.  
+Love doesn’t hurt, expectations do. Every person feels loved in a different form.
+
+> *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
+
+> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*  
+
+> *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
+
+> *'The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+> *'First you see the virtues. Then the flaws. For a long and deep relationship, values must match.' -- EF*
+
+> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+
+> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'*
+
+<!--
+> *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
+> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can't believe that ours didn't go on forever.' -- Nicholas Sparks*
+-->
+
+
+
+
+---
+## On family and friends
+
+> *'When everything goes to hell, the people who stand by you without flinching, they are your family.' -- Jim Butcher*
+
+> *'Your friends are the ones that go to your funeral in a day of rain.' -- an old General*
+
+Life is people and is meant to be lived in community.  
+However choose who surround you: you are the average of them. 
+
+> *'Really great people make you feel that you too can be great.' -- Mark Twain*
+
+> *'If you're the smartest in the room, you're in the wrong room.'*  
+
+> *'When you enter a workplace, think that you will become like them and not the opposite.'*
+
+> *'Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.'*
+
+### How to build your «board of directors»?
+
+- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
+- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
+- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
+we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
+
+You're never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one. If a buddy calls and needs to get a drink, go. I also know someone is a friend when I can go long stretches without talking to him and then we talk and its right where we left off.
+
+<!--
+“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
+“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
+I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
+-->
+
+### On friends
+
+Resist the temptation of working with family and friends. Peers are peers, not boss and employee. Pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
+
+> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
+
+> *'Never put too much trust in friends, learn how to use enemies.'*  
+> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (2nd and 10th law of power)*  
+
+> *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
+
+> *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
+
+> *'Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
+They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
+
+> *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
+
+> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
+
+### On family
+
+Cleave from your family but come back. You need to be independent and loyal at the same time.
+
+> *'To lose one parent may be regarded as a misfortune; to lose both looks like carelessness.' -- Oscar Wilde*
+
+> *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
+
+<!--
+- envy (worse than you) - competition (same level than you) - mentor (better than you)
+- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
+- the way of man is the way of the gang
+
+> *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
+> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
+
+- The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
+
+> *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*
+-->
+
+
+
+
+---
 ## On society and politics
 
 > *'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
@@ -868,6 +417,194 @@ But the problem is that, like I said, feminism, in the process of enacting all o
 The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
 And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
 -->
+
+
+
+
+---
+## On business and entrepreneurship
+
+> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
+
+> *'What you need to start a new business: generosity.' -- Derek Sivers*
+
+Focus on what can you give that empowers others.
+
+It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
+
+Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it. The consumer votes with his wallet.
+
+> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+### Patterns on successful *wannapreneurs*:
+
+- They talk to people about their ideas, but never build anything. 
+	- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no paying demand.  
+	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you're interested in. Don't worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
+	- Timing is the most important factor in startup success. Team and Execution came next. Quick to start but not the first.
+	- Launch now. Find the 90/10 solution.  
+	- Ignore your competitors, you will more likely die of suicide than murder.  
+
+- They build something without first talking to people.
+	- You only have to be really right once: Zuckerberg thought that Facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
+	- Do things that don’t scale.  
+
+- They build something and never try to sell it.  
+	- If you have an idea, test it. It’s called putting out a “minimally viable product” or MVP.   
+	- Don’t scale your team/product until you have built something people want.  
+	- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
+	- Scratch your own itch it's good only as a start. Build something people want: Find 10-100 customers who love your product.    
+	- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money. 
+
+- If you build something that people say they'll pay for and then they don't then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle.
+	- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
+	- All startups are badly broken at some point ánd can only solve one problem well at any given time.  
+	- Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service. Big company corporate development queries – they will only waste time. Conferences unless they are the best way to get customers  
+	- Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
+	- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.  
+	- Most companies don’t die because they run out of money  
+ 
+> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
+
+> *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
+
+<!--
+- Validate your business by finding paying clients. 
+- Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
+- CEOs are adaptable and flexible and good risk managers.
+- Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
+
+Judgement requires experience, but can be built faster by learning foundational skills.
+There is no skill called “business.” Avoid business magazines and business classes.
+Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
+Reading is faster than listening. Doing is faster than watching.
+You should be too busy to “do coffee" while still keeping an uncluttered calendar.
+Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
+Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
+Become the best in the world at what you do. Keep redefining what you do until this is true.
+There are no get rich quick schemes. That's just someone else getting rich off you.
+Apply specific knowledge, with leverage, and eventually you will get what you deserve.
+When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
+- - persuade people to buy rather than teach people to buy.	
+- a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
+
+- pro tip: Ask your current customers “What nearly stopped you buying from us?”
+- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
+- I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
+- if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others.
+
+Friend of a friend owns a small chain of grocery stores in New Jersey. A few years ago, when Amazon got into groceries, he changed his mind about investing in the growth of his own business. He started buying Amazon shares with his investment capital instead. He saw what happened to Circuit City and Tower Records, Borders and Barnes & Noble. So he bought some Amazon and then he bought some more.
+This wasn’t retirement investing. This was something else. What should we call it? Disruption Insurance?
+- Jeff Bezos summed this up when he said “Your margin is my opportunity.” The key to business and investing success isn’t finding an advantage. It’s having a sustainable advantage. Something that others either can’t or aren’t willing to copy once your idea is exposed and patents expire.
+
+- social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
+
+- É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
+
+- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It's cool; users love it; it just doesn't matter. But if you're living in the future and you build something cool that users love, it may matter more than outsiders think."
+	
+Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
+Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
+
+Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don't. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
+
+- startups are similar to biological life. Wherever the conditions are hospitable, life already exists.
+The difference is that startups live in an economic rather than a biological environment. -> funds dont mind that u fail if they have also some winners
+- there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
+- The biggest assumption I ever made in business is that most people are telling me the truth. Most people have no idea what truth is.
+
+1) Do networking and listen. It's not about how great you are in your wildest dreams.
+2) Deliver a little bit more than expected. That'll help to get you some recommendations.
+4) Raise your hourly rate. There's nothing wrong with it, if you're doing a great job based on past projects.
+5) Say "No" to nasty, time consuming and time wasting clients.
+6) Build your own brand to be proud of.
+
+- give where you are naturally good
+
+- failing business -> fire 60% top managers (ricardo semler)
+process of asking 3 whys is a row -> the first why is easy to answer
+
+disney salvation:
+1. Create a Clear, Simple Vision (Your Corporate MTP). -> deleverage
+2. Make long-term bets.
+3. Make fearless acquisitions on the edge.
+
+- Changes in the environment unlock startup opportunities. startup ideas -> problems and trends
+
+I recall reading that someone had more success with a "unlock feature X" model of payment, even though it in total was more expensive than unlocking everything at once. people underestimate the power of free. trusted to one day pay me. send an email to all readers saying that i'm making consultations. 
+
+- It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
+
+- zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
+
+- Learn to provide relative value on a massive scale and you will become rich. three things make anything possible: People, technology and money.
+-->
+
+
+
+
+## On networking
+
+> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
+
+> *'The enemy of excellence is isolation.' -- Aaron Walker*
+
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
+
+> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
+
+> *'Your silence will not protect you.' -- Audre Lorde*
+
+> *'Do not build fortresses to protect yourself: isolation is dangerous.'  
+'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
+
+### How to network?
+
+Be useful, not important.
+
+[Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
+
+> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
+
+> *'If you expect magic in every encounter, you'll find it.' -- Adam Robinson*
+
+### How to prepare an elevator pitch?
+
+Choose truth or your self-mythology will seduce you.
+
+> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
+
+> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
+
+<!--
+- You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
+- Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
+
+intro: //clay hebert
+I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
+6 or 7 words -- short and sweet and confident and interesting.
+ask them first so you can costumise it for the context and make it more relevant.
+
+* How to curate your network?
+- Form relationships with those who seem like they’ll give at least as much than they take.  
+- Expand from too long networks.
+- Building new connections is important but it’s even more important to remember your connections that already exist. The difference between success and failure can be as simple as keeping in touch.  
+- Community of experts (that give you good answers).  
+- Critical peers (10 people that make a big difference in your immediate career).
+- Networking types: advocates a, boomerang b, celebrities c, drainers d  
+- Networking types: shark, dolphin, drowner.  
+- Not what should I do next but who should you speak next?
+- the best way to get value was to start giving it away? you're giving validation
+-->
+
+### Why most people don't like networking?
+
+Handling rejection is hard. Period.  
+We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
+
+> *'I don't know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
+
+> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
 
 
