@@ -590,7 +590,7 @@ Life is Capitalism but art is Socialism.
 
 > *'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*
 
-That's where «big bucks» are. The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
+The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
 Most people with good taste are young and poor.
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
@@ -622,7 +622,7 @@ Hints:
 
 ### On your investment comfort zone
 
-Scared money never wins. It's about the risk of losing money vs the risk of missing opportunity.  
+Scared money never wins. It's about the risk of losing money versus the risk of missing opportunity.  
 
 > *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
 
@@ -773,6 +773,8 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 
 ---
 ## On email
+
+Hints:
 
 - Make the subject unique, meaningful and easily searchable.  
 - Make a single, specific, simple request – such that it’s hard to say no - in the first line and then explain if you need to. The reader should be able to reply to the email in one word, forward it on to the right person or delete it so be specific in your request. Examples:

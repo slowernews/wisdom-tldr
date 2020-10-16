@@ -61,7 +61,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)
-- [On teams: management and delegation](/chapters/chapter_2_groups.md#on-teams-management-and-delegation)
+- [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
 - [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
 - [On career](/chapters/chapter_2_groups.md#on-career)
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)

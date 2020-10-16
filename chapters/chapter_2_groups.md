@@ -676,7 +676,7 @@ evolutionary instinct to follow the strong person. o homem de negocios sonha (am
 
 
 ---
-## On teams: management and delegation
+## On management and delegation
 
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
 
@@ -686,10 +686,14 @@ Managing is delegating. Your speed as a manager is the speed of your team.
 
 Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows. Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
-> *'A manager should make himself 2 questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?». The speed that you offload your stuff will be the speed of your team.'*
+A manager should make himself 2 questions a day:
 
-> *'Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive.
-The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be.'*
+- What is important to accomplish?  
+- Where was I uncomfortable the day before?  
+
+The speed that you offload your stuff will be the speed of your team. Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be. 
+
+A great manager is a great facilitator.
 
 ### How to give feedback?
 
@@ -720,19 +724,19 @@ However gaining an understanding and giving appropriate feedback makes your juni
 - On a meeting do not share your opinion on possible solutions before asking for input from your team. Lower ranked people should speak first. Everybody the right to their opinion and not copying others' opinion.  
 - Switch my default to “no” for all meetings. If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
 
+### On teams
+
+- The ultimate divisional organization: Amazon’s “two-pizza teams”.  
+- A chain is only as strong as its weakest link.  
+- Custom tailor teams from project to project. Same team from same project is not the best option.
+
+> *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
+
 <!--
 - So what makes organizations productive? Making hard decisions. -- scott-belsky (behance creator)
 - elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren't. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
-- Amazon’s “two-pizza teams”: The ultimate divisional organization
-- a great manager is a great facilitator
 - I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
-
-> *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
-
-- A chain is only as strong as its weakest link.
-- I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.
-https://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord
 - These are questions this manager has homed in on during his decades-long career at a high-tech company. Here they are: What do you need? What’s getting in your way? What can I do as your manager to help?
 - succeful takers are the most visible people in organizations.
 - reward system. culture is influenced by structure. give to the right person
@@ -742,8 +746,8 @@ https://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord
 - manager is a dreammaker
 - As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
 - Too busy pretending I'm occupied.
-- boss ask employee to do x. employee resist, boss come back later after thinking about his resistance, maybe you can do something about
-- Custom tailor teams from project to project. Same team from same project is not the best option.
+
+> *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
 -->
 
 
@@ -777,50 +781,40 @@ HOWEVER good employeees are not easy to find.
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
-> *'They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.'*
+### On job applications
 
 When applying for a job be more of a consultant than an applicant. Hints:
 
 - Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
 DON’T tell about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell HOW you accomplished your responsibilities better than the next person. ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.  
 - Most reviewers are only going to understand two skill levels: still learning the skill or confident in the skill.
+- Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.
+- Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
+- A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences. Every little detail matters. Here is the toughest point for a lot of people: you can’t control what your reviewer sees on your portfolio.
+
+### On asking for a raise
+
+- If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.  
+- They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.
 
 <!--
 - I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
-- Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.
-
-If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.
-
-people want freedom to choose their process
-
-The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
+- people want freedom to choose their process.
+- The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
 Hire people you can trust. You have to trust them to be adults. Give them clear goals and then get the hell out of the way so that they can do their job.
 Give them the tools they ask for, not the tools a vendor suggested. They have a reason they asked for a proprietary compiler, get it for them.
 Respect goes a long way and begins in the recruitment phase. It surely doesn't end there. To get respect, you have to give respect.
 Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There's no reason to pay crap wages.
 At the same time, wages aren't everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don't offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won't just up and go to a new company after you've trained them.
-I can go on, but there's a few things I've learned.
-
-Tip #3: A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences. Every little detail matters. Here is the toughest point for a lot of people: you can’t control what your reviewer sees on your portfolio.
 
 "Estimativas são Promessas. Promessas devem ser cumpridas.".
-In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
+- In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
 Therefore, there is zero correlation between an estimate and the actual outcome.
-
-If you're a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
-
-There's nothing wrong in specialization -- it's how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don't have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
-
-autentic pride (genuine) vs hubristic pride (egotistic)
--
-Startups are (by necessity) filled with generalists; big companies are filled with specialists.
-companies hire for a problem and not general optimizations. Even if they need a generalist.
-
-Try consulting or entrepreneurship.
-When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
-When you sell your ability to deliver results, nobody asks about your skillset.
-
-Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
+- If you're a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
+- There's nothing wrong in specialization -- it's how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don't have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
+- Startups are (by necessity) filled with generalists; big companies are filled with specialists.
+- companies hire for a problem and not general optimizations. Even if they need a generalist.
+- Try consulting or entrepreneurship. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need. When you sell your ability to deliver results, nobody asks about your skillset.
 -->
 
 
@@ -922,7 +916,6 @@ So: 100% on one thing = 80% on 5 things!
 - refresh your skill set, if you got rusty.  
 - career ecosystems, get back into them, reconnect.  
 - reboot self confidence. Surround yourself with confident people.'
-
 - Happy, Smart, and Useful
 - look at situations as systems. i help to create systems.
 - hard to find good emploieess and good bosses..
