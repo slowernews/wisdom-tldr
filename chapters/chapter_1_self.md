@@ -820,8 +820,6 @@ Behaviors are driven by fear. To change behaviors focus on fear, not on the beha
 
 > *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
 
-> *'It takes more courage to reveal your insecurities than to hide them.' -- Alex Karras*
-
 > *'Life shrinks or expands in proportion to one's courage.' -- Anaïs Nin*
 
 <!--
@@ -847,8 +845,6 @@ age is a mindset
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
-> *'Nobody feels love when they feel shame.' -- John Townsend*
-
 You are not you think you are: *you are what you hide*.  
 The things you hate most about yourself are the things you hide from the rest of the world. 
 
@@ -860,7 +856,10 @@ When you try to hide something about yourself, you automatically create shame. Y
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
+<!--
 > *'Just get out of the room.' -- Robert Glover*
+- shame is the opposite of confidence. confidence is shamelessness. shame is created by dishonesty. you do it not other people. THE cure is honesty.
+-->
 
 
 

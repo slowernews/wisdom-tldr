@@ -737,7 +737,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
 
-> *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.'*
+> *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.' -- Matt Haig*
 
 > *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
 

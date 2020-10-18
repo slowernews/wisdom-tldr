@@ -255,7 +255,7 @@ However after taking first steps [mirror](chapter_3_action.md#on-mirroring) thei
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
 
-> *'Trust bank account analogy: you make deposits by being on time, doing what you say you will, random acts of kindness, etc. You make withdrawals by being flaky, forgetful, and insensitive, among other things.'*
+> *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
 
 <!--
 - first we judge trust, before strength. we build trust through presence. leadership is based on trust.
