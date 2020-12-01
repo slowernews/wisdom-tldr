@@ -347,6 +347,8 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
 > *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
 
+> *'The best mirror is an old friend.' -- George Herbert*
+
 ### On family
 
 Cleave from your family but come back. You need to be independent and loyal at the same time.

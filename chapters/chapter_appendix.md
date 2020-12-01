@@ -484,6 +484,8 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 > *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
 
+> *'I don't want to be alone, I want to be left alone.' -- Audrey Hepburn*
+
 > *'“Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.”' --  Neil Gaiman*
 
 

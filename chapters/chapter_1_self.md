@@ -86,6 +86,8 @@ Be raw, be real, tell people what is really going on. The more vulnerable you ar
 
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
+> *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
+
 <!--
 - its not to became something. It's to unbecome everything that is not you.
 - The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. truth-a-better-way-to-talk-about-ourselves.
