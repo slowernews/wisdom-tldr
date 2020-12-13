@@ -92,6 +92,7 @@ Be [grateful](chapter_1_self.md#on-gratitude).
 > *'The rise is always better than the peak.' -- Jim Jefferies*
 > *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
 > *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
+> *'All the world is made of faith, and trust, and pixie dust.' -- J.M. Barrie*
 
 - It's a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn't like ot climb much. I just liked to imagine the summit.
 - It’s quite liberating to understand reality as a construction.  

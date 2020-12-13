@@ -58,6 +58,7 @@ Life becomes very easy when you have studied the past to the extent that you hav
 
 <!--
 > *'Keep in mind that people change, but the past doesn't.' -- Becca Fitzpatrick*
+> *'When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time.' -- Jon Boorman*
 -->
 
 
@@ -173,7 +174,10 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays. D
 
 > *'Andy Warhol is the only genius I’ve ever known with an IQ of 60.' -- Gore Vidal*
 
-
+<!--
+> *'The measure of intelligence is the ability to change.' -- Albert Einstein*
+> *'All the darkness in the world cannot extinguish the light of a single candle.' -- Francis of Assisi*
+-->
 
 
 ---
@@ -263,6 +267,8 @@ This creates the illusion that certain people are luckier. However positive resu
 
 > *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
 
+> *'In ancient times cats were worshipped as gods; they have not forgotten this.' -- Terry Pratchett*
+
 The sign of a beautiful person is that they always see beauty in others.
 
 > *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
@@ -322,9 +328,6 @@ Hints:
 - [Remove any obligations that aren’t truly serving your end goals]().  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
-
-
-
 <!--
 - One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
 In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
@@ -347,6 +350,7 @@ You are in a city, without knowing the language, manage to go to the hostel, mee
 - Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
 - Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
 KonMari Method -> Marie kondo, perita em arrumação
+- overheard someone say in a SF cafe: "I couldn't be a doctor...it doesn't change the world enough and you don't actually earn that much.
 -->
 
 
@@ -765,6 +769,8 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'A classic is a book which people praise and don't read.' -- Mark Twain*
 
+> *'The worst thing about new books is that they keep us from reading the old ones.' -- Joseph Joubert*
+
 <!--
 when writing a book start with your own ideas
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
@@ -811,6 +817,7 @@ We’ve grown dependent on three simple features that just aren’t available in
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
+- Programming is more assembling than starting from zero.
 
 Top 4 desirable developer skills:
 Ability to ignore new tools and technologies;

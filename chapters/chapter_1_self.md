@@ -265,6 +265,7 @@ Hints:
 > *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
 
 <!--
+> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn't have the courage to say "yes" to life?' --  Paulo Coelho*
 > *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
 
 - there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
@@ -831,6 +832,7 @@ age is a mindset
 > *'The things we fear the most have already happened to us.'*
 > *'If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.' -- Hermann Hesse*
 > *'We should all start to live before we get too old. Fear is stupid. So are regrets.' -- Marilyn Monroe*
+> *'Never be bullied into silence. Never allow yourself to be made a victim. Accept no one’s definition of your life; define yourself.' -- Robert Frost*
 
 - Conquering Fear = Defining Fear: define your fears not your goals
 - I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
@@ -988,6 +990,7 @@ When accompanied by authenticity and personal accountability, vulnerability is a
 - Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 - analogy: confidence is like a building
 - Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
+- if you don't believe you are good, you'll never be good - ef!
 	
 > *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
 If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.

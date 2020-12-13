@@ -289,6 +289,7 @@ Love doesn’t hurt, expectations do. Every person feels loved in a different fo
 <!--
 > *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
 > *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can't believe that ours didn't go on forever.' -- Nicholas Sparks*
+> *'That's what careless words do. They make people love you a little less.' -- Arundhati Roy*
 -->
 
 
@@ -361,12 +362,11 @@ Cleave from your family but come back. You need to be independent and loyal at t
 - envy (worse than you) - competition (same level than you) - mentor (better than you)
 - Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 - the way of man is the way of the gang
-
-> *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
-> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
-
 - The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
 
+> *'People come, people go – they’ll drift in and out of your life, almost like characters in a favorite book. When you finally close the cover, the characters have told their story and you start up again with another book, complete with new characters and adventures. Then you find yourself focusing on the new ones, not the ones from the past.' --  Nicholas Sparks*
+> *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
+> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
 > *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*
 -->
 
@@ -475,6 +475,7 @@ Test sales first. If something is worth doing, sales will come easy and dollars 
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
 - CEOs are adaptable and flexible and good risk managers.
 - Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
+- empregados sempre c skin in the game. the enemies are outside not inside
 
 Judgement requires experience, but can be built faster by learning foundational skills.
 There is no skill called “business.” Avoid business magazines and business classes.
@@ -555,6 +556,8 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 
 > *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
 
+> *'Being alone never felt right. Sometimes it felt good, but it never felt right.' -- Charles Bukowski*
+
 > *'Your silence will not protect you.' -- Audre Lorde*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
@@ -579,6 +582,8 @@ Choose truth or your self-mythology will seduce you.
 > *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
 
 <!--
+> *'Each of us is born with a box of matches inside us but we can't strike them all by ourselves' -- Laura Esquivel*
+
 - You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
 - Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
 
