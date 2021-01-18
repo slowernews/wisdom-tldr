@@ -40,6 +40,8 @@ There is no coming to consciousness without pain. People will do anything, no ma
 to be real you need to be vulnerable
 > *'Do you want to know who you are? Don't ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
 Entrepeneurs are curious
+> *'You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.' -- Friedrich Nietzsche*
+> *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
 -->
 
 

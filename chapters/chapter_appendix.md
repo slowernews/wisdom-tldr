@@ -120,6 +120,8 @@ However don't obcess on that. You can't control the future.
 
 <!--
 - make the exercise: imagine you life in 10years. Possible futures.
+
+> *'Every saint has a past, and every sinner has a future.' -- Oscar Wilde*
 -->
 
 
@@ -274,6 +276,8 @@ The sign of a beautiful person is that they always see beauty in others.
 > *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
 
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
+
+> *'Dress shabbily and they remember the dress; dress impeccably and they remember the woman.' -- Coco Chanel*
 
 
 
@@ -532,6 +536,10 @@ And on the first day, men created god.
 
 > *'The first thing a man will do for his ideals is lie.' -- Joseph Schumpeter*
 
+<!--
+> *'A man cannot live without worshiping something; without worshiping he cannot bear the burden of himself. And that goes for every man. So that if a man rejects God, he will have to worship an idol that may be made of wood, gold or ideas. So those who think they don’t need God are really just idol worshipers, and that’s what we should call them.' -- Wolfgang Palaver*
+-->
+
 
 
 
@@ -774,6 +782,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 <!--
 when writing a book start with your own ideas
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
+> *'People say that life is the thing, but I prefer reading.' -- Logan Pearsall Smith*
 -->
 
 

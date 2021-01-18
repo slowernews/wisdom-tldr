@@ -163,4 +163,4 @@ One last advice for introverts: *'Aim at relying on your network and not at bein
 
 <hr>
 
-Copyright © 2016-2020 Enio Ferreira | [FAQ](FAQ.md)
+Copyright © 2016-2021 Enio Ferreira | [FAQ](FAQ.md)

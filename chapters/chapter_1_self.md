@@ -144,6 +144,7 @@ Your results are yours and yours alone. Your choices determined the body, bank a
 > *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
 
 <!--
+- dishonesty is a reaction to fear.
 - bravery is learned -> micro-bravery, start small
 - Humility With forward action: 'I wasn’t the smartest in X but..'
 - integrity is what you think is what you say, and the same what you do.
@@ -826,6 +827,8 @@ Behaviors are driven by fear. To change behaviors focus on fear, not on the beha
 > *'Life shrinks or expands in proportion to one's courage.' -- Anaïs Nin*
 
 <!--
+- to have courage  you can't have too much reverence
+
 age is a mindset
 > *'Named must your fear be before banish it you can.' -- Yoda*
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
@@ -1012,6 +1015,8 @@ I do my best to always pay attention to how I am presenting myself to others eve
 Form one: I’m better than everybody and therefore deserve special treatment.
 Form two: I’m worse than everybody and therefore deserve special treatment.
 They’re both forms of narcissism (because they’re both about me me me), and both are pretty much never true. Which one do you usually fall into?
+> *'You've gotta dance like there's nobody watching.' -- William W. Purkey*
+> *'We accept the love we think we deserve.' -- Stephen Chbosky*
 -->
 
 
@@ -1081,4 +1086,5 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 
 <!--
 Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
+> *'Healthy striving is self-focused: «How can I improve?» Perfectionism is other-focused: «What will they think?»' -- Brené Brown* 
 -->
