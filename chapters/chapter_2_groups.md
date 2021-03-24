@@ -82,7 +82,7 @@ When public speaking you dont need to answer their question. You can say whateve
 > *'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
 
 Don't avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
-Neutrality is not possible. Anyway preserve your [freedom](chapter_1_self.md#on-freedom) as much as possible.
+Neutrality is not possible. Anyway preserve your freedom as much as possible.
 
 > *'I am either part of the solution or part of the problem.'*
 
@@ -146,15 +146,10 @@ Consensus happens just in the beginning and in the end of something.
 
 > *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
 
-Most people are other people. Their thoughts are someone else opinions and they jump to conclusions. People accept the defaults very easily.
-
+Most people are other people. People accept the defaults very easily. Their thoughts are someone else opinions and they jump to conclusions.
 <!--
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 -->
-
-> *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
-
-> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
 
 > *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
 
@@ -173,6 +168,10 @@ Freud was the one who realized that people’s insecurities drove them to excess
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
 Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don't actually think, they just take their first thought and go.
+
+> *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
+
+> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
 
 > *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
 
@@ -212,7 +211,6 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 <!--
 - changing course is hard and this scares us so we look around and try to copy the courses other people took
-- If everyone is buying houses at the same time, the price of houses will go up too high and nobody will make any money.
 
 > *'Some people feel the rain. Others just get wet.' -- Bob Marley*
 > *'Whenever people agree with me I always feel I must be wrong.' -- Oscar Wilde*
@@ -226,7 +224,7 @@ From Scott Adams (Dilbert):
 
 
 ---
-# 2.2 - On cooperations
+# 2.2 - On cooperating
 
 ## On relationships
 
@@ -330,12 +328,9 @@ I can maybe look foolish or silly in that group, but it protects me from looking
 
 ### On friends
 
-Resist the temptation of working with family and friends. Peers are peers, not boss and employee. Pedestals prevent friendships. Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
+Resist the temptation of working with family and friends. Keep your friends for friendship, work with the skilled and competent. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
 
 > *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
-
-> *'Never put too much trust in friends, learn how to use enemies.'*  
-> *'Infection: avoid the unhappy and unlucky.' -- Robert Greene (2nd and 10th law of power)*  
 
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 
@@ -347,8 +342,6 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 > *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
 
 > *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
-
-> *'The best mirror is an old friend.' -- George Herbert*
 
 ### On family
 
@@ -367,7 +360,7 @@ Cleave from your family but come back. You need to be independent and loyal at t
 > *'People come, people go – they’ll drift in and out of your life, almost like characters in a favorite book. When you finally close the cover, the characters have told their story and you start up again with another book, complete with new characters and adventures. Then you find yourself focusing on the new ones, not the ones from the past.' --  Nicholas Sparks*
 > *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
-> *'Never tell the truth to people who are not worthy of it.' --  Mark Twain*
+> *'Never tell the truth to people who are not worthy of it.' -- Mark Twain*
 -->
 
 
@@ -409,8 +402,6 @@ Politicians don't get educated, they get bought. To reduce corruption diminish p
 Taxes aren’t a punishment. They are a membership fee that 80% of us are voluntarily overpaying.
 
 <!--
-- it may be pop psychology stuff, but it’s convenient for my point so in the spirit of American politics I will treat it as fact.
-
 > *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.

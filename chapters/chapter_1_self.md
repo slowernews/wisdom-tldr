@@ -14,9 +14,9 @@
 
 Your independence is your legacy.
   
-Choose a life you want and then create the things you need around it. Take care of yourself first and the money, love, and prosperity will follow. A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
+Take care of yourself first and the money, love, and prosperity will follow. A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
-Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You cannot give what you do not have. the first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be fully equipped and able to serve others to your fullest capacity.
+Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You cannot give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you are able to serve others to your fullest capacity.
 
 > *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
@@ -35,19 +35,9 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 <!--
 Codependent no more: How to stop controlling others and start caring for yourself.
 
-we dont need to like everybody. dot. being nice is not being able to tolerate the other being upset with him. niceness leads to passivity they don't rise to leadership positions. a nice person can't be angry -> then it manifest as depression, anxiety, health problems, passive agressiveness
-resentment is created when we say yes when we want to say no.
-
-One of the best days of my life was the day I took the elevator down to freedom. It was the middle of the day. I walked out. No boxes. No handshakes. I left and played chess in Union Square. The same place I got my first client after starting my own company.
-
-Your lifestlyle depends on your independence. The freedom to express oneself fully.
-
 Practice doing without things you think you need.
 Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
 The bank owned them. Work owned them.
-
-I define financial freedom as: “The ability to do what you want when you want, where you want, and with whom you want… within reason”.
-look for 100% financial freedom
 
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 
@@ -56,14 +46,9 @@ look for 100% financial freedom
 > *'Quem não chora não mama.'*	
 > *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
 > *'Só os mais corajosos conseguem fazer a paz' -- Trump*
-
-There have been times where I felt conflicted and confused, where I mourned for a past self that I knew I would never see again while anxiously awaiting a future self who seemingly would never come. Old habits, both good and bad, have fallen by the wayside while I’ve picked up both good and bad habits to fill their space. mm
-
 > *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
 
 - There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
-
-personality is not static. - rollo tomassi
 -->
 
 
@@ -72,21 +57,17 @@ personality is not static. - rollo tomassi
 ---
 ## On authenticity
 
+> *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
+
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Live in accordance with your nature. If you try to be something you're not, you end up being nothing.
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. It’s not that we’re learning how to be authentic, but that we’re un-learning inauthenticity.
 
-The best value you can add is by being more of yourself not by changing.  
-Keep it real, don't show yourself too perfect. People know when they’re talking to the real thing.
-Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete.
-Be raw, be real, tell people what is really going on. The more vulnerable you are, the more people will be able to relate with you and the more of an impact you will be able to have. Don’t try to be perfect. Just be real and the results will come.
+The best value you can add is by being more of yourself not by changing. If you try to be something you're not, you end up being nothing. Don’t try to be perfect. People know when they’re talking to the real thing. Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
 
 > *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don't need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
 
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
-
-> *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
 
 <!--
 - its not to became something. It's to unbecome everything that is not you.
@@ -125,8 +106,7 @@ _im bad in following a script_
 
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
-Trust, not money, is the currency of business and life.  
-Be impeccable with your word and consciently work on being honest.
+Trust, not money, is the currency of business and life. Be impeccable with your word.
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
@@ -136,21 +116,20 @@ Be impeccable with your word and consciently work on being honest.
 
 > *'Look for results, not salutes.' -- Captain Michael Abrashoff*
 
-Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. If you want to be successful then you must take full responsibility for everything in your life and everything not in your life.
-Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
-
-> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
 
 > *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
 
+> *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
+
 <!--
+> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
 - dishonesty is a reaction to fear.
 - bravery is learned -> micro-bravery, start small
 - Humility With forward action: 'I wasn’t the smartest in X but..'
 - integrity is what you think is what you say, and the same what you do.
 - being vulnerable is taking don't be afraid of taking a risk.
 - Be willing to side with the minority.
-> *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
 -->
 
 
@@ -183,8 +162,6 @@ A way to humble yourself is to put you in the position of being the weakest pers
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
 
-> *'Manage with bread and butter until God sends the honey.' -- Moroccan proverb*
-
 Often we forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
 
 > *'Comparison is the thief of joy.' -- Theodore Roosevelt*
@@ -194,11 +171,10 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 > *'You can’t be grateful and angry simultaneously.'  
 'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
 
-> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
-
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.' -- Lao Tzu*
 
 <!--
+> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
 - A good life is not a life without problems. A good life is a life with good problems. mm
 -->
@@ -211,19 +187,19 @@ Play the cards you are dealt. And you will often be dealt bad cards. Being grate
 
 ### On finding your path
 
-> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
-
 > *'The obstacle is the way.' -- Marcus Aurelius*
+
+> *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
 
 Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
 
 > *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
 
-> *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
+> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
 ### How to design a life?
 
-Mediocrity, as a goal, sucks. As a result, is OK. Lying in death bed and regretting your life is the worst that can happen to you.
+Mediocrity, as a goal, sucks. As a result, is OK. Lying on death bed and regretting your life is the worst that can happen to you.
 
 > *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 
@@ -263,8 +239,6 @@ Hints:
 
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
-> *'If you don’t know what you want, you end up with a lot you don’t.' -- Chuck Palahniuk*
-
 <!--
 > *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn't have the courage to say "yes" to life?' --  Paulo Coelho*
 > *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
@@ -301,7 +275,7 @@ What do you really want?
 
 You need to break rules to achieve anything great.
 
-Breaking rules [frightens](#on-fear-and-excuses) people but comfort is the enemy of achievement. You keep doing what you’re good at to avoid facing the real problems in your life. The size of our life is in direct proportion to how uncomfortable we are willing to be.
+Breaking rules frightens people but comfort is the enemy of achievement. You keep doing what you’re good at to avoid facing the real problems in your life. The size of our life is in direct proportion to how uncomfortable we are willing to be.
 
 > *'I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.' -- John Cage*
 
@@ -533,9 +507,7 @@ After learning the rules, break them. Only then you can achieve mastery.
 
 > *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
 
-> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back' -- James Altucher*
-
-> *'The person who says he knows what he thinks but cannot express it usually does not know what he thinks.' -- Mortimer Adler*
+> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back.' -- James Altucher*
 
 > *'Amateurs play for tricks, masters play for position.'*
 
@@ -547,7 +519,7 @@ And don't stop, skills are perishable and the path to mastery a never ending sto
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
-However mastery is an important trigger of arrogance. There's always room for improvement: be humble. There is no place for a prima donna.
+However mastery is an important trigger of arrogance. There is no place for a prima donna and there's always room for improvement: be humble. 
 
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.' -- Robert Greene*  
 
@@ -592,14 +564,14 @@ Consistency doesn’t come from effort, it comes from systems. Decisions compoun
 
 Hints on good habits:
 
-- Cultivate high leverage habits: [meditate](#on-meditation), spend time outside, exercise, [rest](#on-health), travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
+- Cultivate high leverage habits: meditate, spend time outside, exercise, rest, travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
 - Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
 - Mental checklist of positive habits.
 - Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
 - It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.
 - People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.
 
-However variety and novelty are also important, so [Balance](#on-balance) it.
+However variety and novelty are also important, so balance it.
 
 <!--
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
@@ -695,6 +667,8 @@ Do you know anyone who doesn’t have any blind spots? Then why would you be any
 > *'The things we see every day are the things we never see at all.' -- G.K. Chesterton*
 
 > *'Weeds are flowers too, once you get to know them.' -- A.A. Milne*
+
+> *'The best mirror is an old friend.' -- George Herbert*
 
 ### How to grow self awareness?
 

@@ -257,6 +257,7 @@ This creates the illusion that certain people are luckier. However positive resu
 <!--
 > *'In life, business and relationships we are defined by how we react when things don't go our way.'*
 > *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
+> *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 - surprises only happen when they didnt repaeat on ones lifetime
 - science of patterns.
 -->
