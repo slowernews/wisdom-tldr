@@ -100,7 +100,7 @@ _im bad in following a script_
 
 
 ---
-## On integrity and accountability
+## On accountability
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
@@ -501,8 +501,6 @@ skill fluency!
 
 After learning the rules, break them. Only then you can achieve mastery.  
 
-> *'The master has failed more times than the beginner has ever tried.' -- Stephen McCraine*
-
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'-- Robert Greene*
 
 > *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
@@ -659,10 +657,7 @@ Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms o
 
 > *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
 
-Self awareness is the ability to pause your mind.
-
-Self awareness reduces the gap between who we are and who we think we are.   
-Do you know anyone who doesn’t have any blind spots? Then why would you be any different?
+Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
 
 > *'The things we see every day are the things we never see at all.' -- G.K. Chesterton*
 
@@ -672,11 +667,12 @@ Do you know anyone who doesn’t have any blind spots? Then why would you be any
 
 ### How to grow self awareness?
 
+Do you know anyone who doesn’t have any blind spots? Then why would you be any different?  
+We should always question our assumptions: “What if I’m wrong about this?”.
+
 Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
 
 <!--
-Why we should always question our assumptions -- “what if I’m wrong about this?”
-
 So take the time now to truly understand what your beliefs and patterns are in every area of life.
 The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
 

@@ -19,7 +19,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On foundations*
 - [On independence](/chapters/chapter_1_self.md#on-independence)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
-- [On integrity and accountability](/chapters/chapter_1_self.md#on-integrity-and-accountability)
+- [On accountability](/chapters/chapter_1_self.md#on-accountability)
 - [On humbleness](/chapters/chapter_1_self.md#on-humbleness)
 - [On gratitude](/chapters/chapter_1_self.md#on-gratitude)
 

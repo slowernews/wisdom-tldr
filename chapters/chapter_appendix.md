@@ -10,23 +10,23 @@
 
 ## On past and memory
 
-> *'The past doesn't help understanding the present. It's the present that helps undestanding the past.' -- José Saramago*
+> *'The past doesn't help understanding the present. It's the present that helps understanding the past.' -- José Saramago (Writer)*
 
 You can't start the next chapter of your life if you keep re-reading the last one.
 
-You are your memory but let go your past [failures](#on-mistakes-and-failure). They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
+You are your memory. However let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
+
+> *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.' -- Irish saying*
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
-> *'Never regret something that once made you smile.'*
+> *'Never regret something that once made you smile.' -- Amber Deckers (Writer)*
 
-> *'Stop looking for happiness in the same place where you lost it.'*
+> *'Stop looking for happiness in the same place where you lost it.' -- Unknown*
 
-> *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.'*
+Life becomes very easy when you have studied the past and recognize the recurring patterns.
 
-Life becomes very easy when you have studied the past to the extent that you have seen the recurring patterns.
-
-> *'History does not repeat, but it does rhyme.' -- Mark Twain*
+> *'History does not repeat, but it does rhyme.' -- Mark Twain (Writer)*
 
 > *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
 
@@ -34,17 +34,19 @@ Life becomes very easy when you have studied the past to the extent that you hav
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
-> *'There is no past or future. Using tenses to divide time is like making chalk marks on water.'*
-
 ### How memory works?
 
-- People forget by decaying and giving them other stuff to remember.  
-- People forget future events more than past events.  
-- People remember more the beginning and the end of something.  
-- Either I forget right away or I never forget.  
-- Repetition is good for memory but its a thin line between repetition and getting annoyed.  
-- You should take pictures from what you forget and not of things you don't.  
-- Bad decisions, good memories.
+Hints:
+
+- We forget..
+	- By decaying and having other stuff to remember.  
+	- Future events more than past events.  
+	- Either right away or never.
+	- Less the beginning and the end of something.
+	- Less the mistakes.
+- Memory helpers: 
+	- Take pictures from what you forget and not of things you don't.  
+	- Repetition is good for memory but its a thin line between repetition and getting annoyed.  
 
 > *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy*
 
@@ -52,14 +54,11 @@ Life becomes very easy when you have studied the past to the extent that you hav
 
 > *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
 
-> *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
-
 > *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
 
-<!--
+> *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
+
 > *'Keep in mind that people change, but the past doesn't.' -- Becca Fitzpatrick*
-> *'When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time.' -- Jon Boorman*
--->
 
 
 
@@ -87,6 +86,7 @@ Act accordingly and don't postpone joy: live life ready to meet god like it’s 
 - When we listen to the regrets of the elderly and dying, they invariably lament on what they neglected to do, not what they did.
 - Time never has, and never will solve a damn thing.
 > *'I wonder how many people I've looked at all my life and never seen.' -- John Steinbeck*
+> *'When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time.' -- Jon Boorman*
 -->
 
 
