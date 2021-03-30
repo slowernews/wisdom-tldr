@@ -12,19 +12,7 @@
 
 > *'The past doesn't help understanding the present. It's the present that helps understanding the past.' -- José Saramago (Writer)*
 
-You can't start the next chapter of your life if you keep re-reading the last one.
-
-You are your memory. However let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
-
-> *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.' -- Irish saying*
-
-> *'He'd wasted most of his life thinking he'd wasted most of his life'*
-
-> *'Never regret something that once made you smile.' -- Amber Deckers (Writer)*
-
-> *'Stop looking for happiness in the same place where you lost it.' -- Unknown*
-
-Life becomes very easy when you have studied the past and recognize the recurring patterns.
+You are your memory. Life becomes very easy when you have studied the past and recognize the recurring patterns.
 
 > *'History does not repeat, but it does rhyme.' -- Mark Twain (Writer)*
 
@@ -34,31 +22,42 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
-### How memory works?
-
-Hints:
-
-- We forget..
-	- By decaying and having other stuff to remember.  
-	- Future events more than past events.  
-	- Either right away or never.
-	- Less the beginning and the end of something.
-	- Less the mistakes.
-- Memory helpers: 
-	- Take pictures from what you forget and not of things you don't.  
-	- Repetition is good for memory but its a thin line between repetition and getting annoyed.  
-
-> *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy*
+> *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
 
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.' -- Rosalind Cartwright*
 
-> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
+However you can't start the next chapter of your life if you keep re-reading the last one.
 
-> *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
+Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
-> *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
+> *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.' -- Irish saying*
 
 > *'Keep in mind that people change, but the past doesn't.' -- Becca Fitzpatrick*
+
+> *'He'd wasted most of his life thinking he'd wasted most of his life'*
+
+> *'Never regret something that once made you smile.' -- Amber Deckers (Writer)*
+
+> *'Stop looking for happiness in the same place where you lost it.' -- Unknown*
+
+> *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
+
+### How memory works?
+
+We forget..
+- By decaying and having other stuff to remember.  
+- Future events more than past events.  
+- Either right away or never.
+- Less the beginning and the end of something.
+- Less the mistakes.
+
+Hints on memorization: 
+- Take pictures from what you forget and not of things you don't.  
+- Repetition is good for memory but its a thin line between repetition and getting annoyed.  
+
+> *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy*
+
+> *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
 
 
 
