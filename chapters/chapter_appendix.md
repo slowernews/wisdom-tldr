@@ -10,15 +10,13 @@
 
 ## On past and memory
 
-> *'The past doesn't help understanding the present. It's the present that helps understanding the past.' -- José Saramago (Writer)*
+> *'The past doesn't help understanding the present. It's the present that helps understanding the past.' -- José Saramago*
 
-You are your memory. Life becomes very easy when you have studied the past and recognize the recurring patterns.
+> *'History does not repeat, but it does rhyme.' -- Mark Twain*
 
-> *'History does not repeat, but it does rhyme.' -- Mark Twain (Writer)*
+Life becomes very easy when you have studied the past and recognize the recurring patterns.
 
 > *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
-
-> *'There are years that ask questions and years that answer.' -- Zora Neale Hurston*
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
@@ -26,7 +24,7 @@ You are your memory. Life becomes very easy when you have studied the past and r
 
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.' -- Rosalind Cartwright*
 
-However you can't start the next chapter of your life if you keep re-reading the last one.
+You are your memory, however you can't start the next chapter of your life if you keep re-reading the last one.
 
 Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
@@ -36,7 +34,7 @@ Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
-> *'Never regret something that once made you smile.' -- Amber Deckers (Writer)*
+> *'Never regret something that once made you smile.' -- Amber Deckers*
 
 > *'Stop looking for happiness in the same place where you lost it.' -- Unknown*
 
