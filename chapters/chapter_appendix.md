@@ -18,6 +18,8 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 
 > *'The historian is not really interested in the unique, but in what is general in the unique.' -- Edward Carr*
 
+> *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
+
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
 > *'Life is understood backwards, but must be lived forwards.' -- Soren Kierkegaard*
@@ -466,9 +468,7 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 > *'He who marries for love without money has good nights and sorry days.' -- Ani Difranco*
 
-> *'If Apple sold you a product that failed 50% of the time, would you buy it?' -- Esther Perel on Conventional Marriage*
-
-> *'Marry or do not marry, you will regret it either way. ...Laugh at the stupidities of the world or weep over them, you will regret it either way. ...Trust a girl or do not trust her, you will regret it either way. ...Hang yourself or do not hang yourself, you will regret it either way. ...This, gentlemen, is the quintessence of all the wisdom of life.' -- Kierkegaard, Either/Or*
+> *'If Apple sold you a product that failed 50% of the time, would you buy it?' -- Esther Perel*
 
 
 
@@ -485,6 +485,8 @@ And on the first day, men created god.
 > *'We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further.' -- Richard Dawkins*
 
 > *'God has no religion.' -- Mahatma Gandhi*
+
+### On moral
 
 > *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
 
@@ -525,8 +527,6 @@ And on the first day, men created god.
 <!--
 - Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
-- chef invents based on ingredents, cook follows a recipe. an artist normally is an egocentric, free and creative person.
-> *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
 -->
 
 
