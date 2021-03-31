@@ -95,10 +95,6 @@ Anomalies often represent the future but to our eyes they seem strange.
 
 > *'Rich people think big. Poor people think small.' -- T. Harv Eker*
 
-Hints:
-
-> *'Finding a place to die is an important thing to do.' -- Nagasaki*
-
 > *'Every saint has a past, and every sinner has a future.' -- Oscar Wilde*
 
 However don't worry too much, you can't control it.
@@ -127,6 +123,8 @@ However don't worry too much, you can't control it.
 
 > *'Once I was beautiful, now I'm myself.' -- Anne Sexton*
 
+> *'Finding a place to die is an important thing to do.' -- Nagasaki*
+
 
 
 
@@ -139,7 +137,9 @@ However don't worry too much, you can't control it.
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
 
-Talent is fragile. To reveal the true nature of your intelligence rarely pays. It's the most sensitive envy trigger.
+Talent is fragile.
+
+To reveal the true nature of your intelligence rarely pays. It's the most sensitive envy trigger.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
@@ -215,7 +215,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 > *'If you live long enough, most people will get what they deserve.' -- Charlie Munger*
 
-Unless you're winning, life will seem unfair to you but bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it's all math. The best things in life are born from coincidence.
+Unless you're winning, life will seem unfair to you, but, bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it's all math. The best things in life are born from coincidence.
 
 «Random» usually means that you haven’t looked long enough to see a pattern emerge.
 
@@ -302,7 +302,7 @@ Hints:
 ### How to simplify?
 
 - Use it or loose it.
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals]().  
+- Remove unnecessary distractions and obligations that aren’t truly serving your end goals.  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
 <!--
@@ -311,20 +311,15 @@ In this moment, you might think that you will find satisfaction by purchasing th
 > *'I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude.' -- Colette*
 - value in less and the joy of missing out:
 - it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
-- the unfortunate culture in technology that devalues everything unrelated to militant capitalism. If you’re not trying to make money, what are you even doing?
+- If you’re not trying to make money, what are you even doing?
 - feel like a local celebrity: everybody knows who you are.
 You are in a city, without knowing the language, manage to go to the hostel, meet people there. Make your way there.
-- Life is a game of tradeoffs. You must eventually choose what you’re willing to trade based on what you value.
 - Don't play the government’s game. Instead, create a game that worked by my rules, a game I could win.
-- the paradise tax
 - find another way to derive meaning from life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
 - That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
 - But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 - My life has been a series of questions and odd experiments.
-- /r/buyitforlife
-- Since he has taken the red pill his hobbies are: working out, writing, mentoring, harem management and self improvement.
 - Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
-KonMari Method -> Marie kondo, perita em arrumação
 - overheard someone say in a SF cafe: "I couldn't be a doctor...it doesn't change the world enough and you don't actually earn that much.
 -->
 
