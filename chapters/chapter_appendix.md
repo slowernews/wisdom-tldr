@@ -20,6 +20,8 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 
 > *'The years say, what the days can't tell.' -- Chinese proverb*
 
+> *'Life is understood backwards, but must be lived forwards.' -- Soren Kierkegaard*
+
 > *'Collective memory is more about the present than the past because it is integral to how the group sees itself.' -- Margaret MacMillan*
 
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.' -- Rosalind Cartwright*
@@ -42,16 +44,7 @@ Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are
 
 ### How memory works?
 
-We forget..
-- By decaying and having other stuff to remember.  
-- Future events more than past events.  
-- Either right away or never.
-- Less the beginning and the end of something.
-- Less the mistakes.
-
-Hints on memorization: 
-- Take pictures from what you forget and not of things you don't.  
-- Repetition is good for memory but its a thin line between repetition and getting annoyed.  
+It's harder to forget mistakes, past events or the beginning and the end of something. 
 
 > *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy*
 
@@ -65,24 +58,21 @@ Hints on memorization:
 
 > *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
-> *'You’ll miss the best things if you keep your eyes shut.' -- Dr. Seuss*
+You will die soon.
 
-You will die soon. Never get so busy making a living that you forget to make a life.
+Act accordingly and don't postpone joy. Live life ready to meet God like it's everyone else's last day. If you can't find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, doesn't mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
 
-Act accordingly and don't postpone joy: live life ready to meet god like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, does not mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
-
-> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
+The elderly and dying invariably lament on what they neglected to do, not what they did.
 
 > *'Either write something worth reading or do something worth writing.' -- Benjamin Franklin*
 
-> *'What's life? Showing up for the people you love, again and again, until you can’t show up anymore.'* -- Rebecca Walker*
+> *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
+
+> *'What's life? Showing up for the people you love, again and again, until you can’t show up anymore.' -- Rebecca Walker*
 
 <!--
 - 100 blocks a day -- wait but why  
 - Leave a trail of accomplishments or smiles behind you.
-- When we listen to the regrets of the elderly and dying, they invariably lament on what they neglected to do, not what they did.
-- Time never has, and never will solve a damn thing.
-> *'I wonder how many people I've looked at all my life and never seen.' -- John Steinbeck*
 > *'When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time.' -- Jon Boorman*
 -->
 
@@ -94,10 +84,10 @@ Act accordingly and don't postpone joy: live life ready to meet god like it’s 
 
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
+> *'If you don't imagine, nothing ever happens at all.' -- John Green*
+
 Dream big. If your dreams don't scare you, they are not big enough.  
 Anomalies often represent the future but to our eyes they seem strange.
-
-> *'If you don't imagine, nothing ever happens at all.' -- John Green*
 
 > *'I dream my painting and I paint my dream.' -- Vincent van Gogh*
 
@@ -105,21 +95,17 @@ Anomalies often represent the future but to our eyes they seem strange.
 
 > *'Rich people think big. Poor people think small.' -- T. Harv Eker*
 
-> *'Life is understood backwards, but must be lived forwards.' -- Soren Kierkegaard*
+Hints:
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
 
-However don't obcess on that. You can't control the future.
+> *'Every saint has a past, and every sinner has a future.' -- Oscar Wilde*
+
+However don't worry too much, you can't control it.
 
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
 > *'No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened.' -- John Hodgman*
-
-<!--
-- make the exercise: imagine you life in 10years. Possible futures.
-
-> *'Every saint has a past, and every sinner has a future.' -- Oscar Wilde*
--->
 
 
 
@@ -141,10 +127,6 @@ However don't obcess on that. You can't control the future.
 
 > *'Once I was beautiful, now I'm myself.' -- Anne Sexton*
 
-<!--
-> *'It is never too late to be what you might have been.' -- George Eliot*	
--->
-
 
 
 
@@ -157,7 +139,7 @@ However don't obcess on that. You can't control the future.
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
 
-Talent is fragile. To reveal the true nature of your intelligence rarely pays. Downplay it at all times. It's the most sensitive envy trigger.
+Talent is fragile. To reveal the true nature of your intelligence rarely pays. It's the most sensitive envy trigger.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
@@ -179,25 +161,24 @@ Talent is fragile. To reveal the true nature of your intelligence rarely pays. D
 -->
 
 
+
+
 ---
 ## On money and wealth
 
 > *'Some people are so poor, all they have is money.' -- Patrick Meagher*
 
-Being rich is being fulfilled, not counting money all day.  
-Money is a tool. It can serve as a force multiplier to help you live the life of your dreams, enjoy wild adventures and create a lasting legacy. You can spend your time making money but you can't spend your money making time. The perpetual chase for more is not the path that leads to more freedom and happiness.
-
-> *'Life, is not a having and a getting, but a being and a becoming.' -- Myrna Loy*
-
-> *'Shift your focus from achievement to fulfillment: what makes you come alive, what do you enjoy doing, who do you enjoy being around?'*
-
 > *'You’re not supposed to optimize for money; you’re supposed to optimize for happiness.' -- Mr. Money Mustache*
+
+Being rich is being fulfilled.
+
+Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to more freedom and happiness.
+
+> *'We don't make movies to make money; We make money to make more movies.' -- Walt Disney*
 
 > *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
 
 > *'Don’t think money does everything or you are going to end up doing everything for money.' -- Voltaire*
-
-> *'We don't make movies to make money; We make money to make more movies.' -- Walt Disney*
 
 > *'After a certain point, money is meaningless. It ceases to be the goal. The game is what counts.' -- Aristotle Onassis*
 
@@ -232,31 +213,27 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 > *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
 
-Unless you’re winning, life will seem hideously unfair to you. Bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it’s all math. The best things in life are born from coincidence.
-
-> *'«Random» usually means that you haven’t looked long enough to see a pattern emerge.'*
-
 > *'If you live long enough, most people will get what they deserve.' -- Charlie Munger*
 
-> *'God is subtle but he is not malicious.'*
+Unless you're winning, life will seem unfair to you but bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it's all math. The best things in life are born from coincidence.
+
+«Random» usually means that you haven’t looked long enough to see a pattern emerge.
+
+> *'God is subtle but he is not malicious.' -- Albert Einstein*
 
 > *'Coincidence is God’s way of remaining anonymous.' -- Albert Einstein*
 
 > *'Good fortune: good character, good intentions, good actions.' -- Marcus Aurelius*
 
-### Luck versus chance
+### On chance
 
-Luck is an open door. Chance is the willingness to step through.  
-This creates the illusion that certain people are luckier. However positive results don't imply good planning.
-
-> *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
+Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
 
 <!--
-> *'In life, business and relationships we are defined by how we react when things don't go our way.'*
+> *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 > *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
 > *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 - surprises only happen when they didnt repaeat on ones lifetime
-- science of patterns.
 -->
 
 
@@ -267,15 +244,13 @@ This creates the illusion that certain people are luckier. However positive resu
 
 > *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
 
-> *'In ancient times cats were worshipped as gods; they have not forgotten this.' -- Terry Pratchett*
+> *'Dress shabbily and they remember the dress; dress impeccably and they remember the woman.' -- Coco Chanel*
 
 The sign of a beautiful person is that they always see beauty in others.
 
-> *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
-
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
 
-> *'Dress shabbily and they remember the dress; dress impeccably and they remember the woman.' -- Coco Chanel*
+> *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
 
 
 
@@ -315,27 +290,25 @@ When life becomes about [enjoying every second over accumulating more stuff](#on
 Hints:
 
 - 3 days a week; 3 weeks a month; 3 months free a year.  
-- House + work + third place (coffeeshop).
+- House + work + third place.
 - The opposite of play isn’t work, it’s depression.  
-- Essencialism: the disciplined pursuit of less.  
+- Essencialism: the disciplined pursuit of less. Simplicity is the ultimate sophistication. 
 - Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 - How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.  
-- Simplicity is the ultimate sophistication.
+- One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
+- In life, you will often be presented with two options: the lucrative option and the lifestyle option.
 
 ### How to simplify?
 
-- Use it or loose it.  
-- [Remove unnecessary distractions]().  
-- [Remove any obligations that aren’t truly serving your end goals]().  
+- Use it or loose it.
+- Remove unnecessary distractions and obligations that aren’t truly serving your end goals]().  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
 <!--
-- One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
 In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
 - travel as a way of running way from their problems
 > *'I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude.' -- Colette*
-- In life, you will often be presented with two options: The lucrative option, The lifestyle option. job -> money + lifestyle!
 - value in less and the joy of missing out:
 - it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
 - the unfortunate culture in technology that devalues everything unrelated to militant capitalism. If you’re not trying to make money, what are you even doing?
@@ -363,13 +336,11 @@ KonMari Method -> Marie kondo, perita em arrumação
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
-There is no shortcut. Success is a castle that you build [brick by brick](#on-habits-and-systems). But success is not being [wealthy](#on-wealth), is being [happy](#on-gratefulness-and-happiness). Success is subjective. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
+There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period of time. But success is not being wealthy, is being happy. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
 > *'A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.'*
-
-> *'Try not to become a man of success, rather become a man of value' -- Albert Einstein*
 
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
 
@@ -380,15 +351,11 @@ However [fear](#on-confidence-and-validation), not failure, is the biggest barri
 > *'Whether you think you can, or you think you can't, you're right.' -- Henry Ford*
 
 <!--
-- . Success is nothing but the accumulation of small things done consistently over a long period of time.
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 silicon valley celebrate failure only after they achieve success
 
-- Abilities are not prized by their virtue.
 - Real success happens when we focus on one thing at a time.
 - There are two things you need to do to be successful: know what is he right thing and having the courage to do it
-- rules of success are universal.
-- Success is sequential, not simultaneous.
 - your neeed for aceptance can make you invisible in this world.
 - And when they finally became a “success” they realized that they were no more fulfilled at 40 with $100,000 in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them. They worked tirelessly to achieve goals that they didn’t truly care about.
 - success is a dangerous word. i dont know any sucessful person.
