@@ -46,7 +46,7 @@ Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are
 
 ### How memory works?
 
-It's harder to forget mistakes, past events or the beginning and the end of something. 
+It's harder to forget mistakes, past events and the beginning or the end of something. 
 
 > *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy*
 
@@ -486,7 +486,7 @@ And on the first day, men created god.
 
 > *'God has no religion.' -- Mahatma Gandhi*
 
-### On moral
+### On morality
 
 > *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
 
@@ -508,11 +508,11 @@ And on the first day, men created god.
 ---
 ## On science
 
-> *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
-
 > *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albert Einstein*
 
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
+
+Everything that is not a law of nature is just a shared belief.
 
 > *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
 
@@ -525,7 +525,7 @@ And on the first day, men created god.
 > *'If we knew what it was we were doing, it would not be called research, would it?' --  Albert Einstein*
 
 <!--
-- Everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+- Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
 -->
 
@@ -537,20 +537,18 @@ And on the first day, men created god.
 
 > *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 
-Art is a meditation and design is a negotiation.  
-Life is Capitalism but art is Socialism.
+> *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
+
+Art is a meditation and design is a negotiation.
+Art is just another form of screaming and it doesn’t end at the edge of the canvas.
 
 > *'Art washes away from the soul the dust of everyday life.' -- Pablo Picasso*
 
-> *'Art is just another form of screaming.'*
-
-> *'Art doesn’t end at the edge of the canvas.' -- Derek Sivers*
-
-> *'Poetry is what gets lost in translation.' -- Robert Frost*
+> *'Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.' -- Robert Benchley*
 
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
-> *'Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.' -- Robert Benchley*
+> *'Poetry is what gets lost in translation.' -- Robert Frost*
 
 > *'Artistic death is made by consensus.'*
 
@@ -569,9 +567,9 @@ Most people with good taste are young and poor.
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
-> *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
-
 > *'There is no exquisite beauty without some strangeness in the proportion.' -- Edgar Allan Poe*
+
+> *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
 > *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
 
@@ -806,21 +804,17 @@ I wonder how long it'll be until we replace fiat currencies with a balance of ki
 
 ## On what women value in men
 
-> *'She likes a gentleman who knows when not to be gentle.'*
-
-Women dig a man who exhibits grace under pressure.
+> *'A gentleman holds my hand. A man pulls my hair. A soulmate will do both.' --  Alessandra Torre*
 
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
+
+Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.  
 
 > *'If you can make a woman laugh, you can make her do anything.' -- Marilyn Monroe*
 
 > *'Why are women so much more interesting to men than men are to women?' -- Virginia Woolf*
 
 > *'A suit to women is like lingerie to men.'*
-
-<!--
-- Major epiphany: Energy creates motion, motion creates emotions, and women are highly emotional beings.
--->
 
 
 
