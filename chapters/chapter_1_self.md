@@ -26,7 +26,7 @@ Telling *your* truth is not being selfish. What is more selfless? Making sure th
 
 > *'Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live.' -- Oscar Wilde*
 
-Stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. A boundary is knowing what you want and what you don't want in a moment. E.g: «If I loved myself at a level 10 of 10, would I do this?»
+Stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. A boundary is knowing what you want and what you don’t want in a moment. E.g: «If I loved myself at a level 10 of 10, would I do this?»
 
 > *'Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt.' -- Dan Kariv*
 
@@ -65,12 +65,12 @@ Authenticity isn’t the presence of something, but the absence of everything th
 
 The best value you can add is by being more of yourself not by changing. If you try to be something you're not, you end up being nothing. Don’t try to be perfect. People know when they’re talking to the real thing. Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
 
-> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don't need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
+> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
 
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 <!--
-- its not to became something. It's to unbecome everything that is not you.
+- its not to became something. It’s to unbecome everything that is not you.
 - The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. truth-a-better-way-to-talk-about-ourselves.
 - core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
 - Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
@@ -82,7 +82,7 @@ i approve of me. i am my word. i keep my word / i take nothing she says seriousl
 
 Part of being a man is being a protector of everyone who comes into your life.
 Part of being a man is getting shit done.
-a real man loves problems. it's an opportunity to do your best.
+a real man loves problems. it’s an opportunity to do your best.
 5Cs: courage, congruence, confidence, calibration, conviction
 Manhood is Defined by Your Values and Your Code
 (integrity, honor, service, and generosity should be at the top of your list)
@@ -112,13 +112,13 @@ Trust, not money, is the currency of business and life. Be impeccable with your 
 
 > *'Quality means doing it right when no one is looking.' -- Henry Ford*
 
-> *'Truth only means something when it's hard to admit.' -- Nicholas Sparks*
+> *'Truth only means something when it’s hard to admit.' -- Nicholas Sparks*
 
 > *'Look for results, not salutes.' -- Captain Michael Abrashoff*
 
 Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
 
-> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
+> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
 
 > *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
 
@@ -128,7 +128,7 @@ Take extreme ownership. Why? when are willing to swallow your pride and take own
 - bravery is learned -> micro-bravery, start small
 - Humility With forward action: 'I wasn’t the smartest in X but..'
 - integrity is what you think is what you say, and the same what you do.
-- being vulnerable is taking don't be afraid of taking a risk.
+- being vulnerable is taking don’t be afraid of taking a risk.
 - Be willing to side with the minority.
 -->
 
@@ -146,9 +146,9 @@ Ego is the unhealthy belief in our own importance. You are not perfect neither y
 
 Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
-> *'Everyone you will ever meet knows something you don't.' -- Bill Nye*
+> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
 
-> *'People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
+> *'People aren’t either wicked or noble. They're like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
 
 A way to humble yourself is to put you in the position of being the weakest person in something during the day.  
 
@@ -207,7 +207,7 @@ Mediocrity, as a goal, sucks. As a result, is OK. Lying on death bed and regrett
 
 Hints:
 
-- Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change. It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.  
+- Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change. It’s ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.  
 - If you are feeling lost in life experience more things. Become unconfortable. It will improve your tolerance for risk and adversity. Almost everything that you want is on the other side of the uncomfortable and the scary.  
 - Let fear be your guide. The more fear you feel, the more you will know you are on the right track.  
 - What do you do for fun? What are you interested in that everybody in the world is interested in?  
@@ -231,7 +231,7 @@ Hints:
 
 > *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
-> *'The question is not who is going to let me; it's who is going to stop me.' -- Ayn Rand*
+> *'The question is not who is going to let me; it’s who is going to stop me.' -- Ayn Rand*
 
 > *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
 
@@ -240,10 +240,10 @@ Hints:
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
 <!--
-> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn't have the courage to say "yes" to life?' --  Paulo Coelho*
+> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' --  Paulo Coelho*
 > *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
 
-- there's a price for it always. everything is an exchange. you can achieve everything but there is a price. people don't achieve anything because they are not willing to sacrifice. everything is a trade.
+- there’s a price for it always. everything is an exchange. you can achieve everything but there is a price. people don’t achieve anything because they are not willing to sacrifice. everything is a trade.
 - parabol: that door is only for you.	
 - Best Effort + Surrender = DESTINY
 
@@ -253,16 +253,16 @@ Hints:
 - Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose. So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you. challenge Because that is where you will find true fulfillment and satisfaction. Create Projects, Not Goals
 - Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success. You must know exactly what you want, when you want it, and why you want it. Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
 - We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change._sivers
-- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It's not an age thing.
+- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It’s not an age thing.
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 - When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
 - DO THE WORK: Work until your idols become your rivals. Work hard in silence. Let your silence be your noise. How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.
 
 What do you really want?
 - What do the actions of your past suggest is most important to you?
-- What desires do you have that don't align with your past behavior.
+- What desires do you have that don’t align with your past behavior.
 - What future path does your past behavior suggest rather than your imagination?
-- If you don't like these answers, change your existing behavior.
+- If you don’t like these answers, change your existing behavior.
 -->
 
 
@@ -271,7 +271,7 @@ What do you really want?
 ---
 ## On comfort and risk
 
-> *'If you think adventure is dangerous, try routine. It's lethal.' -- Paulo Coelho*
+> *'If you think adventure is dangerous, try routine. It’s lethal.' -- Paulo Coelho*
 
 You need to break rules to achieve anything great.
 
@@ -291,11 +291,11 @@ Breaking rules frightens people but comfort is the enemy of achievement. You kee
 
 > *'There is pleasure in the pathless woods.' -- Lord Byron*
 
-> *'A ship is safe in the harbor but that's not what ships are for.'*
+> *'A ship is safe in the harbor but that’s not what ships are for.'*
 
 > *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
 
-You can choose courage or you can choose comfort, but you can't choose both.  
+You can choose courage or you can choose comfort, but you can’t choose both.  
 Take risk. Big audacious risk. You’ll never get what you want in life without it. Not taking risks is too risky.
 
 [If you act average, you're going to be average](chapter_2_groups.md#on-following-the-herd). To outperform, you must be different and correct.
@@ -348,7 +348,7 @@ You improve with experience and analysis of past situations.
 > *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
 
 <!--	
-1. You need to recognize when you're not learning, for one thing. If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
+1. You need to recognize when you're not learning, for one thing. If it’s easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
 2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
 3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
 5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
@@ -356,7 +356,7 @@ You improve with experience and analysis of past situations.
 - success is the worst teacher
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
 - growth: get unconfortable. So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
-- Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
+- Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don’t know why.
 	
 > *'#383. Every man hears only what he understands.' -- goethe*
 > *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
@@ -374,7 +374,7 @@ You improve with experience and analysis of past situations.
 - The Key to Double Loop Learning: Push to the Point of Failure
 - Pain + Reflection = Progress | effort * talent = skill
 - fastest way to learn is to teach.
-- Don't major on minor things. - applied focus
+- Don’t major on minor things. - applied focus
 - A friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
 “Recognizing the good people from the bad,” he said. “Working with those people. Connecting them. That’s a life-multiplier.”
 - learning process: the macro from the micro.
@@ -405,13 +405,13 @@ Going public with a goal increases your support and accountability. Ask for supp
 
 > *'Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.' -- Chinese proverb*
 
-When expanding comfort zones you are learning. Don't be afraid of [failure](#on-mistakes-and-failure).
+When expanding comfort zones you are learning. Don’t be afraid of [failure](#on-mistakes-and-failure).
 
-> *'The difference between theory and practice: in theory, there's no difference between theory and practice; in practice, there is.' -- Van de Snepscheut*
+> *'The difference between theory and practice: in theory, there’s no difference between theory and practice; in practice, there is.' -- Van de Snepscheut*
 
 ### Improving by analysis
 
-Practice makes perfect but doesn't make new.  
+Practice makes perfect but doesn’t make new.  
 New comes from having a broader perspective and analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
@@ -434,7 +434,7 @@ Deliberated practice.
 ### Applied knowledge
 
 However action not knowledge leads to [success](chapter_appendix.md#on-success).  
-If you are not constantly taking action on the new information that you are learning then it's just educational porn.
+If you are not constantly taking action on the new information that you are learning then it’s just educational porn.
 
 > *'Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile.' -- Balthasar Gracian*
 
@@ -509,7 +509,7 @@ After learning the rules, break them. Only then you can achieve mastery.
 
 > *'Amateurs play for tricks, masters play for position.'*
 
-And don't stop, skills are perishable and the path to mastery a never ending story. Some of the skills that you need to achieve expertise were not yet systemised.
+And don’t stop, skills are perishable and the path to mastery a never ending story. Some of the skills that you need to achieve expertise were not yet systemised.
 
 > *'If you aren’t growing you’re dying.' -- Tony Robbins*
 
@@ -517,7 +517,7 @@ And don't stop, skills are perishable and the path to mastery a never ending sto
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
-However mastery is an important trigger of arrogance. There is no place for a prima donna and there's always room for improvement: be humble. 
+However mastery is an important trigger of arrogance. There is no place for a prima donna and there’s always room for improvement: be humble. 
 
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.' -- Robert Greene*  
 
@@ -618,7 +618,7 @@ b. One new thing: learn at least one new thing everyday. Read, watch a documenta
 c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 d. Gratitude
 
-don't focus in productivity.
+don’t focus in productivity.
 productivity coach vs creativity coach.
 i hired a 23 year old coach.
 optimize for time and peace of mind.
@@ -721,7 +721,7 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 Depression and anxiety are symptoms, not diseases, of under-stimulation and over-stimulation.
 Depression is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
 
-Anxiety creates hypersensitivity. Linked with our wired out evolutionarily for a [need of control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What's important is present and future. Nothing is gained by worrying about «not knowing». We don't control anything, at most we influence some stuff.
+Anxiety creates hypersensitivity. Linked with our wired out evolutionarily for a [need of control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Past is only in your head. What’s important is present and future. Nothing is gained by worrying about «not knowing». We don’t control anything, at most we influence some stuff.
 
 Resuming:
 
@@ -731,7 +731,7 @@ Resuming:
 
 > *'Boredom is a soul sucker. The unfed mind devours itself.' -- Gore Vidal*
 
-> *'When people don't express themselves, they die one piece at a time.' -- Laurie Halse Anderson*
+> *'When people don’t express themselves, they die one piece at a time.' -- Laurie Halse Anderson*
 
 > *'Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination.'*
 
@@ -794,16 +794,16 @@ Behaviors are driven by fear. To change behaviors focus on fear, not on the beha
 
 > *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
 
-> *'Life shrinks or expands in proportion to one's courage.' -- Anaïs Nin*
+> *'Life shrinks or expands in proportion to one’s courage.' -- Anaïs Nin*
 
 <!--
-- to have courage  you can't have too much reverence
+- to have courage  you can’t have too much reverence
 
 age is a mindset
 > *'Named must your fear be before banish it you can.' -- Yoda*
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
 > *'The things we fear the most have already happened to us.'*
-> *'If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.' -- Hermann Hesse*
+> *'If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us.' -- Hermann Hesse*
 > *'We should all start to live before we get too old. Fear is stupid. So are regrets.' -- Marilyn Monroe*
 > *'Never be bullied into silence. Never allow yourself to be made a victim. Accept no one’s definition of your life; define yourself.' -- Robert Frost*
 
@@ -811,7 +811,7 @@ age is a mindset
 - I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
 “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
 > *'The only real prison is fear, and the only real freedom is freedom from fear' -- Aung San Suu Kyi*
-> *'Don't give in to your fears. If you do, you won't be able to talk to your heart.' -- Paulo Coelho*
+> *'Don’t give in to your fears. If you do, you won’t be able to talk to your heart.' -- Paulo Coelho*
 -->
 
 
@@ -850,7 +850,7 @@ When you try to hide something about yourself, you automatically create shame. Y
 
 Fail fast and bounce back quickly by being [grateful](#on-gratitude-and-humbleness): Sometimes you win, sometimes you learn.
 
-Failure is only failure if you don’t learn from it. Accept it as part of the process. The more you fail, the more you learn. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don't know something you will pay for it. That's the stupidity tax. 
+Failure is only failure if you don’t learn from it. Accept it as part of the process. The more you fail, the more you learn. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it. That’s the stupidity tax. 
 
 > *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
 
@@ -860,7 +860,7 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 
 > *'Calling it an experiment gives you permission to fail.' -- A.J. Jacobs*
 
-> *'It's not the load that breaks you down, it's the way you carry it.' -- Lou Holtz*
+> *'It’s not the load that breaks you down, it’s the way you carry it.' -- Lou Holtz*
 
 Be gentle first with yourself. You are more than your mistakes. Your past mistakes are meant to guide you, not to define you.
 
@@ -878,7 +878,7 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 
 > *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
 
-> *'It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
+> *'It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
 
 <!--
 > *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
@@ -906,7 +906,7 @@ Social Anxiety is never the problem, but trying to avoid social anxiety is. Soci
 
 If you say it with confidence, you are who you say you are. You're only as good as your next speech.
 
-Don’t wait for someone to tell you that you are special. You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness. Let go of your ego and your need for validation. If the universe didn't need you, you wouldn't be here. 
+Don’t wait for someone to tell you that you are special. You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness. Let go of your ego and your need for validation. If the universe didn’t need you, you wouldn’t be here. 
 
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
@@ -915,30 +915,30 @@ Don’t wait for someone to tell you that you are special. You should look at re
 > *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
 
 Mastery and core values are good sources of confidence.  
-In the meanwhile any source is good. Don't stop till you get it.
+In the meanwhile any source is good. Don’t stop till you get it.
 
-> *'If you don't believe in yourself. Believe in me who believes in you.'*
+> *'If you don’t believe in yourself. Believe in me who believes in you.'*
 
 > *'Fake it till you make it.'*
 
 Other confidence «movers»:
 
-- When you break an agreement that you make with yourself, your selfestime plummets: don't do it or renegociate it.  
+- When you break an agreement that you make with yourself, your selfestime plummets: don’t do it or renegociate it.  
 - Confidence: state + mastery. impress yourself.  
 - Confidence is a result, not a requirement.  
-- Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can't be faked.  
+- Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can’t be faked.  
 - Confidence relies on pride. pursue authentic pride.  
 - Hard work = confidence
 
 HOWEVER... know the frontier between confidence and arrogance.
 
-> *'Confidence is not walking into a room thinking you are better than everyone, it's walking in not having to compare yourself with anyone at all.'*
+> *'Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone at all.'*
 
-> *'Ego is the enemy. People say that you can't fly and then you flew. Then you think you are God.'*
+> *'Ego is the enemy. People say that you can’t fly and then you flew. Then you think you are God.'*
 
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
-> *'Don't be so humble - you are not that great.' -- Golda Meir*
+> *'Don’t be so humble - you are not that great.' -- Golda Meir*
 
 <!--
 - nobody that is busy is confident
@@ -963,7 +963,7 @@ When accompanied by authenticity and personal accountability, vulnerability is a
 - Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 - analogy: confidence is like a building
 - Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
-- if you don't believe you are good, you'll never be good - ef!
+- if you don’t believe you are good, you'll never be good - ef!
 	
 > *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
 If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
@@ -985,7 +985,7 @@ I do my best to always pay attention to how I am presenting myself to others eve
 Form one: I’m better than everybody and therefore deserve special treatment.
 Form two: I’m worse than everybody and therefore deserve special treatment.
 They’re both forms of narcissism (because they’re both about me me me), and both are pretty much never true. Which one do you usually fall into?
-> *'You've gotta dance like there's nobody watching.' -- William W. Purkey*
+> *'You've gotta dance like there’s nobody watching.' -- William W. Purkey*
 > *'We accept the love we think we deserve.' -- Stephen Chbosky*
 -->
 
@@ -1015,7 +1015,7 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 
 Your limits are where are your [fears](#on-fear-anger-and-excuses).  
 
-Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren't coming for you. No one is watching you. Do what you want.
+Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren’t coming for you. No one is watching you. Do what you want.
 
 > *'To define is to limit.' -- Oscar Wilde*
 

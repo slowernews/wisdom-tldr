@@ -22,18 +22,18 @@ Speak less and listen more. Be humble, listening is powerful.
 
 - Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
 
-- Listen. Don't worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
+- Listen. Don’t worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
 	- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
 	- Paraphrasing: Repeat what they just said in your own words.
 	- Emphasize Similarity, we like people who are like us.
 
-- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what's in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet.
+- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what’s in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet.
 
-- Get better at asking questions, they are more important than answers. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It's hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Be interested to be interesting.
+- Get better at asking questions, they are more important than answers. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Be interested to be interesting.
 
 - Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
 
-- Don't be stubborn: you don't always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don't judge.
+- Don’t be stubborn: you don’t always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge.
 
 - Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
 
@@ -81,7 +81,7 @@ When public speaking you dont need to answer their question. You can say whateve
 
 > *'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
 
-Don't avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
+Don’t avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
 Neutrality is not possible. Anyway preserve your freedom as much as possible.
 
 > *'I am either part of the solution or part of the problem.'*
@@ -118,7 +118,7 @@ Outliers inspire envy. Once they stop talking to you, they start to talk about y
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
-> *'Success makes so many people hate you. I wish it wasn't that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.' -- Marilyn Monroe*
+> *'Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.' -- Marilyn Monroe*
 
 When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_2_groups.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.
 
@@ -167,7 +167,7 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
-Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don't actually think, they just take their first thought and go.
+Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don’t actually think, they just take their first thought and go.
 
 > *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
 
@@ -181,17 +181,17 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 
 > *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*	
 
-> *'I find for myself that my first thought is never my best thought. My first thought is always someone else's; it's always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
+> *'I find for myself that my first thought is never my best thought. My first thought is always someone else’s; it’s always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
-> *'If everybody is thinking alike, then somebody isn't thinking.' -- George S. Patton Jr.*
+> *'If everybody is thinking alike, then somebody isn’t thinking.' -- George S. Patton Jr.*
 
-> *'When you do as everyone else does, don't be surprised when you get what everyone else gets.' -- Peter Kaufman*
+> *'When you do as everyone else does, don’t be surprised when you get what everyone else gets.' -- Peter Kaufman*
 
 > *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
 
 Despite being easier to recognise stupidity in others than ourselves, don’t take for granted that others are acting stupid. Common sense is not so common.
 
-> *'Don't ever take a fence down until you know the reason why it was put up.' -- John F. Kennedy, paraphrasing G.K.Chesterton*
+> *'Don’t ever take a fence down until you know the reason why it was put up.' -- John F. Kennedy, paraphrasing G.K.Chesterton*
 
 > *'Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
 
@@ -203,11 +203,11 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 > *'Judge a man by his questions, not by his answers.' -- Voltaire*
 
-> *'It isn't what we say or think that defines us, but what we do.' -- Jane Austen*
+> *'It isn’t what we say or think that defines us, but what we do.' -- Jane Austen*
 
 > *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
 
-> *'Whenever you feel like criticizing any one... just remember that all the people in this world haven't had the advantages that you've had.' -- F. Scott Fitzgerald*
+> *'Whenever you feel like criticizing any one... just remember that all the people in this world haven’t had the advantages that you've had.' -- F. Scott Fitzgerald*
 
 <!--
 - changing course is hard and this scares us so we look around and try to copy the courses other people took
@@ -237,9 +237,9 @@ Good partnership: complementary skillsets with shared values.
 
 Trust and vulnerability are correlated. Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them.
 
-> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don't hide your feelings from people who show you theirs.'*
+> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don’t hide your feelings from people who show you theirs.'*
 
-> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
+> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don’t see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
  
 > *'You loose your identity, you loose people.' -- Amy Cuddy*
 
@@ -267,14 +267,14 @@ However after taking first steps [mirror](chapter_3_action.md#on-mirroring) thei
 
 You attract what you are.
 
-Love is what happens to men and women that don't know each other.  
+Love is what happens to men and women that don’t know each other.  
 Love doesn’t hurt, expectations do. Every person feels loved in a different form.
 
 > *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
 
 > *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*  
 
-> *'Love me when I least deserve it, because that's when I really need it.' -- Swedish proverb*
+> *'Love me when I least deserve it, because that’s when I really need it.' -- Swedish proverb*
 
 > *'The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
@@ -286,8 +286,8 @@ Love doesn’t hurt, expectations do. Every person feels loved in a different fo
 
 <!--
 > *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
-> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can't believe that ours didn't go on forever.' -- Nicholas Sparks*
-> *'That's what careless words do. They make people love you a little less.' -- Arundhati Roy*
+> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever.' -- Nicholas Sparks*
+> *'That’s what careless words do. They make people love you a little less.' -- Arundhati Roy*
 -->
 
 
@@ -341,7 +341,7 @@ They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
 
 > *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
 
-> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.' -- Oscar Wilde*
+> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success.' -- Oscar Wilde*
 
 ### On family
 
@@ -371,9 +371,9 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 > *'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
 
-Politicians don't like risk. Decisions are made on the lowest risk of offending anybody.
+Politicians don’t like risk. Decisions are made on the lowest risk of offending anybody.
 
-Politicians don't get educated, they get bought. To reduce corruption diminish people involved on analogic processes.
+Politicians don’t get educated, they get bought. To reduce corruption diminish people involved on analogic processes.
 
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
@@ -423,7 +423,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 Focus on what can you give that empowers others.
 
-It's not about what you know, it's about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
+It’s not about what you know, it’s about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
 
 Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it. The consumer votes with his wallet.
 
@@ -433,7 +433,7 @@ Test sales first. If something is worth doing, sales will come easy and dollars 
 
 - They talk to people about their ideas, but never build anything. 
 	- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no paying demand.  
-	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you're interested in. Don't worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
+	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you're interested in. Don’t worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
 	- Timing is the most important factor in startup success. Team and Execution came next. Quick to start but not the first.
 	- Launch now. Find the 90/10 solution.  
 	- Ignore your competitors, you will more likely die of suicide than murder.  
@@ -446,10 +446,10 @@ Test sales first. If something is worth doing, sales will come easy and dollars 
 	- If you have an idea, test it. It’s called putting out a “minimally viable product” or MVP.   
 	- Don’t scale your team/product until you have built something people want.  
 	- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
-	- Scratch your own itch it's good only as a start. Build something people want: Find 10-100 customers who love your product.    
+	- Scratch your own itch it’s good only as a start. Build something people want: Find 10-100 customers who love your product.    
 	- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money. 
 
-- If you build something that people say they'll pay for and then they don't then this is problematic, but also normal and doesn't make you a wannapreneur. At that point it's just part of the struggle.
+- If you build something that people say they'll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a wannapreneur. At that point it’s just part of the struggle.
 	- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
 	- All startups are badly broken at some point ánd can only solve one problem well at any given time.  
 	- Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service. Big company corporate development queries – they will only waste time. Conferences unless they are the best way to get customers  
@@ -476,14 +476,14 @@ You should be too busy to “do coffee" while still keeping an uncluttered calen
 Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
 Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
 Become the best in the world at what you do. Keep redefining what you do until this is true.
-There are no get rich quick schemes. That's just someone else getting rich off you.
+There are no get rich quick schemes. That’s just someone else getting rich off you.
 Apply specific knowledge, with leverage, and eventually you will get what you deserve.
-When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
+When you're finally wealthy, you'll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
 - - persuade people to buy rather than teach people to buy.	
 - a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
 
 - pro tip: Ask your current customers “What nearly stopped you buying from us?”
-- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There's an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven't hit the latter mark in a month, close.
+- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
 - I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
 - if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others.
 
@@ -495,21 +495,21 @@ This wasn’t retirement investing. This was something else. What should we call
 
 - É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
 
-- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It's cool; users love it; it just doesn't matter. But if you're living in the future and you build something cool that users love, it may matter more than outsiders think."
+- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you're living in the future and you build something cool that users love, it may matter more than outsiders think."
 	
 Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
 Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
 
-Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don't. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
+Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don’t. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
 
 - startups are similar to biological life. Wherever the conditions are hospitable, life already exists.
 The difference is that startups live in an economic rather than a biological environment. -> funds dont mind that u fail if they have also some winners
-- there's not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
+- there’s not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
 - The biggest assumption I ever made in business is that most people are telling me the truth. Most people have no idea what truth is.
 
-1) Do networking and listen. It's not about how great you are in your wildest dreams.
+1) Do networking and listen. It’s not about how great you are in your wildest dreams.
 2) Deliver a little bit more than expected. That'll help to get you some recommendations.
-4) Raise your hourly rate. There's nothing wrong with it, if you're doing a great job based on past projects.
+4) Raise your hourly rate. There’s nothing wrong with it, if you're doing a great job based on past projects.
 5) Say "No" to nasty, time consuming and time wasting clients.
 6) Build your own brand to be proud of.
 
@@ -527,7 +527,7 @@ disney salvation:
 
 I recall reading that someone had more success with a "unlock feature X" model of payment, even though it in total was more expensive than unlocking everything at once. people underestimate the power of free. trusted to one day pay me. send an email to all readers saying that i'm making consultations. 
 
-- It's not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
+- It’s not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
 
 - zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
 
@@ -573,13 +573,13 @@ Choose truth or your self-mythology will seduce you.
 > *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
 
 <!--
-> *'Each of us is born with a box of matches inside us but we can't strike them all by ourselves' -- Laura Esquivel*
+> *'Each of us is born with a box of matches inside us but we can’t strike them all by ourselves' -- Laura Esquivel*
 
 - You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
 - Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
 
 intro: //clay hebert
-I help (or a derivative) investors (target: people is too generalist but don't over tailor it) to build better things (skill. use intrigue and confidence)
+I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words -- short and sweet and confident and interesting.
 ask them first so you can costumise it for the context and make it more relevant.
 
@@ -595,12 +595,12 @@ ask them first so you can costumise it for the context and make it more relevant
 - the best way to get value was to start giving it away? you're giving validation
 -->
 
-### Why most people don't like networking?
+### Why most people don’t like networking?
 
 Handling rejection is hard. Period.  
 We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
-> *'I don't know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
+> *'I don’t know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
 
 > *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
@@ -616,7 +616,7 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 
 Leaders are team makers: there are no bad teams, only bad leaders. 
 
-Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don't follow robots. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
+Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -630,7 +630,7 @@ People want leadership positions because they want autonomy and influence. Influ
 
 ### Hints on leadership
 
-- Know when to speak and when don't.  
+- Know when to speak and when don’t.  
 - Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
 - Are part of the team. 'No one is smarter than a small group.'  
 - Make people feel as part of a family.  
@@ -664,7 +664,7 @@ Just last week I reminded my team to leave in all internal key Meetings one seat
 
 There are three keys: honesty, effectiveness, and efficiency.
 
-- A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don't generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
+- A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don’t generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
 - Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
 
 evolutionary instinct to follow the strong person. o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por medo constrói o sonho (forcas reactivas)
@@ -682,7 +682,7 @@ evolutionary instinct to follow the strong person. o homem de negocios sonha (am
 
 Managing is delegating. Your speed as a manager is the speed of your team.
 
-Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows. Instead of generalizing and saying «management is useless», it's more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
+Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows. Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
 A manager should make himself 2 questions a day:
 
@@ -699,7 +699,7 @@ A great manager is a great facilitator.
 
 For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
 
-You can't make any judgement of the worker without detailed understanding of the specifics of the work. 
+You can’t make any judgement of the worker without detailed understanding of the specifics of the work. 
 Ask instead of telling. If you're certain the delivered work is not good enough give a reason.
 
 > *'«Is that the best you can do?»  
@@ -732,8 +732,8 @@ However gaining an understanding and giving appropriate feedback makes your juni
 
 <!--
 - So what makes organizations productive? Making hard decisions. -- scott-belsky (behance creator)
-- elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren't. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
-- Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that's often forgotten when presenting a new idea or direction, which is the status quo.
+- elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren’t. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
+- Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that’s often forgotten when presenting a new idea or direction, which is the status quo.
 - I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
 - These are questions this manager has homed in on during his decades-long career at a high-tech company. Here they are: What do you need? What’s getting in your way? What can I do as your manager to help?
 - succeful takers are the most visible people in organizations.
@@ -770,7 +770,7 @@ Your goal in business should be to «fire» yourself and hire people who are bet
 
 ### How to attract and keep talented people?
 
-Respect them. You'll never respect them if you don't reward them accordingly.  
+Respect them. You'll never respect them if you don’t reward them accordingly.  
 Usually people leave managers, not companies.
 
 > *'Create contracts that build up «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process.'*
@@ -801,15 +801,15 @@ DON’T tell about your responsibilities. Everyone who is doing your type of job
 - The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
 Hire people you can trust. You have to trust them to be adults. Give them clear goals and then get the hell out of the way so that they can do their job.
 Give them the tools they ask for, not the tools a vendor suggested. They have a reason they asked for a proprietary compiler, get it for them.
-Respect goes a long way and begins in the recruitment phase. It surely doesn't end there. To get respect, you have to give respect.
-Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There's no reason to pay crap wages.
-At the same time, wages aren't everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don't offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won't just up and go to a new company after you've trained them.
+Respect goes a long way and begins in the recruitment phase. It surely doesn’t end there. To get respect, you have to give respect.
+Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There’s no reason to pay crap wages.
+At the same time, wages aren’t everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don’t offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won’t just up and go to a new company after you've trained them.
 
 "Estimativas são Promessas. Promessas devem ser cumpridas.".
 - In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
 Therefore, there is zero correlation between an estimate and the actual outcome.
 - If you're a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
-- There's nothing wrong in specialization -- it's how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don't have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
+- There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 - companies hire for a problem and not general optimizations. Even if they need a generalist.
 - Try consulting or entrepreneurship. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need. When you sell your ability to deliver results, nobody asks about your skillset.
@@ -823,7 +823,7 @@ Therefore, there is zero correlation between an estimate and the actual outcome.
 
 > *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
-Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed. If your job doesn't require originality, next decade you might not have it.
+Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed. If your job doesn’t require originality, next decade you might not have it.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
@@ -831,7 +831,7 @@ Avoid the trap of following one set career path. Focus on being useful, it will 
 
 Being an employee is long-term risky. In an economy with shrinking corporations, more outsourcing, more automation, every month you risk being fired. The economy forces all the risk on employees who have no control over their futures.
 
-> *'The boss wants the most sophisticated talent he can get, and he doesn't want to pay anything for it. Every penny he pays, and every second of your life he doesn't get for it, is a failure in his eyes.'*
+> *'The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
 
 > *'I work for money, if you want loyalty hire a dog.'*
 
@@ -871,7 +871,7 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 Cultivate a relevant skill stack. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
 
-- use the transportable skills that you have: soft skills (e.g. persuasive communication: pitching and change somebody's opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
+- use the transportable skills that you have: soft skills (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
 write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.  
 - find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
 - take risks to boost your immune system.  
@@ -891,10 +891,10 @@ If you ask them why did they asked you for an interview, they will describe your
 - Be a jack-of-all-trades and a master of one.
 - trade-able skills: figure out what skills you already have that you can charge for
 - Always Focus on Delivering More Value than Expected
-- finding and winning a great job is a competitive subject. it's not very correlated with luck.
+- finding and winning a great job is a competitive subject. it’s not very correlated with luck.
 - Your Success is Someone Else’s Miracle
 - find your secret sauce and NAME it. whats unique. you need to get people attention
-- ask what's your secret mission -- something you want to do here that another person is interested also
+- ask what’s your secret mission -- something you want to do here that another person is interested also
 - In my opinion, a job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
 - you are a learning machine. Not an occupation.
 - Ideas are welcomed, execution is worshiped
@@ -932,15 +932,15 @@ Only comedians can speak the truth without consequences.
 'Know who you’re dealing with: do not offend the wrong person.'  
 'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
 
-> *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren't random or stupid.'*
+> *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.'*
 
-> *'Higher the status, more exposure to parasites whose transmission isn't environmentally mediated.'*
+> *'Higher the status, more exposure to parasites whose transmission isn’t environmentally mediated.'*
 
 > *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
 
-> *'Social cartography: who's the decision maker, to whom people are speaking and who is speaking.'*
+> *'Social cartography: who’s the decision maker, to whom people are speaking and who is speaking.'*
 
-HOWEVER... don't vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It's a business relationship.
+HOWEVER... don’t vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
 > *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
 

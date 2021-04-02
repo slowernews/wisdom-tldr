@@ -10,7 +10,7 @@
 
 ## On past and memory
 
-> *'The past doesn't help understanding the present. It's the present that helps understanding the past.' -- José Saramago*
+> *'The past doesn’t help understanding the present. It’s the present that helps understanding the past.' -- José Saramago*
 
 > *'History does not repeat, but it does rhyme.' -- Mark Twain*
 
@@ -20,7 +20,7 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 
 > *'Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself.' -- James Gleick*
 
-> *'The years say, what the days can't tell.' -- Chinese proverb*
+> *'The years say, what the days can’t tell.' -- Chinese proverb*
 
 > *'Life is understood backwards, but must be lived forwards.' -- Soren Kierkegaard*
 
@@ -28,13 +28,13 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 
 > *'Memory is never a precise duplicate of the original; instead, it is a continuing act of creation.' -- Rosalind Cartwright*
 
-You are your memory, however you can't start the next chapter of your life if you keep re-reading the last one.
+You are your memory, however you can’t start the next chapter of your life if you keep re-reading the last one.
 
 Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
 > *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.' -- Irish saying*
 
-> *'Keep in mind that people change, but the past doesn't.' -- Becca Fitzpatrick*
+> *'Keep in mind that people change, but the past doesn’t.' -- Becca Fitzpatrick*
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
@@ -46,11 +46,11 @@ Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are
 
 ### How memory works?
 
-It's harder to forget mistakes, past events and the beginning or the end of something. 
+It’s harder to forget mistakes, past events and the beginning or the end of something. 
 
 > *'You forget what you want to remember, and you remember what you want to forget.' -- Cormac McCarthy*
 
-> *'You don't remember what happened. What you remember becomes what happened.' -- John Green*
+> *'You don’t remember what happened. What you remember becomes what happened.' -- John Green*
 
 
 
@@ -62,7 +62,7 @@ It's harder to forget mistakes, past events and the beginning or the end of some
 
 You will die soon.
 
-Act accordingly and don't postpone joy. Live life ready to meet God like it's everyone else's last day. If you can't find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, doesn't mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
+Act accordingly and don’t postpone joy. Live life ready to meet God like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
 
 The elderly and dying invariably lament on what they neglected to do, not what they did.
 
@@ -70,7 +70,7 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
-> *'What's life? Showing up for the people you love, again and again, until you can’t show up anymore.' -- Rebecca Walker*
+> *'What’s life? Showing up for the people you love, again and again, until you can’t show up anymore.' -- Rebecca Walker*
 
 <!--
 - 100 blocks a day -- wait but why  
@@ -86,9 +86,9 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
-> *'If you don't imagine, nothing ever happens at all.' -- John Green*
+> *'If you don’t imagine, nothing ever happens at all.' -- John Green*
 
-Dream big. If your dreams don't scare you, they are not big enough.  
+Dream big. If your dreams don’t scare you, they are not big enough.  
 Anomalies often represent the future but to our eyes they seem strange.
 
 > *'I dream my painting and I paint my dream.' -- Vincent van Gogh*
@@ -99,7 +99,7 @@ Anomalies often represent the future but to our eyes they seem strange.
 
 > *'Every saint has a past, and every sinner has a future.' -- Oscar Wilde*
 
-However don't worry too much, you can't control it.
+However don’t worry too much, you can’t control it.
 
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
@@ -141,9 +141,9 @@ However don't worry too much, you can't control it.
 
 Talent is fragile.
 
-To reveal the true nature of your intelligence rarely pays. It's the most sensitive envy trigger.
+To reveal the true nature of your intelligence rarely pays. It’s the most sensitive envy trigger.
 
-> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that's not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
+> *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that’s not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 > *'Talent hits a target no one else can hit. Genius hits a target no one else can see.' -- Arthur Schopenhauer*
 
@@ -176,9 +176,9 @@ Being rich is being fulfilled.
 
 Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to more freedom and happiness.
 
-> *'We don't make movies to make money; We make money to make more movies.' -- Walt Disney*
+> *'We don’t make movies to make money; We make money to make more movies.' -- Walt Disney*
 
-> *'It's nice to have a lot of money, but you know, you don't want to keep it around forever. I prefer buying things. Otherwise, it's a little like saving sex for your old age.' -- Warren Buffett*
+> *'It’s nice to have a lot of money, but you know, you don’t want to keep it around forever. I prefer buying things. Otherwise, it’s a little like saving sex for your old age.' -- Warren Buffett*
 
 > *'Don’t think money does everything or you are going to end up doing everything for money.' -- Voltaire*
 
@@ -188,8 +188,8 @@ Money is a tool. It can be a force multiplier to help you live the life of your 
 
 - Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible. Ignore people playing status games. They gain status by attacking people playing wealth creation games. Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems. Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person.  
 - You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
-You will get rich by giving society what it wants but does not yet know how to get. At scale. Pick an industry where you can play long term games with long term people. The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.  
-- Pick business partners with high intelligence, energy, and, above all, integrity. Don't partner with cynics and pessimists. Their beliefs are self-fulfilling. 
+You will get rich by giving society what it wants but does not yet know how to get. At scale. Pick an industry where you can play long term games with long term people. The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.  
+- Pick business partners with high intelligence, energy, and, above all, integrity. Don’t partner with cynics and pessimists. Their beliefs are self-fulfilling. 
 - Learn to sell. Learn to build. If you can do both, you will be unstoppable.  
 - Arm yourself with specific knowledge, accountability, and leverage. Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others. When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.  
 - Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage. The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.  
@@ -217,7 +217,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 > *'If you live long enough, most people will get what they deserve.' -- Charlie Munger*
 
-Unless you're winning, life will seem unfair to you, but, bad luck is often bad planning. If you're sure it's not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it's all math. The best things in life are born from coincidence.
+Unless you're winning, life will seem unfair to you, but, bad luck is often bad planning. If you're sure it’s not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it’s all math. The best things in life are born from coincidence.
 
 «Random» usually means that you haven’t looked long enough to see a pattern emerge.
 
@@ -244,7 +244,7 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 ---
 ## On beauty and style
 
-> *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember.' -- Terry Pratchett*
+> *'If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That’s what people remember.' -- Terry Pratchett*
 
 > *'Dress shabbily and they remember the dress; dress impeccably and they remember the woman.' -- Coco Chanel*
 
@@ -285,7 +285,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children](/chapter_2_groups.md#on-feedback-and-mentorship) and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.
 
-> *'Each of us, when our day's work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
+> *'Each of us, when our day’s work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
 
 > *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
 
@@ -316,13 +316,13 @@ In this moment, you might think that you will find satisfaction by purchasing th
 - If you’re not trying to make money, what are you even doing?
 - feel like a local celebrity: everybody knows who you are.
 You are in a city, without knowing the language, manage to go to the hostel, meet people there. Make your way there.
-- Don't play the government’s game. Instead, create a game that worked by my rules, a game I could win.
+- Don’t play the government’s game. Instead, create a game that worked by my rules, a game I could win.
 - find another way to derive meaning from life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
 - That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
 - But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 - My life has been a series of questions and odd experiments.
 - Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
-- overheard someone say in a SF cafe: "I couldn't be a doctor...it doesn't change the world enough and you don't actually earn that much.
+- overheard someone say in a SF cafe: "I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much.
 -->
 
 
@@ -345,7 +345,7 @@ However [fear](#on-confidence-and-validation), not failure, is the biggest barri
 
 > *'Doubt kills more dreams than failure ever will.'*
 
-> *'Whether you think you can, or you think you can't, you're right.' -- Henry Ford*
+> *'Whether you think you can, or you think you can’t, you're right.' -- Henry Ford*
 
 <!--
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
@@ -400,7 +400,7 @@ Standup is about articulating that truth in such a way that people feel momentar
 
 > *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin to Anastas Mikoyan*
 
-> *'Sex, like pizza, when it's good is good. When it's bad it gets in your shirt.'*
+> *'Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt.'*
 
 > *'There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog.  
 What’s the man there for? His job is to feed the dog.  
@@ -425,10 +425,10 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 > *'I am a cage in search for a bird.' -- Franz Kafka*
 
 <!--
-- Which is more hipster: using the latest modern web framework, or bragging about how you don't use modern web frameworks?
+- Which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
 > *'In Europe 100 miles is a long way, In the US 100 years is a long time'* 
 > *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
-> *'I wrote the story myself. It's about a girl who lost her reputation and never missed it.' -- Mae West*
+> *'I wrote the story myself. It’s about a girl who lost her reputation and never missed it.' -- Mae West*
 > *'La que no es puta non desfruta.'*
 > *'love people and use money vs love money and use people'*
 > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
@@ -446,15 +446,15 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 
 Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.
 
-> *'If there is one thing you can count on, it's human greed. And I'm not pretending I'm above it myself.'*
+> *'If there is one thing you can count on, it’s human greed. And I'm not pretending I'm above it myself.'*
 
 > *'The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.' -- Elizabeth Taylor*
 
-> *'I am lonely, yet not everybody will do. I don't know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them».' --  Anaïs Nin*
+> *'I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them».' --  Anaïs Nin*
 
 > *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
 
-> *'I don't want to be alone, I want to be left alone.' -- Audrey Hepburn*
+> *'I don’t want to be alone, I want to be left alone.' -- Audrey Hepburn*
 
 > *'“Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.”' --  Neil Gaiman*
 
@@ -516,11 +516,11 @@ Everything that is not a law of nature is just a shared belief.
 
 > *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
 
-> *'The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...' -- Isaac Asimov*
+> *'The most exciting phrase to hear in science is not 'Eureka!' but 'That’s funny...' -- Isaac Asimov*
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.' -- Albert Einstein*
 
-> *'Science is a wonderful thing if one does not have to earn one's living at it.' -- Albert Einstein*
+> *'Science is a wonderful thing if one does not have to earn one’s living at it.' -- Albert Einstein*
 
 > *'If we knew what it was we were doing, it would not be called research, would it?' --  Albert Einstein*
 
@@ -560,7 +560,7 @@ Art is just another form of screaming and it doesn’t end at the edge of the ca
 
 > *'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.' -- Antoine de Saint-Exupéry*
 
-> *'Good taste is easy. What's challenging is to be close to vulgarity.' -- Adam Caruso*
+> *'Good taste is easy. What’s challenging is to be close to vulgarity.' -- Adam Caruso*
 
 The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
 Most people with good taste are young and poor.
@@ -571,7 +571,7 @@ Most people with good taste are young and poor.
 
 > *'Sharpness is a bourgeois concept.' -- Henri Cartier-Bresson*
 
-> *'Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
+> *'Imperfection is beauty, madness is genius and it’s better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
 
 > *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger Dijkstra*
 
@@ -589,12 +589,12 @@ The secret to get wealthy is not to make more money but to keep it.
 Hints:
 
 - Spend less than you make.  
-- Stay liquid, never invest in anything you can't sell in 30 days.  
+- Stay liquid, never invest in anything you can’t sell in 30 days.  
 - Diversify with uncorrelated investment bets.
 
 ### On your investment comfort zone
 
-Scared money never wins. It's about the risk of losing money versus the risk of missing opportunity.  
+Scared money never wins. It’s about the risk of losing money versus the risk of missing opportunity.  
 
 > *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
 
@@ -618,7 +618,7 @@ Understand:
 
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
 
-> *'What's your religion? Arbitrage and rents.' -- EF*
+> *'What’s your religion? Arbitrage and rents.' -- EF*
 
 ### When to fold?
 
@@ -634,9 +634,9 @@ Get an exit strategy and take risk from the table when possible.
 
 Hints:
 
-- The best companies aren't sold, they're bought.  
+- The best companies aren’t sold, they're bought.  
 - Don’t buy on future hopes; buy on past mistakes.  
-- Don't invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
+- Don’t invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
 
 - Stock buybacks are effectively same as dividends.
 - Barbell strategy
@@ -646,7 +646,7 @@ Hints:
 - dealers vs brokers: liquid markets (dealers with enough inventory)
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - math shortcut: Years to double = 72 / Interest Rate
-- star business. i didn't lost money on star businesses. o lost money in businesses i though would be star businesses.
+- star business. i didn’t lost money on star businesses. o lost money in businesses i though would be star businesses.
 -->
 
 
@@ -667,12 +667,12 @@ Hints:
 - Travelling is getting under the skin of the place.  
 - For how long? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
 - Think less about money optimization and more about who you’re going with.
-- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it's not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
+- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it’s not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
 - Choose places with “lifers”: people who are dedicated to the business itself, not to a paycheck.
 - Build a business with the heuristic of «maximize my vacation time»: Contracting -> Travelling between contracts -> Travelling while contracting -> Software product business -> Chilling
 
 <!--
-- On adrenaline: what's your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
+- On adrenaline: what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
 -->
 
 
@@ -711,17 +711,17 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.' -- Matt Haig*
 
-> *'Books serve to show a man that those original thoughts of his aren't very new after all.' -- Abraham Lincoln*
+> *'Books serve to show a man that those original thoughts of his aren’t very new after all.' -- Abraham Lincoln*
 
 > *'Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.' -- J.K. Rowling*
 
-> *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.' -- Julian Barnes*
+> *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren’t. I'm not surprised some people prefer books.' -- Julian Barnes*
 
 > *'Think before you speak. Read before you think.' -- Fran Lebowitz*
 
 > *'A library is infinity under a roof.' -- Gail Carson Levine*
 
-> *'You don't have to burn books to destroy a culture. Just get people to stop reading them.' -- Ray Bradbury*
+> *'You don’t have to burn books to destroy a culture. Just get people to stop reading them.' -- Ray Bradbury*
 
 > *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
 
@@ -733,7 +733,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
 
-> *'A classic is a book which people praise and don't read.' -- Mark Twain*
+> *'A classic is a book which people praise and don’t read.' -- Mark Twain*
 
 > *'The worst thing about new books is that they keep us from reading the old ones.' -- Joseph Joubert*
 
@@ -832,7 +832,7 @@ people of all political persuasions
 introverts have more probability of being an expert in their field. extraversion is not good for mastery
 most people are not extremes and most people are in the middle. most things are not binary.
 introvert is not shyness.
-Imagine a introvertness scale from 1 to 7. It's hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 
-- Putt's Law: "Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand."
+- Putt’s Law: "Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand."
 -->

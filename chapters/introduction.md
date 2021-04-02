@@ -27,18 +27,18 @@ How you do anything is how you do everything. Ultimately you are your choices.
 
 Never stop working on yourself. Always strive to be better. Is succeeding at mediocrity a worthwhile life? For some of you, you must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant. You need to develop an unshakable identity as a high achiever and peak performer before you can expect to achieve highly or perform at your peak.
 
-> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don't like because you think it will look good on your resume.' -- Warren Buffett*
+> *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume.' -- Warren Buffett*
 
 > *'Whatever you are, be a good one.' -- Abraham Lincoln*
 
-> *'Maybe who we are isn't so much about what we do, but rather what we're capable of when we least expect it' -- Jodi Picoult*
+> *'Maybe who we are isn’t so much about what we do, but rather what we're capable of when we least expect it' -- Jodi Picoult*
 
 > *'Your temporary circumstances do not have to become your permanent identity' -- Greg Hartle*
 
 <!--
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
 to be real you need to be vulnerable
-> *'Do you want to know who you are? Don't ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
+> *'Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
 Entrepeneurs are curious
 > *'You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.' -- Friedrich Nietzsche*
 > *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
@@ -59,7 +59,7 @@ What is happiness?
 - Happiness = reality / expectations  
 - Happy life = mastery + belonging + autonomy
 
-> *'Happiness is not a goal, it's a byproduct.' -- Eleanor Roosevelt*
+> *'Happiness is not a goal, it’s a byproduct.' -- Eleanor Roosevelt*
 
 > *'Happiness is a journey, not a destination.' -- Ben Sweetland*
 
@@ -92,11 +92,11 @@ Be [grateful](chapter_1_self.md#on-gratitude).
 
 <!--
 > *'The rise is always better than the peak.' -- Jim Jefferies*
-> *'The minute you're satisfied with where you are, you aren't there anymore.' -- Tony Gwynn*
+> *'The minute you're satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 > *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
 > *'All the world is made of faith, and trust, and pixie dust.' -- J.M. Barrie*
 
-- It's a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn't like ot climb much. I just liked to imagine the summit.
+- It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit.
 - It’s quite liberating to understand reality as a construction.  
 - High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
 - Anchor yourself -- remember who you are, the things you are good at, even when completely different thing. authentic self is a state
@@ -106,7 +106,7 @@ Be [grateful](chapter_1_self.md#on-gratitude).
 - Happiness comes from autonomy not money.
 - Love, sucess and happiness are a byproduct
 - Persistence + Love = Abundance
-- Regrets of the dying: Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
+- Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - In the absence of such an outlet, masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
 - If you aren’t happy on the journey you won’t be happy at the destination.

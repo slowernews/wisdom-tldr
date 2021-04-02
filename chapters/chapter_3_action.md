@@ -30,7 +30,7 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 Best ideas come from the market, not from you.
 
-New ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it's no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
+New ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it’s no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of.
 
@@ -48,11 +48,11 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 
 ### How to judge ideas?
 
-Peers are the best judging ideas. Managers are the worse because they are outcome attached: they will regret more a false positive than a false negative.
+Peers are the best judging ideas. Managers will regret more a false positive than a false negative.
 
-However the right idea not executed is worth nothing, but a mediocre one well executed can prove to be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can execute and bring them to life. 
+However the right idea not executed is worth nothing and a mediocre one well executed can prove to be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can bring them to life. 
 
-> *'Ideas by themselves are roughly worthless. There's no market for them. There's no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it's a good idea. If you ever tried to change anyone else's mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
+> *'Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 > *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
 
@@ -68,7 +68,7 @@ However the right idea not executed is worth nothing, but a mediocre one well ex
 
 Analysis is an art, not a science.
 
-One of the great problems with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. We are biased. Everybody else is biased.
+The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. Everyone is biased.
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.' -- Marcus Aurelius*
 
@@ -80,7 +80,7 @@ One of the great problems with analysis is our human tendency to think that what
 
 > *'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' -- Mark Twain*
 
-> *'Opinions are like a shirt: everyone should have at least a basic one, and it's okay to really love yours, but try to remember to change it every now and again.'*
+> *'Opinions are like a shirt: everyone should have at least a basic one, and it’s okay to really love yours, but try to remember to change it every now and again.'*
 
 > *'We don't look at what we look, but at what we are.' -- Fernando Pessoa*
 
@@ -95,11 +95,11 @@ Too much info is the main cause of it: you'll always find confirmation to your p
 
 > *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
 
-> *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do. ' -- Chalie Munger*
+> *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side’s argument better than they do. ' -- Chalie Munger*
 
 > *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
 
-> *'That's the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
+> *'That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
 
 <!--
 - How can we overcome complexity bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
@@ -116,36 +116,33 @@ Accepting information which confirms our beliefs is easy and requires little men
 > *'Believe only half of what you see and nothing that you hear.' --  Edgar Allan Poe*
 -->
 
-And when facing new ideas.
+And when facing new ideas. Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.
 
 > *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
 
 > *'I am both worse and better than you thought.' -- Sylvia Plath*
 
-> *'Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.'*
-
 > *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
 
 > *'The truth is rarely pure and never simple.' -- Oscar Wilde*
 
-### Hints on the art of analysis
+### Hints
 
 - Pay attention to negative cues: what should have happened but did not.  
 - «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
 - We always think that the people who agree with us are really smart.  
 - Skepticism is a great servant and a terrible master.  
-- Sometimes we know that A+B=C but we don’t realize that A=C-B  
 - Randomness: most facts are a «tell» but some are just random.  
 - There’s always a good reason and a real reason.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
-> *'Look for something that doesn't make sense. That's where the gold mine is: «It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don't try to make sense of the world. It's too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
+> *'Look for something that doesn't make sense. That’s where the gold mine is: «It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don't try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 > *'The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches).' -- Paul Graham*
 
-> *'When a measure becomes a target, it ceases to be a good measure.' -- Goodhart's Law*
+> *'When a measure becomes a target, it ceases to be a good measure.' -- Goodhart’s Law*
 
 > *'That which can be asserted without evidence, can be dismissed without evidence.' -- Christopher Hitchens*
 
@@ -155,20 +152,16 @@ And when facing new ideas.
 
 <!--
 > *'To understand is to know what to do.' -- Wittgenstein*
-> *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
 
 - E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
 - Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
 - tese antitheses -> syntesis
 - reasoning by first principles and reasoning by analogy. correlations is not causation
-- There is too much going on – too many decisions and interactions happening in every moment – for us to be able to conclude cause and effect with any certainty.
-- aditional information only feeds your confirmation bias
 - The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
 - Ask yourself “does this decision require fast or slow thinking?” 
 - Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
 Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.
-- The key concept of emergence that is at play here is that components of a system self-organize to produce a state of affairs that is neither obvious nor predictable if you focus on the capabilities of the components themselves.
 - What’s your advantage: informational, analytical, or behavioral?	
 - not playing your hand but playing your opponent.
 - The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
@@ -177,12 +170,9 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 (under ideal conditions everybody is a genious)
 - The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him. Much of this is the result of our need for cognitive consistency. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
 - You need to search out disconfirming evidence.
-- fascinated by models. how the invisible afects the visible
-- you're always looking to patterns of differences! pattern recognition
-- um texto historico é biased/shortsighted mais que um gráfico historico onde cada um tira as suas comclusoes.
-- scheduling free time can make it feel like chores
-- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth. Our knowing minds are not embedded in truth. Rather, the entire notion of truth is embedded in our minds, which are themselves the unwitting lackeys of organizational forms of influence.
-- Truth in stereotypes there'es truth on GROUP opinions. Steryotypes are the falsy _group_ opinions that account for a small amout. groups opinios self correct themselves.
+- um texto é mais biased do que um gráfico onde cada um tira as suas comclusoes.
+- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
+- Truth in stereotypes there'es truth on GROUP opinions. groups opinios self correct themselves.
 -->
 
 
@@ -281,7 +271,7 @@ If you don't understand his limitations, you don't understand the model.
 
 - as all the great questions. answers are always evolving
 - oftentimes, the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
-- estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no 'skin in the game' should give estimates.
+- estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game' should give estimates.
 
 What is the least painful way to X?
 Evaluate goals independently and consider taking on only one goal at a time.
@@ -303,7 +293,7 @@ MENTAL MODELS:
 	understand people: 16personality types INTP-A was a breakthrough
 	framing = everything is
 	80% man are stronger than 80% woman
-	A Jevons Effect[1] in a web site's bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
+	A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
 
 1. Put Your Happiness Before Goals
 2. Fulfillment is Dependent on Direction
@@ -438,7 +428,7 @@ At some point, the pain of not doing it becomes greater than the pain of doing i
 1) Protect your time like your money.
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 	
-- what's the next action >> if u dont know think what's the next project -- gtd guy
+- what’s the next action >> if u dont know think what’s the next project -- gtd guy
 
 you always throw out your first pancake - primeiro milho é para os pardais
 
@@ -613,28 +603,24 @@ chess gambits -- exchange material by position-time.
 ---
 ## On focus, priorities and productivity
 
-> *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin (The Dip)* 
+> *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin* 
 
-Focusing is an art. Time itself is not your limitation: attention is. You’re always managing attention, not time.
-
-> *'Busy imply out of control. lack of time is lack of priorities.'*
+> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1,000 things.' -- Steve Jobs*
 
 First the essential. Then the details.
 
-> *'Concentrate your forces.'  
-'Strike the shepherd and the sheep will scatter.' -- Robert Greene (23rd and 42nd law of power)*
+Focusing is an art. Time itself is not your limitation: attention is.  
+Busy imply out of control. Lack of time is lack of priorities.
+
+> *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
 
 > *'You can do anything, but not everything.' -- David Allen*
 
-> *'It's not what you read, it's what you ignore.' -- Scott Hanselman*
-
-> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.' -- Steve Jobs*
-
-> *'When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It's hard to compete with businesses who have correctly identified the right variables to maximize or minimize.' -- Charlie Munger*
+> *'When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It’s hard to compete with businesses who have correctly identified the right variables to maximize or minimize.' -- Charlie Munger*
 
 > *'A man with a watch knows what time it is. A man with two watches is never sure.'*
 
-> *'I want to know God's thoughts; the rest are details.' -- Albert Einstein*
+> *'I want to know God’s thoughts; the rest are details.' -- Albert Einstein*
 
 > *'Learn what is to be taken seriously and laugh at the rest.' -- Hermann Hesse*
 
@@ -649,56 +635,44 @@ First the essential. Then the details.
 
 > *'Don't make 100 decisions when one will do.' -- Peter Drucker*
 
+Getting a lot of unnecessary things done is not productivity: it’s stupidity. Saying yes to everything is a quick road to mediocrity. Productivity is about attention management.
+
 Do less to achieve more. You don't need to optimise everything.  
 20% of your effort will give you 80% of output: it may be enough or even more than enough.
 
-- Focus just on 3 outcomes (not todos) per day and tackle your most important one in the morning.  
-- Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tacking a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right.  
-- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk, Too many options may paralize you: remove them.  
-- When a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.  
-- Be fully present: learn to focus on what you are doing now.  
-- Set specific, measurable, attainable, realistic and time-based goals. Always work with a specific purpose in mind.  
-- Identify keystone habits (e.g. waking up early)
-- Buy yourself time: delegate.
-- Work by layers: functional -> excellency.
-
+- Focus on 3 outcomes (not todos) per day and tackle the most important one in the morning.
+- Set specific, measurable, attainable, realistic and time-based goals. Always work with a specific purpose in mind.
+- Be fully present: learn to focus on what you are doing now.
+- Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tackling a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right.  
+- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk, Too many options may paralize you: remove them.
+- When a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
+- Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
+- Buy yourself time: delegate. Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
+- Work by layers: from functional to excellency.
 
 <!--
-- the more centralized the enemy, the more devastating becomes a blow at its leader.
-
-2) Manage emotions to better manage time: it’s your beliefs that create your feelings, not reality.
-procrastination is a mood-management technique
-3) Important Beats Urgent
-You do what’s easy or urgent, not what really moves the needle.
 Since the vast majority of our words and actions are unnecessary, corralling them will create an abundance of leisure and tranquility. As a result, we shouldn’t forget at each moment to ask, is this one of the unnecessary things?
-Getting a lot of unnecessary things done is not productivity; it’s stupidity.
 Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all. -- tim ferriss
 4) Focus On Effort, Not Outcome
 What’s that have to do with productivity? Plenty. Because you worry about all kinds of stuff that you can’t do anything about. And that’s wasted time and energy.
 And neuroscience research shows that by focusing on what you have control over, you decrease stress.
 You can’t control whether it ends up as a “robbery” or an “attempted robbery”, just focus on executing the heist in a way that would make mom proud.
 
-> *'Without commitment, you cannot have depth in anything, whether it's a relationship, a business or a hobby.' -- Neil Strauss*
+> *'Without commitment, you cannot have depth in anything, whether it’s a relationship, a business or a hobby.' -- Neil Strauss*
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 
-- Productivity is about attention management - productive procrastination
 - maker days and manager days
 - People As Response Functions. response triggers: your primary trigger, your secundary trigger
-- Top performers definitely focus on fewer goals — but they also obsess like crazy over them.
 - “Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all the activities in your workday that aren’t producing value.
 - Mind the process, not the results. For example, “finish TPS report” might turn into “write TPS report for 45 uninterrupted minutes.”
 - there are only three ways in which you can increase productivity: Increase the physical, mental, and emotional energy you have available for each task. Doing more of the right things and fewer unnecessary things. Improve the systems that you use to complete a given task or project. In other words, the three paths to productivity are: Energy - Effectiveness - Efficiency: productivity is about understanding your constraints. getting the right things done
-- saying yes to everything is a quick road to mediocrity.
 - “Instead of asking how many tasks you can tackle given your working hours,” writes Morten Hansen in Great at Work, “ask how many you can ditch given what you must do to excel.” I did what I needed to do to keep my job. As John Stuart Mill said, “as few as you can, as many as you must.”
 - Busy is a decision. What you are really saying: is not a priority. Is a excuse for not doing something we don't feel like doing.
-- Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
 - Focus on adaptability not effectiveness
 - Schedule less time for important tasks. Be mindful of how you spend your time.
-- Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
 - Set yourself deadlines.
 - complete at least 1 important but not urgent task per day.
-- school rewards generalist and not focusing: the world not so.
-- *guerrilla* has their strengths also. cena do mosquito
+- School rewards generalist and not focusing: the world not so.
 - Media companies harvest your attention and transform it into revenue.
 - If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
@@ -728,7 +702,7 @@ Consuming information gives the control freak an illusion of control. He doesn't
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
 - past and future doesn't exist. we cannot control anything, at most we can influenciate something.
-- we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it's our default. Order is always artificial and temporary.
+- we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 -->
 
 
@@ -745,7 +719,7 @@ The dose makes the poison: things in excess become their opposite. The hardest s
 
 > *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
 
-Balance is not about spending the same amount of time focused on every area of your life either. It's about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
+Balance is not about spending the same amount of time focused on every area of your life either. It’s about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
 
 > *'Don’t try to make your job your whole life. Don’t try to make your art your sole income.' -- unknown*
 
@@ -789,7 +763,7 @@ Plans are not static. You need to switch strategies a few times to get where you
 > *'The directions to get you anywhere include a few turns:  
 Sometimes you need to say YES to everything and be open to growth;  
 Sometimes you need to say NO to everything and focus.  
-It's scary to make those direction choices but fear is a great road sign.'  
+It’s scary to make those direction choices but fear is a great road sign.'  
 -- Derek Sivers (paraphrased)*
 
 > *'What got you here won't get you there.' -- Marshall Goldsmith*
@@ -798,7 +772,7 @@ It's scary to make those direction choices but fear is a great road sign.'
 
 > *'If I don’t have red, I use blue.' -- Pablo Picasso*
 
-> *'When things break, it's not the actual breaking that prevents them from getting back together again. It's because a little piece gets lost - the two remaining ends couldn't fit together even if they wanted to. The whole shape has changed.' -- John Green*
+> *'When things break, it’s not the actual breaking that prevents them from getting back together again. It’s because a little piece gets lost - the two remaining ends couldn't fit together even if they wanted to. The whole shape has changed.' -- John Green*
 
 Adapt instead of reacting. Opportunities is taking the jobs that others don't want.
 
@@ -829,7 +803,7 @@ You need to be comfortable both in a suit and tie and in camouflaged jacket.' --
 
 We're all in sales. To sell is to deal with objections.
 
-Sales used to be about information asymmetry but now it's mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](#on-relationships). Best sellers are now ambiverts.
+Sales used to be about information asymmetry but now it’s mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](#on-relationships). Best sellers are now ambiverts.
 
 Traditional selling: hunters (extroverts)
 
@@ -861,7 +835,7 @@ To negotiate is to have options. Hints:
 - When people feel they have a choice, they walk into your trap that much more easily.
 - Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy (eg. Trump) wants to make it fast. For the accomodator, the relationship is the most important.
 - On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.
-- Mirroring and reword. repeating the last one to three words of the other person. It opens up people's brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
+- Mirroring and reword. repeating the last one to three words of the other person. It opens up people’s brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
 - Instead of details use interesting testimonials that allow people to relate.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
@@ -979,6 +953,8 @@ agitate more than irritate.
 So can you pitch me what our company does? people minds work by association. pre-suasion
 > *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
 - It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
+
+> *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
 -->
 
 
@@ -1007,7 +983,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 > *'Your father is your first mentor.'*
 
 <!--
-I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It's up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
+I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It’s up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
 -->
 
 You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
@@ -1021,7 +997,7 @@ You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-a
 <!--
 > *'Powerful people give freely, buying influence rather than things.'*
 > *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
-> *'If you are giving back, it’s because you’ve taken too much.'  -- Ricardo Semler*
+> *'If you are giving back, it’s because you’ve taken too much.' -- Ricardo Semler*
 
 the value of getting a coach. Spend more time fixing weaknesses than developing strengths! have your corner man to indicate your blindspots
 -->
@@ -1032,7 +1008,7 @@ the value of getting a coach. Spend more time fixing weaknesses than developing 
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
-Fatherhood makes you a mentor independently of your will. Don't tell your kids them how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
+Don't tell your kids them how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
 Hints:
 
@@ -1063,17 +1039,15 @@ Always be generous. A low value gift can have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
 
-> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people's talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- danielvf_HN*
+> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- HN_danielvf*
 
-> *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- danielvf_HN*
+> *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- HN_danielvf*
 
 ### On punishments
 
-Punishment only works near the situation that did that to you, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses. Rewards are more effective.
+Extintion of rewards are more effective.
 
-Alternatives that you can try the next time you feel tempted to punish someone:
-- extintion of rewards
-- positively reinforcing preferred activities.
+Punishment only works near the situation that cause it, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses.
 
 <!--
 - power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
@@ -1095,13 +1069,13 @@ impredictable schedule / fixed work amount schedule / fixed time amount schedule
 
 Beware of all players.
 
-People are amazing optimizers, and will find any loopholes or gaps that allow them to use any system to their advantage. No one will help you in a way that’s prejudicial to them.
+People are amazing optimizers and will find any loopholes or gaps to their advantage. No one will help you in a way that is prejudicial to them.
 
 > *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
 
 ### On easy opponents
 
-Easy players are often just [bait](#on-charming). However there are people acting stupid. Easy wins if you can identify them.
+Easy players are often just [baiting](#on-charming) you. However - if you can identify them - there are people acting stupid that are easy wins. 
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1115,21 +1089,17 @@ Easy players are often just [bait](#on-charming). However there are people actin
 
 Desperate players will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
 
-> *'Don’t fight a starving animal. Never contend with a Man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
+> *'Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
 
 > *'Beware the fury of a patient man.' -- John Dryden*
 
 > *'Beware of sad people.'*
 
-> *'Our fearlessness shall be our secret weapon.' -- John Green*
-
 ### On difficult opponents
 
-Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it's a scar for life.
+Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it’s a scar for life.
 
 > *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
-
-> *'Do I not destroy my enemies when I make them my friends?' --  Abraham Lincoln*
 
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
@@ -1141,7 +1111,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 > *'Do I not destroy my enemies when I make them my friends?' -- Abraham Lincoln*
 
 <!--
-- Nietszche says to measure one's strength by the number of parasites one can support.
+- Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
 -->
 
@@ -1209,13 +1179,13 @@ According to Rumelt, a strategy must include “premeditation, the anticipation 
 Leverage is a force multiplier for your judgement.
 
 > *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
-Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It's the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
 Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
-An army of robots is freely available - it's just packed in data centers for heat and space efficiency. Use it.'* 
+An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.'* 
 
 <!--
 - on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
-Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone's needs and shrinking their ability, aided by envy and reciprocation effects.
+Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - The power of compounding: you can achieve anything, if you stop trying to do everything.
 - Warnings: Finding cassandras to stop catastrophes. The “Cassandras” featured in R.P’s book are experts in their field. these people are data driven
 -->
@@ -1235,7 +1205,7 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 'Discover each man’s thumbscrew.'  
 'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
 
-- People's need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.  
+- People’s need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.  
 - Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to trust you. Keep your word and prove your worth, the new guy as always to prove himself.  
 - To persuade up, focus in interests; to persuade down focus in emotions.  
 - In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.  
@@ -1303,7 +1273,7 @@ However, deceiving is not lying. Disappointment destroys trust. Lying is like a 
 
 - Clean players on shady markets usually don't do well on the long term.
 - Bad liars should speak as little as possible.
-- if somebody asks for the evidence, normally, he's lieing
+- if somebody asks for the evidence, normally, he’s lieing
 - the good reason and the real reason.
 -->
 
@@ -1359,7 +1329,9 @@ Cialdini moved from rejection to compliance after the boy had moved from a large
 
 > *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
-Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often.
+Starting is fun but success belongs to finishers.
+
+[Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often. When the end finally comes, it comes quickly.
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
@@ -1371,8 +1343,6 @@ Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time
 
 > *'Difficulties increase the nearer we come to our aim.' -- Goethe*
 
-> *'When the end finally comes, it comes quickly.'*
-
 
 
 
@@ -1383,7 +1353,7 @@ Starting is fun but success belongs to finishers. [Going halfway](#on-focus-time
 
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
-It's not just about winning. The way you win sets you up for the next round.
+It’s not just about winning. The way you win sets you up for the next round.
 
 > *'Win through your actions, never through argument.'  
 'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
@@ -1396,7 +1366,7 @@ It's not just about winning. The way you win sets you up for the next round.
 
 > *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
-> *'The destination is not the end of the road; it's just a stop along the way. An intersection to take you to your next destination.'*
+> *'The destination is not the end of the road; it’s just a stop along the way. An intersection to take you to your next destination.'*
 
 <!--
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
@@ -1405,9 +1375,7 @@ quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- se
 
 tecnically win or fundamentally win
 
-winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy's resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it's only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it's a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
-
-> *'It's not about the money, it's about the game.' -- Gordon Gekko*
+winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy’s resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it’s only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it’s a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
 -->
 
 
@@ -1455,6 +1423,6 @@ By refusing to forgive someone, we get to cast ourselves as victims, as underdog
 
 > *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*
 
-<!--
+However:
+
 > *'Once you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall.' -- Jodi Picoult*
--->
