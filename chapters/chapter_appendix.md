@@ -128,6 +128,8 @@ Aging implies damage.
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
 
+> *'We never really grow up, we only learn how to act in public.' --  Bryan White*
+
 
 
 
@@ -138,6 +140,7 @@ Aging implies damage.
 
 <!--
 > *'The measure of intelligence is the ability to change.' -- Albert Einstein*
+> *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
 -->
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
@@ -535,6 +538,10 @@ Everything that is not a law of nature is just a shared belief.
 ---
 ## On art
 
+<!--
+> *'Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.' -- Leonardo da Vinci*
+-->
+
 > *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 
 > *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
@@ -704,6 +711,8 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 ## On books
 
 <!--
+> *'The best writing is rewriting.' -- E. B. White*
+> *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
 when writing a book start with your own ideas
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
 > *'People say that life is the thing, but I prefer reading.' -- Logan Pearsall Smith*

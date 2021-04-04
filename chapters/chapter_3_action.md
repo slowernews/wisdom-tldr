@@ -10,6 +10,10 @@
 
 ## On creativity, vision and ideas
 
+<!--
+> *'The imagination of nature is far, far greater than the imagination of man.' -- Richard Feynman*
+-->
+
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
@@ -231,6 +235,7 @@ However, don't sabotage them when they get tedious or too difficult.
 ## On decision making
 
 <!--
+> *'A mistake repeated more than once is a decision.' -- Paulo Coelho*
 - Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad.
 - Occam’s razor states that the simplest solution is usually correct.
 > *'My brother says to never make a big decision before you take a shower.'*
@@ -1063,6 +1068,9 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 <!--
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
+> *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
+> *'If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.' -- Mark Twain*
+> *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
 -->
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*

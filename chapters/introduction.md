@@ -8,6 +8,15 @@
 
 ## The real you
 
+<!--
+There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
+to be real you need to be vulnerable
+> *'Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
+Entrepeneurs are curious
+> *'You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.' -- Friedrich Nietzsche*
+> *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
+-->
+
 > *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
@@ -35,20 +44,37 @@ Never stop working on yourself. Always strive to be better. Is succeeding at med
 
 > *'Your temporary circumstances do not have to become your permanent identity' -- Greg Hartle*
 
-<!--
-There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
-to be real you need to be vulnerable
-> *'Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
-Entrepeneurs are curious
-> *'You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.' -- Friedrich Nietzsche*
-> *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
--->
-
 
 
 
 ---
 ## On happiness
+
+<!--
+> *'Happiness consists in getting enough sleep. Just that, nothing more.' -- Robert A. Heinlein*
+> *'For every minute you are angry you lose sixty seconds of happiness.' -- Ralph Waldo Emerson*
+> *'The rise is always better than the peak.' -- Jim Jefferies*
+> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
+> *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
+> *'All the world is made of faith, and trust, and pixie dust.' -- J.M. Barrie*
+
+- It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit.
+- It’s quite liberating to understand reality as a construction.  
+- High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
+- Anchor yourself -- remember who you are, the things you are good at, even when completely different thing. authentic self is a state
+- Encourage people to think in terms of probabilities. You cant guarantee good outcome, you can is maximise the chances
+- Focus on internal fulfillment not external success
+- Happiness is outside of my comfort zone.
+- Happiness comes from autonomy not money.
+- Love, sucess and happiness are a byproduct
+- Persistence + Love = Abundance
+- Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
+- In the absence of such an outlet, masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
+- I’m a straight capitalist-meritocratist, entirely driven by gratitude.
+- If you aren’t happy on the journey you won’t be happy at the destination.
+- If you cannot learn to be happy while you are building your business, you will not be happy when you sell it for $10 million.
+= fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.
+-->
 
 > *'Happiness is when what you think, what you say, and what you do are in harmony.' --  Mahatma Gandhi*
 
@@ -89,27 +115,3 @@ Be [grateful](chapter_1_self.md#on-gratitude).
 > *'One of the keys to happiness is a bad memory.' -- Rita Mae Brown*
 
 > *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
-
-<!--
-> *'The rise is always better than the peak.' -- Jim Jefferies*
-> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
-> *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
-> *'All the world is made of faith, and trust, and pixie dust.' -- J.M. Barrie*
-
-- It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit.
-- It’s quite liberating to understand reality as a construction.  
-- High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
-- Anchor yourself -- remember who you are, the things you are good at, even when completely different thing. authentic self is a state
-- Encourage people to think in terms of probabilities. You cant guarantee good outcome, you can is maximise the chances
-- Focus on internal fulfillment not external success
-- Happiness is outside of my comfort zone.
-- Happiness comes from autonomy not money.
-- Love, sucess and happiness are a byproduct
-- Persistence + Love = Abundance
-- Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
-- In the absence of such an outlet, masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
-- I’m a straight capitalist-meritocratist, entirely driven by gratitude.
-- If you aren’t happy on the journey you won’t be happy at the destination.
-- If you cannot learn to be happy while you are building your business, you will not be happy when you sell it for $10 million.
-= fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.
--->

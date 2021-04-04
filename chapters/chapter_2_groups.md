@@ -79,6 +79,8 @@ When public speaking you dont need to answer their question. You can say whateve
 
 > *'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
 
+> *'War is what happens when language fails.' -- Margaret Atwood*
+
 Don’t avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
 Neutrality is not possible. Anyway preserve your freedom as much as possible.
 
@@ -368,6 +370,7 @@ You’re never too old to make a friend. Look for people with the same interests
 ## On society and politics
 
 <!--
+> *'A single death is a tragedy; a million deaths is a statistic.'*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
 > *'History is a race between education and catastrophe.' -- H.G. Wells*
 > *'Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.' -- George Carlin*
@@ -418,6 +421,8 @@ Taxes aren’t a punishment. They are a membership fee that 80% of us are volunt
 ## On business and entrepreneurship
 
 <!--
+> *'The public should always be wondering how it is possible to give so much for the money.' -- Henry Ford*
+
 - Validate your business by finding paying clients. 
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
 - CEOs are adaptable and flexible and good risk managers.

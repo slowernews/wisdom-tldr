@@ -58,6 +58,8 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
+> *'Nobody realizes that some people expend tremendous energy merely to be normal.' -- Albert Camus*
+
 - its not to became something. It’s to unbecome everything that is not you.
 - The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. truth-a-better-way-to-talk-about-ourselves.
 - core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
@@ -139,6 +141,10 @@ Take extreme ownership. Why? when are willing to swallow your pride and take own
 
 ---
 ## On humbleness
+
+<!--
+> *'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -- Paulo Coelho*
+-->
 
 > *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
@@ -811,6 +817,10 @@ Behaviors are driven by fear. To change behaviors focus on fear, not on the beha
 
 ### On courage
 
+<!--
+> *'The real heroes anyway aren't the people doing things; the real heroes are the people NOTICING things, paying attention.' -- John Green*
+-->
+
 > *'Tolerance of intolerance is cowardice.' -- Ayaan Hirsi Ali*
 
 > *'Life shrinks or expands in proportion to one’s courage.' -- Anaïs Nin*
@@ -911,6 +921,7 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 ## On confidence and validation
 
 <!--
+> *'The less confident you are, the more serious you have to act.' --  Tara Ploughman*
 - nobody that is busy is confident
 "low self confidence is the source of all problems. all neediness is a sign of self low confidence
 punishing yourself for failing. failing is learning.
