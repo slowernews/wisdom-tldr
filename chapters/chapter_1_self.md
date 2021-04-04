@@ -10,6 +10,25 @@
 
 ## On independence
 
+<!--
+Codependent no more: How to stop controlling others and start caring for yourself.
+
+Practice doing without things you think you need.
+Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
+The bank owned them. Work owned them.
+
+3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
+
+> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
+> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston Churchill*
+> *'Quem não chora não mama.'*	
+> *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
+> *'Só os mais corajosos conseguem fazer a paz' -- Trump*
+> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
+
+- There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
+-->
+
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
 Your independence is your legacy.
@@ -32,42 +51,11 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 
 > *'Never explain: your friends do not need it, and your enemies will not believe you anyway.' -- Elbert Hubbard*
 
-<!--
-Codependent no more: How to stop controlling others and start caring for yourself.
-
-Practice doing without things you think you need.
-Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
-The bank owned them. Work owned them.
-
-3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
-
-> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
-> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston Churchill*
-> *'Quem não chora não mama.'*	
-> *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
-> *'Só os mais corajosos conseguem fazer a paz' -- Trump*
-> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
-
-- There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
--->
-
 
 
 
 ---
 ## On authenticity
-
-> *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
-
-> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
-
-Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. It’s not that we’re learning how to be authentic, but that we’re un-learning inauthenticity.
-
-The best value you can add is by being more of yourself not by changing. If you try to be something you’re not, you end up being nothing. Don’t try to be perfect. People know when they’re talking to the real thing. Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
-
-> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
-
-> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 <!--
 - its not to became something. It’s to unbecome everything that is not you.
@@ -96,11 +84,35 @@ You must play by your rules, funnel your weird stuff to give you some advantage.
 _im bad in following a script_
 -->
 
+> *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
+
+> *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
+
+Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. It’s not that we’re learning how to be authentic, but that we’re un-learning inauthenticity.
+
+The best value you can add is by being more of yourself not by changing. If you try to be something you’re not, you end up being nothing. Don’t try to be perfect. People know when they’re talking to the real thing. Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
+
+> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
+
+> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
+
 
 
 
 ---
 ## On accountability
+
+<!--
+> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+- dishonesty is a reaction to fear.
+- bravery is learned -> micro-bravery, start small
+- Humility With forward action: 'I wasn’t the smartest in X but..'
+- integrity is what you think is what you say, and the same what you do.
+- being vulnerable is taking don’t be afraid of taking a risk.
+- Be willing to side with the minority.
+
+> *'Without commitment, you cannot have depth in anything, whether it’s a relationship, a business or a hobby.' -- Neil Strauss*
+-->
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
 
@@ -121,16 +133,6 @@ Take extreme ownership. Why? when are willing to swallow your pride and take own
 > *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change.' --  Katharine Hepburn*
 
 > *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
-
-<!--
-> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
-- dishonesty is a reaction to fear.
-- bravery is learned -> micro-bravery, start small
-- Humility With forward action: 'I wasn’t the smartest in X but..'
-- integrity is what you think is what you say, and the same what you do.
-- being vulnerable is taking don’t be afraid of taking a risk.
-- Be willing to side with the minority.
--->
 
 
 
@@ -158,6 +160,12 @@ A way to humble yourself is to put you in the position of being the weakest pers
 ---
 ## On gratitude
 
+<!--
+> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
+Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
+- A good life is not a life without problems. A good life is a life with good problems. mm
+-->
+
 > *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
 
 > *'If you concentrate on what you don’t have, you will never, ever have enough.' -- Oprah Winfrey*
@@ -173,12 +181,6 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.' -- Lao Tzu*
 
-<!--
-> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
-Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
-- A good life is not a life without problems. A good life is a life with good problems. mm
--->
-
 
 
 
@@ -186,6 +188,32 @@ Play the cards you are dealt. And you will often be dealt bad cards. Being grate
 # 1.2 - On growth
 
 ### On finding your path
+
+<!--
+> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' --  Paulo Coelho*
+> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
+
+- there’s a price for it always. everything is an exchange. you can achieve everything but there is a price. people don’t achieve anything because they are not willing to sacrifice. everything is a trade.
+- parabol: that door is only for you.	
+- Best Effort + Surrender = DESTINY
+
+“Your Ten-Year Plan for a Remarkable Life”. in 2027 how a day of your life will look like? write how will look this day. dream big. write it with no fear and read it once a year. these things can make a difference. exercise: what would be your life if you wouldnt have fear of failure of life.
+
+- Most people continue to chase down their ever elusive “calling”. You know, that one thing that if they do not do it, they have wasted their entire life and skillsets on trivial activities and distractions. Allow me to share a little secret with you. This doesn’t exist.
+- Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose. So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you. challenge Because that is where you will find true fulfillment and satisfaction. Create Projects, Not Goals
+- Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success. You must know exactly what you want, when you want it, and why you want it. Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
+- We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change._sivers
+- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It’s not an age thing.
+- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
+- When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
+- DO THE WORK: Work until your idols become your rivals. Work hard in silence. Let your silence be your noise. How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.
+
+What do you really want?
+- What do the actions of your past suggest is most important to you?
+- What desires do you have that don’t align with your past behavior.
+- What future path does your past behavior suggest rather than your imagination?
+- If you don’t like these answers, change your existing behavior.
+-->
 
 > *'The obstacle is the way.' -- Marcus Aurelius*
 
@@ -239,37 +267,23 @@ Hints:
 
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
 
-<!--
-> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' --  Paulo Coelho*
-> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
-
-- there’s a price for it always. everything is an exchange. you can achieve everything but there is a price. people don’t achieve anything because they are not willing to sacrifice. everything is a trade.
-- parabol: that door is only for you.	
-- Best Effort + Surrender = DESTINY
-
-“Your Ten-Year Plan for a Remarkable Life”. in 2027 how a day of your life will look like? write how will look this day. dream big. write it with no fear and read it once a year. these things can make a difference. exercise: what would be your life if you wouldnt have fear of failure of life.
-
-- Most people continue to chase down their ever elusive “calling”. You know, that one thing that if they do not do it, they have wasted their entire life and skillsets on trivial activities and distractions. Allow me to share a little secret with you. This doesn’t exist.
-- Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose. So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you. challenge Because that is where you will find true fulfillment and satisfaction. Create Projects, Not Goals
-- Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success. You must know exactly what you want, when you want it, and why you want it. Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
-- We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change._sivers
-- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It’s not an age thing.
-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
-- When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
-- DO THE WORK: Work until your idols become your rivals. Work hard in silence. Let your silence be your noise. How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.
-
-What do you really want?
-- What do the actions of your past suggest is most important to you?
-- What desires do you have that don’t align with your past behavior.
-- What future path does your past behavior suggest rather than your imagination?
-- If you don’t like these answers, change your existing behavior.
--->
-
 
 
 
 ---
 ## On comfort and risk
+
+<!--
+- This is where margins of safety come in. We build them to reduce the precariousness of chance. Large margins of safety are not always possible. Sometimes they are too expensive. Sometimes they are not available. The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money. Sometimes when the stakes are low, we decide the trade-off isn’t worth it. What decisions would you make differently if you were factoring safety margins into your life? To be fair, you can’t put them everywhere. Otherwise, your life might be all margin and no living. To figure out where else you should build margins of safety into your life, think of the times you’ve been terrified and desperate. Those might be good places to start learning from experience and making the most of your second chances.
+- It is very popular to be over positive or over negative about it in the media (those people are usually wrong). So keep that in mind when reading those kind of opinions.
+- make meetings over playing something. Charlie replaced “let’s grab coffee” with hikes and catch meetings in the park.
+- This isn’t a success strategy. This is a WELL-BEING strategy.
+- Stability without Stagnation
+- FIVE PSYCHOLOGICAL ROADBLOCKS TO EXPLORING OUTSIDE OUR COMFORT ZONES: Authenticity, Likeability, Competence, resentment, morality
+- 'And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.' -- machiavelli, chapter 6 of _The Prince_
+- risk over safety is the way to pull forward. Risk Leads to Growth and Excitement. You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
+Let your fears guide you. The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
+-->
 
 > *'If you think adventure is dangerous, try routine. It’s lethal.' -- Paulo Coelho*
 
@@ -314,38 +328,11 @@ But the problem with this philosophy is that no great work ever came from comfor
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.  
 - Risk looks different for everyone.  
 
-<!--
-- This is where margins of safety come in. We build them to reduce the precariousness of chance. Large margins of safety are not always possible. Sometimes they are too expensive. Sometimes they are not available. The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money. Sometimes when the stakes are low, we decide the trade-off isn’t worth it. What decisions would you make differently if you were factoring safety margins into your life? To be fair, you can’t put them everywhere. Otherwise, your life might be all margin and no living. To figure out where else you should build margins of safety into your life, think of the times you’ve been terrified and desperate. Those might be good places to start learning from experience and making the most of your second chances.
-- It is very popular to be over positive or over negative about it in the media (those people are usually wrong). So keep that in mind when reading those kind of opinions.
-- make meetings over playing something. Charlie replaced “let’s grab coffee” with hikes and catch meetings in the park.
-- This isn’t a success strategy. This is a WELL-BEING strategy.
-- Stability without Stagnation
-- FIVE PSYCHOLOGICAL ROADBLOCKS TO EXPLORING OUTSIDE OUR COMFORT ZONES: Authenticity, Likeability, Competence, resentment, morality
-- 'And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.' -- machiavelli, chapter 6 of _The Prince_
-- risk over safety is the way to pull forward. Risk Leads to Growth and Excitement. You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
-Let your fears guide you. The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
--->
-
 
 
 
 ---
 ## On improving
-
-> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
-
-> *'Once you stop learning, you start dying.' -- Albert Einstein*
-
-Most problems can be solved by graded exposure over time.  
-You improve with experience and analysis of past situations.
-
-> *'The fastest way to learn is to do things the slow way.' -- Chris Sommer (gymnastics coach)*
-
-> *'The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.' -- Alvin Toffler*
-
-> *'Any fool can know. The point is to understand.' -- Albert Einstein*
-
-> *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
 
 <!--	
 1. You need to recognize when you’re not learning, for one thing. If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
@@ -400,6 +387,21 @@ Going public with a goal increases your support and accountability. Ask for supp
 
 > *'We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.'*
 -->
+
+> *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
+
+> *'Once you stop learning, you start dying.' -- Albert Einstein*
+
+Most problems can be solved by graded exposure over time.  
+You improve with experience and analysis of past situations.
+
+> *'The fastest way to learn is to do things the slow way.' -- Chris Sommer (gymnastics coach)*
+
+> *'The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.' -- Alvin Toffler*
+
+> *'Any fool can know. The point is to understand.' -- Albert Einstein*
+
+> *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
 
 ### Improving by experience
 
@@ -497,6 +499,13 @@ skill fluency!
 ---
 ## On achieving mastery
 
+<!--
+- Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
+
+> *'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes*
+The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
+-->
+
 > *'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
 
 After learning the rules, break them. Only then you can achieve mastery.  
@@ -523,56 +532,15 @@ However mastery is an important trigger of arrogance. There is no place for a pr
 
 > *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
 
-<!--
-- Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
-
-> *'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes*
-The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
--->
-
 
 
 
 ---
 ## On habits and systems
 
-> *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
-
-Consistency doesn’t come from effort, it comes from systems. Decisions compound. The pathway to freedom is discipline.
-
-> *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
-
-> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
-
-> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
-
-> *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
-
-> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
-
-> *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
-
-### How to create new habits?
-
-- Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
-- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
-- Get accountable: Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.  
-- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
-- Focus on the costs of bad habits.
-
-Hints on good habits:
-
-- Cultivate high leverage habits: meditate, spend time outside, exercise, rest, travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
-- Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
-- Mental checklist of positive habits.
-- Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
-- It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.
-- People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.
-
-However variety and novelty are also important, so balance it.
-
 <!--
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+> *'However little television you watch, watch less.' -- David McCullough*
 
 Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
 
@@ -644,33 +612,50 @@ Habits can compound.
 Habits can be as small as necessary
 Nothing will change your future trajectory like habits
 
-Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things. -- Charles Duhigg wrote in The Power of Habit
-
+> *'Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.' -- Charles Duhigg*
 > *'Pain plus reflection equals progress.' -- Ray Dalio*
 -->
+
+> *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
+
+Consistency doesn’t come from effort, it comes from systems. Decisions compound. The pathway to freedom is discipline.
+
+> *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
+
+> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
+
+> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
+
+> *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
+
+> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
+
+> *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
+
+Hints:
+
+- Cultivate high leverage habits: meditate, spend time outside, exercise, rest, travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
+- Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
+- Mental checklist of positive habits.
+- Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
+- It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.
+- People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.
+
+### How to create new habits?
+
+- Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
+- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
+- Get accountable: Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.  
+- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
+- Focus on the costs of bad habits.
+
+However variety and novelty are also important, so balance it.
 
 
 
 
 ---
 ## On self awareness
-
-> *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
-
-Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
-
-> *'The things we see every day are the things we never see at all.' -- G.K. Chesterton*
-
-> *'Weeds are flowers too, once you get to know them.' -- A.A. Milne*
-
-> *'The best mirror is an old friend.' -- George Herbert*
-
-### How to grow self awareness?
-
-Do you know anyone who doesn’t have any blind spots? Then why would you be any different?  
-We should always question our assumptions: “What if I’m wrong about this?”.
-
-Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
 
 <!--
 So take the time now to truly understand what your beliefs and patterns are in every area of life.
@@ -690,6 +675,25 @@ We need to accept that people can do great things while still having flaws. Our 
 When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
 -->
 
+> *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
+
+Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
+
+> *'The things we see every day are the things we never see at all.' -- G.K. Chesterton*
+
+> *'Weeds are flowers too, once you get to know them.' -- A.A. Milne*
+
+> *'The best mirror is an old friend.' -- George Herbert*
+
+### How to grow self awareness?
+
+> *'People who can't laugh at themselves will always be outwitted by people who can.' -- T. K. Coleman*
+
+Do you know anyone who doesn’t have any blind spots? Then why would you be any different?  
+We should always question our assumptions: “What if I’m wrong about this?”.
+
+Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
+
 
 
 
@@ -697,6 +701,13 @@ When you don’t create things, you become defined by your tastes rather than ab
 # 1.3 - On your worst enemy: yourself
 
 ## On stress and health
+
+<!--
+- therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
+- Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
+
+HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+-->
 
 Take care of your body, it’s the most important thing you’ll get for free. Our bodies were built to hunt and gather and move, not to stay still. However the origin of most health problems is not physical but mental.
 
@@ -753,18 +764,28 @@ Fasting is also relevant: debug your body as much as you can.
 
 > *'Pain is inevitable. Suffering is optional.' -- Haruki Murakami*
 
-<!--
-- therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
-- Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
-
-HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
--->
-
 
 
 
 ---
 ## On fear, anger and excuses
+
+<!--
+age is a mindset
+> *'Named must your fear be before banish it you can.' -- Yoda*
+> *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
+> *'The things we fear the most have already happened to us.'*
+> *'If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us.' -- Hermann Hesse*
+> *'We should all start to live before we get too old. Fear is stupid. So are regrets.' -- Marilyn Monroe*
+> *'Never be bullied into silence. Never allow yourself to be made a victim. Accept no one’s definition of your life; define yourself.' -- Robert Frost*
+
+- Conquering Fear = Defining Fear: define your fears not your goals
+- I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
+“Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
+> *'The only real prison is fear, and the only real freedom is freedom from fear' -- Aung San Suu Kyi*
+> *'Don’t give in to your fears. If you do, you won’t be able to talk to your heart.' -- Paulo Coelho*
+> *'Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving.' -- Alan Paton*
+-->
 
 > *'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
 
@@ -800,27 +821,16 @@ To have courage you can’t have too much reverence.
 
 > *'All the darkness in the world cannot extinguish the light of a single candle.' -- Francis of Assisi*
 
-<!--
-age is a mindset
-> *'Named must your fear be before banish it you can.' -- Yoda*
-> *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
-> *'The things we fear the most have already happened to us.'*
-> *'If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us.' -- Hermann Hesse*
-> *'We should all start to live before we get too old. Fear is stupid. So are regrets.' -- Marilyn Monroe*
-> *'Never be bullied into silence. Never allow yourself to be made a victim. Accept no one’s definition of your life; define yourself.' -- Robert Frost*
-
-- Conquering Fear = Defining Fear: define your fears not your goals
-- I do an exercise called “fear-setting” at least once a quarter, often once a month. It is the most powerful exercise I do.
-“Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim calls this exercise “Fear-Setting” and he uses it frequently.
-> *'The only real prison is fear, and the only real freedom is freedom from fear' -- Aung San Suu Kyi*
-> *'Don’t give in to your fears. If you do, you won’t be able to talk to your heart.' -- Paulo Coelho*
--->
-
 
 
 
 ---
 ## On shame
+
+<!--
+> *'Just get out of the room.' -- Robert Glover*
+- shame is the opposite of confidence. confidence is shamelessness. shame is created by dishonesty. you do it not other people. THE cure is honesty.
+-->
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
@@ -836,16 +846,27 @@ When you try to hide something about yourself, you automatically create shame. Y
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
-<!--
-> *'Just get out of the room.' -- Robert Glover*
-- shame is the opposite of confidence. confidence is shamelessness. shame is created by dishonesty. you do it not other people. THE cure is honesty.
--->
-
 
 
 
 ---
 ## On mistakes and failure
+
+<!--
+> *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
+
+- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
+- When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
+- Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
+- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
+But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
+De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
+After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
+- Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
+Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
+- I had a scarcity mindset = pessimism, about life and zero confidence
+- Thinking about it makes it worse. Writing about it makes it better.
+-->
 
 > *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
@@ -883,65 +904,11 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 
 > *'It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
 
-<!--
-> *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
-
-- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
-- When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
-- Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
-- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
-But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
-De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
-After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
-- Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
-Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
-- I had a scarcity mindset = pessimism, about life and zero confidence
-- Thinking about it makes it worse. Writing about it makes it better.
--->
-
 
 
 
 ---
 ## On confidence and validation
-
-> *'Believe you can, and you’re halfway there.'*
-
-If you say it with confidence, you are who you say you are. You’re only as good as your next speech.
-
-Don’t wait for someone to tell you that you are special. You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness. Let go of your ego and your need for validation. If the universe didn’t need you, you wouldn’t be here. 
-
-> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
-
-> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
-
-> *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
-
-Mastery and core values are good sources of confidence.  
-In the meanwhile any source is good. Don’t stop till you get it.
-
-> *'If you don’t believe in yourself. Believe in me who believes in you.'*
-
-> *'Fake it till you make it.'*
-
-Other confidence «movers»:
-
-- When you break an agreement that you make with yourself, your selfestime plummets: don’t do it or renegociate it.  
-- Confidence: state + mastery. impress yourself.  
-- Confidence is a result, not a requirement.  
-- Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can’t be faked.  
-- Confidence relies on pride. pursue authentic pride.  
-- Hard work = confidence
-
-HOWEVER... know the frontier between confidence and arrogance.
-
-> *'Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone at all.'*
-
-> *'Ego is the enemy. People say that you can’t fly and then you flew. Then you think you are God.'*
-
-> *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
-
-> *'Don’t be so humble - you are not that great.' -- Golda Meir*
 
 <!--
 - nobody that is busy is confident
@@ -992,6 +959,44 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 > *'We accept the love we think we deserve.' -- Stephen Chbosky*
 -->
 
+> *'Believe you can, and you’re halfway there.'*
+
+If you say it with confidence, you are who you say you are. You’re only as good as your next speech.
+
+Don’t wait for someone to tell you that you are special. You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness. Let go of your ego and your need for validation. If the universe didn’t need you, you wouldn’t be here. 
+
+> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
+
+> *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
+
+Mastery and core values are good sources of confidence.  
+In the meanwhile any source is good. Don’t stop till you get it.
+
+> *'If you don’t believe in yourself. Believe in me who believes in you.'*
+
+> *'Fake it till you make it.'*
+
+Other confidence «movers»:
+
+- When you break an agreement that you make with yourself, your selfestime plummets: don’t do it or renegociate it.  
+- Confidence: state + mastery. impress yourself.  
+- Confidence is a result, not a requirement.  
+- Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can’t be faked.  
+- Confidence relies on pride. pursue authentic pride.  
+- Hard work = confidence
+
+HOWEVER... know the frontier between confidence and arrogance.
+
+> *'Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone at all.'*
+
+> *'Ego is the enemy. People say that you can’t fly and then you flew. Then you think you are God.'*
+
+> *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
+
+> *'Don’t be so humble - you are not that great.' -- Golda Meir*
+
 
 
 
@@ -1008,11 +1013,19 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.' -- Mark Manson*
 
+> *'Pessimists sound smart. Optimists make money.' --  Nat Friedman*
+
 
 
 
 ---
 ## On limits, resistance and motivation
+
+<!--
+- The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
+
+fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+-->
 
 > *'The only person standing in your way is you.' -- Black Swan*
 
@@ -1032,17 +1045,16 @@ However your level of success will seldom exceed your level of personal developm
 - Break down your dreams/goals into achievable steps.  
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation.
 
-<!--
-- The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
-
-fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
--->
-
 
 
 
 ---
 ## On perfectionism
+
+<!--
+Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
+> *'Healthy striving is self-focused: «How can I improve?» Perfectionism is other-focused: «What will they think?»' -- Brené Brown* 
+-->
 
 > *'The perfect is the enemy of the good.' -- Voltaire*
 
@@ -1056,8 +1068,3 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 > *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
-
-<!--
-Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
-> *'Healthy striving is self-focused: «How can I improve?» Perfectionism is other-focused: «What will they think?»' -- Brené Brown* 
--->
