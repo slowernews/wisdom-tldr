@@ -88,8 +88,9 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 
 > *'If you don’t imagine, nothing ever happens at all.' -- John Green*
 
-Dream big. If your dreams don’t scare you, they are not big enough.  
-Anomalies often represent the future but to our eyes they seem strange.
+Dream big.
+
+If your dreams don’t scare you, they are not big enough. Anomalies often represent the future but to our eyes they seem strange.
 
 > *'I dream my painting and I paint my dream.' -- Vincent van Gogh*
 
@@ -117,9 +118,9 @@ However don’t worry too much, you can’t control it.
 
 > *'Every day in the mirror I watch death at work.' -- Jean Cocteau*
 
-> *'A man that lives from memories becames old. One that lives from projects remains young.' -- Bruno Munari*
+Aging implies damage.
 
-> *'There is no such thing as successful aging because aging is damage.' -- Art De Vany*
+> *'A man that lives from memories becames old. One that lives from projects remains young.' -- Bruno Munari*
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
 
@@ -159,7 +160,6 @@ To reveal the true nature of your intelligence rarely pays. It’s the most sens
 
 <!--
 > *'The measure of intelligence is the ability to change.' -- Albert Einstein*
-> *'All the darkness in the world cannot extinguish the light of a single candle.' -- Francis of Assisi*
 -->
 
 
@@ -203,9 +203,9 @@ Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 ---
 ## On fame and popularity
 
-See fame as a multiplier. If you want to impact the world, be famous.
-
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
+
+See fame as a multiplier. If you want to impact the world, be famous.
 
 
 
@@ -217,7 +217,7 @@ See fame as a multiplier. If you want to impact the world, be famous.
 
 > *'If you live long enough, most people will get what they deserve.' -- Charlie Munger*
 
-Unless you're winning, life will seem unfair to you, but, bad luck is often bad planning. If you're sure it’s not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it’s all math. The best things in life are born from coincidence.
+Unless you’re winning, life will seem unfair to you, but, bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it’s all math. The best things in life are born from coincidence.
 
 «Random» usually means that you haven’t looked long enough to see a pattern emerge.
 
@@ -319,7 +319,7 @@ You are in a city, without knowing the language, manage to go to the hostel, mee
 - Don’t play the government’s game. Instead, create a game that worked by my rules, a game I could win.
 - find another way to derive meaning from life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
 - That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
-- But you're choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
+- But you’re choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 - My life has been a series of questions and odd experiments.
 - Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
 - overheard someone say in a SF cafe: "I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much.
@@ -345,7 +345,7 @@ However [fear](#on-confidence-and-validation), not failure, is the biggest barri
 
 > *'Doubt kills more dreams than failure ever will.'*
 
-> *'Whether you think you can, or you think you can’t, you're right.' -- Henry Ford*
+> *'Whether you think you can, or you think you can’t, you’re right.' -- Henry Ford*
 
 <!--
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
@@ -683,7 +683,7 @@ Hints:
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.' -- my teacher*
 
-A college education can help you make a living. Self-education can make you a fortune.  
+A college education may help you make a living. Self-education may make you a fortune.  
 The value of formal education is signaling, rather than actual learning.
 
 > *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
@@ -729,7 +729,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 ### On classic books
 
-> *'The great books are the books that never have to be written again.'-- Carl Van Doren*
+> *'The great books are the books that never have to be written again.' -- Carl Van Doren*
 
 > *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
 
@@ -791,9 +791,6 @@ Ability to ignore new tools and technologies;
 Taste for simplicity;
 Good code deletion skills;
 Humility.
-
-What will that tech need to survive? Lithium, for batteries. Heavy metals, for processing. Energy, most of all.
-I wonder how long it'll be until we replace fiat currencies with a balance of kilowatt-hours.
 -->
 
 
@@ -822,9 +819,9 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 ---
 ## On what men value in women
 
-Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
-
 > *'No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful.' -- Eleanor Roosevelt*
+
+Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
 
 <!--
 people of all political persuasions

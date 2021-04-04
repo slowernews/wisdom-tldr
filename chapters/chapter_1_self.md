@@ -63,7 +63,7 @@ The bank owned them. Work owned them.
 
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. It’s not that we’re learning how to be authentic, but that we’re un-learning inauthenticity.
 
-The best value you can add is by being more of yourself not by changing. If you try to be something you're not, you end up being nothing. Don’t try to be perfect. People know when they’re talking to the real thing. Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
+The best value you can add is by being more of yourself not by changing. If you try to be something you’re not, you end up being nothing. Don’t try to be perfect. People know when they’re talking to the real thing. Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
 
 > *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
 
@@ -118,7 +118,7 @@ Trust, not money, is the currency of business and life. Be impeccable with your 
 
 Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
 
-> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you're the one who has got to change.' --  Katharine Hepburn*
+> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change.' --  Katharine Hepburn*
 
 > *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
 
@@ -298,7 +298,7 @@ Breaking rules frightens people but comfort is the enemy of achievement. You kee
 You can choose courage or you can choose comfort, but you can’t choose both.  
 Take risk. Big audacious risk. You’ll never get what you want in life without it. Not taking risks is too risky.
 
-[If you act average, you're going to be average](chapter_2_groups.md#on-following-the-herd). To outperform, you must be different and correct.
+[If you act average, you’re going to be average](chapter_2_groups.md#on-following-the-herd). To outperform, you must be different and correct.
 
 Hints:
 
@@ -348,7 +348,7 @@ You improve with experience and analysis of past situations.
 > *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
 
 <!--	
-1. You need to recognize when you're not learning, for one thing. If it’s easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you're learning.
+1. You need to recognize when you’re not learning, for one thing. If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
 2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
 3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
 5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
@@ -416,7 +416,7 @@ New comes from having a broader perspective and analysis of past situations.
 
 > *'Fools say that they learn by experience, I prefer to profit by others’ experience.' -- Otto von Bismarck*
 
-> *'Every day, with every action and choice, you're either a teacher and an inspiration, or a lesson and a reminder.'*
+> *'Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder.'*
 
 > *'You can only connect the dots looking back, not looking forward.'*
 
@@ -633,7 +633,7 @@ RAIN: Recognize, Accept, Investigate, Note
 
 First forget inspiration.
 Habit is more dependable.
-Habit will sustain you whether you're inspired or not.
+Habit will sustain you whether you’re inspired or not.
 Habit is persistence in practice.” — Octavia Butler
 
 The Benefits of Habits
@@ -792,13 +792,15 @@ Behaviors are driven by fear. To change behaviors focus on fear, not on the beha
 
 > *'Tolerance of intolerance is cowardice.' -- Ayaan Hirsi Ali*
 
-> *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
-
 > *'Life shrinks or expands in proportion to one’s courage.' -- Anaïs Nin*
 
-<!--
-- to have courage  you can’t have too much reverence
+To have courage you can’t have too much reverence.
 
+> *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
+
+> *'All the darkness in the world cannot extinguish the light of a single candle.' -- Francis of Assisi*
+
+<!--
 age is a mindset
 > *'Named must your fear be before banish it you can.' -- Yoda*
 > *'You always have two choices: your commitment versus your fear.' -- Sammy Davis Jr.*
@@ -822,7 +824,8 @@ age is a mindset
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
 
-You are not you think you are: *you are what you hide*.  
+You are not you think you are: *you are what you hide*.
+
 The things you hate most about yourself are the things you hide from the rest of the world. 
 
 ### How is shame created?
@@ -904,7 +907,7 @@ Social Anxiety is never the problem, but trying to avoid social anxiety is. Soci
 
 > *'Believe you can, and you’re halfway there.'*
 
-If you say it with confidence, you are who you say you are. You're only as good as your next speech.
+If you say it with confidence, you are who you say you are. You’re only as good as your next speech.
 
 Don’t wait for someone to tell you that you are special. You should look at rejection as a tool that reveals incompatibility instead of evidence of your unworthiness or inadequateness. Let go of your ego and your need for validation. If the universe didn’t need you, you wouldn’t be here. 
 

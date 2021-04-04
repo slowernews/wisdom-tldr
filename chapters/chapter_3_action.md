@@ -24,13 +24,11 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
-> *'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.' -- Steve Jobs*
-
 ### How to find good ideas?
 
 Best ideas come from the market, not from you.
 
-New ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it’s no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
+Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it’s no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
 Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of.
 
@@ -244,13 +242,11 @@ Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-g
 
 ### On mental models
 
-Use mental models. All models are wrong. The practical question is how wrong do they have to be to not be useful. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool.
-
-Physical maps generally become more accurate as time passes. Not long ago, they often included countries which didn’t exist, omitted some which did, portrayed the world as flat or fudged distances. Nowadays, our maps have come a long way. The same goes for mental models – they are always evolving, being revised – never really achieving perfection. Certainly, over time, the best models are revised only slightly, but we must never consider our knowledge «set».
-
-If you don't understand his limitations, you don't understand the model.
-
 > *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
+
+All models are wrong.
+
+The practical question is how wrong do they have to be to not be useful. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. If you don't understand his limitations, you don't understand the model.
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
 
@@ -261,7 +257,6 @@ If you don't understand his limitations, you don't understand the model.
 <!--
 - Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad.
 - Occam’s razor states that the simplest solution is usually correct.
-- As we know, the map is not the territory. A map can be seen as a symbol or index of a place, not an icon.
 > *'My brother says to never make a big decision before you take a shower.'*
 - Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not.  A tool which maybe could be a bit sharper or easier to use, but still does the job.
 > *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
@@ -270,7 +265,7 @@ If you don't understand his limitations, you don't understand the model.
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 
 - as all the great questions. answers are always evolving
-- oftentimes, the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
+- the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
 - estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game' should give estimates.
 
 What is the least painful way to X?
@@ -364,20 +359,21 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 > *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
-The ability to make fast decisions is a competitive advantage.  
+The ability to make fast decisions is a competitive advantage.
+
 Some people get paralyzed by [over thinking](#on-starting-and-timing). When you don't decide somebody will decide for you.
 
-Some heuristics:
+> *'While we are reasoning concerning life, life is gone.' -- David Hume*
+
+> *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
+
+Hints:
  
 - Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we had 
 better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)  
 - 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
 - No to any decision that requires a calculator or computer. (Warren Buffett)  
 - Default to no. (Steve Jobs)
-
-> *'While we are reasoning concerning life, life is gone.' -- David Hume*
-
-> *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
 
 
 
@@ -563,8 +559,6 @@ Convenience (location) is better than space amount. Trade space for time.
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
-> *'When you run, make sure you run to something and not away from.' -- The Avett Brothers*
-
 > *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
 
 Only fools rush into a situation. By committing too quickly you lose your maneuverability.
@@ -690,7 +684,7 @@ Control what you can: [what you’re primed by](introduction.md#the-real-you), [
 
 Consuming information gives the control freak an illusion of control. He doesn't want to acknowledge that the universe doesn't make sense and he doesn't trust himself to handle disorder in a situation that will get out of his league or skillset.
 
-> *'If things seem under control, you're just not going fast enough.' -- Mario Andretti (F1 pilot)*
+> *'If things seem under control, you’re just not going fast enough.' -- Mario Andretti (F1 pilot)*
 
 > *'One’s real life is often the life that one does not lead.' -- Oscar Wilde*
 
@@ -711,13 +705,13 @@ Consuming information gives the control freak an illusion of control. He doesn't
 ---
 ## On balance
 
+> *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
+
 Life is a balancing act. Most things are not binary.
 
 The dose makes the poison: things in excess become their opposite. The hardest skill is knowing when to stop.
 
 > *'Do not go past the mark you aimed for; in victory, learn when to stop.' -- Robert Greene (47th law of power)*
-
-> *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
 
 Balance is not about spending the same amount of time focused on every area of your life either. It’s about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
 
@@ -793,6 +787,7 @@ There are limits on change, willpower is finite and change requires attention. H
 > *'Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.
 You need to be comfortable both in a suit and tie and in camouflaged jacket.' -- Frank Miniter (paraphrased)*
 -->
+
 
 
 
@@ -970,7 +965,7 @@ A fundamentalist gives answers, a scholar gives questions.
 
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 
-> *'No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
+> *'That is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
 
 ### How to find mentors?
 
@@ -992,7 +987,7 @@ You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-a
 > *'Service to others is the rent you pay for your room here on Earth.' -- Muhammad Ali*  
 > *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*  
 
-> *'If you think you're too small to make an impact, try to go to bed with a mosquito in the room.' -- Dalai Lama*
+> *'If you think you’re too small to make an impact, try to go to bed with a mosquito in the room.' -- Dalai Lama*
 
 <!--
 > *'Powerful people give freely, buying influence rather than things.'*
@@ -1045,16 +1040,14 @@ Always be generous. A low value gift can have the opposite effect.
 
 ### On punishments
 
-Extintion of rewards are more effective.
+Extintion of rewards is more effective.
 
-Punishment only works near the situation that cause it, often triggers a fight-or-flight response, renders us aggressive and inhibits the ability to learn new and better responses.
+Punishment only works near the situation that cause it, triggers a fight-or-flight response and renders people aggressive and inhibits the ability to learn new and better responses.
 
 <!--
 - power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
 - Generosity without Expectation is Sexy. It means that your thoughts, words, and actions are all in congruence. you don’t live a life that is incongruent with what you want to make others happy. You live a life of congruence where everything is in line. This is the pathway to true power. Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
 - The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
-
-impredictable schedule / fixed work amount schedule / fixed time amount schedule
 -->
 
 
@@ -1067,15 +1060,15 @@ impredictable schedule / fixed work amount schedule / fixed time amount schedule
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
 
+> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
+
 Beware of all players.
 
 People are amazing optimizers and will find any loopholes or gaps to their advantage. No one will help you in a way that is prejudicial to them.
 
-> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
-
 ### On easy opponents
 
-Easy players are often just [baiting](#on-charming) you. However - if you can identify them - there are people acting stupid that are easy wins. 
+Easy players are often just [deceiving](#on-charming) you. However - if you can identify them - there are people acting stupid that are easy wins. 
 
 > *'Despise the free lunch.' -- Robert Greene (40th law of power)*
 
@@ -1097,7 +1090,7 @@ Desperate players will risk anything in a fight. This gives them a huge advantag
 
 ### On difficult opponents
 
-Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They can be effective but use them only on desperate situations: it’s a scar for life.
+Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
 
 > *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
 
@@ -1226,7 +1219,7 @@ A screenwriter friend of mine recently told me his secret to writing compelling 
 To be human is to be a contradiction
 
 To Persuade Someone, Look Emotional
-- you automatically trust when somebody is doing at that time what you're doing. paraphrased scott adams
+- you automatically trust when somebody is doing at that time what you’re doing. paraphrased scott adams
 - It’s hard to be angry with someone who agrees with you. Making enemies is expensive.
 -->
 
@@ -1371,11 +1364,11 @@ It’s not just about winning. The way you win sets you up for the next round.
 <!--
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 
-quem ganha a maioria dos duelos normalmanete ganha o jogo. micro e o macro -- sergio conceição
+quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 
 tecnically win or fundamentally win
 
-winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy’s resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it’s only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it’s a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you're using basically the same strategy with basically the same resources as your competitor, you're in a war of attrition.
+winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy’s resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it’s only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it’s a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you’re using basically the same strategy with basically the same resources as your competitor, you’re in a war of attrition.
 -->
 
 
@@ -1384,7 +1377,7 @@ winning by exhaustion: Traditional military theorists such as Sun Tzu (“Suprem
 ---
 ## On surrendering
 
-> *'It only hurts when you don't have time to prepare for the fall' -- Tony Hawk (skater)*
+> *'It only hurts when you don’t have time to prepare for the fall' -- Tony Hawk*
 
 Use this opportunity to re-create yourself. In order to come back you have to go away. If you didnt quit anything you woud be still playing with toddlers.  
 Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
@@ -1412,6 +1405,8 @@ Sometimes good things fall apart so better things can fall together. Every story
 
 > *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
+> *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*
+
 If forgiveness is a process of release — of letting go of something — then the opposite of forgiveness is a decision to hold onto something.
 Many people think that the alternative to forgiveness is punishment: e either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution. But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. People do this all the time. Governments do it every day.
 
@@ -1420,8 +1415,6 @@ By refusing to forgive someone, we get to cast ourselves as victims, as underdog
 > *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
 
 > *'Life has become immeasurably better since I have been forced to stop taking it seriously.' -- Hunter S. Thompson*
-
-> *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*
 
 However:
 

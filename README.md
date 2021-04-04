@@ -1,7 +1,7 @@
 # Wisdom TLDR Guide
 
 Maxims distilled from quotes that match *my* biased experience.  
-«Distillation» is still far from ready, so expect inconsistencies, innacuracies and omissions.
+«Distillation» is still far from ready, so expect inconsistencies, inaccuracies and omissions.
 
 <!--
 Principles on difficult subjects / Concise answers to difficult questions

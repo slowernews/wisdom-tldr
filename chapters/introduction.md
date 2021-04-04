@@ -19,7 +19,7 @@ How you do anything is how you do everything. Ultimately you are your choices.
 
 > *'Weakness of attitude becomes weakness of character.' -- Albert Einstein*
 
-> *'Whenever you think or you believe or you know, you're a lot of other people: but the moment you feel, you're nobody-but-yourself.' --  E.E. Cummings*
+> *'Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself.' --  E.E. Cummings*
   
 ### How to come alive?
 
@@ -92,7 +92,7 @@ Be [grateful](chapter_1_self.md#on-gratitude).
 
 <!--
 > *'The rise is always better than the peak.' -- Jim Jefferies*
-> *'The minute you're satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
+> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 > *'What the superior man seeks is in himself; what the small man seeks is in others.' -- Confucius*
 > *'All the world is made of faith, and trust, and pixie dust.' -- J.M. Barrie*
 

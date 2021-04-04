@@ -53,7 +53,7 @@ Good stories condense a massive amount of information into a consumable and shar
 
 ### How to discord?
 
-Listen as you're wrong. «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
+Listen as you’re wrong. «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
 When public speaking you dont need to answer their question. You can say whatever you want if its interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of saying desagreements.
 
@@ -120,7 +120,7 @@ Outliers inspire envy. Once they stop talking to you, they start to talk about y
 
 > *'Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.' -- Marilyn Monroe*
 
-When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_2_groups.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you're better than them.
+When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_2_groups.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you’re better than them.
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*  
 
@@ -147,6 +147,7 @@ Consensus happens just in the beginning and in the end of something.
 > *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
 
 Most people are other people. People accept the defaults very easily. Their thoughts are someone else opinions and they jump to conclusions.
+
 <!--
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 -->
@@ -245,7 +246,7 @@ Trust and vulnerability are correlated. Trust someone if they say they are human
 
 Focus on what you can give. You only receive in proportion to what you give.  
 
-However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you're ordinary and be ready to loose people. Partner with people who wants you to be all you can be. Hints:
+However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you’re ordinary and be ready to loose people. Partner with people who wants you to be all you can be. Hints:
 
 - If a person is nice to you and to nobody else, that person is not nice.  
 - If you are lonely when you are not alone, you are in bad company.  
@@ -300,48 +301,17 @@ Love doesn’t hurt, expectations do. Every person feels loved in a different fo
 
 > *'Your friends are the ones that go to your funeral in a day of rain.' -- an old General*
 
-Life is people and is meant to be lived in community.  
-However choose who surround you: you are the average of them. 
+Life is meant to be lived in community.
+
+However curate who surround you: you are the average of them. 
 
 > *'Really great people make you feel that you too can be great.' -- Mark Twain*
 
-> *'If you're the smartest in the room, you're in the wrong room.'*  
+> *'If you’re the smartest in the room, you’re in the wrong room.'*  
 
 > *'When you enter a workplace, think that you will become like them and not the opposite.'*
 
 > *'Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.'*
-
-### How to build your «board of directors»?
-
-- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
-- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
-- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
-we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
-
-You're never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one. If a buddy calls and needs to get a drink, go. I also know someone is a friend when I can go long stretches without talking to him and then we talk and its right where we left off.
-
-<!--
-“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
-“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
-I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
--->
-
-### On friends
-
-Resist the temptation of working with family and friends. Keep your friends for friendship, work with the skilled and competent. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
-
-> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
-
-> *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
-
-> *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
-
-> *'Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
-They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
-
-> *'When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
-
-> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success.' -- Oscar Wilde*
 
 ### On family
 
@@ -363,6 +333,38 @@ Cleave from your family but come back. You need to be independent and loyal at t
 > *'Never tell the truth to people who are not worthy of it.' -- Mark Twain*
 -->
 
+### On friends
+
+Resist the temptation of working with family and friends. Keep your friends for friendship, work with the skilled and competent. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
+
+> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
+
+> *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
+
+> *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
+
+> *'Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
+They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
+
+> *'When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
+
+> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success.' -- Oscar Wilde*
+
+### How to build your «board of directors»?
+
+- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
+- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
+- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
+we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
+
+You’re never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one. If a buddy calls and needs to get a drink, go. I also know someone is a friend when I can go long stretches without talking to him and then we talk and its right where we left off.
+
+<!--
+“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
+“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
+I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
+-->
+
 
 
 
@@ -371,7 +373,7 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 > *'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
 
-Politicians don’t like risk. Decisions are made on the lowest risk of offending anybody.
+Politicians hate risk. Decisions are made on the lowest risk of offending people.
 
 Politicians don’t get educated, they get bought. To reduce corruption diminish people involved on analogic processes.
 
@@ -402,7 +404,6 @@ Politicians don’t get educated, they get bought. To reduce corruption diminish
 Taxes aren’t a punishment. They are a membership fee that 80% of us are voluntarily overpaying.
 
 <!--
-> *'Um partido é considerado populista, se apresenta a vida política como uma luta entre uma massa de cidadãos virtuosos e uma elite mal-intencionada e venal.'*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
@@ -433,7 +434,7 @@ Test sales first. If something is worth doing, sales will come easy and dollars 
 
 - They talk to people about their ideas, but never build anything. 
 	- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no paying demand.  
-	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you're interested in. Don’t worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
+	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
 	- Timing is the most important factor in startup success. Team and Execution came next. Quick to start but not the first.
 	- Launch now. Find the 90/10 solution.  
 	- Ignore your competitors, you will more likely die of suicide than murder.  
@@ -478,7 +479,7 @@ Work as hard as you can. Even though who you work with and what you work on are 
 Become the best in the world at what you do. Keep redefining what you do until this is true.
 There are no get rich quick schemes. That’s just someone else getting rich off you.
 Apply specific knowledge, with leverage, and eventually you will get what you deserve.
-When you're finally wealthy, you'll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
+When you’re finally wealthy, you'll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
 - - persuade people to buy rather than teach people to buy.	
 - a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
 
@@ -495,7 +496,7 @@ This wasn’t retirement investing. This was something else. What should we call
 
 - É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
 
-- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you're living in the future and you build something cool that users love, it may matter more than outsiders think."
+- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you’re living in the future and you build something cool that users love, it may matter more than outsiders think."
 	
 Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
 Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
@@ -509,7 +510,7 @@ The difference is that startups live in an economic rather than a biological env
 
 1) Do networking and listen. It’s not about how great you are in your wildest dreams.
 2) Deliver a little bit more than expected. That'll help to get you some recommendations.
-4) Raise your hourly rate. There’s nothing wrong with it, if you're doing a great job based on past projects.
+4) Raise your hourly rate. There’s nothing wrong with it, if you’re doing a great job based on past projects.
 5) Say "No" to nasty, time consuming and time wasting clients.
 6) Build your own brand to be proud of.
 
@@ -592,7 +593,7 @@ ask them first so you can costumise it for the context and make it more relevant
 - Networking types: advocates a, boomerang b, celebrities c, drainers d  
 - Networking types: shark, dolphin, drowner.  
 - Not what should I do next but who should you speak next?
-- the best way to get value was to start giving it away? you're giving validation
+- the best way to get value was to start giving it away? you’re giving validation
 -->
 
 ### Why most people don’t like networking?
@@ -700,7 +701,7 @@ A great manager is a great facilitator.
 For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
 
 You can’t make any judgement of the worker without detailed understanding of the specifics of the work. 
-Ask instead of telling. If you're certain the delivered work is not good enough give a reason.
+Ask instead of telling. If you’re certain the delivered work is not good enough give a reason.
 
 > *'«Is that the best you can do?»  
 «Interesting, how do you feel about it?»  
@@ -803,12 +804,12 @@ Hire people you can trust. You have to trust them to be adults. Give them clear 
 Give them the tools they ask for, not the tools a vendor suggested. They have a reason they asked for a proprietary compiler, get it for them.
 Respect goes a long way and begins in the recruitment phase. It surely doesn’t end there. To get respect, you have to give respect.
 Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There’s no reason to pay crap wages.
-At the same time, wages aren’t everything. Everyone wants to make good money but when you're already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don’t offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you're treating them right, they won’t just up and go to a new company after you've trained them.
+At the same time, wages aren’t everything. Everyone wants to make good money but when you’re already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don’t offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you’re treating them right, they won’t just up and go to a new company after you've trained them.
 
 "Estimativas são Promessas. Promessas devem ser cumpridas.".
 - In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
 Therefore, there is zero correlation between an estimate and the actual outcome.
-- If you're a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
+- If you’re a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
 - There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 - companies hire for a problem and not general optimizations. Even if they need a generalist.
