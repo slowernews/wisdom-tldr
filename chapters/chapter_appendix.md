@@ -147,6 +147,7 @@ Aging implies damage.
 ## On intelligence and talent
 
 <!--
+> *'Some people feel the rain. Others just get wet.' -- Bob Marley*
 > *'The measure of intelligence is the ability to change.' -- Albert Einstein*
 > *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
 - intelligence is a spectrum. a dog is intelligent also. inteliggence is progressive. it comes from senses.
@@ -532,6 +533,8 @@ And on the first day, men created god.
 <!--
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
+
+> *'The imagination of nature is far, far greater than the imagination of man.' -- Richard Feynman*
 -->
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albert Einstein*

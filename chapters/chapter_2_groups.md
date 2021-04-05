@@ -148,7 +148,7 @@ Freud was the one who realized that people’s insecurities drove them to excess
 
 - changing course is hard and this scares us so we look around and try to copy the courses other people took
 
-> *'Some people feel the rain. Others just get wet.' -- Bob Marley*
+> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 > *'Whenever people agree with me I always feel I must be wrong.' -- Oscar Wilde*
 From Scott Adams (Dilbert):
 > Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)

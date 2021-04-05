@@ -10,10 +10,6 @@
 
 ## On creativity, vision and ideas
 
-<!--
-> *'The imagination of nature is far, far greater than the imagination of man.' -- Richard Feynman*
--->
-
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
@@ -236,14 +232,10 @@ However, don't sabotage them when they get tedious or too difficult.
 ## On decision making
 
 <!--
-- Jeff Bezos, once said in a letter to shareholders that he believes that optimal decisions occur when one has 70% of the necessary information. He went on to say that anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome.
-
-> *'A mistake repeated more than once is a decision.' -- Paulo Coelho*
-- Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad.
 - Occam’s razor states that the simplest solution is usually correct.
 > *'My brother says to never make a big decision before you take a shower.'*
 - Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not.  A tool which maybe could be a bit sharper or easier to use, but still does the job.
-> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
+
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
@@ -347,15 +339,17 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 > *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
 
-> *'All models are wrong but some are useful.' -- George Box*
+> *'A mistake repeated more than once is a decision.' -- Paulo Coelho*
 
 ### On mental models
+
+> *'All models are wrong but some are useful.' -- George Box*
 
 > *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
 
 All models are wrong.
 
-The practical question is how wrong do they have to be to not be useful. Our world runs on the functional, not the perfect. This is what a mental model is – a functional tool. If you don't understand his limitations, you don't understand the model.
+The practical question is how wrong do they have to be to not be useful. This is what a mental model is – a functional tool. If you don't understand his limitations, you don't understand the model.
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
 
@@ -364,6 +358,10 @@ The practical question is how wrong do they have to be to not be useful. Our wor
 > *'The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
 
 ### How to speed up decisions?
+
+<!--
+- Jeff Bezos, once said in a letter to shareholders that he believes that optimal decisions occur when one has 70% of the necessary information. He went on to say that anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome.
+-->
 
 > *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
@@ -378,7 +376,7 @@ Some people get paralyzed by [over thinking](#on-starting-and-timing). When you 
 Hints:
  
 - Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we had 
-better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)  
+better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)
 - 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
 - No to any decision that requires a calculator or computer. (Warren Buffett)  
 - Default to no. (Steve Jobs)
