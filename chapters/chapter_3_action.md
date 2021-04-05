@@ -76,6 +76,7 @@ This saves the time needed to make decisions, in particular when under pressure.
 
 Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
 > *'There are no facts, only interpretations.' -- Friedrich Nietzsche*
+> *'The truth will set you free, but first it will piss you off.' -- Gloria Steinem*
 > *'Believe only half of what you see and nothing that you hear.' --  Edgar Allan Poe*
 -->
 
@@ -402,6 +403,7 @@ you always throw out your first pancake - primeiro milho é para os pardais
 
 - in order to understand i destried myself
 
+> *'Hesitation is always easy, rarely useful' -- Prof. Quirrel alterego*
 > *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 > *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
@@ -664,7 +666,7 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 <!--
 - “If you want a task done quickly, ask a busy person to do it.”
-
+- work is a queue of queues. trying hard is not the key to success. this not mean that you don't put your best effort.
 -->
 
 > *'Don't make 100 decisions when one will do.' -- Peter Drucker*
@@ -811,6 +813,7 @@ There are limits on change, willpower is finite and change requires attention. H
 ## On selling, negotiation and price
 
 <!--
+- Price is a filter. Set it to choose the customers you prefer to work with.
 - best marketing is recomendation from other person
 - Marketing is a symptom of excess production.  
 - People don’t buy products, they buy better versions of themselves.  
@@ -929,6 +932,10 @@ Modern selling: farmers (ambiverts and introverts)
 
 ### On negotiation
 
+<!--
+it's easy to negotiate with integrous people.
+-->
+
 > *'You don’t get what you deserve in life, you only get what you negotiate.'*
 
 Negotiation establishes the price (exchange rate between money and value).  
@@ -974,6 +981,8 @@ However always strive to achieve a win-win situation. The deal will fall if both
 
 <!--
 I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It’s up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
+- loving critics. best people to criticise u. what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
+
 -->
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
@@ -1078,6 +1087,8 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 > *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
 > *'If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.' -- Mark Twain*
 > *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
+- human strenght is our ability to cooperate. heros are fictional stories. they are not real. they are a tool to improve our lives not to complicate it.
+- buy thing from your community. sell to outsiders. -- jewish mentality
 -->
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*

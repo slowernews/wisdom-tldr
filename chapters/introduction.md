@@ -51,6 +51,8 @@ Never stop working on yourself. Always strive to be better. Is succeeding at med
 ## On happiness
 
 <!--
+- Money or wealth won‘t make you happy. Family, friends and purposful „work“ does.
+
 > *'Happiness consists in getting enough sleep. Just that, nothing more.' -- Robert A. Heinlein*
 > *'For every minute you are angry you lose sixty seconds of happiness.' -- Ralph Waldo Emerson*
 > *'The rise is always better than the peak.' -- Jim Jefferies*

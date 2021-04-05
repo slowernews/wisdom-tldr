@@ -10,6 +10,10 @@
 
 ## On past and memory
 
+<!--
+- history books are on the history of power.
+-->
+
 > *'The past doesn’t help understanding the present. It’s the present that helps understanding the past.' -- José Saramago*
 
 > *'History does not repeat, but it does rhyme.' -- Mark Twain*
@@ -112,6 +116,10 @@ However don’t worry too much, you can’t control it.
 ---
 ## On growing old
 
+<!--
+- Modern Maturity: Create More, Consume Less.
+-->
+
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
 > *'We don’t stop playing because we grow old; we grow old because we stop playing.' -- George bernard Shaw*
@@ -141,6 +149,7 @@ Aging implies damage.
 <!--
 > *'The measure of intelligence is the ability to change.' -- Albert Einstein*
 > *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
+- intelligence is a spectrum. a dog is intelligent also. inteliggence is progressive. it comes from senses.
 -->
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
@@ -170,6 +179,10 @@ To reveal the true nature of your intelligence rarely pays. It’s the most sens
 
 ---
 ## On money and wealth
+
+<!--
+- money is freedom. why do u want fu money if you don't say fu.
+-->
 
 > *'Some people are so poor, all they have is money.' -- Patrick Meagher*
 
@@ -208,7 +221,9 @@ Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
 
-See fame as a multiplier. If you want to impact the world, be famous.
+See fame as a multiplier. 
+
+People say they want to be famous to impact the world, often what they want is the adoration of their peers.
 
 
 
@@ -280,6 +295,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
+- do work you love for low pay or do work you hate for a high pay.
 In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
 - travel as a way of running way from their problems
 > *'I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude.' -- Colette*
@@ -324,7 +340,7 @@ Hints:
 
 ### How to simplify?
 
-- Use it or loose it.
+- Use it or loose it. A tool is useful when passes human level.
 - Remove unnecessary distractions and obligations that aren’t truly serving your end goals.  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
 
@@ -335,6 +351,8 @@ Hints:
 ## On success
 
 <!--
+- He is terrified of success, because he may be forced to buy a suit.
+
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 silicon valley celebrate failure only after they achieve success
 
@@ -607,6 +625,7 @@ Hints:
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - math shortcut: Years to double = 72 / Interest Rate
 - star business. i didn’t lost money on star businesses. o lost money in businesses i though would be star businesses.
+- analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
 -->
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*

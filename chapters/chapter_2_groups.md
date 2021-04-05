@@ -103,6 +103,7 @@ Neutrality is not possible. Anyway preserve your freedom as much as possible.
 
 <!--
 Consensus happens just in the beginning and in the end of something.
+- somebody else opinion about you is not the truth. all problems are thoughts. its always wat you choose to think about it, is not the circustances. the world is not as they see it is as they think it
 -->
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
@@ -223,30 +224,26 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 
 ---
-# 2.2 - On cooperating
+# 2.2 - On cooperation
 
 ## On relationships
-
-<!--
-- first we judge trust, before strength. we build trust through presence. leadership is based on trust.
--->
 
 > *'Humans make connections.  
 Sometimes these connections grow.  
 Sometimes they stay the same.  
 Sometimes they collapse.'*
 
-Good partnership: complementary skillsets with shared values.
+Trust and vulnerability are correlated.
 
-Trust and vulnerability are correlated. Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them.
+Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them. Good partnership: complementary skillsets with shared values.
 
-> *'If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don’t hide your feelings from people who show you theirs.'*
+If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don’t hide your feelings from people who show you theirs.
 
 > *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don’t see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
  
 > *'You loose your identity, you loose people.' -- Amy Cuddy*
 
-Focus on what you can give. You only receive in proportion to what you give.  
+Focus on what you can give. You receive in proportion to what you give.  
 
 However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you’re ordinary and be ready to loose people. Partner with people who wants you to be all you can be. Hints:
 
@@ -370,6 +367,9 @@ You’re never too old to make a friend. Look for people with the same interests
 ## On society and politics
 
 <!--
+- we don't undertstand suffering very well. sufffering is individual. nations or corporations don't suffer.
+- opposite of corruption is patriotism! Changes from within is more sustainable than revolutions. we don't need individuals we need institutions that work.
+- social contracts: public promises. Everything is a contract!
 > *'A single death is a tragedy; a million deaths is a statistic.'*
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
 > *'History is a race between education and catastrophe.' -- H.G. Wells*
@@ -421,6 +421,11 @@ Taxes aren’t a punishment. They are a membership fee that 80% of us are volunt
 ## On business and entrepreneurship
 
 <!--
+- "The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs."
+- mailbox money
+- designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
+- What one piece of advice would you give someone starting a company?
+Do something that most people think is hard. When you tell someone what you’re starting, their reaction should be, “Are you sure you want to do that? That’s too hard.” That’s exactly what people said when we started Nubank, and it turned out to be a good thing. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too. -- david velez, nubank
 > *'The public should always be wondering how it is possible to give so much for the money.' -- Henry Ford*
 
 - Validate your business by finding paying clients. 
@@ -545,6 +550,7 @@ Test sales first. If something is worth doing, sales will come easy and dollars 
 ## On networking
 
 <!--
+- What's the most common question or problem you get asked about? Share the answer.
 > *'Each of us is born with a box of matches inside us but we can’t strike them all by ourselves' -- Laura Esquivel*
 
 - You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
@@ -618,6 +624,8 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 ## On leadership
 
 <!--
+- Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence? (aka do you have high standards).
+
 We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others. Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
 
 Beth Comstock:
@@ -682,6 +690,7 @@ People want leadership positions because they want autonomy and influence. Influ
 ## On management and delegation
 
 <!--
+- to see who rules you, is the person you are not allowed to criticise.
 - So what makes organizations productive? Making hard decisions. -- scott-belsky (behance creator)
 - elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren’t. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that’s often forgotten when presenting a new idea or direction, which is the status quo.
@@ -777,6 +786,7 @@ Therefore, there is zero correlation between an estimate and the actual outcome.
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 - companies hire for a problem and not general optimizations. Even if they need a generalist.
 - Try consulting or entrepreneurship. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need. When you sell your ability to deliver results, nobody asks about your skillset.
+- money is trust. system of mutual trust.
 -->
 
 > *'He who works with his hands is a laborer.  
@@ -906,6 +916,10 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 > *'For every million people that want to be a successful musician, only one is going to achieve it. If you’re going to be that one, you can’t do what everyone else is doing. Whatever you do, it’ll be creative, efficient, and effective. That’s my definition of resourceful. It means making something happen, instead of saying you can’t. It means accessing all the people and skills you know, including the ones that take extra effort. It usually means doing things for free, but can also mean spending a little money to save a lot of time. It means using a shortcut around obstacles, getting in through a back door, bending the rules, and never waiting for permission. It means asking for help, but not waiting for help. So why do I hate to admit this? Because I love how the internet has made it possible for anyone to get successful anywhere. I love the idea of living in the middle of nowhere, surrounded by nature, yet being connected to the world. But still, when I look at the facts, it’s impossible to deny. Actually living in the big city, and being in the middle of where everything is happening, will help your career the most. Being elsewhere won’t hurt you, but it won’t help.' -- Derek Sivers*
 
 ### How to «pivot» career?
+
+<!--
+- stuff that looks fun for you and looks like work for others.
+-->
 
 > *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
 

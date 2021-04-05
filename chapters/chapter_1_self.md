@@ -27,6 +27,10 @@ The bank owned them. Work owned them.
 > *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
 
 - There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
+- do u want ur daughter to date somebody like u?
+
+- I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules.
+
 -->
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
@@ -545,6 +549,7 @@ However mastery is an important trigger of arrogance. There is no place for a pr
 ## On habits and systems
 
 <!--
+- long term thinking will guarantee you an easier life.
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 > *'However little television you watch, watch less.' -- David McCullough*
 
@@ -664,6 +669,8 @@ However variety and novelty are also important, so balance it.
 ## On self awareness
 
 <!--
+- self wareness: look at mirror what went well today, what went badtoday, how can i get better. what instead of why. why questions make us focus on the problem, getting emotional and stuck in the past. what not why! what can i do for change. what makes us focusing in the solution.
+
 So take the time now to truly understand what your beliefs and patterns are in every area of life.
 The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
 
@@ -709,6 +716,8 @@ Professionals ask questions. Amateurs make statements. Closed-minded people focu
 ## On stress and health
 
 <!--
+- modern mind overestimulated. modern mind is underestimulated.
+- emotions of an event are like bookmarks
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 
@@ -840,6 +849,7 @@ To have courage you can’t have too much reverence.
 <!--
 > *'Just get out of the room.' -- Robert Glover*
 - shame is the opposite of confidence. confidence is shamelessness. shame is created by dishonesty. you do it not other people. THE cure is honesty.
+- My therapist asked, “Where do you feel worthy unrelated to your career?” And I think that’s a question all of us – conditioned by job titles and grind culture – should sit with. @alenciajohnson
 -->
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
@@ -1034,9 +1044,13 @@ HOWEVER... know the frontier between confidence and arrogance.
 ## On limits, resistance and motivation
 
 <!--
+- impostor syndrome’ mentality, because when you accept that others will always be better that you are at different things, then you will cease to compare yourself against them, but instead openly seek guidance from them.
+
+- "Don’t look for inspiration. Look for irritation."
 - The biggest set back I see around me is limiting beliefs. I see a lot of people telling themselves old stories that keep them stuck in patterns that aren’t serving them. I really enjoy sharing my experiences to show others what is possible. I think the biggest compliment I can ever receive is that I inspired someone, if I’ve done that for even one person, my job is complete. Nothing I’ve done in my career is out of reach to the average person, you’ve just got to believe.
 
 fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+- motivation sometimes is just a matter of money! you dont do for x, and for 2x? and for 3x? there is a moment that you'll be motivated!
 -->
 
 > *'The only person standing in your way is you.' -- Black Swan*
