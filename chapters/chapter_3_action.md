@@ -235,6 +235,8 @@ However, don't sabotage them when they get tedious or too difficult.
 ## On decision making
 
 <!--
+- Jeff Bezos, once said in a letter to shareholders that he believes that optimal decisions occur when one has 70% of the necessary information. He went on to say that anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome.
+
 > *'A mistake repeated more than once is a decision.' -- Paulo Coelho*
 - Take a look at almost any comment section on the internet and you are guaranteed to find at least one pedant raging about a minor perceived inaccuracy, throwing out the good with the bad.
 - Occam’s razor states that the simplest solution is usually correct.
@@ -659,6 +661,11 @@ Busy imply out of control. Lack of time is lack of priorities.
 > *'As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself' -- Arthur Schopenhauer*
 
 ### Productivity hints
+
+<!--
+- “If you want a task done quickly, ask a busy person to do it.”
+
+-->
 
 > *'Don't make 100 decisions when one will do.' -- Peter Drucker*
 
@@ -1395,34 +1402,27 @@ It’s not just about winning. The way you win sets you up for the next round.
 
 > *'It only hurts when you don’t have time to prepare for the fall' -- Tony Hawk*
 
-Use this opportunity to re-create yourself. In order to come back you have to go away. If you didnt quit anything you woud be still playing with toddlers.  
-Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning.
+In order to come back you have to go away.
 
-> *'Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.'*
-
-> *'Use the surrender tactic: transform weakness into power.'  
-'Re-create yourself.' -- Robert Greene (22nd and 25th law of power)*
+Use this opportunity to re-create yourself. If you didn’t quit anything you woud be still playing with toddlers. Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning. Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.
 
 > *'Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere.' -- Paul Coelho*
 
 > *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
 
-> *'The greatest revenge is success.' -- Frank Sinatra*
-
 
 
 
 ---
-## On forgiveness
+## On forgiveness and revenge
 
 > *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
 > *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*
 
-If forgiveness is a process of release — of letting go of something — then the opposite of forgiveness is a decision to hold onto something.
-Many people think that the alternative to forgiveness is punishment: e either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution. But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. People do this all the time. Governments do it every day.
+If forgiveness is a process of release then the opposite of forgiveness is a decision to hold onto something.
 
-By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
+Many people think that the alternative to forgiveness is punishment: either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution. But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
 
 > *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
 
@@ -1431,3 +1431,7 @@ By refusing to forgive someone, we get to cast ourselves as victims, as underdog
 However:
 
 > *'Once you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall.' -- Jodi Picoult*
+
+### On revenge
+
+> *'The greatest revenge is success.' -- Frank Sinatra*

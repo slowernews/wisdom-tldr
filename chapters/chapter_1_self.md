@@ -863,6 +863,7 @@ When you try to hide something about yourself, you automatically create shame. Y
 ## On mistakes and failure
 
 <!--
+> *'We're even wrong about which mistakes we're making.' -- Carl Winfeld*
 > *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
 
 - What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
@@ -1061,11 +1062,6 @@ However your level of success will seldom exceed your level of personal developm
 
 ---
 ## On perfectionism
-
-<!--
-Total efficiency constrains us. We become super invested in maintaining the status quo because that is where we excel. Innovation is a threat. Change is terrifying. Being perfect at something is dangerous if it’s the only thing you can do.
-> *'Healthy striving is self-focused: «How can I improve?» Perfectionism is other-focused: «What will they think?»' -- Brené Brown* 
--->
 
 > *'The perfect is the enemy of the good.' -- Voltaire*
 
