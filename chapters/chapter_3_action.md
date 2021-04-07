@@ -181,9 +181,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ## On planning
 
 <!--
-Detailed 5-year plans (that will clearly be wrong) are as disastrous as overly-general five year plans (which can never be wrong).
-
-> *'Someone’s sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 -->
 
@@ -201,29 +198,28 @@ You can’t predict but you can prepare. Plan ahead and prepare for the highly p
 
 > *'The movie might be good or bad but in the end we'll finish eating pizza.' -- unknown*
 
+> *'Someone is sitting in the shade today because someone planted a tree a long time ago.' -- Warren Buffett*
+
 ### How to plan? 
 
 Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable steps.  
 
+Choose the plan with more options. The one that lets you change plan. Plans are only a starting point.  
+However too detailed plans (or too general plans) are not useful and a waste of time.
+
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
 
-> *'A strategy has a single, well defined focus.  
-A strategy lays out a path to be followed.  
-A strategy is made up of parts (tactics).  
-Each of a strategy’s parts pushes towards the defined focus.  
-A strategy is either intentionally formed or emerges naturally.' -- Geoffrey P. Chamberlain*
+> *'A strategy has a single, well defined focus. A strategy lays out a path to be followed. A strategy is made up of parts (tactics). Each of a strategy’s parts pushes towards the defined focus. A strategy is either intentionally formed or emerges naturally.' -- Geoffrey P. Chamberlain*
 
 > *'Strategy requires thought; tactics require observation.' -- Max Euwe*
 
 > *'I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day.' -- Ernest Hemingway*
 
-Choose the plan with more options. The one that lets you change plan. Plans are only a starting point. 
-
 > *'You make plans and god laughs.' -- Yiddish proverbs*
 
 > *'Everyone has a plan until they get punched in the mouth.' -- Mike Tyson*
 
-However, don't sabotage them when they get tedious or too difficult.
+Don't sabotage them when they get tedious or too difficult.
 
 
 
@@ -236,7 +232,6 @@ However, don't sabotage them when they get tedious or too difficult.
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 > *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
-> *'You don't win by predicting the future; you win by getting the odds right.' -- Will Bonner
 
 - Occam’s razor states that the simplest solution is usually correct.
 - Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not.  A tool which maybe could be a bit sharper or easier to use, but still does the job.
@@ -1310,12 +1305,11 @@ Starting is fun but success belongs to finishers.
 
 <!--
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
+> *'You don't win by predicting the future; you win by getting the odds right.' -- Will Bonner
 
-quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
-
-tecnically win or fundamentally win
-
-winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy’s resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it’s only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it’s a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you’re using basically the same strategy with basically the same resources as your competitor, you’re in a war of attrition.
+- quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
+- tecnically win or fundamentally win
+- winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy’s resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it’s only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it’s a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you’re using basically the same strategy with basically the same resources as your competitor, you’re in a war of attrition.
 -->
 
 > *'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
@@ -1323,6 +1317,8 @@ winning by exhaustion: Traditional military theorists such as Sun Tzu (“Suprem
 > *'Winning isn’t everything, but wanting to win is.' -- Vince Lombardi*
 
 It’s not just about winning. The way you win sets you up for the next round.
+
+Winning is not the end of the road; it’s just a stop along the way. An intersection to take you to your next destination.
 
 > *'Win through your actions, never through argument.'  
 'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
@@ -1334,8 +1330,6 @@ It’s not just about winning. The way you win sets you up for the next round.
 > *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
 
 > *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
-
-> *'The destination is not the end of the road; it’s just a stop along the way. An intersection to take you to your next destination.'*
 
 
 
