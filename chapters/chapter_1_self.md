@@ -200,8 +200,13 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 ### On finding your path
 
 <!--
+1. Put Your Happiness Before Goals
+2. Fulfillment is Dependent on Direction
+3. Pain is a Messenger
+4. Focus on Financial Freedom First
+5. Pick One Thing and Stick With it to Completion
+	
 > *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' --  Paulo Coelho*
-> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
 
 - there’s a price for it always. everything is an exchange. you can achieve everything but there is a price. people don’t achieve anything because they are not willing to sacrifice. everything is a trade.
 - parabol: that door is only for you.	
@@ -228,6 +233,8 @@ What do you really want?
 > *'The obstacle is the way.' -- Marcus Aurelius*
 
 > *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
+
+> *'Take advantage of the opportunities - that’s probably more important than charting your path.' -- Admiral William Mcraven*
 
 Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
 

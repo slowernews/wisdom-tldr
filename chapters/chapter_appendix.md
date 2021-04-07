@@ -352,7 +352,9 @@ Hints:
 ## On success
 
 <!--
-- He is terrified of success, because he may be forced to buy a suit.
+> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
+
+- 
 
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 silicon valley celebrate failure only after they achieve success
@@ -399,7 +401,7 @@ There is no shortcut. Success is nothing but the accumulation of small things do
 
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
 
-However [fear](#on-confidence-and-validation), not failure, is the biggest barrier to success.
+However [fear](#on-confidence-and-validation), not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit..
 
 > *'Doubt kills more dreams than failure ever will.'*
 

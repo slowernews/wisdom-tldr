@@ -63,6 +63,11 @@ Good stories condense a massive amount of information into a consumable and shar
 
 ### How to discord?
 
+<!--
+If you want to win an argument, ask the person trying to convince you of something to explain how it would work.
+Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
+-->
+
 Listen as you’re wrong. «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
 When public speaking you dont need to answer their question. You can say whatever you want if its interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of saying desagreements.
@@ -144,6 +149,10 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On following the herd
 
 <!--
+Critical Mass in Psychology
+Psychologists have known for a long time that groups of people behave differently than individuals.
+Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. (An interesting detail is that mob psychology is one of the few branches of psychology which does not concern individuals.) As a general rule, the larger the crowd, the less responsibility people have for their behaviour. (This is also why individuals and not groups should make decisions.)
+
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 
 - changing course is hard and this scares us so we look around and try to copy the courses other people took
@@ -421,6 +430,8 @@ Taxes aren’t a punishment. They are a membership fee that 80% of us are volunt
 ## On business and entrepreneurship
 
 <!--
+- In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
+For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
 - "The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs."
 - mailbox money
 - designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.

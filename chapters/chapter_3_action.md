@@ -232,103 +232,31 @@ However, don't sabotage them when they get tedious or too difficult.
 ## On decision making
 
 <!--
-- Occam’s razor states that the simplest solution is usually correct.
 > *'My brother says to never make a big decision before you take a shower.'*
-- Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not.  A tool which maybe could be a bit sharper or easier to use, but still does the job.
-
-> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
+> *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
+> *'You don't win by predicting the future; you win by getting the odds right.' -- Will Bonner
 
-- as all the great questions. answers are always evolving
+- Occam’s razor states that the simplest solution is usually correct.
+- Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not.  A tool which maybe could be a bit sharper or easier to use, but still does the job.
 - the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
 - estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game' should give estimates.
-
-What is the least painful way to X?
-Evaluate goals independently and consider taking on only one goal at a time.
-How can I achieve a goal with the least effort?
-How can I achieved these goals separately?
-Are there methods for achieving multiple goals which are not in conflict for resources and are easy to do?
-
-MENTAL MODELS:
-	market: supply and demand explain a lot of phenomenons
-	macro scale - high level / micro scale - low level: https://en.'*wikipedia.'*org/wiki/Level_of_analysis - everything is a system
-	high tech way / low tech way 
-	everything is: http://c2.'*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
-	momentum: virtuous circle / vicious circle
-	spaced learning system: anki, supermemo, goldenlist
-	programming languages: type annotation theory / OO vs functional paradigm
-	log scales: hyperbolic function - pareto law 80/20 - plateaus
-	noise rate
-	great breakthroughs are always counter-intuitive
-	understand people: 16personality types INTP-A was a breakthrough
-	framing = everything is
-	80% man are stronger than 80% woman
-	A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
-
-1. Put Your Happiness Before Goals
-2. Fulfillment is Dependent on Direction
-3. Pain is a Messenger
-4. Focus on Financial Freedom First
-5. Pick One Thing and Stick With it to Completion
-
 - With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
 As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
 - plan ahead plannin 20% action 80%?
-- in most knowledge organizations, your product is decisions. you are evaluated by yours
-> *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
-- Beliefs lag behind reality.
-
-But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
+- Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
-
 - Actions > Thoughts; Actions change the world. Not beliefs.
 - i'm right -> how do i know i'm right. radical openmindedness -> stress test your ideas
-
-Idea-meritocratic decision-making is the best decision-making
-The difference between an autocratic decision maker and a democratic decision maker.
-What is believability?
-find 3 people that high expertise but that they discord and listen. take your conclusions
-
-Critical Mass in Psychology
-Psychologists have known for a long time that groups of people behave differently than individuals.
-Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. (An interesting detail is that mob psychology is one of the few branches of psychology which does not concern individuals.) As a general rule, the larger the crowd, the less responsibility people have for their behaviour. (This is also why individuals and not groups should make decisions.)
-
-In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
-For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up.
-We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
-
-The Problems With Goals:
--Goals have an enndpoint
--Goals rely on factors which we do not always have control over.
--Goals rely on willpower and self-discipline.
--Goals can make us complacent or reckless.
-
-even the best and most useful maps suffer from limitations, and Korzybski gives us a few to explore: (A.) The map could be incorrect without us realizing it; (B.) The map is, by necessity, a reduction of the actual thing, a process in which you lose certain important information; and (C.) A map needs interpretation, a process that can cause major errors. (The only way to truly solve the last would be an endless chain of maps-of-maps, which he called self-reflexiveness.)
-
-charlie munger:
-Wisdom and Circle of Competence
-“Knowing what you don’t know is more useful than being brilliant.”
-“Acknowledging what you don’t know is the dawning of wisdom.”
-“People are trying to be smart—all I am trying to do is not to be idiotic, but it’s harder than most people think.”
-“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”
-
-> *'At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information' -- Charlie Munger*
-
-“Know the big ideas in the big disciplines and use them routinely-- all of them, not just a few.”
-
-you don't win by predicting the future; you win by getting the odds right. -- will bonner
-
-If you want to win an argument, ask the person trying to convince you of something to explain how it would work.
-Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
-
-we think we make choices but our choices are affected by others. (ex of naming a child)
-people pick what is familiar. people are influenced without us realizing.
-working class want to feel the same as others. white collar want to feel different from others.
-
-decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
-
-understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
+- Idea-meritocratic decision-making is the best decision-making. The difference between an autocratic decision maker and a democratic decision maker.
+- find 3 people that high expertise but that they discord and listen. take your conclusions
+- The Problems With Goals: Goals have an endpoint. Goals rely on factors which we do not always have control over. Goals rely on willpower and self-discipline. Goals can make us complacent or reckless.
+- charlie munger - Wisdom and Circle of Competence: “Knowing what you don’t know is more useful than being brilliant.” “Acknowledging what you don’t know is the dawning of wisdom.”
+- working class want to feel the same as others. White collar want to feel different from others.
+- decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
+- understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
+- Your product is decisions. 
 -->
 
 > *'A well defined problem seeks its own solution' -- Mike Brundant*
@@ -337,11 +265,32 @@ understand the problem (what is the priority) -> visualize a solution, come out 
 
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
+You are evaluated by your decisions.
+
+We think we make choices but our choices are influenced by others (ex. of naming a child). People pick what is familiar.
+
 > *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
 
 > *'A mistake repeated more than once is a decision.' -- Paulo Coelho*
 
 ### On mental models
+
+<!--
+market: supply and demand explain a lot of phenomenons
+macro scale - high level / micro scale - low level: https://en.'*wikipedia.'*org/wiki/Level_of_analysis - everything is a system
+high tech way / low tech way 
+everything is: http://c2.'*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
+momentum: virtuous circle / vicious circle
+spaced learning system: anki, supermemo, goldenlist
+programming languages: type annotation theory / OO vs functional paradigm
+log scales: hyperbolic function - pareto law 80/20 - plateaus
+noise rate
+great breakthroughs are always counter-intuitive
+understand people: 16personality types INTP-A was a breakthrough
+framing = everything is
+80% man are stronger than 80% woman
+A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
+-->
 
 > *'All models are wrong but some are useful.' -- George Box*
 
@@ -405,6 +354,11 @@ you always throw out your first pancake - primeiro milho é para os pardais
 > *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 > *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
+> *'If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal.' -- Bruce Lee*
+> *'Action expresses priorities.' -- Ghandi*
+> *'You must think like a man of action, and act like a man of thought.'*
+> *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
+> *'Enter action with boldness.'*
 
 “Some systems … are very sensitive to their starting conditions, 
 so that a tiny difference in the initial push you give them 
@@ -416,8 +370,6 @@ feedback, so that what a system does affects its own behavior.”
 - research is not doing something! Knowledge is Never the Issue, action is.
 - Bad execution of your designs does less harm than irresolution in forming them.
 - STRATEGIC LAZINESS AS A LEVERAGE POINT
-
-> *'If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal.' -- Bruce Lee*
 
 Forget All About Doing Good Work and Focus on Great Work
 Good work, on the other hand, is an innocuous killer of greatness.
@@ -482,11 +434,10 @@ Then, for each supporting idea or argument, break that further into more ideas o
 The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present 3 reasons. Not 2, not 4, but exactly 3.
 “There are 3 reasons why we should do this” and then proceed to list my reasons in almost a numbered bullet point format (“First…”, “Second…”, and “Last…”).
 
-I observed that The Rule of 3 was actually pretty effective in persuading clients to take action. Why? Three reasons:
-- Your argument gets their attention and is memorable
-- You are forced to choose the 3 most important reasons
-- You sound more structured, confident and decisive when you speak.
-
+- I observed that The Rule of 3 was actually pretty effective in persuading clients to take action. Why? Three reasons:
+	- Your argument gets their attention and is memorable
+	- You are forced to choose the 3 most important reasons
+	- You sound more structured, confident and decisive when you speak.
 - The non-linearity of productivity
 - never mistake action for motion
 - there is no right time! its a delusion
@@ -496,11 +447,8 @@ I observed that The Rule of 3 was actually pretty effective in persuading client
 - Time is the most precious thing you own.
 - lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita e vence-se a procrastination
 - add mark manson on procrastination - We feel anxiety over a deadline or a task that we don’t want to do, even though we know we should. So we procrastinate in order to remove that anxiety.
-	
-> *'Action expresses priorities.' -- Ghandi*
-> *'You must think like a man of action, and act like a man of thought.'*
-> *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
-> *'Enter action with boldness.'*
+- Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
+- If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.
 -->
 
 > *'A year from now, you will wish you had started today.' -- Karen Lamb*
@@ -513,15 +461,9 @@ Stop making resolutions and start making something.
 
 > *'You don't have to be great to start, but you have to start to be great.' -- Zig Ziglar*
 
-> *'Waiting for troubles to come to you will only multiply them and give them a deadly momentum.'*
-
-> *'A good plan, violently executed now, is better than a perfect plan next week.' -- General George Patton*
-
 > *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
 
 > *'Do not wait to strike till the iron is hot; but make it hot by striking.' -- Yeats*
-
-> *'Start where you are. Use what you have. Do what you can.' -- Arthur Ashe*
 
 ### Why people procrastinate?
 
@@ -540,8 +482,7 @@ Stop making resolutions and start making something.
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
-Timing is important. However don't wait for the [perfect occasion](), a good occasion is a safer bet.  
-You will languish if you stop for a long time. Paralysis is worse than bad timing.
+Timing is important but don't wait for the [perfect occasion](), a good occasion is a safer bet. You will languish if you stop for a long time. Paralysis is worse than bad timing.
 
 > *'The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing.' -- Winston Churchill*
 
@@ -549,9 +490,9 @@ You will languish if you stop for a long time. Paralysis is worse than bad timin
 
 HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do.
 
-> *'No one ever wrote a plan to be fat lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
+> *'A good plan, violently executed now, is better than a perfect plan next week.' -- General George Patton*
 
-> *'If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.'*
+> *'No one ever wrote a plan to be fat lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
 
 > *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
 
@@ -575,8 +516,6 @@ Here are three ways you can increase your velocity:
 - say “no” to your boss.
 
 - No podemos elegir nuestro origen pero podemos elegir hacia donde ir
-	
-chess gambits -- exchange material by position-time.
 
 > *'Trees that are slow to grow bear the best fruit.' -- Molière*
 > *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
@@ -586,11 +525,11 @@ chess gambits -- exchange material by position-time.
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
+> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
 Direction is more important than velocity.
 
-Position yourself for victory by bringing the target closer. Convenience (location) is better than space amount. Trade space for time.
-
-> *'Start as close to the end as possible.' -- Kurt Vonnegu*
+Position yourself for victory by bringing the target closer. Location is better than space amount so trade space for time.
 
 > *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
 
@@ -720,14 +659,11 @@ Consuming information gives the control freak an illusion of control. He doesn't
 ## On balance
 
 <!--
-- alguem mais loose q tu é um maluco, mais tight é um nhónhó. nos osmos a medida de tudo
-- Exponential growth devours and corrupts. There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.
+- alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
 - Disease of More.
 - Diversification solves a lot of problems.
 - The 80/20 Principle states that 80% of the output or results will come from 20% of the input or action.
 - There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists. MM
-
-> *'Growth for growth’s sake is the ideology of the cancer cell.' -- Edward Abbey*
 -->
 
 > *'Everything should be made as simple as possible, but not simpler.' -- Albert Einstein*
@@ -757,24 +693,24 @@ Overcompensate. Some people get passion from something they struggled with.
 <!--
 > *'Listen to predict a collapse.'*
 > *'The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.' -- George Bernard Shaw*
-
-- Inertia is why a car does not stop the moment the brakes are applied.
-- When problems shift faster than your rate of adaptation you go extinct.
-- equipa que ganha, não se mexe
-
 > *'Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.
 You need to be comfortable both in a suit and tie and in camouflaged jacket.' -- Frank Miniter (paraphrased)*
+
+- Inertia is why a car does not stop the moment the brakes are applied.
+- Equipa que ganha, não se mexe.
 -->
 
 > *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
 
+> *'At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information' -- Charlie Munger*
+
 > *'Life is more like tetris than chess.' -- Tor Blair*
 
-Plans are not static. You need to switch strategies a few times to get where you want to go.
+Plans are not static.
+
+You need to switch strategies a few times to get where you want to go. When problems shift faster than your rate of adaptation you go extinct.
 
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
-
-> *'Take advantage of the opportunities - that’s probably more important than charting your path.' -- Admiral William Mcraven*
 
 > *'One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing.' -- Kautilya*
 
@@ -1087,6 +1023,7 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 > *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
 - human strenght is our ability to cooperate. heros are fictional stories. they are not real. they are a tool to improve our lives not to complicate it.
 - buy thing from your community. sell to outsiders. -- jewish mentality
+Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
 -->
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
@@ -1159,7 +1096,8 @@ The only successful changes are those coming from within.
 <!--
 - In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.
 
-24. Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
+> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
+
 
 2. Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy. -- Balthasar Gracian
 
