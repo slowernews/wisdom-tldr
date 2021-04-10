@@ -10,6 +10,10 @@
 
 ## On creativity, vision and ideas
 
+<!--
+> *'Invention, strictly speaking, is little more than a new combination of those images which have been previously gathered and deposited in the memory; nothing can come from nothing.' -- Sir Joshua Reynolds*
+-->
+
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
@@ -1285,7 +1289,7 @@ Mirroring works best when your group is in minority.
 
 Starting is fun but success belongs to finishers.
 
-[Going halfway](#on-focus-time-management-and-productivity) is too expensive to do it often. When the end finally comes, it comes quickly.
+[Going halfway](#on-focus-time-management-and-productivity) is a waste. When the end finally comes, it comes quickly.
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
@@ -1297,6 +1301,8 @@ Starting is fun but success belongs to finishers.
 
 > *'Difficulties increase the nearer we come to our aim.' -- Goethe*
 
+> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
+
 
 
 
@@ -1304,7 +1310,6 @@ Starting is fun but success belongs to finishers.
 ## On winning
 
 <!--
-> *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 > *'You don't win by predicting the future; you win by getting the odds right.' -- Will Bonner
 
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
@@ -1318,7 +1323,7 @@ Starting is fun but success belongs to finishers.
 
 It’s not just about winning. The way you win sets you up for the next round.
 
-Winning is not the end of the road; it’s just a stop along the way. An intersection to take you to your next destination.
+Winning is not the end of the road; it’s just a stop along the way.
 
 > *'Win through your actions, never through argument.'  
 'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
@@ -1328,8 +1333,6 @@ Winning is not the end of the road; it’s just a stop along the way. An interse
 > *'You might be winning but you’re not growing, and growing might be the most important form of winning.' -- Jordan Peterson*
 
 > *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
-
-> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
 
 
 

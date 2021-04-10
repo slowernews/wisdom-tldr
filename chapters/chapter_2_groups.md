@@ -271,9 +271,7 @@ However after taking first steps [mirror](chapter_3_action.md#on-mirroring) thei
 ## On lovers
 
 <!--
-> *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
 > *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever.' -- Nicholas Sparks*
-> *'That’s what careless words do. They make people love you a little less.' -- Arundhati Roy*
 -->
 
 You attract what you are.
@@ -287,9 +285,13 @@ Love doesn’t hurt, expectations do. Every person feels loved in a different fo
 
 > *'Love me when I least deserve it, because that’s when I really need it.' -- Swedish proverb*
 
+> *'That’s what careless words do. They make people love you a little less.' -- Arundhati Roy*
+
+> *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
+
 > *'The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
 
-> *'First you see the virtues. Then the flaws. For a long and deep relationship, values must match.' -- EF*
+First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 
@@ -380,9 +382,7 @@ You’re never too old to make a friend. Look for people with the same interests
 - opposite of corruption is patriotism! Changes from within is more sustainable than revolutions. we don't need individuals we need institutions that work.
 - social contracts: public promises. Everything is a contract!
 > *'A single death is a tragedy; a million deaths is a statistic.'*
-> *'Não há direitos sem obrigações e viceversa.' -- EF*
 > *'History is a race between education and catastrophe.' -- H.G. Wells*
-> *'Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.' -- George Carlin*
 
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
@@ -419,7 +419,13 @@ Politicians don’t get educated, they get bought. To reduce corruption diminish
 
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
-> *'Multicultural is by absurdum the true monocultural.' -- EF*
+Multicultural is by absurdum the true monocultural.
+
+> *'Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.' -- George Carlin*
+
+<!--
+> *'Não há direitos sem obrigações e viceversa.' -- EF*
+-->
 
 Taxes aren’t a punishment. They are a membership fee that 80% of us are voluntarily overpaying.
 
@@ -437,8 +443,6 @@ For PayPal to work, we needed to attract a critical mass of at least a million u
 - designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
 - What one piece of advice would you give someone starting a company?
 Do something that most people think is hard. When you tell someone what you’re starting, their reaction should be, “Are you sure you want to do that? That’s too hard.” That’s exactly what people said when we started Nubank, and it turned out to be a good thing. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too. -- david velez, nubank
-> *'The public should always be wondering how it is possible to give so much for the money.' -- Henry Ford*
-
 - Validate your business by finding paying clients. 
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
 - CEOs are adaptable and flexible and good risk managers.
@@ -461,14 +465,8 @@ When you’re finally wealthy, you'll realize that it wasn’t what you were see
 
 - pro tip: Ask your current customers “What nearly stopped you buying from us?”
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
-- I'm not surprised that high-end retail is still doing fine. People want the luxury purchasing experience to be luxurious -- they'd rather buy their luxury goods in boutiques than get them delivered in a cardboard box from Amazon.
-- if you’re an entrepreneur who opens a coffee shop, you’ll have a lot of ways you can make money. You can sell coffee, cakes, paintings, merchandise, and more. But each of those things will not contribute to your success in an equal way. While there is value in the discovery process, once you’ve found the variable that matters most, you should place more time on that one and less on the others.
 
-Friend of a friend owns a small chain of grocery stores in New Jersey. A few years ago, when Amazon got into groceries, he changed his mind about investing in the growth of his own business. He started buying Amazon shares with his investment capital instead. He saw what happened to Circuit City and Tower Records, Borders and Barnes & Noble. So he bought some Amazon and then he bought some more.
-This wasn’t retirement investing. This was something else. What should we call it? Disruption Insurance?
 - Jeff Bezos summed this up when he said “Your margin is my opportunity.” The key to business and investing success isn’t finding an advantage. It’s having a sustainable advantage. Something that others either can’t or aren’t willing to copy once your idea is exposed and patents expire.
-
-- social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
 
 - É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
 
@@ -582,6 +580,7 @@ ask them first so you can costumise it for the context and make it more relevant
 - Networking types: shark, dolphin, drowner.  
 - Not what should I do next but who should you speak next?
 - the best way to get value was to start giving it away? you’re giving validation
+- social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
 -->
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
@@ -636,6 +635,9 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 
 <!--
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence? (aka do you have high standards).
+- to see who rules you, is the person you are not allowed to criticise.
+- succeful takers are the most visible people in organizations.
+- convincing vs inspiring! leadership
 
 We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others. Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
 
@@ -660,18 +662,13 @@ Third: Rather than doing long, convoluted employee surveys, stick to a simple fe
 Just last week I reminded my team to leave in all internal key Meetings one seat free -- for our customer ... like Jeff Bezos practiced it in all Amazon meetings.
 
 There are three keys: honesty, effectiveness, and efficiency.
-
-- A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don’t generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to.
-- Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
-
-evolutionary instinct to follow the strong person. o homem de negocios sonha (ambicao - forcas activas), o resto da populacao por medo constrói o sonho (forcas reactivas)
 -->
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 Leaders are team makers: there are no bad teams, only bad leaders. 
 
-Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
+Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strong person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -683,7 +680,7 @@ People want leadership positions because they want autonomy and influence. Influ
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
-### Hints on leadership
+### Hints
 
 - Know when to speak and when don’t.  
 - Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
@@ -701,22 +698,18 @@ People want leadership positions because they want autonomy and influence. Influ
 ## On management and delegation
 
 <!--
-- to see who rules you, is the person you are not allowed to criticise.
-- So what makes organizations productive? Making hard decisions. -- scott-belsky (behance creator)
 - elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren’t. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that’s often forgotten when presenting a new idea or direction, which is the status quo.
 - I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
 - These are questions this manager has homed in on during his decades-long career at a high-tech company. Here they are: What do you need? What’s getting in your way? What can I do as your manager to help?
-- succeful takers are the most visible people in organizations.
+
 - reward system. culture is influenced by structure. give to the right person
 - as estruturas funcionam qd ha coesao
 - servant leadership -> my responsability is to make my team better.
-- convincing vs inspiring! leadership
 - manager is a dreammaker
-- As Paul Arden, the creative director of Saatchi and Saatchi and a leading thinker on ideation and talent, once recommended, “If you get stuck, draw with a different pen. Change your tools; it may free your thinking.”
 - Too busy pretending I'm occupied.
-
-> *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
+- A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don’t generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to. Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
+- Ideas are welcomed, execution is worshiped
 -->
 
 > *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
@@ -736,13 +729,24 @@ The speed that you offload your stuff will be the speed of your team. Your produ
 
 A great manager is a great facilitator.
 
+### On teams
+
+<!--
+> *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
+-->
+
+- The ultimate divisional organization: Amazon’s “two-pizza teams”.  
+- A chain is only as strong as its weakest link.  
+- Custom tailor teams from project to project. Same team from same project is not the best option.
+
+> *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
+
 ### How to give feedback?
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
 For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
 
-You can’t make any judgement of the worker without detailed understanding of the specifics of the work. 
 Ask instead of telling. If you’re certain the delivered work is not good enough give a reason.
 
 > *'«Is that the best you can do?»  
@@ -760,18 +764,14 @@ However gaining an understanding and giving appropriate feedback makes your juni
 
 ### On meetings
 
+Hints:
+
+- Default to “no” for all meetings. If you can’t say no, schedule the meeting for the afternoon. If you have to do it in person, make it close to your office.
 - Start a meeting with an overachieving question: «how can we raise sales by 12%?».  
-- Jeff Bezos famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. This format, Bezos felt, would lead to clearer and more collaborative decision-making, and avoid the same old thinking fostered by PowerPoint.  
-- On a meeting do not share your opinion on possible solutions before asking for input from your team. Lower ranked people should speak first. Everybody the right to their opinion and not copying others' opinion.  
-- Switch my default to “no” for all meetings. If I can’t say no, I schedule the meeting for the afternoon. If I have to do it in person, I make it close to my office.
+- Do not share your opinion on possible solutions before asking for input from your team. Lower ranked people should speak first. Everybody the right to their opinion and not copying others' opinion.  
+- Jeff Bezos famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings.
 
-### On teams
-
-- The ultimate divisional organization: Amazon’s “two-pizza teams”.  
-- A chain is only as strong as its weakest link.  
-- Custom tailor teams from project to project. Same team from same project is not the best option.
-
-> *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
+> *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
 
 
 
@@ -788,8 +788,7 @@ Give them the tools they ask for, not the tools a vendor suggested. They have a 
 Respect goes a long way and begins in the recruitment phase. It surely doesn’t end there. To get respect, you have to give respect.
 Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There’s no reason to pay crap wages.
 At the same time, wages aren’t everything. Everyone wants to make good money but when you’re already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don’t offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you’re treating them right, they won’t just up and go to a new company after you've trained them.
-
-"Estimativas são Promessas. Promessas devem ser cumpridas.".
+- Estimativas são Promessas. Promessas devem ser cumpridas.
 - In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
 Therefore, there is zero correlation between an estimate and the actual outcome.
 - If you’re a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
@@ -857,12 +856,10 @@ DON’T tell about your responsibilities. Everyone who is doing your type of job
 - trade-able skills: figure out what skills you already have that you can charge for
 - Always Focus on Delivering More Value than Expected
 - finding and winning a great job is a competitive subject. it’s not very correlated with luck.
-- Your Success is Someone Else’s Miracle
 - find your secret sauce and NAME it. whats unique. you need to get people attention
 - ask what’s your secret mission -- something you want to do here that another person is interested also
 - In my opinion, a job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
 - you are a learning machine. Not an occupation.
-- Ideas are welcomed, execution is worshiped
 - recruiting better than hiring: find a place where you can do a good job
 - its good to be better, but is better to be different.
 - Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
@@ -878,7 +875,6 @@ So: 100% on one thing = 80% on 5 things!
 - reframe your experience. Use today and future jargons. Make your homework.  
 - refresh your skill set, if you got rusty.  
 - career ecosystems, get back into them, reconnect.  
-- reboot self confidence. Surround yourself with confident people.'
 - Happy, Smart, and Useful
 - look at situations as systems. i help to create systems.
 - hard to find good emploieess and good bosses..
@@ -928,26 +924,24 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 ### How to «pivot» career?
 
-<!--
-- stuff that looks fun for you and looks like work for others.
--->
-
 > *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
 
 > *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
 
-Cultivate a relevant skill stack. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
+You will either pivot or get pivoted.
+
+Cultivate a relevant skill stack, capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
 
 - use the transportable skills that you have: soft skills (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
 write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.  
 - find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
 - take risks to boost your immune system.  
-- Pivoting is a mindset. Pivoting isn’t easy, even if you know it’s right.  
-- You will either pivot or get pivoted.
+- pivoting is a mindset. Pivoting isn’t easy, even if you know it’s right.  
+- stuff that looks fun for you and looks like work for others.
 
-### How to get employers feedback?
+### How to know your strenghts?
  
-If you ask them why did they asked you for an interview, they will describe your strengths.
+Ask employers why did they asked you for an interview - they will describe your strengths.
 
 
 
