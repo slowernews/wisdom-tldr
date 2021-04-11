@@ -70,6 +70,8 @@ It’s harder to forget mistakes, past events and the beginning or the end of so
 
 > *'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.' -- Steve Jobs*
 
+> *'Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today.' -- James T. McKay*
+
 You will die soon.
 
 Act accordingly and don’t postpone joy. Live life ready to meet God like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
