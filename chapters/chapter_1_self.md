@@ -733,13 +733,11 @@ HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author
 
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
 
-Take care of your body, it’s the most important thing you’ll get for free.
+Our bodies were built to hunt and gather and move, not to stay still.
 
-Our bodies were built to hunt and gather and move, not to stay still. However the origin of most health problems is not physical but mental.
+Take care of your body, it’s the most important thing you’ll get for free. However the origin of most health problems is not physical but mental.
 
 ### On depression and anxiety
-
-> *'People do not die from suicide. They die from sadness.'*
 
 > *'If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
@@ -747,9 +745,9 @@ If you are at peace you are living in the present.' -- Lao Tzu*
 
 Depression and anxiety are not diseases. They are symptoms of under-stimulation and over-stimulation:
 
-- Under-stimulation = Depression is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
-- Over-stimulation = Anxiety creates hypersensitivity. Linked with our evolutionarily need of [control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Nothing is gained by worrying about «not knowing». We don’t control anything, at most we influence some stuff. Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination. Past is only in your head. What’s important is present and future.
-- Right amount of stimulation = Hustling is to be always stretching comfort zone. Avoiding stress is avoiding life.  
+-  Depression (under-stimulation) is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
+-  Anxiety (over-stimulation) creates hypersensitivity. Linked with our evolutionarily need of [control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Nothing is gained by worrying about «not knowing». We don’t control anything, at most we influence some stuff. Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination. Past is only in your head. What’s important is present and future.
+- Hustling (right amount of stimulation) is to be always stretching comfort zone. Avoiding stress is avoiding life.  
 
 > *'Boredom is a soul sucker. The unfed mind devours itself.' -- Gore Vidal*
 
@@ -761,13 +759,13 @@ Depression and anxiety are not diseases. They are symptoms of under-stimulation 
 
 > *'If I had to prescribe two things to improve health and happiness in the world, it’s movement and play.' -- Jason Nemer*
 
-> *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
+Action cures everything. Physical stress avoids need for control. Hints:
 
-Action cures everything. Plain and simple. Physical stress avoids need for control. Hints:
-
-- Best antidepressant is knowing we matter to others. Body language affects your psychology, your mood, and even your hormonal balance.
-- Exercise a close second: burn extra calories to diminish the need of control. If you are feeling stressed out.. breathe. 
+- Best antidepressant is knowing we matter to others. People do not die from suicide, they die from sadness.
+- Exercise a close second: burn extra calories to diminish the need of control. If you are feeling stressed out.. breathe. Body language affects your psychology, your mood, and even your hormonal balance.
 - Diet is also relevant: debug your body as much as you can.
+
+> *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
 
 > *'If you want to lift yourself up, lift up someone else.' -- Booker T. Washington*
 
@@ -796,8 +794,6 @@ If you view everything through the lens of fear, then you tend to stay in retrea
 ### How to overcome fear?
 
 > *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
-
-> *'Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free. -- Jim Morrison*
 
 Replace fear with curiosity. Hints:
 
