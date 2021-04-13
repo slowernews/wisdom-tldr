@@ -34,11 +34,10 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
 - [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
-- [On shame](/chapters/chapter_1_self.md#on-shame)
 - [On mistakes and failure](/chapters/chapter_1_self.md#on-mistakes-and-failure)
-- [On confidence and validation](/chapters/chapter_1_self.md#on-confidence-and-validation)
-- [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
+- [On confidence and shame](/chapters/chapter_1_self.md#on-confidence-and-shame)
 - [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
+- [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 
 

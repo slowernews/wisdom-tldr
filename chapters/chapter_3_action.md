@@ -1360,6 +1360,10 @@ Use this opportunity to re-create yourself. If you didn’t quit anything you wo
 ---
 ## On forgiveness and revenge
 
+<!--
+> *'If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us.' -- Hermann Hesse*
+-->
+
 > *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
 > *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*
