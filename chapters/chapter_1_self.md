@@ -727,17 +727,27 @@ Professionals ask questions. Amateurs make statements. Closed-minded people focu
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 - Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.
-
-HINT: The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 -->
 
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
 
-Our bodies were built to hunt and gather and move, not to stay still.
+The origin of most health problems is not physical but mental.
 
-Take care of your body, it’s the most important thing you’ll get for free. However the origin of most health problems is not physical but mental.
+Our bodies were built to hunt and gather and move, not to stay still. Take care of your body, it’s the most important thing you’ll get for free. 
 
 ### On depression and anxiety
+
+<!--
+- Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
+- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
+But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
+De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
+After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
+- Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
+Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
+- Thinking about it makes it worse. Writing about it makes it better.
+-->
 
 > *'If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
@@ -781,6 +791,7 @@ Action cures everything. Physical stress avoids need for control. Hints:
 
 <!--
 - fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
 -->
 
 > *'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
@@ -788,8 +799,6 @@ Action cures everything. Physical stress avoids need for control. Hints:
 Fear is paralyzing.
 
 If you view everything through the lens of fear, then you tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your mother, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
-
-> *'Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving.' -- Alan Paton*
 
 ### How to overcome fear?
 
@@ -810,42 +819,29 @@ Replace fear with curiosity. Hints:
 
 > *'Life shrinks or expands in proportion to one’s courage.' -- Anaïs Nin*
 
-Courage implies low reverence.
+Hero and coward feel the same fear but their answers to it are different. Courage implies low reverence.
 
 > *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
 
 > *'All the darkness in the world cannot extinguish the light of a single candle.' -- Francis of Assisi*
 
+> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
+
 
 
 
 ---
-## On mistakes and failure
-
-<!--
-> *'We're even wrong about which mistakes we're making.' -- Carl Winfeld*
-> *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
-
-- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
-- When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
-- Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
-- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
-But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
-De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
-After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
-- Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
-Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
-- I had a scarcity mindset = pessimism, about life and zero confidence
-- Thinking about it makes it worse. Writing about it makes it better.
--->
+## On mistakes, failure and regrets
 
 > *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
 > *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
 
-Fail fast and bounce back quickly by being [grateful](#on-gratitude-and-humbleness): Sometimes you win, sometimes you learn.
+> *'We're even wrong about which mistakes we're making.' -- Carl Winfeld*
 
-Failure is only failure if you don’t learn from it. Accept it as part of the process. The more you fail, the more you learn. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it. That’s the stupidity tax. 
+Fail fast and bounce back quickly: sometimes you win, sometimes you learn.
+
+Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. 
 
 > *'The greatest mistake you can make in life is to continually be afraid you will make one.' -- Elbert Hubbard*
 
@@ -857,7 +853,19 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 
 > *'It’s not the load that breaks you down, it’s the way you carry it.' -- Lou Holtz*
 
-Be gentle first with yourself. You are more than your mistakes. Your past mistakes are meant to guide you, not to define you.
+> *'It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
+
+### On regrets
+
+<!--
+punishing yourself for failing. failing is learning.
+-->
+
+> *'Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving.' -- Alan Paton*
+
+Be gentle first with yourself.
+
+You are more than your mistakes. Your past mistakes are meant to guide you, not to define you. Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
 
 > *'It’s not just other people we need to forgive. Sometimes we need to forgive ourselves.' -- Mitch Albom*
 
@@ -865,77 +873,27 @@ Be gentle first with yourself. You are more than your mistakes. Your past mistak
 
 > *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
-Suffering is a temporary but essential part of life. Making mistakes is better than faking perfections. Every difficulty carries with it a corresponding opportunity of equal size.
+> *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
 
-> *'Your pain, is the breaking of the shell that encloses your understanding.' -- Kahil Gibran, The Prophet*
+Suffering is a temporary but essential part of life.
+
+Making mistakes is better than faking perfections. Every difficulty carries with it a corresponding opportunity of equal size.
+
+> *'Your pain, is the breaking of the shell that encloses your understanding.' -- Kahil Gibran*
 
 > *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
 
 > *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
 
-> *'It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.' -- Chuck Palahniuk*
-
 
 
 
 ---
-## On confidence and shame 
-
-<!--and validation?-->
+## On shame, confidence and validation
 
 <!--
-> *'Just get out of the room.' -- Robert Glover*
-
-- My therapist asked, “Where do you feel worthy unrelated to your career?” And I think that’s a question all of us – conditioned by job titles and grind culture – should sit with. @alenciajohnson
-
-> *'Don’t give in to your fears. If you do, you won’t be able to talk to your heart.' -- Paulo Coelho*
-> *'The less confident you are, the more serious you have to act.' --  Tara Ploughman*
-- nobody that is busy is confident
-"low self confidence is the source of all problems. all neediness is a sign of self low confidence
-punishing yourself for failing. failing is learning.
-- honesty is the pathway to confidence. when you hide you create shame and shamelessness overtime is a defense against low self estime.
-physical puberty, psychological puberty" -- dan munro
-- Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
-- Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
-- It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
-> *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
-“There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die.
-“Every day I wake up with that gun to my head. Every day I live.”
-burning bridges to get the motivation.
-- Uncovering Fear Disguised as Optimism
-- hero and coward feel the same fear but their answers to it are different.
-- You don’t have to prove anything to anybody, including yourself.
-- Seek Validation from Yourself and Yourself Only, specially men. The problem is that men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
-- The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible.
-When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility. All in all, it makes your dating life 1,000 times easier and more fun to navigate.
-> *'Whenever I climb I am followed by a dog called ‘Ego’.' -- Friedrich Nietzsche*
 - Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
-- analogy: confidence is like a building
-- Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
-- if you don’t believe you are good, you'll never be good - ef!
-	
-> *'I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.'*
-If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
-
-How to Enter a Room So People Take Notice
-1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
-2. Don’t Look Away! Eye contact builds trust.
-3. dont hide yourself.
-4. dont wait to start talking. a group or a double might be an easy place to start.
-5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
-I do my best to always pay attention to how I am presenting myself to others everywhere I go. I do a body check every time I walk into a room and make sure to keep a high value mindset. I feel that I am a better listener now and I pay close attention to low value behaviors that try to creep back into my life. My conversations are better. People see me as a confident person and as someone they can talk to. The increased enjoyment of my life and my relationships are priceless and the investment I made in myself has already financially paid itself back several times.
-
-> *'Dress for the job you want, not for the one you have.'*
-
-- Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
-> *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu* 
-
-9. Entitlement comes in two forms.
-Form one: I’m better than everybody and therefore deserve special treatment.
-Form two: I’m worse than everybody and therefore deserve special treatment.
-They’re both forms of narcissism (because they’re both about me me me), and both are pretty much never true. Which one do you usually fall into?
-> *'You've gotta dance like there’s nobody watching.' -- William W. Purkey*
-> *'We accept the love we think we deserve.' -- Stephen Chbosky*
+> *'Just get out of the room.' -- Robert Glover*
 -->
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
@@ -943,6 +901,22 @@ They’re both forms of narcissism (because they’re both about me me me), and 
 You are not what you think you are: you are what you hide.
 
 The things you hate most about yourself are the things you hide from the rest of the world. 
+
+### On validation
+
+<!--
+- It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
+- You don’t have to prove anything to anybody, including yourself.
+- Seek Validation from Yourself and Yourself Only, specially men. The problem is that men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
+-->
+
+> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
+
+> *'You've gotta dance like there’s nobody watching.' -- William W. Purkey*
+
+Don’t wait for someone to tell you that you are special.
+
+Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
 
 ### How to overcome shame?
 
@@ -955,41 +929,62 @@ Shame is created by dishonesty. The cure is honesty.
 When you try to hide something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
 ### On confidence
+	
+<!--
+> *'Don’t give in to your fears. If you do, you won’t be able to talk to your heart.' -- Paulo Coelho*
 
-> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+- honesty is the pathway to confidence. when you hide you create shame and shamelessness overtime is a defense against low self estime.
+- nobody that is busy is confident
+- low self confidence is the source of all problems. all neediness is a sign of self low confidence
+- The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible.
+When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility. All in all, it makes your dating life 1,000 times easier and more fun to navigate.
+- analogy: confidence is like a building
+- Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
+- if you don’t believe you are good, you'll never be good - ef!	
+- I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.
+- If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
+- Dress for the job you want, not for the one you have.
+-->
 
-> *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
-
-Shame is the opposite of confidence. Confidence is shamelessness. 
-
-Don’t wait for someone to tell you that you are special. Rejection is a tool that reveals incompatibility not your inadequateness. Let go of your need for validation. If the universe didn’t need you, you wouldn’t be here. 
+> *'The less confident you are, the more serious you have to act.' -- Tara Ploughman*
 
 > *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
 
+Shame is the opposite of confidence. Confidence is shamelessness. 
+
+> *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
+
+### How to bust confidence?
+
 Confidence «movers»:
 
-- If you say it with confidence, you are who you say you are. You’re only as good as your next speech.
-- Mastery and core values are good sources of confidence.  
-- In the meanwhile any source is good. Don’t stop till you get it.
-- If you don’t believe in yourself. Believe in me who believes in you.
-- Fake it till you make it.
-- Believe you can, and you’re halfway there.
-- When you break an agreement that you make with yourself, your selfestime plummets: don’t do it or renegociate it.  
-- Confidence: state + mastery. impress yourself.  
-- Confidence is a result, not a requirement.  
+- Confidence relies on pride. Pursue authentic pride. Hard work, mastery and core values are good sources of it.  
 - Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can’t be faked.  
-- Confidence relies on pride. pursue authentic pride.  
-- Hard work = confidence
+- When you break an agreement that you make with yourself, your selfestime plummets: don’t do it or renegociate it.  
+- Confidence: state + mastery. Impress yourself. Confidence is a result, not a requirement.  
+- Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech.
 
-### On arrogance
+### On arrogance and entitlement
+
+<!--
+How to Enter a Room So People Take Notice
+1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
+2. Don’t Look Away! Eye contact builds trust.
+3. dont hide yourself.
+4. dont wait to start talking. a group or a double might be an easy place to start.
+5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
+I do my best to always pay attention to how I am presenting myself to others everywhere I go. I do a body check every time I walk into a room and make sure to keep a high value mindset. I feel that I am a better listener now and I pay close attention to low value behaviors that try to creep back into my life. My conversations are better. People see me as a confident person and as someone they can talk to. The increased enjoyment of my life and my relationships are priceless and the investment I made in myself has already financially paid itself back several times.
+9. Entitlement comes in two forms.
+Form one: I’m better than everybody and therefore deserve special treatment.
+Form two: I’m worse than everybody and therefore deserve special treatment.
+They’re both forms of narcissism (because they’re both about me me me), and both are pretty much never true. Which one do you usually fall into?
+-->
 
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
 Understand the frontier between confidence and arrogance.
 
-Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone at all.
-
-> *'Ego is the enemy. People say that you can’t fly and then you flew. Then you think you are God.'*
+Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone at all. Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 
 > *'Don’t be so humble - you are not that great.' -- Golda Meir*
 
@@ -1003,6 +998,9 @@ Confidence is not walking into a room thinking you are better than everyone, it�
 - impostor syndrome’ mentality, because when you accept that others will always be better that you are at different things, then you will cease to compare yourself against them, but instead openly seek guidance from them.
 - "Don’t look for inspiration. Look for irritation."
 - motivation sometimes is just a matter of money! you dont do for x, and for 2x? and for 3x? there is a moment that you'll be motivated!
+> *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
+“There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live.”
+- burning bridges to get the motivation.
 -->
 
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
@@ -1013,11 +1011,11 @@ Your limits are where are your [fears](#on-fear-anger-and-excuses).
 
 Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren’t coming for you. No one is watching you. Do what you want.
 
-### How to break through your plateaus?
+### How to break through your resistances?
 
 Lots of people keep telling themselves old stories and patterns that aren’t serving them.
 
-- On a plateau take a step back.  
+- Don-t be afraid of taking a step back.  
 - Break down your dreams/goals into achievable steps.  
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation.
 
@@ -1032,6 +1030,8 @@ However your level of success will seldom exceed your level of personal developm
 > *'That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.' -- James Jones*
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.' -- Bertram Carr*
+
+Pessimism is a scarcity mindset.
 
 > *'Hope is a good breakfast, but it is a bad supper.' -- Francis Bacon*
 

@@ -1342,6 +1342,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 <!--
 > *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
+- When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
 -->
 
 > *'It only hurts when you don’t have time to prepare for the fall' -- Tony Hawk*

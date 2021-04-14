@@ -274,6 +274,8 @@ However after taking first steps [mirror](chapter_3_action.md#on-mirroring) thei
 > *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever.' -- Nicholas Sparks*
 -->
 
+> *'We accept the love we think we deserve.' -- Stephen Chbosky*
+
 You attract what you are.
 
 Love is what happens to men and women that don’t know each other.  
