@@ -185,6 +185,7 @@ To reveal the true nature of your intelligence rarely pays. It’s the most sens
 
 <!--
 - money is freedom. why do u want fu money if you don't say fu.
+- When you’re finally wealthy, you'll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
 -->
 
 > *'Some people are so poor, all they have is money.' -- Patrick Meagher*
@@ -298,6 +299,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
+- mailbox money
 - do work you love for low pay or do work you hate for a high pay.
 In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
 - travel as a way of running way from their problems

@@ -30,6 +30,10 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 ### How to find good ideas?
 
+<!--
+Changes in the environment unlock startup opportunities. startup ideas -> problems and trends
+-->
+
 Best ideas come from the market, not from you.
 
 Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it’s no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).

@@ -438,120 +438,73 @@ Taxes aren’t a punishment. They are a membership fee that 80% of us are volunt
 ## On business and entrepreneurship
 
 <!--
-- In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
-For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
-- "The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs."
-- mailbox money
-- designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
-- What one piece of advice would you give someone starting a company?
-Do something that most people think is hard. When you tell someone what you’re starting, their reaction should be, “Are you sure you want to do that? That’s too hard.” That’s exactly what people said when we started Nubank, and it turned out to be a good thing. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too. -- david velez, nubank
-- Validate your business by finding paying clients. 
-- Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding.  
+- Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding. empregados sempre c skin in the game. the enemies are outside not inside
 - CEOs are adaptable and flexible and good risk managers.
 - Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
-- empregados sempre c skin in the game. the enemies are outside not inside
-
-Judgement requires experience, but can be built faster by learning foundational skills.
-There is no skill called “business.” Avoid business magazines and business classes.
-Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
-Reading is faster than listening. Doing is faster than watching.
-You should be too busy to “do coffee" while still keeping an uncluttered calendar.
-Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
-Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
-Become the best in the world at what you do. Keep redefining what you do until this is true.
-There are no get rich quick schemes. That’s just someone else getting rich off you.
-Apply specific knowledge, with leverage, and eventually you will get what you deserve.
-When you’re finally wealthy, you'll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
-- - persuade people to buy rather than teach people to buy.	
-- a niche is about what people need. It’s not about you at all. And you can fill a niche competently. But you can also fill it incompetently (at least iitially, until others come along and start competing).
-
-- pro tip: Ask your current customers “What nearly stopped you buying from us?”
-- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
-
-- Jeff Bezos summed this up when he said “Your margin is my opportunity.” The key to business and investing success isn’t finding an advantage. It’s having a sustainable advantage. Something that others either can’t or aren’t willing to copy once your idea is exposed and patents expire.
-
+- Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it. Become the best in the world at what you do. Keep redefining what you do until this is true.
+- persuade people to buy rather than teach people to buy. pro tip: Ask your current customers “What nearly stopped you buying from us?”
+- Jeff Bezos summed this up when he said “Your margin is my opportunity.”
 - É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
-
-- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you’re living in the future and you build something cool that users love, it may matter more than outsiders think."
-	
-Moonshot: 10X bigger instead of 10%. imply a new process not an optimization.
-Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
-
-Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don’t. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
-
+- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you’re living in the future and you build something cool that users love, it may matter more than outsiders think."	
+- Moonshot: 10X bigger instead of 10%. imply a new process not an optimization. Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
+- Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don’t. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
 - startups are similar to biological life. Wherever the conditions are hospitable, life already exists.
-The difference is that startups live in an economic rather than a biological environment. -> funds dont mind that u fail if they have also some winners
-- there’s not a lot competition neither a lot of people looking for change. our biggest competitor is indifference and inaction. people are already solving their problems, better or worse. very few people are always researching for something better.
-- The biggest assumption I ever made in business is that most people are telling me the truth. Most people have no idea what truth is.
-
-1) Do networking and listen. It’s not about how great you are in your wildest dreams.
-2) Deliver a little bit more than expected. That'll help to get you some recommendations.
-4) Raise your hourly rate. There’s nothing wrong with it, if you’re doing a great job based on past projects.
-5) Say "No" to nasty, time consuming and time wasting clients.
-6) Build your own brand to be proud of.
-
-- give where you are naturally good
-
+- process of asking 3 whys is a row -> the first why is easy to answer
 - failing business -> fire 60% top managers (ricardo semler)
-process of asking 3 whys is a row -> the first why is easy to answer
-
-disney salvation:
-1. Create a Clear, Simple Vision (Your Corporate MTP). -> deleverage
-2. Make long-term bets.
-3. Make fearless acquisitions on the edge.
-
-- Changes in the environment unlock startup opportunities. startup ideas -> problems and trends
-
-I recall reading that someone had more success with a "unlock feature X" model of payment, even though it in total was more expensive than unlocking everything at once. people underestimate the power of free. trusted to one day pay me. send an email to all readers saying that i'm making consultations. 
-
-- It’s not even about marketing, just building something of actual value. I doubt this girl has spent much if anything on marketing.
-
+- disney salvation: create a clear, simple vision -> deleverage | Make long-term bets. | Make fearless acquisitions on the edge.
 - zona genius: only 3 things I'm allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
-
-- Learn to provide relative value on a massive scale and you will become rich. three things make anything possible: People, technology and money.
+- designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
 -->
-
-> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
 
 > *'What you need to start a new business: generosity.' -- Derek Sivers*
 
+> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
+
 Focus on what can you give that empowers others.
+<!-- give where you are naturally good -->
 
 It’s not about what you know, it’s about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
 
-Test sales first. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. If they were in, they'd be in on day one. The more they pay, the more they value it. The consumer votes with his wallet.
+Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
-### Patterns on successful *wannapreneurs*:
 
-- They talk to people about their ideas, but never build anything. 
-	- Do things manually at first. You don’t have to build an elaborate system to get started. Get one client and do everything the hard way. Only after business is over running your ability to do things manually you do have to worry about automation. Don’t put a bunch of effort in on the front end to find out there’s no paying demand.  
-	- It’s easier when YOU are the customer. You truly understand the problem. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution.
-	- Timing is the most important factor in startup success. Team and Execution came next. Quick to start but not the first.
-	- Launch now. Find the 90/10 solution.  
-	- Ignore your competitors, you will more likely die of suicide than murder.  
+### On entrepreneurship
 
-- They build something without first talking to people.
-	- You only have to be really right once: Zuckerberg thought that Facebook was going to be a college directory and that was it. Bill Gates didn’t think the Internet had any potential. They were right about one thing one time and made so much money that it allows them to be consistently wrong over and over again in big ways because their underlying model was right the first time. They had the resources to correct any mistakes and to try a lot of other things, most of which will fail.  
-	- Do things that don’t scale.  
+<!--
+- What one piece of advice would you give someone starting a company?
+Do something that most people think is hard. When you tell someone what you’re starting, their reaction should be, “Are you sure you want to do that? That’s too hard.” That’s exactly what people said when we started Nubank, and it turned out to be a good thing. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too. -- david velez, nubank
+-->
 
-- They build something and never try to sell it.  
-	- If you have an idea, test it. It’s called putting out a “minimally viable product” or MVP.   
-	- Don’t scale your team/product until you have built something people want.  
-	- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
-	- Scratch your own itch it’s good only as a start. Build something people want: Find 10-100 customers who love your product.    
-	- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money. 
+Patterns on unsuccessful entrepreneurs:
 
-- If you build something that people say they'll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a wannapreneur. At that point it’s just part of the struggle.
-	- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
-	- All startups are badly broken at some point ánd can only solve one problem well at any given time.  
-	- Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service. Big company corporate development queries – they will only waste time. Conferences unless they are the best way to get customers  
-	- Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
-	- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.  
-	- Most companies don’t die because they run out of money  
- 
-> *'When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?'*
+- To talk to people but never build anything.
+- To build something without first talking to people and trying to sell it.
+
+Hints:
+
+- Do things manually at first. Get one client and do everything the hard way. Don’t scale your team/product until you have built something people want. Only after business is over running your ability to do things manually you do have to worry about automation. 
+- If you have an idea, test it and launch now. It’s called putting out a “minimally viable product” or MVP. Timing is the most important factor in startup success (quick to start but not the first). Team and Execution came next. Find the 80/20 solution. Don’t put a bunch of effort in on the front end to find out there’s no paying demand. 
+- The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs. It’s easier when YOU are the customer. You truly understand the problem. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution. However «scratching your own itch» it’s good only as a start. Build something people want: Find 10-100 customers who love your product.
+- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
+- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
+- Deliver a little bit more than expected. That'll help to get you some recommendations.
+- Say "No" to nasty, time consuming and time wasting clients. Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service. Big company corporate development queries – they will only waste time. Conferences unless they are the best way to get customers.
+- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
+- Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
+- There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.  
+- Most companies don’t die because they run out of money.  
+- The biggest assumption I ever made in business is that most people are telling me the truth.
+
+If you build something that people say they'll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a «wannapreneur». At that point it’s just part of the struggle.
+
+<!--
+- In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
+For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
+- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
+When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?
+-->
 
 > *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
 
@@ -747,9 +700,9 @@ A great manager is a great facilitator.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
-For that you need to [communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
+[Communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
 
-Ask instead of telling. If you’re certain the delivered work is not good enough give a reason.
+Ask instead of telling. If the delivered work is not good enough give a reason.
 
 > *'«Is that the best you can do?»  
 «Interesting, how do you feel about it?»  
