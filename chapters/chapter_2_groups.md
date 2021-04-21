@@ -82,12 +82,15 @@ When public speaking you dont need to answer their question. You can say whateve
 ---
 ## On conflicts
 
-> *'Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.' -- EF*
+<!--
+> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
+-->
 
 > *'War is what happens when language fails.' -- Margaret Atwood*
 
-Don’t avoid *relevant* conflicts. Small (but relevant) conflicts will grow into big conflicts.  
-Neutrality is not possible. Anyway preserve your freedom as much as possible.
+Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
+
+Don’t avoid relevant conflicts. Small (but relevant) conflicts will grow into big conflicts. When someone is out of line, don’t let it slide too far. If you let someone treat you poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business.
 
 > *'I am either part of the solution or part of the problem.'*
 
@@ -177,7 +180,7 @@ Most people are other people. People accept the defaults very easily. Their thou
 
 > *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
 
-> *'Common sense is the collection of prejudices acquired by age eighteen.'*
+> *'Common sense is the collection of prejudices acquired by age eighteen.' -- Albert Einstein*
 
 > *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
@@ -187,7 +190,7 @@ Most people are other people. People accept the defaults very easily. Their thou
 
 > *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
 
-Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don’t actually think, they just take their first thought and go.
+Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don’t actually think, they just take their first thought and go. There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.
 
 > *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
 
@@ -198,8 +201,6 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 > *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
 
 > *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
-
-> *'There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.'*	
 
 > *'I find for myself that my first thought is never my best thought. My first thought is always someone else’s; it’s always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
 
@@ -217,17 +218,15 @@ Despite being easier to recognise stupidity in others than ourselves, don’t ta
 
 ### How to judge a man?
 
-Society judges people by what they can do for others. But we judge ourselves by our thoughts.
-
-Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
-
 > *'Judge a man by his questions, not by his answers.' -- Voltaire*
-
-> *'It isn’t what we say or think that defines us, but what we do.' -- Jane Austen*
 
 > *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
 
-> *'Whenever you feel like criticizing any one... just remember that all the people in this world haven’t had the advantages that you've had.' -- F. Scott Fitzgerald*
+We judge ourselves by our thoughts but society judge people by what they can do for others. 
+
+Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
+
+> *'It isn’t what we say or think that defines us, but what we do.' -- Jane Austen*
 
 
 
@@ -237,32 +236,25 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 ## On relationships
 
-> *'Humans make connections.  
-Sometimes these connections grow.  
-Sometimes they stay the same.  
-Sometimes they collapse.'*
-
-Trust and vulnerability are correlated.
-
-Trust someone if they say they are human and susceptible to conflicts of interest but actively avoiding them. Good partnership: complementary skillsets with shared values.
-
-If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don’t hide your feelings from people who show you theirs.
-
 > *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don’t see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
- 
-> *'You loose your identity, you loose people.' -- Amy Cuddy*
+
+> *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
 
 Focus on what you can give. You receive in proportion to what you give.  
 
-However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you’re ordinary and be ready to loose people. Partner with people who wants you to be all you can be. Hints:
+However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you’re ordinary and partner with people who wants you to be all you can be.
 
+Hints:
+
+- Trust and vulnerability are correlated. If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don’t hide your feelings from people who show you theirs.
 - If a person is nice to you and to nobody else, that person is not nice.  
 - If you are lonely when you are not alone, you are in bad company.  
-- Don’t be less just because they cannot be more.
+
+Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.
+ 
+> *'You loose your identity, you loose people.' -- Amy Cuddy*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
-
-> *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
 
 
 
@@ -272,14 +264,14 @@ However after taking first steps [mirror](chapter_3_action.md#on-mirroring) thei
 
 <!--
 > *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever.' -- Nicholas Sparks*
+- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 -->
 
 > *'We accept the love we think we deserve.' -- Stephen Chbosky*
 
 You attract what you are.
 
-Love is what happens to men and women that don’t know each other.  
-Love doesn’t hurt, expectations do. Every person feels loved in a different form.
+Love is what happens to men and women that don’t know each other. Love doesn’t hurt, expectations do. Every person feels loved in a different form.
 
 > *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
 
@@ -297,8 +289,6 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 
-> *'Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.'*
-
 
 
 
@@ -309,7 +299,6 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 - envy (worse than you) - competition (same level than you) - mentor (better than you)
 - Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 - the way of man is the way of the gang
-- The key to success in any relationship: personal, familial, business, etc is NOT that the two people are supportive during bad times but that the two people are supportive during GOOD times.
 
 > *'People come, people go – they’ll drift in and out of your life, almost like characters in a favorite book. When you finally close the cover, the characters have told their story and you start up again with another book, complete with new characters and adventures. Then you find yourself focusing on the new ones, not the ones from the past.' --  Nicholas Sparks*
 > *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
@@ -323,19 +312,9 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 Life is meant to be lived in community.
 
-However curate who surround you: you are the average of them. 
+Cleave from your family but come back. You need to be independent and loyal at the same time.
 
 > *'Really great people make you feel that you too can be great.' -- Mark Twain*
-
-> *'If you’re the smartest in the room, you’re in the wrong room.'*  
-
-> *'When you enter a workplace, think that you will become like them and not the opposite.'*
-
-> *'Every employee should eventually leave and start a better competitor to me. Everyone should pass me. Else I’m not the stupidest person in the room.'*
-
-### On family
-
-Cleave from your family but come back. You need to be independent and loyal at the same time.
 
 > *'To lose one parent may be regarded as a misfortune; to lose both looks like carelessness.' -- Oscar Wilde*
 
@@ -343,22 +322,20 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 ### On friends
 
-Resist the temptation of working with family and friends. Keep your friends for friendship, work with the skilled and competent. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
-
-> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
-
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 
-> *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
-
-> *'Don’t befriend fools. He that does not know a fool when he sees him is one himself: still more he that knows him but will not keep clear of him.
-They are dangerous company and ruinous confidants.' -- Balthasar Gracian 22th*
-
 > *'When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
+Resist the temptation of working with family and friends. Peers are peers, not boss and employee.
+
+Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
+
+> *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
 
 > *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success.' -- Oscar Wilde*
 
 ### How to build your «board of directors»?
+
+Curate somehow those who surround you: you are the average of them. When you enter a workplace, think that you will become like them and not the opposite. If you’re always the smartest in the room, you’re in the wrong room.
 
 <!--
 “A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
@@ -401,15 +378,11 @@ Politicians don’t get educated, they get bought. To reduce corruption diminish
 
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
-> *'Communizing a cost of zero hurts no one.' -- Garrett Hardin'*
-
 > *'Favors granted always become defined as rights.' -- Saul Alinsky*
 
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
 
 > *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
-
-> *'Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.'*
 
 > *'I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals.' -- George Carlin*
 
@@ -421,12 +394,12 @@ Politicians don’t get educated, they get bought. To reduce corruption diminish
 
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
-Multicultural is by absurdum the true monocultural.
-
+Multicultural is by absurdum the true monocultural. 
 > *'Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.' -- George Carlin*
 
 <!--
 > *'Não há direitos sem obrigações e viceversa.' -- EF*
+Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.
 -->
 
 Taxes aren’t a punishment. They are a membership fee that 80% of us are voluntarily overpaying.
@@ -565,20 +538,19 @@ Be useful, not important.
 
 ### How to prepare an elevator pitch?
 
+> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
+
 Choose truth or your self-mythology will seduce you.
 
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
-> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
-
 ### Why most people don’t like networking?
 
-Handling rejection is hard. Period.  
-We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
+Handling rejection is hard. Period.
+
+We don’t like people that see us in a way that doesn’t resonate with how we see ourselves. Forget those who forget you. Those who want to stay in your life, will always find a way.
 
 > *'I don’t know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
-
-> *'Forget those who forget you. Those who want to stay in your life, will always find a way.'*
 
 
 
@@ -597,7 +569,6 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others. Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
 
 Beth Comstock:
-
 2. Organize Around Information Flows: In the digital age, information moves fast. To keep up with information flows, you have to ditch hierarchy. There’s no room for bureaucracy. It’s about openness, candor, radical feedback and full transparency. If you organize your organization around these tenets, you’ll thrive.
 3. Empower Individuals: Build a team of people who are prepared for change and empower them to do great work. The question is: how do you get people to get excited to grab power and go for it? More autonomy.
 4. Define your company’s “MO” -- Mindset Orientation: Mindset is everything. As a leader, you must provide the vision and then allow your teams to figure their way out. Create a mindset that incentivizes them to do what they need to do the fastest, best way they can. It means they may fail. You should encourage them to fail fast, learn from their mistakes, and keep going. At GE, this process is called FastWorks, and it’s built on lean startup methodology.
@@ -614,14 +585,12 @@ Third: Rather than doing long, convoluted employee surveys, stick to a simple fe
 4. Proactive Problem Management – Go Directly to the Source: As complexity increases, so too does the potential for conflict or confusion. As an exponential leader, you must be proactive in managing this. Sue’s strategy is simple and clear: “Go to the source, directly to the source. Don’t complain to managers or others before you’ve gone to the person first to resolve the conflict.”
 7. You Can’t Delegate Culture: This is absolutely critical for exponential leaders. Culture can make or break a company, and therefore it a) must be very high on a leader’s list of priorities and b) must come from the top. Leaders can’t delegate culture. Sue goes on, “Leaders are the culture bearers, the torchkeepers of culture in our companies. They might have change agents, or those that actually help them amplify their culture, but the leader cannot delegate culture. This is a truth that a lot of us forget because we’re so busy. Employees and teams really want to see it from their leaders. They want to hear the talk, they want to watch them walk the talk, all the time.” Interestingly, while leaders cannot delegate culture creation, they can delegate culture keeping.
 
-Just last week I reminded my team to leave in all internal key Meetings one seat free -- for our customer ... like Jeff Bezos practiced it in all Amazon meetings.
-
-There are three keys: honesty, effectiveness, and efficiency.
+- There are three keys: honesty, effectiveness, and efficiency.
 -->
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
-Leaders are team makers: there are no bad teams, only bad leaders. 
+Leaders are team makers. There are no bad teams, only bad leaders.
 
 Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strong person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
 
@@ -631,20 +600,11 @@ Being a leader is different from being a boss: it requires to be a manager and a
 
 > *'The only thing that gives orders is balls.' -- Tony Montana*
 
-People want leadership positions because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
+Good leaders are leaders that grew up in the hierarchy.  
+
+People seek leadership positions because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
-
-### Hints
-
-- Know when to speak and when don’t.  
-- Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
-- Are part of the team. 'No one is smarter than a small group.'  
-- Make people feel as part of a family.  
-- Good leaders are leaders that grow up in the hierarchy.  
-- In order to be successful you will probably have to build a team of successful people to support you. You need them to be paid well and well taken care of. You must make it easy for them to succeed and you must teach them how to do it. You won’t do it alone. Put employees before customers.  
-- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.  
-- When someone is out of line, don’t let it slide too far. If you let someone treat your poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business.
 
 
 
@@ -686,13 +646,14 @@ A great manager is a great facilitator.
 
 ### On teams
 
-<!--
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
--->
 
+A chain is only as strong as its weakest link. Make people feel as part of a family.
+
+- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.  
 - The ultimate divisional organization: Amazon’s “two-pizza teams”.  
-- A chain is only as strong as its weakest link.  
-- Custom tailor teams from project to project. Same team from same project is not the best option.
+- Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
+- 
 
 > *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
 
@@ -700,33 +661,35 @@ A great manager is a great facilitator.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
-[Communicate](#on-communication). Spend one hour a day just talking to your people and everything will be OK. 
+Ask instead of telling.
 
-Ask instead of telling. If the delivered work is not good enough give a reason.
+Learn when to speak and when don’t. If the delivered work is not good enough give a reason. Spend one hour a day just [communicating](#on-communication) to your people and everything will be OK. 
 
-> *'«Is that the best you can do?»  
-«Interesting, how do you feel about it?»  
-«What does your team think?»  
-«Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.'*
-
-> *'«Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.'*
+- «Is that the best you can do?»  
+- «Interesting, how do you feel about it?»  
+- «What does your team think?»  
+- «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
+- «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
 
 > *'Praise by name, criticize by category.' -- Warren Buffet*
 
 However gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Data shows people want more feedback but monthly, not daily.
 
-> *'Delegating isn’t as easy as it looks. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.'*
-
 ### On meetings
+
+<!--
+Just last week I reminded my  ... like Jeff Bezos practiced it in all Amazon meetings.
+-->
+
+Default to “no” for all meetings. If you can’t say no, schedule the meeting for the afternoon. If you have to do it in person, make it close to your office.
 
 Hints:
 
-- Default to “no” for all meetings. If you can’t say no, schedule the meeting for the afternoon. If you have to do it in person, make it close to your office.
 - Start a meeting with an overachieving question: «how can we raise sales by 12%?».  
 - Do not share your opinion on possible solutions before asking for input from your team. Lower ranked people should speak first. Everybody the right to their opinion and not copying others' opinion.  
-- Jeff Bezos famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings.
+- Jeff Bezos famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. He also reminded the team to leave in all internal key meetings one seat free - for their customer.
 
-> *'Always tell us the bad news promptly. Good news can wait' -- Berkshire policy*
+> *'Always tell us the bad news promptly. Good news can wait.' -- Berkshire policy*
 
 
 
@@ -760,9 +723,9 @@ He who works with his hands and his head and his heart is an artist.' -- St. Fra
 
 Trial most but only hire likable persons that «get shit done».
 
-Your goal in business should be to «fire» yourself and hire people who are better at your job than you are. To build an empire you must become a master at finding and hiring talent.
+Your goal in business should be to «fire» yourself and hire people who are better at your job than you are. To be a leader you must become a master at finding and hiring talent.
 
-> *'Two valid methods: hiring on culture contribution and hiring on culture matching.'*
+- Two valid methods: hiring on culture contribution and hiring on culture matching.
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
@@ -770,12 +733,11 @@ Your goal in business should be to «fire» yourself and hire people who are bet
 
 ### How to attract and keep talented people?
 
-Respect them. You'll never respect them if you don’t reward them accordingly.  
 Usually people leave managers, not companies.
 
-> *'Create contracts that build up «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process.'*
+Respect them. You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process.
 
-HOWEVER good employeees are not easy to find.
+However good employeees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
@@ -792,8 +754,7 @@ DON’T tell about your responsibilities. Everyone who is doing your type of job
 
 ### On asking for a raise
 
-- If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.  
-- They don’t want to lose you. They don’t want to lose the negotiation. And they don’t want to restart the hiring process. Hiring is a long and expensive process.
+If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.  
 
 
 
@@ -837,7 +798,7 @@ So: 100% on one thing = 80% on 5 things!
 
 > *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
-Avoid the trap of following one set career path. Focus on being useful, it will be easier to pivot when needed. If your job doesn’t require originality, next decade you might not have it.
+Avoid the trap of following one set career path - focus on being useful - it will be easier to pivot when needed. If your job doesn’t require originality, next decade you might not have it.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
@@ -879,8 +840,6 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 ### How to «pivot» career?
 
-> *'People pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.'*
-
 > *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
 
 You will either pivot or get pivoted.
@@ -888,7 +847,8 @@ You will either pivot or get pivoted.
 Cultivate a relevant skill stack, capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
 
 - use the transportable skills that you have: soft skills (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
-write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc.  
+write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc. 
+- people pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.
 - find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
 - take risks to boost your immune system.  
 - pivoting is a mindset. Pivoting isn’t easy, even if you know it’s right.  
@@ -904,8 +864,9 @@ Ask employers why did they asked you for an interview - they will describe your 
 ---
 ## On hierarchy
 
-Everything is hierarchy.  
-Only comedians can speak the truth without consequences.
+Everything is hierarchy. Only comedians can speak the truth without consequences.
+
+Social cartography: who’s the decision maker, to whom people are speaking and who is speaking. The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.
 
 > *'Never outshine the master.'  
 'Know who you’re dealing with: do not offend the wrong person.'  
@@ -915,11 +876,7 @@ Only comedians can speak the truth without consequences.
 
 > *'Higher the status, more exposure to parasites whose transmission isn’t environmentally mediated.'*
 
-> *'The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.'*
-
-> *'Social cartography: who’s the decision maker, to whom people are speaking and who is speaking.'*
-
-HOWEVER... don’t vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
+However don’t vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
 > *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
 
