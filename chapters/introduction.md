@@ -11,10 +11,12 @@
 <!--
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
 to be real you need to be vulnerable
+- (kk) You are what you do. Not what you say, not what you believe, not how you vote, but what you spend your time on.
 > *'Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
 Entrepeneurs are curious
 > *'You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.' -- Friedrich Nietzsche*
 > *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
+> *'That thing that made you weird as a kid could you make great as an adult — if you don’t lose it.' -- Kevin Kelly*
 -->
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
@@ -52,6 +54,9 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 ## On happiness
 
 <!--
+> *'What you get by achieving your goals is not as important as what you become by achieving your goals. At your funeral people will not recall what you did; they will only remember how you made them feel.' -- Kevin Kelly*
+> *'History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is “What might I be wrong about?”' -- Kevin Kelly*
+
 - Money or wealth won‘t make you happy. Family, friends and purposful „work“ does.
 
 > *'For every minute you are angry you lose sixty seconds of happiness.' -- Ralph Waldo Emerson*

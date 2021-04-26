@@ -21,6 +21,11 @@ Speak less and listen more. Be humble, listening is powerful.
 ### How to communicate? 
 
 <!--
+> *'Always say less than necessary.' -- Kevin Kelly*
+> *'People can’t remember more than 3 points from a speech.' -- Kevin Kelly*
+
+- (kk) Rule of 3 in conversation. To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth.
+- (kk) Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
 
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
@@ -84,6 +89,8 @@ When public speaking you dont need to answer their question. You can say whateve
 
 <!--
 > *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
+- (kk) When someone is nasty, rude, hateful, or mean with you, pretend they have a disease. That makes it easier to have empathy toward them which can soften the conflict.
+> *'Your best response to an insult is “You’re probably right.” Often they are.' -- Kevin Kelly*
 -->
 
 > *'War is what happens when language fails.' -- Margaret Atwood*
@@ -133,7 +140,7 @@ Outliers inspire envy. Once they stop talking to you, they start to talk about y
 
 > *'Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.' -- Marilyn Monroe*
 
-When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_2_groups.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you’re better than them.
+When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_3_action.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you’re better than them.
 
 > *'The dogs bark but the caravan moves on.' -- Arab proverb*  
 
@@ -152,6 +159,11 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On following the herd
 
 <!--
+> *'You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.' -- Kevin Kelly*
+> *'When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong.' -- Kevin Kelly*
+> *'Even a foolish person can still be right about most things. Most conventional wisdom is true.' -- Kevin Kelly*
+> *'Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious.' -- Kevin Kelly*
+
 Critical Mass in Psychology
 Psychologists have known for a long time that groups of people behave differently than individuals.
 Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. (An interesting detail is that mob psychology is one of the few branches of psychology which does not concern individuals.) As a general rule, the larger the crowd, the less responsibility people have for their behaviour. (This is also why individuals and not groups should make decisions.)
@@ -235,6 +247,10 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 # 2.2 - On cooperation
 
 ## On relationships
+
+<!--
+- (kk) Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom.
+-->
 
 > *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don’t see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
 
@@ -322,6 +338,13 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 ### On friends
 
+<!--
+- (kk) Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat.
+> *'Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem.' -- Kevin Kelly*
+> *'Don’t loan money to a friend unless you are ready to make it a gift.' -- Kevin Kelly*
+> *'Show me your calendar and I will tell you your priorities. Tell me who your friends are, and I’ll tell you where you’re going.' -- Kevin Kelly*
+-->
+
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 
 > *'When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
@@ -338,6 +361,7 @@ Keep your friends for friendship, work with the skilled and competent. You will 
 Curate somehow those who surround you: you are the average of them. When you enter a workplace, think that you will become like them and not the opposite. If you’re always the smartest in the room, you’re in the wrong room.
 
 <!--
+- (kk) Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you.
 “A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
 “You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
 I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
@@ -411,6 +435,9 @@ Taxes aren’t a punishment. They are a membership fee that 80% of us are volunt
 ## On business and entrepreneurship
 
 <!--
+> *'The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.' -- Kevin Kelly*
+
+- (kk) You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further.
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding. empregados sempre c skin in the game. the enemies are outside not inside
 - CEOs are adaptable and flexible and good risk managers.
 - Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
@@ -484,9 +511,12 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 
 
 
+---
 ## On networking
 
 <!--
+- (kk) The more you are interested in others, the more interesting they find you. To be interesting, be interested.
+- (kk) Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead.
 - What's the most common question or problem you get asked about? Share the answer.
 > *'Each of us is born with a box of matches inside us but we can’t strike them all by ourselves' -- Laura Esquivel*
 
@@ -545,6 +575,10 @@ Choose truth or your self-mythology will seduce you.
 > *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
 
 ### Why most people don’t like networking?
+
+<!--
+- (kk) Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works.
+-->
 
 Handling rejection is hard. Period.
 
@@ -650,14 +684,17 @@ A great manager is a great facilitator.
 
 A chain is only as strong as its weakest link. Make people feel as part of a family.
 
-- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.  
-- The ultimate divisional organization: Amazon’s “two-pizza teams”.  
-- Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'  
-- 
+- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
+- The ultimate divisional organization: Amazon’s “two-pizza teams”.
+- Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
 
 > *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
 
 ### How to give feedback?
+
+<!--
+> *'Always give credit, take blame.' -- Kevin Kelly*
+-->
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
@@ -665,9 +702,9 @@ Ask instead of telling.
 
 Learn when to speak and when don’t. If the delivered work is not good enough give a reason. Spend one hour a day just [communicating](#on-communication) to your people and everything will be OK. 
 
-- «Is that the best you can do?»  
-- «Interesting, how do you feel about it?»  
-- «What does your team think?»  
+- «Is that the best you can do?»
+- «Interesting, how do you feel about it?»
+- «What does your team think?»
 - «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
 - «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
 
@@ -698,6 +735,12 @@ Hints:
 ## On hiring and being hired
 
 <!--
+> *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
+
+- (kk) Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
+- (kk) If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss.
+- (kk) Don’t be the best. Be the only.
+- (kk) Being enthusiastic is worth 25 IQ points.
 - I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
 - people want freedom to choose their process.
 - The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.

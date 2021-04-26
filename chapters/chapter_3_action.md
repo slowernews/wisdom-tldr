@@ -12,6 +12,8 @@
 
 <!--
 > *'Invention, strictly speaking, is little more than a new combination of those images which have been previously gathered and deposited in the memory; nothing can come from nothing.' -- Sir Joshua Reynolds*
+- (kk) Anything real begins with the fiction of what could be. Imagination is therefore the most potent force in the universe, and a skill you can get better at. It’s the one skill in life that benefits from ignoring what everyone else knows.
+> *'Everything is hard before it is easy. The day before something is a breakthrough, it’s a stupid idea.' -- Kevin Kelly*
 -->
 
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
@@ -54,6 +56,10 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 
 ### How to judge ideas?
 
+<!--
+> *'A multitude of bad ideas is necessary for one good idea.' -- Kevin Kelly*
+-->
+
 Peers are the best judging ideas. Managers will regret more a false positive than a false negative.
 
 However the right idea not executed is worth nothing and a mediocre one well executed can prove to be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can bring them to life. 
@@ -69,6 +75,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ## On analysis
 
 <!--
+- (kk) Rule of 7 in research. You can find out anything if you are willing to go seven levels. If the first source you ask doesn’t know, ask them who you should ask next, and so on down the line. If you are willing to go to the 7th source, you’ll almost always get your answer.
+- (kk) Extraordinary claims should require extraordinary evidence to be believed.
 - How can we overcome complexity bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
 - best way to deal with confirmation bias: You need to search out disconfirming evidence.
 - confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
@@ -189,7 +197,9 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ## On planning
 
 <!--
+> *'If your goal does not have a schedule, it is a dream.' -- Kevin Kelly*
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
+- (kk) Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.
 -->
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
@@ -236,6 +246,7 @@ Don't sabotage them when they get tedious or too difficult.
 ## On decision making
 
 <!--
+- (kk) Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise.
 > *'My brother says to never make a big decision before you take a shower.'*
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
@@ -342,6 +353,8 @@ better slow down the decision-making process and ensure that we consider ample i
 ## On starting and timing
 
 <!--
+> *'This is the best time ever to make something. None of the greatest, coolest creations 20 years from now have been invented yet. You are not late.' -- Kevin Kelly*
+
 At some point, the pain of not doing it becomes greater than the pain of doing it
 
 1) Protect your time like your money.
@@ -470,6 +483,10 @@ Stop making resolutions and start making something.
 
 ### Why people procrastinate?
 
+<!--
+> *'It is much easier to change how you think by changing your behavior, than it is to change your behavior by changing how you think. Act out the change you seek.' -- Kevin Kelly*
+-->
+
 - [Perfectionism](chapter_1_self.md#on-perfectionism). You fear releasing something unimportant, so you don’t release anything at all.  
 - Fear (of change). Procrastination is deeply tied to anxiety. We distract ourselves because we are not willing to face up with what bothers us.  
 - Lack of urgency / deadlines (the panic monster). Pressed by circumstances, we feel unusually energized and focused. What gets measured gets done. 
@@ -506,6 +523,8 @@ HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do.
 ## On speed, position and direction
 
 <!--
+> *'Don’t worry how or where you begin. As long as you keep moving, your success will be far from where you start.' -- Kevin Kelly*
+
 15. Waiting may be the best course of action. A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. -- Balthasar Gracian
 
 7. Be patient. You must pass through the circumference of time before arriving at the centre of opportunity. A wise reserve seasons the aims and matures the means. Time’s crutch effects more than the iron club of Hercules. God Himself chasteneth not with a rod but with time. He spake a great word who said, “Time and I against any two.” Fortune herself rewards waiting with the first prize. -- Balthasar Gracian
@@ -919,7 +938,7 @@ However always strive to achieve a win-win situation. The deal will fall if both
 <!--
 I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It’s up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
 - loving critics. best people to criticise u. what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
-
+- (kk) Reading to your children regularly will bond you together and kickstart their imaginations.
 -->
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
@@ -959,6 +978,12 @@ You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-a
 
 ### How to mentor your kids?
 
+<!--
+> *'Be nice to your children because they are going to choose your nursing home.' -- Kevin Kelly*
+> *'Children totally accept — and crave — family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies.' -- Kevin Kelly*
+> *'When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”' -- Kevin Kelly*
+-->
+
 > *'My advice is my autobiography not slogans. People relate better like that.' -- James Altucher*
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
@@ -987,6 +1012,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 ## On generosity and incentives
 
 <!--
+- (kk) Optimize your generosity. No one on their deathbed has ever regretted giving too much away.
 - power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
 - Generosity without Expectation is Sexy. It means that your thoughts, words, and actions are all in congruence. you don’t live a life that is incongruent with what you want to make others happy. You live a life of congruence where everything is in line. This is the pathway to true power. Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
 - The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
@@ -1019,6 +1045,7 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 ## On opponents and allies
 
 <!--
+> *'If you meet a jerk, overlook them. If you meet jerks everywhere everyday, look deeper into yourself.' -- Kevin Kelly*
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
 > *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
@@ -1100,7 +1127,7 @@ The only successful changes are those coming from within.
 - In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.
 
 > *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
-
+> *'Contemplating the weaknesses of others is easy; contemplating the weaknesses in yourself is hard, but it pays a much higher reward.' -- Kevin Kelly*
 
 2. Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy. -- Balthasar Gracian
 
@@ -1136,6 +1163,10 @@ Some hints:
 ## On leverage
 
 <!--
+> *'All guns are loaded.' -- Kevin Kelly*
+> *'Calm is contagious.' -- Kevin Kelly*
+> *'To quiet a crowd or a drunk, just whisper.' -- Kevin Kelly*
+
 - on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - The power of compounding: you can achieve anything, if you stop trying to do everything.
@@ -1158,6 +1189,8 @@ An army of robots is freely available - it’s just packed in data centers for h
 ## On charming
 
 <!--
+> *'To combat an adversary, become their friend.' -- Kevin Kelly*
+
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
 	
 Hooking Curiosity
@@ -1168,6 +1201,8 @@ To be human is to be a contradiction
 To Persuade Someone, Look Emotional
 - you automatically trust when somebody is doing at that time what you’re doing. paraphrased scott adams
 - It’s hard to be angry with someone who agrees with you. Making enemies is expensive.
+- (kk) Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends.
+> *'Compliment people behind their back. It’ll come back to you.' -- Kevin Kelly*
 -->
 
 > *'We catch more flies with honey than vinegar.'*
@@ -1198,6 +1233,7 @@ Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th
 ## On deceiving
 
 <!--
+- (kk) This is true: It’s hard to cheat an honest man.
 > *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
@@ -1263,6 +1299,8 @@ However unpredictability can work against you: if you are in a subordinate posit
 ## On mirroring
 
 <!--
+> *'Don’t treat people as bad as they are. Treat them as good as you are.' -- Kevin Kelly*
+
 reciprocation bias
 The archaeologist Richard Leakey believes reciprocation is the foundation on which we have evolved: “We are human because our ancestors learned to share their food and their skills in an honored network of obligation.
 social sanctions can be tough on those who fail to cooperate
@@ -1288,6 +1326,12 @@ Mirroring works best when your group is in minority.
 # 3.4 - On ending
 
 ## On finishing
+
+<!--
+> *'Bad things can happen fast, but almost all good things happen slowly.' -- Kevin Kelly*
+
+- (kk) Be prepared: When you are 90% done any large project (a house, a film, an event, an app) the rest of the myriad details will take a second 90% to complete.
+-->
 
 > *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
@@ -1347,6 +1391,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 <!--
 > *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
 - When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
+> *'In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of.' -- Kevin Kelly*
 -->
 
 > *'It only hurts when you don’t have time to prepare for the fall' -- Tony Hawk*
@@ -1367,6 +1412,7 @@ Use this opportunity to re-create yourself. If you didn’t quit anything you wo
 
 <!--
 > *'If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us.' -- Hermann Hesse*
+- (kk) Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
 -->
 
 > *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*

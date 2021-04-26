@@ -147,7 +147,11 @@ Take extreme ownership. Why? when are willing to swallow your pride and take own
 ## On humbleness
 
 <!--
+- (kk) Promptness is a sign of respect.
+> *'Don’t aim to have others like you; aim to have them respect you.' -- Kevin Kelly*
 > *'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -- Paulo Coelho*
+- (kk) How to apologize: Quickly, specifically, sincerely.
+
 -->
 
 > *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
@@ -162,7 +166,13 @@ Success means nothing in life. It’s forgotten in one generation, two at best. 
 
 > *'People aren’t either wicked or noble. They're like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
 
-A way to humble yourself is to put you in the position of being the weakest person in something during the day.  
+A way to humble yourself is to put you in the position of being the weakest person in something during the day.
+
+### How to apologise
+
+> *'It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request.' -- Kevin Kelly*
+
+Quickly, specifically, sincerely.
 
 
 
@@ -171,9 +181,11 @@ A way to humble yourself is to put you in the position of being the weakest pers
 ## On gratitude
 
 <!--
+- (kk) Gratitude will unlock all other virtues and is something you can get better at.
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
 - A good life is not a life without problems. A good life is a life with good problems. mm
+> *'Writing down one thing you are grateful for each day is the cheapest possible therapy ever.' -- Kevin Kelly*
 -->
 
 > *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
@@ -200,6 +212,10 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 ### On finding your path
 
 <!--
+> *'You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way.' -- Kevin Kelly*
+
+- (kk) Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is.
+
 1. Put Your Happiness Before Goals
 2. Fulfillment is Dependent on Direction
 3. Pain is a Messenger
@@ -242,7 +258,7 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 > *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
-### How to design a life?
+### How to design a life?al
 
 Mediocrity, as a goal, sucks. As a result, is OK. Lying on death bed and regretting your life is the worst that can happen to you.
 
@@ -333,17 +349,17 @@ Take risk. Big audacious risk. You’ll never get what you want in life without 
 
 Hints:
 
-- The risk of not changing is often greater than the risk of changing.  
-- Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.  
-- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.  
-- Being uncomfortable should be “play” for you. Get confort in disconfort.  
-- Leap while you’re at the top of the curve, and the next curve builds on the momentum.  
-- The discomfort zone is NOT about experiencing pain.  
-- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later.   
+- The risk of not changing is often greater than the risk of changing.
+- Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.
+- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.
+- Being uncomfortable should be “play” for you. Get confort in disconfort.
+- Leap while you’re at the top of the curve, and the next curve builds on the momentum.
+- The discomfort zone is NOT about experiencing pain.
+- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later.
 - The goal of life is not comfort it’s contribution. Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
-But the problem with this philosophy is that no great work ever came from comfort.  
-- Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.  
-- Risk looks different for everyone.  
+But the problem with this philosophy is that no great work ever came from comfort.
+- Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
+- Risk looks different for everyone.
 
 
 
@@ -351,24 +367,28 @@ But the problem with this philosophy is that no great work ever came from comfor
 ---
 ## On improving
 
-<!--	
+<!--
 1. You need to recognize when you’re not learning, for one thing. If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
 2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
 3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
-5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis (you can read the results at https://softwareclown.com) and I've learned a huge amount from figuring out underlying cause of what I did wrong.
+5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis and I've learned a huge amount from figuring out underlying cause of what I did wrong.
 
-- success is the worst teacher
-- Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
-- growth: get unconfortable. So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
-- Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don’t know why.
-	
+> *'There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with.' -- Kevin Kelly*	
+> *'The greatest teacher is called “doing”.' -- Kevin Kelly*
+> *'Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement.' -- Kevin Kelly*
 > *'#383. Every man hears only what he understands.' -- goethe*
 > *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
 > *'The brain switches off if it becomes too bored, that is the problem. You must always look for new things to learn.' -- Anand, Viswanathan*
 > *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
 > *'I have no special talent, I'm only passionately curious.' -- Albert Einstein*
 > *'I’m always looking for a way to make it happen, not excuses why it won’t work.' -- Aaron Walker*
+> *'When you are stuck, sleep on it. Let your subconscious work for you.' -- Kevin Kelly*
+> *'We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.'*
 
+- success is the worst teacher
+- Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
+- growth: get unconfortable. So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
+- Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don’t know why.
 - When I asked him what separated his student from the other people he’d mentored Russel’s answer was simple: «He’s willing to listen to people who are smarter than he is and he has a tremendous hustle and drive.»
 - Project-based learning is not a superior new idea. Project-based learning is the most inefficient form of learning that still works.
 - Learning concepts is much more important than learning applications.
@@ -390,7 +410,6 @@ Going public with a goal increases your support and accountability. Ask for supp
 - Discipline eliminates complexity. Everyday, you make micro and macro decisions. If you reduce the number of decisions you need to make daily, you haveasset like a real estate deal. Talk to five new women every day, be genuinely interested, and be authentic with them. Start journaling, meditating, and pushing yourself to embrace adversity.
 - Unlike IQ, which tends to stay the same throughout life, emotional intelligence is a flexible set of skills that can be acquired and improved with practice. Emotional intelligence is determined by self-awareness, self-management, social awareness, and relationship management.
 - One way to tease out the difference between Planck and chauffeur knowledge is to ask them why.
-- True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
 - No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
 - This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
 - He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
@@ -401,8 +420,6 @@ Going public with a goal increases your support and accountability. Ask for supp
 - The hardest part is showing up
 - How to learn? There are four simple steps to the Feynman Technique: choose a Concept, Teach it to a Toddler, Identify Gaps and Go Back to The Source Material, Review and Simplify
 - Only applied knowledge is power.
-
-> *'We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.'*
 -->
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
@@ -447,6 +464,11 @@ It will help you [letting go](#on-mistakes-and-failure).
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
 ### On learning
+
+<!--
+- (kk) Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe.
+- (kk) To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them.
+-->
 
 Deliberated practice.
 
@@ -517,8 +539,10 @@ skill fluency!
 ## On achieving mastery
 
 <!--
+- True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
 - Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
 
+> *'Pros are just amateurs who know how to gracefully recover from their mistakes.' -- Kevin Kelly*
 > *'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes*
 The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
 -->
@@ -543,7 +567,7 @@ And don’t stop, skills are perishable and the path to mastery a never ending s
 
 > *'I am not young enough to know everything.' -- Oscar Wilde*
 
-However mastery is an important trigger of arrogance. There is no place for a prima donna and there’s always room for improvement: be humble. 
+However mastery is an important trigger of arrogance. There is no place for a «prima donna» and there’s always room for improvement: be humble. 
 
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.' -- Robert Greene*  
 
@@ -556,6 +580,7 @@ However mastery is an important trigger of arrogance. There is no place for a pr
 ## On habits and systems
 
 <!--
+- (kk) The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.
 - long term thinking will guarantee you an easier life.
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 > *'However little television you watch, watch less.' -- David McCullough*
@@ -728,6 +753,9 @@ Professionals ask questions. Amateurs make statements. Closed-minded people focu
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 - Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
+- friends
+- (kk) Learn how to take a 20-minute power nap without embarrassment.
+“In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves.” ― Laurie Halse Anderson
 -->
 
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
@@ -833,6 +861,13 @@ Hero and coward feel the same fear but their answers to it are different. Courag
 ---
 ## On mistakes, failure and regrets
 
+<!--
+- (kk) To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is.
+- (kk) When crisis and disaster strike, don’t waste them. No problems, no progress.
+- (kk) If you are not falling down occasionally, you are just coasting.
+> *'If something fails where you thought it would fail, that is not a failure.' -- Kevin Kelly*
+-->
+
 > *'Experience is merely the name men gave to their mistakes.' -- Oscar Wilde*
 
 > *'Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
@@ -894,6 +929,7 @@ Making mistakes is better than faking perfections. Every difficulty carries with
 <!--
 - Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 > *'Just get out of the room.' -- Robert Glover*
+> *'Ignore what others may be thinking of you, because they aren’t.' -- Kevin Kelly*
 -->
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
@@ -905,6 +941,7 @@ The things you hate most about yourself are the things you hide from the rest of
 ### On validation
 
 <!--
+> *'If you can avoid seeking approval of others, your power is limitless.' -- Kevin Kelly*
 - It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
 - You don’t have to prove anything to anybody, including yourself.
 - Seek Validation from Yourself and Yourself Only, specially men. The problem is that men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
@@ -1027,6 +1064,11 @@ However your level of success will seldom exceed your level of personal developm
 ---
 ## On pessimism
 
+<!--
+- (kk) Over the long term, the future is decided by optimists. To be an optimist you don’t have to ignore all the many problems we create; you just have to imagine improving our capacity to solve problems.
+- (kk) The universe is conspiring behind your back to make you a success. This will be much easier to do if you embrace this pronoia.
+-->
+
 > *'That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.' -- James Jones*
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.' -- Bertram Carr*
@@ -1044,6 +1086,10 @@ Pessimism is a scarcity mindset.
 
 ---
 ## On perfectionism
+
+<!--
+> *'Something does not need to be perfect to be wonderful. Especially weddings.' -- Kevin Kelly*
+-->
 
 > *'The perfect is the enemy of the good.' -- Voltaire*
 

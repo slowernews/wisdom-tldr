@@ -90,6 +90,10 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 ---
 ## On future
 
+<!--
+> *'Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree.' -- Kevin Kelly*
+-->
+
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
 > *'If you don’t imagine, nothing ever happens at all.' -- John Green*
@@ -119,7 +123,7 @@ However don’t worry too much, you can’t control it.
 ## On growing old
 
 <!--
-- Modern Maturity: Create More, Consume Less.
+> *'You are only as young as the last time you changed your mind.' -- Kevin Kelly*
 -->
 
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
@@ -132,13 +136,19 @@ Aging implies damage.
 
 > *'A man that lives from memories becames old. One that lives from projects remains young.' -- Bruno Munari*
 
-> *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
-
 > *'Once I was beautiful, now I'm myself.' -- Anne Sexton*
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
 
 > *'We never really grow up, we only learn how to act in public.' --  Bryan White*
+
+### On maturity
+
+> *'The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility.' -- Kevin Kelly*
+
+Create more, consume less.
+
+> *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
 
 
 
@@ -149,6 +159,7 @@ Aging implies damage.
 ## On intelligence and talent
 
 <!--
+> *'Being wise means having more questions than answers.' -- Kevin Kelly*
 > *'Some people feel the rain. Others just get wet.' -- Bob Marley*
 > *'The measure of intelligence is the ability to change.' -- Albert Einstein*
 > *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
@@ -184,8 +195,11 @@ To reveal the true nature of your intelligence rarely pays. It’s the most sens
 ## On money and wealth
 
 <!--
+> *'Work to become, not to acquire.' -- Kevin Kelly*
+> *'A problem that can be solved with money is not really a problem.' -- Kevin Kelly*
 - money is freedom. why do u want fu money if you don't say fu.
 - When you’re finally wealthy, you'll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
+> *'To be wealthy, accumulate all those things that money can’t buy.' -- Kevin Kelly*
 -->
 
 > *'Some people are so poor, all they have is money.' -- Patrick Meagher*
@@ -222,6 +236,10 @@ Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 
 ---
 ## On fame and popularity
+
+<!--
+- (kk) You really don’t want to be famous. Read the biography of any famous person.
+-->
 
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
 
@@ -299,6 +317,14 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
+> *'Dance with your hips.' -- Kevin Kelly*
+> *'You can eat any dessert you want if you take only 3 bites.' -- Kevin Kelly*
+> *'Be frugal in all things, except in your passions splurge.' -- Kevin Kelly*
+- (kk) Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.
+- (kk) When you die you take absolutely nothing with you except your reputation.
+- (kk) Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will.
+- (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
+- (kk) Eliminating clutter makes room for your true treasures.
 - mailbox money
 - do work you love for low pay or do work you hate for a high pay.
 In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
@@ -345,6 +371,12 @@ Hints:
 
 ### How to simplify?
 
+<!--
+- (kk) If you are looking for something in your house, and you finally find it, when you’re done with it, don’t put it back where you found it. Put it back where you first looked for it.
+- (kk) Buying tools: Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.
+- (kk) When an object is lost, 95% of the time it is hiding within arm’s reach of where it was last seen. Search in all possible locations in that radius and you’ll find it.
+-->
+
 - Use it or loose it. A tool is useful when passes human level.
 - Remove unnecessary distractions and obligations that aren’t truly serving your end goals.  
 - Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
@@ -357,8 +389,10 @@ Hints:
 
 <!--
 > *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
+> *'Most overnight successes — in fact any significant successes — take at least 5 years. Budget your life accordingly.' -- Kevin Kelly*
+> *'To succeed, get other people to pay you; to become wealthy, help other people to succeed.' -- Kevin Kelly*
 
-- 
+- (kk) Show up. Keep showing up. Somebody successful said: 99% of success is just showing up.
 
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 silicon valley celebrate failure only after they achieve success
@@ -498,6 +532,8 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 > *'If Apple sold you a product that failed 50% of the time, would you buy it?' -- Esther Perel*
 
+> *'You don’t marry a person, you marry a family.' -- Kevin Kelly*
+
 
 
 
@@ -506,17 +542,18 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 <!--
 > *'A man cannot live without worshiping something; without worshiping he cannot bear the burden of himself. And that goes for every man. So that if a man rejects God, he will have to worship an idol that may be made of wood, gold or ideas. So those who think they don’t need God are really just idol worshipers, and that’s what we should call them.' -- Wolfgang Palaver*
+> *'The worst evils in history have always been committed by those who truly believed they were combating evil. Beware of combating evil.' -- Kevin Kelly*
 -->
 
 > *'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
+
+> *'God has no religion.' -- Mahatma Gandhi*
 
 And on the first day, men created god.
 
 > *'I’d rather be in the mountains thinking of God than in church thinking about the mountains.' -- John Muir*
 
 > *'We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further.' -- Richard Dawkins*
-
-> *'God has no religion.' -- Mahatma Gandhi*
 
 ### On morality
 
@@ -567,6 +604,8 @@ Everything that is not a law of nature is just a shared belief.
 
 <!--
 > *'Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.' -- Leonardo da Vinci*
+- (kk) Art is in what you leave out.
+> *'Jesus, Superman, and Mother Teresa never made art. Only imperfect beings can make art because art begins in what is broken.' -- Kevin Kelly*
 -->
 
 > *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
@@ -574,7 +613,8 @@ Everything that is not a law of nature is just a shared belief.
 > *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
 
 Art is a meditation and design is a negotiation.
-Art is just another form of screaming and it doesn’t end at the edge of the canvas.
+
+Art is just another form of screaming and it doesn’t end at the edge of the canvas. Artistic death is made by consensus.
 
 > *'Art washes away from the soul the dust of everyday life.' -- Pablo Picasso*
 
@@ -583,8 +623,6 @@ Art is just another form of screaming and it doesn’t end at the edge of the ca
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 > *'Poetry is what gets lost in translation.' -- Robert Frost*
-
-> *'Artistic death is made by consensus.'*
 
 
 
@@ -596,8 +634,9 @@ Art is just another form of screaming and it doesn’t end at the edge of the ca
 
 > *'Good taste is easy. What’s challenging is to be close to vulgarity.' -- Adam Caruso*
 
-The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
 Most people with good taste are young and poor.
+
+The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
@@ -618,6 +657,8 @@ Most people with good taste are young and poor.
 <!--
 > *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith in The Wealth Of Nations*
 “When innovative companies begin making decent profits, landlords raise the rents to adjust for the new ability to pay. As a result, these additional wages are neither reinvested, nor reflected in the disposable income of employees. This is the dynamic behind the mystery of stagnant wages. When workers in a particularly well-paid sector begin pouring into a city, landlords likewise raise the rent to absorb these incomes. It isn’t gentrification, but absorption through monopoly power.”
+- (kk) Never use a credit card for credit. The only kind of credit, or debt, that is acceptable is debt to acquire something whose exchange value is extremely likely to increase, like in a home. The exchange value of most things diminishes or vanishes the moment you purchase them. Don’t be in debt to losers.
+- (kk) Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.
 
 Hints:
 
@@ -649,6 +690,10 @@ Hints:
 - Diversify with uncorrelated investment bets.
 
 ### On your investment comfort zone
+
+<!--
+> *'If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme.' -- Kevin Kelly*
+-->
 
 Scared money never wins. It’s about the risk of losing money versus the risk of missing opportunity.  
 
@@ -691,7 +736,12 @@ Get an exit strategy and take risk from the table when possible.
 ## On travel and nomadism
 
 <!--
+> *'If you have any doubt at all about being able to carry a load in one trip, do yourself a huge favor and make two trips.' -- Kevin Kelly*
 - On adrenaline: what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
+- (kk) A vacation + a disaster = an adventure.
+- (kk) On vacation go to the most remote place on your itinerary first, bypassing the cities. You’ll maximize the shock of otherness in the remote, and then later you’ll welcome the familiar comforts of a city on the way back.
+- (kk) When you are young spend at least 6 months to one year living as poor as you can, owning as little as you possibly can, eating beans and rice in a tiny room or tent, to experience what your “worst” lifestyle might be. That way any time you have to risk something in the future you won’t be afraid of the worst case scenario.
+- (kk) If you lose or forget to bring a cable, adapter or charger, check with your hotel. Most hotels now have a drawer full of cables, adapters and chargers others have left behind, and probably have the one you are missing. You can often claim it after borrowing it.
 -->
 
 > *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
@@ -744,6 +794,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 when writing a book start with your own ideas
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
 > *'People say that life is the thing, but I prefer reading.' -- Logan Pearsall Smith*
+> *'I have never met a person I admired who did not read more books than I did.' -- Kevin Kelly*
 -->
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
@@ -785,6 +836,12 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 ---
 ## On email
+
+<!--
+- (kk) Don’t say anything about someone in email you would not be comfortable saying to them directly, because eventually they will read it.
+> *'Don’t let your email inbox become your to-do list.' -- Kevin Kelly*
+> *'Be governed not by the tyranny of the urgent but by the elevation of the important.' -- Kevin Kelly*
+-->
 
 Hints:
 
@@ -870,3 +927,13 @@ Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but
 > *'No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful.' -- Eleanor Roosevelt*
 
 Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
+
+
+
+<!--
+---
+## On promises
+
+- (kk) When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
+> *'Recipe for success: under-promise and over-deliver.' -- Kevin Kelly*
+-->
