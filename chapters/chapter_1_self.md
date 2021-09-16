@@ -843,6 +843,10 @@ Replace fear with curiosity. Hints:
 
 ### On courage
 
+<!--
+> *'Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.' -- Maya Angelou*
+-->
+
 > *'Tolerance of intolerance is cowardice.' -- Ayaan Hirsi Ali*
 
 > *'Life shrinks or expands in proportion to one’s courage.' -- Anaïs Nin*

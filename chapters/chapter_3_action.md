@@ -365,6 +365,7 @@ At some point, the pain of not doing it becomes greater than the pain of doing i
 you always throw out your first pancake - primeiro milho é para os pardais
 
 - in order to understand i destried myself
+- There is no goal that requires a delay. It’s now, or it’s never. Those are the only two timeframes that exist in reality. -- dan munro
 
 > *'Hesitation is always easy, rarely useful' -- Prof. Quirrel alterego*
 > *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
@@ -568,6 +569,8 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus, priorities and productivity
 
 <!--
+- 80/20 is fractal!
+
 Since the vast majority of our words and actions are unnecessary, corralling them will create an abundance of leisure and tranquility. As a result, we shouldn’t forget at each moment to ask, is this one of the unnecessary things?
 Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all. -- tim ferriss
 4) Focus On Effort, Not Outcome
@@ -1045,6 +1048,7 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 ## On opponents and allies
 
 <!--
+- When narratives begin to shift and the once good guys are labelled as bad it's not surprising they fight back. They'll point to criticisms as exaggerations. Their faults as misunderstandings.
 > *'If you meet a jerk, overlook them. If you meet jerks everywhere everyday, look deeper into yourself.' -- Kevin Kelly*
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
@@ -1238,6 +1242,7 @@ Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th
 > *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
 > *'Never be mean to anybody that can hurt you by doing nothing.'*
 > *'Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.' -- Hannah Arendt*
+> *'A lie can travel half way around the world while the truth is putting on its shoes.' -- Mark Twain*
 
 - Clean players on shady markets usually don't do well on the long term.
 - Bad liars should speak as little as possible.

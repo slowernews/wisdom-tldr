@@ -54,6 +54,7 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 ## On happiness
 
 <!--
+- happiness is a state where nothing is missing. its a neutral state. positive thought normally implies a negative thought. just in our mind you are happy or unhappy. nature doesn't give a shit about it.
 > *'What you get by achieving your goals is not as important as what you become by achieving your goals. At your funeral people will not recall what you did; they will only remember how you made them feel.' -- Kevin Kelly*
 > *'History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is “What might I be wrong about?”' -- Kevin Kelly*
 
@@ -76,7 +77,8 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 - In the absence of such an outlet, masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
 - If you aren’t happy on the journey you won’t be happy at the destination.
-= fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.
+- fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.
+- The secret of joy is the mastery of pain. – Anaïs Nin
 -->
 
 > *'Happiness is when what you think, what you say, and what you do are in harmony.' --  Mahatma Gandhi*

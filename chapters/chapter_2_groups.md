@@ -27,7 +27,7 @@ Speak less and listen more. Be humble, listening is powerful.
 - (kk) Rule of 3 in conversation. To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth.
 - (kk) Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
-
+- Seek to understand before seeking to be understood
 Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 
 1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
@@ -680,6 +680,10 @@ A great manager is a great facilitator.
 
 ### On teams
 
+<!--
+- metrics matter. if you choose the wrong metric you will optimize for teh wrong thing. vanity metrics are dangerous.
+-->
+
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 
 A chain is only as strong as its weakest link. Make people feel as part of a family.
@@ -736,6 +740,7 @@ Hints:
 
 <!--
 > *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
+- growing companies are always hiring.
 
 - (kk) Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
 - (kk) If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss.

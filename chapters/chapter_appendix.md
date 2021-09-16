@@ -12,6 +12,10 @@
 
 <!--
 - history books are on the history of power.
+> *'I can't go back to yesterday because I was a different person then.' -- Lewis Carroll*
+> *'This moment will just be another story someday.' -- Stephen Chbosky*
+> *'The worst part of holding the memories is not the pain. It's the loneliness of it. Memories need to be shared.' -- Lois Lowry*
+
 -->
 
 > *'The past doesn’t help understanding the present. It’s the present that helps understanding the past.' -- José Saramago*
@@ -92,6 +96,7 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 
 <!--
 > *'Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree.' -- Kevin Kelly*
+- Our present (in)actions ‘compounding’ into the future we will get – that’s a great way to think about what lies ahead.
 -->
 
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
@@ -258,6 +263,7 @@ People say they want to be famous to impact the world, often what they want is t
 > *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
 > *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 - surprises only happen when they didnt repaeat on ones lifetime
+> *'Things that come with little help of luck are more resistant to randomness. People who look too close to randomness burn out. The only article lady fortuna has no control over is your behaviour. Good luck.' -- Nassim Taleb*
 -->
 
 > *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
@@ -497,6 +503,10 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 > *'I really don’t know what «I love you» means. I think it means «don’t leave me here alone».' -- Neil Gaiman*
 
 > *'I am a cage in search for a bird.' -- Franz Kafka*
+
+<!--
+> *'The highest function of love is that it makes the loved one a unique and irreplaceable being.' -- Tom Robbins*
+-->
 
 
 
@@ -789,6 +799,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 ## On books
 
 <!--
+> *'No book is worth reading that isn’t worth rereading.' -- Susan Sontag*
 > *'The best writing is rewriting.' -- E. B. White*
 > *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
 when writing a book start with your own ideas
