@@ -102,6 +102,8 @@ The best value you can add is by being more of yourself not by changing. If you 
 
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
+> *'Nobody realizes that some people expend tremendous energy merely to be normal.' -- Albert Camus*
+
 
 
 
@@ -213,6 +215,7 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 
 <!--
 > *'You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way.' -- Kevin Kelly*
+> *'In the middle of difficulty lies opportunity' -- Albert Einstein*
 
 - (kk) Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is.
 
@@ -258,7 +261,7 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 > *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
 
-### How to design a life?al
+### How to design a life?
 
 Mediocrity, as a goal, sucks. As a result, is OK. Lying on death bed and regretting your life is the worst that can happen to you.
 
@@ -468,6 +471,10 @@ It will help you [letting go](#on-mistakes-and-failure).
 <!--
 - (kk) Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe.
 - (kk) To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them.
+> *'A lesson taught with humor is a lesson retained.' -- Ruth Westheimer*
+> *'It is not that I’m so smart. But I stay with the questions much longer.' -- Albert Einstein*
+- Education leads toward a continuing self-discovery; training leads toward a final self-definition.'
+> *'When information goes ‘in one ear and out the other’, it’s often because it doesn’t have anything to stick to.' -- Joshua Foer*
 -->
 
 Deliberated practice.

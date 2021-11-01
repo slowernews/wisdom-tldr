@@ -586,6 +586,7 @@ And on the first day, men created god.
 <!--
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
+- science is also the study of truth
 
 > *'The imagination of nature is far, far greater than the imagination of man.' -- Richard Feynman*
 -->
@@ -939,6 +940,7 @@ Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but
 
 Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
 
+> *'An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company.' -- Ian McEwan*
 
 
 <!--

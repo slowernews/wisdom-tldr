@@ -200,6 +200,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *'If your goal does not have a schedule, it is a dream.' -- Kevin Kelly*
 > *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 - (kk) Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.
+> *'Like most misery, it started with apparent happiness.' -- Markus Zusak*
 -->
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
@@ -580,6 +581,7 @@ You can’t control whether it ends up as a “robbery” or an “attempted rob
 
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 
+> *'Name the greatest of all inventors. Accident.' -- Mark Twain*
 - maker days and manager days
 - People As Response Functions. response triggers: your primary trigger, your secundary trigger
 - “Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all the activities in your workday that aren’t producing value.
@@ -723,6 +725,7 @@ You need to be comfortable both in a suit and tie and in camouflaged jacket.' --
 
 - Inertia is why a car does not stop the moment the brakes are applied.
 - Equipa que ganha, não se mexe.
+> *'You either die a hero, or you live long enough to see yourself become the villain.' -- Harvey Dent in The Dark Knight*
 -->
 
 > *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*

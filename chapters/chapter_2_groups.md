@@ -698,6 +698,7 @@ A chain is only as strong as its weakest link. Make people feel as part of a fam
 
 <!--
 > *'Always give credit, take blame.' -- Kevin Kelly*
+> *'The only thing worse than a boy who hates you: a boy that loves you.' -- Markus Zusak*
 -->
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
