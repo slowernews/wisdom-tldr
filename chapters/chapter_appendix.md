@@ -530,6 +530,8 @@ Most people approach each and every year in the exact same way while (somehow) e
 
 > *'“Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.”' --  Neil Gaiman*
 
+> *'People aren’t either wicked or noble. They're like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
+
 
 
 

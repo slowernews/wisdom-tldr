@@ -21,29 +21,25 @@ The bank owned them. Work owned them.
 
 > *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
 > *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston Churchill*
-> *'Quem não chora não mama.'*	
 > *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
 > *'Só os mais corajosos conseguem fazer a paz' -- Trump*
 > *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
-
 - There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
 - do u want ur daughter to date somebody like u?
-
 - I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules.
-
 -->
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
 Your independence is your legacy.
   
-Take care of yourself first and the money, love, and prosperity will follow. A girl, a job, a friend, all of those should help you achieve it. If it doesn’t, get rid of it. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
+Take care of yourself first and the money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
-Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You cannot give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you are able to serve others to your fullest capacity.
+Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you are able to serve others to your fullest capacity.
 
 > *'I think the reward for conformity is that everyone likes you except yourself.' -- Rita Mae Brown*
 
-> *'I cannot give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
+> *'I can’t give you the formula for success, but I can give you the formula for failure, which is: try to please everybody.' -- Herbert Swope*
 
 > *'That’s the problem with putting others first: you’ve taught them you come second.'*
 
@@ -62,10 +58,6 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-> *'Nobody realizes that some people expend tremendous energy merely to be normal.' -- Albert Camus*
-
-- its not to became something. It’s to unbecome everything that is not you.
-- The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. truth-a-better-way-to-talk-about-ourselves.
 - core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
 - Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
 - CHANGE YOUR ACTIONS, NOT YOURSELF
@@ -73,6 +65,7 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change.
 
 i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
+> *'Words are deeds.' -- Ludwig Wittgenstein*
 
 Part of being a man is being a protector of everyone who comes into your life.
 Part of being a man is getting shit done.
@@ -81,28 +74,27 @@ a real man loves problems. it’s an opportunity to do your best.
 Manhood is Defined by Your Values and Your Code
 (integrity, honor, service, and generosity should be at the top of your list)
 
-Always remain diligent. Have no careless Days. Fate loves to play tricks, and will heap up chances to catch us unawares. Our intelligence, prudence, and courage, even our beauty, must always be ready for trial. For their day of careless trust will be that of their discredit. Care always fails just when it was most wanted.
-
-> *'Words are deeds.' -- Ludwig Wittgenstein*
-
 Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 You must play by your rules, funnel your weird stuff to give you some advantage.
 _im bad in following a script_
+truth-a-better-way-to-talk-about-ourselves.
 -->
 
 > *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. It’s not that we’re learning how to be authentic, but that we’re un-learning inauthenticity.
+Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. 
 
-The best value you can add is by being more of yourself not by changing. If you try to be something you’re not, you end up being nothing. Don’t try to be perfect. People know when they’re talking to the real thing. Focus on vulnerability, not perfection. The world responds to vulnerability, not meticulously stuff that require an eternity to complete. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
+You don't need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. 
 
-> *'If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.'*
+If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.
 
-> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
+If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
 
 > *'Nobody realizes that some people expend tremendous energy merely to be normal.' -- Albert Camus*
+
+> *'You become what you think about all day long.' -- Ralph Waldo Emerson*
 
 
 
@@ -128,6 +120,8 @@ The best value you can add is by being more of yourself not by changing. If you 
 
 Trust, not money, is the currency of business and life. Be impeccable with your word.
 
+> *'Don’t aim to have others like you; aim to have them respect you.' -- Kevin Kelly*
+
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
 
 > *'Quality means doing it right when no one is looking.' -- Henry Ford*
@@ -136,7 +130,7 @@ Trust, not money, is the currency of business and life. Be impeccable with your 
 
 > *'Look for results, not salutes.' -- Captain Michael Abrashoff*
 
-Take extreme ownership. Why? when are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+Take extreme ownership. When are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
 
 > *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change.' --  Katharine Hepburn*
 
@@ -150,10 +144,7 @@ Take extreme ownership. Why? when are willing to swallow your pride and take own
 
 <!--
 - (kk) Promptness is a sign of respect.
-> *'Don’t aim to have others like you; aim to have them respect you.' -- Kevin Kelly*
 > *'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -- Paulo Coelho*
-- (kk) How to apologize: Quickly, specifically, sincerely.
-
 -->
 
 > *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
@@ -166,15 +157,13 @@ Success means nothing in life. It’s forgotten in one generation, two at best. 
 
 > *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
 
-> *'People aren’t either wicked or noble. They're like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
-
 A way to humble yourself is to put you in the position of being the weakest person in something during the day.
 
 ### How to apologise
 
-> *'It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request.' -- Kevin Kelly*
-
 Quickly, specifically, sincerely.
+
+> *'It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request.' -- Kevin Kelly*
 
 
 
@@ -183,7 +172,6 @@ Quickly, specifically, sincerely.
 ## On gratitude
 
 <!--
-- (kk) Gratitude will unlock all other virtues and is something you can get better at.
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
 - A good life is not a life without problems. A good life is a life with good problems. mm
@@ -265,6 +253,9 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 Mediocrity, as a goal, sucks. As a result, is OK. Lying on death bed and regretting your life is the worst that can happen to you.
 
+The goal of life is not comfort it’s contribution. Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
+But the problem with this philosophy is that no great work ever came from comfort.
+
 > *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
 
 > *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
@@ -323,7 +314,7 @@ Let your fears guide you. The Things That Scare You the Most Are the Things You 
 
 > *'If you think adventure is dangerous, try routine. It’s lethal.' -- Paulo Coelho*
 
-You need to break rules to achieve anything great.
+Without breaking rules, you'll not achieve anything great.
 
 Breaking rules frightens people but comfort is the enemy of achievement. You keep doing what you’re good at to avoid facing the real problems in your life. The size of our life is in direct proportion to how uncomfortable we are willing to be.
 
@@ -346,7 +337,7 @@ Breaking rules frightens people but comfort is the enemy of achievement. You kee
 > *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
 
 You can choose courage or you can choose comfort, but you can’t choose both.  
-Take risk. Big audacious risk. You’ll never get what you want in life without it. Not taking risks is too risky.
+Take risk. Big audacious risk. You’ll never get what you want in life without it.
 
 [If you act average, you’re going to be average](chapter_2_groups.md#on-following-the-herd). To outperform, you must be different and correct.
 
@@ -354,14 +345,10 @@ Hints:
 
 - The risk of not changing is often greater than the risk of changing.
 - Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.
-- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week.
-- Being uncomfortable should be “play” for you. Get confort in disconfort.
-- Leap while you’re at the top of the curve, and the next curve builds on the momentum.
-- The discomfort zone is NOT about experiencing pain.
-- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later.
-- The goal of life is not comfort it’s contribution. Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
-But the problem with this philosophy is that no great work ever came from comfort.
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
+- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week. Being uncomfortable should be “play” for you. Get confort in disconfort.
+- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later. The discomfort zone is NOT about experiencing pain.
+- Leap while you’re at the top of the curve, and the next curve builds on the momentum.
 - Risk looks different for everyone.
 
 
@@ -549,7 +536,6 @@ skill fluency!
 - True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
 - Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
 
-> *'Pros are just amateurs who know how to gracefully recover from their mistakes.' -- Kevin Kelly*
 > *'The chess grand master considers no more moves than does the expert; he just knows which ones to look at.' -- Robyn Dawes*
 The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
 -->
@@ -557,6 +543,8 @@ The better players did not examine more possibilities, only better ones — just
 > *'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
 
 After learning the rules, break them. Only then you can achieve mastery.  
+
+> *'Pros are just amateurs who know how to gracefully recover from their mistakes.' -- Kevin Kelly*
 
 > *'Masters are able to ask the kinds of simple questions that most people pass over.'-- Robert Greene*
 

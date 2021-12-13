@@ -2,7 +2,7 @@
 
 #### Why?
 
-It started as something I wanted to read (kind of a Bible for Agnostics and Atheists) and couldn't find anywhere.  
+It started as something I wanted to read (kind of a «Bible» for non-belivers) and couldn't find anywhere.  
 Later, I started to see it as [a way of using my research/procrastination positively](http://www.structuredprocrastination.com/).
 
 ---
