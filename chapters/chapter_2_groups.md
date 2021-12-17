@@ -12,7 +12,7 @@
 
 > *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
 
-Speak less and listen more. Be humble, listening is powerful.
+Speak less and listen more. Listening is powerful.
 
 > *'Knowledge speaks, but wisdom listens.' -- Jimi Hendrix*
 
@@ -60,7 +60,7 @@ Keep a journal and write about what you’re looking forward to and excited abou
 
 ### How to tell good stories?
 
-Good stories condense a massive amount of information into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment. When it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+Good stories condense a massive amount of details into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment. When it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
 > *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
 
@@ -97,18 +97,17 @@ When public speaking you dont need to answer their question. You can say whateve
 
 Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
 
-Don’t avoid relevant conflicts. Small (but relevant) conflicts will grow into big conflicts. When someone is out of line, don’t let it slide too far. If you let someone treat you poorly for too long in order to avoid conflict, things will get so bad that you then have to have a huge fight in order to correct them. What could have been very small is now a real problem that may compromise your relationship, business.
-
-> *'I am either part of the solution or part of the problem.'*
+Don’t avoid relevant conflicts. Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
 
 > *'Well-kept gardens die by pacifism.'*
 
 ### On conflict resolution
 
-- Offer value from the start: Set the stage by coming in smiling, pay a compliment, make a joke and shake hands.
 - Show some empathy and use “we” to show you’re on the same team.  
 - Take responsibility  
-- Bring options to the table: an high-value person always knows what they want before they come to the table. Understand also that it’s easier to negotiate down
+- Bring options to the table. Understand also that it’s easier to negotiate down
+
+> *'I am either part of the solution or part of the problem.'*
 
 
 
@@ -125,9 +124,9 @@ Consensus happens just in the beginning and in the end of something.
 
 > *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
 
-Treat your haters like toddlers.
+Treat haters like toddlers.
 
-Outliers inspire envy. Once they stop talking to you, they start to talk about you. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers.
+Outliers inspire envy. Once they stop talking to you, they start talking about you. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers.
 
 > *'Remember if people talk behind your back, it only means you are two steps ahead.' -- Fannie Flagg*
 
@@ -184,7 +183,7 @@ From Scott Adams (Dilbert):
 
 > *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
 
-Most people are other people. People accept the defaults very easily. Their thoughts are someone else opinions and they jump to conclusions.
+Most people are other people. Their thoughts are someone else opinions and they jump to conclusions. People accept the defaults very easily.
 
 > *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
 
@@ -222,7 +221,7 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 
 > *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
 
-Despite being easier to recognise stupidity in others than ourselves, don’t take for granted that others are acting stupid. Common sense is not so common.
+It's easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
 
 > *'Don’t ever take a fence down until you know the reason why it was put up.' -- John F. Kennedy, paraphrasing G.K.Chesterton*
 
@@ -234,7 +233,7 @@ Despite being easier to recognise stupidity in others than ourselves, don’t ta
 
 > *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
 
-We judge ourselves by our thoughts but society judge people by what they can do for others. 
+We judge ourselves by our thoughts but society judges us by what we can do for them. 
 
 Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
 
@@ -256,9 +255,9 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 > *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
 
-Focus on what you can give. You receive in proportion to what you give.  
+Focus on what you can give. You'll receive in proportion to what you give.  
 
-However after taking first steps [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Run away from people who treats you like you’re ordinary and partner with people who wants you to be all you can be.
+However, after taking first steps, [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Partner with people who wants you to be all you can be.
 
 Hints:
 
@@ -343,6 +342,7 @@ Cleave from your family but come back. You need to be independent and loyal at t
 > *'Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem.' -- Kevin Kelly*
 > *'Don’t loan money to a friend unless you are ready to make it a gift.' -- Kevin Kelly*
 > *'Show me your calendar and I will tell you your priorities. Tell me who your friends are, and I’ll tell you where you’re going.' -- Kevin Kelly*
+> *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
 -->
 
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
@@ -400,8 +400,6 @@ Politicians hate risk. Decisions are made on the lowest risk of offending people
 
 Politicians don’t get educated, they get bought. To reduce corruption diminish people involved on analogic processes.
 
-> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
-
 > *'Favors granted always become defined as rights.' -- Saul Alinsky*
 
 > *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
@@ -418,7 +416,8 @@ Politicians don’t get educated, they get bought. To reduce corruption diminish
 
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
-Multicultural is by absurdum the true monocultural. 
+Multicultural is by absurdum the true monocultural.
+
 > *'Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.' -- George Carlin*
 
 <!--
@@ -469,7 +468,6 @@ Validate your business by finding paying clients. If something is worth doing, s
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
 
-
 ### On entrepreneurship
 
 <!--
@@ -484,13 +482,13 @@ Patterns on unsuccessful entrepreneurs:
 
 Hints:
 
-- Do things manually at first. Get one client and do everything the hard way. Don’t scale your team/product until you have built something people want. Only after business is over running your ability to do things manually you do have to worry about automation. 
+- Do things manually at first. Get one client and do everything the hard way. Don’t scale your team/product until you have built something people want. Only after you are over running your ability to do things manually you do have to worry about automation. 
 - If you have an idea, test it and launch now. It’s called putting out a “minimally viable product” or MVP. Timing is the most important factor in startup success (quick to start but not the first). Team and Execution came next. Find the 80/20 solution. Don’t put a bunch of effort in on the front end to find out there’s no paying demand. 
 - The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs. It’s easier when YOU are the customer. You truly understand the problem. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution. However «scratching your own itch» it’s good only as a start. Build something people want: Find 10-100 customers who love your product.
 - Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
-- Create a culture that rewards killing ideas. Kill a lot of ideas. There is no risk to our people; nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
+- Kill a lot of ideas and create a culture that rewards killing ideas. Nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
 - Deliver a little bit more than expected. That'll help to get you some recommendations.
-- Say "No" to nasty, time consuming and time wasting clients. Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service. Big company corporate development queries – they will only waste time. Conferences unless they are the best way to get customers.
+- Say "No" to nasty, time consuming and time wasting clients. Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service.
 - In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
 - Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
 - There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.  
@@ -545,7 +543,7 @@ ask them first so you can costumise it for the context and make it more relevant
 
 > *'The enemy of excellence is isolation.' -- Aaron Walker*
 
-Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get. Ultimately, your network determines your net worth.
+Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get.
 
 > *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
 
@@ -560,7 +558,7 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 
 Be useful, not important.
 
-[Listen](chapter_2_groups.md#on-communication) to people, [infer](chapter_3_action.md#on-analysis) their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
+[Listen](chapter_2_groups.md#on-communication) to people, [get](chapter_3_action.md#on-analysis) their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
@@ -636,7 +634,7 @@ Being a leader is different from being a boss: it requires to be a manager and a
 
 Good leaders are leaders that grew up in the hierarchy.  
 
-People seek leadership positions because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
+People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
 
@@ -669,7 +667,7 @@ Managing is delegating. Your speed as a manager is the speed of your team.
 
 Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows. Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
-A manager should make himself 2 questions a day:
+A manager should make himself two questions a day:
 
 - What is important to accomplish?  
 - Where was I uncomfortable the day before?  
@@ -688,8 +686,8 @@ A great manager is a great facilitator.
 
 A chain is only as strong as its weakest link. Make people feel as part of a family.
 
-- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated…usually many times and in writing. Also plan for them to fail you.
 - The ultimate divisional organization: Amazon’s “two-pizza teams”.
+- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
 
 > *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
@@ -697,7 +695,6 @@ A chain is only as strong as its weakest link. Make people feel as part of a fam
 ### How to give feedback?
 
 <!--
-> *'Always give credit, take blame.' -- Kevin Kelly*
 > *'The only thing worse than a boy who hates you: a boy that loves you.' -- Markus Zusak*
 -->
 
@@ -705,13 +702,13 @@ A chain is only as strong as its weakest link. Make people feel as part of a fam
 
 Ask instead of telling.
 
-Learn when to speak and when don’t. If the delivered work is not good enough give a reason. Spend one hour a day just [communicating](#on-communication) to your people and everything will be OK. 
+If the delivered work is not good enough give a reason. Spend one hour a day [communicating](#on-communication) to your people and everything will be OK. 
 
-- «Is that the best you can do?»
 - «Interesting, how do you feel about it?»
 - «What does your team think?»
 - «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
 - «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
+- «Is that the best you can do?»
 
 > *'Praise by name, criticize by category.' -- Warren Buffet*
 
@@ -723,9 +720,7 @@ However gaining an understanding and giving appropriate feedback makes your juni
 Just last week I reminded my  ... like Jeff Bezos practiced it in all Amazon meetings.
 -->
 
-Default to “no” for all meetings. If you can’t say no, schedule the meeting for the afternoon. If you have to do it in person, make it close to your office.
-
-Hints:
+Default to “no” for all meetings. If you can’t say no, schedule the meeting for the afternoon.
 
 - Start a meeting with an overachieving question: «how can we raise sales by 12%?».  
 - Do not share your opinion on possible solutions before asking for input from your team. Lower ranked people should speak first. Everybody the right to their opinion and not copying others' opinion.  
@@ -796,14 +791,13 @@ When applying for a job be more of a consultant than an applicant. Hints:
 
 - Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
 DON’T tell about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell HOW you accomplished your responsibilities better than the next person. ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.  
-- Most reviewers are only going to understand two skill levels: still learning the skill or confident in the skill.
+- There are two skill levels: still learning the skill and confident in the skill.
 - Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.
 - Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
-- A lot of portfolios are used both for job applications and freelance clients. Don’t do this. The best practice is for a professional to design separate portfolios for each of those audiences. Every little detail matters. Here is the toughest point for a lot of people: you can’t control what your reviewer sees on your portfolio.
 
 ### On asking for a raise
 
-If your manager or employer says “No” the first time around (and this is very likely), don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.  
+If your manager or employer says “No” the first time around, don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.  
 
 
 

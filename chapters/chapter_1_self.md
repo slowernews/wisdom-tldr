@@ -111,7 +111,6 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 - being vulnerable is taking don’t be afraid of taking a risk.
 - Be willing to side with the minority.
 
-> *'Without commitment, you cannot have depth in anything, whether it’s a relationship, a business or a hobby.' -- Neil Strauss*
 -->
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
@@ -126,6 +125,8 @@ Trust, not money, is the currency of business and life. Be impeccable with your 
 
 > *'Quality means doing it right when no one is looking.' -- Henry Ford*
 
+> *'Without commitment, you cannot have depth in anything, whether it’s a relationship, a business or a hobby.' -- Neil Strauss*
+
 > *'Truth only means something when it’s hard to admit.' -- Nicholas Sparks*
 
 > *'Look for results, not salutes.' -- Captain Michael Abrashoff*
@@ -135,6 +136,8 @@ Take extreme ownership. When are willing to swallow your pride and take ownershi
 > *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change.' --  Katharine Hepburn*
 
 > *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
+
+> *'When you die you take absolutely nothing with you except your reputation.' -- Kevin Kelly*
 
 
 
@@ -204,7 +207,7 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 <!--
 > *'You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way.' -- Kevin Kelly*
 > *'In the middle of difficulty lies opportunity' -- Albert Einstein*
-
+- (kk) Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.
 - (kk) Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is.
 
 1. Put Your Happiness Before Goals
@@ -755,9 +758,7 @@ Professionals ask questions. Amateurs make statements. Closed-minded people focu
 
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*
 
-The origin of most health problems is not physical but mental.
-
-Our bodies were built to hunt and gather and move, not to stay still. Take care of your body, it’s the most important thing you’ll get for free. 
+Our bodies were built to hunt and gather and move, not to stay still. However, the origin of most health problems is not physical but mental.
 
 ### On depression and anxiety
 
@@ -776,7 +777,7 @@ Social Anxiety is never the problem, but trying to avoid social anxiety is. Soci
 If you are anxious you are living in the future.   
 If you are at peace you are living in the present.' -- Lao Tzu*
 
-Depression and anxiety are not diseases. They are symptoms of under-stimulation and over-stimulation:
+Depression and anxiety are symptoms of under-stimulation and over-stimulation, not diseases:
 
 -  Depression (under-stimulation) is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
 -  Anxiety (over-stimulation) creates hypersensitivity. Linked with our evolutionarily need of [control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Nothing is gained by worrying about «not knowing». We don’t control anything, at most we influence some stuff. Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination. Past is only in your head. What’s important is present and future.
@@ -795,7 +796,7 @@ Depression and anxiety are not diseases. They are symptoms of under-stimulation 
 Action cures everything. Physical stress avoids need for control. Hints:
 
 - Best antidepressant is knowing we matter to others. People do not die from suicide, they die from sadness.
-- Exercise a close second: burn extra calories to diminish the need of control. If you are feeling stressed out.. breathe. Body language affects your psychology, your mood, and even your hormonal balance.
+- Exercise: burn extra calories to diminish the need of control. If you are feeling stressed out.. breathe. Body language affects your psychology, your mood, and even your hormonal balance.
 - Diet is also relevant: debug your body as much as you can.
 
 > *'The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison.' -- Ann Wigmore*
@@ -821,7 +822,7 @@ Action cures everything. Physical stress avoids need for control. Hints:
 
 Fear is paralyzing.
 
-If you view everything through the lens of fear, then you tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your mother, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
+If you view everything through the lens of fear, you'll tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your mother, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
 
 ### How to overcome fear?
 
@@ -829,9 +830,8 @@ If you view everything through the lens of fear, then you tend to stay in retrea
 
 Replace fear with curiosity. Hints:
 
-- Break down your fears until you figure out the truth.
 - The antidote to fear is aceptance not courage.
-- Conquering Fear = Defining Fear: define your fears not your goals.
+- Conquering Fear = Defining Fear: define your fears not your goals. Break down your fears until you figure out the truth.
 - “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim Ferriss calls this exercise “Fear-Setting”.
 
 > *'It’s not the mountain we conquer but ourselves.' -- Sir Edmund Hillary*
@@ -846,7 +846,7 @@ Replace fear with curiosity. Hints:
 
 > *'Life shrinks or expands in proportion to one’s courage.' -- Anaïs Nin*
 
-Hero and coward feel the same fear but their answers to it are different. Courage implies low reverence.
+Heros and cowards feel the same fear but their answers are different. Courage implies low reverence.
 
 > *'Evil will prevail if good men stand back and do nothing.' -- Edmund Burke*
 
@@ -992,11 +992,11 @@ Shame is the opposite of confidence. Confidence is shamelessness.
 
 ### How to bust confidence?
 
-Confidence «movers»:
+Hints:
 
 - Confidence relies on pride. Pursue authentic pride. Hard work, mastery and core values are good sources of it.  
 - Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can’t be faked.  
-- When you break an agreement that you make with yourself, your selfestime plummets: don’t do it or renegociate it.  
+- When you break an agreement that you make with yourself, your selfestime plummets: renegociate it.  
 - Confidence: state + mastery. Impress yourself. Confidence is a result, not a requirement.  
 - Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech.
 
@@ -1079,6 +1079,8 @@ Pessimism is a scarcity mindset.
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.' -- Mark Manson*
 
 > *'Pessimists sound smart. Optimists make money.' --  Nat Friedman*
+
+> *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 
 
 

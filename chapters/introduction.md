@@ -17,6 +17,7 @@ Entrepeneurs are curious
 > *'You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.' -- Friedrich Nietzsche*
 > *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
 > *'That thing that made you weird as a kid could you make great as an adult — if you don’t lose it.' -- Kevin Kelly*
+> *'Work to become, not to acquire.' -- Kevin Kelly*
 -->
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*

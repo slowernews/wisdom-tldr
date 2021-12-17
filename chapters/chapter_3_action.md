@@ -10,12 +10,6 @@
 
 ## On creativity, vision and ideas
 
-<!--
-> *'Invention, strictly speaking, is little more than a new combination of those images which have been previously gathered and deposited in the memory; nothing can come from nothing.' -- Sir Joshua Reynolds*
-- (kk) Anything real begins with the fiction of what could be. Imagination is therefore the most potent force in the universe, and a skill you can get better at. It’s the one skill in life that benefits from ignoring what everyone else knows.
-> *'Everything is hard before it is easy. The day before something is a breakthrough, it’s a stupid idea.' -- Kevin Kelly*
--->
-
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
 > *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
@@ -146,6 +140,7 @@ And when facing new ideas. Nothing is as simple at seems at first, or as hopeles
 <!--
 > *'To understand is to know what to do.' -- Wittgenstein*
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
+> *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 
 - E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
 - Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
@@ -197,13 +192,12 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ## On planning
 
 <!--
-> *'If your goal does not have a schedule, it is a dream.' -- Kevin Kelly*
-> *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
-- (kk) Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.
 > *'Like most misery, it started with apparent happiness.' -- Markus Zusak*
 -->
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
+
+> *'If your goal does not have a schedule, it is a dream.' -- Kevin Kelly*
 
 You can’t predict but you can prepare. Plan ahead and prepare for the highly probable scenarios.
 
@@ -214,6 +208,8 @@ You can’t predict but you can prepare. Plan ahead and prepare for the highly p
 > *'He who fails to plan is planning to fail.' -- Winston Churchill*
 
 > *'Hope is not a strategy.' -- Vince Lombardi*
+
+> *'If you don’t know where you’re going, any road will get you there.' -- Lewis Carroll*
 
 > *'The movie might be good or bad but in the end we'll finish eating pizza.' -- unknown*
 
@@ -249,8 +245,8 @@ Don't sabotage them when they get tedious or too difficult.
 <!--
 - (kk) Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise.
 > *'My brother says to never make a big decision before you take a shower.'*
+- Wait 48 hours before buying stuff
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
-> *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 > *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
 
 - Occam’s razor states that the simplest solution is usually correct.
@@ -354,10 +350,6 @@ better slow down the decision-making process and ensure that we consider ample i
 ## On starting and timing
 
 <!--
-> *'This is the best time ever to make something. None of the greatest, coolest creations 20 years from now have been invented yet. You are not late.' -- Kevin Kelly*
-
-At some point, the pain of not doing it becomes greater than the pain of doing it
-
 1) Protect your time like your money.
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 	
@@ -368,7 +360,7 @@ you always throw out your first pancake - primeiro milho é para os pardais
 - in order to understand i destried myself
 - There is no goal that requires a delay. It’s now, or it’s never. Those are the only two timeframes that exist in reality. -- dan munro
 
-> *'Hesitation is always easy, rarely useful' -- Prof. Quirrel alterego*
+> *'This is the best time ever to make something. None of the greatest, coolest creations 20 years from now have been invented yet. You are not late.' -- Kevin Kelly*
 > *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 > *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
@@ -419,7 +411,7 @@ stop lionizing efficiency, and start asking the question that has guided craftsm
 
 jogar c o baralho todo / jogar com um subset
 
-But actions, not words, reveal our real values.
+- actions, not words, reveal our real values.
 
 external focus, attached to outcome.
 youre never done making everybody happy.
@@ -431,49 +423,37 @@ letting things happen instead of trying things to happen.
 
 monk mode -> no communication during mornings, only deep work -> meetings afternoon
 
-If something compounds at 1% a day, it will be 37 times better in a year.
-If something loses 1% a day, it will be 0.03% of what it was in a year.
-I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end.
-This is the path to improvement any area of life.
+If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year.
+I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
 
-Your productivity as a manager is measured as the productivity of your team. This is why, above, I wrote that sitting at your desk can be detrimental to your productivity. I think the key principle is putting your team’s productivity first, instead of your own, individual productivity. Remember, you are a communication hub and a multiplier. Think about what is best for others, and think about the things you can delegate vs. the things that only you can do.
 Ideally, the 'captain' would remain technical, and fight the war against complexity alongside his team. depends on the size of the team.
 
-productivity methods dont bnecessarily add value to your career. making stuff that others can't do
+productivity methods dont necessarily add value to your career. making stuff that others can't do
 But in order to build an awesome career doing hard but satisfying long-term work, you need to build your ability to focus for hours at a time. You need to learn hard skills. You need to let go of multitasking, distraction, and the temptation to be “busy.
 
-The key take-aways from the Pyramid Principle at McKinsey were:
-- Start with the answer first.
-- Group and summarize your supporting arguments.
-- Logically order your supporting ideas.
-
-Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
-
-The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present 3 reasons. Not 2, not 4, but exactly 3.
+- The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
+- The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons.
 “There are 3 reasons why we should do this” and then proceed to list my reasons in almost a numbered bullet point format (“First…”, “Second…”, and “Last…”).
-
-- I observed that The Rule of 3 was actually pretty effective in persuading clients to take action. Why? Three reasons:
+I observed that The Rule of 3 was actually pretty effective in persuading clients to take action. Why? Three reasons:
 	- Your argument gets their attention and is memorable
 	- You are forced to choose the 3 most important reasons
 	- You sound more structured, confident and decisive when you speak.
 - The non-linearity of productivity
-- never mistake action for motion
 - there is no right time! its a delusion
 - Have a Mission. Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission. Learn something new. Missions are for people who DO. Mission statements are for people who DON’T.
-- Nothing happens in the world because of thought. Or because of talking. Or because of writing. It happens because of DO-ing.
 - Knowing is half the battle, the other half is action implementing that knowledge to your own advantage.
-- Time is the most precious thing you own.
-- lei dos 50%, so qd os lucros sao maiores q os prejuizos é q uma coisa é feita e vence-se a procrastination
-- add mark manson on procrastination - We feel anxiety over a deadline or a task that we don’t want to do, even though we know we should. So we procrastinate in order to remove that anxiety.
 - Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
 - If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.
 -->
 
 > *'A year from now, you will wish you had started today.' -- Karen Lamb*
 
+> *'Hesitation is always easy, rarely useful' -- Prof. Quirrel alterego*
+
 Just start.
 
-Stop making resolutions and start making something.
+Stop making resolutions and start making something. Time is the most precious thing you own.
+Nothing happens in the world because of thought. Or because of talking. Or because of writing. It happens because of DO-ing.
 
 > *'The journey of a thousand miles begins with a single step' -- Lao Tzu*
 
@@ -496,6 +476,8 @@ Stop making resolutions and start making something.
 - No opportunities. When hope disappears, so does action.
 - No preparation. You can learn while you do it.  
 
+We feel anxiety over a deadline or a task that we don’t want to do, even though we know we should. So we procrastinate in order to remove that anxiety.
+
 > *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
 
 > *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
@@ -504,13 +486,17 @@ Stop making resolutions and start making something.
 
 > *'If opportunity doesn't knock, build a door.' -- Milton Berle*
 
+### How to defeat procrastination?
+
+At some point, the pain of not doing it becomes greater than the pain of doing it.
+
 Timing is important but don't wait for the [perfect occasion](), a good occasion is a safer bet. You will languish if you stop for a long time. Paralysis is worse than bad timing.
 
 > *'The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing.' -- Winston Churchill*
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-HOWEVER, have a [plan](#on-planning-and-decision-making). Any plan will do.
+HOWEVER, never mistake action for motion, so have a [plan](#on-planning-and-decision-making). Any plan will do.
 
 > *'A good plan, violently executed now, is better than a perfect plan next week.' -- General George Patton*
 
@@ -551,7 +537,7 @@ Here are three ways you can increase your velocity:
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
-Direction is more important than velocity.
+Direction is more important than velocity. Even if we can't choose the starting point, we can choose the direction.
 
 Position yourself for victory by bringing the target closer. Location is better than space amount so trade space for time.
 
@@ -1197,6 +1183,7 @@ An army of robots is freely available - it’s just packed in data centers for h
 
 <!--
 > *'To combat an adversary, become their friend.' -- Kevin Kelly*
+> *'Recipe for success: under-promise and over-deliver.' -- Kevin Kelly*
 
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
 	

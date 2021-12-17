@@ -2,7 +2,7 @@
 
 #### Why?
 
-It started as something I wanted to read (kind of a «Bible» for non-belivers) and couldn't find anywhere.  
+It started as something I wanted to read (kind of a «Bible» for non-believers) but couldn't find anywhere.  
 Later, I started to see it as [a way of using my research/procrastination positively](http://www.structuredprocrastination.com/).
 
 ---
@@ -31,4 +31,4 @@ As soon as I arrive to a stable draft (and I'm still far from it), I'll publish 
 
 This project will never be complete. I plan to polish it during my lifetime.
 
-Formally (on a Github repository) it started in 2016 but I actively research it since 2014. At the time of writing, Wisdom TLDR Guide has 5 chapters and 88 sections. Spending 10 minutes per month researching or updating each section seems underwhelming, still it accrues - easily - to two workdays.
+Formally (on a Github repository) it started in 2016 but I actively research it since 2014. At the time of writing, Wisdom TLDR has 5 chapters and 88 sections. Spending 10 minutes per month researching or updating each section seems underwhelming, still it accrues - easily - to two workdays.

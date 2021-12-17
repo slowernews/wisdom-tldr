@@ -12,10 +12,6 @@
 
 <!--
 - history books are on the history of power.
-> *'I can't go back to yesterday because I was a different person then.' -- Lewis Carroll*
-> *'This moment will just be another story someday.' -- Stephen Chbosky*
-> *'The worst part of holding the memories is not the pain. It's the loneliness of it. Memories need to be shared.' -- Lois Lowry*
-
 -->
 
 > *'The past doesn’t help understanding the present. It’s the present that helps understanding the past.' -- José Saramago*
@@ -42,7 +38,11 @@ Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are
 
 > *'Death leaves a heartache no one can heal; love leaves a memory no one can steal.' -- Irish saying*
 
+> *'This moment will just be another story someday.' -- Stephen Chbosky*
+
 > *'Keep in mind that people change, but the past doesn’t.' -- Becca Fitzpatrick*
+
+> *'I can't go back to yesterday because I was a different person then.' -- Lewis Carroll*
 
 > *'He'd wasted most of his life thinking he'd wasted most of his life'*
 
@@ -51,6 +51,8 @@ Let go your past [failures](chapter_1_self.md#on-mistakes-and-failure): they are
 > *'Stop looking for happiness in the same place where you lost it.' -- Unknown*
 
 > *'I don’t know any longer whether I’m living or remembering.' -- Albert Camus*
+
+> *'The worst part of holding the memories is not the pain. It's the loneliness of it. Memories need to be shared.' -- Lois Lowry*
 
 ### How memory works?
 
@@ -94,11 +96,6 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 ---
 ## On future
 
-<!--
-> *'Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree.' -- Kevin Kelly*
-- Our present (in)actions ‘compounding’ into the future we will get – that’s a great way to think about what lies ahead.
--->
-
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
 > *'If you don’t imagine, nothing ever happens at all.' -- John Green*
@@ -115,21 +112,19 @@ If your dreams don’t scare you, they are not big enough. Anomalies often repre
 
 > *'Every saint has a past, and every sinner has a future.' -- Oscar Wilde*
 
-However don’t worry too much, you can’t control it.
+Our present (in)actions wil ‘compound’ into the future we will get – that’s a great way to think about what lies ahead. However, don’t worry too much, you can’t control much.
 
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
 > *'No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened.' -- John Hodgman*
+
+> *'Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree.' -- Kevin Kelly*
 
 
 
 
 ---
 ## On growing old
-
-<!--
-> *'You are only as young as the last time you changed your mind.' -- Kevin Kelly*
--->
 
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
@@ -151,6 +146,8 @@ Aging implies damage.
 
 > *'The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility.' -- Kevin Kelly*
 
+> *'You are only as young as the last time you changed your mind.' -- Kevin Kelly*
+
 Create more, consume less.
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
@@ -163,33 +160,31 @@ Create more, consume less.
 
 ## On intelligence and talent
 
-<!--
-> *'Being wise means having more questions than answers.' -- Kevin Kelly*
-> *'Some people feel the rain. Others just get wet.' -- Bob Marley*
-> *'The measure of intelligence is the ability to change.' -- Albert Einstein*
-> *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
-- intelligence is a spectrum. a dog is intelligent also. inteliggence is progressive. it comes from senses.
--->
-
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
 
 Talent is fragile.
 
-To reveal the true nature of your intelligence rarely pays. It’s the most sensitive envy trigger.
+To reveal the true nature of your intelligence rarely pays. Intelligence is a spectrum. A dog is intelligent also. It’s the most sensitive envy trigger.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that’s not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
 > *'Talent hits a target no one else can hit. Genius hits a target no one else can see.' -- Arthur Schopenhauer*
 
+> *'Some people feel the rain. Others just get wet.' -- Bob Marley*
+
 > *'Most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.' -- Andy Benoit*
 
 > *'Recipe for genius into one sentence: to have a disinterested obsession with something that matters.' -- Paul Graham*
 
+> *'Being wise means having more questions than answers.' -- Kevin Kelly*
+
 > *'We like to believe in genius. It gives us an excuse for being lazy.' -- Paul Graham*
 
 > *'The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.' -- John Holt*
+
+> *'The measure of intelligence is the ability to change.' -- Albert Einstein*
 
 > *'Andy Warhol is the only genius I’ve ever known with an IQ of 60.' -- Gore Vidal*
 
@@ -200,11 +195,7 @@ To reveal the true nature of your intelligence rarely pays. It’s the most sens
 ## On money and wealth
 
 <!--
-> *'Work to become, not to acquire.' -- Kevin Kelly*
-> *'A problem that can be solved with money is not really a problem.' -- Kevin Kelly*
 - money is freedom. why do u want fu money if you don't say fu.
-- When you’re finally wealthy, you'll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
-> *'To be wealthy, accumulate all those things that money can’t buy.' -- Kevin Kelly*
 -->
 
 > *'Some people are so poor, all they have is money.' -- Patrick Meagher*
@@ -214,6 +205,8 @@ To reveal the true nature of your intelligence rarely pays. It’s the most sens
 Being rich is being fulfilled.
 
 Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to more freedom and happiness.
+
+> *'A problem that can be solved with money is not really a problem.' -- Kevin Kelly*
 
 > *'We don’t make movies to make money; We make money to make more movies.' -- Walt Disney*
 
@@ -233,8 +226,13 @@ You will get rich by giving society what it wants but does not yet know how to g
 - Arm yourself with specific knowledge, accountability, and leverage. Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others. When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.  
 - Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage. The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.  
 - You cannot save your way to wealth.
+- When you’re finally wealthy, you'll realize that it wasn’t what you were seeking in the first place.
 
-Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
+> *'To be wealthy, accumulate all those things that money can’t buy.' -- Kevin Kelly*
+
+### Nearly free stuff
+
+Books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
 
 
 
@@ -242,15 +240,13 @@ Nearly free stuff: books, friends, sleep, stopping bad habits, ideas, gratefulne
 ---
 ## On fame and popularity
 
-<!--
-- (kk) You really don’t want to be famous. Read the biography of any famous person.
--->
-
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
 
 See fame as a multiplier. 
 
 People say they want to be famous to impact the world, often what they want is the adoration of their peers.
+
+> *'You really don’t want to be famous. Read the biography of any famous person.' -- Kevin kelly*
 
 
 
@@ -261,9 +257,6 @@ People say they want to be famous to impact the world, often what they want is t
 <!--
 > *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 > *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
-> *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
-- surprises only happen when they didnt repaeat on ones lifetime
-> *'Things that come with little help of luck are more resistant to randomness. People who look too close to randomness burn out. The only article lady fortuna has no control over is your behaviour. Good luck.' -- Nassim Taleb*
 -->
 
 > *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
@@ -272,7 +265,7 @@ People say they want to be famous to impact the world, often what they want is t
 
 Unless you’re winning, life will seem unfair to you, but, bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it’s all math. The best things in life are born from coincidence.
 
-«Random» usually means that you haven’t looked long enough to see a pattern emerge.
+«Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn't repeat on one's lifetime.
 
 > *'God is subtle but he is not malicious.' -- Albert Einstein*
 
@@ -283,6 +276,8 @@ Unless you’re winning, life will seem unfair to you, but, bad luck is often ba
 ### On chance
 
 Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
+
+> *'Things that come with little help of luck are more resistant to randomness. People who look too close to randomness burn out. The only article lady fortuna has no control over is your behaviour. Good luck.' -- Nassim Taleb*
 
 
 
@@ -314,7 +309,9 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 - Exercise is king. Balance on body training = flexibility (yoga or animal movements) + strength (weights). Minimum effective dose.  
 - Nutrition is queen. Eat more real foods and practice intermittent fasting.  
-- Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Take naps at work. Apologize to no one. Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
+- Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
+
+> *'You can eat any dessert you want if you take only 3 bites.' -- Kevin Kelly*
 
 
 
@@ -324,30 +321,12 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 <!--
 > *'Dance with your hips.' -- Kevin Kelly*
-> *'You can eat any dessert you want if you take only 3 bites.' -- Kevin Kelly*
-> *'Be frugal in all things, except in your passions splurge.' -- Kevin Kelly*
-- (kk) Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.
-- (kk) When you die you take absolutely nothing with you except your reputation.
-- (kk) Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will.
-- (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
-- (kk) Eliminating clutter makes room for your true treasures.
-- mailbox money
-- do work you love for low pay or do work you hate for a high pay.
-In this moment, you might think that you will find satisfaction by purchasing that big house, the yacht, or the car. But what happens after you are done?
-- travel as a way of running way from their problems
-> *'I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude.' -- Colette*
-- value in less and the joy of missing out:
-- it’s important to spend a lot of time in nature and with the unique opportunity of discovering yourself. The real work is within. I find that people especially my age, are so distracted with things outside of themselves / needing to prove something.
 - If you’re not trying to make money, what are you even doing?
 - feel like a local celebrity: everybody knows who you are.
 You are in a city, without knowing the language, manage to go to the hostel, meet people there. Make your way there.
 - Don’t play the government’s game. Instead, create a game that worked by my rules, a game I could win.
-- find another way to derive meaning from life than working or productivity. When I’m out in the world, I rent my car on turo and my homes on airbnb. I travel hack to cover the flights. Promote Airbnb for travel credits.
-- That’s why I wanted to speak to Fred. Not because he wrote “The Soup” episode of Seinfeld. But because he’s still doing what he loves to do. And what he loves to do is constantly changing.
 - But you’re choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 - My life has been a series of questions and odd experiments.
-- Organizing is not just for making your house clean or your room tidy; the end goal is to clarify your values.
-- overheard someone say in a SF cafe: "I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much.
 -->
 
 > *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
@@ -363,12 +342,16 @@ When life becomes about [enjoying every second over accumulating more stuff](#on
 
 > *'Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t.' -- Ramit Sethi*
 
+> *'Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will.' -- Kevin Kelly*
+
+> *'I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude.' -- Colette*
+
 Hints:
 
 - 3 days a week; 3 weeks a month; 3 months free a year.  
 - House + work + third place.
 - The opposite of play isn’t work, it’s depression.  
-- Essencialism: the disciplined pursuit of less. Simplicity is the ultimate sophistication. 
+- Essencialism: the disciplined pursuit of less. Simplicity is the ultimate sophistication. Eliminating clutter makes room for your true treasures. The end goal is to clarify your values.
 - Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 - How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.  
@@ -394,48 +377,33 @@ Hints:
 ## On success
 
 <!--
-> *'If you didnt get what do you want, its a sign that you didnt really wanted it or you bargained the price.' -- Roger Kipling*
 > *'Most overnight successes — in fact any significant successes — take at least 5 years. Budget your life accordingly.' -- Kevin Kelly*
 > *'To succeed, get other people to pay you; to become wealthy, help other people to succeed.' -- Kevin Kelly*
-
 - (kk) Show up. Keep showing up. Somebody successful said: 99% of success is just showing up.
 
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
-silicon valley celebrate failure only after they achieve success
-
+- silicon valley celebrate failure only after they achieve success
 - Real success happens when we focus on one thing at a time.
 - There are two things you need to do to be successful: know what is he right thing and having the courage to do it
-- your neeed for aceptance can make you invisible in this world.
+- your need for aceptance can make you invisible in this world.
 - And when they finally became a “success” they realized that they were no more fulfilled at 40 with $100,000 in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them. They worked tirelessly to achieve goals that they didn’t truly care about.
-- success is a dangerous word. i dont know any sucessful person.
 - sucesses keep you making the same stuff, mistakes not.
 - It’s never your identity, it’s always your strategy
 - Succeeding means securing advantage.
 
-1. Do What Works and Forget the Rest. But the simple truth is that success leaves clues. There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
-
-1. All of Success is About Conquering Yourself
-Most people assume that success is all about the mechanics.
-Guess what, no matter what you are striving for, you will face failure at some point in your life, however, if you have developed yourself, if you have conquered your own emotions of fear, doubt, and unconfidence, you can return from any failure and be victorious.
-
-1. Success is in Our Decisions Not Our Conclusions
-Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make.
-Success is truly about living a life with honor and integrity, not any material outcome.
-success is not the accumulation of stuff
-
-If you want to succeed at anything in your life, then forget about the Joneses.
-You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
-
+- Do What Works and Forget the Rest. But the simple truth is that success leaves clues. There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
+- All of Success is About Conquering Yourself. Most people assume that success is all about the mechanics. Guess what, no matter what you are striving for, you will face failure at some point in your life, however, if you have developed yourself, if you have conquered your own emotions of fear, doubt, and unconfidence, you can return from any failure and be victorious.
+- Success is in Our Decisions Not Our Conclusions. Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make. Success is truly about living a life with honor and integrity, not any material outcome. success is not the accumulation of stuff.
+- If you want to succeed at anything in your life, then forget about the Joneses. You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
 - Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal. True fulfillment comes from living your life, not from achievement. Experiences worth more than material
-
 “The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
-
 - The key to all success in life lies in education and massive action. If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
-
 - The story he told me was a combination of luck, learning skills, building a network, and acting on the intersection of all of the above. But more than anything, it’s being open to surrender. Surrendering to constant reinvention.
 -->
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
+
+> *'If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price.' -- Roger Kipling*
 
 There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period of time. But success is not being wealthy, is being happy. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
 
@@ -445,11 +413,13 @@ There is no shortcut. Success is nothing but the accumulation of small things do
 
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
 
-However [fear](#on-confidence-and-validation), not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit..
+[Fear](#on-confidence-and-validation), not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit..
 
 > *'Doubt kills more dreams than failure ever will.'*
 
 > *'Whether you think you can, or you think you can’t, you’re right.' -- Henry Ford*
+
+But success is a dangerous word. I don’t know any sucessful person.
 
 
 
@@ -469,6 +439,7 @@ However [fear](#on-confidence-and-validation), not failure, is the biggest barri
 > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
 > *'The four most expensive words in the English language: «This time is different».'
 > *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
+- overheard someone say in a SF cafe: "I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much.
 -->
 
 > *'Only the truth is funny.' -- Rick Reynolds*
@@ -552,11 +523,6 @@ Most people approach each and every year in the exact same way while (somehow) e
 ---
 ## On religion
 
-<!--
-> *'A man cannot live without worshiping something; without worshiping he cannot bear the burden of himself. And that goes for every man. So that if a man rejects God, he will have to worship an idol that may be made of wood, gold or ideas. So those who think they don’t need God are really just idol worshipers, and that’s what we should call them.' -- Wolfgang Palaver*
-> *'The worst evils in history have always been committed by those who truly believed they were combating evil. Beware of combating evil.' -- Kevin Kelly*
--->
-
 > *'Science without religion is lame. Religion without science is blind.' -- Albert Einstein*
 
 > *'God has no religion.' -- Mahatma Gandhi*
@@ -570,6 +536,8 @@ And on the first day, men created god.
 ### On morality
 
 > *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
+
+> *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
 
 > *'Compassion is the basis of morality.' -- Arthur Schopenhauer*
 
@@ -588,20 +556,19 @@ And on the first day, men created god.
 <!--
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
-- science is also the study of truth
-
-> *'The imagination of nature is far, far greater than the imagination of man.' -- Richard Feynman*
 -->
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albert Einstein*
 
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
-Everything that is not a law of nature is just a shared belief.
+Everything that is not a law of nature is just a shared belief. Science is the study of truth.
 
 > *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
 
 > *'The most exciting phrase to hear in science is not 'Eureka!' but 'That’s funny...' -- Isaac Asimov*
+
+> *'The imagination of nature is far, far greater than the imagination of man.' -- Richard Feynman*
 
 > *'Technological progress is like an ax in the hands of a pathological criminal.' -- Albert Einstein*
 
@@ -614,12 +581,6 @@ Everything that is not a law of nature is just a shared belief.
 
 ---
 ## On art
-
-<!--
-> *'Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.' -- Leonardo da Vinci*
-- (kk) Art is in what you leave out.
-> *'Jesus, Superman, and Mother Teresa never made art. Only imperfect beings can make art because art begins in what is broken.' -- Kevin Kelly*
--->
 
 > *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 
@@ -669,16 +630,12 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 <!--
 > *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith in The Wealth Of Nations*
-“When innovative companies begin making decent profits, landlords raise the rents to adjust for the new ability to pay. As a result, these additional wages are neither reinvested, nor reflected in the disposable income of employees. This is the dynamic behind the mystery of stagnant wages. When workers in a particularly well-paid sector begin pouring into a city, landlords likewise raise the rent to absorb these incomes. It isn’t gentrification, but absorption through monopoly power.”
-- (kk) Never use a credit card for credit. The only kind of credit, or debt, that is acceptable is debt to acquire something whose exchange value is extremely likely to increase, like in a home. The exchange value of most things diminishes or vanishes the moment you purchase them. Don’t be in debt to losers.
-- (kk) Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.
+- (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
 
 Hints:
-
 - The best companies aren’t sold, they're bought.  
 - Don’t buy on future hopes; buy on past mistakes.  
 - Don’t invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
-
 - Stock buybacks are effectively same as dividends.
 - Barbell strategy
 - Pessimists sound smart, optimists make money.
@@ -686,8 +643,7 @@ Hints:
 - entrepreneurship vs investment - 2 different mentalities.
 - dealers vs brokers: liquid markets (dealers with enough inventory)
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
-- math shortcut: Years to double = 72 / Interest Rate
-- star business. i didn’t lost money on star businesses. o lost money in businesses i though would be star businesses.
+- i didn’t lost money on star businesses. o lost money in businesses i though would be star businesses.
 - analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
 -->
 
@@ -749,12 +705,9 @@ Get an exit strategy and take risk from the table when possible.
 ## On travel and nomadism
 
 <!--
-> *'If you have any doubt at all about being able to carry a load in one trip, do yourself a huge favor and make two trips.' -- Kevin Kelly*
 - On adrenaline: what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
 - (kk) A vacation + a disaster = an adventure.
-- (kk) On vacation go to the most remote place on your itinerary first, bypassing the cities. You’ll maximize the shock of otherness in the remote, and then later you’ll welcome the familiar comforts of a city on the way back.
 - (kk) When you are young spend at least 6 months to one year living as poor as you can, owning as little as you possibly can, eating beans and rice in a tiny room or tent, to experience what your “worst” lifestyle might be. That way any time you have to risk something in the future you won’t be afraid of the worst case scenario.
-- (kk) If you lose or forget to bring a cable, adapter or charger, check with your hotel. Most hotels now have a drawer full of cables, adapters and chargers others have left behind, and probably have the one you are missing. You can often claim it after borrowing it.
 -->
 
 > *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
@@ -779,10 +732,6 @@ Hints:
 ---
 ## On college
 
-<!--
-None of her “13 Things” can be taught in school. School teaches facts. And it teaches you to memorize facts. And it punishes you if you forget the facts. But facts won’t help you survive the tragedies of life. I wish school had taught me how to really live. How to be healthy. How to survive the hardest relationships. How to be creative every day. How to surrender to the things I can’t control.
--->
-
 > *'The purpose of high education is first and foremost to meet people and build relationships.' -- my teacher*
 
 A college education may help you make a living. Self-education may make you a fortune.  
@@ -802,13 +751,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 ## On books
 
 <!--
-> *'No book is worth reading that isn’t worth rereading.' -- Susan Sontag*
-> *'The best writing is rewriting.' -- E. B. White*
-> *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
-when writing a book start with your own ideas
 Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
-> *'People say that life is the thing, but I prefer reading.' -- Logan Pearsall Smith*
-> *'I have never met a person I admired who did not read more books than I did.' -- Kevin Kelly*
 -->
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
@@ -827,13 +770,21 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'Think before you speak. Read before you think.' -- Fran Lebowitz*
 
-> *'A library is infinity under a roof.' -- Gail Carson Levine*
+> *'I have never met a person I admired who did not read more books than I did.' -- Kevin Kelly*
 
 > *'You don’t have to burn books to destroy a culture. Just get people to stop reading them.' -- Ray Bradbury*
 
 > *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
 
 > *'Tears are words that need to be written.' -- Paulo Coelho*
+
+> *'The best writing is rewriting.' -- E. B. White*
+
+> *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
+
+> *'No book is worth reading that isn’t worth rereading.' -- Susan Sontag*
+
+> *'A library is infinity under a roof.' -- Gail Carson Levine*
 
 ### On classic books
 
@@ -851,11 +802,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 ---
 ## On email
 
-<!--
-- (kk) Don’t say anything about someone in email you would not be comfortable saying to them directly, because eventually they will read it.
-> *'Don’t let your email inbox become your to-do list.' -- Kevin Kelly*
 > *'Be governed not by the tyranny of the urgent but by the elevation of the important.' -- Kevin Kelly*
--->
 
 Hints:
 
@@ -876,19 +823,11 @@ Hints:
 ## On computers and maths
 
 <!--
-- OOP is a natural enemy to concurrency (because of state) and about how transforming data (I.e functional) is a better match
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
-- blockchain is a data structure that individual mistakes doent go unnoticed as they transform in a chain of mistakes
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
-- Programming is more assembling than starting from zero.
-
-Top 4 desirable developer skills:
-Ability to ignore new tools and technologies;
-Taste for simplicity;
-Good code deletion skills;
-Humility.
+- Top 4 desirable developer skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
 -->
 
 > *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
@@ -928,14 +867,8 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 ## On what men value in women
 
 <!--
-people of all political persuasions
-
-introverts have more probability of being an expert in their field. extraversion is not good for mastery
-most people are not extremes and most people are in the middle. most things are not binary.
-introvert is not shyness.
-Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
-
-- Putt’s Law: "Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand."
+- people of all political persuasions
+- introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
 > *'No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful.' -- Eleanor Roosevelt*
@@ -943,12 +876,3 @@ Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but
 Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
 
 > *'An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company.' -- Ian McEwan*
-
-
-<!--
----
-## On promises
-
-- (kk) When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
-> *'Recipe for success: under-promise and over-deliver.' -- Kevin Kelly*
--->
