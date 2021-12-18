@@ -48,6 +48,8 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 
 > *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
+> *'Name the greatest of all inventors. Accident.' -- Mark Twain*
+
 ### How to judge ideas?
 
 <!--
@@ -69,8 +71,6 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ## On analysis
 
 <!--
-- (kk) Rule of 7 in research. You can find out anything if you are willing to go seven levels. If the first source you ask doesn’t know, ask them who you should ask next, and so on down the line. If you are willing to go to the 7th source, you’ll almost always get your answer.
-- (kk) Extraordinary claims should require extraordinary evidence to be believed.
 - How can we overcome complexity bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
 - best way to deal with confirmation bias: You need to search out disconfirming evidence.
 - confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
@@ -81,18 +81,19 @@ Evaluating evidence (especially when it is complicated or unclear) requires a gr
 This saves the time needed to make decisions, in particular when under pressure.
 
 Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
-> *'There are no facts, only interpretations.' -- Friedrich Nietzsche*
-> *'The truth will set you free, but first it will piss you off.' -- Gloria Steinem*
-> *'Believe only half of what you see and nothing that you hear.' --  Edgar Allan Poe*
 -->
 
 > *'Not everything that counts can be counted, and not everything that can be counted counts.' -- Albert Einstein*
+
+> *'There are no facts, only interpretations.' -- Friedrich Nietzsche*
 
 > *'Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital.' -- Aaron Levenstein*
 
 Analysis is an art, not a science.
 
 The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. Everyone is biased.
+
+> *'Believe only half of what you see and nothing that you hear.' --  Edgar Allan Poe*
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.' -- Marcus Aurelius*
 
@@ -119,6 +120,8 @@ Too much info is the main cause of it: you'll always find confirmation to your p
 
 > *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
 
+> *'The truth will set you free, but first it will piss you off.' -- Gloria Steinem*
+
 > *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side’s argument better than they do. ' -- Chalie Munger*
 
 > *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
@@ -139,7 +142,6 @@ And when facing new ideas. Nothing is as simple at seems at first, or as hopeles
 
 <!--
 > *'To understand is to know what to do.' -- Wittgenstein*
-> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski, Science and Sanity*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 
 - E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
@@ -255,7 +257,6 @@ Don't sabotage them when they get tedious or too difficult.
 - estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game' should give estimates.
 - With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
 As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
-- plan ahead plannin 20% action 80%?
 - Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 - Actions > Thoughts; Actions change the world. Not beliefs.
@@ -278,7 +279,7 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 
 You are evaluated by your decisions.
 
-We think we make choices but our choices are influenced by others (ex. of naming a child). People pick what is familiar.
+We think we make choices but our choices are influenced by others. People pick what is familiar.
 
 > *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
 
@@ -307,9 +308,7 @@ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficien
 
 > *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
 
-All models are wrong.
-
-The practical question is how wrong do they have to be to not be useful. This is what a mental model is – a functional tool. If you don't understand his limitations, you don't understand the model.
+All models are wrong. The practical question is how wrong do they have to be to not be useful. This is what a mental model is – a functional tool. If you don't understand his limitations, you don't understand the model.
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
 
@@ -319,15 +318,13 @@ The practical question is how wrong do they have to be to not be useful. This is
 
 ### How to speed up decisions?
 
-<!--
-- Jeff Bezos, once said in a letter to shareholders that he believes that optimal decisions occur when one has 70% of the necessary information. He went on to say that anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome.
--->
-
 > *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
 The ability to make fast decisions is a competitive advantage.
 
 Some people get paralyzed by [over thinking](#on-starting-and-timing). When you don't decide somebody will decide for you.
+
+Jeff Bezos, once said in a letter to shareholders that he believes that optimal decisions occur when one has 70% of the necessary information. He went on to say that anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome.
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
@@ -517,8 +514,6 @@ HOWEVER, never mistake action for motion, so have a [plan](#on-planning-and-deci
 
 7. Be patient. You must pass through the circumference of time before arriving at the centre of opportunity. A wise reserve seasons the aims and matures the means. Time’s crutch effects more than the iron club of Hercules. God Himself chasteneth not with a rod but with time. He spake a great word who said, “Time and I against any two.” Fortune herself rewards waiting with the first prize. -- Balthasar Gracian
 
-Velocity and speed are different things. Speed is the distance traveled over time. I can run around in circles with a lot of speed and cover several miles that way, but I’m not getting anywhere. Velocity measures displacement. It’s direction-aware.
-
 Here are three ways you can increase your velocity:
 
 - To the extent possible, ruthlessly shave away the unnecessary tasks, priorities, meetings, and BS. Put all your effort into the projects that really matter.
@@ -537,9 +532,9 @@ Here are three ways you can increase your velocity:
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
 
-Direction is more important than velocity. Even if we can't choose the starting point, we can choose the direction.
+Direction is more important than velocity. Even if we can't choose the starting point, often, we can choose the direction.
 
-Position yourself for victory by bringing the target closer. Location is better than space amount so trade space for time.
+When possible, position yourself for victory by bringing the target closer. Location is better than space amount so trade space for time.
 
 > *'Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success.'*
 
@@ -556,8 +551,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus, priorities and productivity
 
 <!--
-- 80/20 is fractal!
-
 Since the vast majority of our words and actions are unnecessary, corralling them will create an abundance of leisure and tranquility. As a result, we shouldn’t forget at each moment to ask, is this one of the unnecessary things?
 Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all. -- tim ferriss
 4) Focus On Effort, Not Outcome
@@ -567,7 +560,6 @@ You can’t control whether it ends up as a “robbery” or an “attempted rob
 
 > *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 
-> *'Name the greatest of all inventors. Accident.' -- Mark Twain*
 - maker days and manager days
 - People As Response Functions. response triggers: your primary trigger, your secundary trigger
 - “Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all the activities in your workday that aren’t producing value.
@@ -626,7 +618,7 @@ Busy imply out of control. Lack of time is lack of priorities.
 Getting a lot of unnecessary things done is not productivity: it’s stupidity. Saying yes to everything is a quick road to mediocrity. Productivity is about attention management.
 
 Do less to achieve more. You don't need to optimise everything.  
-20% of your effort will give you 80% of output: it may be enough or even more than enough.
+20% of your effort will give you 80% of output: it may be enough or even more than enough. 80/20 is fractal!
 
 - Focus on 3 outcomes (not todos) per day and tackle the most important one in the morning.
 - Set specific, measurable, attainable, realistic and time-based goals. Always work with a specific purpose in mind.
@@ -928,15 +920,12 @@ However always strive to achieve a win-win situation. The deal will fall if both
 ## On feedback and mentorship
 
 <!--
-I don't have the time to explain the logic behind my wisdom. I can only show you the door as my conclusions are avenues you obviously haven't explored. It’s up to you whether you want to take the blue pill or the red pill. -- crimsonalucard
-- loving critics. best people to criticise u. what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
-- (kk) Reading to your children regularly will bond you together and kickstart their imaginations.
+what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
 -->
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
-Feedback speeds up improvement but only take advice from mentors.  
-A fundamentalist gives answers, a scholar gives questions.
+Feedback speeds up improvement but only take advice from mentors and "loving critics". Often they don't have the time to explain the logic behind their wisdom but they can show you the door.
 
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 
@@ -944,43 +933,27 @@ A fundamentalist gives answers, a scholar gives questions.
 
 ### How to find mentors?
 
-<!--
-> *'Powerful people give freely, buying influence rather than things.'*
-> *'Play on people’s need to believe to create a cult-like following.' -- Robert Greene (27th law of power)*
-> *'If you are giving back, it’s because you’ve taken too much.' -- Ricardo Semler*
-
-the value of getting a coach. Spend more time fixing weaknesses than developing strengths! have your corner man to indicate your blindspots
--->
-
 Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
-
-> *'Follow the thought leaders instead of the traffic leaders.'*
 
 > *'Your father is your first mentor.'*
 
 You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
 
-> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*  
-> *'Service to others is the rent you pay for your room here on Earth.' -- Muhammad Ali*  
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*  
+> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
+
+> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
 
 > *'If you think you’re too small to make an impact, try to go to bed with a mosquito in the room.' -- Dalai Lama*
 
 ### How to mentor your kids?
 
-<!--
-> *'Be nice to your children because they are going to choose your nursing home.' -- Kevin Kelly*
-> *'Children totally accept — and crave — family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies.' -- Kevin Kelly*
-> *'When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”' -- Kevin Kelly*
--->
-
 > *'My advice is my autobiography not slogans. People relate better like that.' -- James Altucher*
 
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
-Don't tell your kids them how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
+Don't tell your kids how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
 Hints:
 
@@ -989,9 +962,15 @@ Hints:
 - Self improvement: «Did you give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
 - Autority: «Kid: why do I have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
 - Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
-- Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»  
+- Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
 - Optimism: «You have the gift of today.»
+
+> *'Children totally accept — and crave — family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies.' -- Kevin Kelly*
+
+> *'When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”' -- Kevin Kelly*
+
+> *'Be nice to your children because they are going to choose your nursing home.' -- Kevin Kelly*
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
 
@@ -1003,24 +982,27 @@ However some people are not ready to accept your vision. And «givers» attract 
 ---
 ## On generosity and incentives
 
-<!--
-- (kk) Optimize your generosity. No one on their deathbed has ever regretted giving too much away.
-- power of incentives: Ignoring incentives almost never works out well. Psychologists argue that the best way for us to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. continuous reinforcement |> intermitent reinforcement
-- Generosity without Expectation is Sexy. It means that your thoughts, words, and actions are all in congruence. you don’t live a life that is incongruent with what you want to make others happy. You live a life of congruence where everything is in line. This is the pathway to true power. Be generous from a place of abundance, where you are giving because you are already so full, not from a place of scarcity where you are kind because you want something in return.
-- The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
--->
-
 > *'No one has ever become poor by giving.' -- Anne Frank*
 
 > *'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
-Always be generous. A low value gift can have the opposite effect.
+Always be generous. No one on their deathbed has ever regretted giving too much away. A low value gift may have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
 
 > *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- HN_danielvf*
 
 > *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- HN_danielvf*
+
+> *'If you are giving back, it’s because you’ve taken too much.' -- Ricardo Semler*
+
+### On incentives
+
+Powerful people give freely, buying influence rather than things.
+
+The best way to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. After the behaviour is learnt, continuous reinforcement should become intermitent reinforcement.
+
+However, the people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
 
 ### On punishments
 
@@ -1301,9 +1283,8 @@ The archaeologist Richard Leakey believes reciprocation is the foundation on whi
 social sanctions can be tough on those who fail to cooperate
 As with most things, however, reciprocation has a darker side. Just as we tend to reciprocate good behavior, sometimes we also pay back bad deeds. One of the most effective game-theory strategies is tit for tat.
 The standard antidote to one’s overactive hostility is to train oneself to defer reaction.
-There’s also another way. Because the reciprocation tendency is so extreme, we can reverse the course of events by doing good rather than harm to the other party.
 We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
-Cialdini moved from rejection to compliance after the boy had moved from a larger to a smaller request.  The remarkable thing, and this is where bias comes in, was that Cialdini was not at all interested in either of the things the boy had offered.
+Cialdini moved from rejection to compliance after the boy had moved from a larger to a smaller request. The remarkable thing, and this is where bias comes in, was that Cialdini was not at all interested in either of the things the boy had offered.
 -->
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
@@ -1385,7 +1366,6 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 <!--
 > *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
-- When I want someone to choose me, when I want an event to be different, when I want a life circumstance to change, I can only surrender to it. I can’t control it. Surrender is ACTIVE. It teams you up with the strongest part of yourself. Surrender is PEACEFUL. It lets anxiety take a break. “Anxiety, stop trying to control”.
 > *'In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of.' -- Kevin Kelly*
 -->
 
@@ -1406,7 +1386,6 @@ Use this opportunity to re-create yourself. If you didn’t quit anything you wo
 ## On forgiveness and revenge
 
 <!--
-> *'If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us.' -- Hermann Hesse*
 - (kk) Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
 -->
 
@@ -1421,6 +1400,8 @@ Many people think that the alternative to forgiveness is punishment: either choo
 > *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
 
 > *'Life has become immeasurably better since I have been forced to stop taking it seriously.' -- Hunter S. Thompson*
+
+> *'If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us.' -- Hermann Hesse*
 
 However:
 
