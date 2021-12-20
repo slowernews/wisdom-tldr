@@ -696,8 +696,6 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *'Listen to predict a collapse.'*
-> *'The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.' -- George Bernard Shaw*
 > *'Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.
 You need to be comfortable both in a suit and tie and in camouflaged jacket.' -- Frank Miniter (paraphrased)*
 
@@ -732,17 +730,21 @@ It’s scary to make those direction choices but fear is a great road sign.'
 
 > *'Whatever space and time mean, place and occasion mean more.' -- Aldo van Eyck*
 
-> *'If I don’t have red, I use blue.' -- Pablo Picasso*
+Listen to predict a collapse.
 
 > *'When things break, it’s not the actual breaking that prevents them from getting back together again. It’s because a little piece gets lost - the two remaining ends couldn't fit together even if they wanted to. The whole shape has changed.' -- John Green*
 
-Adapt instead of reacting. Opportunities is taking the jobs that others don't want.
+Adapt instead of reacting. An opportunity is taking an unwanted job.
 
 > *'When the winds of change blow, some people build walls while others build windmills.' -- Chinese proverb*
 
-There are limits on change, willpower is finite and change requires attention. However small changes in a complex system can cause sudden and large changes. 
+> *'If I don’t have red, I use blue.' -- Pablo Picasso*
+
+There are limits on change. Willpower is finite and change requires attention. However, small changes in a complex system can cause large changes. 
 
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
+
+> *'The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.' -- George Bernard Shaw*
 
 
 
@@ -753,26 +755,10 @@ There are limits on change, willpower is finite and change requires attention. H
 ## On selling, negotiation and price
 
 <!--
-- Price is a filter. Set it to choose the customers you prefer to work with.
-- best marketing is recomendation from other person
-- Marketing is a symptom of excess production.  
-- People don’t buy products, they buy better versions of themselves.  
-- Females buy male products. Males don't buy products targetted to females.  
-- If they can’t pay, walk away.  
-- nowadays the messenger is the message
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
-
-- how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
-- how to say no to an interview: i think i said already everthing about that subject.
-- how to say no to something else: i think i did already what i can do.
-
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
-- What’s the best way to sell anything? Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell
-
 - 27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. -- Balthasar Gracian
-
-- always negotiate. dont communicate weaknes on your negotiation.
-your first reaction should be no reaction. fight impulse to imediatelly give the answer.
+- always negotiate. dont communicate weaknes on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
 
 - Responding to Job Offers for Maximum Impact
 Letter One [Strong Response]
@@ -824,9 +810,7 @@ WALK AWAY.
 - Unexpressed feelings never die. Releasing pressure is different from venting.
 - The more influence somebody is the more they use we / plural pronouns.
 - never split the difference
-
 - Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-
 - make an agreement on a standard of value. my standard of value for a weekend: some combination of rejuvenation and human connection.
 normally we fall into habits. we don't do what is best for ourselves.
 
@@ -839,19 +823,15 @@ She liked that so much she came up with the $1500. -- Derek Sivers
 - Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
 What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
 
-- Call all owners to rent. 8 said yes. Then auction! 2200 -> 1500.  
+- Call all owners to rent. 8 said yes. Then auction! 
 - To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
 Business is 80% psychological.
 irritation -> challenge people to make something that they don't want to do
 agitation -> challenge people to make something that they want to do. suggesting ego etc
 agitate more than irritate.
-- Most rejections are not your fault.
 
 So can you pitch me what our company does? people minds work by association. pre-suasion
 > *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
-- It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point.
-
-> *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
 -->
 
 We're all in sales. To sell is to deal with objections.
@@ -874,6 +854,9 @@ Modern selling: farmers (ambiverts and introverts)
 
 <!--
 it's easy to negotiate with integrous people.
+- how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
+- how to say no to an interview: i think i said already everthing about that subject.
+- how to say no to something else: i think i did already what i can do.
 -->
 
 > *'You don’t get what you deserve in life, you only get what you negotiate.'*
@@ -885,6 +868,7 @@ That said, a bad/good negotiation means that you are giving more/less value than
 - Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
 - Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
 - If you want to go fast, let the other part go first.
+- Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell.
 
 To negotiate is to have options. Hints:
 
@@ -901,17 +885,33 @@ To negotiate is to have options. Hints:
 
 > *'Flattery is the infantry of negotiation.' -- Lord Chandos*
 
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
-
 > *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
-
-> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
 
 However always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it. The most dangerous negotiation is the one you don’t know you’re in.
 
 > *'You can’t make a good deal with a bad person.' -- Warren Buffett*
 
 > *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
+
+### On price
+
+Price is a filter. Set it to choose the customers you prefer to work with. If they can’t pay, walk away.
+
+> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
+
+> *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
+
+### On marketing
+
+Being recomendend is the best marketing.
+
+Hints:
+
+- Marketing is a symptom of excess production.  
+- People buy better versions of themselves, not products.
+- Females buy male products. Males don't buy products targetted to females.  
+
+> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
 
 
 

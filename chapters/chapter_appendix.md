@@ -112,7 +112,7 @@ If your dreams don’t scare you, they are not big enough. Anomalies often repre
 
 > *'Every saint has a past, and every sinner has a future.' -- Oscar Wilde*
 
-Our present (in)actions wil ‘compound’ into the future we will get – that’s a great way to think about what lies ahead. However, don’t worry too much, you can’t control much.
+Our present (in)actions will ‘compound’ into the future we will get – that’s a great way to think about what lies ahead. However, don’t worry too much, you can’t control much.
 
 > *'I never worry about the future. It comes soon enough.' -- Albert Einstein*
 
@@ -535,9 +535,9 @@ And on the first day, men created god.
 
 ### On morality
 
-> *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
-
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
+
+> *'The cash register did more for human morality than the congregational church.' -- Charlie Munger*
 
 > *'Compassion is the basis of morality.' -- Arthur Schopenhauer*
 
@@ -562,7 +562,7 @@ And on the first day, men created god.
 
 > *'The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.' -- Albert Einstein*
 
-Everything that is not a law of nature is just a shared belief. Science is the study of truth.
+Science is the study of truth. Everything that is not a law of nature is just a shared belief.
 
 > *'Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought.' -- Albert Szent-Gyorgyi*
 
@@ -768,33 +768,33 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren’t. I'm not surprised some people prefer books.' -- Julian Barnes*
 
+> *'A library is infinity under a roof.' -- Gail Carson Levine*
+
 > *'Think before you speak. Read before you think.' -- Fran Lebowitz*
+
+> *'No book is worth reading that isn’t worth rereading.' -- Susan Sontag*
 
 > *'I have never met a person I admired who did not read more books than I did.' -- Kevin Kelly*
 
 > *'You don’t have to burn books to destroy a culture. Just get people to stop reading them.' -- Ray Bradbury*
 
-> *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
-
-> *'Tears are words that need to be written.' -- Paulo Coelho*
-
-> *'The best writing is rewriting.' -- E. B. White*
-
-> *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
-
-> *'No book is worth reading that isn’t worth rereading.' -- Susan Sontag*
-
-> *'A library is infinity under a roof.' -- Gail Carson Levine*
-
-### On classic books
+### On classics
 
 > *'The great books are the books that never have to be written again.' -- Carl Van Doren*
-
-> *'A classic is a book that has never finished saying what it has to say.' -- Italo Calvino*
 
 > *'A classic is a book which people praise and don’t read.' -- Mark Twain*
 
 > *'The worst thing about new books is that they keep us from reading the old ones.' -- Joseph Joubert*
+
+### On writing
+
+> *'Tears are words that need to be written.' -- Paulo Coelho*
+
+> *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
+
+> *'The best writing is rewriting.' -- E. B. White*
+
+> *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
 
 
 

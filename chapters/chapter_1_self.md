@@ -1088,10 +1088,6 @@ Pessimism is a scarcity mindset.
 ---
 ## On perfectionism
 
-<!--
-> *'Something does not need to be perfect to be wonderful. Especially weddings.' -- Kevin Kelly*
--->
-
 > *'The perfect is the enemy of the good.' -- Voltaire*
 
 Strive for excellence, not for perfection. From good enough you can derive success.  
@@ -1104,3 +1100,5 @@ Try to see yourself as a doist, not a perfectionist. This is liberating.
 > *'No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.' -- Andy Hunt*
 
 > *'The important work of moving the world forward does not wait to be done by perfect men.' -- George Eliot*
+
+> *'Something does not need to be perfect to be wonderful. Especially weddings.' -- Kevin Kelly*
