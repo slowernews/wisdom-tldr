@@ -230,6 +230,8 @@ You will get rich by giving society what it wants but does not yet know how to g
 
 > *'To be wealthy, accumulate all those things that money can’t buy.' -- Kevin Kelly*
 
+> *'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
+
 ### Nearly free stuff
 
 Books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, laugh, notice, questions.
@@ -323,8 +325,6 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *'Dance with your hips.' -- Kevin Kelly*
 - If you’re not trying to make money, what are you even doing?
 - feel like a local celebrity: everybody knows who you are.
-You are in a city, without knowing the language, manage to go to the hostel, meet people there. Make your way there.
-- Don’t play the government’s game. Instead, create a game that worked by my rules, a game I could win.
 - But you’re choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
 - My life has been a series of questions and odd experiments.
 -->
@@ -332,8 +332,6 @@ You are in a city, without knowing the language, manage to go to the hostel, mee
 > *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
 
 > *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
-
-> *'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
 
 We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children](/chapter_2_groups.md#on-feedback-and-mentorship) and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.
@@ -350,25 +348,24 @@ Hints:
 
 - 3 days a week; 3 weeks a month; 3 months free a year.  
 - House + work + third place.
-- The opposite of play isn’t work, it’s depression.  
 - Essencialism: the disciplined pursuit of less. Simplicity is the ultimate sophistication. Eliminating clutter makes room for your true treasures. The end goal is to clarify your values.
-- Own my house on 40 acres with clean water river frontage, and assets i can enjoy & be creative with (car, motorcyles, music equipment, tools etc)  
+- Own my house on a few acres with clean water river frontage, and assets i can enjoy & be creative with (car, bike, music equipment, tools etc)  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
+- The opposite of play isn’t work, it’s depression.  
 - How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.  
-- One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
-- In life, you will often be presented with two options: the lucrative option and the lifestyle option.
+- In life, you will often be presented with two options: the lucrative option and the lifestyle option. Don’t play the government’s game.
+
 
 ### How to simplify?
 
 <!--
-- (kk) If you are looking for something in your house, and you finally find it, when you’re done with it, don’t put it back where you found it. Put it back where you first looked for it.
-- (kk) Buying tools: Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.
+- One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
 - (kk) When an object is lost, 95% of the time it is hiding within arm’s reach of where it was last seen. Search in all possible locations in that radius and you’ll find it.
 -->
 
-- Use it or loose it. A tool is useful when passes human level.
+- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
 - Remove unnecessary distractions and obligations that aren’t truly serving your end goals.  
-- Your job should be a product of your lifestyle, not the other way around. Lifestyle before money. But money also. Spend your money on experiences and adopt a minimalist lifestyle. Live the life you want now and not later.
+- If you are looking for something, and you finally find it, when you’re done with it, don’t put it back where you found it but where you first looked for it. (Kevin Kelly)
 
 
 
@@ -731,6 +728,10 @@ Hints:
 
 ---
 ## On college
+
+<!--
+School rewards generalist and not focusing: the world not so.
+-->
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.' -- my teacher*
 

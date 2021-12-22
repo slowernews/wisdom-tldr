@@ -133,7 +133,7 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 > *'They called her witch because she knew how to heal herself.' -- Te' V. Smith (Here we are, reflections of a God gone mad)*
 
 > *'Think as you like but behave like others.'  
-'Never appear too perfect.' -- Robert Greene (38th and 46th law of power)*
+'Never appear too perfect.' -- Robert Greene (38th and 46th laws of power)*
 
 > *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
 
@@ -552,7 +552,7 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 > *'Your silence will not protect you.' -- Audre Lorde*
 
 > *'Do not build fortresses to protect yourself: isolation is dangerous.'  
-'Play the perfect courtier.' -- Robert Greene (4th and 24th law of power)*
+'Play the perfect courtier.' -- Robert Greene (4th and 24th law of powers)*
 
 ### How to network?
 
@@ -913,7 +913,7 @@ Social cartography: who’s the decision maker, to whom people are speaking and 
 
 > *'Never outshine the master.'  
 'Know who you’re dealing with: do not offend the wrong person.'  
-'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st law of power)*
+'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st laws of power)*
 
 > *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.'*
 

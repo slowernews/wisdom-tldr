@@ -348,16 +348,13 @@ better slow down the decision-making process and ensure that we consider ample i
 
 <!--
 1) Protect your time like your money.
-> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 	
 - what’s the next action >> if u dont know think what’s the next project -- gtd guy
 
 you always throw out your first pancake - primeiro milho é para os pardais
 
 - in order to understand i destried myself
-- There is no goal that requires a delay. It’s now, or it’s never. Those are the only two timeframes that exist in reality. -- dan munro
 
-> *'This is the best time ever to make something. None of the greatest, coolest creations 20 years from now have been invented yet. You are not late.' -- Kevin Kelly*
 > *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 > *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
@@ -462,22 +459,13 @@ Nothing happens in the world because of thought. Or because of talking. Or becau
 
 ### Why people procrastinate?
 
-<!--
-> *'It is much easier to change how you think by changing your behavior, than it is to change your behavior by changing how you think. Act out the change you seek.' -- Kevin Kelly*
--->
+> *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
 
 - [Perfectionism](chapter_1_self.md#on-perfectionism). You fear releasing something unimportant, so you don’t release anything at all.  
-- Fear (of change). Procrastination is deeply tied to anxiety. We distract ourselves because we are not willing to face up with what bothers us.  
-- Lack of urgency / deadlines (the panic monster). Pressed by circumstances, we feel unusually energized and focused. What gets measured gets done. 
-- No inspiration. The inspiration you are waiting for, in order to start, is on the other side of starting. Momentum generates motivation. Inspiration is for amateurs.
-- No opportunities. When hope disappears, so does action.
-- No preparation. You can learn while you do it.  
-
-We feel anxiety over a deadline or a task that we don’t want to do, even though we know we should. So we procrastinate in order to remove that anxiety.
+- Anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety.
+- No hope. When hope disappears, so does action.
 
 > *'One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism.' -- bane_HN*
-
-> *'The more something threatens your identity, the more you will avoid it.' -- Manson’s Law of Avoidance*
 
 > *'Go and do the things you can’t. That is how you get to do them.' -- Pablo Picasso*
 
@@ -485,9 +473,9 @@ We feel anxiety over a deadline or a task that we don’t want to do, even thoug
 
 ### How to defeat procrastination?
 
-At some point, the pain of not doing it becomes greater than the pain of doing it.
+Don't wait for the perfect occasion, a good occasion is a safer bet. You will languish if you stop for a long time. Paralysis is worse than bad timing.
 
-Timing is important but don't wait for the [perfect occasion](), a good occasion is a safer bet. You will languish if you stop for a long time. Paralysis is worse than bad timing.
+At some point, the pain of not doing it becomes greater than the pain of doing it. Pressed by circumstances, we feel unusually energized and focused (the panic monster). What gets measured gets done. 
 
 > *'The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing.' -- Winston Churchill*
 
@@ -508,23 +496,7 @@ HOWEVER, never mistake action for motion, so have a [plan](#on-planning-and-deci
 ## On speed, position and direction
 
 <!--
-> *'Don’t worry how or where you begin. As long as you keep moving, your success will be far from where you start.' -- Kevin Kelly*
-
-15. Waiting may be the best course of action. A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. -- Balthasar Gracian
-
-7. Be patient. You must pass through the circumference of time before arriving at the centre of opportunity. A wise reserve seasons the aims and matures the means. Time’s crutch effects more than the iron club of Hercules. God Himself chasteneth not with a rod but with time. He spake a great word who said, “Time and I against any two.” Fortune herself rewards waiting with the first prize. -- Balthasar Gracian
-
-Here are three ways you can increase your velocity:
-
-- To the extent possible, ruthlessly shave away the unnecessary tasks, priorities, meetings, and BS. Put all your effort into the projects that really matter.
-- Don’t rely on your willpower to say no; instead, create systems that help you fend off distractions.example: One of my management principles was “no meeting mornings.”
-- say “no” to your boss.
-
-- No podemos elegir nuestro origen pero podemos elegir hacia donde ir
-
-> *'Trees that are slow to grow bear the best fruit.' -- Molière*
 > *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
-> *'Go-Karts -- Feel fast, are slow 747s -- Feel slow, are fast Ship it! -- Feels fast, is slow Test > *'Document it! -- Feels slow, is fast.'*
 > *'Things may come to those who wait, but only the things left by those who hustle. -- Abraham Lincoln*
 -->
 
@@ -551,17 +523,9 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus, priorities and productivity
 
 <!--
-Since the vast majority of our words and actions are unnecessary, corralling them will create an abundance of leisure and tranquility. As a result, we shouldn’t forget at each moment to ask, is this one of the unnecessary things?
 Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all. -- tim ferriss
-4) Focus On Effort, Not Outcome
-What’s that have to do with productivity? Plenty. Because you worry about all kinds of stuff that you can’t do anything about. And that’s wasted time and energy.
-And neuroscience research shows that by focusing on what you have control over, you decrease stress.
-You can’t control whether it ends up as a “robbery” or an “attempted robbery”, just focus on executing the heist in a way that would make mom proud.
-
-> *'You can sit here and write or not do nothing but nothing else.' -- Neil Gaiman*
 
 - maker days and manager days
-- People As Response Functions. response triggers: your primary trigger, your secundary trigger
 - “Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all the activities in your workday that aren’t producing value.
 - Mind the process, not the results. For example, “finish TPS report” might turn into “write TPS report for 45 uninterrupted minutes.”
 - there are only three ways in which you can increase productivity: Increase the physical, mental, and emotional energy you have available for each task. Doing more of the right things and fewer unnecessary things. Improve the systems that you use to complete a given task or project. In other words, the three paths to productivity are: Energy - Effectiveness - Efficiency: productivity is about understanding your constraints. getting the right things done
@@ -571,7 +535,6 @@ You can’t control whether it ends up as a “robbery” or an “attempted rob
 - Schedule less time for important tasks. Be mindful of how you spend your time.
 - Set yourself deadlines.
 - complete at least 1 important but not urgent task per day.
-- School rewards generalist and not focusing: the world not so.
 - Media companies harvest your attention and transform it into revenue.
 - If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
@@ -639,8 +602,7 @@ Do less to achieve more. You don't need to optimise everything.
 <!--
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
-- past and future doesn't exist. we cannot control anything, at most we can influenciate something.
-- we can define entropy as a measure of the disorder of the universe. Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
+- we can define entropy as a measure of the disorder of the universe. 
 -->
 
 > *'You can lead a horse to water but you can’t make him drink.' -- unknown* 
@@ -648,6 +610,8 @@ Do less to achieve more. You don't need to optimise everything.
 Control what you can: [what you’re primed by](introduction.md#the-real-you), [who you are around](chapter_2_groups.md#on-family-and-friends), the ideas and problems you [focus](#on-focus-priorities-and-productivity) on. Ignore the rest.
 
 Consuming information gives the control freak an illusion of control. He doesn't want to acknowledge that the universe doesn't make sense and he doesn't trust himself to handle disorder in a situation that will get out of his league or skillset.
+
+Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
 > *'If things seem under control, you’re just not going fast enough.' -- Mario Andretti (F1 pilot)*
 
@@ -665,9 +629,6 @@ Consuming information gives the control freak an illusion of control. He doesn't
 
 <!--
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
-- Disease of More.
-- Diversification solves a lot of problems.
-- The 80/20 Principle states that 80% of the output or results will come from 20% of the input or action.
 - There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists. MM
 -->
 
@@ -696,9 +657,6 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *'Be flexible. You need to be able to be a diplomate and a fighter, to speak well among the scholars of academia and the blue collar workers down at the bar.
-You need to be comfortable both in a suit and tie and in camouflaged jacket.' -- Frank Miniter (paraphrased)*
-
 - Inertia is why a car does not stop the moment the brakes are applied.
 - Equipa que ganha, não se mexe.
 > *'You either die a hero, or you live long enough to see yourself become the villain.' -- Harvey Dent in The Dark Knight*
@@ -739,6 +697,10 @@ Adapt instead of reacting. An opportunity is taking an unwanted job.
 > *'When the winds of change blow, some people build walls while others build windmills.' -- Chinese proverb*
 
 > *'If I don’t have red, I use blue.' -- Pablo Picasso*
+
+### How to change?
+
+> *'It is much easier to change how you think by changing your behavior, than it is to change your behavior by changing how you think. Act out the change you seek.' -- Kevin Kelly*
 
 There are limits on change. Willpower is finite and change requires attention. However, small changes in a complex system can cause large changes. 
 
@@ -1020,12 +982,9 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 
 <!--
 - When narratives begin to shift and the once good guys are labelled as bad it's not surprising they fight back. They'll point to criticisms as exaggerations. Their faults as misunderstandings.
-> *'If you meet a jerk, overlook them. If you meet jerks everywhere everyday, look deeper into yourself.' -- Kevin Kelly*
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
 > *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
-> *'If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.' -- Mark Twain*
-> *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
 - human strenght is our ability to cooperate. heros are fictional stories. they are not real. they are a tool to improve our lives not to complicate it.
 - buy thing from your community. sell to outsiders. -- jewish mentality
 Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
@@ -1053,7 +1012,7 @@ Easy players are often just [deceiving](#on-charming) you. However - if you can 
 
 ### On desperate opponents
 
-Desperate players will risk anything in a fight. This gives them a huge advantage, they have nothing to lose.
+Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *'Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
 
@@ -1070,11 +1029,17 @@ Besides outworking them, you'll need all weaponry. Sometimes even the «dirty st
 > *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
 
 > *'Get others to do the work for you, but always take the credit.'  
-'Keep your hands clean.' -- Robert Greene (7th and 26th law of power)*
+'Keep your hands clean.' -- Robert Greene (7th and 26th laws of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
 > *'Do I not destroy my enemies when I make them my friends?' -- Abraham Lincoln*
+
+### On allies
+
+> *'If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.' -- Mark Twain*
+
+> *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
 
 
 
@@ -1188,7 +1153,7 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 > *'Use selective honesty and generosity to disarm your victim.'  
 'Pose as a friend, work as a spy.'  
 'Discover each man’s thumbscrew.'  
-'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd law of power)*
+'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd laws of power)*
 
 - People’s need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.  
 - Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to trust you. Keep your word and prove your worth, the new guy as always to prove himself.  
@@ -1200,7 +1165,7 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 
 > *'Make other people come to you: use bait if necessary.'  
 'Learn to keep people dependent on you.'  
-Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th law of power)*
+Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th laws of power)*
 
 
 
@@ -1238,7 +1203,7 @@ If we play by the rules too strictly, if we take them too literally, we are crus
 'Play a sucker to catch a sucker: seem dumber than your mark.'  
 'Play to people’s fantasies.'  
 'Create compelling spectacles.'  
-'Stir up waters to catch fish.' -- Robert Greene (6th, 21st, 32nd, 37th and 39th law of power)*
+'Stir up waters to catch fish.' -- Robert Greene (6th, 21st, 32nd, 37th and 39th laws of power)*
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
@@ -1265,7 +1230,7 @@ Teach no one your tricks or they will be used against you.
 > *'Conceal your intention.'  
 'Say less than necessary.'  
 'Keep others in suspended terror: cultivate an air of unpredictability.'  
-'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th law of power)*
+'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th laws of power)*
 
 However unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
@@ -1350,7 +1315,7 @@ It’s not just about winning. The way you win sets you up for the next round.
 Winning is not the end of the road; it’s just a stop along the way.
 
 > *'Win through your actions, never through argument.'  
-'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th law of power)*
+'Make your accomplishments seem effortless.' -- Robert Greene (9th and 30th laws of power)*
 
 > *'You only find out who is swimming naked when the tide goes out.' -- Warren Buffett*
 

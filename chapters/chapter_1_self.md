@@ -1072,7 +1072,9 @@ However your level of success will seldom exceed your level of personal developm
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.' -- Bertram Carr*
 
-Pessimism is a scarcity mindset.
+While optimism is rarely the way, pessimism is never the way. It's a scarcity mindset. 
+
+> *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 
 > *'Hope is a good breakfast, but it is a bad supper.' -- Francis Bacon*
 
