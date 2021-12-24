@@ -26,11 +26,7 @@ We don’t have an «imagination» we have a memory. Creative minds are rarely t
 
 ### How to find good ideas?
 
-<!--
-Changes in the environment unlock startup opportunities. startup ideas -> problems and trends
--->
-
-Best ideas come from the market, not from you.
+Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
 
 Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it’s no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
 
@@ -798,7 +794,7 @@ So can you pitch me what our company does? people minds work by association. pre
 
 We're all in sales. To sell is to deal with objections.
 
-Sales used to be about information asymmetry but now it’s mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](#on-relationships). Best sellers are now ambiverts.
+Sales used to be about information asymmetry but now it’s mostly [applied persuasion](chapter_3_action.md#on-charming) and keeping [relationships](#on-relationships). Best sellers are now ambiverts. Being recomendend is the best marketing.
 
 Traditional selling: hunters (extroverts)
 
@@ -812,34 +808,42 @@ Modern selling: farmers (ambiverts and introverts)
 - Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
 - Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
 
+Hints:
+
+- Marketing is a symptom of excess production.
+- People buy better versions of themselves, not products.
+- Females buy male products. Males don't buy products targetted to females.
+- Instead of details use interesting testimonials that allow people to relate.
+
+> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
+
 ### On negotiation
 
 <!--
-it's easy to negotiate with integrous people.
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
+- When people feel they have a choice, they «walk into your trap» that much more easily.
 -->
 
-> *'You don’t get what you deserve in life, you only get what you negotiate.'*
+You don’t get what you deserve in life, you only get what you negotiate.
 
 Negotiation establishes the price (exchange rate between money and value).  
 That said, a bad/good negotiation means that you are giving more/less value than receiving for it.
 
+Hints:
+
+- If you want to go fast, let the other part go first.
+- You can only negotiate with integrous people.
+- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy (eg. Trump) wants to make it fast. For the accomodator, the relationship is the most important.
+- You don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.
+- Mirroring and reword. Repeating the last one to three words of the other person. It opens up people’s brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
+- The more you take, the more you can give back in meaningless concessions.  
 - «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
 - Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
-- If you want to go fast, let the other part go first.
 - Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell.
-
-To negotiate is to have options. Hints:
-
-- The more you take, the more you can give back in meaningless concessions.  
-- When people feel they have a choice, they walk into your trap that much more easily.
-- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy (eg. Trump) wants to make it fast. For the accomodator, the relationship is the most important.
-- On negotiation you don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.
-- Mirroring and reword. repeating the last one to three words of the other person. It opens up people’s brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
-- Instead of details use interesting testimonials that allow people to relate.
+- To negotiate is to have options.
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
 
@@ -849,7 +853,7 @@ To negotiate is to have options. Hints:
 
 > *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
 
-However always strive to achieve a win-win situation. The deal will fall if both sides don't take what they need from it. The most dangerous negotiation is the one you don’t know you’re in.
+However always strive to achieve a win-win situation. When both sides don't take what they need from it, the deal may fall. The most dangerous negotiation is the one you don’t know you’re in.
 
 > *'You can’t make a good deal with a bad person.' -- Warren Buffett*
 
@@ -862,18 +866,6 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 > *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
 
 > *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
-
-### On marketing
-
-Being recomendend is the best marketing.
-
-Hints:
-
-- Marketing is a symptom of excess production.  
-- People buy better versions of themselves, not products.
-- Females buy male products. Males don't buy products targetted to females.  
-
-> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
 
 
 
