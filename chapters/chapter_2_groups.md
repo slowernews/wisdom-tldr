@@ -87,13 +87,9 @@ When public speaking you dont need to answer their question. You can say whateve
 ---
 ## On conflicts
 
-<!--
-> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
-- (kk) When someone is nasty, rude, hateful, or mean with you, pretend they have a disease. That makes it easier to have empathy toward them which can soften the conflict.
-> *'Your best response to an insult is “You’re probably right.” Often they are.' -- Kevin Kelly*
--->
-
 > *'War is what happens when language fails.' -- Margaret Atwood*
+
+> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
 
 Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
 
@@ -103,11 +99,15 @@ Don’t avoid relevant conflicts. Small (but relevant) conflicts will grow into 
 
 ### On conflict resolution
 
+You're either part of the solution or part of the problem.
+
 - Show some empathy and use “we” to show you’re on the same team.  
 - Take responsibility  
 - Bring options to the table. Understand also that it’s easier to negotiate down
 
-> *'I am either part of the solution or part of the problem.'*
+> *'When someone is nasty, rude, hateful, or mean with you, pretend they have a disease. That makes it easier to have empathy toward them which can soften the conflict.' -- Kevin Kelly*
+
+> *'Your best response to an insult is “You’re probably right.” Often they are.' -- Kevin Kelly*
 
 
 
@@ -158,10 +158,9 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On following the herd
 
 <!--
+Groups never admit failure
 > *'You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.' -- Kevin Kelly*
 > *'When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong.' -- Kevin Kelly*
-> *'Even a foolish person can still be right about most things. Most conventional wisdom is true.' -- Kevin Kelly*
-> *'Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious.' -- Kevin Kelly*
 
 Critical Mass in Psychology
 Psychologists have known for a long time that groups of people behave differently than individuals.
@@ -226,6 +225,10 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 > *'Don’t ever take a fence down until you know the reason why it was put up.' -- John F. Kennedy, paraphrasing G.K.Chesterton*
 
 > *'Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
+
+> *'Even a foolish person can still be right about most things. Most conventional wisdom is true.' -- Kevin Kelly*
+
+> *'Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious.' -- Kevin Kelly*
 
 ### How to judge a man?
 
