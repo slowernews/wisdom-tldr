@@ -1063,26 +1063,23 @@ However your level of success will seldom exceed your level of personal developm
 ---
 ## On pessimism
 
-<!--
-- (kk) Over the long term, the future is decided by optimists. To be an optimist you don’t have to ignore all the many problems we create; you just have to imagine improving our capacity to solve problems.
-- (kk) The universe is conspiring behind your back to make you a success. This will be much easier to do if you embrace this pronoia.
--->
-
 > *'That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.' -- James Jones*
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.' -- Bertram Carr*
 
-While optimism is rarely the way, pessimism is never the way. It's a scarcity mindset. 
+Pessimism is a scarcity mindset. Optimism is rarely the way but Pessimism is never the way. 
+
+> *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 
 > *'There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens.' -- Yvon Chouinard*
 
 > *'Hope is a good breakfast, but it is a bad supper.' -- Francis Bacon*
 
+Anyway, on the long term, an optimistic bias may payoff.
+
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.' -- Mark Manson*
 
 > *'Pessimists sound smart. Optimists make money.' --  Nat Friedman*
-
-> *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 
 
 

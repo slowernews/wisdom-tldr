@@ -356,6 +356,8 @@ Keep your friends for friendship, work with the skilled and competent. You will 
 
 > *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success.' -- Oscar Wilde*
 
+> *'Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors.' -- Balthasar Gracian*
+
 ### How to build your «board of directors»?
 
 Curate somehow those who surround you: you are the average of them. When you enter a workplace, think that you will become like them and not the opposite. If you’re always the smartest in the room, you’re in the wrong room.

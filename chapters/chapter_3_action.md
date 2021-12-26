@@ -343,97 +343,28 @@ better slow down the decision-making process and ensure that we consider ample i
 ## On starting and timing
 
 <!--
-1) Protect your time like your money.
-	
-- what’s the next action >> if u dont know think what’s the next project -- gtd guy
-
-you always throw out your first pancake - primeiro milho é para os pardais
-
+- Protect your time like your money. Strategic laziness as a leverage point.
+- you always throw out your first pancake - primeiro milho é para os pardais
 - in order to understand i destried myself
+- Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
+- research is not doing something! Knowledge is Never the Issue, action is.
+- The more “goal oriented” is the task, the more a potential 10x programmer
+- Be useful, not important.
+- monk mode -> no communication during mornings, only deep work -> meetings afternoon
+- If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
+- jogar c o baralho todo / jogar com um subset
+- letting go allows progress
+- letting things happen instead of trying things to happen.
+- I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.
+- keep earning your title, or it expires.
+- The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
+- The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
 
-> *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 > *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
 > *'If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal.' -- Bruce Lee*
 > *'Action expresses priorities.' -- Ghandi*
-> *'You must think like a man of action, and act like a man of thought.'*
 > *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
-> *'Enter action with boldness.'*
-
-“Some systems … are very sensitive to their starting conditions, 
-so that a tiny difference in the initial push you give them 
-causes a big difference in where they end up, and there is 
-feedback, so that what a system does affects its own behavior.”
--- John Gribbin, Deep Simplicity
-
-- Play the ball before it plays you.
-- research is not doing something! Knowledge is Never the Issue, action is.
-- Bad execution of your designs does less harm than irresolution in forming them.
-- STRATEGIC LAZINESS AS A LEVERAGE POINT
-
-Forget All About Doing Good Work and Focus on Great Work
-Good work, on the other hand, is an innocuous killer of greatness.
-Good work is often what we use to fill our time and distract ourselves from great work we know we should be doing
-Good work is that high-paying freelance project that distracts your focus from your new startup. Or that client you keep on retainer who doesn’t push your abilities or stretch you.
-
-WORK THAT PRODUCES DIMINISHING (OR EVEN NEGATIVE) RETURNS
-Imagine that you went outside and jogged for 10 minutes. This would be a healthy thing to do.
-Now imagine you went outside and ran for 20 minutes. It’d also be healthy, but it wouldn’t necessarily be twice as healthy as the 10 minutes.
-But she noticed that most of this extra time was pretty ineffective. The four hours at the end of the day, from say 6 PM to 10 PM, contributed about as much usable work as the first two hours of the day. People were essentially slaving away for marginal benefits.
-And in worst case scenarios, people would start producing bad work or make bad decisions because they were so tired. And when you accumulate enough bad work and bad decisions, you actually unintentionally create more work for yourself. So you go from working for diminishing returns to working for negative returns.
-
-- The more “goal oriented” is the task, the more a potential 10x programmer
-
-If 20% of the effort creates 80% of the value (think of a job: 20% of the employees do 80% of the work), then square that.
-So now 20% of the 20% of the effort makes 80% of 80% of the value.
-So 4% of the work you do in life creates 64% of the benefits in your life.
-
-He said, “I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.”
-If they really wanted to do it, they would have done it.
-I had been fooling myself for years, telling myself I wanted to do this, but my actions prove otherwise.
-keep earning your title, or it expires”.
-
-I love how the '80/20' rule gets stretched so often that in this article it talks about hyperdominate trees that take up 50% of the Amazon. So 80/20 can go anywhere form 99/1 to 50/50. What an interesting 'pattern'.
-
-stop lionizing efficiency, and start asking the question that has guided craftsmen for millennia: what’s the most effective way for me to accomplish the things that are most important?
-
-> *'Be useful, not important.'*
-
-jogar c o baralho todo / jogar com um subset
-
-- actions, not words, reveal our real values.
-
-external focus, attached to outcome.
-youre never done making everybody happy.
-everything is a problem to be solved.
-permission yourself to make different.
-sabbatical: scared and excited at the same time
-letting go allows progress
-letting things happen instead of trying things to happen.
-
-monk mode -> no communication during mornings, only deep work -> meetings afternoon
-
-If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year.
-I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
-
-Ideally, the 'captain' would remain technical, and fight the war against complexity alongside his team. depends on the size of the team.
-
-productivity methods dont necessarily add value to your career. making stuff that others can't do
-But in order to build an awesome career doing hard but satisfying long-term work, you need to build your ability to focus for hours at a time. You need to learn hard skills. You need to let go of multitasking, distraction, and the temptation to be “busy.
-
-- The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
-- The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons.
-“There are 3 reasons why we should do this” and then proceed to list my reasons in almost a numbered bullet point format (“First…”, “Second…”, and “Last…”).
-I observed that The Rule of 3 was actually pretty effective in persuading clients to take action. Why? Three reasons:
-	- Your argument gets their attention and is memorable
-	- You are forced to choose the 3 most important reasons
-	- You sound more structured, confident and decisive when you speak.
-- The non-linearity of productivity
-- there is no right time! its a delusion
-- Have a Mission. Every day, whether it’s “be creative today.” Or “go some place you’ve never been” or “talk to ten random strangers”, make a mission. Learn something new. Missions are for people who DO. Mission statements are for people who DON’T.
-- Knowing is half the battle, the other half is action implementing that knowledge to your own advantage.
-- Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
-- If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution.
 -->
 
 > *'A year from now, you will wish you had started today.' -- Karen Lamb*
@@ -452,6 +383,8 @@ Nothing happens in the world because of thought. Or because of talking. Or becau
 > *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
 
 > *'Do not wait to strike till the iron is hot; but make it hot by striking.' -- Yeats*
+
+> *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 
 ### Why people procrastinate?
 
@@ -477,7 +410,7 @@ At some point, the pain of not doing it becomes greater than the pain of doing i
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-HOWEVER, never mistake action for motion, so have a [plan](#on-planning-and-decision-making). Any plan will do.
+HOWEVER, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a [plan](#on-planning-and-decision-making). Any plan will do.
 
 > *'A good plan, violently executed now, is better than a perfect plan next week.' -- General George Patton*
 
@@ -574,10 +507,11 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 > *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
 
-Getting a lot of unnecessary things done is not productivity: it’s stupidity. Saying yes to everything is a quick road to mediocrity. Productivity is about attention management.
+Getting a lot of unnecessary things done is not productivity: it’s stupidity. Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything.
 
-Do less to achieve more. You don't need to optimise everything.  
-20% of your effort will give you 80% of output: it may be enough or even more than enough. 80/20 is fractal!
+20% of your effort will give you 80% of output: it may be enough or even more than enough. But 80/20 is fractal: If 20% of the effort creates 80% of the value. So now 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do in life may create 64% of the benefits in your life.
+
+Hints:
 
 - Focus on 3 outcomes (not todos) per day and tackle the most important one in the morning.
 - Set specific, measurable, attainable, realistic and time-based goals. Always work with a specific purpose in mind.
@@ -715,7 +649,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 <!--
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
-- 27. Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors. -- Balthasar Gracian
+- 27. 
 - always negotiate. dont communicate weaknes on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
 
 - Responding to Job Offers for Maximum Impact
