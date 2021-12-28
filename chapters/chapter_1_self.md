@@ -61,20 +61,15 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 - core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
 - Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
 - CHANGE YOUR ACTIONS, NOT YOURSELF
+- Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change.
 
-Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change.
-
-i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
+- i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
 > *'Words are deeds.' -- Ludwig Wittgenstein*
 
-Part of being a man is being a protector of everyone who comes into your life.
-Part of being a man is getting shit done.
-a real man loves problems. it’s an opportunity to do your best.
+- Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
 5Cs: courage, congruence, confidence, calibration, conviction
-Manhood is Defined by Your Values and Your Code
 (integrity, honor, service, and generosity should be at the top of your list)
-
-Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
+- Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 You must play by your rules, funnel your weird stuff to give you some advantage.
 _im bad in following a script_
 truth-a-better-way-to-talk-about-ourselves.
@@ -108,9 +103,7 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 - bravery is learned -> micro-bravery, start small
 - Humility With forward action: 'I wasn’t the smartest in X but..'
 - integrity is what you think is what you say, and the same what you do.
-- being vulnerable is taking don’t be afraid of taking a risk.
 - Be willing to side with the minority.
-
 -->
 
 > *'It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.' -- Warren Buffett*
@@ -143,12 +136,7 @@ Take extreme ownership. When are willing to swallow your pride and take ownershi
 
 
 ---
-## On humbleness
-
-<!--
-- (kk) Promptness is a sign of respect.
-> *'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -- Paulo Coelho*
--->
+## On humbleness and respect
 
 > *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
@@ -158,7 +146,11 @@ Ego is the unhealthy belief in our own importance. You are not perfect neither y
 
 Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
+> *'Promptness is a sign of respect.' -- Kevin Kelly*
+
 > *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
+
+> *'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -- Paulo Coelho*
 
 A way to humble yourself is to put you in the position of being the weakest person in something during the day.
 
@@ -581,45 +573,22 @@ However mastery is an important trigger of arrogance. There is no place for a «
 - (kk) The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.
 - long term thinking will guarantee you an easier life.
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
-> *'However little television you watch, watch less.' -- David McCullough*
 
-Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
+- Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
 
 Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
 
-Here are a few snippets from my own annual review:
-GOOD:
-Health & Fitness: I was consistent with my training regimen and I’m in the best shape of my life. I ride my bike daily and now follow a diet that is heavy in healthy fruits and vegetables and very low in meat (still love steak!). I’ve also completed my third year of daily cold showers.
-Business & Career: 2017 was a record year for me. My company broke 7-figures, I expanded my team to 12 highly talented people, my podcast has grown to 4.5 million downloads and my books and courses are selling more than ever before.
-Finances: This has been my best year financially, I no longer have to worry about bills or look at my bank account when I want to buy something. However, I keep a minimalist approach to my life so I rarely spend money on “things” and instead invest in my team, friends, and family.
-Relationships: I dramatically improved my networking and social circle in 2017 and have enjoyed a great romantic relationship. I’m learning a lot, growing, and getting outside of my comfort zone on a daily basis.
-Personal Growth: In 2017, I gained massive clarity on who I am and what I want out of life. I no longer suffer from “Guru” worship and have found a way to tailor personal growth to my life in a way that brings me more joy and fulfillment. (Goodbye “Crush it work 18 hours a day!” mentality)
-BAD:
-Health & Fitness: The main issue with my health and fitness in 2017 was chronic pelvic and knee pain which reduces overall quality of life. And, as I’ve expanded my network and social circle, I’ve allowed my social drinking to increase in the past few months.
-Business & Career: Even though 2017 was a great year, Knowledge for Men did experience some growing pains. Early in the year, I didn’t focus heavily enough on creating systems to successfully scale the coaching side of my business and ended up overextending myself as a result. I also didn’t focus on scalable assets like books and online courses. Also an employee of mine flooded my office by accident which cost me nearly $25k in damages to the structure of the building.
-Finances: Although I made plenty of money in 2017, I didn’t do very well investing that money into long-term cash flow producing assets. I’ve also struggled to keep up with taxes as my income has increased.
-Relationships: Although my relationship is great, I’m still working on improving my communication with my partner so that I can show up as authentically and honestly as possible. I’ve also struggled to keep up with old friends while expanding my social circle.
-Personal Growth: 2017 was the first year in nearly a decade where I didn’t do much reading. I used to read 2-3 books a month and this year I read maybe 5 books total. I also stayed very close to San Diego for the entire year and didn’t travel the way that I wanted too.
-	
-Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
-
-{{link to planning: habits are plans}}
-
-Srinivas recommends that you also write 1000 words every morning before you do anything else.
-
-Focus on Building Systems
-
-Why You Should Record Your Conversations with Strangers
-
-99. See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
-
-Ask yourself for advice.
-
-more mindful -> meditation
-
-Learn how to say no, or not to say yes
-
-Focus on Showing Up not Achieving Goals 
+- See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
+- Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
+- Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
+- habits are plans
+- Srinivas recommends that you also write 1000 words every morning before you do anything else.
+- Focus on Building Systems. Habits are systems.
+- Ask yourself for advice.
+- more mindful -> meditation
+- Learn how to say no, or not to say yes
+- Focus on Showing Up not Achieving Goals. Don’t focus in productivity.
+- our minds are essentially accumulations of habits.
 
 1) Invest in long-term wellbeing
 a. Physical health:
@@ -627,33 +596,11 @@ b. One new thing: learn at least one new thing everyday. Read, watch a documenta
 c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 d. Gratitude
 
-don’t focus in productivity.
-productivity coach vs creativity coach.
-i hired a 23 year old coach.
-optimize for time and peace of mind.
-
-when you wake up, ensure that your morning is run by systems instead of feelings.«
-look at situations as systems. i help to create systems.
-This is because our minds are essentially accumulations of habits.
-
-fixing bad habits?
-Kill Bad Habits With Mindfulness. Pay attention. Don’t judge
-RAIN: Recognize, Accept, Investigate, Note
-
-First forget inspiration.
-Habit is more dependable.
-Habit will sustain you whether you’re inspired or not.
+- fixing bad habits? Kill Bad Habits With Mindfulness. Pay attention. Don’t judge. RAIN: Recognize, Accept, Investigate, Note
+- First forget inspiration. Habit is more dependable. Habit will sustain you whether you’re inspired or not.
 Habit is persistence in practice.” — Octavia Butler
+- Habits can mean we overshoot our goals. Habits are easy to complete. Habits are for life. Habits can compound. Habits can be as small as necessary. Nothing will change your future trajectory like habits
 
-The Benefits of Habits
-Habits can mean we overshoot our goals.
-Habits are easy to complete.
-Habits are for life.
-Habits can compound.
-Habits can be as small as necessary
-Nothing will change your future trajectory like habits
-
-> *'Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.' -- Charles Duhigg*
 > *'Pain plus reflection equals progress.' -- Ray Dalio*
 -->
 
@@ -683,6 +630,8 @@ Hints:
 - People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.
 
 ### How to create new habits?
+
+> *'Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.' -- Charles Duhigg*
 
 - Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
 - Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  

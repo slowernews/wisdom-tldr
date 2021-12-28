@@ -42,20 +42,14 @@ Keep a journal and write about what you’re looking forward to and excited abou
 -->
 
 - Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
-
 - Listen. Don’t worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
 	- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
 	- Paraphrasing: Repeat what they just said in your own words.
 	- Emphasize Similarity, we like people who are like us.
-
 - Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what’s in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet.
-
 - Get better at asking questions, they are more important than answers. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Be interested to be interesting.
-
 - Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
-
 - Don’t be stubborn: you don’t always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge.
-
 - Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
 
 ### How to tell good stories?
@@ -69,8 +63,7 @@ Good stories condense a massive amount of details into a consumable and shareabl
 ### How to discord?
 
 <!--
-If you want to win an argument, ask the person trying to convince you of something to explain how it would work.
-Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
+- Ask the person trying to convince you of something to explain how it would work. Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
 -->
 
 Listen as you’re wrong. «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
@@ -116,8 +109,7 @@ You're either part of the solution or part of the problem.
 ## On criticism and envy
 
 <!--
-Consensus happens just in the beginning and in the end of something.
-- somebody else opinion about you is not the truth. all problems are thoughts. its always wat you choose to think about it, is not the circustances. the world is not as they see it is as they think it
+- Consensus happens just in the beginning and in the end of something.
 -->
 
 > *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
