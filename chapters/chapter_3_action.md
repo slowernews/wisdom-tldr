@@ -68,15 +68,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 
 <!--
 - How can we overcome complexity bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
-- best way to deal with confirmation bias: You need to search out disconfirming evidence.
-- confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know.
-
-Two people with opposing views on a topic can see the same evidence, and still come away both validated by it
-We can be cautious of data which seems to immediately support our views.The desire to be right is the thirst for truth.
-Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts.
-This saves the time needed to make decisions, in particular when under pressure.
-
-Accepting information which confirms our beliefs is easy and requires little mental energy. Yet contradicting information causes us to shy away, grasping for a reason to discard it.
+- confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know. best way to deal with confirmation bias: You need to search out disconfirming evidence.
+- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
 -->
 
 > *'Not everything that counts can be counted, and not everything that can be counted counts.' -- Albert Einstein*
@@ -140,25 +133,20 @@ And when facing new ideas. Nothing is as simple at seems at first, or as hopeles
 > *'To understand is to know what to do.' -- Wittgenstein*
 > *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 
-- E.g. if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
-- Any time you don't know, be clear that you don't know, but follow up with a plan for how you'll get the information and with a deadline for conveying that information. That is all the person asking the question really wants anyway: for you to supply the answer.
+- if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
 - tese antitheses -> syntesis
-- reasoning by first principles and reasoning by analogy. correlations is not causation
 - The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
 - Ask yourself “does this decision require fast or slow thinking?” 
 - Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
-Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.
+Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
 - What’s your advantage: informational, analytical, or behavioral?	
 - not playing your hand but playing your opponent.
 - The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
 - Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
 - Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
-(under ideal conditions everybody is a genious)
-- The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him. Much of this is the result of our need for cognitive consistency. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
-- You need to search out disconfirming evidence.
+- As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
 - um texto é mais biased do que um gráfico onde cada um tira as suas comclusoes.
 - As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
-- Truth in stereotypes there'es truth on GROUP opinions. groups opinios self correct themselves.
 -->
 
 - Pay attention to negative cues: what should have happened but did not.  
@@ -167,6 +155,8 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - Skepticism is a great servant and a terrible master.  
 - Randomness: most facts are a «tell» but some are just random.  
 - There’s always a good reason and a real reason.
+- There's truth on *group* stereotypes. *Group* opinions self correct themselves.
+- Prefer stats than a explanatory texts.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
@@ -176,8 +166,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *'The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches).' -- Paul Graham*
 
 > *'When a measure becomes a target, it ceases to be a good measure.' -- Goodhart’s Law*
-
-> *'That which can be asserted without evidence, can be dismissed without evidence.' -- Christopher Hitchens*
 
 > *'I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things.' -- Benjamin Franklin*
 
@@ -257,13 +245,11 @@ As further guidance, Bezos considers 70% certainty to be the cut-off point where
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 - Actions > Thoughts; Actions change the world. Not beliefs.
 - i'm right -> how do i know i'm right. radical openmindedness -> stress test your ideas
-- Idea-meritocratic decision-making is the best decision-making. The difference between an autocratic decision maker and a democratic decision maker.
 - find 3 people that high expertise but that they discord and listen. take your conclusions
 - The Problems With Goals: Goals have an endpoint. Goals rely on factors which we do not always have control over. Goals rely on willpower and self-discipline. Goals can make us complacent or reckless.
 - charlie munger - Wisdom and Circle of Competence: “Knowing what you don’t know is more useful than being brilliant.” “Acknowledging what you don’t know is the dawning of wisdom.”
 - working class want to feel the same as others. White collar want to feel different from others.
 - decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
-- understand the problem (what is the priority) -> visualize a solution, come out with a plan -> overcomunicate -> adapt to win (the enemy has always a vote
 - Your product is decisions. 
 -->
 
@@ -320,16 +306,14 @@ The ability to make fast decisions is a competitive advantage.
 
 Some people get paralyzed by [over thinking](#on-starting-and-timing). When you don't decide somebody will decide for you.
 
-Jeff Bezos, once said in a letter to shareholders that he believes that optimal decisions occur when one has 70% of the necessary information. He went on to say that anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome.
-
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
 > *'Economics teaches you that making a choice means giving up something.' -- Russ Roberts*
 
 Hints:
  
-- Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we had 
-better slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)
+- Optimal decisions occur when one has 70% of the necessary information. Anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
+- Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we should slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)
 - 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
 - No to any decision that requires a calculator or computer. (Warren Buffett)  
 - Default to no. (Steve Jobs)
@@ -353,8 +337,7 @@ better slow down the decision-making process and ensure that we consider ample i
 - monk mode -> no communication during mornings, only deep work -> meetings afternoon
 - If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
 - jogar c o baralho todo / jogar com um subset
-- letting go allows progress
-- letting things happen instead of trying things to happen.
+- letting go allows progress. letting things happen instead of trying things to happen.
 - I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.
 - keep earning your title, or it expires.
 - The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
