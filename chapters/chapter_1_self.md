@@ -136,7 +136,7 @@ Take extreme ownership. When are willing to swallow your pride and take ownershi
 
 
 ---
-## On humbleness and respect
+## On respect
 
 > *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
@@ -170,7 +170,6 @@ Quickly, specifically, sincerely.
 > *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
 Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
 - A good life is not a life without problems. A good life is a life with good problems. mm
-> *'Writing down one thing you are grateful for each day is the cheapest possible therapy ever.' -- Kevin Kelly*
 -->
 
 > *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
@@ -187,6 +186,8 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
 
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.' -- Lao Tzu*
+
+> *'Writing down one thing you are grateful for each day is the cheapest possible therapy ever.' -- Kevin Kelly*
 
 
 
@@ -246,7 +247,7 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 ### How to design a life?
 
-Mediocrity, as a goal, sucks. As a result, is OK. Lying on death bed and regretting your life is the worst that can happen to you.
+Lying on death bed and regretting your life is the worst that can happen to you. Mediocrity, as a goal, sucks. As a result, is OK.
 
 The goal of life is not comfort it’s contribution. Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
 But the problem with this philosophy is that no great work ever came from comfort.
@@ -371,7 +372,6 @@ Hints:
 > *'We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.'*
 
 - success is the worst teacher
-- Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
 - growth: get unconfortable. So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
 - Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don’t know why.
 - When I asked him what separated his student from the other people he’d mentored Russel’s answer was simple: «He’s willing to listen to people who are smarter than he is and he has a tremendous hustle and drive.»
@@ -399,12 +399,10 @@ Going public with a goal increases your support and accountability. Ask for supp
 - This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
 - He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
 - Amateurs talk about money. Professionals talk about ideas.
-- lazyness is nothing more than resting before getting tired
 - Understand why we should fear missing opportunity more than we should fear failure.
 - The importance of living proactively instead of reactively.
 - The hardest part is showing up
 - How to learn? There are four simple steps to the Feynman Technique: choose a Concept, Teach it to a Toddler, Identify Gaps and Go Back to The Source Material, Review and Simplify
-- Only applied knowledge is power.
 -->
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
@@ -418,9 +416,9 @@ You improve with experience and analysis of past situations.
 
 > *'The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.' -- Alvin Toffler*
 
-> *'Any fool can know. The point is to understand.' -- Albert Einstein*
-
 > *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
+
+> *'Any fool can know. The point is to understand.' -- Albert Einstein*
 
 ### Improving by experience
 
@@ -463,7 +461,7 @@ Deliberated practice.
 
 ### Applied knowledge
 
-However action not knowledge leads to [success](chapter_appendix.md#on-success).  
+However action not knowledge leads to [success](chapter_appendix.md#on-success). Only applied knowledge is power.  
 If you are not constantly taking action on the new information that you are learning then it’s just educational porn.
 
 > *'Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile.' -- Balthasar Gracian*
@@ -575,6 +573,7 @@ However mastery is an important trigger of arrogance. There is no place for a «
 > *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 - Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
+- Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
 
 Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
 
@@ -671,20 +670,21 @@ When you don’t create things, you become defined by your tastes rather than ab
 
 Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
 
-> *'The things we see every day are the things we never see at all.' -- G.K. Chesterton*
+> *'The best mirror is an old friend.' -- George Herbert*
 
 > *'Weeds are flowers too, once you get to know them.' -- A.A. Milne*
 
-> *'The best mirror is an old friend.' -- George Herbert*
+> *'The things we see every day are the things we never see at all.' -- G.K. Chesterton*
 
 ### How to grow self awareness?
 
 > *'People who can't laugh at themselves will always be outwitted by people who can.' -- T. K. Coleman*
 
-Do you know anyone who doesn’t have any blind spots? Then why would you be any different?  
-We should always question our assumptions: “What if I’m wrong about this?”.
+Do you know anyone who doesn’t have any blind spots? So why would you be different?  
 
 Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
+
+Question your assumptions: “What if I’m wrong about this?”.
 
 
 
@@ -1036,10 +1036,15 @@ Anyway, on the long term, an optimistic bias may payoff.
 ---
 ## On perfectionism
 
+<!--
+- lazyness is nothing more than resting before getting tired
+-->
+
 > *'The perfect is the enemy of the good.' -- Voltaire*
 
-Strive for excellence, not for perfection. From good enough you can derive success.  
-Try to see yourself as a doist, not a perfectionist. This is liberating.
+Strive for excellence, not for perfection. From good enough you can derive success. From perfection you derive procastination, anxiety and depression. 
+
+See yourself as a doist, not a perfectionist. This is liberating.
 
 > *'Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your “self” out of your decisions, because most likely, it’s not about “you”. Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it.' -- Mark Manson*
 
