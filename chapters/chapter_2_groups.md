@@ -21,36 +21,20 @@ Speak less and listen more. Listening is powerful.
 ### How to communicate? 
 
 <!--
-> *'Always say less than necessary.' -- Kevin Kelly*
-> *'People can’t remember more than 3 points from a speech.' -- Kevin Kelly*
-
-- (kk) Rule of 3 in conversation. To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth.
-- (kk) Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
-- Seek to understand before seeking to be understood
-Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
-
-1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
-2 - Small and open groups. Opening line: "Hi, I'm X and I dont know anybody in this party."
-3 - Go to the bar and meet people there.
-4 - Help the hosters to serve food.
-5 - Escaping lines: how to politely end conversations. You should go on after 10 or 15 minutes. Think about it as exploring.
-	"excuse me but i must to talk with somebody that entered the room"
-	"excuse me i have to make a phone call"
-	human sacrifice.. intro him and leave.
-	To rude people: «my mum always told me not to speak with strangers, now I know why»
+- Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 -->
 
-- Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and everything will appear as fake.
-- Listen. Don’t worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
+- Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and it will appear as fake.
+- Listen. Seek to understand before seeking to be understood. Don’t worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
 	- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
 	- Paraphrasing: Repeat what they just said in your own words.
 	- Emphasize Similarity, we like people who are like us.
-- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what’s in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet.
 - Get better at asking questions, they are more important than answers. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Be interested to be interesting.
-- Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
-- Don’t be stubborn: you don’t always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge.
-- Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
+- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what’s in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet. Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
+- Don’t be stubborn: you don’t always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
+
+> *'Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.' -- Kevin Kelly*
 
 ### How to tell good stories?
 
@@ -62,17 +46,21 @@ Good stories condense a massive amount of details into a consumable and shareabl
 
 ### How to discord?
 
-<!--
-- Ask the person trying to convince you of something to explain how it would work. Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views, perhaps nudging them ever so softly toward your views.
--->
+Listen as you’re wrong.
 
-Listen as you’re wrong. «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
+Ask the person trying to convince you of something to explain how it would work. Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views.
 
-When public speaking you dont need to answer their question. You can say whatever you want if its interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of saying desagreements.
+- «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
 > *'Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine.' -- Balthasar Gracian*
+
+### On public speaking
+
+You don't need to answer their question. You can say whatever you want if it's interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of desagreeing.
+
+> *'Always say less than necessary.' -- Kevin Kelly*
 
 
 
@@ -94,13 +82,17 @@ Don’t avoid relevant conflicts. Small (but relevant) conflicts will grow into 
 
 You're either part of the solution or part of the problem.
 
-- Show some empathy and use “we” to show you’re on the same team.  
+- Show some empathy and use «we» to show you are on the same team.  
 - Take responsibility  
 - Bring options to the table. Understand also that it’s easier to negotiate down
 
 > *'When someone is nasty, rude, hateful, or mean with you, pretend they have a disease. That makes it easier to have empathy toward them which can soften the conflict.' -- Kevin Kelly*
 
 > *'Your best response to an insult is “You’re probably right.” Often they are.' -- Kevin Kelly*
+
+> *'To quiet a crowd or a drunk, just whisper.' -- Kevin Kelly*
+
+> *'Calm is contagious.' -- Kevin Kelly*
 
 
 
@@ -150,31 +142,22 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On following the herd
 
 <!--
-Groups never admit failure
-> *'You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.' -- Kevin Kelly*
 > *'When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong.' -- Kevin Kelly*
-
-Critical Mass in Psychology
-Psychologists have known for a long time that groups of people behave differently than individuals.
-Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. (An interesting detail is that mob psychology is one of the few branches of psychology which does not concern individuals.) As a general rule, the larger the crowd, the less responsibility people have for their behaviour. (This is also why individuals and not groups should make decisions.)
-
-Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
-
-- changing course is hard and this scares us so we look around and try to copy the courses other people took
-
-> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
-> *'Whenever people agree with me I always feel I must be wrong.' -- Oscar Wilde*
-From Scott Adams (Dilbert):
-> Rational People: Use data and reason to arrive at truth. (This group is mostly imaginary.)
-> Word-Thinkers: Use labels, word definitions, and analogies to create the illusion of rational thinking. This group is 99% of the world.
-> Persuaders: Use simplicity, repetition, emotion, habit, aspirations, visual communication, and other tools of persuasion to program other people and themselves. This group is about 1% of the population and effectively control the word-thinkers of the world.
 -->
 
 > *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
 
 > *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
 
-Most people are other people. Their thoughts are someone else opinions and they jump to conclusions. People accept the defaults very easily.
+Most people are other people. Changing course is hard and this scares us so we look around and try to copy the courses other people took. Their thoughts are someone else opinions and they jump to conclusions. People accept the defaults very easily.
+
+Psychologists have known for a long time that groups of people behave differently than individuals. Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. As a general rule, the larger the crowd, the less responsibility people have for their behaviour. This is also why individuals and not groups should make decisions. Groups never admit failure.
+
+Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
+
+> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
+
+> *'Whenever people agree with me I always feel I must be wrong.' -- Oscar Wilde*
 
 > *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
 
@@ -222,6 +205,8 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 
 > *'Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious.' -- Kevin Kelly*
 
+> *'You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.' -- Kevin Kelly*
+
 ### How to judge a man?
 
 > *'Judge a man by his questions, not by his answers.' -- Voltaire*
@@ -242,10 +227,6 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 ## On relationships
 
-<!--
-- (kk) Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom.
--->
-
 > *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don’t see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
 
 > *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
@@ -261,10 +242,10 @@ Hints:
 - If you are lonely when you are not alone, you are in bad company.  
 
 Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.
- 
-> *'You loose your identity, you loose people.' -- Amy Cuddy*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+
+> *'Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom.' -- Kevin kelly*
 
 
 
@@ -273,8 +254,7 @@ Humans make connections. Sometimes these connections grow. Sometimes they stay t
 ## On lovers
 
 <!--
-> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever.' -- Nicholas Sparks*
-- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want, but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
+- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 -->
 
 > *'We accept the love we think we deserve.' -- Stephen Chbosky*
@@ -297,6 +277,8 @@ Love is what happens to men and women that don’t know each other. Love doesn�
 
 First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
 
+> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever.' -- Nicholas Sparks*
+
 > *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
 
 
@@ -306,14 +288,11 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 ## On family and friends
 
 <!--
-- envy (worse than you) - competition (same level than you) - mentor (better than you)
 - Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 - the way of man is the way of the gang
 
-> *'People come, people go – they’ll drift in and out of your life, almost like characters in a favorite book. When you finally close the cover, the characters have told their story and you start up again with another book, complete with new characters and adventures. Then you find yourself focusing on the new ones, not the ones from the past.' --  Nicholas Sparks*
-> *'If you don’t say what you think then you kill your unborn self. When you have something to say, silence is a lie.' --  Jordan Peterson*
+> *'People come, people go – they’ll drift in and out of your life, almost like characters in a favorite book. When you finally close the cover, the characters have told their story and you start up again with another book, complete with new characters and adventures. Then you find yourself focusing on the new ones, not the ones from the past.' -- Nicholas Sparks*
 > *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
-> *'Never tell the truth to people who are not worthy of it.' -- Mark Twain*
 -->
 
 > *'When everything goes to hell, the people who stand by you without flinching, they are your family.' -- Jim Butcher*
@@ -332,17 +311,10 @@ Cleave from your family but come back. You need to be independent and loyal at t
 
 ### On friends
 
-<!--
-- (kk) Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat.
-> *'Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem.' -- Kevin Kelly*
-> *'Don’t loan money to a friend unless you are ready to make it a gift.' -- Kevin Kelly*
-> *'Show me your calendar and I will tell you your priorities. Tell me who your friends are, and I’ll tell you where you’re going.' -- Kevin Kelly*
-> *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
--->
-
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 
 > *'When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
+
 Resist the temptation of working with family and friends. Peers are peers, not boss and employee.
 
 Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
@@ -353,23 +325,33 @@ Keep your friends for friendship, work with the skilled and competent. You will 
 
 > *'Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors.' -- Balthasar Gracian*
 
+> *'Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem.' -- Kevin Kelly*
+
+> *'Show me your calendar and I will tell you your priorities. Tell me who your friends are, and I’ll tell you where you’re going.' -- Kevin Kelly*
+
+> *'Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat.' -- Kevin Kelly*
+
 ### How to build your «board of directors»?
 
 Curate somehow those who surround you: you are the average of them. When you enter a workplace, think that you will become like them and not the opposite. If you’re always the smartest in the room, you’re in the wrong room.
 
 <!--
-- (kk) Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you.
 “A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
 “You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
-I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
 -->
 
-- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal.  
+- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal. I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
 - Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
 - Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
 we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
 
-You’re never too old to make a friend. Look for people with the same interests as you: meetup, learn a new skill. Second step is inviting them to do something. Always be looking for a new one. If a buddy calls and needs to get a drink, go. I also know someone is a friend when I can go long stretches without talking to him and then we talk and its right where we left off.
+You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
+
+> *'Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you.' -- Kevin Kelly*
+
+> *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
+
+> *'Don’t loan money to a friend unless you are ready to make it a gift.' -- Kevin Kelly*
 
 
 
@@ -517,6 +499,22 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 
 - You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
 - Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
+
+1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
+2. Don’t Look Away! Eye contact builds trust.
+3. dont hide yourself.
+4. dont wait to start talking. a group or a double might be an easy place to start.
+5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
+
+1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
+2 - Small and open groups. Opening line: "Hi, I'm X and I dont know anybody in this party."
+3 - Go to the bar and meet people there.
+4 - Help the hosters to serve food.
+5 - Escaping lines: how to politely end conversations. You should go on after 10 or 15 minutes. Think about it as exploring.
+	"excuse me but i must to talk with somebody that entered the room"
+	"excuse me i have to make a phone call"
+	human sacrifice.. intro him and leave.
+	To rude people: «my mum always told me not to speak with strangers, now I k
 
 intro: //clay hebert
 I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
@@ -708,6 +706,10 @@ If the delivered work is not good enough give a reason. Spend one hour a day [co
 - «Is that the best you can do?»
 
 > *'Praise by name, criticize by category.' -- Warren Buffet*
+
+> *'Rule of 3 in conversation. To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the trut' -- Kevin Kelly*
+
+> *'People can’t remember more than 3 points from a speech.' -- Kevin Kelly*
 
 However gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Data shows people want more feedback but monthly, not daily.
 

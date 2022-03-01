@@ -140,7 +140,7 @@ Aging implies damage.
 
 > *'Finding a place to die is an important thing to do.' -- Nagasaki*
 
-> *'We never really grow up, we only learn how to act in public.' --  Bryan White*
+> *'We never really grow up, we only learn how to act in public.' -- Bryan White*
 
 ### On maturity
 
@@ -155,10 +155,15 @@ Create more, consume less.
 
 
 
----           
+---
 # Appendix B - On envy triggers
 
 ## On intelligence and talent
+
+<!--
+> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
+- Ask yourself for advice.
+-->
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
@@ -231,6 +236,8 @@ You will get rich by giving society what it wants but does not yet know how to g
 > *'To be wealthy, accumulate all those things that money can’t buy.' -- Kevin Kelly*
 
 > *'You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life.' -- Peter Mallouk*
+
+> *'To succeed, get other people to pay you; to become wealthy, help other people to succeed.' -- Kevin Kelly*
 
 ### Nearly free stuff
 
@@ -325,7 +332,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *'Dance with your hips.' -- Kevin Kelly*
 - If you’re not trying to make money, what are you even doing?
 - feel like a local celebrity: everybody knows who you are.
-- But you’re choosing to be uninformed. I'm not choosing ignorance. I'm choosing to not watch wrestling.
+- I'm not choosing ignorance. I'm choosing to not watch wrestling.
 - My life has been a series of questions and odd experiments.
 -->
 
@@ -355,12 +362,10 @@ Hints:
 - How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.  
 - In life, you will often be presented with two options: the lucrative option and the lifestyle option. Don’t play the government’s game.
 
-
 ### How to simplify?
 
 <!--
 - One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
-- (kk) When an object is lost, 95% of the time it is hiding within arm’s reach of where it was last seen. Search in all possible locations in that radius and you’ll find it.
 -->
 
 - Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
@@ -374,35 +379,27 @@ Hints:
 ## On success
 
 <!--
-> *'Most overnight successes — in fact any significant successes — take at least 5 years. Budget your life accordingly.' -- Kevin Kelly*
-> *'To succeed, get other people to pay you; to become wealthy, help other people to succeed.' -- Kevin Kelly*
 - (kk) Show up. Keep showing up. Somebody successful said: 99% of success is just showing up.
 
 > *'The pain I feel now is the happiness I had before. That’s the deal.' -- C.S. Lewis*
 - silicon valley celebrate failure only after they achieve success
-- Real success happens when we focus on one thing at a time.
-- There are two things you need to do to be successful: know what is he right thing and having the courage to do it
-- your need for aceptance can make you invisible in this world.
 - And when they finally became a “success” they realized that they were no more fulfilled at 40 with $100,000 in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them. They worked tirelessly to achieve goals that they didn’t truly care about.
+- Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal. True fulfillment comes from living your life, not from achievement. Experiences worth more than material “The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
 - sucesses keep you making the same stuff, mistakes not.
 - It’s never your identity, it’s always your strategy
 - Succeeding means securing advantage.
-
 - Do What Works and Forget the Rest. But the simple truth is that success leaves clues. There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
-- All of Success is About Conquering Yourself. Most people assume that success is all about the mechanics. Guess what, no matter what you are striving for, you will face failure at some point in your life, however, if you have developed yourself, if you have conquered your own emotions of fear, doubt, and unconfidence, you can return from any failure and be victorious.
-- Success is in Our Decisions Not Our Conclusions. Many people think that success is about the attainment of something, but the truth is, success is about who you become along the way and the decisions that you make. Success is truly about living a life with honor and integrity, not any material outcome. success is not the accumulation of stuff.
-- If you want to succeed at anything in your life, then forget about the Joneses. You don’t need the fancy car, expensive watch, or flashy toys, spend your money on experiences, on your family, and on living a lifestyle that makes you happy. Don’t spend it on getting into a meaningless competition with shallow and materialistic people.
-- Success is Internal not External: If you want to achieve true fulfillment, then realize that happiness is internal. True fulfillment comes from living your life, not from achievement. Experiences worth more than material
-“The things we do that get us to feel the true, deep sense of accomplishment are things like running a marathon, climbing a mountain, writing a book, and inventing something,”
-- The key to all success in life lies in education and massive action. If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
-- The story he told me was a combination of luck, learning skills, building a network, and acting on the intersection of all of the above. But more than anything, it’s being open to surrender. Surrendering to constant reinvention.
+- If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
+- Surrendering to constant reinvention.
 -->
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
 
 > *'If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price.' -- Roger Kipling*
 
-There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period of time. But success is not being wealthy, is being happy. If you wake up each morning, happy, fulfilled, and full of life, then you are a success.
+Success = education + massive action
+
+There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period of time. But success is not being wealthy, is being happy.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -410,13 +407,17 @@ There is no shortcut. Success is nothing but the accumulation of small things do
 
 > *'To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man.' -- Louis L'amour*
 
-[Fear](#on-confidence-and-validation), not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit..
+> *'Recipe for success: under-promise and over-deliver.' -- Kevin Kelly*
+
+> *'Most overnight successes take at least 5 years. Budget your life accordingly.' -- Kevin Kelly*
+
+Fear, not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit..
 
 > *'Doubt kills more dreams than failure ever will.'*
 
 > *'Whether you think you can, or you think you can’t, you’re right.' -- Henry Ford*
 
-But success is a dangerous word. I don’t know any sucessful person.
+But success is a dangerous word. I don’t know any successful person.
 
 
 
@@ -460,7 +461,7 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 
 ### Where is home?
 
-> *'Home is where the bra isn´t.'*
+> *'Home is where the bra isn’t.'*
 
 > *'Home is where the parking lot is.'*
 
@@ -486,17 +487,19 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 
 Most people approach each and every year in the exact same way while (somehow) expecting drastically different results.
 
+How to write compelling characters? “It’s easy,” he said. “Just make them contradictions.” To be human is to be a contradiction.
+
 > *'If there is one thing you can count on, it’s human greed. And I'm not pretending I'm above it myself.'*
 
 > *'The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.' -- Elizabeth Taylor*
 
-> *'I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them».' --  Anaïs Nin*
+> *'I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them».' -- Anaïs Nin*
 
 > *'I always worried someone would notice me, and then when no one did, I felt lonely.' -- Curtis Sittenfeld*
 
 > *'I don’t want to be alone, I want to be left alone.' -- Audrey Hepburn*
 
-> *'“Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.”' --  Neil Gaiman*
+> *'Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.' -- Neil Gaiman*
 
 > *'People aren’t either wicked or noble. They're like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
 
@@ -571,7 +574,7 @@ Science is the study of truth. Everything that is not a law of nature is just a 
 
 > *'Science is a wonderful thing if one does not have to earn one’s living at it.' -- Albert Einstein*
 
-> *'If we knew what it was we were doing, it would not be called research, would it?' --  Albert Einstein*
+> *'If we knew what it was we were doing, it would not be called research, would it?' -- Albert Einstein*
 
 
 
@@ -607,7 +610,7 @@ Art is just another form of screaming and it doesn’t end at the edge of the ca
 
 Most people with good taste are young and poor.
 
-The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment.  
+The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment. 
 
 > *'Form follows profit is the aesthetic principle of our times.' -- Richard Rogers*
 
@@ -626,16 +629,13 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
-> *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith in The Wealth Of Nations*
 - (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
 
 Hints:
-- The best companies aren’t sold, they're bought.  
-- Don’t buy on future hopes; buy on past mistakes.  
+- The best companies aren’t sold, they're bought. 
+- Don’t buy on future hopes; buy on past mistakes. 
 - Don’t invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
 - Stock buybacks are effectively same as dividends.
-- Barbell strategy
-- Pessimists sound smart, optimists make money.
 - Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
 - entrepreneurship vs investment - 2 different mentalities.
 - dealers vs brokers: liquid markets (dealers with enough inventory)
@@ -646,22 +646,19 @@ Hints:
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
 
-Saving a higher proportion of your income allows to cut decades off of your working life.  
+Saving a higher proportion of your income allows to cut decades off of your working life. 
 The secret to get wealthy is not to make more money but to keep it.
 
 Hints:
 
-- Spend less than you make.  
-- Stay liquid, never invest in anything you can’t sell in 30 days.  
+- Spend less than you make. 
+- Stay liquid, never invest in anything you can’t sell in a month or two. 
 - Diversify with uncorrelated investment bets.
+- Barbell strategy.
 
 ### On your investment comfort zone
 
-<!--
-> *'If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme.' -- Kevin Kelly*
--->
-
-Scared money never wins. It’s about the risk of losing money versus the risk of missing opportunity.  
+Scared money never wins. It’s about the risk of losing money versus the risk of missing opportunity. 
 
 > *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
 
@@ -673,9 +670,13 @@ Scared money never wins. It’s about the risk of losing money versus the risk o
 
 Understand:
 
-- who are the buyers, the sellers and their motivations.  
-- that investments are competing with each other.  
+- who are the buyers, the sellers and their motivations. 
+- that investments are competing with each other. 
 - where is low optimism. market cycles. Recessions are caused when a bunch of people lose confidence all at once.
+
+> *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith*
+
+> *'If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme.' -- Kevin Kelly*
 
 ### How to spot good investments?
 
@@ -849,7 +850,7 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 ## On what women value in men
 
-> *'A gentleman holds my hand. A man pulls my hair. A soulmate will do both.' --  Alessandra Torre*
+> *'A gentleman holds my hand. A man pulls my hair. A soulmate will do both.' -- Alessandra Torre*
 
 > *'The classical definition of a gentleman: he never insulted anyone unintentionally.' -- James Crow*
 

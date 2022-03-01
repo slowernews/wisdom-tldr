@@ -82,7 +82,7 @@ Analysis is an art, not a science.
 
 The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. Everyone is biased.
 
-> *'Believe only half of what you see and nothing that you hear.' --  Edgar Allan Poe*
+> *'Believe only half of what you see and nothing that you hear.' -- Edgar Allan Poe*
 
 > *'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.' -- Marcus Aurelius*
 
@@ -145,7 +145,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
 - Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 - As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
-- um texto é mais biased do que um gráfico onde cada um tira as suas comclusoes.
 - As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
 -->
 
@@ -482,7 +481,6 @@ Busy imply out of control. Lack of time is lack of priorities.
 ### Productivity hints
 
 <!--
-- “If you want a task done quickly, ask a busy person to do it.”
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don't put your best effort.
 -->
 
@@ -505,6 +503,7 @@ Hints:
 - Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
 - Buy yourself time: delegate. Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
 - Work by layers: from functional to excellency.
+- If you want a task done quickly, ask a busy person to do it.
 
 
 
@@ -632,7 +631,6 @@ There are limits on change. Willpower is finite and change requires attention. H
 <!--
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
-- 27. 
 - always negotiate. dont communicate weaknes on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
 
 - Responding to Job Offers for Maximum Impact
@@ -996,7 +994,7 @@ and [bait](#on-charming). Some opponents may require special tools.
 Strategy is about winning before the battle begins, while tactics are about striking at weakness.
 
 > *'The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
-A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.' --  Richard Rumelt*
+A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.' -- Richard Rumelt*
 
 Some hints:
 
@@ -1013,8 +1011,6 @@ Some hints:
 
 <!--
 > *'All guns are loaded.' -- Kevin Kelly*
-> *'Calm is contagious.' -- Kevin Kelly*
-> *'To quiet a crowd or a drunk, just whisper.' -- Kevin Kelly*
 
 - on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
@@ -1038,15 +1034,7 @@ An army of robots is freely available - it’s just packed in data centers for h
 ## On charming
 
 <!--
-> *'To combat an adversary, become their friend.' -- Kevin Kelly*
-> *'Recipe for success: under-promise and over-deliver.' -- Kevin Kelly*
-
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
-	
-Hooking Curiosity
-A screenwriter friend of mine recently told me his secret to writing compelling characters.
-“It’s easy,” he said. “Just make them contradictions.”
-To be human is to be a contradiction
 
 To Persuade Someone, Look Emotional
 - you automatically trust when somebody is doing at that time what you’re doing. paraphrased scott adams
@@ -1076,6 +1064,7 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 'Learn to keep people dependent on you.'  
 Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th laws of power)*
 
+> *'To combat an adversary, become their friend.' -- Kevin Kelly*
 
 
 
@@ -1083,14 +1072,6 @@ Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th
 ## On deceiving
 
 <!--
-- (kk) This is true: It’s hard to cheat an honest man.
-> *'Don't attribute to malice what you can attribute to incompetence or busyness.'*
-> *'By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.'*
-> *'Never be mean to anybody that can hurt you by doing nothing.'*
-> *'Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.' -- Hannah Arendt*
-> *'A lie can travel half way around the world while the truth is putting on its shoes.' -- Mark Twain*
-
-- Clean players on shady markets usually don't do well on the long term.
 - Bad liars should speak as little as possible.
 - if somebody asks for the evidence, normally, he’s lieing
 - the good reason and the real reason.
@@ -1098,11 +1079,13 @@ Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th
 
 > *'A man is not deceived by others, he deceives himself.' -- Goethe*
 
-> *'I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.' --  Marilyn Monroe*
+> *'I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.' -- Marilyn Monroe*
 
-If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish.
+If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish. Clean players on shady markets usually don't do well on the long term.
 
-> *'The moment a magician says, «Now we begin» you’re already screwed!' -- Brian Brushwood*
+By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.
+
+> *'The moment a magician says, «now we begin» you’re already screwed!' -- Brian Brushwood*
 
 > *'Appear weak when you are strong and strong when you are weak' -- Sun Tzu*
 
@@ -1116,15 +1099,29 @@ If we play by the rules too strictly, if we take them too literally, we are crus
 
 > *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
 
+> *'Never tell the truth to people who are not worthy of it.' -- Mark Twain*
+
 > *'One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted.' -- James Altucher*
 
 However, deceiving is not lying. Disappointment destroys trust. Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.
+
+> *'It’s hard to cheat an honest man.' -- Kevin Kelly*
 
 > *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
 
 > *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
 
 > *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
+
+> *'A lie can travel half way around the world while the truth is putting on its shoes.' -- Mark Twain*
+
+And don't attribute to malice what you can attribute to incompetence or busyness. So never be mean to anybody that can hurt you by doing nothing.
+
+### On lies
+
+> *'Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.' -- Hannah Arendt*
+
+> *'When you have something to say, silence is a lie.' --  Jordan Peterson*
 
 
 
@@ -1199,7 +1196,7 @@ Starting is fun but success belongs to finishers.
 
 > *'Difficulties increase the nearer we come to our aim.' -- Goethe*
 
-> *'All endings are also beginnings. We just don’t know it at the time.' --  Mitch Albom*
+> *'All endings are also beginnings. We just don’t know it at the time.' -- Mitch Albom*
 
 
 
@@ -1208,11 +1205,8 @@ Starting is fun but success belongs to finishers.
 ## On winning
 
 <!--
-> *'You don't win by predicting the future; you win by getting the odds right.' -- Will Bonner
-
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
-- winning by exhaustion: Traditional military theorists such as Sun Tzu (“Supreme excellence consists of breaking the enemy’s resistance without fighting”) and Machiavelli (“Never attempt to win by force what can be won by deception”) evangelized for clever tactics. These methods tend to result in far fewer casualties, waste fewer resources and are a display of superior intellect, rather than just strength. Attrition warfare is usually a last resort only. And most of the time when you win, it’s only temporary. By not scoring a decisive blow, the winners leave room for the losers to believe they can win the next time. From the start, the Battle of Verdun was fought upon a foundation of attrition. Both sides were essentially trapped, with no option but to keep trying to force the other into submission. Both sides were using similar approaches with similar capabilities. The concept of attrition applies outside of war. Bureaucracies grind people out. Excessive competition among businesses might be good for consumers, but it’s a grind for the companies involved. History shows that the way out of trench warfare is the use of asymmetric weaponry. If you’re using basically the same strategy with basically the same resources as your competitor, you’re in a war of attrition.
 -->
 
 > *'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*
@@ -1232,26 +1226,31 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 > *'The war will be ended by the exhaustion of nations rather than the victories of armies.' -- Winston Churchill*
 
+> *'Supreme excellence consists of breaking the enemy’s resistance without fighting' -- Sun Tzu*
+
+> *'Never attempt to win by force what can be won by deception.' -- Machiavelli*
+
+> *'You don't win by predicting the future; you win by getting the odds right.' -- Will Bonner*
+
 
 
 
 ---
 ## On surrendering
 
-<!--
-> *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
-> *'In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of.' -- Kevin Kelly*
--->
-
 > *'It only hurts when you don’t have time to prepare for the fall' -- Tony Hawk*
+
+> *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
 
 In order to come back you have to go away.
 
-Use this opportunity to re-create yourself. If you didn’t quit anything you woud be still playing with toddlers. Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning. Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.
+Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning. Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.
 
 > *'Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere.' -- Paul Coelho*
 
 > *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
+
+> *'In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of.' -- Kevin Kelly*
 
 
 
@@ -1259,19 +1258,13 @@ Use this opportunity to re-create yourself. If you didn’t quit anything you wo
 ---
 ## On forgiveness and revenge
 
-<!--
-- (kk) Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
--->
-
 > *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
-> *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*
+Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
 
-If forgiveness is a process of release then the opposite of forgiveness is a decision to hold onto something.
+Forgiveness is a process of release so the opposite is a decision to hold onto something. By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
 
-Many people think that the alternative to forgiveness is punishment: either choose to forgive someone for what they’ve done, or we return the favor with some sort of retribution. But punishment isn’t really the opposite of forgiveness. After all, we can punish someone without forgiving them, or punish them in order to forgive them. By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
-
-> *'Dumbledore says people find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
+> *'People find it far easier to forgive others for being wrong than being right.' -- J.K. Rowling*
 
 > *'Life has become immeasurably better since I have been forced to stop taking it seriously.' -- Hunter S. Thompson*
 
@@ -1282,5 +1275,7 @@ However:
 > *'Once you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall.' -- Jodi Picoult*
 
 ### On revenge
+
+> *'An eye for an eye will only make the whole world blind.' -- Mahatma Gandhi*
 
 > *'The greatest revenge is success.' -- Frank Sinatra*

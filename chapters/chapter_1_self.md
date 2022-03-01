@@ -11,19 +11,15 @@
 ## On independence
 
 <!--
-Codependent no more: How to stop controlling others and start caring for yourself.
-
-Practice doing without things you think you need.
-Once we’re bought, it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent.
-The bank owned them. Work owned them.
+- Codependent no more: How to stop controlling others and start caring for yourself.
+- Practice doing without things you think you need.
+- Once we’re «bought», it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent. The bank owns us. Work owns us.
 
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 
-> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
 > *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston Churchill*
 > *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
 > *'Só os mais corajosos conseguem fazer a paz' -- Trump*
-> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
 - There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
 - do u want ur daughter to date somebody like u?
 - I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules.
@@ -73,6 +69,7 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 You must play by your rules, funnel your weird stuff to give you some advantage.
 _im bad in following a script_
 truth-a-better-way-to-talk-about-ourselves.
+> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
 -->
 
 > *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
@@ -126,7 +123,7 @@ Trust, not money, is the currency of business and life. Be impeccable with your 
 
 Take extreme ownership. When are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
 
-> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change.' --  Katharine Hepburn*
+> *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change.' -- Katharine Hepburn*
 
 > *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
 
@@ -209,7 +206,7 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 4. Focus on Financial Freedom First
 5. Pick One Thing and Stick With it to Completion
 	
-> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' --  Paulo Coelho*
+> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' -- Paulo Coelho*
 
 - there’s a price for it always. everything is an exchange. you can achieve everything but there is a price. people don’t achieve anything because they are not willing to sacrifice. everything is a trade.
 - parabol: that door is only for you.	
@@ -568,9 +565,7 @@ However mastery is an important trigger of arrogance. There is no place for a «
 ## On habits and systems
 
 <!--
-- (kk) The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.
 - long term thinking will guarantee you an easier life.
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 - Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
@@ -582,12 +577,7 @@ Effort and reward have a linear relationship when the action is mindless and sim
 - Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
 - habits are plans
 - Srinivas recommends that you also write 1000 words every morning before you do anything else.
-- Focus on Building Systems. Habits are systems.
-- Ask yourself for advice.
-- more mindful -> meditation
 - Learn how to say no, or not to say yes
-- Focus on Showing Up not Achieving Goals. Don’t focus in productivity.
-- our minds are essentially accumulations of habits.
 
 1) Invest in long-term wellbeing
 a. Physical health:
@@ -595,9 +585,6 @@ b. One new thing: learn at least one new thing everyday. Read, watch a documenta
 c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 d. Gratitude
 
-- fixing bad habits? Kill Bad Habits With Mindfulness. Pay attention. Don’t judge. RAIN: Recognize, Accept, Investigate, Note
-- First forget inspiration. Habit is more dependable. Habit will sustain you whether you’re inspired or not.
-Habit is persistence in practice.” — Octavia Butler
 - Habits can mean we overshoot our goals. Habits are easy to complete. Habits are for life. Habits can compound. Habits can be as small as necessary. Nothing will change your future trajectory like habits
 
 > *'Pain plus reflection equals progress.' -- Ray Dalio*
@@ -605,7 +592,16 @@ Habit is persistence in practice.” — Octavia Butler
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
+Our minds are essentially accumulations of habits.
+
 Consistency doesn’t come from effort, it comes from systems. Decisions compound. The pathway to freedom is discipline.
+
+Focus on Building Systems. Habits are systems. Focus on showing up not achieving goals. Don’t focus in productivity.
+
+> *'First forget inspiration. Habit is more dependable. Habit will sustain you whether you’re inspired or not.
+Habit is persistence in practice.' -- Octavia Butler*
+
+> *'The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.' -- Kevin Kelly*
 
 > *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
 
@@ -638,7 +634,13 @@ Hints:
 - Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
 - Focus on the costs of bad habits.
 
+### How to fix bad habits?
+
+Pay attention. Don’t judge.
+
 However variety and novelty are also important, so balance it.
+
+> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
 
 
 
@@ -647,28 +649,16 @@ However variety and novelty are also important, so balance it.
 ## On self awareness
 
 <!--
-- self wareness: look at mirror what went well today, what went badtoday, how can i get better. what instead of why. why questions make us focus on the problem, getting emotional and stuck in the past. what not why! what can i do for change. what makes us focusing in the solution.
-
-So take the time now to truly understand what your beliefs and patterns are in every area of life.
-The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
-
-self-awareness is the single greatest predictor of leadership success
-1) Reflect Less, Notice More: spend less time theorizing and more time collecting data points to see patterns and trends.
-2) Ask “What” Not “Why”
-3) Set Goals
-4) Do A Survey
-
-SELF-AWARENESS > HUSTLE
-
-If we cut ourselves off from the full scope of history because it makes us uncomfortable, or doesn’t fit with the cultural narrative in which we live, we reduce our ability to learn from the past and apply those lessons to the situations we are facing today.
-We need to accept that people can do great things while still having flaws. Our heroes don’tr have to be perfect, and we can learn just as much from their imperfections as from their achievements.
-
-When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
+- self wareness: look at mirror what went well today, what went badtoday, how can i get better. what instead of why. why questions make us focus on the problem, getting emotional and stuck in the past. what not why! what can i do for change. what makes us focusing in the solution. So take the time now to truly understand what your beliefs and patterns are in every area of life. The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
+- we need to accept that people can do great things while still having flaws. Our heroes don’tr have to be perfect, and we can learn just as much from their imperfections as from their achievements.
+- When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
 -->
 
 > *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*
 
 Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
+
+Do you know anyone who doesn’t have any blind spots? So why would you be different?  
 
 > *'The best mirror is an old friend.' -- George Herbert*
 
@@ -680,16 +670,16 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 
 > *'People who can't laugh at themselves will always be outwitted by people who can.' -- T. K. Coleman*
 
-Do you know anyone who doesn’t have any blind spots? So why would you be different?  
+Hints:
 
-Professionals ask questions. Amateurs make statements. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to [listen](/chapter_2_groups.md#on-communication) the other person’s views.  
-
-Question your assumptions: “What if I’m wrong about this?”.
-
-
+- Ask questions. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to listen the other person’s views.  
+- Question your assumptions: “What if I’m wrong about this?”.
+- Meditation makes you more mindful.
 
 
----                                                                                                                                 
+
+
+---                                                                                                                              
 # 1.3 - On your worst enemy: yourself
 
 ## On stress and health
@@ -773,6 +763,8 @@ Fear is paralyzing.
 
 If you view everything through the lens of fear, you'll tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your mother, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
 
+> *'Don’t give in to your fears. If you do, you won’t be able to talk to your heart.' -- Paulo Coelho*
+
 ### How to overcome fear?
 
 > *'We fear things in proportion to our ignorance of them.' -- Christian Nestell Bovee*
@@ -787,13 +779,11 @@ Replace fear with curiosity. Hints:
 
 ### On courage
 
-<!--
-> *'Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.' -- Maya Angelou*
--->
-
 > *'Tolerance of intolerance is cowardice.' -- Ayaan Hirsi Ali*
 
 > *'Life shrinks or expands in proportion to one’s courage.' -- Anaïs Nin*
+
+> *'Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.' -- Maya Angelou*
 
 Heros and cowards feel the same fear but their answers are different. Courage implies low reverence.
 
@@ -812,7 +802,6 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 <!--
 - (kk) To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is.
 - (kk) When crisis and disaster strike, don’t waste them. No problems, no progress.
-- (kk) If you are not falling down occasionally, you are just coasting.
 > *'If something fails where you thought it would fail, that is not a failure.' -- Kevin Kelly*
 -->
 
@@ -840,21 +829,17 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 
 ### On regrets
 
-<!--
-punishing yourself for failing. failing is learning.
--->
-
 > *'Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving.' -- Alan Paton*
 
-Be gentle first with yourself.
+> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
-You are more than your mistakes. Your past mistakes are meant to guide you, not to define you. Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today, every moment spent in regret is a moment wasted. Don’t waste your moments in life, you never know when you’ll stop waking up.
+Be gentle first with yourself. Don't punish yourself for failing. Failing is learning.
+
+You are more than your mistakes. Your past mistakes are meant to guide you, not to define you. Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today.
 
 > *'It’s not just other people we need to forgive. Sometimes we need to forgive ourselves.' -- Mitch Albom*
 
 > *'You’re going to make mistakes in life. It’s what you do after the mistakes that counts.' -- Brandi Chastain*
-
-> *'A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing.' -- George Bernard Shaw*
 
 > *'Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.' -- Mary Oliver*
 
@@ -875,9 +860,7 @@ Making mistakes is better than faking perfections. Every difficulty carries with
 ## On shame, confidence and validation
 
 <!--
-- Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 > *'Just get out of the room.' -- Robert Glover*
-> *'Ignore what others may be thinking of you, because they aren’t.' -- Kevin Kelly*
 -->
 
 > *'Shame corrodes the very part of us that believes we are capable of change.' -- Brene Brown*
@@ -886,22 +869,28 @@ You are not what you think you are: you are what you hide.
 
 The things you hate most about yourself are the things you hide from the rest of the world. 
 
+Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
+
 ### On validation
 
 <!--
-> *'If you can avoid seeking approval of others, your power is limitless.' -- Kevin Kelly*
-- It’s really hard to have self-esteem. Everyone wants to take it from us. A boss, a teacher, a parent, a friend, a lover. Why Self-Compassion Works Better Than Self-Esteem: Boosting your ego won’t make you feel better. Instead, try talking to yourself like you would your best friend.
-- You don’t have to prove anything to anybody, including yourself.
-- Seek Validation from Yourself and Yourself Only, specially men. The problem is that men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
+- Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
+- your need for aceptance can make you invisible in this world.
 -->
 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
-> *'You've gotta dance like there’s nobody watching.' -- William W. Purkey*
-
 Don’t wait for someone to tell you that you are special.
 
 Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
+
+You don’t have to prove anything to anybody, including yourself.
+
+> *'If you can avoid seeking approval of others, your power is limitless.' -- Kevin Kelly*
+
+> *'Ignore what others may be thinking of you, because they aren’t.' -- Kevin Kelly*
+
+> *'You've gotta dance like there’s nobody watching.' -- William W. Purkey*
 
 ### How to overcome shame?
 
@@ -916,16 +905,6 @@ When you try to hide something about yourself, you automatically create shame. Y
 ### On confidence
 	
 <!--
-> *'Don’t give in to your fears. If you do, you won’t be able to talk to your heart.' -- Paulo Coelho*
-
-- honesty is the pathway to confidence. when you hide you create shame and shamelessness overtime is a defense against low self estime.
-- nobody that is busy is confident
-- low self confidence is the source of all problems. all neediness is a sign of self low confidence
-- The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible.
-When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility. All in all, it makes your dating life 1,000 times easier and more fun to navigate.
-- analogy: confidence is like a building
-- Building confidence takes time and it takes effort; there are no shortcuts. To help you build confidence, you need three things: the right attitude (to believe in yourself), knowledge and experience.
-- if you don’t believe you are good, you'll never be good - ef!	
 - I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.
 - If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
 - Dress for the job you want, not for the one you have.
@@ -937,39 +916,32 @@ When accompanied by authenticity and personal accountability, vulnerability is a
 
 Shame is the opposite of confidence. Confidence is shamelessness. 
 
+Low confidence is the source of all problems and neediness its marker.
+
 > *'Having a low opinion of yourself is not modesty. It’s self-destruction.' -- Bobby Sommer*
 
 ### How to bust confidence?
 
+Honesty is the pathway to confidence. Hiding creates shame.
+
 Hints:
 
-- Confidence relies on pride. Pursue authentic pride. Hard work, mastery and core values are good sources of it.  
-- Presence is confidence without arrogance, grounded enthusiasm and comfortable behavior. Authenticity can’t be faked.  
-- When you break an agreement that you make with yourself, your selfestime plummets: renegociate it.  
-- Confidence: state + mastery. Impress yourself. Confidence is a result, not a requirement.  
-- Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech.
+- Hard work, mastery and core values are good sources of pride. When you break an agreement you made with yourself, your self-esteem plummets.  
+- Presence is confidence without arrogance. Authenticity can’t be faked.  
+- Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech. If you don’t believe you are good, you'll never be good.
+- It’s really hard to have self-esteem. Everyone wants to take it from you. A boss, a teacher, a parent, a friend, a lover.
+- The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible. When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility.
 
 ### On arrogance and entitlement
 
-<!--
-How to Enter a Room So People Take Notice
-1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
-2. Don’t Look Away! Eye contact builds trust.
-3. dont hide yourself.
-4. dont wait to start talking. a group or a double might be an easy place to start.
-5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
-I do my best to always pay attention to how I am presenting myself to others everywhere I go. I do a body check every time I walk into a room and make sure to keep a high value mindset. I feel that I am a better listener now and I pay close attention to low value behaviors that try to creep back into my life. My conversations are better. People see me as a confident person and as someone they can talk to. The increased enjoyment of my life and my relationships are priceless and the investment I made in myself has already financially paid itself back several times.
-9. Entitlement comes in two forms.
-Form one: I’m better than everybody and therefore deserve special treatment.
-Form two: I’m worse than everybody and therefore deserve special treatment.
-They’re both forms of narcissism (because they’re both about me me me), and both are pretty much never true. Which one do you usually fall into?
--->
-
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
-Understand the frontier between confidence and arrogance.
+Understand the frontier between confidence and arrogance. Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 
-Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone at all. Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
+Entitlement comes in two forms:
+
+- I’m better than everybody and therefore deserve special treatment.  
+- I’m worse than everybody and therefore deserve special treatment.
 
 > *'Don’t be so humble - you are not that great.' -- Golda Meir*
 
@@ -981,11 +953,6 @@ Confidence is not walking into a room thinking you are better than everyone, it�
 
 <!--
 - impostor syndrome’ mentality, because when you accept that others will always be better that you are at different things, then you will cease to compare yourself against them, but instead openly seek guidance from them.
-- "Don’t look for inspiration. Look for irritation."
-- motivation sometimes is just a matter of money! you dont do for x, and for 2x? and for 3x? there is a moment that you'll be motivated!
-> *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
-“There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live.”
-- burning bridges to get the motivation.
 -->
 
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
@@ -1006,6 +973,19 @@ Lots of people keep telling themselves old stories and patterns that aren’t se
 
 However your level of success will seldom exceed your level of personal development.
 
+### How to bust motivation?
+
+Hints:
+
+- Don’t look for inspiration. Look for irritation.
+- Sometimes is a matter of money.
+- «Burning bridges».
+
+> *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
+
+> *'There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live.'*
+
+
 
 
 
@@ -1016,7 +996,7 @@ However your level of success will seldom exceed your level of personal developm
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.' -- Bertram Carr*
 
-Pessimism is a scarcity mindset. Optimism is rarely the way but Pessimism is never the way. 
+Pessimism is a scarcity mindset. Optimism is rarely the way but pessimism is never the way. 
 
 > *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 
@@ -1028,7 +1008,7 @@ Anyway, on the long term, an optimistic bias may payoff.
 
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.' -- Mark Manson*
 
-> *'Pessimists sound smart. Optimists make money.' --  Nat Friedman*
+> *'Pessimists sound smart. Optimists make money.' -- Nat Friedman*
 
 
 
