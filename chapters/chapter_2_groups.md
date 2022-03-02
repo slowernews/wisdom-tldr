@@ -377,7 +377,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 
 Politicians hate risk. Decisions are made on the lowest risk of offending people.
 
-Politicians don’t get educated, they get bought. To reduce corruption diminish people involved on analogic processes.
+To reduce corruption diminish people involved on analogic processes. Politicians don’t get educated, they get bought.
 
 > *'Favors granted always become defined as rights.' -- Saul Alinsky*
 
@@ -404,7 +404,7 @@ Multicultural is by absurdum the true monocultural.
 Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.
 -->
 
-Taxes aren’t a punishment. They are a membership fee that 80% of us are voluntarily overpaying.
+Taxes are a membership fee that most of us are voluntarily overpaying.
 
 
 
@@ -414,8 +414,8 @@ Taxes aren’t a punishment. They are a membership fee that 80% of us are volunt
 
 <!--
 > *'The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.' -- Kevin Kelly*
+> *'You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further.' -- Kevin Kelly*
 
-- (kk) You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further.
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding. empregados sempre c skin in the game. the enemies are outside not inside
 - CEOs are adaptable and flexible and good risk managers.
 - Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
@@ -454,7 +454,7 @@ Validate your business by finding paying clients. If something is worth doing, s
 Do something that most people think is hard. When you tell someone what you’re starting, their reaction should be, “Are you sure you want to do that? That’s too hard.” That’s exactly what people said when we started Nubank, and it turned out to be a good thing. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too. -- david velez, nubank
 -->
 
-Patterns on unsuccessful entrepreneurs:
+Patterns of unsuccessful entrepreneurs:
 
 - To talk to people but never build anything.
 - To build something without first talking to people and trying to sell it.
@@ -492,8 +492,6 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 ## On networking
 
 <!--
-- (kk) The more you are interested in others, the more interesting they find you. To be interesting, be interested.
-- (kk) Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead.
 - What's the most common question or problem you get asked about? Share the answer.
 > *'Each of us is born with a box of matches inside us but we can’t strike them all by ourselves' -- Laura Esquivel*
 
@@ -540,6 +538,8 @@ ask them first so you can costumise it for the context and make it more relevant
 
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get.
 
+> *'Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead.' -- Kevin Kelly*
+
 > *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
 
 > *'Being alone never felt right. Sometimes it felt good, but it never felt right.' -- Charles Bukowski*
@@ -553,7 +553,7 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 
 Be useful, not important.
 
-[Listen](chapter_2_groups.md#on-communication) to people, [get](chapter_3_action.md#on-analysis) their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
+Listen to people, get their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
 > *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
 
@@ -647,10 +647,6 @@ People seek leadership because they want autonomy and influence. Influence is mo
 
 - reward system. culture is influenced by structure. give to the right person
 - as estruturas funcionam qd ha coesao
-- servant leadership -> my responsability is to make my team better.
-- manager is a dreammaker
-- Too busy pretending I'm occupied.
-- A group of 10 people within a large organization is a kind of fake tribe. The number of people you interact with is about right. But something is missing: individual initiative. Tribes of hunter-gatherers have much more freedom. The leaders have a little more power than other members of the tribe, but they don’t generally tell them what to do and when the way a boss can. In the first couple weeks of working on their own startup they seem to come to life, because finally they're working the way people are meant to. Another thing you notice when you see animals in the wild is that each species thrives in groups of a certain size. A herd of impalas might have 100 adults; baboons maybe 20; lions rarely 10. Humans also seem designed to work in groups, and what I've read about hunter-gatherers accords with research on organizations and my own experience to suggest roughly what the ideal size is: groups of 8 work well; by 20 they're getting hard to manage; and a group of 50 is really unwieldy
 - Ideas are welcomed, execution is worshiped
 -->
 
@@ -667,9 +663,9 @@ A manager should make himself two questions a day:
 - What is important to accomplish?  
 - Where was I uncomfortable the day before?  
 
-The speed that you offload your stuff will be the speed of your team. Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of hiding at your desk, just tell yourself: what I accomplished today is not yet visible, but it will be. 
+The speed that you offload your stuff will be the speed of your team. Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you're occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
 
-A great manager is a great facilitator.
+A great manager is a great facilitator. His responsability is to make his team better. A servant leadership.
 
 ### On teams
 
@@ -679,10 +675,10 @@ A great manager is a great facilitator.
 
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 
-A chain is only as strong as its weakest link. Make people feel as part of a family.
+A chain is only as strong as its weakest link. People should feel as part of a tribe.
 
-- The ultimate divisional organization: Amazon’s “two-pizza teams”.
-- Always be clear and specific about what you expect from other people. You can not expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
+- The ultimate divisional organization: Amazon’s «two-pizza teams». Like animals, humans also seem designed to work in groups of a particular size.
+- Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
 
 > *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
@@ -715,15 +711,11 @@ However gaining an understanding and giving appropriate feedback makes your juni
 
 ### On meetings
 
-<!--
-Just last week I reminded my  ... like Jeff Bezos practiced it in all Amazon meetings.
--->
+Default to “no” for all meetings. If you can’t say no, schedule for the afternoon.
 
-Default to “no” for all meetings. If you can’t say no, schedule the meeting for the afternoon.
-
-- Start a meeting with an overachieving question: «how can we raise sales by 12%?».  
-- Do not share your opinion on possible solutions before asking for input from your team. Lower ranked people should speak first. Everybody the right to their opinion and not copying others' opinion.  
-- Jeff Bezos famously banned PowerPoints in favor of “narratives” — four-to-six page memos that Amazon employees read and discuss together in meetings. He also reminded the team to leave in all internal key meetings one seat free - for their customer.
+- Start with an overachieving question: «how can we raise sales by 12%?».  
+- Do not share your opinion before asking for input from your team. Lower ranked people should speak first.  
+- Jeff Bezos famously banned PowerPoints in favor of «narratives» — four-to-six page memos that Amazon employees read and discuss together in meetings. He also reminded the team to leave in all internal key meetings one seat free - for their customer.
 
 > *'Always tell us the bad news promptly. Good news can wait.' -- Berkshire policy*
 
@@ -734,24 +726,20 @@ Default to “no” for all meetings. If you can’t say no, schedule the meetin
 ## On hiring and being hired
 
 <!--
-> *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
 - growing companies are always hiring.
-
+> *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
+- The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
+- (kk) Being enthusiastic is worth 25 IQ points.
 - (kk) Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
 - (kk) If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss.
 - (kk) Don’t be the best. Be the only.
-- (kk) Being enthusiastic is worth 25 IQ points.
 - I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
 - people want freedom to choose their process.
-- The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
-Hire people you can trust. You have to trust them to be adults. Give them clear goals and then get the hell out of the way so that they can do their job.
+- Hire people you can trust. You have to trust them to be adults. Give them clear goals and then get the hell out of the way so that they can do their job.
 Give them the tools they ask for, not the tools a vendor suggested. They have a reason they asked for a proprietary compiler, get it for them.
 Respect goes a long way and begins in the recruitment phase. It surely doesn’t end there. To get respect, you have to give respect.
-Train, train, train. If you treat your employee right, you can absolutely train them and not worry about them being poached. Salary is actually a small part of overhead. Pay them well and treat them well. Our print room cost more than a senior employee. There’s no reason to pay crap wages.
 At the same time, wages aren’t everything. Everyone wants to make good money but when you’re already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don’t offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you’re treating them right, they won’t just up and go to a new company after you've trained them.
-- Estimativas são Promessas. Promessas devem ser cumpridas.
-- In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction".
-Therefore, there is zero correlation between an estimate and the actual outcome.
+- Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
 - If you’re a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
 - There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
