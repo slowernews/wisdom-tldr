@@ -48,7 +48,7 @@ Good stories condense a massive amount of details into a consumable and shareabl
 
 Listen as you’re wrong.
 
-Ask the person trying to convince you of something to explain how it would work. Odds are they have not done the work required to hold an opinion. If they can explain why they are correct and how things would work, you'll learn something. If they can't you'll soften their views.
+Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you'll learn something. If they can't you'll soften their views.
 
 - «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
@@ -58,7 +58,11 @@ Ask the person trying to convince you of something to explain how it would work.
 
 ### On public speaking
 
-You don't need to answer their question. You can say whatever you want if it's interesting. Know when to answer boring on easy to misinterpret questions. Agree as much as you can without lieing. Ask questions instead of desagreeing.
+You don't need to answer their question.
+
+- You can say whatever you want if it's interesting.
+- Know when to answer boring on easy to misinterpret questions.
+- Agree as much as you can without lieing. Ask questions instead of desagreeing.
 
 > *'Always say less than necessary.' -- Kevin Kelly*
 
@@ -70,25 +74,18 @@ You don't need to answer their question. You can say whatever you want if it's i
 
 > *'War is what happens when language fails.' -- Margaret Atwood*
 
-> *'Undisturbed calmness of mind is attained by cultivating friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and indifference toward the wicked.' -- Patanjali*
+> *'Your best response to an insult is “You’re probably right.” Often they are.' -- Kevin Kelly*
 
 Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
 
 Don’t avoid relevant conflicts. Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
 
-> *'Well-kept gardens die by pacifism.'*
-
 ### On conflict resolution
 
 You're either part of the solution or part of the problem.
 
-- Show some empathy and use «we» to show you are on the same team.  
-- Take responsibility  
-- Bring options to the table. Understand also that it’s easier to negotiate down
-
-> *'When someone is nasty, rude, hateful, or mean with you, pretend they have a disease. That makes it easier to have empathy toward them which can soften the conflict.' -- Kevin Kelly*
-
-> *'Your best response to an insult is “You’re probably right.” Often they are.' -- Kevin Kelly*
+- Show empathy by using «we». Mean it and take responsability.
+- Bring options to the table. It’s easier to negotiate down.
 
 > *'To quiet a crowd or a drunk, just whisper.' -- Kevin Kelly*
 
