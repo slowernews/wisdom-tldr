@@ -591,35 +591,23 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence? (aka do you have high standards).
 - to see who rules you, is the person you are not allowed to criticise.
 - succeful takers are the most visible people in organizations.
-- convincing vs inspiring! leadership
-
-We advance the welfare of others — often unconsciously — by sharing resources, cooperating, and collaborating within a social structure. As perhaps an unintended consequence, we find ourselves gaining power. Most often, this power is something that’s given to us, and not something we set out to seize. This runs directly counter to the popular belief that power is attained by becoming a Machiavellian super villain and using force, manipulation, deception, and strategic ruthlessness to take it at the expense of others. Individuals demonstrating value to other individuals — or companies demonstrating value to a society — gain power as a direct result.
+- convincing vs inspiring leadership
+- There are three keys: honesty, effectiveness, and efficiency.
 
 Beth Comstock:
-2. Organize Around Information Flows: In the digital age, information moves fast. To keep up with information flows, you have to ditch hierarchy. There’s no room for bureaucracy. It’s about openness, candor, radical feedback and full transparency. If you organize your organization around these tenets, you’ll thrive.
-3. Empower Individuals: Build a team of people who are prepared for change and empower them to do great work. The question is: how do you get people to get excited to grab power and go for it? More autonomy.
-4. Define your company’s “MO” -- Mindset Orientation: Mindset is everything. As a leader, you must provide the vision and then allow your teams to figure their way out. Create a mindset that incentivizes them to do what they need to do the fastest, best way they can. It means they may fail. You should encourage them to fail fast, learn from their mistakes, and keep going. At GE, this process is called FastWorks, and it’s built on lean startup methodology.
-5. Establish Feedback Loops: Exponential leaders must both give and receive feedback – and importantly, they have to actually use it. Beth offers three ideas here:
-First: “One of the things we’ve done at GE is we’ve actually gotten rid of our employee performance reviews. Anyone in the organization can give anyone feedback. I just did a Facebook Live event last week and one of my young colleagues in the company gave me some feedback. It wasn’t so good… ‘You weren’t looking at the camera at the right point. You looked like you were distracted.’ It was hard feedback to receive, but it was encouraged.”
-“What is the one thing that is true that you think I don’t want to hear?” Beth comments that you’ll be amazed what you’ll learn. It’s extremely valuable.
 Third: Rather than doing long, convoluted employee surveys, stick to a simple feedback mechanism: Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
-6. Get Used to Living in the In-Between: Exponential leaders are comfortable with ambiguity and uncertainty. This is going to be key to survive the change that is coming.
-7. Mash Up Minds and Machines: Exponential leaders use technology to their advantage, combining the power of computing and data with human leadership.
 8. Prioritize Innovation and Observe Patterns That Block It: Innovating is really hard. Good leaders understand they have to navigate the tension. Sometimes leaders give up, and they don’t hold their team accountable for growing. They themselves back off on it. And so is it any wonder that the people on the team deprioritize innovating?.
-
-1. Always be an Ambassador for Your Team, Innovation Happens Everywhere.
-3. Once a Decision is Made, It is Supported. Period. This is really important. Once a decision is made in a meeting, there must be no second-guessing of that decision after the fact. Sue explains, “When we walk out of that room, and you’ve had all the chance to actually defend your position to make the decision, it’s time to start executing. That’s it.” If you need to change a strategy, use data from implementation to support your argument and bring it up in the next decision-making meeting.
-4. Proactive Problem Management – Go Directly to the Source: As complexity increases, so too does the potential for conflict or confusion. As an exponential leader, you must be proactive in managing this. Sue’s strategy is simple and clear: “Go to the source, directly to the source. Don’t complain to managers or others before you’ve gone to the person first to resolve the conflict.”
-7. You Can’t Delegate Culture: This is absolutely critical for exponential leaders. Culture can make or break a company, and therefore it a) must be very high on a leader’s list of priorities and b) must come from the top. Leaders can’t delegate culture. Sue goes on, “Leaders are the culture bearers, the torchkeepers of culture in our companies. They might have change agents, or those that actually help them amplify their culture, but the leader cannot delegate culture. This is a truth that a lot of us forget because we’re so busy. Employees and teams really want to see it from their leaders. They want to hear the talk, they want to watch them walk the talk, all the time.” Interestingly, while leaders cannot delegate culture creation, they can delegate culture keeping.
-
-- There are three keys: honesty, effectiveness, and efficiency.
 -->
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 Leaders are team makers. There are no bad teams, only bad leaders.
 
-Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strong person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
+Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strongest person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
+
+- Leaders cannot delegate culture creation, they can delegate culture keeping.
+- Leaders are embassadors of their teams.
+- Proactive Problem Management – Go directly to the source.
 
 > *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
 
@@ -675,10 +663,11 @@ A great manager is a great facilitator. His responsability is to make his team b
 
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 
-A chain is only as strong as its weakest link. People should feel as part of a tribe.
+People should feel as part of a tribe.
 
 - The ultimate divisional organization: Amazon’s «two-pizza teams». Like animals, humans also seem designed to work in groups of a particular size.
 - Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
+- A chain is only as strong as its weakest link.
 - Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
 
 > *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
@@ -695,15 +684,14 @@ Ask instead of telling.
 
 If the delivered work is not good enough give a reason. Spend one hour a day [communicating](#on-communication) to your people and everything will be OK. 
 
-- «Interesting, how do you feel about it?»
-- «What does your team think?»
+- «Interesting, how do you feel about it? And your team?»
 - «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
 - «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
 - «Is that the best you can do?»
 
 > *'Praise by name, criticize by category.' -- Warren Buffet*
 
-> *'Rule of 3 in conversation. To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the trut' -- Kevin Kelly*
+> *'To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth' -- Kevin Kelly*
 
 > *'People can’t remember more than 3 points from a speech.' -- Kevin Kelly*
 
@@ -732,7 +720,6 @@ Default to “no” for all meetings. If you can’t say no, schedule for the af
 - (kk) Being enthusiastic is worth 25 IQ points.
 - (kk) Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
 - (kk) If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss.
-- (kk) Don’t be the best. Be the only.
 - I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
 - people want freedom to choose their process.
 - Hire people you can trust. You have to trust them to be adults. Give them clear goals and then get the hell out of the way so that they can do their job.
@@ -754,7 +741,7 @@ He who works with his hands and his head and his heart is an artist.' -- St. Fra
 
 Trial most but only hire likable persons that «get shit done».
 
-Your goal in business should be to «fire» yourself and hire people who are better at your job than you are. To be a leader you must become a master at finding and hiring talent.
+Your goal should be to «fire» yourself and hire people who are better at your job than you are. Leaders must become masters at finding and hiring talent.
 
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
 
@@ -778,13 +765,13 @@ When applying for a job be more of a consultant than an applicant. Hints:
 
 - Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
 DON’T tell about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell HOW you accomplished your responsibilities better than the next person. ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.  
-- There are two skill levels: still learning the skill and confident in the skill.
+- There are two skill levels: still learning or confident in the skill.
 - Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.
 - Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 ### On asking for a raise
 
-If your manager or employer says “No” the first time around, don’t get discouraged. Simply thank them for their time and ask them “What specific outcomes would be required for me to receive this raise within the next 3-6 months?” If they can’t answer this question, you should probably find another employer.  
+Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.  
 
 
 
@@ -793,48 +780,38 @@ If your manager or employer says “No” the first time around, don’t get dis
 ## On career
 
 <!--
-- differentiate yourself / volunteer for assignments / becoming the go to guy for some questions
-- three-paths-in-the-tech-industry-founder-executive-or-employee
+- volunteer for assignments / becoming the go to guy for some questions
 - trabalhar de porta aberta vs trabalhar à porta fechada
 - Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
-- work smart not harder but hard still.
-- Be a jack-of-all-trades and a master of one.
-- trade-able skills: figure out what skills you already have that you can charge for
+- work smart not harder but hard still. its good to be better, but is better to be different.
+- Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
+- trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
 - Always Focus on Delivering More Value than Expected
-- finding and winning a great job is a competitive subject. it’s not very correlated with luck.
-- find your secret sauce and NAME it. whats unique. you need to get people attention
-- ask what’s your secret mission -- something you want to do here that another person is interested also
 - In my opinion, a job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
 - you are a learning machine. Not an occupation.
 - recruiting better than hiring: find a place where you can do a good job
-- its good to be better, but is better to be different.
-- Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 - My passionate interests have changed 30 times since I graduated college.
 - You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
-- read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest. After 3 years, the flash-in-the-pans and the duds have been winnowed out and you can just concentrate on the stuff which will earn you paying gigs.
+- read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest..
 
 100% time -> 100% results  
 20% time -> 80%results  
 So: 100% on one thing = 80% on 5 things!  
 
-> *'How to return to an workplace:  
-- reframe your experience. Use today and future jargons. Make your homework.  
-- refresh your skill set, if you got rusty.  
-- career ecosystems, get back into them, reconnect.  
 - Happy, Smart, and Useful
 - look at situations as systems. i help to create systems.
-- hard to find good emploieess and good bosses..
+- (kk) Don’t be the best. Be the only.
 -->
 
 > *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
-Avoid the trap of following one set career path - focus on being useful - it will be easier to pivot when needed. If your job doesn’t require originality, next decade you might not have it.
+Avoid the trap of following one set career path - focus on being useful - it will be easier to pivot. If your job doesn’t require originality, next decade you might not have it.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
 > *'I always advise young people to become good public speakers (top 25%). Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
 
-Being an employee is long-term risky. In an economy with shrinking corporations, more outsourcing, more automation, every month you risk being fired. The economy forces all the risk on employees who have no control over their futures.
+Employees have no control over their futures. The economy forces all the risk on them - more outsourcing, more automation and every month they risk being fired.
 
 > *'The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
 
@@ -847,11 +824,14 @@ Being an employee is long-term risky. In an economy with shrinking corporations,
 ### Is it better to be a specialist or a generalist?
 
 - To be an entrepreneur you need to know a little about a lot of things.  
-- To be employed, if you pick the right specialization (specialization is risky), you'll do better as a specialist.
+- To be employed, if you pick the right specialization, you'll do better as a specialist.
 
 ### How to advance career?
 
 Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
+
+- Become the best at one specific thing.  
+- Become very good (top 25%) at two or more things.
 
 > *'I had a manager who once said the people who were terminated were those who question too much and do too little.'*
 
@@ -861,12 +841,7 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 > *'Your income is directly proportional to the need for what you do and your ability to do it.' -- Jim Rohn*
 
-- Become the best at one specific thing.  
-- Become very good (top 25%) at two or more things.
-
 > *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
-
-> *'For every million people that want to be a successful musician, only one is going to achieve it. If you’re going to be that one, you can’t do what everyone else is doing. Whatever you do, it’ll be creative, efficient, and effective. That’s my definition of resourceful. It means making something happen, instead of saying you can’t. It means accessing all the people and skills you know, including the ones that take extra effort. It usually means doing things for free, but can also mean spending a little money to save a lot of time. It means using a shortcut around obstacles, getting in through a back door, bending the rules, and never waiting for permission. It means asking for help, but not waiting for help. So why do I hate to admit this? Because I love how the internet has made it possible for anyone to get successful anywhere. I love the idea of living in the middle of nowhere, surrounded by nature, yet being connected to the world. But still, when I look at the facts, it’s impossible to deny. Actually living in the big city, and being in the middle of where everything is happening, will help your career the most. Being elsewhere won’t hurt you, but it won’t help.' -- Derek Sivers*
 
 ### How to «pivot» career?
 
@@ -874,15 +849,11 @@ Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
 
 You will either pivot or get pivoted.
 
-Cultivate a relevant skill stack, capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
+You make yourself rare by combining two or more relevant “pretty goods”. Capitalism rewards things that are both rare and valuable.
 
-- use the transportable skills that you have: soft skills (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills.
-write a pitch, are u persuasive, can you change somebody else opinion. making a 2 minute youtube, etc. 
-- people pivot combining two skills. E.g. Data Scientist is better at statistics than any software engineer and better at software engineering than any statistician.
-- find the people that were working for them. top leaders ask for help and give knowledge away. more open source.  
-- take risks to boost your immune system.  
-- pivoting is a mindset. Pivoting isn’t easy, even if you know it’s right.  
+- use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
 - stuff that looks fun for you and looks like work for others.
+- take risks to boost your immune system.  
 
 ### How to know your strenghts?
  
