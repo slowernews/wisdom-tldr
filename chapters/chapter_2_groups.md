@@ -240,7 +240,7 @@ Hints:
 - Trust and vulnerability are correlated. Don’t hide your feelings from people who show you theirs.
 - If a person is nice to you and to nobody else, that person is not nice.  
 - If you are lonely when you are not alone, you are in bad company.  
-- Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.
+- Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
 
 
 
@@ -660,7 +660,7 @@ A great manager is a great facilitator. His responsability is to make his team b
 
 People should feel as part of a tribe.
 
-- The ultimate divisional organization: Amazon’s «two-pizza teams». Like animals, humans also seem designed to work in groups of a particular size.
+- Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
 - Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - A chain is only as strong as its weakest link.
 - Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
@@ -746,11 +746,11 @@ Your goal should be to «fire» yourself and hire people who are better at your 
 
 ### How to attract and keep talented people?
 
-Usually people leave managers, not companies.
+Respect them.
 
-Respect them. You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process.
+You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
 
-However good employeees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
+Good employeees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
