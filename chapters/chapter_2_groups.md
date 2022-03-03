@@ -54,7 +54,6 @@ Ask the person trying to convince you of something to explain how it would work.
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
-> *'Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation. In trivial matters exercise yourself for the more weighty matters of speech. Profound secrecy has some of the lustre of the divine.' -- Balthasar Gracian*
 
 ### On public speaking
 
@@ -90,6 +89,8 @@ You're either part of the solution or part of the problem.
 > *'To quiet a crowd or a drunk, just whisper.' -- Kevin Kelly*
 
 > *'Calm is contagious.' -- Kevin Kelly*
+
+> *'Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation.' -- Balthasar Gracian*
 
 
 
@@ -224,25 +225,22 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 ## On relationships
 
-> *'It happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don’t see things the way you do. So you keep the wonderful memories, but find yourself moving on.' -- Nicholas Sparks*
-
-> *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
+> *'Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom.' -- Kevin kelly*
 
 Focus on what you can give. You'll receive in proportion to what you give.  
 
 However, after taking first steps, [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Partner with people who wants you to be all you can be.
 
-Hints:
-
-- Trust and vulnerability are correlated. If you are struggling in your relationships, odds are, you are withholding your truth. You need to open up, tell the truth, be honest without fear of outcome and without any neediness. Don’t hide your feelings from people who show you theirs.
-- If a person is nice to you and to nobody else, that person is not nice.  
-- If you are lonely when you are not alone, you are in bad company.  
-
-Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.
+> *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
 
 > *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
 
-> *'Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom.' -- Kevin kelly*
+Hints:
+
+- Trust and vulnerability are correlated. Don’t hide your feelings from people who show you theirs.
+- If a person is nice to you and to nobody else, that person is not nice.  
+- If you are lonely when you are not alone, you are in bad company.  
+- Humans make connections. Sometimes these connections grow. Sometimes they stay the same. Sometimes they collapse.
 
 
 
