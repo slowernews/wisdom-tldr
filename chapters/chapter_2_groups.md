@@ -411,6 +411,7 @@ Taxes are a membership fee that most of us are voluntarily overpaying.
 > *'The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.' -- Kevin Kelly*
 > *'You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further.' -- Kevin Kelly*
 
+- Entrepeneurs are curious
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding. empregados sempre c skin in the game. the enemies are outside not inside
 - CEOs are adaptable and flexible and good risk managers.
 - Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
@@ -446,7 +447,7 @@ Validate your business by finding paying clients. If something is worth doing, s
 
 <!--
 - What one piece of advice would you give someone starting a company?
-Do something that most people think is hard. When you tell someone what you’re starting, their reaction should be, “Are you sure you want to do that? That’s too hard.” That’s exactly what people said when we started Nubank, and it turned out to be a good thing. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too. -- david velez, nubank
+Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too. -- david velez, nubank
 -->
 
 Patterns of unsuccessful entrepreneurs:
@@ -487,16 +488,8 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 ## On networking
 
 <!--
-- What's the most common question or problem you get asked about? Share the answer.
-> *'Each of us is born with a box of matches inside us but we can’t strike them all by ourselves' -- Laura Esquivel*
-
-- You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
-- Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
-
-1. Do a Body Check at the Door: Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
-2. Don’t Look Away! Eye contact builds trust.
-3. dont hide yourself.
-4. dont wait to start talking. a group or a double might be an easy place to start.
+1. Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
+2. Eye contact builds trust. dont hide yourself. dont wait to start talking. a group or a double might be an easy place to start.
 5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
 
 1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
@@ -509,15 +502,9 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 	human sacrifice.. intro him and leave.
 	To rude people: «my mum always told me not to speak with strangers, now I k
 
-intro: //clay hebert
-I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words -- short and sweet and confident and interesting.
-ask them first so you can costumise it for the context and make it more relevant.
-
-* How to curate your network?
-- Form relationships with those who seem like they’ll give at least as much than they take.  
-- Expand from too long networks.
-- Building new connections is important but it’s even more important to remember your connections that already exist. The difference between success and failure can be as simple as keeping in touch.  
+- What's the most common question or problem you get asked about? Share the answer.
+- You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
+- Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
 - Community of experts (that give you good answers).  
 - Critical peers (10 people that make a big difference in your immediate career).
 - Networking types: advocates a, boomerang b, celebrities c, drainers d  
@@ -556,6 +543,11 @@ Listen to people, get their goals and help them. It’s not about you, it’s ab
 
 ### How to prepare an elevator pitch?
 
+<!--
+I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
+6 or 7 words -- short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
+-->
+
 > *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
 
 Choose truth or your self-mythology will seduce you.
@@ -564,15 +556,20 @@ Choose truth or your self-mythology will seduce you.
 
 ### Why most people don’t like networking?
 
-<!--
-- (kk) Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works.
--->
-
 Handling rejection is hard. Period.
 
 We don’t like people that see us in a way that doesn’t resonate with how we see ourselves. Forget those who forget you. Those who want to stay in your life, will always find a way.
 
 > *'I don’t know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
+
+> *'Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works.' -- Kevin Kelly*
+
+### How to curate your network?
+
+Hints:
+
+- Form relationships with those who seem like they’ll give at least as much than they take.  
+- Building new connections is important but it’s even more important to remember your connections that already exist. The difference between success and failure can be as simple as keeping in touch.  
 
 
 
@@ -588,10 +585,6 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
 - There are three keys: honesty, effectiveness, and efficiency.
-
-Beth Comstock:
-Third: Rather than doing long, convoluted employee surveys, stick to a simple feedback mechanism: Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
-8. Prioritize Innovation and Observe Patterns That Block It: Innovating is really hard. Good leaders understand they have to navigate the tension. Sometimes leaders give up, and they don’t hold their team accountable for growing. They themselves back off on it. And so is it any wonder that the people on the team deprioritize innovating?.
 -->
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
@@ -626,8 +619,6 @@ People seek leadership because they want autonomy and influence. Influence is mo
 - elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren’t. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
 - Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that’s often forgotten when presenting a new idea or direction, which is the status quo.
 - I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
-- These are questions this manager has homed in on during his decades-long career at a high-tech company. Here they are: What do you need? What’s getting in your way? What can I do as your manager to help?
-
 - reward system. culture is influenced by structure. give to the right person
 - as estruturas funcionam qd ha coesao
 - Ideas are welcomed, execution is worshiped
@@ -671,6 +662,7 @@ People should feel as part of a tribe.
 
 <!--
 > *'The only thing worse than a boy who hates you: a boy that loves you.' -- Markus Zusak*
+- simple feedback mechanism: Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
 -->
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*

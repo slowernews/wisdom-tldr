@@ -13,7 +13,6 @@ There is no coming to consciousness without pain. People will do anything, no ma
 to be real you need to be vulnerable
 - (kk) You are what you do. Not what you say, not what you believe, not how you vote, but what you spend your time on.
 > *'Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.' -- Thomas Jefferson*
-Entrepeneurs are curious
 > *'You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.' -- Friedrich Nietzsche*
 > *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
 > *'That thing that made you weird as a kid could you make great as an adult — if you don’t lose it.' -- Kevin Kelly*
@@ -40,13 +39,11 @@ How you do anything is how you do everything. Ultimately you are your choices.
 
 Never stop working on yourself. 
 
-Is succeeding at mediocrity a worthwhile life? You must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant if you develop an unshakable identity as a high achiever.
+Is succeeding at mediocrity a worthwhile life? You must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant.
 
 > *'There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume.' -- Warren Buffett*
 
 > *'Whatever you are, be a good one.' -- Abraham Lincoln*
-
-> *'Maybe who we are isn’t so much about what we do, but rather what we're capable of when we least expect it' -- Jodi Picoult*
 
 
 
@@ -55,27 +52,20 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 ## On happiness
 
 <!--
-- happiness is a state where nothing is missing. its a neutral state. positive thought normally implies a negative thought. just in our mind you are happy or unhappy. nature doesn't give a shit about it.
-> *'What you get by achieving your goals is not as important as what you become by achieving your goals. At your funeral people will not recall what you did; they will only remember how you made them feel.' -- Kevin Kelly*
-> *'History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is “What might I be wrong about?”' -- Kevin Kelly*
-
-- Money or wealth won‘t make you happy. Family, friends and purposful „work“ does.
-
-> *'For every minute you are angry you lose sixty seconds of happiness.' -- Ralph Waldo Emerson*
+> *'At your funeral people will not recall what you did; they will only remember how you made them feel.' -- Kevin Kelly*
 > *'The rise is always better than the peak.' -- Jim Jefferies*
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
-> *'All the world is made of faith, and trust, and pixie dust.' -- J.M. Barrie*
 
+- Money or wealth won‘t make you happy. Family, friends and purposful „work“ does.
+- Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit.
 - It’s quite liberating to understand reality as a construction.  
 - High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
 - Anchor yourself -- remember who you are, the things you are good at, even when completely different thing. authentic self is a state
 - Focus on internal fulfillment not external success
 - Happiness is outside of my comfort zone.
-- Love, sucess and happiness are a byproduct
 - Persistence + Love = Abundance
-- Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
-- In the absence of such an outlet, masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
+- Masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
 - If you aren’t happy on the journey you won’t be happy at the destination.
 - fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.
@@ -84,7 +74,7 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 
 > *'Happiness is when what you think, what you say, and what you do are in harmony.' --  Mahatma Gandhi*
 
-Happiness comes from autonomy.
+Happiness is a state where nothing is missing. Only in our mind you are happy or unhappy - nature doesn't care.
 
 - Happiness = reality / expectations  
 - Happy life = mastery + belonging + autonomy
@@ -106,7 +96,7 @@ Improve happiness actively (improve reality) and passively (lower expectations).
 ### How to improve reality?
 
 Act, be patient and break long term goals into smaller ones so you can enjoy the journey.  
-We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability».
+We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability». For that you need autonomy.
 
 > *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
 
@@ -114,7 +104,7 @@ We derive our true sense of fulfillment from constantly pursuing a life of «unc
 
 ### How to lower expectations?
 
-Be [grateful](chapter_1_self.md#on-gratitude). If you have no expectations then you will easily exceed them.
+Be [grateful](chapter_1_self.md#on-gratitude). Low expectations mean you will easily exceed them.
 
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
 

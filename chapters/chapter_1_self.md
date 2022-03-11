@@ -56,33 +56,27 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 <!--
 - core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
 - Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
+- Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
 - CHANGE YOUR ACTIONS, NOT YOURSELF
-- Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change.
-
-- i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
-> *'Words are deeds.' -- Ludwig Wittgenstein*
-
+- 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
 - Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
-5Cs: courage, congruence, confidence, calibration, conviction
-(integrity, honor, service, and generosity should be at the top of your list)
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
-You must play by your rules, funnel your weird stuff to give you some advantage.
-_im bad in following a script_
-truth-a-better-way-to-talk-about-ourselves.
-> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
+- You must play by your rules, funnel your weird stuff to give you some advantage.
+- im bad in following a script.
+- i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
 -->
 
 > *'Always be a first rate version of yourself and not a second rate version of someone else.' -- Judy Garland*
 
 > *'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.' -- Ralph Waldo Emerson*
 
-Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic. If you’re trying to be authentic, you’re not being authentic. What you can do, however, is stop being inauthentic. 
+> *'I'd rather be hated for who I am, than loved for who I am not.' -- Kurt Cobain'*
 
-You don't need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Then, listen to that instinct. Next, take a moment and have a laugh. Finally, you have to be willing to put your inauthenticity aside. 
+Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
-If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context. You’re not going to succeed at stuff you don’t want to do.
+If you’re trying to be authentic, you’re not being authentic. You don't need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh.
 
-If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come.
+If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context.
 
 > *'Nobody realizes that some people expend tremendous energy merely to be normal.' -- Albert Camus*
 
@@ -95,7 +89,6 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 ## On accountability
 
 <!--
-> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
 - dishonesty is a reaction to fear.
 - bravery is learned -> micro-bravery, start small
 - Humility With forward action: 'I wasn’t the smartest in X but..'
@@ -107,27 +100,31 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 
 > *'Be the person your dog thinks you are.' -- J.W. Stephens*
 
-Trust, not money, is the currency of business and life. Be impeccable with your word.
-
-> *'Don’t aim to have others like you; aim to have them respect you.' -- Kevin Kelly*
-
-> *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
-
-> *'Quality means doing it right when no one is looking.' -- Henry Ford*
-
-> *'Without commitment, you cannot have depth in anything, whether it’s a relationship, a business or a hobby.' -- Neil Strauss*
-
-> *'Truth only means something when it’s hard to admit.' -- Nicholas Sparks*
-
-> *'Look for results, not salutes.' -- Captain Michael Abrashoff*
-
-Take extreme ownership. When are willing to swallow your pride and take ownership of your life and success, you will cultivate respect for yourself and respect from others. Your results are yours and yours alone. Your choices determined the body, bank account, and relationships that you have right now.
+Take ownership of your life, only then you will cultivate respect for yourself and respect from others. Your choices determined the body, bank account, and relationships that you have right now.
 
 > *'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change.' -- Katharine Hepburn*
 
+> *'Truth only means something when it’s hard to admit.' -- Nicholas Sparks*
+
 > *'I lie to myself all the time. But I never believe me.' -- S.E. Hinton*
 
+> *'Don’t aim to have others like you; aim to have them respect you.' -- Kevin Kelly*
+
 > *'When you die you take absolutely nothing with you except your reputation.' -- Kevin Kelly*
+
+### How to grow your reputation?
+
+Trust, not money, is the currency of business and life. Be impeccable with your word.
+
+> *'Quality means doing it right when no one is looking.' -- Henry Ford*
+
+> *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
+
+> *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
+
+> *'Without commitment, you cannot have depth in anything, whether it’s a relationship, a business or a hobby.' -- Neil Strauss*
+
+> *'Words are deeds.' -- Ludwig Wittgenstein*
 
 
 
@@ -466,54 +463,22 @@ If you are not constantly taking action on the new information that you are lear
 > *'Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it.'*
 
 <!--
-career day an year -> journaling self analysis.
-
-am i learning? if not you'll have a problem down the road.
-
-Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
-If you are facing health struggles, you need to ask yourself these three questions to truly uncover the root cause of the issues in your life.
+- career day an year -> journaling self analysis.
+- skill fluency!
+- ask yourself these three questions to truly uncover the root cause of the issues in your life:
 1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back.
 2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle.
 3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
-
-Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
-I’ve started a list of advice or things I know. Perhaps things I believe I know. Some of these are lessons I’ve learned the hard way, others are lessons I’ve observed in others. This process reminds us of what’s most important and helps us to avoid making the same mistakes in the future. I will edit and add to this over time. Try making your own list and I think it will be worth your time.
-
+- Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
+- Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 - If you’re not getting better today, you’re getting worse.
-
-on learning:
-2. Classes move as slowly as the slowest student.
-3-Conversation can be learned but not taught.
-Somewhat like riding a bike, though unfortunately not as permanent, language fluency is more dependent on practicing the right things than learning the right things. The rules (grammar) can be learned through materials and classes, but the necessary tools (vocabulary and idiomatic usage) will come from independent study and practice in a native environment.
-Separate grammar from conversation practice. I recommend choosing one school for grammar and several native books or comics to identify sticking points, which are then discussed in one-one-one language exchanges, where your partner provides examples of usage and does not explain rules.
-- teachers should give you tricks.
-- Classes are easily used to infinitely postpone making the thousands of mistakes necessary to achieve fluency. 
+- Classes move as slowly as the slowest student. teachers should give you tricks.
+- Conversation can be learned but not taught. Classes are easily used to infinitely postpone making the thousands of mistakes necessary to achieve fluency.
 - Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.)
 - Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. 
-- I was able to pass the Certificado de Espanol Avanzado, the most diffucult Spanish certification test in South America, in eight weeks, which is said to require near-native fluency and years of immersion. How? By following the above fixes and making more mistakes in eight weeks than most make in eight years
-- It is easier, and much more time-efficient, to catch up versus keep up.
-
-1. Days 1-7: German films with English subtitles for at least two hours each evening for one week.
-2. Days 3+: 10-20 pages of dialogue-rich manga (Japanese comics, here translated into German, that can be ordered in most languages from comic stores in your target country) for 30 minutes each morning and prior to bed. I’m a big fan of One Piece.
-3. On the plane: Read a phrasebook in its entirety for active recall practice of common phrases (45 minutes of study alternated with 15 minutes of rest — this takes advantage of what is called the “primacy and recency” effect).
-4. Upon arrival: Continue with manga and grammar reference checks as needed, using an electronic dictionary to reactivate vocabulary from conversation that is familiar but not understood.
-5. Weeks 2-3: Thirty to sixty Vis-Ed flashcards daily. This seems like a lot, but most will have been covered in steps 1-3 using active recall (English to German). Vis-Ed compiles its sets of flashcards from word frequency lists and includes sample phrases for usage. I begin flashcards after three or four days in-country.
-
-!!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!!
-Consider a new language like a new sport. analogy. advantages and train
-
-The apple is red.
-It is John’s apple.
-I give John the apple. - I give John the apple.
-We give him the apple.
-He gives it to John.
-She gives it to him.
-I must give it to him.
-I want to give it to her.
-
-learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible.
-
-skill fluency!
+- !!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!! learn language: films, manga, phrasebook, dictionary, flashcards. Consider a new language like a new sport. analogy. advantages and train
+- learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible.
+- The apple is red. It is John’s apple. I give John the apple. - I give John the apple. We give him the apple. He gives it to John. She gives it to him. I must give it to him. I want to give it to her.
 -->
 
 

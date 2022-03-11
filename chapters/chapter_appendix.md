@@ -120,6 +120,8 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 
 > *'Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree.' -- Kevin Kelly*
 
+> *'History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is “What might I be wrong about?”' -- Kevin Kelly*
+
 
 
 
