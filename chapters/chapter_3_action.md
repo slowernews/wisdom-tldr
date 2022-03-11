@@ -232,10 +232,9 @@ Don't sabotage them when they get tedious or too difficult.
 > *'My brother says to never make a big decision before you take a shower.'*
 - Wait 48 hours before buying stuff
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
-> *'Se não houvesse decisoes eramos todos bons/iguais.' -- António Simões*
+> *'Se não houvesse decisoes eramos todos iguais.' -- António Simões*
 
 - Occam’s razor states that the simplest solution is usually correct.
-- Think of mental models as minimum viable products. Sure, all of them can be improved. But the only way that can happen is if we try them out, educate ourselves and collectively refine them. Your kitchen knives are not as sharp as they could be. Does that matter as long as they still cut vegetables? Your bed is not as comfortable as it could be. Does that matter if you can still get a good night’s sleep in it? Your internet is not as fast as it could be. Does that matter as long as you can load this article? Arguably not.  A tool which maybe could be a bit sharper or easier to use, but still does the job.
 - the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
 - estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game' should give estimates.
 - With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
@@ -243,11 +242,9 @@ As further guidance, Bezos considers 70% certainty to be the cut-off point where
 - Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 - Actions > Thoughts; Actions change the world. Not beliefs.
-- i'm right -> how do i know i'm right. radical openmindedness -> stress test your ideas
 - find 3 people that high expertise but that they discord and listen. take your conclusions
 - The Problems With Goals: Goals have an endpoint. Goals rely on factors which we do not always have control over. Goals rely on willpower and self-discipline. Goals can make us complacent or reckless.
-- charlie munger - Wisdom and Circle of Competence: “Knowing what you don’t know is more useful than being brilliant.” “Acknowledging what you don’t know is the dawning of wisdom.”
-- working class want to feel the same as others. White collar want to feel different from others.
+- Blue collar want to feel the same as others. White collar want to feel different from others.
 - decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
 - Your product is decisions. 
 -->
@@ -326,11 +323,9 @@ Hints:
 ## On starting and timing
 
 <!--
-- Protect your time like your money. Strategic laziness as a leverage point.
 - you always throw out your first pancake - primeiro milho é para os pardais
-- in order to understand i destried myself
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
-- research is not doing something! Knowledge is Never the Issue, action is.
+- Research is not doing something. Knowledge is never the issue, action is.
 - The more “goal oriented” is the task, the more a potential 10x programmer
 - Be useful, not important.
 - monk mode -> no communication during mornings, only deep work -> meetings afternoon
@@ -338,7 +333,7 @@ Hints:
 - jogar c o baralho todo / jogar com um subset
 - letting go allows progress. letting things happen instead of trying things to happen.
 - I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.
-- keep earning your title, or it expires.
+- keep earning your title, or it expires. -- derek sivers
 - The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
 - The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
 
@@ -406,14 +401,11 @@ HOWEVER, never mistake action for motion. You must think like a man of action, a
 ---
 ## On speed, position and direction
 
-<!--
-> *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
-> *'Things may come to those who wait, but only the things left by those who hustle. -- Abraham Lincoln*
--->
-
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
 > *'Start as close to the end as possible.' -- Kurt Vonnegu*
+
+> *'Most people overestimate what they can do in one year and underestimate what they can do in ten years.' -- Bill Gates*
 
 Direction is more important than velocity. Even if we can't choose the starting point, often, we can choose the direction.
 
@@ -434,13 +426,11 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus, priorities and productivity
 
 <!--
-Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all. -- tim ferriss
-
+- Protect your time like your money. Strategic laziness as a leverage point.
 - maker days and manager days
-- “Occam’s Razor” says the simplest answer is often the best. So start ruthlessly cutting all the activities in your workday that aren’t producing value.
-- Mind the process, not the results. For example, “finish TPS report” might turn into “write TPS report for 45 uninterrupted minutes.”
-- there are only three ways in which you can increase productivity: Increase the physical, mental, and emotional energy you have available for each task. Doing more of the right things and fewer unnecessary things. Improve the systems that you use to complete a given task or project. In other words, the three paths to productivity are: Energy - Effectiveness - Efficiency: productivity is about understanding your constraints. getting the right things done
-- “Instead of asking how many tasks you can tackle given your working hours,” writes Morten Hansen in Great at Work, “ask how many you can ditch given what you must do to excel.” I did what I needed to do to keep my job. As John Stuart Mill said, “as few as you can, as many as you must.”
+- start ruthlessly cutting all the activities in your workday that aren’t producing value.
+- Mind the process, not the results. For example, “finish report” might turn into “write report for 45 uninterrupted minutes.”
+- As John Stuart Mill said, “as few as you can, as many as you must.”
 - Busy is a decision. What you are really saying: is not a priority. Is a excuse for not doing something we don't feel like doing.
 - Focus on adaptability not effectiveness
 - Schedule less time for important tasks. Be mindful of how you spend your time.
@@ -453,12 +443,14 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 > *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin* 
 
-> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1,000 things.' -- Steve Jobs*
+> *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1000 things.' -- Steve Jobs*
 
 First the essential. Then the details.
 
 Focusing is an art. Time itself is not your limitation: attention is.  
 Busy imply out of control. Lack of time is lack of priorities.
+
+> *'Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all.' -- Tim Ferriss*
 
 > *'Strike the shepherd and the sheep will scatter.' -- Robert Greene (42nd law of power)*
 
@@ -631,7 +623,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 <!--
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
-- always negotiate. dont communicate weaknes on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
+- always negotiate. dont communicate weakness on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
 
 - Responding to Job Offers for Maximum Impact
 Letter One [Strong Response]
@@ -684,8 +676,6 @@ WALK AWAY.
 - The more influence somebody is the more they use we / plural pronouns.
 - never split the difference
 - Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-- make an agreement on a standard of value. my standard of value for a weekend: some combination of rejuvenation and human connection.
-normally we fall into habits. we don't do what is best for ourselves.
 
 - One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show.
 I said, “$1500”. She said, “Oh, that’s a bit too much. What would you charge to do just a one-hour show?”
@@ -696,14 +686,13 @@ She liked that so much she came up with the $1500. -- Derek Sivers
 - Alex says you can even create a worksheet for yourself by asking clear and direct questions like:
 What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
 
-- Call all owners to rent. 8 said yes. Then auction! 
+- Cold call all owners to rent. 8 said yes. Then auction! 
 - To sell, you have to understand personalities, you have to learn what excites people, you have to over deliver, you have to understand competitors, etc.
 Business is 80% psychological.
 irritation -> challenge people to make something that they don't want to do
-agitation -> challenge people to make something that they want to do. suggesting ego etc
+agitation -> challenge people to make something that they want to do.
 agitate more than irritate.
 
-So can you pitch me what our company does? people minds work by association. pre-suasion
 > *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
 -->
 
@@ -891,10 +880,6 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 - When narratives begin to shift and the once good guys are labelled as bad it's not surprising they fight back. They'll point to criticisms as exaggerations. Their faults as misunderstandings.
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
-> *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
-- human strenght is our ability to cooperate. heros are fictional stories. they are not real. they are a tool to improve our lives not to complicate it.
-- buy thing from your community. sell to outsiders. -- jewish mentality
-Use different strategies for different tasks. Attempt easy Tasks as if they were difficult, and difficult as if they were easy. In the one case that confidence may not fall asleep, in the other that it may not be dismayed. -- Balthasar Gracian
 -->
 
 > *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
@@ -944,6 +929,10 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 
 ### On allies
 
+The human strenght is our ability to cooperate. Heros are fictional stories.
+
+Hint: Buy from your community. Sell to outsiders.
+
 > *'If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.' -- Mark Twain*
 
 > *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
@@ -955,7 +944,7 @@ When nothing else works, [surrender](#on-surrendering). Only use anger and go al
 ## On defeating status quo
 
 <!--
-burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
+- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
 -->
 
 > *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
@@ -971,18 +960,9 @@ The only successful changes are those coming from within.
 ## On creating imbalances
 
 <!--
-- In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.
+> *'Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy.' -- Balthasar Gracian*
 
-> *'Decisions are made based on memory. There are 3 routes: reflex (genetics), habits or goals. Influence their memories and you can influence their decisions.'*
-> *'Contemplating the weaknesses of others is easy; contemplating the weaknesses in yourself is hard, but it pays a much higher reward.' -- Kevin Kelly*
-
-2. Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy. -- Balthasar Gracian
-
-- The metagame is playing a different game than your competitors. A game they can't play. The metagame is this psychological game that exists among players, involving adjustments – adjustments based on how an opponent is likely to interpret a given set of actions. Better players adjust their strategies and styles to those of particular opponents, always analyzing how the opponents are playing in terms of how the opponents believe they're playing.
-Maintaining a well-balanced strategy, while deciphering your opponents' strategies, is the key to the metagame. If you comprehend the concept of the metagame, accurately perceive the flow of your table and then tournament, and stay alerted to and aware of current strategy trends, you'll be able to successfully mix up your play when considering your image and that of your opponents. In return, your game will be highly unpredictable and difficult to read, which should be your ultimate goal. Part of their greatness comes from identifying the constraints of others and capitalizing on those structural disadvantages.
-In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
-
-According to Rumelt, a strategy must include “premeditation, the anticipation of others’ behavior, and the purposeful design of coordinated actions. As a general rule, strategy is more important in situations where other parties have the potential to thwart or disrupt actions, or where our plans are at risk if we don’t take meaningful steps to achieve them. Good strategy requires us to both focus on a goal, and anticipate obstacles to reaching that goal.  When we encounter obstacles, we may need to employ what Freedman calls “deceits, ruses, feints, manoeuvres and a quicker wit”—our tactics.
+- In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
 -->
 
 > *'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
@@ -1001,6 +981,8 @@ Some hints:
 - Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.  
 - If you control the overall direction and framing of the battle, anything they do will play into your hands.  
 - Beware of counter-attacking: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.  
+- In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.  
+- Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - Divide and conquer.
 
 
@@ -1012,10 +994,9 @@ Some hints:
 <!--
 > *'All guns are loaded.' -- Kevin Kelly*
 
-- on scaling: What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
+- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
-- The power of compounding: you can achieve anything, if you stop trying to do everything.
-- Warnings: Finding cassandras to stop catastrophes. The “Cassandras” featured in R.P’s book are experts in their field. these people are data driven
+- Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 -->
 
 > *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
@@ -1025,7 +1006,7 @@ Leverage is a force multiplier for your judgement.
 > *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
 Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
 Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
-An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.'* 
+An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.' -- Naval Ravikant* 
 
 
 
@@ -1035,12 +1016,6 @@ An army of robots is freely available - it’s just packed in data centers for h
 
 <!--
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
-
-To Persuade Someone, Look Emotional
-- you automatically trust when somebody is doing at that time what you’re doing. paraphrased scott adams
-- It’s hard to be angry with someone who agrees with you. Making enemies is expensive.
-- (kk) Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends.
-> *'Compliment people behind their back. It’ll come back to you.' -- Kevin Kelly*
 -->
 
 > *'We catch more flies with honey than vinegar.'*
@@ -1053,18 +1028,20 @@ Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
 'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd laws of power)*
 
 - People’s need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.  
-- Instead of killing, charm the snake (once there are always more snakes) to fight the other ones. Listen actively and maintain rapport. Know your audience. First they have to trust you. Keep your word and prove your worth, the new guy as always to prove himself.  
-- To persuade up, focus in interests; to persuade down focus in emotions.  
-- In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression.  
-- Stay aloof and people will come to you. It will become a challenge for them to win your affections.  
-- Use absence and bait to attract people. However use absence with moderation or soon you'll not be needed.  
-- Bait people into going out on a limb, exposing their weaknesses, then rake them with fire from the side.  
+- To persuade up, focus on interests; to persuade down focus on emotions.  
+- Use absence and bait to attract people. However use absence with moderation or soon you'll not be needed.It will become a challenge for them to win your affections. The ability to make others come to you is a weapon far more powerful than any tool of aggression.  
+- Instead of killing, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.  
 
 > *'Make other people come to you: use bait if necessary.'  
 'Learn to keep people dependent on you.'  
 Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th laws of power)*
 
 > *'To combat an adversary, become their friend.' -- Kevin Kelly*
+
+> *'Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends.' -- Kevin Kelly*
+
+> *'Compliment people behind their back. It’ll come back to you.' -- Kevin Kelly*
+
 
 
 
@@ -1107,15 +1084,17 @@ However, deceiving is not lying. Disappointment destroys trust. Lying is like a 
 
 > *'It’s hard to cheat an honest man.' -- Kevin Kelly*
 
-> *'I'm not upset that you lied to me. I'm upset that from now on I can't believe on you.' -- Nietzsche*
+> *'I’m not upset that you lied to me. I'm upset that from now on I can’t believe on you.' -- Nietzsche*
+
+> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- Hostage negotiator*
 
 > *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
-
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- hostage negotiator*
 
 > *'A lie can travel half way around the world while the truth is putting on its shoes.' -- Mark Twain*
 
 And don't attribute to malice what you can attribute to incompetence or busyness. So never be mean to anybody that can hurt you by doing nothing.
+
+> *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
 
 ### On lies
 
@@ -1146,25 +1125,14 @@ However unpredictability can work against you: if you are in a subordinate posit
 ---
 ## On mirroring
 
-<!--
-> *'Don’t treat people as bad as they are. Treat them as good as you are.' -- Kevin Kelly*
-
-reciprocation bias
-The archaeologist Richard Leakey believes reciprocation is the foundation on which we have evolved: “We are human because our ancestors learned to share their food and their skills in an honored network of obligation.
-social sanctions can be tough on those who fail to cooperate
-As with most things, however, reciprocation has a darker side. Just as we tend to reciprocate good behavior, sometimes we also pay back bad deeds. One of the most effective game-theory strategies is tit for tat.
-The standard antidote to one’s overactive hostility is to train oneself to defer reaction.
-We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
-Cialdini moved from rejection to compliance after the boy had moved from a larger to a smaller request. The remarkable thing, and this is where bias comes in, was that Cialdini was not at all interested in either of the things the boy had offered.
--->
-
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
-Mirroring works best when your group is in minority.
+Reciprocation is the foundation on which we have evolved: our ancestors learned to share their food and their skills in an honored network of obligation. We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
 
 > *'Being pacifist in face of wolves is the source of endless tragedy.'*
 
-> *'To change a status quo established by a minority, the majority must unite. To do that use non-violent organized action and humor, keeping the risk as low as possible so everybody can join your side.' -- Srdja Popovic*
+> *'Don’t treat people as bad as they are. Treat them as good as you are.' -- Kevin Kelly*
+
 
 
 
@@ -1173,12 +1141,6 @@ Mirroring works best when your group is in minority.
 # 3.4 - On ending
 
 ## On finishing
-
-<!--
-> *'Bad things can happen fast, but almost all good things happen slowly.' -- Kevin Kelly*
-
-- (kk) Be prepared: When you are 90% done any large project (a house, a film, an event, an app) the rest of the myriad details will take a second 90% to complete.
--->
 
 > *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
@@ -1197,6 +1159,8 @@ Starting is fun but success belongs to finishers.
 > *'Difficulties increase the nearer we come to our aim.' -- Goethe*
 
 > *'All endings are also beginnings. We just don’t know it at the time.' -- Mitch Albom*
+
+> *'Bad things can happen fast, but almost all good things happen slowly.' -- Kevin Kelly*
 
 
 
