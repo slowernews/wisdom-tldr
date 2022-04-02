@@ -840,16 +840,13 @@ Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks
 
 <!--
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
-- your need for aceptance can make you invisible in this world.
 -->
 
 > *'Value yourself. The only people who appreciate a doormat are people with dirty shoes.' -- Leo Buscaglia*
 
-Don’t wait for someone to tell you that you are special.
+You don’t have to prove anything to anybody, including yourself. Your need for aceptance can make you invisible in this world.
 
-Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special. They know what they are and what they aren’t, and they’re okay with it.
-
-You don’t have to prove anything to anybody, including yourself.
+Don’t wait for someone to tell you that you are special. Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special.
 
 > *'If you can avoid seeking approval of others, your power is limitless.' -- Kevin Kelly*
 
@@ -863,18 +860,12 @@ You don’t have to prove anything to anybody, including yourself.
 
 > *'Imperfections are attractive when their owners are happy with them.' -- Augusten Burroughs*
 
-Shame is created by dishonesty. The cure is honesty.
+The cure for shame is honesty.
 
 When you try to hide something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
 
 ### On confidence
 	
-<!--
-- I think it is important to understand how much space you take up in the world indicates to others and yourself how confident you feel.
-- If you can show up in the world as a man who is confident in who he is and what he believes and maintain a strong congruence in your thoughts, words, and deeds, then the sky is the limit.
-- Dress for the job you want, not for the one you have.
--->
-
 > *'The less confident you are, the more serious you have to act.' -- Tara Ploughman*
 
 > *'The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence.' -- Charles Bukowski*
@@ -896,12 +887,13 @@ Hints:
 - Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech. If you don’t believe you are good, you'll never be good.
 - It’s really hard to have self-esteem. Everyone wants to take it from you. A boss, a teacher, a parent, a friend, a lover.
 - The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible. When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility.
+- The space you take up in the world indicates to others and yourself how confident you feel.
 
 ### On arrogance and entitlement
 
 > *'Arrogance is a smokescreen for insecurity.' -- Amy Cuddy*
 
-Understand the frontier between confidence and arrogance. Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
+Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
 
 Entitlement comes in two forms:
 
@@ -916,10 +908,6 @@ Entitlement comes in two forms:
 ---
 ## On limits, resistance and motivation
 
-<!--
-- impostor syndrome’ mentality, because when you accept that others will always be better that you are at different things, then you will cease to compare yourself against them, but instead openly seek guidance from them.
--->
-
 > *'We don’t rise to the level of our expectations, we fall to the level of our training.' -- Archilochus*
 
 > *'To define is to limit.' -- Oscar Wilde*
@@ -928,11 +916,15 @@ Your limits are where are your [fears](#on-fear-anger-and-excuses).
 
 Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren’t coming for you. No one is watching you. Do what you want.
 
+### On lazyness
+
+Lazyness is resting before getting tired.
+
 ### How to break through your resistances?
 
 Lots of people keep telling themselves old stories and patterns that aren’t serving them.
 
-- Don-t be afraid of taking a step back.  
+- Don’t be afraid of taking a step back.  
 - Break down your dreams/goals into achievable steps.  
 - Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation.
 
@@ -940,16 +932,12 @@ However your level of success will seldom exceed your level of personal developm
 
 ### How to bust motivation?
 
-Hints:
-
 - Don’t look for inspiration. Look for irritation.
-- Sometimes is a matter of money.
-- «Burning bridges».
+- Sometimes is a matter of money. Sometimes is a matter of «burning bridges»
 
 > *'With a strong enough «why», you can overcome any «how».' -- Tony Robbins*
 
 > *'There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live.'*
-
 
 
 
@@ -980,10 +968,6 @@ Anyway, on the long term, an optimistic bias may payoff.
 
 ---
 ## On perfectionism
-
-<!--
-- lazyness is nothing more than resting before getting tired
--->
 
 > *'The perfect is the enemy of the good.' -- Voltaire*
 

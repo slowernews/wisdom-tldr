@@ -159,7 +159,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
-> *'Look for something that doesn't make sense. That’s where the gold mine is: «It doesn't make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don't try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
+> *'Look for something that doesn't make sense. That’s where the gold mine is: «It doesn’t make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don’t try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
 'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
 
 > *'The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches).' -- Paul Graham*
@@ -562,7 +562,6 @@ Overcompensate. Some people get passion from something they struggled with.
 
 <!--
 - Inertia is why a car does not stop the moment the brakes are applied.
-- Equipa que ganha, não se mexe.
 > *'You either die a hero, or you live long enough to see yourself become the villain.' -- Harvey Dent in The Dark Knight*
 -->
 
