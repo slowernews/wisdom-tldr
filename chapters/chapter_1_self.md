@@ -353,6 +353,7 @@ Hints:
 3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
 5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis and I've learned a huge amount from figuring out underlying cause of what I did wrong.
 
+- If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
 > *'There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with.' -- Kevin Kelly*	
 > *'The greatest teacher is called “doing”.' -- Kevin Kelly*
 > *'Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement.' -- Kevin Kelly*
@@ -530,43 +531,19 @@ However mastery is an important trigger of arrogance. There is no place for a «
 ## On habits and systems
 
 <!--
-- long term thinking will guarantee you an easier life.
-
-- Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance.
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
-
-Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
-
-- See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others.
-- Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
-- Each morning he spends a few minutes in silent meditation, then he will focus his intentions on his life vision and the daily tasks he needs to achieve to move closer to that vision, and finally, he will review the elements of his “ethos” or the guiding principles upon which he operates his life.
-- habits are plans
-- Srinivas recommends that you also write 1000 words every morning before you do anything else.
-- Learn how to say no, or not to say yes
-
-1) Invest in long-term wellbeing
-a. Physical health:
-b. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation.
-c. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
-d. Gratitude
-
-- Habits can mean we overshoot our goals. Habits are easy to complete. Habits are for life. Habits can compound. Habits can be as small as necessary. Nothing will change your future trajectory like habits
-
-> *'Pain plus reflection equals progress.' -- Ray Dalio*
+- Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
+- See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
+- Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 -->
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
-Our minds are essentially accumulations of habits.
+We are essentially accumulations and compounding of habits.
 
-Consistency doesn’t come from effort, it comes from systems. Decisions compound. The pathway to freedom is discipline.
+Habits are systems. Consistency doesn’t come from effort, it comes from showing up. Discipline will define your future trajectory. Long term thinking will guarantee you an easier life. 
 
-Focus on Building Systems. Habits are systems. Focus on showing up not achieving goals. Don’t focus in productivity.
-
-> *'First forget inspiration. Habit is more dependable. Habit will sustain you whether you’re inspired or not.
-Habit is persistence in practice.' -- Octavia Butler*
-
-> *'The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.' -- Kevin Kelly*
+> *'The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it.' -- Kevin Kelly*
 
 > *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
 
@@ -580,32 +557,29 @@ Habit is persistence in practice.' -- Octavia Butler*
 
 > *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
 
+### How to fix bad habits?
+
+> *'Pain plus reflection equals progress.' -- Ray Dalio*
+
+Pay attention, correct and don’t judge. Two vices is too much, none makes you boring.
+
 Hints:
 
-- Cultivate high leverage habits: meditate, spend time outside, exercise, rest, travel, learn useful skills (making challenge = skill), read, journal, listen music, create, network and make friends, spending time w/ friends & family, massaging, remember to be grateful, lower expectations, forgiving yourself, self awareness, plan and goals (productive visualization), eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), multitasking / focus / do less.  sleep / nap , smile, use colors  
-- Avoid low leverage habits: social media, news, pointless notifications, smartphones (they are the new cigarettes), owning a TV, working long hours, bad relationships, judging, control of petty stuff, perfectionism..  
-- Mental checklist of positive habits.
-- Use social media as an output not as entertainment. Your phone should not be the first thing you see in the morning nor the last thing you see at night.
-- It makes other people’s stories more interesting when you don’t know what’s going on outside your world. The news causes completely unnecessary stress and it’s negatively biased.
-- People tend to abandon the good system they’ll follow in search of the perfect system that they will quit.
+- Avoid low leverage habits: news (unnecessary stress and are negatively biased), pointless notifications, social media (use it as an output not as entertainment. Other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning nor the last thing you see at night), own a TV, work long hours, bad relationships, judge, control of petty stuff, perfectionism. 
+- Cultivate high leverage habits: meditation, time outside with friends & family, exercise, rest, travel, useful skills, read, journal, music, create, network and make friends, massage, gratefulness, forgive, self awareness, plan, eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), focus, do less, sleep/nap, smile, use colors. 
 
 ### How to create new habits?
 
 > *'Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things.' -- Charles Duhigg*
 
-- Small steps beat big dreams: start very small, The smaller the change you try to make to your life, the more likely you’ll actually make it. Shrink how long you’ll do something until you no longer feel resistance to it. This is a great way to integrate new habits into your life. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, what about 10? Still too long. Okay, five? Huh, I don’t feel resistance to that. I feel like I can sit for five.” Boom. Take micro/nano steps at a time. Minimize interruptions
-- Anticipate obstacles to new habits. When you integrate new habits into your life, make sure you look out on the horizon for any obstacles or commitments that might get in the way of you forming new habits.  
-- Get accountable: Make bad habits more expensive by making a pact with someone to introduce financial penalties for habits that are bad for you both. This helps you focus on the costs of your bad habits, instead of their rewards.  
-- Reward yourself. Adopting new behaviors and habits is difficult, but providing yourself with rewards for following through with new behaviors has been shown to help you solidify new habits. Reward yourself to solidify new habits.  
-- Focus on the costs of bad habits.
+We tend to abandon the good system we’ll follow in search of the perfect system that we will quit.
 
-### How to fix bad habits?
+Hints:
 
-Pay attention. Don’t judge.
-
-However variety and novelty are also important, so balance it.
-
-> *'Have exactly one vice. Two is too much. None makes you boring. Drink cocktails. Beer is for uncreative people.'*
+- Small steps beat big dreams: the smaller the change the more likely you’ll actually make it. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, five? Huh, I don’t feel resistance to that. I feel like I can do it for five.”
+- Anticipate obstacles to new habits.
+- Get accountable by making a pact with someone to introduce financial penalties for habits that are bad for you.
+- Reward yourself to solidify new habits.
 
 
 
@@ -668,10 +642,7 @@ Our bodies were built to hunt and gather and move, not to stay still. However, t
 
 <!--
 - Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
-- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on.
-But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety.
-De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
-After all, the greater the opportunity one has, the greater the anxiety of somehow squandering it. Thus, we stress: we need to make better grades, to get a better job, to date more attractive people, to have cooler hobbies, to make more friends, to be more liked and more popular. Simply being content with what we have isn’t good enough anymore. In fact, for some it’s tantamount to giving up.
+- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on. But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety. De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
 - Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
 Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
 - Thinking about it makes it worse. Writing about it makes it better.
@@ -846,7 +817,7 @@ Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks
 
 You don’t have to prove anything to anybody, including yourself. Your need for aceptance can make you invisible in this world.
 
-Don’t wait for someone to tell you that you are special. Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth are humble. They don’t think they’re something special.
+Don’t wait for someone to tell you that you are special. Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth don’t think they’re something special.
 
 > *'If you can avoid seeking approval of others, your power is limitless.' -- Kevin Kelly*
 

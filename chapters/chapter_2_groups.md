@@ -767,6 +767,7 @@ Don’t get discouraged if you get a «no». Simply thank them for their time an
 ## On career
 
 <!--
+- hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
 - volunteer for assignments / becoming the go to guy for some questions
 - trabalhar de porta aberta vs trabalhar à porta fechada
 - Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
@@ -774,7 +775,7 @@ Don’t get discouraged if you get a «no». Simply thank them for their time an
 - Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 - trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
 - Always Focus on Delivering More Value than Expected
-- In my opinion, a job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
+- A job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
 - you are a learning machine. Not an occupation.
 - recruiting better than hiring: find a place where you can do a good job
 - My passionate interests have changed 30 times since I graduated college.
@@ -852,9 +853,9 @@ Ask employers why did they asked you for an interview - they will describe your 
 ---
 ## On hierarchy
 
-Everything is hierarchy. Only comedians can speak the truth without consequences.
+Everything is hierarchy. Only comedians can speak the truth without consequences. 
 
-Social cartography: who’s the decision maker, to whom people are speaking and who is speaking. The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from hares, the hawks from vultures.
+Social cartography: who’s the decision maker, to whom people are speaking and who is speaking. To deal with real world you have to deal with some level of bullshit.
 
 > *'Never outshine the master.'  
 'Know who you’re dealing with: do not offend the wrong person.'  

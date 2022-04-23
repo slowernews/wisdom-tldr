@@ -115,16 +115,18 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On growing old](/chapters/chapter_appendix.md#on-growing-old)
 
 *On envy triggers*
-- [On intelligence and talent](/chapters/chapter_appendix.md#on-intelligence-and-talent)
-- [On money and wealth](/chapters/chapter_appendix.md#on-money-and-wealth)
-- [On fame and popularity](/chapters/chapter_appendix.md#on-fame-and-popularity)
-- [On luck](/chapters/chapter_appendix.md#on-luck)
+- [On talent](/chapters/chapter_appendix.md#on-talent)
+- [On wealth](/chapters/chapter_appendix.md#on-money-and-wealth)
+- [On popularity](/chapters/chapter_appendix.md#on-popularity)
+- [On luck and risk](/chapters/chapter_appendix.md#on-luck-and-risk)
 - [On beauty and style](/chapters/chapter_appendix.md#on-beauty-and-style)
 - [On health](/chapters/chapter_appendix.md#on-health)
 - [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
 - [On success](/chapters/chapter_appendix.md#on-success)
 
 *Other*
+- [On wisdom](/chapters/chapter_appendix.md#on-wisdom)
+- [On truth](/chapters/chapter_appendix.md#on-wisdom)
 - [On comedy](/chapters/chapter_appendix.md#on-comedy)
 - [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
 - [On marriage](/chapters/chapter_appendix.md#on-marriage)

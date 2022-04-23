@@ -160,20 +160,15 @@ Create more, consume less.
 ---
 # Appendix B - On envy triggers
 
-## On intelligence and talent
-
-<!--
-> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
-- Ask yourself for advice.
--->
+## On talent
 
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
 
-Talent is fragile.
+Talent is fragile and it’s the most sensitive envy trigger.
 
-To reveal the true nature of your intelligence rarely pays. Intelligence is a spectrum. A dog is intelligent also. It’s the most sensitive envy trigger.
+Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature of your intelligence rarely pays.
 
 > *'I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that’s not true. It’s not resilient and shiny, talent is really, really fragile.' -- Malcolm Gladwell*
 
@@ -184,8 +179,6 @@ To reveal the true nature of your intelligence rarely pays. Intelligence is a sp
 > *'Most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.' -- Andy Benoit*
 
 > *'Recipe for genius into one sentence: to have a disinterested obsession with something that matters.' -- Paul Graham*
-
-> *'Being wise means having more questions than answers.' -- Kevin Kelly*
 
 > *'We like to believe in genius. It gives us an excuse for being lazy.' -- Paul Graham*
 
@@ -199,7 +192,7 @@ To reveal the true nature of your intelligence rarely pays. Intelligence is a sp
 
 
 ---
-## On money and wealth
+## On wealth
 
 <!--
 - money is freedom. why do u want fu money if you don't say fu.
@@ -249,7 +242,7 @@ Books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, la
 
 
 ---
-## On fame and popularity
+## On popularity
 
 > *'There are only two kinds of languages: the ones people complain about and the ones nobody uses' -- Bjarne Stroustrup*
 
@@ -263,7 +256,7 @@ People say they want to be famous to impact the world, often what they want is t
 
 
 ---
-## On luck
+## On luck and risk
 
 <!--
 > *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
@@ -290,6 +283,12 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 
 > *'Things that come with little help of luck are more resistant to randomness. People who look too close to randomness burn out. The only article lady fortuna has no control over is your behaviour. Good luck.' -- Nassim Taleb*
 
+### On risk
+
+Risk is everything you left over and didn't thought about. Luck and risk are two faces of the same coin.
+
+
+
 
 
 
@@ -300,7 +299,7 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 
 > *'Dress shabbily and they remember the dress; dress impeccably and they remember the woman.' -- Coco Chanel*
 
-The sign of a beautiful person is that they always see beauty in others.
+A beautiful person always see beauty in others.
 
 > *'A man’s face is his autobiography. A woman’s face is her work of fiction.' -- Oscar Wilde*
 
@@ -390,9 +389,7 @@ Hints:
 - sucesses keep you making the same stuff, mistakes not.
 - It’s never your identity, it’s always your strategy
 - Succeeding means securing advantage.
-- Do What Works and Forget the Rest. But the simple truth is that success leaves clues. There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
-- If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
-- Surrendering to constant reinvention.
+- Do what works and forget the rest. But the simple truth is that success leaves clues. There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
 -->
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
@@ -427,18 +424,32 @@ But success is a dangerous word. I don’t know any successful person.
 ---
 # Appendix C - Others
 
+## On wisdom
+
+> *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
+
+> *'Being wise means having more questions than answers.' -- Kevin Kelly*
+
+
+
+---
+## On truth
+
+
+
+
+---
 ## On comedy
 
 <!--
-- Which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
+- "the grass is always greener on the side that is fertilized with bulshit"
 > *'In Europe 100 miles is a long way, In the US 100 years is a long time'* 
 > *'When I'm good, I'm very good, but when I'm bad, I'm better.' -- Mae West*
 > *'I wrote the story myself. It’s about a girl who lost her reputation and never missed it.' -- Mae West*
 > *'La que no es puta non desfruta.'*
-> *'love people and use money vs love money and use people'*
 > *'Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem.'*
 > *'The four most expensive words in the English language: «This time is different».'
-> *'I remember a humoristic Soviet daily wall calendar that said: «And then we'll destroy the cranes, and the whole world will wonder how we built these pyramids.»'
+- which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
 - overheard someone say in a SF cafe: "I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much.
 -->
 
@@ -535,6 +546,8 @@ And on the first day, men created god.
 
 > *'We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further.' -- Richard Dawkins*
 
+> *'Believe in the religion that has no name.' -- Naval Ravikant*
+
 ### On morality
 
 > *'Morality is the way that we would like the world to be, economics is the way that the world actually works.' -- Steven Levitt*
@@ -592,6 +605,8 @@ Art is a meditation and design is a negotiation.
 
 Art is just another form of screaming and it doesn’t end at the edge of the canvas. Artistic death is made by consensus.
 
+> *'If you create it for yourself, it’s art. If you create it for others, it’s business.' -- Naval Ravikant*
+
 > *'Art washes away from the soul the dust of everyday life.' -- Pablo Picasso*
 
 > *'Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.' -- Robert Benchley*
@@ -632,17 +647,14 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 <!--
 - (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
-
 Hints:
 - The best companies aren’t sold, they're bought. 
-- Don’t buy on future hopes; buy on past mistakes. 
-- Don’t invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows). If a stock is below five bucks, it is more than likely a troubled mess not worth investing in.
+- Don’t invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows).
 - Stock buybacks are effectively same as dividends.
 - Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
 - entrepreneurship vs investment - 2 different mentalities.
 - dealers vs brokers: liquid markets (dealers with enough inventory)
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
-- i didn’t lost money on star businesses. o lost money in businesses i though would be star businesses.
 - analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
 -->
 
@@ -653,14 +665,14 @@ The secret to get wealthy is not to make more money but to keep it.
 
 Hints:
 
-- Spend less than you make. 
+- Spend less than you make. Saving 10% of all paychecks is a good start.
 - Stay liquid, never invest in anything you can’t sell in a month or two. 
 - Diversify with uncorrelated investment bets.
 - Barbell strategy.
 
 ### On your investment comfort zone
 
-Scared money never wins. It’s about the risk of losing money versus the risk of missing opportunity. 
+Scared money never wins. It’s all about the risk of losing money versus the risk of missing opportunity. 
 
 > *'If you do not know who you are, Wall Street is an expensive place to find out.' -- George Goodman*
 
@@ -682,13 +694,15 @@ Understand:
 
 ### How to spot good investments?
 
+Don’t buy on future hopes; buy on past mistakes. We don't loose money on star businesses, we loose money in businesses we think will be star businesses.
+
 > *'You’re looking for a mispriced gamble.' -- Charlie Munger*
 
 > *'It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism.' -- Howard Marks*
 
 > *'What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.' -- Charlie Munger*
 
-> *'What’s your religion? Arbitrage and rents.' -- EF*
+> *'What’s my religion? Arbitrage and rents.' -- EF*
 
 ### When to fold?
 

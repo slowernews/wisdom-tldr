@@ -1201,6 +1201,10 @@ Winning is not the end of the road; it’s just a stop along the way.
 ---
 ## On surrendering
 
+<!--
+- Surrendering to constant reinvention.
+-->
+
 > *'It only hurts when you don’t have time to prepare for the fall' -- Tony Hawk*
 
 > *'Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.' -- Paulo Coelho*
