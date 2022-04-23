@@ -73,22 +73,20 @@ You don't need to answer their question.
 
 > *'War is what happens when language fails.' -- Margaret Atwood*
 
-> *'Your best response to an insult is “You’re probably right.” Often they are.' -- Kevin Kelly*
-
 Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
 
-Don’t avoid relevant conflicts. Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
+Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
 
 ### On conflict resolution
 
-You're either part of the solution or part of the problem.
+You’re either part of the solution or part of the problem.
 
-- Show empathy by using «we». Mean it and take responsability.
+- Use «we». Mean it and take responsability.
 - Bring options to the table. It’s easier to negotiate down.
 
-> *'To quiet a crowd or a drunk, just whisper.' -- Kevin Kelly*
+> *'To quiet a crowd or a drunk, just whisper. Calm is contagious.' -- Kevin Kelly*
 
-> *'Calm is contagious.' -- Kevin Kelly*
+> *'Your best response to an insult is “you’re probably right”. Often they are.' -- Kevin Kelly*
 
 > *'Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation.' -- Balthasar Gracian*
 

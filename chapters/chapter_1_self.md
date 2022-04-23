@@ -535,6 +535,7 @@ However mastery is an important trigger of arrogance. There is no place for a «
 - Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
 - Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
+- 52 approaches in a year is more than most men make in a lifetime. Consistency is everything.
 -->
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
@@ -547,15 +548,11 @@ Habits are systems. Consistency doesn’t come from effort, it comes from showin
 
 > *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
 
-> *'52 approaches in a year is more than most men make in a lifetime. Consistency is everything.'*
-
-> *'Volume usually outpaces intensity. You can’t just put in a huge effort a few times.' -- Allen Tucker*
-
 > *'First we make our habits, then our habits make us.' -- Charles C. Nobel*
 
-> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
-
 > *'Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do).' -- Stephen Covey*
+
+> *'Hard choices, easy life. Easy choices, hard life.' -- Jerzy Gregorek*
 
 ### How to fix bad habits?
 
