@@ -388,6 +388,8 @@ To reduce corruption diminish people involved on analogic processes. Politicians
 
 > *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
+> *'Populism is what we call democracy when we don't like the outcome.' -- Naval Ravikant*
+
 Multicultural is by absurdum the true monocultural.
 
 > *'Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.' -- George Carlin*
@@ -409,6 +411,8 @@ Taxes are a membership fee that most of us are voluntarily overpaying.
 > *'The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.' -- Kevin Kelly*
 > *'You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further.' -- Kevin Kelly*
 
+- there is no skill called business. avoid business magazines and business classes -- naval
+- it's never been easier to start a company. it's never been harder to build one. -- naval
 - Entrepeneurs are curious
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding. empregados sempre c skin in the game. the enemies are outside not inside
 - CEOs are adaptable and flexible and good risk managers.
@@ -765,6 +769,8 @@ Don’t get discouraged if you get a «no». Simply thank them for their time an
 ## On career
 
 <!--
+> *'Nobody can competewith you on being you. Most of life is a search for who and what needs you the most.' -- 
+- rich people get paid by project and pay by teh hour.
 - hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
 - volunteer for assignments / becoming the go to guy for some questions
 - trabalhar de porta aberta vs trabalhar à porta fechada

@@ -313,6 +313,7 @@ Hints:
 - 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
 - No to any decision that requires a calculator or computer. (Warren Buffett)  
 - Default to no. (Steve Jobs)
+- If you can't decide the answer is no. (Naval Ravikant)
 
 
 

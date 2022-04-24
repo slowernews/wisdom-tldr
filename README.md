@@ -138,7 +138,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
 - [On college](/chapters/chapter_appendix.md#on-college)
 - [On books](/chapters/chapter_appendix.md#on-books)
-- [On email](/chapters/chapter_appendix.md#on-email)
+- [On writing](/chapters/chapter_appendix.md#on-writing)
+- [On media](/chapters/chapter_appendix.md#on-media)
 - [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)
 
 *Bonus*

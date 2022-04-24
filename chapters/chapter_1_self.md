@@ -116,6 +116,8 @@ Take ownership of your life, only then you will cultivate respect for yourself a
 
 Trust, not money, is the currency of business and life. Be impeccable with your word.
 
+> *'Your character starts out spotless. You can only stain it.' -- naval Ravikant*
+
 > *'Quality means doing it right when no one is looking.' -- Henry Ford*
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
@@ -536,13 +538,16 @@ However mastery is an important trigger of arrogance. There is no place for a «
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
 - Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 - 52 approaches in a year is more than most men make in a lifetime. Consistency is everything.
+- e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
 -->
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
-We are essentially accumulations and compounding of habits.
+> *'At any given time, I'm either trying to pick up a good habit or discard a previous bad habit.*' -- Naval Ravikant*
 
-Habits are systems. Consistency doesn’t come from effort, it comes from showing up. Discipline will define your future trajectory. Long term thinking will guarantee you an easier life. 
+Habits are systems. We are essentially our habits.
+
+Consistency doesn’t come from effort, it comes from showing up. Long term thinking and discipline will guarantee you an easier life. 
 
 > *'The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it.' -- Kevin Kelly*
 
@@ -562,8 +567,8 @@ Pay attention, correct and don’t judge. Two vices is too much, none makes you 
 
 Hints:
 
-- Avoid low leverage habits: news (unnecessary stress and are negatively biased), pointless notifications, social media (use it as an output not as entertainment. Other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning nor the last thing you see at night), own a TV, work long hours, bad relationships, judge, control of petty stuff, perfectionism. 
-- Cultivate high leverage habits: meditation, time outside with friends & family, exercise, rest, travel, useful skills, read, journal, music, create, network and make friends, massage, gratefulness, forgive, self awareness, plan, eat mindfully (e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts), focus, do less, sleep/nap, smile, use colors. 
+- Avoid low leverage habits: news (unnecessary stress and are negatively biased), pointless notifications, social media (use it as an output not as entertainment. Other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning nor the last thing you see at night), own a TV, work long hours, bad relationships, judge, control of petty stuff, perfectionism, signaling virtue. 
+- Cultivate high leverage habits: meditation, time outside with friends & family, exercise, rest, travel, useful skills, read, journal, music, create, network and make friends, massage, gratefulness, forgive, self awareness, plan, eat mindfully, focus, do less, sleep/nap, smile, use colors. 
 
 ### How to create new habits?
 

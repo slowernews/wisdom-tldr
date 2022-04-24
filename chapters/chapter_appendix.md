@@ -150,7 +150,7 @@ Aging implies damage.
 
 > *'You are only as young as the last time you changed your mind.' -- Kevin Kelly*
 
-Create more, consume less.
+> *'One advantage of getting older - you become more decisive' -- Naval Ravikant*
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
 
@@ -251,6 +251,10 @@ See fame as a multiplier.
 People say they want to be famous to impact the world, often what they want is the adoration of their peers.
 
 > *'You really don’t want to be famous. Read the biography of any famous person.' -- Kevin kelly*
+
+> *'You want to be rich and anonymous, not poor and famous.' -- Naval Ravikant*
+
+> *'The reward for getting on the stage is fame. The price of fame is that you can't get off stage.' -- Naval Ravikant*
 
 
 
@@ -430,10 +434,19 @@ But success is a dangerous word. I don’t know any successful person.
 
 > *'Being wise means having more questions than answers.' -- Kevin Kelly*
 
+Wisdom is knowing the long-term consequences of your actions.
+
+
 
 
 ---
 ## On truth
+<!--
+> *'It's the nature of truth that once you see it, you can't unsee it. -- Naval Ravikant*
+> *'If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it.' -- Naval Ravikant
+-->
+
+The only thing worth praying is truth.
 
 
 
@@ -656,6 +669,7 @@ Hints:
 - dealers vs brokers: liquid markets (dealers with enough inventory)
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
+- the more you know, the less you need to diversify. deviersification is a hedge against lack of knowledge.
 -->
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
@@ -762,6 +776,8 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 > *'Education: the path from cocky ignorance to miserable uncertainty.' -- Mark Twain*
 
+> *'Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out.' -- Naval Ravikant*
+
 
 
 
@@ -804,7 +820,11 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'The worst thing about new books is that they keep us from reading the old ones.' -- Joseph Joubert*
 
-### On writing
+
+
+
+---
+## On writing
 
 > *'Tears are words that need to be written.' -- Paulo Coelho*
 
@@ -814,11 +834,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
 
-
-
-
----
-## On email
+### On email
 
 > *'Be governed not by the tyranny of the urgent but by the elevation of the important.' -- Kevin Kelly*
 
@@ -833,6 +849,16 @@ Hints:
 	- «I’d love a letter of support from you. I’ve attached a draft for your review.»  
 - Keep it under three lines, more than this call.  
 - Use easy-to-read formatting. Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.  
+
+
+
+
+---
+## On media
+
+> *'Journalists aren't neutral, they're the cavalry of culture wars. -- Naval Ravikant*
+
+> *'The goal of media is to make every problem, your problem.' -- Naval Ravikant*
 
 
 
