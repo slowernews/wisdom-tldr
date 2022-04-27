@@ -648,10 +648,11 @@ Hints:
 
 People should feel as part of a tribe.
 
+Hints:
+
 - Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
 - Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - A chain is only as strong as its weakest link.
-- Know how to create a vision of where they want to go. 'I’m not here to help; I’m here to learn.'
 
 > *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
 
@@ -677,7 +678,7 @@ Hints:
 
 > *'To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth' -- Kevin Kelly*
 
-Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howvwer, don't do it daily.
+Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don't do it daily.
 
 ### On meetings
 
