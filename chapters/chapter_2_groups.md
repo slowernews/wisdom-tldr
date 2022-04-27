@@ -619,7 +619,6 @@ People seek leadership because they want autonomy and influence. Influence is mo
 
 <!--
 - elephant list: Productivity happens at two levels: the individual and the collective. I’ve talked a lot about what I do on a personal level to be productive, but my other fascination is with collective productivity. As companies grow and age, they accumulate organizational debt.Organizational debt is the accumulation of decisions that should have been made but weren’t. Decisions are hard to make– a simple decision might mean one team gains while another loses. Sign-offs by multiple teams may be necessary. As a company grows and ages, it becomes even more difficult to make decisions and take meaningful action.The problem is, neglecting to make a decision causes its own set of problems. Without a decision, there’s no movement. Things stay the same. People stop talking about potential opportunities because they don’t feel they can make a change or impact. People within the organization start assuming that they're stuck with artificial constraints.In order to combat this lack of decision-making, I’ve taken to calling out the “elephants in the room” -- those things that everyone sees but no one wants to address. Identifying and calling out elephants is one of my favorite things to do because once they’re out in the open, we can develop strategies to eliminate them.What’s the biggest item to make a decision on that we’re potentially avoiding or we need leadership’s input on? One of my jobs as a manager is to do things only I can do. This is a way to make the most use of my time. A huge part of my job is calling out these elephants.Every product, every team, and every company has elephants. Every startup founder I work with as an advisor and investor carries around elephants, as well. I love sussing out what those elephants are and pushing them into the spotlight so everyone else can see it. In a large company, you often need to persuade people to take action. For example, I often need to convince my colleagues that addressing an elephant is a top priority.If everyone else is being reactive to what comes to them as opposed to being proactive in what matters most to them, then you stand to make an impact if you hold time for thinking.I conduct audits of my time.
-- Try to replace the above phrases with "one option is to..." and change your thinking to complete the thought in a way that makes sense. Avoid picking favorite solutions and presenting them as the clear winner or only option. It'll get you thinking in terms of pros and cons and how to persuade other people by appealing to their point of view. It will make you appear more level-headed and capable of making decisions that are good for the business. It'll also remind you of (and force you to fully consider) the frequently hidden option that’s often forgotten when presenting a new idea or direction, which is the status quo.
 - I’m a strategist, not a politician. My job sometimes is to say the thing they don’t want to hear.
 - reward system. culture is influenced by structure. give to the right person
 - as estruturas funcionam qd ha coesao
@@ -630,18 +629,14 @@ People seek leadership because they want autonomy and influence. Influence is mo
 
 > *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
 
-Managing is delegating. Your speed as a manager is the speed of your team.
+Managing is delegating. A great manager is a great facilitator. His responsability is to make his team better. 
 
-Be productive, not cheap. Stop dicking around trying to figure stuff out that someone else already knows. Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
+Hints:
 
-A manager should make himself two questions a day:
-
-- What is important to accomplish?  
-- Where was I uncomfortable the day before?  
-
-The speed that you offload your stuff will be the speed of your team. Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you're occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
-
-A great manager is a great facilitator. His responsability is to make his team better. A servant leadership.
+- The speed that you offload your stuff will be the speed of your team. Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you're occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
+- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?»
+- Spend one hour a day communicating to your people and everything will be OK.
+- Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
 ### On teams
 
@@ -669,9 +664,9 @@ People should feel as part of a tribe.
 
 > *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
 
-Ask instead of telling.
+Ask instead of telling. If the delivered work is not good enough give a reason.
 
-If the delivered work is not good enough give a reason. Spend one hour a day [communicating](#on-communication) to your people and everything will be OK. 
+Hints:
 
 - «Interesting, how do you feel about it? And your team?»
 - «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
@@ -682,9 +677,7 @@ If the delivered work is not good enough give a reason. Spend one hour a day [co
 
 > *'To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth' -- Kevin Kelly*
 
-> *'People can’t remember more than 3 points from a speech.' -- Kevin Kelly*
-
-However gaining an understanding and giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Data shows people want more feedback but monthly, not daily.
+Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howvwer, don't do it daily.
 
 ### On meetings
 
@@ -695,6 +688,8 @@ Default to “no” for all meetings. If you can’t say no, schedule for the af
 - Jeff Bezos famously banned PowerPoints in favor of «narratives» — four-to-six page memos that Amazon employees read and discuss together in meetings. He also reminded the team to leave in all internal key meetings one seat free - for their customer.
 
 > *'Always tell us the bad news promptly. Good news can wait.' -- Berkshire policy*
+
+> *'People can’t remember more than 3 points from a speech.' -- Kevin Kelly*
 
 
 
