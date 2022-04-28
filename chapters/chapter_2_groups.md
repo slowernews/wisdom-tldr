@@ -139,6 +139,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 
 <!--
 > *'When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong.' -- Kevin Kelly*
+> *'The more neatly you fit into society, the less free you actually are.' -- Naval Ravikant*
 -->
 
 > *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
@@ -358,6 +359,7 @@ You’re never too old to make a friend. Look for people with the same interests
 - social contracts: public promises. Everything is a contract!
 > *'A single death is a tragedy; a million deaths is a statistic.'*
 > *'History is a race between education and catastrophe.' -- H.G. Wells*
+> *'A politician who reads aloud speaches written by others is an actor, not a leader.' -- Naval Ravikant*
 
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
@@ -682,15 +684,16 @@ Giving appropriate feedback makes your juniors feel like what they are doing is 
 
 ### On meetings
 
-Default to “no” for all meetings. If you can’t say no, schedule for the afternoon.
+Default to “no” for all meetings. If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
+
+Hints:
 
 - Start with an overachieving question: «how can we raise sales by 12%?».  
 - Do not share your opinion before asking for input from your team. Lower ranked people should speak first.  
-- Jeff Bezos famously banned PowerPoints in favor of «narratives» — four-to-six page memos that Amazon employees read and discuss together in meetings. He also reminded the team to leave in all internal key meetings one seat free - for their customer.
-
-> *'Always tell us the bad news promptly. Good news can wait.' -- Berkshire policy*
-
-> *'People can’t remember more than 3 points from a speech.' -- Kevin Kelly*
+- Tell the bad news promptly. Good news can wait. (Berkshire policy)
+- Instead of PowerPoints use «narratives» — four-to-six page memos that employees read and discuss together. (Jeff Bezos)
+- Leave one seat free - for your customer. (Jeff Bezos)
+- People can’t remember more than 3 points from a speech.
 
 
 
@@ -853,6 +856,10 @@ Ask employers why did they asked you for an interview - they will describe your 
 ---
 ## On hierarchy
 
+<!--
+> *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
+-->
+
 Everything is hierarchy. Only comedians can speak the truth without consequences. 
 
 Social cartography: who’s the decision maker, to whom people are speaking and who is speaking. To deal with real world you have to deal with some level of bullshit.
@@ -867,6 +874,6 @@ Social cartography: who’s the decision maker, to whom people are speaking and 
 
 However don’t vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
-> *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
-
 > *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
+
+> *'The internet doesn't care about your title' -- Naval Ravikant

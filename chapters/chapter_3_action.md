@@ -471,7 +471,7 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 > *'As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself' -- Arthur Schopenhauer*
 
-### Productivity hints
+### On productivity
 
 <!--
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don't put your best effort.
@@ -480,6 +480,8 @@ Busy imply out of control. Lack of time is lack of priorities.
 > *'Don't make 100 decisions when one will do.' -- Peter Drucker*
 
 > *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
+
+> *'The price of productivity is creativity.' -- Naval Ravikant*
 
 Getting a lot of unnecessary things done is not productivity: it’s stupidity. Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything.
 
@@ -728,6 +730,9 @@ Hints:
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
 - When people feel they have a choice, they «walk into your trap» that much more easily.
+
+> *'Zero-sum games tend towards conflict. Positive-sum games tend towards cooperation.' -- Naval Ravikant*
+> *'Negotiations are won by whoever cares less.' -- Naval Ravikant 
 -->
 
 You don’t get what you deserve in life, you only get what you negotiate.
@@ -783,7 +788,9 @@ what do i do that is most annoying to u? say thank you and don't discuss it. don
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
 
-Feedback speeds up improvement but only take advice from mentors and "loving critics". Often they don't have the time to explain the logic behind their wisdom but they can show you the door.
+> *'You don't need mentors, you need action.'* -- Naval Ravikant*
+
+Feedback from mentors and «loving critics» speeds up improvement. Even if you can't understand the logic behind their wisdom, they can show you the door.
 
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 

@@ -137,7 +137,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On money management](/chapters/chapter_appendix.md#on-money-management)
 - [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
 - [On college](/chapters/chapter_appendix.md#on-college)
-- [On books](/chapters/chapter_appendix.md#on-books)
+- [On reading](/chapters/chapter_appendix.md#on-reading)
 - [On writing](/chapters/chapter_appendix.md#on-writing)
 - [On media](/chapters/chapter_appendix.md#on-media)
 - [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)

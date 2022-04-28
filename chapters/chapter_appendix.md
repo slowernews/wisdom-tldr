@@ -537,6 +537,8 @@ How to write compelling characters? “It’s easy,” he said. “Just make the
 
 > *'Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed.' -- H.Harwood and R. Gore-Bro*
 
+Unhappy wife, unhappy life.
+
 > *'He who marries for love without money has good nights and sorry days.' -- Ani Difranco*
 
 > *'If Apple sold you a product that failed 50% of the time, would you buy it?' -- Esther Perel*
@@ -670,6 +672,8 @@ Hints:
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
 - the more you know, the less you need to diversify. deviersification is a hedge against lack of knowledge.
+- good investors don't sell investment advice.
+- a great reason to buy instead of renting is taht you get to fire your landlord -- naval ravikant
 -->
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
@@ -760,14 +764,12 @@ Hints:
 ---
 ## On college
 
-<!--
-School rewards generalist and not focusing: the world not so.
--->
-
 > *'The purpose of high education is first and foremost to meet people and build relationships.' -- my teacher*
 
 A college education may help you make a living. Self-education may make you a fortune.  
 The value of formal education is signaling, rather than actual learning.
+
+School rewards generalists, the world not so.
 
 > *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
 
@@ -778,14 +780,17 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 > *'Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out.' -- Naval Ravikant*
 
+> *'Learning is cheap, education is expensive.' -- Naval Ravikant*
+
 
 
 
 ---
-## On books
+## On reading
 
 <!--
-Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
+Reading is not a race. read books avoid news. read the books they want to ban. if they wrote it to make money don't read it.
+listening to books is like drinking your vegetables -- naval
 -->
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
@@ -825,6 +830,10 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 ---
 ## On writing
+
+<!--
+Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
+-->
 
 > *'Tears are words that need to be written.' -- Paulo Coelho*
 
