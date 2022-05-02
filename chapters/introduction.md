@@ -49,6 +49,105 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 
 
 ---
+## On finding your path
+
+<!--
+> *'You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way.' -- Kevin Kelly*
+> *'In the middle of difficulty lies opportunity' -- Albert Einstein*
+- (kk) Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.
+- (kk) Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is.
+
+1. Put Your Happiness Before Goals
+2. Fulfillment is Dependent on Direction
+3. Pain is a Messenger
+4. Focus on Financial Freedom First
+5. Pick One Thing and Stick With it to Completion
+	
+> *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' -- Paulo Coelho*
+
+- there’s a price for it always. everything is an exchange. you can achieve everything but there is a price. people don’t achieve anything because they are not willing to sacrifice. everything is a trade.
+- parabol: that door is only for you.	
+- Best Effort + Surrender = DESTINY
+
+“Your Ten-Year Plan for a Remarkable Life”. in 2027 how a day of your life will look like? write how will look this day. dream big. write it with no fear and read it once a year. these things can make a difference. exercise: what would be your life if you wouldnt have fear of failure of life.
+
+- Most people continue to chase down their ever elusive “calling”. You know, that one thing that if they do not do it, they have wasted their entire life and skillsets on trivial activities and distractions. Allow me to share a little secret with you. This doesn’t exist.
+- Most of the entrepreneurs I know love what they do, but they do not love it because they feel it is their life’s purpose. So instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you. challenge Because that is where you will find true fulfillment and satisfaction. Create Projects, Not Goals
+- Clarity is the Key to All Success: without a clear roadmap for who we are and what we want to achieve, we will never find true success. You must know exactly what you want, when you want it, and why you want it. Without this clarity, you will find yourself wandering aimlessly for years, or even decades of your life and looking back, wishing that you’d had more direction.
+- We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change._sivers
+- Most 16 year olds are just using their phones to send silly snaps to their friends and watch porn. And most people waste their lives away in 9-5 jobs. It’s not an age thing.
+- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
+- When you look at your bank account and don’t like what you see, you need to remember that these results were caused by your thoughts. They were caused by your beliefs, your decisions, and your values that were then projected into your reality.
+- DO THE WORK: Work until your idols become your rivals. Work hard in silence. Let your silence be your noise. How much time do you consume vs produce? Are you watching others do things you could be doing if you weren’t watching them.
+
+What do you really want?
+- What do the actions of your past suggest is most important to you?
+- What desires do you have that don’t align with your past behavior.
+- What future path does your past behavior suggest rather than your imagination?
+- If you don’t like these answers, change your existing behavior.
+-->
+
+> *'The obstacle is the way.' -- Marcus Aurelius*
+
+> *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
+
+> *'Take advantage of the opportunities - that’s probably more important than charting your path.' -- Admiral William Mcraven*
+
+Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
+
+> *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
+
+> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
+
+### How to design a life?
+
+Lying on death bed and regretting your life is the worst that can happen to you. Mediocrity, as a goal, sucks. As a result, is OK.
+
+The goal of life is not comfort it’s contribution. Society has tried to convince us that the ultimate goal of our lives is to increase our comfort.
+But the problem with this philosophy is that no great work ever came from comfort.
+
+> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
+
+> *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
+
+Hints:
+
+- Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change. It’s ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.  
+- If you are feeling lost in life experience more things. Become unconfortable. It will improve your tolerance for risk and adversity. Almost everything that you want is on the other side of the uncomfortable and the scary.  
+- Let fear be your guide. The more fear you feel, the more you will know you are on the right track.  
+- What do you do for fun? What are you interested in that everybody in the world is interested in?  
+- Go where you can make a difference not where you think there’s a home run.  
+- When life gets blurry, just adjust your focus. Random wandering will not move you forward.
+- It’s easier to ask forgiveness than to get permission.  
+- Passion is made not found.  
+- There’s a fable of a man stuck in a flood. Convinced that God is going to save him, he says no a passing canoe, boat, and helicopter that offer to help. He dies, and in heaven asks God why He didn’t save him. God says, “I sent you a canoe, a boat, and a helicopter!” That’s why you need to re-evaluate your old dreams to see if new means have come along. Don’t let the details distract you from your goal.  
+
+> *'I can think, I can wait and I can fast.' -- Siddahrta*
+
+> *'If we’re growing, we’re always going to be out of our comfort zone.' -- John Maxwell*
+
+> *'If you are going through hell, keep going.' -- Winston Churchill*
+
+> *'There are far, far better things ahead than any we leave behind.'-- C.S. Lewis*
+
+> *'The best way out is always through.' -- Robert Frost*
+
+> *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
+
+> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
+
+> *'The question is not who is going to let me; it’s who is going to stop me.' -- Ayn Rand*
+
+> *'You can, you should, and if you’re brave enough to start, you will' -- Stephen King*
+
+> *'The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
+
+> *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
+
+
+
+
+---
 ## On happiness
 
 <!--

@@ -403,6 +403,8 @@ Popper came to the seemingly paradoxical conclusion that in order to maintain a 
 
 Taxes are a membership fee that most of us are voluntarily overpaying.
 
+Inequality is a problem. Equality is not the solution. That's the dilemma.
+
 
 
 

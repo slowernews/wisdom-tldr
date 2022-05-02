@@ -4,13 +4,16 @@ Maxims distilled from quotes that match *my* biased experience.
 «Distillation» is far from ready, so expect inconsistencies, inaccuracies and omissions.
 
 <!--
+Distillation of a decade of self-help books and browsing procrastination.
 Principles on difficult subjects / Concise answers to difficult questions
 -->
 
 ## Introduction
 
 - [The real you](/chapters/introduction.md#the-real-you)
-- [On happiness](/chapters/introduction.md#on-gratefulness-and-happiness)
+- [On finding your path](/chapters/introduction.md#on-finding-your-path)
+- [On happiness](/chapters/introduction.md#on-gratefulness)
+
 
 
 
@@ -24,7 +27,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On gratitude](/chapters/chapter_1_self.md#on-gratitude)
 
 *On growth*
-- [On finding your path](/chapters/chapter_1_self.md#on-finding-your-path)
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
@@ -39,6 +41,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
+
 
 
 
@@ -64,6 +67,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
 - [On career](/chapters/chapter_2_groups.md#on-career)
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
+
 
 
 
@@ -103,6 +107,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)
 - [On forgiveness and revenge](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
+
 
 
 
@@ -146,6 +151,9 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
 - [On what men value in women](/chapters/chapter_appendix.md#on-what-men-value-in-women)
 
+
+
+
 ## TL;DR
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
@@ -156,6 +164,10 @@ Five general advices:
 *'The root of our problems is our inability to let go.' -- Leo Babauta*  
 *'A prophet has no honour in his own country.' -- Bible (John 4: 44)*  
 *'Avoiding relevant conflict will not keep peace, will rot it.' -- EF*  
+
+<!--
+proverbio chines
+-->
 
 Two practical advices:  
 *'Have more than one child.'*  

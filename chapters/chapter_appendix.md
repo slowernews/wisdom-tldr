@@ -12,6 +12,7 @@
 
 <!--
 - history books are on the history of power.
+- changing your interpretation of your past is often just as good as changing your past.
 -->
 
 > *'The past doesn’t help understanding the present. It’s the present that helps understanding the past.' -- José Saramago*
@@ -128,6 +129,11 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 ---
 ## On growing old
 
+<!--
+People my age are so much older than me
+retirement is when you stop sacrificing today for an imaginary tomorrow -- naval
+-->
+
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
 
 > *'We don’t stop playing because we grow old; we grow old because we stop playing.' -- George bernard Shaw*
@@ -162,6 +168,16 @@ Aging implies damage.
 
 ## On talent
 
+<!--
+the real test of intelligence is if you get what you want from life -- naval
+clear thinker is a better compliment than smart -- naval
+the best lack conviction, while the worst are full of passionate intensity -- naval
+it's is the mark of a charlatan to explain a simple concept in a complex way -- naval
+it's is the mark of a genious to explain a complex concept in a simple way -- naval
+the difference beteween sounding smart and being smart is "I don't know" -- naval
+genious is man who can do the average thing when everyone else around him is losing his mind -- naval
+-->
+
 > *'In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' -- Ralph Waldo Emerson*
 
 > *'Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction.' -- Ernst F. Schumacher*
@@ -187,6 +203,8 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 > *'The measure of intelligence is the ability to change.' -- Albert Einstein*
 
 > *'Andy Warhol is the only genius I’ve ever known with an IQ of 60.' -- Gore Vidal*
+
+> *'The problem with genius is that you have to tolerate madness.' -- Naval Ravikant*
 
 
 
@@ -309,6 +327,12 @@ A beautiful person always see beauty in others.
 
 > *'Clothes make the man. Naked people have little or no influence on society.' -- Mark Twain*
 
+<!--
+> *'Elegance is a physical quality. If a woman doesn't have it naked, she'll never have it clothed.' -- Karl Lagerfeld*
+dress like you're going somewhere better later
+taste may be an instinct for honest signals
+-->
+
 
 
 
@@ -345,7 +369,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 > *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
 
-We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children](/chapter_2_groups.md#on-feedback-and-mentorship) and die.
+We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children]() and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.
 
 > *'Each of us, when our day’s work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
@@ -430,6 +454,13 @@ But success is a dangerous word. I don’t know any successful person.
 
 ## On wisdom
 
+<!--
+the source of wisdom is pain -- naval
+inteligence + experience = wisdom
+the measure of wisdom is silence -- naval
+the measure of long term thinking is wisdom -- naval paraphrased
+-->
+
 > *'Wisdom is nothing more profound than an ability to follow one’s own advice.' -- Sam Harris*
 
 > *'Being wise means having more questions than answers.' -- Kevin Kelly*
@@ -468,10 +499,9 @@ The only thing worth praying is truth.
 
 > *'Only the truth is funny.' -- Rick Reynolds*
 
-Comedians are the modern day philosophers.
+Comedians are the modern day philosophers. The truer the things they say, the funnier they are. 
 
-Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. This is why the 
-Standup is about articulating that truth in such a way that people feel momentarily unsafe and confused (the setup), and relieved (the punchline).
+Comedy is about observing the hidden truths in life that everyone knows but nobody has ever quite articulated. Standup is about articulating that truth in such a way that people feel momentarily unsafe and confused and then relieved.
 
 > *'Anastas, the taste of ice cream interests you more than the construction of communism!' -- Joseph Stalin to Anastas Mikoyan*
 
@@ -484,6 +514,8 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 > *'I miss being the age when I thought I would have my shit together by the time I was the age I am now.'*
 
 > *'Reality continues to ruin my life.' -- Bill Watterson*
+
+> *'Mathematicians look down on Physicists, who look down on Engineers, who look down on Designers. And Designers look down on everyone.' -- Naval Ravikant*
 
 ### Where is home?
 
@@ -611,6 +643,10 @@ Science is the study of truth. Everything that is not a law of nature is just a 
 
 ---
 ## On art
+
+<!--
+art should confort the disturbed and disturb the confortable
+-->
 
 > *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 
@@ -789,13 +825,15 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 ## On reading
 
 <!--
-Reading is not a race. read books avoid news. read the books they want to ban. if they wrote it to make money don't read it.
-listening to books is like drinking your vegetables -- naval
+listening to books is like drinking your vegetables. -- naval
+most books are propaganda
 -->
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
 
 Reading train your model of the world. Even if you forget most, its effect persists.
+
+Reading is not a race. If they wrote it to make money don't read it. Read the books they want to ban.
 
 > *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
 
@@ -832,7 +870,10 @@ Reading train your model of the world. Even if you forget most, its effect persi
 ## On writing
 
 <!--
-Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.
+If you're writing for your followers, your followers are worthless. -- naval better to find another audience than to write to teh audience
+the more people in the conversation the harder it becomes to speak the unconfortable truth. social media puts everybody in the same conversation. -- navel
+If you are writing to be read you are doing it wrongly. -- naval
+write to learn not to teach -- naval
 -->
 
 > *'Tears are words that need to be written.' -- Paulo Coelho*
@@ -842,6 +883,8 @@ Paraphrasing the late Chris Cornell, there are no more writers like Shakespeare 
 > *'The best writing is rewriting.' -- E. B. White*
 
 > *'Any word you have to hunt for in a thesaurus is the wrong word.' -- Stephen King*
+
+> *'There are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper.' -- Chris Cornell*
 
 ### On email
 
@@ -868,6 +911,8 @@ Hints:
 > *'Journalists aren't neutral, they're the cavalry of culture wars. -- Naval Ravikant*
 
 > *'The goal of media is to make every problem, your problem.' -- Naval Ravikant*
+
+The human brain was not designed to process all of the world's emergencies in realtime.
 
 
 

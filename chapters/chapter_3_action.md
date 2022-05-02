@@ -1233,6 +1233,11 @@ Use this opportunity to re-create yourself. If you didn’t quit anything you wo
 ---
 ## On forgiveness and revenge
 
+<!--
+> *'To heal a wound you must stop scratching it.' -- Paulo Coelho*
+people who forgive easily are taken for granted
+-->
+
 > *'The only way out of the labyrinth of suffering is to forgive.' -- John Green*
 
 Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
