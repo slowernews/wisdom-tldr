@@ -13,6 +13,16 @@
 <!--
 - history books are on the history of power.
 - changing your interpretation of your past is often just as good as changing your past.
+- past is a nice place to visit but certainly not a good place to stay.
+- o q antes era rotina, hj é lembrança.
+- never say goodbye because goodbye means going away and going awya means forgetting.
+- there are decades when nothing happens and there are weeks when decade happen.
+- I just don't believe in anything from my past. Anything. No memories. No regrets. No people. No trips. Nothing. A lot of our unhappiness comes from comparing things from the past to the present. -- Naval Ravikant*
+- Changing your interpretation of your past is often just as good as changing your past. -- Naval Ravikant*
+- The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist. -- Naval Ravikant*
+- Hope is the belief that this moment isn't good enough. -- Naval Ravikant*
+- history never repeats. man always does. -- voltaire
+- a busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind. -- Naval Ravikant*
 -->
 
 > *'The past doesn’t help understanding the present. It’s the present that helps understanding the past.' -- José Saramago*
@@ -457,6 +467,8 @@ Hints:
 - It’s never your identity, it’s always your strategy
 - Succeeding means securing advantage.
 - Do what works and forget the rest. But the simple truth is that success leaves clues. There are certain habits, patterns, and routines that lead to your success, and there are certain patters that will result in failure.
+- success is the best revenge. -- Kanye West
+- the success formula: solve your own problems and freely share the solutions. -- Naval Ravikant*
 -->
 
 > *'Success doesn’t come to you. You go to it.' -- Marva Collins*
@@ -465,7 +477,7 @@ Hints:
 
 Success = education + massive action
 
-There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period of time. But success is not being wealthy, is being happy.
+There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period - habits. But success is not being wealthy, is being happy.
 
 > *'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.' -- John Woode*
 
@@ -505,18 +517,6 @@ the measure of long term thinking is wisdom -- naval paraphrased
 > *'Being wise means having more questions than answers.' -- Kevin Kelly*
 
 Wisdom is knowing the long-term consequences of your actions.
-
-
-
-
----
-## On truth
-<!--
-> *'It's the nature of truth that once you see it, you can't unsee it. -- Naval Ravikant*
-> *'If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it.' -- Naval Ravikant
--->
-
-The only thing worth praying is truth.
 
 
 
@@ -990,6 +990,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 <!--
 - people of all political persuasions
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+- every boy wants a good girl to be bad just for him. every girls wants a bad boy to be good just for her.
 -->
 
 > *'No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful.' -- Eleanor Roosevelt*

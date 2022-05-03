@@ -743,6 +743,7 @@ Hints:
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
 - When people feel they have a choice, they «walk into your trap» that much more easily.
+- pay double and insist on ten times the quality. -- Naval Ravikant*
 
 > *'Zero-sum games tend towards conflict. Positive-sum games tend towards cooperation.' -- Naval Ravikant*
 > *'Negotiations are won by whoever cares less.' -- Naval Ravikant 
@@ -796,7 +797,13 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On feedback and mentorship
 
 <!--
-what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
+- what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
+- those who know do. those that understand teach. -- aristotle
+- there is failure, only feedback.
+- i was always ready to share, but before external success, nobody cared to listen. -- Naval Ravikant*
+- take feedbak from nature and markets, not from people. -- Naval Ravikant*
+- the world is full of teachers but devoid of students. -- Naval Ravikant*
+- a good scare is a great error-correcting mechanism. -- Naval Ravikant*
 -->
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*
@@ -1109,7 +1116,7 @@ However, deceiving is not lying. Disappointment destroys trust. Lying is like a 
 
 > *'It’s hard to cheat an honest man.' -- Kevin Kelly*
 
-> *'I’m not upset that you lied to me. I'm upset that from now on I can’t believe on you.' -- Nietzsche*
+> *'I’m not upset that you lied to me. I'm upset that from now on I can’t believe on you.' -- Friedrich Nietzsche*
 
 > *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- Hostage negotiator*
 
@@ -1121,11 +1128,23 @@ And don't attribute to malice what you can attribute to incompetence or busyness
 
 > *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
 
-### On lies
+### On truth and lies
 
 > *'Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.' -- Hannah Arendt*
 
-> *'When you have something to say, silence is a lie.' --  Jordan Peterson*
+The only thing worth praying is truth.
+
+> *'If you tell the truth, you don't have to remember anything.' -- Mark Twain*
+
+> *'When you have something to say, silence is a lie.' -- Jordan Peterson*
+
+<!--
+> *'It's the nature of truth that once you see it, you can't unsee it. -- Naval Ravikant*
+> *'If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it.' -- Naval Ravikant
+- the closer you are to the truth, the more silent you become inside. -- Naval Ravikant*
+- the only time you enjoy hearing a lie is when you already know the truth.
+- sometimes people dont want to hear the truth because they don't want their illusions destroyed -- friedrich nietzsche
+-->
 
 
 
@@ -1167,6 +1186,11 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 
 ## On finishing
 
+<!--
+everything will be ok in the end. if it's not ok, it's not the end.
+- nothing ends poetically. it end and we turn it into poetry. all that blood was never once beautiful. it was just red.
+-->
+
 > *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
 Starting is fun but success belongs to finishers.
@@ -1196,6 +1220,9 @@ Starting is fun but success belongs to finishers.
 <!--
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
+- giving yourself permission to lose, automatically guarantees a loss.
+- i'm losing and i lost are too diffrent things.
+- we prefer to see winners as naturally talented rather then hard working. beacuse if it were reversed, what would that inply to us. -- Naval Ravikant*
 -->
 
 > *'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*

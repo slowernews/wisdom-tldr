@@ -131,7 +131,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *Other*
 - [On wisdom](/chapters/chapter_appendix.md#on-wisdom)
-- [On truth](/chapters/chapter_appendix.md#on-wisdom)
 - [On comedy](/chapters/chapter_appendix.md#on-comedy)
 - [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
 - [On marriage](/chapters/chapter_appendix.md#on-marriage)
@@ -157,12 +156,14 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
 
-Five general advices:  
+Seven general advices:  
 *'Life is a balancing act.'*  
 *'If more information was the answer we’d all be billionaires with six packs.' -- Derek Sivers*  
 *'The root of our problems is our inability to let go.' -- Leo Babauta*  
 *'A prophet has no honour in his own country.' -- Bible (John 4: 44)*  
 *'Avoiding relevant conflict will not keep peace, will rot it.' -- EF*  
+*'All self-help boils down to«choose long-term over short-term».' -- Naval Ravikant*  
+*'The empire long divided, must unite; long united, must divide.' -- Chinese proverb*
 
 <!--
 proverbio chines

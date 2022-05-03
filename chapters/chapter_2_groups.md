@@ -23,6 +23,14 @@ Speak less and listen more. Listening is powerful.
 <!--
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
 - Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
+- admit when you're wrong. shut up when you're right -- john gottman
+- people believe everything, if you whisper it.
+- the best way to get someone's attention is to stop giving them yours.
+- smart people talking to other smart people tend to have vety short conversations. -- Naval Ravikant*
+- the secret to public speaking is to speak as if you were alone. -- Naval Ravikant*
+- a performer shouldn't look at the audience
+- a loucura é a incapacidade de comunicar-se
+- with truly logical people, most arguments are very short and based mainly on differing assumptions. -- Naval Ravikant*
 -->
 
 - Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and it will appear as fake.
@@ -226,6 +234,15 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 ## On relationships
 
+<!--
+- The worst way to build a relationship is to try to build a relationship. -- Naval Ravikant*
+- teh people you most want to impress can read your intentions. -- Naval Ravikant*
+- play long-term games with long-term people. -- Naval Ravikant*
+- if you loose somebody for being yourself, then you never had them to begin with. -- Naval Ravikant*
+- the secret to a happy relationship i stwo happy people. -- Naval Ravikant*
+- find a relationship where you, naturally being you, makes the other person happy and viceversa. -- Naval Ravikant*
+-->
+
 > *'Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom.' -- Kevin kelly*
 
 Focus on what you can give. You'll receive in proportion to what you give.  
@@ -251,6 +268,8 @@ Hints:
 
 <!--
 - Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
+- the measure of love is peace. -- Naval Ravikant*
+- a dirt dish by the sink can be a big marriage problem
 -->
 
 > *'We accept the love we think we deserve.' -- Stephen Chbosky*
@@ -503,7 +522,7 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 > *'When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details.' -- Kevin Kelly*
 > *'When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying.' -- Kevin Kelly*
 > *'When introduced to someone make eye contact and count to 4. You’ll both remember each other.' -- Kevin Kelly*
-	
+
 1. Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
 2. Eye contact builds trust. dont hide yourself. dont wait to start talking. a group or a double might be an easy place to start.
 5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
@@ -878,6 +897,7 @@ Ask employers why did they asked you for an interview - they will describe your 
 
 <!--
 > *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
+- care about what other people think and you will always be their prisoner. -- lao tzu
 -->
 
 Everything is hierarchy. Only comedians can speak the truth without consequences. 

@@ -442,6 +442,18 @@ However mastery is an important trigger of arrogance. There is no place for a «
 - Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
 - 52 approaches in a year is more than most men make in a lifetime. Consistency is everything.
 - e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
+> *'First we form habits. Then they form us.' -- Jim Rohn*
+- what pays off is consistency. not going viral.
+- it isn't 10k hours that creates outliers, it's 10k iterations. -- Naval Ravikant*
+- you are teh combination of your habits and the people who spend the most time with. -- Naval Ravikant*
+- I probably read 1-2 hours a day, and that puts me in the top 0,00001%. -- Naval Ravikant*
+- try to break a bad habit and form a good one every 6 months . -- Naval Ravikant*
+- be patient. it takes 10 years to build a career in anything. -- Naval Ravikant*
+- you do not raise to the level of your goals, you fall to the level of your systems.
+- karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve. -- Naval Ravikant*
+- at any given time, i'm either trying to pick up a good habit or discard previous bad habit. -- Naval Ravikant*
+- all the benifits in life come from compound interest - relationship, money, habits - anything of importance.  -- Naval Ravikant*
+- habits are compound interest in real life.
 -->
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
@@ -826,7 +838,7 @@ However your level of success will seldom exceed your level of personal developm
 
 > *'A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty.' -- Bertram Carr*
 
-Pessimism is a scarcity mindset. Optimism is rarely the way but pessimism is never the way. 
+Pessimism is a scarcity mindset. Optimism is rarely the way but pessimism is never the way.
 
 > *'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.' -- William Arthur Ward*
 
