@@ -804,6 +804,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 - take feedbak from nature and markets, not from people. -- Naval Ravikant*
 - the world is full of teachers but devoid of students. -- Naval Ravikant*
 - a good scare is a great error-correcting mechanism. -- Naval Ravikant*
+- remove grading to see who is really interested in the topic. -- Naval Ravikant*
 -->
 
 > *'I’d rather have criticism from a genius than praise from an idiot.'*

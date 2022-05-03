@@ -736,6 +736,7 @@ Hints:
 ## On hiring and being hired
 
 <!--
+- our best work is the work we find ourselves doing, when there is no obligation to do so. -- Naval Ravikant*
 > *'Dont ever work for someone you dont want to become.' -- Kevin Kelly*
 > *'You cannot get smart people to work extremely hard just for money.' -- Kevin Kelly*
 > *'Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for.' -- Kevin Kelly*
@@ -760,6 +761,14 @@ At the same time, wages aren’t everything. Everyone wants to make good money b
 - companies hire for a problem and not general optimizations. Even if they need a generalist.
 - Try consulting or entrepreneurship. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need. When you sell your ability to deliver results, nobody asks about your skillset.
 - money is trust. system of mutual trust.
+- when hiring or investing you don't get the best deal at the best price. -- Naval Ravikant*
+- your real resume is a painful recounting of all your struggles. -- Naval Ravikant*
+- twitter is a much better resume than linkedin.
+- you're never going to get rich renting out your time. -- Naval Ravikant*
+- if you can't see yourself working with somene for life, don't work with them for a day. -- Naval Ravikant*
+- trade money for time, not time for money. You're going to run out of time first. -- Naval Ravikant*
+- earn with your mind, not with your time. -- Naval Ravikant*
+- a taste of freedom can make you unemployable. -- Naval Ravikant*
 -->
 
 > *'He who works with his hands is a laborer.  
@@ -778,6 +787,11 @@ Your goal should be to «fire» yourself and hire people who are better at your 
 
 ### How to attract and keep talented people?
 
+<!--
+Everybody wants to hire the best. few of them actually pay them like they're the best. -- Naval Ravikant*
+a good employee willfully overcompensates you.  -- Naval Ravikant*
+-->
+
 Respect them.
 
 You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
@@ -795,6 +809,16 @@ DON’T tell about your responsibilities. Everyone who is doing your type of job
 - There are two skill levels: still learning or confident in the skill.
 - Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.
 - Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
+- They are just trying to find somebody they like, that's what «culture fit» is. Often is not how good you are. You just have to be liked while being sufficiently good. And people like people like themselves.
+
+### On job interviews
+
+Don't do interviews, do discussions.
+
+Hints:
+
+- «What are there problems you've solved and how did you solve them?» (Elon Musk)
+- «What do you own and Why?» (Sandy Gottesman, investor)
 
 ### On asking for a raise
 
@@ -807,6 +831,13 @@ Don’t get discouraged if you get a «no». Simply thank them for their time an
 ## On career
 
 <!--
+- give the world what it need and it will give you what you want. -- Naval Ravikant*
+- an entrepreneus without drive is just an unemployed. -- Naval Ravikant*
+- if you want to be great , walk the rope without a boss and without a net. -- Naval Ravikant*
+- following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now. -- Naval Ravikant*
+- to get paid in the future, live in the future. -- Naval Ravikant*
+- if th ework doesn't require creativity, delegate it, automate it or leave it. -- Naval Ravikant*
+- remote killed HR
 > *'Nobody can competewith you on being you. Most of life is a search for who and what needs you the most.' -- 
 - rich people get paid by project and pay by teh hour.
 - hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
@@ -831,6 +862,9 @@ So: 100% on one thing = 80% on 5 things!
 - Happy, Smart, and Useful
 - look at situations as systems. i help to create systems.
 - (kk) Don’t be the best. Be the only.
+- learn to sell. learn to build. if you can do both, you're unstoppable. -- Naval Ravikant*
+- if you can't code, write books and blogs, record videos and podcasts. -- Naval Ravikant*
+- get paid for doing wat only you can uniquely do. -- Naval Ravikant*
 -->
 
 > *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
