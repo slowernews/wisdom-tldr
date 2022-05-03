@@ -12,7 +12,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 - [The real you](/chapters/introduction.md#the-real-you)
 - [On finding your path](/chapters/introduction.md#on-finding-your-path)
-- [On happiness](/chapters/introduction.md#on-gratefulness)
+- [On happiness](/chapters/introduction.md#on-happiness)
 
 
 
@@ -121,7 +121,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *On envy triggers*
 - [On talent](/chapters/chapter_appendix.md#on-talent)
-- [On wealth](/chapters/chapter_appendix.md#on-money-and-wealth)
+- [On wealth](/chapters/chapter_appendix.md#on-wealth)
 - [On popularity](/chapters/chapter_appendix.md#on-popularity)
 - [On luck and risk](/chapters/chapter_appendix.md#on-luck-and-risk)
 - [On beauty and style](/chapters/chapter_appendix.md#on-beauty-and-style)
@@ -140,8 +140,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On art](/chapters/chapter_appendix.md#on-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
 - [On money management](/chapters/chapter_appendix.md#on-money-management)
-- [On travel and nomadism](/chapters/chapter_appendix.md#on-travel-and-nomadism)
-- [On college](/chapters/chapter_appendix.md#on-college)
+- [On education](/chapters/chapter_appendix.md#on-education)
 - [On reading](/chapters/chapter_appendix.md#on-reading)
 - [On writing](/chapters/chapter_appendix.md#on-writing)
 - [On media](/chapters/chapter_appendix.md#on-media)

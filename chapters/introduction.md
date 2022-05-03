@@ -9,6 +9,8 @@
 ## The real you
 
 <!--
+[fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.]
+
 There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul.
 to be real you need to be vulnerable
 - (kk) You are what you do. Not what you say, not what you believe, not how you vote, but what you spend your time on.
@@ -151,7 +153,6 @@ Hints:
 ## On happiness
 
 <!--
-> *'At your funeral people will not recall what you did; they will only remember how you made them feel.' -- Kevin Kelly*
 > *'The rise is always better than the peak.' -- Jim Jefferies*
 > *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
 
@@ -166,19 +167,14 @@ Hints:
 - Persistence + Love = Abundance
 - Masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
-- If you aren’t happy on the journey you won’t be happy at the destination.
-- fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.
-- The secret of joy is the mastery of pain. – Anaïs Nin
 -->
 
 > *'Happiness is when what you think, what you say, and what you do are in harmony.' --  Mahatma Gandhi*
 
-Happiness is a state where nothing is missing. Only in our mind you are happy or unhappy - nature doesn't care.
+Happiness is a *mind* state where nothing is missing.
 
 - Happiness = reality / expectations  
-- Happy life = mastery + belonging + autonomy
-
-Improve happiness actively (improve reality) and passively (lower expectations).
+- Happy life = autonomy + belonging + mastery
 
 > *'Happiness is not a goal, it’s a byproduct.' -- Eleanor Roosevelt*
 
@@ -192,21 +188,42 @@ Improve happiness actively (improve reality) and passively (lower expectations).
 
 > *'Happiness consists in getting enough sleep. Just that, nothing more.' -- Robert A. Heinlein*
 
-### How to improve reality?
+> *'The happiness of your life depends upon the quality of your thoughts.' -- Marcus Aurelius*
 
-Act, be patient and break long term goals into smaller ones so you can enjoy the journey.  
-We derive our true sense of fulfillment from constantly pursuing a life of «uncomfortability». For that you need autonomy.
+> *'Happiness is evident more by its absence than by its presence.' -- Naval Ravikant*
 
-> *'We have the idea that comfort brings happiness. Happiness comes from not having fear.'*
+### How to improve happiness?
+
+You can do it actively (improve reality) and passively (lower expectations). Don't spend 90% of your life trying to figure out how to be happy and 10% being happy. Be happy right now.
+
+Hints:
+
+- Improve reality by doing, being patient and breaking long term goals into smaller ones so you can enjoy the journey (If you aren’t happy on the journey you won’t be happy at the destination). Happiness comes from not having fear. We have the idea that comfort brings happiness. There is nothing out there that will make you happy and fulfilled forever. Fulfillment comes from constantly pursuing a life of «uncomfortability». For that you need autonomy.
+- Lower expectations by [being grateful](chapter_1_self.md#on-gratitude) and not taking yourself too seriously. Lowering expectations mean you will easily exceed them.
+- Ignore the rest.
 
 > *'Action may not always bring happiness, but there is no happiness without action.' -- Benjamin Disraeli*
-
-### How to lower expectations?
-
-Be [grateful](chapter_1_self.md#on-gratitude). Low expectations mean you will easily exceed them.
 
 > *'Many people lose the small joys in the hope for the big happiness.' -- Pearl S. Buck*
 
 > *'One of the keys to happiness is a bad memory.' -- Rita Mae Brown*
 
 > *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
+
+> *'A fit body, a calm mind, a house full of love. these things cannot be bought - they must be earned.' -- Naval Ravikant*
+
+> *'If can't be happy with a coffee, you won't be happy with a yacht.' -- Naval Ravikant*
+
+> *'The price of trying to make everybody else happy is making yourself miserable.' -- Naval Ravikant*
+
+<!--
+- The secret of joy is the mastery of pain. – Anaïs Nin
+- don's spend your time making othe rpeople happy. other people being happy is their problem. i's not your problem. if you are happy, it makes other people happy. -- Naval Ravikant*
+- happiness is being satisfied with what you have. Success comes from disatisfaction. choose. -- Naval Ravikant*
+money can't make rich people happy but it can make poor people happy. -- Naval Ravikant*
+- we are biological machines programmed to survive and replicate. happy is anti-evolution. -- Naval Ravikant*
+- money does buy happiness, if you earned it. -- Naval Ravikant*
+- a happy person isn't someone who's happy all the time. it's someone who effortlessly interpretsevents in such a waythat they don't lose their innate peace. -- Naval Ravikant*
+- peace comes from within. do not seek it without. -- buddha
+people are naturally happier when kept busy.
+-->

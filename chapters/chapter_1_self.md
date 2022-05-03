@@ -537,6 +537,7 @@ Hints:
 - friends
 - (kk) Learn how to take a 20-minute power nap without embarrassment.
 “In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves.” ― Laurie Halse Anderson
+- fasting focus the mind. it replaces all desires with a single desire -- naval
 -->
 
 > *'Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference' -- Erik Vance*

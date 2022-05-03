@@ -247,6 +247,16 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 - Blue collar want to feel the same as others. White collar want to feel different from others.
 - decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
 - Your product is decisions. 
+- clear thinkers take feedback from reality, not society. -- Naval Ravikant*
+- the three big decisions: where you live, who you're with and what you're doing. -- Naval Ravikant*
+- in the age of infinite leverage, judgement is the most important skill. -- Naval Ravikant*
+- thinking is difficult. that's why most people judge. -- carl jung
+- the heart decides. the head rationalizes. -- Naval Ravikant*
+- decision making is everything. if you get 80% right is exponnetially better than 70% right.
+- claer thinkers take feedback from reality not society. -- Naval Ravikant*
+- clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity. -- Naval Ravikant*
+- the only part you can't outsource is judgement. -- Naval Ravikant*
+- you know you're good at something when you switch from making decisionswith your conscious mind to making decisions with your instincts. -- Naval Ravikant*
 -->
 
 > *'A well defined problem seeks its own solution' -- Mike Brundant*
@@ -313,7 +323,8 @@ Hints:
 - 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
 - No to any decision that requires a calculator or computer. (Warren Buffett)  
 - Default to no. (Steve Jobs)
-- If you can't decide the answer is no. (Naval Ravikant)
+- If two equally difficult paths, choose the one more painful in the sort term. Pain avoidance is creating an illusion of equality. (Naval Ravikant)
+- Or the one that it may produce most serendipity down the line.
 
 
 
@@ -440,6 +451,8 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 - Media companies harvest your attention and transform it into revenue.
 - If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
+> *'I will have to remember «I'm here today to cross the swamp, not to fight all the alligators.' -- Rosamund and Benjamin Zander in "Art of possibility"
+- If you're not spending your time doing what you want, and you're not earning, and you're not learning - what the heck are you doing? -- naval
 -->
 
 > *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin* 
@@ -819,6 +832,11 @@ You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-a
 > *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
 
 Don't tell your kids how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
+
+<!--
+> *'To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave.' -- Kevin Kelly*
+> *'For the best results with your children, spend only half the money you think you should, but double the time with them.' -- Kevin Kelly*
+-->
 
 Hints:
 

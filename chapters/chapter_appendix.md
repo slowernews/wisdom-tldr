@@ -363,6 +363,19 @@ Health is also an envy trigger. Often what people really envy is self-control.
 - feel like a local celebrity: everybody knows who you are.
 - I'm not choosing ignorance. I'm choosing to not watch wrestling.
 - My life has been a series of questions and odd experiments.
+- Actively declutter. do not hold on to possessions you no longer need.
+- you can never be over dressed or over educated
+- you should be to busy to do coffee, while still keeping an uncluttered calendar. -- Naval Ravikant*
+- being able to sit in forest shortly after waking is the closest thing to heaven on earth.
+- aspire to move past room-mates, commutes, alarm clocks and calendars. -- Naval Ravikant*
+- technology is my slave, not my master.
+- to measure you quality of life simply do nothing and see how it feels. -- Naval Ravikant*
+- a busy calendar and a busy mind will destroy your ability to create anything great. -- Naval Ravikant*
+- develop strategic incompetence - people won't ask you to do things you hate to do, if you're bad at them. -- Naval Ravikant*
+- a vacation is a very expensive way to schedule the time to read a book in peace. -- Naval Ravikant*
+
+> *'Your time and space are limited. Remove, give away, throw out things in your life that dont spark joy any longer in order to make room for those that do.' -- Kevin Kelly*
+> *'Aim to die broke. Give to your beneficiaries before you die; it’s more fun and useful. Spend it all. Your last check should go to the funeral home and it should bounce.' -- Kevin Kelly*
 -->
 
 > *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
@@ -370,7 +383,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *'A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.' -- Robert Heinlein*
 
 We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children]() and die.
-When life becomes about [enjoying every second over accumulating more stuff](#on-money-and-wealth), we are able to live lives of true abundance and joy.
+When life becomes about [enjoying every second over accumulating more stuff](#on-wealth), we are able to live lives of true abundance and joy.
 
 > *'Each of us, when our day’s work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves.' -- O. Henry*
 
@@ -397,9 +410,35 @@ Hints:
 - One of the biggest mistakes that people make is that they are outcome oriented, not process oriented.
 -->
 
+Hints:
+
 - Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
 - Remove unnecessary distractions and obligations that aren’t truly serving your end goals.  
 - If you are looking for something, and you finally find it, when you’re done with it, don’t put it back where you found it but where you first looked for it. (Kevin Kelly)
+
+### On travel and nomadism
+
+<!--
+- On adrenaline: what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
+- (kk) A vacation + a disaster = an adventure.
+- (kk) When you are young spend at least 6 months to one year living as poor as you can, owning as little as you possibly can, eating beans and rice in a tiny room or tent, to experience what your “worst” lifestyle might be. That way any time you have to risk something in the future you won’t be afraid of the worst case scenario.
+-->
+
+> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
+
+> *'What gives value to travel is fear.' -- Albert Camus*
+
+Travel is the only thing you buy that makes you richer.   
+Travels are mini-lifes. They solve a plethora of self-improvement goals. 
+
+Hints:
+
+- Travelling is getting under the skin of the place.  
+- For how long? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
+- Think less about money optimization and more about who you’re going with.
+- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it’s not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
+- Choose places with “lifers”: people who are dedicated to the business itself, not to a paycheck.
+- Build a business with the heuristic of «maximize my vacation time»: Contracting -> Travelling between contracts -> Travelling while contracting -> Software product business -> Chilling
 
 
 
@@ -770,35 +809,7 @@ Get an exit strategy and take risk from the table when possible.
 
 
 ---
-## On travel and nomadism
-
-<!--
-- On adrenaline: what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
-- (kk) A vacation + a disaster = an adventure.
-- (kk) When you are young spend at least 6 months to one year living as poor as you can, owning as little as you possibly can, eating beans and rice in a tiny room or tent, to experience what your “worst” lifestyle might be. That way any time you have to risk something in the future you won’t be afraid of the worst case scenario.
--->
-
-> *'Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.' -- Jack Kerouac*
-
-> *'What gives value to travel is fear.' -- Albert Camus*
-
-Travel is the only thing you buy that makes you richer.   
-Travels are mini-lifes. They solve a plethora of self-improvement goals. 
-
-Hints:
-
-- Travelling is getting under the skin of the place.  
-- For how long? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
-- Think less about money optimization and more about who you’re going with.
-- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it’s not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
-- Choose places with “lifers”: people who are dedicated to the business itself, not to a paycheck.
-- Build a business with the heuristic of «maximize my vacation time»: Contracting -> Travelling between contracts -> Travelling while contracting -> Software product business -> Chilling
-
-
-
-
----
-## On college
+## On education
 
 > *'The purpose of high education is first and foremost to meet people and build relationships.' -- my teacher*
 
@@ -809,14 +820,26 @@ School rewards generalists, the world not so.
 
 > *'Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing.' -- Isaac Asimov*
 
+> *'If you need a degree to do it, it's not going to make you wealthy. -- Naval Ravikant*
+
 > *'«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase “Safety net”?
 Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up.' -- James Altucher*
 
+> *'The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas - just learning. Actually you're already here. Careful who you follow.' -- Naval Ravikant (on Twitter)*
+
 > *'Education: the path from cocky ignorance to miserable uncertainty.' -- Mark Twain*
+
+> *'The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.' -- Naval Ravikant*
+
+> *'The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology.' -- Naval Ravikant*
+
+> *'Learning is cheap, education is expensive.' -- Naval Ravikant*
 
 > *'Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out.' -- Naval Ravikant*
 
-> *'Learning is cheap, education is expensive.' -- Naval Ravikant*
+Study physics, mathematics, computers, microeconomics, game theory and persuasion.
+
+> *'The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths.' -- Naval Ravikant*
 
 
 

@@ -138,8 +138,10 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On following the herd
 
 <!--
-> *'When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong.' -- Kevin Kelly*
 > *'The more neatly you fit into society, the less free you actually are.' -- Naval Ravikant*
+> *'When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong.' -- Kevin Kelly*
+> *'You cant reason someone out of a notion that they didn’t reason themselves into.' -- Kevin Kelly*
+> *'If your opinions on one subject can be predicted from your opinions on another, you may be in the grip of an ideology. When you truly think for yourself your conclusions will not be predictable.' -- Kevin Kelly*
 -->
 
 > *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
@@ -304,6 +306,10 @@ Cleave from your family but come back. You need to be independent and loyal at t
 > *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
 
 ### On friends
+
+<!--
+> *'At your funeral people will not recall what you did; they will only remember how you made them feel.' -- Kevin Kelly*
+-->
 
 > *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
 
@@ -494,6 +500,10 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 ## On networking
 
 <!--
+> *'When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details.' -- Kevin Kelly*
+> *'When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying.' -- Kevin Kelly*
+> *'When introduced to someone make eye contact and count to 4. You’ll both remember each other.' -- Kevin Kelly*
+	
 1. Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
 2. Eye contact builds trust. dont hide yourself. dont wait to start talking. a group or a double might be an easy place to start.
 5. Keep it simple. Remember, to be interesting, you’ve got to be interested.
@@ -518,6 +528,9 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 - Not what should I do next but who should you speak next?
 - the best way to get value was to start giving it away? you’re giving validation
 - social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
+
+> *'Money is the ultimate network effect.' -- naval
+> *'Business networking is a complete waste of time. The reality is if you're building something interesting, you will always have more people who will want to know you.' -- naval*
 -->
 
 > *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
@@ -704,6 +717,11 @@ Hints:
 ## On hiring and being hired
 
 <!--
+> *'Dont ever work for someone you dont want to become.' -- Kevin Kelly*
+> *'You cannot get smart people to work extremely hard just for money.' -- Kevin Kelly*
+> *'Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for.' -- Kevin Kelly*
+> *'The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do.' -- Kevin Kelly*
+
 - growing companies are always hiring.
 > *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
 - The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
