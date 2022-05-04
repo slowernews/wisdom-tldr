@@ -94,9 +94,9 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *On competing*
 - [On opponents and allies](/chapters/chapter_3_action.md#on-opponents-and-allies)
-- [On defeating status quo](/chapters/chapter_3_action.md#on-defeating-status-quo)
 - [On leverage](/chapters/chapter_3_action.md#on-leverage)
 - [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
+- [On defeating status quo](/chapters/chapter_3_action.md#on-defeating-status-quo)
 
 *On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)

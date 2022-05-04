@@ -865,8 +865,6 @@ most books are propaganda
 
 Reading train your model of the world. Even if you forget most, its effect persists.
 
-Reading is not a race. If they wrote it to make money don't read it. Read the books they want to ban.
-
 > *'A book is less important for what it says than for what it makes you think.' -- Louis L'amour*
 
 > *'Every time I read a great book I felt I was reading a kind of map, a treasure map, and the treasure I was being directed to was in actual fact myself.' -- Matt Haig*
@@ -888,6 +886,8 @@ Reading is not a race. If they wrote it to make money don't read it. Read the bo
 > *'You don’t have to burn books to destroy a culture. Just get people to stop reading them.' -- Ray Bradbury*
 
 ### On classics
+
+Reading is not a race. Read the books they want to ban, not the ones made to make money. 
 
 > *'The great books are the books that never have to be written again.' -- Carl Van Doren*
 

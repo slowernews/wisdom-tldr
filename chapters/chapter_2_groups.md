@@ -769,6 +769,7 @@ At the same time, wages aren’t everything. Everyone wants to make good money b
 - trade money for time, not time for money. You're going to run out of time first. -- Naval Ravikant*
 - earn with your mind, not with your time. -- Naval Ravikant*
 - a taste of freedom can make you unemployable. -- Naval Ravikant*
+- A job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
 -->
 
 > *'He who works with his hands is a laborer.  
@@ -787,22 +788,22 @@ Your goal should be to «fire» yourself and hire people who are better at your 
 
 ### How to attract and keep talented people?
 
-<!--
-Everybody wants to hire the best. few of them actually pay them like they're the best. -- Naval Ravikant*
-a good employee willfully overcompensates you.  -- Naval Ravikant*
--->
-
 Respect them.
 
 You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
 
 Good employeees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
+A good employee willfully overcompensates you.
+
+> *'Everybody wants to hire the best. Few of them actually pay them like they're the best.' -- Naval Ravikant*
 
 > *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
 ### On job applications
 
-When applying for a job be more of a consultant than an applicant. Hints:
+When applying for a job be more of a consultant than an applicant.
+
+Hints:
 
 - Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
 DON’T tell about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell HOW you accomplished your responsibilities better than the next person. ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.  
@@ -832,92 +833,102 @@ Don’t get discouraged if you get a «no». Simply thank them for their time an
 
 <!--
 - give the world what it need and it will give you what you want. -- Naval Ravikant*
-- an entrepreneus without drive is just an unemployed. -- Naval Ravikant*
-- if you want to be great , walk the rope without a boss and without a net. -- Naval Ravikant*
 - following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now. -- Naval Ravikant*
 - to get paid in the future, live in the future. -- Naval Ravikant*
-- if th ework doesn't require creativity, delegate it, automate it or leave it. -- Naval Ravikant*
 - remote killed HR
-> *'Nobody can competewith you on being you. Most of life is a search for who and what needs you the most.' -- 
-- rich people get paid by project and pay by teh hour.
 - hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
 - volunteer for assignments / becoming the go to guy for some questions
 - trabalhar de porta aberta vs trabalhar à porta fechada
-- Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
-- work smart not harder but hard still. its good to be better, but is better to be different.
 - Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 - trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
-- Always Focus on Delivering More Value than Expected
-- A job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
-- you are a learning machine. Not an occupation.
 - recruiting better than hiring: find a place where you can do a good job
-- My passionate interests have changed 30 times since I graduated college.
-- You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
-- read the classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest..
-
-100% time -> 100% results  
-20% time -> 80%results  
-So: 100% on one thing = 80% on 5 things!  
-
-- Happy, Smart, and Useful
 - look at situations as systems. i help to create systems.
-- (kk) Don’t be the best. Be the only.
-- learn to sell. learn to build. if you can do both, you're unstoppable. -- Naval Ravikant*
 - if you can't code, write books and blogs, record videos and podcasts. -- Naval Ravikant*
-- get paid for doing wat only you can uniquely do. -- Naval Ravikant*
+- 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
 -->
 
-> *'The moment you [rigidly follow a plan](chapter_3_action.md#on-change-and-adapting) set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
+> *'Don’t be the best. Be the only.' -- Kevin Kelly*
 
-Avoid the trap of following one set career path - focus on being useful - it will be easier to pivot. If your job doesn’t require originality, next decade you might not have it.
+Nobody can compete with you on being you. Most of life is a search for who and what needs you the most. Be unique.
 
 > *'The interesting jobs are the ones that you make up.' -- Chris Young*
 
-> *'I always advise young people to become good public speakers (top 25%). Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
-
-Employees have no control over their futures. The economy forces all the risk on them - more outsourcing, more automation and every month they risk being fired.
-
-> *'The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
-
-> *'I work for money, if you want loyalty hire a dog.'*
-
-> *'You dont get anywhere, and for more money, sitting in the same seat.'*
-
-> *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
-
-### Is it better to be a specialist or a generalist?
-
-- To be an entrepreneur you need to know a little about a lot of things.  
-- To be employed, if you pick the right specialization, you'll do better as a specialist.
+> *'If the work doesn't require creativity, delegate it, automate it or leave it.' -- Naval Ravikant*
 
 ### How to advance career?
 
-Knowledge + metaknowledge (instead of asking, journal higher hierarchy than you)
+<!--
+- Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for.
+-->
 
-- Become the best at one specific thing.  
-- Become very good (top 25%) at two or more things.
+Become the best at one specific thing or very good at two or more things.
+
+Hints:
+
+- Work smart not harder but hard still. It's good to be better, but is better to be different.
+- Metaknowledge (instead of asking, journal higher hierarchy than you).
+- You dont get anywhere, and for more money, sitting in the same seat.
+- Always focus on delivering more value than expected.
+- Happy, smart, and useful.
+- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest..
+
+> *'Learn to sell. Learn to build. If you can do both, you're unstoppable.' -- Naval Ravikant*
 
 > *'I had a manager who once said the people who were terminated were those who question too much and do too little.'*
 
-> *'While deep work will promote you, shallow work will only prevent you from being fired.'  
-'Career capital is the unique skills that make you rare and valuable'  
-'Be so good that they cannot ignore you' -- Cal Newport*
+> *'I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
 
-> *'Your income is directly proportional to the need for what you do and your ability to do it.' -- Jim Rohn*
-
-> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
+> *'While deep work will promote you, shallow work will only prevent you from being fired.'*
 
 ### How to «pivot» career?
 
-> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
+> *'The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
 
 You will either pivot or get pivoted.
+
+Avoid the trap of following one set career path, focus on being useful.  
+If your job doesn’t require originality, next decade you may not have it and you'll need to pivot.
+
+My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation.
+
+> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
+
+> *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
 
 You make yourself rare by combining two or more relevant “pretty goods”. Capitalism rewards things that are both rare and valuable.
 
 - use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
 - stuff that looks fun for you and looks like work for others.
 - take risks to boost your immune system.  
+'Career capital is the unique skills that make you rare and valuable.'  
+'Be so good that they cannot ignore you.' -- Cal Newport*
+
+> *'Your income is directly proportional to the need for what you do and your ability to do it.' -- Jim Rohn*
+
+> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
+
+### Employee or entrepreneur?
+
+Employees have no control over their futures. The economy forces all the risk on them - more outsourcing, more automation and every month they risk being fired.
+
+Hints:
+
+- Work for money, if they want loyalty they can hire a dog.
+- Rich people get paid by project and pay by the hour.
+
+> *'An entrepreneus without drive is just an unemployed.' -- Naval Ravikant*
+
+> *'The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
+
+<!--
+- if you want to be great, walk the rope without a boss and without a net. -- Naval Ravikant*
+- You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
+-->
+
+### Specialist or generalist?
+
+- To be an entrepreneur you need to know a little about a lot of things.  
+- To be employed, if you pick the right specialization, you'll do better as a specialist.
 
 ### How to know your strenghts?
  

@@ -974,22 +974,6 @@ Hint: Buy from your community. Sell to outsiders.
 
 
 ---
-## On defeating status quo
-
-<!--
-- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
--->
-
-> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
-
-The only successful changes are those coming from within.
-
-> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
-
-
-
-
----
 ## On leverage
 
 <!--
@@ -1152,6 +1136,21 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 
 > *'Don’t treat people as bad as they are. Treat them as good as you are.' -- Kevin Kelly*
 
+
+
+
+---
+## On defeating status quo
+
+<!--
+- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
+-->
+
+> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
+
+The only successful changes are those coming from within.
+
+> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
 
 
 
