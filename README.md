@@ -74,7 +74,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 ## Chapter 3 - Action
 
 *On preparing action*
-- [On creativity, vision and ideas](/chapters/chapter_3_action.md#on-creativity-vision-and-ideas)
+- [On creativity](/chapters/chapter_3_action.md#on-creativity)
 - [On analysis](/chapters/chapter_3_action.md#on-analysis)
 - [On planning](/chapters/chapter_3_action.md#on-planning)
 - [On decision making](/chapters/chapter_3_action.md#on-decision-making)

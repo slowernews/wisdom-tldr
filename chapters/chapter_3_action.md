@@ -8,33 +8,29 @@
 
 # 3.1 - On preparing action
 
-## On creativity, vision and ideas
+## On creativity
 
 > *'The secret to creativity is knowing how to hide your sources.' -- Albert Einstein*
 
-> *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
-
-We don’t have an «imagination» we have a memory. Creative minds are rarely tidy.
+Creative minds are rarely tidy. We don’t have an «imagination» we have a memory. 
 
 > *'Good artists copy; great artists steal.' -- Steve Jobs & others*
 
 > *'Those who do not want to imitate anything, produce nothing.' -- Salvador Dali*
 
-> *'The new is the forgotten because everything has already happened.' -- Arturo Pérez Reverte*
-
 > *'To invent, you need a good imagination and a pile of junk.' -- Thomas Edison*
 
 ### How to find good ideas?
 
-Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
+> *'Using creativity to solve problems cannot be taught, and it's ultimately what free markets pay for.' -- Naval Ravikant*
 
-Ideas born out of free time, play and boredom. Creativity is a muscle, you have to practice it every day. Once it stays the same, it’s no longer creative. [Without new experiences, your soul rots](chapter_1_self.md#on-comfort-and-risk).
-
-Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant about the market and the «right way» to do things allows them to come up with creative solutions to problems that experienced veterans would never have thought of.
+> *'Name the greatest of all inventors. Accident.' -- Mark Twain*
 
 > *'The way to get good ideas is to get lots of ideas and throw the bad ones away.' -- Linus Pauling*
 
-> *'If you accept conventional wisdom from conventional people living conventional lives. Can you expect to be anything other than conventional?'*
+Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
+
+Creativity is a muscle. [Without new experiences](chapter_1_self.md#on-comfort-and-risk), it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional wisdom from conventional people living conventional lives lead to conventional ideas.
 
 > *'We can’t solve problems by using the same kind of thinking we used when we created them.' -- Albert Einstein*
 
@@ -44,21 +40,17 @@ Ignorance is a blessing, gives you freedom to think about stuff. Being ignorant 
 
 > *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
-> *'Name the greatest of all inventors. Accident.' -- Mark Twain*
-
 ### How to judge ideas?
-
-<!--
-> *'A multitude of bad ideas is necessary for one good idea.' -- Kevin Kelly*
--->
 
 Peers are the best judging ideas. Managers will regret more a false positive than a false negative.
 
-However the right idea not executed is worth nothing and a mediocre one well executed can prove to be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can bring them to life. 
+However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can bring them to life. 
 
 > *'Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
 
 > *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
+
+> *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
 
 
 
@@ -176,15 +168,11 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ---
 ## On planning
 
-<!--
-> *'Like most misery, it started with apparent happiness.' -- Markus Zusak*
--->
-
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
 > *'If your goal does not have a schedule, it is a dream.' -- Kevin Kelly*
 
-You can’t predict but you can prepare. Plan ahead and prepare for the highly probable scenarios.
+You can’t predict but you can prepare for the highly probable scenarios.
 
 > *'The best way to predict the future is to invent it.' -- Alan Kay*
 
