@@ -792,8 +792,7 @@ Respect them.
 
 You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
 
-Good employeees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
-A good employee willfully overcompensates you.
+Good employees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
 
 > *'Everybody wants to hire the best. Few of them actually pay them like they're the best.' -- Naval Ravikant*
 
@@ -818,8 +817,8 @@ Don't do interviews, do discussions.
 
 Hints:
 
-- «What are there problems you've solved and how did you solve them?» (Elon Musk)
-- «What do you own and Why?» (Sandy Gottesman, investor)
+- «What are there problems you’ve solved and how did you solve them?» (Elon Musk)
+- «What do you own and why?» (Sandy Gottesman, investor)
 
 ### On asking for a raise
 
@@ -962,4 +961,4 @@ However don’t vow to the gatekeepers. Most people are basically afraid of thei
 
 > *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
 
-> *'The internet doesn't care about your title' -- Naval Ravikant
+> *'The internet doesn’t care about your title' -- Naval Ravikant*
