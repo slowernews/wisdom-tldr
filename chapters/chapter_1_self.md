@@ -651,7 +651,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 
 
 ---
-## On mistakes, failure and regrets
+## On failure, mistakes and regrets
 
 <!--
 - (kk) To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is.

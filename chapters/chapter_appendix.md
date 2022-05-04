@@ -224,6 +224,13 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 
 <!--
 - money is freedom. why do u want fu money if you don't say fu.
+- making money is not about luck
+- making money is not something that you do - it's a skill that you learn. -- Naval Ravikant*
+- money doesnt buy happiness. it buys freedom
+- you don't get rich by sppending your time to save money. you get rich by saving your time to save make money.
+optimize for control over money and you'll make more money. -- Naval Ravikant*
+management is the oldest, and most over-rated form of leverage. capital, media and code are the modern forms. -- Naval Ravikant*
+no one can predict macro.  -- Naval Ravikant*
 -->
 
 > *'Some people are so poor, all they have is money.' -- Patrick Meagher*
@@ -293,6 +300,8 @@ People say they want to be famous to impact the world, often what they want is t
 <!--
 > *'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.' -- Paulo Coelho*
 > *'I naufraghi prima o poi finiscono per incontrarsi.' -- M. Vázquez Montalban*
+- luck and risk are siblings. they are boththe reality that every outcome in life is guided by forces other than individual effort - livro economia
+- what do you want to  know about investing that we can't know? the exact role of luck in succeful outcomes. -- robert schiller 
 -->
 
 > *'Shallow men believe in luck or in circumstance. Strong men believe in cause and effect.' -- Ralph Waldo Emerson*
@@ -377,7 +386,6 @@ Health is also an envy trigger. Often what people really envy is self-control.
 - you can never be over dressed or over educated
 - you should be to busy to do coffee, while still keeping an uncluttered calendar. -- Naval Ravikant*
 - being able to sit in forest shortly after waking is the closest thing to heaven on earth.
-- aspire to move past room-mates, commutes, alarm clocks and calendars. -- Naval Ravikant*
 - technology is my slave, not my master.
 - to measure you quality of life simply do nothing and see how it feels. -- Naval Ravikant*
 - a busy calendar and a busy mind will destroy your ability to create anything great. -- Naval Ravikant*
@@ -385,7 +393,6 @@ Health is also an envy trigger. Often what people really envy is self-control.
 - a vacation is a very expensive way to schedule the time to read a book in peace. -- Naval Ravikant*
 
 > *'Your time and space are limited. Remove, give away, throw out things in your life that dont spark joy any longer in order to make room for those that do.' -- Kevin Kelly*
-> *'Aim to die broke. Give to your beneficiaries before you die; it’s more fun and useful. Spend it all. Your last check should go to the funeral home and it should bounce.' -- Kevin Kelly*
 -->
 
 > *'I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life.' -- David Hockney*
@@ -407,11 +414,12 @@ Hints:
 
 - 3 days a week; 3 weeks a month; 3 months free a year.  
 - House + work + third place.
-- Essencialism: the disciplined pursuit of less. Simplicity is the ultimate sophistication. Eliminating clutter makes room for your true treasures. The end goal is to clarify your values.
+- Simplicity is the ultimate sophistication. Eliminating clutter makes room for your true treasures. The end goal is to clarify your values.
 - Own my house on a few acres with clean water river frontage, and assets i can enjoy & be creative with (car, bike, music equipment, tools etc)  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 - The opposite of play isn’t work, it’s depression.  
 - How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.  
+- Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
 - In life, you will often be presented with two options: the lucrative option and the lifestyle option. Don’t play the government’s game.
 
 ### How to simplify?
@@ -509,6 +517,7 @@ But success is a dangerous word. I don’t know any successful person.
 the source of wisdom is pain -- naval
 inteligence + experience = wisdom
 the measure of wisdom is silence -- naval
+the measure of wisdom how calm you when facing any given situation -- naval
 the measure of long term thinking is wisdom -- naval paraphrased
 -->
 
@@ -931,11 +940,11 @@ Hints:
 ---
 ## On media
 
-> *'Journalists aren't neutral, they're the cavalry of culture wars. -- Naval Ravikant*
-
 > *'The goal of media is to make every problem, your problem.' -- Naval Ravikant*
 
 The human brain was not designed to process all of the world's emergencies in realtime.
+
+> *'Journalists aren't neutral, they're the cavalry of culture wars. -- Naval Ravikant*
 
 
 

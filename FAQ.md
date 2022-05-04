@@ -31,4 +31,10 @@ As soon as I arrive to a stable draft (and I'm still far from it), I'll publish 
 
 This project will never be complete. I plan to polish it during my lifetime.
 
-Formally (on a Github repository) it started in 2016 but I actively research it since 2014. At the time of writing, Wisdom TLDR has 5 chapters and 90 sections. Spending 10 minutes per month researching or updating each section seems underwhelming, still it accrues - easily - to two workdays.
+Formally (on a Github repository) it started in 2016 but I actively research it since 2014. At the time of writing, Wisdom TLDR has 5 chapters and 84 sections. Spending 10 minutes per month researching or updating each section seems underwhelming, still it accrues - easily - to two workdays.
+
+<!--
+usar a cabala pra introduzir misticismo.
+
+this book is waht everyone is looking for. some just haven't found it yet.
+-->

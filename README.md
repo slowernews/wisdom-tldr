@@ -36,7 +36,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
 - [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
-- [On mistakes, failure and regrets](/chapters/chapter_1_self.md#on-mistakes-failure-and-regrets)
+- [On failure, mistakes and regrets](/chapters/chapter_1_self.md#on-failure-mistakes-and-regrets)
 - [On shame, confidence and validation](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
 - [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
@@ -95,12 +95,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On competing*
 - [On opponents and allies](/chapters/chapter_3_action.md#on-opponents-and-allies)
 - [On defeating status quo](/chapters/chapter_3_action.md#on-defeating-status-quo)
-- [On creating imbalances](/chapters/chapter_3_action.md#on-creating-imbalances)
 - [On leverage](/chapters/chapter_3_action.md#on-leverage)
-- [On charming](/chapters/chapter_3_action.md#on-charming)
-- [On deceiving](/chapters/chapter_3_action.md#on-deceiving)
 - [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
-- [On mirroring](/chapters/chapter_3_action.md#on-mirroring)
 
 *On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)

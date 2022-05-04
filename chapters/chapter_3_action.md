@@ -990,7 +990,26 @@ The only successful changes are those coming from within.
 
 
 ---
-## On creating imbalances
+## On leverage
+
+<!--
+> *'All guns are loaded.' -- Kevin Kelly*
+
+- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
+Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
+- Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
+-->
+
+> *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
+
+Leverage is a force multiplier for your judgement.
+
+> *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
+Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
+An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.' -- Naval Ravikant* 
+
+### On creating imbalances
 
 <!--
 > *'Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy.' -- Balthasar Gracian*
@@ -1022,33 +1041,13 @@ Some hints:
 
 
 ---
-## On leverage
-
-<!--
-> *'All guns are loaded.' -- Kevin Kelly*
-
-- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
-Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
-- Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
--->
-
-> *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
-
-Leverage is a force multiplier for your judgement.
-
-> *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
-Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
-Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
-An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.' -- Naval Ravikant* 
-
-
-
-
----
-## On charming
+## On unpredictability
 
 <!--
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
+- Bad liars should speak as little as possible.
+- if somebody asks for the evidence, normally, he’s lieing
+- the good reason and the real reason.
 -->
 
 > *'We catch more flies with honey than vinegar.'*
@@ -1074,18 +1073,6 @@ Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th
 > *'Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends.' -- Kevin Kelly*
 
 > *'Compliment people behind their back. It’ll come back to you.' -- Kevin Kelly*
-
-
-
-
----
-## On deceiving
-
-<!--
-- Bad liars should speak as little as possible.
-- if somebody asks for the evidence, normally, he’s lieing
-- the good reason and the real reason.
--->
 
 > *'A man is not deceived by others, he deceives himself.' -- Goethe*
 
@@ -1129,7 +1116,7 @@ And don't attribute to malice what you can attribute to incompetence or busyness
 
 > *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
 
-### On truth and lies
+### On lies
 
 > *'Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.' -- Hannah Arendt*
 
@@ -1145,16 +1132,7 @@ The only thing worth praying is truth.
 - the closer you are to the truth, the more silent you become inside. -- Naval Ravikant*
 - the only time you enjoy hearing a lie is when you already know the truth.
 - sometimes people dont want to hear the truth because they don't want their illusions destroyed -- friedrich nietzsche
--->
-
-
-
-
----
-## On unpredictability
-
-<!--
-Teach no one your tricks or they will be used against you.
+- Teach no one your tricks or they will be used against you.
 -->
 
 > *'Conceal your intention.'  
@@ -1164,11 +1142,7 @@ Teach no one your tricks or they will be used against you.
 
 However unpredictability can work against you: if you are in a subordinate position, it reduces trust.
 
-
-
-
----
-## On mirroring
+### On mirroring
 
 > *'Disarm and infuriate with the mirror effect.' -- Robert Greene (44th law of power)*
 
