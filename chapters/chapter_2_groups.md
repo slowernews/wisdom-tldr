@@ -867,10 +867,10 @@ Hints:
 
 - Work smart not harder but hard still. It's good to be better, but is better to be different.
 - Metaknowledge (instead of asking, journal higher hierarchy than you).
-- You dont get anywhere, and for more money, sitting in the same seat.
+- You don't get anywhere, and for more money, sitting in the same seat.
 - Always focus on delivering more value than expected.
 - Happy, smart, and useful.
-- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad keeping up with the latest and greatest..
+- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
 
 > *'Learn to sell. Learn to build. If you can do both, you're unstoppable.' -- Naval Ravikant*
 
@@ -900,7 +900,8 @@ You make yourself rare by combining two or more relevant “pretty goods”. Cap
 - use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
 - stuff that looks fun for you and looks like work for others.
 - take risks to boost your immune system.  
-'Career capital is the unique skills that make you rare and valuable.'  
+
+> *'Career capital is the unique skills that make you rare and valuable.'  
 'Be so good that they cannot ignore you.' -- Cal Newport*
 
 > *'Your income is directly proportional to the need for what you do and your ability to do it.' -- Jim Rohn*
@@ -916,7 +917,7 @@ Hints:
 - Work for money, if they want loyalty they can hire a dog.
 - Rich people get paid by project and pay by the hour.
 
-> *'An entrepreneus without drive is just an unemployed.' -- Naval Ravikant*
+> *'An entrepreneur without drive is just an unemployed.' -- Naval Ravikant*
 
 > *'The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
 
