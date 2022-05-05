@@ -81,7 +81,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
-- [On speed, position and direction](/chapters/chapter_3_action.md#on-speed-position-and-direction)
+- [On speed and direction](/chapters/chapter_3_action.md#on-speed-and-direction)
 - [On focus, priorities and productivity](/chapters/chapter_3_action.md#on-focus-priorities-and-productivity)
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
@@ -96,7 +96,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On opponents and allies](/chapters/chapter_3_action.md#on-opponents-and-allies)
 - [On leverage](/chapters/chapter_3_action.md#on-leverage)
 - [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
-- [On defeating status quo](/chapters/chapter_3_action.md#on-defeating-status-quo)
 
 *On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)

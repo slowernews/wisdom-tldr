@@ -190,7 +190,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 
 ### How to plan? 
 
-Start with a [vision](#on-creativity-vision-and-ideas). Then look for actionable steps.  
+Start with a [vision](#on-creativity-and-ideas). Then look for actionable steps.  
 
 Choose the plan with more options. The one that lets you change plan. Plans are only a starting point.  
 However too detailed plans (or too general plans) are not useful and a waste of time.
@@ -296,9 +296,9 @@ All models are wrong. The practical question is how wrong do they have to be to 
 
 > *'The world doesn’t have the luxury of waiting for complete answers before it takes action.' -- Daniel Gilber*
 
-The ability to make fast decisions is a competitive advantage.
+To make fast decisions is a competitive advantage.
 
-Some people get paralyzed by [over thinking](#on-starting-and-timing). When you don't decide somebody will decide for you.
+Most people get paralyzed by over thinking. When you don't decide timely somebody will do it for you.
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
@@ -306,13 +306,13 @@ Some people get paralyzed by [over thinking](#on-starting-and-timing). When you 
 
 Hints:
  
-- Optimal decisions occur when one has 70% of the necessary information. Anything less than 70% and you’ll probably make a bad decision. But anything more than 70% and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
-- Is the decision reversible or irreversible? If it is reversible, we can make it fast and without perfect information. If a decision is irreversible, we should slow down the decision-making process and ensure that we consider ample information and understand the problem as thoroughly as we can. (Jeff Bezos)
+- Default to no. (Steve Jobs)
 - 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
 - No to any decision that requires a calculator or computer. (Warren Buffett)  
-- Default to no. (Steve Jobs)
-- If two equally difficult paths, choose the one more painful in the sort term. Pain avoidance is creating an illusion of equality. (Naval Ravikant)
-- Or the one that it may produce most serendipity down the line.
+- With two equally difficult paths, choose the one more painful in the sort term. Pain avoidance is creating an illusion of equality. (Naval Ravikant)
+- Is the decision reversible or irreversible? If it is reversible, make it fast and without perfect information. If is irreversible, slow down and ensure that you understand the problem. (Jeff Bezos)
+- Choose the one that may produce most serendipity down the line.
+- Optimal decisions occur with 70% of the information. Anything less and you’ll probably make a bad decision. Anything more and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
 
 
 
@@ -331,16 +331,16 @@ Hints:
 - monk mode -> no communication during mornings, only deep work -> meetings afternoon
 - If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
 - jogar c o baralho todo / jogar com um subset
-- letting go allows progress. letting things happen instead of trying things to happen.
-- I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.
 - keep earning your title, or it expires. -- derek sivers
 - The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
 - The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
 
+
+> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
 > *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
-> *'If you spend too much time thinking about a thing, you’ll never get it done. Make at least one definite move daily toward your goal.' -- Bruce Lee*
 > *'Action expresses priorities.' -- Ghandi*
+- I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.
 > *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
 -->
 
@@ -387,19 +387,17 @@ At some point, the pain of not doing it becomes greater than the pain of doing i
 
 > *'Did you know you can't steer a boat that isn't moving? Just like a life.' -- Paul Lutus*
 
-HOWEVER, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a [plan](#on-planning-and-decision-making). Any plan will do.
+HOWEVER, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a plan. Any plan will do.
 
 > *'A good plan, violently executed now, is better than a perfect plan next week.' -- General George Patton*
 
-> *'No one ever wrote a plan to be fat lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
-
-> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
+> *'No one ever wrote a plan to be fat, lazy or stupid. That’s what happens when you don’t have a plan.' – Larry Winget*
 
 
 
 
 ---
-## On speed, position and direction
+## On speed and direction
 
 > *'Speed is useful only if you are running in the right direction.' -- Joel Barker*
 
@@ -484,12 +482,13 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 > *'The price of productivity is creativity.' -- Naval Ravikant*
 
-Getting a lot of unnecessary things done is not productivity: it’s stupidity. Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything.
+Getting a lot of unnecessary things done is not productivity: it’s stupidity.
 
-20% of your effort will give you 80% of output: it may be enough or even more than enough. But 80/20 is fractal: If 20% of the effort creates 80% of the value. So now 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do in life may create 64% of the benefits in your life.
+Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything. 20% of your effort will give you 80% of output: it may be enough or even more than enough. 
 
 Hints:
 
+- 80/20 is fractal: If 20% of the effort creates 80% of the value. So now 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do in life may create 64% of the benefits in your life.
 - Focus on 3 outcomes (not todos) per day and tackle the most important one in the morning.
 - Set specific, measurable, attainable, realistic and time-based goals. Always work with a specific purpose in mind.
 - Be fully present: learn to focus on what you are doing now.
@@ -515,11 +514,11 @@ Hints:
 
 > *'You can lead a horse to water but you can’t make him drink.' -- unknown* 
 
+Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
+
 Control what you can: [what you’re primed by](introduction.md#the-real-you), [who you are around](chapter_2_groups.md#on-family-and-friends), the ideas and problems you [focus](#on-focus-priorities-and-productivity) on. Ignore the rest.
 
 Consuming information gives the control freak an illusion of control. He doesn't want to acknowledge that the universe doesn't make sense and he doesn't trust himself to handle disorder in a situation that will get out of his league or skillset.
-
-Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
 > *'If things seem under control, you’re just not going fast enough.' -- Mario Andretti (F1 pilot)*
 
@@ -577,7 +576,7 @@ Overcompensate. Some people get passion from something they struggled with.
 
 Plans are not static.
 
-You need to switch strategies a few times to get where you want to go. When problems shift faster than your rate of adaptation you go extinct.
+Switch strategies a few times to get where you want to go. If problems shift faster than your rate of adaptation you loose.
 
 > *'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.' -- Everett Dirksen*
 
@@ -734,27 +733,28 @@ Hints:
 - pay double and insist on ten times the quality. -- Naval Ravikant*
 
 > *'Zero-sum games tend towards conflict. Positive-sum games tend towards cooperation.' -- Naval Ravikant*
-> *'Negotiations are won by whoever cares less.' -- Naval Ravikant 
+- To negotiate is to have options.
 -->
 
-You don’t get what you deserve in life, you only get what you negotiate.
+> *'Negotiations are won by whoever cares less.' -- Naval Ravikant*
+
+You don’t get what you deserve in life, only what you negotiate.
 
 Negotiation establishes the price (exchange rate between money and value).  
-That said, a bad/good negotiation means that you are giving more/less value than receiving for it.
+That said, a good negotiation means that you are giving less value than receiving for it and vice-versa.
 
 Hints:
 
-- If you want to go fast, let the other part go first.
+- To go fast, let the other part go first.
 - You can only negotiate with integrous people.
-- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy (eg. Trump) wants to make it fast. For the accomodator, the relationship is the most important.
-- You don't need to match the other person mood, you should be playful and smart, taking the other to mirror your good mood also.
-- Mirroring and reword. Repeating the last one to three words of the other person. It opens up people’s brain. Its' very effective. Test the firmness of what they want. People didn't even realize it.
-- The more you take, the more you can give back in meaningless concessions.  
-- «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
-- Never negotiate with binary questions: '«What can you do?» instead of «Will you do this?»'  
+- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy wants to make it fast. For the accomodator, the relationship is the most important.
+- You should be playful and smart, taking the other to mirror your good mood also.
+- Mirroring by repeating the last few words of the other person. It opens up people’s brain. It tests the firmness of what they want.
+- Never negotiate with binary questions: prefer '«What can you do?» instead of «Will you do this?»'  
 - Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
 - Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell.
-- To negotiate is to have options.
+- «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
+- The more you take, the more you can give back in meaningless concessions.  
 
 > *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
 
@@ -799,7 +799,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 
 > *'You don't need mentors, you need action.'* -- Naval Ravikant*
 
-Feedback from mentors and «loving critics» speeds up improvement. Even if you can't understand the logic behind their wisdom, they can show you the door.
+Feedback from mentors and «loving critics» speeds up improvement. Even if you can't understand the logic behind their wisdom, they'll show you the door.
 
 > *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
 
@@ -811,7 +811,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 
 > *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
 
-> *'Your father is your first mentor.'*
+Your father is your first mentor.
 
 You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
 
@@ -841,9 +841,7 @@ Hints:
 - Self improvement: «Did you give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
 - Autority: «Kid: why do I have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
 - Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
-- Fight perfectionism: «If you get a C or lower, I’ll buy you a present. If you score higher than that, I won’t buy you anything, because you won’t need it.»
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
-- Optimism: «You have the gift of today.»
 
 > *'Children totally accept — and crave — family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies.' -- Kevin Kelly*
 
@@ -851,7 +849,7 @@ Hints:
 
 > *'Be nice to your children because they are going to choose your nursing home.' -- Kevin Kelly*
 
-However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you [don't owe them](#on-freedom) anything.
+However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don't owe them anything.
 
 > *'Do not teach a starving man to fish.'*
 
@@ -865,7 +863,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 > *'He that gives should never remember and he that receives should never forget.' -- Talmud*
 
-Always be generous. No one on their deathbed has ever regretted giving too much away. A low value gift may have the opposite effect.
+No one on their deathbed has ever regretted giving too much away. A low value gift may have the opposite effect.
 
 > *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
 
@@ -879,9 +877,9 @@ Always be generous. No one on their deathbed has ever regretted giving too much 
 
 Powerful people give freely, buying influence rather than things.
 
-The best way to learn complex behaviors is via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. After the behaviour is learnt, continuous reinforcement should become intermitent reinforcement.
+We learn complex behaviors via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. After the behaviour is learnt, continuous reinforcement becomes intermitent reinforcement.
 
-However, the people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your time, presence and attention.
+However, the people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your presence and attention.
 
 ### On punishments
 
@@ -909,7 +907,7 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 
 Beware of all players.
 
-People are amazing optimizers and will find any loopholes or gaps to their advantage. No one will help you in a way that is prejudicial to them.
+People are amazing optimizers and will find any loopholes or gaps to their advantage. Few people will help you in a way that is prejudicial to them.
 
 ### On easy opponents
 
@@ -1000,7 +998,7 @@ Strategy is about winning before the battle begins, while tactics are about stri
 > *'The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
 A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.' -- Richard Rumelt*
 
-Some hints:
+Hints:
 
 - Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.  
 - If you control the overall direction and framing of the battle, anything they do will play into your hands.  
@@ -1008,6 +1006,18 @@ Some hints:
 - In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.  
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - Divide and conquer.
+
+### On defeating status quo
+
+<!--
+- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
+-->
+
+> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
+
+The only successful changes are those coming from within.
+
+> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
 
 
 
@@ -1128,22 +1138,6 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 
 
 ---
-## On defeating status quo
-
-<!--
-- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
--->
-
-> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
-
-The only successful changes are those coming from within.
-
-> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
-
-
-
-
----
 # 3.4 - On ending
 
 ## On finishing
@@ -1157,7 +1151,7 @@ everything will be ok in the end. if it's not ok, it's not the end.
 
 Starting is fun but success belongs to finishers.
 
-[Going halfway](#on-focus-time-management-and-productivity) is a waste. When the end finally comes, it comes quickly.
+Going halfway is a waste. When the end finally comes, it comes quickly.
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 
@@ -1218,6 +1212,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 <!--
 - Surrendering to constant reinvention.
+- letting go allows progress. letting things happen instead of trying things to happen.
 -->
 
 > *'It only hurts when you don’t have time to prepare for the fall' -- Tony Hawk*
