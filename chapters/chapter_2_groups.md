@@ -62,10 +62,9 @@ Ask the person trying to convince you of something to explain how it would work.
 
 > *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
 
-
 ### On public speaking
 
-You don't need to answer their question.
+You don't need to answer their questions.
 
 - You can say whatever you want if it's interesting.
 - Know when to answer boring on easy to misinterpret questions.

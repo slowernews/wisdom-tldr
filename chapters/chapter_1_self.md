@@ -541,6 +541,7 @@ Hints:
 ## On stress and health
 
 <!--
+- people are naturally happier when kept busy.
 - emotions of an event are like bookmarks
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.

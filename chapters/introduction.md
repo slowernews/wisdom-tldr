@@ -91,7 +91,7 @@ What do you really want?
 
 > *'The obstacle is the way.' -- Marcus Aurelius*
 
-> *'I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.' -- E.B. White*
+> *'I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.' -- E.B. White*
 
 > *'Take advantage of the opportunities - that’s probably more important than charting your path.' -- Admiral William Mcraven*
 
@@ -114,7 +114,7 @@ But the problem with this philosophy is that no great work ever came from comfor
 
 Hints:
 
-- Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change. It’s ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.  
+- Admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change. It’s ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you. Especially if they become well enough known that people start to identify them with you. You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.  
 - If you are feeling lost in life experience more things. Become unconfortable. It will improve your tolerance for risk and adversity. Almost everything that you want is on the other side of the uncomfortable and the scary.  
 - Let fear be your guide. The more fear you feel, the more you will know you are on the right track.  
 - What do you do for fun? What are you interested in that everybody in the world is interested in?  
@@ -153,9 +153,6 @@ Hints:
 ## On happiness
 
 <!--
-> *'The rise is always better than the peak.' -- Jim Jefferies*
-> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
-
 - Money or wealth won‘t make you happy. Family, friends and purposful „work“ does.
 - Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit.
@@ -167,6 +164,12 @@ Hints:
 - Persistence + Love = Abundance
 - Masculine energy collapses. Men lose their sense of drive, purpose, and self-respect, and their standards, hardihood, and discipline atrophy. A slide into restlessness, vice, malaise, and outright depression is often the result.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
+- The secret of joy is the mastery of pain. – Anaïs Nin
+- happiness is being satisfied with what you have. Success comes from disatisfaction. choose. -- Naval Ravikant*
+money can't make rich people happy but it can make poor people happy. -- Naval Ravikant*
+- we are biological machines programmed to survive and replicate. happy is anti-evolution. -- Naval Ravikant*
+- a happy person isn't someone who's happy all the time. it's someone who effortlessly interpretsevents in such a waythat they don't lose their innate peace. -- Naval Ravikant*
+- peace comes from within. do not seek it without. -- buddha
 -->
 
 > *'Happiness is when what you think, what you say, and what you do are in harmony.' --  Mahatma Gandhi*
@@ -194,11 +197,11 @@ Happiness is a *mind* state where nothing is missing.
 
 ### How to improve happiness?
 
-You can do it actively (improve reality) and passively (lower expectations). Don't spend 90% of your life trying to figure out how to be happy and 10% being happy. Be happy right now.
+You can do it actively (improve reality) and passively (lower expectations). Don't spend most of your life trying to figure out how to be happy Be happy right now.
 
 Hints:
 
-- Improve reality by doing, being patient and breaking long term goals into smaller ones so you can enjoy the journey (If you aren’t happy on the journey you won’t be happy at the destination). Happiness comes from not having fear. We have the idea that comfort brings happiness. There is nothing out there that will make you happy and fulfilled forever. Fulfillment comes from constantly pursuing a life of «uncomfortability». For that you need autonomy.
+- Improve reality by doing and breaking long term goals into smaller ones so you can enjoy the journey (you won’t be happy at the destination). Happiness comes from not having fear not confort. There is nothing out there that will make you happy and fulfilled forever. Fulfillment comes from constantly pursuing a life of «uncomfortability». For that you need autonomy.
 - Lower expectations by [being grateful](chapter_1_self.md#on-gratitude) and not taking yourself too seriously. Lowering expectations mean you will easily exceed them.
 - Ignore the rest.
 
@@ -210,20 +213,12 @@ Hints:
 
 > *'I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.' -- Jonathan Safran Foer*
 
-> *'A fit body, a calm mind, a house full of love. these things cannot be bought - they must be earned.' -- Naval Ravikant*
+> *'A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned.' -- Naval Ravikant*
 
 > *'If can't be happy with a coffee, you won't be happy with a yacht.' -- Naval Ravikant*
 
 > *'The price of trying to make everybody else happy is making yourself miserable.' -- Naval Ravikant*
 
-<!--
-- The secret of joy is the mastery of pain. – Anaïs Nin
-- don's spend your time making othe rpeople happy. other people being happy is their problem. i's not your problem. if you are happy, it makes other people happy. -- Naval Ravikant*
-- happiness is being satisfied with what you have. Success comes from disatisfaction. choose. -- Naval Ravikant*
-money can't make rich people happy but it can make poor people happy. -- Naval Ravikant*
-- we are biological machines programmed to survive and replicate. happy is anti-evolution. -- Naval Ravikant*
-- money does buy happiness, if you earned it. -- Naval Ravikant*
-- a happy person isn't someone who's happy all the time. it's someone who effortlessly interpretsevents in such a waythat they don't lose their innate peace. -- Naval Ravikant*
-- peace comes from within. do not seek it without. -- buddha
-people are naturally happier when kept busy.
--->
+> *'The rise is always better than the peak.' -- Jim Jefferies*
+
+> *'The minute you’re satisfied with where you are, you aren’t there anymore.' -- Tony Gwynn*
