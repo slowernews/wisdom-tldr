@@ -76,6 +76,7 @@ It’s harder to forget mistakes, past events and the beginning or the end of so
 
 
 
+
 ---
 ## On present
 
@@ -100,6 +101,7 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
 > *'What’s life? Showing up for the people you love, again and again, until you can’t show up anymore.' -- Rebecca Walker*
+
 
 
 
@@ -132,6 +134,7 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 > *'Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree.' -- Kevin Kelly*
 
 > *'History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is “What might I be wrong about?”' -- Kevin Kelly*
+
 
 
 
@@ -169,6 +172,7 @@ Aging implies damage.
 > *'One advantage of getting older - you become more decisive' -- Naval Ravikant*
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
+
 
 
 
@@ -219,6 +223,7 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 
 
 
+
 ---
 ## On wealth
 
@@ -231,6 +236,7 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 optimize for control over money and you'll make more money. -- Naval Ravikant*
 management is the oldest, and most over-rated form of leverage. capital, media and code are the modern forms. -- Naval Ravikant*
 no one can predict macro.  -- Naval Ravikant*
+> *'No one is as impressed with your possessions as you are.' -- Kevin Kelly*
 -->
 
 > *'Some people are so poor, all they have is money.' -- Patrick Meagher*
@@ -276,6 +282,7 @@ Books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, la
 
 
 
+
 ---
 ## On popularity
 
@@ -290,6 +297,7 @@ People say they want to be famous to impact the world, often what they want is t
 > *'You want to be rich and anonymous, not poor and famous.' -- Naval Ravikant*
 
 > *'The reward for getting on the stage is fame. The price of fame is that you can't get off stage.' -- Naval Ravikant*
+
 
 
 
@@ -332,7 +340,6 @@ Risk is everything you left over and didn't thought about. Luck and risk are two
 
 
 
-
 ---
 ## On beauty and style
 
@@ -355,6 +362,7 @@ taste may be an instinct for honest signals
 
 
 
+
 ---
 ## On health
 
@@ -369,6 +377,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 - Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
 
 > *'You can eat any dessert you want if you take only 3 bites.' -- Kevin Kelly*
+
 
 
 
@@ -461,6 +470,7 @@ Hints:
 
 
 
+
 ---
 ## On success
 
@@ -508,6 +518,7 @@ But success is a dangerous word. I don’t know any successful person.
 
 
 
+
 ---
 # Appendix C - Others
 
@@ -526,6 +537,7 @@ the measure of long term thinking is wisdom -- naval paraphrased
 > *'Being wise means having more questions than answers.' -- Kevin Kelly*
 
 Wisdom is knowing the long-term consequences of your actions.
+
 
 
 
@@ -586,6 +598,7 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 
 
 
+
 ---
 ## On humanness and irrationality
 
@@ -612,6 +625,121 @@ How to write compelling characters? “It’s easy,” he said. “Just make the
 
 
 
+
+---
+## On family and friends
+
+<!--
+- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
+- the way of man is the way of the gang
+
+> *'People come, people go – they’ll drift in and out of your life, almost like characters in a favorite book. When you finally close the cover, the characters have told their story and you start up again with another book, complete with new characters and adventures. Then you find yourself focusing on the new ones, not the ones from the past.' -- Nicholas Sparks*
+> *'Respect was invented to cover the empty place where love should be.' -- Leo Tolstoy*
+-->
+
+> *'When everything goes to hell, the people who stand by you without flinching, they are your family.' -- Jim Butcher*
+
+> *'Your friends are the ones that go to your funeral in a day of rain.' -- an old General*
+
+Life is meant to be lived in community.
+
+Cleave from your family but come back. You need to be independent and loyal at the same time.
+
+> *'Really great people make you feel that you too can be great.' -- Mark Twain*
+
+> *'To lose one parent may be regarded as a misfortune; to lose both looks like carelessness.' -- Oscar Wilde*
+
+> *'Our mothers always remain the strangest, craziest people we've ever met.' -- Marguerite Duras*
+
+### On friends
+
+<!--
+> *'At your funeral people will not recall what you did; they will only remember how you made them feel.' -- Kevin Kelly*
+-->
+
+> *'It is easier to forgive an enemy than to forgive a friend.' -- William Blake*
+
+> *'When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun».' -- Groucho Marx*
+
+Resist the temptation of working with family and friends. Peers are peers, not boss and employee.
+
+Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be.
+
+> *'Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution.' -- Balthasar Gracian 26th*
+
+> *'Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success.' -- Oscar Wilde*
+
+> *'Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors.' -- Balthasar Gracian*
+
+> *'Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem.' -- Kevin Kelly*
+
+> *'Show me your calendar and I will tell you your priorities. Tell me who your friends are, and I’ll tell you where you’re going.' -- Kevin Kelly*
+
+> *'Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat.' -- Kevin Kelly*
+
+### How to build your «board of directors»?
+
+Curate somehow those who surround you: you are the average of them. When you enter a workplace, think that you will become like them and not the opposite. If you’re always the smartest in the room, you’re in the wrong room.
+
+<!--
+“A lot of people won’t do that,” says Aaron. “A lot of people say, ‘Hey, I’m going to keep you at arm’s length; I’m not going to share things where I struggle. I’m not going to share with you that I don’t know what I’m talking about.’ See, I ask a lot of questions…I don’t allow my pride or ego to get in the way, because strength starts at the base. You’ve got to let the veil down. You’ve got to be transparent. You’ve got to be vulnerable. That’s why I’ve been in mastermind groups for twenty years. Without those guys, I don’t know where I would be. These guys have different lenses. They have different filters.
+“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’ Or, ‘I’ve done that before and it sounds good in the textbook, but in reality, this is the way.’
+-->
+
+- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal. I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
+- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
+- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
+we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
+
+You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
+
+> *'Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you.' -- Kevin Kelly*
+
+> *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
+
+> *'Don’t loan money to a friend unless you are ready to make it a gift.' -- Kevin Kelly*---
+
+
+
+
+
+---
+## On lovers
+
+<!--
+- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
+- the measure of love is peace. -- Naval Ravikant*
+- a dirt dish by the sink can be a big marriage problem
+-->
+
+> *'We accept the love we think we deserve.' -- Stephen Chbosky*
+
+You attract what you are.
+
+Love is what happens to men and women that don’t know each other. Love doesn’t hurt, expectations do. Every person feels loved in a different form.
+
+> *'Romance is the glamour which turns the dust of everyday life into a golden haze.' -- Elinor Glyn*
+
+> *'The love that lasts the longest is the love that is never returned' -- W. Somerset Maugham*  
+
+> *'Love me when I least deserve it, because that’s when I really need it.' -- Swedish proverb*
+
+> *'That’s what careless words do. They make people love you a little less.' -- Arundhati Roy*
+
+> *'It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.' -- Emilie Autumn*
+
+> *'The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them.' -- Charles Bukowski*
+
+First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
+
+> *'Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever.' -- Nicholas Sparks*
+
+> *'Men experience many passions in a lifetime. One passion drives away the one before it.' -- Paul Newman*
+
+
+
+
+
 ---
 ## On marriage
 
@@ -624,6 +752,7 @@ Unhappy wife, unhappy life.
 > *'If Apple sold you a product that failed 50% of the time, would you buy it?' -- Esther Perel*
 
 > *'You don’t marry a person, you marry a family.' -- Kevin Kelly*
+
 
 
 
@@ -660,6 +789,7 @@ And on the first day, men created god.
 
 
 
+
 ---
 ## On science
 
@@ -685,6 +815,7 @@ Science is the study of truth. Everything that is not a law of nature is just a 
 > *'Science is a wonderful thing if one does not have to earn one’s living at it.' -- Albert Einstein*
 
 > *'If we knew what it was we were doing, it would not be called research, would it?' -- Albert Einstein*
+
 
 
 
@@ -717,6 +848,7 @@ Art is just another form of screaming and it doesn’t end at the edge of the ca
 
 
 
+
 ---
 ## On aesthetics
 
@@ -741,26 +873,24 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 
 
+
 ---
 ## On money management
 
 <!--
 - (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
 Hints:
-- The best companies aren’t sold, they're bought. 
-- Don’t invest on junk stocks (companies with shrinking revenues, outsized debt loads and negative cash flows).
 - Stock buybacks are effectively same as dividends.
-- Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities.
 - entrepreneurship vs investment - 2 different mentalities.
-- dealers vs brokers: liquid markets (dealers with enough inventory)
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
-- the more you know, the less you need to diversify. deviersification is a hedge against lack of knowledge.
 - good investors don't sell investment advice.
 - a great reason to buy instead of renting is taht you get to fire your landlord -- naval ravikant
 -->
 
 > *'Never lose money. Rule No. 2: don’t forget rule No. 1.' -- Warren Buffett*
+
+> *'I succeeded because I have a long attention span. (...) Waiting helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
 
 Saving a higher proportion of your income allows to cut decades off of your working life. 
 The secret to get wealthy is not to make more money but to keep it.
@@ -782,21 +912,18 @@ Scared money never wins. It’s all about the risk of losing money versus the ri
 
 > *'When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.' -- Warren Buffett*
 
-### How to spot trends?
+### How to spot good investments?
+
+Don’t buy on future hopes; buy on past mistakes. We don't loose money on star businesses, we loose money on businesses we think will be star businesses.
 
 Understand:
 
-- who are the buyers, the sellers and their motivations. 
-- that investments are competing with each other. 
-- where is low optimism. market cycles. Recessions are caused when a bunch of people lose confidence all at once.
-
-> *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith*
-
-> *'If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme.' -- Kevin Kelly*
-
-### How to spot good investments?
-
-Don’t buy on future hopes; buy on past mistakes. We don't loose money on star businesses, we loose money in businesses we think will be star businesses.
+- What’s going to stay the same in the next ten years. While boring, offer the best investment opportunities.
+- Where is low optimism. market cycles. Recessions are caused when a bunch of people lose confidence all at once.
+- Who are the buyers, the sellers and their motivations.
+- Investments are competing with each other.
+- The best companies aren’t sold, they're bought. Stay away from junk stocks.
+- The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.
 
 > *'You’re looking for a mispriced gamble.' -- Charlie Munger*
 
@@ -806,13 +933,16 @@ Don’t buy on future hopes; buy on past mistakes. We don't loose money on star 
 
 > *'What’s my religion? Arbitrage and rents.' -- EF*
 
+> *'Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land.' -- Adam Smith*
+
 ### When to fold?
 
 > *'Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds.' -- Charlie Munger*
 
-Get an exit strategy and take risk from the table when possible.
+Take risk from the table whenever possible.
 
-> *'I succeeded because I have a long attention span. (...) Waiting helps you as an investor, and a lot of people just can’t stand to wait.' -- Charlie Munger*
+> *'If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme.' -- Kevin Kelly*
+
 
 
 
@@ -853,12 +983,12 @@ Study physics, mathematics, computers, microeconomics, game theory and persuasio
 
 
 
+
 ---
 ## On reading
 
 <!--
-listening to books is like drinking your vegetables. -- naval
-most books are propaganda
+reading is not a race
 -->
 
 > *'I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me.' -- Ralph Waldo Emerson*
@@ -873,7 +1003,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 > *'Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.' -- J.K. Rowling*
 
-> *'Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren’t. I'm not surprised some people prefer books.' -- Julian Barnes*
+> *'Books say: she did this because. Life says: she did this. Books are where things are explained to you; life is where things aren’t. I'm not surprised some people prefer books.' -- Julian Barnes*
 
 > *'A library is infinity under a roof.' -- Gail Carson Levine*
 
@@ -887,7 +1017,7 @@ Reading train your model of the world. Even if you forget most, its effect persi
 
 ### On classics
 
-Reading is not a race. Read the books they want to ban, not the ones made to make money. 
+Don't read the books made to make money, read the ones they want to ban. Most books are propaganda.
 
 > *'The great books are the books that never have to be written again.' -- Carl Van Doren*
 
@@ -898,19 +1028,15 @@ Reading is not a race. Read the books they want to ban, not the ones made to mak
 
 
 
+
 ---
 ## On writing
-
-<!--
-If you're writing for your followers, your followers are worthless. -- naval better to find another audience than to write to teh audience
-the more people in the conversation the harder it becomes to speak the unconfortable truth. social media puts everybody in the same conversation. -- navel
-If you are writing to be read you are doing it wrongly. -- naval
-write to learn not to teach -- naval
--->
 
 > *'Tears are words that need to be written.' -- Paulo Coelho*
 
 > *'I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of.' -- Joss Whedon*
+
+If you are writing to be read you are doing it wrongly. Write to learn not to teach.
 
 > *'The best writing is rewriting.' -- E. B. White*
 
@@ -937,14 +1063,21 @@ Hints:
 
 
 
+
 ---
 ## On media
+
+<!--
+If you're writing for your followers, your followers are worthless. -- naval better to find another audience than to write to teh audience
+the more people in the conversation the harder it becomes to speak the unconfortable truth. social media puts everybody in the same conversation. -- naval
+-->
 
 > *'The goal of media is to make every problem, your problem.' -- Naval Ravikant*
 
 The human brain was not designed to process all of the world's emergencies in realtime.
 
 > *'Journalists aren't neutral, they're the cavalry of culture wars. -- Naval Ravikant*
+
 
 
 
@@ -957,7 +1090,7 @@ The human brain was not designed to process all of the world's emergencies in re
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
-- Top 4 desirable developer skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
+- Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
 -->
 
 > *'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.' -- Ellen Ullman*
@@ -969,6 +1102,7 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *'Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigor should be a signal to the historian that the maps have been made, and the real explorers have gone elsewhere.' -- William S. Anglin*
 
 > *'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' -- John von Neumann*
+
 
 
 
@@ -989,6 +1123,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 > *'Why are women so much more interesting to men than men are to women?' -- Virginia Woolf*
 
 > *'A suit to women is like lingerie to men.'*
+
 
 
 

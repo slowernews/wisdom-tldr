@@ -17,6 +17,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
+
 ## Chapter 1 - Self
 
 *On foundations*
@@ -45,28 +46,31 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter 2 - Groups
 
-*On interaction*
-- [On communication](/chapters/chapter_2_groups.md#on-communication)
-- [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
-- [On criticism and envy](/chapters/chapter_2_groups.md#on-criticism-and-envy)
-- [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
+## Chapter 2 - Groups
 
 *On cooperation*
 - [On relationships](/chapters/chapter_2_groups.md#on-relationships)
-- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
-- [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
-- [On society and politics](/chapters/chapter_2_groups.md#on-society-and-politics)
-- [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
 - [On networking](/chapters/chapter_2_groups.md#on-networking)
+- [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
+- [On selling, negotiation and price](/chapters/chapter_2_groups.md#on-selling-negotiation-and-price)
+- [On feedback and mentorship](/chapters/chapter_2_groups.md#on-feedback-and-mentorship)
+- [On generosity and incentives](/chapters/chapter_2_groups.md#on-generosity-and-incentives)
+- [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
+- [On society and politics](/chapters/chapter_2_groups.md#on-society-and-politics)
+- [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
+
+*On competition*
+- [On opponents and allies](/chapters/chapter_2_groups.md#on-opponents-and-allies)
+- [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
+- [On criticism and envy](/chapters/chapter_2_groups.md#on-criticism-and-envy)
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)
 - [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
-- [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
 - [On career](/chapters/chapter_2_groups.md#on-career)
-- [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
+- [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
+
 
 
 
@@ -78,6 +82,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On analysis](/chapters/chapter_3_action.md#on-analysis)
 - [On planning](/chapters/chapter_3_action.md#on-planning)
 - [On decision making](/chapters/chapter_3_action.md#on-decision-making)
+- [On communication](/chapters/chapter_3_action.md#on-communication)
 
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
@@ -87,21 +92,14 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
 
-*On cooperating*
-- [On selling, negotiation and price](/chapters/chapter_3_action.md#on-selling-negotiation-and-price)
-- [On feedback and mentorship](/chapters/chapter_3_action.md#on-feedback-and-mentorship)
-- [On generosity and incentives](/chapters/chapter_3_action.md#on-generosity-and-incentives)
-
-*On competing*
-- [On opponents and allies](/chapters/chapter_3_action.md#on-opponents-and-allies)
+*On ending*
 - [On leverage](/chapters/chapter_3_action.md#on-leverage)
 - [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
-
-*On ending*
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)
 - [On forgiveness and revenge](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
+
 
 
 
@@ -129,6 +127,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On comedy](/chapters/chapter_appendix.md#on-comedy)
 - [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
 - [On marriage](/chapters/chapter_appendix.md#on-marriage)
+- [On lovers](/chapters/chapter_appendix.md#on-lovers)
+- [On family and friends](/chapters/chapter_appendix.md#on-family-and-friends)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On science](/chapters/chapter_appendix.md#on-science)
 - [On art](/chapters/chapter_appendix.md#on-art)
@@ -147,6 +147,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
+
 ## TL;DR
 
 *'Fuck, don't give a fuck and don't be fucked over.'*
@@ -159,10 +160,6 @@ Seven general advices:
 *'Avoiding relevant conflict will not keep peace, will rot it.' -- EF*  
 *'All self-help boils down to «choose long-term over short-term».' -- Naval Ravikant*  
 *'The empire long divided, must unite; long united, must divide.' -- Chinese proverb*
-
-<!--
-proverbio chines
--->
 
 Two practical advices:  
 *'Have more than one child.'*  

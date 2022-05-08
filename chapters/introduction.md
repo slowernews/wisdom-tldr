@@ -50,6 +50,7 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 
 
 
+
 ---
 ## On finding your path
 
@@ -145,6 +146,7 @@ Hints:
 > *'The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
+
 
 
 
