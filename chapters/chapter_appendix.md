@@ -77,6 +77,7 @@ It’s harder to forget mistakes, past events and the beginning or the end of so
 
 
 
+
 ---
 ## On present
 
@@ -101,6 +102,7 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 > *'Live as if you were to die tomorrow. Learn as if you were to live forever.' -- Mahatma Gandhi*
 
 > *'What’s life? Showing up for the people you love, again and again, until you can’t show up anymore.' -- Rebecca Walker*
+
 
 
 
@@ -139,6 +141,7 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 
 
 
+
 ---
 ## On growing old
 
@@ -172,6 +175,7 @@ Aging implies damage.
 > *'One advantage of getting older - you become more decisive' -- Naval Ravikant*
 
 > *'Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older.' -- John Cassavetes*
+
 
 
 
@@ -219,6 +223,7 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 > *'Andy Warhol is the only genius I’ve ever known with an IQ of 60.' -- Gore Vidal*
 
 > *'The problem with genius is that you have to tolerate madness.' -- Naval Ravikant*
+
 
 
 
@@ -283,6 +288,7 @@ Books, friends, sleep, stopping bad habits, ideas, gratefulness, experiences, la
 
 
 
+
 ---
 ## On popularity
 
@@ -297,6 +303,7 @@ People say they want to be famous to impact the world, often what they want is t
 > *'You want to be rich and anonymous, not poor and famous.' -- Naval Ravikant*
 
 > *'The reward for getting on the stage is fame. The price of fame is that you can't get off stage.' -- Naval Ravikant*
+
 
 
 
@@ -340,6 +347,7 @@ Risk is everything you left over and didn't thought about. Luck and risk are two
 
 
 
+
 ---
 ## On beauty and style
 
@@ -363,6 +371,7 @@ taste may be an instinct for honest signals
 
 
 
+
 ---
 ## On health
 
@@ -377,6 +386,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 - Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
 
 > *'You can eat any dessert you want if you take only 3 bites.' -- Kevin Kelly*
+
 
 
 
@@ -471,6 +481,7 @@ Hints:
 
 
 
+
 ---
 ## On success
 
@@ -519,6 +530,7 @@ But success is a dangerous word. I don’t know any successful person.
 
 
 
+
 ---
 # Appendix C - Others
 
@@ -537,6 +549,7 @@ the measure of long term thinking is wisdom -- naval paraphrased
 > *'Being wise means having more questions than answers.' -- Kevin Kelly*
 
 Wisdom is knowing the long-term consequences of your actions.
+
 
 
 
@@ -599,6 +612,7 @@ What’s the dog for? The dog keeps the man from touching any of the machines.'*
 
 
 
+
 ---
 ## On humanness and irrationality
 
@@ -621,6 +635,7 @@ How to write compelling characters? “It’s easy,” he said. “Just make the
 > *'Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they've all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe.' -- Neil Gaiman*
 
 > *'People aren’t either wicked or noble. They're like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.' -- Lemony Snicket*
+
 
 
 
@@ -697,7 +712,8 @@ You’re never too old to make a friend. Look for people with the same interests
 
 > *'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.' -- Mark Twain*
 
-> *'Don’t loan money to a friend unless you are ready to make it a gift.' -- Kevin Kelly*---
+> *'Don’t loan money to a friend unless you are ready to make it a gift.' -- Kevin Kelly*
+
 
 
 
@@ -740,6 +756,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 
 
+
 ---
 ## On marriage
 
@@ -752,6 +769,7 @@ Unhappy wife, unhappy life.
 > *'If Apple sold you a product that failed 50% of the time, would you buy it?' -- Esther Perel*
 
 > *'You don’t marry a person, you marry a family.' -- Kevin Kelly*
+
 
 
 
@@ -790,12 +808,14 @@ And on the first day, men created god.
 
 
 
+
 ---
 ## On science
 
 <!--
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - News are the first draft of History.
+- science is about disproving, not proving.
 -->
 
 > *'The whole of science is nothing more than a refinement of everyday thinking.' -- Albert Einstein*
@@ -820,20 +840,21 @@ Science is the study of truth. Everything that is not a law of nature is just a 
 
 
 
+
 ---
 ## On art
 
 <!--
-art should confort the disturbed and disturb the confortable
+-art should confort the disturbed and disturb the confortable
 -->
 
 > *'Art is the lie that enables us to realize the truth.' -- Pablo Picasso*
 
 > *'Science is what we understand well enough to explain to a computer. Art is everything else we do.' -- Donald Knuth*
 
-Art is a meditation and design is a negotiation.
+Life imitates art. Art is a meditation and design is a negotiation.
 
-Art is just another form of screaming and it doesn’t end at the edge of the canvas. Artistic death is made by consensus.
+Art is just another form of screaming. Artistic death is made by consensus.
 
 > *'If you create it for yourself, it’s art. If you create it for others, it’s business.' -- Naval Ravikant*
 
@@ -844,6 +865,7 @@ Art is just another form of screaming and it doesn’t end at the edge of the ca
 > *'Poets are damned but see with the eyes of angels.' -- Allen Ginsberg*
 
 > *'Poetry is what gets lost in translation.' -- Robert Frost*
+
 
 
 
@@ -869,6 +891,7 @@ The more «art» you allow in, the less commercial success you’ll have. People
 > *'Imperfection is beauty, madness is genius and it’s better to be absolutely ridiculous than absolutely boring.' -- Marilyn Monroe*
 
 > *'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.' -- Edsger Dijkstra*
+
 
 
 
@@ -947,6 +970,7 @@ Take risk from the table whenever possible.
 
 
 
+
 ---
 ## On education
 
@@ -979,6 +1003,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 
 > *'The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths.' -- Naval Ravikant*
+
 
 
 
@@ -1029,6 +1054,7 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 
 
 
+
 ---
 ## On writing
 
@@ -1046,8 +1072,6 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 
 ### On email
 
-> *'Be governed not by the tyranny of the urgent but by the elevation of the important.' -- Kevin Kelly*
-
 Hints:
 
 - Make the subject unique, meaningful and easily searchable.  
@@ -1059,6 +1083,7 @@ Hints:
 	- «I’d love a letter of support from you. I’ve attached a draft for your review.»  
 - Keep it under three lines, more than this call.  
 - Use easy-to-read formatting. Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.  
+
 
 
 
@@ -1077,6 +1102,7 @@ the more people in the conversation the harder it becomes to speak the unconfort
 The human brain was not designed to process all of the world's emergencies in realtime.
 
 > *'Journalists aren't neutral, they're the cavalry of culture wars. -- Naval Ravikant*
+
 
 
 
@@ -1107,6 +1133,7 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 
 
+
 ---
 # Appendix D - Bonus
 
@@ -1123,6 +1150,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 > *'Why are women so much more interesting to men than men are to women?' -- Virginia Woolf*
 
 > *'A suit to women is like lingerie to men.'*
+
 
 
 

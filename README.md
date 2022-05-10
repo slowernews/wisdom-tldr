@@ -18,6 +18,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
+
 ## Chapter 1 - Self
 
 *On foundations*
@@ -42,6 +43,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
+
 
 
 
@@ -75,6 +77,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
+
 ## Chapter 3 - Action
 
 *On preparing action*
@@ -99,6 +102,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)
 - [On forgiveness and revenge](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
+
 
 
 
@@ -143,6 +147,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 *Bonus*
 - [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
 - [On what men value in women](/chapters/chapter_appendix.md#on-what-men-value-in-women)
+
 
 
 

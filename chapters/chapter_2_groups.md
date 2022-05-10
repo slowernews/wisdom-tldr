@@ -40,6 +40,7 @@ Hints:
 
 
 
+
 ---
 ## On networking
 
@@ -138,6 +139,7 @@ Hints:
 
 
 
+
 ---
 ## On business and entrepreneurship
 
@@ -216,6 +218,7 @@ When evaluating an idea make sure the math scales. E.g. If you’re looking for 
 -->
 
 > *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
+
 
 
 
@@ -384,6 +387,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 
 
 
+
 ---
 ## On feedback and mentorship
 
@@ -460,6 +464,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 
 
+
 ---
 ## On generosity and incentives
 
@@ -495,6 +500,7 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 
 
 
+
 ---
 ## On hierarchy
 
@@ -520,6 +526,7 @@ However don’t vow to the gatekeepers. Most people are basically afraid of thei
 > *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
 
 > *'The internet doesn’t care about your title' -- Naval Ravikant*
+
 
 
 
@@ -579,6 +586,7 @@ Popper came to the seemingly paradoxical conclusion that in order to maintain a 
 Taxes are a membership fee that most of us are voluntarily overpaying.
 
 Inequality is a problem. Equality is not the solution. That's the dilemma.
+
 
 
 
@@ -674,6 +682,7 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 
 
+
 # 2.2 - On competition
 
 ## On opponents and allies
@@ -743,6 +752,7 @@ Hint: Buy from your community. Sell to outsiders.
 
 
 
+
 ---
 ## On conflicts
 
@@ -764,6 +774,7 @@ You’re either part of the solution or part of the problem.
 > *'Your best response to an insult is “you’re probably right”. Often they are.' -- Kevin Kelly*
 
 > *'Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation.' -- Balthasar Gracian*
+
 
 
 
@@ -811,6 +822,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 
 
 
+
 ---
 # 2.3 - On teams
 
@@ -845,6 +857,7 @@ Good leaders are leaders that grew up in the hierarchy.
 People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
 > *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
+
 
 
 
@@ -928,6 +941,7 @@ Hints:
 - Instead of PowerPoints use «narratives» — four-to-six page memos that employees read and discuss together. (Jeff Bezos)
 - Leave one seat free - for your customer. (Jeff Bezos)
 - People can’t remember more than 3 points from a speech.
+
 
 
 
@@ -1039,6 +1053,7 @@ Hints:
 ### How to know your strenghts?
  
 Ask employers why did they asked you for an interview - they will describe your strengths.
+
 
 
 

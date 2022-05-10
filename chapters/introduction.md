@@ -51,6 +51,7 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 
 
 
+
 ---
 ## On finding your path
 
@@ -64,7 +65,7 @@ Is succeeding at mediocrity a worthwhile life? You must make the conscious decis
 2. Fulfillment is Dependent on Direction
 3. Pain is a Messenger
 4. Focus on Financial Freedom First
-5. Pick One Thing and Stick With it to Completion
+5. Pick One Thing and Stick With it to Completion*
 	
 > *'Everything tells me that I am about to make a wrong decision, but making mistakes is just part of life. What does the world want of me? Does it want me to take no risks, to go back to where I came from because I didn’t have the courage to say "yes" to life?' -- Paulo Coelho*
 
@@ -146,6 +147,7 @@ Hints:
 > *'The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
 
 > *'Don’t argue your path with other people. Walk it.' -- Lazy Yogi*
+
 
 
 

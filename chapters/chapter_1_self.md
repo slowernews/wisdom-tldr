@@ -53,6 +53,7 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 
 
 
+
 ---
 ## On authenticity
 
@@ -84,6 +85,7 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *'Nobody realizes that some people expend tremendous energy merely to be normal.' -- Albert Camus*
 
 > *'You become what you think about all day long.' -- Ralph Waldo Emerson*
+
 
 
 
@@ -136,6 +138,7 @@ Trust, not money, is the currency of business and life. Be impeccable with your 
 
 
 
+
 ---
 ## On respect
 
@@ -160,6 +163,7 @@ A way to humble yourself is to put you in the position of being the weakest pers
 Quickly, specifically, sincerely.
 
 > *'It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request.' -- Kevin Kelly*
+
 
 
 
@@ -190,6 +194,7 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.' -- Lao Tzu*
 
 > *'Writing down one thing you are grateful for each day is the cheapest possible therapy ever.' -- Kevin Kelly*
+
 
 
 
@@ -250,6 +255,7 @@ Hints:
 - Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later. The discomfort zone is NOT about experiencing pain.
 - Leap while you’re at the top of the curve, and the next curve builds on the momentum.
 - Risk looks different for everyone.
+
 
 
 
@@ -397,6 +403,7 @@ If you are not constantly taking action on the new information that you are lear
 
 
 
+
 ---
 ## On achieving mastery
 
@@ -435,6 +442,7 @@ However mastery is an important trigger of arrogance. There is no place for a «
 > *'How often our early triumphs turn us into a kind of caricature of ourselves.' -- Robert Greene*  
 
 > *'If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism.' -- Robert Greene*
+
 
 
 
@@ -510,6 +518,7 @@ Hints:
 
 
 
+
 ---
 ## On self awareness
 
@@ -540,6 +549,7 @@ Hints:
 - Ask questions. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to listen the other person’s views.  
 - Question your assumptions: “What if I’m wrong about this?”.
 - Meditation makes you more mindful.
+
 
 
 
@@ -615,6 +625,7 @@ Action cures everything. Physical stress avoids need for control. Hints:
 
 
 
+
 ---
 ## On fear, anger and excuses
 
@@ -658,6 +669,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *'All the darkness in the world cannot extinguish the light of a single candle.' -- Francis of Assisi*
 
 > *'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.' -- Lao Tzu*
+
 
 
 
@@ -719,6 +731,7 @@ Making mistakes is better than faking perfections. Every difficulty carries with
 > *'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.' -- Kahlil Gibran*
 
 > *'A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole.' -- China Mieville*
+
 
 
 
@@ -809,6 +822,7 @@ Entitlement comes in two forms:
 
 
 
+
 ---
 ## On limits, resistance and motivation
 
@@ -847,6 +861,7 @@ However your level of success will seldom exceed your level of personal developm
 
 
 
+
 ---
 ## On pessimism
 
@@ -867,6 +882,7 @@ Anyway, on the long term, an optimistic bias may payoff.
 > *'While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path.' -- Mark Manson*
 
 > *'Pessimists sound smart. Optimists make money.' -- Nat Friedman*
+
 
 
 

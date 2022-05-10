@@ -56,6 +56,7 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 
 
 
+
 ---
 ## On analysis
 
@@ -167,6 +168,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 
 
+
 ---
 ## On planning
 
@@ -210,6 +212,7 @@ However too detailed plans (or too general plans) are not useful and a waste of 
 > *'Everyone has a plan until they get punched in the mouth.' -- Mike Tyson*
 
 Don't sabotage them when they get tedious or too difficult.
+
 
 
 
@@ -287,7 +290,7 @@ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficien
 
 > *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
 
-All models are wrong. The practical question is how wrong do they have to be to not be useful. This is what a mental model is – a functional tool. If you don't understand his limitations, you don't understand the model.
+All models are wrong. The practical question is how wrong do they have to be to not be useful. This is what a mental model is – a functional tool. If you don't understand its limitations, you don't understand the model.
 
 > *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
 
@@ -301,7 +304,7 @@ All models are wrong. The practical question is how wrong do they have to be to 
 
 To make fast decisions is a competitive advantage.
 
-Most people get paralyzed by over thinking. When you don't decide timely somebody will do it for you.
+Most people get paralyzed by over thinking. If you don't decide timely somebody will do it for you.
 
 > *'While we are reasoning concerning life, life is gone.' -- David Hume*
 
@@ -316,6 +319,7 @@ Hints:
 - Is the decision reversible or irreversible? If it is reversible, make it fast and without perfect information. If is irreversible, slow down and ensure that you understand the problem. (Jeff Bezos)
 - Choose the one that may produce most serendipity down the line.
 - Optimal decisions occur with 70% of the information. Anything less and you’ll probably make a bad decision. Anything more and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
+
 
 
 
@@ -385,6 +389,7 @@ You don't need to answer their questions.
 - Agree as much as you can without lieing. Ask questions instead of desagreeing.
 
 > *'Always say less than necessary.' -- Kevin Kelly*
+
 
 
 
@@ -470,6 +475,7 @@ HOWEVER, never mistake action for motion. You must think like a man of action, a
 
 
 
+
 ---
 ## On speed and direction
 
@@ -490,6 +496,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 > *'Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.' -- John Tukey*
 
 > *'No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.' -- Warren Buffett*
+
 
 
 
@@ -579,6 +586,7 @@ Hints:
 
 
 
+
 ---
 ## On control
 
@@ -603,6 +611,7 @@ Consuming information gives the control freak an illusion of control. He doesn't
 > *'If you change the way you look at things, the thing you look at change' -- Dr. Wayne Dyer*
 
 > *'Sometimes people don't want to hear the truth because they don't want their illusions destroyed.' -- Friedrich Nietzsche*
+
 
 
 
@@ -633,6 +642,7 @@ Balance is not about spending the same amount of time focused on every area of y
 Overcompensate. Some people get passion from something they struggled with.
 
 > *'Overcompensate to make it balanced.' -- Derek Sivers*
+
 
 
 
@@ -691,6 +701,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 > *'Preach the need for change, but never reform too much at once.' -- Robert Greene (45th law of power)*
 
 > *'The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.' -- George Bernard Shaw*
+
 
 
 
@@ -757,6 +768,7 @@ Hints:
 The only successful changes are those coming from within.
 
 > *'You cannot find peace by avoiding life.' -- Virginia Woolf*
+
 
 
 
@@ -878,6 +890,7 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 
 
 
+
 ---
 ## On finishing
 
@@ -905,6 +918,7 @@ Going halfway is a waste. When the end finally comes, it comes quickly.
 > *'All endings are also beginnings. We just don’t know it at the time.' -- Mitch Albom*
 
 > *'Bad things can happen fast, but almost all good things happen slowly.' -- Kevin Kelly*
+
 
 
 
@@ -948,6 +962,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 
 
+
 ---
 ## On surrendering
 
@@ -969,6 +984,7 @@ Use this opportunity to re-create yourself. If you didn’t quit anything you wo
 > *'Once the game is over, the king and the pawn go back in the same box.' -- Italian proverb*
 
 > *'In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of.' -- Kevin Kelly*
+
 
 
 
