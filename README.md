@@ -83,7 +83,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On preparing action*
 - [On creativity](/chapters/chapter_3_action.md#on-creativity)
 - [On analysis](/chapters/chapter_3_action.md#on-analysis)
-- [On planning](/chapters/chapter_3_action.md#on-planning)
+- [On planning and strategy](/chapters/chapter_3_action.md#on-planning-and-strategy)
 - [On decision making](/chapters/chapter_3_action.md#on-decision-making)
 - [On communication](/chapters/chapter_3_action.md#on-communication)
 
@@ -94,10 +94,9 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
+- [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
 
 *On ending*
-- [On leverage](/chapters/chapter_3_action.md#on-leverage)
-- [On unpredictability](/chapters/chapter_3_action.md#on-unpredictability)
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)

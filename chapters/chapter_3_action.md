@@ -170,7 +170,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 
 ---
-## On planning
+## On planning and strategy
 
 > *'All battles are won or lost before they are ever fought.' -- Sun Tzu*
 
@@ -641,8 +641,6 @@ Balance is not about spending the same amount of time focused on every area of y
 
 Overcompensate. Some people get passion from something they struggled with.
 
-> *'Overcompensate to make it balanced.' -- Derek Sivers*
-
 
 
 
@@ -708,9 +706,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 
 ---
-# 3.3 - On ending
-
-## On leverage
+## On getting advantage
 
 <!--
 > *'All guns are loaded.' -- Kevin Kelly*
@@ -718,28 +714,24 @@ There are limits on change. Willpower is finite and change requires attention. H
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
--->
-
-> *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
-
-Leverage is a force multiplier for your judgement.
 
 > *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
 Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
 Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.' -- Naval Ravikant* 
 
-### On creating imbalances
-
-<!--
 > *'Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy.' -- Balthasar Gracian*
 
 - In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
 -->
 
+> *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
+
 > *'Never interrupt your enemy when he is making a mistake.' -- Napoleon*
 
-Create imbalances in your target to create an advantage and raise chances of winning.  
+Leverage is a force multiplier.
+
+Imbalances in your target to create an advantage and raise chances of winning.  
 Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
 and [bait](#on-charming). Some opponents may require special tools.
 
@@ -757,25 +749,7 @@ Hints:
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - Divide and conquer.
 
-### On defeating status quo
-
-<!--
-- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
--->
-
-> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
-
-The only successful changes are those coming from within.
-
-> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
-
-
-
-
-
-
----
-## On unpredictability
+### On unpredictability
 
 <!--
 - All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
@@ -886,12 +860,26 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 
 > *'Don’t treat people as bad as they are. Treat them as good as you are.' -- Kevin Kelly*
 
+### On defeating status quo
+
+<!--
+- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
+-->
+
+> *'To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate.' -- Srdja Popovic*
+
+The only successful changes are those coming from within.
+
+> *'You cannot find peace by avoiding life.' -- Virginia Woolf*
+
 
 
 
 
 
 ---
+# 3.3 - On ending
+
 ## On finishing
 
 <!--
