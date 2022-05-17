@@ -748,6 +748,8 @@ Hint: Buy from your community. Sell to outsiders.
 
 > *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
 
+> *'You either die a hero, or you live long enough to see yourself become the villain.' -- Harvey Dent in The Dark Knight*
+
 
 
 
@@ -984,11 +986,10 @@ Become the best at one specific thing or very good at two or more things.
 
 Hints:
 
-- Work smart not harder but hard still. It's good to be better, but is better to be different.
-- Metaknowledge (instead of asking, journal higher hierarchy than you).
 - You don't get anywhere, and for more money, sitting in the same seat.
-- Always focus on delivering more value than expected.
-- Happy, smart, and useful.
+- Happy, smart, and useful. Work smart not harder but hard still. It's good to be better, but is better to be different.
+- Metaknowledge (instead of asking, journal higher hierarchy than you).
+- Deliver more value than expected.
 - The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
 
 > *'Learn to sell. Learn to build. If you can do both, you're unstoppable.' -- Naval Ravikant*

@@ -414,12 +414,10 @@ You don't need to answer their questions.
 - The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
 
 > *'About 99% of the time, the right time is right now.' -- Kevin Kelly*
-> *'Once you step into a fight that is not of your own choosing, you lose all initiative.'*
 > *'Time is the longest distance between two places.' -- Tennessee Williams*
 > *'Patience is not passive; on the contrary, it is active; it is concentrated strength.' -- Edward G. Bulwer-Lytton*
 > *'Action expresses priorities.' -- Ghandi*
 - I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.
-> *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
 -->
 
 > *'A year from now, you will wish you had started today.' -- Karen Lamb*
@@ -438,6 +436,8 @@ Nothing happens in the world because of thought. Or because of talking. Or becau
 > *'If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera.' -- John Rich*
 
 > *'Do not wait to strike till the iron is hot; but make it hot by striking.' -- Yeats*
+
+> *'You miss 100% of the shots you don’t take.' -- Wayne Gretzky*
 
 > *'The most difficult is the decision to act, the rest is just tenacity.' -- Andrea Earhart*
 
@@ -505,24 +505,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ---
 ## On focus, priorities and productivity
 
-<!--
-- Protect your time like your money. Strategic laziness as a leverage point.
-- maker days and manager days
-- start ruthlessly cutting all the activities in your workday that aren’t producing value.
-- Mind the process, not the results. For example, “finish report” might turn into “write report for 45 uninterrupted minutes.”
-- As John Stuart Mill said, “as few as you can, as many as you must.”
-- Busy is a decision. What you are really saying: is not a priority. Is a excuse for not doing something we don't feel like doing.
-- Focus on adaptability not effectiveness
-- Schedule less time for important tasks. Be mindful of how you spend your time.
-- Set yourself deadlines.
-- complete at least 1 important but not urgent task per day.
-- Media companies harvest your attention and transform it into revenue.
-- If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
-try to hit 10% of your followers instead of trying to hit all of them at the same time.
-> *'I will have to remember «I'm here today to cross the swamp, not to fight all the alligators.' -- Rosamund and Benjamin Zander in "Art of possibility"
-- If you're not spending your time doing what you want, and you're not earning, and you're not learning - what the heck are you doing? -- naval
--->
-
 > *'A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner.' -- Seth Godin* 
 
 > *'People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1000 things.' -- Steve Jobs*
@@ -540,7 +522,7 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 > *'When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It’s hard to compete with businesses who have correctly identified the right variables to maximize or minimize.' -- Charlie Munger*
 
-> *'A man with a watch knows what time it is. A man with two watches is never sure.'*
+> *'A man with a watch knows what time it is. A man with two watches is never sure.' -- Unknown*
 
 > *'I want to know God’s thoughts; the rest are details.' -- Albert Einstein*
 
@@ -552,35 +534,47 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 > *'As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself' -- Arthur Schopenhauer*
 
+> *'I will have to remember «I'm here today to cross the swamp, not to fight all the alligators.' -- Rosamund and Benjamin Zander (Art of possibility)*
+
 ### On productivity
 
 <!--
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don't put your best effort.
+- Strategic laziness as a leverage point.
+- maker days and manager days
+- how to say no? I'm Busy. Is a excuse for not doing something we don't feel like doing.
+- Focus on adaptability not effectiveness
+- If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable.'*	
+try to hit 10% of your followers instead of trying to hit all of them at the same time.
+- If you're not spending your time doing what you want, and you're not earning, and you're not learning - what the heck are you doing? -- naval
 -->
 
 > *'Don't make 100 decisions when one will do.' -- Peter Drucker*
 
-> *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
+> *'As few as you can, as many as you must.' -- John Stuart Mill*
 
 > *'The price of productivity is creativity.' -- Naval Ravikant*
 
 Getting a lot of unnecessary things done is not productivity: it’s stupidity.
 
-Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything. 20% of your effort will give you 80% of output: it may be enough or even more than enough. 
+Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything. 20% of your effort will give you 80% of output - it may be more than enough. 
 
 Hints:
 
-- 80/20 is fractal: If 20% of the effort creates 80% of the value. So now 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do in life may create 64% of the benefits in your life.
-- Focus on 3 outcomes (not todos) per day and tackle the most important one in the morning.
-- Set specific, measurable, attainable, realistic and time-based goals. Always work with a specific purpose in mind.
-- Be fully present: learn to focus on what you are doing now.
-- Focus on the one thing most likely to get maximum results. Forget everything else. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place. Tackling a difficult problem is often a matter of seeing where the high leverage lies. Focus on doing the right things instead of doing things right.  
-- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk, Too many options may paralize you: remove them.
-- When a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later.
-- Protect your hours of real work. Separate “real hours” with breaks. Take advantage of early hours in the day.
-- Buy yourself time: delegate. Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
+- 80/20 is fractal: If 20% of the effort creates 80% of the value, 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do may create 64% of the benefits!
+- Ruthless cut all the activities in your workday that aren’t producing value.
+- Focus on one to three outcomes per day (include one important but not urgent task) and tackle the most important one in the morning. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place.
+- Protect your time like your money. Protect your hours of real work. Take advantage of early hours in the day.
+- Always work with a specific purpose in mind. Set specific, measurable, realistic and time-based goals.
+- Mind the process, not the results. For example, “finish report” might turn into “write report for 45 uninterrupted minutes.”
+- Learn to focus and being fully present on what you are doing now.
 - Work by layers: from functional to excellency.
-- If you want a task done quickly, ask a busy person to do it.
+- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk.
+- When a task will take you less than two minutes, just do it.
+- Buy yourself time: delegate. Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
+- To get anything done quickly, ask a busy person to do it.
+
+> *'My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.' -- Gary Keller*
 
 
 
@@ -651,7 +645,6 @@ Overcompensate. Some people get passion from something they struggled with.
 
 <!--
 - Inertia is why a car does not stop the moment the brakes are applied.
-> *'You either die a hero, or you live long enough to see yourself become the villain.' -- Harvey Dent in The Dark Knight*
 -->
 
 > *'However beautiful the strategy, you should occasionally look at the results.' -- Winston Churchill*
@@ -706,6 +699,8 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 
 ---
+# 3.3 - On ending
+
 ## On getting advantage
 
 <!--
@@ -714,15 +709,6 @@ There are limits on change. Willpower is finite and change requires attention. H
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
-
-> *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
-Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
-Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
-An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.' -- Naval Ravikant* 
-
-> *'Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy.' -- Balthasar Gracian*
-
-- In any system where there are norms, there are strengths and weaknesses to those norms. If you follow the norms of the system, the results you get are likely to be the norm. When you play a different game, a metagame, you have the opportunity to outperform.
 -->
 
 > *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
@@ -731,124 +717,122 @@ An army of robots is freely available - it’s just packed in data centers for h
 
 Leverage is a force multiplier.
 
-Imbalances in your target to create an advantage and raise chances of winning.  
-Use methods like [unpredictability](#on-unpredictability), [deceiving](#on-deceiving), [mirroring](#on-mirroring)
-and [bait](#on-charming). Some opponents may require special tools.
+Strategy is about winning before the battle begins, tactics are about striking at weakness.
 
-Strategy is about winning before the battle begins, while tactics are about striking at weakness.
+Leverage your target weaknesses to raise your chances of winning.  
+Use methods like unpredictability, charming or mirroring. Even deceiving, some opponents may require special tools.
 
 > *'The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
 A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed.' -- Richard Rumelt*
 
+> *'Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
+Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
+An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it.' -- Naval Ravikant* 
+
 Hints:
 
-- Keeping your enemies on the defensive and in react mode will have a demoralizing effect on them.  
-- If you control the overall direction and framing of the battle, anything they do will play into your hands.  
-- Beware of counter-attacking: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.  
-- In essence, for a change to occur, you must apply more energy to the system than is extracted by the system.  
-- Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
+- If you control the overall direction and framing of the battle, anything they do will play into your hands.
 - Divide and conquer.
+- Beware of counter-attacking: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.
+- Any change require injecting more energy than is extracted by the system.
+- Once you step into a fight that is not of your own choosing, you lose all initiative.
 
-### On unpredictability
+> *'Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy.' -- Balthasar Gracian*
+
+### On charming
 
 <!--
-- All in all, just keep it simple. Don’t try to complicate the situation. Focus on being yourself, enjoying yourself. If you’re not having a good time, chances are good that people around you aren’t either. Charm is not about trying to pile on a bunch of techniques or manipulating people. It’s actually the complete opposite: letting human nature do its thing.
-- Bad liars should speak as little as possible.
-- if somebody asks for the evidence, normally, he’s lieing
+- Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - the good reason and the real reason.
 -->
 
 > *'We catch more flies with honey than vinegar.'*
 
-Charm the enemy and find their weaknesses. Then [exploit them](#on-deceiving).
+> *'To combat an adversary, become their friend.' -- Kevin Kelly*
 
-> *'Use selective honesty and generosity to disarm your victim.'  
-'Pose as a friend, work as a spy.'  
-'Discover each man’s thumbscrew.'  
-'Work on the hearts and minds of others.' -- Robert Greene (12th, 14th, 33rd and 43rd laws of power)*
+Charm the enemy to find their weaknesses. Then exploit them.
 
-- People’s need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.  
-- To persuade up, focus on interests; to persuade down focus on emotions.  
-- Use absence and bait to attract people. However use absence with moderation or soon you'll not be needed.It will become a challenge for them to win your affections. The ability to make others come to you is a weapon far more powerful than any tool of aggression.  
-- Instead of killing, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.  
+Hints:
+
+- People’s need for validation and recognition, is the best kind of weakness to exploit. To persuade up, focus on interests; to persuade down focus on emotions.
+- Use absence and bait to attract people. It will become a challenge for them to win your affections. The ability to make others come to you is a weapon far more powerful than any tool of aggression. use it with moderation.
+- Instead of killing it, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.
 
 > *'Make other people come to you: use bait if necessary.'  
-'Learn to keep people dependent on you.'  
-Use absence to increase respect and honor.' -- Robert Greene (8th, 11th and 16th laws of power)*
+'Use absence to increase respect and honor.'
+'Use selective honesty and generosity to disarm your victim.'  
+'Play a sucker to catch a sucker: seem dumber than your mark.'  
+'Pose as a friend, work as a spy.'  
+'Work on the hearts and minds of others.'  
+'Discover each man’s thumbscrew.'  
+'Court attention at all cost.'  
+'Play to people’s fantasies.'  
+'Create compelling spectacles.'  
+'Stir up waters to catch fish.' -- Robert Greene (laws of power)*
 
-> *'To combat an adversary, become their friend.' -- Kevin Kelly*
+> *'I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.' -- Marilyn Monroe*
+
+> *'The moment a magician says, «now we begin» you’re already screwed!' -- Brian Brushwood*
 
 > *'Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends.' -- Kevin Kelly*
 
 > *'Compliment people behind their back. It’ll come back to you.' -- Kevin Kelly*
 
-> *'A man is not deceived by others, he deceives himself.' -- Goethe*
-
-> *'I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.' -- Marilyn Monroe*
-
-If we play by the rules too strictly, if we take them too literally, we are crushed by those around us who are not so foolish. Clean players on shady markets usually don't do well on the long term.
-
-By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you.
-
-> *'The moment a magician says, «now we begin» you’re already screwed!' -- Brian Brushwood*
-
-> *'Appear weak when you are strong and strong when you are weak' -- Sun Tzu*
-
-> *'The senses do not deceive; it is the judgment that deceives.' -- Goethe*
-
-> *'Court attention at all cost.'  
-'Play a sucker to catch a sucker: seem dumber than your mark.'  
-'Play to people’s fantasies.'  
-'Create compelling spectacles.'  
-'Stir up waters to catch fish.' -- Robert Greene (6th, 21st, 32nd, 37th and 39th laws of power)*
-
-> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
-
-> *'Never tell the truth to people who are not worthy of it.' -- Mark Twain*
-
-> *'One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted.' -- James Altucher*
-
-However, deceiving is not lying. Disappointment destroys trust. Lying is like a nuclear bomb. The effects will be there for a long time to you to deal with.
-
-> *'It’s hard to cheat an honest man.' -- Kevin Kelly*
-
-> *'I’m not upset that you lied to me. I'm upset that from now on I can’t believe on you.' -- Friedrich Nietzsche*
-
-> *'Don't lie to anybody that you are not going to kill. Lying is a bad idea. The lie is going to burn you.' -- Hostage negotiator*
-
-> *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
-
-> *'A lie can travel half way around the world while the truth is putting on its shoes.' -- Mark Twain*
-
-And don't attribute to malice what you can attribute to incompetence or busyness. So never be mean to anybody that can hurt you by doing nothing.
-
-> *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
-
-### On lies
+### On deceiving 
 
 > *'Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.' -- Hannah Arendt*
 
-The only thing worth praying is truth.
+> *'A man is not deceived by others, he deceives himself.' -- Goethe*
 
-> *'If you tell the truth, you don't have to remember anything.' -- Mark Twain*
+> *'Appear weak when you are strong and strong when you are weak' -- Sun Tzu*
 
-> *'When you have something to say, silence is a lie.' -- Jordan Peterson*
+If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don't do well on the short term.
 
-<!--
-> *'It's the nature of truth that once you see it, you can't unsee it. -- Naval Ravikant*
-> *'If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it.' -- Naval Ravikant
-- the closer you are to the truth, the more silent you become inside. -- Naval Ravikant*
-- the only time you enjoy hearing a lie is when you already know the truth.
-- sometimes people dont want to hear the truth because they don't want their illusions destroyed -- friedrich nietzsche
-- Teach no one your tricks or they will be used against you.
--->
+By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you. However deceiving is not lying. Lying is like a nuclear bomb, the effects will be there for a long time. Disappointment destroys trust.
+
+> *'The senses do not deceive; it is the judgment that deceives.' -- Goethe*
 
 > *'Conceal your intention.'  
 'Say less than necessary.'  
 'Keep others in suspended terror: cultivate an air of unpredictability.'  
 'Assume formlessness.' -- Robert Greene (3rd, 4th, 17th and 48th laws of power)*
 
-However unpredictability can work against you: if you are in a subordinate position, it reduces trust.
+> *'One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted.' -- James Altucher*
+
+> *'I’m not upset that you lied to me. I'm upset that from now on I can’t believe on you.' -- Friedrich Nietzsche*
+
+> *'It's the nature of truth that once you see it, you can't unsee it.' -- Naval Ravikant*
+
+> *'If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it.' -- Naval Ravikant*
+
+> *'Honesty is a very expensive gift, don't expect it from cheap people.' -- Warren Buffett*
+
+> *'Never tell the truth to people who are not worthy of it.' -- Mark Twain*
+
+> *'When you have something to say, silence is a lie.' -- Jordan Peterson*
+
+> *'If you tell the truth, you don't have to remember anything.' -- Mark Twain*
+
+> *'A lie can travel half way around the world while the truth is putting on its shoes.' -- Mark Twain*
+
+> *'The evil that men do lives after them; The good is often interred with their bones.' -- Julius Caesar; Act 3, Scene II*
+
+Hints:
+
+- It's hard to cheat an honest opponent.
+- Don't attribute to malice what you can attribute to incompetence or busyness. So never be mean to anybody that can hurt you by doing nothing.
+- The only time you enjoy hearing a lie is when you already know the truth.
+- The only thing worth praying is truth.
+- If you are in a subordinate position, unpredictability reduces trust.
+- Teach no one your tricks or they will be used against you.
+
+> *'Any sufficiently advanced negligence is indistinguishable from malice.' -- Deb Chachra*
+
+<!--
+- the closer you are to the truth, the more silent you become inside. -- Naval Ravikant*
+- sometimes people dont want to hear the truth because they don't want their illusions destroyed -- friedrich nietzsche
+-->
 
 ### On mirroring
 
@@ -878,20 +862,15 @@ The only successful changes are those coming from within.
 
 
 ---
-# 3.3 - On ending
-
 ## On finishing
 
-<!--
-everything will be ok in the end. if it's not ok, it's not the end.
-- nothing ends poetically. it end and we turn it into poetry. all that blood was never once beautiful. it was just red.
--->
+> *'Everything will be ok in the end. If it's not ok, it's not the end.' -- Unknown*
 
 > *'If you’re going to try, go all the way. Otherwise, don’t even start.' -- Charles Bukowski*
 
-Starting is fun but success belongs to finishers.
+Starting is fun but success belongs to finishers. Going halfway is a waste.
 
-Going halfway is a waste. When the end finally comes, it comes quickly.
+When the end finally comes, it comes quickly. Nothing ends poetically. It ends and we turn it into poetry. All that blood was never once beautiful. It was just red.
 
 > *'Only put off until tomorrow what you are willing to die having left undone.' -- Pablo Picasso*
 

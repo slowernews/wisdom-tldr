@@ -94,9 +94,9 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
-- [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
 
 *On ending*
+- [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering](/chapters/chapter_3_action.md#on-surrendering)

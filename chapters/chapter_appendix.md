@@ -1095,6 +1095,7 @@ Hints:
 <!--
 If you're writing for your followers, your followers are worthless. -- naval better to find another audience than to write to teh audience
 the more people in the conversation the harder it becomes to speak the unconfortable truth. social media puts everybody in the same conversation. -- naval
+- Media companies harvest your attention and transform it into revenue.
 -->
 
 > *'The goal of media is to make every problem, your problem.' -- Naval Ravikant*
