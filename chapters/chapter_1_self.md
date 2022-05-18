@@ -17,10 +17,8 @@
 
 3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 
-> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston Churchill*
 > *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
-> *'Só os mais corajosos conseguem fazer a paz' -- Trump*
-- There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
+> *'Só os mais corajosos conseguem fazer a paz.' -- Trump*
 - do u want ur daughter to date somebody like u?
 - I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules.
 -->
@@ -429,6 +427,8 @@ After learning the rules, break them. Only then you can achieve mastery.
 
 > *'Amateurs play for tricks, masters play for position.'*
 
+> *'You know you're good at something when you switch from making decisions with your conscious mind to making decisions with your instincts.' --  Naval Ravikant*
+
 And don’t stop, skills are perishable and the path to mastery a never ending story. Some of the skills that you need to achieve expertise were not yet systemised.
 
 > *'If you aren’t growing you’re dying.' -- Tony Robbins*
@@ -452,6 +452,7 @@ However mastery is an important trigger of arrogance. There is no place for a «
 ## On habits and systems
 
 <!--
+- There are many yous: Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking: Over time, meditation can rewire your brain to be less impulsively reactive and allow you to thoughtfully respond to your feelings. Mini-meditations help in the moment: By focusing on your breath during a tense moment you can get some of the long term effects of meditation right when you need them.
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
 - Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	

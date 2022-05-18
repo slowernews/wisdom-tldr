@@ -30,7 +30,7 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 
 Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
 
-Creativity is a muscle. [Without new experiences](chapter_1_self.md#on-comfort-and-risk), it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional wisdom from conventional people living conventional lives lead to conventional ideas.
+Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional people living conventional lives lead to conventional ideas.
 
 > *'We can’t solve problems by using the same kind of thinking we used when we created them.' -- Albert Einstein*
 
@@ -42,13 +42,11 @@ Creativity is a muscle. [Without new experiences](chapter_1_self.md#on-comfort-a
 
 ### How to judge ideas?
 
-Peers are the best judging ideas. Managers will regret more a false positive than a false negative.
+Ask peers. Managers will regret more a false positive than a false negative.
 
-However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. Instead of focusing on ideas, focus on transforming yourself into the kind of person who can bring them to life. 
+However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. So focus on transforming yourself into the kind of person who can bring them to life. 
 
 > *'Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn't mean other people will copy it. First they'll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they'll still have to compare it to the existing idea they are already working on and see which one they're more likely to do well with.'*
-
-> *'Ideas, then good ideas, then execution, then Do-ing, then networking, then idea sex, then turning an idea into a future vision, then monetizing the idea. Then more ideas.' -- James Altucher*
 
 > *'Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing.' -- HN_dilemma*
 
@@ -60,12 +58,6 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ---
 ## On analysis
 
-<!--
-- How can we overcome complexity bias? Occam’s razor suggests that the simplest solution or explanation is usually the correct one.
-- confirmaton bias, the mother of all bias. In truth, we all believe in things we can’t prove. If you’re intelligent, well-educated, and good at pulling facts, you’re going to be even better at confirming your own beliefs than someone who’s less intelligent or well-educated. Our brains are wired so that we make better lawyers than we do scientists, in that a lawyer will look for and use evidence to support their client, while ignoring and definitely not using evidence that does the opposite. We only want to watch television shows or read articles or listen to podcasts that confirm what we already believe -- what we already think we know. best way to deal with confirmation bias: You need to search out disconfirming evidence.
-- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
--->
-
 > *'Not everything that counts can be counted, and not everything that can be counted counts.' -- Albert Einstein*
 
 > *'There are no facts, only interpretations.' -- Friedrich Nietzsche*
@@ -74,7 +66,7 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 
 Analysis is an art, not a science.
 
-The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. Everyone is biased.
+The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
 > *'Believe only half of what you see and nothing that you hear.' -- Edgar Allan Poe*
 
@@ -82,13 +74,9 @@ The main problem with analysis is our human tendency to think that what we see i
 
 > *'What Susie says of Sally says more about Susie than of Sally.'*
 
-> *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
-
 > *'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?' -- George Carlin*
 
 > *'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' -- Mark Twain*
-
-> *'Opinions are like a shirt: everyone should have at least a basic one, and it’s okay to really love yours, but try to remember to change it every now and again.'*
 
 > *'We don't look at what we look, but at what we are.' -- Fernando Pessoa*
 
@@ -96,65 +84,38 @@ The main problem with analysis is our human tendency to think that what we see i
 
 > *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
 
-Be specially careful with *confirmation bias*. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. 
-Too much info is the main cause of it: you'll always find confirmation to your pre-existing beliefs.
-
-> *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
-
-> *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
-
-> *'The truth will set you free, but first it will piss you off.' -- Gloria Steinem*
-
-> *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side’s argument better than they do. ' -- Chalie Munger*
-
-> *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
-
-> *'That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
-
-And when facing new ideas. Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.
-
-> *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
-
-> *'I am both worse and better than you thought.' -- Sylvia Plath*
-
-> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
-
-> *'The truth is rarely pure and never simple.' -- Oscar Wilde*
-
 ### Hints
 
 <!--
 > *'To understand is to know what to do.' -- Wittgenstein*
-> *'We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.'*
 
+- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
 - if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
 - tese antitheses -> syntesis
 - The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
-- Ask yourself “does this decision require fast or slow thinking?” 
-- Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
 Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
-- What’s your advantage: informational, analytical, or behavioral?	
-- not playing your hand but playing your opponent.
 - The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
 - Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
 - Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
-- As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
 - As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
 -->
 
-- Pay attention to negative cues: what should have happened but did not.  
-- «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
-- We always think that the people who agree with us are really smart.  
-- Skepticism is a great servant and a terrible master.  
-- Randomness: most facts are a «tell» but some are just random.  
+- Prefer stats than narratives. We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.
 - There’s always a good reason and a real reason.
+- Look for something that doesn't make sense. That’s where the gold mine is: «It doesn’t make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don’t try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move. (Adam Robinson)
+- Randomness: most facts are a «tell» but some are just random.  
+- Skepticism is a great servant and a terrible master.  
 - There's truth on *group* stereotypes. *Group* opinions self correct themselves.
-- Prefer stats than narratives.
+- We tend to think that the people who agree with us are really smart.  
+- Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
+- Pay attention to negative cues: what should have happened but did not.
+- «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
+- Best way to deal with confirmation bias: You need to search out disconfirming evidence. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. Too much info is the main cause of it: you'll always find confirmation to your pre-existing beliefs. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
+- Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.
 
 > *'Sometimes a cigar is just a cigar.' -- Sigmund Freud*
 
-> *'Look for something that doesn't make sense. That’s where the gold mine is: «It doesn’t make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don’t try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They're the ones that will make the assets price move.'  
-'The most important question: «What do you need to see to change your view?»' -- Adam Robinson (paraphrased)*
+> *'The most important question: «What do you need to see to change your view?»' -- Adam Robinson*
 
 > *'The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches).' -- Paul Graham*
 
@@ -163,6 +124,30 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *'I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things.' -- Benjamin Franklin*
 
 > *'Things which are different in order to be different are seldom better, but that which is made to be better is almost always different.' -- Dieter Rams*
+
+> *'Experiment and theory often show remarkable agreement when performed in the same laboratory' -- Daniel Bershader*
+
+> *'The hardest thing to explain is the glaringly evident that everyone has decided not to see.' -- Ayn Rand*
+
+> *'I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side’s argument better than they do. ' -- Chalie Munger*
+
+> *'What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.' -- Warren Buffett*
+
+> *'That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them' -- Paul Graham*
+
+> *'You always get exaggerated notions of things you don’t know anything about.' -- Albert Camus*
+
+> *'I am both worse and better than you thought.' -- Sylvia Plath*
+
+> *'An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice.' -- Louis Céline*
+
+### On truth
+
+> *'The truth is rarely pure and never simple.' -- Oscar Wilde*
+
+> *'The truth will set you free, but first it will piss you off.' -- Gloria Steinem*
+
+> *'Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.' -- Winston Churchill*
 
 
 
@@ -194,10 +179,13 @@ You can’t predict but you can prepare for the highly probable scenarios.
 
 ### How to plan? 
 
-Start with a [vision](#on-creativity-and-ideas). Then look for actionable steps.  
+Start with a vision. Then look for actionable steps.  
 
-Choose the plan with more options. The one that lets you change plan. Plans are only a starting point.  
-However too detailed plans (or too general plans) are not useful and a waste of time.
+Hints:
+
+- Plans are only a starting point. Choose a plan with options.
+- Too detailed plans (or too general plans) are not useful and a waste of time.
+- Don't sabotage them when they get tedious or too difficult.
 
 > *'Vision is the art of seeing what is invisible to others.' -- Johnathan Swift*
 
@@ -207,11 +195,10 @@ However too detailed plans (or too general plans) are not useful and a waste of 
 
 > *'I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day.' -- Ernest Hemingway*
 
-> *'You make plans and god laughs.' -- Yiddish proverbs*
+> *'You make plans and god laughs.' -- Yiddish proverb*
 
 > *'Everyone has a plan until they get punched in the mouth.' -- Mike Tyson*
 
-Don't sabotage them when they get tedious or too difficult.
 
 
 
@@ -228,6 +215,7 @@ Don't sabotage them when they get tedious or too difficult.
 > *'It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago.' -- Derek Sivers*
 > *'Se não houvesse decisoes eramos todos iguais.' -- António Simões*
 
+- Ask yourself “does this decision require fast or slow thinking?” 
 - Occam’s razor states that the simplest solution is usually correct.
 - the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
 - estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game' should give estimates.
@@ -245,12 +233,9 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 - the three big decisions: where you live, who you're with and what you're doing. -- Naval Ravikant*
 - in the age of infinite leverage, judgement is the most important skill. -- Naval Ravikant*
 - thinking is difficult. that's why most people judge. -- carl jung
-- the heart decides. the head rationalizes. -- Naval Ravikant*
-- decision making is everything. if you get 80% right is exponnetially better than 70% right.
 - claer thinkers take feedback from reality not society. -- Naval Ravikant*
 - clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity. -- Naval Ravikant*
 - the only part you can't outsource is judgement. -- Naval Ravikant*
-- you know you're good at something when you switch from making decisionswith your conscious mind to making decisions with your instincts. -- Naval Ravikant*
 -->
 
 > *'A well defined problem seeks its own solution' -- Mike Brundant*
@@ -259,44 +244,15 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 
 > *'May your choices reflect your choices, not your fears.' -- Nelson Mandela*
 
-You are evaluated by your decisions.
+You are evaluated by your decisions. Getting 80% right is exponentially better than 70% right.
 
-We think we make choices but our choices are influenced by others. People pick what is familiar.
+We think we make choices but our choices are influenced by others. We pick what is familiar.
+
+> *'The heart decides. The head rationalizes.' -- Naval Ravikant*
 
 > *'Opportunity cost is how intelligent people assess things.' -- Charlie Munger*
 
 > *'A mistake repeated more than once is a decision.' -- Paulo Coelho*
-
-### On mental models
-
-<!--
-market: supply and demand explain a lot of phenomenons
-macro scale - high level / micro scale - low level: https://en.'*wikipedia.'*org/wiki/Level_of_analysis - everything is a system
-high tech way / low tech way 
-everything is: http://c2.'*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
-momentum: virtuous circle / vicious circle
-spaced learning system: anki, supermemo, goldenlist
-programming languages: type annotation theory / OO vs functional paradigm
-log scales: hyperbolic function - pareto law 80/20 - plateaus
-noise rate
-great breakthroughs are always counter-intuitive
-understand people: 16personality types INTP-A was a breakthrough
-framing = everything is
-80% man are stronger than 80% woman
-A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
--->
-
-> *'All models are wrong but some are useful.' -- George Box*
-
-> *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
-
-All models are wrong. The practical question is how wrong do they have to be to not be useful. This is what a mental model is – a functional tool. If you don't understand its limitations, you don't understand the model.
-
-> *'A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.' -- Alfred Korzybski*
-
-> *'Scientists generally agree that no theory is one hundred percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
-
-> *'The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
 
 ### How to speed up decisions?
 
@@ -320,75 +276,32 @@ Hints:
 - Choose the one that may produce most serendipity down the line.
 - Optimal decisions occur with 70% of the information. Anything less and you’ll probably make a bad decision. Anything more and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
 
-
-
-
-
-
----
-## On communication
-
-> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
-
-Speak less and listen more. Listening is powerful.
-
-> *'Knowledge speaks, but wisdom listens.' -- Jimi Hendrix*
-
-> *'When you listen, you may learn something new.' -- Dalai Lama*
-
-### How to communicate? 
+### On mental models
 
 <!--
-- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
-- Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
-- admit when you're wrong. shut up when you're right -- john gottman
-- people believe everything, if you whisper it.
-- the best way to get someone's attention is to stop giving them yours.
-- smart people talking to other smart people tend to have vety short conversations. -- Naval Ravikant*
-- the secret to public speaking is to speak as if you were alone. -- Naval Ravikant*
-- a performer shouldn't look at the audience
-- a loucura é a incapacidade de comunicar-se
-- with truly logical people, most arguments are very short and based mainly on differing assumptions. -- Naval Ravikant*
+market: supply and demand explain a lot of phenomenons
+macro scale - high level / micro scale - low level: https://en.'*wikipedia.'*org/wiki/Level_of_analysis - everything is a system
+high tech way / low tech way 
+everything is: http://c2.'*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
+momentum: virtuous circle / vicious circle
+spaced learning system: anki, supermemo, goldenlist
+programming languages: type annotation theory / OO vs functional paradigm
+log scales: hyperbolic function - pareto law 80/20 - plateaus
+noise rate
+framing = everything is
+80% man are stronger than 80% woman
+A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
 -->
 
-- Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and it will appear as fake.
-- Listen. Seek to understand before seeking to be understood. Don’t worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
-	- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
-	- Paraphrasing: Repeat what they just said in your own words.
-	- Emphasize Similarity, we like people who are like us.
-- Get better at asking questions, they are more important than answers. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Be interested to be interesting.
-- Banish meaningless small talk and learn how to ask questions that build rapport and natural conversation. Treat new aquaintances as old friends. Build rapport, cut the BS. Speak what’s in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet. Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
-- Don’t be stubborn: you don’t always have to get the last word. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow. No one is inherently boring. They’re only boring because you haven’t asked the right questions.
+> *'All models are wrong but some are useful.' -- George Box*
 
-> *'Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.' -- Kevin Kelly*
+> *'A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one.' -- Joan Robinson*
 
-### How to tell good stories?
+A mental model is a functional tool. If you don't understand its limitations, you don't understand the model. All models are wrong. The practical question is how wrong do they have to be to not be useful. 
 
-Good stories condense a massive amount of details into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment. When it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+> *'Scientists generally agree that no theory is one hundred percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.' -- Yuval Noah Harari*
 
-> *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
-
-> *'The more you say, the less people remember.' -- François Fénelon*
-
-### How to discord?
-
-Listen as you’re wrong.
-
-Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you'll learn something. If they can't you'll soften their views.
-
-- «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
-
-> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
-
-### On public speaking
-
-You don't need to answer their questions.
-
-- You can say whatever you want if it's interesting.
-- Know when to answer boring on easy to misinterpret questions.
-- Agree as much as you can without lieing. Ask questions instead of desagreeing.
-
-> *'Always say less than necessary.' -- Kevin Kelly*
+> *'The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn't perfectly and completely right is totally and equally wrong.' -- Isaac Asimov*
 
 
 
@@ -706,6 +619,8 @@ There are limits on change. Willpower is finite and change requires attention. H
 <!--
 > *'All guns are loaded.' -- Kevin Kelly*
 
+- What’s your advantage: informational, analytical, or behavioral?	
+- not playing your hand but playing your opponent.
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
@@ -745,6 +660,7 @@ Hints:
 <!--
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - the good reason and the real reason.
+- the best way to get someone's attention is to stop giving them yours.
 -->
 
 > *'We catch more flies with honey than vinegar.'*

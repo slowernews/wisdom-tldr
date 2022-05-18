@@ -8,6 +8,81 @@
 
 # 2.1 - On cooperation
 
+## On communication
+
+> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+
+Speak less and listen more. Listening is powerful.
+
+> *'Knowledge speaks, but wisdom listens.' -- Jimi Hendrix*
+
+> *'When you listen, you may learn something new.' -- Dalai Lama*
+
+### How to communicate? 
+
+Be interested to be interesting.
+
+<!--
+- be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
+- Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
+> *'Admit when you're wrong. Shut up when you're right.' -- John Gottman
+- people believe everything, if you whisper it.
+- a performer shouldn't look at the audience
+- a loucura é a incapacidade de comunicar-se
+- with truly logical people, most arguments are very short and based mainly on differing assumptions. -- Naval Ravikant*
+-->
+
+Hints:
+
+- Smile and relax. Stop trying to impress. Warmth comes from smiling while you speak. Popular people smile more than other people. Calm is largely a matter of slowing your speech down. Learn how to lessen the crushing pressure of being interesting by focusing on being interested: controlling the impression that you make on others takes a large amount of cognitive bandwidth and it will appear as fake. Treat new aquaintances as old friends.
+- No one is boring. They’re only boring because you haven’t asked the right questions. Speak what’s in your mind, sometimes it backfires, but be real. The best way to be highly influential is to be human to everyone you meet. Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but crucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
+- Listen. Seek to understand before seeking to be understood. Don’t worry about what you’re going to say next. The best conversationalists are the best listeners. Ask a question. Listen to the answer. Respond in the form of a statement. Be interested to be interesting, Want to be the most interesting person in the room? Learn the art of active listening. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
+	- Mirroring: Repeat the last 1-3 words the person just said as a question. (Yes, it’s that simple.)
+	- Paraphrasing: Repeat what they just said in your own words.
+	- Emphasize Similarity, we like people who are like us.
+- Ask questions. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. 
+- Don’t be stubborn. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow.
+
+> *'Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.' -- Kevin Kelly*
+
+> *'Smart people talking to other smart people tend to have vety short conversations.' -- Naval Ravikant*
+
+### How to tell good stories?
+
+Good stories condense a massive amount of details into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment. When it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
+
+> *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
+
+> *'The more you say, the less people remember.' -- François Fénelon*
+
+### How to discord?
+
+Listen as you’re wrong.
+
+Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you'll learn something. If they can't you'll soften their views.
+
+- «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
+
+> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
+
+### On public speaking
+
+You don't need to answer their questions.
+
+- You can say whatever you want if it's interesting.
+- Know when to answer boring on easy to misinterpret questions.
+- Agree as much as you can without lieing. Ask questions instead of desagreeing.
+
+> *'Always say less than necessary.' -- Kevin Kelly*
+
+> *'The secret to public speaking is to speak as if you were alone.' -- Naval Ravikant*
+
+
+
+
+
+
+---
 ## On relationships
 
 <!--
@@ -891,10 +966,6 @@ Hints:
 
 ### On teams
 
-<!--
-- metrics matter. if you choose the wrong metric you will optimize for teh wrong thing. vanity metrics are dangerous.
--->
-
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 
 People should feel as part of a tribe.
@@ -910,6 +981,7 @@ Hints:
 ### How to give feedback?
 
 <!--
+- metrics matter. if you choose the wrong metric you will optimize for teh wrong thing. vanity metrics are dangerous.
 > *'The only thing worse than a boy who hates you: a boy that loves you.' -- Markus Zusak*
 - simple feedback mechanism: Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
 -->
@@ -1030,30 +1102,42 @@ You make yourself rare by combining two or more relevant “pretty goods”. Cap
 
 ### Employee or entrepreneur?
 
-Employees have no control over their futures. The economy forces all the risk on them - more outsourcing, more automation and every month they risk being fired.
+Employees have no control over their futures. The economy forces all the risk on them: outsourcing, automation and every month they risk being fired.
 
 Hints:
 
-- Work for money, if they want loyalty they can hire a dog.
-- Rich people get paid by project and pay by the hour.
+- Rich people get paid by project and pay by the hour. Act accordingly.
+
+> *'A taste of freedom can make you unemployable.' -- Naval Ravikant*
 
 > *'An entrepreneur without drive is just an unemployed.' -- Naval Ravikant*
+
+> *'If you want to be great, walk the rope without a boss and without a net.' -- Naval Ravikant*
 
 > *'The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
 
 <!--
-- if you want to be great, walk the rope without a boss and without a net. -- Naval Ravikant*
 - You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
+- There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
+- Try consulting or entrepreneurship. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need. When you sell your ability to deliver results, nobody asks about your skillset.
+- you're never going to get rich renting out your time. -- Naval Ravikant*
+- trade money for time, not time for money. You're going to run out of time first. -- Naval Ravikant*
+- earn with your mind, not with your time. -- Naval Ravikant*
 -->
 
 ### Specialist or generalist?
 
+Hints:
+
 - To be an entrepreneur you need to know a little about a lot of things.  
 - To be employed, if you pick the right specialization, you'll do better as a specialist.
+- Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 
 ### How to know your strenghts?
  
 Ask employers why did they asked you for an interview - they will describe your strengths.
+
+> *'Our best work is the work we find ourselves doing, when there is no obligation to do so.' -- Naval Ravikant*
 
 
 
@@ -1064,40 +1148,16 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-- our best work is the work we find ourselves doing, when there is no obligation to do so. -- Naval Ravikant*
 > *'Dont ever work for someone you dont want to become.' -- Kevin Kelly*
-> *'You cannot get smart people to work extremely hard just for money.' -- Kevin Kelly*
-> *'Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for.' -- Kevin Kelly*
-> *'The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do.' -- Kevin Kelly*
-
-- growing companies are always hiring.
-> *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
+- if you can't see yourself working with someone for life, don't work with them for a day. -- Naval Ravikant*
 - The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
 - (kk) Being enthusiastic is worth 25 IQ points.
 - (kk) Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
 - (kk) If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss.
-- I'm on a mix of hourly and value based, will try to change from 50/50 to 10/90 in favor of value based next year.
 - people want freedom to choose their process.
-- Hire people you can trust. You have to trust them to be adults. Give them clear goals and then get the hell out of the way so that they can do their job.
-Give them the tools they ask for, not the tools a vendor suggested. They have a reason they asked for a proprietary compiler, get it for them.
-Respect goes a long way and begins in the recruitment phase. It surely doesn’t end there. To get respect, you have to give respect.
-At the same time, wages aren’t everything. Everyone wants to make good money but when you’re already assured of making good money, other things start to count. Help your employees in their goals. If you have a QA that wants to move to dev, don’t offer to pay back their educational expenses, but pay their expenses outright, pay for their child care, pay for their books, and keep paying their salary while they work a reduced schedule. Really, if you’re treating them right, they won’t just up and go to a new company after you've trained them.
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
-- If you’re a knowledge worker decisions are your product. Milton Friedman, the economist, wrote: “The best measure of quality thinking is your ability to accurately predict the consequences of your ideas and subsequent actions.”
-- There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
-- Startups are (by necessity) filled with generalists; big companies are filled with specialists.
-- companies hire for a problem and not general optimizations. Even if they need a generalist.
-- Try consulting or entrepreneurship. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need. When you sell your ability to deliver results, nobody asks about your skillset.
 - money is trust. system of mutual trust.
-- when hiring or investing you don't get the best deal at the best price. -- Naval Ravikant*
-- your real resume is a painful recounting of all your struggles. -- Naval Ravikant*
-- twitter is a much better resume than linkedin.
-- you're never going to get rich renting out your time. -- Naval Ravikant*
-- if you can't see yourself working with somene for life, don't work with them for a day. -- Naval Ravikant*
-- trade money for time, not time for money. You're going to run out of time first. -- Naval Ravikant*
-- earn with your mind, not with your time. -- Naval Ravikant*
-- a taste of freedom can make you unemployable. -- Naval Ravikant*
-- A job search is BOTH a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
+- Two valid methods: hiring on culture contribution and hiring on culture matching.
 -->
 
 > *'He who works with his hands is a laborer.  
@@ -1108,46 +1168,51 @@ Trial most but only hire likable persons that «get shit done».
 
 Your goal should be to «fire» yourself and hire people who are better at your job than you are. Leaders must become masters at finding and hiring talent.
 
-- Two valid methods: hiring on culture contribution and hiring on culture matching.
+Hints:
+
+- When applying for a job be more of a consultant than an applicant. Don't do interviews, do discussions.
+- Companies hire for a problem and not general optimizations. Even if they need a generalist. Growing companies are always hiring.
+- A job search is both a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
+- Good interview questions:
+	- «What are there problems you’ve solved and how did you solve them?» (Elon Musk)
+	- «What do you own and why?» (Sandy Gottesman, investor)
+- Employers are just trying to find somebody they like, that's what «culture fit» is. Often is not how good you are, you just have to be liked while being sufficiently good. Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you. And people like people like themselves.
+- Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
 > *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
 
 > *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
 
+> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+
+> *'Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for.' -- Kevin Kelly*
+
+### On resumes
+
+Hints:
+
+- Your resume should tell the reader why you more valuable to the company than the next person. You’ll show that with your experience. Tell HOW you accomplished your responsibilities better than the next person. ie. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
+- There are two skill levels: still learning or confident in the skill.
+
+> *'Twitter is a much better resume than Linkedin.' -- Naval Ravikant*
+
+> *'Your real resume is a painful recounting of all your struggles.' -- Naval Ravikant*
+
 ### How to attract and keep talented people?
 
 Respect them.
 
-You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
-
 Good employees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
+
+Hints:
+
+- You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
+- Asking for a raise. Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.
 
 > *'Everybody wants to hire the best. Few of them actually pay them like they're the best.' -- Naval Ravikant*
 
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+> *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
 
-### On job applications
+> *'You cannot get smart people to work extremely hard just for money.' -- Kevin Kelly*
 
-When applying for a job be more of a consultant than an applicant.
-
-Hints:
-
-- Your resume should tell the reader what is going to make you more valuable to the company than the next person. You’ll show that with your experience.
-DON’T tell about your responsibilities. Everyone who is doing your type of job has those responsibilities. Tell HOW you accomplished your responsibilities better than the next person. ie. Your a car salesperson. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.  
-- There are two skill levels: still learning or confident in the skill.
-- Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you.
-- Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
-- They are just trying to find somebody they like, that's what «culture fit» is. Often is not how good you are. You just have to be liked while being sufficiently good. And people like people like themselves.
-
-### On job interviews
-
-Don't do interviews, do discussions.
-
-Hints:
-
-- «What are there problems you’ve solved and how did you solve them?» (Elon Musk)
-- «What do you own and why?» (Sandy Gottesman, investor)
-
-### On asking for a raise
-
-Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.  
+> *'The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do.' -- Kevin Kelly*

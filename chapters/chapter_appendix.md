@@ -148,6 +148,7 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 <!--
 People my age are so much older than me
 retirement is when you stop sacrificing today for an imaginary tomorrow -- naval
+> *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
 -->
 
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*

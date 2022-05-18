@@ -52,6 +52,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 ## Chapter 2 - Groups
 
 *On cooperation*
+- [On communication](/chapters/chapter_3_action.md#on-communication)
 - [On relationships](/chapters/chapter_2_groups.md#on-relationships)
 - [On networking](/chapters/chapter_2_groups.md#on-networking)
 - [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
@@ -85,7 +86,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On analysis](/chapters/chapter_3_action.md#on-analysis)
 - [On planning and strategy](/chapters/chapter_3_action.md#on-planning-and-strategy)
 - [On decision making](/chapters/chapter_3_action.md#on-decision-making)
-- [On communication](/chapters/chapter_3_action.md#on-communication)
 
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
