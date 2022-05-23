@@ -88,6 +88,7 @@ The main problem with analysis is our human tendency to think that what we see i
 
 <!--
 > *'To understand is to know what to do.' -- Wittgenstein*
+> *'Whenever there is an argument between two sides, find the third side.' -- Kevin Kelly*
 
 - Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
 - if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
@@ -624,6 +625,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
 Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
+> *'Copying others is a good way to start. Copying yourself is a disappointing way to end.' -- Kevin Kelly*
 -->
 
 > *'Give me a lever long enough, and a place to stand, and I will move the earth.' -- Archimedes*
@@ -816,6 +818,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 - giving yourself permission to lose, automatically guarantees a loss.
 - i'm losing and i lost are too diffrent things.
 - we prefer to see winners as naturally talented rather then hard working. beacuse if it were reversed, what would that inply to us. -- Naval Ravikant*
+> *'If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game.' -- Kevin Kelly*
 -->
 
 > *'Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat.' -- Balthasar Gracian*

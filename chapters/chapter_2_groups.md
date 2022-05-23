@@ -18,6 +18,8 @@ Speak less and listen more. Listening is powerful.
 
 > *'When you listen, you may learn something new.' -- Dalai Lama*
 
+> *'Admit when you're wrong. Shut up when you're right.' -- John Gottman*
+
 ### How to communicate? 
 
 Be interested to be interesting.
@@ -25,11 +27,11 @@ Be interested to be interesting.
 <!--
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
 - Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
-> *'Admit when you're wrong. Shut up when you're right.' -- John Gottman
 - people believe everything, if you whisper it.
 - a performer shouldn't look at the audience
 - a loucura é a incapacidade de comunicar-se
 - with truly logical people, most arguments are very short and based mainly on differing assumptions. -- Naval Ravikant*
+> *'A wise man said, “Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”*
 -->
 
 Hints:
@@ -207,8 +209,8 @@ We don’t like people that see us in a way that doesn’t resonate with how we 
 
 Hints:
 
-- Form relationships with those who seem like they’ll give at least as much than they take.  
 - Building new connections is important but it’s even more important to remember your connections that already exist. The difference between success and failure can be as simple as keeping in touch.  
+- Form relationships with those who seem like they’ll give as much than they take.  
 
 
 
@@ -219,19 +221,17 @@ Hints:
 ## On business and entrepreneurship
 
 <!--
-> *'The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.' -- Kevin Kelly*
 > *'You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further.' -- Kevin Kelly*
+> *'Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money.' -- Kevin Kelly*
 
-- there is no skill called business. avoid business magazines and business classes -- naval
-- it's never been easier to start a company. it's never been harder to build one. -- naval
+- two ways to make money: bundling and unbundling!
+- you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
 - Entrepeneurs are curious
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding. empregados sempre c skin in the game. the enemies are outside not inside
 - CEOs are adaptable and flexible and good risk managers.
 - Founder relationships matter more than you think. Be nice! Or at least don’t be a jerk
 - Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it. Become the best in the world at what you do. Keep redefining what you do until this is true.
 - persuade people to buy rather than teach people to buy. pro tip: Ask your current customers “What nearly stopped you buying from us?”
-- Jeff Bezos summed this up when he said “Your margin is my opportunity.”
-- É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
 - One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you’re living in the future and you build something cool that users love, it may matter more than outsiders think."	
 - Moonshot: 10X bigger instead of 10%. imply a new process not an optimization. Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
 - Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don’t. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
@@ -247,14 +247,17 @@ Hints:
 
 > *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
 
-Focus on what can you give that empowers others.
-<!-- give where you are naturally good -->
+Focus on what you can give that empowers others and it's easy for you.
 
-It’s not about what you know, it’s about who trusts you to solve their problems. Often, that requires the technical skills. Always, that requires the communication skills to persuade someone you can do it.
+It’s not about what you know, it’s about who trusts you to solve their problems. Often, it requires the technical skills. Always, it requires the communication skills to persuade someone you can do it.
 
 Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet.
 
 > *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+
+> *'There is no skill called business. Avoid business magazines and business classes.' -- Naval Ravikant*
+
+> *'Your margin is my opportunity.' -- Jeff Bezos*
 
 ### On entrepreneurship
 
@@ -270,18 +273,18 @@ Patterns of unsuccessful entrepreneurs:
 
 Hints:
 
-- Do things manually at first. Get one client and do everything the hard way. Don’t scale your team/product until you have built something people want. Only after you are over running your ability to do things manually you do have to worry about automation. 
-- If you have an idea, test it and launch now. It’s called putting out a “minimally viable product” or MVP. Timing is the most important factor in startup success (quick to start but not the first). Team and Execution came next. Find the 80/20 solution. Don’t put a bunch of effort in on the front end to find out there’s no paying demand. 
-- The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs. It’s easier when YOU are the customer. You truly understand the problem. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem. Fall in love with the problem, not the solution. However «scratching your own itch» it’s good only as a start. Build something people want: Find 10-100 customers who love your product.
-- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it. If there are tasks that need to be done that do not directly result in the generation of revenue, then outsource them so that you have more time to work on building your cash flow.  
-- Kill a lot of ideas and create a culture that rewards killing ideas. Nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
+- Do things manually at first. Don’t scale your team/product until you have built something people want. Only after you are over running your ability to do things manually you do have to worry about automation. 
+- If you have an idea, test it and launch now. It’s called putting out a “minimally viable product” or MVP. Timing is the most important factor in startup success (quick to start but not the first). Team and execution came next. Find the 80/20 solution. Don’t put a bunch of effort to find out there’s no paying demand. 
+- The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs. It’s easier when YOU are the customer. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem.
+- Do the math. When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?
+- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it or outsource them so you have more time to work on your cash flow.
+- Create a culture that rewards killing ideas. Nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
 - Deliver a little bit more than expected. That'll help to get you some recommendations.
-- Say "No" to nasty, time consuming and time wasting clients. Avoid: long negotiated deals with big customers if you can. Fire customers that cause you to much stress or that cost too much to service.
-- In some complex and mature markets if you start too small you will never be able to compete with existent players. «Starting up in a garage» works mostly on new and undeveloped markets.  
-- Be cautious. Entrepreneurs normally take a big risk and offset it with cautious moves (e.g. day job). Entrepreneurs are more risk averse than general population. Entrepreneurs prepare for bad. They budget pessimistically using the worst case scenario.
+- Say "No" to nasty, time consuming and time wasting clients. Fire customers that cause you to much stress or that cost too much to service.
+- In some complex and mature markets if you start small you my never be able to compete with existent players.
+- Entrepreneurs are more risk averse than general population. Budget pessimistically using the worst case scenario.
 - There’s the myth that failure makes you a better entrepreneur. This is FALSE. Study your failures.  
 - Most companies don’t die because they run out of money.  
-- The biggest assumption I ever made in business is that most people are telling me the truth.
 
 If you build something that people say they'll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a «wannapreneur». At that point it’s just part of the struggle.
 
@@ -289,7 +292,6 @@ If you build something that people say they'll pay for and then they don’t the
 - In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
 For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
-When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?
 -->
 
 > *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
@@ -414,6 +416,7 @@ Hints:
 
 > *'Zero-sum games tend towards conflict. Positive-sum games tend towards cooperation.' -- Naval Ravikant*
 - To negotiate is to have options.
+> *'When negotiating, dont aim for a bigger piece of the pie; aim to create a bigger pie.' -- Kevin Kelly*
 -->
 
 > *'Negotiations are won by whoever cares less.' -- Naval Ravikant*
@@ -617,6 +620,9 @@ However don’t vow to the gatekeepers. Most people are basically afraid of thei
 > *'A single death is a tragedy; a million deaths is a statistic.'*
 > *'History is a race between education and catastrophe.' -- H.G. Wells*
 > *'A politician who reads aloud speaches written by others is an actor, not a leader.' -- Naval Ravikant*
+- people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
+- liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
+- nacionalistas vs globalistas | moderados vs radicais?
 
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
@@ -911,6 +917,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
 - There are three keys: honesty, effectiveness, and efficiency.
+> *'When you lead, your real job is to create more leaders, not more followers.' -- Kevin Kelly*
 -->
 
 > *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
@@ -965,6 +972,10 @@ Hints:
 - Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
 ### On teams
+
+<!--
+- se tiver tudo bem dentro da equipa tudo se ira passar. focar no interno e n no externo
+-->
 
 > *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
 
@@ -1158,6 +1169,7 @@ Ask employers why did they asked you for an interview - they will describe your 
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
 - money is trust. system of mutual trust.
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
+- É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
 -->
 
 > *'He who works with his hands is a laborer.  

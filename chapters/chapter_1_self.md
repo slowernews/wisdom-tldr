@@ -525,8 +525,9 @@ Hints:
 
 <!--
 - self wareness: look at mirror what went well today, what went badtoday, how can i get better. what instead of why. why questions make us focus on the problem, getting emotional and stuck in the past. what not why! what can i do for change. what makes us focusing in the solution. So take the time now to truly understand what your beliefs and patterns are in every area of life. The better we understand that future self the easier it is to make good decisions today in order to make life better for our future selves.
-- we need to accept that people can do great things while still having flaws. Our heroes don’tr have to be perfect, and we can learn just as much from their imperfections as from their achievements.
+- people do great things while still having flaws. Our heroes don’t have to be perfect, and we can learn just as much from their imperfections as from their achievements.
 - When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
+- self awareness is the most attactive trait -- naval ravikant
 -->
 
 > *'No persons are more frequently wrong, than those who will not admit they are wrong.' -- François de La Rochefoucauld*

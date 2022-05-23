@@ -19,6 +19,9 @@ to be real you need to be vulnerable
 > *'It is better to be hated for what you are than to be loved for what you are not.' -- André Gide*
 > *'That thing that made you weird as a kid could you make great as an adult — if you don’t lose it.' -- Kevin Kelly*
 > *'Work to become, not to acquire.' -- Kevin Kelly*
+> *'A great way to understand yourself is to seriously reflect on everything you find irritating in others.' -- Kevin Kelly*
+> *'Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have.' -- Kevin Kelly*
+- unemployment makes you unhappy. dot.
 -->
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*

@@ -111,6 +111,10 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 ---
 ## On future
 
+<!--
+> *'The advantage of a ridiculously ambitious goal is that it sets the bar very high so even in failure it may be a success measured by the ordinary.' -- Kevin Kelly*
+-->
+
 > *'The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits.' -- Michaelangelo*
 
 > *'If you don’t imagine, nothing ever happens at all.' -- John Green*
@@ -149,6 +153,7 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 People my age are so much older than me
 retirement is when you stop sacrificing today for an imaginary tomorrow -- naval
 > *'Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.' -- Orwell*
+> *'Dont bother fighting the old; just build the new.' -- Kevin Kelly*
 -->
 
 > *'All God does is watch us and kill us when we get boring. We must never, ever be boring.' -- Chuck Palahniuk*
@@ -250,6 +255,8 @@ no one can predict macro.  -- Naval Ravikant*
 > *'You’re not supposed to optimize for money; you’re supposed to optimize for happiness.' -- Mr. Money Mustache*
 
 Being rich is being fulfilled.
+
+### On money
 
 Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to more freedom and happiness.
 
@@ -727,6 +734,7 @@ You’re never too old to make a friend. Look for people with the same interests
 - Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 - the measure of love is peace. -- Naval Ravikant*
 - a dirt dish by the sink can be a big marriage problem
+- we're always looking for somebody that looks for us. first parents, then a lover. screens give us 100% attention! tech is a compensation.
 -->
 
 > *'We accept the love we think we deserve.' -- Stephen Chbosky*
@@ -763,7 +771,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 > *'Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed.' -- H.Harwood and R. Gore-Bro*
 
-Unhappy wife, unhappy life.
+Unhappy wife, unhappy life. Marry an happy person.
 
 > *'He who marries for love without money has good nights and sorry days.' -- Ani Difranco*
 
@@ -1097,6 +1105,7 @@ Hints:
 If you're writing for your followers, your followers are worthless. -- naval better to find another audience than to write to teh audience
 the more people in the conversation the harder it becomes to speak the unconfortable truth. social media puts everybody in the same conversation. -- naval
 - Media companies harvest your attention and transform it into revenue.
+- journalism is now activism. only way to get eyeballs by fans
 -->
 
 > *'The goal of media is to make every problem, your problem.' -- Naval Ravikant*
