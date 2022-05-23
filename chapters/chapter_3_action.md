@@ -40,6 +40,8 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 
 > *'The mind that opens to a new idea never returns to its original size.' -- Albert Einstein*
 
+> *'Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement.' -- Kevin Kelly*
+
 ### How to judge ideas?
 
 Ask peers. Managers will regret more a false positive than a false negative.

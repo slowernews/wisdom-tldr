@@ -22,7 +22,10 @@ to be real you need to be vulnerable
 > *'A great way to understand yourself is to seriously reflect on everything you find irritating in others.' -- Kevin Kelly*
 > *'Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have.' -- Kevin Kelly*
 - unemployment makes you unhappy. dot.
+- do u want ur daughter to date somebody like u?
 -->
+
+> *'How we spend our days is how we spend our lives.' -- Annie Dillard*
 
 > *'Waking up to who you are requires letting go of who you imagine yourself to be.' -- Alan Watts*
 
@@ -92,6 +95,8 @@ What do you really want?
 - What desires do you have that don’t align with your past behavior.
 - What future path does your past behavior suggest rather than your imagination?
 - If you don’t like these answers, change your existing behavior.
+
+3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
 -->
 
 > *'The obstacle is the way.' -- Marcus Aurelius*

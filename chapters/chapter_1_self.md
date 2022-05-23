@@ -8,28 +8,15 @@
 
 # 1.1 - On foundations
 
-## On independence
-
-<!--
-- Codependent no more: How to stop controlling others and start caring for yourself.
-- Practice doing without things you think you need.
-- Once we’re «bought», it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent. The bank owns us. Work owns us.
-
-3. You have to make the definite decision to succeed. The only thing separating you from your wildest dreams and ambitions is that you have not yet made the definite decision to achieve them.
-
-> *'How we spend our days is how we spend our lives.' -- Annie Dillard*	
-> *'Só os mais corajosos conseguem fazer a paz.' -- Trump*
-- do u want ur daughter to date somebody like u?
-- I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules.
--->
+## On autonomy
 
 > *'A man is free at the instant he wants to be.' -- Voltaire*
 
-<!--
-Your independence is your legacy. //não sei se legacy é a tradução certa!
--->
+Your autonomy is your major legacy.
+
+Once we’re «bought», it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent. The bank owns us. Work owns us.
   
-Take care of yourself first and the money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
+Stop being codependent or  others and start caring for yourself first. The money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
 Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you are able to serve others to your fullest capacity.
 
@@ -116,15 +103,15 @@ Take ownership of your life, only then you will cultivate respect for yourself a
 
 > *'When you die you take absolutely nothing with you except your reputation.' -- Kevin Kelly*
 
+> *'Your character starts out spotless. You can only stain it.' -- Naval Ravikant*
+
 ### How to grow your reputation?
 
-Trust, not money, is the currency of business and life. Be impeccable with your word.
-
-> *'Your character starts out spotless. You can only stain it.' -- naval Ravikant*
-
-> *'Quality means doing it right when no one is looking.' -- Henry Ford*
+Be impeccable with your word. Trust, not money, is the currency of business and life.
 
 > *'Pay every debt, as if God wrote the bill.' -- Ralph Waldo Emerson*
+
+> *'Quality means doing it right when no one is looking.' -- Henry Ford*
 
 > *'With enough courage, you can do without a reputation.' -- Margaret Mitchell*
 
@@ -140,9 +127,9 @@ Trust, not money, is the currency of business and life. Be impeccable with your 
 ---
 ## On respect
 
-> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
+> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
 
-> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
+> *'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.' -- Ernest Hemingway*
 
 Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. 
 
@@ -150,9 +137,9 @@ Success means nothing in life. It’s forgotten in one generation, two at best. 
 
 > *'Promptness is a sign of respect.' -- Kevin Kelly*
 
-> *'Everyone you will ever meet knows something you don’t.' -- Bill Nye*
-
 > *'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -- Paulo Coelho*
+
+> *'I myself am made entirely of flaws, stitched together with good intentions.' -- Augusten Burroughs*
 
 A way to humble yourself is to put you in the position of being the weakest person in something during the day.
 
@@ -171,9 +158,6 @@ Quickly, specifically, sincerely.
 ## On gratitude
 
 <!--
-> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
-Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
-- A good life is not a life without problems. A good life is a life with good problems. mm
 -->
 
 > *'Gratitude is not only the greatest of virtues, but the parent of all the others.' -- Cicero*
@@ -182,14 +166,19 @@ Play the cards you are dealt. And you will often be dealt bad cards. Being grate
 
 Often we forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
 
-> *'Comparison is the thief of joy.' -- Theodore Roosevelt*
-
 > *'How lucky I am to have something that makes saying goodbye so hard.' -- A.A. Milne*
 
-> *'You can’t be grateful and angry simultaneously.'  
-'When you are grateful, fear disappears and abundance appears.' -- Anthony Robbins*
+> *'Comparison is the thief of joy.' -- Theodore Roosevelt*
+
+> *'A good life is not a life without problems. A good life is a life with good problems.' -- Mark Manson*
+
+> *'When you are grateful, fear disappears and abundance appears.' (...) 'You can’t be grateful and angry simultaneously.' -- Anthony Robbins*
 
 > *'When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need.' -- Lao Tzu*
+
+> *'Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich.' -- Lao Tzu*
+
+Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
 
 > *'Writing down one thing you are grateful for each day is the cheapest possible therapy ever.' -- Kevin Kelly*
 
@@ -204,15 +193,10 @@ Often we forget that a group of people blazed the trail we’re enjoying and tha
 ## On comfort and risk
 
 <!--
-- This is where margins of safety come in. We build them to reduce the precariousness of chance. Large margins of safety are not always possible. Sometimes they are too expensive. Sometimes they are not available. The fukushima plant could have been designed with a margin of safety to better withstand a tsunami. It wasn’t. Why? Because redundancy is expensive. That’s the trade-off. You are safer, but it costs more money. Sometimes when the stakes are low, we decide the trade-off isn’t worth it. What decisions would you make differently if you were factoring safety margins into your life? To be fair, you can’t put them everywhere. Otherwise, your life might be all margin and no living. To figure out where else you should build margins of safety into your life, think of the times you’ve been terrified and desperate. Those might be good places to start learning from experience and making the most of your second chances.
-- It is very popular to be over positive or over negative about it in the media (those people are usually wrong). So keep that in mind when reading those kind of opinions.
-- make meetings over playing something. Charlie replaced “let’s grab coffee” with hikes and catch meetings in the park.
 - This isn’t a success strategy. This is a WELL-BEING strategy.
 - Stability without Stagnation
-- FIVE PSYCHOLOGICAL ROADBLOCKS TO EXPLORING OUTSIDE OUR COMFORT ZONES: Authenticity, Likeability, Competence, resentment, morality
-- 'And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.' -- machiavelli, chapter 6 of _The Prince_
-- risk over safety is the way to pull forward. Risk Leads to Growth and Excitement. You will live a life that is filled with more excitement and fulfillment the more you take intentional risks.
-Let your fears guide you. The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
+- psychological roadblocks.
+- Let your fears guide you. The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
 -->
 
 > *'If you think adventure is dangerous, try routine. It’s lethal.' -- Paulo Coelho*
@@ -233,26 +217,24 @@ Breaking rules frightens people but comfort is the enemy of achievement. You kee
 
 > *'Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.' -- Van Gogh*
 
-> *'There is pleasure in the pathless woods.' -- Lord Byron*
-
 > *'A ship is safe in the harbor but that’s not what ships are for.'*
 
 > *'But how can you live and have no story to tell?' -- Fyodor Dostoyevsky*
 
 You can choose courage or you can choose comfort, but you can’t choose both.  
-Take risk. Big audacious risk. You’ll never get what you want in life without it.
+Take risk. You’ll never get what you want in life without it. Risk over safety is the way to pull forward.
 
-[If you act average, you’re going to be average](chapter_2_groups.md#on-following-the-herd). To outperform, you must be different and correct.
+If you act average, you’re going to be average. To outperform, you must be different and correct.
 
 Hints:
 
+- Risk looks different for everyone.
 - The risk of not changing is often greater than the risk of changing.
 - Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
 - Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week. Being uncomfortable should be “play” for you. Get confort in disconfort.
 - Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later. The discomfort zone is NOT about experiencing pain.
 - Leap while you’re at the top of the curve, and the next curve builds on the momentum.
-- Risk looks different for everyone.
 
 
 
@@ -261,59 +243,6 @@ Hints:
 
 ---
 ## On improving
-
-<!--
-1. You need to recognize when you’re not learning, for one thing. If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
-2. Find a mentor. Lacking that, find e.g. talk of someone explaining some hard techniques and then try to follow the advice. Even and especially if it feels clumsy at first.
-3. Switch to a new job where you'll be exposed to new things. try to find a job where people do code review, feedback is how we learn faster.
-5. Reflect on your mistakes, try to find what cues you missed and what you should look for next time. I've been doing this on weekly basis and I've learned a huge amount from figuring out underlying cause of what I did wrong.
-
-- If you are not constantly expanding your mind, skill sets, and patterns of thought, then you are contracting them.
-> *'There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with.' -- Kevin Kelly*	
-> *'The greatest teacher is called “doing”.' -- Kevin Kelly*
-> *'Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement.' -- Kevin Kelly*
-> *'#383. Every man hears only what he understands.' -- goethe*
-> *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
-> *'The brain switches off if it becomes too bored, that is the problem. You must always look for new things to learn.' -- Anand, Viswanathan*
-> *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
-> *'I have no special talent, I'm only passionately curious.' -- Albert Einstein*
-> *'I’m always looking for a way to make it happen, not excuses why it won’t work.' -- Aaron Walker*
-> *'When you are stuck, sleep on it. Let your subconscious work for you.' -- Kevin Kelly*
-> *'We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.'*
-
-- success is the worst teacher
-- growth: get unconfortable. So adventure is more than just grist for future storytelling — it’s a way to learn optimally. And like anything that promotes self-improvement, it’s not always a comfortable process. “We need to be willing to grow,” says Jon. “We need to be willing to be uncomfortable.”
-- Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don’t know why.
-- When I asked him what separated his student from the other people he’d mentored Russel’s answer was simple: «He’s willing to listen to people who are smarter than he is and he has a tremendous hustle and drive.»
-- Project-based learning is not a superior new idea. Project-based learning is the most inefficient form of learning that still works.
-- Learning concepts is much more important than learning applications.
-- first understand the basics! then pass to next level
-- entry trick to learn something. The first 25 of the above words make up about 1/3 of all printed material in English. The first 100 comprise 1/2 of all written material, and the first 300 make up about 65% percent of all written material in English.
-- Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
-- The Key to Double Loop Learning: Push to the Point of Failure
-- Pain + Reflection = Progress | effort * talent = skill
-- fastest way to learn is to teach.
-- Don’t major on minor things. - applied focus
-- A friend of mine who has finally achieved great success in his field after about 20 years. I asked him what was the “tipping point”?
-“Recognizing the good people from the bad,” he said. “Working with those people. Connecting them. That’s a life-multiplier.”
-- learning process: the macro from the micro.
-- Whatever your strengths are, they will likely lead straight into your weaknesses.
-- Set creative punishments. Make the consequences of inaction so unbearable that you have no choice but to get busy now. You could write a check to someone or something you really dislike. Give the check to a friend with strict instructions to mail the check if you do not achieve your goal.
-Going public with a goal increases your support and accountability. Ask for support, but don’t kid yourself that support equals progress.
-- framework for accelerated learning: (deconstruction, selection, right sequence, and reward/punishment
-- Lift heavy weights for 5 hours a week and only eat real food. Start a side hustle, save away every extra penny, and then invest in some sort of 
-- Discipline eliminates complexity. Everyday, you make micro and macro decisions. If you reduce the number of decisions you need to make daily, you haveasset like a real estate deal. Talk to five new women every day, be genuinely interested, and be authentic with them. Start journaling, meditating, and pushing yourself to embrace adversity.
-- Unlike IQ, which tends to stay the same throughout life, emotional intelligence is a flexible set of skills that can be acquired and improved with practice. Emotional intelligence is determined by self-awareness, self-management, social awareness, and relationship management.
-- One way to tease out the difference between Planck and chauffeur knowledge is to ask them why.
-- No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
-- This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
-- He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
-- Amateurs talk about money. Professionals talk about ideas.
-- Understand why we should fear missing opportunity more than we should fear failure.
-- The importance of living proactively instead of reactively.
-- The hardest part is showing up
-- How to learn? There are four simple steps to the Feynman Technique: choose a Concept, Teach it to a Toddler, Identify Gaps and Go Back to The Source Material, Review and Simplify
--->
 
 > *'To improve is to change; to be perfect is to change often.' -- Winston Churchill*
 
@@ -328,15 +257,67 @@ You improve with experience and analysis of past situations.
 
 > *'He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever.' -- Chinese proverb*
 
-> *'Any fool can know. The point is to understand.' -- Albert Einstein*
+> *'I have no special talent, I'm only passionately curious.' -- Albert Einstein*
+
+### How to learn?
+
+<!--
+> *'There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with.' -- Kevin Kelly*	
+> *'#383. Every man hears only what he understands.' -- goethe*
+> *'The eye sees only what the mind is prepared to comprehend.' -- Robertson Davies*
+> *'I’m no genius. I’m smart in spots—but I stay around those spots.' -- Tom Watson Sr., Founder of IBM*
+> *'When you are stuck, sleep on it. Let your subconscious work for you.' -- Kevin Kelly*
+
+- success is the worst teacher
+- Education leads toward a continuing self-discovery; training leads toward a final self-definition.'
+- first understand the basics! then pass to next level
+- Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
+- Pain + Reflection = Progress | effort * talent = skill
+- fastest way to learn is to teach.
+- Don’t major on minor things. - applied focus. This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
+- Whatever your strengths are, they will likely lead straight into your weaknesses.
+- One way to tease out the difference between Planck and chauffeur knowledge is to ask them why.
+- No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
+- He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
+- Understand why we should fear missing opportunity more than we should fear failure.
+- The importance of living proactively instead of reactively.
+- How to learn? There are four simple steps to the Feynman Technique: choose a Concept, Teach it to a Toddler, Identify Gaps and Go Back to The Source Material, Review and Simplify
+- I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules.
+- career day an year -> journaling self analysis.
+- skill fluency!
+- Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
+- Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
+- ask yourself these three questions to truly uncover the root cause of the issues in your life: 1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back. 2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle. 3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
+- Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.) Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. !!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!! learn language: films, manga, phrasebook, dictionary, flashcards. Consider a new language like a new sport. analogy. advantages and train. learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible. The apple is red. It is John’s apple. I give John the apple. I give John the apple. We give him the apple. He gives it to John. She gives it to him. I must give it to him. I want to give it to her.
+-->
+
+Deliberated practice.
+
+Hints:
+
+- If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
+- Listen to someone explaining some hard techniques and then try to follow the advice.
+- Get feedback. It accelerates learning.
+- Reflect on your mistakes, try to find what cues you missed and what you should look for next time.
+- Repeat.
+
+> *'It is not that I’m so smart. But I stay with the questions much longer.' -- Albert Einstein*
+
+> *'A lesson taught with humor is a lesson retained.' -- Ruth Westheimer*
+
+> *'Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe.' -- Kevin Kelly*
 
 ### Improving by experience
 
 > *'Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.' -- Chinese proverb*
 
-When expanding comfort zones you are learning. Don’t be afraid of [failure](#on-mistakes-and-failure).
+When expanding comfort zones you are learning. Don’t be afraid of failure.
 
 > *'The difference between theory and practice: in theory, there’s no difference between theory and practice; in practice, there is.' -- Van de Snepscheut*
+
+> *'The greatest teacher is called “doing”.' -- Kevin Kelly*
+
+> *'To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them.' -- Kevon Kelly*
 
 ### Improving by analysis
 
@@ -356,19 +337,6 @@ It will help you [letting go](#on-mistakes-and-failure).
 
 > *'All truly great thoughts are conceived by walking.' -- Nietzsche*
 
-### On learning
-
-<!--
-- (kk) Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe.
-- (kk) To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them.
-> *'A lesson taught with humor is a lesson retained.' -- Ruth Westheimer*
-> *'It is not that I’m so smart. But I stay with the questions much longer.' -- Albert Einstein*
-- Education leads toward a continuing self-discovery; training leads toward a final self-definition.'
-> *'When information goes ‘in one ear and out the other’, it’s often because it doesn’t have anything to stick to.' -- Joshua Foer*
--->
-
-Deliberated practice.
-
 ### Applied knowledge
 
 However action not knowledge leads to [success](chapter_appendix.md#on-success). Only applied knowledge is power.  
@@ -377,25 +345,6 @@ If you are not constantly taking action on the new information that you are lear
 > *'Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile.' -- Balthasar Gracian*
 
 > *'Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it.'*
-
-<!--
-- career day an year -> journaling self analysis.
-- skill fluency!
-- ask yourself these three questions to truly uncover the root cause of the issues in your life:
-1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back.
-2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle.
-3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
-- Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
-- Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
-- If you’re not getting better today, you’re getting worse.
-- Classes move as slowly as the slowest student. teachers should give you tricks.
-- Conversation can be learned but not taught. Classes are easily used to infinitely postpone making the thousands of mistakes necessary to achieve fluency.
-- Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.)
-- Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. 
-- !!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!! learn language: films, manga, phrasebook, dictionary, flashcards. Consider a new language like a new sport. analogy. advantages and train
-- learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible.
-- The apple is red. It is John’s apple. I give John the apple. - I give John the apple. We give him the apple. He gives it to John. She gives it to him. I must give it to him. I want to give it to her.
--->
 
 
 
@@ -415,7 +364,11 @@ The better players did not examine more possibilities, only better ones — just
 
 > *'An expert is a person who has made all the mistakes which can be made in a very narrow field' -- Niels Bohr*
 
+> *'Any fool can know. The point is to understand.' -- Albert Einstein*
+
 After learning the rules, break them. Only then you can achieve mastery.  
+
+If you’re not getting better today, you’re getting worse.
 
 > *'Pros are just amateurs who know how to gracefully recover from their mistakes.' -- Kevin Kelly*
 
@@ -423,11 +376,11 @@ After learning the rules, break them. Only then you can achieve mastery.
 
 > *'We have knowledge of a thing only when we have grasped its cause.' -- Aristotle*
 
-> *'A real Dj has to know how to clear the floor. To know the worse it can happen and how to come back.' -- James Altucher*
+> *'A real DJ has to know how to clear the floor. To know the worse it can happen and how to come back.' -- James Altucher*
 
 > *'Amateurs play for tricks, masters play for position.'*
 
-> *'You know you're good at something when you switch from making decisions with your conscious mind to making decisions with your instincts.' --  Naval Ravikant*
+> *'You know you're good at something when you switch from making decisions with your conscious mind to making decisions with your instincts.' -- Naval Ravikant*
 
 And don’t stop, skills are perishable and the path to mastery a never ending story. Some of the skills that you need to achieve expertise were not yet systemised.
 
@@ -456,32 +409,29 @@ However mastery is an important trigger of arrogance. There is no place for a «
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
 - Effort and reward have a linear relationship when the action is mindless and simple. Effort and reward have a diminishing returns relationship when the action is complex and multivariate. But when the action becomes purely psychological—an experience that exists solely within our own consciousness—the relationship between effort and reward becomes inverted. desiring a positive experience is itself a negative experience; accepting a negative experience is a positive experience.
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
-- Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity. It conquers worry. 
+- Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity and worry.
 - 52 approaches in a year is more than most men make in a lifetime. Consistency is everything.
 - e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
-> *'First we form habits. Then they form us.' -- Jim Rohn*
-- what pays off is consistency. not going viral.
 - it isn't 10k hours that creates outliers, it's 10k iterations. -- Naval Ravikant*
 - you are teh combination of your habits and the people who spend the most time with. -- Naval Ravikant*
 - I probably read 1-2 hours a day, and that puts me in the top 0,00001%. -- Naval Ravikant*
 - try to break a bad habit and form a good one every 6 months . -- Naval Ravikant*
-- be patient. it takes 10 years to build a career in anything. -- Naval Ravikant*
 - you do not raise to the level of your goals, you fall to the level of your systems.
-- karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve. -- Naval Ravikant*
-- at any given time, i'm either trying to pick up a good habit or discard previous bad habit. -- Naval Ravikant*
-- all the benifits in life come from compound interest - relationship, money, habits - anything of importance.  -- Naval Ravikant*
-- habits are compound interest in real life.
+> *'Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve.' -- Naval Ravikant*
+> *'All the benefits in life come from compound interest - relationship, money, habits - anything of importance.' -- Naval Ravikant*
 -->
 
 > *'We are what we repeatedly do. Excellence, then, is not an act, but a habit.' -- Will Durant*
 
 > *'At any given time, I'm either trying to pick up a good habit or discard a previous bad habit.*' -- Naval Ravikant*
 
-Habits are systems. We are essentially our habits.
+We are essentially our habits. Habits are systems. Habits are compound interest in real life.
 
 Consistency doesn’t come from effort, it comes from showing up. Long term thinking and discipline will guarantee you an easier life. 
 
 > *'The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it.' -- Kevin Kelly*
+
+> *'At any given time, i'm either trying to pick up a good habit or discard previous bad habit.' -- Naval Ravikant*
 
 > *'Continuous effort, not strength or intelligence, is the key to unlocking our potential.' -- Winston Churchill*
 
@@ -499,8 +449,8 @@ Pay attention, correct and don’t judge. Two vices is too much, none makes you 
 
 Hints:
 
-- Avoid low leverage habits: news (unnecessary stress and are negatively biased), pointless notifications, social media (use it as an output not as entertainment. Other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning nor the last thing you see at night), own a TV, work long hours, bad relationships, judge, control of petty stuff, perfectionism, signaling virtue. 
-- Cultivate high leverage habits: meditation, time outside with friends & family, exercise, rest, travel, useful skills, read, journal, music, create, network and make friends, massage, gratefulness, forgive, self awareness, plan, eat mindfully, focus, do less, sleep/nap, smile, use colors. 
+- Avoid low leverage habits: news (unnecessary stress and negative bias), pointless notifications, social media (use it as an output not as entertainment. Other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning nor the last thing you see at night), own a TV, work long hours, bad relationships, judge, control of petty stuff, perfectionism, signaling virtue. 
+- Cultivate high leverage habits: cultivating useful skills, exercise, rest, medidtation, travel, read, journal, music, create, network and make friends, time outside with friends & family, massage, gratefulness, forgive, self awareness, plan, eat mindfully, focus, do less, sleep/nap, smile, use colors. 
 
 ### How to create new habits?
 
@@ -632,8 +582,8 @@ Action cures everything. Physical stress avoids need for control. Hints:
 ## On fear, anger and excuses
 
 <!--
-- fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 - What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown.
+- fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 -->
 
 > *'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.' -- Plato*
@@ -866,6 +816,10 @@ However your level of success will seldom exceed your level of personal developm
 
 ---
 ## On pessimism
+
+<!--
+> *'I’m always looking for a way to make it happen, not excuses why it won’t work.' -- Aaron Walker*
+-->
 
 > *'That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.' -- James Jones*
 

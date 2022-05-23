@@ -22,7 +22,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 ## Chapter 1 - Self
 
 *On foundations*
-- [On independence](/chapters/chapter_1_self.md#on-independence)
+- [On autonomy](/chapters/chapter_1_self.md#on-autonomy)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On accountability](/chapters/chapter_1_self.md#on-accountability)
 - [On respect](/chapters/chapter_1_self.md#on-respect)
