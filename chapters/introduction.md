@@ -55,37 +55,6 @@ You must make the conscious decision that you are going to change your story. No
 ---
 ## On finding your path
 
-> *'The obstacle is the way.' -- Marcus Aurelius*
-
-> *'I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.' -- E.B. White*
-
-Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
-
-> *'Take advantage of the opportunities - that’s probably more important than charting your path.' -- Admiral William Mcraven*
-
-> *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
-
-> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
-
-### How to design a life?
-
-> *'The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
-
-> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
-
-Lying on death bed and regretting your life is the worst that can happen to you.
-
-The goal of life is contribution, not comfort.
-
-Hints:
-
-- Passion is made not found. Instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.
-- Fear is your guide. The more fear you feel, the more you will know you are on the right track.  
-- Experience more things. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward.
-- It’s easier to ask forgiveness than to get permission.  
-
-> *'We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change.' -- Derek Sivers*
-
 <!--
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 - Best Effort + Surrender = DESTINY
@@ -95,9 +64,39 @@ Hints:
 5. Pick One Thing and Stick With it to Completion
 -->
 
-> *'In the middle of difficulty lies opportunity' -- Albert Einstein*
+
+> *'I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.' -- E.B. White*
+
+> *'Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs.' -- Dan Millman*
+
+Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
+
+> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 > *'Life is not a problem to be solved but a reality to be experienced.' -- Soren Kierkegaard*
+
+> *'It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit.' -- Mark Manson*
+
+### How to design a life?
+
+> *'The purpose of life is finding the largest burden that you can bear and bearing it.' -- Jordan Peterson*
+
+> *'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style' -- Maya Angelou*
+
+Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
+
+Hints:
+
+- Passion is made not found. Instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.
+- Fear is your guide. The more fear you feel, the more you will know you are on the right track.  
+- Experience more things. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward.
+- It’s easier to ask forgiveness than to get permission.  
+
+> *'Get yourself into a state of calmness, and then ferocity will take care of itself.' -- Stewart Copeland*
+
+> *'Take advantage of the opportunities - that’s probably more important than charting your path.' -- Admiral William Mcraven*
+
+> *'We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change.' -- Derek Sivers*
 
 > *'That thing that made you weird as a kid could you make great as an adult — if you don’t lose it.' -- Kevin Kelly*
 
@@ -107,11 +106,13 @@ Hints:
 
 > *'If you are going through hell, keep going.' -- Winston Churchill*
 
+> *'In the middle of difficulty lies opportunity' -- Albert Einstein*
+
+> *'The obstacle is the way.' -- Marcus Aurelius*
+
 > *'The best way out is always through.' -- Robert Frost*
 
 > *'A person often meets his destiny on the road he took to avoid it.' -- Jean de La Fontaine*
-
-> *'Life is either a daring adventure or nothing at all.' -- Helen Keller*
 
 > *'The question is not who is going to let me; it’s who is going to stop me.' -- Ayn Rand*
 
@@ -126,8 +127,6 @@ Hints:
 > *'Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.' -- Kevin Kelly*
 
 > *'Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is.' -- Kevin Kelly*
-
-> *'It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit.' -- Mark Manson*
 
 
 
