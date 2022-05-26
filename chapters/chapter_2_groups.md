@@ -194,7 +194,7 @@ Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you kno
 > *"Your silence will not protect you."  
 -- Audre Lorde*
 
-> *"Do not build fortresses to protect yourself: isolation is dangerous.'  
+> *"Do not build fortresses to protect yourself: isolation is dangerous."  
 'Play the perfect courtier."  
 -- Robert Greene (4th and 24th law of powers)*
 
@@ -333,7 +333,7 @@ For PayPal to work, we needed to attract a critical mass of at least a million u
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
 -->
 
-> *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
+> *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."*
 
 
 
@@ -478,7 +478,7 @@ Hints:
 - You should be playful and smart, taking the other to mirror your good mood also.
 - Mirroring by repeating the last few words of the other person. It opens up people’s brain. It tests the firmness of what they want.
 - Never negotiate with binary questions: prefer '«What can you do?» instead of «Will you do this?»'  
-- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.'
+- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are."
 - Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell.
 - «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - The more you take, the more you can give back in meaningless concessions.  
@@ -532,7 +532,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 - remove grading to see who is really interested in the topic. -- Naval Ravikant*
 -->
 
-> *"I’d rather have criticism from a genius than praise from an idiot.'*
+> *"I’d rather have criticism from a genius than praise from an idiot."*
 
 > *"You don't need mentors, you need action."  
 -- Naval Ravikant*
@@ -602,7 +602,7 @@ Hints:
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don't owe them anything.
 
-> *"Do not teach a starving man to fish.'*
+> *"Do not teach a starving man to fish."*
 
 
 
@@ -620,7 +620,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 No one on their deathbed has ever regretted giving too much away. A low value gift may have the opposite effect.
 
-> *"Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
+> *"Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo."* 
 
 > *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there."  
 -- HN_danielvf*
@@ -663,14 +663,14 @@ Everything is hierarchy. Only comedians can speak the truth without consequences
 
 Social cartography: who’s the decision maker, to whom people are speaking and who is speaking. To deal with real world you have to deal with some level of bullshit.
 
-> *"Never outshine the master.'  
-'Know who you’re dealing with: do not offend the wrong person.'  
+> *"Never outshine the master."  
+'Know who you’re dealing with: do not offend the wrong person."  
 'Avoid stepping into a great man’s shoes."  
 -- Robert Greene (1st, 9th and 41st laws of power)*
 
-> *"Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.'*
+> *"Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid."*
 
-> *"Higher the status, more exposure to parasites whose transmission isn’t environmentally mediated.'*
+> *"Higher the status, more exposure to parasites whose transmission isn’t environmentally mediated."*
 
 However don’t vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
@@ -692,7 +692,7 @@ However don’t vow to the gatekeepers. Most people are basically afraid of thei
 - we don't undertstand suffering very well. sufffering is individual. nations or corporations don't suffer.
 - opposite of corruption is patriotism! Changes from within is more sustainable than revolutions. we don't need individuals we need institutions that work.
 - social contracts: public promises. Everything is a contract!
-> *"A single death is a tragedy; a million deaths is a statistic.'*
+> *"A single death is a tragedy; a million deaths is a statistic."*
 > *"History is a race between education and catastrophe."  
 -- H.G. Wells*
 > *"A politician who reads aloud speaches written by others is an actor, not a leader."  
@@ -718,7 +718,7 @@ To reduce corruption diminish people involved on analogic processes. Politicians
 > *"Favors granted always become defined as rights."  
 -- Saul Alinsky*
 
-> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
+> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
 
 > *"Justice will not be served until those who are unaffected are as outraged as those who are."  
 -- Benjamin Franklin*
@@ -729,11 +729,11 @@ To reduce corruption diminish people involved on analogic processes. Politicians
 > *"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum."  
 -- Noam Chomsky*
 
-> *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
+> *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
 
-> *"Good fences make good neighbors.'*
+> *"Good fences make good neighbors."*
 
-> *"The moment you cross a second border, you are an economic migrant, not a refugee.'*
+> *"The moment you cross a second border, you are an economic migrant, not a refugee."*
 
 > *"Populism is what we call democracy when we don't like the outcome."  
 -- Naval Ravikant*
@@ -803,7 +803,7 @@ Freud was the one who realized that people’s insecurities drove them to excess
 > *"Common sense is the collection of prejudices acquired by age eighteen."  
 -- Albert Einstein*
 
-> *"Gold rushes make the shovel sellers rich, not the gold seekers.'*
+> *"Gold rushes make the shovel sellers rich, not the gold seekers."*
 
 > *"Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it."  
 -- Anders Hejlsberg*
@@ -910,7 +910,7 @@ Easy players are often just [deceiving](#on-charming) you. However - if you can 
 > *"Sometimes one pays most for the things one gets for nothing."  
 -- Albert Einstein*
 
-> *"«El dorados» are never drawn in the map.'*
+> *"«El dorados» are never drawn in the map."*
 
 > *"Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe."  
 -- Albert Einstein*
@@ -925,7 +925,7 @@ Desperate players will risk everything in a fight. This gives them a huge advant
 > *"Beware the fury of a patient man."  
 -- John Dryden*
 
-> *"Beware of sad people.'*
+> *"Beware of sad people."*
 
 ### On difficult opponents
 
@@ -937,7 +937,7 @@ Besides outworking them, you'll need all weaponry. Sometimes even the «dirty st
 > *"It’s hard to beat a person who never gives up."  
 -- Babe Ruth*
 
-> *"Get others to do the work for you, but always take the credit.'  
+> *"Get others to do the work for you, but always take the credit."  
 'Keep your hands clean."  
 -- Robert Greene (7th and 26th laws of power)*
 
@@ -1020,7 +1020,7 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 > *"They called her witch because she knew how to heal herself."  
 -- Te' V. Smith (Here we are, reflections of a God gone mad)*
 
-> *"Think as you like but behave like others.'  
+> *"Think as you like but behave like others."  
 'Never appear too perfect."  
 -- Robert Greene (38th and 46th laws of power)*
 
@@ -1065,7 +1065,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 -- Kevin Kelly*
 -->
 
-> *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+> *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group."*
 
 Leaders are team makers. There are no bad teams, only bad leaders.
 
@@ -1238,11 +1238,11 @@ Hints:
 > *"Learn to sell. Learn to build. If you can do both, you're unstoppable."  
 -- Naval Ravikant*
 
-> *"I had a manager who once said the people who were terminated were those who question too much and do too little.'*
+> *"I had a manager who once said the people who were terminated were those who question too much and do too little."*
 
-> *"I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
+> *"I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge."*
 
-> *"While deep work will promote you, shallow work will only prevent you from being fired.'*
+> *"While deep work will promote you, shallow work will only prevent you from being fired."*
 
 ### How to «pivot» career?
 
@@ -1256,7 +1256,7 @@ If your job doesn’t require originality, next decade you may not have it and y
 
 My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation.
 
-> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
+> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."*
 
 > *"My luggage is always ready."  
 -- Jorge Jesus (soccer coach)*
@@ -1267,14 +1267,14 @@ You make yourself rare by combining two or more relevant “pretty goods”. Cap
 - stuff that looks fun for you and looks like work for others.
 - take risks to boost your immune system.  
 
-> *"Career capital is the unique skills that make you rare and valuable.'  
+> *"Career capital is the unique skills that make you rare and valuable."  
 'Be so good that they cannot ignore you."  
 -- Cal Newport*
 
 > *"Your income is directly proportional to the need for what you do and your ability to do it."  
 -- Jim Rohn*
 
-> *"Your work is the greatest mean at your disposal for expressing your social intelligence.'*
+> *"Your work is the greatest mean at your disposal for expressing your social intelligence."*
 
 ### Employee or entrepreneur?
 
@@ -1293,7 +1293,7 @@ Hints:
 > *"If you want to be great, walk the rope without a boss and without a net."  
 -- Naval Ravikant*
 
-> *"The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
+> *"The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes."*
 
 <!--
 - You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
@@ -1368,7 +1368,7 @@ Hints:
 > *"We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
 -- Valve employee book*
 
-> *"Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+> *"Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind."*
 
 > *"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for."  
 -- Kevin Kelly*
