@@ -10,15 +10,19 @@
 
 ## On communication
 
-> *'People don’t listen, they just wait for their turn to talk.' -- Chuck Palahniuk*
+> *"People don’t listen, they just wait for their turn to talk."
+-- Chuck Palahniuk*
 
 Speak less and listen more. Listening is powerful.
 
-> *'Knowledge speaks, but wisdom listens.' -- Jimi Hendrix*
+> *"Knowledge speaks, but wisdom listens."
+-- Jimi Hendrix*
 
-> *'When you listen, you may learn something new.' -- Dalai Lama*
+> *"When you listen, you may learn something new."
+-- Dalai Lama*
 
-> *'Admit when you're wrong. Shut up when you're right.' -- John Gottman*
+> *"Admit when you're wrong. Shut up when you're right."
+-- John Gottman*
 
 ### How to communicate? 
 
@@ -31,7 +35,7 @@ Be interested to be interesting.
 - a performer shouldn't look at the audience
 - a loucura é a incapacidade de comunicar-se
 - with truly logical people, most arguments are very short and based mainly on differing assumptions. -- Naval Ravikant*
-> *'A wise man said, “Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”*
+> *"A wise man said, “Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”*
 -->
 
 Hints:
@@ -45,17 +49,21 @@ Hints:
 - Ask questions. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. 
 - Don’t be stubborn. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow.
 
-> *'Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.' -- Kevin Kelly*
+> *"Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it."
+-- Kevin Kelly*
 
-> *'Smart people talking to other smart people tend to have vety short conversations.' -- Naval Ravikant*
+> *"Smart people talking to other smart people tend to have vety short conversations."
+-- Naval Ravikant*
 
 ### How to tell good stories?
 
 Good stories condense a massive amount of details into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment. When it is accurate, it’s only accurate to the extent that the story requires in order to remain relevant.
 
-> *'Cinema is just life with the boring parts cut out.' -- Alfred Hitchcock*
+> *"Cinema is just life with the boring parts cut out."
+-- Alfred Hitchcock*
 
-> *'The more you say, the less people remember.' -- François Fénelon*
+> *"The more you say, the less people remember."
+-- François Fénelon*
 
 ### How to discord?
 
@@ -65,7 +73,8 @@ Ask the person trying to convince you of something to explain how it would work.
 
 - «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
 
-> *'Never argue with a fool, onlookers may not be able to tell the difference.' -- Mark Twain*
+> *"Never argue with a fool, onlookers may not be able to tell the difference."
+-- Mark Twain*
 
 ### On public speaking
 
@@ -75,9 +84,11 @@ You don't need to answer their questions.
 - Know when to answer boring on easy to misinterpret questions.
 - Agree as much as you can without lieing. Ask questions instead of desagreeing.
 
-> *'Always say less than necessary.' -- Kevin Kelly*
+> *"Always say less than necessary."
+-- Kevin Kelly*
 
-> *'The secret to public speaking is to speak as if you were alone.' -- Naval Ravikant*
+> *"The secret to public speaking is to speak as if you were alone."
+-- Naval Ravikant*
 
 
 
@@ -96,15 +107,18 @@ You don't need to answer their questions.
 - find a relationship where you, naturally being you, makes the other person happy and viceversa. -- Naval Ravikant*
 -->
 
-> *'Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom.' -- Kevin kelly*
+> *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."
+-- Kevin kelly*
 
 Focus on what you can give. You'll receive in proportion to what you give.  
 
 However, after taking first steps, [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Partner with people who wants you to be all you can be.
 
-> *'Never allow someone to be your priority while allowing yourself to be their option.' -- Mark Twain*
+> *"Never allow someone to be your priority while allowing yourself to be their option."
+-- Mark Twain*
 
-> *'Never waste your time trying to explain who you are to people who are committed to misunderstanding you.' -- Dream Hampton*
+> *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."
+-- Dream Hampton*
 
 Hints:
 
@@ -122,9 +136,12 @@ Hints:
 ## On networking
 
 <!--
-> *'When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details.' -- Kevin Kelly*
-> *'When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying.' -- Kevin Kelly*
-> *'When introduced to someone make eye contact and count to 4. You’ll both remember each other.' -- Kevin Kelly*
+> *"When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details."
+-- Kevin Kelly*
+> *"When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying."
+-- Kevin Kelly*
+> *"When introduced to someone make eye contact and count to 4. You’ll both remember each other."
+-- Kevin Kelly*
 
 1. Stand tall, put a smile on your face, and roll your shoulders back and down so your hands are at your sides and not in your pockets.
 2. Eye contact builds trust. dont hide yourself. dont wait to start talking. a group or a double might be an easy place to start.
@@ -151,26 +168,35 @@ Hints:
 - the best way to get value was to start giving it away? you’re giving validation
 - social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
 
-> *'Money is the ultimate network effect.' -- naval
-> *'Business networking is a complete waste of time. The reality is if you're building something interesting, you will always have more people who will want to know you.' -- naval*
+> *"Money is the ultimate network effect."
+-- naval
+> *"Business networking is a complete waste of time. The reality is if you're building something interesting, you will always have more people who will want to know you."
+-- naval*
 -->
 
-> *'To develop your intellectual powers at the expense of the social is to retard your own progress to mastery.' -- Robert Greene*
+> *"To develop your intellectual powers at the expense of the social is to retard your own progress to mastery."
+-- Robert Greene*
 
-> *'The enemy of excellence is isolation.' -- Aaron Walker*
+> *"The enemy of excellence is isolation."
+-- Aaron Walker*
 
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get.
 
-> *'Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead.' -- Kevin Kelly*
+> *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead."
+-- Kevin Kelly*
 
-> *'It is astonishing what foolish things a man thinking alone can come temporarily to believe.' -- Keynes*
+> *"It is astonishing what foolish things a man thinking alone can come temporarily to believe."
+-- Keynes*
 
-> *'Being alone never felt right. Sometimes it felt good, but it never felt right.' -- Charles Bukowski*
+> *"Being alone never felt right. Sometimes it felt good, but it never felt right."
+-- Charles Bukowski*
 
-> *'Your silence will not protect you.' -- Audre Lorde*
+> *"Your silence will not protect you."
+-- Audre Lorde*
 
-> *'Do not build fortresses to protect yourself: isolation is dangerous.'  
-'Play the perfect courtier.' -- Robert Greene (4th and 24th law of powers)*
+> *"Do not build fortresses to protect yourself: isolation is dangerous.'  
+'Play the perfect courtier."
+-- Robert Greene (4th and 24th law of powers)*
 
 ### How to network?
 
@@ -178,9 +204,11 @@ Be useful, not important.
 
 Listen to people, get their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
-> *'You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.' -- Dale Carnegie*
+> *"You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you."
+-- Dale Carnegie*
 
-> *'If you expect magic in every encounter, you'll find it.' -- Adam Robinson*
+> *"If you expect magic in every encounter, you'll find it."
+-- Adam Robinson*
 
 ### How to prepare an elevator pitch?
 
@@ -189,11 +217,13 @@ I help (or a derivative) investors (target: people is too generalist but don’t
 6 or 7 words -- short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
 -->
 
-> *'When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes.' -- Jordan Harbinger*
+> *"When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes."
+-- Jordan Harbinger*
 
 Choose truth or your self-mythology will seduce you.
 
-> *'Being honest may not get you a lot of friends but it’ll always get you the right ones.' -- John Lennon*
+> *"Being honest may not get you a lot of friends but it’ll always get you the right ones."
+-- John Lennon*
 
 ### Why most people don’t like networking?
 
@@ -201,9 +231,11 @@ Handling rejection is hard. Period.
 
 We don’t like people that see us in a way that doesn’t resonate with how we see ourselves. Forget those who forget you. Those who want to stay in your life, will always find a way.
 
-> *'I don’t know if you've ever noticed this, but first impressions are often entirely wrong.' -- Lemony Snicket*
+> *"I don’t know if you've ever noticed this, but first impressions are often entirely wrong."
+-- Lemony Snicket*
 
-> *'Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works.' -- Kevin Kelly*
+> *"Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works."
+-- Kevin Kelly*
 
 ### How to curate your network?
 
@@ -221,8 +253,10 @@ Hints:
 ## On business and entrepreneurship
 
 <!--
-> *'You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further.' -- Kevin Kelly*
-> *'Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money.' -- Kevin Kelly*
+> *"You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further."
+-- Kevin Kelly*
+> *"Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."
+-- Kevin Kelly*
 
 - two ways to make money: bundling and unbundling!
 - you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
@@ -243,9 +277,11 @@ Hints:
 - designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
 -->
 
-> *'What you need to start a new business: generosity.' -- Derek Sivers*
+> *"What you need to start a new business: generosity."
+-- Derek Sivers*
 
-> *'I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people.' -- Santiago Nestares*
+> *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."
+-- Santiago Nestares*
 
 Focus on what you can give that empowers others and it's easy for you.
 
@@ -253,11 +289,14 @@ It’s not about what you know, it’s about who trusts you to solve their probl
 
 Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet.
 
-> *'Without customers, you don’t have a business. You have a hobby.' -- Don Peppers & Martha Rogers*
+> *"Without customers, you don’t have a business. You have a hobby."
+-- Don Peppers & Martha Rogers*
 
-> *'There is no skill called business. Avoid business magazines and business classes.' -- Naval Ravikant*
+> *"There is no skill called business. Avoid business magazines and business classes."
+-- Naval Ravikant*
 
-> *'Your margin is my opportunity.' -- Jeff Bezos*
+> *"Your margin is my opportunity."
+-- Jeff Bezos*
 
 ### On entrepreneurship
 
@@ -294,7 +333,7 @@ For PayPal to work, we needed to attract a critical mass of at least a million u
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
 -->
 
-> *'A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
+> *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing.'*
 
 
 
@@ -377,7 +416,8 @@ irritation -> challenge people to make something that they don't want to do
 agitation -> challenge people to make something that they want to do.
 agitate more than irritate.
 
-> *'You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp.' -- Ryan Holiday, The Obstacle Is the Way*
+> *"You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp."
+-- Ryan Holiday, The Obstacle Is the Way*
 -->
 
 We're all in sales. To sell is to deal with objections.
@@ -403,7 +443,8 @@ Hints:
 - Females buy male products. Males don't buy products targetted to females.
 - Instead of details use interesting testimonials that allow people to relate.
 
-> *'Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device.' -- Seth Godin*
+> *"Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device."
+-- Seth Godin*
 
 ### On negotiation
 
@@ -414,12 +455,15 @@ Hints:
 - When people feel they have a choice, they «walk into your trap» that much more easily.
 - pay double and insist on ten times the quality. -- Naval Ravikant*
 
-> *'Zero-sum games tend towards conflict. Positive-sum games tend towards cooperation.' -- Naval Ravikant*
+> *"Zero-sum games tend towards conflict. Positive-sum games tend towards cooperation."
+-- Naval Ravikant*
 - To negotiate is to have options.
-> *'When negotiating, dont aim for a bigger piece of the pie; aim to create a bigger pie.' -- Kevin Kelly*
+> *"When negotiating, dont aim for a bigger piece of the pie; aim to create a bigger pie."
+-- Kevin Kelly*
 -->
 
-> *'Negotiations are won by whoever cares less.' -- Naval Ravikant*
+> *"Negotiations are won by whoever cares less."
+-- Naval Ravikant*
 
 You don’t get what you deserve in life, only what you negotiate.
 
@@ -439,27 +483,35 @@ Hints:
 - «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - The more you take, the more you can give back in meaningless concessions.  
 
-> *'Control the options: get others to play with the cards you deal.' -- Robert Greene (31st law of power)*
+> *"Control the options: get others to play with the cards you deal."
+-- Robert Greene (31st law of power)*
 
-> *'When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.' -- Robert Greene (13th law of power)*
+> *"When asking for help, appeal to people’s self-interest, never to their mercy or gratitude."
+-- Robert Greene (13th law of power)*
 
-> *'Flattery is the infantry of negotiation.' -- Lord Chandos*
+> *"Flattery is the infantry of negotiation."
+-- Lord Chandos*
 
-> *'People may or may not say what they mean,” he explained, “but they always say something designed to get what they want.' -- David Mamet*
+> *"People may or may not say what they mean,” he explained, “but they always say something designed to get what they want."
+-- David Mamet*
 
 However always strive to achieve a win-win situation. When both sides don't take what they need from it, the deal may fall. The most dangerous negotiation is the one you don’t know you’re in.
 
-> *'You can’t make a good deal with a bad person.' -- Warren Buffett*
+> *"You can’t make a good deal with a bad person."
+-- Warren Buffett*
 
-> *'Peace cannot be kept by force. It can only be achieved by understanding.' -- Albert Einstein*
+> *"Peace cannot be kept by force. It can only be achieved by understanding."
+-- Albert Einstein*
 
 ### On price
 
 Price is a filter. Set it to choose the customers you prefer to work with. If they can’t pay, walk away.
 
-> *'Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource.' -- Allen Tucker*
+> *"Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource."
+-- Allen Tucker*
 
-> *'Nowadays people know the price of everything and the value of nothing.' -- Oscar Wilde*
+> *"Nowadays people know the price of everything and the value of nothing."
+-- Oscar Wilde*
 
 
 
@@ -480,43 +532,54 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 - remove grading to see who is really interested in the topic. -- Naval Ravikant*
 -->
 
-> *'I’d rather have criticism from a genius than praise from an idiot.'*
+> *"I’d rather have criticism from a genius than praise from an idiot.'*
 
-> *'You don't need mentors, you need action.'* -- Naval Ravikant*
+> *"You don't need mentors, you need action."
+-- Naval Ravikant*
 
 Feedback from mentors and «loving critics» speeds up improvement. Even if you can't understand the logic behind their wisdom, they'll show you the door.
 
-> *'He who asks is a fool for five minutes, but he who does not ask remains a fool forever.' -- Chinese proverb*
+> *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever."
+-- Chinese proverb*
 
-> *'That is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.' -- Ernest Hemingway*
+> *"That is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful."
+-- Ernest Hemingway*
 
 ### How to find mentors?
 
 Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
 
-> *'Don’t follow your mentors; follow your mentors’ mentors.' -- David Leach*
+> *"Don’t follow your mentors; follow your mentors’ mentors."
+-- David Leach*
 
 Your father is your first mentor.
 
 You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-and-generosity) and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
 
-> *'One repays a teacher badly if one remains only a pupil.' -- Nietzsche*
+> *"One repays a teacher badly if one remains only a pupil."
+-- Nietzsche*
 
-> *'A society grows great when old men plant trees whose shade they know they shall never sit in.' -- Greek proverb*
+> *"A society grows great when old men plant trees whose shade they know they shall never sit in."
+-- Greek proverb*
 
-> *'If you think you’re too small to make an impact, try to go to bed with a mosquito in the room.' -- Dalai Lama*
+> *"If you think you’re too small to make an impact, try to go to bed with a mosquito in the room."
+-- Dalai Lama*
 
 ### How to mentor your kids?
 
-> *'My advice is my autobiography not slogans. People relate better like that.' -- James Altucher*
+> *"My advice is my autobiography not slogans. People relate better like that."
+-- James Altucher*
 
-> *'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.' -- Albert Einstein*
+> *"If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales."
+-- Albert Einstein*
 
 Don't tell your kids how to live. Live fully and let them see. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar.
 
 <!--
-> *'To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave.' -- Kevin Kelly*
-> *'For the best results with your children, spend only half the money you think you should, but double the time with them.' -- Kevin Kelly*
+> *"To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave."
+-- Kevin Kelly*
+> *"For the best results with your children, spend only half the money you think you should, but double the time with them."
+-- Kevin Kelly*
 -->
 
 Hints:
@@ -528,15 +591,18 @@ Hints:
 - Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
 
-> *'Children totally accept — and crave — family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies.' -- Kevin Kelly*
+> *"Children totally accept — and crave — family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies."
+-- Kevin Kelly*
 
-> *'When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”' -- Kevin Kelly*
+> *"When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”"
+-- Kevin Kelly*
 
-> *'Be nice to your children because they are going to choose your nursing home.' -- Kevin Kelly*
+> *"Be nice to your children because they are going to choose your nursing home."
+-- Kevin Kelly*
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don't owe them anything.
 
-> *'Do not teach a starving man to fish.'*
+> *"Do not teach a starving man to fish.'*
 
 
 
@@ -546,19 +612,24 @@ However some people are not ready to accept your vision. And «givers» attract 
 ---
 ## On generosity and incentives
 
-> *'No one has ever become poor by giving.' -- Anne Frank*
+> *"No one has ever become poor by giving."
+-- Anne Frank*
 
-> *'He that gives should never remember and he that receives should never forget.' -- Talmud*
+> *"He that gives should never remember and he that receives should never forget."
+-- Talmud*
 
 No one on their deathbed has ever regretted giving too much away. A low value gift may have the opposite effect.
 
-> *'Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
+> *"Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.'* 
 
-> *'The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there.' -- HN_danielvf*
+> *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there."
+-- HN_danielvf*
 
-> *'My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human.' -- HN_danielvf*
+> *"My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn't lessen his genuine love for everyone, just let him be a little more super human."
+-- HN_danielvf*
 
-> *'If you are giving back, it’s because you’ve taken too much.' -- Ricardo Semler*
+> *"If you are giving back, it’s because you’ve taken too much."
+-- Ricardo Semler*
 
 ### On incentives
 
@@ -583,7 +654,8 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 ## On hierarchy
 
 <!--
-> *'No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento.' -- Jorge Luis Borges*
+> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."
+-- Jorge Luis Borges*
 - care about what other people think and you will always be their prisoner. -- lao tzu
 -->
 
@@ -591,19 +663,22 @@ Everything is hierarchy. Only comedians can speak the truth without consequences
 
 Social cartography: who’s the decision maker, to whom people are speaking and who is speaking. To deal with real world you have to deal with some level of bullshit.
 
-> *'Never outshine the master.'  
+> *"Never outshine the master.'  
 'Know who you’re dealing with: do not offend the wrong person.'  
-'Avoid stepping into a great man’s shoes.' -- Robert Greene (1st, 9th and 41st laws of power)*
+'Avoid stepping into a great man’s shoes."
+-- Robert Greene (1st, 9th and 41st laws of power)*
 
-> *'Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.'*
+> *"Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.'*
 
-> *'Higher the status, more exposure to parasites whose transmission isn’t environmentally mediated.'*
+> *"Higher the status, more exposure to parasites whose transmission isn’t environmentally mediated.'*
 
 However don’t vow to the gatekeepers. Most people are basically afraid of their superiors. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
-> *'No one can make you feel inferior without your consent.' -- Eleanor Roosevelt*
+> *"No one can make you feel inferior without your consent."
+-- Eleanor Roosevelt*
 
-> *'The internet doesn’t care about your title' -- Naval Ravikant*
+> *"The internet doesn’t care about your title"
+-- Naval Ravikant*
 
 
 
@@ -617,9 +692,11 @@ However don’t vow to the gatekeepers. Most people are basically afraid of thei
 - we don't undertstand suffering very well. sufffering is individual. nations or corporations don't suffer.
 - opposite of corruption is patriotism! Changes from within is more sustainable than revolutions. we don't need individuals we need institutions that work.
 - social contracts: public promises. Everything is a contract!
-> *'A single death is a tragedy; a million deaths is a statistic.'*
-> *'History is a race between education and catastrophe.' -- H.G. Wells*
-> *'A politician who reads aloud speaches written by others is an actor, not a leader.' -- Naval Ravikant*
+> *"A single death is a tragedy; a million deaths is a statistic.'*
+> *"History is a race between education and catastrophe."
+-- H.G. Wells*
+> *"A politician who reads aloud speaches written by others is an actor, not a leader."
+-- Naval Ravikant*
 - people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
 - liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
 - nacionalistas vs globalistas | moderados vs radicais?
@@ -631,36 +708,44 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
 -->
 
-> *'For the friends: everything. For the others: the law.' -- paraphrased from Machiavelli*
+> *"For the friends: everything. For the others: the law."
+-- paraphrased from Machiavelli*
 
 Politicians hate risk. Decisions are made on the lowest risk of offending people.
 
 To reduce corruption diminish people involved on analogic processes. Politicians don’t get educated, they get bought.
 
-> *'Favors granted always become defined as rights.' -- Saul Alinsky*
+> *"Favors granted always become defined as rights."
+-- Saul Alinsky*
 
-> *'To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
+> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one.'*
 
-> *'Justice will not be served until those who are unaffected are as outraged as those who are.' -- Benjamin Franklin*
+> *"Justice will not be served until those who are unaffected are as outraged as those who are."
+-- Benjamin Franklin*
 
-> *'I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals.' -- George Carlin*
+> *"I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals."
+-- George Carlin*
 
-> *'The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum.' -- Noam Chomsky*
+> *"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum."
+-- Noam Chomsky*
 
-> *'When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
+> *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks.'*
 
-> *'Good fences make good neighbors.'*
+> *"Good fences make good neighbors.'*
 
-> *'The moment you cross a second border, you are an economic migrant, not a refugee.'*
+> *"The moment you cross a second border, you are an economic migrant, not a refugee.'*
 
-> *'Populism is what we call democracy when we don't like the outcome.' -- Naval Ravikant*
+> *"Populism is what we call democracy when we don't like the outcome."
+-- Naval Ravikant*
 
 Multicultural is by absurdum the true monocultural.
 
-> *'Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.' -- George Carlin*
+> *"Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules."
+-- George Carlin*
 
 <!--
-> *'Não há direitos sem obrigações e viceversa.' -- EF*
+> *"Não há direitos sem obrigações e viceversa."
+-- EF*
 Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.
 -->
 
@@ -677,15 +762,21 @@ Inequality is a problem. Equality is not the solution. That's the dilemma.
 ## On following the herd
 
 <!--
-> *'The more neatly you fit into society, the less free you actually are.' -- Naval Ravikant*
-> *'When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong.' -- Kevin Kelly*
-> *'You cant reason someone out of a notion that they didn’t reason themselves into.' -- Kevin Kelly*
-> *'If your opinions on one subject can be predicted from your opinions on another, you may be in the grip of an ideology. When you truly think for yourself your conclusions will not be predictable.' -- Kevin Kelly*
+> *"The more neatly you fit into society, the less free you actually are."
+-- Naval Ravikant*
+> *"When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong."
+-- Kevin Kelly*
+> *"You cant reason someone out of a notion that they didn’t reason themselves into."
+-- Kevin Kelly*
+> *"If your opinions on one subject can be predicted from your opinions on another, you may be in the grip of an ideology. When you truly think for yourself your conclusions will not be predictable."
+-- Kevin Kelly*
 -->
 
-> *'Everyone is born a genius, but the process of living de-geniuses them.' -- Buckminster Fuller*
+> *"Everyone is born a genius, but the process of living de-geniuses them."
+-- Buckminster Fuller*
 
-> *'Mimicking the herd, invites regression to the mean.' -- Charlie Munger*
+> *"Mimicking the herd, invites regression to the mean."
+-- Charlie Munger*
 
 Most people are other people.
 
@@ -695,69 +786,92 @@ Psychologists have known for a long time that groups of people behave differentl
 
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
 
-> *'My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
+> *"My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom."
+-- William Deresiewicz*
 
-> *'Whenever people agree with me I always feel I must be wrong.' -- Oscar Wilde*
+> *"Whenever people agree with me I always feel I must be wrong."
+-- Oscar Wilde*
 
-> *'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
+> *"The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. '-- Bertrand Russell*
 
-> *'In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.' -- Friedrich Nietzsche*
+> *"In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule."
+-- Friedrich Nietzsche*
 
-> *'And those who were seen dancing were thought to be insane by those who could not hear the music.' -- Friedrich Nietzsche*
+> *"And those who were seen dancing were thought to be insane by those who could not hear the music."
+-- Friedrich Nietzsche*
 
-> *'Common sense is the collection of prejudices acquired by age eighteen.' -- Albert Einstein*
+> *"Common sense is the collection of prejudices acquired by age eighteen."
+-- Albert Einstein*
 
-> *'Gold rushes make the shovel sellers rich, not the gold seekers.'*
+> *"Gold rushes make the shovel sellers rich, not the gold seekers.'*
 
-> *'Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it.' -- Anders Hejlsberg*
+> *"Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it."
+-- Anders Hejlsberg*
 
 ### On stupidity
 
-> *'Stupidity is overlooking or dismissing crucial information.' -- Adam Robinson*
+> *"Stupidity is overlooking or dismissing crucial information."
+-- Adam Robinson*
 
 Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don’t actually think, they just take their first thought and go. There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.
 
-> *'When a wise man points at the moon, the imbecile examines the finger.' -- Confucius*
+> *"When a wise man points at the moon, the imbecile examines the finger."
+-- Confucius*
 
-> *'Talk sense to a fool and he calls you foolish.' -- Euripides*
+> *"Talk sense to a fool and he calls you foolish."
+-- Euripides*
 
-> *'Nothing is more terrible than to see ignorance in action.' -- Goethe*
+> *"Nothing is more terrible than to see ignorance in action."
+-- Goethe*
 
-> *'Never attribute to malice that which can be adequately explained by neglect.' -- Hanlon’s Razor*
+> *"Never attribute to malice that which can be adequately explained by neglect."
+-- Hanlon’s Razor*
 
-> *'I have long held that stupidity is very largely the result of fear leading to mental inhibitions.' -- Bertie Russell*
+> *"I have long held that stupidity is very largely the result of fear leading to mental inhibitions."
+-- Bertie Russell*
 
-> *'I find for myself that my first thought is never my best thought. My first thought is always someone else’s; it’s always what I've already heard about the subject, always the conventional wisdom.' -- William Deresiewicz*
+> *"I find for myself that my first thought is never my best thought. My first thought is always someone else’s; it’s always what I've already heard about the subject, always the conventional wisdom."
+-- William Deresiewicz*
 
-> *'If everybody is thinking alike, then somebody isn’t thinking.' -- George S. Patton Jr.*
+> *"If everybody is thinking alike, then somebody isn’t thinking."
+-- George S. Patton Jr.*
 
-> *'When you do as everyone else does, don’t be surprised when you get what everyone else gets.' -- Peter Kaufman*
+> *"When you do as everyone else does, don’t be surprised when you get what everyone else gets."
+-- Peter Kaufman*
 
-> *'Great things are not accomplished by those who yield to trends and fads and popular opinion.' -- Jack Kerouac*
+> *"Great things are not accomplished by those who yield to trends and fads and popular opinion."
+-- Jack Kerouac*
 
 It's easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
 
-> *'Don’t ever take a fence down until you know the reason why it was put up.' -- John F. Kennedy, paraphrasing G.K.Chesterton*
+> *"Don’t ever take a fence down until you know the reason why it was put up."
+-- John F. Kennedy, paraphrasing G.K.Chesterton*
 
-> *'Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
+> *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
 
-> *'Even a foolish person can still be right about most things. Most conventional wisdom is true.' -- Kevin Kelly*
+> *"Even a foolish person can still be right about most things. Most conventional wisdom is true."
+-- Kevin Kelly*
 
-> *'Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious.' -- Kevin Kelly*
+> *"Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious."
+-- Kevin Kelly*
 
-> *'You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.' -- Kevin Kelly*
+> *"You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it."
+-- Kevin Kelly*
 
 ### How to judge a man?
 
-> *'Judge a man by his questions, not by his answers.' -- Voltaire*
+> *"Judge a man by his questions, not by his answers."
+-- Voltaire*
 
-> *'We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.' -- Henry Ward Beecher*
+> *"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."
+-- Henry Ward Beecher*
 
 We judge ourselves by our thoughts but society judges us by what we can do for them. 
 
 Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
 
-> *'It isn’t what we say or think that defines us, but what we do.' -- Jane Austen*
+> *"It isn’t what we say or think that defines us, but what we do."
+-- Jane Austen*
 
 
 
@@ -772,12 +886,15 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 - When narratives begin to shift and the once good guys are labelled as bad it's not surprising they fight back. They'll point to criticisms as exaggerations. Their faults as misunderstandings.
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
-> *'Só os mais corajosos conseguem fazer a paz.' -- Trump*
+> *"Só os mais corajosos conseguem fazer a paz."
+-- Trump*
 -->
 
-> *'Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous.' -- Goethe*
+> *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."
+-- Goethe*
 
-> *'Show me a hero, and I'll write you a tragedy.' -- F. Scott Fitzgerald*
+> *"Show me a hero, and I'll write you a tragedy."
+-- F. Scott Fitzgerald*
 
 Beware of all players.
 
@@ -787,38 +904,47 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 
 Easy players are often just [deceiving](#on-charming) you. However - if you can identify them - there are people acting stupid that are easy wins. 
 
-> *'Despise the free lunch.' -- Robert Greene (40th law of power)*
+> *"Despise the free lunch."
+-- Robert Greene (40th law of power)*
 
-> *'Sometimes one pays most for the things one gets for nothing.' -- Albert Einstein*
+> *"Sometimes one pays most for the things one gets for nothing."
+-- Albert Einstein*
 
-> *'«El dorados» are never drawn in the map.'*
+> *"«El dorados» are never drawn in the map.'*
 
-> *'Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe.' -- Albert Einstein*
+> *"Two things are infinite: the universe and human stupidity; and I'm not sure about the the universe."
+-- Albert Einstein*
 
 ### On desperate opponents
 
 Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
-> *'Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence.' -- Balthasar Gracian*
+> *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."
+-- Balthasar Gracian*
 
-> *'Beware the fury of a patient man.' -- John Dryden*
+> *"Beware the fury of a patient man."
+-- John Dryden*
 
-> *'Beware of sad people.'*
+> *"Beware of sad people.'*
 
 ### On difficult opponents
 
 Besides outworking them, you'll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
 
-> *'Put all the meat in the barbecue.' -- Jorge Jesus (soccer coach)*
+> *"Put all the meat in the barbecue."
+-- Jorge Jesus (soccer coach)*
 
-> *'It’s hard to beat a person who never gives up.' -- Babe Ruth*
+> *"It’s hard to beat a person who never gives up."
+-- Babe Ruth*
 
-> *'Get others to do the work for you, but always take the credit.'  
-'Keep your hands clean.' -- Robert Greene (7th and 26th laws of power)*
+> *"Get others to do the work for you, but always take the credit.'  
+'Keep your hands clean."
+-- Robert Greene (7th and 26th laws of power)*
 
 When nothing else works, [surrender](#on-surrendering). Only use anger and go all in if you can see the end already.
 
-> *'Do I not destroy my enemies when I make them my friends?' -- Abraham Lincoln*
+> *"Do I not destroy my enemies when I make them my friends?"
+-- Abraham Lincoln*
 
 ### On allies
 
@@ -826,11 +952,14 @@ The human strenght is our ability to cooperate. Heros are fictional stories.
 
 Hint: Buy from your community. Sell to outsiders.
 
-> *'If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.' -- Mark Twain*
+> *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."
+-- Mark Twain*
 
-> *'Help a man who is in trouble and that man will remember you when he is in trouble again.' -- Paul Alexander*
+> *"Help a man who is in trouble and that man will remember you when he is in trouble again."
+-- Paul Alexander*
 
-> *'You either die a hero, or you live long enough to see yourself become the villain.' -- Harvey Dent in The Dark Knight*
+> *"You either die a hero, or you live long enough to see yourself become the villain."
+-- Harvey Dent in The Dark Knight*
 
 
 
@@ -840,7 +969,8 @@ Hint: Buy from your community. Sell to outsiders.
 ---
 ## On conflicts
 
-> *'War is what happens when language fails.' -- Margaret Atwood*
+> *"War is what happens when language fails."
+-- Margaret Atwood*
 
 Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
 
@@ -853,11 +983,14 @@ You’re either part of the solution or part of the problem.
 - Use «we». Mean it and take responsability.
 - Bring options to the table. It’s easier to negotiate down.
 
-> *'To quiet a crowd or a drunk, just whisper. Calm is contagious.' -- Kevin Kelly*
+> *"To quiet a crowd or a drunk, just whisper. Calm is contagious."
+-- Kevin Kelly*
 
-> *'Your best response to an insult is “you’re probably right”. Often they are.' -- Kevin Kelly*
+> *"Your best response to an insult is “you’re probably right”. Often they are."
+-- Kevin Kelly*
 
-> *'Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation.' -- Balthasar Gracian*
+> *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."
+-- Balthasar Gracian*
 
 
 
@@ -871,36 +1004,46 @@ You’re either part of the solution or part of the problem.
 - Consensus happens just in the beginning and in the end of something.
 -->
 
-> *'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.' -- Albert Einstein*
+> *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence."
+-- Albert Einstein*
 
-> *'Great minds discuss ideas. Average minds discuss events. Small minds discuss people.' -- Henry Thomas Buckle*
+> *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."
+-- Henry Thomas Buckle*
 
 Treat haters like toddlers.
 
 Outliers inspire envy. Once they stop talking to you, they start talking about you. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers.
 
-> *'Remember if people talk behind your back, it only means you are two steps ahead.' -- Fannie Flagg*
+> *"Remember if people talk behind your back, it only means you are two steps ahead."
+-- Fannie Flagg*
 
-> *'They called her witch because she knew how to heal herself.' -- Te' V. Smith (Here we are, reflections of a God gone mad)*
+> *"They called her witch because she knew how to heal herself."
+-- Te' V. Smith (Here we are, reflections of a God gone mad)*
 
-> *'Think as you like but behave like others.'  
-'Never appear too perfect.' -- Robert Greene (38th and 46th laws of power)*
+> *"Think as you like but behave like others.'  
+'Never appear too perfect."
+-- Robert Greene (38th and 46th laws of power)*
 
-> *'If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut.' -- Albert Einstein*
+> *"If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut."
+-- Albert Einstein*
 
-> *'Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.' -- Marilyn Monroe*
+> *"Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you."
+-- Marilyn Monroe*
 
 When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_3_action.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you’re better than them.
 
-> *'The dogs bark but the caravan moves on.' -- Arab proverb*  
+> *"The dogs bark but the caravan moves on."
+-- Arab proverb*  
 
-> *'It is not greed that drives the world, but envy.' -- Warren Buffet*
+> *"It is not greed that drives the world, but envy."
+-- Warren Buffet*
 
 ### On blindspots
 
 However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
 
-> *'Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.' -- Ralph Waldo Emerson*
+> *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."
+-- Ralph Waldo Emerson*
 
 
 
@@ -918,10 +1061,11 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
 - There are three keys: honesty, effectiveness, and efficiency.
-> *'When you lead, your real job is to create more leaders, not more followers.' -- Kevin Kelly*
+> *"When you lead, your real job is to create more leaders, not more followers."
+-- Kevin Kelly*
 -->
 
-> *'If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
+> *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.'*
 
 Leaders are team makers. There are no bad teams, only bad leaders.
 
@@ -931,17 +1075,21 @@ Being a leader is different from being a boss: it requires to be a manager and a
 - Leaders are embassadors of their teams.
 - Proactive Problem Management – Go directly to the source.
 
-> *'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.' -- Lao Tzu*
+> *"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."
+-- Lao Tzu*
 
-> *'Be royal in your own fashion: act like a king to be treated like one.' -- Robert Greene (34th law of power)*
+> *"Be royal in your own fashion: act like a king to be treated like one."
+-- Robert Greene (34th law of power)*
 
-> *'The only thing that gives orders is balls.' -- Tony Montana*
+> *"The only thing that gives orders is balls."
+-- Tony Montana*
 
 Good leaders are leaders that grew up in the hierarchy.  
 
 People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
-> *'The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.' -- Ryan Holiday*
+> *"The person who clears the path ultimately controls its direction, just as the canvas shapes the painting."
+-- Ryan Holiday*
 
 
 
@@ -959,9 +1107,11 @@ People seek leadership because they want autonomy and influence. Influence is mo
 - Ideas are welcomed, execution is worshiped
 -->
 
-> *'Don’t postpone to tomorrow what other people can do for you today.' -- Warren Buffett*
+> *"Don’t postpone to tomorrow what other people can do for you today."
+-- Warren Buffett*
 
-> *'If you want to go fast, go alone. If you want to go far, go together.' -- African proverb*
+> *"If you want to go fast, go alone. If you want to go far, go together."
+-- African proverb*
 
 Managing is delegating. A great manager is a great facilitator. His responsability is to make his team better. 
 
@@ -978,7 +1128,8 @@ Hints:
 - se tiver tudo bem dentro da equipa tudo se ira passar. focar no interno e n no externo
 -->
 
-> *'There are two ways of spreading light: to be the candle or the mirror that reflects it.' -- Edith Wharton*
+> *"There are two ways of spreading light: to be the candle or the mirror that reflects it."
+-- Edith Wharton*
 
 People should feel as part of a tribe.
 
@@ -988,17 +1139,20 @@ Hints:
 - Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - A chain is only as strong as its weakest link.
 
-> *'I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.' -- Kurt von Hammerstein-Equord (General)*
+> *"I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief."
+-- Kurt von Hammerstein-Equord (General)*
 
 ### How to give feedback?
 
 <!--
 - metrics matter. if you choose the wrong metric you will optimize for teh wrong thing. vanity metrics are dangerous.
-> *'The only thing worse than a boy who hates you: a boy that loves you.' -- Markus Zusak*
+> *"The only thing worse than a boy who hates you: a boy that loves you."
+-- Markus Zusak*
 - simple feedback mechanism: Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
 -->
 
-> *'The goal is to move everyone up from «unconfident and incompetent» to «confident and competent».' -- exelius_HN*
+> *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."
+-- exelius_HN*
 
 Ask instead of telling. If the delivered work is not good enough give a reason.
 
@@ -1009,9 +1163,11 @@ Hints:
 - «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
 - «Is that the best you can do?»
 
-> *'Praise by name, criticize by category.' -- Warren Buffet*
+> *"Praise by name, criticize by category."
+-- Warren Buffet*
 
-> *'To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth' -- Kevin Kelly*
+> *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth"
+-- Kevin Kelly*
 
 Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don't do it daily.
 
@@ -1052,13 +1208,16 @@ Hints:
 - 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
 -->
 
-> *'Don’t be the best. Be the only.' -- Kevin Kelly*
+> *"Don’t be the best. Be the only."
+-- Kevin Kelly*
 
 Nobody can compete with you on being you. Most of life is a search for who and what needs you the most. Be unique.
 
-> *'The interesting jobs are the ones that you make up.' -- Chris Young*
+> *"The interesting jobs are the ones that you make up."
+-- Chris Young*
 
-> *'If the work doesn't require creativity, delegate it, automate it or leave it.' -- Naval Ravikant*
+> *"If the work doesn't require creativity, delegate it, automate it or leave it."
+-- Naval Ravikant*
 
 ### How to advance career?
 
@@ -1076,17 +1235,19 @@ Hints:
 - Deliver more value than expected.
 - The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
 
-> *'Learn to sell. Learn to build. If you can do both, you're unstoppable.' -- Naval Ravikant*
+> *"Learn to sell. Learn to build. If you can do both, you're unstoppable."
+-- Naval Ravikant*
 
-> *'I had a manager who once said the people who were terminated were those who question too much and do too little.'*
+> *"I had a manager who once said the people who were terminated were those who question too much and do too little.'*
 
-> *'I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
+> *"I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.'*
 
-> *'While deep work will promote you, shallow work will only prevent you from being fired.'*
+> *"While deep work will promote you, shallow work will only prevent you from being fired.'*
 
 ### How to «pivot» career?
 
-> *'The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by.' -- Robert Greene*
+> *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."
+-- Robert Greene*
 
 You will either pivot or get pivoted.
 
@@ -1095,9 +1256,10 @@ If your job doesn’t require originality, next decade you may not have it and y
 
 My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation.
 
-> *'Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
+> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now.'*
 
-> *'My luggage is always ready.' -- Jorge Jesus (soccer coach)*
+> *"My luggage is always ready."
+-- Jorge Jesus (soccer coach)*
 
 You make yourself rare by combining two or more relevant “pretty goods”. Capitalism rewards things that are both rare and valuable.
 
@@ -1105,12 +1267,14 @@ You make yourself rare by combining two or more relevant “pretty goods”. Cap
 - stuff that looks fun for you and looks like work for others.
 - take risks to boost your immune system.  
 
-> *'Career capital is the unique skills that make you rare and valuable.'  
-'Be so good that they cannot ignore you.' -- Cal Newport*
+> *"Career capital is the unique skills that make you rare and valuable.'  
+'Be so good that they cannot ignore you."
+-- Cal Newport*
 
-> *'Your income is directly proportional to the need for what you do and your ability to do it.' -- Jim Rohn*
+> *"Your income is directly proportional to the need for what you do and your ability to do it."
+-- Jim Rohn*
 
-> *'Your work is the greatest mean at your disposal for expressing your social intelligence.'*
+> *"Your work is the greatest mean at your disposal for expressing your social intelligence.'*
 
 ### Employee or entrepreneur?
 
@@ -1120,13 +1284,16 @@ Hints:
 
 - Rich people get paid by project and pay by the hour. Act accordingly.
 
-> *'A taste of freedom can make you unemployable.' -- Naval Ravikant*
+> *"A taste of freedom can make you unemployable."
+-- Naval Ravikant*
 
-> *'An entrepreneur without drive is just an unemployed.' -- Naval Ravikant*
+> *"An entrepreneur without drive is just an unemployed."
+-- Naval Ravikant*
 
-> *'If you want to be great, walk the rope without a boss and without a net.' -- Naval Ravikant*
+> *"If you want to be great, walk the rope without a boss and without a net."
+-- Naval Ravikant*
 
-> *'The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
+> *"The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.'*
 
 <!--
 - You don’t give a damn about that job. It’s someone else’s dream. specialized jobs are boring. I seem to get satisfaction only from making stuff. Or maybe a better description would be solving problems and making improvements.
@@ -1149,7 +1316,8 @@ Hints:
  
 Ask employers why did they asked you for an interview - they will describe your strengths.
 
-> *'Our best work is the work we find ourselves doing, when there is no obligation to do so.' -- Naval Ravikant*
+> *"Our best work is the work we find ourselves doing, when there is no obligation to do so."
+-- Naval Ravikant*
 
 
 
@@ -1160,7 +1328,8 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-> *'Dont ever work for someone you dont want to become.' -- Kevin Kelly*
+> *"Dont ever work for someone you dont want to become."
+-- Kevin Kelly*
 - if you can't see yourself working with someone for life, don't work with them for a day. -- Naval Ravikant*
 - The most important lessons I learned were to remember that I'd hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I'd not have had to hire them.
 - (kk) Being enthusiastic is worth 25 IQ points.
@@ -1173,9 +1342,10 @@ Ask employers why did they asked you for an interview - they will describe your 
 - É por isso que não tenho patrão, para não me cortarem a criatividade. -- Cesar Borja
 -->
 
-> *'He who works with his hands is a laborer.  
+> *"He who works with his hands is a laborer.  
 He who works with his hands and his head is a craftsman.  
-He who works with his hands and his head and his heart is an artist.' -- St. Francis of Assisi*
+He who works with his hands and his head and his heart is an artist."
+-- St. Francis of Assisi*
 
 Trial most but only hire likable persons that «get shit done».
 
@@ -1192,13 +1362,16 @@ Hints:
 - Employers are just trying to find somebody they like, that's what «culture fit» is. Often is not how good you are, you just have to be liked while being sufficiently good. Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you. And people like people like themselves.
 - Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 
-> *'Bad professionals make money off their customers, good professionals make money for their customers.' -- Jacques Mattheij*
+> *"Bad professionals make money off their customers, good professionals make money for their customers."
+-- Jacques Mattheij*
 
-> *'We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values.' -- Valve employee book*
+> *"We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."
+-- Valve employee book*
 
-> *'Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
+> *"Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind.'*
 
-> *'Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for.' -- Kevin Kelly*
+> *"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for."
+-- Kevin Kelly*
 
 ### On resumes
 
@@ -1207,9 +1380,11 @@ Hints:
 - Your resume should tell the reader why you more valuable to the company than the next person. You’ll show that with your experience. Tell HOW you accomplished your responsibilities better than the next person. ie. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
 - There are two skill levels: still learning or confident in the skill.
 
-> *'Twitter is a much better resume than Linkedin.' -- Naval Ravikant*
+> *"Twitter is a much better resume than Linkedin."
+-- Naval Ravikant*
 
-> *'Your real resume is a painful recounting of all your struggles.' -- Naval Ravikant*
+> *"Your real resume is a painful recounting of all your struggles."
+-- Naval Ravikant*
 
 ### How to attract and keep talented people?
 
@@ -1222,10 +1397,14 @@ Hints:
 - You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
 - Asking for a raise. Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.
 
-> *'Everybody wants to hire the best. Few of them actually pay them like they're the best.' -- Naval Ravikant*
+> *"Everybody wants to hire the best. Few of them actually pay them like they're the best."
+-- Naval Ravikant*
 
-> *'Train employees well enough they could get another job, but treat them well enough so they never want to.' -- Kevin Kelly*
+> *"Train employees well enough they could get another job, but treat them well enough so they never want to."
+-- Kevin Kelly*
 
-> *'You cannot get smart people to work extremely hard just for money.' -- Kevin Kelly*
+> *"You cannot get smart people to work extremely hard just for money."
+-- Kevin Kelly*
 
-> *'The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do.' -- Kevin Kelly*
+> *"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do."
+-- Kevin Kelly*
