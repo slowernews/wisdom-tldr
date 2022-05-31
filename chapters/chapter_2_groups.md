@@ -695,8 +695,6 @@ However don’t vow to the gatekeepers. Most people are basically afraid of thei
 > *"A single death is a tragedy; a million deaths is a statistic."*
 > *"History is a race between education and catastrophe."  
 -- H.G. Wells*
-> *"A politician who reads aloud speaches written by others is an actor, not a leader."  
--- Naval Ravikant*
 - people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
 - liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
 - nacionalistas vs globalistas | moderados vs radicais?
@@ -1056,13 +1054,13 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On leadership
 
 <!--
-- Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence? (aka do you have high standards).
+- Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
+- There are three keys: honesty, effectiveness, and efficiency.
 - to see who rules you, is the person you are not allowed to criticise.
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
-- There are three keys: honesty, effectiveness, and efficiency.
-> *"When you lead, your real job is to create more leaders, not more followers."  
--- Kevin Kelly*
+> *"A politician who reads aloud speaches written by others is an actor, not a leader."  
+-- Naval Ravikant*
 -->
 
 > *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group."*
@@ -1396,14 +1394,12 @@ Hints:
 
 - You'll never respect them if you don’t reward them accordingly. Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
 - Asking for a raise. Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.
+- Smart people will not work extremely hard just for money.
 
 > *"Everybody wants to hire the best. Few of them actually pay them like they're the best."  
 -- Naval Ravikant*
 
 > *"Train employees well enough they could get another job, but treat them well enough so they never want to."  
--- Kevin Kelly*
-
-> *"You cannot get smart people to work extremely hard just for money."  
 -- Kevin Kelly*
 
 > *"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do."  

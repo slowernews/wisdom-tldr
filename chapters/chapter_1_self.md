@@ -805,9 +805,7 @@ You are more than your mistakes. Your past mistakes are meant to guide you, not 
 > *"Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift."  
 -- Mary Oliver*
 
-Suffering is a temporary but essential part of life.
-
-Making mistakes is better than faking perfections. Every difficulty carries with it a corresponding opportunity of equal size.
+Suffering is a temporary but essential part of life. Making mistakes is better than faking perfections. Every difficulty carries with it a corresponding opportunity of equal size.
 
 > *"Your pain, is the breaking of the shell that encloses your understanding."  
 -- Kahil Gibran*
@@ -826,21 +824,14 @@ Making mistakes is better than faking perfections. Every difficulty carries with
 ---
 ## On shame, confidence and validation
 
-<!--
-> *"Just get out of the room."  
--- Robert Glover*
--->
-
 > *"Shame corrodes the very part of us that believes we are capable of change."  
 -- Brene Brown*
 
-You are not what you think you are: you are what you hide.
+You are not what you think you are: you are what you hide. The things you hate most about yourself are the things you hide from the rest of the world. 
 
-The things you hate most about yourself are the things you hide from the rest of the world. 
+Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 
-Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks, to compensate for inadequacies, physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
-
-### On validation
+### On confidence and validation
 
 <!--
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
@@ -849,70 +840,58 @@ Trauma is a tattoo on the soul. Tattoos and body piercings, are disguises, masks
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  
 -- Leo Buscaglia*
 
-You don’t have to prove anything to anybody, including yourself. Your need for aceptance can make you invisible in this world.
+Confidence is the opposite of shame. Confidence is shamelessness. 
 
-Don’t wait for someone to tell you that you are special. Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth don’t think they’re something special.
-
-> *"If you can avoid seeking approval of others, your power is limitless."  
--- Kevin Kelly*
-
-> *"Ignore what others may be thinking of you, because they aren’t."  
--- Kevin Kelly*
-
-> *"You've gotta dance like there’s nobody watching."  
--- William W. Purkey*
-
-### How to overcome shame?
-
-> *"Once you’ve accepted your flaws, no one can use them against you."  
--- Tyrion*
-
-> *"Imperfections are attractive when their owners are happy with them."  
--- Augusten Burroughs*
-
-The cure for shame is honesty.
-
-When you try to hide something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. So you gotta share that shit in order to heal it. Speaking openly about an imperfection is a sign of strength, not a weakness.
-
-### On confidence
-	
-> *"The less confident you are, the more serious you have to act."  
--- Tara Ploughman*
-
-> *"The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence."  
--- Charles Bukowski*
-
-Shame is the opposite of confidence. Confidence is shamelessness. 
-
-Low confidence is the source of all problems and neediness its marker.
+You don’t have to prove anything to anybody, including yourself. Your need for aceptance can make you invisible in this world. Low confidence is the source of all problems and neediness its marker. Don’t wait for someone to tell you that you are special. Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth don’t think they’re something special.
 
 > *"Having a low opinion of yourself is not modesty. It’s self-destruction."  
 -- Bobby Sommer*
 
-### How to bust confidence?
+> *"The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence."  
+-- Charles Bukowski*
 
-Honesty is the pathway to confidence. Hiding creates shame.
+### How to overcome shame and grow confidence?
+
+> *"Once you’ve accepted your flaws, no one can use them against you."  
+-- Tyrion*
+
+Hiding creates shame so the cure for shame is honesty. Honesty is the pathway to confidence.
+
+When hiding something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. Speaking openly about an imperfection is a sign of strength, not a weakness. So you gotta share that shit in order to heal it.
 
 Hints:
 
-- Hard work, mastery and core values are good sources of pride. When you break an agreement you made with yourself, your self-esteem plummets.  
-- Presence is confidence without arrogance. Authenticity can’t be faked.  
-- Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech. If you don’t believe you are good, you'll never be good.
+- When you break an agreement you made with yourself, your self-esteem plummets. Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech. If you don’t believe you are good, you'll never be good.
 - It’s really hard to have self-esteem. Everyone wants to take it from you. A boss, a teacher, a parent, a friend, a lover.
-- The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible. When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility.
-- The space you take up in the world indicates to others and yourself how confident you feel.
+- Confidence markers: the space you take up in the world indicates to others and yourself how confident you feel. Presence is confidence without arrogance. Authenticity can’t be faked. The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible. When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility.
 
-### On arrogance and entitlement
+> *"Imperfections are attractive when their owners are happy with them."  
+-- Augusten Burroughs*
+
+> *"If you can avoid seeking approval of others, your power is limitless."  
+"Ignore what others may be thinking of you, because they aren’t."  
+-- Kevin Kelly*
+
+> *"The less confident you are, the more serious you have to act."  
+-- Tara Ploughman*
+
+> *"You've gotta dance like there’s nobody watching."  
+-- William W. Purkey*
+
+> *"Just get out of the room."  
+-- Robert Glover*
+
+### On entitlement
 
 > *"Arrogance is a smokescreen for insecurity."  
 -- Amy Cuddy*
 
-Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, but being jealous and insecure does.
+Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, being jealous and insecure does.
 
 Entitlement comes in two forms:
 
-- I’m better than everybody and therefore deserve special treatment.  
-- I’m worse than everybody and therefore deserve special treatment.
+- I’m better than everybody so I deserve special treatment.  
+- I’m worse than everybody so I deserve special treatment.
 
 > *"Don’t be so humble - you are not that great."  
 -- Golda Meir*
@@ -923,7 +902,7 @@ Entitlement comes in two forms:
 
 
 ---
-## On limits, resistance and motivation
+## On limits and motivation
 
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
 -- Archilochus*
@@ -931,17 +910,15 @@ Entitlement comes in two forms:
 > *"To define is to limit."  
 -- Oscar Wilde*
 
-Your limits are where are your [fears](#on-fear-anger-and-excuses).  
+Your limits are defined by your fears.  
 
 Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren’t coming for you. No one is watching you. Do what you want.
 
-### On lazyness
+### How to get motivation and break through your resistances?
 
 Lazyness is resting before getting tired.
 
-### How to break through your resistances?
-
-Lots of people keep telling themselves old stories and patterns that aren’t serving them.
+Most people keep telling themselves old stories and patterns that aren’t serving them.
 
 - Don’t be afraid of taking a step back.  
 - Break down your dreams/goals into achievable steps.  
@@ -949,7 +926,7 @@ Lots of people keep telling themselves old stories and patterns that aren’t se
 
 However your level of success will seldom exceed your level of personal development.
 
-### How to bust motivation?
+Hints:
 
 - Don’t look for inspiration. Look for irritation.
 - Sometimes is a matter of money. Sometimes is a matter of «burning bridges»
@@ -967,10 +944,12 @@ However your level of success will seldom exceed your level of personal developm
 ---
 ## On pessimism
 
-<!--
-> *"I’m always looking for a way to make it happen, not excuses why it won’t work."  
--- Aaron Walker*
--->
+> *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
+-- William Arthur Ward*
+
+Pessimism is a scarcity mindset.
+
+Optimism is rarely the way but pessimism is never the way. Anyway, on the long term, an optimistic bias may payoff.
 
 > *"That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be."  
 -- James Jones*
@@ -978,18 +957,11 @@ However your level of success will seldom exceed your level of personal developm
 > *"A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty."  
 -- Bertram Carr*
 
-Pessimism is a scarcity mindset. Optimism is rarely the way but pessimism is never the way.
-
-> *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
--- William Arthur Ward*
-
 > *"There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens."  
 -- Yvon Chouinard*
 
 > *"Hope is a good breakfast, but it is a bad supper."  
 -- Francis Bacon*
-
-Anyway, on the long term, an optimistic bias may payoff.
 
 > *"While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path."  
 -- Mark Manson*
@@ -997,6 +969,8 @@ Anyway, on the long term, an optimistic bias may payoff.
 > *"Pessimists sound smart. Optimists make money."  
 -- Nat Friedman*
 
+> *"I’m always looking for a way to make it happen, not excuses why it won’t work."  
+-- Aaron Walker*
 
 
 
@@ -1008,9 +982,9 @@ Anyway, on the long term, an optimistic bias may payoff.
 > *"The perfect is the enemy of the good."  
 -- Voltaire*
 
-Strive for excellence, not for perfection. From good enough you can derive success. From perfection you derive procastination, anxiety and depression. 
+Strive for excellence, not for perfection. From good enough you derive success. From perfection you derive procastination, anxiety and depression. 
 
-See yourself as a doist, not a perfectionist. This is liberating.
+It's liberating to see yourself as a «doist».
 
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your “self” out of your decisions, because most likely, it’s not about “you”. Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it."  
 -- Mark Manson*

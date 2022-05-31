@@ -162,7 +162,7 @@ Hints:
 > *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."
 -- Kevin Kelly*
 
-> *"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."
+> *"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."
 -- Kevin Kelly*
 
 

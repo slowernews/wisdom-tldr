@@ -18,8 +18,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-
-## Chapter 1 - Self
+## Chapter I - Self
 
 *On foundations*
 - [On autonomy](/chapters/chapter_1_self.md#on-autonomy)
@@ -40,7 +39,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
 - [On failure, mistakes and regrets](/chapters/chapter_1_self.md#on-failure-mistakes-and-regrets)
 - [On shame, confidence and validation](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
-- [On limits, resistance and motivation](/chapters/chapter_1_self.md#on-limits-resistance-and-motivation)
+- [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 
@@ -49,7 +48,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter 2 - Groups
+## Chapter II - Groups
 
 *On cooperation*
 - [On communication](/chapters/chapter_2_groups.md#on-communication)
@@ -79,9 +78,9 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter 3 - Action
+## Chapter III - Action
 
-*On preparing action*
+*On preparation*
 - [On creativity](/chapters/chapter_3_action.md#on-creativity)
 - [On analysis](/chapters/chapter_3_action.md#on-analysis)
 - [On planning and strategy](/chapters/chapter_3_action.md#on-planning-and-strategy)
