@@ -174,13 +174,13 @@ Hints:
 -- naval*
 -->
 
-> *"To develop your intellectual powers at the expense of the social is to retard your own progress to mastery."  
--- Robert Greene*
-
 > *"The enemy of excellence is isolation."  
 -- Aaron Walker*
 
 Make networking an [habit](chapter_1_self.md#on-habits-and-systems): who you know and whether they like you will determine what opportunities you get.
+
+> *"To develop your intellectual powers at the expense of the social is to retard your own progress to mastery."  
+-- Robert Greene*
 
 > *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead."  
 -- Kevin Kelly*
@@ -277,9 +277,6 @@ Hints:
 - designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
 -->
 
-> *"What you need to start a new business: generosity."  
--- Derek Sivers*
-
 > *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."  
 -- Santiago Nestares*
 
@@ -288,6 +285,9 @@ Focus on what you can give that empowers others and it's easy for you.
 It’s not about what you know, it’s about who trusts you to solve their problems. Often, it requires the technical skills. Always, it requires the communication skills to persuade someone you can do it.
 
 Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet.
+
+> *"What you need to start a new business: generosity."  
+-- Derek Sivers*
 
 > *"Without customers, you don’t have a business. You have a hobby."  
 -- Don Peppers & Martha Rogers*
@@ -530,9 +530,8 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 - the world is full of teachers but devoid of students. -- Naval Ravikant*
 - a good scare is a great error-correcting mechanism. -- Naval Ravikant*
 - remove grading to see who is really interested in the topic. -- Naval Ravikant*
--->
-
 > *"I’d rather have criticism from a genius than praise from an idiot."*
+-->
 
 > *"You don't need mentors, you need action."  
 -- Naval Ravikant*
@@ -567,9 +566,6 @@ You should be a mentor yourself. Be [generous](/chapter_2_groups.md#on-rewards-a
 
 ### How to mentor your kids?
 
-> *"My advice is my autobiography not slogans. People relate better like that."  
--- James Altucher*
-
 > *"If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales."  
 -- Albert Einstein*
 
@@ -597,6 +593,9 @@ Hints:
 > *"When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”"  
 -- Kevin Kelly*
 
+> *"My advice is my autobiography not slogans. People relate better like that."  
+-- James Altucher*
+
 > *"Be nice to your children because they are going to choose your nursing home."  
 -- Kevin Kelly*
 
@@ -615,10 +614,10 @@ However some people are not ready to accept your vision. And «givers» attract 
 > *"No one has ever become poor by giving."  
 -- Anne Frank*
 
+No one on their deathbed has ever regretted giving too much away. A low value gift may have the opposite effect.
+
 > *"He that gives should never remember and he that receives should never forget."  
 -- Talmud*
-
-No one on their deathbed has ever regretted giving too much away. A low value gift may have the opposite effect.
 
 > *"Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo."* 
 
@@ -707,7 +706,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 -->
 
 > *"For the friends: everything. For the others: the law."  
--- paraphrased from Machiavelli*
+-- Machiavelli (Paraphrased)*
 
 Politicians hate risk. Decisions are made on the lowest risk of offending people.
 
@@ -770,9 +769,6 @@ Inequality is a problem. Equality is not the solution. That's the dilemma.
 -- Kevin Kelly*
 -->
 
-> *"Everyone is born a genius, but the process of living de-geniuses them."  
--- Buckminster Fuller*
-
 > *"Mimicking the herd, invites regression to the mean."  
 -- Charlie Munger*
 
@@ -783,6 +779,9 @@ Changing course is hard and this scares us so we look around and try to copy the
 Psychologists have known for a long time that groups of people behave differently than individuals. Sometimes when we are in a group, we tend to be less inhibited, more rebellious, and more confident. This effect is known as mob behaviour. As a general rule, the larger the crowd, the less responsibility people have for their behaviour. This is also why individuals and not groups should make decisions. Groups never admit failure.
 
 Freud was the one who realized that people’s insecurities drove them to excess and overcompensation. Freud was also the one who understood that people are, at heart, animals and are easily manipulated, especially in groups.
+
+> *"Everyone is born a genius, but the process of living de-geniuses them."  
+-- Buckminster Fuller*
 
 > *"My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom."  
 -- William Deresiewicz*
@@ -861,12 +860,12 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*
 
-> *"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."  
--- Henry Ward Beecher*
-
 We judge ourselves by our thoughts but society judges us by what we can do for them. 
 
 Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
+
+> *"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."  
+-- Henry Ward Beecher*
 
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen*
@@ -891,12 +890,12 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 > *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
 -- Goethe*
 
-> *"Show me a hero, and I'll write you a tragedy."  
--- F. Scott Fitzgerald*
-
 Beware of all players.
 
 People are amazing optimizers and will find any loopholes or gaps to their advantage. Few people will help you in a way that is prejudicial to them.
+
+> *"Show me a hero, and I'll write you a tragedy."  
+-- F. Scott Fitzgerald*
 
 ### On easy opponents
 
@@ -1002,15 +1001,15 @@ You’re either part of the solution or part of the problem.
 - Consensus happens just in the beginning and in the end of something.
 -->
 
-> *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence."  
--- Albert Einstein*
-
 > *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
 -- Henry Thomas Buckle*
 
 Treat haters like toddlers.
 
 Outliers inspire envy. Once they stop talking to you, they start talking about you. [Intelligence](chapter_appendix.md#on-intelligence), [wealth](chapter_appendix.md#on-wealth), [ambition](chapter_appendix.md#on-ambition-and-motivation), [fame](chapter_appendix.md#on-fame), [luck](chapter_appendix.md#on-luck), [beauty](chapter_appendix.md#on-beauty), [health](chapter_appendix.md#on-stress-and-health), freedom and a mix of them ([lifestyle](chapter_appendix.md#on-lifestyle)) are the main triggers.
+
+> *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence."  
+-- Albert Einstein*
 
 > *"Remember if people talk behind your back, it only means you are two steps ahead."  
 -- Fannie Flagg*
@@ -1108,9 +1107,6 @@ People seek leadership because they want autonomy and influence. Influence is mo
 > *"Don’t postpone to tomorrow what other people can do for you today."  
 -- Warren Buffett*
 
-> *"If you want to go fast, go alone. If you want to go far, go together."  
--- African proverb*
-
 Managing is delegating. A great manager is a great facilitator. His responsability is to make his team better. 
 
 Hints:
@@ -1126,8 +1122,8 @@ Hints:
 - se tiver tudo bem dentro da equipa tudo se ira passar. focar no interno e n no externo
 -->
 
-> *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
--- Edith Wharton*
+> *"If you want to go fast, go alone. If you want to go far, go together."  
+-- African proverb*
 
 People should feel as part of a tribe.
 
@@ -1139,6 +1135,9 @@ Hints:
 
 > *"I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief."  
 -- Kurt von Hammerstein-Equord (General)*
+
+> *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
+-- Edith Wharton*
 
 ### How to give feedback?
 

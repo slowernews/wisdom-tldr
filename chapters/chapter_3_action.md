@@ -26,18 +26,18 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 
 ### How to find good ideas?
 
-> *"Using creativity to solve problems cannot be taught, and it's ultimately what free markets pay for."  
--- Naval Ravikant*
-
-> *"Name the greatest of all inventors. Accident."  
--- Mark Twain*
-
 > *"The way to get good ideas is to get lots of ideas and throw the bad ones away."  
 -- Linus Pauling*
 
 Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
 
 Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional people living conventional lives lead to conventional ideas.
+
+> *"Name the greatest of all inventors. Accident."  
+-- Mark Twain*
+
+> *"Using creativity to solve problems cannot be taught, and it's ultimately what free markets pay for."  
+-- Naval Ravikant*
 
 > *"We can’t solve problems by using the same kind of thinking we used when we created them."  
 -- Albert Einstein*
@@ -73,18 +73,18 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ---
 ## On analysis
 
-> *"Not everything that counts can be counted, and not everything that can be counted counts."  
--- Albert Einstein*
-
 > *"There are no facts, only interpretations."  
 -- Friedrich Nietzsche*
-
-> *"Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital."  
--- Aaron Levenstein*
 
 Analysis is an art, not a science.
 
 The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
+
+> *"Not everything that counts can be counted, and not everything that can be counted counts."  
+-- Albert Einstein*
+
+> *"Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital."  
+-- Aaron Levenstein*
 
 > *"Believe only half of what you see and nothing that you hear."  
 -- Edgar Allan Poe*
@@ -204,10 +204,10 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"All battles are won or lost before they are ever fought."  
 -- Sun Tzu*
 
+You can’t predict but you can prepare for the highly probable scenarios.
+
 > *"If your goal does not have a schedule, it is a dream."  
 -- Kevin Kelly*
-
-You can’t predict but you can prepare for the highly probable scenarios.
 
 > *"The best way to predict the future is to invent it."  
 -- Alan Kay*
@@ -232,10 +232,9 @@ You can’t predict but you can prepare for the highly probable scenarios.
 
 ### How to plan? 
 
-Start with a vision. Then look for actionable steps.  
-
 Hints:
 
+- Start with a vision. Then look for actionable steps.  
 - Plans are only a starting point. Choose a plan with options.
 - Too detailed plans (or too general plans) are not useful and a waste of time.
 - Don't sabotage them when they get tedious or too difficult.
@@ -299,18 +298,18 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 - the only part you can't outsource is judgement. -- Naval Ravikant*
 -->
 
-> *"A well defined problem seeks its own solution"  
--- Mike Brundant*
-
-> *"I am not a product of my circumstances. I am a product of my decisions."  
--- Stephen Cove*
-
 > *"May your choices reflect your choices, not your fears."  
 -- Nelson Mandela*
 
 You are evaluated by your decisions. Getting 80% right is exponentially better than 70% right.
 
 We think we make choices but our choices are influenced by others. We pick what is familiar.
+
+> *"A well defined problem seeks its own solution"  
+-- Mike Brundant*
+
+> *"I am not a product of my circumstances. I am a product of my decisions."  
+-- Stephen Cove*
 
 > *"The heart decides. The head rationalizes."  
 -- Naval Ravikant*
@@ -366,10 +365,10 @@ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficien
 > *"All models are wrong but some are useful."  
 -- George Box*
 
+A mental model is a functional tool. If you don't understand its limitations, you don't understand the model. All models are wrong. The practical question is how wrong do they have to be to not be useful. 
+
 > *"A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one."  
 -- Joan Robinson*
-
-A mental model is a functional tool. If you don't understand its limitations, you don't understand the model. All models are wrong. The practical question is how wrong do they have to be to not be useful. 
 
 > *"Scientists generally agree that no theory is one hundred percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science."  
 -- Yuval Noah Harari*
@@ -414,13 +413,13 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 > *"A year from now, you will wish you had started today."  
 -- Karen Lamb*
 
-> *"Hesitation is always easy, rarely useful"  
--- Prof. Quirrel alterego*
-
 Just start.
 
 Stop making resolutions and start making something. Time is the most precious thing you own.
 Nothing happens in the world because of thought. Or because of talking. Or because of writing. It happens because of DO-ing.
+
+> *"Hesitation is always easy, rarely useful"  
+-- Prof. Quirrel alterego*
 
 > *"The journey of a thousand miles begins with a single step"  
 -- Lao Tzu*

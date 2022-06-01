@@ -18,9 +18,6 @@
 - There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. to be real you need to be vulnerable
 -->
 
-> *"How we spend our days is how we spend our lives."
--- Annie Dillard*
-
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."
 -- Alan Watts*
 
@@ -28,13 +25,21 @@ Your actions reveal your real values. Not what you say, not what you believe.
 
 How you do anything is how you do everything. Ultimately you are your choices.
 
+> *"How we spend our days is how we spend our lives."
+-- Annie Dillard*
+
 > *"Do you want to know who you are? Don’t ask. Act! Action will delineate and define you."
 -- Thomas Jefferson*
 
 > *"All men die, but not every man lives"
 -- William Wallace*
 
+> *"A great way to understand yourself is to seriously reflect on everything you find irritating in others."
+-- Kevin Kelly*
+
 ### How to come alive?
+
+You must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant.
 
 > *"Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive."
 -- Howard Thurman*
@@ -42,22 +47,20 @@ How you do anything is how you do everything. Ultimately you are your choices.
 > *"What the superior man seeks is in himself; what the small man seeks is in others."
 -- Confucius*
 
-You must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant.
-
 > *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."
 -- Warren Buffett*
 
 > *"Whatever you are, be a good one."
 -- Abraham Lincoln*
 
-> *"A great way to understand yourself is to seriously reflect on everything you find irritating in others."
--- Kevin Kelly*
-
 > *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have."
 -- Kevin Kelly*
 
 > *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."
 -- E.E. Cummings*
+
+> *"You become what you think about all day long."  
+-- Ralph Waldo Emerson*
 
 
 
@@ -76,14 +79,13 @@ You must make the conscious decision that you are going to change your story. No
 5. Pick One Thing and Stick With it to Completion
 -->
 
-
-> *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."
--- E.B. White*
-
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."
 -- Dan Millman*
 
 Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
+
+> *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."
+-- E.B. White*
 
 > *"Life is either a daring adventure or nothing at all."
 -- Helen Keller*
@@ -99,9 +101,6 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."
 -- Jordan Peterson*
 
-> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"
--- Maya Angelou*
-
 Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
 
 Hints:
@@ -110,6 +109,9 @@ Hints:
 - Fear is your guide. The more fear you feel, the more you will know you are on the right track.  
 - Experience more things. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward.
 - It’s easier to ask forgiveness than to get permission.  
+
+> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"
+-- Maya Angelou*
 
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."
 -- Stewart Copeland*

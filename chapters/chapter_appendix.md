@@ -28,10 +28,10 @@
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
 -- José Saramago*
 
+Life becomes very easy when you have studied the past and recognize the recurring patterns.
+
 > *"History does not repeat, but it does rhyme."  
 -- Mark Twain*
-
-Life becomes very easy when you have studied the past and recognize the recurring patterns.
 
 > *"The historian is not really interested in the unique, but in what is general in the unique."  
 -- Edward Carr*
@@ -109,14 +109,14 @@ It’s harder to forget mistakes, past events and the beginning or the end of so
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
 -- Steve Jobs*
 
-> *"Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today."  
--- James T. McKay*
-
 You will die soon.
 
 Act accordingly and don’t postpone joy. Live life ready to meet God like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find pleasure anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
 
 The elderly and dying invariably lament on what they neglected to do, not what they did.
+
+> *"Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today."  
+-- James T. McKay*
 
 > *"Either write something worth reading or do something worth writing."  
 -- Benjamin Franklin*
@@ -143,12 +143,12 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
 -- Michaelangelo*
 
-> *"If you don’t imagine, nothing ever happens at all."  
--- John Green*
-
 Dream big.
 
 If your dreams don’t scare you, they are not big enough. Anomalies often represent the future but to our eyes they seem strange.
+
+> *"If you don’t imagine, nothing ever happens at all."  
+-- John Green*
 
 > *"I dream my painting and I paint my dream."  
 -- Vincent van Gogh*
@@ -196,13 +196,13 @@ retirement is when you stop sacrificing today for an imaginary tomorrow -- naval
 > *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
 -- Chuck Palahniuk*
 
+Aging implies damage.
+
 > *"We don’t stop playing because we grow old; we grow old because we stop playing."  
 -- George bernard Shaw*
 
 > *"Every day in the mirror I watch death at work."  
 -- Jean Cocteau*
-
-Aging implies damage.
 
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
 -- Bruno Munari*
@@ -251,9 +251,6 @@ the difference beteween sounding smart and being smart is "I don't know"
 genious is man who can do the average thing when everyone else around him is losing his mind -- naval
 -->
 
-> *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
--- Ralph Waldo Emerson*
-
 > *"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction."  
 -- Ernst F. Schumacher*
 
@@ -263,6 +260,9 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 
 > *"I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that’s not true. It’s not resilient and shiny, talent is really, really fragile."  
 -- Malcolm Gladwell*
+
+> *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
+-- Ralph Waldo Emerson*
 
 > *"Talent hits a target no one else can hit. Genius hits a target no one else can see."  
 -- Arthur Schopenhauer*
@@ -315,10 +315,10 @@ no one can predict macro.  -- Naval Ravikant*
 > *"Some people are so poor, all they have is money."  
 -- Patrick Meagher*
 
+Being rich is being fulfilled.
+
 > *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
 -- Mr. Money Mustache*
-
-Being rich is being fulfilled.
 
 ### On money
 
@@ -408,12 +408,12 @@ People say they want to be famous to impact the world, often what they want is t
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
 -- Ralph Waldo Emerson*
 
-> *"If you live long enough, most people will get what they deserve."  
--- Charlie Munger*
-
 Unless you’re winning, life will seem unfair to you, but, bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. There’s no magic in the world, it’s all math. The best things in life are born from coincidence.
 
 «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn't repeat on one's lifetime.
+
+> *"If you live long enough, most people will get what they deserve."  
+-- Charlie Munger*
 
 > *"God is subtle but he is not malicious."  
 -- Albert Einstein*
@@ -446,10 +446,10 @@ Risk is everything you left over and didn't thought about. Luck and risk are two
 > *"If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That’s what people remember."  
 -- Terry Pratchett*
 
+A beautiful person always see beauty in others.
+
 > *"Dress shabbily and they remember the dress; dress impeccably and they remember the woman."  
 -- Coco Chanel*
-
-A beautiful person always see beauty in others.
 
 > *"A man’s face is his autobiography. A woman’s face is her work of fiction."  
 -- Oscar Wilde*
@@ -520,11 +520,11 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
 -- David Hockney*
 
-> *"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."  
--- Robert Heinlein*
-
 We were designed to [walk dozens of miles each day](#on-travel-and-nomadism), catch our own meals, [live in a close-knit tribe](/chapter_2_groups.md#on-family-and-friends), [have regular sex](/chapter_2_groups.md#on-relationships), [raise children]() and die.
 When life becomes about [enjoying every second over accumulating more stuff](#on-wealth), we are able to live lives of true abundance and joy.
+
+> *"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."  
+-- Robert Heinlein*
 
 > *"Each of us, when our day’s work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves."  
 -- O. Henry*
@@ -573,9 +573,6 @@ Hints:
 > *"Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain."  
 -- Jack Kerouac*
 
-> *"What gives value to travel is fear."  
--- Albert Camus*
-
 Travel is the only thing you buy that makes you richer.   
 Travels are mini-lifes. They solve a plethora of self-improvement goals. 
 
@@ -587,6 +584,9 @@ Hints:
 - Travellers are the best money managers. People have a cultural memory of travelling as expensive but it’s not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
 - Choose places with “lifers”: people who are dedicated to the business itself, not to a paycheck.
 - Build a business with the heuristic of «maximize my vacation time»: Contracting -> Travelling between contracts -> Travelling while contracting -> Software product business -> Chilling
+
+> *"What gives value to travel is fear."  
+-- Albert Camus*
 
 
 
@@ -615,12 +615,12 @@ Hints:
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
 
-> *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
--- Roger Kipling*
-
 Success = education + massive action
 
 There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period - habits. But success is not being wealthy, is being happy.
+
+> *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
+-- Roger Kipling*
 
 > *"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."  
 -- John Woode*
@@ -666,10 +666,10 @@ the measure of long term thinking is wisdom -- naval paraphrased
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris*
 
+Wisdom is knowing the long-term consequences of your actions.
+
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
-
-Wisdom is knowing the long-term consequences of your actions.
 
 
 

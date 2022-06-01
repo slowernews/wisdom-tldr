@@ -17,7 +17,7 @@ Your autonomy is your major legacy.
 
 Once we’re «bought», it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent. The bank owns us. Work owns us.
   
-Stop being codependent or  others and start caring for yourself first. The money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
+Stop being codependent or others and start caring for yourself first. The money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
 Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you are able to serve others to your fullest capacity.
 
@@ -61,12 +61,6 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 - i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
 -->
 
-> *"Always be a first rate version of yourself and not a second rate version of someone else."  
--- Judy Garland*
-
-> *"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."  
--- Ralph Waldo Emerson*
-
 > *"I'd rather be hated for who I am, than loved for who I am not."  
 -- Kurt Cobain*
 
@@ -76,11 +70,14 @@ If you’re trying to be authentic, you’re not being authentic. You don't need
 
 If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context.
 
+> *"Always be a first rate version of yourself and not a second rate version of someone else."  
+-- Judy Garland*
+
+> *"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."  
+-- Ralph Waldo Emerson*
+
 > *"Nobody realizes that some people expend tremendous energy merely to be normal."  
 -- Albert Camus*
-
-> *"You become what you think about all day long."  
--- Ralph Waldo Emerson*
 
 
 
@@ -101,10 +98,10 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
 -- Warren Buffett*
 
+Take ownership of your life, only then you will cultivate respect for yourself and respect from others. Your choices determined the body, bank account, and relationships that you have right now.
+
 > *"Be the person your dog thinks you are."  
 -- J.W. Stephens*
-
-Take ownership of your life, only then you will cultivate respect for yourself and respect from others. Your choices determined the body, bank account, and relationships that you have right now.
 
 > *"We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change."  
 -- Katharine Hepburn*
@@ -154,12 +151,11 @@ Be impeccable with your word. Trust, not money, is the currency of business and 
 > *"Everyone you will ever meet knows something you don’t."  
 -- Bill Nye*
 
-> *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
--- Ernest Hemingway*
+Don't forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
 
-Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. 
+Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
-Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
+A way to humble yourself is to put you in the position of being the weakest person in something during the day.
 
 > *"Promptness is a sign of respect."  
 -- Kevin Kelly*
@@ -167,12 +163,13 @@ Success means nothing in life. It’s forgotten in one generation, two at best. 
 > *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it."  
 -- Paulo Coelho*
 
+> *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
+-- Ernest Hemingway*
+
 > *"I myself am made entirely of flaws, stitched together with good intentions."  
 -- Augusten Burroughs*
 
-A way to humble yourself is to put you in the position of being the weakest person in something during the day.
-
-### How to apologise
+### How to apologise?
 
 Quickly, specifically, sincerely.
 
@@ -188,35 +185,32 @@ Quickly, specifically, sincerely.
 ## On gratitude
 
 <!--
--->
-
-> *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
--- Cicero*
-
-> *"If you concentrate on what you don’t have, you will never, ever have enough."  
--- Oprah Winfrey*
-
-Often we forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
-
-> *"How lucky I am to have something that makes saying goodbye so hard."  
--- A.A. Milne*
-
-> *"Comparison is the thief of joy."  
--- Theodore Roosevelt*
-
-> *"A good life is not a life without problems. A good life is a life with good problems."  
--- Mark Manson*
-
-> *"When you are grateful, fear disappears and abundance appears." (...) 'You can’t be grateful and angry simultaneously."  
--- Anthony Robbins*
+> *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich."  
+-- Lao Tzu*
 
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
 
-> *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich."  
--- Lao Tzu*
+> *"A good life is not a life without problems. A good life is a life with good problems."  
+-- Mark Manson*
+-->
 
-Play the cards you are dealt. And you will often be dealt bad cards. Being grateful is looking down.
+> *"If you concentrate on what you don’t have, you will never, ever have enough."  
+-- Oprah Winfrey*
+
+Being grateful is looking down. Play the cards you are dealt. And you will often be dealt bad cards.
+
+> *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
+-- Cicero*
+
+> *"When you are grateful, fear disappears and abundance appears." (...) 'You can’t be grateful and angry simultaneously."  
+-- Anthony Robbins*
+
+> *"Comparison is the thief of joy."  
+-- Theodore Roosevelt*
+
+> *"How lucky I am to have something that makes saying goodbye so hard."  
+-- A.A. Milne*
 
 > *"Writing down one thing you are grateful for each day is the cheapest possible therapy ever."  
 -- Kevin Kelly*
@@ -294,9 +288,6 @@ Hints:
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
 
-> *"Once you stop learning, you start dying."  
--- Albert Einstein*
-
 Most problems can be solved by graded exposure over time.  
 You improve with experience and analysis of past situations.
 
@@ -310,6 +301,9 @@ You improve with experience and analysis of past situations.
 -- Chinese proverb*
 
 > *"I have no special talent, I'm only passionately curious."  
+-- Albert Einstein*
+
+> *"Once you stop learning, you start dying."  
 -- Albert Einstein*
 
 ### How to learn?
@@ -386,11 +380,11 @@ When expanding comfort zones you are learning. Don’t be afraid of failure.
 
 ### Improving by analysis
 
-Practice makes perfect but doesn’t make new.  
-New comes from having a broader perspective and analysis of past situations.
-
 > *"Fools say that they learn by experience, I prefer to profit by others’ experience."  
 -- Otto von Bismarck*
+
+Practice makes perfect but doesn’t make new.  
+New comes from having a broader perspective and analysis of past situations.
 
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 
@@ -406,13 +400,13 @@ It will help you [letting go](#on-mistakes-and-failure).
 
 ### Applied knowledge
 
+> *"Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it."*
+
 However action not knowledge leads to [success](chapter_appendix.md#on-success). Only applied knowledge is power.  
 If you are not constantly taking action on the new information that you are learning then it’s just educational porn.
 
 > *"Seek knowledge. Knowledge and Courage are the elements of Greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile."  
 -- Balthasar Gracian*
-
-> *"Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it."*
 
 
 
@@ -434,12 +428,12 @@ The better players did not examine more possibilities, only better ones — just
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field"  
 -- Niels Bohr*
 
-> *"Any fool can know. The point is to understand."  
--- Albert Einstein*
-
 After learning the rules, break them. Only then you can achieve mastery.  
 
 If you’re not getting better today, you’re getting worse.
+
+> *"Any fool can know. The point is to understand."  
+-- Albert Einstein*
 
 > *"Pros are just amateurs who know how to gracefully recover from their mistakes."  
 -- Kevin Kelly*
@@ -506,12 +500,12 @@ However mastery is an important trigger of arrogance. There is no place for a «
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 -- Will Durant*
 
-> *"At any given time, I'm either trying to pick up a good habit or discard a previous bad habit.*"  
--- Naval Ravikant*
-
 We are essentially our habits. Habits are systems. Habits are compound interest in real life.
 
 Consistency doesn’t come from effort, it comes from showing up. Long term thinking and discipline will guarantee you an easier life. 
+
+> *"At any given time, I'm either trying to pick up a good habit or discard a previous bad habit.*"  
+-- Naval Ravikant*
 
 > *"The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it."  
 -- Kevin Kelly*
@@ -719,16 +713,16 @@ Replace fear with curiosity. Hints:
 
 ### On courage
 
-> *"Tolerance of intolerance is cowardice."  
--- Ayaan Hirsi Ali*
-
 > *"Life shrinks or expands in proportion to one’s courage."  
 -- Anaïs Nin*
 
+Heros and cowards feel the same fear but their answers are different. Courage implies low reverence.
+
+> *"Tolerance of intolerance is cowardice."  
+-- Ayaan Hirsi Ali*
+
 > *"Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently."  
 -- Maya Angelou*
-
-Heros and cowards feel the same fear but their answers are different. Courage implies low reverence.
 
 > *"Evil will prevail if good men stand back and do nothing."  
 -- Edmund Burke*
@@ -757,14 +751,15 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Experience is merely the name men gave to their mistakes."  
 -- Oscar Wilde*
 
-> *"Good judgment comes from experience. Experience comes from bad judgment'. -- Jim Horning*
-
-> *"We're even wrong about which mistakes we're making."  
--- Carl Winfeld*
-
 Fail fast and bounce back quickly: sometimes you win, sometimes you learn.
 
 Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. 
+
+> *"Good judgment comes from experience. Experience comes from bad judgment."  
+-- Jim Horning*
+
+> *"We're even wrong about which mistakes we're making."  
+-- Carl Winfeld*
 
 > *"The greatest mistake you can make in life is to continually be afraid you will make one."  
 -- Elbert Hubbard*
@@ -786,15 +781,15 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 
 ### On regrets
 
-> *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
--- Alan Paton*
-
 > *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
 -- George Bernard Shaw*
 
 Be gentle first with yourself. Don't punish yourself for failing. Failing is learning.
 
 You are more than your mistakes. Your past mistakes are meant to guide you, not to define you. Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today.
+
+> *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
+-- Alan Paton*
 
 > *"It’s not just other people we need to forgive. Sometimes we need to forgive ourselves."  
 -- Mitch Albom*
@@ -907,12 +902,12 @@ Entitlement comes in two forms:
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
 -- Archilochus*
 
-> *"To define is to limit."  
--- Oscar Wilde*
-
 Your limits are defined by your fears.  
 
 Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren’t coming for you. No one is watching you. Do what you want.
+
+> *"To define is to limit."  
+-- Oscar Wilde*
 
 ### How to get motivation and break through your resistances?
 
