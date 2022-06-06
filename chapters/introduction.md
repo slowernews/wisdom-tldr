@@ -13,7 +13,6 @@
 
 > *"It is better to be hated for what you are than to be loved for what you are not."
 -- André Gide*
-- unemployment makes you unhappy. dot.
 - do u want ur daughter to date somebody like u?
 - There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. to be real you need to be vulnerable
 -->
@@ -27,6 +26,9 @@ How you do anything is how you do everything. Ultimately you are your choices.
 
 > *"How we spend our days is how we spend our lives."
 -- Annie Dillard*
+
+> *"You are the combination of your habits and the people who spend the most time with."  
+-- Naval Ravikant*
 
 > *"Do you want to know who you are? Don’t ask. Act! Action will delineate and define you."
 -- Thomas Jefferson*
@@ -73,6 +75,7 @@ You must make the conscious decision that you are going to change your story. No
 <!--
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 - Best Effort + Surrender = DESTINY
+- The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
 
 1. Put Your Happiness Before Goals
 4. Focus on Financial Freedom First

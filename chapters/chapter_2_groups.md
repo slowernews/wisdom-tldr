@@ -31,10 +31,7 @@ Be interested to be interesting.
 <!--
 - be autentic offer good energy, be human, build rapport, listen, humbleness, genuine appreciation. How to make a good first impression: putting your best foot forward actually reveals the real you.
 - Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
-- people believe everything, if you whisper it.
-- a performer shouldn't look at the audience
 - a loucura é a incapacidade de comunicar-se
-- with truly logical people, most arguments are very short and based mainly on differing assumptions. -- Naval Ravikant*
 > *"A wise man said, “Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”*
 -->
 
@@ -48,11 +45,12 @@ Hints:
 	- Emphasize Similarity, we like people who are like us.
 - Ask questions. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. 
 - Don’t be stubborn. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow.
+- People believe in everything, if you whisper it.
 
 > *"Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it."  
 -- Kevin Kelly*
 
-> *"Smart people talking to other smart people tend to have vety short conversations."  
+> *"With truly logical people, most arguments are very short and based mainly on differing assumptions."  
 -- Naval Ravikant*
 
 ### How to tell good stories?
@@ -71,24 +69,28 @@ Listen as you’re wrong.
 
 Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you'll learn something. If they can't you'll soften their views.
 
-- «Will you tell me your story? I’d love to know how you came to this point of view. It sounds like I could learn something.»  
-
 > *"Never argue with a fool, onlookers may not be able to tell the difference."  
 -- Mark Twain*
 
 ### On public speaking
 
-You don't need to answer their questions.
+Hints:
 
-- You can say whatever you want if it's interesting.
-- Know when to answer boring on easy to misinterpret questions.
+- You don't need to answer their questions. You can say whatever you want if it's interesting.
 - Agree as much as you can without lieing. Ask questions instead of desagreeing.
+- Know when to answer boring on easy to misinterpret questions.
 
 > *"Always say less than necessary."  
 -- Kevin Kelly*
 
 > *"The secret to public speaking is to speak as if you were alone."  
 -- Naval Ravikant*
+
+> *"When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details."  
+-- Kevin Kelly*
+
+> *"When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying."  
+-- Kevin Kelly*
 
 
 
@@ -98,27 +100,12 @@ You don't need to answer their questions.
 ---
 ## On relationships
 
-<!--
-- The worst way to build a relationship is to try to build a relationship. -- Naval Ravikant*
-- teh people you most want to impress can read your intentions. -- Naval Ravikant*
-- play long-term games with long-term people. -- Naval Ravikant*
-- if you loose somebody for being yourself, then you never had them to begin with. -- Naval Ravikant*
-- the secret to a happy relationship i stwo happy people. -- Naval Ravikant*
-- find a relationship where you, naturally being you, makes the other person happy and viceversa. -- Naval Ravikant*
--->
-
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
 -- Kevin kelly*
 
 Focus on what you can give. You'll receive in proportion to what you give.  
 
-However, after taking first steps, [mirror](chapter_3_action.md#on-mirroring) their behavior. There comes a time when you have to stop crossing oceans for people who wouldn’t even jump puddles for you. Partner with people who wants you to be all you can be.
-
-> *"Never allow someone to be your priority while allowing yourself to be their option."  
--- Mark Twain*
-
-> *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
--- Dream Hampton*
+However, after taking first steps, mirror their behavior. Don't cross oceans for people who wouldn’t even jump puddles for you. Partner with people who wants you to be all you can be.
 
 Hints:
 
@@ -126,6 +113,30 @@ Hints:
 - If a person is nice to you and to nobody else, that person is not nice.  
 - If you are lonely when you are not alone, you are in bad company.  
 - Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
+
+> *"Never allow someone to be your priority while allowing yourself to be their option."  
+-- Mark Twain*
+
+> *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
+-- Dream Hampton*
+
+> *"The worst way to build a relationship is to try to build a relationship."  
+-- Naval Ravikant*
+
+> *"The people you most want to impress can read your intentions."  
+-- Naval Ravikant*
+
+> *"Play long-term games with long-term people."  
+-- Naval Ravikant*
+
+> *"If you loose somebody for being yourself, then you never had them to begin with."  
+-- Naval Ravikant*
+
+> *"The secret to a happy relationship is two happy people."  
+-- Naval Ravikant*
+
+> *"Find a relationship where you, naturally being you, makes the other person happy and viceversa."  
+-- -- Naval Ravikant*
 
 
 
@@ -136,10 +147,6 @@ Hints:
 ## On networking
 
 <!--
-> *"When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details."  
--- Kevin Kelly*
-> *"When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying."  
--- Kevin Kelly*
 > *"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
 -- Kevin Kelly*
 
@@ -169,9 +176,9 @@ Hints:
 - social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
 
 > *"Money is the ultimate network effect."  
--- naval
+-- Naval Ravikant*
 > *"Business networking is a complete waste of time. The reality is if you're building something interesting, you will always have more people who will want to know you."  
--- naval*
+-- Naval Ravikant*
 -->
 
 > *"The enemy of excellence is isolation."  
@@ -480,7 +487,7 @@ Hints:
 - Never negotiate with binary questions: prefer '«What can you do?» instead of «Will you do this?»'  
 - Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are."
 - Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the ONLY way to sell.
-- «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
+- Close it: «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - The more you take, the more you can give back in meaningless concessions.  
 
 > *"Control the options: get others to play with the cards you deal."  
@@ -492,7 +499,7 @@ Hints:
 > *"Flattery is the infantry of negotiation."  
 -- Lord Chandos*
 
-> *"People may or may not say what they mean,” he explained, “but they always say something designed to get what they want."  
+> *"People may or may not say what they mean but they always say something designed to get what they want."  
 -- David Mamet*
 
 However always strive to achieve a win-win situation. When both sides don't take what they need from it, the deal may fall. The most dangerous negotiation is the one you don’t know you’re in.
@@ -658,9 +665,9 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 - care about what other people think and you will always be their prisoner. -- lao tzu
 -->
 
-Everything is hierarchy. Only comedians can speak the truth without consequences. 
+Everything is hierarchy. Only comedians can speak the truth without consequences. To see who rules you, is the person you are not allowed to criticise.
 
-Social cartography: who’s the decision maker, to whom people are speaking and who is speaking. To deal with real world you have to deal with some level of bullshit.
+Social cartography: who’s the decision maker, to whom people are speaking and who is speaking.  To deal with real world you have to deal with some level of bullshit.
 
 > *"Never outshine the master."  
 'Know who you’re dealing with: do not offend the wrong person."  
@@ -697,6 +704,7 @@ However don’t vow to the gatekeepers. Most people are basically afraid of thei
 - people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
 - liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
 - nacionalistas vs globalistas | moderados vs radicais?
+- people of all political persuasions
 
 As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
@@ -857,6 +865,10 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 
 ### How to judge a man?
 
+<!--
+- When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
+-->
+
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*
 
@@ -958,6 +970,9 @@ Hint: Buy from your community. Sell to outsiders.
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
 -- Harvey Dent in The Dark Knight*
 
+> *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
+-- Balthasar Gracian*
+
 
 
 
@@ -1027,7 +1042,7 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 > *"Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you."  
 -- Marilyn Monroe*
 
-When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from [those achieving what you want to achieve](chapter_3_action.md##on-feedback-and-mentorship). Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you’re better than them.
+When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy, they think that you’re better than them.
 
 > *"The dogs bark but the caravan moves on."  
 -- Arab proverb*  
@@ -1055,11 +1070,8 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 <!--
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
 - There are three keys: honesty, effectiveness, and efficiency.
-- to see who rules you, is the person you are not allowed to criticise.
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
-> *"A politician who reads aloud speaches written by others is an actor, not a leader."  
--- Naval Ravikant*
 -->
 
 > *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group."*
@@ -1080,6 +1092,9 @@ Being a leader is different from being a boss: it requires to be a manager and a
 
 > *"The only thing that gives orders is balls."  
 -- Tony Montana*
+
+> *"A politician who reads aloud speaches written by others is an actor, not a leader."  
+-- Naval Ravikant*
 
 Good leaders are leaders that grew up in the hierarchy.  
 
