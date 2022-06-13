@@ -146,37 +146,6 @@ Be impeccable with your word. Trust, not money, is the currency of business and 
 
 
 ---
-## On respect
-
-> *"Everyone you will ever meet knows something you don’t."  
--- Bill Nye*
-
-Don't forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
-
-Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
-
-> *"Promptness is a sign of respect."  
--- Kevin Kelly*
-
-> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it."  
--- Paulo Coelho*
-
-> *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
--- Ernest Hemingway*
-
-### How to apologise?
-
-Quickly, specifically, sincerely.
-
-> *"It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request."  
--- Kevin Kelly*
-
-
-
-
-
-
----
 ## On gratitude
 
 <!--
@@ -190,9 +159,7 @@ Quickly, specifically, sincerely.
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  
 -- Oprah Winfrey*
 
-Being grateful is looking down. Play the cards you are dealt. You will often be dealt bad cards.
-
-A way to humble yourself is to put you in the position of being the weakest person in something during the day.
+Being grateful is looking down. Play the cards you are dealt. And sometimes you will be dealt bad cards.
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero*
@@ -211,6 +178,41 @@ A way to humble yourself is to put you in the position of being the weakest pers
 
 > *"Writing down one thing you are grateful for each day is the cheapest possible therapy ever."  
 -- Kevin Kelly*
+
+
+
+
+
+
+---
+## On respect
+
+> *"Everyone you will ever meet knows something you don’t."  
+-- Bill Nye*
+
+Don't forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
+
+Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
+
+> *"Promptness is a sign of respect."  
+-- Kevin Kelly*
+
+> *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
+-- Ernest Hemingway*
+
+> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it."  
+-- Paulo Coelho*
+
+### How to apologise?
+
+Quickly, specifically, sincerely.
+
+> *"It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request."  
+-- Kevin Kelly*
+
+### How to humble yourself?
+
+A way to humble yourself is to put you in the position of being the weakest person in something during the day.
 
 
 
@@ -697,6 +699,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 <!--
 - (kk) To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is.
 - (kk) When crisis and disaster strike, don’t waste them. No problems, no progress.
+- there is failure, only feedback.
 -->
 
 > *"Experience is merely the name men gave to their mistakes."  

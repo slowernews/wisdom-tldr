@@ -220,6 +220,9 @@ Aging implies damage. Finding a place to die is an important thing to do.
 
 The advantage of getting older is that you become more decisive.
 
+> *"That is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful."  
+-- Ernest Hemingway*
+
 > *"We never really grow up, we only learn how to act in public."  
 -- Bryan White*
 
@@ -513,9 +516,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 - technology is my slave, not my master.
 - to measure you quality of life simply do nothing and see how it feels. -- Naval Ravikant*
 - you should be to busy to do coffee, while still keeping an uncluttered calendar. -- Naval Ravikant*
-- a busy calendar and a busy mind will destroy your ability to create anything great. -- Naval Ravikant*
 - develop strategic incompetence - people won't ask you to do things you hate to do, if you're bad at them. -- Naval Ravikant*
-- a vacation is a very expensive way to schedule the time to read a book in peace. -- Naval Ravikant*
 - what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
 
 > *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3."  
@@ -577,6 +578,9 @@ Hints:
 
 > *"A vacation + a disaster = an adventure."  
 -- Kevin Kelly*
+
+> *"A vacation is a very expensive way to schedule the time to read a book in peace."  
+-- Naval Ravikant*
 
 
 
@@ -660,15 +664,12 @@ wisdom = inteligence + experience
 
 <!--
 - "the grass is always greener on the side that is fertilized with bulshit"
-> *"When I'm good, I'm very good, but when I'm bad, I'm better."  
--- Mae West*
 > *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
 -- Mae West*
 > *"La que no es puta non desfruta."*
 > *"Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem."*
 > *"The four most expensive words in the English language: «This time is different»."
 - which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
-- overheard someone say in a SF cafe: "I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much.
 -->
 
 > *"Only the truth is funny."  
@@ -692,6 +693,9 @@ What’s the dog for? The dog keeps the man from touching any of the machines."
 
 > *"Reality continues to ruin my life."  
 -- Bill Watterson*
+
+> *"I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much."  
+-- unknown from San Francisco*
 
 ### Where is home?
 
@@ -756,8 +760,6 @@ Most people approach each and every year in the exact same way while expecting d
 <!--
 - Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 - the way of man is the way of the gang
-> *"People come, people go – they’ll drift in and out of your life, almost like characters in a favorite book. When you finally close the cover, the characters have told their story and you start up again with another book, complete with new characters and adventures. Then you find yourself focusing on the new ones, not the ones from the past."  
--- Nicholas Sparks*
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you."  
 -- Kevin Kelly*
 -->
@@ -890,7 +892,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H.Harwood and R. Gore-Bro*
 
-Unhappy wife, unhappy life. Marry an happy person.
+Unhappy spouse, unhappy life. Marry an happy person.
 
 > *"He who marries for love without money has good nights and sorry days."  
 -- Ani Difranco*

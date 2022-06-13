@@ -15,6 +15,8 @@
 -- André Gide*
 - do u want ur daughter to date somebody like u?
 - There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. to be real you need to be vulnerable
+> *"Action expresses priorities."  
+-- Ghandi*
 -->
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."

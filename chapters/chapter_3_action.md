@@ -10,6 +10,10 @@
 
 ## On creativity
 
+<!--
+- a busy calendar and a busy mind will destroy your ability to create anything great. -- Naval Ravikant*
+-->
+
 > *"The secret to creativity is knowing how to hide your sources."  
 -- Albert Einstein*
 
@@ -329,12 +333,6 @@ To make fast decisions is a competitive advantage.
 
 Most people get paralyzed by over thinking. If you don't decide timely somebody will do it for you.
 
-> *"While we are reasoning concerning life, life is gone."  
--- David Hume*
-
-> *"Economics teaches you that making a choice means giving up something."  
--- Russ Roberts*
-
 Hints:
  
 - Default to no. (Steve Jobs)
@@ -344,6 +342,12 @@ Hints:
 - Is the decision reversible or irreversible? If it is reversible, make it fast and without perfect information. If is irreversible, slow down and ensure that you understand the problem. (Jeff Bezos)
 - Choose the one that may produce most serendipity down the line.
 - Optimal decisions occur with 70% of the information. Anything less and you’ll probably make a bad decision. Anything more and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
+
+> *"While we are reasoning concerning life, life is gone."  
+-- David Hume*
+
+> *"Economics teaches you that making a choice means giving up something."  
+-- Russ Roberts*
 
 ### On mental models
 
@@ -399,15 +403,10 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 - The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
 - The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
 
-> *"About 99% of the time, the right time is right now."  
--- Kevin Kelly*
 > *"Time is the longest distance between two places."  
 -- Tennessee Williams*
 > *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
 -- Edward G. Bulwer-Lytton*
-> *"Action expresses priorities."  
--- Ghandi*
-- I can ignore what you’re saying, and just look at your actions. Our actions always reveal our real values.
 -->
 
 > *"A year from now, you will wish you had started today."  
@@ -438,6 +437,9 @@ Nothing happens in the world because of thought. Or because of talking. Or becau
 
 > *"The most difficult is the decision to act, the rest is just tenacity."  
 -- Andrea Earhart*
+
+> *"About 99% of the time, the right time is right now."  
+-- Kevin Kelly*
 
 ### Why people procrastinate?
 
@@ -572,14 +574,8 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 - If you're not spending your time doing what you want, and you're not earning, and you're not learning - what the heck are you doing? -- naval
 -->
 
-> *"Don't make 100 decisions when one will do."  
--- Peter Drucker*
-
 > *"As few as you can, as many as you must."  
 -- John Stuart Mill*
-
-> *"The price of productivity is creativity."  
--- Naval Ravikant*
 
 Getting a lot of unnecessary things done is not productivity: it’s stupidity.
 
@@ -603,6 +599,12 @@ Hints:
 > *"My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm."  
 -- Gary Keller*
 
+> *"The price of productivity is creativity."  
+-- Naval Ravikant*
+
+> *"Don't make 100 decisions when one will do."  
+-- Peter Drucker*
+
 
 
 
@@ -615,6 +617,8 @@ Hints:
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
 - we can define entropy as a measure of the disorder of the universe. 
+> *"Sometimes people don't want to hear the truth because they don't want their illusions destroyed."  
+-- Friedrich Nietzsche*
 -->
 
 > *"You can lead a horse to water but you can’t make him drink."  
@@ -622,7 +626,7 @@ Hints:
 
 Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
-Control what you can: [what you’re primed by](introduction.md#the-real-you), [who you are around](chapter_2_groups.md#on-family-and-friends), the ideas and problems you [focus](#on-focus-priorities-and-productivity) on. Ignore the rest.
+Control what you can: what you’re primed by, who you are around, the ideas and problems you focus on. Ignore the rest.
 
 Consuming information gives the control freak an illusion of control. He doesn't want to acknowledge that the universe doesn't make sense and he doesn't trust himself to handle disorder in a situation that will get out of his league or skillset.
 
@@ -634,9 +638,6 @@ Consuming information gives the control freak an illusion of control. He doesn't
 
 > *"If you change the way you look at things, the thing you look at change"  
 -- Dr. Wayne Dyer*
-
-> *"Sometimes people don't want to hear the truth because they don't want their illusions destroyed."  
--- Friedrich Nietzsche*
 
 
 

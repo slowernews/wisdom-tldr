@@ -24,8 +24,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On autonomy](/chapters/chapter_1_self.md#on-autonomy)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On accountability](/chapters/chapter_1_self.md#on-accountability)
-- [On respect](/chapters/chapter_1_self.md#on-respect)
 - [On gratitude](/chapters/chapter_1_self.md#on-gratitude)
+- [On respect](/chapters/chapter_1_self.md#on-respect)
 
 *On growth*
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
