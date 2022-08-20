@@ -995,6 +995,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 - There are three keys: honesty, effectiveness, and efficiency.
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
+- leadership is not about being followed, is about being first. -- dan munro
 -->
 
 > *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group."*

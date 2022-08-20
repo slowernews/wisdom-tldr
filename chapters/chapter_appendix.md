@@ -26,9 +26,6 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 > *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist. (...) Changing your interpretation of your past is often just as good as changing your past."  
 -- Naval Ravikant*
 
-> *"I just don't believe in anything from my past. Anything. No memories. No regrets. No people. No trips. Nothing. A lot of our unhappiness comes from comparing things from the past to the present."  
--- Naval Ravikant*
-
 > *"Dont bother fighting the old; just build the new."  
 -- Kevin Kelly*
 
@@ -41,7 +38,7 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 > *"The historian is not really interested in the unique, but in what is general in the unique."  
 -- Edward Carr*
 
-> *"Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself."  
+> *"Every new medium transforms the nature of human thought. In the long run, History is the story of information becoming aware of itself."  
 -- James Gleick*
 
 > *"The years say, what the days can’t tell."  
@@ -50,7 +47,7 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 > *"Life is understood backwards, but must be lived forwards."  
 -- Soren Kierkegaard*
 
-You are your memory, however you can’t start the next chapter of your life if you keep re-reading the last one. The past is a nice place to visit but certainly not a good place to stay.
+You are your memory, however you can’t start the next chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay.
 
 Let go your past failures: they are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
@@ -60,19 +57,19 @@ Let go your past failures: they are meant to guide you, not to define you or det
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky*
 
-> *"Keep in mind that people change, but the past doesn’t."  
--- Becca Fitzpatrick*
-
 > *"I can't go back to yesterday because I was a different person then."  
 -- Lewis Carroll*
+
+> *"Stop looking for happiness in the same place where you lost it."  
+-- Unknown*
 
 > *"He'd wasted most of his life thinking he'd wasted most of his life'*
 
 > *"Never regret something that once made you smile."  
 -- Amber Deckers*
 
-> *"Stop looking for happiness in the same place where you lost it."  
--- Unknown*
+> *"Keep in mind that people change, but the past doesn’t."  
+-- Becca Fitzpatrick*
 
 > *"I don’t know any longer whether I’m living or remembering."  
 -- Albert Camus*
@@ -90,11 +87,11 @@ It’s harder to forget mistakes, past events and the beginning or the end of so
 > *"You don’t remember what happened. What you remember becomes what happened."  
 -- John Green*
 
-> *"Collective memory is more about the present than the past because it is integral to how the group sees itself."  
--- Margaret MacMillan*
-
 > *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
 -- Rosalind Cartwright*
+
+> *"Collective memory is more about the present than the past because it is integral to how the group sees itself."  
+-- Margaret MacMillan*
 
 
 
@@ -149,7 +146,7 @@ Anomalies often represent the future but to our eyes they seem strange.
 
 Dream big.
 
-If your dreams don’t scare you, they are not big enough. A ambitious goa sets the bar so high that even a failure is a success measured by the ordinary.
+If your dreams don’t scare you, they are not big enough. A ambitious goal sets the bar so high that even a failure is a success measured by the ordinary.
 
 > *"If you don’t imagine, nothing ever happens at all."  
 -- John Green*
@@ -166,7 +163,7 @@ If your dreams don’t scare you, they are not big enough. A ambitious goa sets 
 > *"Every saint has a past, and every sinner has a future."  
 -- Oscar Wilde*
 
-Our present (in)actions will ‘compound’ into the future we will get – that’s a great way to think about what lies ahead. However, don’t worry too much, you can’t control much.
+Our present (in)actions will compound into the future we will get – that’s a great way to think about what lies ahead. However, don’t worry too much, you can’t control it.
 
 > *"I never worry about the future. It comes soon enough."  
 -- Albert Einstein*
@@ -177,7 +174,7 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 > *"Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree."  
 -- Kevin Kelly*
 
-> *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is “What might I be wrong about?”"  
+> *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
 -- Kevin Kelly*
 
 
@@ -193,16 +190,19 @@ Our present (in)actions will ‘compound’ into the future we will get – that
 
 People my age are so much older than me.
 
-Aging implies damage. Finding a place to die is an important thing to do.
-
-> *"Retirement is when you stop sacrificing today for an imaginary tomorrow"  
--- Naval Ravikant*
-
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
 -- Bruno Munari*
 
 > *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
 -- Chuck Palahniuk*
+
+> *"Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older."  
+-- John Cassavetes*
+
+> *"You are only as young as the last time you changed your mind."  
+-- Kevin Kelly*
+
+Aging implies damage.
 
 > *"Every day in the mirror I watch death at work."  
 -- Jean Cocteau*
@@ -210,12 +210,9 @@ Aging implies damage. Finding a place to die is an important thing to do.
 > *"Once I was beautiful, now I'm myself."  
 -- Anne Sexton*
 
-> *"Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older."  
--- John Cassavetes*
-
 ### On maturity
 
-> *"The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility."  
+> *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
 -- Kevin Kelly*
 
 The advantage of getting older is that you become more decisive.
@@ -226,11 +223,15 @@ The advantage of getting older is that you become more decisive.
 > *"We never really grow up, we only learn how to act in public."  
 -- Bryan White*
 
-> *"You are only as young as the last time you changed your mind."  
--- Kevin Kelly*
-
 > *"Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it."  
 -- Orwell*
+
+### On retirement
+
+Finding a place to die is an important thing to do.
+
+> *"Retirement is when you stop sacrificing today for an imaginary tomorrow"  
+-- Naval Ravikant*
 
 
 
