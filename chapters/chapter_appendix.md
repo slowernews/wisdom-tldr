@@ -16,6 +16,9 @@
 - never say goodbye because goodbye means going away and going awya means forgetting.
 - there are decades when nothing happens and there are weeks when decades happen.
 - a busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind. -- Naval Ravikant*
+
+> *"But how can you live and have no story to tell?"  
+-- Fyodor Dostoyevsky*
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  

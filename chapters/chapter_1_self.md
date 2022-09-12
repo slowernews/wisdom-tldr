@@ -231,7 +231,25 @@ A way to humble yourself is to put you in the position of being the weakest pers
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
 -- Paulo Coelho*
 
-Breaking rules frightens people but comfort is the enemy of achievement. The size of our life is in direct proportion to how uncomfortable we are willing to be. You keep doing what you’re good at to avoid facing the real problems in your life.
+You can choose courage or comfort but you can’t choose both.
+
+The size of your life is in direct proportion to how uncomfortable you are willing to be. You keep doing what you’re good at to avoid facing the real problems in your life. Breaking rules frightens people but comfort is the enemy of achievement. You’ll never get what you want in life without risk. Risk over safety is the way to pull forward. If you act average, you’re going to be average. To outperform, you must be different *and* correct.
+
+Hints:
+
+- Risk looks different for everyone.
+- Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.
+- Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
+- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week. Being uncomfortable should be “play” for you. Get confort in disconfort.
+- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later. The discomfort zone is NOT about experiencing pain.
+- Leap while you’re at the top of the curve, and the next curve builds on the momentum.
+- This isn’t a success strategy. This is a WELL-BEING strategy. The risk of not changing is often greater than the risk of changing.
+
+> *"Do one thing that scares you everyday."  
+-- Eleanor Roosevelt*
+
+> *"When the love-of-life line crosses the fear-of-death line, all hell breaks loose."  
+-- Johannes Rand*
 
 > *"I can’t understand why people are frightened of new ideas. I’m frightened of the old ones."  
 -- John Cage*
@@ -242,34 +260,11 @@ Breaking rules frightens people but comfort is the enemy of achievement. The siz
 > *"If I’d followed all the rules I’d never have gotten anywhere."  
 -- Marylin Monroe*
 
-> *"Do one thing that scares you everyday."  
--- Eleanor Roosevelt*
-
-> *"When the love-of-life line crosses the fear-of-death line, all hell breaks loose."  
--- Johannes Rand*
-
 > *"Normality is a paved road: It’s comfortable to walk, but no flowers grow on it."  
--- Van Gogh*
+-- Vincent Van Gogh*
 
-> *"A ship is safe in the harbor but that’s not what ships are for."*
-
-> *"But how can you live and have no story to tell?"  
--- Fyodor Dostoyevsky*
-
-You can choose courage or you can choose comfort, but you can’t choose both. You’ll never get what you want in life without risk. Risk over safety is the way to pull forward.
-
-If you act average, you’re going to be average. To outperform, you must be different and correct.
-
-Hints:
-
-- This isn’t a success strategy. This is a WELL-BEING strategy.
-- Risk looks different for everyone.
-- The risk of not changing is often greater than the risk of changing.
-- Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.
-- Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
-- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week. Being uncomfortable should be “play” for you. Get confort in disconfort.
-- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later. The discomfort zone is NOT about experiencing pain.
-- Leap while you’re at the top of the curve, and the next curve builds on the momentum.
+> *"A ship is safe in the harbor but that’s not what ships are for."
+-- Unknown*
 
 
 
@@ -282,18 +277,27 @@ Hints:
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
 
-Most problems can be solved by graded exposure over time. You improve with experience and analysis of past situations.
+Most problems can be solved by graded exposure over time.
+
+Experience and analysis of past situations. Deliberated practice and structured knowledge.
+
+Hints:
+
+- Listen to someone explaining some hard techniques and then try to follow the advice. Get feedback. It accelerates learning.
+- If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
+- Reflect on your mistakes, try to find what cues you missed and what you should look for next time.
+- Repeat.
 
 > *"The fastest way to learn is to do things the slow way."  
 -- Chris Sommer (gymnastics coach)*
-
-> *"The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn."  
--- Alvin Toffler*
 
 > *"He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever."  
 -- Chinese proverb*
 
 > *"I have no special talent, I'm only passionately curious."  
+-- Albert Einstein*
+
+> *"It is not that I’m so smart. But I stay with the questions much longer."  
 -- Albert Einstein*
 
 > *"Once you stop learning, you start dying."  
@@ -302,18 +306,27 @@ Most problems can be solved by graded exposure over time. You improve with exper
 > *"There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with."  
 -- Kevin Kelly*
 
-### How to learn?
+> *"A lesson taught with humor is a lesson retained."  
+-- Ruth Westheimer*
+
+> *"Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe."  
+-- Kevin Kelly*
 
 <!--
 > *"#383. Every man hears only what he understands."  
--- goethe*
+-- Goethe*
 > *"The eye sees only what the mind is prepared to comprehend."  
 -- Robertson Davies*
 > *"I’m no genius. I’m smart in spots—but I stay around those spots."  
 -- Tom Watson Sr., Founder of IBM*
 > *"When you are stuck, sleep on it. Let your subconscious work for you."  
 -- Kevin Kelly*
-
+> *"Pain plus reflection equals progress."  
+-- Ray Dalio*
+> *"All truly great thoughts are conceived by walking."  
+-- Nietzsche*
+> *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
+- sabios c six packs"
 - success is the worst teacher
 - Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else. 
 - Pain + Reflection = Progress | effort * talent = skill
@@ -334,28 +347,7 @@ Most problems can be solved by graded exposure over time. You improve with exper
 - Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
 - ask yourself these three questions to truly uncover the root cause of the issues in your life: 1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back. 2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle. 3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
 - Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.) Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. !!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!! learn language: films, manga, phrasebook, dictionary, flashcards. Consider a new language like a new sport. analogy. advantages and train. learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible. The apple is red. It is John’s apple. I give John the apple. I give John the apple. We give him the apple. He gives it to John. She gives it to him. I must give it to him. I want to give it to her.
-> *"Pain plus reflection equals progress."  
--- Ray Dalio*
 -->
-
-Deliberated practice. Structured knowledge.
-
-Hints:
-
-- If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
-- Listen to someone explaining some hard techniques and then try to follow the advice.
-- Get feedback. It accelerates learning.
-- Reflect on your mistakes, try to find what cues you missed and what you should look for next time.
-- Repeat.
-
-> *"It is not that I’m so smart. But I stay with the questions much longer."  
--- Albert Einstein*
-
-> *"A lesson taught with humor is a lesson retained."  
--- Ruth Westheimer*
-
-> *"Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe."  
--- Kevin Kelly*
 
 ### Improving by experience
 
@@ -369,30 +361,25 @@ Hints:
 -- Kevin Kelly*
 
 > *"To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them."  
--- Kevon Kelly*
+-- Kevin Kelly*
 
 ### Improving by analysis
 
 > *"Fools say that they learn by experience, I prefer to profit by others’ experience."  
 -- Otto von Bismarck*
 
-Practice makes perfect but doesn’t make new. New comes from having a broader perspective and analysis of past situations.
-People repeat very easily the same mistakes. You improve by examining your failures. It will help you letting go.
+Practice makes perfect but doesn’t make new. New comes from having a broader perspective and analysis of past situations. People repeat very easily the same mistakes. You improve by examining your failures, it will help you letting go.
 
-> *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
-
-> *"You can only connect the dots looking back, not looking forward."*
+> *"You can only connect the dots looking back, not looking forward."
+-- Unknown*
 
 > *"Journal early before your inhibitions take in. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want."*
-
-> *"All truly great thoughts are conceived by walking."  
--- Nietzsche*
 
 ### Applied knowledge
 
 > *"Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it."*
 
-Only applied knowledge is power. Action, not knowledge, leads to success. If you are not constantly taking action on the new information that you are learning then it’s just educational porn.
+Action, not knowledge, leads to success. If you are not constantly taking action on the new information that you are learning then it’s just educational porn.
 
 > *"Seek knowledge. Knowledge and courage are the elements of greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile."  
 -- Balthasar Gracian*
@@ -406,16 +393,13 @@ Only applied knowledge is power. Action, not knowledge, leads to success. If you
 ## On achieving mastery
 
 <!--
-- Without a demonstrably immense superiority in skill over the novice, there can be no true experts, only laypeople with imposing credentials.
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field"  
 -- Niels Bohr*
 
-After learning the rules, break them. Only then you can achieve mastery.
-
-True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
+True experts recognize the limits of what they know and what they do not know.
 
 > *"Any fool can know. The point is to understand."  
 -- Albert Einstein*
@@ -450,11 +434,11 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 > *"If you aren’t growing you’re dying."  
 -- Tony Robbins*
 
-> *"How often our early triumphs turn us into a kind of caricature of ourselves."  
--- Robert Greene*  
-
 > *"If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism."  
 -- Robert Greene*
+
+> *"How often our early triumphs turn us into a kind of caricature of ourselves."  
+-- Robert Greene*  
 
 
 
