@@ -782,7 +782,7 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 > *"Don’t ever take a fence down until you know the reason why it was put up."  
 -- John F. Kennedy, paraphrasing G.K.Chesterton*
 
-> *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»'*
+> *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"*
 
 > *"Even a foolish person can still be right about most things. Most conventional wisdom is true."  
 -- Kevin Kelly*

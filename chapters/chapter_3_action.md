@@ -168,13 +168,13 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"The hardest thing to explain is the glaringly evident that everyone has decided not to see."  
 -- Ayn Rand*
 
-> *"I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side’s argument better than they do. "  
+> *"I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don't know the other side’s argument better than they do."  
 -- Chalie Munger*
 
 > *"What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact."  
 -- Warren Buffett*
 
-> *"That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them"  
+> *"That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them."  
 -- Paul Graham*
 
 > *"You always get exaggerated notions of things you don’t know anything about."  
@@ -309,7 +309,7 @@ You are evaluated by your decisions. Getting 80% right is exponentially better t
 
 We think we make choices but our choices are influenced by others. We pick what is familiar.
 
-> *"A well defined problem seeks its own solution"  
+> *"A well defined problem seeks its own solution."  
 -- Mike Brundant*
 
 > *"I am not a product of my circumstances. I am a product of my decisions."  
@@ -420,7 +420,7 @@ Nothing happens in the world because of thought. Or because of talking. Or becau
 > *"Hesitation is always easy, rarely useful"  
 -- Prof. Quirrel alterego*
 
-> *"The journey of a thousand miles begins with a single step"  
+> *"The journey of a thousand miles begins with a single step."  
 -- Lao Tzu*
 
 > *"You don't have to be great to start, but you have to start to be great."  
@@ -555,7 +555,7 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 > *"Always look where you want to go, not where you don't want to go."*
 
-> *"As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself"  
+> *"As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself."  
 -- Arthur Schopenhauer*
 
 > *"I will have to remember «I'm here today to cross the swamp, not to fight all the alligators."  
@@ -686,7 +686,7 @@ Overcompensate. Some people get passion from something they struggled with.
 > *"However beautiful the strategy, you should occasionally look at the results."  
 -- Winston Churchill*
 
-> *"At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information"  
+> *"At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information."  
 -- Charlie Munger*
 
 > *"Life is more like tetris than chess."  
@@ -822,16 +822,16 @@ Hints:
 - Instead of killing it, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.
 
 > *"Make other people come to you: use bait if necessary."  
-'Use absence to increase respect and honor."
-'Use selective honesty and generosity to disarm your victim."  
-'Play a sucker to catch a sucker: seem dumber than your mark."  
-'Pose as a friend, work as a spy."  
-'Work on the hearts and minds of others."  
-'Discover each man’s thumbscrew."  
-'Court attention at all cost."  
-'Play to people’s fantasies."  
-'Create compelling spectacles."  
-'Stir up waters to catch fish."  
+"Use absence to increase respect and honor."
+"Use selective honesty and generosity to disarm your victim."  
+"Play a sucker to catch a sucker: seem dumber than your mark."  
+"Pose as a friend, work as a spy."  
+"Work on the hearts and minds of others."  
+"Discover each man’s thumbscrew."  
+"Court attention at all cost."  
+"Play to people’s fantasies."  
+"Create compelling spectacles."  
+"Stir up waters to catch fish."  
 -- Robert Greene (laws of power)*
 
 > *"I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't."  
@@ -854,7 +854,7 @@ Hints:
 > *"A man is not deceived by others, he deceives himself."  
 -- Goethe*
 
-> *"Appear weak when you are strong and strong when you are weak"  
+> *"Appear weak when you are strong and strong when you are weak."  
 -- Sun Tzu*
 
 If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don't do well on the short term.
@@ -865,9 +865,9 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 -- Goethe*
 
 > *"Conceal your intention."  
-'Say less than necessary."  
-'Keep others in suspended terror: cultivate an air of unpredictability."  
-'Assume formlessness."  
+"Say less than necessary."  
+"Keep others in suspended terror: cultivate an air of unpredictability."  
+"Assume formlessness."  
 -- Robert Greene (3rd, 4th, 17th and 48th laws of power)*
 
 > *"One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted."  
@@ -1021,7 +1021,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 > *"The war will be ended by the exhaustion of nations rather than the victories of armies."  
 -- Winston Churchill*
 
-> *"Supreme excellence consists of breaking the enemy’s resistance without fighting"  
+> *"Supreme excellence consists of breaking the enemy’s resistance without fighting."  
 -- Sun Tzu*
 
 > *"Never attempt to win by force what can be won by deception."  
@@ -1043,7 +1043,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 - letting go allows progress. letting things happen instead of trying things to happen.
 -->
 
-> *"It only hurts when you don’t have time to prepare for the fall"  
+> *"It only hurts when you don’t have time to prepare for the fall."  
 -- Tony Hawk*
 
 > *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering."  

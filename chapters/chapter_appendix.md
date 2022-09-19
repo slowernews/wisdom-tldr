@@ -263,7 +263,7 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 > *"The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do."  
 -- John Holt*
 
-> *"The real test of intelligence is if you get what you want from life"  
+> *"The real test of intelligence is if you get what you want from life."  
 -- Naval Ravikant*
 
 > *"The measure of intelligence is the ability to change."  
@@ -385,7 +385,7 @@ Books, friends, sleep, stopping bad habits, ideas, gratefulness, laugh, notice, 
 ---
 ## On popularity
 
-> *"There are only two kinds of languages: the ones people complain about and the ones nobody uses"  
+> *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
 -- Bjarne Stroustrup*
 
 See fame as a multiplier. 

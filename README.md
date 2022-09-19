@@ -153,22 +153,36 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## TL;DR
 
-*'Fuck, don't give a fuck and don't be fucked over.'*
+*"Fuck, don"t give a fuck and don"t be fucked over."*
 
-Seven general advices:  
-*'Life is a balancing act.'*  
-*'If more information was the answer we’d all be billionaires with six packs.' -- Derek Sivers*  
-*'The root of our problems is our inability to let go.' -- Leo Babauta*  
-*'A prophet has no honour in his own country.' -- Bible (John 4: 44)*  
-*'Avoiding relevant conflict will not keep peace, will rot it.' -- EF*  
-*'All self-help boils down to «choose long-term over short-term».' -- Naval Ravikant*  
-*'The empire long divided, must unite; long united, must divide.' -- Chinese proverb*
+Seven general advices:
+
+> *"Life is a balancing act."*
+
+> *"If more information was the answer we’d all be billionaires with six packs."  
+-- Derek Sivers*
+
+> *"The root of our problems is our inability to let go."  
+-- Leo Babauta*
+
+> *"A prophet has no honour in his own country."  
+-- Bible (John 4: 44)*
+
+> *"Avoiding relevant conflict will not keep peace, will rot it."  
+-- E. Ferreira*
+
+> *"All self-help boils down to «choose long-term over short-term»."  
+-- Naval Ravikant*
+
+> *"The empire long divided, must unite; long united, must divide."  
+-- Chinese proverb*
 
 Two practical advices:  
-*'Have more than one child.'*  
-*'Moving in a direction opposite to what we are doing right now where we are not successful often guarantee success.'*
 
-One last advice for introverts: *'Aim at relying on your network and not at being self-sufficient.'*
+- Have more than one child.  
+- Moving in a direction opposite to what we are doing right now where we are not successful often guarantee success.
+
+One last advice for introverts: Aim at relying on your network and not at being self-sufficient.
 
 <hr>
 

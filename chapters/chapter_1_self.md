@@ -263,7 +263,7 @@ Hints:
 > *"Normality is a paved road: It’s comfortable to walk, but no flowers grow on it."  
 -- Vincent Van Gogh*
 
-> *"A ship is safe in the harbor but that’s not what ships are for."
+> *"A ship is safe in the harbor but that’s not what ships are for."  
 -- Unknown*
 
 
@@ -424,7 +424,9 @@ True experts recognize the limits of what they know and what they do not know.
 
 > *"Amateurs play for tricks, masters play for position."*
 
-Mastery is an important trigger of arrogance. There is no place for a «prima donna» and there’s always room for improvement: be humble.
+### Mastery and arrogance
+
+There’s always room for improvement, be humble. There is no place for a «prima donna».
 
 If you’re not getting better today, you’re getting worse. Skills are perishable and the path to mastery a never ending story. Some of the skills that you need to achieve expertise were not yet systemised.
 
@@ -476,20 +478,12 @@ Consistency doesn’t come from effort, it comes from showing up. Long term thin
 > *"First we make our habits, then our habits make us."  
 -- Charles C. Nobel*
 
-> *"Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do)."  
--- Stephen Covey*
-
-> *"Hard choices, easy life. Easy choices, hard life."  
--- Jerzy Gregorek*
-
 ### How to change habits?
 
 > *"Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things."  
 -- Charles Duhigg*
 
 We tend to abandon the good system we’ll follow in search of the perfect system that we will quit.  
-
-Pay attention, correct and don’t judge. Two vices is too much, none makes you boring.
 
 Hints:
 
@@ -500,6 +494,9 @@ Hints:
 - Anticipate obstacles to new habits.
 - Get accountable by making a pact with someone to introduce financial penalties for habits that are bad for you.
 - Reward yourself to solidify new habits.
+- Don't try to be perfect. Two vices is too much, none makes you boring.
+- Pay attention, correct and don’t judge.
+
 
 
 
@@ -513,7 +510,6 @@ Hints:
 
 Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
 
-Do you know anyone who doesn’t have any blind spots? So why would you be different?  
 
 > *"The best mirror is an old friend."  
 -- George Herbert*
@@ -531,9 +527,9 @@ Do you know anyone who doesn’t have any blind spots? So why would you be diffe
 
 Hints:
 
-- Ask questions. Closed-minded people focus more on being understood than on understanding others. They don’t want their ideas challenged and are typically frustrated that they can’t get the other person to agree with them. Open-minded people are more curious about why there is disagreement and understand that there is always the possibility that they might be biased and that it’s worth the little bit of time it takes to listen the other person’s views.  
-- Question your assumptions: “What if I’m wrong about this?”.
-- Meditation makes you more mindful. There are many «yous». Like apps on a smartphone, different systems in your brain with different goals can take control at different times, which is why you can behave so inconsistently. Meditation can prevent hijacking. Over time, meditation can rewire your brain to be less reactive and allow you to thoughtfully respond to your feelings.
+- Do you know anyone who doesn’t have any blind spots? So why would you be different?  
+- Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen the other person’s views, you might be biased.
+- Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and allow you to thoughtfully respond to your feelings.
 
 > *"self awareness is the most attactive trait."  
 -- Naval Ravikant*
@@ -548,10 +544,10 @@ Hints:
 
 ## On stress and health
 
-> *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference"  
+> *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
 
-Our bodies were built to hunt and gather and move, not to stay still. However, the origin of most health problems is not physical but mental.
+We were built to hunt and gather and move, not to stay still. However, the origin of most health problems is not physical but mental.
 
 ### On depression and anxiety
 
@@ -579,8 +575,7 @@ If you are at peace you are living in the present."
 Depression and anxiety are symptoms of under-stimulation and over-stimulation, not diseases:
 
 -  Depression (under-stimulation) is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
--  Anxiety (over-stimulation) creates hypersensitivity. Linked with our evolutionarily need of [control](chapter_3_action.md#on-control). Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Nothing is gained by worrying about «not knowing». We don’t control anything, at most we influence some stuff. Stress is caused by giving a fuck. If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Worry is a misuse of the imagination. Past is only in your head. What’s important is present and future.
-- Hustling (right amount of stimulation) is to be always stretching comfort zone. Avoiding stress is avoiding life.  
+-  Anxiety (over-stimulation) creates hypersensitivity. Linked with our evolutionarily need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Nothing is gained by worrying about «not knowing». We don’t control anything, at most we influence some stuff. Stress is caused by giving a fuck. Worry is a misuse of the imagination. Past is only in your head. What’s important is present and future.
 
 > *"Boredom is a soul sucker. The unfed mind devours itself."  
 -- Gore Vidal*
@@ -599,7 +594,11 @@ Depression and anxiety are symptoms of under-stimulation and over-stimulation, n
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer*
 
-Action cures everything. Physical stress avoids need for control. Hints:
+Action cures everything. Physical stress avoids need for control.
+
+Hustling (right amount of stimulation) is to be always stretching comfort zone. Avoiding stress is avoiding life.  
+
+Hints:
 
 - Best antidepressant is knowing we matter to others. People do not die from suicide, they die from sadness.
 - Exercise: burn extra calories to diminish the need of control. If you are feeling stressed out.. breathe. Body language affects your psychology, your mood, and even your hormonal balance. People are naturally happier when kept busy.
@@ -631,7 +630,7 @@ Action cures everything. Physical stress avoids need for control. Hints:
 
 Fear is paralyzing.
 
-If you view everything through the lens of fear, you'll tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your mother, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
+When you view everything through the lens of fear, you'll tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your family, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
 
 > *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
 -- Paulo Coelho*
@@ -641,11 +640,12 @@ If you view everything through the lens of fear, you'll tend to stay in retreat 
 > *"We fear things in proportion to our ignorance of them."  
 -- Christian Nestell Bovee*
 
-Replace fear with curiosity. Hints:
+Replace fear with curiosity.
 
-- The antidote to fear is aceptance not courage.
-- Conquering Fear = Defining Fear: define your fears not your goals. Break down your fears until you figure out the truth.
-- “Whenever I feel anxious in general or about something specific, I take a piece of paper and lay it out in landscape and create three columns. In the first column on the far left, I write at the top, “What are all the worst things that could happen, however absurd?” In the middle column I write, “What could I do to mitigate the horrible things from happening?” and in the far right column I write, “What could I do to get back to where I am now, if these things happen?” Tim Ferriss calls this exercise “Fear-Setting”.
+Hints:
+
+- The best antidote to fear is aceptance not courage.
+- Conquering fear means defining fear. Define your fears not your goals.
 
 > *"It’s not the mountain we conquer but ourselves."  
 -- Sir Edmund Hillary*
