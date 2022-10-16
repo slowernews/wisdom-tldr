@@ -153,7 +153,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## TL;DR
 
-*"Fuck, don"t give a fuck and don"t be fucked over."*
+> *"Fuck, don"t give a fuck and don"t be fucked over."*
 
 Seven general advices:
 
@@ -182,7 +182,9 @@ Two practical advices:
 - Have more than one child.  
 - Moving in a direction opposite to what we are doing right now where we are not successful often guarantee success.
 
-One last advice for introverts: Aim at relying on your network and not at being self-sufficient.
+One last advice for introverts:
+
+- Aim at relying on your network and not at being self-sufficient.
 
 <hr>
 
