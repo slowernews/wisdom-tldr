@@ -10,6 +10,13 @@
 
 ## On autonomy
 
+<!--
+- if you hurt people because of their expectations of you, that's their problem. -- naval
+don't build your castle in other peoples kingdom's
+> *"What we reason for ourselves may help others. What we reason for others will not help us."  
+-- Naval Ravikant*
+-->
+
 > *"A man is free at the instant he wants to be."  
 -- Voltaire*
 
@@ -59,10 +66,16 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 - You must play by your rules, funnel your weird stuff to give you some advantage.
 - im bad in following a script.
 - i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
+- escape competition through authenticity -- naval
+- to be honest speak without identity -- naval
+- honesty is an antidote to impostor syndrome. 
 -->
 
 > *"I'd rather be hated for who I am, than loved for who I am not."  
 -- Kurt Cobain*
+
+> *"When we see truth in a person we call it authenticity."  
+-- Naval Ravikant*
 
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
@@ -93,6 +106,12 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 - Humility With forward action: 'I wasn’t the smartest in X but.."
 - integrity is what you think is what you say, and the same what you do.
 - Be willing to side with the minority.
+- the selfish reason to be ethical is that it attracts the other ethical people in the network. -- naval
+- INTEGRITY is when what you think and what you say and what you do are one -- naval
+- returns are made on the way up. reputations are made on the way down. -- naval
+- living a life of integrity pays off, but it takes a very long time. -- naval
+- before you can lie to another, you must firt lie to yourself. -- naval
+- intentions don't matter. Actions do. That's why being ethical is hard. -- naval
 -->
 
 > *"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
@@ -123,7 +142,7 @@ Take ownership of your life, only then you will cultivate respect for yourself a
 
 ### How to grow your reputation?
 
-Be impeccable with your word. Trust, not money, is the currency of business and life.
+Be impeccable with your word. Take responsability. Trust, not money, is the currency of business and life.
 
 > *"Pay every debt, as if God wrote the bill."  
 -- Ralph Waldo Emerson*
@@ -273,6 +292,11 @@ Hints:
 
 ---
 ## On improving
+
+<!--
+doing is learning
+if you are not failing every now and again, it's a sign you're not doing anything very innovative. -- woody allen
+-->
 
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
@@ -510,7 +534,6 @@ Hints:
 
 Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
 
-
 > *"The best mirror is an old friend."  
 -- George Herbert*
 
@@ -527,11 +550,22 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 
 Hints:
 
+<!--
+- the best meditation is being curious about the contents of your own mind. -- naval
+- meditation is a good way to measure where you are. -- naval
+- a fit mind is a clear mind -- naval
+- you are a story you tell yourself -- naval
+- meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body. -- naval
+- self-awareness is the most attractive trait -- naval
+> *"If you correct your mind, the rest of your life will fall into place."  
+-- Lao Tzu
+-->
+
 - Do you know anyone who doesn’t have any blind spots? So why would you be different?  
 - Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen the other person’s views, you might be biased.
 - Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and allow you to thoughtfully respond to your feelings.
 
-> *"self awareness is the most attactive trait."  
+> *"self awareness is the most attractive trait."  
 -- Naval Ravikant*
 
 
@@ -552,6 +586,16 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 ### On depression and anxiety
 
 <!--
+> *"The quality of your mind is the quality of your life."  
+-- Naval Ravikant*
+> *"You won't have inner peace until you give up your war against the world."  
+-- Naval Ravikant*
+> *"One of the most powerful things to realize is that you can change your own self-image."  
+-- Naval Ravikant*
+> *"The mind is everything. What you think you become."  
+-- Buddha
+> *"A rational person can find peace by cultivating indifference to things outside of their control."  
+-- Naval Ravikant*
 - emotions of an event are like bookmarks
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
@@ -771,6 +815,8 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 
 <!--
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
+- self-esteem is just the REPUTATION you have with yourself. you'll always know. -- naval
+- guilt is society's voice speaking in your head. -- naval
 -->
 
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  

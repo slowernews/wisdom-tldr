@@ -16,6 +16,7 @@
 - never say goodbye because goodbye means going away and going awya means forgetting.
 - there are decades when nothing happens and there are weeks when decades happen.
 - a busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind. -- Naval Ravikant*
+- history is the study of change, ironically used as a map of the future.
 
 > *"But how can you live and have no story to tell?"  
 -- Fyodor Dostoyevsky*
@@ -34,9 +35,6 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 
 > *"History does not repeat, but it does rhyme."  
 -- Mark Twain*
-
-> *"History never repeats. Man always does."  
--- Voltaire*
 
 > *"The historian is not really interested in the unique, but in what is general in the unique."  
 -- Edward Carr*
@@ -79,6 +77,9 @@ Let go your past failures: they are meant to guide you, not to define you or det
 
 > *"The worst part of holding the memories is not the pain. It's the loneliness of it. Memories need to be shared."  
 -- Lois Lowry*
+
+> *"You never know the value of a moment until it becomes a memory."  
+-- Unknown*
 
 ### How memory works?
 
@@ -147,6 +148,9 @@ Anomalies often represent the future but to our eyes they seem strange.
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
 -- Michaelangelo*
 
+> *"A man without a vision for his future always return to his past."  
+-- Andrew Tate*
+
 Dream big.
 
 If your dreams don’t scare you, they are not big enough. A ambitious goal sets the bar so high that even a failure is a success measured by the ordinary.
@@ -170,6 +174,9 @@ Our present (in)actions will compound into the future we will get – that’s a
 
 > *"I never worry about the future. It comes soon enough."  
 -- Albert Einstein*
+
+> *"We all have two lives. The second one starts when we only have one."  
+-- Confucius*
 
 > *"No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened."  
 -- John Hodgman*
@@ -233,7 +240,7 @@ The advantage of getting older is that you become more decisive.
 
 Finding a place to die is an important thing to do.
 
-> *"Retirement is when you stop sacrificing today for an imaginary tomorrow"  
+> *"Retirement is when you stop sacrificing today for an imaginary tomorrow."  
 -- Naval Ravikant*
 
 
@@ -392,13 +399,13 @@ See fame as a multiplier.
 
 People say they want to be famous to impact the world, often what they want is the adoration of their peers.
 
-> *"You really don’t want to be famous. Read the biography of any famous person."  
--- Kevin kelly*
-
 > *"You want to be rich and anonymous, not poor and famous."  
 -- Naval Ravikant*
 
 > *"The reward for getting on the stage is fame. The price of fame is that you can't get off stage."  
+-- Naval Ravikant*
+
+> *"If you're not ready to be hated, you're not ready to be famous."  
 -- Naval Ravikant*
 
 
@@ -594,6 +601,13 @@ Hints:
 ---
 ## On success
 
+<!--
+- I didn't get successful by knowing everything, I got successful by listening.
+- the price of growth is outgrowing people. -- naval
+> *"Want to get ahead in life? Start genuinely rooting for others to succeed. It's as simple as that."  
+-- Sahil Bloom*
+-->
+
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
 
@@ -668,6 +682,7 @@ wisdom = inteligence + experience
 
 <!--
 - "the grass is always greener on the side that is fertilized with bulshit"
+- society: be yourself. Society: Not like that.
 > *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
 -- Mae West*
 > *"La que no es puta non desfruta."*
@@ -766,6 +781,10 @@ Most people approach each and every year in the exact same way while expecting d
 - the way of man is the way of the gang
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you."  
 -- Kevin Kelly*
+- either have children or become a saint, because eventually, you have to find something you love more than you love yourself. -- naval
+- your family is broken but youre going to fix teh world. -- naval
+if raising children was less rewarding than not doing it, the human race would have gone extinct. -- naval
+- if you don't have kids you'll be the first organism of your direct ancestors to not reproduce since the beggining of life
 -->
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
@@ -792,6 +811,8 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 
 > *"It is easier to forgive an enemy than to forgive a friend."  
 -- William Blake*
+
+Don't settle for a place where you're tolerated. Go where you're celebrated.
 
 Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be. Resist the temptation of working with family and friends. Peers are peers, not boss and employee.
 
@@ -844,6 +865,7 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 - Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 - a dirt dish by the sink can be a big marriage problem
 - we're always looking for somebody that looks for us. first parents, then a lover. screens give us 100% attention! tech is a compensation.
+- true, unconditional love is the province of parents and saints. -- naval
 -->
 
 > *"We accept the love we think we deserve."  
@@ -873,6 +895,15 @@ Love is what happens to men and women that don’t know each other. Love doesn�
 
 > *"That’s what careless words do. They make people love you a little less."  
 -- Arundhati Roy*
+
+> *"You can't buy a real kiss."  
+-- Naval Ravikant*
+
+> *"You haven't been in love, if you haven't let it ruin your life."  
+-- Sarah Hildebrand*
+
+> *"Real love doesn't meet you at your best. It meets you in your mess."  
+-- J. S. Park*
 
 First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
 
@@ -918,6 +949,9 @@ Unhappy spouse, unhappy life. Marry an happy person.
 > *"Science without religion is lame. Religion without science is blind."  
 -- Albert Einstein*
 
+> *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
+-- Nassim Taleb*
+
 And on the first day, men created god.
 
 > *"I’d rather be in the mountains thinking of God than in church thinking about the mountains."  
@@ -962,6 +996,8 @@ And on the first day, men created god.
 
 <!--
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+- science requires skepticism. religion requires belief. -- naval
+- scientists who support silencing opposing voices are actually priests. -- naval
 -->
 
 > *"The whole of science is nothing more than a refinement of everyday thinking."  
@@ -1068,10 +1104,19 @@ Hints:
 - entrepreneurship vs investment - 2 different mentalities.
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
-- good investors don't sell investment advice.
-- a great reason to buy instead of renting is taht you get to fire your landlord -- naval ravikant
-> *"All the benefits in life come from compound interest - relationship, money, habits - anything of importance."  
+- a great reason to buy instead of renting is that you get to fire your landlord. -- naval ravikant
+> *"All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
 -- Naval Ravikant*
+- 400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative. -- nassim taleb
+- the best investments are "buy and forget." -- naval
+- Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer. -- naval
+- the memorial day we remember our unrealized gains. -- naval
+- the two biggest investing mistakes are panic buying and panic selling. -- naval
+- today, people with moderate incomes, are forced to speculate or live in poverty.
+- money just comes to me, because I know where to stand. -- chelsea lazkani
+- when volatility or drawdowns are large, the price contains no information. -- nassim taleb
+- good investors don't sell investment advice not talk about their returns.
+- the larger the herd, the lower the returns. -- naval
 -->
 
 > *"I succeeded because I have a long attention span. (...) Waiting helps you as an investor, and a lot of people just can’t stand to wait."  
@@ -1193,7 +1238,7 @@ Study physics, mathematics, computers, microeconomics, game theory and persuasio
 > *"I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me."  
 -- Ralph Waldo Emerson*
 
-Reading train your model of the world. Even if you forget most, its effect persists. Reading is not a race.
+Reading train your model of the world. Even if you forget most, its effect persists.
 
 > *"A book is less important for what it says than for what it makes you think."  
 -- Louis L'amour*
@@ -1219,6 +1264,9 @@ Reading train your model of the world. Even if you forget most, its effect persi
 > *"No book is worth reading that isn’t worth rereading."  
 -- Susan Sontag*
 
+> *"One cannot read a book: one can only reread it. A good reader, a major reader, an active and creative reader is a rereader."  
+-- Nabokov*
+
 > *"I have never met a person I admired who did not read more books than I did."  
 -- Kevin Kelly*
 
@@ -1238,6 +1286,9 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 > *"The worst thing about new books is that they keep us from reading the old ones."  
 -- Joseph Joubert*
 
+> *"When the reader is ready the book appears."  
+-- Naval Ravikant*
+
 
 
 
@@ -1252,7 +1303,7 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 > *"I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of."  
 -- Joss Whedon*
 
-If you are writing to be read you are doing it wrongly. Write to learn not to teach.
+If you are writing to be read you are doing it wrongly. Write to learn not to teach. If you have lived a diverse life you'll have a lot to say.
 
 > *"The best writing is rewriting."  
 -- E. B. White*

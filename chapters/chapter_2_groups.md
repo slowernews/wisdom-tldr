@@ -114,23 +114,23 @@ Hints:
 > *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
 -- Dream Hampton*
 
-> *"The worst way to build a relationship is to try to build a relationship."  
+> *"The secret to a happy relationship is two happy people."  
+-- Naval Ravikant*
+
+> *"Find a relationship where you, naturally being you, makes the other person happy and viceversa."  
 -- Naval Ravikant*
 
 > *"The people you most want to impress can read your intentions."  
 -- Naval Ravikant*
 
-> *"Play long-term games with long-term people."  
--- Naval Ravikant*
-
 > *"If you loose somebody for being yourself, then you never had them to begin with."  
 -- Naval Ravikant*
 
-> *"The secret to a happy relationship is two happy people."  
+> *"The worst way to build a relationship is to try to build a relationship."  
 -- Naval Ravikant*
 
-> *"Find a relationship where you, naturally being you, makes the other person happy and viceversa."  
--- -- Naval Ravikant*
+> *"Play long-term games with long-term people."  
+-- Naval Ravikant*
 
 
 
@@ -155,7 +155,7 @@ Hints:
 	"excuse me but i must to talk with somebody that entered the room"
 	"excuse me i have to make a phone call"
 	human sacrifice.. intro him and leave.
-	To rude people: «my mum always told me not to speak with strangers, now I k
+	To rude people: «my mum always told me not to speak with strangers
 
 - What's the most common question or problem you get asked about? Share the answer.
 - You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
@@ -632,6 +632,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+- politics are a catalyst
 - sufffering is individual. nations or corporations don't suffer.
 - social contracts: public promises. Everything is a contract!
 > *"A single death is a tragedy; a million deaths is a statistic."*
@@ -698,6 +699,18 @@ Hints:
 
 ---
 ## On following the herd
+
+<!--
+> *"One cow breaks the fence and a dozen leap it"  
+-- Scottish Gaelic proverb
+- 'consensus' is just another way of saying 'average'. -- naval
+- A group operates through consensus. the consensus will be set by the most intolerable minority. So you'll the intolerable minority will control the group. -- naval
+- individuals rarely admit mistakes. Groups never do. -- naval
+- when stupidity is considered patriotism, it is unsafe to be intelligent. -- isaac asimov
+- you can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don't first persuade their closest comrades. -- nassim taleb
+- society is run by peer pressure, not intelligence.
+- if your opinions line up neatly with those of your friends and colleagues, they're not your opinions. -- naval
+-->
 
 > *"Mimicking the herd, invites regression to the mean."  
 -- Charlie Munger*
@@ -996,6 +1009,18 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
 - leadership is not about being followed, is about being first. -- dan munro
+> *"To lead people walk behind them."  
+-- Lao Tzu
+> *"A great man is hard on himself; a small man is hard on others."  
+-- Confucius
+> *""  
+- Only those who do not seek power are qualified to hold it. -- plato
+- if you wish to control others you must control yourself. -- miyamoto musashi
+- the leader doesn't take charge of the tribe. The leader takes responsability for the tribe. -- naval
+- charisma is the ability to project confidence and love at the same time. -- naval
+- if aren't willing to get mocked, you'll never be able to lead. -- naval
+- teh highest status people in human history are those that asked for nothing and gave everything. - naval
+- you lead by willing to walk alone. -- naval
 -->
 
 > *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group."*
@@ -1121,8 +1146,16 @@ Hints:
 
 <!--
 - give the world what it need and it will give you what you want. -- Naval Ravikant*
+- you get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge. -- naval
+- you don't have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely. -- naval
+- Be the best in teh world at what you do. Keep redefining what you do until thsi is true. -- naval
+- knowledge workers function like athletes - train and sprint, then rest and reassess. -- naval
+- if you want to be part of a great tech company, then you need to be able to sell or build. if you don't do either, learn. -- naval
+- what feels like play to you and work to others? -- naval
+- set and enforce an aspirational hourly rate. -- naval
 - following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now. -- Naval Ravikant*
 - remote killed HR
+- rich people get paid by the project and pay by the hour. -- naval
 - hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
 - volunteer for assignments / becoming the go to guy for some questions
 - trabalhar de porta aberta vs trabalhar à porta fechada
@@ -1131,6 +1164,8 @@ Hints:
 - recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
 - if you can't code, write books and blogs, record videos and podcasts. -- Naval Ravikant*
 - 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
+> *"The world will ask you who you are, and if don't know, the world will tell you."  
+-- Carl Jung
 -->
 
 > *"Don’t be the best. Be the only."  
@@ -1261,6 +1296,10 @@ Ask employers why did they asked you for an interview - they will describe your 
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
 - money is trust. system of mutual trust.
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
+- management is mostly hiring well and firing quickly. -- naval
+- T ou pi shaped.
+- "what did you get done this week?" -- elon musk
+- mercenaries work for money. missionaries build for others. artists create for themselves. -- naval
 -->
 
 > *"He who works with his hands is a laborer.  

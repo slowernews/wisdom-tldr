@@ -17,6 +17,8 @@
 - There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. to be real you need to be vulnerable
 > *"Action expresses priorities."  
 -- Ghandi*
+- you are what you do, not what you say you'll do -- carl jung
+- what we think, we become. -- buddha
 -->
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."
@@ -186,6 +188,10 @@ Hints:
 - Focus on internal fulfillment not external success
 - Happiness is outside of my comfort zone.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
+- to be happy is to be ashamed.
+
+> *"Don't put your happiness in other people's hands. They'll drop it. They'll drop it every time."  
+-- C. Barzak
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."

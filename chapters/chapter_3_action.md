@@ -205,6 +205,11 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ---
 ## On planning and strategy
 
+<!--
+- a plan is only useful if it can survive reality. And a future filled with unknowns is everyone's reality.
+- the most important part of every plan is to plan on the plan not going according to plan
+-->
+
 > *"All battles are won or lost before they are ever fought."  
 -- Sun Tzu*
 
@@ -271,6 +276,7 @@ Hints:
 ## On decision making
 
 <!--
+- for every complex problem there is an answer that is clear, simple, and wrong.
 - (kk) Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise.
 > *"My brother says to never make a big decision before you take a shower."*
 - Wait 48 hours before buying stuff
@@ -518,6 +524,10 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ---
 ## On focus, priorities and productivity
 
+<!--
+- If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
+-->
+
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
 -- Seth Godin* 
 
@@ -764,6 +774,8 @@ Their cheating had a small individual effect initially, so it went unnoticed. Bu
 - Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 > *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly*
+- leverage converts knowledge into power -- naval
+
 -->
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
@@ -806,6 +818,8 @@ Hints:
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - the good reason and the real reason.
 - the best way to get someone's attention is to stop giving them yours.
+> *"If you don't care to be liked, they can't touch you."  
+-- Naval Ravikant*
 -->
 
 > *"We catch more flies with honey than vinegar."*
@@ -977,8 +991,8 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"All endings are also beginnings. We just don’t know it at the time."  
 -- Mitch Albom*
 
-> *"Bad things can happen fast, but almost all good things happen slowly."  
--- Kevin Kelly*
+> *"There are lots of overnight tragedies. There are rarely overnight miracles."  
+-- Unknown*
 
 
 
@@ -1041,6 +1055,8 @@ Winning is not the end of the road; it’s just a stop along the way.
 <!--
 - Surrendering to constant reinvention.
 - letting go allows progress. letting things happen instead of trying things to happen.
+> *"When we are no longer able to change a situation, we are challenged to change ourselves."  
+-- Victor Frankl
 -->
 
 > *"It only hurts when you don’t have time to prepare for the fall."  
