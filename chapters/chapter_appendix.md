@@ -1304,6 +1304,9 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 > *"There are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper."  
 -- Chris Cornell*
 
+> *"The pen is the tongue of the mind."  
+-- Miguel de Cervantes*
+
 ### On email
 
 Hints:

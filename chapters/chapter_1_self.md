@@ -743,6 +743,15 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
 -- Lao Tzu*
 
+> *"Those who lack the courage will always find a philosophy to justify it."  
+-- Albert Camus*
+
+> *"A coward has no scar."  
+-- Zimbabwean proverb*
+
+> *"Who's talking the truth doesn't need a lot of words."  
+-- Polish proverb*
+
 
 
 

@@ -188,6 +188,8 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 ### On truth
 
+Truth does not mind to be questioned. A lie does not like being challenged.
+
 > *"The truth is rarely pure and never simple."  
 -- Oscar Wilde*
 
@@ -197,6 +199,14 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened."  
 -- Winston Churchill*
 
+> *"No one is more hated than he who speaks the truth."  
+-- Plato*
+
+> *"The truth does not require your participation in order to exist. Bullshit does."  
+-- Terence McKenna*
+
+> *"The further a society drifts from the truth the more it will hate those who speak it."  
+-- George Horwell*
 
 
 
@@ -307,7 +317,6 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 - the three big decisions: where you live, who you're with and what you're doing. -- Naval Ravikant*
 - in the age of infinite leverage, judgement is the most important skill. -- Naval Ravikant*
 - thinking is difficult. that's why most people judge. -- carl jung
-- claer thinkers take feedback from reality not society. -- Naval Ravikant*
 - clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity. -- Naval Ravikant*
 - the only part you can't outsource is judgement. -- Naval Ravikant*
 -->
@@ -356,6 +365,9 @@ Hints:
 
 > *"While we are reasoning concerning life, life is gone."  
 -- David Hume*
+
+> *"More is lost by indecision than wrong decision."  
+-- Cicero*
 
 ### On mental models
 
@@ -588,16 +600,16 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 > *"As few as you can, as many as you must."  
 -- John Stuart Mill*
 
-Getting a lot of unnecessary things done is not productivity: it’s stupidity.
+Getting a lot of unnecessary things done is not productivity, it’s stupidity.
 
-Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything. 20% of your effort will give you 80% of output - it may be more than enough. 
+Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything. 20% of your effort will give you 80% of output and it may be more than enough. 
 
 Hints:
 
+- Protect your time like your money. Protect your hours of real work. Take advantage of early hours in the day.
+- Focus on one to three outcomes per day (include one important but not urgent task) and tackle the most important one in the morning. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place.
 - 80/20 is fractal: If 20% of the effort creates 80% of the value, 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do may create 64% of the benefits!
 - Ruthless cut all the activities in your workday that aren’t producing value.
-- Focus on one to three outcomes per day (include one important but not urgent task) and tackle the most important one in the morning. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place.
-- Protect your time like your money. Protect your hours of real work. Take advantage of early hours in the day.
 - Always work with a specific purpose in mind. Set specific, measurable, realistic and time-based goals.
 - Mind the process, not the results. For example, “finish report” might turn into “write report for 45 uninterrupted minutes.”
 - Learn to focus and being fully present on what you are doing now.
@@ -783,7 +795,7 @@ Their cheating had a small individual effect initially, so it went unnoticed. Bu
 -- Archimedes*
 
 > *"Never interrupt your enemy when he is making a mistake."  
--- Napoleon*
+-- Napoleon Bonaparte*
 
 Leverage is a force multiplier.
 
@@ -1040,7 +1052,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 -- Sun Tzu*
 
 > *"Never attempt to win by force what can be won by deception."  
--- Machiavelli*
+-- Niccoló Machiavelli*
 
 > *"You don't win by predicting the future; you win by getting the odds right."  
 -- Will Bonner*
@@ -1082,9 +1094,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 ### On forgiveness
 
 <!--
-> *"To heal a wound you must stop scratching it."  
--- Paulo Coelho*
-people who forgive easily are taken for granted
+
 -->
 
 > *"The only way out of the labyrinth of suffering is to forgive."  
@@ -1093,6 +1103,9 @@ people who forgive easily are taken for granted
 Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
 
 Forgiveness is a process of release so the opposite is a decision to hold onto something. By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
+
+> *"To heal a wound you must stop scratching it."  
+-- Paulo Coelho*
 
 > *"People find it far easier to forgive others for being wrong than being right."  
 -- J.K. Rowling*
@@ -1103,7 +1116,7 @@ Forgiveness is a process of release so the opposite is a decision to hold onto s
 > *"If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us."  
 -- Hermann Hesse*
 
-However:
+However people who forgive easily are taken for granted.
 
 > *"Once you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall."  
 -- Jodi Picoult*

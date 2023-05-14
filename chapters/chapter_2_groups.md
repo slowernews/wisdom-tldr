@@ -649,7 +649,7 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 -->
 
 > *"For the friends: everything. For the others: the law."  
--- Machiavelli (Paraphrased)*
+-- Niccoló Machiavelli (Paraphrased)*
 
 Politicians hate risk. Decisions are made on the lowest risk of offending people.
 
@@ -688,6 +688,9 @@ Hints:
 
 > *"Populism is what we call democracy when we don't like the outcome."  
 -- Naval Ravikant*
+
+> *"The worst form of inequality is to try to make unequal things equal."  
+-- Aristotle*
 
 
 
