@@ -239,11 +239,15 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"Someone is sitting in the shade today because someone planted a tree a long time ago."  
 -- Warren Buffett*
 
+> *"No one ever wrote a plan to be fat, lazy or stupid. That’s what happens when you don’t have a plan."  
+-- Larry Winget*
+
 ### How to plan? 
+
+Start with a vision. Then look for actionable steps.  
 
 Hints:
 
-- Start with a vision. Then look for actionable steps.  
 - Plans are only a starting point. Choose a plan with options.
 - Too detailed plans (or too general plans) are not useful and a waste of time.
 - Don't sabotage them when they get tedious or too difficult.
@@ -311,7 +315,7 @@ Knowledge is always moving forward, and it’s probably moving forward a lot fas
 > *"May your choices reflect your choices, not your fears."  
 -- Nelson Mandela*
 
-You are evaluated by your decisions. Getting 80% right is exponentially better than 70% right.
+You are evaluated by your decisions. Getting 80% good decisions is exponentially better than 70%.
 
 We think we make choices but our choices are influenced by others. We pick what is familiar.
 
@@ -335,9 +339,7 @@ We think we make choices but our choices are influenced by others. We pick what 
 > *"The world doesn’t have the luxury of waiting for complete answers before it takes action."  
 -- Daniel Gilber*
 
-To make fast decisions is a competitive advantage.
-
-Most people get paralyzed by over thinking. If you don't decide timely somebody will do it for you.
+Fast decisions are a competitive advantage but most people get paralyzed by over thinking. If you don't decide timely somebody will do it for you.
 
 Hints:
  
@@ -345,15 +347,15 @@ Hints:
 - 'Hell yes or no'. Say no to things you aren’t really excited about doing. (Derek Sivers)  
 - No to any decision that requires a calculator or computer. (Warren Buffett)  
 - With two equally difficult paths, choose the one more painful in the sort term. Pain avoidance is creating an illusion of equality. (Naval Ravikant)
-- Is the decision reversible or irreversible? If it is reversible, make it fast and without perfect information. If is irreversible, slow down and ensure that you understand the problem. (Jeff Bezos)
 - Choose the one that may produce most serendipity down the line.
+- Is the decision reversible or irreversible? If it is reversible, make it fast and without perfect information. If is irreversible, slow down and ensure that you understand the problem. (Jeff Bezos)
 - Optimal decisions occur with 70% of the information. Anything less and you’ll probably make a bad decision. Anything more and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
-
-> *"While we are reasoning concerning life, life is gone."  
--- David Hume*
 
 > *"Economics teaches you that making a choice means giving up something."  
 -- Russ Roberts*
+
+> *"While we are reasoning concerning life, life is gone."  
+-- David Hume*
 
 ### On mental models
 
@@ -375,7 +377,7 @@ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficien
 > *"All models are wrong but some are useful."  
 -- George Box*
 
-A mental model is a functional tool. If you don't understand its limitations, you don't understand the model. All models are wrong. The practical question is how wrong do they have to be to not be useful. 
+A mental model is a functional tool. If you don't understand its limitations, you don't understand the model. The practical question is how limited do they have to be to not be useful. 
 
 > *"A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one."  
 -- Joan Robinson*
@@ -421,10 +423,6 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 Just start.
 
 Stop making resolutions and start making something. Time is the most precious thing you own.
-Nothing happens in the world because of thought. Or because of talking. Or because of writing. It happens because of DO-ing.
-
-> *"Hesitation is always easy, rarely useful"  
--- Prof. Quirrel alterego*
 
 > *"The journey of a thousand miles begins with a single step."  
 -- Lao Tzu*
@@ -444,46 +442,49 @@ Nothing happens in the world because of thought. Or because of talking. Or becau
 > *"The most difficult is the decision to act, the rest is just tenacity."  
 -- Andrea Earhart*
 
-> *"About 99% of the time, the right time is right now."  
--- Kevin Kelly*
-
-### Why people procrastinate?
-
-> *"The more something threatens your identity, the more you will avoid it."  
--- Manson’s Law of Avoidance*
-
-- [Perfectionism](chapter_1_self.md#on-perfectionism). You fear releasing something unimportant, so you don’t release anything at all.  
-- Anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety.
-- No hope. When hope disappears, so does action.
-
-> *"One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism."  
--- bane_HN*
+> *"Did you know you can't steer a boat that isn't moving? Just like a life."  
+-- Paul Lutus*
 
 > *"Go and do the things you can’t. That is how you get to do them."  
 -- Pablo Picasso*
 
-> *"If opportunity doesn't knock, build a door."  
--- Milton Berle*
+### On timing
 
-### How to defeat procrastination?
+> *"About 99% of the time, the right time is right now."  
+-- Kevin Kelly*
 
-Don't wait for the perfect occasion, a good occasion is a safer bet. You will languish if you stop for a long time. Paralysis is worse than bad timing.
-
-At some point, the pain of not doing it becomes greater than the pain of doing it. Pressed by circumstances, we feel unusually energized and focused (the panic monster). What gets measured gets done. 
+> *"Hesitation is always easy, rarely useful."  
+-- Prof. Quirrel*
 
 > *"The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing."  
 -- Winston Churchill*
 
-> *"Did you know you can't steer a boat that isn't moving? Just like a life."  
--- Paul Lutus*
-
-HOWEVER, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a plan. Any plan will do.
-
 > *"A good plan, violently executed now, is better than a perfect plan next week."  
 -- General George Patton*
 
-> *"No one ever wrote a plan to be fat, lazy or stupid. That’s what happens when you don’t have a plan."  
--- Larry Winget*
+
+### On procrastination
+
+> *"The more something threatens your identity, the more you will avoid it."  
+-- Mark Manson*
+
+We fear releasing something unimportant, so you don’t release anything at all. Inadequacy of results makes us realize that we are not as good as we think we are and creates anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety. When hope disappears, so does action.
+
+How to defeat procrastination?
+
+Hints:
+
+- What gets measured gets done.
+- Don't wait for the perfect occasion, a good occasion is a safer bet.  You will languish if you stop for a long time and paralysis is worse than bad timing.
+ At some point, the pain of not doing it becomes greater than the pain of doing it. Pressed by circumstances, we feel unusually energized and focused (the panic monster). 
+- However, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a plan. Any plan will do.
+
+> *"One of the counterintuitive things that I've learned is that procrastination is often a side-effect of perfectionism."  
+-- HN_bane*
+
+> *"If opportunity doesn't knock, build a door."  
+-- Milton Berle*
+
 
 
 
@@ -1050,7 +1051,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 
 ---
-## On surrendering
+## On surrendering, forgiveness and revenge
 
 <!--
 - Surrendering to constant reinvention.
@@ -1065,9 +1066,9 @@ Winning is not the end of the road; it’s just a stop along the way.
 > *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering."  
 -- Paulo Coelho*
 
-In order to come back you have to go away.
+Accept loss. Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.
 
-Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Sometimes good things fall apart so better things can fall together. Every story has an end, but in life every end is just a new beginning. Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.
+In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning.
 
 > *"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere."  
 -- Paul Coelho*
@@ -1078,13 +1079,7 @@ Use this opportunity to re-create yourself. If you didn’t quit anything you wo
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
 -- Kevin Kelly*
 
-
-
-
-
-
----
-## On forgiveness and revenge
+### On forgiveness
 
 <!--
 > *"To heal a wound you must stop scratching it."  

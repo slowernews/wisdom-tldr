@@ -545,9 +545,6 @@ Hints:
 > *"To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave."  
 -- Kevin Kelly*
 
-> *"For the best results with your children, "  
--- Kevin Kelly*
-
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don't owe them anything.
 
 > *"Do not teach a starving man to fish."*

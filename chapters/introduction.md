@@ -17,7 +17,7 @@
 - There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. to be real you need to be vulnerable
 > *"Action expresses priorities."  
 -- Ghandi*
-- you are what you do, not what you say you'll do -- carl jung
+- you are what you do, not what you say you’ll do -- carl jung
 - what we think, we become. -- buddha
 -->
 
@@ -37,7 +37,7 @@ How you do anything is how you do everything. Ultimately you are your choices.
 > *"Do you want to know who you are? Don’t ask. Act! Action will delineate and define you."
 -- Thomas Jefferson*
 
-> *"All men die, but not every man lives"
+> *"All men die, but not every man lives."
 -- William Wallace*
 
 > *"A great way to understand yourself is to seriously reflect on everything you find irritating in others."
@@ -156,7 +156,7 @@ Hints:
 > *"The question is not who is going to let me; it’s who is going to stop me."
 -- Ayn Rand*
 
-> *"You can, you should, and if you’re brave enough to start, you will"
+> *"You can, you should, and if you’re brave enough to start, you will."
 -- Stephen King*
 
 > *"Don’t argue your path with other people. Walk it."
@@ -190,8 +190,7 @@ Hints:
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
 - to be happy is to be ashamed.
 
-> *"Don't put your happiness in other people's hands. They'll drop it. They'll drop it every time."  
--- C. Barzak
+
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."
@@ -236,7 +235,7 @@ Happiness is a *mind* state where nothing is missing.
 > *"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."
 -- Naval Ravikant*
 
-> *"Money can't make rich people happy but it can make poor people happy."
+> *"Money can’t make rich people happy but it can make poor people happy."
 -- Naval Ravikant*
 
 > *"Happiness is your default state when you remove everything."
@@ -247,6 +246,9 @@ Happiness is a *mind* state where nothing is missing.
 
 > *"The happiness of your life depends upon the quality of your thoughts."
 -- Marcus Aurelius*
+
+> *"Don’t put your happiness in other people’s hands. They’ll drop it. They’ll drop it every time."  
+-- C. Barzak*
 
 ### How to improve somebody else happiness?
 

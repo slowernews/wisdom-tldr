@@ -98,8 +98,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
 - [On finishing](/chapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
-- [On surrendering](/chapters/chapter_3_action.md#on-surrendering)
-- [On forgiveness and revenge](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
+- [On surrendering, forgiveness and revenge](/chapters/chapter_3_action.md#on-surrendering-forgiveness-and-revenge)
 
 
 
@@ -188,4 +187,4 @@ One last advice for introverts:
 
 <hr>
 
-Copyright © 2016-2022 Enio Ferreira | [FAQ](FAQ.md)
+Copyright © 2016-2023 Enio Ferreira | [FAQ](FAQ.md)

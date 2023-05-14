@@ -206,6 +206,10 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 ---
 ## On respect
 
+<!--
+- you might think you want a fancy car or a nice watch. but what you probably want is respect and admiration- the psychology of money
+-->
+
 > *"Everyone you will ever meet knows something you don’t."  
 -- Bill Nye*
 
@@ -578,6 +582,16 @@ Hints:
 
 ## On stress and health
 
+<!--
+- life hack: when in bed meditate. either you'll have a deep meditation or fall asleep. victory either way. -- naval
+- yoga cultivates peace of body. meditation cultivates peace of mind. -- naval
+- an healthy body is light and silent, just as a healthy mind. -- naval
+- when it comes to nutrition, subtract before you add. -- naval
+- teh modern mind is overestimulated and the modern body is understimulated and overfed. meditation, exerciseand fasting restore an ancient balance- -- naval
+- all modern deseases are diseases of abundance. we punish ourselves by constantly entertaining our minds and bodies. -- naval
+- meditation isn't hard. all you have to do is sit and do nothing. just sit down. close your eyes and say:" i'm just going to give myself a break for an hour. this my hour off from life. this is an hour i'm not going to do anything. -- naval"
+-->
+
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
 
@@ -597,6 +611,12 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 > *"A rational person can find peace by cultivating indifference to things outside of their control."  
 -- Naval Ravikant*
 - emotions of an event are like bookmarks
+- unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of teh subconscious and manifest as chronic, nonspecific anxiety. -- naval
+- you're offended when you fear that it might be true. -- naval
+- we suffer more often in emagination than in reality. -- seneca
+- uncertainty, not outcome, is the root of stress. -- naval
+- ego is false confidence, self-respect is true confidence. -- naval
+- your trauma creates you. -- naval
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 - Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.
@@ -609,6 +629,10 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
 - Thinking about it makes it worse. Writing about it makes it better.
 - unemployment makes you unhappy. dot.
+- burnout is an oversaturation of the sameness.
+- men with no purpose attract depression
+- seeds of doubt grow into forests of inaction
+- make sure you don't start seeing yourself through teh eyes of those who don't value you. know your worth even if they don't. -- thema davis
 -->
 
 > *"If you are depressed you are living in the past.   
@@ -667,6 +691,9 @@ Hints:
 
 <!--
 - What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+
+> *"A man who fears suffering is already suffering from what he fears."  
+-- Montaigne*
 -->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
@@ -727,7 +754,8 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 <!--
 - (kk) To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is.
 - (kk) When crisis and disaster strike, don’t waste them. No problems, no progress.
-- there is failure, only feedback.
+- there is no failure, only feedback. -- naval
+- most of our suffering comes from avoidance. -- naval
 -->
 
 > *"Experience is merely the name men gave to their mistakes."  
@@ -803,6 +831,13 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 
 ---
 ## On shame, confidence and validation
+
+<!--
+- It's a sign of great inner security to be hostile to the unfamiliar
+- we hold on to something so tight because we fear something so great won't happen twice.
+- everythng you're running away is in your head.
+- generally the thing you're most ashamed of is actually your biggest strenght/asset but you haven't figured out how to use it.
+-->
 
 > *"Shame corrodes the very part of us that believes we are capable of change."  
 -- Brene Brown*
@@ -926,6 +961,14 @@ Hints:
 ---
 ## On pessimism
 
+<!--
+> *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative."  
+-- Naval Ravikant*
+- to see if they really think that things are getting worse, ask them if they'd rather live in the future or in the past. -- naval
+- the seduction of pessimism: optimism sounds like a sales pitch. pessimism sounds like someone trying to help you.
+- organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
+-->
+
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
 -- William Arthur Ward*
 
@@ -961,6 +1004,10 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 
 ---
 ## On perfectionism
+
+<!--
+epople use it as a badeg of honour to convince themselves that they have high standards but in reality they rarely produce high quality results. perfectionism is a mask for various fears, including fear of failure, fear of being judged and fear of commitment.
+-->
 
 > *"The perfect is the enemy of the good."  
 -- Voltaire*

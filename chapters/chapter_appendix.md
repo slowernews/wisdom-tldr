@@ -25,16 +25,13 @@
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
 -- José Saramago*
 
-Life becomes very easy when you have studied the past and recognize the recurring patterns.
-
-> *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist. (...) Changing your interpretation of your past is often just as good as changing your past."  
--- Naval Ravikant*
-
-> *"Dont bother fighting the old; just build the new."  
--- Kevin Kelly*
+Life becomes easy when you recognize the recurring patterns.
 
 > *"History does not repeat, but it does rhyme."  
 -- Mark Twain*
+
+> *"Don’t bother fighting the old; just build the new."  
+-- Kevin Kelly*
 
 > *"The historian is not really interested in the unique, but in what is general in the unique."  
 -- Edward Carr*
@@ -51,6 +48,9 @@ Life becomes very easy when you have studied the past and recognize the recurrin
 You are your memory, however you can’t start the next chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay.
 
 Let go your past failures: they are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
+
+> *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist. (...) Changing your interpretation of your past is often just as good as changing your past."  
+-- Naval Ravikant*
 
 > *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
 -- Irish saying*
@@ -694,9 +694,7 @@ wisdom = inteligence + experience
 > *"Only the truth is funny."  
 -- Rick Reynolds*
 
-Comedians are the modern day philosophers. The truer the things they say, the funnier they are. 
-
-They observe the hidden life truths that everyone knows but nobody has ever quite articulated.
+Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
 
 > *"Mathematicians look down on Physicists, who look down on Engineers, who look down on Designers. And Designers look down on everyone."  
 -- Naval Ravikant*
@@ -709,9 +707,6 @@ They observe the hidden life truths that everyone knows but nobody has ever quit
 What’s the man there for? His job is to feed the dog.  
 What’s the dog for? The dog keeps the man from touching any of the machines."
 -- Old joke*
-
-> *"Reality continues to ruin my life."  
--- Bill Watterson*
 
 > *"I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much."  
 -- unknown from San Francisco*
@@ -927,7 +922,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H.Harwood and R. Gore-Bro*
 
-Unhappy spouse, unhappy life. Marry an happy person.
+Marry an happy person. Unhappy spouse, unhappy life.
 
 > *"He who marries for love without money has good nights and sorry days."  
 -- Ani Difranco*
@@ -1006,7 +1001,7 @@ And on the first day, men created god.
 > *"The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms."  
 -- Albert Einstein*
 
-Science is the study of truth. Everything that is not a law of nature is just a shared belief. Science is about disproving, not proving.
+Science is the study of truth. Science is about disproving, not proving. Everything that is not a law of nature is just a shared belief.
 
 > *"Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought."  
 -- Albert Szent-Gyorgyi*
@@ -1040,9 +1035,9 @@ Science is the study of truth. Everything that is not a law of nature is just a 
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth*
 
-Life imitates art. Art is a meditation and design is a negotiation. Artistic death is made by consensus.
+Art is a meditation and design is a negotiation. Art is just another form of screaming, it should confort thedisturbed and disturb the confortable. Life imitates art.
 
-Art is just another form of screaming, it should confort thedisturbed and disturb the confortable.
+Artistic death is made by consensus.
 
 > *"Art washes away from the soul the dust of everyday life."  
 -- Pablo Picasso*
@@ -1128,8 +1123,7 @@ Hints:
 
 - Spend less than you make. Saving 10% of all paychecks is a good start.
 - Stay liquid, never invest in anything you can’t sell in a month or two. 
-- Diversify with uncorrelated investment bets.
-- Barbell strategy.
+- Barbell strategy. Diversify with uncorrelated investment bets.
 
 > *"Never lose money. Rule No. 2: don’t forget rule No. 1."  
 -- Warren Buffett*
@@ -1155,10 +1149,10 @@ Understand:
 
 - What’s going to stay the same in the next ten years. While boring, offer the best investment opportunities.
 - Where is low optimism. Recessions are caused when a bunch of people lose confidence all at once.
-- Who are the buyers, the sellers and their motivations.
+- Who are the buyers, the sellers and their motivations. The best companies aren’t sold, they're bought. Stay away from junk stocks.
 - Investments are competing with each other.
-- The best companies aren’t sold, they're bought. Stay away from junk stocks.
 - The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.
+- Take risk from the table whenever possible.
 
 > *"You’re looking for a mispriced gamble."  
 -- Charlie Munger*
@@ -1172,12 +1166,8 @@ Understand:
 > *"Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land."  
 -- Adam Smith*
 
-### When to fold?
-
 > *"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds."  
 -- Charlie Munger*
-
-Take risk from the table whenever possible.
 
 > *"If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme."  
 -- Kevin Kelly*
@@ -1193,7 +1183,7 @@ Take risk from the table whenever possible.
 > *"The purpose of high education is first and foremost to meet people and build relationships."  
 -- my teacher*
 
-Education leads toward a continuing self-discovery; training leads toward a final self-definition. School rewards generalists, the world not so.*
+Education leads toward a continuing self-discovery; training leads toward a final self-definition. School rewards generalists, the world not so.
 
 A college education may help you make a living. Self-education may make you a fortune. The value of formal education is signaling, rather than actual learning.
 
