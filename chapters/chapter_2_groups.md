@@ -244,6 +244,7 @@ Hints:
 ## On business and entrepreneurship
 
 <!--
+- Intuitive equals familiar. Informational age is homogeneising our tastes. globalization é em tudo
 > *"You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further."  
 -- Kevin Kelly*
 > *"Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
@@ -330,6 +331,7 @@ Do something that most people think is hard. If you try something easy, there wi
 ## On selling, negotiation and price
 
 <!--
+- i never had to sell nothing that i wouldn't buy myself. -- naval
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
 - always negotiate. dont communicate weakness on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
@@ -398,6 +400,8 @@ Modern selling: farmers (ambiverts and introverts)
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
+- how much would i have to pay to close this deal now
+> *'When you don’t know how much to pay someone for a particular task, ask them «what would be fair» and their answer usually is.' -- Kevin Kelly*
 -->
 
 > *"Negotiations are won by whoever cares less."  
@@ -629,6 +633,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+- escola meritocratica e o o q podes fazer por ti. mundo n. mundo move-se pelo q podes fazer por mim.
 - politics are a catalyst
 - sufffering is individual. nations or corporations don't suffer.
 - social contracts: public promises. Everything is a contract!
@@ -836,6 +841,7 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
 > *"Só os mais corajosos conseguem fazer a paz."  
 -- Trump*
+- heros are your idealized selfes
 -->
 
 > *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
@@ -1004,6 +1010,8 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On leadership
 
 <!--
+- a autoridade é delegavel mas a responsabilidade n é delegavel
+- the organization is always modelling the leader. military leader don't have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
 - There are three keys: honesty, effectiveness, and efficiency.
 - succeful takers are the most visible people in organizations.
@@ -1145,6 +1153,10 @@ Hints:
 ## On career
 
 <!--
+- i'm really good in thsi game so i showld keep playaing vs i'm really good in thsi game so i showld stop playaing 
+- philosophy improves your intellectual rigor!
+- behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
+- feels like play to you, look like work to others. -- naval
 - give the world what it need and it will give you what you want. -- Naval Ravikant*
 - you get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge. -- naval
 - you don't have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely. -- naval

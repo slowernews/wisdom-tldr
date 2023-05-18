@@ -15,6 +15,7 @@
 don't build your castle in other peoples kingdom's
 > *"What we reason for ourselves may help others. What we reason for others will not help us."  
 -- Naval Ravikant*
+- freedom to -> freedom from -- naval
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -298,8 +299,10 @@ Hints:
 ## On improving
 
 <!--
+> *'Rather than steering your life to avoid surprises, aim directly for them.' -- Kevin Kelly*
 doing is learning
 if you are not failing every now and again, it's a sign you're not doing anything very innovative. -- woody allen
+> *'Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.' -- Kevin Kelly*
 -->
 
 > *"To improve is to change; to be perfect is to change often."  
@@ -485,6 +488,7 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 - it isn't 10k hours that creates outliers, it's 10k iterations. -- Naval Ravikant*
 - I probably read 1-2 hours a day, and that puts me in the top 0,00001%. -- Naval Ravikant*
 - you do not raise to the level of your goals, you fall to the level of your systems.
+- endurance is more relevant than toughness
 -->
 
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
@@ -861,6 +865,7 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
 - self-esteem is just the REPUTATION you have with yourself. you'll always know. -- naval
 - guilt is society's voice speaking in your head. -- naval
+- confidence come from some success. you need some accomplishment to get there.
 -->
 
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  

@@ -96,7 +96,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *On ending*
 - [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
-- [On finishing](/chapters/chapter_3_action.md#on-finishing)
+- [On finishing](/cfsuchapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On surrendering, forgiveness and revenge](/chapters/chapter_3_action.md#on-surrendering-forgiveness-and-revenge)
 

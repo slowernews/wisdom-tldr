@@ -77,6 +77,12 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ---
 ## On analysis
 
+<!--
+- nothing is as good or as bad as it seems.
+> *'Anything you say before the word «but» does not count.' -- Kevin Kelly*
+
+-->
+
 > *"There are no facts, only interpretations."  
 -- Friedrich Nietzsche*
 
@@ -188,6 +194,11 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 ### On truth
 
+<!--
+> *'The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you.' -- Kevin Kelly*
+
+-->
+
 Truth does not mind to be questioned. A lie does not like being challenged.
 
 > *"The truth is rarely pure and never simple."  
@@ -218,6 +229,8 @@ Truth does not mind to be questioned. A lie does not like being challenged.
 <!--
 - a plan is only useful if it can survive reality. And a future filled with unknowns is everyone's reality.
 - the most important part of every plan is to plan on the plan not going according to plan
+- what you think is your problem is not your problem, your strategy is - dan munro
+- actions aligned with goals!!!
 -->
 
 > *"All battles are won or lost before they are ever fought."  
@@ -299,6 +312,7 @@ Hints:
 > *"Se não houvesse decisoes eramos todos iguais."  
 -- António Simões*
 
+- people are punished for bad decisions and rarely rewarded for good decisions.
 - Ask yourself “does this decision require fast or slow thinking?” 
 - Occam’s razor states that the simplest solution is usually correct.
 - the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
@@ -411,6 +425,7 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 ## On starting and timing
 
 <!--
+- blessed are the restless.
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
 - Research is not doing something. Knowledge is never the issue, action is.
@@ -539,6 +554,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 <!--
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
+- pessoas hj em dia querem ser especialistas de tudo.
 -->
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
@@ -780,6 +796,8 @@ There are limits on change. Willpower is finite and change requires attention. H
 > *"All guns are loaded."  
 -- Kevin Kelly*
 
+- every strenght has a complementary weakness. //ex. centralised (no duplication but slower) vs decentralised (faster but chaotic). abstract thinker vs local thinker. as qualidades s defeitos.
+- looking to people when they are bluffing.
 - What’s your advantage: informational, analytical, or behavioral?	
 - not playing your hand but playing your opponent.
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
@@ -1023,6 +1041,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 - we prefer to see winners as naturally talented rather then hard working. beacuse if it were reversed, what would that inply to us. -- Naval Ravikant*
 > *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
 -- Kevin Kelly*
+- sportification of our culture. resistance doesn't imply competition.
 -->
 
 > *"Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat."  
@@ -1070,6 +1089,9 @@ Winning is not the end of the road; it’s just a stop along the way.
 - letting go allows progress. letting things happen instead of trying things to happen.
 > *"When we are no longer able to change a situation, we are challenged to change ourselves."  
 -- Victor Frankl
+- if you don't reconcile you're postponing war. nem todos os problemas se resolvem c o tempo.
+- ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
+- you only get disapointed because you had wrong opinion about someone-something. there's no finishing line. motinvation is what happens when you're not afraid. you reject yourself with your explantaion of what happened.
 -->
 
 > *"It only hurts when you don’t have time to prepare for the fall."  
@@ -1092,10 +1114,6 @@ In order to come back you have to go away. Use this opportunity to re-create you
 -- Kevin Kelly*
 
 ### On forgiveness
-
-<!--
-
--->
 
 > *"The only way out of the labyrinth of suffering is to forgive."  
 -- John Green*

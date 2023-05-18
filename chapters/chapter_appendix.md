@@ -142,7 +142,8 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 ## On future
 
 <!--
-Anomalies often represent the future but to our eyes they seem strange.
+- Anomalies often represent the future but to our eyes they seem strange.
+- futurism is a study of time
 -->
 
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
@@ -421,6 +422,8 @@ People say they want to be famous to impact the world, often what they want is t
 -- Paulo Coelho*
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
 -- M. Vázquez Montalban*
+- random é a bruxaria - proporçoes random - patterns. everything is a pattern. no pattern is random
+- threats x vulnerabilities = risk
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -518,6 +521,8 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
+> *'For a great payoff be especially curious about the things you are not interested in.' -- Kevin Kelly*
+- you cant preach minimalism to whom didnt have too much stuff!
 - If you’re not trying to make money, what are you even doing?
 - feel like a local celebrity: everybody knows who you are.
 - I'm not choosing ignorance. I'm choosing to not watch wrestling.
@@ -529,6 +534,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 - you should be to busy to do coffee, while still keeping an uncluttered calendar. -- Naval Ravikant*
 - develop strategic incompetence - people won't ask you to do things you hate to do, if you're bad at them. -- Naval Ravikant*
 - what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
+- all that clutter used to be money.
 
 > *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3."  
 -- Kevin Kelly*
@@ -604,6 +610,8 @@ Hints:
 <!--
 - I didn't get successful by knowing everything, I got successful by listening.
 - the price of growth is outgrowing people. -- naval
+- predict failure is easier than predicting success. -- naval
+
 > *"Want to get ahead in life? Start genuinely rooting for others to succeed. It's as simple as that."  
 -- Sahil Bloom*
 -->
@@ -941,6 +949,10 @@ Marry an happy person. Unhappy spouse, unhappy life.
 ---
 ## On religion
 
+<!--
+- religion simplify ideas.
+-->
+
 > *"Science without religion is lame. Religion without science is blind."  
 -- Albert Einstein*
 
@@ -993,6 +1005,8 @@ And on the first day, men created god.
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - science requires skepticism. religion requires belief. -- naval
 - scientists who support silencing opposing voices are actually priests. -- naval
+- look at ideas individually not at the ism
+- the world as your lab. if you do stuff scientifically you can do it right next time also
 -->
 
 > *"The whole of science is nothing more than a refinement of everyday thinking."  
@@ -1093,6 +1107,7 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
+- I only believe in micro. I don't believe in macro. -- naval
 - (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
 Hints:
 - Stock buybacks are effectively same as dividends.
@@ -1286,6 +1301,12 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 
 ---
 ## On writing
+
+<!--
+- o poeta faz a sintese das coisas
+> *'The biggest lie we tell ourselves is «I dont need to write this down because I will remember it.»' -- Kevin Kelly*
+
+-->
 
 > *"Tears are words that need to be written."  
 -- Paulo Coelho*
