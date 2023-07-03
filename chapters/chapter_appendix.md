@@ -83,6 +83,10 @@ Let go your past failures: they are meant to guide you, not to define you or det
 
 ### How memory works?
 
+<!--
+- it takes huge effort to free yourself from memory. - paulo coelho
+-->
+
 It’s harder to forget mistakes, past events and the beginning or the end of something. 
 
 > *"You forget what you want to remember, and you remember what you want to forget."  
@@ -133,6 +137,9 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 > *"When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time."  
 -- Jon Boorman*
 
+> *"Confine thyself to the present."  
+-- Marcus Aurelius*
+
 
 
 
@@ -144,6 +151,18 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 <!--
 - Anomalies often represent the future but to our eyes they seem strange.
 - futurism is a study of time
+> *"Dreams are ... illustrations from the book your soul is writing about you."
+-- Marsha Norman*
+> *"Myth is the public dream, and dream is the private myth."
+-- Joseph Campbell*
+> *"The best way to make your dreams come true is to wake up."
+-- Paul Valery*
+> *"Goals are dreams with deadlines."
+-- Diana Scharf Hunt*
+> *"Hope is the dream of a waking man."
+-- Diogenes*
+> *"Yesterday is but today's memory, and tomorrow is today's dream."
+-- Kahlil Gibran*
 -->
 
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
@@ -195,6 +214,25 @@ Our present (in)actions will compound into the future we will get – that’s a
 
 ---
 ## On growing old
+
+<!--
+“As a grown man you should know better than to go around advising people.” -- Bertolt Brecht
+> *"Old age is too high a price to pay for maturity.*
+> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."
+-- Francis Bacon*
+> *"The teachers of morality speak like angels, but live like men."
+-- Sam Johnson (?)*
+> *"Everybody wants to go to heaven, but nobody wants to die.*
+> *"Go to Heaven for the climate, Hell for the company."
+-- Mark Twain*
+> *"People who want to share their religious views with you almost never want you to share yours with them.*
+> *"There is no sin but ignorance."
+-- Christopher Marlowe*
+> *"The old believe everything; the middle-aged suspect everything; the young know everything."  
+-- Oscar Wilde*
+- My life was sharply divided in two halves. In teh first half, I was always the youngest in teh group; in teh second half, I was always the oldest. Theer was no transitional period. -- stan ulam
+- after reaching a certain age, you are no longer viewed as a person. you become an institution and are you aere treated the way institutions are. you are expected to behave like a piece of period furniture, an architectual landmark.
+-->
 
 > *"We don’t stop playing because we grow old; we grow old because we stop playing."  
 -- George bernard Shaw*
@@ -256,6 +294,15 @@ Finding a place to die is an important thing to do.
 
 <!--
 the best lack conviction, while the worst are full of passionate intensity -- naval
+“When someone is kicking your ass, at least you know that you are out in front.” -- Donald Bartel
+
+> *"Intelligence is like a river: the deeper it is, the less noise it makes."
+-- Milwaukee Journal Sentinel (?)*
+> *"The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function."
+-- F. *Scott Fitzgerald*
+> *"Modesty: The gentle art of enhancing your charm by pretending not to be aware of it."
+-- Oliver Herford*
+> *"Modesty, n.: Being comfortable that others will discover your greatness.*
 -->
 
 > *"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction."  
@@ -346,6 +393,10 @@ Being rich is being fulfilled.
 -- Mr. Money Mustache*
 
 ### On money
+
+<!--
+- money follows execution, not precedes it. -- naval
+-->
 
 Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to freedom and happiness.
 
@@ -521,6 +572,20 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
+> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
+-- Christina Scalise*
+- if you don't love it or use it is clutter.
+- all that clutter used to be money.
+- the less you own, the less owns you.
+- buy supplies before you need them. gadgets after you need them.
+- three is two. two is one. One is none.
+- when working surround yourself with poeple more successful than you. when playing surrond yourself with people more happy than you. -- naval
+- people who live far below their means enjoy a freedom taht people busy upgrading their lifestyles can't fathom. -- naval
+- no routine. i'm famously unscheduled. -- naval
+- storage is a way of warehousing the past.
+- never organize anything you should discard.
+- organizing your email is like alphabetizing your recycling.
+- avoid clothing that's more interesting than you are.
 > *'For a great payoff be especially curious about the things you are not interested in.' -- Kevin Kelly*
 - you cant preach minimalism to whom didnt have too much stuff!
 - If you’re not trying to make money, what are you even doing?
@@ -614,6 +679,8 @@ Hints:
 
 > *"Want to get ahead in life? Start genuinely rooting for others to succeed. It's as simple as that."  
 -- Sahil Bloom*
+> *"Sucess is a lousy teacher. It seduces smart people into thinking they can't lose."  
+-- Bill Gates*
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -680,6 +747,9 @@ wisdom = inteligence + experience
 > *"The measure of wisdom is how calm you are when facing any given situation."  
 -- Naval Ravikant*
 
+> *"Knowledge is discovered colectively. Wisdom is rediscovered individually."  
+-- Naval Ravikant*
+
 
 
 
@@ -689,6 +759,15 @@ wisdom = inteligence + experience
 ## On comedy
 
 <!--
+- comedy is the art of telling forbidden truths, without getting beat out. -- naval
+> *"If you can smile when things go wrong, you have someone in mind to blame.*
+> *"One-seventh of your life is spent on Mondays.*
+> *"The early bird may get the worm, but the second mouse gets the cheese.*
+> *"He who lives without folly is less wise than he believes.*
+> *"Give me a museum and I'll fill it." -- Pablo Picasso
+
+“When you’re up to your nose in sh*t, keep your mouth shut.” -- Movie character Jack Beauregard, played by Henry Fonda
+
 - "the grass is always greener on the side that is fertilized with bulshit"
 - society: be yourself. Society: Not like that.
 > *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
@@ -701,6 +780,9 @@ wisdom = inteligence + experience
 
 > *"Only the truth is funny."  
 -- Rick Reynolds*
+
+> *"A serious and good philosophical work could be written consisting entirely of jokes."  
+-- Ludwig Wittgenstein*
 
 Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
 
@@ -780,6 +862,9 @@ Most people approach each and every year in the exact same way while expecting d
 ## On family and friends
 
 <!--
+- maintain old friendships
+- be suspicious of people who like being owed a favor. especially if it is not a favor you requested.
+- bad friends will prevent you from having good friends -- african proverb 
 - Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
 - the way of man is the way of the gang
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you."  
@@ -811,6 +896,11 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 -- Kevin Kelly*
 
 ### On friends
+
+<!--
+- People who genuinely want the best for you are very rare and tehy are usually already wealthy, loved and happy.
+- i don't like taht man. i must get to know him better. -- abraham lincoln
+-->
 
 > *"It is easier to forgive an enemy than to forgive a friend."  
 -- William Blake*
@@ -865,10 +955,44 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 ## On lovers
 
 <!--
+- arguing and insecurity is anti-seductive. familiarity is the death of seduction.
+- warriors and worriers. human males form cooperative froups to compete againts out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. this challenges the familiar wisdom that women are more sociable than men and men are more competitive than women. (joyce benenson)
+> *"Love is a flower, friendship a sheltering tree.*
+- men's loyalty is tested when we have everything. womans loyalty is tested when we have nothing.
+- don't do it. you'll regret it. the things you love about him now, you'll hate in a few years. (tom ford movie)
+- relationships start with "can we talk" to "we need to talk"
+- we fall in love with someone because of how they make us feel about ourselves.
+- psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
+> *"Unless you love someone, nothing else makes any sense."
+-- e.e. cummings*
+> *"A man may sometimes be forgiven the kiss to which he is not entitled, but never the kiss he has not the initiative to claim.*
+> *"Jealousy is the face of low self-esteem.*
+> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, "I'm laying bricks." *The second man replied, "I'm building a wall." But the third man said enthusiastically and with obvious pride, "I'm building a cathedral."*
+- i always have this fear that one day you are going to discover that i'm not as f«great as you once thoght i was.
+- once you start disliking someone, everything they do is irritating to you.
 - Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 - a dirt dish by the sink can be a big marriage problem
 - we're always looking for somebody that looks for us. first parents, then a lover. screens give us 100% attention! tech is a compensation.
 - true, unconditional love is the province of parents and saints. -- naval
+
+> *"The happiest time of a person's life is after his first divorce."
+-- J.K. Galbraith*
+> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."
+-- Warren Farrell (American *Psychologist)*
+> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."
+-- Ronald Colman*
+> *"When a man steals your wife, there is no better revenge than to let him keep her."
+-- Sacha Guitry*
+> *"If men acted after marriage as they do during courtship, there would be fewer divorces > *"and more bankruptcies."
+-- Frances Rodman*
+> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."
+-- Charles De Talleyrand-Perigord*
+> *"It doesn't much signify whom one marries, for one is sure to find out next morning it was someone else."
+-- Will Rogers*
+> *"Lonely men seek companionship. Lonely women sit at home and wait. They never meet.*
+> *"Love is the triumph of imagination over intelligence."
+-- H. L. Mencken*
+> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience.*
 -->
 
 > *"We accept the love we think we deserve."  
@@ -951,6 +1075,13 @@ Marry an happy person. Unhappy spouse, unhappy life.
 
 <!--
 - religion simplify ideas.
+- contra factos não ha argumentos. mas contra fé não ha factos.
+> *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."
+-- Nietzsche*
+> *"Fanaticism is always a sign of repressed doubt."  
+-- Carl Jung*
+- modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. it isn't just religion that controls you by declaring you a sinner. -- naval
+- when you renounce somthing, you're stuck to it forever. -- anthony de mello (awareness)
 -->
 
 > *"Science without religion is lame. Religion without science is blind."  
@@ -1002,11 +1133,57 @@ And on the first day, men created god.
 ## On science
 
 <!--
+> *"What is research but a blind date with knowledge?
+-- Will Harvey*
+> *"Nature, to be commanded, must be obeyed."
+-- Francis Bacon*
+
+- technology is applied science
+- science advances one funeral at a time -- max planck
+- theories are explanations, not predictions. prediction comes after the explanation
+- theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
+- science transforms raw materials (resources) into civilization.
+- future proof by avoiding dedicated hardware
+- making something social destroys truth of it because social groups need consensus to survive - otherwise they fight and can't get along - and consensus is all about truth seeking.
+- social sciences need to appeal to society for funding so they are politically motivated.
+- the real diversity that matters is diversity of ideas not diversity of skin color.
+- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition.
+- wild west, the frontire is always filled with crime and scams and weid stuff and people but it's where innovation occurs also.
+- enlightment was a revolution in how people sought knowledge : by trying not to rely on authorithy.
+- aha moment: teh moment of understanding when two smaller truths connect and a greter truth is revealed. -- naval 
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 - science requires skepticism. religion requires belief. -- naval
 - scientists who support silencing opposing voices are actually priests. -- naval
 - look at ideas individually not at the ism
 - the world as your lab. if you do stuff scientifically you can do it right next time also
+1. Engineering is done with numbers. Analysis without numbers is only an opinion.
+2. To design a spacecraft right takes an infinite amount of effort. This is why it's a good idea to design them to operate when some things are wrong .
+3. Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
+4. Your best design efforts will inevitably wind up being useless in the final design. Learn to live with the disappointment.
+7. At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.
+8. In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.
+9. Not having all the information you need is never a satisfactory excuse for not starting the analysis.
+10. When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.
+11. Sometimes, the fastest way to get to the end is to throw everything out and start over.
+12. There is never a single right solution. There are always multiple wrong ones, though.
+13. Design is based on requirements. There's no justification for designing something one bit "better" than the requirements dictate.
+16. The previous people who did a similar analysis did not have a direct pipeline to the wisdom of the ages. There is therefore no reason to believe their analysis over yours. There is especially no reason to present their analysis as yours.
+17. The fact that an analysis appears in print has no relationship to the likelihood of its being correct.
+20. A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
+23. The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
+27. (Varsi's Law) Schedules only move in one direction.
+29. (von Tiesenhausen's Law of Program Management) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.
+30. (von Tiesenhausen's Law of Engineering Design) If you want to have a maximum effect on the design of a new engineering system, learn to draw. Engineers always wind up designing the vehicle to look like the initial artist's concept.
+31. (Mo's Law of Evolutionary Development) You can't get to the moon by climbing successively taller trees.
+32. (Atkin's Law of Demonstrations) When the hardware is working perfectly, the really important visitors don't show up.
+33. (Patton's Law of Program Planning) A good plan violently executed now is better than a perfect plan next week.
+34. (Roosevelt's Law of Task Planning) Do what you can, where you are, with what you have.
+35. (de Saint-Exupery's Law of Design) A designer knows that they have achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
+37. (Henshaw's Law) One key to success in a mission is establishing clear lines of blame.
+40. (McBryan's Law) You can't make it better until you make it work.
+41. There's never enough time to do it right, but somehow, there's always enough time to do it over.
+43. You really understand something the third time you see it (or the first time you teach it.)
+44. (Lachance's Law) "Plenty of time" becomes "not enough time" in a very short time.
 -->
 
 > *"The whole of science is nothing more than a refinement of everyday thinking."  
@@ -1056,6 +1233,9 @@ Artistic death is made by consensus.
 > *"Art washes away from the soul the dust of everyday life."  
 -- Pablo Picasso*
 
+> *"All art is erotic."  
+-- Pablo Picasso*
+
 > *"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings."  
 -- Robert Benchley*
 
@@ -1064,6 +1244,9 @@ Artistic death is made by consensus.
 
 > *"Poetry is what gets lost in translation."  
 -- Robert Frost*
+
+> *"The role of the artist is to ask questions, not to answer them."  
+-- Anton Chekhov*
 
 > *"If you create it for yourself, it’s art. If you create it for others, it’s business."  
 -- Naval Ravikant*
@@ -1075,6 +1258,14 @@ Artistic death is made by consensus.
 
 ---
 ## On aesthetics
+
+<!--
+> *"Limit everything to the essential but do not remove the poetry."  
+-- Dieter Rams*
+> *"The only thing more mysteriously attractive than beauty is corruption."
+-- Octave Mirbeau (?)*
+- our goal is to discover the beauty that is held within the age of upcycling.
+-->
 
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
 -- Antoine de Saint-Exupéry*
@@ -1107,6 +1298,10 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
+- you're spending time to save money when you should be spending money to save time.
+- gold is money. everything else is credit. -- j.p.morgan
+- ultimately is about the total cost of the mortgage. that is teh price of teh home. the closing price is an illusion.
+- inflatios = printing money.
 - I only believe in micro. I don't believe in macro. -- naval
 - (kk) For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.
 Hints:
@@ -1305,7 +1500,14 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 <!--
 - o poeta faz a sintese das coisas
 > *'The biggest lie we tell ourselves is «I dont need to write this down because I will remember it.»' -- Kevin Kelly*
-
+> *"I try not to speak more clearly than I think."
+-- Niels Bohr*
+> *"The media is always accurate, except when they are talking about things I know.*
+> *"Eloquence is logic on fire.*
+> *"The theory of a free press is that truth will emerge from free discussion, not that it will be presented perfectly and instantly in any one account."
+-- Walter *Lippmann*
+> *"I have made this letter longer then usual because I lacked the time to make it shorter."
+-- Blaise Pascal (?)*
 -->
 
 > *"Tears are words that need to be written."  
@@ -1328,7 +1530,15 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 > *"The pen is the tongue of the mind."  
 -- Miguel de Cervantes*
 
+> *"This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.  
+So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader’s ear. Don’t just write words. Write music"  
+-- Gary Provost*
+
 ### On email
+
+<!--
+“Troublesome correspondence that is postponed long enough will eventually become irrelevant.” -- Mark Albrecht
+-->
 
 Hints:
 
@@ -1378,6 +1588,12 @@ News are the first draft of History but he human brain was not designed to proce
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
 - Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
+alan perlis - 1. One man's constant is another man's variable.
+alan perlis - 21. Optimization hinders evolution.
+alan perlis - 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+alan perlis - 63. When we write programs that "learn", it turns out that we do and they don't.
+alan perlis - 105. You can't communicate complexity, only an awareness of it.
+alan perlis - 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
 -->
 
 > *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  

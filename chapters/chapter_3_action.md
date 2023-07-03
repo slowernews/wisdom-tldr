@@ -12,6 +12,34 @@
 
 <!--
 - a busy calendar and a busy mind will destroy your ability to create anything great. -- Naval Ravikant*
+- "If at first, the idea is not absurd, then there is no hope for it." - Albert Einstein
+- "An idea that is not dangerous is unworthy of being called an idea at all." - Oscar Wilde
+- "There is one thing stronger than all the armies in the world, and that is an idea whose time has come." - Victor Hugo
+- "A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man's brow." - Ovid
+- "All achievements, all earned riches, have their beginning in an idea." - Napoleon Hill
+-  "No grand idea was ever born in a conference, but a lot of foolish ideas have died there." - F. Scott Fitzgerald
+-  "Nearly every man who develops an idea works it up to the point where it looks impossible, and then he gets discouraged. That's not the place to become discouraged." - Thomas Edison
+- "It is the essence of genius to make use of the simplest ideas."- Charles Peguy
+- "Nothing is more dangerous than an idea when it is the only one you have." - Emile Chartier
+- "One's mind, once stretched by a new idea, never regains its original dimensions." - Oliver Wendell Holmes
+- "We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unsympathetic to us."- Friedrich Nietzche
+- "I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas." - Albert Einstein
+- "A pile of rocks ceases to be a rock when somebody contemplates it with the idea of a cathedral in mind." - Antoine St. Exupery
+- "I begin with an idea and then it becomes something else." - Pablo Picasso
+- "New ideas pass through three periods: 1) It can't be done; 2) It probably can be done, but it's not worth doing; 3) I knew it was a good idea all along!" - Arthur C. Clarke
+- "Almost all really new ideas have a certain aspect of foolishness when they are just produced." - Alfred North Whitehead
+
+> *"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we *exchange these ideas, then each of us will have two ideas."
+-- George Bernard Shaw*
+> *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
+> *"The best defense against logic is ignorance.*
+> *"Nothing is more powerful than an idea whose time has come."
+-- Victor Hugo*
+> *"An idealist is one who helps the other fellow to make a profit."
+-- Henry Ford*
+> *"The clash of ideas is the sound of freedom.*
+> *"Consistency is the last refuge of the unimaginative."
+-- Oscar Wilde*
 -->
 
 > *"The secret to creativity is knowing how to hide your sources."  
@@ -80,7 +108,9 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 <!--
 - nothing is as good or as bad as it seems.
 > *'Anything you say before the word «but» does not count.' -- Kevin Kelly*
-
+- bragging razor: if someone brags assume half. if someone downplays double it.
+- if you don't know, it's because you are not interested in it. (naval)
+- to doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection. -- henry poincaré
 -->
 
 > *"There are no facts, only interpretations."  
@@ -231,6 +261,8 @@ Truth does not mind to be questioned. A lie does not like being challenged.
 - the most important part of every plan is to plan on the plan not going according to plan
 - what you think is your problem is not your problem, your strategy is - dan munro
 - actions aligned with goals!!!
+> *"The question isn't who is going to let me; it's who is going to stop me."  
+-- Ayn Rand
 -->
 
 > *"All battles are won or lost before they are ever fought."  
@@ -303,6 +335,10 @@ Hints:
 ## On decision making
 
 <!--
+- indecision comes from not knowing what you want. they don't know what matters to them nor have found something larger then themselves to commit to.
+- everything is a trade-off.
+- a good decision is risking little for the opportunity to gain a lot. and vice-versa.
+“If there’s no alternative, there’s no problem.” -- James Burnham
 - for every complex problem there is an answer that is clear, simple, and wrong.
 - (kk) Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise.
 > *"My brother says to never make a big decision before you take a shower."*
@@ -311,6 +347,14 @@ Hints:
 -- Derek Sivers*
 > *"Se não houvesse decisoes eramos todos iguais."  
 -- António Simões*
+“If you have to take it or leave it, leave it.” -- Mike O’Neill
+“To beat the bureaucracy, make your problem their problem.” -- Marshall L. Smith
+“When you are on the bottom you can’t afford to look like you belong there.” -- Mike Downey
+“If they say they love you, trust their behavior. If they say they don’t love you, trust their words.” -- Dr. John H. Dickey
+“Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon.” -- Susan Ertz
+“Don’t ask the barber whether you need a haircut.” -- Daniel S. Greenberg
+“The more crap you put up with, the more crap you are going to get.” -- K.C. Flory
+“There is no exception to the rule that everybody likes to be an exception to the rule.” -- Malcolm Forbes
 
 - people are punished for bad decisions and rarely rewarded for good decisions.
 - Ask yourself “does this decision require fast or slow thinking?” 
@@ -425,6 +469,14 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 ## On starting and timing
 
 <!--
+> *"Brooks' Law: Adding manpower to a late software project makes it later.*
+> *"To take a significant step forward, you must make a series of finite improvements."
+-- Donald J. Atwood, General Motors The greatest force for improvement is *resistance to change."
+-- Eli Goldratt*
+> *"Change is inevitable, it's our job to exploit it.*
+> *"The power of accurate observation is commonly called cynicism by those who have not got it."
+-- George Bernard Shaw*
+
 - blessed are the restless.
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
@@ -477,6 +529,11 @@ Stop making resolutions and start making something. Time is the most precious th
 
 ### On timing
 
+<!--
+> *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
+-- Paulo Coelho*
+-->
+
 > *"About 99% of the time, the right time is right now."  
 -- Kevin Kelly*
 
@@ -488,7 +545,6 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"A good plan, violently executed now, is better than a perfect plan next week."  
 -- General George Patton*
-
 
 ### On procrastination
 
@@ -555,6 +611,10 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 <!--
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
+- if it is important to you you'll find a way, if not you'll find an excuse.
+- priorities are like arms. if you think you have more than a couple, you're either lying or crazy.
+> *"A wealth of information creates a poverty of attention."  
+-- Herbert Simon*
 -->
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
@@ -603,6 +663,10 @@ Busy imply out of control. Lack of time is lack of priorities.
 ### On productivity
 
 <!--
+“Work expands so as to fill the time available for its completion.” -- C. Northcote Parkinson
+
+- nothing will make you more productive than owning your time. nothing will make you less productive than selling it. -- naval
+- say no: «it doesn't feel right to me.» no more explanations are needed (naval)
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don't put your best effort.
 - Strategic laziness as a leverage point.
 - maker days and manager days
@@ -655,6 +719,7 @@ Hints:
 <!--
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
+- never let the things you can't do distract from the things you can.
 - we can define entropy as a measure of the disorder of the universe. 
 > *"Sometimes people don't want to hear the truth because they don't want their illusions destroyed."  
 -- Friedrich Nietzsche*
@@ -689,6 +754,7 @@ Consuming information gives the control freak an illusion of control. He doesn't
 <!--
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
 - There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists. MM
+- life is a balance between holding on and letting go. -- rumi
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  
@@ -720,6 +786,16 @@ Overcompensate. Some people get passion from something they struggled with.
 
 <!--
 - Inertia is why a car does not stop the moment the brakes are applied.
+“Don’t readily ascribe to malice what can be more easily ascribed to incompetence.” -- James Akre
+> *"You never change things by fighting the existing reality. To change something, build a model that makes the existing model obsolete."  
+-- Buckminster Fuller*
+> *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
+-- Socrates*
+- the best way, perhaps the only way, to change others is to become an example. -- naval
+- everybody wants to change others. Nobody wants to be changed. -- naval
+- people think they can't change themselves, but they can. People think they can change others, but they can't. -- naval
+- sometimes is easier to change teh world than to change people's minds. -- naval7
+- regrets are especially painful when you abandon a previous plan and feel like you have to run in teh other direction twice as fast to make up for lost time.
 -->
 
 > *"However beautiful the strategy, you should occasionally look at the results."  
@@ -793,8 +869,17 @@ There are limits on change. Willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
+- true motivations are revealed, not declared.
+- you are strong only where you were broken. -- naval
+- drain opponent morale with unexpected defeat or unexpected strong defence.
+- poker is about maximizing deceptiveness while extracting information from your opponent. -- liv boree
+- it's hard to defeat a high-morale defender with an unlimited supply line. -- naval
+
 > *"All guns are loaded."  
 -- Kevin Kelly*
+
+“Never offend people with style when you can offend them with substance.” -- Sam Brown
+“If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy.” -- Warren Buffett
 
 - every strenght has a complementary weakness. //ex. centralised (no duplication but slower) vs decentralised (faster but chaotic). abstract thinker vs local thinker. as qualidades s defeitos.
 - looking to people when they are bluffing.
@@ -851,6 +936,7 @@ Hints:
 - the best way to get someone's attention is to stop giving them yours.
 > *"If you don't care to be liked, they can't touch you."  
 -- Naval Ravikant*
+- civilized war: please the master and positive relationship with servants. if you appear too ambitious they'll bring you down.
 -->
 
 > *"We catch more flies with honey than vinegar."*
@@ -892,6 +978,10 @@ Hints:
 -- Kevin Kelly*
 
 ### On deceiving 
+
+<!--
+- the first principle is that you must not fool yourself - and you are the easiest person to fool. -- richard feynman
+-->
 
 > *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
 -- Hannah Arendt*
@@ -1140,6 +1230,19 @@ However people who forgive easily are taken for granted.
 -- Jodi Picoult*
 
 ### On revenge
+
+<!--
+> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)
+-- Robert A. Heinlein, Notebooks of Lazarus*
+> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."
+-- Seneca*
+> *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."
+-- George Smith Patton*
+> *"To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting."
+-- Sun Tzu, *300 B.C.*
+> *"Summer grass > *"all that's left of warrior's dreams."
+-- Basho*
+-->
 
 > *"An eye for an eye will only make the whole world blind."  
 -- Mahatma Gandhi*

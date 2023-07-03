@@ -26,6 +26,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On accountability](/chapters/chapter_1_self.md#on-accountability)
 - [On gratitude](/chapters/chapter_1_self.md#on-gratitude)
 - [On respect](/chapters/chapter_1_self.md#on-respect)
+- [On agency](/chapters/chapter_1_self.md#on-agency)
 
 *On growth*
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
@@ -150,7 +151,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## TL;DR
+## TLDR
 
 > *"Fuck, don"t give a fuck and don"t be fucked over."*
 

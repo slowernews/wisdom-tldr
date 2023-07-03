@@ -19,6 +19,10 @@
 -- Ghandi*
 - you are what you do, not what you say you’ll do -- carl jung
 - what we think, we become. -- buddha
+- you are your options.
+> *"You goal in life is to be able to say on teh day before you die taht you have fully become yourself."  
+-- Kevin Kelly*
+- i'm not going to be the most sucessful person on teh planet, nor do i want to be. I just want to be teh most successful version of myself while working the least hard possible. -- naval
 -->
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."
@@ -80,10 +84,13 @@ You must make the conscious decision that you are going to change your story. No
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 - Best Effort + Surrender = DESTINY
 - The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
+- we say we try to get better but if look at your behaviour you'll see you actually are trying to to stay the same.
 
 1. Put Your Happiness Before Goals
 4. Focus on Financial Freedom First
 5. Pick One Thing and Stick With it to Completion
+
+- move to a place that feels strange until it feels like home. constantly learning and growing. then do it again, pursuing disconfort, until teh whole world is my home. -- derek sivers
 -->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."
@@ -189,8 +196,10 @@ Hints:
 - Happiness is outside of my comfort zone.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
 - to be happy is to be ashamed.
-
-
+- the richer you get the more expensive happiness becomes
+- we only stay happy, productive and inspired when we uncover our true personality.
+> *"Almost nothing material is needed for a happy life, for he who has understood existence."  
+-- Marcus Aurelius
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."
