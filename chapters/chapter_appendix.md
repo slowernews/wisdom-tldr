@@ -216,6 +216,8 @@ Our present (in)actions will compound into the future we will get – that’s a
 ## On growing old
 
 <!--
+> *"It takes a very long time to become young."  
+-- Pablo Picasso*
 “As a grown man you should know better than to go around advising people.” -- Bertolt Brecht
 > *"Old age is too high a price to pay for maturity.*
 > *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."
@@ -475,6 +477,8 @@ People say they want to be famous to impact the world, often what they want is t
 -- M. Vázquez Montalban*
 - random é a bruxaria - proporçoes random - patterns. everything is a pattern. no pattern is random
 - threats x vulnerabilities = risk
+> *"Luck is what happens when preparation meets opportunity."  
+-- Seneca*
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -955,6 +959,10 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 ## On lovers
 
 <!--
+> *"The first sign of love: for men is timidity, in women it is courage."  
+-- Voltaire
+> *"What is love? Love is teh absence of judgement."  
+-- Dalai Lama*
 - arguing and insecurity is anti-seductive. familiarity is the death of seduction.
 - warriors and worriers. human males form cooperative froups to compete againts out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. this challenges the familiar wisdom that women are more sociable than men and men are more competitive than women. (joyce benenson)
 > *"Love is a flower, friendship a sheltering tree.*
@@ -1082,6 +1090,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Carl Jung*
 - modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. it isn't just religion that controls you by declaring you a sinner. -- naval
 - when you renounce somthing, you're stuck to it forever. -- anthony de mello (awareness)
+> *"My religion is simple, my religion is kindness."  
+-- Dalai Lama*
 -->
 
 > *"Science without religion is lame. Religion without science is blind."  
@@ -1508,6 +1518,8 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 -- Walter *Lippmann*
 > *"I have made this letter longer then usual because I lacked the time to make it shorter."
 -- Blaise Pascal (?)*
+> *"The purpose of literature is to turn blood into ink."  
+-- T.S.Eliot*
 -->
 
 > *"Tears are words that need to be written."  

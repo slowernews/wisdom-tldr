@@ -499,6 +499,8 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On feedback and mentorship
 
 <!--
+> *"A critic is a legless man who teaches running."  
+-- Channing Pollock
 - what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
 - take feedbak from nature and markets, not from people. -- Naval Ravikant*
 - a good scare is a great error-correcting mechanism. -- Naval Ravikant*
@@ -862,6 +864,8 @@ Hints:
 ## On following the herd
 
 <!--
+> *"Hundreds of billions of dollars are spens every year to control teh public mind."  
+-- Noam Chomsky*
 - in our infinite ignorance we are all equal. -- popper
 > *"One cow breaks the fence and a dozen leap it"  
 -- Scottish Gaelic proverb

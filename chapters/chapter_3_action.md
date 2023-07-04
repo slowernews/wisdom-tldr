@@ -11,6 +11,7 @@
 ## On creativity
 
 <!--
+- creativity is subtraction.
 - a busy calendar and a busy mind will destroy your ability to create anything great. -- Naval Ravikant*
 - "If at first, the idea is not absurd, then there is no hope for it." - Albert Einstein
 - "An idea that is not dangerous is unworthy of being called an idea at all." - Oscar Wilde
@@ -24,8 +25,8 @@
 - "One's mind, once stretched by a new idea, never regains its original dimensions." - Oliver Wendell Holmes
 - "We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unsympathetic to us."- Friedrich Nietzche
 - "I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas." - Albert Einstein
-- "A pile of rocks ceases to be a rock when somebody contemplates it with the idea of a cathedral in mind." - Antoine St. Exupery
-- "I begin with an idea and then it becomes something else." - Pablo Picasso
+- "A pile of rocks ceases to be a rock when somebody contemplates it with the idea of a cathedral in mind." -- Antoine St. Exupery
+- "I begin with an idea and then it becomes something else." -- Pablo Picasso
 - "New ideas pass through three periods: 1) It can't be done; 2) It probably can be done, but it's not worth doing; 3) I knew it was a good idea all along!" - Arthur C. Clarke
 - "Almost all really new ideas have a certain aspect of foolishness when they are just produced." - Alfred North Whitehead
 
@@ -106,6 +107,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ## On analysis
 
 <!--
+> *"There are no facts, only interpretations."  
+-- Friedrich Nietzsche*
 - nothing is as good or as bad as it seems.
 > *'Anything you say before the word «but» does not count.' -- Kevin Kelly*
 - bragging razor: if someone brags assume half. if someone downplays double it.
@@ -225,8 +228,13 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ### On truth
 
 <!--
-> *'The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you.' -- Kevin Kelly*
-
+> *'The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you.'  
+-- Kevin Kelly*
+> *"A lie has speed but truth has endurance."  
+-- Edgar J. Mohn*
+> *"A lie has many variations, the truth none."  
+-- African proverb*
+- In a world of propaganda, the truth is always a conspiracy.
 -->
 
 Truth does not mind to be questioned. A lie does not like being challenged.
@@ -469,6 +477,8 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 ## On starting and timing
 
 <!--
+> *"Action is the foundational key to all success."  
+-- Pablo Picasso*
 > *"Brooks' Law: Adding manpower to a late software project makes it later.*
 > *"To take a significant step forward, you must make a series of finite improvements."
 -- Donald J. Atwood, General Motors The greatest force for improvement is *resistance to change."
@@ -476,6 +486,8 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 > *"Change is inevitable, it's our job to exploit it.*
 > *"The power of accurate observation is commonly called cynicism by those who have not got it."
 -- George Bernard Shaw*
+> *"Action expresses priorities."  
+-- Gandhi*
 
 - blessed are the restless.
 - you always throw out your first pancake - primeiro milho é para os pardais
@@ -576,6 +588,11 @@ Hints:
 
 ---
 ## On speed and direction
+
+<!--
+> *"I'm a slow walker but I never walk back."  
+-- Abraham Lincoln*
+-->
 
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker*

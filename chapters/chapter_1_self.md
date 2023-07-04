@@ -122,6 +122,8 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 ## On accountability
 
 <!--
+> *"To be trusted is a greater compliment than being loved."  
+-- George Mcdonald*
 > *"Who does not trust enough will not be trusted."
 -- Lao Tsu*
 > *"Love your country, but never trust its government."
@@ -208,6 +210,9 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
+
+> *"The blind can't see. The proud will not."  
+-- Russian proverb*
 -->
 
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  
@@ -294,6 +299,8 @@ A way to humble yourself is to put you in the position of being the weakest pers
 > *"You'll never be criticized by someone who is doing more than you. You'll always be critized by someone who is doing less. Remember that."  
 -- Denzel Washington*
 - don't settle and don't struggle. life is what flows in between. -- naval
+> *"The longer the tongue, the shorter the hands."  
+-- Czech proverb*
 -->
 
 Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
@@ -1191,6 +1198,10 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 
 <!--
 epople use it as a badeg of honour to convince themselves that they have high standards but in reality they rarely produce high quality results. perfectionism is a mask for various fears, including fear of failure, fear of being judged and fear of commitment.
+> *"Have no fear of perfection. You'll never reach it."  
+-- Salvador Dali*
+> *"Perfectionism is teh fear of being criticized."  
+-- Caroline Myss*
 -->
 
 > *"The perfect is the enemy of the good."  

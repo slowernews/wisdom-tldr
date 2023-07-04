@@ -91,6 +91,10 @@ You must make the conscious decision that you are going to change your story. No
 5. Pick One Thing and Stick With it to Completion
 
 - move to a place that feels strange until it feels like home. constantly learning and growing. then do it again, pursuing disconfort, until teh whole world is my home. -- derek sivers
+> *"You meet your destiny on the road you take to avoid it."  
+-- Carl Jung*
+> *"I am free and that is why I am lost."  
+-- Franz Kafka*
 -->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."
