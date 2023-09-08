@@ -81,6 +81,7 @@ You must make the conscious decision that you are going to change your story. No
 ## On finding your path
 
 <!--
+- old keys won't open new doors.
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 - Best Effort + Surrender = DESTINY
 - The Things That Scare You the Most Are the Things You Most Need to Do. mitigate risks. some people just have larger comfort zones.
@@ -115,6 +116,13 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 -- Mark Manson*
 
 ### How to design a life?
+
+<!--
+The meaning of life is to find your gift. The purpose of life is to give it away. -- Pablo Picasso
+
+> *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
+-- Rudyard Kipling*
+-->
 
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."
 -- Jordan Peterson*
@@ -204,6 +212,7 @@ Hints:
 - we only stay happy, productive and inspired when we uncover our true personality.
 > *"Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius
+- doing what you like is freedom. liking what you do is happiness.
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."

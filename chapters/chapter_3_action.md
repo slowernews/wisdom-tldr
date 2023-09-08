@@ -11,6 +11,8 @@
 ## On creativity
 
 <!--
+> *"The ability to see order in chaos is called creativity."  
+-- Simon Sinek*
 - creativity is subtraction.
 - a busy calendar and a busy mind will destroy your ability to create anything great. -- Naval Ravikant*
 - "If at first, the idea is not absurd, then there is no hope for it." - Albert Einstein
@@ -114,6 +116,7 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 - bragging razor: if someone brags assume half. if someone downplays double it.
 - if you don't know, it's because you are not interested in it. (naval)
 - to doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection. -- henry poincaré
+- i don't trust words. i even questin actions. but i never doubt patterns.
 -->
 
 > *"There are no facts, only interpretations."  
@@ -235,6 +238,9 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"A lie has many variations, the truth none."  
 -- African proverb*
 - In a world of propaganda, the truth is always a conspiracy.
+- Exactitude in not truth. -- Henry Matisse
+- there are 3 truths: my truth, your truth and teh truth. -- chinese proverb
+- it is easier for teh world to accept a simple lie than a complex truth. -- alexis de tocqueville
 -->
 
 Truth does not mind to be questioned. A lie does not like being challenged.
@@ -271,6 +277,11 @@ Truth does not mind to be questioned. A lie does not like being challenged.
 - actions aligned with goals!!!
 > *"The question isn't who is going to let me; it's who is going to stop me."  
 -- Ayn Rand
+> *"The wise warrior avoids the battle."  
+-- Sun Tzu*
+> *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
+-- Descartes
+- quality is the best business plan
 -->
 
 > *"All battles are won or lost before they are ever fought."  
@@ -338,11 +349,13 @@ Hints:
 
 
 
-
 ---
 ## On decision making
 
 <!--
+- in the small matters trust the mind, in the large ones the heart. -- sigmund freud
+> *"The cost of being wrong is less than the cost of doing nothing."  
+-- Seth Godin*
 - indecision comes from not knowing what you want. they don't know what matters to them nor have found something larger then themselves to commit to.
 - everything is a trade-off.
 - a good decision is risking little for the opportunity to gain a lot. and vice-versa.
@@ -489,6 +502,7 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 > *"Action expresses priorities."  
 -- Gandhi*
 
+- the day you decide to do it is your lucky day. -- japanese proverb*
 - blessed are the restless.
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
@@ -544,6 +558,9 @@ Stop making resolutions and start making something. Time is the most precious th
 <!--
 > *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
 -- Paulo Coelho*
+> *"While we wait for life, life passes."  
+-- Seneca*
+- The best time to plant a tree was 20 years ago. The second best time is right now. -- chinese proverb
 -->
 
 > *"About 99% of the time, the right time is right now."  
@@ -632,6 +649,8 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 - priorities are like arms. if you think you have more than a couple, you're either lying or crazy.
 > *"A wealth of information creates a poverty of attention."  
 -- Herbert Simon*
+- if you want a well only dig in one place -- korean proverb
+- learn to be indifferent to what makes no difference. -- marcus aurelius
 -->
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
@@ -702,7 +721,7 @@ Getting a lot of unnecessary things done is not productivity, it’s stupidity.
 Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don't need to optimise everything. 20% of your effort will give you 80% of output and it may be more than enough. 
 
 Hints:
-
+/
 - Protect your time like your money. Protect your hours of real work. Take advantage of early hours in the day.
 - Focus on one to three outcomes per day (include one important but not urgent task) and tackle the most important one in the morning. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place.
 - 80/20 is fractal: If 20% of the effort creates 80% of the value, 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do may create 64% of the benefits!
@@ -802,6 +821,7 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
+- grow also feels like loss
 - Inertia is why a car does not stop the moment the brakes are applied.
 “Don’t readily ascribe to malice what can be more easily ascribed to incompetence.” -- James Akre
 > *"You never change things by fighting the existing reality. To change something, build a model that makes the existing model obsolete."  
@@ -813,6 +833,7 @@ Overcompensate. Some people get passion from something they struggled with.
 - people think they can't change themselves, but they can. People think they can change others, but they can't. -- naval
 - sometimes is easier to change teh world than to change people's minds. -- naval7
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in teh other direction twice as fast to make up for lost time.
+- if past history was all there was about the game, the richest people would be librarians. - warren Buffett
 -->
 
 > *"However beautiful the strategy, you should occasionally look at the results."  
@@ -954,6 +975,7 @@ Hints:
 > *"If you don't care to be liked, they can't touch you."  
 -- Naval Ravikant*
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they'll bring you down.
+
 -->
 
 > *"We catch more flies with honey than vinegar."*
@@ -998,6 +1020,11 @@ Hints:
 
 <!--
 - the first principle is that you must not fool yourself - and you are the easiest person to fool. -- richard feynman
+- they muddy the water, to make it seem deep. -- Friedrich Nietzsche
+- there are 2 rules in life. nr. one: never give out all the information.
+> *"I don't know why people are so keen to put the details of their private life in public; they forget that invisibility is a superpower."  
+-- Banksy*
+- have more than you show, speak less than you know. -- william shakespeare
 -->
 
 > *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
@@ -1066,7 +1093,7 @@ Hints:
 
 <!--
 - the closer you are to the truth, the more silent you become inside. -- Naval Ravikant*
-- sometimes people dont want to hear the truth because they don't want their illusions destroyed -- friedrich nietzsche
+- sometimes people dont want to hear the truth because they don't want their illusions destroyed -- Friedrich Nietzsche
 -->
 
 ### On mirroring
@@ -1122,9 +1149,6 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"Ultimately the only peace and security you can hope for from your enemies is their disappearance."*
 
 > *"You finished ahead of time, that means you forgot something."*
-
-> *"Difficulties increase the nearer we come to our aim."  
--- Goethe*
 
 > *"All endings are also beginnings. We just don’t know it at the time."  
 -- Mitch Albom*
@@ -1199,6 +1223,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 - if you don't reconcile you're postponing war. nem todos os problemas se resolvem c o tempo.
 - ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
 - you only get disapointed because you had wrong opinion about someone-something. there's no finishing line. motinvation is what happens when you're not afraid. you reject yourself with your explantaion of what happened.
+- violence is the last refuge of teh incompetent -- isaac asivov
 -->
 
 > *"It only hurts when you don’t have time to prepare for the fall."  
@@ -1259,6 +1284,8 @@ However people who forgive easily are taken for granted.
 -- Sun Tzu, *300 B.C.*
 > *"Summer grass > *"all that's left of warrior's dreams."
 -- Basho*
+> *"Before you embark on a journey of revenge, dig two graves."  
+-- Confucius*
 -->
 
 > *"An eye for an eye will only make the whole world blind."  

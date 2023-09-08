@@ -29,10 +29,16 @@ Speak less and listen more. Listening is powerful.
 Be interested to be interesting.
 
 <!--
+> *"If you want to be interesting, be interested."  
+-- David Ogilvy*
+> *"Know how to listen and you will profit even from those who talk badly."  
+-- Plutarch*
 - don't debate at all. just listen. the point of a conversation is not to win.
 - Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 - a loucura é a incapacidade de comunicar-se
 > *"A wise man said, “Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”*
+> *"A fool is known by his speech, and a wyse man by silence."  
+-- Pythagoras*
 -->
 
 Hints:
@@ -341,6 +347,21 @@ Do something that most people think is hard. If you try something easy, there wi
 ## On selling, negotiation and price
 
 <!--
+- my prices are based on my talent, not your budget.
+- sell the problem you solve, not the product you have.
+- don't find costumers for your products, find products for your costumers. -- seth godin
+> *"Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need."  
+-- Chuck Palahniuk*
+> *" Nobody reads advertising. People read what interests them, and sometimes it's an ad."  
+-- Howard Luck Gossage*
+> *"Stop selling, start helping."  
+-- Zig Ziglar*
+> *"If it doesn't sell, it isn't creative."  
+-- David Ogilvy*
+> *"If you can't advertise yourself, what hope have you being able to advertise anything else."  
+-- David Ogilvy*
+> *"You can't bore people into buying your product."  
+-- David Ogilvy*
 > *"Advertising serves not so much to Advertise products as to promote consumption as a way of life."
 -- Carl Lash (?), 1978*
 > *"You can tell the ideals of a nation by its advertisements."
@@ -506,6 +527,8 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 - a good scare is a great error-correcting mechanism. -- Naval Ravikant*
 - remove grading to see who is really interested in the topic. -- Naval Ravikant*
 - if something is to early to criticize it's also too early to evangelize. -- kelsey hightower
+> *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
+-- Winston Churchill*
 -->
 
 > *"You don't need mentors, you need action."  
@@ -520,6 +543,12 @@ Feedback from mentors speeds up improvement. Even if you can't understand the lo
 
 ### How to find mentors?
 
+<!--
+- to know the road ahead ask those coming back. -- chinese proverb
+> *"When the student is ready the teacher appears. When the student is truly ready the teacher disapeers."  
+-- lao Tzu*
+-->
+
 Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *"Don’t follow your mentors; follow your mentors’ mentors."  
@@ -530,7 +559,7 @@ Your father is your first mentor.
 You should be a mentor yourself. Be generous and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
 
 > *"One repays a teacher badly if one remains only a pupil."  
--- Nietzsche*
+-- Friedrich Nietzsche*
 
 > *"A society grows great when old men plant trees whose shade they know they shall never sit in."  
 -- Greek proverb*
@@ -630,6 +659,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 <!--
 - if you can afford the dinner you can afford the tip.
+- a bit of frangance clings to the hand that gives flowers. -- chinese proverb
 -->
 
 > *"No one has ever become poor by giving."  
@@ -681,6 +711,10 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 -- Jorge Luis Borges*
 - Care about what other people think and you will always be their prisoner. -- lao tzu
 > *"Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid."*
+> *"If you want to know who controls you, look at who you are not allowed to criticize."  
+-- Voltaire*
+> *"Nothing strengthens authority so much as silence."  
+-- leonardo da Vinci
 -->
 
 Everything is hierarchy. Only comedians can speak the truth without consequences. To see who rules you, is the person you are not allowed to criticise.
@@ -707,6 +741,16 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+- law is not a moral compass. teh people who hid anne frank were breaking the law. The people who killed her were following it.
+> *"Fascism is cured by reading, and racism is cured by traveling."  
+-- Miguel de Unamuno
+> *"The price of apathy towards public affairs is to be ruled by evil men."  
+-- Plato*
+> *"The urge to save humanity is almost always a false front for the urge to rule it."  
+-- H. L. Mecken*
+> *"Journalism is printing what someone else doesn't want printed. Everything else is public relations."  
+-- George Orwell*
+- insisting in your rights without acknowledging your responsabilities isn't freedom is adolescence
 - communism isn't evil, it's foolish. in teh same way that unrestricted capitalism is foolish if you strive to make everyone's lives better.
 - hard times create strong man, strong man create good times. good times create weak men. weak men create weak times.
 - it's just human nature that if i get to decide who get sthe gold it is gosng o be my friends,  family and people i like.
@@ -864,7 +908,8 @@ Hints:
 ## On following the herd
 
 <!--
-> *"Hundreds of billions of dollars are spens every year to control teh public mind."  
+- the less people know, the more stubbornly they know it -- osho
+> *"Hundreds of billions of dollars are spens every year to control the public mind."  
 -- Noam Chomsky*
 - in our infinite ignorance we are all equal. -- popper
 > *"One cow breaks the fence and a dozen leap it"  
@@ -977,7 +1022,14 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 <!--
 > *"A man is as big as the things that make him angry."  
 -- Winston Churchill
--->			
+> *"You can easily judge the character of a man by how he treats those who can do nothing for him."  
+-- Goethe*
+- a drunk man's words, are a sober man's thoughts -- italian proverb
+> *"Nearly all men stand adversity. if want to test a man's character, give him power."  
+-- Abraham Lincoln
+> *"We don't judge people when we feel good about ourselves."  
+-- Brené Brown*
+-->
 
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*
@@ -1002,6 +1054,7 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 ## On opponents and allies
 
 <!--
+- the enemy is fear. We think it is hate, but it is fear. -- Ghandi
 “The world is divided between victims and predators, and you have to defend yourself against both.” -- Florenz Baron
 - the worst thing about betrayal is that it never comes from your enemies. - the godfather
 - when working surround yourself with people more sucessful than you. when playing surround yourself with people happier than you. -- naval
@@ -1012,6 +1065,8 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 -- Trump*
 - heros are your idealized selfes
 - understand the difference of an adversary and an enemy to not accumulate enemys.
+- who lies for you will lie against you. -- bosnian proverb
+- the best fighter is never angry. -- lao tzu
 -->
 
 > *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
@@ -1040,6 +1095,11 @@ Easy players are often just deceiving you. However - if you can identify them - 
 -- Albert Einstein*
 
 ### On desperate opponents
+
+<!--
+fear can make a donkey attack a lion. -- arab proverb
+necessity knows no law -- italian proverb
+-->
 
 Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
@@ -1072,6 +1132,12 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 -- Abraham Lincoln*
 
 ### On allies
+
+<!--
+- I learned a long time ago the wisest thing I can do is be on my side. -- maya angelou
+- united we are rock, divided we are sand. -- african proverb
+- hungry dogs are never loyal
+-->
 
 The human strenght is our ability to cooperate. Heros are fictional stories.
 
@@ -1130,6 +1196,7 @@ You’re either part of the solution or part of the problem.
 
 <!--
 - Consensus happens just in the beginning and in the end of something.
+- if someone is copying you, you won!
 -->
 
 > *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
@@ -1184,10 +1251,14 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On leadership
 
 <!--
+> *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
+-- Rumi*
 > *"To lead people, you must follow behind."
 -- Lao Tsu*
 > *"No one can make you feel inferior without your permission."
 -- Eleanor Roosevelt*
+> *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
+-- Alexander teh great
 
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - the organization is always modelling the leader. military leader don't have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
@@ -1200,7 +1271,6 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 -- Lao Tzu
 > *"A great man is hard on himself; a small man is hard on others."  
 -- Confucius
-> *""  
 - Only those who do not seek power are qualified to hold it. -- plato
 - if you wish to control others you must control yourself. -- miyamoto musashi
 - the leader doesn't take charge of the tribe. The leader takes responsability for the tribe. -- naval

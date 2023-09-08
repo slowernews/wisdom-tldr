@@ -31,6 +31,9 @@ don't build your castle in other peoples kingdom's
 -- Patrick Moynihan*
 > *"We all have enough strength to endure the misfortunes of other people."
 -- La Rochefoucauld*
+- bees don't waste their time explaining to flies that flowers taste better than shit.
+> *"Care about other people think and you will always be their prisoner."  
+-- Lao Tzu*
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -47,7 +50,7 @@ Telling *your* truth is not being selfish. What is more selfless? Making sure th
 > *"I think the reward for conformity is that everyone likes you except yourself."  
 -- Rita Mae Brown*
 
-> *"I can’t give you the formula for success, but I can give you the formula for failure, which is: try to please everybody."  
+> *"I can’t give you the formula for success, but  Ican give you the formula for failure, which is: try to please everybody."  
 -- Herbert Swope*
 
 > *"That’s the problem with putting others first: you’ve taught them you come second."*
@@ -90,6 +93,9 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 - honesty is an antidote to impostor syndrome. 
 - you are shaped by how you see others seeing you
 - what do you really despise? by this you are truly known. -- frank herbert
+> *"Inside every cynical person, there is a disappointed idealist."  
+-- George Carlin*
+- you're no under no obligation to be the same person you were 5 minutes ago. -- alan watts
 -->
 
 > *"I'd rather be hated for who I am, than loved for who I am not."  
@@ -133,7 +139,8 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"The more we disagree, the more chance there is that at least one of us is right.*
 > *"Tell the truth and run."
 -- Yugoslav proverb*
-
+- ther is no greter fraud than the promise not kept -- gaelic proverb
+- every damn thing is your own fault, if you are any good.
 - chi sei? sono l'evoluzione di tutti i miei errori.
 - dishonesty is a reaction to fear.
 - bravery is learned -> micro-bravery, start small
@@ -202,6 +209,9 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 ## On gratitude
 
 <!--
+> *"Dead people receive more flowers than the living ones because regret is stronger than gratitude."  
+-- Anne Frank*
+
 > *"A man's character is his fate."  
 -- Heraclitus*
 
@@ -213,6 +223,8 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 
 > *"The blind can't see. The proud will not."  
 -- Russian proverb*
+
+- I opened two gifts this morning. They were my eyes.
 -->
 
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  
@@ -249,6 +261,7 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 <!--
 - you might think you want a fancy car or a nice watch. but what you probably want is respect and admiration- the psychology of money
 - virtue signaling is popular because it let anyone, regardless of objective merit, go on an ego trip. -- naval
+- you will earn teh respect of all if you begin earning the respect of yourself. -- rufus
 -->
 
 > *"Everyone you will ever meet knows something you don’t."  
@@ -287,6 +300,9 @@ A way to humble yourself is to put you in the position of being the weakest pers
 ## On agency
 
 <!--
+- the seed of all evil is lazyness. - welsh proverb
+- talkers aren't stromg. teh strong don't talk. -- myanmaran proverb
+- work is the medecine for poverty -- yoruba proverb
 - choose inspiration over envy. -- naval
 - it's on documentation. If it's not add it.
 > *"The mind gives up before the body." -- Naval ravikant
@@ -301,6 +317,8 @@ A way to humble yourself is to put you in the position of being the weakest pers
 - don't settle and don't struggle. life is what flows in between. -- naval
 > *"The longer the tongue, the shorter the hands."  
 -- Czech proverb*
+> *"A man dies when he stops working."  
+-- Hebrew proverb
 -->
 
 Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
@@ -333,6 +351,7 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 - "All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride." - Sophocles
 - "You can't go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
 - "Anything I cannot transform into something marvelous, I let go." - Anais Nin
+- without deviation from the norm, progress is not possible -- frank zappa
 -->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
@@ -391,7 +410,7 @@ if you are not failing every now and again, it's a sign you're not doing anythin
 -- Francis Bacon*
 > *"Bershere's Formula for Failure: There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody.*
 > *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."
--- Nietzsche, The Dawn, 1881*
+-- Friedrich Nietzsche, The Dawn, 1881*
 > *"Education is what survives when what has been learnt has been forgotten."
 -- B.F. Skinner*
 > *"The right way to do things is not to try to persuade people you're right but to challenge them to think it through for themselves."
@@ -465,7 +484,7 @@ Hints:
 > *"Pain plus reflection equals progress."  
 -- Ray Dalio*
 > *"All truly great thoughts are conceived by walking."  
--- Nietzsche*
+-- Friedrich Nietzsche*
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 - sabios c six packs"
 - success is the worst teacher
@@ -488,6 +507,9 @@ Hints:
 - Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
 - ask yourself these three questions to truly uncover the root cause of the issues in your life: 1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back. 2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle. 3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
 - Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.) Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. !!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!! learn language: films, manga, phrasebook, dictionary, flashcards. Consider a new language like a new sport. analogy. advantages and train. learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible. The apple is red. It is John’s apple. I give John the apple. I give John the apple. We give him the apple. He gives it to John. She gives it to him. I must give it to him. I want to give it to her.
+
+> *"Play is the highest form of research."  
+-- Albert Einstein*
 -->
 
 ### Improving by experience
@@ -714,6 +736,7 @@ Hints:
 ## On stress and health
 
 <!--
+- stress is who you think you should be. peace is who you are.
 - there's nothing more therapeutic than action.
 - life hack: when in bed meditate. either you'll have a deep meditation or fall asleep. victory either way. -- naval
 - yoga cultivates peace of body. meditation cultivates peace of mind. -- naval
@@ -722,6 +745,9 @@ Hints:
 - teh modern mind is overestimulated and the modern body is understimulated and overfed. meditation, exerciseand fasting restore an ancient balance- -- naval
 - all modern deseases are diseases of abundance. we punish ourselves by constantly entertaining our minds and bodies. -- naval
 - meditation isn't hard. all you have to do is sit and do nothing. just sit down. close your eyes and say:" i'm just going to give myself a break for an hour. this my hour off from life. this is an hour i'm not going to do anything. -- naval"
+> *"Worrying is like paying a debt you don't owe."  
+-- Mark Twain*
+- the six best doctors: sunshine, water, rest, air, exercise and diet.
 -->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
@@ -732,10 +758,14 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 ### On depression and anxiety
 
 <!--
+- As I began to love myself, my relationship with everyone changed.
+- depression hates a moving target.
 - having to go to school on your birthday and everyone pointing it out.
 - can i ask you a question? 99%people get frightened.
 - anxious persons feel the only way to achieve relaxed certainty is getting new info. but the more you know the more you'll realize you don't know. Then you try to get more and more: information centrifugue.
 
+> *"before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes."  
+-- Sigmund Freud*
 > *"The quality of your mind is the quality of your life."  
 -- Naval Ravikant*
 > *"You won't have inner peace until you give up your war against the world."  
@@ -826,10 +856,18 @@ Hints:
 ## On fear, anger and excuses
 
 <!--
+- nothing in life is to be feared, is. It is only to be understood. -- marie curie
+- fear does not stop death, it stops life
+- the hardest prison to escape is in your own mind.
 - What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+- all excuses are false.
+- fear makes the wolf bigger than he is. -- german proverb
 
 > *"A man who fears suffering is already suffering from what he fears."  
 -- Montaigne*
+
+> *"Fear is incomplete knowledge."  
+-- Agatha Christie*
 -->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
@@ -843,6 +881,10 @@ When you view everything through the lens of fear, you'll tend to stay in retrea
 -- Paulo Coelho*
 
 ### How to overcome fear?
+
+<!--
+- Insecurity is the result of trying to be secure. -- alan watts
+-->
 
 > *"We fear things in proportion to our ignorance of them."  
 -- Christian Nestell Bovee*
@@ -860,6 +902,8 @@ Hints:
 ### On courage
 
 <!--
+> *"It's better to be a restrained monster than a well-behaved coward."  
+-- Jordan Peterson*
 - courage is a form of intelligence not strenght. it's about outwitting your limiting beliefs, irrational fears and insecurities.
 “Without courage there cannot be truth, and without truth there can be no other virtue.” -- Sir Walter Scott
 “Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind.” -- Ralph Waldo Emerson
@@ -887,6 +931,8 @@ William James
 “Keep your fears to yourself but share your courage with others.” -- Robert Louis Stevenson
 “The scars you acquire by exercising courage will never make you feel inferior.” -- Giovanni Battista Cima
 “Knowledge without courage is sterile.” -- Baltasar Gracián
+> *"Fear is a reaction. Courage is a decision."  
+-- Wiston Churchill*
 -->
 
 > *"Life shrinks or expands in proportion to one’s courage."  
@@ -1010,6 +1056,8 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 ## On shame, confidence and validation
 
 <!--
+> *"I was ashamed of myself when I realized that life was a costume party; and I attended with my real face."  
+-- Franz Kafka*
 - money problems are self-confidence problems.
 - to get self aceptance you have to do the unconfortable things that you know you are right.
 - It's a sign of great inner security to be hostile to the unfamiliar
@@ -1020,6 +1068,9 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 
 > *"Shame corrodes the very part of us that believes we are capable of change."  
 -- Brene Brown*
+
+> *"Man is not what he thinks he is, he is what he hides."  
+-- Andre Malraux*
 
 You are not what you think you are: you are what you hide. The things you hate most about yourself are the things you hide from the rest of the world. 
 
@@ -1037,6 +1088,7 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 - self-esteem is just the REPUTATION you have with yourself. you'll always know. -- naval
 - guilt is society's voice speaking in your head. -- naval
 - confidence come from some success. you need some accomplishment to get there.
+- confidence is silent. insecurities are loud.
 -->
 
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  
@@ -1088,6 +1140,10 @@ Hints:
 > *"Arrogance is a smokescreen for insecurity."  
 -- Amy Cuddy*
 
+<!--
+- rudeness is the weak person's imitation of strength -- eric hoffer
+-->
+
 Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, being jealous and insecure does.
 
 Entitlement comes in two forms:
@@ -1109,6 +1165,10 @@ Entitlement comes in two forms:
 <!--
 - believe it and it will be doesn't always work - there are limits to our belief.
 - what limits individuals is the inability to confront reality, to see things for what they truly are.
+> *"Every man takes the limits of his own field of vision for the limits of the world."  
+-- Arthur Schopenhauer*
+> *"Motivation is what gets you started. Habit is what keeps you going."  
+-- Jim Rohn*
 -->
 
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
@@ -1158,6 +1218,9 @@ Hints:
 - the seduction of pessimism: optimism sounds like a sales pitch. pessimism sounds like someone trying to help you.
 - organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
 - entrepreneurs are inherently optimistic beacuse they are rewarded by being optimistic. Intelectuals for being pessimistic.
+- worry gives small things a big shadow -- swedish proverb
+> *"Both optimists and pessimists contribute to society. The optimist invents the aeroplane, the pessimist the parachute."  
+-- George Bernard Shaw*
 -->
 
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
@@ -1202,6 +1265,8 @@ epople use it as a badeg of honour to convince themselves that they have high st
 -- Salvador Dali*
 > *"Perfectionism is teh fear of being criticized."  
 -- Caroline Myss*
+> *"And now that you don't have to be perfect, you can be good."  
+-- John Steinbeck*
 -->
 
 > *"The perfect is the enemy of the good."  
