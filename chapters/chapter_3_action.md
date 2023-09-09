@@ -1173,6 +1173,8 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
 -- Kevin Kelly*
 - sportification of our culture. resistance doesn't imply competition.
+> *"Only the weak are cruel. Gentleness can only be expected from the strong."  
+-- Leo Buscaglia*
 -->
 
 > *"Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat."  

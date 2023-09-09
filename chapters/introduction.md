@@ -23,6 +23,9 @@
 > *"You goal in life is to be able to say on teh day before you die taht you have fully become yourself."  
 -- Kevin Kelly*
 - i'm not going to be the most sucessful person on teh planet, nor do i want to be. I just want to be teh most successful version of myself while working the least hard possible. -- naval
+> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
+-- Abraham Maslow*
+- you often feel tired, not because you 've done too much but because you've done too little of what sparks a light in you.
 -->
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."
@@ -96,6 +99,7 @@ You must make the conscious decision that you are going to change your story. No
 -- Carl Jung*
 > *"I am free and that is why I am lost."  
 -- Franz Kafka*
+
 -->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."
@@ -202,6 +206,8 @@ Hints:
 ## On happiness
 
 <!--
+> *"Happy is he who learns to bear what he cannot change."  
+-- Friedrich Schiller*
 - Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
 - Focus on internal fulfillment not external success

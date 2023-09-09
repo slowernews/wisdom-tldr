@@ -338,6 +338,22 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 
 
 ---
+## On resilience
+
+> *"Our patiente will achieve more than our force."  
+-- Edmund Burke*
+
+> *"Devote the rest of your life into making progress."  
+-- Epictetus*
+
+> *"Continuous improvement is better than delayed perfection."  
+-- Mark Twain*
+
+
+
+
+
+---
 # 1.2 - On growth
 
 ## On comfort and risk
@@ -352,6 +368,7 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 - "You can't go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
 - "Anything I cannot transform into something marvelous, I let go." - Anais Nin
 - without deviation from the norm, progress is not possible -- frank zappa
+- never test the depth of teh river with both feet. -- warren buffett
 -->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
@@ -618,6 +635,10 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 ## On habits and systems
 
 <!--
+> *"Poeple don't decide their future, they decide their habits and their habits decide their futures."  
+-- F. M. Alexander
+> *"Chains of habit are too light to be felt until they are to heavy to be broken."  
+-- Warren Buffett*
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
 - Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
@@ -736,6 +757,13 @@ Hints:
 ## On stress and health
 
 <!--
+> *"Everything that makes you weak, physically, intellectually, and spiritually, reject as poison."  
+-- Swami Vivekananda*
+> *"The wise man accepts his pain, endures it, but does not add to it."  
+-- Marcus Aurelius*
+- exercise is a celebration of what your body can do not a punishment for what you ate
+> *"The soul is healed by being with children."  
+-- Fyodor Dostoyevski*
 - stress is who you think you should be. peace is who you are.
 - there's nothing more therapeutic than action.
 - life hack: when in bed meditate. either you'll have a deep meditation or fall asleep. victory either way. -- naval
@@ -748,6 +776,8 @@ Hints:
 > *"Worrying is like paying a debt you don't owe."  
 -- Mark Twain*
 - the six best doctors: sunshine, water, rest, air, exercise and diet.
+> *"Develop strenght to do bold things, not the strenght to suffer."  
+-- Machiavelli*
 -->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
@@ -758,6 +788,8 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 ### On depression and anxiety
 
 <!--
+> *"A man is as miserable as he thinks he is."  
+-- Seneca*
 - As I began to love myself, my relationship with everyone changed.
 - depression hates a moving target.
 - having to go to school on your birthday and everyone pointing it out.
@@ -856,6 +888,7 @@ Hints:
 ## On fear, anger and excuses
 
 <!--
+- anger is a punishment we give ourselves for someone else's mistake
 - nothing in life is to be feared, is. It is only to be understood. -- marie curie
 - fear does not stop death, it stops life
 - the hardest prison to escape is in your own mind.
@@ -865,9 +898,10 @@ Hints:
 
 > *"A man who fears suffering is already suffering from what he fears."  
 -- Montaigne*
-
 > *"Fear is incomplete knowledge."  
 -- Agatha Christie*
+> *"Any person capable of angering you becomes your master; ha can anger you only you permit yourself being disturbed by him."  
+-- Epictetus*
 -->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
@@ -1056,6 +1090,7 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 ## On shame, confidence and validation
 
 <!--
+- too many people undervalue what they are and overvalue what they are not.
 > *"I was ashamed of myself when I realized that life was a costume party; and I attended with my real face."  
 -- Franz Kafka*
 - money problems are self-confidence problems.
@@ -1079,6 +1114,8 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 ### On confidence and validation
 
 <!--
+> *"The gretaer the outward show, the gretaer the inward poverty."  
+-- J. Krishnamurti*
 > *"Self-confidence is the memory of success."  
 -- David Storey*
 - amazing how not being insecure about an unattractive quality instantly makes you way more attractive.

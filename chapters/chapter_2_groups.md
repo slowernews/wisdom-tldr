@@ -255,6 +255,8 @@ Hints:
 ## On business and entrepreneurship
 
 <!--
+- a business is simply an idea to make other people's lives better. -- richard branson
+- if you can change people's lives you have a business -- richard branson
 - you are not building a product. you are solving a problem. -- naval
 - startups is a theory about something the market wants, but doesn't yet exist. -- naval
 - startups don't die when they run out of cash, they die when the founders run out of energy. -- naval
@@ -520,6 +522,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On feedback and mentorship
 
 <!--
+- don't take criticism from people that you would never go for advice.
 > *"A critic is a legless man who teaches running."  
 -- Channing Pollock
 - what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
@@ -576,6 +579,10 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 ### How to mentor your kids?
 
 <!--
+> *"Nothing affects the life of a child so much as the unlived life of its parent."  
+-- Carl Jung*
+> *"Don't force your children into your ways, for they were created for a time different from your own."  
+-- Plato*
 - the best you can do for a kid is to love their mother
 - we are raising weak men and girls who need validation because their father wasn't there.
 - teenagers = treated like children but expected to act like adults
@@ -660,6 +667,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 <!--
 - if you can afford the dinner you can afford the tip.
 - a bit of frangance clings to the hand that gives flowers. -- chinese proverb
+- attention is the rarest and purest form of generosity -- weil
 -->
 
 > *"No one has ever become poor by giving."  
@@ -741,6 +749,18 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+> *"I would rather have questions that can't be answered than answers that can't be questioned."  
+-- Richard Feinman*
+> *"Every society honors its live conformists and its dead troublemakers."  
+-- Marshall McLuhan
+> *"Mercy to teh guilty is cruelty to the innocent."  
+-- Adam Smith*
+> *"No snowflake in an avalanche ever feels responsible."  
+-- Voltaire*
+> *"Good pople don't need laws to tell them how to act responsibly, while bad people will find a way around the laws."  
+-- Plato*
+> *"If a law is unjust a man is not only right to disobey it, he is obligated to do so."  
+-- Thomas Jefferson*
 - law is not a moral compass. teh people who hid anne frank were breaking the law. The people who killed her were following it.
 > *"Fascism is cured by reading, and racism is cured by traveling."  
 -- Miguel de Unamuno
@@ -908,6 +928,8 @@ Hints:
 ## On following the herd
 
 <!--
+> *"I have never met a man so ignorant that I couldn't learn anything from him."  
+-- Galileo Galilei*
 - the less people know, the more stubbornly they know it -- osho
 > *"Hundreds of billions of dollars are spens every year to control the public mind."  
 -- Noam Chomsky*
@@ -1029,6 +1051,8 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 -- Abraham Lincoln
 > *"We don't judge people when we feel good about ourselves."  
 -- Brené Brown*
+> *"I'm suspicious of people who don't like dogs, but I trust a dog when it doesn't liek a person."  
+-- Bill Murray*
 -->
 
 > *"Judge a man by his questions, not by his answers."  
@@ -1259,6 +1283,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 -- Eleanor Roosevelt*
 > *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
 -- Alexander teh great
+- you can tell a bully from a leader by how they treat people who disagree with them. -- Miles K. Davis
 
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - the organization is always modelling the leader. military leader don't have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
@@ -1560,6 +1585,9 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
+Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust. -- zig ziglar
+> *"Look for the job that you would take if you didn't need a job."  
+-- Warren Buffett*
 > *"Dont ever work for someone you dont want to become."  
 -- Kevin Kelly*
 - if you can't see yourself working with someone for life, don't work with them for a day.

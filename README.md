@@ -27,6 +27,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On gratitude](/chapters/chapter_1_self.md#on-gratitude)
 - [On respect](/chapters/chapter_1_self.md#on-respect)
 - [On agency](/chapters/chapter_1_self.md#on-agency)
+- [On resilience](/chapters/chapter_1_self.md#on-resilience)
 
 *On growth*
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)

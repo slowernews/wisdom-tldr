@@ -22,6 +22,7 @@
 -- Fyodor Dostoyevsky*
 > *"Nostalgia is a seductive liar."  
 -- george Ball (american politician)
+- never be a prisoner of your past. it was just a lesson not a life sentence.
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
@@ -112,7 +113,9 @@ It’s harder to forget mistakes, past events and the beginning or the end of so
 ## On present
 
 <!--
-- 100 blocks a day -- wait but why  
+- 100 blocks a day -- wait but why
+> *"Stop measuring days by degree of productivity and start experiencing them by degree of presence."  
+-- Alan Watts*
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
@@ -220,6 +223,9 @@ Our present (in)actions will compound into the future we will get – that’s a
 ## On growing old
 
 <!--
+- maturing is realizing how many things don't require your comment.
+> *"If you arrive to my age and nobody thinks well of you, I don't care how big your bank account is, your life is a disaster."  
+-- Warren Buffett*
 > *"Aging is an extraordinary process where you become the person you always should have been."  
 -- David Bowie*
 - everyone wants to live long but, no ones wants to be called old. -- icelandic proverb
@@ -346,6 +352,10 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 -- Naval Ravikant*
 
 ### On geniality
+
+<!--
+- if a man knows more than others he becomes lonely. -- carl jung
+-->
 
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
 -- Ralph Waldo Emerson*
@@ -486,6 +496,8 @@ People say they want to be famous to impact the world, often what they want is t
 ## On luck and risk
 
 <!--
+> *"Live life as if everything is rigged in your favor."  
+-- Rumi*
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
@@ -557,6 +569,7 @@ A beautiful person always see beauty in others.
 <!--
 dress like you're going somewhere better later
 taste may be an instinct for honest signals
+- many complain of their looks but none of their brains. -- yiddish proverb
 -->
 
 
@@ -593,6 +606,9 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
+> *"Hard work is simply the refuge of people that have nothing to do."  
+-- Oscar Wilde*
+- think of each day as a single life. -- Seneca
 - he who buys what he does not need, steals from himself. -- swedish proverb
 - if a little is not enough for you, nothing is. -- epicurus*
 - 3 hobbies: one cretive, one to keep in shape and one to make money
@@ -715,6 +731,8 @@ Hints:
 -- Sahil Bloom*
 > *"Sucess is a lousy teacher. It seduces smart people into thinking they can't lose."  
 -- Bill Gates*
+> *"Strive not to be a success, but rather be of value."  
+-- Albert Einstein*
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -948,6 +966,7 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 ### On friends
 
 <!--
+- it's ok to unfollow people in real life
 - i have nothing to offer anyone, except my own confusion. -- jack kerouac
 - People who genuinely want the best for you are very rare and tehy are usually already wealthy, loved and happy.
 - i don't like taht man. i must get to know him better. -- abraham lincoln
@@ -1012,6 +1031,8 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 ## On lovers
 
 <!--
+> *"You must love in such a way that the person you love feels free."  
+-- Thich Nhat Hanh
 - when poverty comes in the door love goes out of the window. -- english proverb
 - marry someone you can break generational curses with
 - Happy the marriage where the husband is the head and the wife the heart. -- estonian proverb
@@ -1296,6 +1317,7 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 ## On art
 
 <!--
+- creators don't separate from their work, because they are their work.
 > *"No artist tolerates reality."  
 -- Friedrich Nietzsche*
 
@@ -1488,6 +1510,8 @@ Understand:
 
 <!--
 - learning is a treasure that will follow it's owner everywhere. -- chinese proverb
+> *"Education is kindling a flame, not teh filling of a vessel."  
+-- Socrates*
 -->
 
 > *"It's a universal law. Intolerance is teh first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility."  
