@@ -1585,6 +1585,7 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
+- your salary is the bribe they give you to forget your dreams -- Warren Buffett
 Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust. -- zig ziglar
 > *"Look for the job that you would take if you didn't need a job."  
 -- Warren Buffett*

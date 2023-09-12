@@ -13,10 +13,11 @@
 <!--
 - if you hurt people because of their expectations of you, that's their problem. -- naval
 don't build your castle in other peoples kingdom's
+- freedom to -> freedom from -- naval
+- bees don't waste their time explaining to flies that flowers taste better than shit.
+
 > *"What we reason for ourselves may help others. What we reason for others will not help us."  
 -- Naval Ravikant*
-- freedom to -> freedom from -- naval
-
 > *"The more you have to define freedom the less freedom you have."
 -- Alexander Bickel (?)*
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots
@@ -31,7 +32,6 @@ don't build your castle in other peoples kingdom's
 -- Patrick Moynihan*
 > *"We all have enough strength to endure the misfortunes of other people."
 -- La Rochefoucauld*
-- bees don't waste their time explaining to flies that flowers taste better than shit.
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu*
 -->
@@ -75,10 +75,8 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-- i don't wnat to be in environments or people where i have to watch what i say. -- naval
-- everybody wants spirituality. nobody wants the truth. -- naval
-- if you tell teh truth you don't need to reharse anything
-- core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
+- If you tell teh truth you don't need to reharse anything
+- Core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
 - Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
 - Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
 - CHANGE YOUR ACTIONS, NOT YOURSELF
@@ -86,16 +84,25 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 - Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 - You must play by your rules, funnel your weird stuff to give you some advantage.
-- im bad in following a script.
-- i approve of me. i am my word. i keep my word / i take nothing she says seriously, helps me relax.
-- escape competition through authenticity -- naval
-- to be honest speak without identity -- naval
-- honesty is an antidote to impostor syndrome. 
-- you are shaped by how you see others seeing you
-- what do you really despise? by this you are truly known. -- frank herbert
+- I'm bad in following a script.
+- I approve of me. I am my word. I keep my word / I take nothing she says seriously, helps me relax.
+- Honesty is an antidote to impostor syndrome. 
+- You are shaped by how you see others seeing you
+
+> *"Everybody wants spirituality. nobody wants the truth."  
+-- Naval Ravikant*
+> *"I don't wnat to be in environments or people where i have to watch what i say."  
+-- Naval Ravikant*
+> *"What do you really despise? by this you are truly known."  
+-- Frank Herbert
+> *"Escape competition through authenticity."  
+-- Naval Ravikant*
+> *"To be honest speak without identity."  
+-- Naval Ravikant*
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin*
-- you're no under no obligation to be the same person you were 5 minutes ago. -- alan watts
+> *"You're no under no obligation to be the same person you were 5 minutes ago."  
+-- Alan Watts*
 -->
 
 > *"I'd rather be hated for who I am, than loved for who I am not."  
@@ -139,7 +146,21 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"The more we disagree, the more chance there is that at least one of us is right.*
 > *"Tell the truth and run."
 -- Yugoslav proverb*
-- ther is no greter fraud than the promise not kept -- gaelic proverb
+> *"There is no greter fraud than the promise not kept."  
+-- Gaelic proverb*
+> *"the selfish reason to be ethical is that it attracts the other ethical people in the network."  
+-- Naval Ravikant*
+> *"Integrity is when what you think and what you say and what you do are one"  
+-- Naval Ravikant*
+> *"Returns are made on the way up. reputations are made on the way down."
+-- Naval Ravikant*
+> *"Living a life of integrity pays off, but it takes a very long time."
+-- Naval Ravikant*
+> *"Before you can lie to another, you must firt lie to yourself."
+-- Naval Ravikant*
+> *"Intentions don't matter. Actions do. That's why being ethical is hard."
+-- Naval Ravikant*
+
 - every damn thing is your own fault, if you are any good.
 - chi sei? sono l'evoluzione di tutti i miei errori.
 - dishonesty is a reaction to fear.
@@ -147,12 +168,6 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 - Humility With forward action: 'I wasn’t the smartest in X but.."
 - integrity is what you think is what you say, and the same what you do.
 - Be willing to side with the minority.
-- the selfish reason to be ethical is that it attracts the other ethical people in the network. -- naval
-- INTEGRITY is when what you think and what you say and what you do are one -- naval
-- returns are made on the way up. reputations are made on the way down. -- naval
-- living a life of integrity pays off, but it takes a very long time. -- naval
-- before you can lie to another, you must firt lie to yourself. -- naval
-- intentions don't matter. Actions do. That's why being ethical is hard. -- naval
 -->
 
 > *"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
@@ -211,16 +226,12 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 <!--
 > *"Dead people receive more flowers than the living ones because regret is stronger than gratitude."  
 -- Anne Frank*
-
 > *"A man's character is his fate."  
 -- Heraclitus*
-
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich."  
 -- Lao Tzu*
-
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
-
 > *"The blind can't see. The proud will not."  
 -- Russian proverb*
 
@@ -360,15 +371,25 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 
 <!--
 - Stability without Stagnation
-- "The silence between the notes makes the music. And lest we forget, the longer the silence, the more incredibly beautiful and powerful the music when it finally swells and the symphony goes on." -- Brianna West
-- "One doesn't discover new lands without consenting to lose sight of the shore for a very long time." -- Andre Gide
-- "What's right is what's left if you do everything else wrong." - Robin Williams
-- "When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us." - Alexander Graham Bell
-- "All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride." - Sophocles
-- "You can't go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
-- "Anything I cannot transform into something marvelous, I let go." - Anais Nin
-- without deviation from the norm, progress is not possible -- frank zappa
-- never test the depth of teh river with both feet. -- warren buffett
+
+> *"The silence between the notes makes the music. And lest we forget, the longer the silence, the more incredibly beautiful and powerful the music when it finally swells and the symphony goes on."
+-- Brianna West*
+> *"One doesn't discover new lands without consenting to lose sight of the shore for a very long time."
+-- Andre Gide*
+> *"What's right is what's left if you do everything else wrong."
+-- Robin Williams*
+> *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."
+-- Alexander Graham Bell* 
+> *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."
+-- Sophocles*
+> *"You can't go back and change the beginning, but you can start where you are and change the ending."
+-- C.S. Lewis*
+> *"Anything I cannot transform into something marvelous, I let go."
+-- Anais Nin*
+> *"Without deviation from the norm, progress is not possible."
+-- Frank Zappa*
+> *"Never test the depth of teh river with both feet."
+-- Warren Buffett*
 -->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
@@ -418,31 +439,32 @@ Hints:
 ## On improving
 
 <!--
-> *'Rather than steering your life to avoid surprises, aim directly for them.' -- Kevin Kelly*
-doing is learning
-if you are not failing every now and again, it's a sign you're not doing anything very innovative. -- woody allen
-> *'Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.' -- Kevin Kelly*
+- doing is learning
+> *"College is a fountain of knowledge...and the students are there to drink.*
+> *"Time is the best teacher; unfortunately it kills all its students.*
 
+> *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."
+-- Bershere's Formula for Failure*
+> *'Rather than steering your life to avoid surprises, aim directly for them.'
+-- Kevin Kelly*
+> *"If you are not failing every now and again, it's a sign you're not doing anything very innovative."  
+-- Woody Allen
+> *'Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.' -- Kevin Kelly*
 > *"If a man will begin with certainties he shall end in doubts; but if he will be content to begin with doubts he shall end in certainties."
 -- Francis Bacon*
-> *"Bershere's Formula for Failure: There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody.*
 > *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."
 -- Friedrich Nietzsche, The Dawn, 1881*
-> *"Education is what survives when what has been learnt has been forgotten."
--- B.F. Skinner*
 > *"The right way to do things is not to try to persuade people you're right but to challenge them to think it through for themselves."
 -- Noam Chomsky*
 > *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."
 -- T.H. White*
 > *"The mind is not a vessel to be filled but a fire to be kindled."
 -- Plutarch*
-> *"College is a fountain of knowledge...and the students are there to drink.*
 > *"in academia there is much talk, little action. In industry, there is much action, little thought."
 -- Donald Norman*
 > *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients > *"Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I'm pregnant. Who did it?"*
 > *"Examinations are formidable even to the best prepared, for even the greatest fool may ask more than the wisest man can answer."
 -- C.C. Colton*
-> *"Time is the best teacher; unfortunately it kills all its students.*
 > *"The price of success in philosophy is triviality."
 -- C. Glymour*
 > *"My opinions may have changed, but not the fact that I am right."
@@ -500,8 +522,11 @@ Hints:
 -- Kevin Kelly*
 > *"Pain plus reflection equals progress."  
 -- Ray Dalio*
+> *"Play is the highest form of research."  
+-- Albert Einstein*
 > *"All truly great thoughts are conceived by walking."  
 -- Friedrich Nietzsche*
+
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 - sabios c six packs"
 - success is the worst teacher
@@ -524,9 +549,6 @@ Hints:
 - Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
 - ask yourself these three questions to truly uncover the root cause of the issues in your life: 1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back. 2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle. 3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
 - Don’t waste time on more than learning more than a handful of conjugations for primarily first-person singular (I) and second-person singular (you) in the past, present, and future tenses, along with common phrases that illustrate them. Throw in a few auxilaries (to want to V, to need to V, to like to V, etc.) Make it your goal to screw up as often as possible in uncontrolled environments. Explicitly ask friends to correct you and reward them with thanks and praise when they catch you spouting nonsense, particularly the small understandable mistakes. !!! Before you invest (or waste) hundreds and thousands of hours on a language, you should deconstruct it. !!! learn language: films, manga, phrasebook, dictionary, flashcards. Consider a new language like a new sport. analogy. advantages and train. learn conjugations for “helping” verbs like “to want,” “to need,” “to have to,” “should,” etc. In Spanish and many others, this allows you to express yourself with “I need/want/must/should” + the infinite of any verb. Learning the variations of a half dozen verbs gives you access to all verbs. This doesn’t help when someone else is speaking, but it does help get the training wheels off self-expression as quickly as possible. The apple is red. It is John’s apple. I give John the apple. I give John the apple. We give him the apple. He gives it to John. She gives it to him. I must give it to him. I want to give it to her.
-
-> *"Play is the highest form of research."  
--- Albert Einstein*
 -->
 
 ### Improving by experience
@@ -576,6 +598,7 @@ Action, not knowledge, leads to success. If you are not constantly taking action
 
 <!--
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+
 > *"First a punch is just a punch. Then a puch is not only a punch. And finally a punch is justa punch."  
 -- Bruce Lee*
 -->
@@ -639,11 +662,14 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 -- F. M. Alexander
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett*
+> *"It isn't 10k hours that creates outliers, it's 10k iterations."
+-- Naval Ravikant*
+> *"I probably read 1-2 hours a day, and that puts me in the top 0,00001%."
+-- Naval Ravikant*
+
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD: Health & Fitness, Business & Career, Finances, relationships, personal growth	
 - Shut off all work and electronics at least 2 hours before you want to go to sleep, sit down with a pen and a notepad and write down everything that you need to achieve the following day in order of importance. write 1000 words every morning before you do anything else. Learn how to say no, or not to say yes. One new thing: learn at least one new thing everyday. Read, watch a documentary, look around, observe, engage in a conversation. Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
-- it isn't 10k hours that creates outliers, it's 10k iterations. -- Naval Ravikant*
-- I probably read 1-2 hours a day, and that puts me in the top 0,00001%. -- Naval Ravikant*
 - you do not raise to the level of your goals, you fall to the level of your systems.
 - endurance is more relevant than toughness
 -->
@@ -697,14 +723,15 @@ Hints:
 <!--
 - you don't need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
+> *"Conscience is what hurts when everything else feels so good.*
+> *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
+
 > *"Conscience is the inner voice that warns us somebody may be looking."
 -- H.L. Mencken*
-> *"Conscience is what hurts when everything else feels so good.*
 > *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the *opinion of others."
 -- Marcus Aurelius, Meditations*
 > *"No one can make you feel inferior without your consent."
 -- Eleanor Roosevelt*
-> *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
 -->
 
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
@@ -729,14 +756,20 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 Hints:
 
 <!--
-- the best meditation is being curious about the contents of your own mind. -- naval
-- meditation is a good way to measure where you are. -- naval
-- a fit mind is a clear mind -- naval
-- you are a story you tell yourself -- naval
-- meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body. -- naval
-- self-awareness is the most attractive trait -- naval
+> *"The best meditation is being curious about the contents of your own mind."
+-- Naval Ravikant*
+> *"Meditation is a good way to measure where you are."
+-- Naval Ravikant*
+> *"A fit mind is a clear mind"
+-- Naval Ravikant*
+> *"You are a story you tell yourself"
+-- Naval Ravikant*
+> *"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body."
+-- Naval Ravikant*
+> *"Self-awareness is the most attractive trait"
+-- Naval Ravikant*
 > *"If you correct your mind, the rest of your life will fall into place."  
--- Lao Tzu
+-- Lao Tzu*
 -->
 
 - Do you know anyone who doesn’t have any blind spots? So why would you be different?  

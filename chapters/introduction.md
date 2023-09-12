@@ -8,49 +8,45 @@
 
 ## The real you
 
-<!--
-[fazer links para quase todo o livro, se e introducao devia estar relacionado com o resto.]
+> *"You are what you do, not what you say you’ll do."  
+-- Carl Jung*
+
+> *"All men die, but not every man lives."
+-- William Wallace*
+
+You often feel tired, not because you have done too much but because you have done too little of what sparks a light in you. There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. To be real you need to be vulnerable.
+
+Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
+
+> *"Do you want to know who you are? Don’t ask. Act! Action will delineate and define you."
+-- Thomas Jefferson*
+
+> *"You are the combination of your habits and the people who spend the most time with."  
+-- Naval Ravikant*
+
+> *"How we spend our days is how we spend our lives."
+-- Annie Dillard*
+
+> *"What we think, we become."  
+-- Buddha*
+
+> *"A great way to understand yourself is to seriously reflect on everything you find irritating in others."
+-- Kevin Kelly*
 
 > *"It is better to be hated for what you are than to be loved for what you are not."
 -- André Gide*
+
+### How to come alive?
+
+<!--
 - do u want ur daughter to date somebody like u?
-- There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. to be real you need to be vulnerable
-> *"Action expresses priorities."  
--- Ghandi*
-- you are what you do, not what you say you’ll do -- carl jung
-- what we think, we become. -- buddha
-- you are your options.
-> *"You goal in life is to be able to say on teh day before you die taht you have fully become yourself."  
--- Kevin Kelly*
-- i'm not going to be the most sucessful person on teh planet, nor do i want to be. I just want to be teh most successful version of myself while working the least hard possible. -- naval
-> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
--- Abraham Maslow*
-- you often feel tired, not because you 've done too much but because you've done too little of what sparks a light in you.
 -->
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."
 -- Alan Watts*
 
-Your actions reveal your real values. Not what you say, not what you believe.
-
-How you do anything is how you do everything. Ultimately you are your choices.
-
-> *"How we spend our days is how we spend our lives."
--- Annie Dillard*
-
-> *"You are the combination of your habits and the people who spend the most time with."  
--- Naval Ravikant*
-
-> *"Do you want to know who you are? Don’t ask. Act! Action will delineate and define you."
--- Thomas Jefferson*
-
-> *"All men die, but not every man lives."
--- William Wallace*
-
-> *"A great way to understand yourself is to seriously reflect on everything you find irritating in others."
--- Kevin Kelly*
-
-### How to come alive?
+> *"Action expresses priorities."  
+-- Ghandi*
 
 You must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant.
 
@@ -99,7 +95,6 @@ You must make the conscious decision that you are going to change your story. No
 -- Carl Jung*
 > *"I am free and that is why I am lost."  
 -- Franz Kafka*
-
 -->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."
@@ -119,17 +114,22 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."
 -- Mark Manson*
 
+> *"I'm not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
+-- Naval Ravikant*
+
+> *"You goal in life is to be able to say on the day before you die that you have fully become yourself."  
+-- Kevin Kelly*
+
 ### How to design a life?
 
-<!--
-The meaning of life is to find your gift. The purpose of life is to give it away. -- Pablo Picasso
-
-> *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
--- Rudyard Kipling*
--->
+> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
+-- Abraham Maslow*
 
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."
 -- Jordan Peterson*
+
+> *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
+-- Rudyard Kipling*
 
 Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
 
@@ -139,6 +139,12 @@ Hints:
 - Fear is your guide. The more fear you feel, the more you will know you are on the right track.  
 - Experience more things. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward.
 - It’s easier to ask forgiveness than to get permission.  
+
+> *"The meaning of life is to find your gift. The purpose of life is to give it away."  
+-- Pablo Picasso*
+
+> *"You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way."
+-- Kevin Kelly*
 
 > *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"
 -- Maya Angelou*
@@ -161,17 +167,17 @@ Hints:
 > *"If we’re growing, we’re always going to be out of our comfort zone."
 -- John Maxwell*
 
-> *"If you are going through hell, keep going."
--- Winston Churchill*
-
-> *"In the middle of difficulty lies opportunity"
--- Albert Einstein*
-
 > *"The obstacle is the way."
 -- Marcus Aurelius*
 
+> *"If you are going through hell, keep going."
+-- Winston Churchill*
+
 > *"The best way out is always through."
 -- Robert Frost*
+
+> *"In the middle of difficulty lies opportunity"
+-- Albert Einstein*
 
 > *"A person often meets his destiny on the road he took to avoid it."
 -- Jean de La Fontaine*
@@ -188,9 +194,6 @@ Hints:
 > *"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."
 -- Friedrich Nietzsche*
 
-> *"You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way."
--- Kevin Kelly*
-
 > *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."
 -- Kevin Kelly*
 
@@ -206,19 +209,18 @@ Hints:
 ## On happiness
 
 <!--
-> *"Happy is he who learns to bear what he cannot change."  
--- Friedrich Schiller*
 - Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
 - Focus on internal fulfillment not external success
 - Happiness is outside of my comfort zone.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude.
-- to be happy is to be ashamed.
 - the richer you get the more expensive happiness becomes
 - we only stay happy, productive and inspired when we uncover our true personality.
+- doing what you like is freedom. liking what you do is happiness.
 > *"Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius
-- doing what you like is freedom. liking what you do is happiness.
+> *"Happy is he who learns to bear what he cannot change."  
+-- Friedrich Schiller*
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."
@@ -240,9 +242,6 @@ Happiness is a *mind* state where nothing is missing.
 > *"Happiness in intelligent people is the rarest thing I know."
 -- Ernest Hemingway*
 
-> *"Happiness is evident more by its absence than by its presence."
--- Naval Ravikant*
-
 ### How to improve your happiness?
 
 > *"Action may not always bring happiness, but there is no happiness without action."
@@ -257,28 +256,28 @@ Happiness is a *mind* state where nothing is missing.
 > *"The minute you’re satisfied with where you are, you aren’t there anymore."
 -- Tony Gwynn*
 
+> *"The happiness of your life depends upon the quality of your thoughts."
+-- Marcus Aurelius*
+
 > *"One of the keys to happiness is a bad memory."
 -- Rita Mae Brown*
 
-> *"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."
+> *"Happiness is your default state when you remove everything."
 -- Naval Ravikant*
 
 > *"Money can’t make rich people happy but it can make poor people happy."
 -- Naval Ravikant*
 
-> *"Happiness is your default state when you remove everything."
+> *"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."
 -- Naval Ravikant*
 
 > *"Happiness consists in getting enough sleep. Just that, nothing more."
 -- Robert A. Heinlein*
 
-> *"The happiness of your life depends upon the quality of your thoughts."
--- Marcus Aurelius*
-
-> *"Don’t put your happiness in other people’s hands. They’ll drop it. They’ll drop it every time."  
--- C. Barzak*
-
 ### How to improve somebody else happiness?
 
 > *"The price of trying to make everybody else happy is making yourself miserable."
 -- Naval Ravikant*
+
+> *"Don’t put your happiness in other people’s hands. They’ll drop it. They’ll drop it every time."  
+-- C. Barzak*

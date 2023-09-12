@@ -821,6 +821,7 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
+- when you eat a wrong note, it's the next note that makes it good or bad.
 - grow also feels like loss
 - Inertia is why a car does not stop the moment the brakes are applied.
 “Don’t readily ascribe to malice what can be more easily ascribed to incompetence.” -- James Akre

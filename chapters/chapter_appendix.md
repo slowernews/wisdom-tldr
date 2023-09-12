@@ -12,17 +12,11 @@
 
 <!--
 - history books are on the history of power.
-- o q antes era rotina, hj é lembrança.
-- never say goodbye because goodbye means going away and going awya means forgetting.
+- o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
 - there are decades when nothing happens and there are weeks when decades happen.
-- a busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind. -- Naval Ravikant*
 - history is the study of change, ironically used as a map of the future.
-
-> *"But how can you live and have no story to tell?"  
--- Fyodor Dostoyevsky*
-> *"Nostalgia is a seductive liar."  
--- george Ball (american politician)
 - never be a prisoner of your past. it was just a lesson not a life sentence.
+- who are you becoming is more important than who you have been 
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
@@ -61,7 +55,7 @@ Let go your past failures: they are meant to guide you, not to define you or det
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky*
 
-> *"I can't go back to yesterday because I was a different person then."  
+> *"I can’t go back to yesterday because I was a different person then."  
 -- Lewis Carroll*
 
 > *"Stop looking for happiness in the same place where you lost it."  
@@ -84,6 +78,12 @@ Let go your past failures: they are meant to guide you, not to define you or det
 > *"You never know the value of a moment until it becomes a memory."  
 -- Unknown*
 
+> *"A busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind."  
+-- Naval Ravikant*
+
+> *"But how can you live and have no story to tell?"  
+-- Fyodor Dostoyevsky*
+
 ### How memory works?
 
 <!--
@@ -104,6 +104,8 @@ It’s harder to forget mistakes, past events and the beginning or the end of so
 > *"Collective memory is more about the present than the past because it is integral to how the group sees itself."  
 -- Margaret MacMillan*
 
+> *"Nostalgia is a seductive liar."  
+-- George Ball (american politician)*
 
 
 
@@ -1509,9 +1511,8 @@ Understand:
 ## On education
 
 <!--
-- learning is a treasure that will follow it's owner everywhere. -- chinese proverb
-> *"Education is kindling a flame, not teh filling of a vessel."  
--- Socrates*
+> *"Learning is a treasure that will follow it's owner everywhere."  
+-- Chinese proverb
 -->
 
 > *"It's a universal law. Intolerance is teh first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility."  
@@ -1519,6 +1520,9 @@ Understand:
 
 > *"The purpose of high education is first and foremost to meet people and build relationships."  
 -- my teacher*
+
+> *"Education is kindling a flame, not the filling of a vessel."  
+-- Socrates*
 
 Education leads toward a continuing self-discovery; training leads toward a final self-definition. School rewards generalists, the world not so.
 
@@ -1545,6 +1549,9 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 > *"Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out."  
 -- Naval Ravikant*
+
+> *"Education is what survives when what has been learnt has been forgotten."
+-- B.F. Skinner*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 
