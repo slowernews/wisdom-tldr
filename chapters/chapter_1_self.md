@@ -448,11 +448,11 @@ Hints:
 <!--
 > *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."
 -- Bershere's Formula for Failure*
-> *'Rather than steering your life to avoid surprises, aim directly for them.'
+> *"Rather than steering your life to avoid surprises, aim directly for them."
 -- Kevin Kelly*
 > *"If you are not failing every now and again, it's a sign you're not doing anything very innovative."  
 -- Woody Allen*
-> *'Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.' -- Kevin Kelly*
+> *"Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two." -- Kevin Kelly*
 > *"If a man will begin with certainties he shall end in doubts; but if he will be content to begin with doubts he shall end in certainties."
 -- Francis Bacon*
 > *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."
@@ -851,19 +851,19 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 > *"A rational person can find peace by cultivating indifference to things outside of their control."  
 -- Naval Ravikant*
 > *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety."  
-> -- Naval*
+-- Naval Ravikant*
 > *"You're offended when you fear that it might be true."  
-> -- Naval*
+-- Naval Ravikant*
 > *"We suffer more often in imagination than in reality."  
 > -- Seneca*
 > *"Uncertainty, not outcome, is the root of stress."  
-> -- Naval*
+-- Naval Ravikant*
 > *"Ego is false confidence, self-respect is true confidence."  
-> -- Naval*
+-- Naval Ravikant*
 > *"Your trauma creates you."  
-> -- Naval*
+-- Naval Ravikant*
 > *"Fasting focuses the mind. It replaces all desires with a single desire."  
-> -- Naval*
+-- Naval Ravikant*
 > *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
 > -- Mark Manson*
 > *"Make sure you don't start seeing yourself through the eyes of those who don't value you. Know your worth even if they don't."  
@@ -1090,12 +1090,20 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 ## On failure, mistakes and regrets
 
 <!--
-“There are only two kinds of people who fail: those who listen to nobody . . . and those who listen to everybody.” -- Thomas Beshere, Jr.
+> *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."  
+> -- Thomas Beshere, Jr.*
 
-- (kk) To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is.
-- (kk) When crisis and disaster strike, don’t waste them. No problems, no progress.
-- there is no failure, only feedback. -- naval
-- most of our suffering comes from avoidance. -- naval
+> *"To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is."  
+> -- Kevin Kelly*
+
+> *"When crisis and disaster strike, don’t waste them. No problems, no progress."  
+> -- Kevin Kelly*
+
+> *"There is no failure, only feedback."  
+-- Naval Ravikant*
+
+> *"Most of our suffering comes from avoidance."  
+-- Naval Ravikant*
 -->
 
 > *"Experience is merely the name men gave to their mistakes."  
@@ -1173,9 +1181,10 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 ## On shame, confidence and validation
 
 <!--
-- too many people undervalue what they are and overvalue what they are not.
 > *"I was ashamed of myself when I realized that life was a costume party; and I attended with my real face."  
 -- Franz Kafka*
+
+- too many people undervalue what they are and overvalue what they are not.
 - money problems are self-confidence problems.
 - to get self aceptance you have to do the unconfortable things that you know you are right.
 - It's a sign of great inner security to be hostile to the unfamiliar
@@ -1201,12 +1210,15 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 -- J. Krishnamurti*
 > *"Self-confidence is the memory of success."  
 -- David Storey*
-- amazing how not being insecure about an unattractive quality instantly makes you way more attractive.
-“Those whose approval you seek the most give you the least.” --Rozanne Weissman
+> *"Those whose approval you seek the most give you the least."  
+> -- Rozanne Weissman*
+> *"Self-esteem is just the reputation you have with yourself. You'll always know."  
+> -- Naval*
+> *"Guilt is society's voice speaking in your head."  
+> -- Naval*
 
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
-- self-esteem is just the REPUTATION you have with yourself. you'll always know. -- naval
-- guilt is society's voice speaking in your head. -- naval
+- amazing how not being insecure about an unattractive quality instantly makes you way more attractive.
 - confidence come from some success. you need some accomplishment to get there.
 - confidence is silent. insecurities are loud.
 -->
@@ -1261,7 +1273,8 @@ Hints:
 -- Amy Cuddy*
 
 <!--
-- rudeness is the weak person's imitation of strength -- eric hoffer
+> *"Rudeness is the weak person's imitation of strength."
+-- Eric Hoffer*
 -->
 
 Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, being jealous and insecure does.
@@ -1283,12 +1296,13 @@ Entitlement comes in two forms:
 ## On limits and motivation
 
 <!--
-- believe it and it will be doesn't always work - there are limits to our belief.
-- what limits individuals is the inability to confront reality, to see things for what they truly are.
 > *"Every man takes the limits of his own field of vision for the limits of the world."  
 -- Arthur Schopenhauer*
 > *"Motivation is what gets you started. Habit is what keeps you going."  
 -- Jim Rohn*
+
+- believe it and it will be doesn't always work - there are limits to our belief.
+- what limits individuals is the inability to confront reality, to see things for what they truly are.
 -->
 
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
@@ -1334,13 +1348,16 @@ Hints:
 <!--
 > *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative."  
 -- Naval Ravikant*
-- to see if they really think that things are getting worse, ask them if they'd rather live in the future or in the past. -- naval
+> *"Both optimists and pessimists contribute to society. The optimist invents the aeroplane, the pessimist the parachute."  
+-- George Bernard Shaw*
+> *"To see if they really think that things are getting worse, ask them if they'd rather live in the future or in the past."  
+-- Naval Ravikant*
+> *"Worry gives small things a big shadow."  
+-- Swedish Proverb*
+
 - the seduction of pessimism: optimism sounds like a sales pitch. pessimism sounds like someone trying to help you.
 - organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
 - entrepreneurs are inherently optimistic beacuse they are rewarded by being optimistic. Intelectuals for being pessimistic.
-- worry gives small things a big shadow -- swedish proverb
-> *"Both optimists and pessimists contribute to society. The optimist invents the aeroplane, the pessimist the parachute."  
--- George Bernard Shaw*
 -->
 
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
@@ -1380,13 +1397,14 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 ## On perfectionism
 
 <!--
-epople use it as a badeg of honour to convince themselves that they have high standards but in reality they rarely produce high quality results. perfectionism is a mask for various fears, including fear of failure, fear of being judged and fear of commitment.
 > *"Have no fear of perfection. You'll never reach it."  
 -- Salvador Dali*
 > *"Perfectionism is teh fear of being criticized."  
 -- Caroline Myss*
 > *"And now that you don't have to be perfect, you can be good."  
 -- John Steinbeck*
+
+-people use it as a badeg of honour to convince themselves that they have high standards but in reality they rarely produce high quality results. perfectionism is a mask for various fears, including fear of failure, fear of being judged and fear of commitment.
 -->
 
 > *"The perfect is the enemy of the good."  
