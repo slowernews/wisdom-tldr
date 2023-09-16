@@ -33,12 +33,13 @@ Be interested to be interesting.
 -- David Ogilvy*
 > *"Know how to listen and you will profit even from those who talk badly."  
 -- Plutarch*
+> *"A fool is known by his speech, and a wyse man by silence."  
+-- Pythagoras*
+
+> *"A wise man said, “Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”*
 - don't debate at all. just listen. the point of a conversation is not to win.
 - Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day. The point is to move what’s exciting you to the top of your mental list so you’re ready to go if an opportunity presents.
 - a loucura é a incapacidade de comunicar-se
-> *"A wise man said, “Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”*
-> *"A fool is known by his speech, and a wyse man by silence."  
--- Pythagoras*
 -->
 
 Hints:
@@ -155,6 +156,13 @@ Hints:
 > *"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
 -- Kevin Kelly*
 
+- What's the most common question or problem you get asked about? Share the answer.
+- You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
+- Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
+- social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
+- Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
+- Not what should I do next but who should you speak next?
+- the best way to get value was to start giving it away? you’re giving validation
 - Networking types: advocates a, boomerang b, celebrities c, drainers d  
 - Networking types: shark, dolphin, drowner.  
 1 - «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
@@ -167,14 +175,6 @@ Hints:
 	"excuse me i have to make a phone call"
 	human sacrifice.. intro him and leave.
 	To rude people: «my mum always told me not to speak with strangers
-
-- What's the most common question or problem you get asked about? Share the answer.
-- You'll start to live when you can live outside yourself. Being in the moment instead of being in your head.
-- Social inadequacy AKA creepiness is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
-- social adeptness is balancing two seemingly opposing social strategies: competing and cooperating
-- Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
-- Not what should I do next but who should you speak next?
-- the best way to get value was to start giving it away? you’re giving validation
 -->
 
 > *"The enemy of excellence is isolation."  
@@ -255,19 +255,26 @@ Hints:
 ## On business and entrepreneurship
 
 <!--
-- a business is simply an idea to make other people's lives better. -- richard branson
-- if you can change people's lives you have a business -- richard branson
-- you are not building a product. you are solving a problem. -- naval
-- startups is a theory about something the market wants, but doesn't yet exist. -- naval
-- startups don't die when they run out of cash, they die when the founders run out of energy. -- naval
-- anyone who attempts to serve a costumer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not. -- naval
-- you're doing sales because you failed at marketing. you're doing marketing because you failed at product - naval
-- Intuitive equals familiar. Informational age is homogeneising our tastes. globalization é em tudo
+> *"A business is simply an idea to make other people's lives better."  
+-- Richard Branson*
+> *"If you can change people's lives you have a business."  
+-- Richard Branson*
+> *"You are not building a product. You are solving a problem."  
+-- Naval Ravikant*
+> *"Startups are a theory about something the market wants, but doesn't yet exist."  
+-- Naval Ravikant*
+> *"Startups don't die when they run out of cash, they die when the founders run out of energy."  
+-- Naval Ravikant*
+> *"Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not."  
+-- Naval Ravikant*
+> *"You're doing sales because you failed at marketing. You're doing marketing because you failed at product."  
+-- Naval Ravikant*
 > *"You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further."  
 -- Kevin Kelly*
 > *"Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
 -- Kevin Kelly*
 
+- Intuitive equals familiar. Informational age is homogeneising our tastes. globalization é em tudo
 - two ways to make money: bundling and unbundling!
 - you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
 - Entrepeneurs are curious
@@ -349,9 +356,6 @@ Do something that most people think is hard. If you try something easy, there wi
 ## On selling, negotiation and price
 
 <!--
-- my prices are based on my talent, not your budget.
-- sell the problem you solve, not the product you have.
-- don't find costumers for your products, find products for your costumers. -- seth godin
 > *"Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need."  
 -- Chuck Palahniuk*
 > *" Nobody reads advertising. People read what interests them, and sometimes it's an ad."  
@@ -368,18 +372,22 @@ Do something that most people think is hard. If you try something easy, there wi
 -- Carl Lash (?), 1978*
 > *"You can tell the ideals of a nation by its advertisements."
 -- Norman Douglas*
+> *"Don't find customers for your products, find products for your customers."  
+-- Seth Godin*
+> *"I never had to sell anything that I wouldn't buy myself."  
+-- Naval ravikant*
+
 > *"He who is known as an early riser need not get up until noon.*
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What's the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he's lying.*
 > *"Broadcast TV is not designed for you; it's designed for advertisers.*
 > *"If you make people think they're thinking, they'll love you; but if you really make them think they'll hate you."
--- Unknown*
 
-- i never had to sell nothing that i wouldn't buy myself. -- naval
+- my prices are based on my talent, not your budget.
+- sell the problem you solve, not the product you have.
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 - There is no such thing as "shortage" of anything. Just pay more, and you'll get it.
 - always negotiate. dont communicate weakness on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
-
 - Responding to Job Offers for Maximum Impact- Always use first names (caveat: unless their title vastly exceeds yours — if they’re on LinkedIn, use how they address themselves there as a reference.) Never make the first offer. Thank them. Set the tone for the negotiation. Display social proof/market validation. Set your “ask.” Help them visualize the win. Reiterate interest and close strong.
 - Alex says you can even create a worksheet for yourself by asking clear and direct questions like: What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
 
@@ -441,11 +449,13 @@ Modern selling: farmers (ambiverts and introverts)
 ### On negotiation
 
 <!--
+> *"When you don’t know how much to pay someone for a particular task, ask them «what would be fair» and their answer usually is."
+-- Kevin Kelly*
+
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
 - how much would i have to pay to close this deal now
-> *'When you don’t know how much to pay someone for a particular task, ask them «what would be fair» and their answer usually is.' -- Kevin Kelly*
 - smart partners negotiate fair deals because they know that lopsided deals are fragile and that most value accumulates in long term trust relationships. you can tell a lot about a potential partner by their opening offer. (naval)
 -->
 
@@ -522,16 +532,21 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On feedback and mentorship
 
 <!--
-- don't take criticism from people that you would never go for advice.
 > *"A critic is a legless man who teaches running."  
--- Channing Pollock
-- what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
-- take feedbak from nature and markets, not from people. -- Naval Ravikant*
-- a good scare is a great error-correcting mechanism. -- Naval Ravikant*
-- remove grading to see who is really interested in the topic. -- Naval Ravikant*
-- if something is to early to criticize it's also too early to evangelize. -- kelsey hightower
+-- Channing Pollock*
 > *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
 -- Winston Churchill*
+> *"Take feedback from nature and markets, not from people."  
+-- Naval Ravikant*
+> *"A good scare is a great error-correcting mechanism."  
+-- Naval Ravikant*
+> *"Remove grading to see who is really interested in the topic."  
+-- Naval Ravikant*
+> *"If something is too early to criticize, it's also too early to evangelize."  
+-- Kelsey Hightower*
+
+- don't take criticism from people that you would never go for advice.
+- what do i do that is most annoying to u? say thank you and don't discuss it. don't act on it. just put it in your mind.
 -->
 
 > *"You don't need mentors, you need action."  
@@ -547,9 +562,10 @@ Feedback from mentors speeds up improvement. Even if you can't understand the lo
 ### How to find mentors?
 
 <!--
-- to know the road ahead ask those coming back. -- chinese proverb
+> *"To know the road ahead, ask those coming back."  
+-- Chinese Proverb*
 > *"When the student is ready the teacher appears. When the student is truly ready the teacher disapeers."  
--- lao Tzu*
+-- Lao Tzu*
 -->
 
 Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
@@ -689,9 +705,12 @@ However some people are not ready to accept your vision. And «givers» attract 
 ## On generosity and incentives
 
 <!--
+> *"A bit of fragrance clings to the hand that gives flowers."  
+-- Chinese Proverb*
+> *"Attention is the rarest and purest form of generosity."  
+-- Weil*
+
 - if you can afford the dinner you can afford the tip.
-- a bit of frangance clings to the hand that gives flowers. -- chinese proverb
-- attention is the rarest and purest form of generosity -- weil
 -->
 
 > *"No one has ever become poor by giving."  

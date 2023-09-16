@@ -19,16 +19,16 @@
 -- Thomas Jefferson*
 > *"Life without liberty is like a body without spirit."
 -- Kahlil Gibran*
-
 > *"We are each entitled to our own opinion, but no one is entitled to his own facts."
 -- Patrick Moynihan*
 > *"We all have enough strength to endure the misfortunes of other people."
 -- La Rochefoucauld*
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu*
+> *"If you hurt people because of their expectations of you, that's their problem."  
+-- Naval Ravikant*
 
-- if you hurt people because of their expectations of you, that's their problem. -- naval
-don't build your castle in other peoples kingdom's
+- don't build your castle in other peoples kingdom's
 - freedom to -> freedom from -- naval
 - bees don't waste their time explaining to flies that flowers taste better than shit.
 -->
@@ -306,25 +306,37 @@ A way to humble yourself is to put you in the position of being the weakest pers
 ## On agency
 
 <!--
-- the seed of all evil is lazyness. - welsh proverb
-- talkers aren't stromg. teh strong don't talk. -- myanmaran proverb
-- work is the medecine for poverty -- yoruba proverb
-- choose inspiration over envy. -- naval
-- it's on documentation. If it's not add it.
-> *"The mind gives up before the body." -- Naval ravikant
-> *"Doing is faster than watching." -- Naval Ravikant
-- the optimal zone for performance is "slightly hungry". -- Naval Ravikant
-- better bored than busy. -- Naval Ravikant
-- persistence beats timing. execution beats luck. Not imediatelly but eventually. -- naval
-- you get paid for being right first, and to be first, you can't wait for consensus. -- naval
-- help with a precise thing (can i drop a lasagna at 4) instead of i'm here for you.
-> *"You'll never be criticized by someone who is doing more than you. You'll always be critized by someone who is doing less. Remember that."  
--- Denzel Washington*
-- don't settle and don't struggle. life is what flows in between. -- naval
 > *"The longer the tongue, the shorter the hands."  
 -- Czech proverb*
 > *"A man dies when he stops working."  
 -- Hebrew proverb
+> *"The mind gives up before the body."
+-- Naval ravikant*
+> *"Doing is faster than watching."
+-- Naval Ravikant*
+> *"You'll never be criticized by someone who is doing more than you. You'll always be critized by someone who is doing less. Remember that."  
+-- Denzel Washington*
+> *"The seed of all evil is laziness."  
+-- Welsh Proverb*
+> *"Talkers aren't strong. The strong don't talk."  
+-- Burmese Proverb*
+> *"Work is the medicine for poverty."  
+-- Yoruba Proverb*
+> *"Choose inspiration over envy."  
+-- Naval Ravikant*
+> *"The optimal zone for performance is 'slightly hungry'."  
+-- Naval Ravikant*
+> *"Better bored than busy."  
+-- Naval Ravikant*
+> *"Persistence beats timing. Execution beats luck. Not immediately but eventually."  
+-- Naval Ravikant*
+> *"You get paid for being right first, and to be first, you can't wait for consensus."  
+-- Naval Ravikant*
+> *"Don't settle and don't struggle. Life is what flows in between."  
+-- Naval Ravikant*
+
+- it's on documentation. If it's not add it.
+- help with a precise thing (can i drop a lasagna at 4) instead of i'm here for you.
 -->
 
 Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
@@ -434,16 +446,12 @@ Hints:
 ## On improving
 
 <!--
-- doing is learning
-> *"College is a fountain of knowledge...and the students are there to drink.*
-> *"Time is the best teacher; unfortunately it kills all its students.*
-
 > *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."
 -- Bershere's Formula for Failure*
 > *'Rather than steering your life to avoid surprises, aim directly for them.'
 -- Kevin Kelly*
 > *"If you are not failing every now and again, it's a sign you're not doing anything very innovative."  
--- Woody Allen
+-- Woody Allen*
 > *'Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.' -- Kevin Kelly*
 > *"If a man will begin with certainties he shall end in doubts; but if he will be content to begin with doubts he shall end in certainties."
 -- Francis Bacon*
@@ -466,6 +474,10 @@ Hints:
 -- Ashleigh Brilliant*
 > *"Good advice is something a man gives when he is too old to set a bad example."
 -- La Rouchefoucauld*
+
+- doing is learning
+> *"College is a fountain of knowledge...and the students are there to drink.*
+> *"Time is the best teacher; unfortunately it kills all its students.*
 -->
 
 > *"To improve is to change; to be perfect is to change often."  
@@ -539,7 +551,7 @@ Hints:
 - I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules. first understand the basics! then pass to next level
 - career day an year -> journaling self analysis.
 - skill fluency!
-- - The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
+- The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
 - Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 - Tony Robbins says that the quality of your life is based on the quality of the questions that you ask yourself.
 - ask yourself these three questions to truly uncover the root cause of the issues in your life: 1) What Are You Holding On To?What happened in your life that you are still angry, depressed, or frustrated with? What are you really holding onto that is holding you back. 2) What is Life trying to Teach You?How can you reframe the thing that you are holding onto into something good? What is life trying to teach you through that struggle. 3) How Can I Move On?What steps do you need to take to move on with your life? Who do you need to forgive, what needs to be said, who needs to be removed from your life?
@@ -716,17 +728,17 @@ Hints:
 ## On self awareness
 
 <!--
+> *"Conscience is the inner voice that warns us somebody may be looking."
+-- H.L. Mencken*
+> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."
+-- Marcus Aurelius, Meditations*
+> *"No one can make you feel inferior without your consent."
+-- Eleanor Roosevelt*
+
 - you don't need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
 > *"Conscience is what hurts when everything else feels so good.*
 > *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
-
-> *"Conscience is the inner voice that warns us somebody may be looking."
--- H.L. Mencken*
-> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the *opinion of others."
--- Marcus Aurelius, Meditations*
-> *"No one can make you feel inferior without your consent."
--- Eleanor Roosevelt*
 -->
 
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
@@ -792,20 +804,28 @@ Hints:
 - exercise is a celebration of what your body can do not a punishment for what you ate
 > *"The soul is healed by being with children."  
 -- Fyodor Dostoyevski*
-- stress is who you think you should be. peace is who you are.
-- there's nothing more therapeutic than action.
-- life hack: when in bed meditate. either you'll have a deep meditation or fall asleep. victory either way. -- naval
-- yoga cultivates peace of body. meditation cultivates peace of mind. -- naval
-- an healthy body is light and silent, just as a healthy mind. -- naval
-- when it comes to nutrition, subtract before you add. -- naval
-- teh modern mind is overestimulated and the modern body is understimulated and overfed. meditation, exerciseand fasting restore an ancient balance- -- naval
-- all modern deseases are diseases of abundance. we punish ourselves by constantly entertaining our minds and bodies. -- naval
-- meditation isn't hard. all you have to do is sit and do nothing. just sit down. close your eyes and say:" i'm just going to give myself a break for an hour. this my hour off from life. this is an hour i'm not going to do anything. -- naval"
-> *"Worrying is like paying a debt you don't owe."  
--- Mark Twain*
-- the six best doctors: sunshine, water, rest, air, exercise and diet.
 > *"Develop strenght to do bold things, not the strenght to suffer."  
 -- Machiavelli*
+> *"Worrying is like paying a debt you don't owe."  
+-- Mark Twain*
+> *"Life hack: When in bed, meditate. Either you'll have a deep meditation or fall asleep. Victory either way."  
+-- Naval Ravikant*
+> *"Yoga cultivates peace of body. Meditation cultivates peace of mind."  
+-- Naval Ravikant*
+> *"A healthy body is light and silent, just as a healthy mind."  
+-- Naval Ravikant*
+> *"When it comes to nutrition, subtract before you add."  
+-- Naval Ravikant*
+> *"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
+-- Naval Ravikant*
+> *"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies."  
+-- Naval Ravikant*
+> *"Meditation isn't hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I'm just going to give myself a break for an hour. This is my hour off from life. This is an hour I'm not going to do anything.»"  
+-- Naval Ravikant*
+
+- the six best doctors: sunshine, water, rest, air, exercise and diet.
+- stress is who you think you should be. peace is who you are.
+- there's nothing more therapeutic than action.
 -->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
@@ -818,12 +838,6 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 <!--
 > *"A man is as miserable as he thinks he is."  
 -- Seneca*
-- As I began to love myself, my relationship with everyone changed.
-- depression hates a moving target.
-- having to go to school on your birthday and everyone pointing it out.
-- can i ask you a question? 99%people get frightened.
-- anxious persons feel the only way to achieve relaxed certainty is getting new info. but the more you know the more you'll realize you don't know. Then you try to get more and more: information centrifugue.
-
 > *"before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes."  
 -- Sigmund Freud*
 > *"The quality of your mind is the quality of your life."  
@@ -836,20 +850,36 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 -- Buddha
 > *"A rational person can find peace by cultivating indifference to things outside of their control."  
 -- Naval Ravikant*
+> *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety."  
+> -- Naval*
+> *"You're offended when you fear that it might be true."  
+> -- Naval*
+> *"We suffer more often in imagination than in reality."  
+> -- Seneca*
+> *"Uncertainty, not outcome, is the root of stress."  
+> -- Naval*
+> *"Ego is false confidence, self-respect is true confidence."  
+> -- Naval*
+> *"Your trauma creates you."  
+> -- Naval*
+> *"Fasting focuses the mind. It replaces all desires with a single desire."  
+> -- Naval*
+> *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
+> -- Mark Manson*
+> *"Make sure you don't start seeing yourself through the eyes of those who don't value you. Know your worth even if they don't."  
+> -- Thema Davis*
+
+- As I began to love myself, my relationship with everyone changed.
+- depression hates a moving target.
+- having to go to school on your birthday and everyone pointing it out.
+- can i ask you a question? 99%people get frightened.
+- anxious persons feel the only way to achieve relaxed certainty is getting new info. but the more you know the more you'll realize you don't know. Then you try to get more and more: information centrifugue.
 - emotions of an event are like bookmarks
-- unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of teh subconscious and manifest as chronic, nonspecific anxiety. -- naval
-- you're offended when you fear that it might be true. -- naval
-- we suffer more often in emagination than in reality. -- seneca
-- uncertainty, not outcome, is the root of stress. -- naval
-- ego is false confidence, self-respect is true confidence. -- naval
-- your trauma creates you. -- naval
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
 - Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.
 - The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
 - (kk) Learn how to take a 20-minute power nap without embarrassment.
-- fasting focus the mind. it replaces all desires with a single desire -- naval
-- Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction. -- m manson
 - The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on. But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety. De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
 - Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
 Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
@@ -858,7 +888,6 @@ Social Anxiety is never the problem, but trying to avoid social anxiety is. Soci
 - burnout is an oversaturation of the sameness.
 - men with no purpose attract depression
 - seeds of doubt grow into forests of inaction
-- make sure you don't start seeing yourself through teh eyes of those who don't value you. know your worth even if they don't. -- thema davis
 -->
 
 > *"If you are depressed you are living in the past.   
@@ -916,20 +945,21 @@ Hints:
 ## On fear, anger and excuses
 
 <!--
-- anger is a punishment we give ourselves for someone else's mistake
-- nothing in life is to be feared, is. It is only to be understood. -- marie curie
-- fear does not stop death, it stops life
-- the hardest prison to escape is in your own mind.
-- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
-- all excuses are false.
-- fear makes the wolf bigger than he is. -- german proverb
-
 > *"A man who fears suffering is already suffering from what he fears."  
 -- Montaigne*
 > *"Fear is incomplete knowledge."  
 -- Agatha Christie*
 > *"Any person capable of angering you becomes your master; ha can anger you only you permit yourself being disturbed by him."  
 -- Epictetus*
+
+- fear makes the wolf bigger than he is. -- german proverb
+- nothing in life is to be feared, is. It is only to be understood. -- marie curie
+
+- anger is a punishment we give ourselves for someone else's mistake
+- fear does not stop death, it stops life
+- the hardest prison to escape is in your own mind.
+- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+- all excuses are false.
 -->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
@@ -966,35 +996,60 @@ Hints:
 <!--
 > *"It's better to be a restrained monster than a well-behaved coward."  
 -- Jordan Peterson*
-- courage is a form of intelligence not strenght. it's about outwitting your limiting beliefs, irrational fears and insecurities.
-“Without courage there cannot be truth, and without truth there can be no other virtue.” -- Sir Walter Scott
-“Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind.” -- Ralph Waldo Emerson
-“A man without courage is a knife without an edge.” -- Proverb
-“Courage consists, not in blindly overlooking danger, but in seeing and conquering it.” -- Jean Paul
-“All brave men love; for he only is brave who has affections to fight for.” -- Nathaniel Hawthorne
-“Courage is resistance to fear, mastery of fear — not absence of fear.” -- Mark Twain
-“Courage is grace under pressure.” -- Ernest Hemingway
-“Courage is doing what you are afraid to do. There can be no courage unless you are scared.” -- Eddie Rickenbacker
-“To see what is right and not to do it, is want of courage.” -- Confucius
-“No man can be brave who considers pain the greatest evil of life.” -- Cicero
-“Courage ought to be guided by skill, and skill armed by courage.” -- Sir P. Sidney
-“Courage makes a man more than himself; for he is then himself plus his valor.” -- William R. Alger
-“A man of courage is also full of faith.” -- Cicero
-“So far as man stands for anything, and is productive or originative at all, his entire vital function may be said to have to deal with maybes. Not a victory is gained, not a deed of faithfulness or courage is done, except upon a maybe; not a service, not a sally of generosity, not a scientific exploration or experiment or textbook, that may not be a mistake. It is only by risking our persons from one hour to another that we live at all.”
-William James
-“It is courage that vanquishes in war, and not good weapons.” -- Miguel de Cervantes
-“He has not learned the lesson of life who does not every day surmount a fear.” -- Ralph Waldo Emerson
-“Man is loved mainly because of two virtues: courage first, loyalty second.” -- Gaius Lucilius
-“A coward flees backward, away from new things. A man of courage flees forward, in the midst of new things.” -- Jacques Maritain
-“He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.” -- Miguel de Cervantes
-“Troops would never be deficient in courage, if they could only know how deficient in it their enemies were.” -- Duke of Wellington
-“The boldest measures are the safest.” -- Horatio Nelson
-“Tell a man that he is brave, and you help him become so.” -- Thomas Carlyle
-“Keep your fears to yourself but share your courage with others.” -- Robert Louis Stevenson
-“The scars you acquire by exercising courage will never make you feel inferior.” -- Giovanni Battista Cima
-“Knowledge without courage is sterile.” -- Baltasar Gracián
 > *"Fear is a reaction. Courage is a decision."  
 -- Wiston Churchill*
+> *"Without courage there cannot be truth, and without truth there can be no other virtue."  
+> -- Sir Walter Scott*
+> *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind."  
+> -- Ralph Waldo Emerson*
+> *"A man without courage is a knife without an edge."  
+> -- Proverb*
+> *"Courage consists, not in blindly overlooking danger, but in seeing and conquering it."  
+> -- Jean Paul*
+> *"All brave men love; for he only is brave who has affections to fight for."  
+> -- Nathaniel Hawthorne*
+> *"Courage is resistance to fear, mastery of fear — not absence of fear."  
+> -- Mark Twain*
+> *"Courage is grace under pressure."  
+> -- Ernest Hemingway*
+> *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
+> -- Eddie Rickenbacker*
+> *"To see what is right and not to do it, is want of courage."  
+> -- Confucius*
+> *"No man can be brave who considers pain the greatest evil of life."  
+> -- Cicero*
+> *"Courage ought to be guided by skill, and skill armed by courage."  
+> -- Sir P. Sidney*
+> *"Courage makes a man more than himself; for he is then himself plus his valor."  
+> -- William R. Alger*
+> *"A man of courage is also full of faith."  
+> -- Cicero*
+> *"So far as man stands for anything, and is productive or originative at all, his entire vital function may be said to have to deal with maybes. Not a victory is gained, not a deed of faithfulness or courage is done, except upon a maybe; not a service, not a sally of generosity, not a scientific exploration or experiment or textbook, that may not be a mistake. It is only by risking our persons from one hour to another that we live at all."  
+> -- William James*
+> *"It is courage that vanquishes in war, and not good weapons."  
+> -- Miguel de Cervantes*
+> *"He has not learned the lesson of life who does not every day surmount a fear."  
+> -- Ralph Waldo Emerson*
+> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
+> -- Gaius Lucilius*
+> *"A coward flees backward, away from new things. A man of courage flees forward, in the midst of new things."  
+> -- Jacques Maritain*
+> *"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."  
+> -- Miguel de Cervantes*
+> *"Troops would never be deficient in courage, if they could only know how deficient in it their enemies were."  
+> -- Duke of Wellington*
+> *"The boldest measures are the safest."  
+> -- Horatio Nelson*
+> *"Tell a man that he is brave, and you help him become so."  
+> -- Thomas Carlyle*
+> *"Keep your fears to yourself but share your courage with others."  
+> -- Robert Louis Stevenson*
+> *"The scars you acquire by exercising courage will never make you feel inferior."  
+> -- Giovanni Battista Cima*
+> *"Knowledge without courage is sterile."  
+> -- Baltasar Gracián*
+
+- courage is a form of intelligence not strenght. it's about outwitting your limiting beliefs, irrational fears and insecurities.
 -->
 
 > *"Life shrinks or expands in proportion to one’s courage."  
