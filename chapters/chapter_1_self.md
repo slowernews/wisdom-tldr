@@ -11,29 +11,26 @@
 ## On autonomy
 
 <!--
-- if you hurt people because of their expectations of you, that's their problem. -- naval
-don't build your castle in other peoples kingdom's
-- freedom to -> freedom from -- naval
-- bees don't waste their time explaining to flies that flowers taste better than shit.
-
 > *"What we reason for ourselves may help others. What we reason for others will not help us."  
 -- Naval Ravikant*
 > *"The more you have to define freedom the less freedom you have."
 -- Alexander Bickel (?)*
-> *"The Tree of Liberty must, from time to time, be watered with the blood of patriots
+> *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."
 -- Thomas Jefferson*
 > *"Life without liberty is like a body without spirit."
 -- Kahlil Gibran*
-> *"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum."
--- *Noam Chomsky*
-> *"Too often we...enjoy the comfort of opinion without the discomfort of thought."
--- John F. Kennedy*
+
 > *"We are each entitled to our own opinion, but no one is entitled to his own facts."
 -- Patrick Moynihan*
 > *"We all have enough strength to endure the misfortunes of other people."
 -- La Rochefoucauld*
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu*
+
+- if you hurt people because of their expectations of you, that's their problem. -- naval
+don't build your castle in other peoples kingdom's
+- freedom to -> freedom from -- naval
+- bees don't waste their time explaining to flies that flowers taste better than shit.
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -75,34 +72,32 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-- If you tell teh truth you don't need to reharse anything
-- Core values: honesty everywhere. i dont want to be in place where i cant be honest. i want to make relationships with a long term prospect. flat hierarchy. i dont want to be around hierarchical systems. i want to treat everybody as a peer. angry. i dont want to be around angry people
-- Personal branding will kill you. Personal DOING will save everyone around you. people justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
-- Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
-- CHANGE YOUR ACTIONS, NOT YOURSELF
-- 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
-- Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
-- Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
-- You must play by your rules, funnel your weird stuff to give you some advantage.
-- I'm bad in following a script.
-- I approve of me. I am my word. I keep my word / I take nothing she says seriously, helps me relax.
-- Honesty is an antidote to impostor syndrome. 
-- You are shaped by how you see others seeing you
-
-> *"Everybody wants spirituality. nobody wants the truth."  
+> *"Everybody wants spirituality. Nobody wants the truth."  
 -- Naval Ravikant*
-> *"I don't wnat to be in environments or people where i have to watch what i say."  
+> *"I don't want to be in environments or people where I have to watch what I say."  
 -- Naval Ravikant*
-> *"What do you really despise? by this you are truly known."  
--- Frank Herbert
 > *"Escape competition through authenticity."  
 -- Naval Ravikant*
 > *"To be honest speak without identity."  
 -- Naval Ravikant*
-> *"Inside every cynical person, there is a disappointed idealist."  
--- George Carlin*
 > *"You're no under no obligation to be the same person you were 5 minutes ago."  
 -- Alan Watts*
+> *"What do you really despise? By this you are truly known."  
+-- Frank Herbert
+> *"Inside every cynical person, there is a disappointed idealist."  
+-- George Carlin*
+
+- If you tell teh truth you don't need to reharse anything. I'm bad in following a script.
+- Honesty is an antidote to impostor syndrome. 
+- CHANGE YOUR ACTIONS, NOT YOURSELF. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
+- You must play by your rules, funnel your weird stuff to give you some advantage.
+- 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
+- Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
+- Core values: honesty everywhere. I dont want to be in place where I can't be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don't want to be around hierarchical systems, I want to treat everybody as a peer. I don't want to be around angry people.
+- I approve of me. I am my word. I keep my word / I take nothing she says seriously, helps me relax.
+- Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
+- You are shaped by how you see others seeing you
+- Personal branding will kill you. Personal DOING will save everyone around you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
 -->
 
 > *"I'd rather be hated for who I am, than loved for who I am not."  

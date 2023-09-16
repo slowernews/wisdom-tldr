@@ -583,6 +583,57 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 -- Carl Jung*
 > *"Don't force your children into your ways, for they were created for a time different from your own."  
 -- Plato*
+> *"A parent will always worry about the wrong child."
+-- Don Alt*
+> *"The best way of training the young is to train yourself at the same time; not to admonish them, but to be seen never doing that of which you would admonish them."
+-- Plato*
+> *"The nature of impending fatherhood is that you are doing something that you’re unqualified to do, and then you become qualified while doing it."
+-- John Green*
+> *"One of the greatest things a father can do for his children is to love their mother."
+-- Howard W. Hunter*
+> *"To a father growing old nothing is dearer than a daughter."
+-- Euripides*
+> *"Every father should remember one day his son will follow his example, not his advice."
+-- Charles Kettering*
+> *"Parenthood remains the single greatest preserve of the amateur."
+-- Alvin Toffler*
+> *"My father didn’t tell me how to live. He lived and let me watch him do it."
+-- Clarence Budington Kelland*
+> *"Children are a poor man’s riches."
+-- English proverb*
+> *"It is easier to build strong children than to repair broken men."
+-- Frederick Douglass*
+> *"Being a great father is like shaving. No matter how good you shaved today, you have to do it again tomorrow."
+-- Reed Markham*
+> *"Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of song."
+-- Pam Brown*
+> *"The father who does not teach his son his duties is equally guilty with the son who neglects them."
+-- Confucius*
+> *"No man can possibly know what life means, what the world means, what anything means, until he has a child and loves it."
+-- Lafcadio Hearn*
+> *"I cannot think of any need in children as strong as the need for a father’s protection."
+-- Sigmund Freud*
+> *"A father is a man who expects his son to be as good a man as he meant to be"
+-- Frank A. Clark*
+> *"A family needs a father to anchor it."
+-- L. Tom Perry*
+> *"Words have an awesome impact. The impression made by a father’s voice can set in motion an entire trend of life."
+-- Gordon MacDonald*
+> *"Children need models rather than critics."
+-- Joseph Joubert*
+> *"A father is someone you look up to no matter how tall you grow."
+-- Unknown*
+> *"When you teach your son, you teach your son’s son."
+-- The Talmud*
+> *"Life doesn’t come with an instruction book — that’s why we have fathers."
+-- H. Jackson Browne*
+> *"My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect."
+-- Ivy Baker Priest*
+“Fathering is not something perfect men do, but something that perfects the man."
+-- Frank Pittman*
+“Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you."
+-- Honore de Balzac, Pere Goriot*
+
 - the best you can do for a kid is to love their mother
 - we are raising weak men and girls who need validation because their father wasn't there.
 - teenagers = treated like children but expected to act like adults
@@ -592,33 +643,6 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 - parents prevent their kid from dying but as they get older they shouldn't prevent them from living. this is difficult.
 > *"The best thing to spend on your children is time.*
 > *"Children are natural mimics who act like their parents despite every effort to teach them good manners. Children seldom misquote you. In fact, they usually *repeat word for word what you shouldn't have said.*
-	
-“A parent will always worry about the wrong child.” -- Don Alt
-
-“The best way of training the young is to train yourself at the same time; not to admonish them, but to be seen never doing that of which you would admonish them.” –Plato
-“The nature of impending fatherhood is that you are doing something that you’re unqualified to do, and then you become qualified while doing it.” –John Green
-“One of the greatest things a father can do for his children is to love their mother.” –Howard W. Hunter
-“To a father growing old nothing is dearer than a daughter.” –Euripides
-“Every father should remember one day his son will follow his example, not his advice.” –Charles Kettering
-“Parenthood remains the single greatest preserve of the amateur.” –Alvin Toffler
-“My father didn’t tell me how to live. He lived and let me watch him do it.” –Clarence Budington Kelland
-“Children are a poor man’s riches.” –English proverb
-“It is easier to build strong children than to repair broken men.” –Frederick Douglass
-“Being a great father is like shaving. No matter how good you shaved today, you have to do it again tomorrow.” –Reed Markham
-“Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of song.” –Pam Brown
-“The father who does not teach his son his duties is equally guilty with the son who neglects them.” –Confucius
-“No man can possibly know what life means, what the world means, what anything means, until he has a child and loves it.” –Lafcadio Hearn
-“I cannot think of any need in children as strong as the need for a father’s protection.” –Sigmund Freud
-“A father is a man who expects his son to be as good a man as he meant to be.” –Frank A. Clark
-“A family needs a father to anchor it.” –L. Tom Perry
-“Words have an awesome impact. The impression made by a father’s voice can set in motion an entire trend of life.” –Gordon MacDonald
-“Children need models rather than critics.” –Joseph Joubert 
-“A father is someone you look up to no matter how tall you grow.” –Unknown
-“When you teach your son, you teach your son’s son.” –The Talmud
-“Life doesn’t come with an instruction book — that’s why we have fathers.” H. Jackson Browne 
-“My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect.” –Ivy Baker Priest
-“Fathering is not something perfect men do, but something that perfects the man.” –Frank Pittman
-“Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you.” –Honore de Balzac, Pere Goriot
 -->
 
 > *"If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales."  
@@ -714,15 +738,17 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 <!--
 > *"The higher we are placed, the more humbly we should walk."  
 -- Cicero*
-- people like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
-> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  
--- Jorge Luis Borges*
-- Care about what other people think and you will always be their prisoner. -- lao tzu
-> *"Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid."*
 > *"If you want to know who controls you, look at who you are not allowed to criticize."  
 -- Voltaire*
 > *"Nothing strengthens authority so much as silence."  
--- leonardo da Vinci
+-- Leonardo da Vinci*
+> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  
+-- Jorge Luis Borges*
+> *"Care about what other people think and you will always be their prisoner."
+-- Lao Tzu*
+
+- Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
+- People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
 -->
 
 Everything is hierarchy. Only comedians can speak the truth without consequences. To see who rules you, is the person you are not allowed to criticise.
@@ -749,6 +775,8 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+> *"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum."
+-- Noam Chomsky*
 > *"I would rather have questions that can't be answered than answers that can't be questioned."  
 -- Richard Feinman*
 > *"Every society honors its live conformists and its dead troublemakers."  
@@ -761,23 +789,18 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- Plato*
 > *"If a law is unjust a man is not only right to disobey it, he is obligated to do so."  
 -- Thomas Jefferson*
-- law is not a moral compass. teh people who hid anne frank were breaking the law. The people who killed her were following it.
 > *"Fascism is cured by reading, and racism is cured by traveling."  
--- Miguel de Unamuno
+-- Miguel de Unamuno*
 > *"The price of apathy towards public affairs is to be ruled by evil men."  
 -- Plato*
 > *"The urge to save humanity is almost always a false front for the urge to rule it."  
 -- H. L. Mecken*
 > *"Journalism is printing what someone else doesn't want printed. Everything else is public relations."  
 -- George Orwell*
-- insisting in your rights without acknowledging your responsabilities isn't freedom is adolescence
-- communism isn't evil, it's foolish. in teh same way that unrestricted capitalism is foolish if you strive to make everyone's lives better.
-- hard times create strong man, strong man create good times. good times create weak men. weak men create weak times.
-- it's just human nature that if i get to decide who get sthe gold it is gosng o be my friends,  family and people i like.
-> *"democracy has got nothing to do with who should rule. democracy is teh system which allows you to remove policies and rulers most efficently without violence. and that's how you judge diffrent democratic systems."  
--- karl popper
 > *"The triumph of culture is to overpower nationality."  
 -- Ralph Waldo Emerson*
+> *"Democracy has got nothing to do with who should rule. democracy is teh system which allows you to remove policies and rulers most efficently without violence. and that's how you judge diffrent democratic systems."  
+-- Karl Popper*
 > *"The disease of 20th century is utopianism, that of 21th century is hypernaive utopianism: libertarianism, wokism, cryptoism, techno-salvationism, etc are identical in spirit to Communism."  
 -- Nassin Taleb*
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
@@ -786,21 +809,6 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- Voltaire*
 > *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
 -- Peter Kropotkin*
-- the real diversity that matters is teh diversity of ideas, not the diversity of skin color.
-- groups serach for consensus. individuals search for truth. -- naval
-- few tv channels equalized culture.
-- feee people make free choices. free choices means you have unequal outcomes. you can have freedom or you can have equal outcomes. you can't have both. -- naval
-- independent is what people call you if your opinions don't upset anybody -- nassim taleb
-- all tiranny begins with teh desire to coerce others for teh greater good -- naval
-- the revolutionaries always become the new dictators
-- most of the culture wars are a struggle between what's best for the children and what's best for the childless. -- naval
-- rigid regimes are doomed when they become flexible.
-- Inflation is how democracies die. -- charlie munger
-- the struggle between collectivists and the individual is as old as humanity itself.
-- all poverty is energy poverty.
-- never apologize to the politically correct.
-- if you want to destroy any nation without war, make adultery or nudity common in the young generation.
-> *"Men often believe > *"or pretend > *"that the "Law" is something sacred, or at least a science > *"an unfounded assumption very convenient to governments.*
 > *"Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws."
 -- Plato (427-347 B.C.)*
 > *"Aim and object of the law and lawyers was to defeat justice."
@@ -819,17 +827,14 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- Frank Dane*
 > *"When a man assumes a public trust, he should consider himself as public property."
 -- Thomas Jefferson*
-> *"It doesn't matter what you do, it only matters what you say you've done and what you're going to do.*
 > *"Never appeal to a man's "better nature." He may not have one. Invoking his self-interest gives you more leverage."
 -- Robert A. Heinlein, Notebooks of Lazarus*
 > *"You can count on the Americans to do the right thing, once they've exhausted every other possible course of action."
 -- Winston Churchill*
 > *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."
 -- John Kenneth Galbraith*
-> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
 > *"Thank God we don't get all the government we pay for."
 -- Milton Friedman*
-> *"Freedom of the press is for those who happen to own one.*
 > *"The first responsibility of any bureaucracy is the preservation of itself. The second is to expand its responsiblities."
 -- Mort Halperin*
 > *"When you have an efficient government, you have a dictatorship."
@@ -838,21 +843,48 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- Robert A. Heinlein, Notebooks of Lazarus*
 > *"90% of the politicians give the other 10% a bad reputation."
 -- Henry Kissinger*
+> *"Love your neighbour, yet don't pull down your hedge."
+-- Benjamin Franklin*
+> *"Não há direitos sem obrigações e viceversa."  
+-- EF*
+> *"History is a race between education and catastrophe."  
+-- H.G. Wells*
+>* "The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax teh nominal gains, thereby confiscating the real value of the assets."
+-- Naval Ravikant*
+
+> *"It doesn't matter what you do, it only matters what you say you've done and what you're going to do.*
+> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
+> *"Freedom of the press is for those who happen to own one.*
 > *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State *itself. That, in its essence, is Fascism
 -- ownership of government by an individual, by a group or by any controlling private power."
 -- FDR*
-> *"Love your neighbour, yet don't pull down your hedge."
--- Benjamin Franklin*
->* "The road to socialism via inflation:  
-- Print money, crash the reserve currency, destroy savers and force them into inflated assets.
-- Asset inflation leads to inequality. Demonize asset holders and tax teh nominal gains, thereby confiscating the real value of the assets."
--- Naval*
-- low-key activism is often just narcisism. most people don't really understand the issuesthey are being activist about. It's just virtue signaling on Social Media. A young generation doesn't know what a really debate dosen't include demonizing people and get them canceled.
-- 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outisde of work.
-- pandemic imprisoned poor people and freed rich people.
+
+- groups serach for consensus. individuals search for truth. -- naval
+- feee people make free choices. free choices means you have unequal outcomes. you can have freedom or you can have equal outcomes. you can't have both. -- naval
+- independent is what people call you if your opinions don't upset anybody -- nassim taleb
+- all tiranny begins with teh desire to coerce others for teh greater good -- naval
+- most of the culture wars are a struggle between what's best for the children and what's best for the childless. -- naval
+- Inflation is how democracies die. -- charlie munger
 “Favors granted always become defined as rights.” -- Saul Alinsky
 “Help a man who is in trouble and that man will remember you when he is in trouble again.” -- Paul Alexander
 
+- law is not a moral compass. teh people who hid anne frank were breaking the law. The people who killed her were following it.
+- insisting in your rights without acknowledging your responsabilities isn't freedom is adolescence
+- communism isn't evil, it's foolish. in teh same way that unrestricted capitalism is foolish if you strive to make everyone's lives better.
+- hard times create strong man, strong man create good times. good times create weak men. weak men create weak times.
+- it's just human nature that if i get to decide who get sthe gold it is gosng o be my friends,  family and people i like.
+- the real diversity that matters is teh diversity of ideas, not the diversity of skin color.
+- few tv channels equalized culture.
+- the revolutionaries always become the new dictators
+- rigid regimes are doomed when they become flexible.
+- the struggle between collectivists and the individual is as old as humanity itself.
+- all poverty is energy poverty.
+- never apologize to the politically correct.
+- if you want to destroy any nation without war, make adultery or nudity common in the young generation.
+- Men often believe > *"or pretend > *"that the "Law" is something sacred, or at least a science > *"an unfounded assumption very convenient to governments.
+- low-key activism is often just narcisism. most people don't really understand the issuesthey are being activist about. It's just virtue signaling on Social Media. A young generation doesn't know what a really debate dosen't include demonizing people and get them canceled.
+- 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outisde of work.
+- pandemic imprisoned poor people and freed rich people.
 - the benefits of a world government that federated nations would be an improvement for all. We could replace the war model by a policing model. We could institute the basic human right of mobility on the planet. we could address the global climate change.
 - minimal amounts of cash improve teh life of poor more than equivalent spending on aid programs or goods.
 - escola meritocratica e o o q podes fazer por ti. mundo n. mundo move-se pelo q podes fazer por mim.
@@ -860,8 +892,6 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 - sufffering is individual. nations or corporations don't suffer.
 - social contracts: public promises. Everything is a contract!
 > *"A single death is a tragedy; a million deaths is a statistic."*
-> *"History is a race between education and catastrophe."  
--- H.G. Wells*
 - people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
 - liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
 - nacionalistas vs globalistas | moderados vs radicais?
@@ -871,8 +901,6 @@ Once a philosophy goes tribal, its beliefs no longer exist to serve some moral p
 But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
 The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
 And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
-> *"Não há direitos sem obrigações e viceversa."  
--- EF*
 -->
 
 > *"For the friends: everything. For the others: the law."  
@@ -928,31 +956,40 @@ Hints:
 ## On following the herd
 
 <!--
+> *"One cow breaks the fence and a dozen leap it"  
+-- Scottish Gaelic proverb*
 > *"I have never met a man so ignorant that I couldn't learn anything from him."  
 -- Galileo Galilei*
-- the less people know, the more stubbornly they know it -- osho
+> *"In our infinite ignorance we are all equal."  
+-- Karl Popper*
+> *"The less people know, the more stubbornly they know it."  
+-- Osho*
+> *"Too often we enjoy the comfort of opinion without the discomfort of thought."
+-- John F. Kennedy*
 > *"Hundreds of billions of dollars are spens every year to control the public mind."  
 -- Noam Chomsky*
-- in our infinite ignorance we are all equal. -- popper
-> *"One cow breaks the fence and a dozen leap it"  
--- Scottish Gaelic proverb
-- 'consensus' is just another way of saying 'average'. -- naval
-- A group operates through consensus. the consensus will be set by the most intolerable minority. So you'll the intolerable minority will control the group. -- naval
-- individuals rarely admit mistakes. Groups never do. -- naval
-- when stupidity is considered patriotism, it is unsafe to be intelligent. -- isaac asimov
-- you can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don't first persuade their closest comrades. -- nassim taleb
-- society is run by peer pressure, not intelligence.
-- if your opinions line up neatly with those of your friends and colleagues, they're not your opinions. -- naval
+> *"When stupidity is considered patriotism, it is unsafe to be intelligent."  
+-- Isaac Asimov*
+> *"Individuals rarely admit mistakes. Groups never do."  
+-- Naval Ravikant*
+> *"'Consensus' is just another way of saying 'average'."  
+-- Naval Ravikant*
+> *"A group operates through consensus. the consensus will be set by the most intolerable minority. So you'll the intolerable minority will control the group."  
+-- Naval Ravikant*
+> *"If your opinions line up neatly with those of your friends and colleagues, they're not your opinions."  
+-- Naval Ravikant*
+> *"You can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don't first persuade their closest comrades."  
+-- Nassim Taleb*
 -->
 
 > *"Mimicking the herd, invites regression to the mean."  
 -- Charlie Munger*
 
-Most people are other people. Our thoughts are someone else opinions and we jump to conclusions. People accept the defaults very easily.
+Society is run by peer pressure, not intelligence.
+
+Most people are other people. Our thoughts are someone else opinions and we jump to conclusions. People accept the defaults very easily. People’s insecurities drive them to excess and overcompensation. We are, at heart, animals and are easily manipulated, especially in groups.
 
 Groups of people behave differently than individuals. The larger the crowd, the less responsibility people have for their behaviour. This effect is known as mob behaviour. This is also why individuals should make decisions. Groups never admit failure.
-
-People’s insecurities drive them to excess and overcompensation. We are, at heart, animals and are easily manipulated, especially in groups.
 
 > *"My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom."  
 -- William Deresiewicz*
@@ -1042,17 +1079,18 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 ### How to judge a man?
 
 <!--
-> *"A man is as big as the things that make him angry."  
--- Winston Churchill
-> *"You can easily judge the character of a man by how he treats those who can do nothing for him."  
--- Goethe*
-- a drunk man's words, are a sober man's thoughts -- italian proverb
-> *"Nearly all men stand adversity. if want to test a man's character, give him power."  
--- Abraham Lincoln
 > *"We don't judge people when we feel good about ourselves."  
 -- Brené Brown*
-> *"I'm suspicious of people who don't like dogs, but I trust a dog when it doesn't liek a person."  
+> *"A man is as big as the things that make him angry."  
+-- Winston Churchill*
+> *"You can easily judge the character of a man by how he treats those who can do nothing for him."  
+-- Goethe*
+> *"Nearly all men stand adversity. If want to test a man's character, give him power."  
+-- Abraham Lincoln*
+> *"I'm suspicious of people who don't like dogs, but I trust a dog when it doesn't like a person."  
 -- Bill Murray*
+> *"A drunk man's words, are a sober man's thoughts."  
+-- Italian proverb*
 -->
 
 > *"Judge a man by his questions, not by his answers."  
@@ -1078,19 +1116,26 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 ## On opponents and allies
 
 <!--
-- the enemy is fear. We think it is hate, but it is fear. -- Ghandi
-“The world is divided between victims and predators, and you have to defend yourself against both.” -- Florenz Baron
-- the worst thing about betrayal is that it never comes from your enemies. - the godfather
-- when working surround yourself with people more sucessful than you. when playing surround yourself with people happier than you. -- naval
+> *"The enemy is fear. We think it is hate, but it is fear."  
+-- Ghandi*
+> *"The world is divided between victims and predators, and you have to defend yourself against both."  
+-- Florenz Baron*
+> *"The worst thing about betrayal is that it never comes from your enemies."  
+-- The godfather*
+> *"When working surround yourself with people more sucessful than you. when playing surround yourself with people happier than you."  
+-- Naval Ravikant*
+> *"Só os mais corajosos conseguem fazer a paz."  
+-- Trump*
+> *"Who lies for you will lie against you."  
+-- Bosnian proverb*
+> *"The best fighter is never angry."  
+-- Lao Tzu*
+
+- heros are your idealized selfes
+- understand the difference of an adversary and an enemy to not accumulate enemys.
 - When narratives begin to shift and the once good guys are labelled as bad it's not surprising they fight back. They'll point to criticisms as exaggerations. Their faults as misunderstandings.
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i'm x, i know your situation and how is the way i can make it the most confortable (safe) for you.
-> *"Só os mais corajosos conseguem fazer a paz."  
--- Trump*
-- heros are your idealized selfes
-- understand the difference of an adversary and an enemy to not accumulate enemys.
-- who lies for you will lie against you. -- bosnian proverb
-- the best fighter is never angry. -- lao tzu
 -->
 
 > *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
@@ -1120,12 +1165,13 @@ Easy players are often just deceiving you. However - if you can identify them - 
 
 ### On desperate opponents
 
-<!--
-fear can make a donkey attack a lion. -- arab proverb
-necessity knows no law -- italian proverb
--->
+> *"Necessity knows no law."  
+-- Italian proverb*
 
 Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
+
+> *"Fear can make a donkey attack a lion."  
+-- Arab proverb*
 
 > *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
 -- Balthasar Gracian*
@@ -1277,13 +1323,31 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 <!--
 > *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
 -- Rumi*
-> *"To lead people, you must follow behind."
--- Lao Tsu*
 > *"No one can make you feel inferior without your permission."
 -- Eleanor Roosevelt*
 > *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
--- Alexander teh great
+-- Alexander the great*
 - you can tell a bully from a leader by how they treat people who disagree with them. -- Miles K. Davis
+> *"To lead people walk behind them."  
+-- Lao Tzu*
+> *"A great man is hard on himself; a small man is hard on others."  
+-- Confucius*
+> *"Leadership is not about being followed, is about being first."  
+-- Dan Munro*
+> *"Only those who do not seek power are qualified to hold it."  
+-- Plato*
+> *"If you wish to control others you must control yourself."  
+-- Miyamoto Musashi*
+> *"The leader doesn't take charge of the tribe. The leader takes responsability for the tribe."  
+-- Naval Ravikant*
+> *"Charisma is the ability to project confidence and love at the same time."
+-- Naval Ravikant*
+> *"If aren't willing to get mocked, you'll never be able to lead."
+-- Naval Ravikant*
+> *"The highest status people in human history are those that asked for nothing and gave everything."
+-- Naval Ravikant*
+> *"You lead by willing to walk alone."
+-- Naval Ravikant*
 
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - the organization is always modelling the leader. military leader don't have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
@@ -1291,18 +1355,6 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 - There are three keys: honesty, effectiveness, and efficiency.
 - succeful takers are the most visible people in organizations.
 - convincing vs inspiring leadership
-- leadership is not about being followed, is about being first. -- dan munro
-> *"To lead people walk behind them."  
--- Lao Tzu
-> *"A great man is hard on himself; a small man is hard on others."  
--- Confucius
-- Only those who do not seek power are qualified to hold it. -- plato
-- if you wish to control others you must control yourself. -- miyamoto musashi
-- the leader doesn't take charge of the tribe. The leader takes responsability for the tribe. -- naval
-- charisma is the ability to project confidence and love at the same time. -- naval
-- if aren't willing to get mocked, you'll never be able to lead. -- naval
-- teh highest status people in human history are those that asked for nothing and gave everything. - naval
-- you lead by willing to walk alone. -- naval
 -->
 
 > *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group."*
@@ -1360,7 +1412,8 @@ Hints:
 ### On teams
 
 <!--
-empires are built from groups of men (andrew tate)
+> *"Empires are built from groups of men."  
+-- Andrew tate*
 -->
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
@@ -1436,34 +1489,50 @@ Hints:
 ## On career
 
 <!--
-- creative teams should be colocated. the rest of the company can be distributed. -- naval
-- if the title matters to you, you don't belong to a startup. -- naval
-- there are 7B people in the world. someday, i hope, there will be 7B companies. -- naval
+> *"The world will ask you who you are, and if don't know, the world will tell you."  
+-- Carl Jung
+> *"Creative teams should be colocated. The rest of the company can be distributed."
+-- Naval Ravikant*
+> *"If the title matters to you, you don't belong to a startup."
+-- Naval Ravikant*
+> *"There are 7B people in the world. someday, I hope, there will be 7B companies."
+-- Naval Ravikant*
+> *"Feels like play to you, look like work to others."
+-- Naval Ravikant*
+> *"You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge."
+-- Naval Ravikant*
+> *"You don't have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely."
+-- Naval Ravikant*
+> *"Be the best in the world at what you do. Keep redefining what you do until this is true."
+-- Naval Ravikant*
+> *"Knowledge workers function like athletes - train and sprint, then rest and reassess."
+-- Naval Ravikant*
+> *"If you want to be part of a great tech company, then you need to be able to sell or build. if you don't do either, learn."
+-- Naval Ravikant*
+> *"What feels like play to you and work to others?"
+-- Naval Ravikant*
+> *"Set and enforce an aspirational hourly rate."
+-- Naval Ravikant*
+> *"Rich people get paid by the project and pay by the hour."
+-- Naval Ravikant*
+> *"Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now."
+-- Naval Ravikant*
+> *"Give the world what it need and it will give you what you want."
+-- Naval Ravikant*
+> *"If you can't code, write books and blogs, record videos and podcasts."
+-- Naval Ravikant*
+
 - i'm really good in thsi game so i showld keep playaing vs i'm really good in thsi game so i showld stop playaing 
 - philosophy improves your intellectual rigor!
 - behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
-- feels like play to you, look like work to others. -- naval
-- give the world what it need and it will give you what you want. -- Naval Ravikant*
-- you get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge. -- naval
-- you don't have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely. -- naval
-- Be the best in teh world at what you do. Keep redefining what you do until thsi is true. -- naval
-- knowledge workers function like athletes - train and sprint, then rest and reassess. -- naval
-- if you want to be part of a great tech company, then you need to be able to sell or build. if you don't do either, learn. -- naval
-- what feels like play to you and work to others? -- naval
-- set and enforce an aspirational hourly rate. -- naval
-- following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now. -- Naval Ravikant*
 - remote killed HR
-- rich people get paid by the project and pay by the hour. -- naval
 - hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
 - volunteer for assignments / becoming the go to guy for some questions
 - trabalhar de porta aberta vs trabalhar à porta fechada
 - Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 - trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
 - recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
-- if you can't code, write books and blogs, record videos and podcasts. -- Naval Ravikant*
 - 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
-> *"The world will ask you who you are, and if don't know, the world will tell you."  
--- Carl Jung
 -->
 
 > *"Don’t be the best. Be the only."  
@@ -1555,10 +1624,14 @@ Hints:
 -- Naval Ravikant*
 
 <!--
+> *"You're never going to get rich renting out your time."
+-- Naval Ravikant*
+> *"Trade money for time, not time for money. You're going to run out of time first."
+-- Naval Ravikant*
+> *"Earn with your mind, not with your time."
+-- Naval Ravikant*
+
 - There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
-- you're never going to get rich renting out your time. -- Naval Ravikant*
-- trade money for time, not time for money. You're going to run out of time first. -- Naval Ravikant*
-- earn with your mind, not with your time. -- Naval Ravikant*
 -->
 
 ### Specialist or generalist?
@@ -1585,23 +1658,30 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-- your salary is the bribe they give you to forget your dreams -- Warren Buffett
-Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust. -- zig ziglar
 > *"Look for the job that you would take if you didn't need a job."  
 -- Warren Buffett*
-> *"Dont ever work for someone you dont want to become."  
+> *"Don't ever work for someone you dont want to become."  
 -- Kevin Kelly*
-- if you can't see yourself working with someone for life, don't work with them for a day.
+> *"If you can't see yourself working with someone for life, don't work with them for a day."
 -- Naval Ravikant*
-- (kk) Being enthusiastic is worth 25 IQ points.
-- people want freedom to choose their process.
+> *"What did you get done this week?"
+-- Elon Musk*
+> *"Management is mostly hiring well and firing quickly."
+-- Naval Ravikant*
+> *"Mercenaries work for money. Missionaries build for others. Artists create for themselves."
+-- Naval Ravikant*
+> *"Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust."
+-- Zig Ziglar*
+> *"Your salary is the bribe they give you to forget your dreams."
+-- Warren Buffett*
+> *"Being enthusiastic is worth 25 IQ points."
+-- Kevin Kelly*
+
+- People want freedom to choose their process.
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
-- money is trust. system of mutual trust.
+- Money is trust. system of mutual trust.
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
-- management is mostly hiring well and firing quickly. -- naval
 - T ou pi shaped.
-- "what did you get done this week?" -- elon musk
-- mercenaries work for money. missionaries build for others. artists create for themselves. -- naval
 -->
 
 > *"He who works with his hands is a laborer.  
