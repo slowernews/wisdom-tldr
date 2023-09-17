@@ -13,15 +13,15 @@
 <!--
 > *"What we reason for ourselves may help others. What we reason for others will not help us."  
 -- Naval Ravikant*
-> *"The more you have to define freedom the less freedom you have."
+> *"The more you have to define freedom the less freedom you have."  
 -- Alexander Bickel (?)*
-> *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."
+> *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
 -- Thomas Jefferson*
-> *"Life without liberty is like a body without spirit."
+> *"Life without liberty is like a body without spirit."  
 -- Kahlil Gibran*
-> *"We are each entitled to our own opinion, but no one is entitled to his own facts."
+> *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
 -- Patrick Moynihan*
-> *"We all have enough strength to endure the misfortunes of other people."
+> *"We all have enough strength to endure the misfortunes of other people."  
 -- La Rochefoucauld*
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu*
@@ -132,14 +132,14 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 <!--
 > *"To be trusted is a greater compliment than being loved."  
 -- George Mcdonald*
-> *"Who does not trust enough will not be trusted."
+> *"Who does not trust enough will not be trusted."  
 -- Lao Tsu*
-> *"Love your country, but never trust its government."
+> *"Love your country, but never trust its government."  
 -- Robert A. Heinlein.*
-> *"Truth prevails where opinions are free."
+> *"Truth prevails where opinions are free."  
 -- Tom Paine*
 > *"The more we disagree, the more chance there is that at least one of us is right.*
-> *"Tell the truth and run."
+> *"Tell the truth and run."  
 -- Yugoslav proverb*
 > *"There is no greter fraud than the promise not kept."  
 -- Gaelic proverb*
@@ -147,20 +147,20 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 -- Naval Ravikant*
 > *"Integrity is when what you think and what you say and what you do are one"  
 -- Naval Ravikant*
-> *"Returns are made on the way up. reputations are made on the way down."
+> *"Returns are made on the way up. reputations are made on the way down."  
 -- Naval Ravikant*
-> *"Living a life of integrity pays off, but it takes a very long time."
+> *"Living a life of integrity pays off, but it takes a very long time."  
 -- Naval Ravikant*
-> *"Before you can lie to another, you must firt lie to yourself."
+> *"Before you can lie to another, you must firt lie to yourself."  
 -- Naval Ravikant*
-> *"Intentions don't matter. Actions do. That's why being ethical is hard."
+> *"Intentions don't matter. Actions do. That's why being ethical is hard."  
 -- Naval Ravikant*
 
 - every damn thing is your own fault, if you are any good.
 - chi sei? sono l'evoluzione di tutti i miei errori.
 - dishonesty is a reaction to fear.
 - bravery is learned -> micro-bravery, start small
-- Humility With forward action: 'I wasn’t the smartest in X but.."
+- Humility With forward action: 'I wasn’t the smartest in X but.."  
 - integrity is what you think is what you say, and the same what you do.
 - Be willing to side with the minority.
 -->
@@ -265,9 +265,12 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 ## On respect
 
 <!--
+> *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
+-- Naval Ravikant*
+> *"You will earn the respect of all if you begin earning the respect of yourself."  
+-- Rufus*
+
 - you might think you want a fancy car or a nice watch. but what you probably want is respect and admiration- the psychology of money
-- virtue signaling is popular because it let anyone, regardless of objective merit, go on an ego trip. -- naval
-- you will earn teh respect of all if you begin earning the respect of yourself. -- rufus
 -->
 
 > *"Everyone you will ever meet knows something you don’t."  
@@ -310,9 +313,9 @@ A way to humble yourself is to put you in the position of being the weakest pers
 -- Czech proverb*
 > *"A man dies when he stops working."  
 -- Hebrew proverb
-> *"The mind gives up before the body."
+> *"The mind gives up before the body."  
 -- Naval ravikant*
-> *"Doing is faster than watching."
+> *"Doing is faster than watching."  
 -- Naval Ravikant*
 > *"You'll never be criticized by someone who is doing more than you. You'll always be critized by someone who is doing less. Remember that."  
 -- Denzel Washington*
@@ -379,23 +382,23 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 <!--
 - Stability without Stagnation
 
-> *"The silence between the notes makes the music. And lest we forget, the longer the silence, the more incredibly beautiful and powerful the music when it finally swells and the symphony goes on."
+> *"The silence between the notes makes the music. And lest we forget, the longer the silence, the more incredibly beautiful and powerful the music when it finally swells and the symphony goes on."  
 -- Brianna West*
-> *"One doesn't discover new lands without consenting to lose sight of the shore for a very long time."
+> *"One doesn't discover new lands without consenting to lose sight of the shore for a very long time."  
 -- Andre Gide*
-> *"What's right is what's left if you do everything else wrong."
+> *"What's right is what's left if you do everything else wrong."  
 -- Robin Williams*
-> *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."
+> *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
 -- Alexander Graham Bell* 
-> *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."
+> *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."  
 -- Sophocles*
-> *"You can't go back and change the beginning, but you can start where you are and change the ending."
+> *"You can't go back and change the beginning, but you can start where you are and change the ending."  
 -- C.S. Lewis*
-> *"Anything I cannot transform into something marvelous, I let go."
+> *"Anything I cannot transform into something marvelous, I let go."  
 -- Anais Nin*
-> *"Without deviation from the norm, progress is not possible."
+> *"Without deviation from the norm, progress is not possible."  
 -- Frank Zappa*
-> *"Never test the depth of teh river with both feet."
+> *"Never test the depth of teh river with both feet."  
 -- Warren Buffett*
 -->
 
@@ -446,33 +449,33 @@ Hints:
 ## On improving
 
 <!--
-> *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."
+> *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."  
 -- Bershere's Formula for Failure*
-> *"Rather than steering your life to avoid surprises, aim directly for them."
+> *"Rather than steering your life to avoid surprises, aim directly for them."  
 -- Kevin Kelly*
 > *"If you are not failing every now and again, it's a sign you're not doing anything very innovative."  
 -- Woody Allen*
 > *"Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two." -- Kevin Kelly*
-> *"If a man will begin with certainties he shall end in doubts; but if he will be content to begin with doubts he shall end in certainties."
+> *"If a man will begin with certainties he shall end in doubts; but if he will be content to begin with doubts he shall end in certainties."  
 -- Francis Bacon*
-> *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."
+> *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."  
 -- Friedrich Nietzsche, The Dawn, 1881*
-> *"The right way to do things is not to try to persuade people you're right but to challenge them to think it through for themselves."
+> *"The right way to do things is not to try to persuade people you're right but to challenge them to think it through for themselves."  
 -- Noam Chomsky*
-> *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."
+> *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
 -- T.H. White*
-> *"The mind is not a vessel to be filled but a fire to be kindled."
+> *"The mind is not a vessel to be filled but a fire to be kindled."  
 -- Plutarch*
-> *"in academia there is much talk, little action. In industry, there is much action, little thought."
+> *"in academia there is much talk, little action. In industry, there is much action, little thought."  
 -- Donald Norman*
 > *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients > *"Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I'm pregnant. Who did it?"*
-> *"Examinations are formidable even to the best prepared, for even the greatest fool may ask more than the wisest man can answer."
+> *"Examinations are formidable even to the best prepared, for even the greatest fool may ask more than the wisest man can answer."  
 -- C.C. Colton*
-> *"The price of success in philosophy is triviality."
+> *"The price of success in philosophy is triviality."  
 -- C. Glymour*
-> *"My opinions may have changed, but not the fact that I am right."
+> *"My opinions may have changed, but not the fact that I am right."  
 -- Ashleigh Brilliant*
-> *"Good advice is something a man gives when he is too old to set a bad example."
+> *"Good advice is something a man gives when he is too old to set a bad example."  
 -- La Rouchefoucauld*
 
 - doing is learning
@@ -579,7 +582,7 @@ Hints:
 
 Practice makes perfect but doesn’t make new. New comes from having a broader perspective and analysis of past situations. People repeat very easily the same mistakes. You improve by examining your failures, it will help you letting go.
 
-> *"You can only connect the dots looking back, not looking forward."
+> *"You can only connect the dots looking back, not looking forward."  
 -- Unknown*
 
 > *"Journal early before your inhibitions take in. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want."*
@@ -605,13 +608,13 @@ Action, not knowledge, leads to success. If you are not constantly taking action
 
 <!--
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
-
-> *"First a punch is just a punch. Then a puch is not only a punch. And finally a punch is justa punch."  
--- Bruce Lee*
 -->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field"  
 -- Niels Bohr*
+
+> *"First a punch is just a punch. Then a puch is not only a punch. And finally a punch is justa punch."  
+-- Bruce Lee*
 
 True experts recognize the limits of what they know and what they do not know.
 
@@ -669,9 +672,9 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 -- F. M. Alexander
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett*
-> *"It isn't 10k hours that creates outliers, it's 10k iterations."
+> *"It isn't 10k hours that creates outliers, it's 10k iterations."  
 -- Naval Ravikant*
-> *"I probably read 1-2 hours a day, and that puts me in the top 0,00001%."
+> *"I probably read 1-2 hours a day, and that puts me in the top 0,00001%."  
 -- Naval Ravikant*
 
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
@@ -728,11 +731,11 @@ Hints:
 ## On self awareness
 
 <!--
-> *"Conscience is the inner voice that warns us somebody may be looking."
+> *"Conscience is the inner voice that warns us somebody may be looking."  
 -- H.L. Mencken*
-> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."
+> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
 -- Marcus Aurelius, Meditations*
-> *"No one can make you feel inferior without your consent."
+> *"No one can make you feel inferior without your consent."  
 -- Eleanor Roosevelt*
 
 - you don't need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
@@ -763,15 +766,15 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 Hints:
 
 <!--
-> *"The best meditation is being curious about the contents of your own mind."
+> *"The best meditation is being curious about the contents of your own mind."  
 -- Naval Ravikant*
-> *"Meditation is a good way to measure where you are."
+> *"Meditation is a good way to measure where you are."  
 -- Naval Ravikant*
 > *"A fit mind is a clear mind"
 -- Naval Ravikant*
 > *"You are a story you tell yourself"
 -- Naval Ravikant*
-> *"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body."
+> *"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body."  
 -- Naval Ravikant*
 > *"Self-awareness is the most attractive trait"
 -- Naval Ravikant*
@@ -855,7 +858,7 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 > *"You're offended when you fear that it might be true."  
 -- Naval Ravikant*
 > *"We suffer more often in imagination than in reality."  
-> -- Seneca*
+-- Seneca*
 > *"Uncertainty, not outcome, is the root of stress."  
 -- Naval Ravikant*
 > *"Ego is false confidence, self-respect is true confidence."  
@@ -865,9 +868,9 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 > *"Fasting focuses the mind. It replaces all desires with a single desire."  
 -- Naval Ravikant*
 > *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
-> -- Mark Manson*
+-- Mark Manson*
 > *"Make sure you don't start seeing yourself through the eyes of those who don't value you. Know your worth even if they don't."  
-> -- Thema Davis*
+-- Thema Davis*
 
 - As I began to love myself, my relationship with everyone changed.
 - depression hates a moving target.
@@ -951,9 +954,10 @@ Hints:
 -- Agatha Christie*
 > *"Any person capable of angering you becomes your master; ha can anger you only you permit yourself being disturbed by him."  
 -- Epictetus*
-
-- fear makes the wolf bigger than he is. -- german proverb
-- nothing in life is to be feared, is. It is only to be understood. -- marie curie
+> *"Fear makes the wolf bigger than he is."  
+> -- German Proverb*
+> *"Nothing in life is to be feared, it is only to be understood."  
+> -- Marie Curie*
 
 - anger is a punishment we give ourselves for someone else's mistake
 - fear does not stop death, it stops life
@@ -975,7 +979,8 @@ When you view everything through the lens of fear, you'll tend to stay in retrea
 ### How to overcome fear?
 
 <!--
-- Insecurity is the result of trying to be secure. -- alan watts
+> *"Insecurity is the result of trying to be secure."  
+-- Alan Watts*
 -->
 
 > *"We fear things in proportion to our ignorance of them."  
@@ -999,55 +1004,55 @@ Hints:
 > *"Fear is a reaction. Courage is a decision."  
 -- Wiston Churchill*
 > *"Without courage there cannot be truth, and without truth there can be no other virtue."  
-> -- Sir Walter Scott*
+-- Sir Walter Scott*
 > *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind."  
-> -- Ralph Waldo Emerson*
+-- Ralph Waldo Emerson*
 > *"A man without courage is a knife without an edge."  
-> -- Proverb*
+-- Proverb*
 > *"Courage consists, not in blindly overlooking danger, but in seeing and conquering it."  
-> -- Jean Paul*
+-- Jean Paul*
 > *"All brave men love; for he only is brave who has affections to fight for."  
-> -- Nathaniel Hawthorne*
+-- Nathaniel Hawthorne*
 > *"Courage is resistance to fear, mastery of fear — not absence of fear."  
-> -- Mark Twain*
+-- Mark Twain*
 > *"Courage is grace under pressure."  
-> -- Ernest Hemingway*
+-- Ernest Hemingway*
 > *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
-> -- Eddie Rickenbacker*
+-- Eddie Rickenbacker*
 > *"To see what is right and not to do it, is want of courage."  
-> -- Confucius*
+-- Confucius*
 > *"No man can be brave who considers pain the greatest evil of life."  
-> -- Cicero*
+-- Cicero*
 > *"Courage ought to be guided by skill, and skill armed by courage."  
-> -- Sir P. Sidney*
+-- Sir P. Sidney*
 > *"Courage makes a man more than himself; for he is then himself plus his valor."  
-> -- William R. Alger*
+-- William R. Alger*
 > *"A man of courage is also full of faith."  
-> -- Cicero*
+-- Cicero*
 > *"So far as man stands for anything, and is productive or originative at all, his entire vital function may be said to have to deal with maybes. Not a victory is gained, not a deed of faithfulness or courage is done, except upon a maybe; not a service, not a sally of generosity, not a scientific exploration or experiment or textbook, that may not be a mistake. It is only by risking our persons from one hour to another that we live at all."  
-> -- William James*
+-- William James*
 > *"It is courage that vanquishes in war, and not good weapons."  
-> -- Miguel de Cervantes*
+-- Miguel de Cervantes*
 > *"He has not learned the lesson of life who does not every day surmount a fear."  
-> -- Ralph Waldo Emerson*
+-- Ralph Waldo Emerson*
 > *"Man is loved mainly because of two virtues: courage first, loyalty second."  
-> -- Gaius Lucilius*
+-- Gaius Lucilius*
 > *"A coward flees backward, away from new things. A man of courage flees forward, in the midst of new things."  
-> -- Jacques Maritain*
+-- Jacques Maritain*
 > *"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."  
-> -- Miguel de Cervantes*
+-- Miguel de Cervantes*
 > *"Troops would never be deficient in courage, if they could only know how deficient in it their enemies were."  
-> -- Duke of Wellington*
+-- Duke of Wellington*
 > *"The boldest measures are the safest."  
-> -- Horatio Nelson*
+-- Horatio Nelson*
 > *"Tell a man that he is brave, and you help him become so."  
-> -- Thomas Carlyle*
+-- Thomas Carlyle*
 > *"Keep your fears to yourself but share your courage with others."  
-> -- Robert Louis Stevenson*
+-- Robert Louis Stevenson*
 > *"The scars you acquire by exercising courage will never make you feel inferior."  
-> -- Giovanni Battista Cima*
+-- Giovanni Battista Cima*
 > *"Knowledge without courage is sterile."  
-> -- Baltasar Gracián*
+-- Baltasar Gracián*
 
 - courage is a form of intelligence not strenght. it's about outwitting your limiting beliefs, irrational fears and insecurities.
 -->
@@ -1091,17 +1096,13 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 
 <!--
 > *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."  
-> -- Thomas Beshere, Jr.*
-
+-- Thomas Beshere, Jr.*
 > *"To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is."  
-> -- Kevin Kelly*
-
+-- Kevin Kelly*
 > *"When crisis and disaster strike, don’t waste them. No problems, no progress."  
-> -- Kevin Kelly*
-
+-- Kevin Kelly*
 > *"There is no failure, only feedback."  
 -- Naval Ravikant*
-
 > *"Most of our suffering comes from avoidance."  
 -- Naval Ravikant*
 -->
@@ -1211,11 +1212,11 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 > *"Self-confidence is the memory of success."  
 -- David Storey*
 > *"Those whose approval you seek the most give you the least."  
-> -- Rozanne Weissman*
+-- Rozanne Weissman*
 > *"Self-esteem is just the reputation you have with yourself. You'll always know."  
-> -- Naval*
+-- Naval Ravikant*
 > *"Guilt is society's voice speaking in your head."  
-> -- Naval*
+-- Naval Ravikant*
 
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
 - amazing how not being insecure about an unattractive quality instantly makes you way more attractive.
@@ -1273,7 +1274,7 @@ Hints:
 -- Amy Cuddy*
 
 <!--
-> *"Rudeness is the weak person's imitation of strength."
+> *"Rudeness is the weak person's imitation of strength."  
 -- Eric Hoffer*
 -->
 

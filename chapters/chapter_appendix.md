@@ -87,7 +87,7 @@ Let go your past failures: they are meant to guide you, not to define you or det
 ### How memory works?
 
 <!--
-> *"It takes an huge effort to free yourself from memory."
+> *"It takes an huge effort to free yourself from memory."  
 -- Paulo Coelho*
 -->
 
@@ -158,17 +158,17 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 ## On future
 
 <!--
-> *"Dreams are ... illustrations from the book your soul is writing about you."
+> *"Dreams are ... illustrations from the book your soul is writing about you."  
 -- Marsha Norman*
-> *"Myth is the public dream, and dream is the private myth."
+> *"Myth is the public dream, and dream is the private myth."  
 -- Joseph Campbell*
-> *"The best way to make your dreams come true is to wake up."
+> *"The best way to make your dreams come true is to wake up."  
 -- Paul Valery*
-> *"Goals are dreams with deadlines."
+> *"Goals are dreams with deadlines."  
 -- Diana Scharf Hunt*
-> *"Hope is the dream of a waking man."
+> *"Hope is the dream of a waking man."  
 -- Diogenes*
-> *"Yesterday is but today's memory, and tomorrow is today's dream."
+> *"Yesterday is but today's memory, and tomorrow is today's dream."  
 -- Kahlil Gibran*
 
 - a man without a vision for his future, always return to his past.
@@ -239,17 +239,17 @@ Our present (in)actions will compound into the future we will get – that’s a
 > *"It takes a very long time to become young."  
 -- Pablo Picasso*
 “As a grown man you should know better than to go around advising people.” -- Bertolt Brecht
-> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."
+> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
 -- Francis Bacon*
-> *"The teachers of morality speak like angels, but live like men."
+> *"The teachers of morality speak like angels, but live like men."  
 -- Sam Johnson*
-> *"Go to Heaven for the climate, Hell for the company."
+> *"Go to Heaven for the climate, Hell for the company."  
 -- Mark Twain*
-> *"There is no sin but ignorance."
+> *"There is no sin but ignorance."  
 -- Christopher Marlowe*
 > *"The old believe everything; the middle-aged suspect everything; the young know everything."  
 -- Oscar Wilde*
-> *"everyone wants to live long but, no ones wants to be called old."
+> *"everyone wants to live long but, no ones wants to be called old."  
 -- Icelandic proverb*
 
 > *"Old age is too high a price to pay for maturity.*
@@ -319,11 +319,11 @@ Finding a place to die is an important thing to do.
 ## On talent
 
 <!--
-> *"Intelligence is like a river: the deeper it is, the less noise it makes."
+> *"Intelligence is like a river: the deeper it is, the less noise it makes."  
 -- Milwaukee Journal Sentinel (?)*
-> *"The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function."
+> *"The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function."  
 -- F. *Scott Fitzgerald*
-> *"Modesty: The gentle art of enhancing your charm by pretending not to be aware of it."
+> *"Modesty: The gentle art of enhancing your charm by pretending not to be aware of it."  
 -- Oliver Herford*
 > *"The true sign of intelligence is not knowledge but imagination."  
 -- Albert Einstein*
@@ -363,7 +363,7 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 ### On geniality
 
 <!--
-> *"If a man knows more than others he becomes lonely."
+> *"If a man knows more than others he becomes lonely."  
 -- Carl Jung*
 -->
 
@@ -587,10 +587,11 @@ A beautiful person always see beauty in others.
 
 <!--
 > *"Many complain of their looks but none of their brains."  
-> -- Yiddish Proverb*
+-- Yiddish Proverb*
 
 - dress like you're going somewhere better later
 - taste may be an instinct for honest signals
+- beauty grabs attention. personality grabs the heart.
 -->
 
 
@@ -636,27 +637,27 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"The price of anything is the amount of life you exchange for it."  
 -- Henry David Thoreau*
 > *"Think of each day as a single life."  
-> -- Seneca*
+-- Seneca*
 > *"He who buys what he does not need, steals from himself."  
-> -- Swedish Proverb*
+-- Swedish Proverb*
 > *"If a little is not enough for you, nothing is."  
-> -- Epicurus*
+-- Epicurus*
 > *"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can't fathom."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"No routine. I'm famously unscheduled."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"For a great payoff, be especially curious about the things you are not interested in."  
-> -- Kevin Kelly*
+-- Kevin Kelly*
 > *"To measure your quality of life, simply do nothing and see how it feels."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"You should be too busy to do coffee, while still keeping an uncluttered calendar."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"Enough is a decision, not an amount."  
-> -- Alison Faulkner*
+-- Alison Faulkner*
 > *"Develop strategic incompetence - people won't ask you to do things you hate to do if you're bad at them."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 
 - 3 hobbies: one cretive, one to keep in shape and one to make money
 - we drink to loosen our tongues.
@@ -762,7 +763,7 @@ Hints:
 > *"Strive not to be a success, but rather be of value."  
 -- Albert Einstein*
 > *"Success and rest don't sleep together."  
-> -- Russian Proverb*
+-- Russian Proverb*
 > *"The price of growth is outgrowing people."  
 -- Naval Ravikant*
 > *"Predicting failure is easier than predicting success."  
@@ -825,7 +826,7 @@ Fear, not failure, is the biggest barrier to success. Some people are terrified 
 <!--
 > *"Doubt is the origin of wisdom."  
 -- René Descartes*
-> *"The beginning of wisdom is calling things by their right names."
+> *"The beginning of wisdom is calling things by their right names."  
 -- Chinese proverb*
 -->
 
@@ -860,7 +861,7 @@ wisdom = inteligence + experience
 -- Soren Kierkegaard*
 > *"Give me a museum and I'll fill it."  
 -- Pablo Picasso
-> *"Comedy is the art of telling forbidden truths, without getting beat out."
+> *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant*
 
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
@@ -874,7 +875,7 @@ wisdom = inteligence + experience
 -- Mae West*
 > *"La que no es puta non desfruta."*
 > *"Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem."*
-> *"The four most expensive words in the English language: «This time is different»."
+> *"The four most expensive words in the English language: «This time is different»."  
 - which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
 - If i was your wife i would poison your coffee. if i was your husband i would drink it.
 -->
@@ -896,7 +897,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 > *"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog.  
 What’s the man there for? His job is to feed the dog.  
-What’s the dog for? The dog keeps the man from touching any of the machines."
+What’s the dog for? The dog keeps the man from touching any of the machines."  
 -- Old joke*
 
 > *"I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much."  
@@ -1012,13 +1013,13 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 > *"A bore is someone who deprives you of solitude without providing you company."  
 -- Oscar Wilde*
 > *"True friendship can exist only between equals."  
-> -- Plato*
+-- Plato*
 > *"I have nothing to offer anyone, except my own confusion."  
-> -- Jack Kerouac*
+-- Jack Kerouac*
 > *"I don't like that man. I must get to know him better."  
-> -- Abraham Lincoln*
+-- Abraham Lincoln*
 > *"Brothers love each other when they are equally rich."  
-> -- African Proverb*
+-- African Proverb*
 
 - it's ok to unfollow people in real life
 - People who genuinely want the best for you are very rare and tehy are usually already wealthy, loved and happy.
@@ -1087,36 +1088,36 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 -- Voltaire
 > *"What is love? Love is the absence of judgement."  
 -- Dalai Lama*
-> *"Unless you love someone, nothing else makes any sense."
+> *"Unless you love someone, nothing else makes any sense."  
 -- E.E. Cummings*
-> *"The happiest time of a person's life is after his first divorce."
+> *"The happiest time of a person's life is after his first divorce."  
 -- J.K. Galbraith*
-> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."
+> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
 -- Warren Farrell (American *Psychologist)*
-> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."
+> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
 -- Ronald Colman*
-> *"When a man steals your wife, there is no better revenge than to let him keep her."
+> *"When a man steals your wife, there is no better revenge than to let him keep her."  
 -- Sacha Guitry*
-> *"If men acted after marriage as they do during courtship, there would be fewer divorces > *"and more bankruptcies."
+> *"If men acted after marriage as they do during courtship, there would be fewer divorces > *"and more bankruptcies."  
 -- Frances Rodman*
-> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."
+> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
 -- Charles De Talleyrand-Perigord*
-> *"It doesn't much signify whom one marries, for one is sure to find out next morning it was someone else."
+> *"It doesn't much signify whom one marries, for one is sure to find out next morning it was someone else."  
 -- Will Rogers*
-> *"Love is the triumph of imagination over intelligence."
+> *"Love is the triumph of imagination over intelligence."  
 -- H. L. Mencken*
 > *"When poverty comes in the door, love goes out of the window."  
-> -- English Proverb*
+-- English Proverb*
 > *"Happy the marriage where the husband is the head and the wife the heart."  
-> -- Estonian Proverb*
+-- Estonian Proverb*
 > *"Don't do it. You'll regret it. The things you love about him now, you'll hate in a few years."  
-> -- Tom Ford (Movie)*
+-- Tom Ford (Movie)*
 > *"As long as the bed shakes, the house will remain stable."  
-> -- African Proverb*
+-- African Proverb*
 > *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
-> -- Joyce Benenson*
+-- Joyce Benenson*
 > *"True, unconditional love is the province of parents and saints."  
-> -- Naval*
+-- Naval Ravikant*
 
 - marry someone you can break generational curses with
 - Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
@@ -1218,14 +1219,14 @@ Marry an happy person. Unhappy spouse, unhappy life.
 <!--
 > *"My religion is simple, my religion is kindness."  
 -- Dalai Lama*
-> *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."
+> *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."  
 -- Friedrich Nietzsche*
 > *"Fanaticism is always a sign of repressed doubt."  
 -- Carl Jung*
 > *"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn't just religion that controls you by declaring you a sinner."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"When you renounce something, you're stuck to it forever."  
-> -- Anthony de Mello*
+-- Anthony de Mello*
 
 - god prefers kind atheists over hateful christians.
 - religion simplify ideas.
@@ -1288,16 +1289,16 @@ And on the first day, men created god.
 <!--
 > *"What is research but a blind date with knowledge?
 -- Will Harvey*
-> *"Nature, to be commanded, must be obeyed."
+> *"Nature, to be commanded, must be obeyed."  
 -- Francis Bacon*
 > *"Science advances one funeral at a time."  
-> -- Max Planck*
+-- Max Planck*
 > *"Aha moment: The moment of understanding when two smaller truths connect and a greater truth is revealed."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"Science requires skepticism. Religion requires belief."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"Scientists who support silencing opposing voices are actually priests."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 
 - technology is applied science
 - theories are explanations, not predictions. prediction comes after the explanation
@@ -1436,7 +1437,7 @@ Artistic death is made by consensus.
 <!--
 > *"Limit everything to the essential but do not remove the poetry."  
 -- Dieter Rams*
-> *"The only thing more mysteriously attractive than beauty is corruption."
+> *"The only thing more mysteriously attractive than beauty is corruption."  
 -- Octave Mirbeau (?)*
 
 - our goal is to discover the beauty that is held within the age of upcycling.
@@ -1477,29 +1478,29 @@ The more «art» you allow in, the less commercial success you’ll have. People
 -- Naval Ravikant*
 
 > *"400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative."  
-> -- Nassim Taleb*
+-- Nassim Taleb*
 > *"The best investments are 'buy and forget.'"  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"The Memorial Day we remember our unrealized gains."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"The two biggest investing mistakes are panic buying and panic selling."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"Gold is money. Everything else is credit."  
-> -- J.P. Morgan*
+-- J.P. Morgan*
 > *"I only believe in micro. I don't believe in macro."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
-> -- Kevin Kelly*
+-- Kevin Kelly*
 > *"A great reason to buy instead of renting is that you get to fire your landlord."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 > *"Money just comes to me because I know where to stand."  
-> -- Chelsea Lazkani*
+-- Chelsea Lazkani*
 > *"When volatility or drawdowns are large, the price contains no information."  
-> -- Nassim Taleb*
+-- Nassim Taleb*
 > *"The larger the herd, the lower the returns."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 
 Hints:
 - ultimately is about the total cost of the mortgage. that is teh price of teh home. the closing price is an illusion.
@@ -1620,7 +1621,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 > *"Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out."  
 -- Naval Ravikant*
 
-> *"Education is what survives when what has been learnt has been forgotten."
+> *"Education is what survives when what has been learnt has been forgotten."  
 -- B.F. Skinner*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
@@ -1702,9 +1703,9 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 ## On writing
 
 <!--
-> *"The theory of a free press is that truth will emerge from free discussion, not that it will be presented perfectly and instantly in any one account."
+> *"The theory of a free press is that truth will emerge from free discussion, not that it will be presented perfectly and instantly in any one account."  
 -- Walter *Lippmann*
-> *"I have made this letter longer then usual because I lacked the time to make it shorter."
+> *"I have made this letter longer then usual because I lacked the time to make it shorter."  
 -- Blaise Pascal (?)*
 > *"The purpose of literature is to turn blood into ink."  
 -- T.S.Eliot*
@@ -1716,7 +1717,7 @@ Don't read the books made to make money, read the ones they want to ban. Most bo
 -- Winston Churchill*
 > *"The biggest lie we tell ourselves is «I dont need to write this down because I will remember it.»"
 -- Kevin Kelly*
-> *"I try not to speak more clearly than I think."
+> *"I try not to speak more clearly than I think."  
 -- Niels Bohr*
 
 - o poeta faz a sintese das coisas

@@ -11,14 +11,14 @@
 ## On creativity
 
 <!--
-> *"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we *exchange these ideas, then each of us will have two ideas."
+> *"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we *exchange these ideas, then each of us will have two ideas."  
 -- George Bernard Shaw*
-> *"Nothing is more powerful than an idea whose time has come."
+> *"Nothing is more powerful than an idea whose time has come."  
 -- Victor Hugo*
-> *"An idealist is one who helps the other fellow to make a profit."
+> *"An idealist is one who helps the other fellow to make a profit."  
 -- Henry Ford*
 > *"The clash of ideas is the sound of freedom.*
-> *"Consistency is the last refuge of the unimaginative."
+> *"Consistency is the last refuge of the unimaginative."  
 -- Oscar Wilde*
 > *"The ability to see order in chaos is called creativity."  
 -- Simon Sinek*
@@ -421,7 +421,6 @@ Hints:
 > *"The only part you can't outsource is judgement."  
 -- Naval Ravikant*
 
-
 > *"My brother says to never make a big decision before you take a shower."*
 - Wait 48 hours before buying stuff
 - for every complex problem there is an answer that is clear, simple, and wrong.
@@ -538,11 +537,11 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 > *"Action is the foundational key to all success."  
 -- Pablo Picasso*
 > *"Brooks' Law: Adding manpower to a late software project makes it later.*
-> *"To take a significant step forward, you must make a series of finite improvements."
--- Donald J. Atwood, General Motors The greatest force for improvement is *resistance to change."
+> *"To take a significant step forward, you must make a series of finite improvements."  
+-- Donald J. Atwood, General Motors The greatest force for improvement is *resistance to change."  
 > *"Change is inevitable, it's our job to exploit it.*
 -- Eli Goldratt*
-> *"The power of accurate observation is commonly called cynicism by those who have not got it."
+> *"The power of accurate observation is commonly called cynicism by those who have not got it."  
 -- George Bernard Shaw*
 > *"Action expresses priorities."  
 -- Gandhi*
@@ -550,7 +549,7 @@ A mental model is a functional tool. If you don't understand its limitations, yo
 -- Tennessee Williams*
 > *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
 -- Edward G. Bulwer-Lytton*
-> *"The day you decide to do it is your lucky day."
+> *"The day you decide to do it is your lucky day."  
 -- Japanese proverb*
 
 - blessed are the restless.
@@ -605,7 +604,7 @@ Stop making resolutions and start making something. Time is the most precious th
 -- Paulo Coelho*
 > *"While we wait for life, life passes."  
 -- Seneca*
-> *"The best time to plant a tree was 20 years ago. The second best time is right now."
+> *"The best time to plant a tree was 20 years ago. The second best time is right now."  
 -- Chinese proverb*
 -->
 
@@ -1060,7 +1059,7 @@ Hints:
 - Instead of killing it, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.
 
 > *"Make other people come to you: use bait if necessary."  
-"Use absence to increase respect and honor."
+"Use absence to increase respect and honor."  
 "Use selective honesty and generosity to disarm your victim."  
 "Play a sucker to catch a sucker: seem dumber than your mark."  
 "Pose as a friend, work as a spy."  
@@ -1164,9 +1163,9 @@ Hints:
 -- Deb Chachra*
 
 <!--
-> *The closer you are to the truth, the more silent you become inside."
+> *The closer you are to the truth, the more silent you become inside."  
 -- Naval Ravikant*
-> *Sometimes people dont want to hear the truth because they don't want their illusions destroyed."
+> *Sometimes people dont want to hear the truth because they don't want their illusions destroyed."  
 -- Friedrich Nietzsche*
 -->
 
@@ -1356,13 +1355,13 @@ However people who forgive easily are taken for granted.
 <!--
 > *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)
 -- Robert A. Heinlein, Notebooks of Lazarus*
-> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."
+> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
 -- Seneca*
-> *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."
+> *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."  
 -- George Smith Patton*
-> *"To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting."
+> *"To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting."  
 -- Sun Tzu, *300 B.C.*
-> *"Summer grass > *"all that's left of warrior's dreams."
+> *"Summer grass > *"all that's left of warrior's dreams."  
 -- Basho*
 > *"Before you embark on a journey of revenge, dig two graves."  
 -- Confucius*
