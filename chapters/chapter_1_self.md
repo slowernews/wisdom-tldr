@@ -11,8 +11,6 @@
 ## On autonomy
 
 <!--
-> *"What we reason for ourselves may help others. What we reason for others will not help us."  
--- Naval Ravikant*
 > *"The more you have to define freedom the less freedom you have."  
 -- Alexander Bickel (?)*
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
@@ -25,6 +23,8 @@
 -- La Rochefoucauld*
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu*
+> *"What we reason for ourselves may help others. What we reason for others will not help us."  
+-- Naval Ravikant*
 > *"If you hurt people because of their expectations of you, that's their problem."  
 -- Naval Ravikant*
 
@@ -72,20 +72,17 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-> *"Everybody wants spirituality. Nobody wants the truth."  
--- Naval Ravikant*
-> *"I don't want to be in environments or people where I have to watch what I say."  
--- Naval Ravikant*
-> *"Escape competition through authenticity."  
--- Naval Ravikant*
-> *"To be honest speak without identity."  
--- Naval Ravikant*
 > *"You're no under no obligation to be the same person you were 5 minutes ago."  
 -- Alan Watts*
 > *"What do you really despise? By this you are truly known."  
 -- Frank Herbert
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin*
+> *"Everybody wants spirituality. Nobody wants the truth."  
+"I don't want to be in environments or people where I have to watch what I say."  
+"Escape competition through authenticity."  
+"To be honest speak without identity."  
+-- Naval Ravikant*
 
 - Honesty is an antidote to impostor syndrome. 
 - CHANGE YOUR ACTIONS, NOT YOURSELF. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
@@ -143,16 +140,11 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"There is no greter fraud than the promise not kept."  
 -- Gaelic proverb*
 > *"the selfish reason to be ethical is that it attracts the other ethical people in the network."  
--- Naval Ravikant*
-> *"Integrity is when what you think and what you say and what you do are one"  
--- Naval Ravikant*
-> *"Returns are made on the way up. reputations are made on the way down."  
--- Naval Ravikant*
-> *"Living a life of integrity pays off, but it takes a very long time."  
--- Naval Ravikant*
-> *"Before you can lie to another, you must firt lie to yourself."  
--- Naval Ravikant*
-> *"Intentions don't matter. Actions do. That's why being ethical is hard."  
+"Integrity is when what you think and what you say and what you do are one"  
+"Returns are made on the way up. reputations are made on the way down."  
+"Living a life of integrity pays off, but it takes a very long time."  
+"Before you can lie to another, you must firt lie to yourself."  
+"Intentions don't matter. Actions do. That's why being ethical is hard."  
 -- Naval Ravikant*
 
 - every damn thing is your own fault, if you are any good.
@@ -218,8 +210,6 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 ## On gratitude
 
 <!--
-> *"Dead people receive more flowers than the living ones because regret is stronger than gratitude."  
--- Anne Frank*
 > *"A man's character is his fate."  
 -- Heraclitus*
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich."  
@@ -232,6 +222,9 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 - I opened two gifts this morning. They were my eyes.
 -->
 
+> *"The higher we are placed, the more humbly we should walk."  
+-- Cicero*
+
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  
 -- Oprah Winfrey*
 
@@ -239,6 +232,9 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero*
+
+> *"Dead people receive more flowers than the living ones because regret is stronger than gratitude."  
+-- Anne Frank*
 
 > *"When you are grateful, fear disappears and abundance appears." (...) 'You can’t be grateful and angry simultaneously."  
 -- Anthony Robbins*
@@ -266,8 +262,6 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 <!--
 > *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
 -- Naval Ravikant*
-> *"You will earn the respect of all if you begin earning the respect of yourself."  
--- Rufus*
 
 - you might think you want a fancy car or a nice watch. but what you probably want is respect and admiration- the psychology of money
 -->
@@ -287,6 +281,9 @@ Ego is the unhealthy belief in our own importance. You are not perfect neither y
 
 > *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it."  
 -- Paulo Coelho*
+
+> *"You will earn the respect of all if you begin earning the respect of yourself."  
+-- Rufus*
 
 ### How to apologise?
 
@@ -308,40 +305,25 @@ A way to humble yourself is to put you in the position of being the weakest pers
 ## On agency
 
 <!--
-> *"The longer the tongue, the shorter the hands."  
--- Czech proverb*
-> *"A man dies when he stops working."  
--- Hebrew proverb
+
 > *"The mind gives up before the body."  
--- Naval ravikant*
-> *"Doing is faster than watching."  
--- Naval Ravikant*
-> *"You'll never be criticized by someone who is doing more than you. You'll always be critized by someone who is doing less. Remember that."  
--- Denzel Washington*
-> *"The seed of all evil is laziness."  
--- Welsh Proverb*
-> *"Talkers aren't strong. The strong don't talk."  
--- Burmese Proverb*
-> *"Work is the medicine for poverty."  
--- Yoruba Proverb*
-> *"Choose inspiration over envy."  
--- Naval Ravikant*
-> *"The optimal zone for performance is 'slightly hungry'."  
--- Naval Ravikant*
-> *"Better bored than busy."  
--- Naval Ravikant*
-> *"Persistence beats timing. Execution beats luck. Not immediately but eventually."  
--- Naval Ravikant*
-> *"You get paid for being right first, and to be first, you can't wait for consensus."  
--- Naval Ravikant*
-> *"Don't settle and don't struggle. Life is what flows in between."  
+"Doing is faster than watching."  
+"Choose inspiration over envy."  
+"The optimal zone for performance is 'slightly hungry'."  
+"Better bored than busy."  
+"Persistence beats timing. Execution beats luck. Not immediately but eventually."  
+"You get paid for being right first, and to be first, you can't wait for consensus."  
+"Don't settle and don't struggle. Life is what flows in between."  
 -- Naval Ravikant*
 
-- it's on documentation. If it's not add it.
-- help with a precise thing (can i drop a lasagna at 4) instead of i'm here for you.
+- It's on documentation. If it's not add it.
 -->
 
 Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
+
+Hints:
+
+- Help with a precise thing («I can drop a lasagna at 4:00.») instead of I'm here for you.
 
 > *"If you have a dream, don't waste your energies explaining why."  
 -- Paulo Coelho*
@@ -352,6 +334,20 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 > *"I don't count my sit-ups. I only start counting once it starts hurting."  
 -- Muhammad Ali*
 
+> *"The longer the tongue, the shorter the hands."  
+-- Czech proverb*
+
+> *"A man dies when he stops working."  
+-- Hebrew proverb*
+
+> *"The seed of all evil is laziness."  
+-- Welsh Proverb*
+
+> *"Talkers aren't strong. The strong don't talk."  
+-- Burmese Proverb*
+
+> *"Work is the medicine for poverty."  
+-- Yoruba Proverb*
 
 
 
@@ -673,8 +669,7 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett*
 > *"It isn't 10k hours that creates outliers, it's 10k iterations."  
--- Naval Ravikant*
-> *"I probably read 1-2 hours a day, and that puts me in the top 0,00001%."  
+"I probably read 1-2 hours a day, and that puts me in the top 0,00001%."  
 -- Naval Ravikant*
 
 - Personality is malleable, in fact it’s so malleable we often don’t realize we’re forging a new one.
@@ -735,8 +730,6 @@ Hints:
 -- H.L. Mencken*
 > *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
 -- Marcus Aurelius, Meditations*
-> *"No one can make you feel inferior without your consent."  
--- Eleanor Roosevelt*
 
 - you don't need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
@@ -765,29 +758,20 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 
 Hints:
 
-<!--
-> *"The best meditation is being curious about the contents of your own mind."  
--- Naval Ravikant*
-> *"Meditation is a good way to measure where you are."  
--- Naval Ravikant*
-> *"A fit mind is a clear mind"
--- Naval Ravikant*
-> *"You are a story you tell yourself"
--- Naval Ravikant*
-> *"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body."  
--- Naval Ravikant*
-> *"Self-awareness is the most attractive trait"
--- Naval Ravikant*
-> *"If you correct your mind, the rest of your life will fall into place."  
--- Lao Tzu*
--->
-
 - Do you know anyone who doesn’t have any blind spots? So why would you be different?  
 - Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen the other person’s views, you might be biased.
 - Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and allow you to thoughtfully respond to your feelings.
 
-> *"self awareness is the most attractive trait."  
--- Naval Ravikant*
+> *"The best meditation is being curious about the contents of your own mind."  
+"Meditation is a good way to measure where you are."  
+"A fit mind is a clear mind"
+"You are a story you tell yourself"
+"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body."  
+"Self-awareness is the most attractive trait"
+-- Naval Ravikant (paraphrased)*
+
+> *"If you correct your mind, the rest of your life will fall into place."  
+-- Lao Tzu*
 
 
 
@@ -812,18 +796,12 @@ Hints:
 > *"Worrying is like paying a debt you don't owe."  
 -- Mark Twain*
 > *"Life hack: When in bed, meditate. Either you'll have a deep meditation or fall asleep. Victory either way."  
--- Naval Ravikant*
-> *"Yoga cultivates peace of body. Meditation cultivates peace of mind."  
--- Naval Ravikant*
-> *"A healthy body is light and silent, just as a healthy mind."  
--- Naval Ravikant*
-> *"When it comes to nutrition, subtract before you add."  
--- Naval Ravikant*
-> *"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
--- Naval Ravikant*
-> *"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies."  
--- Naval Ravikant*
-> *"Meditation isn't hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I'm just going to give myself a break for an hour. This is my hour off from life. This is an hour I'm not going to do anything.»"  
+"Yoga cultivates peace of body. Meditation cultivates peace of mind."  
+"A healthy body is light and silent, just as a healthy mind."  
+"When it comes to nutrition, subtract before you add."  
+"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
+"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies."  
+"Meditation isn't hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I'm just going to give myself a break for an hour. This is my hour off from life. This is an hour I'm not going to do anything.»"  
 -- Naval Ravikant*
 
 - the six best doctors: sunshine, water, rest, air, exercise and diet.
@@ -841,36 +819,27 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 <!--
 > *"A man is as miserable as he thinks he is."  
 -- Seneca*
-> *"before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes."  
--- Sigmund Freud*
-> *"The quality of your mind is the quality of your life."  
--- Naval Ravikant*
-> *"You won't have inner peace until you give up your war against the world."  
--- Naval Ravikant*
-> *"One of the most powerful things to realize is that you can change your own self-image."  
--- Naval Ravikant*
-> *"The mind is everything. What you think you become."  
--- Buddha
-> *"A rational person can find peace by cultivating indifference to things outside of their control."  
--- Naval Ravikant*
-> *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety."  
--- Naval Ravikant*
-> *"You're offended when you fear that it might be true."  
--- Naval Ravikant*
 > *"We suffer more often in imagination than in reality."  
 -- Seneca*
-> *"Uncertainty, not outcome, is the root of stress."  
--- Naval Ravikant*
-> *"Ego is false confidence, self-respect is true confidence."  
--- Naval Ravikant*
-> *"Your trauma creates you."  
--- Naval Ravikant*
-> *"Fasting focuses the mind. It replaces all desires with a single desire."  
--- Naval Ravikant*
+> *"Before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes."  
+-- Sigmund Freud*
+> *"The mind is everything. What you think you become."  
+-- Buddha
 > *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
 -- Mark Manson*
 > *"Make sure you don't start seeing yourself through the eyes of those who don't value you. Know your worth even if they don't."  
 -- Thema Davis*
+> *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety."  
+"Your trauma creates you."  
+"Uncertainty, not outcome, is the root of stress."  
+"A rational person can find peace by cultivating indifference to things outside of their control."  
+"You won't have inner peace until you give up your war against the world."  
+"The quality of your mind is the quality of your life."  
+"One of the most powerful things to realize is that you can change your own self-image."  
+"Fasting focuses the mind. It replaces all desires with a single desire."  
+"You're offended when you fear that it might be true."  
+"Ego is false confidence, self-respect is true confidence."  
+-- Naval Ravikant*
 
 - As I began to love myself, my relationship with everyone changed.
 - depression hates a moving target.
@@ -956,9 +925,9 @@ Hints:
 > *"Any person capable of angering you becomes your master; ha can anger you only you permit yourself being disturbed by him."  
 -- Epictetus*
 > *"Fear makes the wolf bigger than he is."  
-> -- German Proverb*
+-- German Proverb*
 > *"Nothing in life is to be feared, it is only to be understood."  
-> -- Marie Curie*
+-- Marie Curie*
 
 - anger is a punishment we give ourselves for someone else's mistake
 - fear does not stop death, it stops life
@@ -1000,92 +969,85 @@ Hints:
 ### On courage
 
 <!--
-> *"It's better to be a restrained monster than a well-behaved coward."  
--- Jordan Peterson*
-> *"Fear is a reaction. Courage is a decision."  
--- Wiston Churchill*
-> *"Without courage there cannot be truth, and without truth there can be no other virtue."  
--- Sir Walter Scott*
-> *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind."  
--- Ralph Waldo Emerson*
-> *"A man without courage is a knife without an edge."  
--- Proverb*
-> *"Courage consists, not in blindly overlooking danger, but in seeing and conquering it."  
--- Jean Paul*
-> *"All brave men love; for he only is brave who has affections to fight for."  
--- Nathaniel Hawthorne*
-> *"Courage is resistance to fear, mastery of fear — not absence of fear."  
--- Mark Twain*
-> *"Courage is grace under pressure."  
--- Ernest Hemingway*
-> *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
--- Eddie Rickenbacker*
-> *"To see what is right and not to do it, is want of courage."  
--- Confucius*
-> *"No man can be brave who considers pain the greatest evil of life."  
--- Cicero*
-> *"Courage ought to be guided by skill, and skill armed by courage."  
--- Sir P. Sidney*
-> *"Courage makes a man more than himself; for he is then himself plus his valor."  
--- William R. Alger*
-> *"A man of courage is also full of faith."  
--- Cicero*
-> *"So far as man stands for anything, and is productive or originative at all, his entire vital function may be said to have to deal with maybes. Not a victory is gained, not a deed of faithfulness or courage is done, except upon a maybe; not a service, not a sally of generosity, not a scientific exploration or experiment or textbook, that may not be a mistake. It is only by risking our persons from one hour to another that we live at all."  
--- William James*
-> *"It is courage that vanquishes in war, and not good weapons."  
--- Miguel de Cervantes*
-> *"He has not learned the lesson of life who does not every day surmount a fear."  
--- Ralph Waldo Emerson*
-> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
--- Gaius Lucilius*
-> *"A coward flees backward, away from new things. A man of courage flees forward, in the midst of new things."  
--- Jacques Maritain*
-> *"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."  
--- Miguel de Cervantes*
-> *"Troops would never be deficient in courage, if they could only know how deficient in it their enemies were."  
--- Duke of Wellington*
-> *"The boldest measures are the safest."  
--- Horatio Nelson*
-> *"Tell a man that he is brave, and you help him become so."  
--- Thomas Carlyle*
-> *"Keep your fears to yourself but share your courage with others."  
--- Robert Louis Stevenson*
-> *"The scars you acquire by exercising courage will never make you feel inferior."  
--- Giovanni Battista Cima*
-> *"Knowledge without courage is sterile."  
--- Baltasar Gracián*
-
 - courage is a form of intelligence not strenght. it's about outwitting your limiting beliefs, irrational fears and insecurities.
 -->
 
 > *"Life shrinks or expands in proportion to one’s courage."  
 -- Anaïs Nin*
 
+> *"Without courage there cannot be truth, and without truth there can be no other virtue."  
+-- Sir Walter Scott*
+
+> *"Fear is a reaction. Courage is a decision."  
+-- Wiston Churchill*
+
+> *"Courage is resistance to fear, mastery of fear — not absence of fear."  
+-- Mark Twain*
+
 Heros and cowards feel the same fear but their answers are different. Courage implies low reverence.
-
-> *"Tolerance of intolerance is cowardice."  
--- Ayaan Hirsi Ali*
-
-> *"Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently."  
--- Maya Angelou*
-
-> *"Evil will prevail if good men stand back and do nothing."  
--- Edmund Burke*
 
 > *"All the darkness in the world cannot extinguish the light of a single candle."  
 -- Francis of Assisi*
 
-> *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
--- Lao Tzu*
+> *"Evil will prevail if good men stand back and do nothing."  
+-- Edmund Burke*
+
+> *"Tolerance of intolerance is cowardice."  
+-- Ayaan Hirsi Ali*
+
+> *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind."  
+-- Ralph Waldo Emerson*
 
 > *"Those who lack the courage will always find a philosophy to justify it."  
 -- Albert Camus*
 
+> *"It's better to be a restrained monster than a well-behaved coward."  
+-- Jordan Peterson*
+
+> *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
+-- Lao Tzu*
+
+> *"Courage consists, not in blindly overlooking danger, but in seeing and conquering it."  
+-- Jean Paul*
+
+> *"A man of courage is also full of faith."  
+-- Cicero*
+
+> *"Courage ought to be guided by skill, and skill armed by courage."  
+-- Sir P. Sidney*
+
+> *"Troops would never be deficient in courage, if they could only know how deficient in it their enemies were."  
+-- Duke of Wellington*
+
+> *"It is courage that vanquishes in war, and not good weapons."  
+-- Miguel de Cervantes*
+
+> *"Courage makes a man more than himself; for he is then himself plus his valor."  
+-- William R. Alger*
+
+> *"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."  
+-- Miguel de Cervantes*
+
+> *"Tell a man that he is brave, and you help him become so."  
+-- Thomas Carlyle*
+
 > *"A coward has no scar."  
 -- Zimbabwean proverb*
 
-> *"Who's talking the truth doesn't need a lot of words."  
--- Polish proverb*
+> *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
+-- Eddie Rickenbacker*
+
+> *"The scars you acquire by exercising courage will never make you feel inferior."  
+-- Giovanni Battista Cima*
+
+> *"Keep your fears to yourself but share your courage with others."  
+-- Robert Louis Stevenson*
+
+> *"Knowledge without courage is sterile."  
+-- Baltasar Gracián*
+
+> *"Courage is grace under pressure."  
+-- Ernest Hemingway*
 
 
 
@@ -1103,8 +1065,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"When crisis and disaster strike, don’t waste them. No problems, no progress."  
 -- Kevin Kelly*
 > *"There is no failure, only feedback."  
--- Naval Ravikant*
-> *"Most of our suffering comes from avoidance."  
+"Most of our suffering comes from avoidance."  
 -- Naval Ravikant*
 -->
 
@@ -1215,8 +1176,7 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 > *"Those whose approval you seek the most give you the least."  
 -- Rozanne Weissman*
 > *"Self-esteem is just the reputation you have with yourself. You'll always know."  
--- Naval Ravikant*
-> *"Guilt is society's voice speaking in your head."  
+*"Guilt is society's voice speaking in your head."  
 -- Naval Ravikant*
 
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
@@ -1348,14 +1308,13 @@ Hints:
 ## On pessimism
 
 <!--
-> *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative."  
--- Naval Ravikant*
 > *"Both optimists and pessimists contribute to society. The optimist invents the aeroplane, the pessimist the parachute."  
 -- George Bernard Shaw*
-> *"To see if they really think that things are getting worse, ask them if they'd rather live in the future or in the past."  
--- Naval Ravikant*
 > *"Worry gives small things a big shadow."  
 -- Swedish Proverb*
+> *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative."  
+"To see if they really think that things are getting worse, ask them if they'd rather live in the future or in the past."  
+-- Naval Ravikant*
 
 - the seduction of pessimism: optimism sounds like a sales pitch. pessimism sounds like someone trying to help you.
 - organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.

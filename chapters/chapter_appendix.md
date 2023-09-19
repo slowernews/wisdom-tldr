@@ -408,13 +408,11 @@ Intelligence is a spectrum, a dog is intelligent also. To reveal the true nature
 <!--
 > *"No one is as impressed with your possessions as you are."  
 -- Kevin Kelly*
-> *"No one can predict macro."  
--- Naval Ravikant*
 > *"Being rich is having money; being wealthy is having time."  
 -- Stephen Swidr*
 > *"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms."  
--- Naval Ravikant*
-> *"Making money is not something that you do - it's a skill that you learn."  
+"No one can predict macro."  
+"Making money is not something that you do - it's a skill that you learn."  
 -- Naval Ravikant*
 
 - money doesnt buy happiness. it buys freedom.
@@ -498,10 +496,8 @@ People say they want to be famous to impact the world, often what they want is t
 -- Naval Ravikant*
 
 > *"The reward for getting on the stage is fame. The price of fame is that you can't get off stage."  
--- Naval Ravikant*
-
-> *"If you're not ready to be hated, you're not ready to be famous."  
--- Naval Ravikant*
+"If you're not ready to be hated, you're not ready to be famous."  
+-- Naval Ravikant (Paraphrased)*
 
 
 
@@ -643,21 +639,16 @@ Health is also an envy trigger. Often what people really envy is self-control.
 -- Swedish Proverb*
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
-> *"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you."  
--- Naval Ravikant*
-> *"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can't fathom."  
--- Naval Ravikant*
-> *"No routine. I'm famously unscheduled."  
--- Naval Ravikant*
 > *"For a great payoff, be especially curious about the things you are not interested in."  
 -- Kevin Kelly*
-> *"To measure your quality of life, simply do nothing and see how it feels."  
--- Naval Ravikant*
-> *"You should be too busy to do coffee, while still keeping an uncluttered calendar."  
--- Naval Ravikant*
 > *"Enough is a decision, not an amount."  
 -- Alison Faulkner*
-> *"Develop strategic incompetence - people won't ask you to do things you hate to do if you're bad at them."  
+> *"To measure your quality of life, simply do nothing and see how it feels."  
+"You should be too busy to do coffee, while still keeping an uncluttered calendar."  
+"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you."  
+"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can't fathom."  
+"No routine. I'm famously unscheduled."  
+"Develop strategic incompetence - people won't ask you to do things you hate to do if you're bad at them."  
 -- Naval Ravikant*
 
 - 3 hobbies: one cretive, one to keep in shape and one to make money
@@ -766,8 +757,7 @@ Hints:
 > *"Success and rest don't sleep together."  
 -- Russian Proverb*
 > *"The price of growth is outgrowing people."  
--- Naval Ravikant*
-> *"Predicting failure is easier than predicting success."  
+*"Predicting failure is easier than predicting success."  
 -- Naval Ravikant*
 
 - I didn't get successful by knowing everything, I got successful by listening.
@@ -864,6 +854,8 @@ wisdom = inteligence + experience
 -- Pablo Picasso
 > *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant*
+> *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
+-- Mae West*
 
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 > *"One-seventh of your life is spent on Mondays.*
@@ -872,8 +864,6 @@ wisdom = inteligence + experience
 “When you’re up to your nose in sh*t, keep your mouth shut.” -- Movie character Jack Beauregard, played by Henry Fonda
 - "the grass is always greener on the side that is fertilized with bulshit"
 - society: be yourself. Society: Not like that.
-> *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
--- Mae West*
 > *"La que no es puta non desfruta."*
 > *"Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem."*
 > *"The four most expensive words in the English language: «This time is different»."  
@@ -969,16 +959,14 @@ Most people approach each and every year in the exact same way while expecting d
 -- Kevin Kelly*
 > *"If everybody loves you, something is wrong."  
 -- Paulo Coelho*
-> *"Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."  
--- Naval Ravikant*
-> *"Your family is broken but you're going to fix the world."  
--- Naval Ravikant*
-> *"If raising children was less rewarding than not doing it, the human race would have gone extinct."  
--- Naval Ravikant*
 > *"Bad friends will prevent you from having good friends."  
 -- African Proverb*
 > *"I drink to make other people more interesting."  
 -- Ernest Hemingway*
+> *"Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."  
+"Your family is broken but you're going to fix the world."  
+"If raising children was less rewarding than not doing it, the human race would have gone extinct."  
+-- Naval Ravikant*
 
 - maintain old friendships
 - be suspicious of people who like being owed a favor. especially if it is not a favor you requested.
@@ -1224,10 +1212,10 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Friedrich Nietzsche*
 > *"Fanaticism is always a sign of repressed doubt."  
 -- Carl Jung*
-> *"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn't just religion that controls you by declaring you a sinner."  
--- Naval Ravikant*
 > *"When you renounce something, you're stuck to it forever."  
 -- Anthony de Mello*
+> *"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn't just religion that controls you by declaring you a sinner."  
+-- Naval Ravikant*
 
 - god prefers kind atheists over hateful christians.
 - religion simplify ideas.
@@ -1295,10 +1283,8 @@ And on the first day, men created god.
 > *"Science advances one funeral at a time."  
 -- Max Planck*
 > *"Aha moment: The moment of understanding when two smaller truths connect and a greater truth is revealed."  
--- Naval Ravikant*
-> *"Science requires skepticism. Religion requires belief."  
--- Naval Ravikant*
-> *"Scientists who support silencing opposing voices are actually priests."  
+"Science requires skepticism. Religion requires belief."  
+"Scientists who support silencing opposing voices are actually priests."  
 -- Naval Ravikant*
 
 - technology is applied science
@@ -1475,32 +1461,24 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
-> *"All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
--- Naval Ravikant*
-
-> *"400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative."  
--- Nassim Taleb*
-> *"The best investments are 'buy and forget.'"  
--- Naval Ravikant*
-> *"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer."  
--- Naval Ravikant*
-> *"The Memorial Day we remember our unrealized gains."  
--- Naval Ravikant*
-> *"The two biggest investing mistakes are panic buying and panic selling."  
--- Naval Ravikant*
-> *"Gold is money. Everything else is credit."  
--- J.P. Morgan*
-> *"I only believe in micro. I don't believe in macro."  
--- Naval Ravikant*
-> *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
--- Kevin Kelly*
-> *"A great reason to buy instead of renting is that you get to fire your landlord."  
--- Naval Ravikant*
 > *"Money just comes to me because I know where to stand."  
 -- Chelsea Lazkani*
 > *"When volatility or drawdowns are large, the price contains no information."  
 -- Nassim Taleb*
-> *"The larger the herd, the lower the returns."  
+> *"400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative."  
+-- Nassim Taleb*
+> *"Gold is money. Everything else is credit."  
+-- J.P. Morgan*
+> *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
+-- Kevin Kelly*
+> *"The best investments are 'buy and forget.'"  
+"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer."  
+"The Memorial Day we remember our unrealized gains."  
+"The two biggest investing mistakes are panic buying and panic selling."  
+"I only believe in micro. I don't believe in macro."  
+"A great reason to buy instead of renting is that you get to fire your landlord."  
+"The larger the herd, the lower the returns."  
+"All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
 -- Naval Ravikant*
 
 Hints:
@@ -1749,6 +1727,11 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 > *"This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.  
 So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader’s ear. Don’t just write words. Write music"  
 -- Gary Provost*
+
+### On journalism
+
+> *"Journalism is printing what someone else doesn't want printed. Everything else is public relations."  
+-- George Orwell*
 
 ### On email
 

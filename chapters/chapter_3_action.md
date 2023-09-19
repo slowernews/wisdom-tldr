@@ -15,6 +15,8 @@
 -- George Bernard Shaw*
 > *"Nothing is more powerful than an idea whose time has come."  
 -- Victor Hugo*
+> *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
+-- Victor Hugo*
 > *"An idealist is one who helps the other fellow to make a profit."  
 -- Henry Ford*
 > *"The clash of ideas is the sound of freedom.*
@@ -28,8 +30,6 @@
 -- Albert Einstein*
 > *"An idea that is not dangerous is unworthy of being called an idea at all."  
 -- Oscar Wilde*
-> *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
--- Victor Hugo*
 > *"A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man's brow."  
 -- Ovid*
 > *"All achievements, all earned riches, have their beginning in an idea."  
@@ -128,12 +128,12 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 <!--
 > *"There are no facts, only interpretations."  
 -- Friedrich Nietzsche*
+> *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection."  
+-- Henri Poincaré*
 > *"Anything you say before the word «but» does not count."  
 -- Kevin Kelly*
 > *"If you don't know, it's because you are not interested in it."  
 -- Naval Ravikant*
-> *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection."  
--- Henri Poincaré*
 
 - Bragging razor: if someone brags assume half. if someone downplays double it.
 - Nothing is as good or as bad as it seems.
@@ -264,6 +264,9 @@ Truth does not mind to be questioned. A lie does not like being challenged.
 
 In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don't need to reharse anything.  
 
+> *"Who's talking the truth doesn't need a lot of words."  
+-- Polish proverb*
+
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
 
@@ -301,9 +304,11 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 <!--
 > *"The question isn't who is going to let me; it's who is going to stop me."  
--- Ayn Rand
+-- Ayn Rand*
 > *"The wise warrior avoids the battle."  
 -- Sun Tzu*
+> *"You can count on the Americans to do the right thing, once they've exhausted every other possible course of action."  
+-- Winston Churchill*
 
 - what you think is your problem is not your problem, your strategy is - dan munro
 - a plan is only useful if it can survive reality. And a future filled with unknowns is everyone's reality.
@@ -384,6 +389,8 @@ Hints:
 ## On decision making
 
 <!--
+> *"The boldest measures are the safest."  
+-- Horatio Nelson*
 > *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
 -- Derek Sivers*
 > *"Se não houvesse decisoes eramos todos iguais."  
@@ -412,17 +419,13 @@ Hints:
 -- K.C. Flory*
 > *"There is no exception to the rule that everybody likes to be an exception to the rule."  
 -- Malcolm Forbes*
-> *"Clear thinkers take feedback from reality, not society."  
--- Naval Ravikant*
-> *"The three big decisions: where you live, who you're with, and what you're doing."  
--- Naval Ravikant*
-> *"In the age of infinite leverage, judgement is the most important skill."  
--- Naval Ravikant*
 > *"Thinking is difficult. That's why most people judge."  
 -- Carl Jung*
-> *"Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity."  
--- Naval Ravikant*
-> *"The only part you can't outsource is judgement."  
+> *"Clear thinkers take feedback from reality, not society."  
+"The three big decisions: where you live, who you're with, and what you're doing."  
+"In the age of infinite leverage, judgement is the most important skill."  
+"Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity."  
+"The only part you can't outsource is judgement."  
 -- Naval Ravikant*
 
 > *"My brother says to never make a big decision before you take a shower."*
@@ -655,19 +658,17 @@ Hints:
 ---
 ## On speed and direction
 
-<!--
-> *"I'm a slow walker but I never walk back."  
--- Abraham Lincoln*
--->
-
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker*
 
-> *"Start as close to the end as possible."  
--- Kurt Vonnegu*
+> *"I'm a slow walker but I never walk back."  
+-- Abraham Lincoln*
 
 > *"Most people overestimate what they can do in one year and underestimate what they can do in ten years."  
 -- Bill Gates*
+
+> *"Start as close to the end as possible."  
+-- Kurt Vonnegu*
 
 Direction is more important than velocity. Even if we can't choose the starting point, often, we can choose the direction.
 
@@ -755,10 +756,8 @@ Busy imply out of control. Lack of time is lack of priorities.
 > *"Work expands so as to fill the time available for its completion."  
 -- C. Northcote Parkinson*
 > *"If you're not spending your time doing what you want, and you're not earning, and you're not learning - what the heck are you doing?"  
--- Naval Ravikant*
-> *"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it."  
--- Naval Ravikant*
-> *"Say no: 'It doesn't feel right to me.' No more explanations are needed."  
+"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it."  
+"Say no: 'It doesn't feel right to me.' No more explanations are needed."  
 -- Naval Ravikant*
 
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don't put your best effort.
@@ -889,15 +888,12 @@ Overcompensate. Some people get passion from something they struggled with.
 -- Socrates*
 > *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  
 -- James Akre*
-> *"The best way, perhaps the only way, to change others is to become an example."  
--- Naval Ravikant*
-> *"Everybody wants to change others. Nobody wants to be changed."  
--- Naval Ravikant*
-> *"People think they can't change themselves, but they can. People think they can change others, but they can't."  
--- Naval Ravikant*
 > *"If past history was all there was about the game, the richest people would be librarians."  
 -- Warren Buffett*
-> *"Sometimes it's easier to change the world than to change people's minds."  
+> *"The best way, perhaps the only way, to change others is to become an example."  
+"Everybody wants to change others. Nobody wants to be changed."  
+"People think they can't change themselves, but they can. People think they can change others, but they can't."  
+"Sometimes it's easier to change the world than to change people's minds."  
 -- Naval Ravikant*
 
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in teh other direction twice as fast to make up for lost time.
@@ -977,22 +973,20 @@ There are limits on change. Willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
+> *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
+-- Liv Boeree*
+> *"Never offend people with style when you can offend them with substance."  
+-- Sam Brown*
+> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
+-- Warren Buffett*
 > *"All guns are loaded."  
 -- Kevin Kelly*
 > *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly*
 > *"You are strong only where you were broken."  
+"It's hard to defeat a high-morale defender with an unlimited supply line."  
+"Leverage converts knowledge into power."  
 -- Naval Ravikant*
-> *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
--- Liv Boeree*
-> *"It's hard to defeat a high-morale defender with an unlimited supply line."  
--- Naval Ravikant*
-> *"Leverage converts knowledge into power."  
--- Naval Ravikant*
-> *"Never offend people with style when you can offend them with substance."  
--- Sam Brown*
-> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
--- Warren Buffett*
 
 - drain opponent morale with unexpected defeat or unexpected strong defence.
 - every strenght has a complementary weakness. //ex. centralised (no duplication but slower) vs decentralised (faster but chaotic). abstract thinker vs local thinker. as qualidades s defeitos.
