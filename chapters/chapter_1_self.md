@@ -87,7 +87,6 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin*
 
-- If you tell teh truth you don't need to reharse anything. I'm bad in following a script.
 - Honesty is an antidote to impostor syndrome. 
 - CHANGE YOUR ACTIONS, NOT YOURSELF. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
 - You must play by your rules, funnel your weird stuff to give you some advantage.
@@ -380,8 +379,6 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 ## On comfort and risk
 
 <!--
-- Stability without Stagnation
-
 > *"The silence between the notes makes the music. And lest we forget, the longer the silence, the more incredibly beautiful and powerful the music when it finally swells and the symphony goes on."  
 -- Brianna West*
 > *"One doesn't discover new lands without consenting to lose sight of the shore for a very long time."  
@@ -389,7 +386,7 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 > *"What's right is what's left if you do everything else wrong."  
 -- Robin Williams*
 > *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
--- Alexander Graham Bell* 
+-- Alexander Graham Bell*
 > *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."  
 -- Sophocles*
 > *"You can't go back and change the beginning, but you can start where you are and change the ending."  
@@ -400,6 +397,8 @@ Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
 -- Frank Zappa*
 > *"Never test the depth of teh river with both feet."  
 -- Warren Buffett*
+
+- Stability without Stagnation
 -->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
@@ -657,7 +656,8 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 -- Robert Greene*
 
 > *"How often our early triumphs turn us into a kind of caricature of ourselves."  
--- Robert Greene*  
+-- Robert Greene*
+ 
 
 
 
@@ -910,7 +910,8 @@ Depression and anxiety are symptoms of under-stimulation and over-stimulation, n
 -- Laurie Halse Anderson*
 
 > *"Anxiety is the dizziness of freedom."  
--- Søren Kierkegaard*  
+-- Søren Kierkegaard*
+ 
 
 > *"In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves."  
 -- Laurie Halse Anderson*
@@ -1397,38 +1398,36 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 ---
 ## On perfectionism
 
-<!--
-> *"Have no fear of perfection. You'll never reach it."  
--- Salvador Dali*
-> *"Perfectionism is teh fear of being criticized."  
--- Caroline Myss*
-> *"And now that you don't have to be perfect, you can be good."  
--- John Steinbeck*
-
--people use it as a badeg of honour to convince themselves that they have high standards but in reality they rarely produce high quality results. perfectionism is a mask for various fears, including fear of failure, fear of being judged and fear of commitment.
--->
-
 > *"The perfect is the enemy of the good."  
 -- Voltaire*
+
+> *"Perfectionism is the fear of being criticized."  
+-- Caroline Myss*
+
+> *"And now that you don't have to be perfect, you can be good."  
+-- John Steinbeck*
 
 Strive for excellence, not for perfection. From good enough you derive success. From perfection you derive procastination, anxiety and depression. 
 
 It's liberating to see yourself as a «doist».
 
-> *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to “change” ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your “self” out of your decisions, because most likely, it’s not about “you”. Simply ask yourself, “Is this a good thing to do?” Yes? Then go do it."  
--- Mark Manson*
-
 > *"Perfectionism doesn’t make you feel perfect; it makes you feel inadequate."  
 -- Maria Shriver*
 
-> *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
--- Andy Hunt*
+> *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
+-- Mark Manson*
+
+> *"I myself am made entirely of flaws, stitched together with good intentions."  
+-- Augusten Burroughs*
 
 > *"The important work of moving the world forward does not wait to be done by perfect men."  
 -- George Eliot*
 
-> *"Something does not need to be perfect to be wonderful. Especially weddings."  
--- Kevin Kelly*	
+> *"Something does not need to be perfect to be wonderful. Specially weddings."  
+-- Kevin Kelly*
 
-> *"I myself am made entirely of flaws, stitched together with good intentions."  
--- Augusten Burroughs*
+> *"Have no fear of perfection. You'll never reach it."  
+-- Salvador Dali*
+
+> *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
+-- Andy Hunt*

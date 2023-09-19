@@ -251,42 +251,45 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 ### On truth
 
-<!--
-> *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
--- Kevin Kelly*
-> *"A lie has speed but truth has endurance."  
--- Edgar J. Mohn*
-> *"A lie has many variations, the truth none."  
--- African proverb*
-> *"Exactitude is not truth."  
--- Henry Matisse*
-> *"There are 3 truths: my truth, your truth, and the truth."  
--- Chinese Proverb*
 > *"It is easier for the world to accept a simple lie than a complex truth."  
 -- Alexis de Tocqueville*
-
-- In a world of propaganda, the truth is always a conspiracy.
--->
-
-Truth does not mind to be questioned. A lie does not like being challenged.
 
 > *"The truth is rarely pure and never simple."  
 -- Oscar Wilde*
 
-> *"The truth will set you free, but first it will piss you off."  
--- Gloria Steinem*
+> *"There are 3 truths: my truth, your truth, and the truth."  
+-- Chinese Proverb*
 
-> *"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened."  
--- Winston Churchill*
+Truth does not mind to be questioned. A lie does not like being challenged.
 
-> *"No one is more hated than he who speaks the truth."  
--- Plato*
+In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don't need to reharse anything.  
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
 
+> *"The truth will set you free, but first it will piss you off."  
+-- Gloria Steinem*
+
+> *"No one is more hated than he who speaks the truth."  
+-- Plato*
+
 > *"The further a society drifts from the truth the more it will hate those who speak it."  
 -- George Horwell*
+
+> *"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened."  
+-- Winston Churchill*
+
+> *"A lie has speed but truth has endurance."  
+-- Edgar J. Mohn*
+
+> *"A lie has many variations, the truth none."  
+-- African proverb*
+
+> *"Exactitude is not truth."  
+-- Henry Matisse*
+
+> *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
+-- Kevin Kelly*
 
 
 
@@ -301,8 +304,6 @@ Truth does not mind to be questioned. A lie does not like being challenged.
 -- Ayn Rand
 > *"The wise warrior avoids the battle."  
 -- Sun Tzu*
-> *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
--- Descartes
 
 - what you think is your problem is not your problem, your strategy is - dan munro
 - a plan is only useful if it can survive reality. And a future filled with unknowns is everyone's reality.
@@ -343,7 +344,10 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"No one ever wrote a plan to be fat, lazy or stupid. That’s what happens when you don’t have a plan."  
 -- Larry Winget*
 
-### How to plan? 
+### How to plan?
+
+> *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
+-- Descartes*
 
 Start with a vision. Then look for actionable steps.  
 
@@ -702,7 +706,8 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 -->
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
--- Seth Godin* 
+-- Seth Godin*
+
 
 > *"People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1000 things."  
 -- Steve Jobs*
@@ -815,7 +820,8 @@ Hints:
 -->
 
 > *"You can lead a horse to water but you can’t make him drink."  
--- unknown* 
+-- unknown*
+
 
 Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
@@ -1020,7 +1026,8 @@ A good strategy doesn’t just draw on existing strength; it creates strength. R
 Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
 Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it."  
--- Naval Ravikant* 
+-- Naval Ravikant*
+
 
 Hints:
 

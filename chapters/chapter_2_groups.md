@@ -691,7 +691,8 @@ No one on their deathbed has ever regretted giving too much away. A low value gi
 > *"He that gives should never remember and he that receives should never forget."  
 -- Talmud*
 
-> *"Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo."* 
+> *"Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo."*
+
 
 > *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he'd learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I'll write you a check». Almost everyone who was just in it for the handouts couldn't be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He'd hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn't want to spend time with him so there was never really a conflict there."  
 -- HN_danielvf*
@@ -838,7 +839,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- EF*
 > *"History is a race between education and catastrophe."  
 -- H.G. Wells*
->* "The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax teh nominal gains, thereby confiscating the real value of the assets."  
+> *"The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax teh nominal gains, thereby confiscating the real value of the assets."  
 -- Naval Ravikant*
 
 > *"It doesn't matter what you do, it only matters what you say you've done and what you're going to do.*
@@ -1287,7 +1288,8 @@ When people criticize your life they are speaking about their fears and limitati
 -- Marilyn Monroe*
 
 > *"The dogs bark but the caravan moves on."  
--- Arab proverb*  
+-- Arab proverb*
+ 
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffet*
@@ -1478,36 +1480,7 @@ Hints:
 ## On career
 
 <!--
-> *"The world will ask you who you are, and if don't know, the world will tell you."  
--- Carl Jung
-> *"Creative teams should be colocated. The rest of the company can be distributed."  
--- Naval Ravikant*
-> *"If the title matters to you, you don't belong to a startup."  
--- Naval Ravikant*
-> *"There are 7B people in the world. someday, I hope, there will be 7B companies."  
--- Naval Ravikant*
-> *"Feels like play to you, look like work to others."  
--- Naval Ravikant*
-> *"You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge."  
--- Naval Ravikant*
-> *"You don't have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely."  
--- Naval Ravikant*
-> *"Be the best in the world at what you do. Keep redefining what you do until this is true."  
--- Naval Ravikant*
-> *"Knowledge workers function like athletes - train and sprint, then rest and reassess."  
--- Naval Ravikant*
-> *"If you want to be part of a great tech company, then you need to be able to sell or build. if you don't do either, learn."  
--- Naval Ravikant*
-> *"What feels like play to you and work to others?"
--- Naval Ravikant*
-> *"Set and enforce an aspirational hourly rate."  
--- Naval Ravikant*
-> *"Rich people get paid by the project and pay by the hour."  
--- Naval Ravikant*
-> *"Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now."  
--- Naval Ravikant*
-> *"Give the world what it need and it will give you what you want."  
--- Naval Ravikant*
+
 > *"If you can't code, write books and blogs, record videos and podcasts."  
 -- Naval Ravikant*
 
@@ -1524,19 +1497,33 @@ Hints:
 - 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
 -->
 
+> *"The world will ask you who you are, and if don't know, the world will tell you."  
+-- Carl Jung*
+
 > *"Don’t be the best. Be the only."  
 -- Kevin Kelly*
 
 Nobody can compete with you on being you. Most of life is a search for who and what needs you the most. Be unique.
 
+> *"If the title matters to you, you don't belong to a startup."*
+> *"If you want to be part of a great tech company, then you need to be able to sell or build. If you don't do either, learn."*
+> *"Creative teams should be colocated. The rest of the company can be distributed."*
+> *"There are 7B people in the world. someday, I hope, there will be 7B companies."
+"What feels like play to you and work to others?"
+"Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now."  
+"Be the best in the world at what you do. Keep redefining what you do until this is true."  
+"You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge."  
+"Give the world what it need and it will give you what you want."  
+"You don't have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely."  
+"Knowledge workers function like athletes - train and sprint, then rest and reassess."
+"If the work doesn't require creativity, delegate it, automate it or leave it."  
+"Set and enforce an aspirational hourly rate."  
+"Rich people get paid by the project and pay by the hour."  
+"To get paid in the future, live in the future."  
+-- Naval Ravikant (Paraphrased)*
+
 > *"The interesting jobs are the ones that you make up."  
 -- Chris Young*
-
-> *"If the work doesn't require creativity, delegate it, automate it or leave it."  
--- Naval Ravikant*
-
-> *"To get paid in the future, live in the future."  
--- Naval Ravikant*
 
 ### How to advance career?
 
@@ -1619,6 +1606,8 @@ Hints:
 -- Naval Ravikant*
 > *"Earn with your mind, not with your time."  
 -- Naval Ravikant*
+> *"Look for the job that you would take if you didn't need a job."  
+-- Warren Buffett*
 
 - There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
 -->
@@ -1647,8 +1636,6 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-> *"Look for the job that you would take if you didn't need a job."  
--- Warren Buffett*
 > *"Don't ever work for someone you dont want to become."  
 -- Kevin Kelly*
 > *"If you can't see yourself working with someone for life, don't work with them for a day."  

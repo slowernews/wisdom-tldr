@@ -549,7 +549,8 @@ Unless you’re winning, life will seem unfair to you. Bad luck is often bad pla
 -- Albert Einstein*
 
 > *"What do you want to know about investing that we can't know? The exact role of luck in successful outcomes."  
--- Robert Schiller* 
+-- Robert Schiller*
+
 
 ### On risk and chance
 
