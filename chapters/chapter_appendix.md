@@ -86,10 +86,8 @@ Let go your past failures: they are meant to guide you, not to define you or det
 
 ### How memory works?
 
-<!--
 > *"It takes an huge effort to free yourself from memory."  
 -- Paulo Coelho*
--->
 
 It’s harder to forget mistakes, past events and the beginning or the end of something. 
 
@@ -158,18 +156,10 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 ## On future
 
 <!--
-> *"Dreams are ... illustrations from the book your soul is writing about you."  
+> *"Dreams are illustrations from the book your soul is writing about you."  
 -- Marsha Norman*
-> *"Myth is the public dream, and dream is the private myth."  
--- Joseph Campbell*
-> *"The best way to make your dreams come true is to wake up."  
--- Paul Valery*
 > *"Goals are dreams with deadlines."  
 -- Diana Scharf Hunt*
-> *"Hope is the dream of a waking man."  
--- Diogenes*
-> *"Yesterday is but today's memory, and tomorrow is today's dream."  
--- Kahlil Gibran*
 
 - a man without a vision for his future, always return to his past.
 - you say I dream too big. i say you dream too small.
@@ -187,6 +177,9 @@ Dream big.
 
 If your dreams don’t scare you, they are not big enough. A ambitious goal sets the bar so high that even a failure is a success measured by the ordinary.
 
+> *"Yesterday is but today's memory, and tomorrow is today's dream."  
+-- Kahlil Gibran*
+
 > *"If you don’t imagine, nothing ever happens at all."  
 -- John Green*
 
@@ -201,6 +194,12 @@ If your dreams don’t scare you, they are not big enough. A ambitious goal sets
 
 > *"Every saint has a past, and every sinner has a future."  
 -- Oscar Wilde*
+
+> *"Myth is the public dream, and dream is the private myth."  
+-- Joseph Campbell*
+
+> *"The best way to make your dreams come true is to wake up."  
+-- Paul Valery*
 
 Our present (in)actions will compound into the future we will get – that’s a great way to think about what lies ahead. However, don’t worry too much, you can’t control it.
 
@@ -228,37 +227,30 @@ Our present (in)actions will compound into the future we will get – that’s a
 ## On growing old
 
 <!--
-> *"If you arrive to my age and nobody thinks well of you, I don't care how big your bank account is, your life is a disaster."  
--- Warren Buffett*
-> *"Aging is an extraordinary process where you become the person you always should have been."  
--- David Bowie*
-> *"An honest man is always a child."  
--- Socrates*
-> *"We mature with the damage, not with the years."  
--- Mateus William*
-> *"It takes a very long time to become young."  
--- Pablo Picasso*
-“As a grown man you should know better than to go around advising people.” -- Bertolt Brecht
-> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
--- Francis Bacon*
-> *"The teachers of morality speak like angels, but live like men."  
--- Sam Johnson*
-> *"Go to Heaven for the climate, Hell for the company."  
--- Mark Twain*
-> *"There is no sin but ignorance."  
--- Christopher Marlowe*
-> *"The old believe everything; the middle-aged suspect everything; the young know everything."  
--- Oscar Wilde*
-> *"everyone wants to live long but, no ones wants to be called old."  
--- Icelandic proverb*
-
 > *"Old age is too high a price to pay for maturity.*
 > *"People who want to share their religious views with you almost never want you to share yours with them.*
 > *"Everybody wants to go to heaven, but nobody wants to die.*
-- My life was sharply divided in two halves. In teh first half, I was always the youngest in teh group; in teh second half, I was always the oldest. Theer was no transitional period. -- stan ulam
 - after reaching a certain age, you are no longer viewed as a person. you become an institution and are you aere treated the way institutions are. you are expected to behave like a piece of period furniture, an architectual landmark.
 - maturing is realizing how many things don't require your comment.
 -->
+
+> *"If you arrive to my age and nobody thinks well of you, I don't care how big your bank account is, your life is a disaster."  
+-- Warren Buffett*
+
+> *"Aging is an extraordinary process where you become the person you always should have been."  
+-- David Bowie*
+
+> *"An honest man is always a child."  
+-- Socrates*
+
+> *"It takes a very long time to become young."  
+-- Pablo Picasso*
+
+> *"Everyone wants to live long but, no ones wants to be called old."  
+-- Icelandic proverb*
+
+> *"My life was sharply divided in two halves. In the first half, I was always the youngest in teh group; in teh second half, I was always the oldest. Theer was no transitional period."  
+-- Stan Ulam*
 
 > *"We don’t stop playing because we grow old; we grow old because we stop playing."  
 -- George bernard Shaw*
@@ -267,9 +259,6 @@ People my age are so much older than me.
 
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
 -- Bruno Munari*
-
-> *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
--- Chuck Palahniuk*
 
 > *"Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older."  
 -- John Cassavetes*
@@ -292,6 +281,12 @@ Aging implies damage.
 
 The advantage of getting older is that you become more decisive.
 
+> *"The old believe everything; the middle-aged suspect everything; the young know everything."  
+-- Oscar Wilde*
+
+> *"We mature with the damage, not with the years."  
+-- Mateus William*
+
 > *"That is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful."  
 -- Ernest Hemingway*
 
@@ -307,6 +302,12 @@ Finding a place to die is an important thing to do.
 
 > *"Retirement is when you stop sacrificing today for an imaginary tomorrow."  
 -- Naval Ravikant*
+
+> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
+-- Francis Bacon*
+
+> *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
+-- Chuck Palahniuk*
 
 
 
@@ -1216,6 +1217,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Anthony de Mello*
 > *"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn't just religion that controls you by declaring you a sinner."  
 -- Naval Ravikant*
+> *"The teachers of morality speak like angels, but live like men."  
+-- Sam Johnson*
 
 - god prefers kind atheists over hateful christians.
 - religion simplify ideas.

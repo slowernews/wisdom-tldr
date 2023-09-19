@@ -795,14 +795,23 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- ownership of government by an individual, by a group or by any controlling private power."  
 -- FDR*
 
-- groups serach for consensus. individuals search for truth. -- naval
-- feee people make free choices. free choices means you have unequal outcomes. you can have freedom or you can have equal outcomes. you can't have both. -- naval
-- independent is what people call you if your opinions don't upset anybody -- nassim taleb
-- all tiranny begins with teh desire to coerce others for teh greater good -- naval
-- most of the culture wars are a struggle between what's best for the children and what's best for the childless. -- naval
-- Inflation is how democracies die. -- charlie munger
-- “Favors granted always become defined as rights.” -- Saul Alinsky
-- “Help a man who is in trouble and that man will remember you when he is in trouble again.” -- Paul Alexander
+> *"Independent is what people call you if your opinions don't upset anybody."  
+> -- Nassim Taleb*
+
+> *"Inflation is how democracies die."  
+> -- Charlie Munger*
+
+> *"Favors granted always become defined as rights."  
+> -- Saul Alinsky*
+
+> *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
+> -- Paul Alexander*
+
+> *"Groups search for consensus. Individuals search for truth."  
+> -- Naval Ravikant*
+
+> *"Most of the culture wars are a struggle between what's best for the children and what's best for the childless."  
+> -- Naval Ravikant*
 
 - law is not a moral compass. teh people who hid anne frank were breaking the law. The people who killed her were following it.
 - insisting in your rights without acknowledging your responsabilities isn't freedom is adolescence
@@ -879,6 +888,9 @@ Hints:
 > *"The disease of 20th century is utopianism, that of 21th century is hypernaive utopianism: libertarianism, wokism, cryptoism, techno-salvationism, etc are identical in spirit to Communism."  
 -- Nassin Taleb*
 
+> *"Free people make free choices. Free choices mean you have unequal outcomes. You can have freedom or you can have equal outcomes. You can't have both."  
+-- Naval Ravikant*
+
 > *"If you are part of a society that votes, then do so. There may be no candidates and measures you want to vote for... But there are certain to be ones you want to vote against. In case of doubt, vote against. By this rule you will rarely go wrong. If this is too blind for your taste, consult some well-meaning fool (there is always one around) and ask his advice. Then vote the other way. This enables you to be a good citizen (if such is your wish) without spending the enormous amount of time that truly intelligent exercise of the franchise requires."  
 -- Robert A. Heinlein, Notebooks of Lazarus*
 
@@ -938,6 +950,9 @@ Hints:
 
 > *"Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules."  
 -- George Carlin*
+
+> *"All tyranny begins with the desire to coerce others for the greater good."  
+-- Naval Ravikant*
 
 ### On law and justice
 
@@ -1107,14 +1122,14 @@ It's easier to recognise stupidity in others than ourselves but don’t take for
 -- Winston Churchill*
 > *"You can easily judge the character of a man by how he treats those who can do nothing for him."  
 -- Goethe*
-> *"Nearly all men stand adversity. If want to test a man's character, give him power."  
--- Abraham Lincoln*
 > *"Nearly all men can stand adversity, but if you want to test a man's character, give him power."  
 -- Abraham Lincoln*
 > *"I'm suspicious of people who don't like dogs, but I trust a dog when it doesn't like a person."  
 -- Bill Murray*
 > *"A drunk man's words, are a sober man's thoughts."  
 -- Italian proverb*
+> *"A great man is hard on himself; a small man is hard on others."  
+-- Confucius*
 -->
 
 > *"Judge a man by his questions, not by his answers."  
@@ -1328,7 +1343,6 @@ When people criticize your life they are speaking about their fears and limitati
 
 > *"The dogs bark but the caravan moves on."  
 -- Arab proverb*
- 
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffet*
@@ -1351,28 +1365,6 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ## On leadership
 
 <!--
-> *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
--- Rumi*
-> *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
--- Alexander the great*
-- you can tell a bully from a leader by how they treat people who disagree with them. -- Miles K. Davis
-> *"To lead people walk behind them."  
--- Lao Tzu*
-> *"A great man is hard on himself; a small man is hard on others."  
--- Confucius*
-> *"Leadership is not about being followed, is about being first."  
--- Dan Munro*
-> *"Only those who do not seek power are qualified to hold it."  
--- Plato*
-> *"If you wish to control others you must control yourself."  
--- Miyamoto Musashi*
-> *"The leader doesn't take charge of the tribe. The leader takes responsability for the tribe."  
-"Charisma is the ability to project confidence and love at the same time."  
-"If aren't willing to get mocked, you'll never be able to lead."  
-"The highest status people in human history are those that asked for nothing and gave everything."  
-"You lead by willing to walk alone."  
--- Naval Ravikant*
-
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - the organization is always modelling the leader. military leader don't have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
@@ -1381,7 +1373,17 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 - convincing vs inspiring leadership
 -->
 
-> *"If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group."*
+> *"Only those who do not seek power are qualified to hold it."  
+-- Plato*
+
+> *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
+-- Rumi*
+
+> *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
+-- Alexander the great*
+
+> *"To lead people walk behind them."  
+-- Lao Tzu*
 
 Leaders are team makers. There are no bad teams, only bad leaders.
 
@@ -1394,15 +1396,32 @@ Hints:
 - Proactive Problem Management – Go directly to the source.
 - Good leaders are leaders that grew up in the hierarchy.  
 - People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
+- If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.
 
-> *"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."  
--- Lao Tzu*
+> *"Leadership is not about being followed, is about being first."  
+-- Dan Munro*
+
+> *"You can tell a bully from a leader by how they treat people who disagree with them."  
+-- Miles K. Davis*
 
 > *"A politician who reads aloud speaches written by others is an actor, not a leader."  
 -- Naval Ravikant*
 
 > *"The person who clears the path ultimately controls its direction, just as the canvas shapes the painting."  
 -- Ryan Holiday*
+
+> *"If you wish to control others you must control yourself."  
+-- Miyamoto Musashi*
+
+> *"The leader doesn't take charge of the tribe. The leader takes responsability for the tribe."  
+"The highest status people in human history are those that asked for nothing and gave everything."  
+"Charisma is the ability to project confidence and love at the same time."  
+"If aren't willing to get mocked, you'll never be able to lead."  
+"You lead by willing to walk alone."  
+-- Naval Ravikant*
+
+> *"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."  
+-- Lao Tzu*
 
 > *"The only thing that gives orders is balls."  
 -- Tony Montana*
@@ -1435,10 +1454,8 @@ Hints:
 
 ### On teams
 
-<!--
 > *"Empires are built from groups of men."  
 -- Andrew tate*
--->
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
 -- African proverb*
@@ -1550,7 +1567,7 @@ Nobody can compete with you on being you. Most of life is a search for who and w
 "You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge."  
 "Give the world what it need and it will give you what you want."  
 "You don't have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely."  
-"Knowledge workers function like athletes - train and sprint, then rest and reassess."
+"Knowledge workers function like athletes - train and sprint, then rest and reassess."  
 "If the work doesn't require creativity, delegate it, automate it or leave it."  
 "Set and enforce an aspirational hourly rate."  
 "Rich people get paid by the project and pay by the hour."  
@@ -1674,8 +1691,8 @@ Ask employers why did they asked you for an interview - they will describe your 
 > *"Being enthusiastic is worth 25 IQ points."  
 -- Kevin Kelly*
 > *"If you can't see yourself working with someone for life, don't work with them for a day."  
-"Management is mostly hiring well and firing quickly."  
 "Mercenaries work for money. Missionaries build for others. Artists create for themselves."  
+"Management is mostly hiring well and firing quickly."  
 -- Naval Ravikant*
 
 - People want freedom to choose their process.
@@ -1717,6 +1734,9 @@ Hints:
 > *"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for."  
 -- Kevin Kelly*
 
+> *"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do."  
+-- Kevin Kelly*
+
 > *"If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss."  
 -- Kevin Kelly*
 
@@ -1730,14 +1750,11 @@ Hints:
 - Your resume should tell the reader why you more valuable to the company than the next person. You’ll show that with your experience. Tell HOW you accomplished your responsibilities better than the next person. ie. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
 - There are two skill levels: still learning or confident.
 
-> *"Twitter is a much better resume than Linkedin."  
--- Naval Ravikant*
-
 ### How to attract and keep talented people?
 
 Respect them.
 
-Good employees are not easy to find. It takes some real chutzpah to make someone do your work for insufficient compensation while you rake in the big bucks.
+Good employees are not easy to find. It takes some real *chutzpah* to make someone do your work for insufficient compensation while you rake in the big bucks.
 
 Hints:
 
@@ -1749,7 +1766,4 @@ Hints:
 -- Naval Ravikant*
 
 > *"Train employees well enough they could get another job, but treat them well enough so they never want to."  
--- Kevin Kelly*
-
-> *"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do."  
 -- Kevin Kelly*

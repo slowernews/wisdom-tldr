@@ -137,7 +137,7 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"The more we disagree, the more chance there is that at least one of us is right.*
 > *"Tell the truth and run."  
 -- Yugoslav proverb*
-> *"There is no greter fraud than the promise not kept."  
+> *"There is no greater fraud than the promise not kept."  
 -- Gaelic proverb*
 > *"the selfish reason to be ethical is that it attracts the other ethical people in the network."  
 "Integrity is when what you think and what you say and what you do are one"  
@@ -305,7 +305,8 @@ A way to humble yourself is to put you in the position of being the weakest pers
 ## On agency
 
 <!--
-
+> *"As a grown man you should know better than to go around advising people."  
+-- Bertolt Brecht*
 > *"The mind gives up before the body."  
 "Doing is faster than watching."  
 "Choose inspiration over envy."  
