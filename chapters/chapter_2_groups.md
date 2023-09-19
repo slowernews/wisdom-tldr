@@ -1540,10 +1540,14 @@ Hints:
 
 Nobody can compete with you on being you. Most of life is a search for who and what needs you the most. Be unique.
 
-> *"If the title matters to you, you don't belong to a startup."  
-"If you want to be part of a great tech company, then you need to be able to sell or build. If you don't do either, learn."  
+> *"If the title matters to you, you don't belong to a startup."
+
+"If you want to be part of a great tech company, then you need to be able to sell or build. If you don't do either, learn."
+
 "Creative teams should be colocated. The rest of the company can be distributed."  
+
 "There are 7B people in the world. someday, I hope, there will be 7B companies."  
+
 "What feels like play to you and work to others?"  
 "Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now."  
 "Be the best in the world at what you do. Keep redefining what you do until this is true."  
