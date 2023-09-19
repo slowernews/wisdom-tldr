@@ -329,19 +329,20 @@ Do something that most people think is hard. If you try something easy, there wi
 > *" Nobody reads advertising. People read what interests them, and sometimes it's an ad."  
 -- Howard Luck Gossage*
 > *"Stop selling, start helping."  
+"Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust."  
 -- Zig Ziglar*
 > *"If it doesn't sell, it isn't creative."  
 "If you can't advertise yourself, what hope have you being able to advertise anything else."  
 "You can't bore people into buying your product."  
 -- David Ogilvy*
 > *"Advertising serves not so much to Advertise products as to promote consumption as a way of life."  
--- Carl Lash (?), 1978*
+-- Carl Lash*
 > *"You can tell the ideals of a nation by its advertisements."  
 -- Norman Douglas*
 > *"Don't find customers for your products, find products for your customers."  
 -- Seth Godin*
 > *"I never had to sell anything that I wouldn't buy myself."  
--- Naval ravikant*
+-- Naval Ravikant*
 
 > *"He who is known as an early riser need not get up until noon.*
 > *"Cheap prices are only cheap if your time has no value.*
@@ -528,21 +529,23 @@ Feedback from mentors speeds up improvement. Even if you can't understand the lo
 
 ### How to find mentors?
 
-<!--
-> *"To know the road ahead, ask those coming back."  
--- Chinese Proverb*
+Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
+
 > *"When the student is ready the teacher appears. When the student is truly ready the teacher disapeers."  
 -- Lao Tzu*
--->
-
-Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *"Don’t follow your mentors; follow your mentors’ mentors."  
 -- David Leach*
 
+> *"To know the road ahead, ask those coming back."  
+-- Chinese Proverb*
+
 Your father is your first mentor.
 
 You should be a mentor yourself. Be generous and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
+
+> *"Those who know do. Those that understand teach."  
+-- Aristotle*
 
 > *"One repays a teacher badly if one remains only a pupil."  
 -- Friedrich Nietzsche*
@@ -550,14 +553,11 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 > *"A society grows great when old men plant trees whose shade they know they shall never sit in."  
 -- Greek proverb*
 
-> *"If you think you’re too small to make an impact, try to go to bed with a mosquito in the room."  
--- Dalai Lama*
-
-> *"Those who know do. Those that understand teach."  
--- Aristotle*
-
 > *"I was always ready to share, but before external success, nobody cared to listen."  
 -- Naval Ravikant*
+
+> *"If you think you’re too small to make an impact, try to go to bed with a mosquito in the room."  
+-- Dalai Lama*
 
 ### How to mentor your kids?
 
@@ -590,6 +590,9 @@ Hints:
 - Autority: «Kid: why do I have to do this? You: I was a boy myself. I know what is that for you and why is important.»  
 - Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
 - Deal with failure: «How did you fail today?» The best gift you can give your children is failure.  
+
+> *"My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect."  
+-- Ivy Baker Priest*
 
 > *"I cannot think of any need in children as strong as the need for a father’s protection."  
 -- Sigmund Freud*
@@ -672,19 +675,10 @@ Hints:
 > *"Life doesn’t come with an instruction book — that’s why we have fathers."  
 -- H. Jackson Browne*
 
-> *"My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect."  
--- Ivy Baker Priest*
-
 > *"Be nice to your children because they are going to choose your nursing home."  
--- Kevin Kelly*
-
-> *"To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave."  
--- Kevin Kelly*
-
-> *"When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”"  
--- Kevin Kelly*
-
-> *"Children totally accept — and crave — family rules. «In our family we have a rule for X» is the only excuse a parent needs for setting a family policy. In fact, «I have a rule for X» is the only excuse you need for your own personal policies."  
+"Children totally accept — and crave — family rules. «In our family we have a rule for X» is the only excuse a parent needs for setting a family policy. In fact, «I have a rule for X» is the only excuse you need for your own personal policies."  
+"When a child asks an endless string of «why?» questions, the smartest reply is, «I don’t know, what do you think?»"  
+"To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave."  
 -- Kevin Kelly*
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don't owe them anything.
@@ -797,7 +791,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 > *"It doesn't matter what you do, it only matters what you say you've done and what you're going to do.*
 > *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
 > *"Freedom of the press is for those who happen to own one.*
-> *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State *itself. That, in its essence, is Fascism
+> *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism
 -- ownership of government by an individual, by a group or by any controlling private power."  
 -- FDR*
 
@@ -1359,7 +1353,6 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 <!--
 > *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
 -- Rumi*
-
 > *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
 -- Alexander the great*
 - you can tell a bully from a leader by how they treat people who disagree with them. -- Miles K. Davis
@@ -1471,7 +1464,7 @@ Hints:
 -->
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
--- exelius_HN*
+-- HN_exelius*
 
 Ask instead of telling. If the delivered work is not good enough give a reason.
 
@@ -1547,12 +1540,10 @@ Hints:
 
 Nobody can compete with you on being you. Most of life is a search for who and what needs you the most. Be unique.
 
-> *"If the title matters to you, you don't belong to a startup."*
-
-> *"If you want to be part of a great tech company, then you need to be able to sell or build. If you don't do either, learn."*
-
-> *"Creative teams should be colocated. The rest of the company can be distributed."  
-There are 7B people in the world. someday, I hope, there will be 7B companies."  
+> *"If the title matters to you, you don't belong to a startup."  
+"If you want to be part of a great tech company, then you need to be able to sell or build. If you don't do either, learn."  
+"Creative teams should be colocated. The rest of the company can be distributed."  
+"There are 7B people in the world. someday, I hope, there will be 7B companies."  
 "What feels like play to you and work to others?"  
 "Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now."  
 "Be the best in the world at what you do. Keep redefining what you do until this is true."  
@@ -1572,7 +1563,7 @@ There are 7B people in the world. someday, I hope, there will be 7B companies."
 ### How to advance career?
 
 > *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
--- HNer*
+-- HN_goatinaboat*
 
 Become the best at one specific thing or very good at two or more things.
 
@@ -1676,8 +1667,6 @@ Ask employers why did they asked you for an interview - they will describe your 
 <!--
 > *"What did you get done this week?"
 -- Elon Musk*
-> *"Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust."  
--- Zig Ziglar*
 > *"Your salary is the bribe they give you to forget your dreams."  
 -- Warren Buffett*
 > *"Don't ever work for someone you dont want to become."  

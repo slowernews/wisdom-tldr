@@ -1728,11 +1728,6 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader’s ear. Don’t just write words. Write music"  
 -- Gary Provost*
 
-### On journalism
-
-> *"Journalism is printing what someone else doesn't want printed. Everything else is public relations."  
--- George Orwell*
-
 ### On email
 
 <!--
@@ -1761,17 +1756,16 @@ Hints:
 ## On media
 
 > *"The goal of media is to make every problem, your problem."  
+"Journalists aren't neutral, they're the cavalry of culture wars."  
 -- Naval Ravikant*
+
+> *"Journalism is printing what someone else doesn't want printed. Everything else is public relations."  
+-- George Orwell*
 
 News are the first draft of History but he human brain was not designed to process all of the world's emergencies in realtime. Journalism is now activism. It's the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
 
-> *"Journalists aren't neutral, they're the cavalry of culture wars."  
--- Naval Ravikant*
-
-> *"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
--- Naval Ravikant*
-
 > *"If you're writing for your followers, your followers are worthless."  
+"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
 -- Naval Ravikant*
 
 
@@ -1783,9 +1777,6 @@ News are the first draft of History but he human brain was not designed to proce
 ## On computers and maths
 
 <!--
-> *"Computers are useless. They can only give you answers."  
--- Pablo Picasso*
-
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
 - 90% of webapps are database frontends.
@@ -1807,11 +1798,14 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *"As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality."  
 -- Albert Einstein*
 
+> *"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."  
+-- John von Neumann*
+
 > *"Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigor should be a signal to the historian that the maps have been made, and the real explorers have gone elsewhere."  
 -- William S. Anglin*
 
-> *"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."  
--- John von Neumann*
+> *"Computers are useless. They can only give you answers."  
+-- Pablo Picasso*
 
 
 

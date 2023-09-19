@@ -1046,7 +1046,8 @@ Hints:
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they'll bring you down.
 -->
 
-> *"We catch more flies with honey than vinegar."*
+> *"We catch more flies with honey than vinegar."
+-- Proverb*
 
 > *"To combat an adversary, become their friend."  
 -- Kevin Kelly*
@@ -1119,7 +1120,7 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 "Say less than necessary."  
 "Keep others in suspended terror: cultivate an air of unpredictability."  
 "Assume formlessness."  
--- Robert Greene (3rd, 4th, 17th and 48th laws of power)*
+-- Robert Greene (laws of power)*
 
 > *"One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted."  
 -- James Altucher*
@@ -1128,10 +1129,8 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 -- Friedrich Nietzsche*
 
 > *"It's the nature of truth that once you see it, you can't unsee it."  
--- Naval Ravikant*
-
-> *"If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it."  
--- Naval Ravikant*
+"If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it."  
+-- Naval Ravikant (Paraphrased)*
 
 > *"Honesty is a very expensive gift, don't expect it from cheap people."  
 -- Warren Buffett*
@@ -1149,7 +1148,7 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 -- Mark Twain*
 
 > *"The evil that men do lives after them; The good is often interred with their bones."  
--- Julius Caesar; Act 3, Scene II*
+-- Julius Caesar*
 
 Hints:
 
