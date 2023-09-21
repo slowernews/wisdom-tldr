@@ -25,12 +25,12 @@
 -- Lao Tzu*
 > *"What we reason for ourselves may help others. What we reason for others will not help us."  
 -- Naval Ravikant*
-> *"If you hurt people because of their expectations of you, that's their problem."  
+> *"If you hurt people because of their expectations of you, that’s their problem."  
 -- Naval Ravikant*
 
-- don't build your castle in other peoples kingdom's
+- don’t build your castle in other peoples kingdom’s
 - freedom to -> freedom from -- naval
-- bees don't waste their time explaining to flies that flowers taste better than shit.
+- bees don’t waste their time explaining to flies that flowers taste better than shit.
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -72,14 +72,14 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-> *"You're no under no obligation to be the same person you were 5 minutes ago."  
+> *"You’re no under no obligation to be the same person you were 5 minutes ago."  
 -- Alan Watts*
 > *"What do you really despise? By this you are truly known."  
 -- Frank Herbert
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin*
 > *"Everybody wants spirituality. Nobody wants the truth."  
-"I don't want to be in environments or people where I have to watch what I say."  
+"I don’t want to be in environments or people where I have to watch what I say."  
 "Escape competition through authenticity."  
 "To be honest speak without identity."  
 -- Naval Ravikant*
@@ -89,14 +89,14 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 - You must play by your rules, funnel your weird stuff to give you some advantage.
 - 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
 - Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
-- Core values: honesty everywhere. I dont want to be in place where I can't be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don't want to be around hierarchical systems, I want to treat everybody as a peer. I don't want to be around angry people.
+- Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
 - I approve of me. I am my word. I keep my word / I take nothing she says seriously, helps me relax.
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 - You are shaped by how you see others seeing you
 - Personal branding will kill you. Personal DOING will save everyone around you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
 -->
 
-> *"I'd rather be hated for who I am, than loved for who I am not."  
+> *"I’d rather be hated for who I am, than loved for who I am not."  
 -- Kurt Cobain*
 
 > *"When we see truth in a person we call it authenticity."  
@@ -104,7 +104,7 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
-If you’re trying to be authentic, you’re not being authentic. You don't need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh.
+If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh.
 
 If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context.
 
@@ -144,14 +144,14 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 "Returns are made on the way up. reputations are made on the way down."  
 "Living a life of integrity pays off, but it takes a very long time."  
 "Before you can lie to another, you must firt lie to yourself."  
-"Intentions don't matter. Actions do. That's why being ethical is hard."  
+"Intentions don’t matter. Actions do. That’s why being ethical is hard."  
 -- Naval Ravikant*
 
 - every damn thing is your own fault, if you are any good.
-- chi sei? sono l'evoluzione di tutti i miei errori.
+- chi sei? sono l’evoluzione di tutti i miei errori.
 - dishonesty is a reaction to fear.
 - bravery is learned -> micro-bravery, start small
-- Humility With forward action: 'I wasn’t the smartest in X but.."  
+- Humility With forward action: ’I wasn’t the smartest in X but.."  
 - integrity is what you think is what you say, and the same what you do.
 - Be willing to side with the minority.
 -->
@@ -210,16 +210,17 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 ## On gratitude
 
 <!--
-> *"A man's character is his fate."  
+> *"A man’s character is his fate."  
 -- Heraclitus*
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich."  
 -- Lao Tzu*
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
-> *"The blind can't see. The proud will not."  
+> *"The blind can’t see. The proud will not."  
 -- Russian proverb*
 
 - I opened two gifts this morning. They were my eyes.
+- Modesty, n.: Being comfortable that others will discover your greatness.
 -->
 
 > *"The higher we are placed, the more humbly we should walk."  
@@ -236,7 +237,7 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 > *"Dead people receive more flowers than the living ones because regret is stronger than gratitude."  
 -- Anne Frank*
 
-> *"When you are grateful, fear disappears and abundance appears." (...) 'You can’t be grateful and angry simultaneously."  
+> *"When you are grateful, fear disappears and abundance appears." (...) ’You can’t be grateful and angry simultaneously."  
 -- Anthony Robbins*
 
 > *"Comparison is the thief of joy."  
@@ -269,9 +270,9 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 > *"Everyone you will ever meet knows something you don’t."  
 -- Bill Nye*
 
-Don't forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
+Don’t forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
 
-Ego is the unhealthy belief in our own importance. You are not perfect neither you'll ever be. Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
+Ego is the unhealthy belief in our own importance. You are not perfect neither you’ll ever be. Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
 
 > *"Promptness is a sign of respect."  
 -- Kevin Kelly*
@@ -279,7 +280,7 @@ Ego is the unhealthy belief in our own importance. You are not perfect neither y
 > *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
 -- Ernest Hemingway*
 
-> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it."  
+> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn’t know it."  
 -- Paulo Coelho*
 
 > *"You will earn the respect of all if you begin earning the respect of yourself."  
@@ -305,34 +306,36 @@ A way to humble yourself is to put you in the position of being the weakest pers
 ## On agency
 
 <!--
+> *"If there’s no wind, row."  
+-- Latin Proverb*
 > *"As a grown man you should know better than to go around advising people."  
 -- Bertolt Brecht*
 > *"The mind gives up before the body."  
 "Doing is faster than watching."  
 "Choose inspiration over envy."  
-"The optimal zone for performance is 'slightly hungry'."  
+"The optimal zone for performance is ’slightly hungry’."  
 "Better bored than busy."  
 "Persistence beats timing. Execution beats luck. Not immediately but eventually."  
-"You get paid for being right first, and to be first, you can't wait for consensus."  
-"Don't settle and don't struggle. Life is what flows in between."  
+"You get paid for being right first, and to be first, you can’t wait for consensus."  
+"Don’t settle and don’t struggle. Life is what flows in between."  
 -- Naval Ravikant*
 
-- It's on documentation. If it's not add it.
+- It’s on documentation. If it’s not add it.
 -->
 
-Helpful people don't ask «how can I help». They just help. (Naval Ravikant)
+Helpful people don’t ask «how can I help». They just help. (Naval Ravikant)
 
 Hints:
 
-- Help with a precise thing («I can drop a lasagna at 4:00.») instead of I'm here for you.
+- Help with a precise thing («I can drop a lasagna at 4:00.») instead of I’m here for you.
 
-> *"If you have a dream, don't waste your energies explaining why."  
+> *"If you have a dream, don’t waste your energies explaining why."  
 -- Paulo Coelho*
 
 > *"The superior man is modest in his speech but exceeds in his actions."  
 -- Confucius*
 
-> *"I don't count my sit-ups. I only start counting once it starts hurting."  
+> *"I don’t count my sit-ups. I only start counting once it starts hurting."  
 -- Muhammad Ali*
 
 > *"The longer the tongue, the shorter the hands."  
@@ -344,7 +347,7 @@ Hints:
 > *"The seed of all evil is laziness."  
 -- Welsh Proverb*
 
-> *"Talkers aren't strong. The strong don't talk."  
+> *"Talkers aren’t strong. The strong don’t talk."  
 -- Burmese Proverb*
 
 > *"Work is the medicine for poverty."  
@@ -378,21 +381,21 @@ Hints:
 <!--
 > *"The silence between the notes makes the music. And lest we forget, the longer the silence, the more incredibly beautiful and powerful the music when it finally swells and the symphony goes on."  
 -- Brianna West*
-> *"One doesn't discover new lands without consenting to lose sight of the shore for a very long time."  
+> *"One doesn’t discover new lands without consenting to lose sight of the shore for a very long time."  
 -- Andre Gide*
-> *"What's right is what's left if you do everything else wrong."  
+> *"What’s right is what’s left if you do everything else wrong."  
 -- Robin Williams*
 > *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
 -- Alexander Graham Bell*
 > *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."  
 -- Sophocles*
-> *"You can't go back and change the beginning, but you can start where you are and change the ending."  
+> *"You can’t go back and change the beginning, but you can start where you are and change the ending."  
 -- C.S. Lewis*
 > *"Anything I cannot transform into something marvelous, I let go."  
 -- Anais Nin*
 > *"Without deviation from the norm, progress is not possible."  
 -- Frank Zappa*
-> *"Never test the depth of teh river with both feet."  
+> *"Never test the depth of the river with both feet."  
 -- Warren Buffett*
 
 - Stability without Stagnation
@@ -408,7 +411,7 @@ The size of your life is in direct proportion to how uncomfortable you are willi
 Hints:
 
 - Risk looks different for everyone.
-- Repeating close variations on your usual theme unlocks far more value than you'd expect given minimal novelty value is a surprising result.
+- Repeating close variations on your usual theme unlocks far more value than you’d expect given minimal novelty value is a surprising result.
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
 - Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week. Being uncomfortable should be “play” for you. Get confort in disconfort.
 - Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later. The discomfort zone is NOT about experiencing pain.
@@ -446,17 +449,17 @@ Hints:
 
 <!--
 > *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."  
--- Bershere's Formula for Failure*
+-- Bershere’s Formula for Failure*
 > *"Rather than steering your life to avoid surprises, aim directly for them."  
 -- Kevin Kelly*
-> *"If you are not failing every now and again, it's a sign you're not doing anything very innovative."  
+> *"If you are not failing every now and again, it’s a sign you’re not doing anything very innovative."  
 -- Woody Allen*
 > *"Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two." -- Kevin Kelly*
 > *"If a man will begin with certainties he shall end in doubts; but if he will be content to begin with doubts he shall end in certainties."  
 -- Francis Bacon*
 > *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."  
 -- Friedrich Nietzsche, The Dawn, 1881*
-> *"The right way to do things is not to try to persuade people you're right but to challenge them to think it through for themselves."  
+> *"The right way to do things is not to try to persuade people you’re right but to challenge them to think it through for themselves."  
 -- Noam Chomsky*
 > *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
 -- T.H. White*
@@ -464,7 +467,7 @@ Hints:
 -- Plutarch*
 > *"in academia there is much talk, little action. In industry, there is much action, little thought."  
 -- Donald Norman*
-> *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients > *"Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I'm pregnant. Who did it?"*
+> *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients > *"Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I’m pregnant. Who did it?"*
 > *"Examinations are formidable even to the best prepared, for even the greatest fool may ask more than the wisest man can answer."  
 -- C.C. Colton*
 > *"The price of success in philosophy is triviality."  
@@ -499,7 +502,7 @@ Hints:
 > *"He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever."  
 -- Chinese proverb*
 
-> *"I have no special talent, I'm only passionately curious."  
+> *"I have no special talent, I’m only passionately curious."  
 -- Albert Einstein*
 
 > *"It is not that I’m so smart. But I stay with the questions much longer."  
@@ -542,7 +545,7 @@ Hints:
 - Don’t major on minor things. - applied focus. This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
 - Whatever your strengths are, they will likely lead straight into your weaknesses.
 - One way to tease out the difference between Planck and chauffeur knowledge is to ask them why.
-- No-one who is serious about programming gives a shit about language wars, they're for fanboys and spectators.
+- No-one who is serious about programming gives a shit about language wars, they’re for fanboys and spectators.
 - He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
 - Understand why we should fear missing opportunity more than we should fear failure.
 - The importance of living proactively instead of reactively.
@@ -629,7 +632,7 @@ True experts recognize the limits of what they know and what they do not know.
 > *"A real DJ has to know how to clear the floor. To know the worse it can happen and how to come back."  
 -- James Altucher*
 
-> *"You know you're good at something when you switch from making decisions with your conscious mind to making decisions with your instincts."  
+> *"You know you’re good at something when you switch from making decisions with your conscious mind to making decisions with your instincts."  
 -- Naval Ravikant*
 
 > *"The chess grand master considers no more moves than does the expert; he just knows which ones to look at."  
@@ -665,11 +668,11 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 ## On habits and systems
 
 <!--
-> *"Poeple don't decide their future, they decide their habits and their habits decide their futures."  
+> *"Poeple don’t decide their future, they decide their habits and their habits decide their futures."  
 -- F. M. Alexander
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett*
-> *"It isn't 10k hours that creates outliers, it's 10k iterations."  
+> *"It isn’t 10k hours that creates outliers, it’s 10k iterations."  
 "I probably read 1-2 hours a day, and that puts me in the top 0,00001%."  
 -- Naval Ravikant*
 
@@ -687,7 +690,7 @@ Habits are systems. We are essentially our habits. Habits are compound interest 
 
 Consistency doesn’t come from effort, it comes from showing up. Long term thinking and discipline will guarantee you an easier life. 
 
-> *"At any given time, I'm either trying to pick up a good habit or discard a previous bad habit."  
+> *"At any given time, I’m either trying to pick up a good habit or discard a previous bad habit."  
 -- Naval Ravikant*
 
 > *"The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it."  
@@ -715,7 +718,7 @@ Hints:
 - Anticipate obstacles to new habits.
 - Get accountable by making a pact with someone to introduce financial penalties for habits that are bad for you.
 - Reward yourself to solidify new habits.
-- Don't try to be perfect. Two vices is too much, none makes you boring.
+- Don’t try to be perfect. Two vices is too much, none makes you boring.
 - Pay attention, correct and don’t judge.
 
 
@@ -732,7 +735,7 @@ Hints:
 > *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
 -- Marcus Aurelius, Meditations*
 
-- you don't need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
+- you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
 > *"Conscience is what hurts when everything else feels so good.*
 > *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
@@ -754,7 +757,7 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 
 ### How to grow self awareness?
 
-> *"People who can't laugh at themselves will always be outwitted by people who can."  
+> *"People who can’t laugh at themselves will always be outwitted by people who can."  
 -- T. K. Coleman*
 
 Hints:
@@ -794,20 +797,20 @@ Hints:
 -- Fyodor Dostoyevski*
 > *"Develop strenght to do bold things, not the strenght to suffer."  
 -- Machiavelli*
-> *"Worrying is like paying a debt you don't owe."  
+> *"Worrying is like paying a debt you don’t owe."  
 -- Mark Twain*
-> *"Life hack: When in bed, meditate. Either you'll have a deep meditation or fall asleep. Victory either way."  
+> *"Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way."  
 "Yoga cultivates peace of body. Meditation cultivates peace of mind."  
 "A healthy body is light and silent, just as a healthy mind."  
 "When it comes to nutrition, subtract before you add."  
 "The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
 "All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies."  
-"Meditation isn't hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I'm just going to give myself a break for an hour. This is my hour off from life. This is an hour I'm not going to do anything.»"  
+"Meditation isn’t hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I’m just going to give myself a break for an hour. This is my hour off from life. This is an hour I’m not going to do anything.»"  
 -- Naval Ravikant*
 
 - the six best doctors: sunshine, water, rest, air, exercise and diet.
 - stress is who you think you should be. peace is who you are.
-- there's nothing more therapeutic than action.
+- there’s nothing more therapeutic than action.
 -->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
@@ -828,17 +831,17 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 -- Buddha
 > *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
 -- Mark Manson*
-> *"Make sure you don't start seeing yourself through the eyes of those who don't value you. Know your worth even if they don't."  
+> *"Make sure you don’t start seeing yourself through the eyes of those who don’t value you. Know your worth even if they don’t."  
 -- Thema Davis*
 > *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety."  
 "Your trauma creates you."  
 "Uncertainty, not outcome, is the root of stress."  
 "A rational person can find peace by cultivating indifference to things outside of their control."  
-"You won't have inner peace until you give up your war against the world."  
+"You won’t have inner peace until you give up your war against the world."  
 "The quality of your mind is the quality of your life."  
 "One of the most powerful things to realize is that you can change your own self-image."  
 "Fasting focuses the mind. It replaces all desires with a single desire."  
-"You're offended when you fear that it might be true."  
+"You’re offended when you fear that it might be true."  
 "Ego is false confidence, self-respect is true confidence."  
 -- Naval Ravikant*
 
@@ -846,7 +849,7 @@ We were built to hunt and gather and move, not to stay still. However, the origi
 - depression hates a moving target.
 - having to go to school on your birthday and everyone pointing it out.
 - can i ask you a question? 99%people get frightened.
-- anxious persons feel the only way to achieve relaxed certainty is getting new info. but the more you know the more you'll realize you don't know. Then you try to get more and more: information centrifugue.
+- anxious persons feel the only way to achieve relaxed certainty is getting new info. but the more you know the more you’ll realize you don’t know. Then you try to get more and more: information centrifugue.
 - emotions of an event are like bookmarks
 - therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
 - Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
@@ -930,7 +933,7 @@ Hints:
 > *"Nothing in life is to be feared, it is only to be understood."  
 -- Marie Curie*
 
-- anger is a punishment we give ourselves for someone else's mistake
+- anger is a punishment we give ourselves for someone else’s mistake
 - fear does not stop death, it stops life
 - the hardest prison to escape is in your own mind.
 - What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
@@ -942,7 +945,7 @@ Hints:
 
 Fear is paralyzing.
 
-When you view everything through the lens of fear, you'll tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your family, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
+When you view everything through the lens of fear, you’ll tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your family, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
 
 > *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
 -- Paulo Coelho*
@@ -970,7 +973,7 @@ Hints:
 ### On courage
 
 <!--
-- courage is a form of intelligence not strenght. it's about outwitting your limiting beliefs, irrational fears and insecurities.
+- courage is a form of intelligence not strenght. it’s about outwitting your limiting beliefs, irrational fears and insecurities.
 -->
 
 > *"Life shrinks or expands in proportion to one’s courage."  
@@ -1002,7 +1005,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Those who lack the courage will always find a philosophy to justify it."  
 -- Albert Camus*
 
-> *"It's better to be a restrained monster than a well-behaved coward."  
+> *"It’s better to be a restrained monster than a well-behaved coward."  
 -- Jordan Peterson*
 
 > *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
@@ -1080,7 +1083,7 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 > *"Good judgment comes from experience. Experience comes from bad judgment."  
 -- Jim Horning*
 
-> *"We're even wrong about which mistakes we're making."  
+> *"We’re even wrong about which mistakes we’re making."  
 -- Carl Winfeld*
 
 > *"If something fails where you thought it would fail, that is not a failure."  
@@ -1109,7 +1112,7 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 > *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
 -- George Bernard Shaw*
 
-Be gentle first with yourself. Don't punish yourself for failing. Failing is learning.
+Be gentle first with yourself. Don’t punish yourself for failing. Failing is learning.
 
 You are more than your mistakes. Your past mistakes are meant to guide you, not to define you. Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today.
 
@@ -1151,10 +1154,10 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 - too many people undervalue what they are and overvalue what they are not.
 - money problems are self-confidence problems.
 - to get self aceptance you have to do the unconfortable things that you know you are right.
-- It's a sign of great inner security to be hostile to the unfamiliar
-- we hold on to something so tight because we fear something so great won't happen twice.
-- everythng you're running away is in your head.
-- generally the thing you're most ashamed of is actually your biggest strenght/asset but you haven't figured out how to use it.
+- It’s a sign of great inner security to be hostile to the unfamiliar
+- we hold on to something so tight because we fear something so great won’t happen twice.
+- everythng you’re running away is in your head.
+- generally the thing you’re most ashamed of is actually your biggest strenght/asset but you haven’t figured out how to use it.
 -->
 
 > *"Shame corrodes the very part of us that believes we are capable of change."  
@@ -1176,8 +1179,8 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 -- David Storey*
 > *"Those whose approval you seek the most give you the least."  
 -- Rozanne Weissman*
-> *"Self-esteem is just the reputation you have with yourself. You'll always know."  
-*"Guilt is society's voice speaking in your head."  
+> *"Self-esteem is just the reputation you have with yourself. You’ll always know."  
+*"Guilt is society’s voice speaking in your head."  
 -- Naval Ravikant*
 
 - Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
@@ -1210,7 +1213,7 @@ When hiding something about yourself, you automatically create shame. You’re s
 
 Hints:
 
-- When you break an agreement you made with yourself, your self-esteem plummets. Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech. If you don’t believe you are good, you'll never be good.
+- When you break an agreement you made with yourself, your self-esteem plummets. Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech. If you don’t believe you are good, you’ll never be good.
 - It’s really hard to have self-esteem. Everyone wants to take it from you. A boss, a teacher, a parent, a friend, a lover.
 - Confidence markers: the space you take up in the world indicates to others and yourself how confident you feel. Presence is confidence without arrogance. Authenticity can’t be faked. The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible. When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility.
 
@@ -1224,7 +1227,7 @@ Hints:
 > *"The less confident you are, the more serious you have to act."  
 -- Tara Ploughman*
 
-> *"You've gotta dance like there’s nobody watching."  
+> *"You’ve gotta dance like there’s nobody watching."  
 -- William W. Purkey*
 
 > *"Just get out of the room."  
@@ -1236,7 +1239,7 @@ Hints:
 -- Amy Cuddy*
 
 <!--
-> *"Rudeness is the weak person's imitation of strength."  
+> *"Rudeness is the weak person’s imitation of strength."  
 -- Eric Hoffer*
 -->
 
@@ -1264,7 +1267,7 @@ Entitlement comes in two forms:
 > *"Motivation is what gets you started. Habit is what keeps you going."  
 -- Jim Rohn*
 
-- believe it and it will be doesn't always work - there are limits to our belief.
+- believe it and it will be doesn’t always work - there are limits to our belief.
 - what limits individuals is the inability to confront reality, to see things for what they truly are.
 -->
 
@@ -1314,7 +1317,7 @@ Hints:
 > *"Worry gives small things a big shadow."  
 -- Swedish Proverb*
 > *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative."  
-"To see if they really think that things are getting worse, ask them if they'd rather live in the future or in the past."  
+"To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  
 -- Naval Ravikant*
 
 - the seduction of pessimism: optimism sounds like a sales pitch. pessimism sounds like someone trying to help you.
@@ -1364,12 +1367,12 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 > *"Perfectionism is the fear of being criticized."  
 -- Caroline Myss*
 
-> *"And now that you don't have to be perfect, you can be good."  
+> *"And now that you don’t have to be perfect, you can be good."  
 -- John Steinbeck*
 
 Strive for excellence, not for perfection. From good enough you derive success. From perfection you derive procastination, anxiety and depression. 
 
-It's liberating to see yourself as a «doist».
+It’s liberating to see yourself as a «doist».
 
 > *"Perfectionism doesn’t make you feel perfect; it makes you feel inadequate."  
 -- Maria Shriver*
@@ -1386,7 +1389,7 @@ It's liberating to see yourself as a «doist».
 > *"Something does not need to be perfect to be wonderful. Specially weddings."  
 -- Kevin Kelly*
 
-> *"Have no fear of perfection. You'll never reach it."  
+> *"Have no fear of perfection. You’ll never reach it."  
 -- Salvador Dali*
 
 > *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
