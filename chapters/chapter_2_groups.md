@@ -227,6 +227,8 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
+> *"An idealist is one who helps the other fellow to make a profit."  
+-- Henry Ford*
 > *"A business is simply an idea to make other people’s lives better."  
 -- Richard Branson*
 > *"If you can change people’s lives you have a business."  

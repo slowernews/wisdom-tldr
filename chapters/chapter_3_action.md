@@ -17,45 +17,20 @@
 -- Victor Hugo*
 > *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
 -- Victor Hugo*
-> *"An idealist is one who helps the other fellow to make a profit."  
--- Henry Ford*
-> *"The clash of ideas is the sound of freedom.*
 > *"Consistency is the last refuge of the unimaginative."  
 -- Oscar Wilde*
-> *"The ability to see order in chaos is called creativity."  
--- Simon Sinek*
-> *"A busy calendar and a busy mind will destroy your ability to create anything great."  
--- Naval Ravikant*
-> *"If at first, the idea is not absurd, then there is no hope for it."  
--- Albert Einstein*
 > *"An idea that is not dangerous is unworthy of being called an idea at all."  
 -- Oscar Wilde*
 > *"A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man’s brow."  
 -- Ovid*
-> *"All achievements, all earned riches, have their beginning in an idea."  
--- Napoleon Hill*
-> *"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."  
--- F. Scott Fitzgerald*
-> *"Nearly every man who develops an idea works it up to the point where it looks impossible, and then he gets discouraged. That’s not the place to become discouraged."  
--- Thomas Edison*
-> *"It is the essence of genius to make use of the simplest ideas."  
--- Charles Peguy*
 > *"Nothing is more dangerous than an idea when it is the only one you have."  
 -- Emile Chartier*
 > *"One’s mind, once stretched by a new idea, never regains its original dimensions."  
 -- Oliver Wendell Holmes*
-> *"We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unsympathetic to us."  
--- Friedrich Nietzche*
+> *"If at first, the idea is not absurd, then there is no hope for it."  
+-- Albert Einstein*
 > *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas."  
 -- Albert Einstein*
-> *"A pile of rocks ceases to be a rock when somebody contemplates it with the idea of a cathedral in mind."  
--- Antoine St. Exupery*
-> *"I begin with an idea and then it becomes something else."  
--- Pablo Picasso*
-> *"New ideas pass through three periods: 1) It can’t be done; 2) It probably can be done, but it’s not worth doing; 3) I knew it was a good idea all along!"  
--- Arthur C. Clarke*
-> *"Almost all really new ideas have a certain aspect of foolishness when they are just produced."  
--- Alfred North Whitehead*
 
 - creativity is subtraction.
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
@@ -76,6 +51,15 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 > *"To invent, you need a good imagination and a pile of junk."  
 -- Thomas Edison*
 
+> *"The ability to see order in chaos is called creativity."  
+-- Simon Sinek*
+
+> *"A pile of rocks ceases to be a rock when somebody contemplates it with the idea of a cathedral in mind."  
+-- Antoine St. Exupery*
+
+> *"All achievements, all earned riches, have their beginning in an idea."  
+-- Napoleon Hill*
+
 ### How to find good ideas?
 
 > *"The way to get good ideas is to get lots of ideas and throw the bad ones away."  
@@ -85,11 +69,11 @@ Best ideas come from the market, not from you. Changes in the environment unlock
 
 Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional people living conventional lives lead to conventional ideas.
 
+> *"I begin with an idea and then it becomes something else."  
+-- Pablo Picasso*
+
 > *"Name the greatest of all inventors. Accident."  
 -- Mark Twain*
-
-> *"Using creativity to solve problems cannot be taught, and it’s ultimately what free markets pay for."  
--- Naval Ravikant*
 
 > *"We can’t solve problems by using the same kind of thinking we used when we created them."  
 -- Albert Einstein*
@@ -103,8 +87,15 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 > *"The mind that opens to a new idea never returns to its original size."  
 -- Albert Einstein*
 
+> *"Using creativity to solve problems cannot be taught, and it’s ultimately what free markets pay for."  (...)
+"A busy calendar and a busy mind will destroy your ability to create anything great."  
+-- Naval Ravikant*
+
 > *"Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement."  
 -- Kevin Kelly*
+
+> *"Nearly every man who develops an idea works it up to the point where it looks impossible, and then he gets discouraged. That’s not the place to become discouraged."  
+-- Thomas Edison*
 
 ### How to judge ideas?
 
@@ -112,10 +103,22 @@ Ask peers. Managers will regret more a false positive than a false negative.
 
 However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. So focus on transforming yourself into the kind of person who can bring them to life. 
 
+> *"New ideas pass through three periods: 1) It can’t be done; 2) It probably can be done, but it’s not worth doing; 3) I knew it was a good idea all along!"  
+-- Arthur C. Clarke*
+
 > *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."*
 
 > *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
 -- HN_dilemma*
+
+> *"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."  
+-- F. Scott Fitzgerald*
+
+> *"We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unsympathetic to us."  
+-- Friedrich Nietzche*
+
+> *"Almost all really new ideas have a certain aspect of foolishness when they are just produced."  
+-- Alfred North Whitehead*
 
 
 
@@ -134,6 +137,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 -- Kevin Kelly*
 > *"If you don’t know, it’s because you are not interested in it."  
 -- Naval Ravikant*
+> *"The power of accurate observation is commonly called cynicism by those who have not got it."  
+-- George Bernard Shaw*
 
 - Bragging razor: if someone brags assume half. if someone downplays double it.
 - Nothing is as good or as bad as it seems.
@@ -543,28 +548,22 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 <!--
 > *"Action is the foundational key to all success."  
 -- Pablo Picasso*
-> *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 > *"To take a significant step forward, you must make a series of finite improvements."  
 -- Donald J. Atwood, General Motors The greatest force for improvement is *resistance to change."  
 > *"Change is inevitable, it’s our job to exploit it.*
 -- Eli Goldratt*
-> *"The power of accurate observation is commonly called cynicism by those who have not got it."  
--- George Bernard Shaw*
 > *"Action expresses priorities."  
 -- Mahatma Gandhi*
 > *"Time is the longest distance between two places."  
 -- Tennessee Williams*
 > *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
 -- Edward G. Bulwer-Lytton*
-> *"The day you decide to do it is your lucky day."  
--- Japanese proverb*
 
-- blessed are the restless.
+> *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
 - Research is not doing something. Knowledge is never the issue, action is.
 - The more “goal oriented” is the task, the more a potential 10x programmer
-- Be useful, not important.
 - monk mode -> no communication during mornings, only deep work -> meetings afternoon
 - If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
 - jogar c o baralho todo / jogar com um subset

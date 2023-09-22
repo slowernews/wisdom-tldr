@@ -229,11 +229,10 @@ Our present (in)actions will compound into the future we will get – that’s a
 ## On growing old
 
 <!--
-> *"Old age is too high a price to pay for maturity.*
-> *"People who want to share their religious views with you almost never want you to share yours with them.*
 > *"Everybody wants to go to heaven, but nobody wants to die.*
 - after reaching a certain age, you are no longer viewed as a person. you become an institution and are you aere treated the way institutions are. you are expected to behave like a piece of period furniture, an architectual landmark.
 - maturing is realizing how many things don’t require your comment.
+- One-seventh of your life is spent on Mondays.
 -->
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
@@ -268,7 +267,7 @@ People my age are so much older than me.
 > *"You are only as young as the last time you changed your mind."  
 -- Kevin Kelly*
 
-Aging implies damage.
+Aging implies damage. A too high a price to pay for maturity.
 
 > *"Every day in the mirror I watch death at work."  
 -- Jean Cocteau*
@@ -351,6 +350,11 @@ Intelligence is a spectrum, a dog is intelligent also.
 -- Naval Ravikant*
 
 ### On geniality
+
+<!--
+> *"It is the essence of genius to make use of the simplest ideas."  
+-- Charles Peguy*
+-->
 
 > *"If a man knows more than others he becomes lonely."  
 -- Carl Jung*
@@ -499,6 +503,8 @@ People say they want to be famous to impact the world, often what they want is t
 -- Paulo Coelho*
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
 -- M. Vázquez Montalban*
+> *"The day you decide to do it is your lucky day."  
+-- Japanese proverb*
 
 - threats x vulnerabilities = risk
 - random é a bruxaria - proporçoes random - patterns. everything is a pattern. no pattern is random
@@ -741,8 +747,6 @@ Hints:
 -- Bill Gates*
 > *"Strive not to be a success, but rather be of value."  
 -- Albert Einstein*
-> *"Success and rest don’t sleep together."  
--- Russian Proverb*
 > *"The price of growth is outgrowing people."  
 "Predicting failure is easier than predicting success."  
 -- Naval Ravikant*
@@ -791,6 +795,9 @@ Fear, not failure, is the biggest barrier to success. Some people are terrified 
 > *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
 -- Roger Kipling*
 
+> *"Success and rest don’t sleep together."  
+-- Russian Proverb*
+
 
 
 
@@ -801,19 +808,18 @@ Fear, not failure, is the biggest barrier to success. Some people are terrified 
 
 ## On wisdom
 
-<!--
-> *"Doubt is the origin of wisdom."  
--- René Descartes*
-> *"The beginning of wisdom is calling things by their right names."  
--- Chinese proverb*
--->
-
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris*
 
 Wisdom is knowing the long-term consequences of your actions.
 
 wisdom = inteligence + experience
+
+> *"Doubt is the origin of wisdom."  
+-- René Descartes*
+
+> *"The beginning of wisdom is calling things by their right names."  
+-- Chinese proverb*
 
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
@@ -839,13 +845,10 @@ wisdom = inteligence + experience
 -- Soren Kierkegaard*
 > *"Give me a museum and I’ll fill it."  
 -- Pablo Picasso
-> *"Comedy is the art of telling forbidden truths, without getting beat out."  
--- Naval Ravikant*
 > *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
 -- Mae West*
 
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
-> *"One-seventh of your life is spent on Mondays.*
 > *"The early bird may get the worm, but the second mouse gets the cheese.*
 > *"He who lives without folly is less wise than he believes.*
 “When you’re up to your nose in sh*t, keep your mouth shut.” -- Movie character Jack Beauregard, played by Henry Fonda
@@ -866,7 +869,7 @@ wisdom = inteligence + experience
 
 Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
 
-> *"Mathematicians look down on Physicists, who look down on Engineers, who look down on Designers. And Designers look down on everyone."  
+> *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant*
 
 > *"I miss being the age when I thought I would have my shit together by the time I was the age I am now."*
@@ -879,7 +882,10 @@ What’s the dog for? The dog keeps the man from touching any of the machines."
 -- Old joke*
 
 > *"I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much."  
--- unknown from San Francisco*
+-- heard in San Francisco*
+
+> *"Mathematicians look down on Physicists, who look down on Engineers, who look down on Designers. And Designers look down on everyone."  
+-- Naval Ravikant*
 
 ### Where is home?
 
@@ -1218,21 +1224,7 @@ Marry an happy person. Unhappy spouse, unhappy life.
 ## On religion
 
 <!--
-> *"My religion is simple, my religion is kindness."  
--- Dalai Lama*
-> *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."  
--- Friedrich Nietzsche*
-> *"Fanaticism is always a sign of repressed doubt."  
--- Carl Jung*
-> *"When you renounce something, you’re stuck to it forever."  
--- Anthony de Mello*
-> *"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner."  
--- Naval Ravikant*
-> *"The teachers of morality speak like angels, but live like men."  
--- Sam Johnson*
-
-- god prefers kind atheists over hateful christians.
-- religion simplify ideas.
+> *"People who want to share their religious views with you almost never want you to share yours with them.*
 - contra factos não ha argumentos. mas contra fé não ha factos.
 -->
 
@@ -1242,7 +1234,7 @@ Marry an happy person. Unhappy spouse, unhappy life.
 > *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
 -- Nassim Taleb*
 
-And on the first day, men created god.
+And on the first day, men created god. Religion simplify ideas.
 
 > *"I’d rather be in the mountains thinking of God than in church thinking about the mountains."  
 -- John Muir*
@@ -1250,11 +1242,23 @@ And on the first day, men created god.
 > *"We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further."  
 -- Richard Dawkins*
 
+> *"God has no religion."  
+-- Mahatma Gandhi*
+
+> *"My religion is simple, my religion is kindness."  
+-- Dalai Lama*
+
 > *"Believe in the religion that has no name."  
 -- Naval Ravikant*
 
-> *"God has no religion."  
--- Mahatma Gandhi*
+> *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."  
+-- Friedrich Nietzsche*
+
+> *"When you renounce something, you’re stuck to it forever."  
+-- Anthony de Mello*
+
+> *"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner."  
+-- Naval Ravikant*
 
 ### On morality
 
@@ -1264,8 +1268,14 @@ And on the first day, men created god.
 > *"The cash register did more for human morality than the congregational church."  
 -- Charlie Munger*
 
+> *"The teachers of morality speak like angels, but live like men."  
+-- Sam Johnson*
+
 > *"Compassion is the basis of morality."  
 -- Arthur Schopenhauer*
+
+> *"Morality, like art, means drawing a line someplace."  
+-- Oscar Wilde*
 
 > *"There are causes worth dying for, but none worth killing for."  
 -- Albert Camus*
@@ -1276,8 +1286,8 @@ And on the first day, men created god.
 > *"The first thing a man will do for his ideals is lie."  
 -- Joseph Schumpeter*
 
-> *"Morality, like art, means drawing a line someplace."  
--- Oscar Wilde*
+> *"Fanaticism is always a sign of repressed doubt."  
+-- Carl Jung*
 
 
 
@@ -1759,6 +1769,10 @@ Hints:
 
 ---
 ## On media
+
+<!--
+> *"The clash of ideas is the sound of freedom.*
+-->
 
 > *"The goal of media is to make every problem, your problem."  
 "Journalists aren’t neutral, they’re the cavalry of culture wars."  

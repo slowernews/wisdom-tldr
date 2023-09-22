@@ -308,8 +308,16 @@ A way to humble yourself is to put you in the position of being the weakest pers
 <!--
 > *"If there’s no wind, row."  
 -- Latin Proverb*
-> *"As a grown man you should know better than to go around advising people."  
--- Bertolt Brecht*
+-->
+
+Blessed are the restless.
+
+Hints:
+
+- Helpful people don’t ask «how can I help». They just help. (Naval Ravikant)
+- Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you».
+- «It’s on documentation. If it’s not add it.»
+
 > *"The mind gives up before the body."  
 "Doing is faster than watching."  
 "Choose inspiration over envy."  
@@ -319,15 +327,6 @@ A way to humble yourself is to put you in the position of being the weakest pers
 "You get paid for being right first, and to be first, you can’t wait for consensus."  
 "Don’t settle and don’t struggle. Life is what flows in between."  
 -- Naval Ravikant*
-
-- It’s on documentation. If it’s not add it.
--->
-
-Helpful people don’t ask «how can I help». They just help. (Naval Ravikant)
-
-Hints:
-
-- Help with a precise thing («I can drop a lasagna at 4:00.») instead of I’m here for you.
 
 > *"If you have a dream, don’t waste your energies explaining why."  
 -- Paulo Coelho*
@@ -353,6 +352,10 @@ Hints:
 > *"Work is the medicine for poverty."  
 -- Yoruba Proverb*
 
+> *"As a grown man you should know better than to go around advising people."  
+-- Bertolt Brecht*
+
+
 
 
 
@@ -368,6 +371,7 @@ Hints:
 
 > *"Continuous improvement is better than delayed perfection."  
 -- Mark Twain*
+
 
 
 
