@@ -624,18 +624,18 @@ Health is also an envy trigger. Often what people really envy is self-control.
 -- Voltaire*
 > *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
 -- Christina Scalise*
-> *"The price of anything is the amount of life you exchange for it."  
--- Henry David Thoreau*
 > *"Think of each day as a single life."  
 -- Seneca*
+> *"The price of anything is the amount of life you exchange for it."  
+-- Henry David Thoreau*
 > *"He who buys what he does not need, steals from himself."  
 -- Swedish Proverb*
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
-> *"For a great payoff, be especially curious about the things you are not interested in."  
--- Kevin Kelly*
 > *"Enough is a decision, not an amount."  
 -- Alison Faulkner*
+> *"For a great payoff, be especially curious about the things you are not interested in."  
+-- Kevin Kelly*
 > *"To measure your quality of life, simply do nothing and see how it feels."  
 "You should be too busy to do coffee, while still keeping an uncluttered calendar."  
 "When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you."  
@@ -747,8 +747,8 @@ Hints:
 -- Bill Gates*
 > *"Strive not to be a success, but rather be of value."  
 -- Albert Einstein*
-> *"The price of growth is outgrowing people."  
-"Predicting failure is easier than predicting success."  
+> *"Predicting failure is easier than predicting success." (...)  
+"The price of growth is outgrowing people."  
 -- Naval Ravikant*
 
 - I didn’t get successful by knowing everything, I got successful by listening.

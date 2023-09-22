@@ -129,8 +129,6 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ## On analysis
 
 <!--
-> *"There are no facts, only interpretations."  
--- Friedrich Nietzsche*
 > *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection."  
 -- Henri Poincaré*
 > *"Anything you say before the word «but» does not count."  
@@ -546,10 +544,6 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
-> *"Action is the foundational key to all success."  
--- Pablo Picasso*
-> *"To take a significant step forward, you must make a series of finite improvements."  
--- Donald J. Atwood, General Motors The greatest force for improvement is *resistance to change."  
 > *"Change is inevitable, it’s our job to exploit it.*
 -- Eli Goldratt*
 > *"Action expresses priorities."  
@@ -1171,19 +1165,16 @@ Hints:
 ### On mirroring
 
 > *"Disarm and infuriate with the mirror effect."  
--- Robert Greene (44th law of power)*
+-- Robert Greene*
 
 Reciprocation is the foundation on which we have evolved: our ancestors learned to share their food and their skills in an honored network of obligation. We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
 
 > *"Being pacifist in face of wolves is the source of endless tragedy."*
 
-> *"Don’t treat people as bad as they are. Treat them as good as you are."  
--- Kevin Kelly*
-
 ### On defeating status quo
 
 <!--
-- burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
+- Burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
 -->
 
 > *"To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate."  

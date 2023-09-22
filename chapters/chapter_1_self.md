@@ -42,7 +42,7 @@ Once we’re «bought», it’s hard to get out. While we all start out wanting 
   
 Stop being codependent or others and start caring for yourself first. The money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
-Telling *your* truth is not being selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you are able to serve others to your fullest capacity.
+Telling *your* truth is not selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be able to serve others to your fullest capacity.
 
 > *"I think the reward for conformity is that everyone likes you except yourself."  
 -- Rita Mae Brown*
@@ -72,7 +72,7 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-> *"You’re no under no obligation to be the same person you were 5 minutes ago."  
+> *"You’re under no obligation to be the same person you were five minutes ago."  
 -- Alan Watts*
 > *"What do you really despise? By this you are truly known."  
 -- Frank Herbert
@@ -106,7 +106,7 @@ Authenticity isn’t the presence of something, but the absence of everything th
 
 If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh.
 
-If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate with you. Just be real and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to be great at everything. Find your context. You don’t need to suceed in every context.
+If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate to you. Just be real, and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to excel at everything. Find your context. You don’t need to suceed in every context.
 
 > *"Always be a first rate version of yourself and not a second rate version of someone else."  
 -- Judy Garland*
@@ -159,7 +159,7 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
 -- Warren Buffett*
 
-Take ownership of your life, only then you will cultivate respect for yourself and respect from others. Your choices determined the body, bank account, and relationships that you have right now.
+Take ownership of your life; only then you will cultivate respect for yourself and earn respect from others. Your choices have determined the body, bank account, and relationships that you have right now.
 
 > *"Be the person your dog thinks you are."  
 -- J.W. Stephens*
@@ -184,7 +184,7 @@ Take ownership of your life, only then you will cultivate respect for yourself a
 
 ### How to grow your reputation?
 
-Be impeccable with your word. Take responsability. Trust, not money, is the currency of business and life.
+Be impeccable with your word. Take responsibility. Trust, not money, is the currency of business and life.
 
 > *"Pay every debt, as if God wrote the bill."  
 -- Ralph Waldo Emerson*
@@ -216,10 +216,8 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 -- Lao Tzu*
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
-> *"The blind can’t see. The proud will not."  
--- Russian proverb*
 
-- I opened two gifts this morning. They were my eyes.
+- 
 - Modesty, n.: Being comfortable that others will discover your greatness.
 -->
 
@@ -229,7 +227,9 @@ Be impeccable with your word. Take responsability. Trust, not money, is the curr
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  
 -- Oprah Winfrey*
 
-Being grateful is looking down. Play the cards you are dealt. And sometimes you will be dealt bad cards.
+You opened two gifts this morning: your eyes.
+
+Being grateful is looking up. Play the cards you are dealt. And sometimes you will be dealt bad cards.
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero*
@@ -252,6 +252,8 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 > *"Writing down one thing you are grateful for each day is the cheapest possible therapy ever."  
 -- Kevin Kelly*
 
+> *"The blind can’t see. The proud will not."  
+-- Russian proverb*
 
 
 
@@ -270,9 +272,9 @@ Being grateful is looking down. Play the cards you are dealt. And sometimes you 
 > *"Everyone you will ever meet knows something you don’t."  
 -- Bill Nye*
 
-Don’t forget that a group of people blazed the trail we’re enjoying and that another group continues to maintain it.
+Don't forget that a group of people blazed the trail we're enjoying, and another group continues to maintain it.
 
-Ego is the unhealthy belief in our own importance. You are not perfect neither you’ll ever be. Success means nothing in life. It’s forgotten in one generation, two at best. Your emotional health, by the other hand, lives for hundreds of generations after in the lives of everyone you touch and their descendants.
+Ego is the unhealthy belief in our own importance. You are not perfect, and you'll never be. Success means nothing in life; it's forgotten in one generation, two at best. On the other hand, your emotional health lives on for hundreds of generations in the lives of everyone you touch and their descendants.
 
 > *"Promptness is a sign of respect."  
 -- Kevin Kelly*
@@ -295,8 +297,7 @@ Quickly, specifically, sincerely.
 
 ### How to humble yourself?
 
-A way to humble yourself is to put you in the position of being the weakest person in something during the day.
-
+One way to humble yourself is to place yourself in the position of being the weakest person in something during the day.
 
 
 
@@ -408,19 +409,19 @@ Hints:
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
 -- Paulo Coelho*
 
-You can choose courage or comfort but you can’t choose both.
+You can choose courage or comfort, but you can’t choose both.
 
-The size of your life is in direct proportion to how uncomfortable you are willing to be. You keep doing what you’re good at to avoid facing the real problems in your life. Breaking rules frightens people but comfort is the enemy of achievement. You’ll never get what you want in life without risk. Risk over safety is the way to pull forward. If you act average, you’re going to be average. To outperform, you must be different *and* correct.
+The size of your life is directly proportional to how much discomfort you are willing to endure. You keep doing what you're good at to avoid confronting the real problems in your life. Breaking rules can be frightening, but comfort is the enemy of achievement. You'll never achieve what you want in life without taking risks. Prioritizing risk over safety is the path to progress. If you act average, you'll remain average. To outperform, you must be both different and correct.
 
 Hints:
 
 - Risk looks different for everyone.
 - Repeating close variations on your usual theme unlocks far more value than you’d expect given minimal novelty value is a surprising result.
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
-- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, go out in nature alone for a week. Being uncomfortable should be “play” for you. Get confort in disconfort.
-- Risk prone is better than risk averse but dont allow to be out of the game. Adventure comes from percieved risk, not peril. Develop a tolerance for risk so that you can build up to the scarier activities later. The discomfort zone is NOT about experiencing pain.
+- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, spend a week alone in nature. Being uncomfortable should be "play" for you. Find comfort in discomfort.
+- Being risk-prone is better than being risk-averse, but don't allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is NOT about experiencing pain.
 - Leap while you’re at the top of the curve, and the next curve builds on the momentum.
-- This isn’t a success strategy. This is a WELL-BEING strategy. The risk of not changing is often greater than the risk of changing.
+- This isn't just a success strategy; it's a well-being strategy. The risk of not changing is often greater than the risk of changing.
 
 > *"Do one thing that scares you everyday."  
 -- Eleanor Roosevelt*
@@ -491,13 +492,13 @@ Hints:
 
 Most problems can be solved by graded exposure over time.
 
-Experience and analysis of past situations. Deliberated practice and structured knowledge.
+It involves the accumulation of experience, the analysis of past situations, deliberate practice, and structured knowledge.
 
 Hints:
 
-- Listen to someone explaining some hard techniques and then try to follow the advice. Get feedback. It accelerates learning.
-- If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and have a hard time. Now you’re learning.
-- Reflect on your mistakes, try to find what cues you missed and what you should look for next time.
+- Listen to someone explaining challenging techniques, and then attempt to follow their advice. Seek feedback as it accelerates learning.
+- If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That's when real learning occurs.
+- Reflect on your mistakes; try to identify the cues you missed and what to look for next time.
 - Repeat.
 
 > *"The fastest way to learn is to do things the slow way."  
@@ -583,7 +584,7 @@ Hints:
 > *"Fools say that they learn by experience, I prefer to profit by others’ experience."  
 -- Otto von Bismarck*
 
-Practice makes perfect but doesn’t make new. New comes from having a broader perspective and analysis of past situations. People repeat very easily the same mistakes. You improve by examining your failures, it will help you letting go.
+Practice makes perfect but doesn't necessarily bring something new. Innovation comes from having a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures; it will help you let go.
 
 > *"You can only connect the dots looking back, not looking forward."  
 -- Unknown*
@@ -594,7 +595,7 @@ Practice makes perfect but doesn’t make new. New comes from having a broader p
 
 > *"Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it."*
 
-Action, not knowledge, leads to success. If you are not constantly taking action on the new information that you are learning then it’s just educational porn.
+Action, not knowledge, leads to success. If you are not consistently applying the new information you're learning, then it's merely educational porn.
 
 > *"Seek knowledge. Knowledge and courage are the elements of greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile."  
 -- Balthasar Gracian*
@@ -646,9 +647,9 @@ True experts recognize the limits of what they know and what they do not know.
 
 ### Mastery and arrogance
 
-There’s always room for improvement, be humble. There is no place for a «prima donna».
+There’s always room for improvement; be humble. There is no place for a «prima donna».
 
-If you’re not getting better today, you’re getting worse. Skills are perishable and the path to mastery a never ending story. Some of the skills that you need to achieve expertise were not yet systemised.
+If you're not improving today, you're regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
 
 > *"I am not young enough to know everything."  
 -- Oscar Wilde*
@@ -690,9 +691,9 @@ If you’re not getting better today, you’re getting worse. Skills are perisha
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 -- Will Durant*
 
-Habits are systems. We are essentially our habits. Habits are compound interest in real life.
+Habits are systems. We are essentially our habits. Habits are like compound interest in real life.
 
-Consistency doesn’t come from effort, it comes from showing up. Long term thinking and discipline will guarantee you an easier life. 
+Consistency doesn’t result from effort; it comes from showing up. Long-term thinking and discipline will guarantee you an easier life. 
 
 > *"At any given time, I’m either trying to pick up a good habit or discard a previous bad habit."  
 -- Naval Ravikant*
@@ -716,15 +717,14 @@ We tend to abandon the good system we’ll follow in search of the perfect syste
 Hints:
 
 - Try to break a bad habit and form a good one every 6 months. (Naval Ravikant)
-- Avoid low leverage habits: news (unnecessary stress and negative bias), pointless notifications, social media (use it as an output not as entertainment. Other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning nor the last thing you see at night), own a TV, work long hours, bad relationships, judge, control of petty stuff, perfectionism, signaling virtue. 
-- Cultivate high leverage habits: cultivating useful skills, exercise, rest, medidtation, travel, read, journal, music, create, network and make friends, time outside with friends & family, massage, gratefulness, forgive, self awareness, plan, eat mindfully, focus, do less, sleep/nap, smile, use colors. 
-- Small steps beat big dreams: the smaller the change the more likely you’ll actually make it. “Could I meditate for 15 minutes? No, I feel resistance, I’m not gonna do it. Okay, five? Huh, I don’t feel resistance to that. I feel like I can do it for five.”
+- Avoid low-leverage habits: news (unnecessary stress and negative bias), pointless notifications, social media (use it for output, not entertainment; other people's stories are more interesting when you don't know what's going on), smartphones (should not be the first thing you see in the morning or the last thing at night), owning a TV, overworking, unhealthy relationships, judgment, micromanagement, perfectionism, virtue signaling.
+- Cultivate high-leverage habits: develop useful skills, exercise, rest, meditate, travel, read, journal, enjoy music, create, network, make friends, spend time outdoors with friends and family, indulge in massages, practice gratitude, forgive, prioritize self-awareness, plan, eat mindfully, focus, do less, prioritize sleep and naps, smile, and embrace colors.
+- Small steps are more likely to lead to success. For example, if you find resistance to meditating for 15 minutes, try starting with just five minutes.
 - Anticipate obstacles to new habits.
-- Get accountable by making a pact with someone to introduce financial penalties for habits that are bad for you.
-- Reward yourself to solidify new habits.
-- Don’t try to be perfect. Two vices is too much, none makes you boring.
-- Pay attention, correct and don’t judge.
-
+- Get accountable by making an agreement with someone that includes financial penalties for habits that are bad for you.
+- Reward yourself to reinforce new habits.
+- Don't strive for perfection. Having a few vices makes life more interesting.
+- Pay attention, correct your course and don’t judge.
 
 
 
@@ -767,8 +767,8 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 Hints:
 
 - Do you know anyone who doesn’t have any blind spots? So why would you be different?  
-- Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen the other person’s views, you might be biased.
-- Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and allow you to thoughtfully respond to your feelings.
+- Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen to the other person’s views, you might be biased.
+- Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
 
 > *"The best meditation is being curious about the contents of your own mind."  
 "Meditation is a good way to measure where you are."  
@@ -820,7 +820,7 @@ Hints:
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
 
-We were built to hunt and gather and move, not to stay still. However, the origin of most health problems is not physical but mental.
+We were built to hunt, gather, and move, not to stay still. However, the root cause of most health problems is often not physical but mental.
 
 ### On depression and anxiety
 
@@ -877,8 +877,8 @@ If you are at peace you are living in the present."
 
 Depression and anxiety are symptoms of under-stimulation and over-stimulation, not diseases:
 
--  Depression (under-stimulation) is the lack of self-expression. If you feel powerless/being dominated you will be chronically stressed to estimulate yourself. 
--  Anxiety (over-stimulation) creates hypersensitivity. Linked with our evolutionarily need of control. Anxiety is not planning, anxiety is to go on continuously over any kind of scenario. Nothing is gained by worrying about «not knowing». We don’t control anything, at most we influence some stuff. Stress is caused by giving a fuck. Worry is a misuse of the imagination. Past is only in your head. What’s important is present and future.
+- Depression (under-stimulation) can be viewed as a lack of self-expression. It may arise when one feels powerless or dominated, leading to chronic stress as a way to stimulate oneself.
+- Anxiety (over-stimulation) manifests as hypersensitivity and can be linked to our evolutionary need for control. Anxiety isn't productive planning; it's a continuous state of apprehension over various scenarios. Worrying about the unknown is unproductive; we have limited control and primarily influence rather than dictate outcomes. Stress often results from excessive concern, and worrying is a misuse of the imagination. The past exists only in your thoughts; what truly matters is the present and the future.
 
 > *"Boredom is a soul sucker. The unfed mind devours itself."  
 -- Gore Vidal*
@@ -888,7 +888,6 @@ Depression and anxiety are symptoms of under-stimulation and over-stimulation, n
 
 > *"Anxiety is the dizziness of freedom."  
 -- Søren Kierkegaard*
- 
 
 > *"In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves."  
 -- Laurie Halse Anderson*
@@ -900,13 +899,13 @@ Depression and anxiety are symptoms of under-stimulation and over-stimulation, n
 
 Action cures everything. Physical stress avoids need for control.
 
-Hustling (right amount of stimulation) is to be always stretching comfort zone. Avoiding stress is avoiding life.  
+Hustling (the right amount of stimulation) involves consistently stretching your comfort zone. Avoiding stress is avoiding life.  
 
 Hints:
 
-- Best antidepressant is knowing we matter to others. People do not die from suicide, they die from sadness.
-- Exercise: burn extra calories to diminish the need of control. If you are feeling stressed out.. breathe. Body language affects your psychology, your mood, and even your hormonal balance. People are naturally happier when kept busy.
-- Diet is also relevant: debug your body as much as you can.
+- The best antidepressant is knowing that we matter to others. People don't die from suicide; they die from sadness.
+- Exercise: burn extra calories to reduce the need for control. When you're feeling stressed out, take a moment to breathe. Remember that body language affects your psychology, mood, and even hormonal balance. People tend to be naturally happier when they're kept busy.
+- Diet is also relevant: *debug* your body as much as you can.
 
 > *"If you want to lift yourself up, lift up someone else."  
 -- Booker T. Washington*
@@ -928,20 +927,16 @@ Hints:
 <!--
 > *"A man who fears suffering is already suffering from what he fears."  
 -- Montaigne*
-> *"Fear is incomplete knowledge."  
--- Agatha Christie*
 > *"Any person capable of angering you becomes your master; ha can anger you only you permit yourself being disturbed by him."  
 -- Epictetus*
 > *"Fear makes the wolf bigger than he is."  
 -- German Proverb*
-> *"Nothing in life is to be feared, it is only to be understood."  
--- Marie Curie*
 
 - anger is a punishment we give ourselves for someone else’s mistake
-- fear does not stop death, it stops life
 - the hardest prison to escape is in your own mind.
 - What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 - all excuses are false.
+- Viewing life through fear's lens keeps you in retreat mode, but embracing responsibility over blame leads to your best years and saves energy.
 -->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
@@ -949,7 +944,7 @@ Hints:
 
 Fear is paralyzing.
 
-When you view everything through the lens of fear, you’ll tend to stay in retreat mode. Anger and excuses are fear clothed. All excuses are refutable. The best years of your life are the ones in which you decide your problems are your own - do not blame them on your family, the ecology, or the president. Living reality requires less energy than victim constiousness. Escaping reality sucks your energy.
+When you view everything through the lens of fear, you're more likely to remain in retreat mode. Anger and excuses often mask underlying fears. Remember that all excuses can be challenged. The best years of your life are the ones in which you take ownership of your problems rather than blaming them on your family, the environment, or the president. Living in reality requires less energy than cultivating a victim mentality. Escaping reality drains your energy.
 
 > *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
 -- Paulo Coelho*
@@ -968,17 +963,20 @@ Replace fear with curiosity.
 
 Hints:
 
-- The best antidote to fear is aceptance not courage.
-- Conquering fear means defining fear. Define your fears not your goals.
+- The best antidote to fear is aceptance not courage.  
+- Conquering fear means defining fear. Define your fears not your goals.  
+- Fear does not stop death, it stops life.  
+
+> *"Nothing in life is to be feared, it is only to be understood."  
+-- Marie Curie*
+
+> *"Fear is incomplete knowledge."  
+-- Agatha Christie*
 
 > *"It’s not the mountain we conquer but ourselves."  
 -- Sir Edmund Hillary*
 
 ### On courage
-
-<!--
-- courage is a form of intelligence not strenght. it’s about outwitting your limiting beliefs, irrational fears and insecurities.
--->
 
 > *"Life shrinks or expands in proportion to one’s courage."  
 -- Anaïs Nin*
@@ -992,7 +990,9 @@ Hints:
 > *"Courage is resistance to fear, mastery of fear — not absence of fear."  
 -- Mark Twain*
 
-Heros and cowards feel the same fear but their answers are different. Courage implies low reverence.
+A coward has no scar.
+
+Heros and cowards feel the same fear but their answers are different. Courage implies low reverence. Courage is a form of intelligence not strenght. It’s about outwitting your limiting beliefs, irrational fears and insecurities.
 
 > *"All the darkness in the world cannot extinguish the light of a single candle."  
 -- Francis of Assisi*
@@ -1038,9 +1038,6 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 
 > *"Tell a man that he is brave, and you help him become so."  
 -- Thomas Carlyle*
-
-> *"A coward has no scar."  
--- Zimbabwean proverb*
 
 > *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
 -- Eddie Rickenbacker*
