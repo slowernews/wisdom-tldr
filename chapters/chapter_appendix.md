@@ -46,7 +46,8 @@ You are your memory, however you can’t start a new chapter of your life if you
 
 Let go your past failures. They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
-> *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist. (...) Changing your interpretation of your past is often just as good as changing your past."  
+> *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist." (...)  
+"Changing your interpretation of your past is often just as good as changing your past."  
 -- Naval Ravikant*
 
 > *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
@@ -401,8 +402,8 @@ Intelligence is a spectrum, a dog is intelligent also.
 -- Kevin Kelly*
 > *"Being rich is having money; being wealthy is having time."  
 -- Stephen Swidr*
-> *"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms."  
-"Making money is not something that you do - it’s a skill that you learn."  
+> *"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms." (...)  
+"Making money is not something that you do - it’s a skill that you learn." (...)  
 "No one can predict macro."  
 -- Naval Ravikant*
 
@@ -484,8 +485,8 @@ See fame as a multiplier.
 People say they want to be famous to impact the world, often what they want is the adoration of their peers.
 
 > *"The reward for getting on the stage is fame. The price of fame is that you can’t get off stage." (...)  
-"If you’re not ready to be hated, you’re not ready to be famous." (...)    
-"You want to be rich and anonymous, not poor and famous." (...)  
+"If you’re not ready to be hated, you’re not ready to be famous." (...)  
+"You want to be rich and anonymous, not poor and famous."
 -- Naval Ravikant*
 
 
@@ -636,11 +637,11 @@ Health is also an envy trigger. Often what people really envy is self-control.
 -- Alison Faulkner*
 > *"For a great payoff, be especially curious about the things you are not interested in."  
 -- Kevin Kelly*
-> *"To measure your quality of life, simply do nothing and see how it feels."  
-"You should be too busy to do coffee, while still keeping an uncluttered calendar."  
-"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you."  
-"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom."  
-"No routine. I’m famously unscheduled."  
+> *"To measure your quality of life, simply do nothing and see how it feels." (...)  
+"You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
+"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you." (...)  
+"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom." (...)  
+"No routine. I’m famously unscheduled." (...)  
 "Develop strategic incompetence - people won’t ask you to do things you hate to do if you’re bad at them."  
 -- Naval Ravikant*
 
@@ -1375,7 +1376,7 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 
 > *"Aha moment: The moment of understanding when two smaller truths connect and a greater truth is revealed." (...)
 "Science requires skepticism. Religion requires belief." (...)  
-"Scientists who support silencing opposing voices are actually priests." (...)  
+"Scientists who support silencing opposing voices are actually priests."
 -- Naval Ravikant*
 
 
@@ -1492,13 +1493,13 @@ The more «art» you allow in, the less commercial success you’ll have. People
 -- J.P. Morgan*
 > *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
 -- Kevin Kelly*
-> *"The best investments are ’buy and forget.’"  
-"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer."  
-"The Memorial Day we remember our unrealized gains."  
-"The two biggest investing mistakes are panic buying and panic selling."  
-"I only believe in micro. I don’t believe in macro."  
-"A great reason to buy instead of renting is that you get to fire your landlord."  
-"The larger the herd, the lower the returns."  
+> *"The best investments are «buy and forget.»" (...)  
+"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer." (...)  
+"The Memorial Day we remember our unrealized gains." (...)  
+"The two biggest investing mistakes are panic buying and panic selling." (...)  
+"I only believe in micro. I don’t believe in macro." (...)  
+"A great reason to buy instead of renting is that you get to fire your landlord." (...)  
+"The larger the herd, the lower the returns." (...)  
 "All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
 -- Naval Ravikant*
 
@@ -1607,13 +1608,12 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 > *"Education: the path from cocky ignorance to miserable uncertainty."  
 -- Mark Twain*
 
-> *"The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge. (...) The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology."  
+> *"The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
+"The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology."  
 -- Naval Ravikant*
 
-> *"Learning is cheap, education is expensive."  
--- Naval Ravikant*
-
-> *"Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out."  
+> *"Learning is cheap, education is expensive." (...)   
+"Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out."  
 -- Naval Ravikant*
 
 > *"Education is what survives when what has been learnt has been forgotten."  
@@ -1624,10 +1624,8 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 
-> *"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths."  
--- Naval Ravikant*
-
-> *"The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas - just learning. Actually you’re already here. Careful who you follow."  
+> *"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths." (...)  
+"The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas - just learning. Actually you’re already here. Careful who you follow."  
 -- Naval Ravikant*
 
 
@@ -1771,10 +1769,13 @@ Hints:
 ## On media
 
 <!--
+> *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
+-- Patrick Moynihan*
+	
 > *"The clash of ideas is the sound of freedom.*
 -->
 
-> *"The goal of media is to make every problem, your problem."  
+> *"The goal of media is to make every problem, your problem." (...)  
 "Journalists aren’t neutral, they’re the cavalry of culture wars."  
 -- Naval Ravikant*
 
@@ -1783,7 +1784,7 @@ Hints:
 
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
 
-> *"If you’re writing for your followers, your followers are worthless."  
+> *"If you’re writing for your followers, your followers are worthless." (...)  
 "The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
 -- Naval Ravikant*
 
@@ -1865,8 +1866,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 
 Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
 
+Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
+
 > *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
 -- Ian McEwan*
-
-> *"Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her."  
--- Anonymous*

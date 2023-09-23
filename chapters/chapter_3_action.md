@@ -87,7 +87,7 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 > *"The mind that opens to a new idea never returns to its original size."  
 -- Albert Einstein*
 
-> *"Using creativity to solve problems cannot be taught, and it’s ultimately what free markets pay for."  (...)
+> *"Using creativity to solve problems cannot be taught, and it’s ultimately what free markets pay for." (...)  
 "A busy calendar and a busy mind will destroy your ability to create anything great."  
 -- Naval Ravikant*
 
@@ -424,10 +424,10 @@ Hints:
 -- Malcolm Forbes*
 > *"Thinking is difficult. That’s why most people judge."  
 -- Carl Jung*
-> *"Clear thinkers take feedback from reality, not society."  
-"The three big decisions: where you live, who you’re with, and what you’re doing."  
-"In the age of infinite leverage, judgement is the most important skill."  
-"Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity."  
+> *"Clear thinkers take feedback from reality, not society." (...)  
+"The three big decisions: where you live, who you’re with, and what you’re doing." (...)  
+"In the age of infinite leverage, judgement is the most important skill." (...)  
+"Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
 "The only part you can’t outsource is judgement."  
 -- Naval Ravikant*
 
@@ -748,8 +748,8 @@ Busy imply out of control. Lack of time is lack of priorities.
 <!--
 > *"Work expands so as to fill the time available for its completion."  
 -- C. Northcote Parkinson*
-> *"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?"  
-"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it."  
+> *"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
+"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
 "Say no: ’It doesn’t feel right to me.’ No more explanations are needed."  
 -- Naval Ravikant*
 
@@ -883,9 +883,9 @@ Overcompensate. Some people get passion from something they struggled with.
 -- James Akre*
 > *"If past history was all there was about the game, the richest people would be librarians."  
 -- Warren Buffett*
-> *"The best way, perhaps the only way, to change others is to become an example."  
-"Everybody wants to change others. Nobody wants to be changed."  
-"People think they can’t change themselves, but they can. People think they can change others, but they can’t."  
+> *"The best way, perhaps the only way, to change others is to become an example." (...)  
+"Everybody wants to change others. Nobody wants to be changed." (...)  
+"People think they can’t change themselves, but they can. People think they can change others, but they can’t." (...)  
 "Sometimes it’s easier to change the world than to change people’s minds."  
 -- Naval Ravikant*
 
@@ -976,8 +976,8 @@ There are limits on change. Willpower is finite and change requires attention. H
 -- Kevin Kelly*
 > *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly*
-> *"You are strong only where you were broken."  
-"It’s hard to defeat a high-morale defender with an unlimited supply line."  
+> *"You are strong only where you were broken." (...)  
+"It’s hard to defeat a high-morale defender with an unlimited supply line." (...)  
 "Leverage converts knowledge into power."  
 -- Naval Ravikant*
 
@@ -1121,9 +1121,9 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 > *"I’m not upset that you lied to me. I’m upset that from now on I can’t believe on you."  
 -- Friedrich Nietzsche*
 
-> *"It’s the nature of truth that once you see it, you can’t unsee it."  
+> *"It’s the nature of truth that once you see it, you can’t unsee it." (...)  
 "If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it."  
--- Naval Ravikant (Paraphrased)*
+-- Naval Ravikant*
 
 > *"Honesty is a very expensive gift, don’t expect it from cheap people."  
 -- Warren Buffett*

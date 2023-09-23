@@ -237,10 +237,10 @@ Choose truth or your self-mythology will seduce you.
 -- Kevin Kelly*
 > *"Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
 -- Kevin Kelly*
-> *"You are not building a product. You are solving a problem."  
-"Startups are a theory about something the market wants, but doesn’t yet exist."  
-"Startups don’t die when they run out of cash, they die when the founders run out of energy."  
-"Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not."  
+> *"You are not building a product. You are solving a problem." (...)  
+"Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
+"Startups don’t die when they run out of cash, they die when the founders run out of energy." (...)  
+"Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not." (...)  
 "You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product."  
 -- Naval Ravikant*
 
@@ -508,8 +508,8 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 -- Winston Churchill*
 > *"If something is too early to criticize, it’s also too early to evangelize."  
 -- Kelsey Hightower*
-> *"Take feedback from nature and markets, not from people."  
-"A good scare is a great error-correcting mechanism."  
+> *"Take feedback from nature and markets, not from people." (...)  
+"A good scare is a great error-correcting mechanism." (...)  
 "Remove grading to see who is really interested in the topic."  
 -- Naval Ravikant*
 
@@ -1012,9 +1012,9 @@ Hints:
 -- Isaac Asimov*
 > *"You can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don’t first persuade their closest comrades."  
 -- Nassim Taleb*
-> *"Individuals rarely admit mistakes. Groups never do."  
-"’Consensus’ is just another way of saying ’average’."  
-"A group operates through consensus. the consensus will be set by the most intolerable minority. So you’ll the intolerable minority will control the group."  
+> *"Individuals rarely admit mistakes. Groups never do." (...)  
+"«Consensus» is just another way of saying «average»." (...)  
+"A group operates through consensus. the consensus will be set by the most intolerable minority. So you’ll the intolerable minority will control the group." (...)  
 "If your opinions line up neatly with those of your friends and colleagues, they’re not your opinions."  
 -- Naval Ravikant*
 -->
@@ -1413,10 +1413,10 @@ Hints:
 > *"If you wish to control others you must control yourself."  
 -- Miyamoto Musashi*
 
-> *"The leader doesn’t take charge of the tribe. The leader takes responsability for the tribe."  
-"The highest status people in human history are those that asked for nothing and gave everything."  
-"Charisma is the ability to project confidence and love at the same time."  
-"If aren’t willing to get mocked, you’ll never be able to lead."  
+> *"The leader doesn’t take charge of the tribe. The leader takes responsability for the tribe." (...)  
+"The highest status people in human history are those that asked for nothing and gave everything." (...)  
+"Charisma is the ability to project confidence and love at the same time." (...)  
+"If aren’t willing to get mocked, you’ll never be able to lead." (...)  
 "You lead by willing to walk alone."  
 -- Naval Ravikant*
 
@@ -1557,20 +1557,20 @@ Hints:
 
 Nobody can compete with you on being you. Most of life is a search for who and what needs you the most. Be unique.
 
-> *"If the title matters to you, you don’t belong to a startup."  
-"If you want to be part of a great tech company, then you need to be able to sell or build. If you don’t do either, learn."  
-"Creative teams should be colocated. The rest of the company can be distributed."  
-"There are 7B people in the world. someday, I hope, there will be 7B companies."  
-"What feels like play to you and work to others?"  
-"Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now."  
-"Be the best in the world at what you do. Keep redefining what you do until this is true."  
-"You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge."  
-"Give the world what it need and it will give you what you want."  
-"You don’t have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely."  
-"Knowledge workers function like athletes - train and sprint, then rest and reassess."  
-"If the work doesn’t require creativity, delegate it, automate it or leave it."  
-"Set and enforce an aspirational hourly rate."  
-"Rich people get paid by the project and pay by the hour."  
+> *"If the title matters to you, you don’t belong to a startup." (...)  
+"If you want to be part of a great tech company, then you need to be able to sell or build. If you don’t do either, learn." (...)  
+"Creative teams should be colocated. The rest of the company can be distributed." (...)  
+"There are 7B people in the world. someday, I hope, there will be 7B companies." (...)  
+"What feels like play to you and work to others?" (...)  
+"Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now." (...)  
+"Be the best in the world at what you do. Keep redefining what you do until this is true." (...)  
+"You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge." (...)  
+"Give the world what it need and it will give you what you want." (...)  
+"You don’t have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely." (...)  
+"Knowledge workers function like athletes - train and sprint, then rest and reassess." (...)  
+"If the work doesn’t require creativity, delegate it, automate it or leave it." (...)  
+"Set and enforce an aspirational hourly rate." (...)  
+"Rich people get paid by the project and pay by the hour." (...)  
 "To get paid in the future, live in the future."  
 -- Naval Ravikant (Paraphrased)*
 
@@ -1645,13 +1645,13 @@ Hints:
 - Rich people get paid by project and pay by the hour. Act accordingly.
 - The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.
 
-> *"A taste of freedom can make you unemployable."  
+> *"A taste of freedom can make you unemployable." (...)  
 "An entrepreneur without drive is just an unemployed."  
 -- Naval Ravikant*
 
 <!--
-> *"Earn with your mind, not with your time."  
-"You’re never going to get rich renting out your time."  
+> *"Earn with your mind, not with your time." (...)  
+"You’re never going to get rich renting out your time." (...)  
 "Trade money for time, not time for money. You’re going to run out of time first."  
 -- Naval Ravikant*
 
@@ -1690,8 +1690,8 @@ Ask employers why did they asked you for an interview - they will describe your 
 -- Kevin Kelly*
 > *"Being enthusiastic is worth 25 IQ points."  
 -- Kevin Kelly*
-> *"If you can’t see yourself working with someone for life, don’t work with them for a day."  
-"Mercenaries work for money. Missionaries build for others. Artists create for themselves."  
+> *"If you can’t see yourself working with someone for life, don’t work with them for a day." (...)  
+"Mercenaries work for money. Missionaries build for others. Artists create for themselves." (...)  
 "Management is mostly hiring well and firing quickly."  
 -- Naval Ravikant*
 

@@ -12,25 +12,22 @@
 
 <!--
 > *"The more you have to define freedom the less freedom you have."  
--- Alexander Bickel (?)*
+-- Alexander Bickel*
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
 -- Thomas Jefferson*
 > *"Life without liberty is like a body without spirit."  
 -- Kahlil Gibran*
-> *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
--- Patrick Moynihan*
 > *"We all have enough strength to endure the misfortunes of other people."  
 -- La Rochefoucauld*
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu*
-> *"What we reason for ourselves may help others. What we reason for others will not help us."  
--- Naval Ravikant*
-> *"If you hurt people because of their expectations of you, that’s their problem."  
+> *"What we reason for ourselves may help others. What we reason for others will not help us." (...)  
+"If you hurt people because of their expectations of you, that’s their problem."  
 -- Naval Ravikant*
 
-- don’t build your castle in other peoples kingdom’s
-- freedom to -> freedom from -- naval
-- bees don’t waste their time explaining to flies that flowers taste better than shit.
+- Don’t build your castle in other peoples kingdom’s
+- Freedom to -> freedom from -- naval
+- Bees don’t waste their time explaining to flies that flowers taste better than shit.
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -78,9 +75,9 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 -- Frank Herbert
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin*
-> *"Everybody wants spirituality. Nobody wants the truth."  
-"I don’t want to be in environments or people where I have to watch what I say."  
-"Escape competition through authenticity."  
+> *"Everybody wants spirituality. Nobody wants the truth." (...)  
+"I don’t want to be in environments or people where I have to watch what I say." (...)  
+"Escape competition through authenticity." (...)  
 "To be honest speak without identity."  
 -- Naval Ravikant*
 
@@ -319,14 +316,14 @@ Hints:
 - Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you».
 - «It’s on documentation. If it’s not add it.»
 
-> *"The mind gives up before the body."  
-"Doing is faster than watching."  
-"Choose inspiration over envy."  
-"The optimal zone for performance is ’slightly hungry’."  
-"Better bored than busy."  
-"Persistence beats timing. Execution beats luck. Not immediately but eventually."  
-"You get paid for being right first, and to be first, you can’t wait for consensus."  
-"Don’t settle and don’t struggle. Life is what flows in between."  
+> *"The mind gives up before the body." (...)  
+"Doing is faster than watching." (...)  
+"Choose inspiration over envy." (...)  
+"The optimal zone for performance is ’slightly hungry’." (...)  
+"Better bored than busy." (...)  
+"Persistence beats timing. Execution beats luck. Not immediately but eventually." (...)  
+"You get paid for being right first, and to be first, you can’t wait for consensus." (...)  
+"Don’t settle and don’t struggle. Life is what flows in between."
 -- Naval Ravikant*
 
 > *"If you have a dream, don’t waste your energies explaining why."  
@@ -677,7 +674,7 @@ If you're not improving today, you're regressing. Skills are perishable, and the
 -- F. M. Alexander
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett*
-> *"It isn’t 10k hours that creates outliers, it’s 10k iterations."  
+> *"It isn’t 10k hours that creates outliers, it’s 10k iterations." (...)  
 "I probably read 1-2 hours a day, and that puts me in the top 0,00001%."  
 -- Naval Ravikant*
 
@@ -770,13 +767,13 @@ Hints:
 - Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen to the other person’s views, you might be biased.
 - Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
 
-> *"The best meditation is being curious about the contents of your own mind."  
-"Meditation is a good way to measure where you are."  
-"A fit mind is a clear mind"
-"You are a story you tell yourself"
-"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body."  
-"Self-awareness is the most attractive trait"
--- Naval Ravikant (paraphrased)*
+> *"The best meditation is being curious about the contents of your own mind." (...)  
+"Meditation is a good way to measure where you are." (...)  
+"A fit mind is a clear mind." (...)  
+"You are a story you tell yourself." (...)  
+"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body." (...)  
+"Self-awareness is the most attractive trait."  
+-- Naval Ravikant*
 
 > *"If you correct your mind, the rest of your life will fall into place."  
 -- Lao Tzu*
@@ -803,12 +800,12 @@ Hints:
 -- Machiavelli*
 > *"Worrying is like paying a debt you don’t owe."  
 -- Mark Twain*
-> *"Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way."  
-"Yoga cultivates peace of body. Meditation cultivates peace of mind."  
-"A healthy body is light and silent, just as a healthy mind."  
-"When it comes to nutrition, subtract before you add."  
-"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
-"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies."  
+> *"Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way." (...)  
+"Yoga cultivates peace of body. Meditation cultivates peace of mind." (...)  
+"A healthy body is light and silent, just as a healthy mind." (...)  
+"When it comes to nutrition, subtract before you add." (...)  
+"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance." (...)  
+"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies." (...)  
 "Meditation isn’t hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I’m just going to give myself a break for an hour. This is my hour off from life. This is an hour I’m not going to do anything.»"  
 -- Naval Ravikant*
 
@@ -837,15 +834,15 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 -- Mark Manson*
 > *"Make sure you don’t start seeing yourself through the eyes of those who don’t value you. Know your worth even if they don’t."  
 -- Thema Davis*
-> *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety."  
-"Your trauma creates you."  
-"Uncertainty, not outcome, is the root of stress."  
-"A rational person can find peace by cultivating indifference to things outside of their control."  
-"You won’t have inner peace until you give up your war against the world."  
-"The quality of your mind is the quality of your life."  
-"One of the most powerful things to realize is that you can change your own self-image."  
-"Fasting focuses the mind. It replaces all desires with a single desire."  
-"You’re offended when you fear that it might be true."  
+> *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety." (...)  
+"Your trauma creates you." (...)  
+"Uncertainty, not outcome, is the root of stress." (...)  
+"A rational person can find peace by cultivating indifference to things outside of their control." (...)  
+"You won’t have inner peace until you give up your war against the world." (...)  
+"The quality of your mind is the quality of your life." (...)  
+"One of the most powerful things to realize is that you can change your own self-image." (...)  
+"Fasting focuses the mind. It replaces all desires with a single desire." (...)  
+"You’re offended when you fear that it might be true." (...)  
 "Ego is false confidence, self-respect is true confidence."  
 -- Naval Ravikant*
 
@@ -1069,7 +1066,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 -- Kevin Kelly*
 > *"When crisis and disaster strike, don’t waste them. No problems, no progress."  
 -- Kevin Kelly*
-> *"There is no failure, only feedback."  
+> *"There is no failure, only feedback." (...)  
 "Most of our suffering comes from avoidance."  
 -- Naval Ravikant*
 -->
@@ -1180,7 +1177,7 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 -- David Storey*
 > *"Those whose approval you seek the most give you the least."  
 -- Rozanne Weissman*
-> *"Self-esteem is just the reputation you have with yourself. You’ll always know."  
+> *"Self-esteem is just the reputation you have with yourself. You’ll always know." (...)  
 *"Guilt is society’s voice speaking in your head."  
 -- Naval Ravikant*
 
@@ -1317,7 +1314,7 @@ Hints:
 -- George Bernard Shaw*
 > *"Worry gives small things a big shadow."  
 -- Swedish Proverb*
-> *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative."  
+> *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative." (...)  
 "To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  
 -- Naval Ravikant*
 
