@@ -392,6 +392,8 @@ Hints:
 ## On decision making
 
 <!--
+> *"Enough is a decision, not an amount."  
+-- Alison Faulkner*
 > *"The boldest measures are the safest."  
 -- Horatio Nelson*
 > *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  

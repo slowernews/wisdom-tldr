@@ -619,59 +619,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
-> *"Hard work is simply the refuge of people that have nothing to do."  
--- Oscar Wilde*
-> *"The happiest of all lives is a busy solitude."  
--- Voltaire*
-> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
--- Christina Scalise*
-> *"Think of each day as a single life."  
--- Seneca*
-> *"The price of anything is the amount of life you exchange for it."  
--- Henry David Thoreau*
-> *"He who buys what he does not need, steals from himself."  
--- Swedish Proverb*
-> *"If a little is not enough for you, nothing is."  
--- Epicurus*
-> *"Enough is a decision, not an amount."  
--- Alison Faulkner*
-> *"For a great payoff, be especially curious about the things you are not interested in."  
--- Kevin Kelly*
-> *"To measure your quality of life, simply do nothing and see how it feels." (...)  
-"You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
-"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you." (...)  
-"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom." (...)  
-"No routine. I’m famously unscheduled." (...)  
-"Develop strategic incompetence - people won’t ask you to do things you hate to do if you’re bad at them."  
--- Naval Ravikant*
-
-- 3 hobbies: one cretive, one to keep in shape and one to make money
-- we drink to loosen our tongues.
-- if you don’t love it or use it is clutter.
-- all that clutter used to be money.
-- decluttering is self-care
-- minimalism doesn’t avoid possession. only excess.
-- the less you own, the less owns you.
-- income doesn’t make you rich. spending habits do.
-- owning less is better than organizing more. eliminate instead of organizing.
-- clutter is not just physical stuff. it’s old ideas, toxic relationships and bad habits. clutter is everything that doesn’t support the better self.
-- storage is a way of warehousing the past.
-- buy supplies before you need them. gadgets after you need them. three is two. two is one. One is none.
-- organizing your email is like alphabetizing your recycling.
-- avoid clothing that’s more interesting than you are.
-- you cant preach minimalism to whom didnt have too much stuff!
-- If you’re not trying to make money, what are you even doing?
-- feel like a local celebrity: everybody knows who you are.
-- I’m not choosing ignorance. I’m choosing to not watch wrestling.
-- My life has been a series of questions and odd experiments.
-- you can never be over dressed or over educated
-- being able to sit in forest shortly after waking is the closest thing to heaven on earth.
-- technology is my slave, not my master.
 - what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
-- all that clutter used to be money.
-
-> *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3."  
--- Kevin Kelly*
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -696,10 +644,11 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 
 Hints:
 
+- My life has been a series of questions and odd experiments.
+- I’m not choosing ignorance. I’m choosing to not watch wrestling.
 - The opposite of play isn’t work, it’s depression.  
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals.  
+- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. technology is my slave, not my master.
 - Simplicity is the ultimate sophistication.
-- Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need.
 - Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
 - Aspire to work 3 days a week; 3 weeks a month; 3 months free a year.  
 - Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
@@ -707,7 +656,52 @@ Hints:
 - House + work + third place.
 - Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. Don’t play the government’s game.
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
-- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it
+- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.
+- 3 hobbies: one creative, one to keep in shape and one to make money.
+- we drink to loosen our tongues.
+- Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. decluttering is self-care. clutter is not just physical stuff. it’s old ideas, toxic relationships and bad habits. clutter is everything that doesn’t support the better self. storage is a way of warehousing the past.
+- minimalism doesn’t avoid possession. only excess. the less you own, the less owns you. owning less is better than organizing more. eliminate instead of organizing. all that clutter used to be money. organizing your email is like alphabetizing your recycling.
+- income doesn’t make you rich. spending habits do.
+- buy supplies before you need them. gadgets after you need them. three is two. two is one. One is none.
+- avoid clothing that’s more interesting than you are.
+- If you’re not trying to make money, what are you even doing?
+- you can never be over dressed or over educated.
+- feel like a local celebrity: everybody knows who you are.
+
+> *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3."  
+-- Kevin Kelly*
+
+> *"Hard work is simply the refuge of people that have nothing to do."  
+-- Oscar Wilde*
+
+> *"The happiest of all lives is a busy solitude."  
+-- Voltaire*
+
+> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
+-- Christina Scalise*
+
+> *"Think of each day as a single life."  
+-- Seneca*
+
+> *"The price of anything is the amount of life you exchange for it."  
+-- Henry David Thoreau*
+
+> *"He who buys what he does not need, steals from himself."  
+-- Swedish Proverb*
+
+> *"If a little is not enough for you, nothing is."  
+-- Epicurus*
+
+> *"For a great payoff, be especially curious about the things you are not interested in."  
+-- Kevin Kelly*
+
+> *"To measure your quality of life, simply do nothing and see how it feels." (...)  
+"You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
+"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you." (...)  
+"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom." (...)  
+"No routine. I’m famously unscheduled." (...)  
+"Develop strategic incompetence - people won’t ask you to do things you hate to do if you’re bad at them."  
+-- Naval Ravikant*
 
 ### On travel
 
@@ -772,17 +766,13 @@ Success (and happiness) is internal not external. True fulfillment comes from li
 > *"To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man."  
 -- Louis L’amour*
 
-> *"Most overnight successes take at least 5 years. Budget your life accordingly."  
--- Kevin Kelly*
-
-> *"Show up. Keep showing up. Somebody successful said: 99% of success is just showing up."  
+> *"Most overnight successes take at least 5 years. Budget your life accordingly." (...)  
+"Recipe for success: under-promise and over-deliver." (...)  
+"Show up. Keep showing up. Somebody successful said: 99% of success is just showing up."  
 -- Kevin Kelly*
 
 > *"The success formula: solve your own problems and freely share the solutions."  
 -- Naval Ravikant*
-
-> *"Recipe for success: under-promise and over-deliver."  
--- Kevin Kelly*
 
 ### On barriers to success
 
@@ -825,10 +815,8 @@ wisdom = inteligence + experience
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
 
-> *"The measure of wisdom is how calm you are when facing any given situation."  
--- Naval Ravikant*
-
-> *"Knowledge is discovered colectively. Wisdom is rediscovered individually."  
+> *"The measure of wisdom is how calm you are when facing any given situation." (...)  
+"Knowledge is discovered colectively. Wisdom is rediscovered individually."  
 -- Naval Ravikant*
 
 
@@ -1022,10 +1010,8 @@ Keep your friends for friendship, work with the skilled and competent. You will 
 > *"Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors."  
 -- Balthasar Gracian*
 
-> *"Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem."  
--- Kevin Kelly*
-
-> *"Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
+> *"Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
+"Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
 -- Kevin Kelly*
 
 ### How to build your «board of directors»?
@@ -1044,10 +1030,10 @@ Hints:
 we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
 - You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
 
-> *"Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you."  
+> *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you." (...)  
+"Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you."  
 -- Kevin Kelly*
 
-> *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you."  
 -- Kevin Kelly*
 
 > *"Don’t loan money to a friend unless you are ready to make it a gift."  
@@ -1483,16 +1469,6 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
-> *"Money just comes to me because I know where to stand."  
--- Chelsea Lazkani*
-> *"When volatility or drawdowns are large, the price contains no information."  
--- Nassim Taleb*
-> *"400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative."  
--- Nassim Taleb*
-> *"Gold is money. Everything else is credit."  
--- J.P. Morgan*
-> *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
--- Kevin Kelly*
 > *"The best investments are «buy and forget.»" (...)  
 "Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer." (...)  
 "The Memorial Day we remember our unrealized gains." (...)  
@@ -1530,6 +1506,21 @@ Hints:
 > *"Never lose money. Rule No. 2: don’t forget rule No. 1."  
 -- Warren Buffett*
 
+> *"Money just comes to me because I know where to stand."  
+-- Chelsea Lazkani*
+
+> *"When volatility or drawdowns are large, the price contains no information."  
+-- Nassim Taleb*
+
+> *"400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative."  
+-- Nassim Taleb*
+
+> *"Gold is money. Everything else is credit."  
+-- J.P. Morgan*
+
+> *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
+-- Kevin Kelly*
+
 ### On your investment comfort zone
 
 Scared money never wins. It’s all about the risk of losing money versus the risk of missing opportunity. 
@@ -1541,7 +1532,6 @@ Scared money never wins. It’s all about the risk of losing money versus the ri
 -- Warren Buffett*
 
 ### How to spot good investments?
-
 > *"It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism."  
 -- Howard Marks*
 

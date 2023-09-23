@@ -136,11 +136,11 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 -- Yugoslav proverb*
 > *"There is no greater fraud than the promise not kept."  
 -- Gaelic proverb*
-> *"the selfish reason to be ethical is that it attracts the other ethical people in the network."  
-"Integrity is when what you think and what you say and what you do are one"  
-"Returns are made on the way up. reputations are made on the way down."  
-"Living a life of integrity pays off, but it takes a very long time."  
-"Before you can lie to another, you must firt lie to yourself."  
+> *"the selfish reason to be ethical is that it attracts the other ethical people in the network." (...)  
+"Integrity is when what you think and what you say and what you do are one." (...)  
+"Returns are made on the way up. reputations are made on the way down." (...)  
+"Living a life of integrity pays off, but it takes a very long time." (...)  
+"Before you can lie to another, you must firt lie to yourself." (...)  
 "Intentions don’t matter. Actions do. That’s why being ethical is hard."  
 -- Naval Ravikant*
 
@@ -214,7 +214,6 @@ Be impeccable with your word. Take responsibility. Trust, not money, is the curr
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
 
-- 
 - Modesty, n.: Being comfortable that others will discover your greatness.
 -->
 
@@ -306,23 +305,23 @@ One way to humble yourself is to place yourself in the position of being the wea
 <!--
 > *"If there’s no wind, row."  
 -- Latin Proverb*
+> *"You get paid for being right first, and to be first, you can’t wait for consensus." (...)  
+"Doing is faster than watching." (...)  
+"Choose inspiration over envy." (...)  
+"Better bored than busy."  
+-- Naval Ravikant*
 -->
 
 Blessed are the restless.
 
 Hints:
 
-- Helpful people don’t ask «how can I help». They just help. (Naval Ravikant)
-- Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you».
+- Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
 - «It’s on documentation. If it’s not add it.»
 
 > *"The mind gives up before the body." (...)  
-"Doing is faster than watching." (...)  
-"Choose inspiration over envy." (...)  
-"The optimal zone for performance is ’slightly hungry’." (...)  
-"Better bored than busy." (...)  
 "Persistence beats timing. Execution beats luck. Not immediately but eventually." (...)  
-"You get paid for being right first, and to be first, you can’t wait for consensus." (...)  
+"The optimal zone for performance is «slightly hungry»." (...)  
 "Don’t settle and don’t struggle. Life is what flows in between."
 -- Naval Ravikant*
 
