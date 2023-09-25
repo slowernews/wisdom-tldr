@@ -1135,9 +1135,12 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*
 
-We judge ourselves by our thoughts but society judges us by what we can do for them. When you don’t create things, you become defined by your tastes rather than ability.
+We judge ourselves by our thoughts but society judges us by what we can do for them.
 
-Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
+Hints:
+
+- When you don’t create things, you become defined by your tastes rather than ability.
+- Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
 
 > *"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."  
 -- Henry Ward Beecher*
@@ -1182,7 +1185,7 @@ Every word someone says is the tip of the iceberg. Underneath that word are thou
 
 Beware of all players.
 
-People are amazing optimizers and will find any loopholes or gaps to their advantage. Few people will help you in a way that is prejudicial to them.
+People are amazing optimizers and will find any loopholes or gaps to their advantage. Only your parents will help you in a way that is prejudicial to them.
 
 > *"Show me a hero, and I’ll write you a tragedy."  
 -- F. Scott Fitzgerald*
@@ -1253,7 +1256,9 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 The human strenght is our ability to cooperate. Heros are fictional stories.
 
-Hint: Buy from your community. Sell to outsiders.
+Hints:
+
+- Buy from your community. Sell to outsiders.
 
 > *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
 -- Mark Twain*
@@ -1262,7 +1267,7 @@ Hint: Buy from your community. Sell to outsiders.
 -- Paul Alexander*
 
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
--- Harvey Dent in The Dark Knight*
+-- Harvey Dent*
 
 > *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
 -- Balthasar Gracian*
@@ -1286,8 +1291,10 @@ Small (but relevant) conflicts will grow into big conflicts. What could have bee
 
 You’re either part of the solution or part of the problem.
 
-- Use «we». Mean it and take responsability.
-- Bring options to the table. It’s easier to negotiate down.
+Hints:
+
+- Use «we». Mean it and take responsability.  
+- Bring options to the table. It’s easier to negotiate down.  
 
 > *"To quiet a crowd or a drunk, just whisper. Calm is contagious."  
 -- Kevin Kelly*
@@ -1318,9 +1325,9 @@ You’re either part of the solution or part of the problem.
 
 Treat haters like toddlers.
 
-Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, ambition, fame, luck, beauty, health, freedom and a mix of them (lifestyle) are the main triggers.
-
 When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy - they think that you’re better than them. If someone is copying you, you won.
+
+Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, ambition, fame, luck, beauty, health, freedom and a mix of them (lifestyle) are the main triggers.
 
 > *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence."  
 -- Albert Einstein*
@@ -1370,6 +1377,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
 - There are three keys: honesty, effectiveness, and efficiency.
 - succeful takers are the most visible people in organizations.
+- Proactive problem management – Go directly to the source.
 - convincing vs inspiring leadership
 -->
 
@@ -1391,12 +1399,10 @@ Being a leader is different from being a boss: it requires to be a manager and a
 
 Hints:
 
-- Leaders cannot delegate culture creation, they can delegate culture keeping.
-- Leaders are embassadors of their teams.
-- Proactive Problem Management – Go directly to the source.
-- Good leaders are leaders that grew up in the hierarchy.  
-- People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
+- Leaders are embassadors of their teams. They can delegate culture keeping but not culture creation. 
 - If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.
+- Best leaders are leaders that grew up in the hierarchy.  
+- People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
 > *"Leadership is not about being followed, is about being first."  
 -- Dan Munro*
@@ -1447,8 +1453,8 @@ Managing is delegating. A great manager is a great facilitator. His responsabili
 
 Hints:
 
-- The speed that you offload your stuff will be the speed of your team. Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you’re occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
-- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?»
+- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?» The speed that you offload your stuff will be the speed of your team.  
+- Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you’re occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
 - Spend one hour a day communicating to your people and everything will be OK.
 - Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
@@ -1485,7 +1491,7 @@ Hints:
 
 Ask instead of telling. If the delivered work is not good enough give a reason.
 
-Continue, or consider. You get feedback that says either “Continue doing X” or “Consider changing X to make it better.” It’s really simple, fast and actionable.
+Continue, or consider. You give feedback that says either «continue doing X» or «consider changing X to make it better». It’s really simple, fast and actionable.
 
 Hints:
 
