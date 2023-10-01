@@ -1470,9 +1470,9 @@ People should feel as part of a tribe. While the tribe is cohese, external threa
 
 Hints:
 
-- Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
 - Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - A chain is only as strong as its weakest link.
+- Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
 
 > *"I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief."  
 -- Kurt von Hammerstein-Equord (General)*
@@ -1482,23 +1482,18 @@ Hints:
 
 ### How to give feedback?
 
-<!--
-
--->
-
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
 -- HN_exelius*
 
-Ask instead of telling. If the delivered work is not good enough give a reason.
+Ask instead of telling.
 
-Continue, or consider. You give feedback that says either «continue doing X» or «consider changing X to make it better». It’s really simple, fast and actionable.
+Continue, or consider. You give feedback that says either «continue doing X» or «consider changing X to make it better». If the delivered work is not good enough give a reason. It’s really simple, fast and actionable.
 
 Hints:
 
-- «Interesting, how do you feel about it? And your team?»
 - «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
 - «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
-- «Is that the best you can do?»
+- «Interesting, how do you feel about it? And your team? Is that the best you can do?»
 
 > *"Praise by name, criticize by category."  
 -- Warren Buffet*
@@ -1515,11 +1510,13 @@ Giving appropriate feedback makes your juniors feel like what they are doing is 
 - text me when you’re ready but then give me 15 minutes.
 -->
 
-Default to «no» for all meetings. If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
+Default to «no» for all meetings.
+
+If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
 
 Hints:
 
-- Start with an overachieving question: «how can we raise sales by 12%?».  
+- Start with an overachieving question: «how can we raise sales by 20%?».  
 - Do not share your opinion before asking for input from your team. Lower ranked people should speak first.  
 - Tell the bad news promptly. Good news can wait. (Berkshire policy)
 - Instead of PowerPoints use «narratives» — four-to-six page memos that employees read and discuss together. (Jeff Bezos)
@@ -1535,7 +1532,6 @@ Hints:
 ## On career
 
 <!--
-
 > *"If you can’t code, write books and blogs, record videos and podcasts."  
 -- Naval Ravikant*
 
@@ -1550,6 +1546,7 @@ Hints:
 - trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
 - recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
 - 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
+- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
 -->
 
 > *"Look for the job that you would take if you didn’t need a job."  
@@ -1578,15 +1575,15 @@ Nobody can compete with you on being you. Most of life is a search for who and w
 "Set and enforce an aspirational hourly rate." (...)  
 "Rich people get paid by the project and pay by the hour." (...)  
 "To get paid in the future, live in the future."  
--- Naval Ravikant (Paraphrased)*
+-- Naval Ravikant*
 
 > *"The interesting jobs are the ones that you make up."  
 -- Chris Young*
 
 ### How to advance career?
 
-> *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
--- HN_goatinaboat*
+> *"Learn to sell. Learn to build. If you can do both, you’re unstoppable."  
+-- Naval Ravikant*
 
 Become the best at one specific thing or very good at two or more things.
 
@@ -1596,13 +1593,12 @@ Hints:
 - Happy, smart, and useful. Work smart not harder but hard still. It’s good to be better, but is better to be different.
 - Metaknowledge (instead of asking, journal higher hierarchy than you).
 - Deliver more value than expected.
-- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
-
-> *"Learn to sell. Learn to build. If you can do both, you’re unstoppable."  
--- Naval Ravikant*
 
 > *"While deep work will promote you, shallow work will only prevent you from being fired."  
 -- Cal Newport*
+
+> *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
+-- HN_goatinaboat*
 
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."*
 
@@ -1610,22 +1606,23 @@ Hints:
 
 ### How to «pivot» career?
 
+<!--
+- Your work is the greatest mean at your disposal for expressing your social intelligence.
+-->
+
 > *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."  
 -- Robert Greene*
 
-You will either pivot or get pivoted.
+You will either pivot or get pivoted. If your job doesn’t require originality, next decade you may not have it and you’ll need to pivot.
 
-Avoid the trap of following one set career path, focus on being useful.  
-If your job doesn’t require originality, next decade you may not have it and you’ll need to pivot.
-
-My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation.
+Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation.
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."*
 
 > *"My luggage is always ready."  
 -- Jorge Jesus (soccer coach)*
 
-You make yourself rare by combining two or more relevant “pretty goods”. Capitalism rewards things that are both rare and valuable.
+You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
 
 - use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
 - stuff that looks fun for you and looks like work for others.
@@ -1638,8 +1635,6 @@ You make yourself rare by combining two or more relevant “pretty goods”. Cap
 > *"Your income is directly proportional to the need for what you do and your ability to do it."  
 -- Jim Rohn*
 
-> *"Your work is the greatest mean at your disposal for expressing your social intelligence."*
-
 ### Employee or entrepreneur?
 
 Employees have no control over their futures. The economy forces all the risk on them: outsourcing, automation and every month they risk being fired.
@@ -1651,8 +1646,8 @@ Hints:
 - Rich people get paid by project and pay by the hour. Act accordingly.
 - The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.
 
-> *"A taste of freedom can make you unemployable." (...)  
-"An entrepreneur without drive is just an unemployed."  
+> *"An entrepreneur without drive is just an unemployed." (...)  
+"A taste of freedom can make you unemployable."  
 -- Naval Ravikant*
 
 <!--

@@ -234,7 +234,13 @@ Our present (in)actions will compound into the future we will get – that’s a
 - after reaching a certain age, you are no longer viewed as a person. you become an institution and are you aere treated the way institutions are. you are expected to behave like a piece of period furniture, an architectual landmark.
 - maturing is realizing how many things don’t require your comment.
 - One-seventh of your life is spent on Mondays.
+
+> *"Every one desires to live long, but no one would be old."
+-- Jonathan Swift*
 -->
+
+> *"Nothing is more disgraceful than that an old man should have nothing to show to prove that he has lived long, except his years."  
+-- Seneca*
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
@@ -275,6 +281,9 @@ Aging implies damage. A too high a price to pay for maturity.
 
 > *"Once I was beautiful, now I’m myself."  
 -- Anne Sexton*
+
+> *"Forty is the old age of youth; fifty is the youth of old age."  
+-- Victor Hugo*
 
 ### On maturity
 
@@ -407,9 +416,8 @@ Intelligence is a spectrum, a dog is intelligent also.
 "No one can predict macro."  
 -- Naval Ravikant*
 
-- money doesnt buy happiness. it buys freedom.
-- you don’t get rich by spending your time to save money. you get rich by saving your time to save make money.
 - making money is not about luck
+- you don’t get rich by spending your time to save money. you get rich by saving your time to save make money.
 - rich people stay rich by living like they’re broke. broke people stay broke by living like they’re rich
 -->
 
@@ -431,7 +439,7 @@ Being rich is being fulfilled.
 -- Naval Ravikant*
 -->
 
-Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to freedom and happiness.
+Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to freedom and happiness. Money doesn't buy happiness. It buys freedom.
 
 > *"A problem that can be solved with money is not really a problem."  
 -- Kevin Kelly*
@@ -498,21 +506,20 @@ People say they want to be famous to impact the world, often what they want is t
 ## On luck and risk
 
 <!--
-> *"Live life as if everything is rigged in your favor."  
--- Rumi*
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
 -- M. Vázquez Montalban*
-> *"The day you decide to do it is your lucky day."  
--- Japanese proverb*
 
 - threats x vulnerabilities = risk
-- random é a bruxaria - proporçoes random - patterns. everything is a pattern. no pattern is random
+- everything is a pattern. no pattern is random
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
 -- Ralph Waldo Emerson*
+
+> *"The day you decide to do it is your lucky day."  
+-- Japanese proverb*
 
 Unless you’re winning, life will seem unfair to you.
 
@@ -901,6 +908,10 @@ What’s the dog for? The dog keeps the man from touching any of the machines."
 ---
 ## On humanness and irrationality
 
+<!--
+> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, "I’m laying bricks." *The second man replied, "I’m building a wall." But the third man said enthusiastically and with obvious pride, "I’m building a cathedral."*
+-->
+
 > *"If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy."  
 -- Robert Heinlein*
 
@@ -1034,8 +1045,6 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 "Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you."  
 -- Kevin Kelly*
 
--- Kevin Kelly*
-
 > *"Don’t loan money to a friend unless you are ready to make it a gift."  
 -- Kevin Kelly*
 
@@ -1053,23 +1062,19 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 ## On lovers
 
 <!--
-- marry someone you can break generational curses with
-- Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
 > *"Love is a flower, friendship a sheltering tree.*
-- men’s loyalty is tested when we have everything. womans loyalty is tested when we have nothing.
-- relationships start with "can we talk" to "we need to talk"
-- we fall in love with someone because of how they make us feel about ourselves.
-- psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
-> *"A man may sometimes be forgiven the kiss to which he is not entitled, but never the kiss he has not the initiative to claim.*
-> *"Jealousy is the face of low self-esteem.*
-> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, "I’m laying bricks." *The second man replied, "I’m building a wall." But the third man said enthusiastically and with obvious pride, "I’m building a cathedral."*
-- i always have this fear that one day you are going to discover that i’m not as f«great as you once thoght i was.
-- once you start disliking someone, everything they do is irritating to you.
-- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
-- a dirt dish by the sink can be a big marriage problem
-- we’re always looking for somebody that looks for us. first parents, then a lover. screens give us 100% attention! tech is a compensation.
 > *"Lonely men seek companionship. Lonely women sit at home and wait. They never meet.*
-> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience.*
+
+- we fall in love with someone because of how they make us feel about ourselves.
+- we’re always looking for somebody that looks for us. first parents, then a lover. screens give us 100% attention! tech is a compensation.
+- Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
+- relationships start with "can we talk" to "we need to talk". once you start disliking someone, everything they do is irritating to you. a dirt dish by the sink can be a big marriage problem
+- psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
+- I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
+> *"Jealousy is the face of low self-esteem.*
+- Men’s loyalty is tested when we have everything. Womans loyalty is tested when we have nothing.
+- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
+> *"A man may sometimes be forgiven the kiss to which he is not entitled, but never the kiss he has not the initiative to claim.*
 -->
 
 > *"We accept the love we think we deserve."  
@@ -1187,6 +1192,11 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 ---
 ## On marriage
+
+<!--
+> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience.*
+- marry someone you can break generational curses with
+-->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H.Harwood and R. Gore-Bro*
@@ -1469,15 +1479,6 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
-> *"The best investments are «buy and forget.»" (...)  
-"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer." (...)  
-"The Memorial Day we remember our unrealized gains." (...)  
-"The two biggest investing mistakes are panic buying and panic selling." (...)  
-"I only believe in micro. I don’t believe in macro." (...)  
-"A great reason to buy instead of renting is that you get to fire your landlord." (...)  
-"The larger the herd, the lower the returns." (...)  
-"All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
--- Naval Ravikant*
 
 Hints:
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
@@ -1520,6 +1521,16 @@ Hints:
 
 > *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
 -- Kevin Kelly*
+
+> *"The best investments are «buy and forget.»" (...)  
+"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer." (...)  
+"The Memorial Day we remember our unrealized gains." (...)  
+"The two biggest investing mistakes are panic buying and panic selling." (...)  
+"I only believe in micro. I don’t believe in macro." (...)  
+"A great reason to buy instead of renting is that you get to fire your landlord." (...)  
+"The larger the herd, the lower the returns." (...)  
+"All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
+-- Naval Ravikant*
 
 ### On your investment comfort zone
 
@@ -1759,9 +1770,6 @@ Hints:
 ## On media
 
 <!--
-> *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
--- Patrick Moynihan*
-	
 > *"The clash of ideas is the sound of freedom.*
 -->
 

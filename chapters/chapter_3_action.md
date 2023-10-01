@@ -258,14 +258,17 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 -- Alexis de Tocqueville*
 
 > *"The truth is rarely pure and never simple."  
--- Oscar Wilde*
+-- Oscar Wilde*\
 
 > *"There are 3 truths: my truth, your truth, and the truth."  
 -- Chinese Proverb*
 
 Truth does not mind to be questioned. A lie does not like being challenged.
 
-In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don’t need to reharse anything.  
+In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don’t need to reharse anything.
+
+> *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
+-- Patrick Moynihan*
 
 > *"Who’s talking the truth doesn’t need a lot of words."  
 -- Polish proverb*
