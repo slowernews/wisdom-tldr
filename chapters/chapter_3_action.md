@@ -11,28 +11,6 @@
 ## On creativity
 
 <!--
-> *"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we *exchange these ideas, then each of us will have two ideas."  
--- George Bernard Shaw*
-> *"Nothing is more powerful than an idea whose time has come."  
--- Victor Hugo*
-> *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
--- Victor Hugo*
-> *"Consistency is the last refuge of the unimaginative."  
--- Oscar Wilde*
-> *"An idea that is not dangerous is unworthy of being called an idea at all."  
--- Oscar Wilde*
-> *"A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man’s brow."  
--- Ovid*
-> *"Nothing is more dangerous than an idea when it is the only one you have."  
--- Emile Chartier*
-> *"One’s mind, once stretched by a new idea, never regains its original dimensions."  
--- Oliver Wendell Holmes*
-> *"If at first, the idea is not absurd, then there is no hope for it."  
--- Albert Einstein*
-> *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas."  
--- Albert Einstein*
-
-- creativity is subtraction.
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 -->
@@ -40,7 +18,7 @@
 > *"The secret to creativity is knowing how to hide your sources."  
 -- Albert Einstein*
 
-Creative minds are rarely tidy. We don’t have an «imagination» we have a memory. 
+Creative minds are rarely tidy. We don’t have an «imagination» we have a memory. Creativity is subtraction.
 
 > *"Good artists copy; great artists steal."  
 -- Steve Jobs & others*
@@ -54,11 +32,17 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 > *"The ability to see order in chaos is called creativity."  
 -- Simon Sinek*
 
+> *"Consistency is the last refuge of the unimaginative."  
+-- Oscar Wilde*
+
 > *"A pile of rocks ceases to be a rock when somebody contemplates it with the idea of a cathedral in mind."  
 -- Antoine St. Exupery*
 
-> *"All achievements, all earned riches, have their beginning in an idea."  
--- Napoleon Hill*
+> *"One’s mind, once stretched by a new idea, never regains its original dimensions."  
+-- Oliver Wendell Holmes*
+
+> *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas."  
+-- Albert Einstein*
 
 ### How to find good ideas?
 
@@ -97,6 +81,9 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 > *"Nearly every man who develops an idea works it up to the point where it looks impossible, and then he gets discouraged. That’s not the place to become discouraged."  
 -- Thomas Edison*
 
+> *"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."  
+-- George Bernard Shaw*
+
 ### How to judge ideas?
 
 Ask peers. Managers will regret more a false positive than a false negative.
@@ -114,11 +101,26 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."  
 -- F. Scott Fitzgerald*
 
+> *"If at first, the idea is not absurd, then there is no hope for it."  
+-- Albert Einstein*
+
+> *"An idea that is not dangerous is unworthy of being called an idea at all."  
+-- Oscar Wilde*
+
 > *"We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unsympathetic to us."  
 -- Friedrich Nietzche*
 
 > *"Almost all really new ideas have a certain aspect of foolishness when they are just produced."  
 -- Alfred North Whitehead*
+
+> *"A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man’s brow."  
+-- Ovid*
+
+> *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
+-- Victor Hugo*
+
+> *"Nothing is more dangerous than an idea when it is the only one you have."  
+-- Emile Chartier*
 
 
 
@@ -128,27 +130,12 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ---
 ## On analysis
 
-<!--
-> *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection."  
--- Henri Poincaré*
-> *"Anything you say before the word «but» does not count."  
--- Kevin Kelly*
-> *"If you don’t know, it’s because you are not interested in it."  
--- Naval Ravikant*
-> *"The power of accurate observation is commonly called cynicism by those who have not got it."  
--- George Bernard Shaw*
-
-- Bragging razor: if someone brags assume half. if someone downplays double it.
-- Nothing is as good or as bad as it seems.
-- I don’t trust words. I even question actions. But I never doubt patterns.
--->
-
 > *"There are no facts, only interpretations."  
 -- Friedrich Nietzsche*
 
-Analysis is an art, not a science.
+Analysis is an art, not a science. The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
-The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
+I don’t trust words. I even question actions. But I never doubt patterns.
 
 > *"Not everything that counts can be counted, and not everything that can be counted counts."  
 -- Albert Einstein*
@@ -179,6 +166,12 @@ The main problem with analysis is our human tendency to think that what we see i
 > *"The eye sees only what the mind is prepared to comprehend."  
 -- Robertson Davies*
 
+> *"The power of accurate observation is commonly called cynicism by those who have not got it."  
+-- George Bernard Shaw*
+
+> *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection."  
+-- Henri Poincaré*
+
 ### Hints
 
 <!--
@@ -186,6 +179,10 @@ The main problem with analysis is our human tendency to think that what we see i
 -- Wittgenstein*
 > *"Whenever there is an argument between two sides, find the third side."  
 -- Kevin Kelly*
+> *"Anything you say before the word «but» does not count."  
+-- Kevin Kelly*
+> *"If you don’t know, it’s because you are not interested in it."  
+-- Naval Ravikant*
 
 - Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
 - if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
@@ -210,6 +207,8 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
 - Best way to deal with confirmation bias: You need to search out disconfirming evidence. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. Too much info is the main cause of it: you’ll always find confirmation to your pre-existing beliefs. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
 - Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.
+- Nothing is as good or as bad as it seems.
+- Bragging razor: if someone brags assume half. if someone downplays double it.
 
 > *"Sometimes a cigar is just a cigar."  
 -- Sigmund Freud*
@@ -308,21 +307,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 ---
 ## On planning and strategy
 
-<!--
-> *"The question isn’t who is going to let me; it’s who is going to stop me."  
--- Ayn Rand*
-> *"The wise warrior avoids the battle."  
--- Sun Tzu*
-> *"You can count on the Americans to do the right thing, once they’ve exhausted every other possible course of action."  
--- Winston Churchill*
-
-- what you think is your problem is not your problem, your strategy is - dan munro
-- a plan is only useful if it can survive reality. And a future filled with unknowns is everyone’s reality.
-- the most important part of every plan is to plan on the plan not going according to plan
-- actions aligned with goals!!!
-- quality is the best business plan
--->
-
 > *"All battles are won or lost before they are ever fought."  
 -- Sun Tzu*
 
@@ -355,6 +339,9 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"No one ever wrote a plan to be fat, lazy or stupid. That’s what happens when you don’t have a plan."  
 -- Larry Winget*
 
+> *"What you think is your problem is not your problem, your strategy is."  
+-- Dan Munro*
+
 ### How to plan?
 
 > *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
@@ -364,9 +351,10 @@ Start with a vision. Then look for actionable steps.
 
 Hints:
 
-- Plans are only a starting point. Choose a plan with options.
-- Too detailed plans (or too general plans) are not useful and a waste of time.
+- Plans are only a starting point. Choose a plan with options. A plan is only useful if it can survive reality. And a future filled with unknowns is everyone’s reality. Too detailed plans (or too general plans) are not useful and a waste of time. The most important part of every plan is to plan on the plan not going according to plan.
 - Don’t sabotage them when they get tedious or too difficult.
+- Actions aligned with goals.
+- Quality is the best business plan.
 
 > *"Vision is the art of seeing what is invisible to others."  
 -- Johnathan Swift*
@@ -386,6 +374,12 @@ Hints:
 > *"Everyone has a plan until they get punched in the mouth."  
 -- Mike Tyson*
 
+> *"The wise warrior avoids the battle."  
+-- Sun Tzu*
+
+> *"The question isn’t who is going to let me; it’s who is going to stop me."  
+-- Ayn Rand*
+
 
 
 
@@ -395,40 +389,17 @@ Hints:
 ## On decision making
 
 <!--
-> *"Enough is a decision, not an amount."  
--- Alison Faulkner*
-> *"The boldest measures are the safest."  
--- Horatio Nelson*
 > *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
 -- Derek Sivers*
 > *"Se não houvesse decisoes eramos todos iguais."  
 -- António Simões*
-> *"The cost of being wrong is less than the cost of doing nothing."  
--- Seth Godin*
-> *"If there’s no alternative, there’s no problem."  
--- James Burnham*
-> *"Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise."  
--- Kevin Kelly*
-> *"In the small matters trust the mind, in the large ones the heart."  
--- Sigmund Freud*
-> *"If you have to take it or leave it, leave it."  
--- Mike O’Neill*
-> *"To beat the bureaucracy, make your problem their problem."  
--- Marshall L. Smith*
+
 > *"When you are on the bottom you can’t afford to look like you belong there."  
 -- Mike Downey*
-> *"If they say they love you, trust their behavior. If they say they don’t love you, trust their words."  
--- Dr. John H. Dickey*
-> *"Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon."  
--- Susan Ertz*
 > *"Don’t ask the barber whether you need a haircut."  
 -- Daniel S. Greenberg*
-> *"The more crap you put up with, the more crap you are going to get."  
--- K.C. Flory*
 > *"There is no exception to the rule that everybody likes to be an exception to the rule."  
 -- Malcolm Forbes*
-> *"Thinking is difficult. That’s why most people judge."  
--- Carl Jung*
 > *"Clear thinkers take feedback from reality, not society." (...)  
 "The three big decisions: where you live, who you’re with, and what you’re doing." (...)  
 "In the age of infinite leverage, judgement is the most important skill." (...)  
@@ -507,11 +478,35 @@ Hints:
 > *"More is lost by indecision than wrong decision."  
 -- Cicero*
 
+> *"Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise."  
+-- Kevin Kelly*
+
+> *"In the small matters trust the mind, in the large ones the heart."  
+-- Sigmund Freud*
+
+> *"Enough is a decision, not an amount."  
+-- Alison Faulkner*
+
+> *"The boldest measures are the safest."  
+-- Horatio Nelson*
+
+> *"If you have to take it or leave it, leave it."  
+-- Mike O’Neill*
+
+> *"The cost of being wrong is less than the cost of doing nothing."  
+-- Seth Godin*
+
+> *"If there’s no alternative, there’s no problem."  
+-- James Burnham*
+
+> *"To beat the bureaucracy, make your problem their problem."  
+-- Marshall L. Smith*
+
 ### On mental models
 
 <!--
 market: supply and demand explain a lot of phenomenons
-macro scale - high level / micro scale - low level: https://en."*wikipedia."*org/wiki/Level_of_analysis - everything is a system
+macro scale - high level / micro scale - low level: https://en.wikipedia.org/wiki/Level_of_analysis - everything is a system
 high tech way / low tech way 
 everything is: http://c2."*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
 momentum: virtuous circle / vicious circle
@@ -609,9 +604,10 @@ Stop making resolutions and start making something. Time is the most precious th
 -- Paulo Coelho*
 > *"While we wait for life, life passes."  
 -- Seneca*
+-->
+
 > *"The best time to plant a tree was 20 years ago. The second best time is right now."  
 -- Chinese proverb*
--->
 
 > *"About 99% of the time, the right time is right now."  
 -- Kevin Kelly*
@@ -691,13 +687,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus, priorities and productivity
 
 <!--
-> *"A wealth of information creates a poverty of attention."  
--- Herbert Simon*
-> *"If you want a well, only dig in one place."  
--- Korean Proverb*
-> *"Learn to be indifferent to what makes no difference."  
--- Marcus Aurelius*
-
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
 - if it is important to you you’ll find a way, if not you’ll find an excuse.
@@ -748,11 +737,18 @@ Busy imply out of control. Lack of time is lack of priorities.
 > *"I will have to remember «I’m here today to cross the swamp, not to fight all the alligators."  
 -- Rosamund and Benjamin Zander (Art of possibility)*
 
+> *"A wealth of information creates a poverty of attention."  
+-- Herbert Simon*
+
+> *"If you want a well, only dig in one place."  
+-- Korean Proverb*
+
+> *"Learn to be indifferent to what makes no difference."  
+-- Marcus Aurelius*
+
 ### On productivity
 
 <!--
-> *"Work expands so as to fill the time available for its completion."  
--- C. Northcote Parkinson*
 > *"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
 "Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
 "Say no: ’It doesn’t feel right to me.’ No more explanations are needed."  
@@ -775,7 +771,7 @@ Getting a lot of unnecessary things done is not productivity, it’s stupidity.
 Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don’t need to optimise everything. 20% of your effort will give you 80% of output and it may be more than enough. 
 
 Hints:
-/
+
 - Protect your time like your money. Protect your hours of real work. Take advantage of early hours in the day.
 - Focus on one to three outcomes per day (include one important but not urgent task) and tackle the most important one in the morning. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place.
 - 80/20 is fractal: If 20% of the effort creates 80% of the value, 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do may create 64% of the benefits!
@@ -798,6 +794,9 @@ Hints:
 > *"Don’t make 100 decisions when one will do."  
 -- Peter Drucker*
 
+> *"Work expands so as to fill the time available for its completion."  
+-- C. Northcote Parkinson*
+
 
 
 
@@ -807,9 +806,6 @@ Hints:
 ## On control
 
 <!--
-> *"Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed."  
--- Friedrich Nietzsche*
-
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
 - never let the things you can’t do distract from the things you can.
@@ -818,7 +814,6 @@ Hints:
 
 > *"You can lead a horse to water but you can’t make him drink."  
 -- unknown*
-
 
 Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
@@ -835,6 +830,9 @@ Consuming information gives the control freak an illusion of control. He doesn�
 > *"If you change the way you look at things, the thing you look at change"  
 -- Dr. Wayne Dyer*
 
+> *"Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed."  
+-- Friedrich Nietzsche*
+
 
 
 
@@ -844,8 +842,6 @@ Consuming information gives the control freak an illusion of control. He doesn�
 ## On balance
 
 <!--
-> *"Life is a balance between holding on and letting go."  
--- Rumi*
 > *"There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists."  
 -- Mark Manson*
 
@@ -864,8 +860,10 @@ The dose makes the poison: things in excess become their opposite. The hardest s
 
 Balance is not about spending the same amount of time focused on every area of your life either. It’s about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
 
-> *"Don’t try to make your job your whole life. Don’t try to make your art your sole income."  
--- unknown*
+Hint: Don’t try to make your job your whole life. Don’t try to make your art your sole income.
+
+> *"Life is a balance between holding on and letting go."  
+-- Rumi*
 
 ### How to balance an imbalance?
 
@@ -880,8 +878,6 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *"You never change things by fighting the existing reality. To change something, build a model that makes the existing model obsolete."  
--- Buckminster Fuller*
 > *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
 -- Socrates*
 > *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  
@@ -959,6 +955,9 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 > *"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."  
 -- George Bernard Shaw*
+
+> *"You never change things by fighting the existing reality. To change something, build a model that makes the existing model obsolete."  
+-- Buckminster Fuller*
 
 
 
