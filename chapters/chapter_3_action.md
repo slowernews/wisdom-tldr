@@ -299,6 +299,9 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
 -- Kevin Kelly*
 
+> *The closer you are to the truth, the more silent you become inside."  
+-- Naval Ravikant*
+
 
 
 
@@ -842,9 +845,6 @@ Consuming information gives the control freak an illusion of control. He doesn�
 ## On balance
 
 <!--
-> *"There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists."  
--- Mark Manson*
-
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
 -->
 
@@ -860,7 +860,10 @@ The dose makes the poison: things in excess become their opposite. The hardest s
 
 Balance is not about spending the same amount of time focused on every area of your life either. It’s about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
 
-Hint: Don’t try to make your job your whole life. Don’t try to make your art your sole income.
+Hints:
+
+- Don’t try to make your job your whole life. Don’t try to make your art your sole income.
+- There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists. (Mark Manson)
 
 > *"Life is a balance between holding on and letting go."  
 -- Rumi*
@@ -1084,19 +1087,6 @@ Hints:
 
 ### On deceiving 
 
-<!--
-> *"I don’t know why people are so keen to put the details of their private life in public; they forget that invisibility is a superpower."  
--- Banksy*
-> *"The first principle is that you must not fool yourself - and you are the easiest person to fool."  
--- Richard Feynman*
-> *"They muddy the water, to make it seem deep."  
--- Friedrich Nietzsche*
-> *"Have more than you show, speak less than you know."  
--- William Shakespeare*
-
-- there are 2 rules in life. nr. one: never give out all the information.
--->
-
 > *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
 -- Hannah Arendt*
 
@@ -1147,6 +1137,15 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 > *"The evil that men do lives after them; The good is often interred with their bones."  
 -- Julius Caesar*
 
+> *"The first principle is that you must not fool yourself - and you are the easiest person to fool."  
+-- Richard Feynman*
+
+> *"They muddy the water, to make it seem deep."  
+-- Friedrich Nietzsche*
+
+> *"Have more than you show, speak less than you know."  
+-- William Shakespeare*
+
 Hints:
 
 - It’s hard to cheat an honest opponent.
@@ -1155,13 +1154,12 @@ Hints:
 - The only thing worth praying is truth.
 - If you are in a subordinate position, unpredictability reduces trust.
 - Teach no one your tricks or they will be used against you.
+- There are 2 rules in life. nr. one: never give out all the information.
 
 > *"Any sufficiently advanced negligence is indistinguishable from malice."  
 -- Deb Chachra*
 
 <!--
-> *The closer you are to the truth, the more silent you become inside."  
--- Naval Ravikant*
 > *Sometimes people dont want to hear the truth because they don’t want their illusions destroyed."  
 -- Friedrich Nietzsche*
 -->
@@ -1232,12 +1230,8 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 ## On winning
 
 <!--
-> *"Only the weak are cruel. Gentleness can only be expected from the strong."  
--- Leo Buscaglia*
 > *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
 -- Kevin Kelly*
-> *"We prefer to see winners as naturally talented rather then hard working. Because if it were reversed, what would that inply to us?"
--- Naval Ravikant*
 
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
@@ -1269,7 +1263,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 > *"The war will be ended by the exhaustion of nations rather than the victories of armies."  
 -- Winston Churchill*
 
-> *"Supreme excellence consists of breaking the enemy’s resistance without fighting."  
+> *"To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting."  
 -- Sun Tzu*
 
 > *"Never attempt to win by force what can be won by deception."  
@@ -1277,6 +1271,12 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 > *"You don’t win by predicting the future; you win by getting the odds right."  
 -- Will Bonner*
+
+> *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."  
+-- George Smith Patton*
+
+> *"We prefer to see winners as naturally talented rather then hard working. Because if it were reversed, what would that inply to us?"
+-- Naval Ravikant*
 
 
 
@@ -1287,14 +1287,6 @@ Winning is not the end of the road; it’s just a stop along the way.
 ## On surrendering, forgiveness and revenge
 
 <!--
-> *"When we are no longer able to change a situation, we are challenged to change ourselves."  
--- Victor Frankl
-> *"Violence is the last refuge of the incompetent.*
--- Isaac Asimov*
-> *"When someone is kicking your ass, at least you know that you are out in front."  
--- Donald Bartel*
-
-- Surrendering to constant reinvention.
 - letting go allows progress. letting things happen instead of trying things to happen.
 - if you don’t reconcile you’re postponing war. nem todos os problemas se resolvem c o tempo.
 - ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
@@ -1307,18 +1299,30 @@ Winning is not the end of the road; it’s just a stop along the way.
 > *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering."  
 -- Paulo Coelho*
 
-Accept loss. Surrender conceals great power: lulling the enemy into complacency, it give you time to recoup, time to undermine, time for revenge.
+Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
 
-In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning.
+In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning. Surrendering to constant reinvention.
 
 > *"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere."  
 -- Paul Coelho*
+
+> *"When we are no longer able to change a situation, we are challenged to change ourselves."  
+-- Victor Frankl*
 
 > *"Once the game is over, the king and the pawn go back in the same box."  
 -- Italian proverb*
 
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
 -- Kevin Kelly*
+
+> *"Only the weak are cruel. Gentleness can only be expected from the strong."  
+-- Leo Buscaglia*
+
+> *"Violence is the last refuge of the incompetent.*
+-- Isaac Asimov*
+
+> *"When someone is kicking your ass, at least you know that you are out in front."  
+-- Donald Bartel*
 
 ### On forgiveness
 
@@ -1353,14 +1357,8 @@ However people who forgive easily are taken for granted.
 -- Robert A. Heinlein, Notebooks of Lazarus*
 > *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
 -- Seneca*
-> *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."  
--- George Smith Patton*
-> *"To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting."  
--- Sun Tzu, *300 B.C.*
-> *"Summer grass > *"all that’s left of warrior’s dreams."  
+> *"Summer grass, all that’s left of warrior’s dreams."  
 -- Basho*
-> *"Before you embark on a journey of revenge, dig two graves."  
--- Confucius*
 -->
 
 > *"An eye for an eye will only make the whole world blind."  
@@ -1368,3 +1366,6 @@ However people who forgive easily are taken for granted.
 
 > *"The greatest revenge is success."  
 -- Frank Sinatra*
+
+> *"Before you embark on a journey of revenge, dig two graves."  
+-- Confucius*

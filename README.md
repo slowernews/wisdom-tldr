@@ -42,6 +42,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On failure, mistakes and regrets](/chapters/chapter_1_self.md#on-failure-mistakes-and-regrets)
 - [On shame, confidence and validation](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
 - [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
+- [On jealousy](/chapters/chapter_1_self.md#on-jealousy)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 
@@ -156,18 +157,12 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 > *"Fuck, don"t give a fuck and don"t be fucked over."*
 
-Seven general advices:
+Eight general advices:
 
 > *"Life is a balancing act."*
 
-> *"If more information was the answer we’d all be billionaires with six packs."  
--- Derek Sivers*
-
 > *"The root of our problems is our inability to let go."  
 -- Leo Babauta*
-
-> *"A prophet has no honour in his own country."  
--- Bible (John 4: 44)*
 
 > *"Avoiding relevant conflict will not keep peace, will rot it."  
 -- E. Ferreira*
@@ -175,8 +170,17 @@ Seven general advices:
 > *"All self-help boils down to «choose long-term over short-term»."  
 -- Naval Ravikant*
 
+> *"If more information was the answer we’d all be billionaires with six packs."  
+-- Derek Sivers*
+
 > *"The empire long divided, must unite; long united, must divide."  
 -- Chinese proverb*
+
+> *"After me will come the one who will prove that I wasn't that bad."  
+-- Portuguese proverb*
+
+> *"A prophet has no honour in his own country."  
+-- Bible (John 4: 44)*
 
 Two practical advices:  
 

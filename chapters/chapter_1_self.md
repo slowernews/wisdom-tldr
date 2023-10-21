@@ -1306,6 +1306,16 @@ Hints:
 
 
 ---
+## On jealousy
+
+> *"Jealousy is the face of low self-esteem.*
+
+
+
+
+
+
+---
 ## On pessimism
 
 <!--

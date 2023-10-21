@@ -1042,10 +1042,8 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 - You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
 
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you." (...)  
-"Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you."  
--- Kevin Kelly*
-
-> *"Don’t loan money to a friend unless you are ready to make it a gift."  
+"Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you." (...)  
+"Don’t loan money to a friend unless you are ready to make it a gift."  
 -- Kevin Kelly*
 
 > *"Bad friends will prevent you from having good friends."  
@@ -1063,18 +1061,11 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 
 <!--
 > *"Love is a flower, friendship a sheltering tree.*
-> *"Lonely men seek companionship. Lonely women sit at home and wait. They never meet.*
+> *"A man may sometimes be forgiven the kiss to which he is not entitled, but never the kiss he has not the initiative to claim.*
 
-- we fall in love with someone because of how they make us feel about ourselves.
-- we’re always looking for somebody that looks for us. first parents, then a lover. screens give us 100% attention! tech is a compensation.
-- Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
-- relationships start with "can we talk" to "we need to talk". once you start disliking someone, everything they do is irritating to you. a dirt dish by the sink can be a big marriage problem
 - psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
 - I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
-> *"Jealousy is the face of low self-esteem.*
-- Men’s loyalty is tested when we have everything. Womans loyalty is tested when we have nothing.
 - Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
-> *"A man may sometimes be forgiven the kiss to which he is not entitled, but never the kiss he has not the initiative to claim.*
 -->
 
 > *"We accept the love we think we deserve."  
@@ -1083,6 +1074,14 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 You attract what you are.
 
 Love is what happens to men and women that don’t know each other. Love doesn’t hurt, expectations do. Every person feels loved in a different form.
+
+Hints:
+
+- We fall in love with someone because of how they make us feel about ourselves.
+- We’re always looking for somebody that looks for us. First parents, then a lover. Screens give us 100% attention. Tech is a compensation.
+- Man’s loyalty is tested when he has everything. Woman’s loyalty is tested when her man has nothing.
+- Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
+- Relationships start with "can we talk" to "we need to talk". Once you start disliking someone, everything they do is irritating to you. A dirty dish by the sink can be a big marriage problem.
 
 > *"Romance is the glamour which turns the dust of everyday life into a golden haze."  
 -- Elinor Glyn*
@@ -1099,14 +1098,13 @@ Love is what happens to men and women that don’t know each other. Love doesn�
 > *"The highest function of love is that it makes the loved one a unique and irreplaceable being."  
 -- Tom Robbins*
 
-> *"The measure of love is peace."  
+> *"You can’t buy a real kiss." (...)  
+"True, unconditional love is the province of parents and saints." (...)  
+"The measure of love is peace."  
 -- Naval Ravikant*
 
 > *"That’s what careless words do. They make people love you a little less."  
 -- Arundhati Roy*
-
-> *"You can’t buy a real kiss."  
--- Naval Ravikant*
 
 > *"You haven’t been in love, if you haven’t let it ruin your life."  
 -- Sarah Hildebrand*
@@ -1129,47 +1127,20 @@ Love is what happens to men and women that don’t know each other. Love doesn�
 > *"What is love? Love is the absence of judgement."  
 -- Dalai Lama*
 
+> *"Love is the triumph of imagination over intelligence."  
+-- H. L. Mencken*
+
 > *"Unless you love someone, nothing else makes any sense."  
 -- E.E. Cummings*
-
-> *"The happiest time of a person’s life is after his first divorce."  
--- J.K. Galbraith*
-
-> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
--- Warren Farrell (American *Psychologist)*
 
 > *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
 -- Ronald Colman*
 
-> *"When a man steals your wife, there is no better revenge than to let him keep her."  
--- Sacha Guitry*
-
-> *"If men acted after marriage as they do during courtship, there would be fewer divorces > *"and more bankruptcies."  
--- Frances Rodman*
-
 > *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
 -- Charles De Talleyrand-Perigord*
 
-> *"It doesn’t much signify whom one marries, for one is sure to find out next morning it was someone else."  
--- Will Rogers*
-
-> *"Love is the triumph of imagination over intelligence."  
--- H. L. Mencken*
-
-> *"When poverty comes in the door, love goes out of the window."  
--- English Proverb*
-
-> *"Happy the marriage where the husband is the head and the wife the heart."  
--- Estonian Proverb*
-
-> *"As long as the bed shakes, the house will remain stable."  
--- African Proverb*
-
 > *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
 -- Joyce Benenson*
-
-> *"True, unconditional love is the province of parents and saints."  
--- Naval Ravikant*
 
 First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
 
@@ -1182,9 +1153,6 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"The love that lasts the longest is the love that is never returned"  
 -- W. Somerset Maugham*
 
-> *"Don’t do it. You’ll regret it. The things you love about him now, you’ll hate in a few years."  
--- Tom Ford (Movie)*
-
 
 
 
@@ -1193,15 +1161,13 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 ---
 ## On marriage
 
-<!--
-> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience.*
-- marry someone you can break generational curses with
--->
-
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H.Harwood and R. Gore-Bro*
 
 Marry an happy person. Unhappy spouse, unhappy life.
+
+> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience."
+-- Oscar Wilde*
 
 > *"He who marries for love without money has good nights and sorry days."  
 -- Ani Difranco*
@@ -1212,6 +1178,33 @@ Marry an happy person. Unhappy spouse, unhappy life.
 > *"If Apple sold you a product that failed 50% of the time, would you buy it?"  
 -- Esther Perel*
 
+> *"Don’t do it. You’ll regret it. The things you love about him now, you’ll hate in a few years."  
+-- Tom Ford (Movie)*
+
+> *"If men acted after marriage as they do during courtship, there would be fewer divorces and more bankruptcies."  
+-- Frances Rodman*
+
+> *"When a man steals your wife, there is no better revenge than to let him keep her."  
+-- Sacha Guitry*
+
+> *"It doesn’t much signify whom one marries, for one is sure to find out next morning it was someone else."  
+-- Will Rogers*
+
+> *"The happiest time of a person’s life is after his first divorce."  
+-- J.K. Galbraith*
+
+> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
+-- Warren Farrell (psychologist)*
+
+> *"As long as the bed shakes, the house will remain stable."  
+-- African Proverb*
+
+> *"Happy the marriage where the husband is the head and the wife the heart."  
+-- Estonian Proverb*
+
+> *"When poverty comes in the door, love goes out of the window."  
+-- English Proverb*
+
 
 
 
@@ -1220,11 +1213,6 @@ Marry an happy person. Unhappy spouse, unhappy life.
 ---
 ## On religion
 
-<!--
-> *"People who want to share their religious views with you almost never want you to share yours with them.*
-- contra factos não ha argumentos. mas contra fé não ha factos.
--->
-
 > *"Science without religion is lame. Religion without science is blind."  
 -- Albert Einstein*
 
@@ -1232,6 +1220,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Nassim Taleb*
 
 And on the first day, men created god. Religion simplify ideas.
+
+Against facts there are no arguments. Against faith there are no facts.
 
 > *"I’d rather be in the mountains thinking of God than in church thinking about the mountains."  
 -- John Muir*
@@ -1245,17 +1235,18 @@ And on the first day, men created god. Religion simplify ideas.
 > *"My religion is simple, my religion is kindness."  
 -- Dalai Lama*
 
-> *"Believe in the religion that has no name."  
--- Naval Ravikant*
-
 > *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."  
 -- Friedrich Nietzsche*
 
 > *"When you renounce something, you’re stuck to it forever."  
 -- Anthony de Mello*
 
-> *"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner."  
+> *"Believe in the religion that has no name." (...)  
+"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner."  
 -- Naval Ravikant*
+
+> *"People who want to share their religious views with you almost never want you to share yours with them.
+-- Dave Barry*
 
 ### On morality
 
@@ -1493,7 +1484,8 @@ Hints:
 - good investors don’t sell investment advice not talk about their returns.
 -->
 
-> *"I succeeded because I have a long attention span. (...) Waiting helps you as an investor, and a lot of people just can’t stand to wait."  
+> *"I succeeded because I have a long attention span. (...)  
+"Waiting helps you as an investor, and a lot of people just can’t stand to wait."  
 -- Charlie Munger*
 
 The secret of healthy finances is not to make more money but to keep some.
@@ -1510,10 +1502,8 @@ Hints:
 > *"Money just comes to me because I know where to stand."  
 -- Chelsea Lazkani*
 
-> *"When volatility or drawdowns are large, the price contains no information."  
--- Nassim Taleb*
-
-> *"400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative."  
+> *"When volatility or drawdowns are large, the price contains no information." (...)  
+"400% up is equivalent to 80% down. And when you look at graphs use log scale. Linear is uninformative."  
 -- Nassim Taleb*
 
 > *"Gold is money. Everything else is credit."  
@@ -1557,10 +1547,9 @@ Hints:
 - The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.
 - Take risk from the table whenever possible.
 
-> *"You’re looking for a mispriced gamble."  
--- Charlie Munger*
-
-> *"What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital."  
+> *"What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." (...)  
+> *"You’re looking for a mispriced gamble." (...)  
+> *"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds."  
 -- Charlie Munger*
 
 > *"What’s my religion? Arbitrage and rents."  
@@ -1568,9 +1557,6 @@ Hints:
 
 > *"Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land."  
 -- Adam Smith*
-
-> *"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds."  
--- Charlie Munger*
 
 > *"If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme."  
 -- Kevin Kelly*
