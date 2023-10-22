@@ -361,11 +361,6 @@ Intelligence is a spectrum, a dog is intelligent also.
 
 ### On geniality
 
-<!--
-> *"It is the essence of genius to make use of the simplest ideas."  
--- Charles Peguy*
--->
-
 > *"If a man knows more than others he becomes lonely."  
 -- Carl Jung*
 
@@ -398,6 +393,9 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"The best lack conviction, while the worst are full of passionate intensity."  
 -- Naval Ravikant*
 
+> *"It is the essence of genius to make use of the simplest ideas."  
+-- Charles Peguy*
+
 
 
 
@@ -407,15 +405,6 @@ Intelligence is a spectrum, a dog is intelligent also.
 ## On wealth
 
 <!--
-> *"No one is as impressed with your possessions as you are."  
--- Kevin Kelly*
-> *"Being rich is having money; being wealthy is having time."  
--- Stephen Swidr*
-> *"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms." (...)  
-"Making money is not something that you do - it’s a skill that you learn." (...)  
-"No one can predict macro."  
--- Naval Ravikant*
-
 - making money is not about luck
 - you don’t get rich by spending your time to save money. you get rich by saving your time to save make money.
 - rich people stay rich by living like they’re broke. broke people stay broke by living like they’re rich
@@ -432,12 +421,13 @@ Being rich is being fulfilled.
 > *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
 -- Mr. Money Mustache*
 
-### On money
+> *"Being rich is having money; being wealthy is having time."  
+-- Stephen Swidr*
 
-<!--
-> *"Money follows execution, not precedes it."  
--- Naval Ravikant*
--->
+> *"No one is as impressed with your possessions as you are."  
+-- Kevin Kelly*
+
+### On money
 
 Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to freedom and happiness. Money doesn't buy happiness. It buys freedom.
 
@@ -473,6 +463,12 @@ Money is a tool. It can be a force multiplier to help you live the life of your 
 > *"To succeed, get other people to pay you; to become wealthy, help other people to succeed."  
 -- Kevin Kelly*
 
+> *"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms." (...)  
+"Making money is not something that you do - it’s a skill that you learn." (...)  
+"Money follows execution, not precedes it." (...)  
+"No one can predict macro."  
+-- Naval Ravikant*
+
 ### Nearly free stuff
 
 Books, friends, sleep, stopping bad habits, ideas, gratefulness, laugh, questions.
@@ -506,8 +502,6 @@ People say they want to be famous to impact the world, often what they want is t
 ## On luck and risk
 
 <!--
-> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
--- Paulo Coelho*
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
 -- M. Vázquez Montalban*
 
@@ -536,6 +530,9 @@ Bad luck is often bad planning. If you’re sure it’s not, be positive, the pe
 
 > *"Coincidence is God’s way of remaining anonymous."  
 -- Albert Einstein*
+
+> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
+-- Paulo Coelho*
 
 > *"The devil always takes back his gifts."  
 -- Ukrainian Proverb*
@@ -742,20 +739,6 @@ Hints:
 ---
 ## On success
 
-<!--
-> *"Want to get ahead in life? Start genuinely rooting for others to succeed. It’s as simple as that."  
--- Sahil Bloom*
-> *"Sucess is a lousy teacher. It seduces smart people into thinking they can’t lose."  
--- Bill Gates*
-> *"Strive not to be a success, but rather be of value."  
--- Albert Einstein*
-> *"Predicting failure is easier than predicting success." (...)  
-"The price of growth is outgrowing people."  
--- Naval Ravikant*
-
-- I didn’t get successful by knowing everything, I got successful by listening.
--->
-
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
 
@@ -778,12 +761,25 @@ Success (and happiness) is internal not external. True fulfillment comes from li
 "Show up. Keep showing up. Somebody successful said: 99% of success is just showing up."  
 -- Kevin Kelly*
 
-> *"The success formula: solve your own problems and freely share the solutions."  
+> *"Want to get ahead in life? Start genuinely rooting for others to succeed. It’s as simple as that."  
+-- Sahil Bloom*
+
+> *"Sucess is a lousy teacher. It seduces smart people into thinking they can’t lose."  
+-- Bill Gates*
+
+> *"Strive not to be a success, but rather be of value."  
+-- Albert Einstein*
+
+> *"Predicting failure is easier than predicting success." (...)  
+"The price of growth is outgrowing people."  
+"The success formula: solve your own problems and freely share the solutions."  
 -- Naval Ravikant*
 
 ### On barriers to success
 
 Fear, not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit.
+
+We don’t get successful by knowing everything, we get successful by listening.
 
 > *"Doubt kills more dreams than failure ever will."*
 
@@ -835,19 +831,15 @@ wisdom = inteligence + experience
 ## On comedy
 
 <!--
-> *"The world is a tragedy to those who feel, but a comedy to those who think."  
--- Horace Walpole*
-> *"The only intelligent tactical response to life’s horror is to laugh defiantly at it."  
--- Soren Kierkegaard*
 > *"Give me a museum and I’ll fill it."  
 -- Pablo Picasso
 > *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
 -- Mae West*
 
+“When you’re up to your nose in sh*t, keep your mouth shut.” -- Movie character Jack Beauregard, played by Henry Fonda
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 > *"The early bird may get the worm, but the second mouse gets the cheese.*
 > *"He who lives without folly is less wise than he believes.*
-“When you’re up to your nose in sh*t, keep your mouth shut.” -- Movie character Jack Beauregard, played by Henry Fonda
 - "the grass is always greener on the side that is fertilized with bulshit"
 - society: be yourself. Society: Not like that.
 > *"La que no es puta non desfruta."*
@@ -867,6 +859,12 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 > *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant*
+
+> *"The world is a tragedy to those who feel, but a comedy to those who think."  
+-- Horace Walpole*
+
+> *"The only intelligent tactical response to life’s horror is to laugh defiantly at it."  
+-- Soren Kierkegaard*
 
 > *"I miss being the age when I thought I would have my shit together by the time I was the age I am now."*
 
@@ -1470,8 +1468,6 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
-
-Hints:
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
 - Modern slaves are not chains, they are in debt.
 - you’re spending time to save money when you should be spending money to save time.
@@ -1686,12 +1682,9 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 ## On writing
 
 <!--
-> *"I try not to speak more clearly than I think."  
--- Niels Bohr*
+> *"Eloquence is logic on fire.*
 
 - o poeta faz a sintese das coisas
-> *"The media is always accurate, except when they are talking about things I know.*
-> *"Eloquence is logic on fire.*
 -->
 
 > *"Tears are words that need to be written."  
@@ -1755,10 +1748,6 @@ Hints:
 ---
 ## On media
 
-<!--
-> *"The clash of ideas is the sound of freedom.*
--->
-
 > *"The goal of media is to make every problem, your problem." (...)  
 "Journalists aren’t neutral, they’re the cavalry of culture wars."  
 -- Naval Ravikant*
@@ -1766,7 +1755,13 @@ Hints:
 > *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
 -- George Orwell*
 
+> *"The media is always accurate, except when they are talking about things I know."
+-- Knoll’s law*
+
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
+
+> *"The clash of ideas is the sound of freedom.
+-- Lady Bird Johnson*
 
 > *"If you’re writing for your followers, your followers are worthless." (...)  
 "The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
@@ -1789,7 +1784,6 @@ News are the first draft of History but he human brain was not designed to proce
 alan perlis - 1. One man’s constant is another man’s variable.
 alan perlis - 21. Optimization hinders evolution.
 alan perlis - 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
-alan perlis - 63. When we write programs that "learn", it turns out that we do and they don’t.
 alan perlis - 105. You can’t communicate complexity, only an awareness of it.
 alan perlis - 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
 -->
