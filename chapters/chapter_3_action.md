@@ -257,7 +257,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 -- Alexis de Tocqueville*
 
 > *"The truth is rarely pure and never simple."  
--- Oscar Wilde*\
+-- Oscar Wilde*
 
 > *"There are 3 truths: my truth, your truth, and the truth."  
 -- Chinese Proverb*
@@ -301,6 +301,9 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 > *The closer you are to the truth, the more silent you become inside."  
 -- Naval Ravikant*
+
+> *"Tell the truth and run."  
+-- Yugoslav proverb*
 
 
 
@@ -547,14 +550,8 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
-> *"Change is inevitable, it’s our job to exploit it.*
--- Eli Goldratt*
-> *"Action expresses priorities."  
--- Mahatma Gandhi*
 > *"Time is the longest distance between two places."  
 -- Tennessee Williams*
-> *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
--- Edward G. Bulwer-Lytton*
 
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 - you always throw out your first pancake - primeiro milho é para os pardais
@@ -600,13 +597,14 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Go and do the things you can’t. That is how you get to do them."  
 -- Pablo Picasso*
 
+> *"Action expresses priorities."  
+-- Mahatma Gandhi*
+
 ### On timing
 
 <!--
 > *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
 -- Paulo Coelho*
-> *"While we wait for life, life passes."  
--- Seneca*
 -->
 
 > *"The best time to plant a tree was 20 years ago. The second best time is right now."  
@@ -623,6 +621,12 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"A good plan, violently executed now, is better than a perfect plan next week."  
 -- General George Patton*
+
+> *"While we wait for life, life passes."  
+-- Seneca*
+
+> *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
+-- Edward G. Bulwer-Lytton*
 
 ### On procrastination
 
@@ -752,11 +756,6 @@ Busy imply out of control. Lack of time is lack of priorities.
 ### On productivity
 
 <!--
-> *"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
-"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
-"Say no: ’It doesn’t feel right to me.’ No more explanations are needed."  
--- Naval Ravikant*
-
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
 - Strategic laziness as a leverage point.
 - maker days and manager days
@@ -799,6 +798,11 @@ Hints:
 
 > *"Work expands so as to fill the time available for its completion."  
 -- C. Northcote Parkinson*
+
+> *"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
+"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
+"Say no: ’It doesn’t feel right to me.’ No more explanations are needed."  
+-- Naval Ravikant*
 
 
 
@@ -881,17 +885,8 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
--- Socrates*
-> *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  
--- James Akre*
 > *"If past history was all there was about the game, the richest people would be librarians."  
 -- Warren Buffett*
-> *"The best way, perhaps the only way, to change others is to become an example." (...)  
-"Everybody wants to change others. Nobody wants to be changed." (...)  
-"People think they can’t change themselves, but they can. People think they can change others, but they can’t." (...)  
-"Sometimes it’s easier to change the world than to change people’s minds."  
--- Naval Ravikant*
 
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
@@ -933,10 +928,19 @@ It’s scary to make those direction choices but fear is a great road sign."
 > *"Whatever space and time mean, place and occasion mean more."  
 -- Aldo van Eyck*
 
+> *"The best way, perhaps the only way, to change others is to become an example." (...)  
+"Everybody wants to change others. Nobody wants to be changed." (...)  
+"People think they can’t change themselves, but they can. People think they can change others, but they can’t." (...)  
+"Sometimes it’s easier to change the world than to change people’s minds."  
+-- Naval Ravikant*
+
 Listen to predict a collapse.
 
 > *"When things break, it’s not the actual breaking that prevents them from getting back together again. It’s because a little piece gets lost - the two remaining ends couldn’t fit together even if they wanted to. The whole shape has changed."  
 -- John Green*
+
+> *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  
+-- James Akre*
 
 Adapt instead of reacting. An opportunity is taking an unwanted job.
 
@@ -945,6 +949,9 @@ Adapt instead of reacting. An opportunity is taking an unwanted job.
 
 > *"If I don’t have red, I use blue."  
 -- Pablo Picasso*
+
+> *"Change is inevitable, it’s our job to exploit it."
+-- Eli Goldratt*
 
 ### How to change?
 
@@ -961,6 +968,9 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 > *"You never change things by fighting the existing reality. To change something, build a model that makes the existing model obsolete."  
 -- Buckminster Fuller*
+
+> *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
+-- Socrates*
 
 
 
@@ -1079,10 +1089,8 @@ Hints:
 > *"The moment a magician says, «now we begin» you’re already screwed!"  
 -- Brian Brushwood*
 
-> *"Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends."  
--- Kevin Kelly*
-
-> *"Compliment people behind their back. It’ll come back to you."  
+> *"Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends." (...)  
+"Compliment people behind their back. It’ll come back to you."  
 -- Kevin Kelly*
 
 ### On deceiving 
@@ -1122,17 +1130,13 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 > *"Honesty is a very expensive gift, don’t expect it from cheap people."  
 -- Warren Buffett*
 
-> *"Never tell the truth to people who are not worthy of it."  
+> *"Never tell the truth to people who are not worthy of it." (...)  
+> *"If you tell the truth, you don’t have to remember anything." (...)  
+> *"A lie can travel half way around the world while the truth is putting on its shoes."  
 -- Mark Twain*
 
 > *"When you have something to say, silence is a lie."  
 -- Jordan Peterson*
-
-> *"If you tell the truth, you don’t have to remember anything."  
--- Mark Twain*
-
-> *"A lie can travel half way around the world while the truth is putting on its shoes."  
--- Mark Twain*
 
 > *"The evil that men do lives after them; The good is often interred with their bones."  
 -- Julius Caesar*
@@ -1159,10 +1163,8 @@ Hints:
 > *"Any sufficiently advanced negligence is indistinguishable from malice."  
 -- Deb Chachra*
 
-<!--
 > *Sometimes people dont want to hear the truth because they don’t want their illusions destroyed."  
 -- Friedrich Nietzsche*
--->
 
 ### On mirroring
 
@@ -1230,9 +1232,6 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 ## On winning
 
 <!--
-> *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
--- Kevin Kelly*
-
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
 - giving yourself permission to lose, automatically guarantees a loss.
@@ -1277,6 +1276,9 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 > *"We prefer to see winners as naturally talented rather then hard working. Because if it were reversed, what would that inply to us?"
 -- Naval Ravikant*
+
+> *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
+-- Kevin Kelly*
 
 
 
@@ -1353,8 +1355,6 @@ However people who forgive easily are taken for granted.
 ### On revenge
 
 <!--
-> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)
--- Robert A. Heinlein, Notebooks of Lazarus*
 > *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
 -- Seneca*
 > *"Summer grass, all that’s left of warrior’s dreams."  

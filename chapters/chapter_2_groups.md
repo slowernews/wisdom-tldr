@@ -227,23 +227,6 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"An idealist is one who helps the other fellow to make a profit."  
--- Henry Ford*
-> *"A business is simply an idea to make other people’s lives better."  
--- Richard Branson*
-> *"If you can change people’s lives you have a business."  
--- Richard Branson*
-> *"You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further."  
--- Kevin Kelly*
-> *"Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
--- Kevin Kelly*
-> *"You are not building a product. You are solving a problem." (...)  
-"Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
-"Startups don’t die when they run out of cash, they die when the founders run out of energy." (...)  
-"Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not." (...)  
-"You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product."  
--- Naval Ravikant*
-
 - Intuitive equals familiar. Informational age is homogeneising our tastes. globalization é em tudo
 - two ways to make money: bundling and unbundling!
 - you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
@@ -278,11 +261,27 @@ Validate your business by finding paying clients. If something is worth doing, s
 > *"Without customers, you don’t have a business. You have a hobby."  
 -- Don Peppers & Martha Rogers*
 
-> *"There is no skill called business. Avoid business magazines and business classes."  
--- Naval Ravikant*
-
 > *"Your margin is my opportunity."  
 -- Jeff Bezos*
+
+> *"An idealist is one who helps the other fellow to make a profit."  
+-- Henry Ford*
+
+> *"A business is simply an idea to make other people’s lives better." (...)  
+"If you can change people’s lives you have a business."  
+-- Richard Branson*
+
+> *"You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further." (...)  
+"Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
+-- Kevin Kelly*
+
+> *"There is no skill called business. Avoid business magazines and business classes." (...)  
+"You are not building a product. You are solving a problem." (...)  
+"Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
+"Startups don’t die when they run out of cash, they die when the founders run out of energy." (...)  
+"Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not." (...)  
+"You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product."  
+-- Naval Ravikant*
 
 ### On entrepreneurship
 
@@ -326,24 +325,6 @@ Do something that most people think is hard. If you try something easy, there wi
 ## On selling, negotiation and price
 
 <!--
-> *" Nobody reads advertising. People read what interests them, and sometimes it’s an ad."  
--- Howard Luck Gossage*
-> *"Stop selling, start helping."  
-"Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust."  
--- Zig Ziglar*
-> *"If it doesn’t sell, it isn’t creative."  
-"If you can’t advertise yourself, what hope have you being able to advertise anything else."  
-"You can’t bore people into buying your product."  
--- David Ogilvy*
-> *"Advertising serves not so much to Advertise products as to promote consumption as a way of life."  
--- Carl Lash*
-> *"You can tell the ideals of a nation by its advertisements."  
--- Norman Douglas*
-> *"Don’t find customers for your products, find products for your customers."  
--- Seth Godin*
-> *"I never had to sell anything that I wouldn’t buy myself."  
--- Naval Ravikant*
-
 > *"He who is known as an early riser need not get up until noon.*
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
@@ -416,11 +397,33 @@ Modern selling: farmers (ambiverts and introverts)
 > *"You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp."  
 -- Ryan Holiday*
 
+> *" Nobody reads advertising. People read what interests them, and sometimes it’s an ad."  
+-- Howard Luck Gossage*
+
+> *"Stop selling, start helping."  
+"Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust."  
+-- Zig Ziglar*
+
+> *"If it doesn’t sell, it isn’t creative."  
+"If you can’t advertise yourself, what hope have you being able to advertise anything else."  
+"You can’t bore people into buying your product."  
+-- David Ogilvy*
+
+> *"Advertising serves not so much to Advertise products as to promote consumption as a way of life."  
+-- Carl Lash*
+
+> *"You can tell the ideals of a nation by its advertisements."  
+-- Norman Douglas*
+
+> *"Don’t find customers for your products, find products for your customers."  
+-- Seth Godin*
+
+> *"I never had to sell anything that I wouldn’t buy myself."  
+-- Naval Ravikant*
+
 ### On negotiation
 
 <!--
-> *"When you don’t know how much to pay someone for a particular task, ask them «what would be fair» and their answer usually is."  
--- Kevin Kelly*
 
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
@@ -487,6 +490,9 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 > *"Pay double and insist on ten times the quality."  
 -- Naval Ravikant*
 
+> *"When you don’t know how much to pay someone for a particular task, ask them «what would be fair» and their answer usually is."  
+-- Kevin Kelly*
+
 > *"Nowadays people know the price of everything and the value of nothing."  
 -- Oscar Wilde*
 
@@ -502,17 +508,6 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On feedback and mentorship
 
 <!--
-> *"A critic is a legless man who teaches running."  
--- Channing Pollock*
-> *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
--- Winston Churchill*
-> *"If something is too early to criticize, it’s also too early to evangelize."  
--- Kelsey Hightower*
-> *"Take feedback from nature and markets, not from people." (...)  
-"A good scare is a great error-correcting mechanism." (...)  
-"Remove grading to see who is really interested in the topic."  
--- Naval Ravikant*
-
 - don’t take criticism from people that you would never go for advice.
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
 -->
@@ -526,6 +521,20 @@ Feedback from mentors speeds up improvement. Even if you can’t understand the 
 -- Chinese proverb*
 
 > *"I’d rather have criticism from a genius than praise from an idiot."*
+
+> *"A critic is a legless man who teaches running."  
+-- Channing Pollock*
+
+> *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
+-- Winston Churchill*
+
+> *"If something is too early to criticize, it’s also too early to evangelize."  
+-- Kelsey Hightower*
+
+> *"Take feedback from nature and markets, not from people." (...)  
+"A good scare is a great error-correcting mechanism." (...)  
+"Remove grading to see who is really interested in the topic."  
+-- Naval Ravikant*
 
 ### How to find mentors?
 
@@ -871,6 +880,9 @@ Hints:
 > *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
 -- John Kenneth Galbraith*
 
+> *"Love your country, but never trust its government."  
+-- Robert A. Heinlein.*
+
 > *"Never appeal to a man’s "better nature." He may not have one. Invoking his self-interest gives you more leverage."  
 -- Robert A. Heinlein, Notebooks of Lazarus*
 
@@ -903,10 +915,16 @@ Hints:
 > *"Every society honors its live conformists and its dead troublemakers."  
 -- Marshall McLuhan*
 
-<!--
-> *"Good fences make good neighbors."*
+> *"Populism is what we call democracy when we don’t like the outcome."  
+-- Naval Ravikant*
+
 > *"Love your neighbour, yet don’t pull down your hedge."  
 -- Benjamin Franklin*
+
+> *"Good fences make good neighbors."
+-- Robert Frost*
+
+<!--
 > *"History is a race between education and catastrophe."  
 -- H.G. Wells*
 > *"Fascism is cured by reading, and racism is cured by traveling."  
@@ -916,8 +934,6 @@ Hints:
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
 -- Thomas Sowell*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
-> *"Populism is what we call democracy when we don’t like the outcome."  
--- Naval Ravikant*
 -->
 
 ### On politicians
@@ -956,6 +972,15 @@ Hints:
 
 > *"All tyranny begins with the desire to coerce others for the greater good."  
 -- Naval Ravikant*
+
+> *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
+-- Thomas Jefferson*
+
+> *"The more you have to define freedom the less freedom you have."  
+-- Alexander Bickel*
+
+> *"Life without liberty is like a body without spirit."  
+-- Kahlil Gibran*
 
 ### On law and justice
 
@@ -999,10 +1024,9 @@ Hints:
 <!--
 > *"No snowflake in an avalanche ever feels responsible."  
 -- Voltaire*
-> *"One cow breaks the fence and a dozen leap it"  
+> *"One cow breaks the fence and a dozen leap it."  
 -- Scottish Gaelic proverb*
-> *"I have never met a man so ignorant that I couldn’t learn anything from him."  
--- Galileo Galilei*
+
 > *"In our infinite ignorance we are all equal."  
 -- Karl Popper*
 > *"The less people know, the more stubbornly they know it."  
@@ -1118,23 +1142,6 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 
 ### How to judge a man?
 
-<!--
-> *"We don’t judge people when we feel good about ourselves."  
--- Brené Brown*
-> *"A man is as big as the things that make him angry."  
--- Winston Churchill*
-> *"You can easily judge the character of a man by how he treats those who can do nothing for him."  
--- Goethe*
-> *"Nearly all men can stand adversity, but if you want to test a man’s character, give him power."  
--- Abraham Lincoln*
-> *"I’m suspicious of people who don’t like dogs, but I trust a dog when it doesn’t like a person."  
--- Bill Murray*
-> *"A drunk man’s words, are a sober man’s thoughts."  
--- Italian proverb*
-> *"A great man is hard on himself; a small man is hard on others."  
--- Confucius*
--->
-
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*
 
@@ -1150,6 +1157,30 @@ Hints:
 
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen*
+
+> *"We don’t judge people when we feel good about ourselves."  
+-- Brené Brown*
+
+> *"A man is as big as the things that make him angry."  
+-- Winston Churchill*
+
+> *"You can easily judge the character of a man by how he treats those who can do nothing for him."  
+-- Goethe*
+
+> *"Nearly all men can stand adversity, but if you want to test a man’s character, give him power."  
+-- Abraham Lincoln*
+
+> *"I’m suspicious of people who don’t like dogs, but I trust a dog when it doesn’t like a person."  
+-- Bill Murray*
+
+> *"A drunk man’s words, are a sober man’s thoughts."  
+-- Italian proverb*
+
+> *"A great man is hard on himself; a small man is hard on others."  
+-- Confucius*
+
+> *"I have never met a man so ignorant that I couldn’t learn anything from him."  
+-- Galileo Galilei*
 
 
 
@@ -1609,16 +1640,12 @@ Hints:
 
 ### How to «pivot» career?
 
-<!--
-- Your work is the greatest mean at your disposal for expressing your social intelligence.
--->
-
 > *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."  
 -- Robert Greene*
 
 You will either pivot or get pivoted. If your job doesn’t require originality, next decade you may not have it and you’ll need to pivot.
 
-Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation.
+Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."*
 
@@ -1650,15 +1677,13 @@ Hints:
 - The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.
 
 > *"An entrepreneur without drive is just an unemployed." (...)  
-"A taste of freedom can make you unemployable."  
--- Naval Ravikant*
-
-<!--
-> *"Earn with your mind, not with your time." (...)  
+"A taste of freedom can make you unemployable." (...)  
+"Earn with your mind, not with your time." (...)  
 "You’re never going to get rich renting out your time." (...)  
 "Trade money for time, not time for money. You’re going to run out of time first."  
 -- Naval Ravikant*
 
+<!--
 - There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
 -->
 
@@ -1686,19 +1711,6 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-> *"What did you get done this week?"
--- Elon Musk*
-> *"Your salary is the bribe they give you to forget your dreams."  
--- Warren Buffett*
-> *"Don’t ever work for someone you dont want to become."  
--- Kevin Kelly*
-> *"Being enthusiastic is worth 25 IQ points."  
--- Kevin Kelly*
-> *"If you can’t see yourself working with someone for life, don’t work with them for a day." (...)  
-"Mercenaries work for money. Missionaries build for others. Artists create for themselves." (...)  
-"Management is mostly hiring well and firing quickly."  
--- Naval Ravikant*
-
 - People want freedom to choose their process.
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
 - Money is trust. system of mutual trust.
@@ -1735,14 +1747,23 @@ Hints:
 
 > *"Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind."*
 
-> *"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for."  
+> *"Don’t ever work for someone you dont want to become." (...)  
+"Being enthusiastic is worth 25 IQ points." (...)  
+"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for." (...)  
+"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do." (...)  
+"If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss."  
 -- Kevin Kelly*
 
-> *"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do."  
--- Kevin Kelly*
+> *"What did you get done this week?"
+-- Elon Musk*
 
-> *"If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss."  
--- Kevin Kelly*
+> *"Your salary is the bribe they give you to forget your dreams."  
+-- Warren Buffett*
+
+> *"If you can’t see yourself working with someone for life, don’t work with them for a day." (...)  
+"Mercenaries work for money. Missionaries build for others. Artists create for themselves." (...)  
+"Management is mostly hiring well and firing quickly."  
+-- Naval Ravikant*
 
 ### On resumes
 

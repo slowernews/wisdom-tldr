@@ -86,6 +86,8 @@ You must make the conscious decision that you are going to change your story. No
 -- Carl Jung*
 > *"I am free and that is why I am lost."  
 -- Franz Kafka*
+> *"A man’s character is his fate."  
+-- Heraclitus*
 
 - old keys won't open new doors.
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
