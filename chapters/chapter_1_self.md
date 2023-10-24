@@ -203,7 +203,8 @@ Be impeccable with your word. Take responsibility. Trust, not money, is the curr
 - Modesty, n.: Being comfortable that others will discover your greatness.
 -->
 
-> *"The higher we are placed, the more humbly we should walk."  
+> *"The higher we are placed, the more humbly we should walk." (...)  
+"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero*
 
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  
@@ -212,9 +213,6 @@ Be impeccable with your word. Take responsibility. Trust, not money, is the curr
 You opened two gifts this morning: your eyes.
 
 Being grateful is looking up. Play the cards you are dealt. And sometimes you will be dealt bad cards.
-
-> *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
--- Cicero*
 
 > *"Dead people receive more flowers than the living ones because regret is stronger than gratitude."  
 -- Anne Frank*
@@ -568,10 +566,8 @@ Hints:
 > *"The difference between theory and practice: in theory, there’s no difference between theory and practice; in practice, there is."  
 -- Van de Snepscheut*
 
-> *"The greatest teacher is called «doing»."  
--- Kevin Kelly*
-
-> *"To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them."  
+> *"The greatest teacher is called «doing»." (...)  
+"To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them."  
 -- Kevin Kelly*
 
 ### Improving by analysis
@@ -652,13 +648,10 @@ If you're not improving today, you're regressing. Skills are perishable, and the
 > *"If you aren’t growing you’re dying."  
 -- Tony Robbins*
 
-> *"If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism."  
--- Robert Greene*
-
-> *"How often our early triumphs turn us into a kind of caricature of ourselves."  
+> *"If you gain any kind of attention or success for your work, you face the great danger of creeping conservatism." (...)  
+"How often our early triumphs turn us into a kind of caricature of ourselves."  
 -- Robert Greene*
  
-
 
 
 
@@ -682,7 +675,9 @@ Habits are systems. We are essentially our habits. Habits are like compound inte
 
 Consistency doesn’t result from effort; it comes from showing up. Long-term thinking and discipline will guarantee you an easier life. 
 
-> *"At any given time, I’m either trying to pick up a good habit or discard a previous bad habit."  
+> *"At any given time, I’m either trying to pick up a good habit or discard a previous bad habit." (...)  
+"It isn’t 10k hours that creates outliers, it’s 10k iterations." (...)  
+"I probably read 1-2 hours a day, and that puts me in the top 0,00001%."  
 -- Naval Ravikant*
 
 > *"The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it."  
@@ -699,10 +694,6 @@ Consistency doesn’t result from effort; it comes from showing up. Long-term th
 
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett*
-
-> *"It isn’t 10k hours that creates outliers, it’s 10k iterations." (...)  
-"I probably read 1-2 hours a day, and that puts me in the top 0,00001%."  
--- Naval Ravikant*
 
 ### How to change habits?
 
@@ -761,7 +752,7 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 ### How to grow self awareness?
 
 > *"People who can’t laugh at themselves will always be outwitted by people who can."  
--- T. K. Coleman*
+-- T.K. Coleman*
 
 Hints:
 

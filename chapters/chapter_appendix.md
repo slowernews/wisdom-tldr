@@ -346,10 +346,8 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do."  
 -- John Holt*
 
-> *"The measure of intelligence is the ability to change."  
--- Albert Einstein*
-
-> *"The true sign of intelligence is not knowledge but imagination."  
+> *"The measure of intelligence is the ability to change." (...)  
+"The true sign of intelligence is not knowledge but imagination."  
 -- Albert Einstein*
 
 > *"Intelligence is like a river: the deeper it is, the less noise it makes."  
@@ -358,6 +356,9 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"The difference between sounding smart and being smart is «I don’t know»." (...)  
 "Clear thinker is a better compliment than smart."  
 -- Naval Ravikant*
+
+> *"When stupidity is considered patriotism, it is unsafe to be intelligent."  
+-- Isaac Asimov*
 
 ### On geniality
 
@@ -381,17 +382,13 @@ Intelligence is a spectrum, a dog is intelligent also.
 -- Paul Graham*
 
 > *"It is the mark of a genious to explain a complex concept in a simple way." (...)  
-*"The problem with genius is that you have to tolerate madness."  
+"The problem with genius is that you have to tolerate madness." (...)  
+"Genious is man who can do the average thing when everyone else around him is losing his mind." (...)  
+"The best lack conviction, while the worst are full of passionate intensity."  
 -- Naval Ravikant*
 
 > *"Andy Warhol is the only genius I’ve ever known with an IQ of 60."  
 -- Gore Vidal*
-
-> *"Genious is man who can do the average thing when everyone else around him is losing his mind."  
--- Naval Ravikant*
-
-> *"The best lack conviction, while the worst are full of passionate intensity."  
--- Naval Ravikant*
 
 > *"It is the essence of genius to make use of the simplest ideas."  
 -- Charles Peguy*
@@ -525,10 +522,8 @@ Bad luck is often bad planning. If you’re sure it’s not, be positive, the pe
 > *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
 -- Naval Ravikant*
 
-> *"God is subtle but he is not malicious."  
--- Albert Einstein*
-
-> *"Coincidence is God’s way of remaining anonymous."  
+> *"God is subtle but he is not malicious." (...)  
+"Coincidence is God’s way of remaining anonymous."  
 -- Albert Einstein*
 
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
@@ -855,10 +850,10 @@ wisdom = inteligence + experience
 > *"A serious and good philosophical work could be written consisting entirely of jokes."  
 -- Ludwig Wittgenstein*
 
-Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
-
 > *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant*
+
+Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
 
 > *"The world is a tragedy to those who feel, but a comedy to those who think."  
 -- Horace Walpole*
@@ -1126,7 +1121,7 @@ Hints:
 -- Dalai Lama*
 
 > *"Love is the triumph of imagination over intelligence."  
--- H. L. Mencken*
+-- H.L. Mencken*
 
 > *"Unless you love someone, nothing else makes any sense."  
 -- E.E. Cummings*
@@ -1343,10 +1338,8 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 > *"The imagination of nature is far, far greater than the imagination of man."  
 -- Richard Feynman*
 
-> *"Technological progress is like an ax in the hands of a pathological criminal."  
--- Albert Einstein*
-
-> *"Science is a wonderful thing if one does not have to earn one’s living at it." (...)  
+> *"Technological progress is like an ax in the hands of a pathological criminal." (...)  
+"Science is a wonderful thing if one does not have to earn one’s living at it." (...)  
 "If we knew what it was we were doing, it would not be called research, would it?"  
 -- Albert Einstein*
 
@@ -1581,9 +1574,6 @@ A college education may help you make a living. Self-education may make you a fo
 > *"Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing."  
 -- Isaac Asimov*
 
-> *"If you need a degree to do it, it’s not going to make you wealthy."  
--- Naval Ravikant*
-
 > *"«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase “Safety net”?
 Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up."  
 -- James Altucher*
@@ -1591,11 +1581,10 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 > *"Education: the path from cocky ignorance to miserable uncertainty."  
 -- Mark Twain*
 
-> *"The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
-"The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology."  
--- Naval Ravikant*
-
-> *"Learning is cheap, education is expensive." (...)   
+> *"If you need a degree to do it, it’s not going to make you wealthy." (...)  
+"The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
+"The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology." (...)  
+"Learning is cheap, education is expensive." (...)   
 "Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out."  
 -- Naval Ravikant*
 
@@ -1696,10 +1685,10 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 If you are writing to be read you are doing it wrongly. Write to learn not to teach. If you have lived a diverse life you’ll have a lot to say.
 
 > *"The purpose of literature is to turn blood into ink."  
--- T.S.Eliot*
+-- T.S. Eliot*
 
 > *"The best writing is rewriting."  
--- E. B. White*
+-- E.B. White*
 
 > *"Write drunk. Edit sober."  
 -- Ernest Hemingway*

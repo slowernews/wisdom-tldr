@@ -59,7 +59,8 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 > *"Name the greatest of all inventors. Accident."  
 -- Mark Twain*
 
-> *"We can’t solve problems by using the same kind of thinking we used when we created them."  
+> *"We can’t solve problems by using the same kind of thinking we used when we created them." (...)  
+"The mind that opens to a new idea never returns to its original size."  
 -- Albert Einstein*
 
 > *"I cultivate empty space as a way of life for the creative process."  
@@ -67,9 +68,6 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 
 > *"The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours."  
 -- Amos Tversky*
-
-> *"The mind that opens to a new idea never returns to its original size."  
--- Albert Einstein*
 
 > *"Using creativity to solve problems cannot be taught, and it’s ultimately what free markets pay for." (...)  
 "A busy calendar and a busy mind will destroy your ability to create anything great."  
@@ -216,7 +214,8 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"The most important question: «What do you need to see to change your view?»"  
 -- Adam Robinson*
 
-> *"The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches)."  
+> *"The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches)." (...)  
+"That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them."  
 -- Paul Graham*
 
 > *"When a measure becomes a target, it ceases to be a good measure."  
@@ -225,7 +224,8 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things."  
 -- Benjamin Franklin*
 
-> *"Things which are different in order to be different are seldom better, but that which is made to be better is almost always different." -- Dieter Rams*
+> *"Things which are different in order to be different are seldom better, but that which is made to be better is almost always different."  
+-- Dieter Rams*
 
 > *"Experiment and theory often show remarkable agreement when performed in the same laboratory"  
 -- Daniel Bershader*
@@ -238,9 +238,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 > *"What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact."  
 -- Warren Buffett*
-
-> *"That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them."  
--- Paul Graham*
 
 > *"You always get exaggerated notions of things you don’t know anything about."  
 -- Albert Camus*
@@ -703,7 +700,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
 -- Seth Godin*
 
-
 > *"People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1000 things."  
 -- Steve Jobs*
 
@@ -790,16 +786,14 @@ Hints:
 > *"My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm."  
 -- Gary Keller*
 
-> *"The price of productivity is creativity."  
--- Naval Ravikant*
-
 > *"Don’t make 100 decisions when one will do."  
 -- Peter Drucker*
 
 > *"Work expands so as to fill the time available for its completion."  
 -- C. Northcote Parkinson*
 
-> *"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
+> *"The price of productivity is creativity." (...)  
+"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
 "Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
 "Say no: ’It doesn’t feel right to me.’ No more explanations are needed."  
 -- Naval Ravikant*
@@ -835,7 +829,7 @@ Consuming information gives the control freak an illusion of control. He doesn�
 -- Oscar Wilde*
 
 > *"If you change the way you look at things, the thing you look at change"  
--- Dr. Wayne Dyer*
+-- Wayne Dyer*
 
 > *"Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed."  
 -- Friedrich Nietzsche*
@@ -1031,7 +1025,6 @@ Capital means money. To raise money, apply your specific knowledge, with account
 Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it."  
 -- Naval Ravikant*
-
 
 Hints:
 
@@ -1306,7 +1299,7 @@ Accept loss. Surrender conceals great power: lulling the enemy into complacency,
 In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning. Surrendering to constant reinvention.
 
 > *"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere."  
--- Paul Coelho*
+-- Paulo Coelho*
 
 > *"When we are no longer able to change a situation, we are challenged to change ourselves."  
 -- Victor Frankl*

@@ -400,12 +400,12 @@ Modern selling: farmers (ambiverts and introverts)
 > *" Nobody reads advertising. People read what interests them, and sometimes it’s an ad."  
 -- Howard Luck Gossage*
 
-> *"Stop selling, start helping."  
+> *"Stop selling, start helping." (...)  
 "Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust."  
 -- Zig Ziglar*
 
-> *"If it doesn’t sell, it isn’t creative."  
-"If you can’t advertise yourself, what hope have you being able to advertise anything else."  
+> *"If it doesn’t sell, it isn’t creative." (...)  
+"If you can’t advertise yourself, what hope have you being able to advertise anything else." (...)  
 "You can’t bore people into buying your product."  
 -- David Ogilvy*
 
@@ -424,7 +424,6 @@ Modern selling: farmers (ambiverts and introverts)
 ### On negotiation
 
 <!--
-
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
@@ -615,10 +614,8 @@ Hints:
 > *"My father didn’t tell me how to live. He lived and let me watch him do it."  
 -- Clarence Budington Kelland*
 
-> *"Don’t force your children into your ways, for they were created for a time different from your own."  
--- Plato*
-
-> *"The best way of training the young is to train yourself at the same time; not to admonish them, but to be seen never doing that of which you would admonish them."  
+> *"Don’t force your children into your ways, for they were created for a time different from your own." (...)  
+"The best way of training the young is to train yourself at the same time; not to admonish them, but to be seen never doing that of which you would admonish them."  
 -- Plato*
 
 > *"The father who does not teach his son his duties is equally guilty with the son who neglects them."  
@@ -684,9 +681,9 @@ Hints:
 > *"Life doesn’t come with an instruction book — that’s why we have fathers."  
 -- H. Jackson Browne*
 
-> *"Be nice to your children because they are going to choose your nursing home."  
-"Children totally accept — and crave — family rules. «In our family we have a rule for X» is the only excuse a parent needs for setting a family policy. In fact, «I have a rule for X» is the only excuse you need for your own personal policies."  
-"When a child asks an endless string of «why?» questions, the smartest reply is, «I don’t know, what do you think?»"  
+> *"Be nice to your children because they are going to choose your nursing home." (...)  
+"Children totally accept — and crave — family rules. «In our family we have a rule for X» is the only excuse a parent needs for setting a family policy. In fact, «I have a rule for X» is the only excuse you need for your own personal policies." (...)  
+"When a child asks an endless string of «why?» questions, the smartest reply is, «I don’t know, what do you think?»" (...)  
 "To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave."  
 -- Kevin Kelly*
 
@@ -767,11 +764,6 @@ Punishment only works near the situation that cause it, triggers a fight-or-flig
 
 Everything is hierarchy. Only comedians can speak the truth without consequences.
 
-> *"Never outshine the master."  
-"Know who you’re dealing with: do not offend the wrong person."  
-"Avoid stepping into a great man’s shoes."  
--- Robert Greene (1st, 9th and 41st laws of power)*
-
 However don’t vow to the gatekeepers. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
 > *"Nothing strengthens authority so much as silence."  
@@ -795,8 +787,6 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 > *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
 -- Alexander Fraser Tytler*
 
-> *"The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax the nominal gains, thereby confiscating the real value of the assets."  
--- Naval Ravikant*
 > *"Não há direitos sem obrigações e viceversa."  
 -- EF*
 
@@ -807,23 +797,14 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- ownership of government by an individual, by a group or by any controlling private power."  
 -- FDR*
 
-> *"Independent is what people call you if your opinions don’t upset anybody."  
-> -- Nassim Taleb*
-
-> *"Inflation is how democracies die."  
-> -- Charlie Munger*
-
-> *"Favors granted always become defined as rights."  
-> -- Saul Alinsky*
-
 > *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
-> -- Paul Alexander*
+-- Paul Alexander*
 
 > *"Groups search for consensus. Individuals search for truth."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 
 > *"Most of the culture wars are a struggle between what’s best for the children and what’s best for the childless."  
-> -- Naval Ravikant*
+-- Naval Ravikant*
 
 - law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
 - insisting in your rights without acknowledging your responsabilities isn’t freedom is adolescence
@@ -880,11 +861,10 @@ Hints:
 > *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
 -- John Kenneth Galbraith*
 
-> *"Love your country, but never trust its government."  
--- Robert A. Heinlein.*
-
-> *"Never appeal to a man’s "better nature." He may not have one. Invoking his self-interest gives you more leverage."  
--- Robert A. Heinlein, Notebooks of Lazarus*
+> *"Love your country, but never trust its government." (...)  
+"Never appeal to a man’s «better nature». He may not have one. Invoking his self-interest gives you more leverage." (...)  
+"If you are part of a society that votes, then do so. There may be no candidates and measures you want to vote for... But there are certain to be ones you want to vote against. In case of doubt, vote against. By this rule you will rarely go wrong. If this is too blind for your taste, consult some well-meaning fool (there is always one around) and ask his advice. Then vote the other way. This enables you to be a good citizen (if such is your wish) without spending the enormous amount of time that truly intelligent exercise of the franchise requires."  
+-- Robert A. Heinlein*
 
 > *"Favors granted always become defined as rights."  
 -- Saul Alinsky*
@@ -900,14 +880,9 @@ Hints:
 > *"The worst form of inequality is to try to make unequal things equal."  
 -- Aristotle*
 
-> *"The disease of 20th century is utopianism, that of 21th century is hypernaive utopianism: libertarianism, wokism, cryptoism, techno-salvationism, etc are identical in spirit to Communism."  
+> *"The disease of 20th century is utopianism, that of 21th century is hypernaive utopianism: libertarianism, wokism, cryptoism, techno-salvationism, etc are identical in spirit to Communism." (...)  
+"Independent is what people call you if your opinions don’t upset anybody."  
 -- Nassin Taleb*
-
-> *"Free people make free choices. Free choices mean you have unequal outcomes. You can have freedom or you can have equal outcomes. You can’t have both."  
--- Naval Ravikant*
-
-> *"If you are part of a society that votes, then do so. There may be no candidates and measures you want to vote for... But there are certain to be ones you want to vote against. In case of doubt, vote against. By this rule you will rarely go wrong. If this is too blind for your taste, consult some well-meaning fool (there is always one around) and ask his advice. Then vote the other way. This enables you to be a good citizen (if such is your wish) without spending the enormous amount of time that truly intelligent exercise of the franchise requires."  
--- Robert A. Heinlein, Notebooks of Lazarus*
 
 > *"I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals."  
 -- George Carlin*
@@ -915,7 +890,8 @@ Hints:
 > *"Every society honors its live conformists and its dead troublemakers."  
 -- Marshall McLuhan*
 
-> *"Populism is what we call democracy when we don’t like the outcome."  
+> *"Free people make free choices. Free choices mean you have unequal outcomes. You can have freedom or you can have equal outcomes. You can’t have both." (...)  
+"Populism is what we call democracy when we don’t like the outcome."  
 -- Naval Ravikant*
 
 > *"Love your neighbour, yet don’t pull down your hedge."  
@@ -959,7 +935,7 @@ Hints:
 -- Julius Caesar*
 
 > *"The urge to save humanity is almost always a false front for the urge to rule it."  
--- H. L. Mecken*
+-- H.L. Mecken*
 
 > *"I would rather have questions that can’t be answered than answers that can’t be questioned."  
 -- Richard Feinman*
@@ -970,9 +946,6 @@ Hints:
 > *"Political correctness is America’s newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people’s language with strict codes and rigid rules."  
 -- George Carlin*
 
-> *"All tyranny begins with the desire to coerce others for the greater good."  
--- Naval Ravikant*
-
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
 -- Thomas Jefferson*
 
@@ -981,6 +954,13 @@ Hints:
 
 > *"Life without liberty is like a body without spirit."  
 -- Kahlil Gibran*
+
+> *"Inflation is how democracies die."  
+-- Charlie Munger*
+
+> *"All tyranny begins with the desire to coerce others for the greater good." (...)  
+"The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax the nominal gains, thereby confiscating the real value of the assets."  
+-- Naval Ravikant*
 
 ### On law and justice
 
@@ -1021,31 +1001,6 @@ Hints:
 ---
 ## On following the herd
 
-<!--
-> *"No snowflake in an avalanche ever feels responsible."  
--- Voltaire*
-> *"One cow breaks the fence and a dozen leap it."  
--- Scottish Gaelic proverb*
-
-> *"In our infinite ignorance we are all equal."  
--- Karl Popper*
-> *"The less people know, the more stubbornly they know it."  
--- Osho*
-> *"Too often we enjoy the comfort of opinion without the discomfort of thought."  
--- John F. Kennedy*
-> *"Hundreds of billions of dollars are spens every year to control the public mind."  
--- Noam Chomsky*
-> *"When stupidity is considered patriotism, it is unsafe to be intelligent."  
--- Isaac Asimov*
-> *"You can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don’t first persuade their closest comrades."  
--- Nassim Taleb*
-> *"Individuals rarely admit mistakes. Groups never do." (...)  
-"«Consensus» is just another way of saying «average»." (...)  
-"A group operates through consensus. the consensus will be set by the most intolerable minority. So you’ll the intolerable minority will control the group." (...)  
-"If your opinions line up neatly with those of your friends and colleagues, they’re not your opinions."  
--- Naval Ravikant*
--->
-
 > *"Mimicking the herd, invites regression to the mean."  
 -- Charlie Munger*
 
@@ -1064,26 +1019,27 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"If everybody is thinking alike, then somebody isn’t thinking."  
 -- George S. Patton Jr.*
 
-> *"The more neatly you fit into society, the less free you actually are."  
+> *"The more neatly you fit into society, the less free you actually are." (...)  
+"Individuals rarely admit mistakes. Groups never do." (...)  
+"«Consensus» is just another way of saying «average»." (...)  
+"A group operates through consensus. the consensus will be set by the most intolerable minority. So you’ll the intolerable minority will control the group." (...)  
+"If your opinions line up neatly with those of your friends and colleagues, they’re not your opinions."  
 -- Naval Ravikant*
 
 > *"The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.’  
 -- Bertrand Russell*
 
-> *"You can’t reason someone out of a notion that they didn’t reason themselves into."  
+> *"You can’t reason someone out of a notion that they didn’t reason themselves into." (...)  
+"If your opinions on one subject can be predicted from your opinions on another, you may be in the grip of an ideology. When you truly think for yourself your conclusions will not be predictable." (...)  
+"When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong."  
 -- Kevin Kelly*
 
-> *"In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule."  
+> *"In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." (...)  
+"And those who were seen dancing were thought to be insane by those who could not hear the music."  
 -- Friedrich Nietzsche*
-
-> *"If your opinions on one subject can be predicted from your opinions on another, you may be in the grip of an ideology. When you truly think for yourself your conclusions will not be predictable."  
--- Kevin Kelly*
 
 > *"When you do as everyone else does, don’t be surprised when you get what everyone else gets."  
 -- Peter Kaufman*
-
-> *"And those who were seen dancing were thought to be insane by those who could not hear the music."  
--- Friedrich Nietzsche*
 
 > *"Common sense is the collection of prejudices acquired by age eighteen."  
 -- Albert Einstein*
@@ -1094,10 +1050,25 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it."  
 -- Anders Hejlsberg*
 
-> *"When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong."  
--- Kevin Kelly*
-
 > *"Gold rushes make the shovel sellers rich, not the gold seekers."*
+
+> *"No snowflake in an avalanche ever feels responsible."  
+-- Voltaire*
+
+> *"One cow breaks the fence and a dozen leap it."  
+-- Scottish Gaelic proverb*
+
+> *"In our infinite ignorance we are all equal."  
+-- Karl Popper*
+
+> *"The less people know, the more stubbornly they know it."  
+-- Osho*
+
+> *"Too often we enjoy the comfort of opinion without the discomfort of thought."  
+-- John F. Kennedy*
+
+> *"You can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don’t first persuade their closest comrades."  
+-- Nassim Taleb*
 
 ### On stupidity
 
@@ -1131,13 +1102,9 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 
 > *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"*
 
-> *"Even a foolish person can still be right about most things. Most conventional wisdom is true."  
--- Kevin Kelly*
-
-> *"Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious."  
--- Kevin Kelly*
-
-> *"You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it."  
+> *"Even a foolish person can still be right about most things. Most conventional wisdom is true." (...)  
+"Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious." (...)  
+"You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it."  
 -- Kevin Kelly*
 
 ### How to judge a man?
@@ -1231,23 +1198,21 @@ Easy players are often just deceiving you. However - if you can identify them - 
 > *"Despise the free lunch."  
 -- Robert Greene (40th law of power)*
 
-> *"Sometimes one pays most for the things one gets for nothing."  
+> *"Sometimes one pays most for the things one gets for nothing." (...)  
+"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
 -- Albert Einstein*
 
 > *"«El dorados» are never drawn in the map."*
-
-> *"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
--- Albert Einstein*
 
 ### On desperate opponents
 
 > *"Necessity knows no law."  
 -- Italian proverb*
 
-Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
-
 > *"Fear can make a donkey attack a lion."  
 -- Arab proverb*
+
+Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
 -- Balthasar Gracian*
@@ -1268,9 +1233,9 @@ Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty 
 > *"Put all the meat in the barbecue."  
 -- Jorge Jesus (soccer coach)*
 
-> *"Get others to do the work for you, but always take the credit."  
-’Keep your hands clean."  
--- Robert Greene (7th and 26th laws of power)*
+> *"Get others to do the work for you, but always take the credit." (...)  
+"Keep your hands clean."  
+-- Robert Greene*
 
 When nothing else works, surrender. Only use anger and go all in if you can see the end already.
 
@@ -1280,19 +1245,19 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 ### On allies
 
 <!--
-> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
--- Peter Kropotkin*
-
 - I learned a long time ago the wisest thing I can do is be on my side. -- maya angelou
 - united we are rock, divided we are sand. -- african proverb
 - hungry dogs are never loyal
 -->
 
-The human strenght is our ability to cooperate. Heros are fictional stories.
+The human strenght is the ability to cooperate. Heros are fictional stories.
 
 Hints:
 
 - Buy from your community. Sell to outsiders.
+
+> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
+-- Peter Kropotkin*
 
 > *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
 -- Mark Twain*
@@ -1330,10 +1295,8 @@ Hints:
 - Use «we». Mean it and take responsability.  
 - Bring options to the table. It’s easier to negotiate down.  
 
-> *"To quiet a crowd or a drunk, just whisper. Calm is contagious."  
--- Kevin Kelly*
-
-> *"Your best response to an insult is «you’re probably right». Often they are."  
+> *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
+"Your best response to an insult is «you’re probably right». Often they are."  
 -- Kevin Kelly*
 
 > *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
@@ -1444,16 +1407,14 @@ Hints:
 > *"You can tell a bully from a leader by how they treat people who disagree with them."  
 -- Miles K. Davis*
 
-> *"A politician who reads aloud speaches written by others is an actor, not a leader."  
--- Naval Ravikant*
-
 > *"The person who clears the path ultimately controls its direction, just as the canvas shapes the painting."  
 -- Ryan Holiday*
 
 > *"If you wish to control others you must control yourself."  
 -- Miyamoto Musashi*
 
-> *"The leader doesn’t take charge of the tribe. The leader takes responsability for the tribe." (...)  
+> *"A politician who reads aloud speaches written by others is an actor, not a leader." (...)  
+"The leader doesn’t take charge of the tribe. The leader takes responsability for the tribe." (...)  
 "The highest status people in human history are those that asked for nothing and gave everything." (...)  
 "Charisma is the ability to project confidence and love at the same time." (...)  
 "If aren’t willing to get mocked, you’ll never be able to lead." (...)  

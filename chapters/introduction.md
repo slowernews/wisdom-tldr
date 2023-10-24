@@ -196,10 +196,8 @@ Hints:
 > *"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."  
 -- Friedrich Nietzsche*
 
-> *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  
--- Kevin Kelly*
-
-> *"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."  
+> *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving." (...)  
+"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."  
 -- Kevin Kelly*
 
 
@@ -265,13 +263,9 @@ Happiness is a *mind* state where nothing is missing.
 > *"One of the keys to happiness is a bad memory."  
 -- Rita Mae Brown*
 
-> *"Happiness is your default state when you remove everything."  
--- Naval Ravikant*
-
-> *"Money can’t make rich people happy but it can make poor people happy."  
--- Naval Ravikant*
-
-> *"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."  
+> *"Happiness is your default state when you remove everything." (...)  
+"Money can’t make rich people happy but it can make poor people happy." (...)  
+"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."  
 -- Naval Ravikant*
 
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
