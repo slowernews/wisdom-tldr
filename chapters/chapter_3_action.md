@@ -257,7 +257,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 -- Oscar Wilde*
 
 > *"There are 3 truths: my truth, your truth, and the truth."  
--- Saying*
+-- Anonymous*
 
 Truth does not mind to be questioned. A lie does not like being challenged.
 
@@ -267,7 +267,7 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -- Patrick Moynihan*
 
 > *"Who’s talking the truth doesn’t need a lot of words."  
--- Saying*
+-- Anonymous*
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
@@ -288,7 +288,7 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -- Edgar J. Mohn*
 
 > *"A lie has many variations, the truth none."  
--- Saying*
+-- Anonymous*
 
 > *"Exactitude is not truth."  
 -- Henry Matisse*
@@ -300,7 +300,7 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -- Naval Ravikant*
 
 > *"Tell the truth and run."  
--- Saying*
+-- Anonymous*
 
 
 
@@ -334,7 +334,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 -- Lewis Carroll*
 
 > *"The movie might be good or bad but in the end we’ll finish eating pizza."  
--- Saying*
+-- Anonymous*
 
 > *"Someone is sitting in the shade today because someone planted a tree a long time ago."  
 -- Warren Buffett*
@@ -372,7 +372,7 @@ Hints:
 -- Ernest Hemingway*
 
 > *"You make plans and god laughs."  
--- Saying*
+-- Anonymous*
 
 > *"Everyone has a plan until they get punched in the mouth."  
 -- Mike Tyson*
@@ -605,7 +605,7 @@ Stop making resolutions and start making something. Time is the most precious th
 -->
 
 > *"The best time to plant a tree was 20 years ago. The second best time is right now."  
--- Saying*
+-- Anonymous*
 
 > *"About 99% of the time, the right time is right now."  
 -- Kevin Kelly*
@@ -725,7 +725,7 @@ Hints:
 -- Charlie Munger*
 
 > *"A man with a watch knows what time it is. A man with two watches is never sure."  
--- Saying*
+-- Anonymous*
 
 > *"I want to know God’s thoughts; the rest are details."  
 -- Albert Einstein*
@@ -746,7 +746,7 @@ Hints:
 -- Herbert Simon*
 
 > *"If you want a well, only dig in one place."  
--- Saying*
+-- Anonymous*
 
 > *"Learn to be indifferent to what makes no difference."  
 -- Marcus Aurelius*
@@ -816,7 +816,7 @@ Hints:
 -->
 
 > *"You can lead a horse to water but you can’t make him drink."  
--- Saying*
+-- Anonymous*
 
 Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
@@ -941,7 +941,7 @@ Listen to predict a collapse.
 Adapt instead of reacting. An opportunity is taking an unwanted job.
 
 > *"When the winds of change blow, some people build walls while others build windmills."  
--- Saying*
+-- Anonymous*
 
 > *"If I don’t have red, I use blue."  
 -- Pablo Picasso*
@@ -1051,7 +1051,7 @@ Hints:
 -->
 
 > *"We catch more flies with honey than vinegar."
--- Saying*
+-- Anonymous*
 
 > *"To combat an adversary, become their friend."  
 -- Kevin Kelly*
@@ -1192,7 +1192,7 @@ The only successful changes are those coming from within.
 ## On finishing
 
 > *"Everything will be ok in the end. If it’s not ok, it’s not the end."  
--- Saying*
+-- Anonymous*
 
 > *"If you’re going to try, go all the way. Otherwise, don’t even start."  
 -- Charles Bukowski*
@@ -1215,7 +1215,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -- Mitch Albom*
 
 > *"There are lots of overnight tragedies. There are rarely overnight miracles."  
--- Saying*
+-- Anonymous*
 
 
 
@@ -1306,7 +1306,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 -- Victor Frankl*
 
 > *"Once the game is over, the king and the pawn go back in the same box."  
--- Saying*
+-- Anonymous*
 
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
 -- Kevin Kelly*
@@ -1349,8 +1349,7 @@ However people who forgive easily are taken for granted.
 ### On revenge
 
 <!--
-> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
--- Seneca*
+
 > *"Summer grass, all that’s left of warrior’s dreams."  
 -- Basho*
 -->

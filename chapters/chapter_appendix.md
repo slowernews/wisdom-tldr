@@ -37,7 +37,7 @@ Life becomes easy when you recognize the recurring patterns.
 -- James Gleick*
 
 > *"The years say, what the days can’t tell."  
--- Saying*
+-- Anonymous*
 
 > *"Life is understood backwards, but must be lived forwards."  
 -- Soren Kierkegaard*
@@ -50,19 +50,16 @@ Let go your past failures. They are meant to guide you, not to define you or det
 "Changing your interpretation of your past is often just as good as changing your past."  
 -- Naval Ravikant*
 
-> *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
--- Saying*
-
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky*
 
 > *"I can’t go back to yesterday because I was a different person then."  
 -- Lewis Carroll*
 
-> *"Stop looking for happiness in the same place where you lost it."  
--- Saying*
-
-> *"He’d wasted most of his life thinking he’d wasted most of his life’*
+> *"Stop looking for happiness in the same place where you lost it." (...)  
+"He’d wasted most of his life thinking he’d wasted most of his life." (...)
+"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
+-- Anonymouss*
 
 > *"Never regret something that once made you smile."  
 -- Amber Deckers*
@@ -77,7 +74,7 @@ Let go your past failures. They are meant to guide you, not to define you or det
 -- Lois Lowry*
 
 > *"You never know the value of a moment until it becomes a memory."  
--- Saying*
+-- Anonymous*
 
 > *"A busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind."  
 -- Naval Ravikant*
@@ -105,7 +102,8 @@ It’s harder to forget mistakes and the beginning/end of something.
 -- Margaret MacMillan*
 
 > *"Nostalgia is a seductive liar."  
--- George Ball (american politician)*
+-- George Ball*
+
 
 
 
@@ -182,14 +180,12 @@ An ambitious goal sets the bar so high that even a failure is a success measured
 > *"I dream my painting and I paint my dream."  
 -- Vincent van Gogh*
 
-> *"Anyone who lives within their means suffers from a lack of imagination."  
+> *"Every saint has a past, and every sinner has a future." (...)  
+"Anyone who lives within their means suffers from a lack of imagination."  
 -- Oscar Wilde*
 
 > *"Rich people think big. Poor people think small."  
 -- T. Harv Eker*
-
-> *"Every saint has a past, and every sinner has a future."  
--- Oscar Wilde*
 
 > *"Myth is the public dream, and dream is the private myth."  
 -- Joseph Campbell*
@@ -230,13 +226,9 @@ Our present (in)actions will compound into the future we will get – that’s a
 ## On growing old
 
 <!--
-> *"Everybody wants to go to heaven, but nobody wants to die.*
 - after reaching a certain age, you are no longer viewed as a person. you become an institution and are you aere treated the way institutions are. you are expected to behave like a piece of period furniture, an architectual landmark.
 - maturing is realizing how many things don’t require your comment.
 - One-seventh of your life is spent on Mondays.
-
-> *"Every one desires to live long, but no one would be old."
--- Jonathan Swift*
 -->
 
 > *"Nothing is more disgraceful than that an old man should have nothing to show to prove that he has lived long, except his years."  
@@ -254,8 +246,11 @@ Our present (in)actions will compound into the future we will get – that’s a
 > *"It takes a very long time to become young."  
 -- Pablo Picasso*
 
-> *"Everyone wants to live long but, no ones wants to be called old."  
--- Saying*
+> *"Everybody wants to go to heaven, but nobody wants to die."  
+-- Anonymous*
+
+> *"Every one desires to live long, but no one would be old."
+-- Jonathan Swift*
 
 > *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. Theer was no transitional period."  
 -- Stan Ulam*
@@ -311,6 +306,9 @@ The advantage of getting older is that you become more decisive.
 
 Finding a place to die is an important thing to do.
 
+> *""A man dies when he stops working."  
+-- Anonymous*
+
 > *"Retirement is when you stop sacrificing today for an imaginary tomorrow."  
 -- Naval Ravikant*
 
@@ -319,9 +317,6 @@ Finding a place to die is an important thing to do.
 
 > *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
 -- Chuck Palahniuk*
-
-> *""A man dies when he stops working."  
--- Saying*
 
 
 
@@ -513,7 +508,7 @@ People say they want to be famous to impact the world, often what they want is t
 -- Ralph Waldo Emerson*
 
 > *"The day you decide to do it is your lucky day."  
--- Saying*
+-- Anonymous*
 
 Unless you’re winning, life will seem unfair to you.
 
@@ -533,7 +528,7 @@ Bad luck is often bad planning. If you’re sure it’s not, be positive, the pe
 -- Paulo Coelho*
 
 > *"The devil always takes back his gifts."  
--- Saying*
+-- Anonymous*
 
 > *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
 -- Robert Schiller*
@@ -585,7 +580,7 @@ A beautiful person always see beauty in others.
 -- Octave Mirbeau*
 
 > *"Many complain of their looks but none of their brains."  
--- Saying*
+-- Anonymous*
 
 
 
@@ -689,7 +684,7 @@ Hints:
 -- Henry David Thoreau*
 
 > *"He who buys what he does not need, steals from himself."  
--- Saying*
+-- Anonymous*
 
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
@@ -788,7 +783,7 @@ We don’t get successful by knowing everything, we get successful by listening.
 -- Roger Kipling*
 
 > *"Success and rest don’t sleep together."  
--- Saying*
+-- Anonymous*
 
 
 
@@ -811,7 +806,7 @@ wisdom = inteligence + experience
 -- René Descartes*
 
 > *"The beginning of wisdom is calling things by their right names."  
--- Saying*
+-- Anonymous*
 
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
@@ -968,12 +963,13 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 -- Jim Butcher*
 
 > *"Brothers love each other when they are equally rich."  
--- Saying*
+-- Anonymous*
 
 > *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
 -- Mark Twain*
 
-> *"To lose one parent may be regarded as a misfortune; to lose both looks like carelessness."  
+> *"To lose one parent may be regarded as a misfortune; to lose both looks like carelessness." (...)  
+"A bore is someone who deprives you of solitude without providing you company."  
 -- Oscar Wilde*
 
 > *"Our mothers always remain the strangest, craziest people we’ve ever met."  
@@ -981,9 +977,6 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 
 > *"At your funeral people will not recall what you did; they will only remember how you made them feel."  
 -- Kevin Kelly*
-
-> *"A bore is someone who deprives you of solitude without providing you company."  
--- Oscar Wilde*
 
 > *"I have nothing to offer anyone, except my own confusion."  
 -- Jack Kerouac*
@@ -1043,7 +1036,7 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 -- Kevin Kelly*
 
 > *"Bad friends will prevent you from having good friends."  
--- Saying*
+-- Anonymous*
 
 > *"I don’t like that man. I must get to know him better."  
 -- Abraham Lincoln*
@@ -1083,7 +1076,7 @@ Hints:
 -- Elinor Glyn*
 
 > *"Love me when I least deserve it, because that’s when I really need it."  
--- Saying*
+-- Anonymous*
 
 > *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
 -- Emilie Autumn*
@@ -1193,13 +1186,13 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Warren Farrell (psychologist)*
 
 > *"As long as the bed shakes, the house will remain stable."  
--- Saying*
+-- Anonymous*
 
 > *"Happy the marriage where the husband is the head and the wife the heart."  
--- Saying*
+-- Anonymous*
 
 > *"When poverty comes in the door, love goes out of the window."  
--- Saying*
+-- Anonymous*
 
 
 
@@ -1595,7 +1588,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 -- B.F. Skinner*
 
 > *"Learning is a treasure that will follow it’s owner everywhere."  
--- Saying*
+-- Anonymous*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 

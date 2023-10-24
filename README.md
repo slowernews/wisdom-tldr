@@ -159,7 +159,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 Eight general advices:
 
-> *"Life is a balancing act."*
+> *"Life is a balancing act."
+-- Anonymous*
 
 > *"The root of our problems is our inability to let go."  
 -- Leo Babauta*
@@ -174,10 +175,10 @@ Eight general advices:
 -- Derek Sivers*
 
 > *"The empire long divided, must unite; long united, must divide."  
--- Chinese proverb*
+-- Anonymous*
 
 > *"After me will come the one who will prove that I wasn't that bad."  
--- Portuguese proverb*
+-- Anonymous*
 
 > *"A prophet has no honour in his own country."  
 -- Bible (John 4: 44)*

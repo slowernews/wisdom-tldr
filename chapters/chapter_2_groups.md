@@ -457,7 +457,7 @@ Hints:
 - Marketing is a symptom of excess production.
 
 > *"When asking for help, appeal to people’s self-interest, never to their mercy or gratitude."  
--- Robert Greene (13th law of power)*
+-- Robert Greene*
 
 > *"Flattery is the infantry of negotiation."  
 -- Lord Chandos*
@@ -517,9 +517,10 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door.
 
 > *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever."  
--- Saying*
+-- Anonymous*
 
-> *"I’d rather have criticism from a genius than praise from an idiot."*
+> *"I’d rather have criticism from a genius than praise from an idiot."
+-- Anonymous*
 
 > *"A critic is a legless man who teaches running."  
 -- Channing Pollock*
@@ -546,7 +547,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- David Leach*
 
 > *"To know the road ahead, ask those coming back."  
--- Saying*
+-- Anonymous*
 
 Your father is your first mentor.
 
@@ -559,7 +560,7 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 -- Friedrich Nietzsche*
 
 > *"A society grows great when old men plant trees whose shade they know they shall never sit in."  
--- Saying*
+-- Anonymous*
 
 > *"I was always ready to share, but before external success, nobody cared to listen."  
 -- Naval Ravikant*
@@ -649,7 +650,7 @@ Hints:
 -- Euripides*
 
 > *"Children are a poor man’s riches."  
--- Saying*
+-- Anonymous*
 
 > *"Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you."  
 -- Honore de Balzac*
@@ -676,7 +677,7 @@ Hints:
 -- L. Tom Perry*
 
 > *"A father is someone you look up to no matter how tall you grow."  
--- Saying*
+-- Anonymous*
 
 > *"Life doesn’t come with an instruction book — that’s why we have fathers."  
 -- H. Jackson Browne*
@@ -703,7 +704,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 -- Anne Frank*
 
 > *"A bit of fragrance clings to the hand that gives flowers."  
--- Saying*
+-- Anonymous*
 
 No one on their deathbed has ever regretted giving too much away.
 
@@ -714,10 +715,8 @@ If you can afford the dinner you can afford the tip. A low value gift may have t
 
 > *"Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo."*
 
-> *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he’d learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I’ll write you a check». Almost everyone who was just in it for the handouts couldn’t be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He’d hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn’t want to spend time with him so there was never really a conflict there."  
--- HN_danielvf*
-
-> *"My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn’t lessen his genuine love for everyone, just let him be a little more super human."  
+> *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he’d learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I’ll write you a check». Almost everyone who was just in it for the handouts couldn’t be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He’d hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn’t want to spend time with him so there was never really a conflict there." (...)  
+"My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn’t lessen his genuine love for everyone, just let him be a little more super human."  
 -- HN_danielvf*
 
 > *"If you are giving back, it’s because you’ve taken too much."  
@@ -788,7 +787,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- Alexander Fraser Tytler*
 
 > *"Não há direitos sem obrigações e viceversa."  
--- EF*
+-- E. Ferreira*
 
 > *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
 > *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
@@ -800,10 +799,8 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 > *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
 -- Paul Alexander*
 
-> *"Groups search for consensus. Individuals search for truth."  
--- Naval Ravikant*
-
-> *"Most of the culture wars are a struggle between what’s best for the children and what’s best for the childless."  
+> *"Groups search for consensus. Individuals search for truth." (...)  
+"Most of the culture wars are a struggle between what’s best for the children and what’s best for the childless."  
 -- Naval Ravikant*
 
 - law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
@@ -1056,7 +1053,7 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 -- Voltaire*
 
 > *"One cow breaks the fence and a dozen leap it."  
--- Saying*
+-- Anonymous*
 
 > *"In our infinite ignorance we are all equal."  
 -- Karl Popper*
@@ -1100,7 +1097,8 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 > *"Don’t ever take a fence down until you know the reason why it was put up."  
 -- John F. Kennedy, paraphrasing G.K.Chesterton*
 
-> *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"*
+> *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"
+-- Anonymous*
 
 > *"Even a foolish person can still be right about most things. Most conventional wisdom is true." (...)  
 "Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious." (...)  
@@ -1141,7 +1139,7 @@ Hints:
 -- Bill Murray*
 
 > *"A drunk man’s words, are a sober man’s thoughts."  
--- Saying*
+-- Anonymous*
 
 > *"A great man is hard on himself; a small man is hard on others."  
 -- Confucius*
@@ -1171,7 +1169,7 @@ Hints:
 -- Trump*
 > *"Who lies for you will lie against you." (...)  
 "Talkers aren’t strong. The strong don’t talk."  
--- Sayings*
+-- Anonymous*
 > *"The best fighter is never angry."  
 -- Lao Tzu*
 
@@ -1208,10 +1206,10 @@ Easy players are often just deceiving you. However - if you can identify them - 
 ### On desperate opponents
 
 > *"Necessity knows no law."  
--- Saying*
+-- Anonymous*
 
 > *"Fear can make a donkey attack a lion."  
--- Saying*
+-- Anonymous*
 
 Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
@@ -1247,7 +1245,7 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 <!--
 - I learned a long time ago the wisest thing I can do is be on my side. -- maya angelou
-- united we are rock, divided we are sand. -- Saying
+- united we are rock, divided we are sand. -- Anonymous
 - hungry dogs are never loyal
 -->
 
@@ -1303,6 +1301,9 @@ Hints:
 > *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
 -- Balthasar Gracian*
 
+> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
+-- Seneca*
+
 
 
 
@@ -1347,7 +1348,7 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 -- Marilyn Monroe*
 
 > *"The dogs bark but the caravan moves on."  
--- Saying*
+-- Anonymous*
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffet*
@@ -1388,7 +1389,8 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 > *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
 -- Alexander the great*
 
-> *"To lead people walk behind them."  
+> *"To lead people walk behind them." (...)  
+"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."  
 -- Lao Tzu*
 
 Leaders are team makers. There are no bad teams, only bad leaders.
@@ -1421,9 +1423,6 @@ Hints:
 "If aren’t willing to get mocked, you’ll never be able to lead." (...)  
 "You lead by willing to walk alone."  
 -- Naval Ravikant*
-
-> *"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."  
--- Lao Tzu*
 
 > *"The only thing that gives orders is balls."  
 -- Tony Montana*
@@ -1460,7 +1459,7 @@ Hints:
 -- Andrew tate*
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
--- Saying*
+-- Anonymous*
 
 People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
 
@@ -1596,9 +1595,11 @@ Hints:
 > *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
 -- HN_goatinaboat*
 
-> *"I had a manager who once said the people who were terminated were those who question too much and do too little."*
+> *"I had a manager who once said the people who were terminated were those who question too much and do too little."
+-- Anonymous*
 
-> *"I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge."*
+> *"I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge."
+-- Anonymous*
 
 ### How to «pivot» career?
 
@@ -1609,7 +1610,8 @@ You will either pivot or get pivoted. If your job doesn’t require originality,
 
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
-> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."*
+> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."
+-- Anonymous*
 
 > *"My luggage is always ready."  
 -- Jorge Jesus (soccer coach)*
@@ -1620,7 +1622,7 @@ You make yourself rare by combining two or more relevant «pretty goods». Capit
 - stuff that looks fun for you and looks like work for others.
 - take risks to boost your immune system.  
 
-> *"Career capital is the unique skills that make you rare and valuable."  
+> *"Career capital is the unique skills that make you rare and valuable." (...)  
 ’Be so good that they cannot ignore you."  
 -- Cal Newport*
 
@@ -1707,7 +1709,8 @@ Hints:
 > *"We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
 -- Valve employee book*
 
-> *"Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind."*
+> *"Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind."
+-- Anonymous*
 
 > *"Don’t ever work for someone you dont want to become." (...)  
 "Being enthusiastic is worth 25 IQ points." (...)  
