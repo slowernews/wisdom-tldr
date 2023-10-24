@@ -257,7 +257,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 -- Oscar Wilde*
 
 > *"There are 3 truths: my truth, your truth, and the truth."  
--- Chinese Proverb*
+-- Saying*
 
 Truth does not mind to be questioned. A lie does not like being challenged.
 
@@ -267,7 +267,7 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -- Patrick Moynihan*
 
 > *"Who’s talking the truth doesn’t need a lot of words."  
--- Polish proverb*
+-- Saying*
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
@@ -288,7 +288,7 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -- Edgar J. Mohn*
 
 > *"A lie has many variations, the truth none."  
--- African proverb*
+-- Saying*
 
 > *"Exactitude is not truth."  
 -- Henry Matisse*
@@ -300,7 +300,7 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -- Naval Ravikant*
 
 > *"Tell the truth and run."  
--- Yugoslav proverb*
+-- Saying*
 
 
 
@@ -334,7 +334,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 -- Lewis Carroll*
 
 > *"The movie might be good or bad but in the end we’ll finish eating pizza."  
--- unknown*
+-- Saying*
 
 > *"Someone is sitting in the shade today because someone planted a tree a long time ago."  
 -- Warren Buffett*
@@ -372,7 +372,7 @@ Hints:
 -- Ernest Hemingway*
 
 > *"You make plans and god laughs."  
--- Yiddish proverb*
+-- Saying*
 
 > *"Everyone has a plan until they get punched in the mouth."  
 -- Mike Tyson*
@@ -605,7 +605,7 @@ Stop making resolutions and start making something. Time is the most precious th
 -->
 
 > *"The best time to plant a tree was 20 years ago. The second best time is right now."  
--- Chinese proverb*
+-- Saying*
 
 > *"About 99% of the time, the right time is right now."  
 -- Kevin Kelly*
@@ -708,6 +708,10 @@ First the essential. Then the details.
 Focusing is an art. Time itself is not your limitation: attention is.  
 Busy imply out of control. Lack of time is lack of priorities.
 
+Hints:
+
+- Always look where you want to go, not where you don’t want to go.
+
 > *"Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all."  
 -- Tim Ferriss*
 
@@ -721,7 +725,7 @@ Busy imply out of control. Lack of time is lack of priorities.
 -- Charlie Munger*
 
 > *"A man with a watch knows what time it is. A man with two watches is never sure."  
--- Unknown*
+-- Saying*
 
 > *"I want to know God’s thoughts; the rest are details."  
 -- Albert Einstein*
@@ -731,8 +735,6 @@ Busy imply out of control. Lack of time is lack of priorities.
 
 > *"You only have to do a very few things right in your life so long as you don’t do too many things wrong."  
 -- Warren Buffett*
-
-> *"Always look where you want to go, not where you don’t want to go."*
 
 > *"As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself."  
 -- Arthur Schopenhauer*
@@ -744,7 +746,7 @@ Busy imply out of control. Lack of time is lack of priorities.
 -- Herbert Simon*
 
 > *"If you want a well, only dig in one place."  
--- Korean Proverb*
+-- Saying*
 
 > *"Learn to be indifferent to what makes no difference."  
 -- Marcus Aurelius*
@@ -814,7 +816,7 @@ Hints:
 -->
 
 > *"You can lead a horse to water but you can’t make him drink."  
--- unknown*
+-- Saying*
 
 Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
@@ -939,7 +941,7 @@ Listen to predict a collapse.
 Adapt instead of reacting. An opportunity is taking an unwanted job.
 
 > *"When the winds of change blow, some people build walls while others build windmills."  
--- Chinese proverb*
+-- Saying*
 
 > *"If I don’t have red, I use blue."  
 -- Pablo Picasso*
@@ -987,10 +989,6 @@ There are limits on change. Willpower is finite and change requires attention. H
 -- Kevin Kelly*
 > *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly*
-> *"You are strong only where you were broken." (...)  
-"It’s hard to defeat a high-morale defender with an unlimited supply line." (...)  
-"Leverage converts knowledge into power."  
--- Naval Ravikant*
 
 - drain opponent morale with unexpected defeat or unexpected strong defence.
 - every strenght has a complementary weakness. //ex. centralised (no duplication but slower) vs decentralised (faster but chaotic). abstract thinker vs local thinker. as qualidades s defeitos.
@@ -1020,7 +1018,10 @@ Use methods like unpredictability, charming or mirroring. Even deceiving, some o
 A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
 -- Richard Rumelt*
 
-> *"Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
+> *"You are strong only where you were broken." (...)  
+"It’s hard to defeat a high-morale defender with an unlimited supply line." (...)  
+"Leverage converts knowledge into power." (...)  
+"Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
 Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
 Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it."  
@@ -1050,7 +1051,7 @@ Hints:
 -->
 
 > *"We catch more flies with honey than vinegar."
--- Proverb*
+-- Saying*
 
 > *"To combat an adversary, become their friend."  
 -- Kevin Kelly*
@@ -1191,7 +1192,7 @@ The only successful changes are those coming from within.
 ## On finishing
 
 > *"Everything will be ok in the end. If it’s not ok, it’s not the end."  
--- Unknown*
+-- Saying*
 
 > *"If you’re going to try, go all the way. Otherwise, don’t even start."  
 -- Charles Bukowski*
@@ -1214,7 +1215,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -- Mitch Albom*
 
 > *"There are lots of overnight tragedies. There are rarely overnight miracles."  
--- Unknown*
+-- Saying*
 
 
 
@@ -1305,7 +1306,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 -- Victor Frankl*
 
 > *"Once the game is over, the king and the pawn go back in the same box."  
--- Italian proverb*
+-- Saying*
 
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
 -- Kevin Kelly*

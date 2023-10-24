@@ -37,7 +37,7 @@ Life becomes easy when you recognize the recurring patterns.
 -- James Gleick*
 
 > *"The years say, what the days can’t tell."  
--- Chinese proverb*
+-- Saying*
 
 > *"Life is understood backwards, but must be lived forwards."  
 -- Soren Kierkegaard*
@@ -51,7 +51,7 @@ Let go your past failures. They are meant to guide you, not to define you or det
 -- Naval Ravikant*
 
 > *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
--- Irish saying*
+-- Saying*
 
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky*
@@ -60,7 +60,7 @@ Let go your past failures. They are meant to guide you, not to define you or det
 -- Lewis Carroll*
 
 > *"Stop looking for happiness in the same place where you lost it."  
--- Unknown*
+-- Saying*
 
 > *"He’d wasted most of his life thinking he’d wasted most of his life’*
 
@@ -77,7 +77,7 @@ Let go your past failures. They are meant to guide you, not to define you or det
 -- Lois Lowry*
 
 > *"You never know the value of a moment until it becomes a memory."  
--- Unknown*
+-- Saying*
 
 > *"A busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind."  
 -- Naval Ravikant*
@@ -255,7 +255,7 @@ Our present (in)actions will compound into the future we will get – that’s a
 -- Pablo Picasso*
 
 > *"Everyone wants to live long but, no ones wants to be called old."  
--- Icelandic proverb*
+-- Saying*
 
 > *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. Theer was no transitional period."  
 -- Stan Ulam*
@@ -319,6 +319,9 @@ Finding a place to die is an important thing to do.
 
 > *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
 -- Chuck Palahniuk*
+
+> *""A man dies when he stops working."  
+-- Saying*
 
 
 
@@ -510,7 +513,7 @@ People say they want to be famous to impact the world, often what they want is t
 -- Ralph Waldo Emerson*
 
 > *"The day you decide to do it is your lucky day."  
--- Japanese proverb*
+-- Saying*
 
 Unless you’re winning, life will seem unfair to you.
 
@@ -530,7 +533,7 @@ Bad luck is often bad planning. If you’re sure it’s not, be positive, the pe
 -- Paulo Coelho*
 
 > *"The devil always takes back his gifts."  
--- Ukrainian Proverb*
+-- Saying*
 
 > *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
 -- Robert Schiller*
@@ -582,7 +585,7 @@ A beautiful person always see beauty in others.
 -- Octave Mirbeau*
 
 > *"Many complain of their looks but none of their brains."  
--- Yiddish Proverb*
+-- Saying*
 
 
 
@@ -686,7 +689,7 @@ Hints:
 -- Henry David Thoreau*
 
 > *"He who buys what he does not need, steals from himself."  
--- Swedish Proverb*
+-- Saying*
 
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
@@ -785,7 +788,7 @@ We don’t get successful by knowing everything, we get successful by listening.
 -- Roger Kipling*
 
 > *"Success and rest don’t sleep together."  
--- Russian Proverb*
+-- Saying*
 
 
 
@@ -808,7 +811,7 @@ wisdom = inteligence + experience
 -- René Descartes*
 
 > *"The beginning of wisdom is calling things by their right names."  
--- Chinese proverb*
+-- Saying*
 
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
@@ -965,7 +968,7 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 -- Jim Butcher*
 
 > *"Brothers love each other when they are equally rich."  
--- African Proverb*
+-- Saying*
 
 > *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
 -- Mark Twain*
@@ -1040,7 +1043,7 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 -- Kevin Kelly*
 
 > *"Bad friends will prevent you from having good friends."  
--- African Proverb*
+-- Saying*
 
 > *"I don’t like that man. I must get to know him better."  
 -- Abraham Lincoln*
@@ -1080,7 +1083,7 @@ Hints:
 -- Elinor Glyn*
 
 > *"Love me when I least deserve it, because that’s when I really need it."  
--- Swedish proverb*
+-- Saying*
 
 > *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
 -- Emilie Autumn*
@@ -1190,13 +1193,13 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Warren Farrell (psychologist)*
 
 > *"As long as the bed shakes, the house will remain stable."  
--- African Proverb*
+-- Saying*
 
 > *"Happy the marriage where the husband is the head and the wife the heart."  
--- Estonian Proverb*
+-- Saying*
 
 > *"When poverty comes in the door, love goes out of the window."  
--- English Proverb*
+-- Saying*
 
 
 
@@ -1592,7 +1595,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 -- B.F. Skinner*
 
 > *"Learning is a treasure that will follow it’s owner everywhere."  
--- Chinese proverb*
+-- Saying*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 

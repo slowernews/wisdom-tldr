@@ -517,7 +517,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door.
 
 > *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever."  
--- Chinese proverb*
+-- Saying*
 
 > *"I’d rather have criticism from a genius than praise from an idiot."*
 
@@ -546,7 +546,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- David Leach*
 
 > *"To know the road ahead, ask those coming back."  
--- Chinese Proverb*
+-- Saying*
 
 Your father is your first mentor.
 
@@ -559,7 +559,7 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 -- Friedrich Nietzsche*
 
 > *"A society grows great when old men plant trees whose shade they know they shall never sit in."  
--- Greek proverb*
+-- Saying*
 
 > *"I was always ready to share, but before external success, nobody cared to listen."  
 -- Naval Ravikant*
@@ -649,7 +649,7 @@ Hints:
 -- Euripides*
 
 > *"Children are a poor man’s riches."  
--- English proverb*
+-- Saying*
 
 > *"Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you."  
 -- Honore de Balzac*
@@ -676,7 +676,7 @@ Hints:
 -- L. Tom Perry*
 
 > *"A father is someone you look up to no matter how tall you grow."  
--- Unknown*
+-- Saying*
 
 > *"Life doesn’t come with an instruction book — that’s why we have fathers."  
 -- H. Jackson Browne*
@@ -703,7 +703,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 -- Anne Frank*
 
 > *"A bit of fragrance clings to the hand that gives flowers."  
--- Chinese Proverb*
+-- Saying*
 
 No one on their deathbed has ever regretted giving too much away.
 
@@ -1056,7 +1056,7 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 -- Voltaire*
 
 > *"One cow breaks the fence and a dozen leap it."  
--- Scottish Gaelic proverb*
+-- Saying*
 
 > *"In our infinite ignorance we are all equal."  
 -- Karl Popper*
@@ -1141,7 +1141,7 @@ Hints:
 -- Bill Murray*
 
 > *"A drunk man’s words, are a sober man’s thoughts."  
--- Italian proverb*
+-- Saying*
 
 > *"A great man is hard on himself; a small man is hard on others."  
 -- Confucius*
@@ -1169,8 +1169,9 @@ Hints:
 -- Naval Ravikant*
 > *"Só os mais corajosos conseguem fazer a paz."  
 -- Trump*
-> *"Who lies for you will lie against you."  
--- Bosnian proverb*
+> *"Who lies for you will lie against you." (...)  
+"Talkers aren’t strong. The strong don’t talk."  
+-- Sayings*
 > *"The best fighter is never angry."  
 -- Lao Tzu*
 
@@ -1207,10 +1208,10 @@ Easy players are often just deceiving you. However - if you can identify them - 
 ### On desperate opponents
 
 > *"Necessity knows no law."  
--- Italian proverb*
+-- Saying*
 
 > *"Fear can make a donkey attack a lion."  
--- Arab proverb*
+-- Saying*
 
 Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
@@ -1246,7 +1247,7 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 <!--
 - I learned a long time ago the wisest thing I can do is be on my side. -- maya angelou
-- united we are rock, divided we are sand. -- african proverb
+- united we are rock, divided we are sand. -- Saying
 - hungry dogs are never loyal
 -->
 
@@ -1346,7 +1347,7 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 -- Marilyn Monroe*
 
 > *"The dogs bark but the caravan moves on."  
--- Arab proverb*
+-- Saying*
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffet*
@@ -1459,7 +1460,7 @@ Hints:
 -- Andrew tate*
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
--- African proverb*
+-- Saying*
 
 People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
 

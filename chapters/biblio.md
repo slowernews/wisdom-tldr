@@ -8,15 +8,7 @@
 - [----] DRAPER, Don (fictional)
 - [----] DENT, Harvey (fictional)
 - [----] ALTEREGO, Prof. Quirrel (fictional)
-- [----] Proverb: African
-- [----] Proverb: Arab
-- [----] Proverb: Chinese
-- [----] Proverb: Greek
-- [----] Proverb: Irish
-- [----] Proverb: Italian
-- [----] Proverb: Scottish Gaelic
-- [----] Proverb: Swedish
-- [----] Proverb: Yiddish
+- [----] Saying
 - [----] PLOUGHMAN, Tara (fictional)
 - [----] MONTANA, Tony (fictional)
 - [----] TYRION (fictional)
@@ -45,7 +37,7 @@
 - [1561] BACON, Francis (uk)
 - [1593] HERBERT, George (uk)
 - [1601] GRACIAN, Balthasar (es)
-- [1613] ROCHEFOUCAULD, François de la (fr)
+- [1613] LA ROCHEFOUCAULD, François de (fr)
 - [1621] FONTAINE, Jean de La (fr)
 - [1623] PASCAL, Blaise (fr)
 - [1631] DRYDEN, John (uk)
