@@ -209,6 +209,8 @@ Hints:
 ## On happiness
 
 <!--
+> *"Stop looking for happiness in the same place where you lost it."  
+-- Unknown*
 > *"Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius
 > *"Happy is he who learns to bear what he cannot change."  

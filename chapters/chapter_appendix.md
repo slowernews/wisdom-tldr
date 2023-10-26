@@ -16,16 +16,15 @@
 
 - history books are on the history of power.
 - o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
-- there are decades when nothing happens and there are weeks when decades happen.
-- history is the study of change, ironically used as a map of the future.
-- never be a prisoner of your past. it was just a lesson not a life sentence.
-- who are you becoming is more important than who you have been 
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
 -- José Saramago*
 
 Life becomes easy when you recognize the recurring patterns.
+
+> *"History is the study of change, ironically used as a map of the future."
+-- Morgan Housel*
 
 > *"History does not repeat, but it does rhyme."  
 -- Mark Twain*
@@ -39,9 +38,12 @@ Life becomes easy when you recognize the recurring patterns.
 > *"The years say, what the days can’t tell."  
 -- Unknown*
 
+> *"There are decades when nothing happens and there are weeks when decades happen."  
+-- Vladimir Lenin*
+
 You are your memory.
 
-However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
+However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don't be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
 
 > *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist." (...)  
 "Changing your interpretation of your past is often just as good as changing your past."  
@@ -50,13 +52,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky*
 
-> *"Stop looking for happiness in the same place where you lost it."  
--- Unknown*
-
 > *"He’d wasted most of his life thinking he’d wasted most of his life."  
--- Unknown*
-
-> *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
 -- Unknown*
 
 > *"You never know the value of a moment until it becomes a memory."  
@@ -79,7 +75,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 
 ### How memory works?
 
-> *"A busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind."  
+> *"A busy mind accelerates the perceived passage of time. Buy time by cultivating peace of mind."  
 -- Naval Ravikant*
 
 > *"It takes an huge effort to free yourself from memory."  
@@ -97,6 +93,8 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"Nostalgia is a seductive liar."  
 -- George Ball*
 
+> *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
+-- Unknown*
 
 
 
@@ -199,10 +197,6 @@ Our present (in)actions will compound into the future we will experience – tha
 ---
 ## On growing old
 
-<!-- 
-- One-seventh of your life is spent on Mondays.
--->
-
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
 
@@ -269,9 +263,6 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 
 People my age are so much older than me.
 
-> *"An honest man is always a child."  
--- Socrates*
-
 > *"We don’t stop playing because we grow old; we grow old because we stop playing."  
 -- George bernard Shaw*
 
@@ -280,6 +271,9 @@ People my age are so much older than me.
 
 > *"It takes a very long time to become young."  
 -- Pablo Picasso*
+
+> *"An honest man is always a child."  
+-- Socrates*
 
 ### On retirement
 
@@ -323,27 +317,20 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that’s not true. It’s not resilient and shiny, talent is really, really fragile."  
 -- Malcolm Gladwell*
 
-> *"The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do."  
--- John Holt*
-
-> *"The measure of intelligence is the ability to change." (...)  
-"The true sign of intelligence is not knowledge but imagination."  
+> *"The true sign of intelligence is not knowledge but imagination." (...)  
+"The measure of intelligence is the ability to change."  
 -- Albert Einstein*
+
+> *"The difference between sounding smart and being smart is «I don’t know»."  
+-- Naval Ravikant*
 
 > *"Intelligence is like a river: the deeper it is, the less noise it makes."  
 -- Milwaukee Journal Sentinel*
-
-> *"The difference between sounding smart and being smart is «I don’t know»." (...)  
-"Clear thinker is a better compliment than smart."  
--- Naval Ravikant*
 
 > *"When stupidity is considered patriotism, it is unsafe to be intelligent."  
 -- Isaac Asimov*
 
 ### On geniality
-
-> *"If a man knows more than others he becomes lonely."  
--- Carl Jung*
 
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
 -- Ralph Waldo Emerson*
@@ -351,27 +338,20 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"Talent hits a target no one else can hit. Genius hits a target no one else can see."  
 -- Arthur Schopenhauer*
 
-> *"Some people feel the rain. Others just get wet."  
--- Bob Marley*
-
 > *"Most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities."  
 -- Andy Benoit*
 
-> *"Recipe for genius into one sentence: to have a disinterested obsession with something that matters."  
-"We like to believe in genius. It gives us an excuse for being lazy."  
--- Paul Graham*
-
-> *"It is the mark of a genious to explain a complex concept in a simple way." (...)  
-"The problem with genius is that you have to tolerate madness." (...)  
-"Genious is man who can do the average thing when everyone else around him is losing his mind." (...)  
-"The best lack conviction, while the worst are full of passionate intensity."  
--- Naval Ravikant*
+> *"Some people feel the rain. Others just get wet."  
+-- Bob Marley*
 
 > *"Andy Warhol is the only genius I’ve ever known with an IQ of 60."  
 -- Gore Vidal*
 
-> *"It is the essence of genius to make use of the simplest ideas."  
--- Charles Peguy*
+> *"Genious is man who can do the average thing when everyone else around him is losing his mind."  
+-- Naval Ravikant*
+
+> *"If a man knows more than others he becomes lonely."  
+-- Carl Jung*
 
 
 
@@ -381,22 +361,16 @@ Intelligence is a spectrum, a dog is intelligent also.
 ---
 ## On wealth
 
-<!--
-- making money is not about luck
-- you don’t get rich by spending your time to save money. you get rich by saving your time to save make money.
-- rich people stay rich by living like they’re broke. broke people stay broke by living like they’re rich
--->
-
 > *"To be wealthy, accumulate all those things that money can’t buy."  
 -- Kevin Kelly*
 
 Being rich is being fulfilled.
 
-> *"Some people are so poor, all they have is money."  
--- Patrick Meagher*
-
 > *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
 -- Mr. Money Mustache*
+
+> *"Some people are so poor, all they have is money."  
+-- Patrick Meagher*
 
 > *"Being rich is having money; being wealthy is having time."  
 -- Stephen Swidr*
@@ -406,7 +380,7 @@ Being rich is being fulfilled.
 
 ### On money
 
-Money is a tool. It can be a force multiplier to help you live the life of your dreams but the perpetual chase for more is not the path that leads to freedom and happiness. Money doesn't buy happiness. It buys freedom.
+Money is a tool; it can be a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn't purchase happiness; it buys freedom.
 
 > *"A problem that can be solved with money is not really a problem."  
 -- Kevin Kelly*
@@ -425,14 +399,22 @@ Money is a tool. It can be a force multiplier to help you live the life of your 
 
 ### How to get wealthy (without getting lucky)
 
+> *"You don’t get rich by spending your time to save money; you get rich by saving your time to make money."  
+-- Naval Ravikant*
+
+> *"Rich people stay rich by living like they’re broke. Broke people stay broke by living like they’re rich."  
+-- Unknown*
+
+Making money is not about luck. 
+
 - Learn to sell. Learn to build. If you can do both, you will be unstoppable.  
-- Arm yourself with specific knowledge, accountability, and leverage. Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others. When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.  
-- Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage. The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.  
-- Pick business partners with high intelligence, energy, and, above all, integrity. Don’t partner with cynics and pessimists. Their beliefs are self-fulfilling. 
-- You will get rich by giving society what it wants but does not yet know how to get. At scale. Pick an industry where you can play long term games with long term people. The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Money is inherently neutral. It’s merely a vessel for the exchange of experience between two people. You make your money by creating experiences for others.  
-- You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.
-- Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand that ethical wealth creation is possible. Ignore people playing status games. They gain status by attacking people playing wealth creation games. Money is not the cause of wealth in one’s life. It is the effect. Similarly, when people assume that money is the cause of their problems, they are actually mistaken. Money is usually the most noticeable effect of their problems. Money is a touchy subject. That’s because most of us, to a certain degree, associate a lot of our self-worth and identity to our job and how much money we make. It is, quite literally, a market valuation of our skills and competence as a person.  
-- When you’re finally wealthy, you’ll realize that it wasn’t what you were seeking in the first place.
+- Equip yourself with specialized knowledge, accountability, and leverage. Specialized knowledge is what you learn uniquely, not through standard education. If society can teach it to you, it can teach it to others, making you replaceable. You acquire specialized knowledge by following your genuine interests, not just current trends. While you might find it enjoyable, others may see it as hard work. This kind of knowledge is usually passed on through apprenticeships, not traditional schooling. It often involves technical or creative expertise that's difficult to outsource or automate.  
+- Embrace responsability and take business risks under your own name. In exchange, society might grant you more duties, ownership, and influence. The most accountable people usually have unique, public, and bold personal brands, like Oprah, Trump, Kanye, and Elon. 
+- Select partners with intelligence, energy, and, above all, integrity. Stay away from cynics and pessimists, as their negative beliefs can become self-fulfilling prophecies.
+- To become wealthy, offer what society wants but can't access easily, and do it at a large scale. Pick an industry for long-term projects with similar-minded people. The internet has opened up diverse career options, yet many haven't realized this. Focus on persistent efforts. In life, the most substantial gains come from building on past progress. Money is a tool for trading experiences. Create valuable experiences to build your wealth. 
+- Prioritize building wealth instead of chasing money or status. Wealth involves owning assets that generate income without constant effort. Understand that it's possible to create wealth ethically. Don't pay attention to those who focus on status games; they often gain status by criticizing wealth builders. Money is a sensitive topic as many tie their self-worth and identity to their jobs and earnings, reflecting their skills and competence in the market.  
+- You won't achieve significant wealth by simply trading your time for money. To attain financial freedom, you must have ownership or equity in a business or venture.
+- When you eventually attain wealth, you will realize that it wasn't your primary pursuit in the first place.
 
 > *"You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life."  
 -- Peter Mallouk*
@@ -440,15 +422,14 @@ Money is a tool. It can be a force multiplier to help you live the life of your 
 > *"To succeed, get other people to pay you; to become wealthy, help other people to succeed."  
 -- Kevin Kelly*
 
-> *"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms." (...)  
-"Making money is not something that you do - it’s a skill that you learn." (...)  
-"Money follows execution, not precedes it." (...)  
-"No one can predict macro."  
+> *"Money follows execution, not precedes it." (...)  
+"Making money is not something that you do - it’s a skill that you learn." (...)   
+"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms."  
 -- Naval Ravikant*
 
 ### Nearly free stuff
 
-Books, friends, sleep, stopping bad habits, ideas, gratefulness, laugh, questions.
+Books, friends, sleep, stopping bad habits, ideas, questions, gratefulness, laugh.
 
 
 
@@ -1439,6 +1420,8 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
+"No one can predict macro." -- naval  
+
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
 - Modern slaves are not chains, they are in debt.
 - you’re spending time to save money when you should be spending money to save time.

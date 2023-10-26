@@ -1,31 +1,31 @@
+- [----] ALTEREGO, Prof. Quirrel (fictional)
+- [----] Book: Bible
+- [----] Book: Talmud
+- [----] Book: Valve employee
+- [----] DENT, Harvey (fictional)
+- [----] DRAPER, Don (fictional)
 - [----] Hacker News: bane
 - [----] Hacker News: danielvf
 - [----] Hacker News: dilemma
 - [----] Hacker News: exelius
-- [----] Book: Talmud
-- [----] Book: Bible
-- [----] Book: Valve employee
-- [----] DRAPER, Don (fictional)
-- [----] DENT, Harvey (fictional)
-- [----] ALTEREGO, Prof. Quirrel (fictional)
-- [----] Saying
-- [----] PLOUGHMAN, Tara (fictional)
 - [----] MONTANA, Tony (fictional)
+- [----] PLOUGHMAN, Tara (fictional)
+- [----] Saying
 - [----] TYRION (fictional)
-- [-680] ARCHILOCHUS (gr)
-- [-571] TZU, Lao (cn)
-- [-564] BUDDHA (Siddharta Gautama) (np)
-- [-551] CONFUCIUS (cn)
-- [-544] TZU, Sun (cn)
-- [-535] HERACLITUS (gr)
-- [-480] EURIPIDES (gr)
-- [-427] PLATO (gr)
-- [-384] ARISTOTLE (gr)
-- [-375] KAUTILYA (in)
-- [-212] ARCHIMEDES (gr)
-- [-106] CICERO (it)
-- [-039] OVID (it)
 - [-004] SENECA (it)
+- [-039] OVID (it)
+- [-106] CICERO (it)
+- [-212] ARCHIMEDES (gr)
+- [-375] KAUTILYA (in)
+- [-384] ARISTOTLE (gr)
+- [-427] PLATO (gr)
+- [-480] EURIPIDES (gr)
+- [-535] HERACLITUS (gr)
+- [-544] TZU, Sun (cn)
+- [-551] CONFUCIUS (cn)
+- [-564] BUDDHA (Siddharta Gautama) (np)
+- [-571] TZU, Lao (cn)
+- [-680] ARCHILOCHUS (gr)
 - [0046] PLUTARCH (gr)
 - [0050] EPICTETUS (gr)
 - [0121] AURELIUS, Marcus (it)
@@ -96,6 +96,7 @@
 - [1868] HUBBARD, Kin (us)
 - [1869] GANDHI, Mahatma (in)
 - [1869] GIDE, André (fr)
+- [1870] LENIN, Vladimir (ru)
 - [1872] HOFMANNSTHAL (Lord Chandos), Hugo von (at)
 - [1872] RUSSELL, Bertrand (uk)
 - [1873] COLETTE (fr)
@@ -175,9 +176,9 @@
 - [1910] LEVENSTEIN, Aaron (us)
 - [1910] WALKER, Aaron (us)
 - [1910] WOODEN, John (us)
+- [1911] OGILVY, David (uk)
 - [1911] SCHUMACHER, Ernst F. (de)
 - [1911] WILLIAMS, Tennessee (us)
-- [1911] OGILVY, David (uk)
 - [1912] CAGE, John (us)
 - [1913] CAMUS, Albert (dz)
 - [1913] DAVIES, Robertson (ca)
@@ -399,6 +400,7 @@
 - [1982] NEWPORT, Cal (us)
 - [1982] SETHI, Ramit (us)
 - [1982] VELEZ, David (co)
+- [1983] HOUSEL, Morgan (us)
 - [1984] MANSON, Mark (us)
 - [1985] YOUNG, Chris (us)
 - [1986] BENOIT, Andy (us)
