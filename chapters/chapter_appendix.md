@@ -462,51 +462,49 @@ People say they want to be famous to impact the world, often what they want is t
 <!--
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
 -- M. Vázquez Montalban*
-
-- threats x vulnerabilities = risk
-- everything is a pattern. no pattern is random
+> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
+-- Paulo Coelho*
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
 -- Ralph Waldo Emerson*
 
-> *"The day you decide to do it is your lucky day."  
--- Unknown*
+> *"If you live long enough, most people will get what they deserve."  
+-- Charlie Munger*
 
 Unless you’re winning, life will seem unfair to you.
 
-Bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. The best things in life are born from coincidence. «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn’t repeat on one’s lifetime.
-
-> *"If you live long enough, most people will get what they deserve."  
--- Charlie Munger*
+Bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. The best things in life are born from coincidence. «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn’t repeat on one’s lifetime. Everything is a pattern.
 
 > *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
 -- Naval Ravikant*
 
-> *"God is subtle but he is not malicious." (...)  
-"Coincidence is God’s way of remaining anonymous."  
+> *"Coincidence is God’s way of remaining anonymous." (...)  
+"God is subtle but he is not malicious."  
 -- Albert Einstein*
-
-> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
--- Paulo Coelho*
 
 > *"The devil always takes back his gifts."  
 -- Unknown*
 
-> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
--- Robert Schiller*
-
 ### On risk and chance
 
-Risk is everything you left over and didn’t thought about. Luck and risk are two faces of the same coin.
+Risk is everything you left over and didn’t thought about.
 
-Every outcome in life is guided by forces other than individual effort. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
+	Risk = Threats x Vulnerabilities
+
+Every outcome in life is guided by forces other than individual effort. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. Luck and risk are two faces of the same coin.
 
 > *"Things that come with little help of luck are more resistant to randomness."  
 -- Nassim Taleb*
 
 > *"Luck is what happens when preparation meets opportunity."  
 -- Seneca*
+
+> *"The day you decide to do it is your lucky day."  
+-- Unknown*
+
+> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
+-- Robert Schiller*
 
 
 
@@ -519,13 +517,12 @@ Every outcome in life is guided by forces other than individual effort. Luck is 
 <!--
 - dress like you’re going somewhere better later
 - taste may be an instinct for honest signals
-- beauty grabs attention. personality grabs the heart.
 -->
 
 > *"If cats looked like frogs we’d realize what nasty, cruel little bastards they are. Style. That’s what people remember."  
 -- Terry Pratchett*
 
-A beautiful person always see beauty in others.
+A beautiful person always see beauty in others. Beauty grabs attention. Personality grabs the heart.
 
 > *"A man’s face is his autobiography. A woman’s face is her work of fiction."  
 -- Oscar Wilde*
@@ -554,7 +551,7 @@ A beautiful person always see beauty in others.
 ## On health
 
 > *"You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness."  
--- Allen Tucker’*
+-- Allen Tucker*
 
 Health is also an envy trigger. Often what people really envy is self-control.
 
@@ -562,13 +559,13 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 - Exercise is king. Balance on body training = flexibility (yoga or animal movements) + strength (weights). Minimum effective dose.  
 - Nutrition is queen. Eat more real foods and practice intermittent fasting.  
-- Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated. Sleep deprivation is bad for memory. Stress also.
-
-> *"You can eat any dessert you want if you take only 3 bites."  
--- Kevin Kelly*
+- Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated.
 
 > *"The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison."  
 -- Ann Wigmore*
+
+> *"You can eat any dessert you want if you take only 3 bites."  
+-- Kevin Kelly*
 
 
 
@@ -579,7 +576,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
-- what’s your adrenaline type. ex. adrenalina velocidade vs adrenalina de estar na fronteira do conhecido
+- what’s your adrenaline type? velocidade ou fronteira do conhecido
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -618,17 +615,18 @@ Hints:
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 - How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.
 - 3 hobbies: one creative, one to keep in shape and one to make money.
-- we drink to loosen our tongues.
+- We drink to loosen our tongues.
 - Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. decluttering is self-care. clutter is not just physical stuff. it’s old ideas, toxic relationships and bad habits. clutter is everything that doesn’t support the better self. storage is a way of warehousing the past.
-- minimalism doesn’t avoid possession. only excess. the less you own, the less owns you. owning less is better than organizing more. eliminate instead of organizing. all that clutter used to be money. organizing your email is like alphabetizing your recycling.
-- income doesn’t make you rich. spending habits do.
+- Minimalism doesn’t avoid possession. only excess. the less you own, the less owns you. owning less is better than organizing more. eliminate instead of organizing. all that clutter used to be money. organizing your email is like alphabetizing your recycling.
+- Income doesn’t make you rich. spending habits do.
 - buy supplies before you need them. gadgets after you need them. three is two. two is one. One is none.
-- avoid clothing that’s more interesting than you are.
+- Avoid clothing that’s more interesting than you are.
 - If you’re not trying to make money, what are you even doing?
-- you can never be over dressed or over educated.
-- feel like a local celebrity: everybody knows who you are.
+- You can never be over dressed or over educated.
+- Feel like a local celebrity: everybody knows who you are.
 
-> *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3."  
+> *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3." (...)  
+"For a great payoff, be especially curious about the things you are not interested in."  
 -- Kevin Kelly*
 
 > *"Hard work is simply the refuge of people that have nothing to do."  
@@ -652,14 +650,11 @@ Hints:
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
 
-> *"For a great payoff, be especially curious about the things you are not interested in."  
--- Kevin Kelly*
-
 > *"To measure your quality of life, simply do nothing and see how it feels." (...)  
-"You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
-"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you." (...)  
 "People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom." (...)  
+"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you." (...)  
 "No routine. I’m famously unscheduled." (...)  
+"You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
 "Develop strategic incompetence - people won’t ask you to do things you hate to do if you’re bad at them."  
 -- Naval Ravikant*
 
@@ -698,16 +693,17 @@ Hints:
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
 
-Success = education + massive action
+	Success = Education + Action
 
 There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period. Succeeding means securing advantage.
 
-Success (and happiness) is internal not external. True fulfillment comes from living not from achievement. Experiences worth more than material. When people finally became a “success” they realize that they were no more fulfilled at 40 with $100,000 in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them.
+Success (and happiness) is internal not external. True fulfillment comes from living not from achievement. Experiences worth more than material. When people finally became a «success» they realize that they were no more fulfilled at 40 with $100K in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them.
 
 > *"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."  
 -- John Woode*
 
-> *"A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do."*
+> *"A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do."
+-- Bob Dylan*
 
 > *"To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man."  
 -- Louis L’amour*
@@ -720,15 +716,15 @@ Success (and happiness) is internal not external. True fulfillment comes from li
 > *"Want to get ahead in life? Start genuinely rooting for others to succeed. It’s as simple as that."  
 -- Sahil Bloom*
 
-> *"Sucess is a lousy teacher. It seduces smart people into thinking they can’t lose."  
+> *"Success is a lousy teacher. It seduces smart people into thinking they can’t lose."  
 -- Bill Gates*
 
 > *"Strive not to be a success, but rather be of value."  
 -- Albert Einstein*
 
-> *"Predicting failure is easier than predicting success." (...)  
-"The price of growth is outgrowing people."  
-"The success formula: solve your own problems and freely share the solutions."  
+> *"The success formula: solve your own problems and freely share the solutions." (...)  
+"The price of growth is outgrowing people." (...)  
+"Predicting failure is easier than predicting success."
 -- Naval Ravikant*
 
 ### On barriers to success
@@ -738,6 +734,7 @@ Fear, not failure, is the biggest barrier to success. Some people are terrified 
 We don’t get successful by knowing everything, we get successful by listening.
 
 > *"Doubt kills more dreams than failure ever will."*
+-- Suzy Kassem*
 
 > *"Whether you think you can, or you think you can’t, you’re right."  
 -- Henry Ford*
@@ -763,7 +760,7 @@ We don’t get successful by knowing everything, we get successful by listening.
 
 Wisdom is knowing the long-term consequences of your actions.
 
-wisdom = inteligence + experience
+	Wisdom = Inteligence + Experience
 
 > *"Doubt is the origin of wisdom."  
 -- René Descartes*
@@ -808,40 +805,44 @@ wisdom = inteligence + experience
 > *"Only the truth is funny."  
 -- Rick Reynolds*
 
-> *"A serious and good philosophical work could be written consisting entirely of jokes."  
--- Ludwig Wittgenstein*
-
 > *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant*
 
-Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
+> *"A serious and good philosophical work could be written consisting entirely of jokes."  
+-- Ludwig Wittgenstein*
 
-> *"The world is a tragedy to those who feel, but a comedy to those who think."  
--- Horace Walpole*
+Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
 
 > *"The only intelligent tactical response to life’s horror is to laugh defiantly at it."  
 -- Soren Kierkegaard*
 
-> *"I miss being the age when I thought I would have my shit together by the time I was the age I am now."*
+> *"The world is a tragedy to those who feel, but a comedy to those who think."  
+-- Horace Walpole*
 
-> *"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt."*
+> *"I miss being the age when I thought I would have my shit together by the time I was the age I am now."  
+-- Unknown*
+
+> *"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt."  
+-- Unknown*
 
 > *"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog.  
 What’s the man there for? His job is to feed the dog.  
 What’s the dog for? The dog keeps the man from touching any of the machines."  
--- Old joke*
+-- Unknown*
 
-> *"I couldn’t be a doctor...it doesn’t change the world enough and you don’t actually earn that much."  
--- heard in San Francisco*
+> *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
+-- Unknown in San Francisco*
 
-> *"Mathematicians look down on Physicists, who look down on Engineers, who look down on Designers. And Designers look down on everyone."  
+> *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
 -- Naval Ravikant*
 
 ### Where is home?
 
-> *"Home is where the bra isn’t."*
+> *"Home is where the bra isn’t."
+-- Unknown*
 
-> *"Home is where the parking lot is."*
+> *"Home is where the parking lot is."
+-- Unknown*
 
 ### What is love?
 

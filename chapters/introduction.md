@@ -213,8 +213,6 @@ Hints:
 -- Unknown*
 > *"Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius
-> *"Happy is he who learns to bear what he cannot change."  
--- Friedrich Schiller*
 
 - Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
@@ -266,12 +264,15 @@ Happiness is a *mind* state where nothing is missing.
 -- Rita Mae Brown*
 
 > *"Happiness is your default state when you remove everything." (...)  
-"Money can’t make rich people happy but it can make poor people happy." (...)  
-"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."  
+"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned." (...)  
+"Money can’t make rich people happy but it can make poor people happy."  
 -- Naval Ravikant*
 
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
 -- Robert A. Heinlein*
+
+> *"Happy is he who learns to bear what he cannot change."  
+-- Friedrich Schiller*
 
 ### How to improve somebody else happiness?
 
