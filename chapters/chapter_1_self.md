@@ -124,7 +124,7 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"Truth prevails where opinions are free."  
 -- Tom Paine*
 > *"There is no greater fraud than the promise not kept."  
--- Anonymous*
+-- Unknown*
 > *"The more we disagree, the more chance there is that at least one of us is right.*
 
 - every damn thing is your own fault, if you are any good.
@@ -233,7 +233,7 @@ Being grateful is looking up. Play the cards you are dealt. And sometimes you wi
 -- Kevin Kelly*
 
 > *"The blind can’t see. The proud will not."  
--- Anonymous*
+-- Unknown*
 
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich." (...)  
 "When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
@@ -321,7 +321,7 @@ Hints:
 "The seed of all evil is laziness." (...)  
 "The longer the tongue, the shorter the hands." (...)  
 "Work is the medicine for poverty."  
--- Anonymouss*
+-- Unknown*
 
 > *"As a grown man you should know better than to go around advising people."  
 -- Bertolt Brecht*
@@ -390,7 +390,7 @@ Hints:
 -- Vincent Van Gogh*
 
 > *"A ship is safe in the harbor but that’s not what ships are for."  
--- Anonymous*
+-- Unknown*
 
 > *"The silence between the notes makes the music. And lest we forget, the longer the silence, the more incredibly beautiful and powerful the music when it finally swells and the symphony goes on."  
 -- Brianna West*
@@ -451,7 +451,7 @@ Hints:
 -- Chris Sommer (gymnastics coach)*
 
 > *"He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever."  
--- Anonymous*
+-- Unknown*
 
 > *"I have no special talent, I’m only passionately curious." (...)  
 "It is not that I’m so smart. But I stay with the questions much longer." (...)  
@@ -549,7 +549,7 @@ Hints:
 ### Improving by experience
 
 > *"Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand."  
--- Anonymous*
+-- Unknown*
 
 > *"The difference between theory and practice: in theory, there’s no difference between theory and practice; in practice, there is."  
 -- Van de Snepscheut*
@@ -566,7 +566,7 @@ Hints:
 Practice makes perfect but doesn't necessarily bring something new. Innovation comes from having a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures; it will help you let go.
 
 > *"You can only connect the dots looking back, not looking forward."  
--- Anonymous*
+-- Unknown*
 
 > *"Journal early before your inhibitions take in. Keep a journal to record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want."*
 
@@ -953,7 +953,7 @@ Hints:
 -- Epictetus*
 
 > *"Fear makes the wolf bigger than he is."  
--- Anonymous*
+-- Unknown*
 
 ### On courage
 
@@ -1337,7 +1337,7 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 -- George Bernard Shaw*
 
 > *"Worry gives small things a big shadow."  
--- Anonymous*
+-- Unknown*
 
 > *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative." (...)  
 "To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  

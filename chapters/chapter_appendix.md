@@ -11,6 +11,9 @@
 ## On past and memory
 
 <!--
+> *"Don’t bother fighting the old; just build the new."  
+-- Kevin Kelly*
+
 - history books are on the history of power.
 - o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
 - there are decades when nothing happens and there are weeks when decades happen.
@@ -27,24 +30,18 @@ Life becomes easy when you recognize the recurring patterns.
 > *"History does not repeat, but it does rhyme."  
 -- Mark Twain*
 
-> *"Don’t bother fighting the old; just build the new."  
--- Kevin Kelly*
-
 > *"The historian is not really interested in the unique, but in what is general in the unique."  
 -- Edward Carr*
-
-> *"Every new medium transforms the nature of human thought. In the long run, History is the story of information becoming aware of itself."  
--- James Gleick*
-
-> *"The years say, what the days can’t tell."  
--- Anonymous*
 
 > *"Life is understood backwards, but must be lived forwards."  
 -- Soren Kierkegaard*
 
-You are your memory, however you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay.
+> *"The years say, what the days can’t tell."  
+-- Unknown*
 
-Let go your past failures. They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
+You are your memory.
+
+However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality.
 
 > *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist." (...)  
 "Changing your interpretation of your past is often just as good as changing your past."  
@@ -53,13 +50,17 @@ Let go your past failures. They are meant to guide you, not to define you or det
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky*
 
-> *"I can’t go back to yesterday because I was a different person then."  
--- Lewis Carroll*
+> *"Stop looking for happiness in the same place where you lost it."  
+-- Unknown*
 
-> *"Stop looking for happiness in the same place where you lost it." (...)  
-"He’d wasted most of his life thinking he’d wasted most of his life." (...)
-"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
--- Anonymouss*
+> *"He’d wasted most of his life thinking he’d wasted most of his life."  
+-- Unknown*
+
+> *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
+-- Unknown*
+
+> *"You never know the value of a moment until it becomes a memory."  
+-- Unknown*
 
 > *"Never regret something that once made you smile."  
 -- Amber Deckers*
@@ -73,21 +74,16 @@ Let go your past failures. They are meant to guide you, not to define you or det
 > *"The worst part of holding the memories is not the pain. It’s the loneliness of it. Memories need to be shared."  
 -- Lois Lowry*
 
-> *"You never know the value of a moment until it becomes a memory."  
--- Anonymous*
-
-> *"A busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind."  
--- Naval Ravikant*
-
 > *"But how can you live and have no story to tell?"  
 -- Fyodor Dostoyevsky*
 
 ### How memory works?
 
+> *"A busy mind accelerates the perceived passage of time. buy more time by cultivating peace of mind."  
+-- Naval Ravikant*
+
 > *"It takes an huge effort to free yourself from memory."  
 -- Paulo Coelho*
-
-It’s harder to forget mistakes and the beginning/end of something. 
 
 > *"You forget what you want to remember, and you remember what you want to forget."  
 -- Cormac McCarthy*
@@ -97,9 +93,6 @@ It’s harder to forget mistakes and the beginning/end of something.
 
 > *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
 -- Rosalind Cartwright*
-
-> *"Collective memory is more about the present than the past because it is integral to how the group sees itself."  
--- Margaret MacMillan*
 
 > *"Nostalgia is a seductive liar."  
 -- George Ball*
@@ -113,10 +106,8 @@ It’s harder to forget mistakes and the beginning/end of something.
 ## On present
 
 <!--
-> *"Stop measuring days by degree of productivity and start experiencing them by degree of presence."  
--- Alan Watts*
-
 - 100 blocks a day -- wait but why
+- Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
@@ -124,27 +115,30 @@ It’s harder to forget mistakes and the beginning/end of something.
 
 You will die soon.
 
-Act accordingly and don’t postpone joy. Live life like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find it anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment. Learn to reframe your current situation and find meaning within it.
+Act accordingly and don’t postpone joy. Live life like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find it anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment.
 
-The elderly and dying invariably lament on what they neglected to do, not what they did. Leave a trail of accomplishments or smiles behind you.
+The elderly and dying invariably regret what they didn't do, not what they did.
 
 > *"Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today."  
 -- James T. McKay*
 
-> *"Either write something worth reading or do something worth writing."  
--- Benjamin Franklin*
-
 > *"Live as if you were to die tomorrow. Learn as if you were to live forever."  
 -- Mahatma Gandhi*
+
+> *"Either write something worth reading or do something worth writing."  
+-- Benjamin Franklin*
 
 > *"What’s life? Showing up for the people you love, again and again, until you can’t show up anymore."  
 -- Rebecca Walker*
 
-> *"When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time."  
--- Jon Boorman*
-
 > *"Confine thyself to the present."  
 -- Marcus Aurelius*
+
+> *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
+-- Kahlil Gibran*
+
+> *"Stop measuring days by degree of productivity and start experiencing them by degree of presence."  
+-- Alan Watts*
 
 
 
@@ -154,41 +148,28 @@ The elderly and dying invariably lament on what they neglected to do, not what t
 ---
 ## On future
 
-<!--
-- a man without a vision for his future, always return to his past.
-- you say I dream too big. i say you dream too small.
-- Anomalies often represent the future but to our eyes they seem strange.
-- futurism is a study of time
--->
-
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
 -- Michaelangelo*
 
 > *"A man without a vision for his future always return to his past."  
--- Andrew Tate*
+-- Unknown*
 
 Dream big.
 
-An ambitious goal sets the bar so high that even a failure is a success measured by the ordinary. If your dreams don’t scare you, they are not big enough. 
+An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don't frighten you, they are not big enough.
 
-> *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
--- Kahlil Gibran*
+> *"Rich people think big. Poor people think small."  
+-- T. Harv Eker*
+
+> *"Every saint has a past, and every sinner has a future." (...)  
+"Anyone who lives within their means suffers from a lack of imagination."  
+-- Oscar Wilde*
 
 > *"If you don’t imagine, nothing ever happens at all."  
 -- John Green*
 
 > *"I dream my painting and I paint my dream."  
 -- Vincent van Gogh*
-
-> *"Every saint has a past, and every sinner has a future." (...)  
-"Anyone who lives within their means suffers from a lack of imagination."  
--- Oscar Wilde*
-
-> *"Rich people think big. Poor people think small."  
--- T. Harv Eker*
-
-> *"Myth is the public dream, and dream is the private myth."  
--- Joseph Campbell*
 
 > *"The best way to make your dreams come true is to wake up."  
 -- Paul Valery*
@@ -199,19 +180,13 @@ An ambitious goal sets the bar so high that even a failure is a success measured
 > *"Goals are dreams with deadlines."  
 -- Diana Scharf Hunt*
 
-Our present (in)actions will compound into the future we will get – that’s a great way to think about what lies ahead. However, don’t worry too much, you can’t control it.
+Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
 
 > *"I never worry about the future. It comes soon enough."  
 -- Albert Einstein*
 
-> *"We all have two lives. The second one starts when we only have one."  
--- Confucius*
-
 > *"No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened."  
 -- John Hodgman*
-
-> *"Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree."  
--- Kevin Kelly*
 
 > *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
 -- Kevin Kelly*
@@ -221,55 +196,37 @@ Our present (in)actions will compound into the future we will get – that’s a
 
 
 
-
 ---
 ## On growing old
 
-<!--
-- after reaching a certain age, you are no longer viewed as a person. you become an institution and are you aere treated the way institutions are. you are expected to behave like a piece of period furniture, an architectual landmark.
-- maturing is realizing how many things don’t require your comment.
+<!-- 
 - One-seventh of your life is spent on Mondays.
 -->
-
-> *"Nothing is more disgraceful than that an old man should have nothing to show to prove that he has lived long, except his years."  
--- Seneca*
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
 
-> *"Aging is an extraordinary process where you become the person you always should have been."  
--- David Bowie*
+> *"Nothing is more disgraceful than that an old man should have nothing to show to prove that he has lived long, except his years."  
+-- Seneca*
 
-> *"An honest man is always a child."  
--- Socrates*
-
-> *"It takes a very long time to become young."  
--- Pablo Picasso*
-
-> *"Everybody wants to go to heaven, but nobody wants to die."  
--- Anonymous*
+After reaching a certain age, you are no longer seen as an individual; you become an institution and are treated as institutions are. You are expected to behave like a piece of historical furniture, an architectural landmark.
 
 > *"Every one desires to live long, but no one would be old."
 -- Jonathan Swift*
 
+> *"Everybody wants to go to heaven, but nobody wants to die."  
+-- Unknown*
+
 > *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. Theer was no transitional period."  
 -- Stan Ulam*
-
-> *"We don’t stop playing because we grow old; we grow old because we stop playing."  
--- George bernard Shaw*
-
-People my age are so much older than me.
-
-> *"A man that lives from memories becames old. One that lives from projects remains young."  
--- Bruno Munari*
 
 > *"Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older."  
 -- John Cassavetes*
 
-> *"You are only as young as the last time you changed your mind."  
--- Kevin Kelly*
+> *"When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time."  
+-- Jon Boorman*
 
-Aging implies damage. A too high a price to pay for maturity.
+Aging implies wear and tear, often seen as a high price to pay for maturity.
 
 > *"Every day in the mirror I watch death at work."  
 -- Jean Cocteau*
@@ -285,10 +242,7 @@ Aging implies damage. A too high a price to pay for maturity.
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
 -- Kevin Kelly*
 
-The advantage of getting older is that you become more decisive.
-
-> *"The old believe everything; the middle-aged suspect everything; the young know everything."  
--- Oscar Wilde*
+The advantage of aging is that you become more decisive. Maturing is realizing that many things don't need your comments.
 
 > *"We mature with the damage, not with the years."  
 -- Mateus William*
@@ -300,23 +254,51 @@ The advantage of getting older is that you become more decisive.
 -- Bryan White*
 
 > *"Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it."  
--- Orwell*
+-- George Orwell*
+
+> *"The old believe everything; the middle-aged suspect everything; the young know everything."  
+-- Oscar Wilde*
+
+> *"Aging is an extraordinary process where you become the person you always should have been."  
+-- David Bowie*
+
+### How to slow down the aging process?
+
+> *"A man that lives from memories becames old. One that lives from projects remains young."  
+-- Bruno Munari*
+
+People my age are so much older than me.
+
+> *"An honest man is always a child."  
+-- Socrates*
+
+> *"We don’t stop playing because we grow old; we grow old because we stop playing."  
+-- George bernard Shaw*
+
+> *"You are only as young as the last time you changed your mind."  
+-- Kevin Kelly*
+
+> *"It takes a very long time to become young."  
+-- Pablo Picasso*
 
 ### On retirement
-
-Finding a place to die is an important thing to do.
-
-> *""A man dies when he stops working."  
--- Anonymous*
 
 > *"Retirement is when you stop sacrificing today for an imaginary tomorrow."  
 -- Naval Ravikant*
 
-> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
--- Francis Bacon*
+Finding a place to die is an important thing to do.
+
+> *"A man dies when he stops working."  
+-- Unknown*
 
 > *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
 -- Chuck Palahniuk*
+
+> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
+-- Francis Bacon*
+
+> *"Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree."  
+-- Kevin Kelly*
 
 
 
@@ -508,7 +490,7 @@ People say they want to be famous to impact the world, often what they want is t
 -- Ralph Waldo Emerson*
 
 > *"The day you decide to do it is your lucky day."  
--- Anonymous*
+-- Unknown*
 
 Unless you’re winning, life will seem unfair to you.
 
@@ -528,7 +510,7 @@ Bad luck is often bad planning. If you’re sure it’s not, be positive, the pe
 -- Paulo Coelho*
 
 > *"The devil always takes back his gifts."  
--- Anonymous*
+-- Unknown*
 
 > *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
 -- Robert Schiller*
@@ -580,7 +562,7 @@ A beautiful person always see beauty in others.
 -- Octave Mirbeau*
 
 > *"Many complain of their looks but none of their brains."  
--- Anonymous*
+-- Unknown*
 
 
 
@@ -684,7 +666,7 @@ Hints:
 -- Henry David Thoreau*
 
 > *"He who buys what he does not need, steals from himself."  
--- Anonymous*
+-- Unknown*
 
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
@@ -783,7 +765,7 @@ We don’t get successful by knowing everything, we get successful by listening.
 -- Roger Kipling*
 
 > *"Success and rest don’t sleep together."  
--- Anonymous*
+-- Unknown*
 
 
 
@@ -806,7 +788,7 @@ wisdom = inteligence + experience
 -- René Descartes*
 
 > *"The beginning of wisdom is calling things by their right names."  
--- Anonymous*
+-- Unknown*
 
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
@@ -952,7 +934,7 @@ Most people approach each and every year in the exact same way while expecting d
 -->
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
--- Anonymous*
+-- Unknown*
 
 > *"True friendship can exist only between equals."  
 -- Plato*
@@ -963,7 +945,7 @@ Life is meant to be lived in community. Cleave from your family but come back. Y
 -- Jim Butcher*
 
 > *"Brothers love each other when they are equally rich."  
--- Anonymous*
+-- Unknown*
 
 > *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
 -- Mark Twain*
@@ -1036,7 +1018,7 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 -- Kevin Kelly*
 
 > *"Bad friends will prevent you from having good friends."  
--- Anonymous*
+-- Unknown*
 
 > *"I don’t like that man. I must get to know him better."  
 -- Abraham Lincoln*
@@ -1076,7 +1058,7 @@ Hints:
 -- Elinor Glyn*
 
 > *"Love me when I least deserve it, because that’s when I really need it."  
--- Anonymous*
+-- Unknown*
 
 > *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
 -- Emilie Autumn*
@@ -1186,13 +1168,13 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Warren Farrell (psychologist)*
 
 > *"As long as the bed shakes, the house will remain stable."  
--- Anonymous*
+-- Unknown*
 
 > *"Happy the marriage where the husband is the head and the wife the heart."  
--- Anonymous*
+-- Unknown*
 
 > *"When poverty comes in the door, love goes out of the window."  
--- Anonymous*
+-- Unknown*
 
 
 
@@ -1588,7 +1570,7 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 -- B.F. Skinner*
 
 > *"Learning is a treasure that will follow it’s owner everywhere."  
--- Anonymous*
+-- Unknown*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 

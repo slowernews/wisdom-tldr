@@ -517,10 +517,10 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door.
 
 > *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever."  
--- Anonymous*
+-- Unknown*
 
 > *"I’d rather have criticism from a genius than praise from an idiot."
--- Anonymous*
+-- Unknown*
 
 > *"A critic is a legless man who teaches running."  
 -- Channing Pollock*
@@ -547,7 +547,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- David Leach*
 
 > *"To know the road ahead, ask those coming back."  
--- Anonymous*
+-- Unknown*
 
 Your father is your first mentor.
 
@@ -560,7 +560,7 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 -- Friedrich Nietzsche*
 
 > *"A society grows great when old men plant trees whose shade they know they shall never sit in."  
--- Anonymous*
+-- Unknown*
 
 > *"I was always ready to share, but before external success, nobody cared to listen."  
 -- Naval Ravikant*
@@ -650,7 +650,7 @@ Hints:
 -- Euripides*
 
 > *"Children are a poor man’s riches."  
--- Anonymous*
+-- Unknown*
 
 > *"Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you."  
 -- Honore de Balzac*
@@ -677,7 +677,7 @@ Hints:
 -- L. Tom Perry*
 
 > *"A father is someone you look up to no matter how tall you grow."  
--- Anonymous*
+-- Unknown*
 
 > *"Life doesn’t come with an instruction book — that’s why we have fathers."  
 -- H. Jackson Browne*
@@ -704,7 +704,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 -- Anne Frank*
 
 > *"A bit of fragrance clings to the hand that gives flowers."  
--- Anonymous*
+-- Unknown*
 
 No one on their deathbed has ever regretted giving too much away.
 
@@ -1053,7 +1053,7 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 -- Voltaire*
 
 > *"One cow breaks the fence and a dozen leap it."  
--- Anonymous*
+-- Unknown*
 
 > *"In our infinite ignorance we are all equal."  
 -- Karl Popper*
@@ -1098,7 +1098,7 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 -- John F. Kennedy, paraphrasing G.K.Chesterton*
 
 > *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"
--- Anonymous*
+-- Unknown*
 
 > *"Even a foolish person can still be right about most things. Most conventional wisdom is true." (...)  
 "Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious." (...)  
@@ -1139,7 +1139,7 @@ Hints:
 -- Bill Murray*
 
 > *"A drunk man’s words, are a sober man’s thoughts."  
--- Anonymous*
+-- Unknown*
 
 > *"A great man is hard on himself; a small man is hard on others."  
 -- Confucius*
@@ -1169,7 +1169,7 @@ Hints:
 -- Trump*
 > *"Who lies for you will lie against you." (...)  
 "Talkers aren’t strong. The strong don’t talk."  
--- Anonymous*
+-- Unknown*
 > *"The best fighter is never angry."  
 -- Lao Tzu*
 
@@ -1206,10 +1206,10 @@ Easy players are often just deceiving you. However - if you can identify them - 
 ### On desperate opponents
 
 > *"Necessity knows no law."  
--- Anonymous*
+-- Unknown*
 
 > *"Fear can make a donkey attack a lion."  
--- Anonymous*
+-- Unknown*
 
 Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
@@ -1245,7 +1245,7 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 <!--
 - I learned a long time ago the wisest thing I can do is be on my side. -- maya angelou
-- united we are rock, divided we are sand. -- Anonymous
+- united we are rock, divided we are sand. -- Unknown
 - hungry dogs are never loyal
 -->
 
@@ -1348,7 +1348,7 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 -- Marilyn Monroe*
 
 > *"The dogs bark but the caravan moves on."  
--- Anonymous*
+-- Unknown*
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffet*
@@ -1459,7 +1459,7 @@ Hints:
 -- Andrew tate*
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
--- Anonymous*
+-- Unknown*
 
 People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
 
@@ -1596,10 +1596,10 @@ Hints:
 -- HN_goatinaboat*
 
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."
--- Anonymous*
+-- Unknown*
 
 > *"I always advise young people to become good public speakers. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Or get a degree in business on top of your degree. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge."
--- Anonymous*
+-- Unknown*
 
 ### How to «pivot» career?
 
@@ -1611,7 +1611,7 @@ You will either pivot or get pivoted. If your job doesn’t require originality,
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine. Not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."
--- Anonymous*
+-- Unknown*
 
 > *"My luggage is always ready."  
 -- Jorge Jesus (soccer coach)*
@@ -1710,7 +1710,7 @@ Hints:
 -- Valve employee book*
 
 > *"Always look for internal spies, people in the enemy camp who are dissatisfied and have an ax to grind."
--- Anonymous*
+-- Unknown*
 
 > *"Don’t ever work for someone you dont want to become." (...)  
 "Being enthusiastic is worth 25 IQ points." (...)  
