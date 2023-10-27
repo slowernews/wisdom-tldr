@@ -38,15 +38,11 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 
 ### How to come alive?
 
-<!--
-- do u want ur daughter to date somebody like u?
--->
-
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
 -- Alan Watts*
 
 > *"Action expresses priorities."  
--- Ghandi*
+-- Mahatma Ghandi*
 
 You must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant.
 
@@ -82,13 +78,8 @@ You must make the conscious decision that you are going to change your story. No
 <!--
 > *"Move to a place that feels strange until it feels like home. constantly learning and growing. then do it again, pursuing disconfort, until teh whole world is my home."  
 -- Derek Sivers*
-> *"You meet your destiny on the road you take to avoid it."  
--- Carl Jung*
-> *"I am free and that is why I am lost."  
--- Franz Kafka*
-> *"A man’s character is his fate."  
--- Heraclitus*
 
+- do u want ur daughter to date somebody like u?
 - old keys won't open new doors.
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 - Best Effort + Surrender = DESTINY
@@ -122,6 +113,12 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"You goal in life is to be able to say on the day before you die that you have fully become yourself."  
 -- Kevin Kelly*
 
+> *"A man’s character is his fate."  
+-- Heraclitus*
+
+> *"I am free and that is why I am lost."  
+-- Franz Kafka*
+
 ### How to design a life?
 
 > *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
@@ -145,7 +142,8 @@ Hints:
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso*
 
-> *"You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way."  
+> *"You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way." (...)  
+"That thing that made you weird as a kid could you make great as an adult — if you don’t lose it."  
 -- Kevin Kelly*
 
 > *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"
@@ -159,9 +157,6 @@ Hints:
 
 > *"We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change."  
 -- Derek Sivers*
-
-> *"That thing that made you weird as a kid could you make great as an adult — if you don’t lose it."  
--- Kevin Kelly*
 
 > *"I can think, I can wait and I can fast."  
 -- Siddahrta*
@@ -200,6 +195,9 @@ Hints:
 "Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."  
 -- Kevin Kelly*
 
+> *"You meet your destiny on the road you take to avoid it."  
+-- Carl Jung*
+
 
 
 
@@ -209,11 +207,6 @@ Hints:
 ## On happiness
 
 <!--
-> *"Stop looking for happiness in the same place where you lost it."  
--- Unknown*
-> *"Almost nothing material is needed for a happy life, for he who has understood existence."  
--- Marcus Aurelius
-
 - Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
 - Focus on internal fulfillment not external success
@@ -227,7 +220,7 @@ Hints:
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
 -- Mahatma Gandhi*
 
-Happiness is a *mind* state where nothing is missing.
+Happiness is a mind state where nothing is missing.
 
 	Happiness = Autonomy + Belonging + Mastery  AND  Reality > Expectations
 
@@ -242,6 +235,12 @@ Happiness is a *mind* state where nothing is missing.
 
 > *"Happiness in intelligent people is the rarest thing I know."  
 -- Ernest Hemingway*
+
+> *"Stop looking for happiness in the same place where you lost it."  
+-- Unknown*
+
+> *"Almost nothing material is needed for a happy life, for he who has understood existence."  
+-- Marcus Aurelius*
 
 ### How to improve your happiness?
 

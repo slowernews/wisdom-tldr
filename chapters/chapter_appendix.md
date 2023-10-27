@@ -577,6 +577,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 <!--
 - what’s your adrenaline type? velocidade ou fronteira do conhecido
+- If you’re not trying to make money, what are you even doing?
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -601,29 +602,21 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 
 Hints:
 
-- My life has been a series of questions and odd experiments.
-- I’m not choosing ignorance. I’m choosing to not watch wrestling.
-- The opposite of play isn’t work, it’s depression.  
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. technology is my slave, not my master.
-- Simplicity is the ultimate sophistication.
-- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
+- Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. Don’t play the government’s game.
 - Aspire to work 3 days a week; 3 weeks a month; 3 months free a year.  
 - Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
 - Own my house on a few acres with clean water river frontage, and assets I can enjoy & be creative with (car, bike, music equipment, tools, etc)  
-- House + work + third place.
-- Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. Don’t play the government’s game.
-- I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
-- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it.
+- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it. Income doesn’t make you rich. spending habits do.  
+- The opposite of play isn’t work, it’s depression.  
 - 3 hobbies: one creative, one to keep in shape and one to make money.
-- We drink to loosen our tongues.
-- Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. decluttering is self-care. clutter is not just physical stuff. it’s old ideas, toxic relationships and bad habits. clutter is everything that doesn’t support the better self. storage is a way of warehousing the past.
-- Minimalism doesn’t avoid possession. only excess. the less you own, the less owns you. owning less is better than organizing more. eliminate instead of organizing. all that clutter used to be money. organizing your email is like alphabetizing your recycling.
-- Income doesn’t make you rich. spending habits do.
-- buy supplies before you need them. gadgets after you need them. three is two. two is one. One is none.
-- Avoid clothing that’s more interesting than you are.
-- If you’re not trying to make money, what are you even doing?
-- You can never be over dressed or over educated.
-- Feel like a local celebrity: everybody knows who you are.
+- House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.  
+- I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
+- Simplicity is the ultimate sophistication.
+- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is my slave, not my master. I’m not choosing ignorance. I’m choosing to not watch wrestling.  
+- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. All that clutter used to be money. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self. Storage is a way of warehousing the past.
+- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
+- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
+- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
 
 > *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3." (...)  
 "For a great payoff, be especially curious about the things you are not interested in."  
@@ -631,6 +624,9 @@ Hints:
 
 > *"Hard work is simply the refuge of people that have nothing to do."  
 -- Oscar Wilde*
+
+> *"I drink to make other people more interesting."  
+-- Ernest Hemingway*
 
 > *"The happiest of all lives is a busy solitude."  
 -- Voltaire*
@@ -784,22 +780,13 @@ Wisdom is knowing the long-term consequences of your actions.
 ## On comedy
 
 <!--
-> *"Give me a museum and I’ll fill it."  
--- Pablo Picasso
-> *"I wrote the story myself. It’s about a girl who lost her reputation and never missed it."  
--- Mae West*
-
-“When you’re up to your nose in sh*t, keep your mouth shut.” -- Movie character Jack Beauregard, played by Henry Fonda
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 > *"The early bird may get the worm, but the second mouse gets the cheese.*
 > *"He who lives without folly is less wise than he believes.*
-- "the grass is always greener on the side that is fertilized with bulshit"
-- society: be yourself. Society: Not like that.
 > *"La que no es puta non desfruta."*
 > *"Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem."*
 > *"The four most expensive words in the English language: «This time is different»."  
 - which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
-- If i was your wife i would poison your coffee. if i was your husband i would drink it.
 -->
 
 > *"Only the truth is funny."  
@@ -825,9 +812,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 > *"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt."  
 -- Unknown*
 
-> *"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog.  
-What’s the man there for? His job is to feed the dog.  
-What’s the dog for? The dog keeps the man from touching any of the machines."  
+> *"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines."  
 -- Unknown*
 
 > *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
@@ -835,6 +820,22 @@ What’s the dog for? The dog keeps the man from touching any of the machines."
 
 > *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
 -- Naval Ravikant*
+
+> *"«If i was your wife i would poison your coffee».  
+«If i was your husband i would drink it.»"  
+-- Winston Churchill*
+
+> *"The grass is always greener on the side that is fertilized with bullshit."  
+-- Morgan Housel*
+
+> *"Society: Be yourself. Society: Not like that."  
+-- Unknown*
+
+> *"Give me a museum and I’ll fill it."  
+-- Pablo Picasso*
+
+> *"When you’re up to your nose in shit, keep your mouth shut."  
+-- Jack Beauregard (fictional)*
 
 ### Where is home?
 
@@ -863,18 +864,13 @@ What’s the dog for? The dog keeps the man from touching any of the machines."
 ---
 ## On humanness and irrationality
 
-<!--
-> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, "I’m laying bricks." *The second man replied, "I’m building a wall." But the third man said enthusiastically and with obvious pride, "I’m building a cathedral."*
--->
-
 > *"If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy."  
 -- Robert Heinlein*
 
 Most people approach each and every year in the exact same way while expecting drastically different results.
 
-> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."*
-
-> *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."*
+> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."
+-- Unknown*
 
 > *"The problem with people who have no vices is that generally you can be pretty sure they’re going to have some pretty annoying virtues."  
 -- Elizabeth Taylor*
@@ -894,6 +890,12 @@ Most people approach each and every year in the exact same way while expecting d
 > *"People aren’t either wicked or noble. They’re like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict."  
 -- Lemony Snicket*
 
+> *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."
+-- Unknown*
+
+> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
+-- Unknown*
+
 
 
 
@@ -902,97 +904,56 @@ Most people approach each and every year in the exact same way while expecting d
 ---
 ## On family and friends
 
-<!--
-- it’s ok to unfollow people in real life
-- People who genuinely want the best for you are very rare and tehy are usually already wealthy, loved and happy.
-- don’t let your loneliness tempt you to reconnect with toxic people. you wouldn’t drink poison just because you’re thirsty.
-- pay attention to who you’re with when you feel your best.
-- maintain old friendships
-- be suspicious of people who like being owed a favor. especially if it is not a favor you requested.
-- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.”
-- the way of man is the way of the gang
-- if you don’t have kids you’ll be the first organism of your direct ancestors to not reproduce since the beggining of life
-- if your absence doesn’t bother them, your presence never mattered.
--->
-
 > *"Your friends are the ones that go to your funeral in a day of rain."  
 -- Unknown*
 
 > *"True friendship can exist only between equals."  
 -- Plato*
 
-Life is meant to be lived in community. Cleave from your family but come back. You need to be independent and loyal at the same time.
+> *"If everybody loves you, something is wrong."  
+-- Paulo Coelho*
+
+Life is meant to be lived in community but don’t settle for a place where you’re tolerated. Go where you’re celebrated.
+
+Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.  
+
+> *"At your funeral people will not recall what you did; they will only remember how you made them feel."  
+-- Kevin Kelly*
 
 > *"When everything goes to hell, the people who stand by you without flinching, they are your family."  
 -- Jim Butcher*
 
-> *"Brothers love each other when they are equally rich."  
--- Unknown*
-
-> *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
--- Mark Twain*
+> *"It is easier to forgive an enemy than to forgive a friend."  
+-- William Blake*
 
 > *"To lose one parent may be regarded as a misfortune; to lose both looks like carelessness." (...)  
 "A bore is someone who deprives you of solitude without providing you company."  
 -- Oscar Wilde*
 
-> *"Our mothers always remain the strangest, craziest people we’ve ever met."  
--- Marguerite Duras*
-
-> *"At your funeral people will not recall what you did; they will only remember how you made them feel."  
--- Kevin Kelly*
-
 > *"I have nothing to offer anyone, except my own confusion."  
 -- Jack Kerouac*
-
-> *"I drink to make other people more interesting."  
--- Ernest Hemingway*
-
-> *"If raising children was less rewarding than not doing it, the human race would have gone extinct." (...)  
-"Either have children or become a saint, because eventually, you have to find something you love more than you love yourself." (...)  
-"Your family is broken but you’re going to fix the world."  
--- Naval Ravikant*
-
-> *"If everybody loves you, something is wrong."  
--- Paulo Coelho*
-
-### On friends
-
-> *"It is easier to forgive an enemy than to forgive a friend."  
--- William Blake*
-
-Don’t settle for a place where you’re tolerated. Go where you’re celebrated.
-
-Keep your friends for friendship, work with the skilled and competent. You will waste your life trying to make those around into who you want them to be. Resist the temptation of working with family and friends. Peers are peers, not boss and employee.
-
-> *"When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun»."  
--- Groucho Marx*
-
-> *"Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success."  
--- Oscar Wilde*
-
-> *"Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors."  
--- Balthasar Gracian*
 
 > *"Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
 "Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
 -- Kevin Kelly*
 
-### How to build your «board of directors»?
+### How to curate your friends?
 
-Curate somehow those who surround you: you are the average of them. If you’re always the smartest in the room, you’re in the wrong room. When you enter a workplace, think that you will become like them and not the opposite.
+You are the average of your friends.
 
-<!--
-“You only have one life experience. You can only see things one way. No matter how hard you try, you’ve only got one filter and one life experience by which to determine. But when you surround yourself with people that don’t have anything to gain or lose -- non-biased people -- they have different life experiences. They have different filters. They can say, ‘You know what? I’ve done that before and life teaches me this.’
--->
+If you’re always the smartest in the room, you’re in the wrong room. When you enter a workplace, think that you will become like them and not the opposite.
 
 Hints:
 
-- Surround yourself with people who are achieving on a higher level than you who are willing to call you out on your failures and lift you up for your successes. Once you build this infrastructure of support and accountability, your life will radically transform. If you spend the majority of your time in worlds where people are accomplishing incredible things, all of a sudden that starts to seem normal. I can maybe look foolish or silly in that group, but it protects me from looking silly and foolish out in the world.
-- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are.
+- If your absence doesn’t bother them, your presence never mattered.  
+- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are. People who genuinely want the best for you are very rare and they are usually already wealthy, loved and happy.  
+- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.  
 - Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
-we choose friends by proximity, not how do we feel around them, is him as invested in my well being than i am in his. focus in others people sucess but pick the right people.
 - You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
+- It’s ok to unfollow people in real life. Don’t let your loneliness tempt you to reconnect with toxic people. You wouldn’t drink poison just because you’re thirsty.  
+- Pay attention to who you’re with when you feel your best.  
+- Be suspicious of people who like being owed a favor. Especially if it is not a favor you requested.  
+- Maintain old friendships.   
 
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you." (...)  
 "Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you." (...)  
@@ -1002,8 +963,24 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 > *"Bad friends will prevent you from having good friends."  
 -- Unknown*
 
+> *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
+-- Mark Twain*
+
+> *"Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success."  
+-- Oscar Wilde*
+
+> *"When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun»."  
+-- Groucho Marx*
+
+> *"Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors."  
+-- Balthasar Gracian*
+
 > *"I don’t like that man. I must get to know him better."  
 -- Abraham Lincoln*
+
+> *"Brothers love each other when they are equally rich."  
+-- Unknown*
+
 
 
 
@@ -1013,12 +990,8 @@ we choose friends by proximity, not how do we feel around them, is him as invest
 ## On lovers
 
 <!--
-> *"Love is a flower, friendship a sheltering tree.*
-> *"A man may sometimes be forgiven the kiss to which he is not entitled, but never the kiss he has not the initiative to claim.*
-
 - psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
 - I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
-- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 -->
 
 > *"We accept the love we think we deserve."  
@@ -1034,77 +1007,82 @@ Hints:
 - We’re always looking for somebody that looks for us. First parents, then a lover. Screens give us 100% attention. Tech is a compensation.
 - Man’s loyalty is tested when he has everything. Woman’s loyalty is tested when her man has nothing.
 - Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
-- Relationships start with "can we talk" to "we need to talk". Once you start disliking someone, everything they do is irritating to you. A dirty dish by the sink can be a big marriage problem.
+- Relationships start with «can we talk» to «we need to talk». Once you start disliking someone, everything they do is irritating to you. A dirty dish by the sink can be a big marriage problem.
+- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 
-> *"Romance is the glamour which turns the dust of everyday life into a golden haze."  
--- Elinor Glyn*
-
-> *"Love me when I least deserve it, because that’s when I really need it."  
--- Unknown*
-
-> *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
--- Emilie Autumn*
+### Falling in love
 
 > *"The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them."  
 -- Charles Bukowski*
 
-> *"The highest function of love is that it makes the loved one a unique and irreplaceable being."  
--- Tom Robbins*
+> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
+-- Ronald Colman*
 
-> *"You can’t buy a real kiss." (...)  
-"True, unconditional love is the province of parents and saints." (...)  
-"The measure of love is peace."  
--- Naval Ravikant*
-
-> *"That’s what careless words do. They make people love you a little less."  
--- Arundhati Roy*
+> *"The first sign of love: for men is timidity, in women it is courage."  
+-- Voltaire*
 
 > *"You haven’t been in love, if you haven’t let it ruin your life."  
 -- Sarah Hildebrand*
 
 > *"Real love doesn’t meet you at your best. It meets you in your mess."  
--- J. S. Park*
+-- J.S. Park*
 
-> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
--- Gaius Lucilius*
+> *"Unless you love someone, nothing else makes any sense."  
+-- E.E. Cummings*
 
-> *"You must love in such a way that the person you love feels free."  
--- Thich Nhat Hanh*
+> *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
+-- Joyce Benenson*
 
-> *"The very essence of romance is uncertainty."  
--- Oscar Wilde*
+### On love
 
-> *"The first sign of love: for men is timidity, in women it is courage."  
--- Voltaire*
-
-> *"What is love? Love is the absence of judgement."  
+> *"Love is the absence of judgement."  
 -- Dalai Lama*
 
 > *"Love is the triumph of imagination over intelligence."  
 -- H.L. Mencken*
 
-> *"Unless you love someone, nothing else makes any sense."  
--- E.E. Cummings*
+> *"Love is a flower, friendship a sheltering tree."  
+-- Samuel Taylor Coleridge*
 
-> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
--- Ronald Colman*
+> *"The highest function of love is that it makes the loved one a unique and irreplaceable being."  
+-- Tom Robbins*
 
-> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
--- Charles De Talleyrand-Perigord*
+> *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
+-- Emilie Autumn*
 
-> *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
--- Joyce Benenson*
+> *"The measure of love is peace." (...)  
+"You can’t buy a real kiss."  
+-- Naval Ravikant*
+
+### On romance
+
+> *"Romance is the glamour which turns the dust of everyday life into a golden haze."  
+-- Elinor Glyn*
+
+> *"The very essence of romance is uncertainty."  
+-- Oscar Wilde*
+
+### Falling out of love
+
+> *"The love that lasts the longest is the love that is never returned."  
+-- W. Somerset Maugham*
 
 First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
+
+> *"That’s what careless words do. They make people love you a little less."  
+-- Arundhati Roy*
+
+> *"You must love in such a way that the person you love feels free."  
+-- Thich Nhat Hanh*
 
 > *"Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever."  
 -- Nicholas Sparks*
 
+> *"True, unconditional love is the province of parents and saints."  
+-- Naval Ravikant*
+
 > *"Men experience many passions in a lifetime. One passion drives away the one before it."  
 -- Paul Newman*
-
-> *"The love that lasts the longest is the love that is never returned"  
--- W. Somerset Maugham*
 
 
 
@@ -1781,6 +1759,12 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 -- Virginia Woolf*
 
 > *"A suit to women is like lingerie to men."*
+
+> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
+-- Charles De Talleyrand-Perigord*
+
+> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
+-- Gaius Lucilius*
 
 
 

@@ -571,6 +571,7 @@ You should be a mentor yourself. Be generous and share your strengths. Impact th
 ### How to mentor your kids?
 
 <!--
+- If you don’t have kids you’ll be the first organism of your direct ancestors to not reproduce since the beggining of life. 
 - we are raising weak men and girls who need validation because their father wasn’t there.
 - teenagers = treated like children but expected to act like adults
 - the letter i wrote my kids after they born: you might think you want an expensive car, fancy watch and a huge car. but i’m telling you, you don’t. what you want is respect and admiration from other people and you think having expensive stuff will bring it. it almost nver does especially from the people you want it.
@@ -687,6 +688,10 @@ Hints:
 "When a child asks an endless string of «why?» questions, the smartest reply is, «I don’t know, what do you think?»" (...)  
 "To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave."  
 -- Kevin Kelly*
+
+> *"If raising children was less rewarding than not doing it, the human race would have gone extinct." (...)  
+"Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."  
+-- Naval Ravikant*
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
 
