@@ -43,7 +43,7 @@ Life becomes easy when you recognize the recurring patterns.
 
 You are your memory.
 
-However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don't be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
+However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don’t be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
 
 > *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist." (...)  
 "Changing your interpretation of your past is often just as good as changing your past."  
@@ -115,7 +115,7 @@ You will die soon.
 
 Act accordingly and don’t postpone joy. Live life like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find it anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment.
 
-The elderly and dying invariably regret what they didn't do, not what they did.
+The elderly and dying invariably regret what they didn’t do, not what they did.
 
 > *"Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today."  
 -- James T. McKay*
@@ -154,7 +154,7 @@ The elderly and dying invariably regret what they didn't do, not what they did.
 
 Dream big.
 
-An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don't frighten you, they are not big enough.
+An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don’t frighten you, they are not big enough.
 
 > *"Rich people think big. Poor people think small."  
 -- T. Harv Eker*
@@ -236,7 +236,7 @@ Aging implies wear and tear, often seen as a high price to pay for maturity.
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
 -- Kevin Kelly*
 
-The advantage of aging is that you become more decisive. Maturing is realizing that many things don't need your comments.
+The advantage of aging is that you become more decisive. Maturing is realizing that many things don’t need your comments.
 
 > *"We mature with the damage, not with the years."  
 -- Mateus William*
@@ -380,7 +380,7 @@ Being rich is being fulfilled.
 
 ### On money
 
-Money is a tool; it can be a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn't purchase happiness; it buys freedom.
+Money is a tool; it can be a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
 
 > *"A problem that can be solved with money is not really a problem."  
 -- Kevin Kelly*
@@ -408,13 +408,13 @@ Money is a tool; it can be a force multiplier to help you live the life of your 
 Making money is not about luck. 
 
 - Learn to sell. Learn to build. If you can do both, you will be unstoppable.  
-- Equip yourself with specialized knowledge, accountability, and leverage. Specialized knowledge is what you learn uniquely, not through standard education. If society can teach it to you, it can teach it to others, making you replaceable. You acquire specialized knowledge by following your genuine interests, not just current trends. While you might find it enjoyable, others may see it as hard work. This kind of knowledge is usually passed on through apprenticeships, not traditional schooling. It often involves technical or creative expertise that's difficult to outsource or automate.  
+- Equip yourself with specialized knowledge, accountability, and leverage. Specialized knowledge is what you learn uniquely, not through standard education. If society can teach it to you, it can teach it to others, making you replaceable. You acquire specialized knowledge by following your genuine interests, not just current trends. While you might find it enjoyable, others may see it as hard work. This kind of knowledge is usually passed on through apprenticeships, not traditional schooling. It often involves technical or creative expertise that’s difficult to outsource or automate.  
 - Embrace responsability and take business risks under your own name. In exchange, society might grant you more duties, ownership, and influence. The most accountable people usually have unique, public, and bold personal brands, like Oprah, Trump, Kanye, and Elon. 
 - Select partners with intelligence, energy, and, above all, integrity. Stay away from cynics and pessimists, as their negative beliefs can become self-fulfilling prophecies.
-- To become wealthy, offer what society wants but can't access easily, and do it at a large scale. Pick an industry for long-term projects with similar-minded people. The internet has opened up diverse career options, yet many haven't realized this. Focus on persistent efforts. In life, the most substantial gains come from building on past progress. Money is a tool for trading experiences. Create valuable experiences to build your wealth. 
-- Prioritize building wealth instead of chasing money or status. Wealth involves owning assets that generate income without constant effort. Understand that it's possible to create wealth ethically. Don't pay attention to those who focus on status games; they often gain status by criticizing wealth builders. Money is a sensitive topic as many tie their self-worth and identity to their jobs and earnings, reflecting their skills and competence in the market.  
-- You won't achieve significant wealth by simply trading your time for money. To attain financial freedom, you must have ownership or equity in a business or venture.
-- When you eventually attain wealth, you will realize that it wasn't your primary pursuit in the first place.
+- To become wealthy, offer what society wants but can’t access easily, and do it at a large scale. Pick an industry for long-term projects with similar-minded people. The internet has opened up diverse career options, yet many haven’t realized this. Focus on persistent efforts. In life, the most substantial gains come from building on past progress. Money is a tool for trading experiences. Create valuable experiences to build your wealth. 
+- Prioritize building wealth instead of chasing money or status. Wealth involves owning assets that generate income without constant effort. Understand that it’s possible to create wealth ethically. Don’t pay attention to those who focus on status games; they often gain status by criticizing wealth builders. Money is a sensitive topic as many tie their self-worth and identity to their jobs and earnings, reflecting their skills and competence in the market.  
+- You won’t achieve significant wealth by simply trading your time for money. To attain financial freedom, you must have ownership or equity in a business or venture.
+- When you eventually attain wealth, you will realize that it wasn’t your primary pursuit in the first place.
 
 > *"You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life."  
 -- Peter Mallouk*
@@ -1270,7 +1270,7 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 > *"Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought."  
 -- Albert Szent-Gyorgyi*
 
-> *"The most exciting phrase to hear in science is not ’Eureka!’ but ’That’s funny..."  
+> *"The most exciting phrase to hear in science is not «Eureka!» but «That’s funny...»"  
 -- Isaac Asimov*
 
 > *"The imagination of nature is far, far greater than the imagination of man."  
@@ -1303,14 +1303,10 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 ---
 ## On art
 
-<!--
-- creators don’t separate from their work, because they are their work.
--->
-
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth*
 
-Art is a meditation and design is a negotiation. Art is just another form of screaming, it should confort thedisturbed and disturb the confortable. Life imitates art.
+Art is a meditation and design is a negotiation. Art is just another form of screaming, it should confort thedisturbed and disturb the confortable. Life imitates art. Creators don’t separate from their work, because they are their work.
 
 Artistic death is made by consensus.
 
@@ -1399,8 +1395,6 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
-"No one can predict macro." -- naval  
-
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
 - Modern slaves are not chains, they are in debt.
 - you’re spending time to save money when you should be spending money to save time.
@@ -1448,6 +1442,7 @@ Hints:
 "I only believe in micro. I don’t believe in macro." (...)  
 "A great reason to buy instead of renting is that you get to fire your landlord." (...)  
 "The larger the herd, the lower the returns." (...)  
+"No one can predict macro." (...)  
 "All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
 -- Naval Ravikant*
 
@@ -1514,7 +1509,7 @@ A college education may help you make a living. Self-education may make you a fo
 > *"Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing."  
 -- Isaac Asimov*
 
-> *"«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase “Safety net”?
+> *"«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase «Safety net»?
 Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up."  
 -- James Altucher*
 
@@ -1611,8 +1606,6 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 ## On writing
 
 <!--
-> *"Eloquence is logic on fire.*
-
 - o poeta faz a sintese das coisas
 -->
 
@@ -1749,6 +1742,9 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.  
 
+> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
+-- Gaius Lucilius*
+
 > *"The classical definition of a gentleman: he never insulted anyone unintentionally."  
 -- James Crow*
 
@@ -1758,13 +1754,11 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 > *"Why are women so much more interesting to men than men are to women?"  
 -- Virginia Woolf*
 
-> *"A suit to women is like lingerie to men."*
+> *"A suit to women is like lingerie to men."  
+-- Unknown*
 
 > *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
 -- Charles De Talleyrand-Perigord*
-
-> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
--- Gaius Lucilius*
 
 
 

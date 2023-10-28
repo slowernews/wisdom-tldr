@@ -197,15 +197,40 @@ Be impeccable with your word. Take responsibility. Trust, not money, is the curr
 
 
 ---
-## On gratitude
+## On humility
 
-<!--
-- Modesty, n.: Being comfortable that others will discover your greatness.
--->
-
-> *"The higher we are placed, the more humbly we should walk." (...)  
-"Gratitude is not only the greatest of virtues, but the parent of all the others."  
+> *"The higher we are placed, the more humbly we should walk."  
 -- Cicero*
+
+Modesty means being comfortable that others will discover your greatness.
+
+Ego is the unhealthy belief in our own importance. You are not perfect, and you’ll never be. Success means nothing in life; it’s forgotten in one generation, two at best. On the other hand, your emotional health lives on for hundreds of generations in the lives of everyone you touch and their descendants.
+
+One way to humble yourself is to place yourself in the position of being the weakest person in something during the day.
+
+> *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
+-- Ernest Hemingway*
+
+> *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
+-- Naval Ravikant*
+
+### On respect
+
+> *"Everyone you will ever meet knows something you don’t."  
+-- Bill Nye*
+
+You might think you want a fancy car or a nice watch but what you probably want is respect and admiration from your peers.
+
+> *"Promptness is a sign of respect."  
+-- Kevin Kelly*
+
+> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn’t know it."  
+-- Paulo Coelho*
+
+> *"You will earn the respect of all if you begin earning the respect of yourself."  
+-- Rufus*
+
+### On gratitude
 
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  
 -- Oprah Winfrey*
@@ -214,10 +239,16 @@ You opened two gifts this morning: your eyes.
 
 Being grateful is looking up. Play the cards you are dealt. And sometimes you will be dealt bad cards.
 
+Don’t forget that a group of people blazed the trail we’re enjoying, and another group continues to maintain it.
+
+> *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
+-- Cicero*
+
 > *"Dead people receive more flowers than the living ones because regret is stronger than gratitude."  
 -- Anne Frank*
 
-> *"When you are grateful, fear disappears and abundance appears." (...) ’You can’t be grateful and angry simultaneously."  
+> *"When you are grateful, fear disappears and abundance appears." (...)  
+"You can’t be grateful and angry simultaneously."  
 -- Anthony Robbins*
 
 > *"Comparison is the thief of joy."  
@@ -239,40 +270,6 @@ Being grateful is looking up. Play the cards you are dealt. And sometimes you wi
 "When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
 
-
-
-
-
-
----
-## On respect
-
-<!--
-> *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
--- Naval Ravikant*
-
-- you might think you want a fancy car or a nice watch. but what you probably want is respect and admiration- the psychology of money
--->
-
-> *"Everyone you will ever meet knows something you don’t."  
--- Bill Nye*
-
-Don't forget that a group of people blazed the trail we're enjoying, and another group continues to maintain it.
-
-Ego is the unhealthy belief in our own importance. You are not perfect, and you'll never be. Success means nothing in life; it's forgotten in one generation, two at best. On the other hand, your emotional health lives on for hundreds of generations in the lives of everyone you touch and their descendants.
-
-> *"Promptness is a sign of respect."  
--- Kevin Kelly*
-
-> *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
--- Ernest Hemingway*
-
-> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn’t know it."  
--- Paulo Coelho*
-
-> *"You will earn the respect of all if you begin earning the respect of yourself."  
--- Rufus*
-
 ### How to apologise?
 
 Quickly, specifically, sincerely.
@@ -280,9 +277,6 @@ Quickly, specifically, sincerely.
 > *"It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request."  
 -- Kevin Kelly*
 
-### How to humble yourself?
-
-One way to humble yourself is to place yourself in the position of being the weakest person in something during the day.
 
 
 
@@ -358,7 +352,7 @@ Hints:
 
 You can choose courage or comfort, but you can’t choose both.
 
-The size of your life is directly proportional to how much discomfort you are willing to endure. You keep doing what you're good at to avoid confronting the real problems in your life. Breaking rules can be frightening, but comfort is the enemy of achievement. You'll never achieve what you want in life without taking risks. Prioritizing risk over safety is the path to progress. If you act average, you'll remain average. To outperform, you must be both different and correct.
+The size of your life is directly proportional to how much discomfort you are willing to endure. You keep doing what you’re good at to avoid confronting the real problems in your life. Breaking rules can be frightening, but comfort is the enemy of achievement. You’ll never achieve what you want in life without taking risks. Prioritizing risk over safety is the path to progress. If you act average, you’ll remain average. To outperform, you must be both different and correct.
 
 Hints:
 
@@ -366,9 +360,9 @@ Hints:
 - Repeating close variations on your usual theme unlocks far more value than you’d expect given minimal novelty value is a surprising result.  
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.  
 - Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, spend a week alone in nature. Being uncomfortable should be "play" for you. Find comfort in discomfort.  
-- Being risk-prone is better than being risk-averse, but don't allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is NOT about experiencing pain.  
+- Being risk-prone is better than being risk-averse, but don’t allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is NOT about experiencing pain.  
 - Leap while you’re at the top of the curve, and the next curve builds on the momentum.  
-- This isn't just a success strategy; it's a well-being strategy. The risk of not changing is often greater than the risk of changing.  
+- This isn’t just a success strategy; it’s a well-being strategy. The risk of not changing is often greater than the risk of changing.  
 - Stability without stagnation.
 
 > *"Do one thing that scares you everyday."  
@@ -443,7 +437,7 @@ It involves the accumulation of experience, the analysis of past situations, del
 Hints:
 
 - Listen to someone explaining challenging techniques, and then attempt to follow their advice. Seek feedback as it accelerates learning.
-- If it's easy, you're not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That's when real learning occurs.
+- If it’s easy, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That’s when real learning occurs.
 - Reflect on your mistakes; try to identify the cues you missed and what to look for next time.
 - Repeat.
 
@@ -563,7 +557,7 @@ Hints:
 > *"Fools say that they learn by experience, I prefer to profit by others’ experience."  
 -- Otto von Bismarck*
 
-Practice makes perfect but doesn't necessarily bring something new. Innovation comes from having a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures; it will help you let go.
+Practice makes perfect but doesn’t necessarily bring something new. Innovation comes from having a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures; it will help you let go.
 
 > *"You can only connect the dots looking back, not looking forward."  
 -- Unknown*
@@ -574,7 +568,7 @@ Practice makes perfect but doesn't necessarily bring something new. Innovation c
 
 > *"Knowledge without action is useless. «Pathological learners» who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it."*
 
-Action, not knowledge, leads to success. If you are not consistently applying the new information you're learning, then it's merely educational porn.
+Action, not knowledge, leads to success. If you are not consistently applying the new information you’re learning, then it’s merely educational porn.
 
 > *"Seek knowledge. Knowledge and courage are the elements of greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile."  
 -- Balthasar Gracian*
@@ -629,7 +623,7 @@ True experts recognize the limits of what they know and what they do not know.
 
 There’s always room for improvement; be humble. There is no place for a «prima donna».
 
-If you're not improving today, you're regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
+If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
 
 > *"I am not young enough to know everything."  
 -- Oscar Wilde*
@@ -694,71 +688,14 @@ We tend to abandon the good system we’ll follow in search of the perfect syste
 Hints:
 
 - Try to break a bad habit and form a good one every 6 months. (Naval Ravikant)
-- Avoid low-leverage habits: news (unnecessary stress and negative bias), pointless notifications, social media (use it for output, not entertainment; other people's stories are more interesting when you don't know what's going on), smartphones (should not be the first thing you see in the morning or the last thing at night), owning a TV, overworking, unhealthy relationships, judgment, micromanagement, perfectionism, virtue signaling.
+- Avoid low-leverage habits: news (unnecessary stress and negative bias), pointless notifications, social media (use it for output, not entertainment; other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning or the last thing at night), owning a TV, overworking, unhealthy relationships, judgment, micromanagement, perfectionism, virtue signaling.
 - Cultivate high-leverage habits: develop useful skills, exercise, rest, meditate, travel, read, journal, enjoy music, create, network, make friends, spend time outdoors with friends and family, indulge in massages, practice gratitude, forgive, prioritize self-awareness, plan, eat mindfully, focus, do less, prioritize sleep and naps, smile, and embrace colors.
 - Small steps are more likely to lead to success. For example, if you find resistance to meditating for 15 minutes, try starting with just five minutes.
 - Anticipate obstacles to new habits.
 - Get accountable by making an agreement with someone that includes financial penalties for habits that are bad for you.
 - Reward yourself to reinforce new habits.
-- Don't strive for perfection. Having a few vices makes life more interesting.
+- Don’t strive for perfection. Having a few vices makes life more interesting.
 - Pay attention, correct your course and don’t judge.
-
-
-
-
-
----
-## On self awareness
-
-<!--
-> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
-> *"Conscience is what hurts when everything else feels so good.*
-> *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
-
-- you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
--->
-
-> *"No persons are more frequently wrong, than those who will not admit they are wrong."  
--- François de La Rochefoucauld*
-
-Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
-
-> *"The best mirror is an old friend."  
--- George Herbert*
-
-> *"Weeds are flowers too, once you get to know them."  
--- A.A. Milne*
-
-> *"The things we see every day are the things we never see at all."  
--- G.K. Chesterton*
-
-> *"Conscience is the inner voice that warns us somebody may be looking."  
--- H.L. Mencken*
-
-> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
--- Marcus Aurelius*
-
-### How to grow self awareness?
-
-> *"People who can’t laugh at themselves will always be outwitted by people who can."  
--- T.K. Coleman*
-
-Hints:
-
-- Do you know anyone who doesn’t have any blind spots? So why would you be different?  
-- Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen to the other person’s views, you might be biased.
-- Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
-
-> *"The best meditation is being curious about the contents of your own mind." (...)  
-"Meditation is a good way to measure where you are." (...)  
-"A fit mind is a clear mind." (...)  
-"You are a story you tell yourself." (...)  
-"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body." (...)  
-"Self-awareness is the most attractive trait."  
--- Naval Ravikant*
-
-> *"If you correct your mind, the rest of your life will fall into place."  
--- Lao Tzu*
 
 
 
@@ -857,7 +794,7 @@ If you are at peace you are living in the present."
 Depression and anxiety are symptoms of under-stimulation and over-stimulation, not diseases:
 
 - Depression (under-stimulation) can be viewed as a lack of self-expression. It may arise when one feels powerless or dominated, leading to chronic stress as a way to stimulate oneself.
-- Anxiety (over-stimulation) manifests as hypersensitivity and can be linked to our evolutionary need for control. Anxiety isn't productive planning; it's a continuous state of apprehension over various scenarios. Worrying about the unknown is unproductive; we have limited control and primarily influence rather than dictate outcomes. Stress often results from excessive concern, and worrying is a misuse of the imagination. The past exists only in your thoughts; what truly matters is the present and the future.
+- Anxiety (over-stimulation) manifests as hypersensitivity and can be linked to our evolutionary need for control. Anxiety isn’t productive planning; it’s a continuous state of apprehension over various scenarios. Worrying about the unknown is unproductive; we have limited control and primarily influence rather than dictate outcomes. Stress often results from excessive concern, and worrying is a misuse of the imagination. The past exists only in your thoughts; what truly matters is the present and the future.
 
 > *"Boredom is a soul sucker. The unfed mind devours itself."  
 -- Gore Vidal*
@@ -882,8 +819,8 @@ Hustling (the right amount of stimulation) involves consistently stretching your
 
 Hints:
 
-- The best antidepressant is knowing that we matter to others. People don't die from suicide; they die from sadness.
-- Exercise: burn extra calories to reduce the need for control. When you're feeling stressed out, take a moment to breathe. Remember that body language affects your psychology, mood, and even hormonal balance. People tend to be naturally happier when they're kept busy.
+- The best antidepressant is knowing that we matter to others. People don’t die from suicide; they die from sadness.
+- Exercise: burn extra calories to reduce the need for control. When you’re feeling stressed out, take a moment to breathe. Remember that body language affects your psychology, mood, and even hormonal balance. People tend to be naturally happier when they’re kept busy.
 - Diet is also relevant: *debug* your body as much as you can.
 
 > *"If you want to lift yourself up, lift up someone else."  
@@ -908,7 +845,7 @@ Hints:
 - the hardest prison to escape is in your own mind.
 - What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 - all excuses are false.
-- Viewing life through fear's lens keeps you in retreat mode, but embracing responsibility over blame leads to your best years and saves energy.
+- Viewing life through fear’s lens keeps you in retreat mode, but embracing responsibility over blame leads to your best years and saves energy.
 -->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
@@ -916,7 +853,7 @@ Hints:
 
 Fear is paralyzing.
 
-When you view everything through the lens of fear, you're more likely to remain in retreat mode. Anger and excuses often mask underlying fears. Remember that all excuses can be challenged. The best years of your life are the ones in which you take ownership of your problems rather than blaming them on your family, the environment, or the president. Living in reality requires less energy than cultivating a victim mentality. Escaping reality drains your energy.
+When you view everything through the lens of fear, you’re more likely to remain in retreat mode. Anger and excuses often mask underlying fears. Remember that all excuses can be challenged. The best years of your life are the ones in which you take ownership of your problems rather than blaming them on your family, the environment, or the president. Living in reality requires less energy than cultivating a victim mentality. Escaping reality drains your energy.
 
 > *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
 -- Paulo Coelho*
@@ -1342,6 +1279,65 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 > *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative." (...)  
 "To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  
 -- Naval Ravikant*
+
+
+
+
+
+
+---
+## On self awareness
+
+<!--
+> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
+> *"Conscience is what hurts when everything else feels so good.*
+> *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
+
+- you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
+-->
+
+> *"No persons are more frequently wrong, than those who will not admit they are wrong."  
+-- François de La Rochefoucauld*
+
+Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
+
+> *"The best mirror is an old friend."  
+-- George Herbert*
+
+> *"Weeds are flowers too, once you get to know them."  
+-- A.A. Milne*
+
+> *"The things we see every day are the things we never see at all."  
+-- G.K. Chesterton*
+
+> *"Conscience is the inner voice that warns us somebody may be looking."  
+-- H.L. Mencken*
+
+> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
+-- Marcus Aurelius*
+
+### How to grow self awareness?
+
+> *"People who can’t laugh at themselves will always be outwitted by people who can."  
+-- T.K. Coleman*
+
+Hints:
+
+- Do you know anyone who doesn’t have any blind spots? So why would you be different?  
+- Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen to the other person’s views, you might be biased.
+- Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
+
+> *"The best meditation is being curious about the contents of your own mind." (...)  
+"Meditation is a good way to measure where you are." (...)  
+"A fit mind is a clear mind." (...)  
+"You are a story you tell yourself." (...)  
+"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body." (...)  
+"Self-awareness is the most attractive trait."  
+-- Naval Ravikant*
+
+> *"If you correct your mind, the rest of your life will fall into place."  
+-- Lao Tzu*
+
 
 
 

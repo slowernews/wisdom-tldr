@@ -24,8 +24,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On autonomy](/chapters/chapter_1_self.md#on-autonomy)
 - [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
 - [On accountability](/chapters/chapter_1_self.md#on-accountability)
-- [On gratitude](/chapters/chapter_1_self.md#on-gratitude)
-- [On respect](/chapters/chapter_1_self.md#on-respect)
+- [On humility](/chapters/chapter_1_self.md#on-humility)
 - [On agency](/chapters/chapter_1_self.md#on-agency)
 - [On resilience](/chapters/chapter_1_self.md#on-resilience)
 
@@ -34,7 +33,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On improving](/chapters/chapter_1_self.md#on-improving)
 - [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
-- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
@@ -44,6 +42,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
 - [On jealousy](/chapters/chapter_1_self.md#on-jealousy)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
+- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 
 
@@ -155,12 +154,13 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## TLDR
 
-> *"Fuck, don"t give a fuck and don"t be fucked over."*
+> *"Fuck, don’t give a fuck and don’t be fucked over."
+-- Unknown*
 
 Eight general advices:
 
-> *"Life is a balancing act."
--- Anonymous*
+> *"Life is a balancing act."  
+-- Unknown*
 
 > *"The root of our problems is our inability to let go."  
 -- Leo Babauta*
@@ -175,10 +175,10 @@ Eight general advices:
 -- Derek Sivers*
 
 > *"The empire long divided, must unite; long united, must divide."  
--- Anonymous*
+-- Unknown*
 
-> *"After me will come the one who will prove that I wasn't that bad."  
--- Anonymous*
+> *"After me will come the one who will prove that I wasn’t that bad."  
+-- Unknown*
 
 > *"A prophet has no honour in his own country."  
 -- Bible (John 4: 44)*

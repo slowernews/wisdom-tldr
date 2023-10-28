@@ -79,6 +79,9 @@ Good stories condense a massive amount of details into a consumable and shareabl
 
 ### On public speaking
 
+> *"Eloquence is logic on fire."  
+-- Lyman Beecher*
+
 > *"The secret to public speaking is to speak as if you were alone."  
 -- Naval Ravikant*
 

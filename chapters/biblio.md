@@ -58,6 +58,7 @@
 - [1769] BONAPARTE, Napoleon (fr)
 - [1772] COLERIDGE, Samuel Taylor (uk)
 - [1775] AUSTEN, Jane (uk)
+- [1775] BEECHER, Lyman (us)
 - [1788] SCHOPENHAUER, Arthur (de)
 - [1790] SMITH, Adam (uk)
 - [1803] BULWER-LYTTON, Edward (uk)
