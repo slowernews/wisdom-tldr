@@ -1338,6 +1338,9 @@ Hints:
 > *"If you correct your mind, the rest of your life will fall into place."  
 -- Lao Tzu*
 
+> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have."  
+-- Kevin Kelly*
+
 
 
 

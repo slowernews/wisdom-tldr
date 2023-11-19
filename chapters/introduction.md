@@ -11,18 +11,15 @@
 > *"You are what you do, not what you say you’ll do."  
 -- Carl Jung*
 
-> *"All men die, but not every man lives."  
--- William Wallace*
-
-You often feel tired, not because you have done too much but because you have done too little of what sparks a light in you. There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. To be real you need to be vulnerable.
-
-Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
+> *"You are the combination of your habits and the people who spend the most time with."  
+-- Naval Ravikant*
 
 > *"Do you want to know who you are? Don’t ask. Act! Action will delineate and define you."  
 -- Thomas Jefferson*
 
-> *"You are the combination of your habits and the people who spend the most time with."  
--- Naval Ravikant*
+You often feel tired, not because you have done too much but because you have done too little of what sparks a light in you. There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own soul. To be real you need to be vulnerable.
+
+Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
 
 > *"How we spend our days is how we spend our lives."  
 -- Annie Dillard*
@@ -36,6 +33,9 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 > *"It is better to be hated for what you are than to be loved for what you are not."  
 -- André Gide*
 
+> *"All men die, but not every man lives."  
+-- William Wallace*
+
 ### How to come alive?
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
@@ -44,13 +44,12 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 > *"Action expresses priorities."  
 -- Mahatma Ghandi*
 
-You must make the conscious decision that you are going to change your story. No matter where you are in your life, you have the power to change everything in an instant.
+No matter where you are in your life, you have the power to change everything in an instant. But you must make that decision. Most won't.
+
+The ultimate question: Do you want you son/daughter to date someone like you?
 
 > *"Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive."  
 -- Howard Thurman*
-
-> *"What the superior man seeks is in himself; what the small man seeks is in others."  
--- Confucius*
 
 > *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."  
 -- Warren Buffett*
@@ -58,14 +57,14 @@ You must make the conscious decision that you are going to change your story. No
 > *"Whatever you are, be a good one."  
 -- Abraham Lincoln*
 
-> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have."  
--- Kevin Kelly*
-
 > *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
 -- E.E. Cummings*
 
 > *"You become what you think about all day long."  
 -- Ralph Waldo Emerson*
+
+> *"What the superior man seeks is in himself; what the small man seeks is in others."  
+-- Confucius*
 
 
 
@@ -93,7 +92,9 @@ You must make the conscious decision that you are going to change your story. No
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
 
-Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. The path will be revealed as you start walking.
+The path will be revealed as you start walking.
+
+Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. 
 
 > *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."  
 -- E.B. White*
@@ -121,14 +122,16 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 ### How to design a life?
 
-> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
--- Abraham Maslow*
+Stop looking for happiness in the same place where you lost it.
 
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."  
 -- Jordan Peterson*
 
-> *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
--- Rudyard Kipling*
+> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
+-- Abraham Maslow*
+
+> *"Take advantage of the opportunities - that’s probably more important than charting your path."  
+-- Admiral William Mcraven*
 
 Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
 
@@ -142,21 +145,14 @@ Hints:
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso*
 
-> *"You are given the gift of life in order to discover what your gift «in» life is. You will complete your mission when you figure out what your mission is. This is not a paradox. This is the way." (...)  
-"That thing that made you weird as a kid could you make great as an adult — if you don’t lose it."  
--- Kevin Kelly*
+> *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
+-- Rudyard Kipling*
 
 > *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"
 -- Maya Angelou*
 
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland*
-
-> *"Take advantage of the opportunities - that’s probably more important than charting your path."  
--- Admiral William Mcraven*
-
-> *"We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change."  
--- Derek Sivers*
 
 > *"I can think, I can wait and I can fast."  
 -- Siddahrta*
@@ -167,9 +163,6 @@ Hints:
 > *"The obstacle is the way."  
 -- Marcus Aurelius*
 
-> *"If you are going through hell, keep going."  
--- Winston Churchill*
-
 > *"The best way out is always through."  
 -- Robert Frost*
 
@@ -179,14 +172,17 @@ Hints:
 > *"A person often meets his destiny on the road he took to avoid it."  
 -- Jean de La Fontaine*
 
-> *"The question is not who is going to let me; it’s who is going to stop me."  
--- Ayn Rand*
+> *"You meet your destiny on the road you take to avoid it."  
+-- Carl Jung*
 
 > *"You can, you should, and if you’re brave enough to start, you will."  
 -- Stephen King*
 
 > *"Don’t argue your path with other people. Walk it."  
 -- Lazy Yogi*
+
+> *"The question is not who is going to let me; it’s who is going to stop me."  
+-- Ayn Rand*
 
 > *"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."  
 -- Friedrich Nietzsche*
@@ -195,8 +191,8 @@ Hints:
 "Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."  
 -- Kevin Kelly*
 
-> *"You meet your destiny on the road you take to avoid it."  
--- Carl Jung*
+> *"We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change."  
+-- Derek Sivers*
 
 
 
@@ -236,19 +232,13 @@ Happiness is a mind state where nothing is missing.
 > *"Happiness in intelligent people is the rarest thing I know."  
 -- Ernest Hemingway*
 
+### How to improve your happiness?
+
 > *"Stop looking for happiness in the same place where you lost it."  
 -- Unknown*
 
-> *"Almost nothing material is needed for a happy life, for he who has understood existence."  
--- Marcus Aurelius*
-
-### How to improve your happiness?
-
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli*
-
-> *"Many people lose the small joys in the hope for the big happiness."  
--- Pearl S. Buck*
 
 > *"The rise is always better than the peak."  
 -- Jim Jefferies*
@@ -256,11 +246,18 @@ Happiness is a mind state where nothing is missing.
 > *"The minute you’re satisfied with where you are, you aren’t there anymore."  
 -- Tony Gwynn*
 
-> *"The happiness of your life depends upon the quality of your thoughts."  
+> *"Many people lose the small joys in the hope for the big happiness."  
+-- Pearl S. Buck*
+
+> *"The happiness of your life depends upon the quality of your thoughts." (...)  
+"Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius*
 
 > *"One of the keys to happiness is a bad memory."  
 -- Rita Mae Brown*
+
+> *"Happy is he who learns to bear what he cannot change."  
+-- Friedrich Schiller*
 
 > *"Happiness is your default state when you remove everything." (...)  
 "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned." (...)  
@@ -269,9 +266,6 @@ Happiness is a mind state where nothing is missing.
 
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
 -- Robert A. Heinlein*
-
-> *"Happy is he who learns to bear what he cannot change."  
--- Friedrich Schiller*
 
 ### How to improve somebody else happiness?
 

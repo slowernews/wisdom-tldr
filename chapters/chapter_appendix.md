@@ -1396,15 +1396,14 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 <!--
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
-- Modern slaves are not chains, they are in debt.
-- you’re spending time to save money when you should be spending money to save time.
-- inflatios = printing money.
+- Modern slaves are not chains, they are debt. today, people with moderate incomes, are forced to speculate or live in poverty.
+- you’re spending time to save money when you should be spending money to save time
+- inflation = printing money.
 - Stock buybacks are effectively same as dividends.
 - entrepreneurship vs investment - 2 different mentalities.
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
-- analise fundamental e técnica no poker como nas accoes. spectrum entre dois opostos. Crashes are typical of complex systems.
-- today, people with moderate incomes, are forced to speculate or live in poverty.
-- good investors don’t sell investment advice not talk about their returns.
+- analise fundamental e técnica no poker como nas accoes. Crashes are typical of complex systems.
+- good investors don’t sell investment advice and not talk about their returns.
 -->
 
 > *"I succeeded because I have a long attention span. (...)  
@@ -1436,27 +1435,27 @@ Hints:
 -- Kevin Kelly*
 
 > *"The best investments are «buy and forget.»" (...)  
-"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer." (...)  
 "The Memorial Day we remember our unrealized gains." (...)  
 "The two biggest investing mistakes are panic buying and panic selling." (...)  
+"Markets do find truth - first by moving up to the last FOMO buyer, then by moving down to the first HODLer." (...)  
 "I only believe in micro. I don’t believe in macro." (...)  
-"A great reason to buy instead of renting is that you get to fire your landlord." (...)  
 "The larger the herd, the lower the returns." (...)  
-"No one can predict macro." (...)  
-"All returns in life, weather in wealth, relationships or knowledge come from compound interest."  
+"All returns in life, weather in wealth, relationships or knowledge come from compound interest." (...)  
+"A great reason to buy instead of renting is that you get to fire your landlord."  
 -- Naval Ravikant*
 
-### On your investment comfort zone
+### On investment comfort zone
+
+> *"When forced to choose, I will not trade even a night’s sleep for the chance of extra profits."  
+-- Warren Buffett*
 
 Scared money never wins. It’s all about the risk of losing money versus the risk of missing opportunity. 
 
 > *"The safest way to double your money is to fold it over once and put it in your pocket."  
 -- Kin Hubbard*
 
-> *"When forced to choose, I will not trade even a night’s sleep for the chance of extra profits."  
--- Warren Buffett*
-
 ### How to spot good investments?
+
 > *"It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism."  
 -- Howard Marks*
 
@@ -1464,23 +1463,24 @@ Don’t buy on future hopes, buy on past mistakes. We don’t loose money on sta
 
 Hints:
 
-- What’s going to stay the same in the next ten years. While boring, offer the best investment opportunities.
-- Where is low optimism. Recessions are caused when a bunch of people lose confidence all at once.
-- Who are the buyers, the sellers and their motivations. The best companies aren’t sold, they’re bought. Stay away from junk stocks.
-- Investments are competing with each other.
-- The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.
-- Take risk from the table whenever possible.
+- What’s going to stay the same in the next ten years. While boring, offer the best investment opportunities.  
+- Where is low optimism. Recessions are caused when a bunch of people lose confidence all at once.  
+- Know who are the buyers, the sellers and their motivations.  
+- Investments are competing with each other.  
+- The best companies aren’t sold, they’re bought. Stay away from junk stocks.
+- The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.  
+- Take risk from the table whenever possible.  
 
 > *"What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." (...)  
-> *"You’re looking for a mispriced gamble." (...)  
-> *"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds."  
+*"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds." (...)  
+*"You’re looking for a mispriced gamble."  
 -- Charlie Munger*
-
-> *"What’s my religion? Arbitrage and rents."  
--- EF*
 
 > *"Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land."  
 -- Adam Smith*
+
+> *"What’s my religion? Arbitrage and rents."  
+-- E. Ferreira*
 
 > *"If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme."  
 -- Kevin Kelly*
@@ -1493,34 +1493,28 @@ Hints:
 ---
 ## On education
 
-> *"It’s a universal law. Intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility."  
--- Alexander Solzhenitsyn*
-
-> *"The purpose of high education is first and foremost to meet people and build relationships."  
--- my teacher*
-
 > *"Education is kindling a flame, not the filling of a vessel."  
 -- Socrates*
 
+> *"It’s a universal law. Intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility."  
+-- Alexander Solzhenitsyn*
+
+A college education may help you make a living. Self-education may make you a fortune. The value of formal education is signaling, rather than actual learning. The purpose of high education is first and foremost to meet people and build relationships.
+
 Education leads toward a continuing self-discovery; training leads toward a final self-definition. School rewards generalists, the world not so.
 
-A college education may help you make a living. Self-education may make you a fortune. The value of formal education is signaling, rather than actual learning.
-
-> *"Self education is, I firmly believe, the only kind of education there is. The only function of a school is to make self education easier; failing that, it does nothing."  
--- Isaac Asimov*
-
-> *"«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase «Safety net»?
+> *"«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase «safety net»?
 Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up."  
 -- James Altucher*
 
 > *"Education: the path from cocky ignorance to miserable uncertainty."  
 -- Mark Twain*
 
-> *"If you need a degree to do it, it’s not going to make you wealthy." (...)  
+> *"If you need a degree to do it, it’s not going to make you wealthy."  
+"Learning is cheap, education is expensive." (...)   
+"Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out." (...)  
 "The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
 "The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology." (...)  
-"Learning is cheap, education is expensive." (...)   
-"Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out."  
 -- Naval Ravikant*
 
 > *"Education is what survives when what has been learnt has been forgotten."  
@@ -1546,7 +1540,7 @@ Study physics, mathematics, computers, microeconomics, game theory and persuasio
 > *"I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me."  
 -- Ralph Waldo Emerson*
 
-Reading train your model of the world. Even if you forget most, its effect persists.
+Reading trains your model of the world. Even if you forget most, its effect persists.
 
 > *"A book is less important for what it says than for what it makes you think."  
 -- Louis L’amour*
@@ -1620,6 +1614,9 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 > *"The purpose of literature is to turn blood into ink."  
 -- T.S. Eliot*
 
+> *"The pen is the tongue of the mind."  
+-- Miguel de Cervantes*
+
 > *"The best writing is rewriting."  
 -- E.B. White*
 
@@ -1629,14 +1626,11 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 > *"Any word you have to hunt for in a thesaurus is the wrong word."  
 -- Stephen King*
 
-> *"I have made this letter longer then usual because I lacked the time to make it shorter."  
--- Blaise Pascal*
-
 > *"There are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper."  
 -- Chris Cornell*
 
-> *"The pen is the tongue of the mind."  
--- Miguel de Cervantes*
+> *"I have made this letter longer then usual because I lacked the time to make it shorter."  
+-- Blaise Pascal*
 
 > *"I write because I don’t know what I think until I read what I say."  
 -- Flannery O’Connor*
