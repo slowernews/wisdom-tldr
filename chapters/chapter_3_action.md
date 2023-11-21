@@ -409,6 +409,8 @@ Hints:
 "Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
 "The only part you can’t outsource is judgement."  
 -- Naval Ravikant*
+> *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
+-- Mark Manson*
 
 > *"My brother says to never make a big decision before you take a shower."*
 - Wait 48 hours before buying stuff

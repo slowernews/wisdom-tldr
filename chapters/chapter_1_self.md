@@ -1258,15 +1258,16 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 > *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have."  
 -- Kevin Kelly*
 
+Do you know anyone who doesn’t have any blind spots? So why would you be different?  
+
 Hints:
 
-- Do you know anyone who doesn’t have any blind spots? So why would you be different?  
-- Ask questions to challenge your assumptions: «What if I’m wrong about this?». Listen to the other person’s views, you might be biased.
 - Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
+- Ask questions to challenge your assumptions: «What if I’m wrong about this?»
 
 > *"Self-awareness is the most attractive trait." (...)  
 "Meditation is a good way to measure where you are." (...)  
-"Meditation is intermittent fasting for the mind. Distactions are to mind the same as sugar to body." (...)  
+"Meditation is intermittent fasting for the mind. Distractions are to mind the same as sugar to body." (...)  
 "The best meditation is being curious about the contents of your own mind." (...)  
 "You are a story you tell yourself." (...)  
 "A fit mind is a clear mind."  
@@ -1296,9 +1297,6 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 
 > *"Perfectionism doesn’t make you feel perfect; it makes you feel inadequate."  
 -- Maria Shriver*
-
-> *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
--- Mark Manson*
 
 > *"I myself am made entirely of flaws, stitched together with good intentions."  
 -- Augusten Burroughs*
