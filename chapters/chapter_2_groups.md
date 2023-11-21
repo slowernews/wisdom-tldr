@@ -11,7 +11,12 @@
 ## On communication
 
 <!--
+> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
+> *"Conscience is what hurts when everything else feels so good.*
+> *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
+
 - A loucura é a incapacidade de comunicar-se.
+- you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
 -->
 
 > *"Knowledge speaks, but wisdom listens."  

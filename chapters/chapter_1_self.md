@@ -588,7 +588,7 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
-> *"An expert is a person who has made all the mistakes which can be made in a very narrow field"  
+> *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
 -- Niels Bohr*
 
 > *"First a punch is just a punch. Then a puch is not only a punch. And finally a punch is justa punch."  
@@ -843,17 +843,14 @@ Hints:
 <!--
 - anger is a punishment we give ourselves for someone else’s mistake
 - the hardest prison to escape is in your own mind.
-- What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
-- all excuses are false.
-- Viewing life through fear’s lens keeps you in retreat mode, but embracing responsibility over blame leads to your best years and saves energy.
 -->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
 -- Plato*
 
-Fear is paralyzing.
+Fear is paralyzing. Fear does not stop death, it stops life. 
 
-When you view everything through the lens of fear, you’re more likely to remain in retreat mode. Anger and excuses often mask underlying fears. Remember that all excuses can be challenged. The best years of your life are the ones in which you take ownership of your problems rather than blaming them on your family, the environment, or the president. Living in reality requires less energy than cultivating a victim mentality. Escaping reality drains your energy.
+When you view everything through the lens of fear, you’re more likely to remain in retreat mode. Anger and excuses often mask underlying fears. Remember that all excuses can be challenged. The best years of your life are the ones in which you take ownership of your problems rather than blaming them on your family, the environment, or the president. Living in reality requires less energy than cultivating a victim mentality. Escaping reality drains your energy. What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
 
 > *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
 -- Paulo Coelho*
@@ -863,13 +860,9 @@ When you view everything through the lens of fear, you’re more likely to remai
 > *"We fear things in proportion to our ignorance of them."  
 -- Christian Nestell Bovee*
 
-Replace fear with curiosity.
+Replace fear with curiosity. Conquering fear means defining fear.
 
-Hints:
-
-- The best antidote to fear is aceptance not courage.  
-- Conquering fear means defining fear. Define your fears not your goals.  
-- Fear does not stop death, it stops life.  
+Fear makes the wolf bigger than he really is.  
 
 > *"Nothing in life is to be feared, it is only to be understood."  
 -- Marie Curie*
@@ -880,28 +873,16 @@ Hints:
 > *"It’s not the mountain we conquer but ourselves."  
 -- Sir Edmund Hillary*
 
-> *"Insecurity is the result of trying to be secure."  
--- Alan Watts*
-
 > *"A man who fears suffering is already suffering from what he fears."  
 -- Montaigne*
 
 > *"Any person capable of angering you becomes your master; ha can anger you only you permit yourself being disturbed by him."  
 -- Epictetus*
 
-> *"Fear makes the wolf bigger than he is."  
--- Unknown*
-
 ### On courage
 
 > *"Life shrinks or expands in proportion to one’s courage."  
 -- Anaïs Nin*
-
-> *"Without courage there cannot be truth, and without truth there can be no other virtue."  
--- Sir Walter Scott*
-
-> *"Fear is a reaction. Courage is a decision."  
--- Wiston Churchill*
 
 > *"Courage is resistance to fear, mastery of fear — not absence of fear."  
 -- Mark Twain*
@@ -910,14 +891,14 @@ A coward has no scar.
 
 Heros and cowards feel the same fear but their answers are different. Courage implies low reverence. Courage is a form of intelligence not strenght. It’s about outwitting your limiting beliefs, irrational fears and insecurities.
 
+> *"Without courage there cannot be truth, and without truth there can be no other virtue."  
+-- Sir Walter Scott*
+
 > *"All the darkness in the world cannot extinguish the light of a single candle."  
 -- Francis of Assisi*
 
 > *"Evil will prevail if good men stand back and do nothing."  
 -- Edmund Burke*
-
-> *"Tolerance of intolerance is cowardice."  
--- Ayaan Hirsi Ali*
 
 > *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind."  
 -- Ralph Waldo Emerson*
@@ -925,20 +906,11 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Those who lack the courage will always find a philosophy to justify it."  
 -- Albert Camus*
 
+> *"Tolerance of intolerance is cowardice."  
+-- Ayaan Hirsi Ali*
+
 > *"It’s better to be a restrained monster than a well-behaved coward."  
 -- Jordan Peterson*
-
-> *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
--- Lao Tzu*
-
-> *"Courage consists, not in blindly overlooking danger, but in seeing and conquering it."  
--- Jean Paul*
-
-> *"A man of courage is also full of faith."  
--- Cicero*
-
-> *"Courage ought to be guided by skill, and skill armed by courage."  
--- Sir P. Sidney*
 
 > *"Troops would never be deficient in courage, if they could only know how deficient in it their enemies were."  
 -- Duke of Wellington*
@@ -950,70 +922,66 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Courage makes a man more than himself; for he is then himself plus his valor."  
 -- William R. Alger*
 
-> *"Tell a man that he is brave, and you help him become so."  
--- Thomas Carlyle*
-
-> *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
--- Eddie Rickenbacker*
-
-> *"The scars you acquire by exercising courage will never make you feel inferior."  
--- Giovanni Battista Cima*
-
-> *"Keep your fears to yourself but share your courage with others."  
--- Robert Louis Stevenson*
-
 > *"Knowledge without courage is sterile."  
 -- Baltasar Gracián*
 
 > *"Courage is grace under pressure."  
 -- Ernest Hemingway*
 
-> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)
+> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"
 -- Robert A. Heinlein*
 
+### How to increase courage?
 
+> *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
+-- Lao Tzu*
+
+> *"Fear is a reaction. Courage is a decision."  
+-- Wiston Churchill*
+
+> *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
+-- Eddie Rickenbacker*
+
+> *"Courage ought to be guided by skill, and skill armed by courage."  
+-- Sir P. Sidney*
+
+> *"A man of courage is also full of faith."  
+-- Cicero*
+
+> *"Tell a man that he is brave, and you help him become so."  
+-- Thomas Carlyle*
 
 
 
 
 ---
-## On failure, mistakes and regrets
+## On failure, mistakes and scars
 
 > *"Experience is merely the name men gave to their mistakes."  
 -- Oscar Wilde*
 
-Fail fast and bounce back quickly: sometimes you win, sometimes you learn.
+Sometimes you win, sometimes you learn. Fail fast and bounce back quickly.
 
-Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. 
+Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax.
 
 > *"Good judgment comes from experience. Experience comes from bad judgment."  
 -- Jim Horning*
+
+> *"The greatest mistake you can make in life is to continually be afraid you will make one."  
+-- Elbert Hubbard*
 
 > *"We’re even wrong about which mistakes we’re making."  
 -- Carl Winfeld*
 
 > *"If something fails where you thought it would fail, that is not a failure." (...)  
-"When crisis and disaster strike, don’t waste them. No problems, no progress." (...)  
-"To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is."  
+"When crisis and disaster strike, don’t waste them. No problems, no progress."  
 -- Kevin Kelly*
-
-> *"The greatest mistake you can make in life is to continually be afraid you will make one."  
--- Elbert Hubbard*
-
-> *"Failure is the condiment that gives success its flavor."  
--- Truman Capote*
-
-> *"Prove all things; hold fast that which is good."  
--- 1 Thessalonians 5:21*
 
 > *"Calling it an experiment gives you permission to fail."  
 -- A.J. Jacobs*
 
 > *"It’s not the load that breaks you down, it’s the way you carry it."  
 -- Lou Holtz*
-
-> *"It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."  
--- Chuck Palahniuk*
 
 > *"There is no failure, only feedback." (...)  
 "Most of our suffering comes from avoidance."  
@@ -1022,14 +990,20 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 > *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."  
 -- Thomas Beshere, Jr.*
 
-### On regrets
+> *"Failure is the condiment that gives success its flavour."  
+-- Truman Capote*
+
+> *"It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."  
+-- Chuck Palahniuk*
+
+### On scars
 
 > *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
 -- George Bernard Shaw*
 
-Be gentle first with yourself. Don’t punish yourself for failing. Failing is learning.
+Don’t punish yourself for failing. Failing is learning.
 
-You are more than your mistakes. Your past mistakes are meant to guide you, not to define you. Don’t ever regret anything because regretting means wanting to forget every moment. Every moment is what makes you who you are today.
+You are more than your mistakes. Past mistakes are meant to guide you, not to define you.
 
 > *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
 -- Alan Paton*
@@ -1043,14 +1017,15 @@ You are more than your mistakes. Your past mistakes are meant to guide you, not 
 > *"Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift."  
 -- Mary Oliver*
 
-Suffering is a temporary but essential part of life. Making mistakes is better than faking perfections. Every difficulty carries with it a corresponding opportunity of equal size.
-
 > *"Your pain, is the breaking of the shell that encloses your understanding." (...)  
 "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."  
 -- Kahlil Gibran*
 
 > *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
 -- China Mieville*
+
+> *"The scars you acquire by exercising courage will never make you feel inferior."  
+-- Giovanni Battista Cima*
 
 
 
@@ -1060,25 +1035,15 @@ Suffering is a temporary but essential part of life. Making mistakes is better t
 ---
 ## On shame, confidence and validation
 
-<!--
-- too many people undervalue what they are and overvalue what they are not.
-- money problems are self-confidence problems.
-- to get self aceptance you have to do the unconfortable things that you know you are right.
-- It’s a sign of great inner security to be hostile to the unfamiliar
-- we hold on to something so tight because we fear something so great won’t happen twice.
-- everythng you’re running away is in your head.
-- generally the thing you’re most ashamed of is actually your biggest strenght/asset but you haven’t figured out how to use it.
--->
+> *"Man is not what he thinks he is, he is what he hides."  
+-- Andre Malraux*
 
 > *"Shame corrodes the very part of us that believes we are capable of change."  
 -- Brene Brown*
 
-> *"Man is not what he thinks he is, he is what he hides."  
--- Andre Malraux*
-
 You are not what you think you are: you are what you hide. The things you hate most about yourself are the things you hide from the rest of the world. 
 
-Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical & mental insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
+Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure. 
 
 > *"I was ashamed of myself when I realized that life was a costume party; and I attended with my real face."  
 -- Franz Kafka*
@@ -1086,68 +1051,60 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate physical &
 > *"The greater the outward show, the greater the inward poverty."  
 -- J. Krishnamurti*
 
-### On confidence and validation
+> *"Insecurity is the result of trying to be secure."  
+-- Alan Watts*
 
-<!--
-- Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
-- amazing how not being insecure about an unattractive quality instantly makes you way more attractive.
-- confidence come from some success. you need some accomplishment to get there.
-- confidence is silent. insecurities are loud.
--->
+### On confidence and validation
 
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  
 -- Leo Buscaglia*
 
-Confidence is the opposite of shame. Confidence is shamelessness. 
-
-You don’t have to prove anything to anybody, including yourself. Your need for aceptance can make you invisible in this world. Low confidence is the source of all problems and neediness its marker. Don’t wait for someone to tell you that you are special. Rejection is a tool that reveals incompatibility not your inadequateness. If the universe didn’t need you, you wouldn’t be here. Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth don’t think they’re something special.
-
 > *"Having a low opinion of yourself is not modesty. It’s self-destruction."  
 -- Bobby Sommer*
+
+Confidence is the opposite of shame. Confidence is shamelessness. 
+
+You don’t have to prove anything to anybody, including yourself. Low confidence is the source of all problems and neediness its marker.
+
+Hints:
+
+- Too many people undervalue what they are and overvalue what they are not. If the universe didn’t need you, you wouldn’t be here. Don’t wait for someone to tell you that you are special. 
+- To get self-aceptance you have to do the unconfortable things that you know you are right. When you break an agreement you made with yourself, your self-esteem plummets. It’s really hard to have self-esteem. Everyone wants to take it from you. A boss, a teacher, a parent, a friend, a lover.
+- Confidence markers: the space you take up in the world indicates to others and yourself how confident you feel. Presence is confidence without arrogance. Authenticity can’t be faked. The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible. When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility.
+- Believe you can, and you’re halfway there. If you don’t believe you are good, you’ll never be good. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech.
+- Confidence is silent. Insecurities are loud.
+- Not being insecure about an unattractive quality instantly makes you way more attractive. Generally the thing you’re most ashamed of is actually your biggest strenght/asset but you haven’t figured out how to use it.
+- Self-worth is how you feel about the negative aspects of yourself. The people who truly have self-worth don’t think they’re something special.
+- Men stop valuing themselves and their own opinions and beliefs and start valuing only the approval and validation of women.
+- Rejection is a tool that reveals incompatibility not your inadequateness.
+- Confidence come from some success. You need some accomplishment to get there.
+- Everything you’re running away is in your head. We hold on to something so tight because we fear something so great won’t happen twice.
+- Money problems are self-confidence problems.
 
 > *"The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence."  
 -- Charles Bukowski*
 
+> *"Guilt is society’s voice speaking in your head." (...)  
+"Self-esteem is just the reputation you have with yourself. You’ll always know."  
+-- Naval Ravikant*
+
 > *"Self-confidence is the memory of success."  
 -- David Storey*
-
-> *"Those whose approval you seek the most give you the least."  
--- Rozanne Weissman*
-
-> *"Self-esteem is just the reputation you have with yourself. You’ll always know." (...)  
-*"Guilt is society’s voice speaking in your head."  
--- Naval Ravikant*
 
 ### How to overcome shame and grow confidence?
 
 > *"Once you’ve accepted your flaws, no one can use them against you."  
 -- Tyrion*
 
-Hiding creates shame so the cure for shame is honesty. Honesty is the pathway to confidence.
+Honesty is the pathway to confidence.
 
 When hiding something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. Speaking openly about an imperfection is a sign of strength, not a weakness. So you gotta share that shit in order to heal it.
-
-Hints:
-
-- When you break an agreement you made with yourself, your self-esteem plummets. Believe you can, and you’re halfway there. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech. If you don’t believe you are good, you’ll never be good.
-- It’s really hard to have self-esteem. Everyone wants to take it from you. A boss, a teacher, a parent, a friend, a lover.
-- Confidence markers: the space you take up in the world indicates to others and yourself how confident you feel. Presence is confidence without arrogance. Authenticity can’t be faked. The greatest demonstration of power and security is to actually make oneself defenseless, to become as comfortable with one’s weaknesses as possible. When accompanied by authenticity and personal accountability, vulnerability is almost always an extremely attractive behavior. When it’s not attractive, then it signals legitimate incompatibility.
 
 > *"Imperfections are attractive when their owners are happy with them."  
 -- Augusten Burroughs*
 
-> *"If you can avoid seeking approval of others, your power is limitless." (...)  
-"Ignore what others may be thinking of you, because they aren’t."  
--- Kevin Kelly*
-
-> *"Rudeness is the weak person’s imitation of strength."  
--- Eric Hoffer*
-
 > *"The less confident you are, the more serious you have to act."  
 -- Tara Ploughman*
-
-> *"You’ve gotta dance like there’s nobody watching."  
--- William W. Purkey*
 
 > *"Just get out of the room."  
 -- Robert Glover*
@@ -1157,15 +1114,15 @@ Hints:
 > *"Arrogance is a smokescreen for insecurity."  
 -- Amy Cuddy*
 
+> *"Rudeness is the weak person’s imitation of strength."  
+-- Eric Hoffer*
+
 Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, being jealous and insecure does.
 
 Entitlement comes in two forms:
 
 - I’m better than everybody so I deserve special treatment.  
 - I’m worse than everybody so I deserve special treatment.
-
-> *"Don’t be so humble - you are not that great."  
--- Golda Meir*
 
 
 
@@ -1175,17 +1132,12 @@ Entitlement comes in two forms:
 ---
 ## On limits and motivation
 
-<!--
-- believe it and it will be doesn’t always work - there are limits to our belief.
-- what limits individuals is the inability to confront reality, to see things for what they truly are.
--->
-
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
 -- Archilochus*
 
-Your limits are defined by your fears.  
+Your fears define your limits.  
 
-Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. We live in a society where the greatest lies that are told are the ones that we tell ourself. There are few actual rules. The police aren’t coming for you. No one is watching you. Do what you want.
+Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. However your level of success will seldom exceed your level of personal development. 
 
 > *"To define is to limit."  
 -- Oscar Wilde*
@@ -1193,30 +1145,20 @@ Impostor syndrome: your beliefs determine your reality. Nothing can sabotage you
 > *"Every man takes the limits of his own field of vision for the limits of the world."  
 -- Arthur Schopenhauer*
 
-### How to get motivation and break through your resistances?
-
-Lazyness is resting before getting tired.
-
-Most people keep telling themselves old stories and patterns that aren’t serving them.
-
-- Don’t be afraid of taking a step back.  
-- Break down your dreams/goals into achievable steps.  
-- Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation.
-
-However your level of success will seldom exceed your level of personal development.
-
-Hints:
-
-- Don’t look for inspiration. Look for irritation.
-- Sometimes is a matter of money. Sometimes is a matter of «burning bridges»
+### How to get motivation?
 
 > *"With a strong enough «why», you can overcome any «how»."  
 -- Tony Robbins*
 
+Lazyness is resting before getting tired.
+
+Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. Most people keep telling themselves old stories that aren’t serving them.
+
+> *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."
+-- Unknown (tetraplegic)*
+
 > *"Motivation is what gets you started. Habit is what keeps you going."  
 -- Jim Rohn*
-
-> *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."*
 
 
 
@@ -1226,7 +1168,7 @@ Hints:
 ---
 ## On jealousy
 
-> *"Jealousy is the face of low self-esteem.*
+Jealousy is the face of low self-esteem.
 
 
 
@@ -1236,18 +1178,24 @@ Hints:
 ---
 ## On pessimism
 
-<!--
-- the seduction of pessimism: optimism sounds like a sales pitch. pessimism sounds like someone trying to help you.
-- organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
-- entrepreneurs are inherently optimistic beacuse they are rewarded by being optimistic. Intelectuals for being pessimistic.
--->
-
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
 -- William Arthur Ward*
 
+> *"There’s no difference between a pessimist who says, «Oh, it’s hopeless, so don’t bother doing anything», and an optimist who says, «Don’t bother doing anything, it’s going to turn out fine any way». Either way, nothing happens."  
+-- Yvon Chouinard*
+
 Pessimism is a scarcity mindset.
 
-Optimism is rarely the way but pessimism is never the way. Anyway, on the long term, an optimistic bias may payoff.
+Pessimism is seductive. Optimism sounds like a sales pitch, pessimism sounds like someone trying to help you.
+While optimism is not always the way, pessimism is rarely the way. On the long term, an optimistic bias may payoff.
+
+Hints:
+
+- Organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
+- Entrepreneurs are inherently optimistic beacuse they are rewarded by being optimistic. Intelectuals for being pessimistic.
+
+> *"Hope is a good breakfast, but it is a bad supper."  
+-- Francis Bacon*
 
 > *"That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be."  
 -- James Jones*
@@ -1255,26 +1203,20 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 > *"A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty."  
 -- Bertram Carr*
 
-> *"There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine any way.’ Either way, nothing happens."  
--- Yvon Chouinard*
-
-> *"Hope is a good breakfast, but it is a bad supper."  
--- Francis Bacon*
-
 > *"While optimists will sometimes mistake a steaming turd for pure gold, they will not miss a piece of genuine gold when it crosses their path."  
 -- Mark Manson*
 
 > *"Pessimists sound smart. Optimists make money."  
 -- Nat Friedman*
 
+> *"Worry gives small things a big shadow."  
+-- Unknown*
+
 > *"I’m always looking for a way to make it happen, not excuses why it won’t work."  
 -- Aaron Walker*
 
 > *"Both optimists and pessimists contribute to society. The optimist invents the aeroplane, the pessimist the parachute."  
 -- George Bernard Shaw*
-
-> *"Worry gives small things a big shadow."  
--- Unknown*
 
 > *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative." (...)  
 "To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  
@@ -1288,18 +1230,10 @@ Optimism is rarely the way but pessimism is never the way. Anyway, on the long t
 ---
 ## On self awareness
 
-<!--
-> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
-> *"Conscience is what hurts when everything else feels so good.*
-> *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
-
-- you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
--->
-
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
 -- François de La Rochefoucauld*
 
-Self awareness is the ability to pause your mind. It reduces the gap between who we are and who we think we are.   
+Self awareness is the ability to pause your mind. It reduces the gap between who you are and who you think you are.   
 
 > *"The best mirror is an old friend."  
 -- George Herbert*
@@ -1321,25 +1255,25 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 > *"People who can’t laugh at themselves will always be outwitted by people who can."  
 -- T.K. Coleman*
 
+> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have."  
+-- Kevin Kelly*
+
 Hints:
 
 - Do you know anyone who doesn’t have any blind spots? So why would you be different?  
-- Ask questions to challenge your assumptions: “What if I’m wrong about this?”. Listen to the other person’s views, you might be biased.
+- Ask questions to challenge your assumptions: «What if I’m wrong about this?». Listen to the other person’s views, you might be biased.
 - Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
 
-> *"The best meditation is being curious about the contents of your own mind." (...)  
+> *"Self-awareness is the most attractive trait." (...)  
 "Meditation is a good way to measure where you are." (...)  
-"A fit mind is a clear mind." (...)  
+"Meditation is intermittent fasting for the mind. Distactions are to mind the same as sugar to body." (...)  
+"The best meditation is being curious about the contents of your own mind." (...)  
 "You are a story you tell yourself." (...)  
-"Meditation is intermittent fasting for the mind. distactions are tomind the same as sugar to body." (...)  
-"Self-awareness is the most attractive trait."  
+"A fit mind is a clear mind."  
 -- Naval Ravikant*
 
 > *"If you correct your mind, the rest of your life will fall into place."  
 -- Lao Tzu*
-
-> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have."  
--- Kevin Kelly*
 
 
 
@@ -1349,18 +1283,16 @@ Hints:
 ---
 ## On perfectionism
 
-> *"The perfect is the enemy of the good."  
--- Voltaire*
-
 > *"Perfectionism is the fear of being criticized."  
 -- Caroline Myss*
 
-> *"And now that you don’t have to be perfect, you can be good."  
--- John Steinbeck*
+> *"The perfect is the enemy of the good."  
+-- Voltaire*
 
-Strive for excellence, not for perfection. From good enough you derive success. From perfection you derive procastination, anxiety and depression. 
+Strive for excellence, not for perfection. From good enough you derive success. From perfection you derive procastination, anxiety and depression. It’s liberating to see yourself as a «doist».
 
-It’s liberating to see yourself as a «doist».
+> *"Have no fear of perfection. You’ll never reach it."  
+-- Salvador Dali*
 
 > *"Perfectionism doesn’t make you feel perfect; it makes you feel inadequate."  
 -- Maria Shriver*
@@ -1374,11 +1306,8 @@ It’s liberating to see yourself as a «doist».
 > *"The important work of moving the world forward does not wait to be done by perfect men."  
 -- George Eliot*
 
-> *"Something does not need to be perfect to be wonderful. Specially weddings."  
--- Kevin Kelly*
-
-> *"Have no fear of perfection. You’ll never reach it."  
--- Salvador Dali*
-
 > *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
 -- Andy Hunt*
+
+> *"Something does not need to be perfect to be wonderful. Specially weddings."  
+-- Kevin Kelly*
