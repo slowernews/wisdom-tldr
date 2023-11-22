@@ -18,6 +18,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
+
 ## Chapter I - Self
 
 *On foundations*
@@ -36,14 +37,14 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *On your worst enemy: yourself*
 - [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
-- [On fear, anger and excuses](/chapters/chapter_1_self.md#on-fear-anger-and-excuses)
-- [On failure, mistakes and regrets](/chapters/chapter_1_self.md#on-failure-mistakes-and-regrets)
+- [On fear and excuses](/chapters/chapter_1_self.md#on-fear-and-excuses)
+- [On failure, mistakes and anger](/chapters/chapter_1_self.md#on-failure-mistakes-and-anger)
 - [On shame, confidence and validation](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
 - [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
-- [On jealousy](/chapters/chapter_1_self.md#on-jealousy)
+- [On jealousy and envy](/chapters/chapter_1_self.md#on-jealousy-and-envy)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
-- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
+- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 
 
 
@@ -67,7 +68,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On competition*
 - [On opponents and allies](/chapters/chapter_2_groups.md#on-opponents-and-allies)
 - [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
-- [On criticism and envy](/chapters/chapter_2_groups.md#on-criticism-and-envy)
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)

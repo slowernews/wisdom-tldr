@@ -707,84 +707,29 @@ Hints:
 
 ## On stress and health
 
-<!--
-> *"Everything that makes you weak, physically, intellectually, and spiritually, reject as poison."  
--- Swami Vivekananda*
-> *"The wise man accepts his pain, endures it, but does not add to it."  
--- Marcus Aurelius*
-- exercise is a celebration of what your body can do not a punishment for what you ate
-> *"The soul is healed by being with children."  
--- Fyodor Dostoyevski*
-> *"Develop strenght to do bold things, not the strenght to suffer."  
--- Niccoló Machiavelli*
-> *"Worrying is like paying a debt you don’t owe."  
--- Mark Twain*
-> *"Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way." (...)  
-"Yoga cultivates peace of body. Meditation cultivates peace of mind." (...)  
-"A healthy body is light and silent, just as a healthy mind." (...)  
-"When it comes to nutrition, subtract before you add." (...)  
-"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance." (...)  
-"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies." (...)  
-"Meditation isn’t hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I’m just going to give myself a break for an hour. This is my hour off from life. This is an hour I’m not going to do anything.»"  
--- Naval Ravikant*
-
-- the six best doctors: sunshine, water, rest, air, exercise and diet.
-- stress is who you think you should be. peace is who you are.
-- there’s nothing more therapeutic than action.
--->
-
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
 
+There’s nothing more therapeutic than action.
+
 We were built to hunt, gather, and move, not to stay still. However, the root cause of most health problems is often not physical but mental.
 
-### On depression and anxiety
+> *"Everything that makes you weak, physically, intellectually, and spiritually, reject as poison."  
+-- Swami Vivekananda*
 
-<!--
-> *"A man is as miserable as he thinks he is."  
--- Seneca*
-> *"We suffer more often in imagination than in reality."  
--- Seneca*
-> *"Before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes."  
--- Sigmund Freud*
-> *"The mind is everything. What you think you become."  
--- Buddha
-> *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
--- Mark Manson*
-> *"Make sure you don’t start seeing yourself through the eyes of those who don’t value you. Know your worth even if they don’t."  
--- Thema Davis*
-> *"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety." (...)  
-"Your trauma creates you." (...)  
-"Uncertainty, not outcome, is the root of stress." (...)  
-"A rational person can find peace by cultivating indifference to things outside of their control." (...)  
-"You won’t have inner peace until you give up your war against the world." (...)  
-"The quality of your mind is the quality of your life." (...)  
-"One of the most powerful things to realize is that you can change your own self-image." (...)  
-"Fasting focuses the mind. It replaces all desires with a single desire." (...)  
-"You’re offended when you fear that it might be true." (...)  
-"Ego is false confidence, self-respect is true confidence."  
+> *"The wise man accepts his pain, endures it, but does not add to it."  
+-- Marcus Aurelius*
+
+> *"A healthy body is light and silent, just as a healthy mind." (...)  
+"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance." (...)  
+"Yoga cultivates peace of body. Meditation cultivates peace of mind." (...)  
+"Meditation isn’t hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I’m just going to give myself a break for an hour. This is my hour off from life. This is an hour I’m not going to do anything.»" (...)  
+"Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way." (...)  
+"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies." (...)  
+"When it comes to nutrition, subtract before you add."
 -- Naval Ravikant*
 
-- As I began to love myself, my relationship with everyone changed.
-- depression hates a moving target.
-- having to go to school on your birthday and everyone pointing it out.
-- can i ask you a question? 99%people get frightened.
-- anxious persons feel the only way to achieve relaxed certainty is getting new info. but the more you know the more you’ll realize you don’t know. Then you try to get more and more: information centrifugue.
-- emotions of an event are like bookmarks
-- therapy (awareness of past) / spirituality (awareness of present) / yoga (awareness of future)
-- Reframe Your Pain and Become Grateful The simple truth is, it is hard to be in pain when you are in a state of gratitude and love. 5. Release the Pain. Be grateful for how it helped you become the man you are, but accept that you no longer need it in your life and let it go.
-- Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.
-- The cure for worry? Presence (as recently discussed with Amy Cuddy, author of Presence: Bringing Your Boldest Self to Your Biggest Challenges). Focus on the task at hand. Face forward, but don’t live in the pretend future where the thing you’re fearing wins.
-- (kk) Learn how to take a 20-minute power nap without embarrassment.
-- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on. But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety. De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
-- Avoiding Anxiety Leads to More Anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
-Social Anxiety is never the problem, but trying to avoid social anxiety is. Social Anxiety Buster #1: Fake It ‘Til You Make It. Social Anxiety Buster #2: Be Present and Listen. Social Anxiety Buster #3: Mind Your Body Language
-- Thinking about it makes it worse. Writing about it makes it better.
-- unemployment makes you unhappy. dot.
-- burnout is an oversaturation of the sameness.
-- men with no purpose attract depression
-- seeds of doubt grow into forests of inaction
--->
+### On depression and anxiety
 
 > *"If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
@@ -796,35 +741,85 @@ Depression and anxiety are symptoms of under-stimulation and over-stimulation, n
 - Depression (under-stimulation) can be viewed as a lack of self-expression. It may arise when one feels powerless or dominated, leading to chronic stress as a way to stimulate oneself.
 - Anxiety (over-stimulation) manifests as hypersensitivity and can be linked to our evolutionary need for control. Anxiety isn’t productive planning; it’s a continuous state of apprehension over various scenarios. Worrying about the unknown is unproductive; we have limited control and primarily influence rather than dictate outcomes. Stress often results from excessive concern, and worrying is a misuse of the imagination. The past exists only in your thoughts; what truly matters is the present and the future.
 
+<!--
+- having to go to school on your birthday and everyone pointing it out.
+- can i ask you a question? 99% people get frightened.
+-->
+
+Hints:
+
+- The two best doctors: Mr. Outdoors (sunshine, water, air, exercise) and Mrs. Diet.
+- Stress is who you think you should be. Peace is who you are. As I began to love myself, my relationship with everyone changed.
+- Financial health is just as important as physical health. Nothing feels as good as having a «fuck you» fund.
+- Therapy (awareness of past) / Spirituality (awareness of present) / Yoga (awareness of future)
+- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, he says, people knew where they fit into the social order. If you were born a peasant, you knew you were a peasant. If you were born a lord, you knew you were a lord. There was no mobility or opportunity, and so there was no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it and moved on. But in a meritocratic society, something changes. In a meritocracy, if you’re poor, or you gain success and then lose it, it’s not an accident. It’s worse. It’s your fault. You’re the failure. You’re the one who lost everything. And this causes people to live shackled with a constant fear of inadequacy; all the world’s hustle and bustle motivated by a baseline status anxiety. De Botton doesn’t argue that feudal societies or poor societies were somehow better. He simply makes the point that when a society goes from feudal and destitute to meritocratic and wealthy, the price its people pay for that increased standard of living and social mobility is an increase in stress and anxiety.
+- Anxious persons feel the only way to achieve relaxed certainty is getting new info but the more you know the more you’ll realize you don’t know.
+- Avoiding anxiety leads to more anxiety. While we’re busy trying to avoid the feeling of anxiety, we begin to restrict our life more and more.
+- Thinking about it makes it worse. Writing about it makes it better.
+- Burnout is an oversaturation of the sameness.
+- No purpose attracts depression. Unemployment makes you unhappy. Dot.
+- Seeds of doubt grow into forests of inaction.
+- The hardest prison to escape is in your own mind. Depression hates a moving target.
+
 > *"Boredom is a soul sucker. The unfed mind devours itself."  
 -- Gore Vidal*
-
-> *"When people don’t express themselves, they die one piece at a time."  
--- Laurie Halse Anderson*
 
 > *"Anxiety is the dizziness of freedom."  
 -- Søren Kierkegaard*
 
-> *"In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves."  
+> *"When people don’t express themselves, they die one piece at a time." (...)  
+"In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves."  
 -- Laurie Halse Anderson*
+
+> *"Worrying is like paying a debt you don’t owe."  
+-- Mark Twain*
+
+> *"A man is as miserable as he thinks he is."  
+-- Seneca*
+
+> *"We suffer more often in imagination than in reality."  
+-- Seneca*
+
+> *"The mind is everything. What you think you become."  
+-- Buddha*
+
+> *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
+-- Mark Manson*
+
+> *"Develop strenght to do bold things, not the strenght to suffer."  
+-- Niccoló Machiavelli*
+
+> *"Your trauma creates you." (...)  
+"Unresolved thoughts, prematurely pushed out of the mind, pile up in an internal landfill - which eventually pokes out of the subconscious and manifests as chronic, nonspecific anxiety." (...)  
+"Uncertainty, not outcome, is the root of stress." (...)  
+"A rational person can find peace by cultivating indifference to things outside of their control." (...)  
+"You won’t have inner peace until you give up your war against the world." (...)  
+"The quality of your mind is the quality of your life." (...)  
+"One of the most powerful things to realize is that you can change your own self-image." (...)  
+"Fasting focuses the mind. It replaces all desires with a single desire." (...)  
+"You’re offended when you fear that it might be true."  
+-- Naval Ravikant*
 
 ### How to overcome them?
 
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer*
 
-Action cures everything. Physical stress avoids need for control.
+Action cures everything. Physical stress eliminates the need for control.
 
 Hustling (the right amount of stimulation) involves consistently stretching your comfort zone. Avoiding stress is avoiding life.  
 
 Hints:
 
 - The best antidepressant is knowing that we matter to others. People don’t die from suicide; they die from sadness.
-- Exercise: burn extra calories to reduce the need for control. When you’re feeling stressed out, take a moment to breathe. Remember that body language affects your psychology, mood, and even hormonal balance. People tend to be naturally happier when they’re kept busy.
+- Exercise: burn extra calories to reduce the need for control. When you’re feeling stressed out, take a moment to breathe. Remember that body language affects your psychology, mood, and even hormonal balance. People tend to be naturally happier when they’re kept busy. Exercise is a celebration of what your body can do not a punishment for what you ate.
 - Diet is also relevant: *debug* your body as much as you can.
 
 > *"If you want to lift yourself up, lift up someone else."  
 -- Booker T. Washington*
+
+> *"Before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes."  
+-- Sigmund Freud*
 
 > *"Pain is inevitable. Suffering is optional."  
 -- Haruki Murakami*
@@ -832,18 +827,16 @@ Hints:
 > *"No medicine cures what happiness cannot."  
 -- Gabriel Garcí­a Márquez*
 
+> *"The soul is healed by being with children."  
+-- Fyodor Dostoyevski*
+
 
 
 
 
 
 ---
-## On fear, anger and excuses
-
-<!--
-- anger is a punishment we give ourselves for someone else’s mistake
-- the hardest prison to escape is in your own mind.
--->
+## On fear and excuses
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
 -- Plato*
@@ -955,7 +948,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 
 
 ---
-## On failure, mistakes and scars
+## On failure, mistakes and anger
 
 > *"Experience is merely the name men gave to their mistakes."  
 -- Oscar Wilde*
@@ -995,6 +988,10 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 
 > *"It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."  
 -- Chuck Palahniuk*
+
+### On anger
+
+Anger is a punishment we give ourselves for someone else’s mistake.
 
 ### On scars
 
@@ -1085,7 +1082,8 @@ Hints:
 -- Charles Bukowski*
 
 > *"Guilt is society’s voice speaking in your head." (...)  
-"Self-esteem is just the reputation you have with yourself. You’ll always know."  
+"Self-esteem is just the reputation you have with yourself. You’ll always know." (...)  
+"Ego is false confidence, self-respect is true confidence."  
 -- Naval Ravikant*
 
 > *"Self-confidence is the memory of success."  
@@ -1166,9 +1164,55 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 
 
 ---
-## On jealousy
+## On jealousy and envy
+
+<!--
+- Consensus happens just in the beginning and in the end of something.
+-->
+
+> *"You’ll never be criticized by someone who is doing more than you. You’ll always be critized by someone who is doing less. Remember that."  
+-- Denzel Washington*
+
+> *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
+-- Henry Thomas Buckle*
 
 Jealousy is the face of low self-esteem.
+
+Treat haters like toddlers.
+
+When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy - they think that you’re better than them. If someone is copying you, you won.
+
+Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, ambition, fame, luck, beauty, health, freedom and a mix of them (lifestyle) are the main triggers.
+
+> *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence." (...)  
+"If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut."  
+-- Albert Einstein*
+
+> *"Remember if people talk behind your back, it only means you are two steps ahead."  
+-- Fannie Flagg*
+
+> *"They called her witch because she knew how to heal herself."  
+-- Te’ V. Smith*
+
+> *"Think as you like but behave like others." (...)  
+"Never appear too perfect."  
+-- Robert Greene*
+
+> *"Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you."  
+-- Marilyn Monroe*
+
+> *"The dogs bark but the caravan moves on."  
+-- Unknown*
+
+> *"It is not greed that drives the world, but envy."  
+-- Warren Buffet*
+
+### On blindspots
+
+However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
+
+> *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
+-- Ralph Waldo Emerson*
 
 
 
@@ -1191,8 +1235,8 @@ While optimism is not always the way, pessimism is rarely the way. On the long t
 
 Hints:
 
+- Entrepreneurs are inherently optimistic because they are rewarded by being optimistic. Intelectuals the opposite.
 - Organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
-- Entrepreneurs are inherently optimistic beacuse they are rewarded by being optimistic. Intelectuals for being pessimistic.
 
 > *"Hope is a good breakfast, but it is a bad supper."  
 -- Francis Bacon*
@@ -1221,6 +1265,40 @@ Hints:
 > *"Criticism without creativity is just pessimism. The honest way to critique is to create the alternative." (...)  
 "To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  
 -- Naval Ravikant*
+
+
+
+
+
+
+---
+## On perfectionism
+
+> *"Perfectionism is the fear of being criticized."  
+-- Caroline Myss*
+
+> *"The perfect is the enemy of the good."  
+-- Voltaire*
+
+Strive for excellence, not for perfection. From good enough you derive success. From perfection you derive procastination, anxiety and depression. It’s liberating to see yourself as a «doist».
+
+> *"Have no fear of perfection. You’ll never reach it."  
+-- Salvador Dali*
+
+> *"Perfectionism doesn’t make you feel perfect; it makes you feel inadequate."  
+-- Maria Shriver*
+
+> *"I myself am made entirely of flaws, stitched together with good intentions."  
+-- Augusten Burroughs*
+
+> *"The important work of moving the world forward does not wait to be done by perfect men."  
+-- George Eliot*
+
+> *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
+-- Andy Hunt*
+
+> *"Something does not need to be perfect to be wonderful. Specially weddings."  
+-- Kevin Kelly*
 
 
 
@@ -1275,37 +1353,3 @@ Hints:
 
 > *"If you correct your mind, the rest of your life will fall into place."  
 -- Lao Tzu*
-
-
-
-
-
-
----
-## On perfectionism
-
-> *"Perfectionism is the fear of being criticized."  
--- Caroline Myss*
-
-> *"The perfect is the enemy of the good."  
--- Voltaire*
-
-Strive for excellence, not for perfection. From good enough you derive success. From perfection you derive procastination, anxiety and depression. It’s liberating to see yourself as a «doist».
-
-> *"Have no fear of perfection. You’ll never reach it."  
--- Salvador Dali*
-
-> *"Perfectionism doesn’t make you feel perfect; it makes you feel inadequate."  
--- Maria Shriver*
-
-> *"I myself am made entirely of flaws, stitched together with good intentions."  
--- Augusten Burroughs*
-
-> *"The important work of moving the world forward does not wait to be done by perfect men."  
--- George Eliot*
-
-> *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
--- Andy Hunt*
-
-> *"Something does not need to be perfect to be wonderful. Specially weddings."  
--- Kevin Kelly*
