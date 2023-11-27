@@ -77,6 +77,10 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 <!--
 > *"Move to a place that feels strange until it feels like home. constantly learning and growing. then do it again, pursuing disconfort, until teh whole world is my home."  
 -- Derek Sivers*
+> *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
+-- Alexander Graham Bell*
+> *"You can’t go back and change the beginning, but you can start where you are and change the ending."  
+-- C.S. Lewis*
 
 - do u want ur daughter to date somebody like u?
 - old keys won't open new doors.

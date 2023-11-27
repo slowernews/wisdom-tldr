@@ -787,6 +787,9 @@ Wisdom is knowing the long-term consequences of your actions.
 > *"Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem."*
 > *"The four most expensive words in the English language: «This time is different»."  
 - which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
+> *"College is a fountain of knowledge...and the students are there to drink.*
+> *"Time is the best teacher; unfortunately it kills all its students.*
+> *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients: Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I’m pregnant. Who did it?"*
 -->
 
 > *"Only the truth is funny."  
@@ -1217,6 +1220,8 @@ Against facts there are no arguments. Against faith there are no facts.
 ## On science
 
 <!--
+> *"The price of success in philosophy is triviality."  
+-- C. Glymour*
 - technology is applied science
 - theories are explanations, not predictions. prediction comes after the explanation
 - theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.

@@ -13,6 +13,7 @@
 <!--
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
+- Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
 -->
 
 > *"The secret to creativity is knowing how to hide your sources."  

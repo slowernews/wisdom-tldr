@@ -661,6 +661,9 @@ Hints:
 "Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."  
 -- Naval Ravikant*
 
+> *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
+-- T.H. White*
+
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
 
 > *"Do not teach a starving man to fish."  
