@@ -304,6 +304,14 @@ Finding a place to die is an important thing to do.
 
 ## On talent
 
+<!--
+> *"Intelligence is curiosity. It is that and only that. If you are curious, you are intelligent. If you are not curious, you are not intelligent. In
+fact, politically correct be damned, I will say it straight: A general lack of curiosity is a general lack of intelligence. I will even go so far as to say that a general lack of curiosity is the worst of all traits."  
+-- Zan Perrion*
+> *"Curiosity is a form of creation."  
+-- Zan Perrion*
+-->
+
 > *"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction."  
 -- Ernst F. Schumacher*
 
@@ -790,6 +798,7 @@ Wisdom is knowing the long-term consequences of your actions.
 > *"College is a fountain of knowledge...and the students are there to drink.*
 > *"Time is the best teacher; unfortunately it kills all its students.*
 > *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients: Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I’m pregnant. Who did it?"*
+- privacy is for cowards
 -->
 
 > *"Only the truth is funny."  
@@ -866,6 +875,14 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 ---
 ## On humanness and irrationality
+
+<!--
+> *"Monkeys are superior to man in this: when a monkey looks into a mirror, he sees a monkey."  
+-- Chazal*
+> *"The American people don't believe anything until they see it on television."  
+-- Richard Nixon*
+- web3 assumes that people prefer privacy over free stuff, which is false.
+-->
 
 > *"If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy."  
 -- Robert Heinlein*
@@ -995,6 +1012,9 @@ Hints:
 <!--
 - psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
 - I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
+
+> *"Both men and women are desperate to revive a broken relationship, to re-create the great love affair they had at the beginning. The difference is that women try to do it while it is ongoing, and men try to do it when it is over."  
+-- Zan Perrion*
 -->
 
 > *"We accept the love we think we deserve."  
@@ -1606,6 +1626,11 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 
 <!--
 - o poeta faz a sintese das coisas
+5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
+9. good writing is about telling the truth. we are species that needs and wants to understand who we are.
+13. become a better writer is going to help you become a better reader, and that is the real payoff.
+46. we write to expose the unexposed. If there's one door in teh castle you have been told not to go through, you must. Otherwise, you'll just 
+47. Annie Dillard has said that day by day you have to give the work before you all teh best stuff you have, not saving up for later projects. If you give freely, there will always be more.
 -->
 
 > *"Tears are words that need to be written."  
@@ -1699,6 +1724,7 @@ News are the first draft of History but he human brain was not designed to proce
 <!--
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
+- blockchains are not personal-computing operational systems; they are social systems.
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
 - Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
@@ -1735,6 +1761,13 @@ We’ve grown dependent on three simple features that just aren’t available in
 # Appendix D - Bonus
 
 ## On what women value in men
+
+<!--
+> *"What do women want? (...) Every woman wants to be in a love story."  
+-- Zan Perrion*
+> *"Beauty needs a witness. This the only thing a man ever needs to know."  
+-- Zan Perrion*
+-->
 
 > *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
 -- Alessandra Torre*

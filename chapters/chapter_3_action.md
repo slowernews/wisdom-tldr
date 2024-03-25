@@ -891,6 +891,9 @@ Overcompensate. Some people get passion from something they struggled with.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
 - Inertia is why a car does not stop the moment the brakes are applied.
+
+> *"All is impermanent. Willa Cather said it this way, «This is the joy of the rose, that it blows, and then it goes.» It is one thing to live with a hint of sadness. It is another thing to live with regret."  
+-- Zan Perrion*
 -->
 
 > *"However beautiful the strategy, you should occasionally look at the results."  
@@ -1352,7 +1355,6 @@ However people who forgive easily are taken for granted.
 ### On revenge
 
 <!--
-
 > *"Summer grass, all that’s left of warrior’s dreams."  
 -- Basho*
 -->

@@ -153,6 +153,9 @@ Make networking an habit. Who you know and whether they like you will determine 
 > *"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
 -- Kevin Kelly*
 
+> *"Give me the gift of a listening heart."  
+-- King Solomon*
+
 - What’s the most common question or problem you get asked about? Share the answer.
 - Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
 - Not what should I do next but who should you speak next?
@@ -223,6 +226,18 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
+- open source means each problem only has to solved once -- naval
+> *"Everything that can be invented has been invented."  
+-- Charles Duell (director of us patent office)
+- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
+- teleshopping design.
+- llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
+- my superpowers are rusting like unused tools left in the backyard shed inside my mind.
+- Ideas don't make you rich execution does.
+- you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
+- to optimise focus on reducing waiting time more than doing the work faster.
+- balance sheets is for accountants but you have to deeply understand your cash flows.
+- ignore great ideas and focus on execution. focus. delegate. sell before you need or when bored. remember to give it all away.
 - Intuitive equals familiar. Informational age is homogeneising our tastes. globalization é em tudo
 - two ways to make money: bundling and unbundling!
 - you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
@@ -277,6 +292,10 @@ Validate your business by finding paying clients. If something is worth doing, s
 -- Naval Ravikant*
 
 ### On entrepreneurship
+
+<!--
+- Ownership is the only thing. Never give a single share a unless you absolutely have to.
+-->
 
 First try to sell it. Than build it.
 
@@ -500,6 +519,8 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 <!--
 > *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
 -- Winston Churchill*
+> *"Good advice helps you find the solution to your problem. Great advice helps you find you were solving the wrong problem."  
+-- Merlin Mann*
 
 - don’t take criticism from people that you would never go for advice.
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
@@ -777,6 +798,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- Thomas Sowell*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
 
+- the passports of the future should be based on skills and health rather than nationality.
 - law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
 - insisting in your rights without acknowledging your responsabilities isn’t freedom is adolescence
 - communism isn’t evil, it’s foolish. in the same way that unrestricted capitalism is foolish if you strive to make everyone’s lives better.
@@ -1117,7 +1139,11 @@ Hints:
 > *"Who lies for you will lie against you." (...)  
 "Talkers aren’t strong. The strong don’t talk."  
 -- Unknown*
+> *"Any person capable of angering you becomes your master."  
+-- Epictetus*
 
+- i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
+- every snowflake is different but all snow is the same.
 - heros are your idealized selfes
 - understand the difference of an adversary and an enemy to not accumulate enemys.
 - When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
@@ -1281,6 +1307,7 @@ Hints:
 - succeful takers are the most visible people in organizations.
 - Proactive problem management – Go directly to the source.
 - convincing vs inspiring leadership
+- never make a numbers person the leader
 -->
 
 > *"Only those who do not seek power are qualified to hold it."  

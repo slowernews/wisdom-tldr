@@ -413,6 +413,10 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 ---
 ## On improving
 
+<!--
+- a failure is a man who has blundered but is not capable of cashing in on the experience.
+-->
+
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
 

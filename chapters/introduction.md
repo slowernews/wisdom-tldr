@@ -8,6 +8,11 @@
 
 ## The real you
 
+<!--
+> *"Every great life has had in it a great renunciation. Let me say that again: Every great life has had in it a great renunciation. There is no
+other way. We simply can’t continue our lives the way they are if we want to be great. Small incremental changes are no longer enough. Reading a few books, taking a few workshops, and taping a few affirmations to our mirrors is no longer enough. If we want to be great, great changes are needed, great strides forward, a great distance placed between ourselves and all the ways we have, up until now, conducted our lives. We need a new perspective. A grand perspective. A world-changing perspective. If we want to be excellent then we have to stand on this earth in excellence." -- Zan Perrion*
+-->
+
 > *"You are what you do, not what you say you’ll do."  
 -- Carl Jung*
 
@@ -37,6 +42,11 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 -- William Wallace*
 
 ### How to come alive?
+
+<!--
+> *"The quality of your life is determined by the quality of the questions you ask. It’s as simple as that. Small minds sit in answers, great minds sit in questions. Always ask the greater questions and nevermore the small."  
+-- Zan Perrion*
+-->
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
 -- Alan Watts*
@@ -215,6 +225,9 @@ Hints:
 - the richer you get the more expensive happiness becomes
 - we only stay happy, productive and inspired when we uncover our true personality.
 - doing what you like is freedom. liking what you do is happiness.
+
+> *"Angels can fly because they can take themselves lightly."  
+-- G.K. Chasterton*
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
