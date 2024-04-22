@@ -472,6 +472,8 @@ People say they want to be famous to impact the world, often what they want is t
 -- M. Vázquez Montalban*
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
+> *"Risk is what's left over when you think you've thought of everything."  
+-- Carl Richards*
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -693,6 +695,12 @@ Hints:
 
 ---
 ## On success
+
+<!--
+> *"When working, surround yourself with people more successful than you.
+When playing, surround yourself with people happier than you. "  
+-- Naval Ravikant*
+-->
 
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
@@ -923,6 +931,11 @@ Most people approach each and every year in the exact same way while expecting d
 
 ---
 ## On family and friends
+
+<!--
+- spend your time in the company of geniuses, sages, children and books. -- naval
+- routinely greeting six neighbours maximizes wellbeing - mr rogers
+-->
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
 -- Unknown*
@@ -1429,7 +1442,20 @@ The more «art» you allow in, the less commercial success you’ll have. People
 - auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
 - analise fundamental e técnica no poker como nas accoes. Crashes are typical of complex systems.
 - good investors don’t sell investment advice and not talk about their returns.
--->
+- why do you want to invest? to make excitement or to make money?
+
+> *"Asymmetric opportunities: invest in startups. Start a company. Create a book, podcast, video. Create a (software) product. Go on many first dates. Go to a cocktail party. Read a Lindy book. Move to a big city. Buy bitcoin. Tweet."  
+-- Naval Ravikant*
+
+> *"If you want to be wealthy, spend your time earning, learning, or relaxing. Outsource or ignore everything else."  
+-- Naval Ravikant*
+
+> *"Venture funds sell brand for the right to invest money."  
+-- Naval Ravikant*
+
+> *"I'm not interested in anything that's not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can't keep it going, I'm not interested in it."  
+-- Morgan Housel*
+-->1
 
 > *"I succeeded because I have a long attention span. (...)  
 "Waiting helps you as an investor, and a lot of people just can’t stand to wait."  
@@ -1517,6 +1543,20 @@ Hints:
 
 ---
 ## On education
+
+<!--
+- polymaths are late bloomers. -- robin hanson
+- if you're not surprised you're not really learning.
+- you get rewarded for unique knowledge, not effort. effort is required to create unique knowledge. -- naval
+- don't be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
+- school's real study topic is obedience.
+- timeless: science, math, philosophy, rhetoric. First principles. Creating art & business. Family & lifelong friends. Habits to calm mind & body. Temporary: politics, news, estertainment. memrizing facts. hourly work. transactional relationships. drugs & doctors for mind and body. -- naval
+- school failed to: how to build self confidence / how to be good with money / dating and relationships skills / confrontation skills / critical thinking / creative productivity.
+- study math to understand physics. study physics to understand chemistry. study chemistry to understand biology. study biology to understand psychology. study psychology to understand economics. study economics and philosophy to be free. -- naval
+- the biggest mistake anyone makes when studying a foreign language is that they do it little by little, not jumping into it head first. language is not mathematics; one doen't need to learn it, one needs to get accustomed to it. it's not about logic or memory; it's about experience and skill.
+- the problem is not, and never have been, "as good as a professional". It has always been "it's good enoughto replace a professioanl so it'll be cheaper."
+- the key thing about AI is that AI+human is waht we'll do.
+-->
 
 > *"Education is kindling a flame, not the filling of a vessel."  
 -- Socrates*
@@ -1629,8 +1669,12 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
 9. good writing is about telling the truth. we are species that needs and wants to understand who we are.
 13. become a better writer is going to help you become a better reader, and that is the real payoff.
-46. we write to expose the unexposed. If there's one door in teh castle you have been told not to go through, you must. Otherwise, you'll just 
+15. e.l.doctorow once said that: "writing a novel is like driving a car at night. you can see only as far as your headlights, but you can make the hole trip that way."
+45. when people shine a little light on their monster, we find out how similar most of our monsters are.
+46. we write to expose the unexposed. If there's one door in teh castle you have been told not to go through, you must. Otherwise, you'll just be rearranging furniture in rooms you've already been in.
 47. Annie Dillard has said that day by day you have to give the work before you all teh best stuff you have, not saving up for later projects. If you give freely, there will always be more.
+49. becoming a writer is about becoming conscious.
+50. you can either set a brick as a laborer or as an artist.
 -->
 
 > *"Tears are words that need to be written."  

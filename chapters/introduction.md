@@ -11,6 +11,10 @@
 <!--
 > *"Every great life has had in it a great renunciation. Let me say that again: Every great life has had in it a great renunciation. There is no
 other way. We simply can’t continue our lives the way they are if we want to be great. Small incremental changes are no longer enough. Reading a few books, taking a few workshops, and taping a few affirmations to our mirrors is no longer enough. If we want to be great, great changes are needed, great strides forward, a great distance placed between ourselves and all the ways we have, up until now, conducted our lives. We need a new perspective. A grand perspective. A world-changing perspective. If we want to be excellent then we have to stand on this earth in excellence." -- Zan Perrion*
+
+- your goal inlife is to find the people, business, project, or art that needs you teh most. there is something out there just for you. -- naval
+- teh best thing about elon musk is that he makes me question if i'm thinking big enough with my life. -- naval
+- the trouble with setting goals is that you're constantly working toward what you used to want.
 -->
 
 > *"You are what you do, not what you say you’ll do."  
@@ -217,6 +221,11 @@ Hints:
 ## On happiness
 
 <!--
+> *"Melancholy is the happiness of being sad."  
+-- Victor Hugo*
+
+- amor fati. true wisdom comes from accepting fate.
+
 - Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.
 - Focus on internal fulfillment not external success

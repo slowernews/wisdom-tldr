@@ -614,6 +614,10 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 ---
 ## On habits and systems
 
+<!--
+- you can stop a bad behaviour by filling the space with a better one. replacement is better than abstinence.
+-->
+
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 -- Will Durant*
 
@@ -805,6 +809,11 @@ Hints:
 
 ---
 ## On fear and excuses
+
+<!--
+- fear just wants us to stay the same.
+- climbing out the hole is about letting go of pride.
+-->
 
 > *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
 -- Plato*

@@ -849,6 +849,9 @@ Consuming information gives the control freak an illusion of control. He doesn�
 
 <!--
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
+
+> *"Nothing is as good or as bad as it seems."  
+-- Scott Galloway*
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  

@@ -17,6 +17,9 @@
 
 - A loucura é a incapacidade de comunicar-se.
 - you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
+
+- you can have the mind or you can have the moment. -- naval
+- better bored than busy -- naval
 -->
 
 > *"Knowledge speaks, but wisdom listens."  
@@ -100,6 +103,10 @@ Hints:
 
 ---
 ## On relationships
+
+<!--
+- supporting helps people grow and builds healthy relationships. fixing manipulates people and builds resentment and/or co-dependency.
+-->
 
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
 -- Kevin kelly*
@@ -226,6 +233,10 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
+> *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from teh hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
+-- Morgan Housel*
+
+- platonic products rarely work.
 - open source means each problem only has to solved once -- naval
 > *"Everything that can be invented has been invented."  
 -- Charles Duell (director of us patent office)
@@ -745,6 +756,9 @@ Hints:
 
 - Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 - People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
+
+> *"I dn't believe in hierarchical relationships. I don't want to be above anybody and I don't want to be below anybody. If I can't treat someone like a peer and if they can't treat me like a peer, I just don't want to interact with them."  
+-- Naval Ravikant*
 -->
 
 > *"If you want to know who controls you, look at who you are not allowed to criticize."  
@@ -1369,6 +1383,7 @@ Hints:
 - reward system. culture is influenced by structure. give to the right person
 - as estruturas funcionam qd ha coesao
 - Ideas are welcomed, execution is worshiped
+- good managers shield their team from all the noise coming from above and give them a calm environment to work in. Bad managers amplify the noise and make the team feel every silly whim of upper management.
 -->
 
 > *"Don’t postpone to tomorrow what other people can do for you today."  
@@ -1465,6 +1480,9 @@ Hints:
 - recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
 - 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
 - The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
+- doing things you enjoy / doing things you're good at / doing things other people want
+- nobody ever gets credit for fixing problems that never happened
+- "estava a perder o controlo da minha carreira" -- vertonghen
 -->
 
 > *"Look for the job that you would take if you didn’t need a job."  
@@ -1599,6 +1617,7 @@ Ask employers why did they asked you for an interview - they will describe your 
 - Money is trust. system of mutual trust.
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
 - T ou pi shaped.
+- hiring question: "what do you believe that most people don't?"
 -->
 
 > *"He who works with his hands is a laborer.  
