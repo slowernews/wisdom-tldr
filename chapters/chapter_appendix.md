@@ -20,7 +20,7 @@
 
 Life becomes easy when you recognize the recurring patterns.
 
-> *"History is the study of change, ironically used as a map of the future."
+> *"History is the study of change, ironically used as a map of the future."  
 -- Morgan Housel*
 
 > *"History does not repeat, but it does rhyme."  
@@ -205,7 +205,7 @@ Our present (in)actions will compound into the future we will experience – tha
 
 After reaching a certain age, you are no longer seen as an individual; you become an institution and are treated as institutions are. You are expected to behave like a piece of historical furniture, an architectural landmark.
 
-> *"Every one desires to live long, but no one would be old."
+> *"Every one desires to live long, but no one would be old."  
 -- Jonathan Swift*
 
 > *"Everybody wants to go to heaven, but nobody wants to die."  
@@ -369,7 +369,8 @@ Intelligence is a spectrum, a dog is intelligent also.
 ---
 ## On wealth
 
-> *"To be wealthy, accumulate all those things that money can’t buy."  
+> *"To be wealthy, accumulate all those things that money can’t buy." (...)  
+"No one is as impressed with your possessions as you are."  
 -- Kevin Kelly*
 
 Being rich is being fulfilled.
@@ -382,9 +383,6 @@ Being rich is being fulfilled.
 
 > *"Being rich is having money; being wealthy is having time."  
 -- Stephen Swidr*
-
-> *"No one is as impressed with your possessions as you are."  
--- Kevin Kelly*
 
 ### On money
 
@@ -460,7 +458,7 @@ People say they want to be famous to impact the world, often what they want is t
 
 > *"If you’re not ready to be hated, you’re not ready to be famous." (...)  
 "The reward for getting on the stage is fame. The price of fame is that you can’t get off stage." (...)  
-"You want to be rich and anonymous, not poor and famous."
+"You want to be rich and anonymous, not poor and famous."  
 -- Naval Ravikant*
 
 
@@ -718,7 +716,7 @@ Success (and happiness) is internal not external. True fulfillment comes from li
 > *"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."  
 -- John Woode*
 
-> *"A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do."
+> *"A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do."  
 -- Bob Dylan*
 
 > *"To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man."  
@@ -740,7 +738,7 @@ Success (and happiness) is internal not external. True fulfillment comes from li
 
 > *"The success formula: solve your own problems and freely share the solutions." (...)  
 "The price of growth is outgrowing people." (...)  
-"Predicting failure is easier than predicting success."
+"Predicting failure is easier than predicting success."  
 -- Naval Ravikant*
 
 ### On barriers to success
@@ -830,13 +828,10 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 > *"The world is a tragedy to those who feel, but a comedy to those who think."  
 -- Horace Walpole*
 
-> *"I miss being the age when I thought I would have my shit together by the time I was the age I am now."  
--- Unknown*
-
-> *"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt."  
--- Unknown*
-
-> *"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines."  
+> *"I miss being the age when I thought I would have my shit together by the time I was the age I am now." (...)
+"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)
+"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
+"Society: Be yourself. Society: Not like that."  
 -- Unknown*
 
 > *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
@@ -851,9 +846,6 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 > *"The grass is always greener on the side that is fertilized with bullshit."  
 -- Morgan Housel*
-
-> *"Society: Be yourself. Society: Not like that."  
--- Unknown*
 
 > *"Give me a museum and I’ll fill it."  
 -- Pablo Picasso*
@@ -901,7 +893,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 Most people approach each and every year in the exact same way while expecting drastically different results.
 
-> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."
+> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."  
 -- Unknown*
 
 > *"The problem with people who have no vices is that generally you can be pretty sure they’re going to have some pretty annoying virtues."  
@@ -922,7 +914,7 @@ Most people approach each and every year in the exact same way while expecting d
 > *"People aren’t either wicked or noble. They’re like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict."  
 -- Lemony Snicket*
 
-> *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."
+> *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."  
 -- Unknown*
 
 > *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
@@ -1137,7 +1129,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 Marry an happy person. Unhappy spouse, unhappy life.
 
-> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience."
+> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience."  
 -- Oscar Wilde*
 
 > *"He who marries for love without money has good nights and sorry days."  
@@ -1167,13 +1159,9 @@ Marry an happy person. Unhappy spouse, unhappy life.
 > *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
 -- Warren Farrell (psychologist)*
 
-> *"As long as the bed shakes, the house will remain stable."  
--- Unknown*
-
-> *"Happy the marriage where the husband is the head and the wife the heart."  
--- Unknown*
-
-> *"When poverty comes in the door, love goes out of the window."  
+> *"As long as the bed shakes, the house will remain stable." (...)  
+"Happy the marriage where the husband is the head and the wife the heart." (...)  
+"When poverty comes in the door, love goes out of the window."  
 -- Unknown*
 
 
@@ -1216,7 +1204,7 @@ Against facts there are no arguments. Against faith there are no facts.
 "Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner."  
 -- Naval Ravikant*
 
-> *"People who want to share their religious views with you almost never want you to share yours with them.
+> *"People who want to share their religious views with you almost never want you to share yours with them."  
 -- Dave Barry*
 
 ### On morality
@@ -1323,7 +1311,7 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 "If we knew what it was we were doing, it would not be called research, would it?"  
 -- Albert Einstein*
 
-> *"What is research but a blind date with knowledge?
+> *"What is research but a blind date with knowledge?"  
 -- Will Harvey*
 
 > *"Nature, to be commanded, must be obeyed."  
@@ -1334,7 +1322,7 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 
 > *"Aha moment: The moment of understanding when two smaller truths connect and a greater truth is revealed." (...)
 "Science requires skepticism. Religion requires belief." (...)  
-"Scientists who support silencing opposing voices are actually priests."
+"Scientists who support silencing opposing voices are actually priests."  
 -- Naval Ravikant*
 
 
@@ -1749,7 +1737,7 @@ Hints:
 > *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
 -- George Orwell*
 
-> *"The media is always accurate, except when they are talking about things I know."
+> *"The media is always accurate, except when they are talking about things I know."  
 -- Knoll’s law*
 
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 

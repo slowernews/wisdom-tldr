@@ -113,7 +113,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"New ideas pass through three periods: 1) It can’t be done; 2) It probably can be done, but it’s not worth doing; 3) I knew it was a good idea all along!"  
 -- Arthur C. Clarke*
 
-> *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."*
+> *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
+-- Unknown*
 
 > *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
 -- HN_dilemma*
@@ -169,7 +170,8 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."  
 -- Marcus Aurelius*
 
-> *"What Susie says of Sally says more about Susie than of Sally."*
+> *"What Susie says of Sally says more about Susie than of Sally."  
+-- Unknown*
 
 > *"Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?"  
 -- George Carlin*
@@ -278,7 +280,10 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"The truth is rarely pure and never simple."  
 -- Oscar Wilde*
 
-> *"There are 3 truths: my truth, your truth, and the truth."  
+> *"There are 3 truths: my truth, your truth, and the truth." (...)  
+"Who’s talking the truth doesn’t need a lot of words." (...)  
+"A lie has many variations, the truth none." (...)  
+"Tell the truth and run."  
 -- Unknown*
 
 Truth does not mind to be questioned. A lie does not like being challenged.
@@ -287,9 +292,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 > *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
 -- Patrick Moynihan*
-
-> *"Who’s talking the truth doesn’t need a lot of words."  
--- Unknown*
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
@@ -309,9 +311,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"A lie has speed but truth has endurance."  
 -- Edgar J. Mohn*
 
-> *"A lie has many variations, the truth none."  
--- Unknown*
-
 > *"Exactitude is not truth."  
 -- Henry Matisse*
 
@@ -320,9 +319,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 > *The closer you are to the truth, the more silent you become inside."  
 -- Naval Ravikant*
-
-> *"Tell the truth and run."  
--- Unknown*
 
 
 
@@ -748,7 +744,8 @@ Hints:
 > *"When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It’s hard to compete with businesses who have correctly identified the right variables to maximize or minimize."  
 -- Charlie Munger*
 
-> *"A man with a watch knows what time it is. A man with two watches is never sure."  
+> *"A man with a watch knows what time it is. A man with two watches is never sure." (...)  
+"If you want a well, only dig in one place."  
 -- Unknown*
 
 > *"I want to know God’s thoughts; the rest are details."  
@@ -768,9 +765,6 @@ Hints:
 
 > *"A wealth of information creates a poverty of attention."  
 -- Herbert Simon*
-
-> *"If you want a well, only dig in one place."  
--- Unknown*
 
 > *"Learn to be indifferent to what makes no difference."  
 -- Marcus Aurelius*
@@ -1122,7 +1116,8 @@ Hints:
 > *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
 -- Hannah Arendt*
 
-> *"A man is not deceived by others, he deceives himself."  
+> *"A man is not deceived by others, he deceives himself." (...)  
+"The senses do not deceive; it is the judgment that deceives."  
 -- Goethe*
 
 > *"Appear weak when you are strong and strong when you are weak."  
@@ -1131,9 +1126,6 @@ Hints:
 If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don’t do well on the short term.
 
 By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you. However deceiving is not lying. Lying is like a nuclear bomb, the effects will be there for a long time. Disappointment destroys trust.
-
-> *"The senses do not deceive; it is the judgment that deceives."  
--- Goethe*
 
 > *"Conceal your intention."  
 "Say less than necessary."  
@@ -1237,15 +1229,13 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"Crush your enemy totally."  
 -- Robert Greene (15th law of power)*
 
-> *"Ultimately the only peace and security you can hope for from your enemies is their disappearance."*
-
-> *"You finished ahead of time, that means you forgot something."*
+> *"Ultimately the only peace and security you can hope for from your enemies is their disappearance." (...)  
+"You finished ahead of time, that means you forgot something." (...)  
+"There are lots of overnight tragedies. There are rarely overnight miracles."  
+-- Unknown*
 
 > *"All endings are also beginnings. We just don’t know it at the time."  
 -- Mitch Albom*
-
-> *"There are lots of overnight tragedies. There are rarely overnight miracles."  
--- Unknown*
 
 
 
@@ -1298,7 +1288,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 > *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."  
 -- George Smith Patton*
 
-> *"We prefer to see winners as naturally talented rather then hard working. Because if it were reversed, what would that inply to us?"
+> *"We prefer to see winners as naturally talented rather then hard working. Because if it were reversed, what would that inply to us?"  
 -- Naval Ravikant*
 
 > *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
@@ -1322,15 +1312,13 @@ Winning is not the end of the road; it’s just a stop along the way.
 > *"It only hurts when you don’t have time to prepare for the fall."  
 -- Tony Hawk*
 
-> *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering."  
+> *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering." (...)  
+"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere."  
 -- Paulo Coelho*
 
 Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
 
 In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning. Surrendering to constant reinvention.
-
-> *"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere."  
--- Paulo Coelho*
 
 > *"When we are no longer able to change a situation, we are challenged to change ourselves."  
 -- Victor Frankl*
@@ -1344,7 +1332,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 > *"Only the weak are cruel. Gentleness can only be expected from the strong."  
 -- Leo Buscaglia*
 
-> *"Violence is the last refuge of the incompetent.*
+> *"Violence is the last refuge of the incompetent."  
 -- Isaac Asimov*
 
 > *"When someone is kicking your ass, at least you know that you are out in front."  
