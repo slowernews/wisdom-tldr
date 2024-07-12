@@ -1,18 +1,19 @@
-- [----] ALTEREGO, Prof. Quirrel (fictional)
-- [----] BEAUREGARD, Jack (fictional)
-- [----] DENT, Harvey (fictional)
-- [----] DRAPER, Don (fictional)
-- [----] MONTANA, Tony (fictional)
-- [----] PLOUGHMAN, Tara (fictional)
-- [----] TYRION (fictional)
-- [----] Book: Bible
-- [----] Book: Talmud
-- [----] Book: Valve employee
-- [----] Hacker News: bane
-- [----] Hacker News: danielvf
-- [----] Hacker News: dilemma
-- [----] Hacker News: exelius
-- [----] Unknown
+- [FICTIONAL] ALTEREGO, Prof. Quirrel
+- [FICTIONAL] BEAUREGARD, Jack
+- [FICTIONAL] DENT, Harvey
+- [FICTIONAL] DRAPER, Don
+- [FICTIONAL] MONTANA, Tony
+- [FICTIONAL] PLOUGHMAN, Tara
+- [FICTIONAL] TYRION
+- [BOOK] Bible
+- [BOOK] Talmud
+- [BOOK] Valve employee
+- [NEWS.YCOMBINATOR] bane
+- [NEWS.YCOMBINATOR] danielvf
+- [NEWS.YCOMBINATOR] dilemma
+- [NEWS.YCOMBINATOR] exelius
+
+- [????] Unknown
 - [-680] ARCHILOCHUS (gr)
 - [-571] TZU, Lao (cn)
 - [-551] CONFUCIUS (cn)
@@ -28,16 +29,21 @@
 - [-106] CICERO (it)
 - [-039] OVID (it)
 - [-004] SENECA (it)
+
 - [0046] PLUTARCH (gr)
 - [0050] EPICTETUS (gr)
 - [0121] AURELIUS, Marcus (it)
+
 - [1181] ASSISI, Francis of (it)
 - [1270] WALLACE, William (uk)
+
 - [1469] MACHIAVELLI, Niccoló (it)
 - [1475] MICHAELANGELO (it)
+
 - [1533] MONTAIGNE, Michel de (fr)
 - [1561] BACON, Francis (uk)
 - [1593] HERBERT, George (uk)
+
 - [1601] GRACIAN, Balthasar (es)
 - [1613] LA ROCHEFOUCAULD, François de (fr)
 - [1621] FONTAINE, Jean de La (fr)
@@ -46,6 +52,7 @@
 - [1651] FÉNELON, François (fr)
 - [1667] SWIFT, Jonathan (ie)
 - [1694] VOLTAIRE (fr)
+
 - [1706] FRANKLIN, Benjamin (us)
 - [1711] HUME, David (uk)
 - [1717] WALPOLE, Horace (uk)
@@ -61,6 +68,7 @@
 - [1775] BEECHER, Lyman (us)
 - [1788] SCHOPENHAUER, Arthur (de)
 - [1790] SMITH, Adam (uk)
+
 - [1803] BULWER-LYTTON, Edward (uk)
 - [1803] EMERSON, Ralph Waldo (us)
 - [1804] DISRAELI, Benjamin (uk)
@@ -68,20 +76,25 @@
 - [1806] MILL, John Stuart (uk)
 - [1809] LINCOLN, Abraham (us)
 - [1809] POE, Edgar Allan (us)
+
 - [1813] BEECHER, Henry Ward (us)
 - [1813] KIERKEGAARD, Soren(dk) 
 - [1815] BISMARCK, Otto von (de)
 - [1819] ELIOT, George (uk)
 - [1820] BOVEE, Christian Nestell (us)
+
 - [1821] BUCKLE, Henry Thomas (uk)
 - [1821] DOSTOYEVSKY, Fyodor (ru)
+
 - [1832] CARROLL, Lewis (uk)
 - [1834] STEPHENS, J.W. (us)
 - [1835] TWAIN, Mark (us)
 - [1838] MUIR, John (uk)
+
 - [1842] KROPOTKIN, Peter (ru)
 - [1844] NIETZSCHE, Friedrich (de)
 - [1847] EDISON, Thomas (us)
+
 - [1853] GOGH, Vincent Van (nl)
 - [1854] WILDE, Oscar (ie)
 - [1856] FREUD, Sigmund (at)
@@ -89,6 +102,7 @@
 - [1856] SHAW, George Bernard (ie)
 - [1856] WASHINGTON, Booker T. (us)
 - [1858] ROOSEVELT, Theodore (us)
+
 - [1862] HENRY, O. (us)
 - [1862] WHARTON, Edith (us)
 - [1863] FORD, Henry (us)
@@ -102,6 +116,7 @@
 - [1869] GANDHI, Mahatma (in)
 - [1869] GIDE, André (fr)
 - [1870] LENIN, Vladimir (ru)
+
 - [1872] HOFMANNSTHAL (Lord Chandos), Hugo von (at)
 - [1872] RUSSELL, Bertrand (uk)
 - [1873] COLETTE (fr)
@@ -115,6 +130,7 @@
 - [1878] HAMMERSTEIN-EQUORD, Kurt von (de)
 - [1879] EINSTEIN, Albert (de)
 - [1880] KELLER, Helen (us)
+
 - [1881] PICASSO, Pablo (es)
 - [1882] MILNE, A.A. (uk)
 - [1882] SWOPE, Herbert (us)
@@ -134,6 +150,7 @@
 - [1889] BENCHLEY, Robert (us)
 - [1889] COCTEAU, Jean (fr)
 - [1889] WITTGENSTEIN, Ludwig (at)
+
 - [1890] MARX, Groucho (us)
 - [1892] BUCK, Pearl S. (us)
 - [1892] CARR, Edward (uk)
@@ -155,6 +172,7 @@
 - [1899] WHITE, E.B. (us)
 - [1900] MITCHELL, Margaret (us)
 - [1900] SAINT-EXUPÉRY, Antoine de (fr)
+
 - [1901] DISNEY, Walt (us)
 - [1901] EUWE, Max (nl)
 - [1901] PAULING, Linus (us)
@@ -181,6 +199,7 @@
 - [1910] LEVENSTEIN, Aaron (us)
 - [1910] WALKER, Aaron (us)
 - [1910] WOODEN, John (us)
+
 - [1911] OGILVY, David (uk)
 - [1911] SCHUMACHER, Ernst F. (de)
 - [1911] WILLIAMS, Tennessee (us)
@@ -204,6 +223,7 @@
 - [1920] ASIMOV, Isaac (ru)
 - [1920] BRADBURY, Ray (us)
 - [1920] BUKOWSKI, Charles (de)
+
 - [1921] JONES, James (us)
 - [1921] WARD, William Arthur (us)
 - [1922] CARTWRIGHT, Rosalind (us)
@@ -233,6 +253,7 @@
 - [1930] CHAMBERLAIN, Geoffrey P. (uk)
 - [1930] DIJKSTRA, Edsger (nl)
 - [1930] ROHN, Jim (us)
+
 - [1932] COVEY, Stephen (us)
 - [1932] PLATH, Sylvia (us)
 - [1932] ROBBINS, Tom (us)
@@ -264,6 +285,7 @@
 - [1940] DYER, Wayne (us)
 - [1940] KAY, Alan (us)
 - [1940] LENNON, John (uk)
+
 - [1941] DAWKINS, Richard (us)
 - [1941] DYLAN, Bob (us)
 - [1942] BIDEN, Joe (us)
@@ -305,6 +327,7 @@
 - [194?] BAGULHO, Fernando (pt)
 - [1950] LEBOWITZ, Fran (us)
 - [1950] STROUSTRUP, Bjarne (dk)
+
 - [1951] REYNOLDS, Rick (us)
 - [1952] COPELAND, Stewart (us)
 - [1952] KELLY, Kevin (us)
@@ -335,6 +358,7 @@
 - [1960] HEJLSBERG, Anders (dk)
 - [1960] ROBBINS, Anthony (us)
 - [1960] TALEB, Nassim (lb)
+
 - [1961] ANDERSON, Laurie Halse (us)
 - [1961] GRETZKY, Wayne (ca)
 - [1961] KAUFMAN, Peter S. (us)
@@ -372,11 +396,13 @@
 - [1970] DIFRANCO, Ani (us)
 - [1970] MILEI, Javier (ar)
 - [1970] SNICKET, Lemony (us)
+
 - [1971] BUTCHER, Jim (us)
 - [1971] CHACHRA, Deb (us)
 - [1971] HAMPTON, Dream (us)
 - [1971] HODGMAN, John (us)
 - [1971] MALLOUK, Peter (jo)
+- [1971] MUSK, Elon (za)
 - [1972] CUDDY, Amy (us)
 - [1972] MIÉVILLE, China (uk)
 - [1973] AUTUMN, Emilie (us)
@@ -406,6 +432,7 @@
 - [1979] FITZPATRICK, Becca (us)
 - [1980] FERREIRA, E. (pt)
 - [1980] HARBINGER, Jordan (us)
+
 - [1982] NEWPORT, Cal (us)
 - [1982] SETHI, Ramit (us)
 - [1982] VELEZ, David (co)
@@ -416,8 +443,10 @@
 - [1986] BENOIT, Andy (us)
 - [1986] TATE, Andrew (uk)
 - [1987] HOLIDAY, Ryan (us)
+
 - [1990] HILDEBRAND, Sarah (my)
 - [1997] NESTARES, Santiago (us)
+
 - [????] BALL, George (us)
 - [????] BLAIR, Tor (us)
 - [????] BLOOM, Sahil (us)
@@ -435,5 +464,6 @@
 - [????] SOMMER, Bobby (us)
 - [????] WINFELD, Carl (us)
 - [????] YOGI, Lazy
+- [19??] DEN HEIJER, Alexander (nl)
 - [genY] KARIV, Dan (us)
 - [genY] SMITH (n, Té V.garn)

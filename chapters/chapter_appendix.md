@@ -35,8 +35,8 @@ Life becomes easy when you recognize the recurring patterns.
 > *"Life is understood backwards, but must be lived forwards."  
 -- Soren Kierkegaard*
 
-> *"The years say, what the days can’t tell."  
--- Unknown*
+> *"The years teach much which the days never know."  
+-- Ralph Waldo Emerson*
 
 > *"There are decades when nothing happens and there are weeks when decades happen."  
 -- Vladimir Lenin*
@@ -52,9 +52,6 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky*
 
-> *"He’d wasted most of his life thinking he’d wasted most of his life."  
--- Unknown*
-
 > *"You never know the value of a moment until it becomes a memory."  
 -- Unknown*
 
@@ -67,11 +64,14 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"I don’t know any longer whether I’m living or remembering."  
 -- Albert Camus*
 
+> *"But how can you live and have no story to tell?"  
+-- Fyodor Dostoyevsky*
+
 > *"The worst part of holding the memories is not the pain. It’s the loneliness of it. Memories need to be shared."  
 -- Lois Lowry*
 
-> *"But how can you live and have no story to tell?"  
--- Fyodor Dostoyevsky*
+> *"He’d wasted most of his life thinking he’d wasted most of his life."  
+-- Unknown*
 
 ### How memory works?
 
@@ -437,7 +437,7 @@ Making money is not about luck.
 
 ### Nearly free stuff
 
-Books, friends, sleep, stopping bad habits, ideas, questions, gratefulness, laugh.
+Books, friends, sleep, ideas, questions, gratefulness, laugh.
 
 
 
@@ -447,6 +447,10 @@ Books, friends, sleep, stopping bad habits, ideas, questions, gratefulness, laug
 ---
 ## On popularity
 
+<!--
+Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product. -- Elon Musk
+-->
+
 > *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
 -- Bjarne Stroustrup*
 
@@ -454,8 +458,8 @@ See fame as a multiplier.
 
 People say they want to be famous to impact the world, often what they want is the adoration of their peers.
 
-> *"The reward for getting on the stage is fame. The price of fame is that you can’t get off stage." (...)  
-"If you’re not ready to be hated, you’re not ready to be famous." (...)  
+> *"If you’re not ready to be hated, you’re not ready to be famous." (...)  
+"The reward for getting on the stage is fame. The price of fame is that you can’t get off stage." (...)  
 "You want to be rich and anonymous, not poor and famous."
 -- Naval Ravikant*
 
@@ -484,37 +488,37 @@ People say they want to be famous to impact the world, often what they want is t
 
 Unless you’re winning, life will seem unfair to you.
 
-Bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. The best things in life are born from coincidence. «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn’t repeat on one’s lifetime. Everything is a pattern.
+Bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn’t repeat on one’s lifetime. Everything is a pattern.
 
 > *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
 -- Naval Ravikant*
+
+> *"The devil always takes back his gifts."  
+-- Unknown*
 
 > *"Coincidence is God’s way of remaining anonymous." (...)  
 "God is subtle but he is not malicious."  
 -- Albert Einstein*
 
-> *"The devil always takes back his gifts."  
--- Unknown*
-
 ### On risk and chance
+
+> *"Luck is what happens when preparation meets opportunity."  
+-- Seneca*
 
 Risk is everything you left over and didn’t thought about.
 
 	Risk = Threats x Vulnerabilities
 
-Every outcome in life is guided by forces other than individual effort. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. Luck and risk are two faces of the same coin.
+ Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. Luck and risk are two faces of the same coin.
 
-> *"Things that come with little help of luck are more resistant to randomness."  
--- Nassim Taleb*
-
-> *"Luck is what happens when preparation meets opportunity."  
--- Seneca*
+> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
+-- Robert Schiller*
 
 > *"The day you decide to do it is your lucky day."  
 -- Unknown*
 
-> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
--- Robert Schiller*
+> *"Things that come with little help of luck are more resistant to randomness."  
+-- Nassim Taleb*
 
 
 
@@ -601,11 +605,11 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"Each of us, when our day’s work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves."  
 -- O. Henry*
 
-> *"Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t."  
--- Ramit Sethi*
-
 > *"Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will."  
 -- Kevin Kelly*
+
+> *"Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t."  
+-- Ramit Sethi*
 
 > *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
 -- Colette*
@@ -745,7 +749,7 @@ Fear, not failure, is the biggest barrier to success. Some people are terrified 
 
 We don’t get successful by knowing everything, we get successful by listening.
 
-> *"Doubt kills more dreams than failure ever will."*
+> *"Doubt kills more dreams than failure ever will."  
 -- Suzy Kassem*
 
 > *"Whether you think you can, or you think you can’t, you’re right."  

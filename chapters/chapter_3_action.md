@@ -11,6 +11,27 @@
 ## On creativity
 
 <!--
+> *"The possible's slow fuse is lit by the imagination."
+-- Emily Dickinson*
+> *"In order to attain the impossible, one must attempt the absurd."
+-- Miguel de Cervantes*
+> *"It's kind of fun to do the impossible!"
+-- Walt Disney*
+> *"What is now proved, was once only imagined."
+-- William Blake*
+> *"The limits of the possible can only be defined by going beyond them into the impossible."
+-- Arthur C. Clarke*
+> *"Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing."
+-- John Andrew Holmes*
+> *"If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours."
+-- Henry David Thoreau*
+> *"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."
+-- Albert Einstein*
+> *"The future belongs to those who see possibilities before they become obvious."
+-- John Sculley*
+> *"When nothing is sure, everything is possible."
+-- Margaret Drabble*
+
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 - Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts

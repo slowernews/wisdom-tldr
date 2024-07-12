@@ -556,6 +556,15 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 ## On achieving mastery
 
 <!--
+> *"In the beginner's mind there are many possibilities, in the expert's mind there are few."
+-- Shunryu Suzuki*
+> *"This has always been a motto of mine: Attempt the impossible in order to improve your work."
+-- Bette Davis*
+> *"I am always doing that which I cannot do, in order that I may learn how to do it."
+-- Pablo Picasso*
+> *"If we all did the things we are capable of doing, we would literally astound ourselves."
+-- Thomas Edison*
+
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
