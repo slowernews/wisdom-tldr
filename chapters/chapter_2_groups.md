@@ -530,8 +530,6 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 <!--
 > *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
 -- Winston Churchill*
-> *"Good advice helps you find the solution to your problem. Great advice helps you find you were solving the wrong problem."  
--- Merlin Mann*
 
 - don’t take criticism from people that you would never go for advice.
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
@@ -561,6 +559,9 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 
 > *"If something is too early to criticize, it’s also too early to evangelize."  
 -- Kelsey Hightower*
+
+> *"Good advice helps you find the solution to your problem. Great advice helps you find you were solving the wrong problem."  
+-- Merlin Mann*
 
 ### How to find mentors?
 
@@ -753,6 +754,10 @@ Hints:
 <!--
 > *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  
 -- Jorge Luis Borges*
+> *"When you are on the bottom you can’t afford to look like you belong there."  
+-- Mike Downey*
+> *"There is no exception to the rule that everybody likes to be an exception to the rule."  
+-- Malcolm Forbes*
 
 - Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 - People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
@@ -1144,8 +1149,6 @@ Hints:
 ## On opponents and allies
 
 <!--
-> *"The world is divided between victims and predators, and you have to defend yourself against both."  
--- Florenz Baron*
 > *"When working surround yourself with people more sucessful than you. when playing surround yourself with people happier than you."  
 -- Naval Ravikant*
 > *"Só os mais corajosos conseguem fazer a paz."  
@@ -1153,8 +1156,6 @@ Hints:
 > *"Who lies for you will lie against you." (...)  
 "Talkers aren’t strong. The strong don’t talk."  
 -- Unknown*
-> *"Any person capable of angering you becomes your master."  
--- Epictetus*
 
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
 - every snowflake is different but all snow is the same.
@@ -1172,11 +1173,17 @@ Beware of all players.
 
 People are amazing optimizers and will find any loopholes or gaps to their advantage. Only your parents will help you in a way that is prejudicial to them.
 
+> *"The world is divided between victims and predators, and you have to defend yourself against both."  
+-- Florenz Baron*
+
 > *"Show me a hero, and I’ll write you a tragedy."  
 -- F. Scott Fitzgerald*
 
 > *"The enemy is fear. We think it is hate, but it is fear."  
 -- Ghandi*
+
+> *"Any person capable of angering you becomes your master."  
+-- Epictetus*
 
 ### On easy opponents
 
@@ -1467,6 +1474,7 @@ Hints:
 
 <!--
 - i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
+- "estava a perder o controlo da minha carreira" -- vertonghen
 - philosophy improves your intellectual rigor!
 - behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
 - remote killed HR
@@ -1480,7 +1488,6 @@ Hints:
 - The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
 - doing things you enjoy / doing things you're good at / doing things other people want
 - nobody ever gets credit for fixing problems that never happened
-- "estava a perder o controlo da minha carreira" -- vertonghen
 -->
 
 > *"Look for the job that you would take if you didn’t need a job."  
@@ -1550,7 +1557,7 @@ Avoid the trap of following one set career path, focus on being useful. My passi
 -- Unknown*
 
 > *"My luggage is always ready."  
--- Jorge Jesus*
+-- Jorge Jesus (soccer coach)*
 
 You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
 

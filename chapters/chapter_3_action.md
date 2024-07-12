@@ -11,27 +11,6 @@
 ## On creativity
 
 <!--
-> *"The possible's slow fuse is lit by the imagination."
--- Emily Dickinson*
-> *"In order to attain the impossible, one must attempt the absurd."
--- Miguel de Cervantes*
-> *"It's kind of fun to do the impossible!"
--- Walt Disney*
-> *"What is now proved, was once only imagined."
--- William Blake*
-> *"The limits of the possible can only be defined by going beyond them into the impossible."
--- Arthur C. Clarke*
-> *"Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing."
--- John Andrew Holmes*
-> *"If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours."
--- Henry David Thoreau*
-> *"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."
--- Albert Einstein*
-> *"The future belongs to those who see possibilities before they become obvious."
--- John Sculley*
-> *"When nothing is sure, everything is possible."
--- Margaret Drabble*
-
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 - Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
@@ -64,6 +43,12 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 -- Oliver Wendell Holmes*
 
 > *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas."  
+-- Albert Einstein*
+
+> *"When nothing is sure, everything is possible."  
+-- Margaret Drabble*
+
+> *"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."  
 -- Albert Einstein*
 
 ### How to find good ideas?
@@ -143,6 +128,15 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"Nothing is more dangerous than an idea when it is the only one you have."  
 -- Emile Chartier*
 
+> *"In order to attain the impossible, one must attempt the absurd."  
+-- Miguel de Cervantes*
+
+> *"What is now proved, was once only imagined."  
+-- William Blake*
+
+> *"The limits of the possible can only be defined by going beyond them into the impossible."  
+-- Arthur C. Clarke*
+
 
 
 
@@ -194,18 +188,12 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection."  
 -- Henri Poincaré*
 
+> *"To understand is to know what to do."  
+-- Wittgenstein*
+
 ### Hints
 
 <!--
-> *"To understand is to know what to do."  
--- Wittgenstein*
-> *"Whenever there is an argument between two sides, find the third side."  
--- Kevin Kelly*
-> *"Anything you say before the word «but» does not count."  
--- Kevin Kelly*
-> *"If you don’t know, it’s because you are not interested in it."  
--- Naval Ravikant*
-
 - Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
 - if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
 - tese antitheses -> syntesis
@@ -271,6 +259,16 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 > *"An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice."  
 -- Louis Céline*
+
+> *"Whenever there is an argument between two sides, find the third side." (...)  
+"Anything you say before the word «but» does not count."  
+-- Kevin Kelly*
+
+> *"If you don’t know, it’s because you are not interested in it."  
+-- Naval Ravikant*
+
+> *"Don’t ask the barber whether you need a haircut."  
+-- Daniel S. Greenberg*
 
 ### On truth
 
@@ -414,19 +412,6 @@ Hints:
 -- Derek Sivers*
 > *"Se não houvesse decisoes eramos todos iguais."  
 -- António Simões*
-
-> *"When you are on the bottom you can’t afford to look like you belong there."  
--- Mike Downey*
-> *"Don’t ask the barber whether you need a haircut."  
--- Daniel S. Greenberg*
-> *"There is no exception to the rule that everybody likes to be an exception to the rule."  
--- Malcolm Forbes*
-> *"Clear thinkers take feedback from reality, not society." (...)  
-"The three big decisions: where you live, who you’re with, and what you’re doing." (...)  
-"In the age of infinite leverage, judgement is the most important skill." (...)  
-"Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
-"The only part you can’t outsource is judgement."  
--- Naval Ravikant*
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
 -- Mark Manson*
 
@@ -474,6 +459,13 @@ We think we make choices but our choices are influenced by others. We pick what 
 
 > *"A mistake repeated more than once is a decision."  
 -- Paulo Coelho*
+
+> *"Clear thinkers take feedback from reality, not society." (...)  
+"The three big decisions: where you live, who you’re with, and what you’re doing." (...)  
+"In the age of infinite leverage, judgement is the most important skill." (...)  
+"Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
+"The only part you can’t outsource is judgement."  
+-- Naval Ravikant*
 
 ### How to speed up decisions?
 
@@ -567,9 +559,6 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
-> *"Time is the longest distance between two places."  
--- Tennessee Williams*
-
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
@@ -902,9 +891,6 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *"If past history was all there was about the game, the richest people would be librarians."  
--- Warren Buffett*
-
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
@@ -1065,9 +1051,6 @@ Hints:
 ### On charming
 
 <!--
-> *"If you don’t care to be liked, they can’t touch you."  
--- Naval Ravikant*
-
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - the good reason and the real reason.
 - the best way to get someone’s attention is to stop giving them yours.
@@ -1110,6 +1093,9 @@ Hints:
 > *"Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends." (...)  
 "Compliment people behind their back. It’ll come back to you."  
 -- Kevin Kelly*
+
+> *"If you don’t care to be liked, they can’t touch you."  
+-- Naval Ravikant*
 
 ### On deceiving 
 

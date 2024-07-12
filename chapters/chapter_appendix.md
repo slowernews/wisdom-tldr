@@ -41,6 +41,9 @@ Life becomes easy when you recognize the recurring patterns.
 > *"Don’t bother fighting the old; just build the new."  
 -- Kevin Kelly*
 
+> *"If past history was all there was about the game, the richest people would be librarians."  
+-- Warren Buffett*
+
 You are your memory.
 
 However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don’t be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
@@ -149,9 +152,6 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
 -- Michaelangelo*
 
-> *"A man without a vision for his future always return to his past."  
--- Unknown*
-
 Dream big.
 
 An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don’t frighten you, they are not big enough.
@@ -177,6 +177,9 @@ An ambitious goal sets the bar so high that even a failure can be considered a s
 
 > *"Goals are dreams with deadlines."  
 -- Diana Scharf Hunt*
+
+> *"A man without a vision for his future always return to his past."  
+-- Unknown*
 
 Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
 
@@ -312,11 +315,12 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 -- Zan Perrion*
 -->
 
+> *"The difference between sounding smart and being smart is «I don’t know»." (...)  
+"The real test of intelligence is if you get what you want from life."  
+-- Naval Ravikant*
+
 > *"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction."  
 -- Ernst F. Schumacher*
-
-> *"The real test of intelligence is if you get what you want from life."  
--- Naval Ravikant*
 
 Talent is fragile and it’s the most sensitive envy trigger. To reveal the true nature of your intelligence rarely pays
 
@@ -328,9 +332,6 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"The true sign of intelligence is not knowledge but imagination." (...)  
 "The measure of intelligence is the ability to change."  
 -- Albert Einstein*
-
-> *"The difference between sounding smart and being smart is «I don’t know»."  
--- Naval Ravikant*
 
 > *"Intelligence is like a river: the deeper it is, the less noise it makes."  
 -- Milwaukee Journal Sentinel*
@@ -474,8 +475,6 @@ People say they want to be famous to impact the world, often what they want is t
 -- M. Vázquez Montalban*
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
-> *"Risk is what's left over when you think you've thought of everything."  
--- Carl Richards*
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -505,7 +504,7 @@ Bad luck is often bad planning. If you’re sure it’s not, be positive, the pe
 
 Risk is everything you left over and didn’t thought about.
 
-	Risk = Threats x Vulnerabilities
+	RISK = THREATS x VULNERABILITIES
 
  Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. Luck and risk are two faces of the same coin.
 
@@ -517,6 +516,9 @@ Risk is everything you left over and didn’t thought about.
 
 > *"Things that come with little help of luck are more resistant to randomness."  
 -- Nassim Taleb*
+
+> *"Risk is what's left over when you think you've thought of everything."  
+-- Carl Richards*
 
 
 
@@ -698,16 +700,10 @@ Hints:
 ---
 ## On success
 
-<!--
-> *"When working, surround yourself with people more successful than you.
-When playing, surround yourself with people happier than you. "  
--- Naval Ravikant*
--->
-
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
 
-	Success = Education + Action
+	SUCCESS = EDUCATION + ACTION
 
 There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period. Succeeding means securing advantage.
 
@@ -738,7 +734,8 @@ Success (and happiness) is internal not external. True fulfillment comes from li
 
 > *"The success formula: solve your own problems and freely share the solutions." (...)  
 "The price of growth is outgrowing people." (...)  
-"Predicting failure is easier than predicting success."  
+"Predicting failure is easier than predicting success." (...)  
+"When working, surround yourself with people more successful than you. When playing, surround yourself with people happier than you."  
 -- Naval Ravikant*
 
 ### On barriers to success
@@ -774,7 +771,7 @@ We don’t get successful by knowing everything, we get successful by listening.
 
 Wisdom is knowing the long-term consequences of your actions.
 
-	Wisdom = Inteligence + Experience
+	WISDOM = INTELIGENCE + EXPERIENCE
 
 > *"Doubt is the origin of wisdom."  
 -- René Descartes*
@@ -806,9 +803,7 @@ Wisdom is knowing the long-term consequences of your actions.
 > *"The four most expensive words in the English language: «This time is different»."  
 - which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
 > *"College is a fountain of knowledge...and the students are there to drink.*
-> *"Time is the best teacher; unfortunately it kills all its students.*
 > *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients: Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I’m pregnant. Who did it?"*
-- privacy is for cowards
 -->
 
 > *"Only the truth is funny."  
@@ -881,10 +876,6 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On humanness and irrationality
 
 <!--
-> *"Monkeys are superior to man in this: when a monkey looks into a mirror, he sees a monkey."  
--- Chazal*
-> *"The American people don't believe anything until they see it on television."  
--- Richard Nixon*
 - web3 assumes that people prefer privacy over free stuff, which is false.
 -->
 
@@ -920,6 +911,12 @@ Most people approach each and every year in the exact same way while expecting d
 > *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
 -- Unknown*
 
+> *"Monkeys are superior to man in this: when a monkey looks into a mirror, he sees a monkey."  
+-- Chazal*
+
+> *"The American people don't believe anything until they see it on television."  
+-- Richard Nixon*
+
 
 
 
@@ -927,11 +924,6 @@ Most people approach each and every year in the exact same way while expecting d
 
 ---
 ## On family and friends
-
-<!--
-- spend your time in the company of geniuses, sages, children and books. -- naval
-- routinely greeting six neighbours maximizes wellbeing - mr rogers
--->
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
 -- Unknown*
@@ -965,6 +957,9 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 > *"Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
 "Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
 -- Kevin Kelly*
+
+> *"Routinely greeting six neighbours maximizes wellbeing."  
+-- Mr. Rogers*
 
 ### How to curate your friends?
 
@@ -1010,7 +1005,8 @@ Hints:
 > *"Brothers love each other when they are equally rich."  
 -- Unknown*
 
-
+> *"Spend your time in the company of geniuses, sages, children and books."  
+-- Naval Ravikant*
 
 
 
@@ -1227,11 +1223,11 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"There are causes worth dying for, but none worth killing for."  
 -- Albert Camus*
 
-> *"Men never do evil so cheerfully and completely as when they do it from religious conviction."  
--- Blaise Pascal*
-
 > *"The first thing a man will do for his ideals is lie."  
 -- Joseph Schumpeter*
+
+> *"Men never do evil so cheerfully and completely as when they do it from religious conviction."  
+-- Blaise Pascal*
 
 > *"Fanaticism is always a sign of repressed doubt."  
 -- Carl Jung*
@@ -1245,9 +1241,6 @@ Against facts there are no arguments. Against faith there are no facts.
 ## On science
 
 <!--
-> *"The price of success in philosophy is triviality."  
--- C. Glymour*
-- technology is applied science
 - theories are explanations, not predictions. prediction comes after the explanation
 - theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
 - science transforms raw materials (resources) into civilization.
@@ -1297,6 +1290,8 @@ Against facts there are no arguments. Against faith there are no facts.
 
 Science is the study of truth. Science is about disproving, not proving. Everything that is not a law of nature is just a shared belief.
 
+Technology is applied science.
+
 > *"Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought."  
 -- Albert Szent-Gyorgyi*
 
@@ -1325,6 +1320,8 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 "Scientists who support silencing opposing voices are actually priests."  
 -- Naval Ravikant*
 
+> *"The price of success in philosophy is triviality."  
+-- C. Glymour*
 
 
 
@@ -1447,7 +1444,7 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 > *"I'm not interested in anything that's not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can't keep it going, I'm not interested in it."  
 -- Morgan Housel*
--->1
+-->
 
 > *"I succeeded because I have a long attention span. (...)  
 "Waiting helps you as an investor, and a lot of people just can’t stand to wait."  
@@ -1518,6 +1515,9 @@ Hints:
 *"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds." (...)  
 *"You’re looking for a mispriced gamble."  
 -- Charlie Munger*
+
+> *"The future belongs to those who see possibilities before they become obvious."  
+-- John Sculley*
 
 > *"Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land."  
 -- Adam Smith*
