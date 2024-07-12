@@ -553,7 +553,7 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 > *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever."  
 -- Unknown*
 
-> *"I’d rather have criticism from a genius than praise from an idiot."
+> *"I’d rather have criticism from a genius than praise from an idiot."  
 -- Unknown*
 
 > *"A critic is a legless man who teaches running."  
@@ -910,7 +910,7 @@ Hints:
 > *"Love your neighbour, yet don’t pull down your hedge."  
 -- Benjamin Franklin*
 
-> *"Good fences make good neighbors."
+> *"Good fences make good neighbors."  
 -- Robert Frost*
 
 > *"Every decent man is ashamed of the government he lives under."  
@@ -1036,7 +1036,7 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it."  
 -- Anders Hejlsberg*
 
-> *"Gold rushes make the shovel sellers rich, not the gold seekers."
+> *"Gold rushes make the shovel sellers rich, not the gold seekers."  
 -- Unknown*
 
 > *"No snowflake in an avalanche ever feels responsible."  
@@ -1084,7 +1084,7 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 > *"Don’t ever take a fence down until you know the reason why it was put up."  
 -- G.K. Chesterton*
 
-> *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"
+> *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"  
 -- Unknown*
 
 > *"Even a foolish person can still be right about most things. Most conventional wisdom is true." (...)  
@@ -1248,10 +1248,8 @@ Hint:
 > *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
 -- Peter Kropotkin*
 
-> *"United we are rock, divided we are sand."  
--- Unknown*
-
-> *"Hungry dogs are never loyal."  
+> *"United we are rock, divided we are sand." (...)  
+"Hungry dogs are never loyal."  
 -- Unknown*
 
 > *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  

@@ -46,7 +46,7 @@
 
 - [1601] GRACIAN, Balthasar (es)
 - [1613] LA ROCHEFOUCAULD, François de (fr)
-- [1621] FONTAINE, Jean de La (fr)
+- [1621] LA FONTAINE, Jean de (fr)
 - [1623] PASCAL, Blaise (fr)
 - [1631] DRYDEN, John (uk)
 - [1651] FÉNELON, François (fr)

@@ -11,9 +11,6 @@
 ## On past and memory
 
 <!--
-> *"Don’t bother fighting the old; just build the new."  
--- Kevin Kelly*
-
 - history books are on the history of power.
 - o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
 -->
@@ -40,6 +37,9 @@ Life becomes easy when you recognize the recurring patterns.
 
 > *"There are decades when nothing happens and there are weeks when decades happen."  
 -- Vladimir Lenin*
+
+> *"Don’t bother fighting the old; just build the new."  
+-- Kevin Kelly*
 
 You are your memory.
 
