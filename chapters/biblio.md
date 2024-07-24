@@ -13,7 +13,7 @@
 - [NEWS.YCOMBINATOR] dilemma
 - [NEWS.YCOMBINATOR] exelius
 
-- [????] Unknown
+- [????] SOPHOCLES (gr)
 - [-680] ARCHILOCHUS (gr)
 - [-571] TZU, Lao (cn)
 - [-551] CONFUCIUS (cn)
@@ -150,8 +150,8 @@
 - [1889] BENCHLEY, Robert (us)
 - [1889] COCTEAU, Jean (fr)
 - [1889] WITTGENSTEIN, Ludwig (at)
-
 - [1890] MARX, Groucho (us)
+
 - [1892] BUCK, Pearl S. (us)
 - [1892] CARR, Edward (uk)
 - [1892] GORE-BROWN, R. (uk)
@@ -430,8 +430,10 @@
 - [1978] NEMER, Jason (us)
 - [1978] TORRE, Alessandra (us)
 - [1979] FITZPATRICK, Becca (us)
-- [1980] FERREIRA, E. (pt)
 - [1980] HARBINGER, Jordan (us)
+<!--
+- [1980] FERREIRA, E. (pt)
+-->
 
 - [1982] NEWPORT, Cal (us)
 - [1982] SETHI, Ramit (us)

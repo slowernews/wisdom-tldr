@@ -19,10 +19,10 @@
 > *"The secret to creativity is knowing how to hide your sources."  
 -- Albert Einstein*
 
-Creative minds are rarely tidy. We don’t have an «imagination» we have a memory. Creativity is subtraction.
+Creative minds are rarely tidy. We don’t have an «imagination» we have a memory. More than addition, creativity is subtraction.
 
 > *"Good artists copy; great artists steal."  
--- Steve Jobs & others*
+-- (popularized by) Steve Jobs*
 
 > *"Those who do not want to imitate anything, produce nothing."  
 -- Salvador Dali*
@@ -42,14 +42,12 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 > *"One’s mind, once stretched by a new idea, never regains its original dimensions."  
 -- Oliver Wendell Holmes*
 
-> *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas."  
+> *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas." (...)  
+"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."  
 -- Albert Einstein*
 
 > *"When nothing is sure, everything is possible."  
 -- Margaret Drabble*
-
-> *"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."  
--- Albert Einstein*
 
 ### How to find good ideas?
 
@@ -191,6 +189,9 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"To understand is to know what to do."  
 -- Wittgenstein*
 
+> *"Nothing is as good or as bad as it seems."  
+-- Scott Galloway*
+
 ### Hints
 
 <!--
@@ -236,7 +237,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things."  
 -- Benjamin Franklin*
 
-> *"Things which are different in order to be different are seldom better, but that which is made to be better is almost always different."  
+> *"Things which are different in order to be different are seldom better, but that which is made to be better is almost always different."  
 -- Dieter Rams*
 
 > *"Experiment and theory often show remarkable agreement when performed in the same laboratory"  
@@ -390,9 +391,6 @@ Hints:
 > *"You make plans and god laughs."  
 -- Unknown*
 
-> *"Everyone has a plan until they get punched in the mouth."  
--- Mike Tyson*
-
 > *"The wise warrior avoids the battle."  
 -- Sun Tzu*
 
@@ -408,8 +406,6 @@ Hints:
 ## On decision making
 
 <!--
-> *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
--- Derek Sivers*
 > *"Se não houvesse decisoes eramos todos iguais."  
 -- António Simões*
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
@@ -451,9 +447,6 @@ We think we make choices but our choices are influenced by others. We pick what 
 > *"I am not a product of my circumstances. I am a product of my decisions."  
 -- Stephen Cove*
 
-> *"The heart decides. The head rationalizes."  
--- Naval Ravikant*
-
 > *"Opportunity cost is how intelligent people assess things."  
 -- Charlie Munger*
 
@@ -464,8 +457,12 @@ We think we make choices but our choices are influenced by others. We pick what 
 "The three big decisions: where you live, who you’re with, and what you’re doing." (...)  
 "In the age of infinite leverage, judgement is the most important skill." (...)  
 "Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
-"The only part you can’t outsource is judgement."  
+"The only part you can’t outsource is judgement." (...)  
+> *"The heart decides. The head rationalizes."  
 -- Naval Ravikant*
+
+> *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
+-- Derek Sivers*
 
 ### How to speed up decisions?
 
@@ -853,9 +850,6 @@ Consuming information gives the control freak an illusion of control. He doesn�
 
 <!--
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
-
-> *"Nothing is as good or as bad as it seems."  
--- Scott Galloway*
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  
@@ -940,6 +934,9 @@ It’s scary to make those direction choices but fear is a great road sign."
 "Sometimes it’s easier to change the world than to change people’s minds."  
 -- Naval Ravikant*
 
+> *"Everyone has a plan until they get punched in the mouth."  
+-- Mike Tyson*
+
 Listen to predict a collapse.
 
 > *"When things break, it’s not the actual breaking that prevents them from getting back together again. It’s because a little piece gets lost - the two remaining ends couldn’t fit together even if they wanted to. The whole shape has changed."  
@@ -999,6 +996,8 @@ There are limits on change. Willpower is finite and change requires attention. H
 -- Kevin Kelly*
 > *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly*
+> *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
+-- Naval Ravikant*
 
 - drain opponent morale with unexpected defeat or unexpected strong defence.
 - every strenght has a complementary weakness. //ex. centralised (no duplication but slower) vs decentralised (faster but chaotic). abstract thinker vs local thinker. as qualidades s defeitos.
@@ -1017,12 +1016,9 @@ Their cheating had a small individual effect initially, so it went unnoticed. Bu
 > *"Never interrupt your enemy when he is making a mistake."  
 -- Napoleon Bonaparte*
 
-Leverage is a force multiplier.
-
 Strategy is about winning before the battle begins, tactics are about striking at weakness.
 
-Leverage your target weaknesses to raise your chances of winning.  
-Use methods like unpredictability, charming or mirroring. Even deceiving, some opponents may require special tools.
+Leverage is a force multiplier. Leverage your target weaknesses to raise your chances of winning. Use methods like unpredictability, charming or mirroring. Even deceiving, some opponents may require special tools.
 
 > *"The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
 A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
@@ -1054,10 +1050,9 @@ Hints:
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - the good reason and the real reason.
 - the best way to get someone’s attention is to stop giving them yours.
-- civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
 -->
 
-> *"We catch more flies with honey than vinegar."
+> *"We catch more flies with honey than vinegar."  
 -- Unknown*
 
 > *"To combat an adversary, become their friend."  
@@ -1071,17 +1066,17 @@ Hints:
 - Use absence and bait to attract people. It will become a challenge for them to win your affections. The ability to make others come to you is a weapon far more powerful than any tool of aggression. use it with moderation.
 - Instead of killing it, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.
 
-> *"Make other people come to you: use bait if necessary."  
-"Use absence to increase respect and honor."  
-"Use selective honesty and generosity to disarm your victim."  
-"Play a sucker to catch a sucker: seem dumber than your mark."  
-"Pose as a friend, work as a spy."  
-"Work on the hearts and minds of others."  
-"Discover each man’s thumbscrew."  
-"Court attention at all cost."  
-"Play to people’s fantasies."  
-"Create compelling spectacles."  
-"Stir up waters to catch fish."  
+> *"Make other people come to you: use bait if necessary." (...)  
+"Use absence to increase respect and honor." (...)  
+"Use selective honesty and generosity to disarm your victim." (...)  
+"Play a sucker to catch a sucker: seem dumber than your mark." (...)  
+"Pose as a friend, work as a spy." (...)  
+"Work on the hearts and minds of others." (...)  
+"Discover each man’s thumbscrew." (...)  
+"Court attention at all cost." (...)  
+"Play to people’s fantasies." (...)  
+"Create compelling spectacles." (...)  
+"Stir up waters to catch fish."
 -- Robert Greene (laws of power)*
 
 > *"I’ve never fooled anyone. I’ve let people fool themselves. They didn’t bother to find out who and what I was. Instead they would invent a character for me. I wouldn’t argue with them. They were obviously loving somebody I wasn’t."  
@@ -1213,7 +1208,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -- Pablo Picasso*
 
 > *"Crush your enemy totally."  
--- Robert Greene (15th law of power)*
+-- Robert Greene (laws of power)*
 
 > *"Ultimately the only peace and security you can hope for from your enemies is their disappearance." (...)  
 "You finished ahead of time, that means you forgot something." (...)  
@@ -1251,7 +1246,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 > *"Win through your actions, never through argument."  
 ’Make your accomplishments seem effortless."  
--- Robert Greene (9th and 30th laws of power)*
+-- Robert Greene (laws of power)*
 
 > *"You only find out who is swimming naked when the tide goes out."  
 -- Warren Buffett*
@@ -1320,9 +1315,6 @@ In order to come back you have to go away. Use this opportunity to re-create you
 
 > *"Violence is the last refuge of the incompetent."  
 -- Isaac Asimov*
-
-> *"When someone is kicking your ass, at least you know that you are out in front."  
--- Donald Bartel*
 
 ### On forgiveness
 

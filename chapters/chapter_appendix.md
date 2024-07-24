@@ -211,9 +211,6 @@ After reaching a certain age, you are no longer seen as an individual; you becom
 > *"Every one desires to live long, but no one would be old."  
 -- Jonathan Swift*
 
-> *"Everybody wants to go to heaven, but nobody wants to die."  
--- Unknown*
-
 > *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. Theer was no transitional period."  
 -- Stan Ulam*
 
@@ -297,6 +294,8 @@ Finding a place to die is an important thing to do.
 > *"Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree."  
 -- Kevin Kelly*
 
+> *"Everybody wants to go to heaven, but nobody wants to die."  
+-- Unknown*
 
 
 
@@ -543,6 +542,9 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 
 > *"Dress shabbily and they remember the dress; dress impeccably and they remember the woman."  
 -- Coco Chanel*
+
+> *"Beauty needs a witness. This the only thing a man ever needs to know."  
+-- Zan Perrion*
 
 > *"Elegance is a physical quality. If a woman doesn’t have it naked, she’ll never have it clothed."  
 -- Karl Lagerfeld*
@@ -823,8 +825,8 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 > *"The world is a tragedy to those who feel, but a comedy to those who think."  
 -- Horace Walpole*
 
-> *"I miss being the age when I thought I would have my shit together by the time I was the age I am now." (...)
-"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)
+> *"I miss being the age when I thought I would have my shit together by the time I was the age I am now." (...)  
+"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)  
 "There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
 "Society: Be yourself. Society: Not like that."  
 -- Unknown*
@@ -850,10 +852,10 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 ### Where is home?
 
-> *"Home is where the bra isn’t."
+> *"Home is where the bra isn’t."  
 -- Unknown*
 
-> *"Home is where the parking lot is."
+> *"Home is where the parking lot is."  
 -- Unknown*
 
 ### What is love?
@@ -916,6 +918,9 @@ Most people approach each and every year in the exact same way while expecting d
 
 > *"The American people don't believe anything until they see it on television."  
 -- Richard Nixon*
+
+> *"There is no exception to the rule that everybody likes to be an exception to the rule."  
+-- Malcolm Forbes*
 
 
 
@@ -1017,9 +1022,6 @@ Hints:
 <!--
 - psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
 - I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
-
-> *"Both men and women are desperate to revive a broken relationship, to re-create the great love affair they had at the beginning. The difference is that women try to do it while it is ongoing, and men try to do it when it is over."  
--- Zan Perrion*
 -->
 
 > *"We accept the love we think we deserve."  
@@ -1111,6 +1113,9 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 > *"Men experience many passions in a lifetime. One passion drives away the one before it."  
 -- Paul Newman*
+
+> *"Both men and women are desperate to revive a broken relationship, to re-create the great love affair they had at the beginning. The difference is that women try to do it while it is ongoing, and men try to do it when it is over."  
+-- Zan Perrion*
 
 
 
@@ -1323,6 +1328,10 @@ Technology is applied science.
 > *"The price of success in philosophy is triviality."  
 -- C. Glymour*
 
+> *"Everything that can be invented has been invented."  
+-- Charles Duell (director of us patent office)*
+
+
 
 
 
@@ -1337,8 +1346,8 @@ Art is a meditation and design is a negotiation. Art is just another form of scr
 
 Artistic death is made by consensus.
 
-> *"All art is erotic." (...) 
-"Art washes away from the soul the dust of everyday life." (...)    
+> *"All art is erotic." (...)  
+"Art washes away from the soul the dust of everyday life." (...)  
 "Art is the lie that enables us to realize the truth."  
 -- Pablo Picasso*
 
@@ -1499,8 +1508,6 @@ Scared money never wins. It’s all about the risk of losing money versus the ri
 > *"It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism."  
 -- Howard Marks*
 
-Don’t buy on future hopes, buy on past mistakes. We don’t loose money on star businesses, we loose money on businesses we think will be star businesses.
-
 Hints:
 
 - What’s going to stay the same in the next ten years. While boring, offer the best investment opportunities.  
@@ -1510,6 +1517,7 @@ Hints:
 - The best companies aren’t sold, they’re bought. Stay away from junk stocks.
 - The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.  
 - Take risk from the table whenever possible.  
+- Don’t buy on future hopes, buy on past mistakes. We don’t loose money on star businesses, we loose money on businesses we think will be star businesses.
 
 > *"What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." (...)  
 *"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds." (...)  
@@ -1537,14 +1545,9 @@ Hints:
 ## On education
 
 <!--
-- polymaths are late bloomers. -- robin hanson
-- if you're not surprised you're not really learning.
-- you get rewarded for unique knowledge, not effort. effort is required to create unique knowledge. -- naval
 - don't be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
 - school's real study topic is obedience.
-- timeless: science, math, philosophy, rhetoric. First principles. Creating art & business. Family & lifelong friends. Habits to calm mind & body. Temporary: politics, news, estertainment. memrizing facts. hourly work. transactional relationships. drugs & doctors for mind and body. -- naval
 - school failed to: how to build self confidence / how to be good with money / dating and relationships skills / confrontation skills / critical thinking / creative productivity.
-- study math to understand physics. study physics to understand chemistry. study chemistry to understand biology. study biology to understand psychology. study psychology to understand economics. study economics and philosophy to be free. -- naval
 - the biggest mistake anyone makes when studying a foreign language is that they do it little by little, not jumping into it head first. language is not mathematics; one doen't need to learn it, one needs to get accustomed to it. it's not about logic or memory; it's about experience and skill.
 - the problem is not, and never have been, "as good as a professional". It has always been "it's good enoughto replace a professioanl so it'll be cheaper."
 - the key thing about AI is that AI+human is waht we'll do.
@@ -1558,6 +1561,8 @@ Hints:
 
 A college education may help you make a living. Self-education may make you a fortune. The value of formal education is signaling, rather than actual learning. The purpose of high education is first and foremost to meet people and build relationships.
 
+If you're not surprised you're not really learning.
+
 Education leads toward a continuing self-discovery; training leads toward a final self-definition. School rewards generalists, the world not so.
 
 > *"«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase «safety net»?
@@ -1567,11 +1572,12 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 > *"Education: the path from cocky ignorance to miserable uncertainty."  
 -- Mark Twain*
 
-> *"If you need a degree to do it, it’s not going to make you wealthy."  
-"Learning is cheap, education is expensive." (...)   
+> *"If you need a degree to do it, it’s not going to make you wealthy." (...)  
+"Learning is cheap, education is expensive." (...)  
 "Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out." (...)  
 "The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
 "The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology." (...)  
+"You get rewarded for unique knowledge, not effort. effort is required to create unique knowledge."  
 -- Naval Ravikant*
 
 > *"Education is what survives when what has been learnt has been forgotten."  
@@ -1580,10 +1586,15 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 > *"Learning is a treasure that will follow it’s owner everywhere."  
 -- Unknown*
 
+> *"Polymaths are late bloomers."  
+-- Robin Hanson*
+
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 
 > *"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths." (...)  
-"The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas - just learning. Actually you’re already here. Careful who you follow."  
+"The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas - just learning. Actually you’re already here. Careful who you follow." (...)  
+"Timeless: science, math, philosophy, rhetoric. First principles. Creating art & business. Family & lifelong friends. Habits to calm mind & body. Temporary: politics, news, estertainment. memrizing facts. hourly work. transactional relationships. drugs & doctors for mind and body." (...)  
+"study math to understand physics. study physics to understand chemistry. study chemistry to understand biology. study biology to understand psychology. study psychology to understand economics. study economics and philosophy to be free."  
 -- Naval Ravikant*
 
 
@@ -1701,7 +1712,7 @@ If you are writing to be read you are doing it wrongly. Write to learn not to te
 > *"I write because I don’t know what I think until I read what I say."  
 -- Flannery O’Connor*
 
-> *"The biggest lie we tell ourselves is «I dont need to write this down because I will remember it.»"
+> *"The biggest lie we tell ourselves is «I dont need to write this down because I will remember it.»"  
 -- Kevin Kelly*
 
 > *"This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.  
@@ -1742,7 +1753,7 @@ Hints:
 
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
 
-> *"The clash of ideas is the sound of freedom.
+> *"The clash of ideas is the sound of freedom."  
 -- Lady Bird Johnson*
 
 > *"If you’re writing for your followers, your followers are worthless." (...)  
@@ -1755,11 +1766,14 @@ News are the first draft of History but he human brain was not designed to proce
 
 
 ---
-## On computers and maths
+## On maths, computers and AI
 
 <!--
-- hash is a fingerprint of an amount of information. SHA256 -> 64 characters
+- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
+- llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
+
+- hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - blockchains are not personal-computing operational systems; they are social systems.
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
@@ -1798,13 +1812,6 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 ## On what women value in men
 
-<!--
-> *"What do women want? (...) Every woman wants to be in a love story."  
--- Zan Perrion*
-> *"Beauty needs a witness. This the only thing a man ever needs to know."  
--- Zan Perrion*
--->
-
 > *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
 -- Alessandra Torre*
 
@@ -1826,7 +1833,10 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 -- Unknown*
 
 > *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
--- Charles De Talleyrand-Perigord*
+-- Charles de Talleyrand-Perigord*
+
+> *"What do women want? (...) Every woman wants to be in a love story."  
+-- Zan Perrion*
 
 
 

@@ -599,6 +599,9 @@ True experts recognize the limits of what they know and what they do not know.
 
 > *"Amateurs play for tricks, masters play for position."*
 
+> *"You should take teh approach that you're wrong. Your goal is to be less wrong."  
+-- Elon Musk*
+
 ### Mastery and arrogance
 
 There’s always room for improvement; be humble. There is no place for a «prima donna».
@@ -707,7 +710,7 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 "Meditation isn’t hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I’m just going to give myself a break for an hour. This is my hour off from life. This is an hour I’m not going to do anything.»" (...)  
 "Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way." (...)  
 "All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies." (...)  
-"When it comes to nutrition, subtract before you add."
+"When it comes to nutrition, subtract before you add."  
 -- Naval Ravikant*
 
 ### On depression and anxiety
@@ -904,7 +907,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Courage is grace under pressure."  
 -- Ernest Hemingway*
 
-> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"
+> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"  
 -- Robert A. Heinlein*
 
 ### How to increase courage?
@@ -933,17 +936,14 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 ---
 ## On failure, mistakes and anger
 
-<!--
-- Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else.
-- Understand why we should fear missing opportunity more than we should fear failure.
--->
-
 > *"Experience is merely the name men gave to their mistakes."  
 -- Oscar Wilde*
 
 Sometimes you win, sometimes you learn. Fail fast and bounce back quickly.
 
-Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax.
+Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. We should fear missing opportunity more than we should fear failure.
+
+Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else.
 
 > *"Good judgment comes from experience. Experience comes from bad judgment."  
 -- Jim Horning*
@@ -980,27 +980,30 @@ Failure is only failure if you don’t learn from it. Accept it as part of the p
 > *"It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."  
 -- Chuck Palahniuk*
 
+> *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
+-- George Bernard Shaw*
+
+> *"You’re going to make mistakes in life. It’s what you do after the mistakes that counts."  
+-- Brandi Chastain*
+
 ### On anger
 
 Anger is a punishment we give ourselves for someone else’s mistake.
 
 ### On scars
 
-> *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
--- George Bernard Shaw*
+> *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
+-- China Mieville*
 
 Don’t punish yourself for failing. Failing is learning.
 
 You are more than your mistakes. Past mistakes are meant to guide you, not to define you.
 
-> *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
--- Alan Paton*
+> *"The scars you acquire by exercising courage will never make you feel inferior."  
+-- Giovanni Battista Cima*
 
 > *"It’s not just other people we need to forgive. Sometimes we need to forgive ourselves."  
 -- Mitch Albom*
-
-> *"You’re going to make mistakes in life. It’s what you do after the mistakes that counts."  
--- Brandi Chastain*
 
 > *"Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift."  
 -- Mary Oliver*
@@ -1009,11 +1012,8 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."  
 -- Kahlil Gibran*
 
-> *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
--- China Mieville*
-
-> *"The scars you acquire by exercising courage will never make you feel inferior."  
--- Giovanni Battista Cima*
+> *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
+-- Alan Paton*
 
 
 
@@ -1169,9 +1169,7 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 
 Jealousy is the face of low self-esteem.
 
-Treat haters like toddlers.
-
-When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy - they think that you’re better than them. If someone is copying you, you won.
+Treat haters like toddlers. When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy - they think that you’re better than them. If someone is copying you, you won.
 
 Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, ambition, fame, luck, beauty, health, freedom and a mix of them (lifestyle) are the main triggers.
 
@@ -1324,7 +1322,8 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 > *"People who can’t laugh at themselves will always be outwitted by people who can."  
 -- T.K. Coleman*
 
-> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have."  
+> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have." (...)  
+"A great way to understand yourself is to seriously reflect on everything you find irritating in others."  
 -- Kevin Kelly*
 
 Do you know anyone who doesn’t have any blind spots? So why would you be different?  

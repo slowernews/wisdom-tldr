@@ -8,23 +8,14 @@
 
 ## The real you
 
-> *"You are what you do, not what you say you’ll do."  
--- Carl Jung*
-
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant*
 
 > *"How we spend our days is how we spend our lives."  
 -- Annie Dillard*
 
-> *"A great way to understand yourself is to seriously reflect on everything you find irritating in others."  
--- Kevin Kelly*
-
 > *"It is better to be hated for what you are than to be loved for what you are not."  
 -- André Gide*
-
-> *"Do you want to know who you are? Don’t ask. Act! Action will delineate and define you."  
--- Thomas Jefferson*
 
 ### How to come alive?
 
@@ -34,12 +25,19 @@
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
 -- Alan Watts*
 
+> *"You are what you do, not what you say you’ll do."  
+-- Carl Jung*
+
+> *"What we think, we become."  
+-- Buddha*
+
+> *"You become what you think about all day long."  
+-- Ralph Waldo Emerson*
+
 > *"Action expresses priorities."  
 -- Mahatma Ghandi*
 
-No matter where you are in your life, you have the power to change everything in an instant. Most won't.
-
-There is no coming to consciousness without pain. To be real you need to be vulnerable. People will do anything to avoid facing their own soul. 
+No matter where you are in your life, you have the power to change everything in an instant. Most won't. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
 
 Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
 
@@ -50,29 +48,17 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 "When a flower doesn't bloom, you fix the environment in which it grows, not the flower."  
 -- Alexander Den Heijer*
 
-> *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."  
--- Warren Buffett*
-
 > *"Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive."  
 -- Howard Thurman*
+
+> *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."  
+-- Warren Buffett*
 
 > *"Whatever you are, be a good one."  
 -- Abraham Lincoln*
 
 > *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
 -- E.E. Cummings*
-
-> *"You become what you think about all day long."  
--- Ralph Waldo Emerson*
-
-> *"What we think, we become."  
--- Buddha*
-
-> *"What the superior man seeks is in himself; what the small man seeks is in others."  
--- Confucius*
-
-> *"The quality of your life is determined by the quality of the questions you ask. It’s as simple as that. Small minds sit in answers, great minds sit in questions. Always ask the greater questions and nevermore the small."  
--- Zan Perrion*
 
 > *"The shell must break before the bird can fly."  
 -- Alfred Lord Tennyson*
@@ -113,6 +99,10 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 > *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
 -- Mark Manson*
+
+> *"It is possible for ordinary people to choose to be extraordinary." (...)  
+"If you need inspiration, don't do it."
+-- Elon Musk*
 
 ### Hints 
 
@@ -301,3 +291,6 @@ Hints:
 
 > *"Melancholy is the happiness of being sad."  
 -- Victor Hugo*
+
+> *"The quality of your life is determined by the quality of the questions you ask. It’s as simple as that. Small minds sit in answers, great minds sit in questions. Always ask the greater questions and nevermore the small."  
+-- Zan Perrion*

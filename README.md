@@ -141,7 +141,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On reading](/chapters/chapter_appendix.md#on-reading)
 - [On writing](/chapters/chapter_appendix.md#on-writing)
 - [On media](/chapters/chapter_appendix.md#on-media)
-- [On computers and maths](/chapters/chapter_appendix.md#on-computers-and-maths)
+- [On maths, computers and AI](/chapters/chapter_appendix.md#on-maths-computers-and-ai)
 
 *Bonus*
 - [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
@@ -154,7 +154,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## TLDR
 
-> *"Fuck, don’t give a fuck and don’t be fucked over."
+> *"Fuck, don’t give a fuck and don’t be fucked over."  
 -- Unknown*
 
 Eight general advices:

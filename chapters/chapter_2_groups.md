@@ -67,6 +67,9 @@ Listen as you’re wrong. Ask the person trying to convince you of something to 
 > *"Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it."  
 -- Kevin Kelly*
 
+> *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
+-- Winston Churchill*
+
 ### How to tell good stories?
 
 > *"Cinema is just life with the boring parts cut out."  
@@ -82,9 +85,6 @@ Good stories condense a massive amount of details into a consumable and shareabl
 > *"Eloquence is logic on fire."  
 -- Lyman Beecher*
 
-> *"The secret to public speaking is to speak as if you were alone."  
--- Naval Ravikant*
-
 Hints:
 
 - You don’t need to answer their questions. You can say whatever you want if it’s interesting but learn when to answer boring on easy to misinterpret questions.
@@ -92,6 +92,9 @@ Hints:
 
 > *"A good speech should be like a woman’s skirt: long enough to cover the subject and short enought o create interest."  
 -- Winston Churchill*
+
+> *"The secret to public speaking is to speak as if you were alone."  
+-- Naval Ravikant*
 
 > *"Always say less than necessary."  
 -- Kevin Kelly*
@@ -103,10 +106,6 @@ Hints:
 
 ---
 ## On relationships
-
-<!--
-- supporting helps people grow and builds healthy relationships. fixing manipulates people and builds resentment and/or co-dependency.
--->
 
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
 -- Kevin kelly*
@@ -121,6 +120,7 @@ Hints:
 - If you are lonely when you are not alone, you are in bad company.  
 - If a person is nice to you and to nobody else, that person is not nice.  
 - Trust and vulnerability are correlated. Don’t hide your feelings from people who show you theirs.
+- Supporting helps people grow and builds healthy relationships. Fixing manipulates people and builds resentment and/or co-dependency.
 - Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
 
 > *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
@@ -236,13 +236,13 @@ Choose truth or your self-mythology will seduce you.
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from teh hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
 -- Morgan Housel*
 
-- platonic products rarely work.
+> *"Any product that needs a manual is broken."  
+-- Elon Musk*
+
+"Platonic products rarely work."
+
 - open source means each problem only has to solved once -- naval
-> *"Everything that can be invented has been invented."  
--- Charles Duell (director of us patent office)
-- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
 - teleshopping design.
-- llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 - my superpowers are rusting like unused tools left in the backyard shed inside my mind.
 - Ideas don't make you rich execution does.
 - you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
@@ -528,21 +528,17 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On feedback and mentorship
 
 <!--
-> *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
--- Winston Churchill*
-
-- don’t take criticism from people that you would never go for advice.
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
 -->
 
 > *"To know the road ahead, ask those coming back."  
 -- Unknown*
 
-Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door.
+Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door. Don’t take criticism from people that you would never go for advice.
 
 Be generous and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
 
-> *"You don’t need mentors, you need action." (...) 
+> *"You don’t need mentors, you need action." (...)  
 "Take feedback from nature and markets, not from people." (...)  
 "A good scare is a great error-correcting mechanism." (...)  
 "Remove grading to see who is really interested in the topic."  
@@ -756,14 +752,10 @@ Hints:
 -- Jorge Luis Borges*
 > *"When you are on the bottom you can’t afford to look like you belong there."  
 -- Mike Downey*
-> *"There is no exception to the rule that everybody likes to be an exception to the rule."  
--- Malcolm Forbes*
 
+- civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
 - Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 - People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
-
-> *"I dn't believe in hierarchical relationships. I don't want to be above anybody and I don't want to be below anybody. If I can't treat someone like a peer and if they can't treat me like a peer, I just don't want to interact with them."  
--- Naval Ravikant*
 -->
 
 > *"If you want to know who controls you, look at who you are not allowed to criticize."  
@@ -782,7 +774,8 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 > *"Care about what other people think and you will always be their prisoner."  
 -- Lao Tzu*
 
-> *"The internet doesn’t care about your title."  
+> *"The internet doesn’t care about your title." (...)  
+"I don't believe in hierarchical relationships. I don't want to be above anybody and I don't want to be below anybody. If I can't treat someone like a peer and if they can't treat me like a peer, I just don't want to interact with them."  
 -- Naval Ravikant*
 
 
@@ -796,7 +789,6 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 <!--
 > *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
 -- Alexander Fraser Tytler*
-
 > *"Não há direitos sem obrigações e viceversa."  
 -- E. Ferreira*
 
@@ -918,7 +910,8 @@ Hints:
 > *"Good fences make good neighbors."  
 -- Robert Frost*
 
-> *"Every decent man is ashamed of the government he lives under."  
+> *"The urge to save humanity is almost always a false front for the urge to rule it." (...)  
+"Every decent man is ashamed of the government he lives under."  
 -- H.L. Mencken*
 
 > *"90% of the politicians give the other 10% a bad reputation."  
@@ -935,9 +928,6 @@ Hints:
 
 > *"All bad precedents began as justifiable measures."  
 -- Julius Caesar*
-
-> *"The urge to save humanity is almost always a false front for the urge to rule it."  
--- H.L. Mecken*
 
 > *"I would rather have questions that can’t be answered than answers that can’t be questioned."  
 -- Richard Feinman*
@@ -1112,8 +1102,10 @@ Hints:
 > *"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."  
 -- Henry Ward Beecher*
 
+<!--
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen*
+-->
 
 > *"We don’t judge people when we feel good about ourselves."  
 -- Brené Brown*
@@ -1139,6 +1131,9 @@ Hints:
 > *"I have never met a man so ignorant that I couldn’t learn anything from him."  
 -- Galileo Galilei*
 
+> *"What the superior man seeks is in himself; what the small man seeks is in others."  
+-- Confucius*
+
 
 
 
@@ -1149,17 +1144,11 @@ Hints:
 ## On opponents and allies
 
 <!--
-> *"When working surround yourself with people more sucessful than you. when playing surround yourself with people happier than you."  
--- Naval Ravikant*
 > *"Só os mais corajosos conseguem fazer a paz."  
 -- Trump*
-> *"Who lies for you will lie against you." (...)  
-"Talkers aren’t strong. The strong don’t talk."  
--- Unknown*
 
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
 - every snowflake is different but all snow is the same.
-- heros are your idealized selfes
 - understand the difference of an adversary and an enemy to not accumulate enemys.
 - When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
 - Nietszche says to measure one’s strength by the number of parasites one can support.
@@ -1176,14 +1165,15 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 > *"The world is divided between victims and predators, and you have to defend yourself against both."  
 -- Florenz Baron*
 
-> *"Show me a hero, and I’ll write you a tragedy."  
--- F. Scott Fitzgerald*
-
 > *"The enemy is fear. We think it is hate, but it is fear."  
 -- Ghandi*
 
 > *"Any person capable of angering you becomes your master."  
 -- Epictetus*
+
+> *"Who lies for you will lie against you." (...)  
+"Talkers aren’t strong. The strong don’t talk."  
+-- Unknown*
 
 ### On easy opponents
 
@@ -1196,7 +1186,7 @@ Easy players are often just deceiving you. However - if you can identify them - 
 "Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
 -- Albert Einstein*
 
-> *"«El dorados» are never drawn in the map."
+> *"«El dorados» are never drawn in the map."  
 -- Unknown*
 
 ### On desperate opponents
@@ -1219,9 +1209,7 @@ Desperate players will risk everything in a fight. This gives them a huge advant
 
 ### On difficult opponents
 
-<!--
-- the thougest competition is a good enough competitor.
--->
+The thougest competition is a good enough competitor.
 
 Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
 
@@ -1242,10 +1230,6 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 ### On allies
 
-<!--
-- I learned a long time ago the wisest thing I can do is be on my side. -- maya angelou
--->
-
 The human strenght is the ability to cooperate. Heros are fictional stories.
 
 Hint:
@@ -1265,14 +1249,24 @@ Hint:
 > *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
 -- Paul Alexander*
 
-> *"You either die a hero, or you live long enough to see yourself become the villain."  
--- Harvey Dent*
-
 > *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
 -- Balthasar Gracian*
 
 > *"The worst thing about betrayal is that it never comes from your enemies."  
 -- The godfather*
+
+> *"I learned a long time ago the wisest thing I can do is be on my side."  
+-- Maya Angelou*
+
+### On heros
+
+> *"You either die a hero, or you live long enough to see yourself become the villain."  
+-- Harvey Dent*
+
+Our heros are our idealized selfes.
+
+> *"Show me a hero, and I’ll write you a tragedy."  
+-- F. Scott Fitzgerald*
 
 
 
@@ -1422,6 +1416,12 @@ Hints:
 > *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
 -- Edith Wharton*
 
+> *"Every person in your company is a vector. Your progress is determined by the sum of all vectors."  
+-- Elon Musk*
+
+> *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
+-- Naval Ravikant*
+
 ### How to give feedback?
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
@@ -1440,7 +1440,7 @@ Hints:
 > *"Praise by name, criticize by category."  
 -- Warren Buffet*
 
-> *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth"  
+> *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth."  
 -- Kevin Kelly*
 
 Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
@@ -1541,7 +1541,7 @@ Hints:
 > *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
 -- HN_goatinaboat*
 
-> *"I had a manager who once said the people who were terminated were those who question too much and do too little."
+> *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
 -- Unknown*
 
 ### How to «pivot» career?
@@ -1553,7 +1553,7 @@ You will either pivot or get pivoted.
 
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
-> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."
+> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
 -- Unknown*
 
 > *"My luggage is always ready."  
