@@ -20,6 +20,8 @@
 
 - you can have the mind or you can have the moment. -- naval
 - better bored than busy -- naval
+
+- say a little and say it well - irish proverb
 -->
 
 > *"Knowledge speaks, but wisdom listens."  
@@ -108,7 +110,7 @@ Hints:
 ## On relationships
 
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
--- Kevin kelly*
+-- Kevin Kelly*
 
 > *"Never allow someone to be your priority while allowing yourself to be their option."  
 -- Mark Twain*
@@ -398,6 +400,9 @@ She liked that so much she came up with the $1500. -- Derek Sivers
 > *"Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don’t need."  
 -- Chuck Palahniuk*
 
+> *"A man who stops advertising to save money is like a man who stops a clock to save time."  
+-- Henry Ford*
+
 We’re all in sales. To sell is to deal with objections.
 
 Sales used to be about information asymmetry but now it’s mostly applied persuasion and keeping relationships. Best sellers are now ambiverts. Being recomendend is the best marketing.
@@ -532,7 +537,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 -->
 
 > *"To know the road ahead, ask those coming back."  
--- Unknown*
+-- Proverb*
 
 Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door. Don’t take criticism from people that you would never go for advice.
 
@@ -545,10 +550,10 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 -- Naval Ravikant*
 
 > *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever."  
--- Unknown*
+-- Proverb*
 
 > *"I’d rather have criticism from a genius than praise from an idiot."  
--- Unknown*
+-- Proverb*
 
 > *"A critic is a legless man who teaches running."  
 -- Channing Pollock*
@@ -573,7 +578,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- Friedrich Nietzsche*
 
 > *"A society grows great when old men plant trees whose shade they know they shall never sit in."  
--- Unknown*
+-- Proverb*
 
 > *"I was always ready to share, but before external success, nobody cared to listen."  
 -- Naval Ravikant*
@@ -658,7 +663,7 @@ Hints:
 -- Euripides*
 
 > *"Children are a poor man’s riches."  
--- Unknown*
+-- Proverb*
 
 > *"Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you."  
 -- Honore de Balzac*
@@ -679,7 +684,7 @@ Hints:
 -- H. Jackson Browne*
 
 > *"A father is someone you look up to no matter how tall you grow."  
--- Unknown*
+-- Proverb*
 
 > *"Be nice to your children because they are going to choose your nursing home." (...)  
 "Children totally accept — and crave — family rules. «In our family we have a rule for X» is the only excuse a parent needs for setting a family policy. In fact, «I have a rule for X» is the only excuse you need for your own personal policies." (...)  
@@ -696,7 +701,7 @@ Hints:
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
 
 > *"Do not teach a starving man to fish."  
--- Unknown*
+-- Proverb*
 
 
 
@@ -710,7 +715,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 -- Anne Frank*
 
 > *"A bit of fragrance clings to the hand that gives flowers."  
--- Unknown*
+-- Proverb*
 
 No one on their deathbed has ever regretted giving too much away.
 
@@ -1032,13 +1037,13 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 -- Anders Hejlsberg*
 
 > *"Gold rushes make the shovel sellers rich, not the gold seekers."  
--- Unknown*
+-- Proverb*
 
 > *"No snowflake in an avalanche ever feels responsible."  
 -- Voltaire*
 
 > *"One cow breaks the fence and a dozen leap it."  
--- Unknown*
+-- Proverb*
 
 > *"In our infinite ignorance we are all equal."  
 -- Karl Popper*
@@ -1080,7 +1085,7 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 -- G.K. Chesterton*
 
 > *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"  
--- Unknown*
+-- Proverb*
 
 > *"Even a foolish person can still be right about most things. Most conventional wisdom is true." (...)  
 "Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious." (...)  
@@ -1123,7 +1128,7 @@ Hints:
 -- Bill Murray*
 
 > *"A drunk man’s words, are a sober man’s thoughts."  
--- Unknown*
+-- Proverb*
 
 > *"A great man is hard on himself; a small man is hard on others."  
 -- Confucius*
@@ -1173,7 +1178,7 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 
 > *"Who lies for you will lie against you." (...)  
 "Talkers aren’t strong. The strong don’t talk."  
--- Unknown*
+-- Proverbs*
 
 ### On easy opponents
 
@@ -1187,15 +1192,13 @@ Easy players are often just deceiving you. However - if you can identify them - 
 -- Albert Einstein*
 
 > *"«El dorados» are never drawn in the map."  
--- Unknown*
+-- Proverb*
 
 ### On desperate opponents
 
-> *"Necessity knows no law."  
--- Unknown*
-
-> *"Fear can make a donkey attack a lion."  
--- Unknown*
+> *"Necessity knows no law." (...)  
+"Fear can make a donkey attack a lion."  
+-- Proverbs*
 
 Beware of sad people.
 
@@ -1241,7 +1244,7 @@ Hint:
 
 > *"United we are rock, divided we are sand." (...)  
 "Hungry dogs are never loyal."  
--- Unknown*
+-- Proverbs*
 
 > *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
 -- Mark Twain*
@@ -1400,7 +1403,7 @@ Hints:
 ### On teams
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
--- Unknown*
+-- Proverb*
 
 People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
 
@@ -1542,7 +1545,7 @@ Hints:
 -- HN_goatinaboat*
 
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
--- Unknown*
+-- Proverb*
 
 ### How to «pivot» career?
 
@@ -1554,7 +1557,7 @@ You will either pivot or get pivoted.
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
--- Unknown*
+-- Proverb*
 
 > *"My luggage is always ready."  
 -- Jorge Jesus (soccer coach)*

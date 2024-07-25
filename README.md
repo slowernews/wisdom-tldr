@@ -155,7 +155,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 ## TLDR
 
 > *"Fuck, don’t give a fuck and don’t be fucked over."  
--- Unknown*
+-- Proverb*
 
 Eight general advices:
 
@@ -175,10 +175,10 @@ Eight general advices:
 -- Derek Sivers*
 
 > *"The empire long divided, must unite; long united, must divide."  
--- Unknown*
+-- Proverb*
 
 > *"After me will come the one who will prove that I wasn’t that bad."  
--- Unknown*
+-- Proverb*
 
 > *"A prophet has no honour in his own country."  
 -- Bible (John 4: 44)*

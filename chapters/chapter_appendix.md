@@ -56,7 +56,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -- Stephen Chbosky*
 
 > *"You never know the value of a moment until it becomes a memory."  
--- Unknown*
+-- Proverb*
 
 > *"Never regret something that once made you smile."  
 -- Amber Deckers*
@@ -74,7 +74,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -- Lois Lowry*
 
 > *"He’d wasted most of his life thinking he’d wasted most of his life."  
--- Unknown*
+-- Proverb*
 
 ### How memory works?
 
@@ -97,7 +97,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -- George Ball*
 
 > *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
--- Unknown*
+-- Proverb*
 
 
 
@@ -179,7 +179,7 @@ An ambitious goal sets the bar so high that even a failure can be considered a s
 -- Diana Scharf Hunt*
 
 > *"A man without a vision for his future always return to his past."  
--- Unknown*
+-- Proverb*
 
 Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
 
@@ -283,7 +283,7 @@ People my age are so much older than me.
 Finding a place to die is an important thing to do.
 
 > *"A man dies when he stops working."  
--- Unknown*
+-- Proverb*
 
 > *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
 -- Chuck Palahniuk*
@@ -295,7 +295,7 @@ Finding a place to die is an important thing to do.
 -- Kevin Kelly*
 
 > *"Everybody wants to go to heaven, but nobody wants to die."  
--- Unknown*
+-- Proverb*
 
 
 
@@ -409,7 +409,7 @@ Money is a tool; it can be a force multiplier to help you live the life of your 
 -- Naval Ravikant*
 
 > *"Rich people stay rich by living like they’re broke. Broke people stay broke by living like they’re rich."  
--- Unknown*
+-- Proverb*
 
 Making money is not about luck. 
 
@@ -490,7 +490,7 @@ Bad luck is often bad planning. If you’re sure it’s not, be positive, the pe
 -- Naval Ravikant*
 
 > *"The devil always takes back his gifts."  
--- Unknown*
+-- Proverb*
 
 > *"Coincidence is God’s way of remaining anonymous." (...)  
 "God is subtle but he is not malicious."  
@@ -511,7 +511,7 @@ Risk is everything you left over and didn’t thought about.
 -- Robert Schiller*
 
 > *"The day you decide to do it is your lucky day."  
--- Unknown*
+-- Proverb*
 
 > *"Things that come with little help of luck are more resistant to randomness."  
 -- Nassim Taleb*
@@ -556,7 +556,7 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 -- Octave Mirbeau*
 
 > *"Many complain of their looks but none of their brains."  
--- Unknown*
+-- Proverb*
 
 
 
@@ -592,6 +592,9 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
+> *"If you have a garden and a library, you have everything you need."  
+-- Cicero*
+
 - what’s your adrenaline type? velocidade ou fronteira do conhecido
 - If you’re not trying to make money, what are you even doing?
 -->
@@ -615,6 +618,9 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 
 > *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
 -- Colette*
+
+> *"Time you enjoy wasting, was not wasted."  
+-- Bertrand Russell*
 
 Hints:
 
@@ -657,7 +663,7 @@ Hints:
 -- Henry David Thoreau*
 
 > *"He who buys what he does not need, steals from himself."  
--- Unknown*
+-- Proverb*
 
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
@@ -701,6 +707,11 @@ Hints:
 
 ---
 ## On success
+
+<!--
+> *"Success lies in relentless execution of the basics."  
+-- Leonardo da Vinci*
+-->
 
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
@@ -756,7 +767,7 @@ We don’t get successful by knowing everything, we get successful by listening.
 -- Roger Kipling*
 
 > *"Success and rest don’t sleep together."  
--- Unknown*
+-- Proverb*
 
 
 
@@ -779,7 +790,7 @@ Wisdom is knowing the long-term consequences of your actions.
 -- René Descartes*
 
 > *"The beginning of wisdom is calling things by their right names."  
--- Unknown*
+-- Proverb*
 
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
@@ -829,7 +840,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 "Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)  
 "There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
 "Society: Be yourself. Society: Not like that."  
--- Unknown*
+-- Proverbs*
 
 > *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
 -- Unknown in San Francisco*
@@ -931,7 +942,7 @@ Most people approach each and every year in the exact same way while expecting d
 ## On family and friends
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
--- Unknown*
+-- Proverb*
 
 > *"True friendship can exist only between equals."  
 -- Plato*
@@ -990,7 +1001,7 @@ Hints:
 -- Kevin Kelly*
 
 > *"Bad friends will prevent you from having good friends."  
--- Unknown*
+-- Proverb*
 
 > *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
 -- Mark Twain*
@@ -1008,7 +1019,7 @@ Hints:
 -- Abraham Lincoln*
 
 > *"Brothers love each other when they are equally rich."  
--- Unknown*
+-- Proverb*
 
 > *"Spend your time in the company of geniuses, sages, children and books."  
 -- Naval Ravikant*
@@ -1163,7 +1174,7 @@ Marry an happy person. Unhappy spouse, unhappy life.
 > *"As long as the bed shakes, the house will remain stable." (...)  
 "Happy the marriage where the husband is the head and the wife the heart." (...)  
 "When poverty comes in the door, love goes out of the window."  
--- Unknown*
+-- Proverbs*
 
 
 
@@ -1330,6 +1341,9 @@ Technology is applied science.
 
 > *"Everything that can be invented has been invented."  
 -- Charles Duell (director of us patent office)*
+
+> *"Science is organized knowledge. Wisdom is organized life."  
+-- Immanuel Kant*
 
 
 
@@ -1584,10 +1598,13 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 -- B.F. Skinner*
 
 > *"Learning is a treasure that will follow it’s owner everywhere."  
--- Unknown*
+-- Proverb*
 
 > *"Polymaths are late bloomers."  
 -- Robin Hanson*
+
+> *"Nine tenths of education is encouragement."  
+-- Anatole France*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 
@@ -1830,7 +1847,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 -- Virginia Woolf*
 
 > *"A suit to women is like lingerie to men."  
--- Unknown*
+-- Proverb*
 
 > *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
 -- Charles de Talleyrand-Perigord*

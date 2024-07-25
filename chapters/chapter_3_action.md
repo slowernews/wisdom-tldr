@@ -97,7 +97,7 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 -- Arthur C. Clarke*
 
 > *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
--- Unknown*
+-- Proverb*
 
 > *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
 -- HN_dilemma*
@@ -283,7 +283,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 "Who’s talking the truth doesn’t need a lot of words." (...)  
 "A lie has many variations, the truth none." (...)  
 "Tell the truth and run."  
--- Unknown*
+-- Proverbs*
 
 Truth does not mind to be questioned. A lie does not like being challenged.
 
@@ -351,7 +351,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 -- Lewis Carroll*
 
 > *"The movie might be good or bad but in the end we’ll finish eating pizza."  
--- Unknown*
+-- Proverb*
 
 > *"Someone is sitting in the shade today because someone planted a tree a long time ago."  
 -- Warren Buffett*
@@ -389,7 +389,7 @@ Hints:
 -- Ernest Hemingway*
 
 > *"You make plans and god laughs."  
--- Unknown*
+-- Proverb*
 
 > *"The wise warrior avoids the battle."  
 -- Sun Tzu*
@@ -611,7 +611,7 @@ Stop making resolutions and start making something. Time is the most precious th
 -->
 
 > *"The best time to plant a tree was 20 years ago. The second best time is right now."  
--- Unknown*
+-- Proverb*
 
 > *"About 99% of the time, the right time is right now."  
 -- Kevin Kelly*
@@ -732,7 +732,7 @@ Hints:
 
 > *"A man with a watch knows what time it is. A man with two watches is never sure." (...)  
 "If you want a well, only dig in one place."  
--- Unknown*
+-- Proverbs*
 
 > *"I want to know God’s thoughts; the rest are details."  
 -- Albert Einstein*
@@ -820,7 +820,7 @@ Hints:
 -->
 
 > *"You can lead a horse to water but you can’t make him drink."  
--- Unknown*
+-- Proverb*
 
 Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
 
@@ -948,7 +948,7 @@ Listen to predict a collapse.
 Adapt instead of reacting. An opportunity is taking an unwanted job.
 
 > *"When the winds of change blow, some people build walls while others build windmills."  
--- Unknown*
+-- Proverb*
 
 > *"If I don’t have red, I use blue."  
 -- Pablo Picasso*
@@ -1053,7 +1053,7 @@ Hints:
 -->
 
 > *"We catch more flies with honey than vinegar."  
--- Unknown*
+-- Proverb*
 
 > *"To combat an adversary, become their friend."  
 -- Kevin Kelly*
@@ -1195,7 +1195,7 @@ The only successful changes are those coming from within.
 ## On finishing
 
 > *"Everything will be ok in the end. If it’s not ok, it’s not the end."  
--- Unknown*
+-- Proverb*
 
 > *"If you’re going to try, go all the way. Otherwise, don’t even start."  
 -- Charles Bukowski*
@@ -1213,7 +1213,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"Ultimately the only peace and security you can hope for from your enemies is their disappearance." (...)  
 "You finished ahead of time, that means you forgot something." (...)  
 "There are lots of overnight tragedies. There are rarely overnight miracles."  
--- Unknown*
+-- Proverbs*
 
 > *"All endings are also beginnings. We just don’t know it at the time."  
 -- Mitch Albom*
@@ -1305,7 +1305,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 -- Victor Frankl*
 
 > *"Once the game is over, the king and the pawn go back in the same box."  
--- Unknown*
+-- Proverb*
 
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
 -- Kevin Kelly*

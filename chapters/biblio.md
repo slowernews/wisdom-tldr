@@ -12,14 +12,15 @@
 - [NEWS.YCOMBINATOR] danielvf
 - [NEWS.YCOMBINATOR] dilemma
 - [NEWS.YCOMBINATOR] exelius
+- [----] PROVERB
 
-- [????] SOPHOCLES (gr)
 - [-680] ARCHILOCHUS (gr)
 - [-571] TZU, Lao (cn)
 - [-551] CONFUCIUS (cn)
 - [-564] BUDDHA (Siddharta Gautama) (np)
 - [-544] TZU, Sun (cn)
 - [-535] HERACLITUS (gr)
+- [-497] SOPHOCLES (gr)
 - [-480] EURIPIDES (gr)
 - [-427] PLATO (gr)
 - [-384] ARISTOTLE (gr)
@@ -37,6 +38,7 @@
 - [1181] ASSISI, Francis of (it)
 - [1270] WALLACE, William (uk)
 
+- [1452] DA VINCI, Leonardo
 - [1469] MACHIAVELLI, Niccoló (it)
 - [1475] MICHAELANGELO (it)
 
@@ -56,9 +58,10 @@
 - [1706] FRANKLIN, Benjamin (us)
 - [1711] HUME, David (uk)
 - [1717] WALPOLE, Horace (uk)
+- [1724] KANT, Immanuel (de)
 - [1729] BURKE, Edmund (ie)
 - [1743] JEFFERSON, Thomas (us)
-- [1749] GOETHE, Johann wolfgang von (de)
+- [1749] GOETHE, Johann Wolfgang von (de)
 - [1754] JOUBERT, Joseph (fr)
 - [1754] TALLEYRAND-PERIGORD, Charles De (fr)
 - [1757] BLAKE, William (uk)
@@ -92,6 +95,7 @@
 - [1838] MUIR, John (uk)
 
 - [1842] KROPOTKIN, Peter (ru)
+- [1844] FRANCE, Anatole (fr)
 - [1844] NIETZSCHE, Friedrich (de)
 - [1847] EDISON, Thomas (us)
 

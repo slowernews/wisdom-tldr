@@ -124,7 +124,7 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 > *"Truth prevails where opinions are free."  
 -- Tom Paine*
 > *"There is no greater fraud than the promise not kept."  
--- Unknown*
+-- Proverb*
 > *"The more we disagree, the more chance there is that at least one of us is right.*
 
 - every damn thing is your own fault, if you are any good.
@@ -264,7 +264,7 @@ Don’t forget that a group of people blazed the trail we’re enjoying, and ano
 -- Kevin Kelly*
 
 > *"The blind can’t see. The proud will not."  
--- Unknown*
+-- Proverb*
 
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich." (...)  
 "When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
@@ -315,7 +315,7 @@ Hints:
 "The seed of all evil is laziness." (...)  
 "The longer the tongue, the shorter the hands." (...)  
 "Work is the medicine for poverty."  
--- Unknown*
+-- Proverbs*
 
 > *"As a grown man you should know better than to go around advising people."  
 -- Bertolt Brecht*
@@ -435,7 +435,7 @@ Hints:
 -- Chris Sommer (gymnastics coach)*
 
 > *"He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever."  
--- Unknown*
+-- Proverb*
 
 > *"It is not that I’m so smart. But I stay with the questions much longer." (...)  
 "I have no special talent, I’m only passionately curious." (...)  
@@ -509,7 +509,7 @@ Hints:
 ### Improving by experience
 
 > *"Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand."  
--- Unknown*
+-- Proverb*
 
 > *"The difference between theory and practice: in theory, there’s no difference between theory and practice; in practice, there is."  
 -- Van de Snepscheut*
@@ -533,7 +533,7 @@ Hints:
 
 
 > *"You can only connect the dots looking back, not looking forward."  
--- Unknown*
+-- Proverb*
 
 ### Applied knowledge
 
@@ -690,6 +690,11 @@ Hints:
 # 1.3 - On your worst enemy: yourself
 
 ## On stress and health
+
+<!--
+> *"An healthy person has a thousand wishes. A sick person has one."  
+-- Proverb*
+-->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
@@ -1191,7 +1196,7 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 -- Marilyn Monroe*
 
 > *"The dogs bark but the caravan moves on."  
--- Unknown*
+-- Proverb*
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffet*
@@ -1243,7 +1248,7 @@ Hints:
 -- Nat Friedman*
 
 > *"Worry gives small things a big shadow."  
--- Unknown*
+-- Proverb*
 
 > *"I’m always looking for a way to make it happen, not excuses why it won’t work."  
 -- Aaron Walker*

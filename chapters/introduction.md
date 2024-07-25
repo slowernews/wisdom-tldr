@@ -128,13 +128,11 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 - Put your happiness before goals.
 - Focus on financial freedom first.
 - Pick one thing and stick with it to completion.
+- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
 > *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you." (...)  
 "The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life."
 -- Naval Ravikant*
-
-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
-- 
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso*
@@ -212,6 +210,10 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"I am free and that is why I am lost."  
 -- Franz Kafka*
 
+<!--
+> *"To the mediocre, mediocrity appears great."  
+-- Proverb*
+-->
 
 
 
