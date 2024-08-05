@@ -242,7 +242,6 @@ Choose truth or your self-mythology will seduce you.
 -- Elon Musk*
 
 "Platonic products rarely work."
-
 - open source means each problem only has to solved once -- naval
 - teleshopping design.
 - my superpowers are rusting like unused tools left in the backyard shed inside my mind.
@@ -350,7 +349,6 @@ Do something that most people think is hard. If you try something easy, there wi
 ## On selling, negotiation and price
 
 <!--
-> *"He who is known as an early riser need not get up until noon.*
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
@@ -1149,9 +1147,16 @@ Hints:
 ## On opponents and allies
 
 <!--
+> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
+-- Warren Buffett*
+> *"Never offend people with style when you can offend them with substance."  
+-- Sam Brown*
 > *"Só os mais corajosos conseguem fazer a paz."  
 -- Trump*
+> *"All guns are loaded."  
+-- Kevin Kelly*
 
+- Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
 - every snowflake is different but all snow is the same.
 - understand the difference of an adversary and an enemy to not accumulate enemys.
@@ -1401,6 +1406,11 @@ Hints:
 - Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
 
 ### On teams
+
+<!--
+> *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
+-- Naval Ravikant*
+-->
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
 -- Proverb*

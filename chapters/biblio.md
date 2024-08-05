@@ -1,3 +1,7 @@
+- [----] PROVERB
+- [BOOK] Bible
+- [BOOK] Talmud
+- [BOOK] Valve employee
 - [FICTIONAL] ALTEREGO, Prof. Quirrel
 - [FICTIONAL] BEAUREGARD, Jack
 - [FICTIONAL] DENT, Harvey
@@ -5,14 +9,10 @@
 - [FICTIONAL] MONTANA, Tony
 - [FICTIONAL] PLOUGHMAN, Tara
 - [FICTIONAL] TYRION
-- [BOOK] Bible
-- [BOOK] Talmud
-- [BOOK] Valve employee
 - [NEWS.YCOMBINATOR] bane
 - [NEWS.YCOMBINATOR] danielvf
 - [NEWS.YCOMBINATOR] dilemma
 - [NEWS.YCOMBINATOR] exelius
-- [----] PROVERB
 
 - [-680] ARCHILOCHUS (gr)
 - [-571] TZU, Lao (cn)
@@ -63,7 +63,7 @@
 - [1743] JEFFERSON, Thomas (us)
 - [1749] GOETHE, Johann Wolfgang von (de)
 - [1754] JOUBERT, Joseph (fr)
-- [1754] TALLEYRAND-PERIGORD, Charles De (fr)
+- [1754] TALLEYRAND-PERIGORD, Charles de (fr)
 - [1757] BLAKE, William (uk)
 - [1769] BONAPARTE, Napoleon (fr)
 - [1772] COLERIDGE, Samuel Taylor (uk)
@@ -412,6 +412,7 @@
 - [1973] AUTUMN, Emilie (us)
 - [1973] MEAGHER, Patrick (us)
 - [1973] POPOVIC, Srdja (rs)
+- [1973] SINEK, Simon (uk)
 - [1974] BANKSY (uk)
 - [1974] RAVIKANT, Naval (in)
 - [1974] RICH, John (us)

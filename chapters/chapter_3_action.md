@@ -97,7 +97,7 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 -- Arthur C. Clarke*
 
 > *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
--- Proverb*
+-- Unknown*
 
 > *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
 -- HN_dilemma*
@@ -206,6 +206,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
 -->
 
+- True motivations are revealed, not declared.
 - Prefer stats than narratives. We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.
 - There’s always a good reason and a real reason.
 - Look for something that doesn’t make sense. That’s where the gold mine is: «It doesn’t make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don’t try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They’re the ones that will make the assets price move. (Adam Robinson)
@@ -273,11 +274,15 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 ### On truth
 
+> *"The truth does not require your participation in order to exist. Bullshit does."  
+-- Terence McKenna*
+
+Truth does not mind to be questioned. A lie does not like being challenged.
+
+In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don’t need to reharse anything.
+
 > *"It is easier for the world to accept a simple lie than a complex truth."  
 -- Alexis de Tocqueville*
-
-> *"The truth is rarely pure and never simple."  
--- Oscar Wilde*
 
 > *"There are 3 truths: my truth, your truth, and the truth." (...)  
 "Who’s talking the truth doesn’t need a lot of words." (...)  
@@ -285,18 +290,17 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 "Tell the truth and run."  
 -- Proverbs*
 
-Truth does not mind to be questioned. A lie does not like being challenged.
-
-In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don’t need to reharse anything.
+> *"A lie has speed but truth has endurance."  
+-- Edgar J. Mohn*
 
 > *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
 -- Patrick Moynihan*
 
-> *"The truth does not require your participation in order to exist. Bullshit does."  
--- Terence McKenna*
-
 > *"The truth will set you free, but first it will piss you off."  
 -- Gloria Steinem*
+
+> *The closer you are to the truth, the more silent you become inside."  
+-- Naval Ravikant*
 
 > *"No one is more hated than he who speaks the truth."  
 -- Plato*
@@ -307,17 +311,17 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened."  
 -- Winston Churchill*
 
-> *"A lie has speed but truth has endurance."  
--- Edgar J. Mohn*
+> *"The truth is rarely pure and never simple."  
+-- Oscar Wilde*
+
+> *"Truth prevails where opinions are free."  
+-- Tom Paine*
 
 > *"Exactitude is not truth."  
 -- Henry Matisse*
 
 > *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
 -- Kevin Kelly*
-
-> *The closer you are to the truth, the more silent you become inside."  
--- Naval Ravikant*
 
 
 
@@ -458,7 +462,7 @@ We think we make choices but our choices are influenced by others. We pick what 
 "In the age of infinite leverage, judgement is the most important skill." (...)  
 "Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
 "The only part you can’t outsource is judgement." (...)  
-> *"The heart decides. The head rationalizes."  
+"The heart decides. The head rationalizes."  
 -- Naval Ravikant*
 
 > *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
@@ -722,7 +726,7 @@ Hints:
 -- Tim Ferriss*
 
 > *"Strike the shepherd and the sheep will scatter."  
--- Robert Greene (42nd law of power)*
+-- Robert Greene (Law of power)*
 
 > *"You can do anything, but not everything."  
 -- David Allen*
@@ -889,10 +893,10 @@ Overcompensate. Some people get passion from something they struggled with.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
 - Inertia is why a car does not stop the moment the brakes are applied.
-
-> *"All is impermanent. Willa Cather said it this way, «This is the joy of the rose, that it blows, and then it goes.» It is one thing to live with a hint of sadness. It is another thing to live with regret."  
--- Zan Perrion*
 -->
+
+> *"This is the joy of the rose, that it blows, and then it goes."  
+-- Willa Cather*
 
 > *"However beautiful the strategy, you should occasionally look at the results."  
 -- Winston Churchill*
@@ -986,28 +990,8 @@ There are limits on change. Willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
-> *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
--- Liv Boeree*
-> *"Never offend people with style when you can offend them with substance."  
--- Sam Brown*
-> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
--- Warren Buffett*
-> *"All guns are loaded."  
--- Kevin Kelly*
-> *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
--- Kevin Kelly*
-> *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
--- Naval Ravikant*
-
-- drain opponent morale with unexpected defeat or unexpected strong defence.
-- every strenght has a complementary weakness. //ex. centralised (no duplication but slower) vs decentralised (faster but chaotic). abstract thinker vs local thinker. as qualidades s defeitos.
-- looking to people when they are bluffing.
 - What’s your advantage: informational, analytical, or behavioral?	
-- not playing your hand but playing your opponent.
-- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint.
-Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
-- Finding cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
-- true motivations are revealed, not declared.
+- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 -->
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
@@ -1040,6 +1024,9 @@ Hints:
 - Beware of counter-attacking: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.
 - Any change require injecting more energy than is extracted by the system.
 - Once you step into a fight that is not of your own choosing, you lose all initiative.
+- Drain opponent morale with unexpected defeat or unexpected strong defence.
+- Every strenght has a complementary weakness.
+- Look to people when they are bluffing.
 
 > *"Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy."  
 -- Balthasar Gracian*
@@ -1047,6 +1034,9 @@ Hints:
 ### On charming
 
 <!--
+> *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
+-- Liv Boeree*
+
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - the good reason and the real reason.
 - the best way to get someone’s attention is to stop giving them yours.
@@ -1112,7 +1102,7 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 "Say less than necessary."  
 "Keep others in suspended terror: cultivate an air of unpredictability."  
 "Assume formlessness."  
--- Robert Greene (laws of power)*
+-- Robert Greene*
 
 > *"One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted."  
 -- James Altucher*
@@ -1128,8 +1118,8 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 -- Warren Buffett*
 
 > *"Never tell the truth to people who are not worthy of it." (...)  
-> *"If you tell the truth, you don’t have to remember anything." (...)  
-> *"A lie can travel half way around the world while the truth is putting on its shoes."  
+"If you tell the truth, you don’t have to remember anything." (...)  
+"A lie can travel half way around the world while the truth is putting on its shoes."  
 -- Mark Twain*
 
 > *"When you have something to say, silence is a lie."  
@@ -1174,14 +1164,12 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 
 ### On defeating status quo
 
-<!--
-- Burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
--->
-
 > *"To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate."  
 -- Srdja Popovic*
 
 The only successful changes are those coming from within.
+
+Burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
 
 > *"You cannot find peace by avoiding life."  
 -- Virginia Woolf*
@@ -1208,7 +1196,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -- Pablo Picasso*
 
 > *"Crush your enemy totally."  
--- Robert Greene (laws of power)*
+-- Robert Greene*
 
 > *"Ultimately the only peace and security you can hope for from your enemies is their disappearance." (...)  
 "You finished ahead of time, that means you forgot something." (...)  
@@ -1229,8 +1217,6 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 <!--
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
-- giving yourself permission to lose, automatically guarantees a loss.
-- i’m losing and i lost are too diffrent things.
 - sportification of our culture. resistance doesn’t imply competition.
 -->
 
@@ -1240,13 +1226,16 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"Winning isn’t everything, but wanting to win is."  
 -- Vince Lombardi*
 
-It’s not just about winning. The way you win sets you up for the next round.
+It’s not just about winning. The way you win sets you up for the next round. Winning is not the end of the road; it’s just a stop along the way.
 
-Winning is not the end of the road; it’s just a stop along the way.
+Hints:
+
+- Giving yourself permission to lose, automatically guarantees a loss.  
+- I’m losing and I lost are too different things.
 
 > *"Win through your actions, never through argument."  
-’Make your accomplishments seem effortless."  
--- Robert Greene (laws of power)*
+"Make your accomplishments seem effortless."  
+-- Robert Greene*
 
 > *"You only find out who is swimming naked when the tide goes out."  
 -- Warren Buffett*
@@ -1281,12 +1270,13 @@ Winning is not the end of the road; it’s just a stop along the way.
 
 
 ---
-## On surrendering, forgiveness and revenge
+## On quiting and surrendering
 
 <!--
-- letting go allows progress. letting things happen instead of trying things to happen.
-- if you don’t reconcile you’re postponing war. nem todos os problemas se resolvem c o tempo.
-- ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
+> *"Summer grass, all that’s left of warrior’s dreams."  
+-- Basho*
+
+- nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
 - you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.
 -->
 
@@ -1297,7 +1287,7 @@ Winning is not the end of the road; it’s just a stop along the way.
 "Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere."  
 -- Paulo Coelho*
 
-Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
+Letting go allows progress. Let things happen instead of trying things to happen. Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
 
 In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning. Surrendering to constant reinvention.
 
@@ -1316,7 +1306,12 @@ In order to come back you have to go away. Use this opportunity to re-create you
 > *"Violence is the last refuge of the incompetent."  
 -- Isaac Asimov*
 
-### On forgiveness
+
+
+
+
+---
+## On forgiveness and revenge
 
 > *"The only way out of the labyrinth of suffering is to forgive."  
 -- John Green*
@@ -1344,10 +1339,7 @@ However people who forgive easily are taken for granted.
 
 ### On revenge
 
-<!--
-> *"Summer grass, all that’s left of warrior’s dreams."  
--- Basho*
--->
+If you don’t reconcile you’re postponing war.
 
 > *"An eye for an eye will only make the whole world blind."  
 -- Mahatma Gandhi*

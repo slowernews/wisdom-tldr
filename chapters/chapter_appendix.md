@@ -461,6 +461,9 @@ People say they want to be famous to impact the world, often what they want is t
 "You want to be rich and anonymous, not poor and famous."  
 -- Naval Ravikant*
 
+> *"He who is known as an early riser need not get up until noon.*  
+-- Proverb*
+
 
 
 

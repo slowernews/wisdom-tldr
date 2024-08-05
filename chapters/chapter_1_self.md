@@ -121,8 +121,6 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 ## On accountability
 
 <!--
-> *"Truth prevails where opinions are free."  
--- Tom Paine*
 > *"There is no greater fraud than the promise not kept."  
 -- Proverb*
 > *"The more we disagree, the more chance there is that at least one of us is right.*
@@ -359,8 +357,7 @@ Hints:
 - Risk looks different for everyone.  
 - Repeating close variations on your usual theme unlocks far more value than you’d expect given minimal novelty value is a surprising result.  
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.  
-- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, spend a week alone in nature. Being uncomfortable should be "play" for you. Find comfort in discomfort.  
--   
+- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, spend a week alone in nature. Being uncomfortable should be «play» for you. Find comfort in discomfort.  
 - Leap while you’re at the top of the curve, and the next curve builds on the momentum.  
 - This isn’t just a success strategy; it’s a well-being strategy. The risk of not changing is often greater than the risk of changing.  
 - Stability without stagnation.
@@ -413,16 +410,16 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 ---
 ## On improving
 
-<!--
-- a failure is a man who has blundered but is not capable of cashing in on the experience.
--->
-
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
 
 Most problems can be solved by graded exposure over time.
 
 It involves the accumulation of experience, the analysis of past situations to structure knowledge and deliberate practice.
+
+    PAIN + REFLECTION = PROGRESS
+
+    EFFORT * TALENT = SKILL
 
 Hints:
 
@@ -496,7 +493,6 @@ Hints:
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 - sabios c six packs
 - success is the worst teacher
-- Pain + Reflection = Progress | effort * talent = skill
 - Don’t major on minor things. - applied focus. This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines.
 - Whatever your strengths are, they will likely lead straight into your weaknesses.
 - He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
@@ -531,7 +527,6 @@ Hints:
 - Journal early before your inhibitions take in. Record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.
 - Fastest way to learn is to teach.
 
-
 > *"You can only connect the dots looking back, not looking forward."  
 -- Proverb*
 
@@ -556,15 +551,6 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 ## On achieving mastery
 
 <!--
-> *"In the beginner's mind there are many possibilities, in the expert's mind there are few."
--- Shunryu Suzuki*
-> *"This has always been a motto of mine: Attempt the impossible in order to improve your work."
--- Bette Davis*
-> *"I am always doing that which I cannot do, in order that I may learn how to do it."
--- Pablo Picasso*
-> *"If we all did the things we are capable of doing, we would literally astound ourselves."
--- Thomas Edison*
-
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
@@ -602,6 +588,12 @@ True experts recognize the limits of what they know and what they do not know.
 > *"You should take teh approach that you're wrong. Your goal is to be less wrong."  
 -- Elon Musk*
 
+> *"This has always been a motto of mine: Attempt the impossible in order to improve your work."  
+-- Bette Davis*
+
+> *"I am always doing that which I cannot do, in order that I may learn how to do it."
+-- Pablo Picasso*
+
 ### Mastery and arrogance
 
 There’s always room for improvement; be humble. There is no place for a «prima donna».
@@ -626,10 +618,6 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 ---
 ## On habits and systems
 
-<!--
-- you can stop a bad behaviour by filling the space with a better one. replacement is better than abstinence.
--->
-
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 -- Will Durant*
 
@@ -637,10 +625,11 @@ Habits are systems. We are essentially our habits. Habits are like compound inte
 
 Consistency doesn’t result from effort; it comes from showing up. Long-term thinking and discipline will guarantee you an easier life. Endurance is more relevant than toughness.
 
-Hint:
+Hints:
 
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD.
-- You do not raise to the level of your goals, you fall to the level of your systems.
+- You do not raise to the level of your goals, you fall to the level of your systems.  
+- Stop a bad behaviour by filling the space with a better one. Replacement is better than abstinence.
 
 > *"At any given time, I’m either trying to pick up a good habit or discard a previous bad habit." (...)  
 "It isn’t 10k hours that creates outliers, it’s 10k iterations." (...)  
@@ -686,15 +675,10 @@ Hints:
 
 
 
----                                                                                                                              
+---
 # 1.3 - On your worst enemy: yourself
 
 ## On stress and health
-
-<!--
-> *"An healthy person has a thousand wishes. A sick person has one."  
--- Proverb*
--->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
@@ -717,6 +701,9 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 "All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies." (...)  
 "When it comes to nutrition, subtract before you add."  
 -- Naval Ravikant*
+
+> *"An healthy person has a thousand wishes. A sick person has one."  
+-- Proverb*
 
 ### On depression and anxiety
 
@@ -920,20 +907,20 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
 -- Lao Tzu*
 
+> *"Tell a man that he is brave, and you help him become so."  
+-- Thomas Carlyle*
+
+> *"Courage ought to be guided by skill, and skill armed by courage."  
+-- Sir P. Sidney*
+
 > *"Fear is a reaction. Courage is a decision."  
 -- Wiston Churchill*
 
 > *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
 -- Eddie Rickenbacker*
 
-> *"Courage ought to be guided by skill, and skill armed by courage."  
--- Sir P. Sidney*
-
 > *"A man of courage is also full of faith."  
 -- Cicero*
-
-> *"Tell a man that he is brave, and you help him become so."  
--- Thomas Carlyle*
 
 
 
@@ -946,12 +933,15 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 
 Sometimes you win, sometimes you learn. Fail fast and bounce back quickly.
 
-Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. We should fear missing opportunity more than we should fear failure.
+A failure is a man who has blundered but is not capable of cashing in on the experience. Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. We should fear missing opportunity more than we should fear failure.
 
 Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else.
 
 > *"Good judgment comes from experience. Experience comes from bad judgment."  
 -- Jim Horning*
+
+> *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
+-- George Bernard Shaw*
 
 > *"The greatest mistake you can make in life is to continually be afraid you will make one."  
 -- Elbert Hubbard*
@@ -984,9 +974,6 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 
 > *"It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."  
 -- Chuck Palahniuk*
-
-> *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
--- George Bernard Shaw*
 
 > *"You’re going to make mistakes in life. It’s what you do after the mistakes that counts."  
 -- Brandi Chastain*

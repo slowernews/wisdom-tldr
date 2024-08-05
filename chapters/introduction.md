@@ -70,6 +70,11 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 ---
 ## On finding your path
 
+<!--
+> *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
+-- Kevin Kelly*
+-->
+
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
 
@@ -184,7 +189,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 -- Kevin Kelly*
 
 > *"We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change." (...)  
-"Move to a place that feels strange until it feels like home. constantly learning and growing. then do it again, pursuing disconfort, until teh whole world is my home."  
+"Move to a place that feels strange until it feels like home. constantly learning and growing. then do it again, pursuing disconfort, until the whole world is my home."  
 -- Derek Sivers*
 
 > *"Every great life has had in it a great renunciation."  

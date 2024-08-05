@@ -100,7 +100,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
 - [On finishing](/cfsuchapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
-- [On surrendering, forgiveness and revenge](/chapters/chapter_3_action.md#on-surrendering-forgiveness-and-revenge)
+- [On quiting and surrendering](/chapters/chapter_3_action.md#on-quiting-and-surrendering)
+- [On forgiveness and revenge](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
 
 
 
