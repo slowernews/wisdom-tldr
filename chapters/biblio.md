@@ -1,4 +1,5 @@
-- [----] PROVERB
+- [----] Proverb
+- [Book] Bhagavad Gita
 - [BOOK] Bible
 - [BOOK] Talmud
 - [BOOK] Valve employee
@@ -62,6 +63,7 @@
 - [1729] BURKE, Edmund (ie)
 - [1743] JEFFERSON, Thomas (us)
 - [1749] GOETHE, Johann Wolfgang von (de)
+
 - [1754] JOUBERT, Joseph (fr)
 - [1754] TALLEYRAND-PERIGORD, Charles de (fr)
 - [1757] BLAKE, William (uk)
@@ -81,7 +83,7 @@
 - [1809] POE, Edgar Allan (us)
 
 - [1813] BEECHER, Henry Ward (us)
-- [1813] KIERKEGAARD, Soren(dk) 
+- [1813] KIERKEGAARD, Soren (dk) 
 - [1815] BISMARCK, Otto von (de)
 - [1819] ELIOT, George (uk)
 - [1820] BOVEE, Christian Nestell (us)

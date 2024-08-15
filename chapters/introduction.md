@@ -8,6 +8,15 @@
 
 ## The real you
 
+<!--
+> *"Everyone sees what you appear to be, few experience what you really are."  
+-- Niccoló Machiavelli*
+> *"Had I not created my whole world, I would certainly have died in other people's."  
+-- Anais Nin*
+
+- Your new life will cost you your old one.
+-->
+
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant*
 
@@ -73,6 +82,10 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 <!--
 > *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly*
+> *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
+-- twitter@pat_stedman
+
+I may not be where I want to be, but thank god i'm not where I use to be.
 -->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  

@@ -11,9 +11,7 @@
 ## On autonomy
 
 <!--
-> *"We all have enough strength to endure the misfortunes of other people."  
--- La Rochefoucauld*
-
+- when you don't want to be interesting you are free. -- moojy
 - Don’t build your castle in other peoples kingdom’s
 - Freedom to -> freedom from -- naval
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
@@ -410,6 +408,11 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 ---
 ## On improving
 
+<!--
+> *"Ask the experienced rather than the learned."  
+-- Proverb*
+-->
+
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
 
@@ -551,6 +554,9 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 ## On achieving mastery
 
 <!--
+> *"Don't play what's there, play what's not there."  
+-- Miles Davis*
+
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
@@ -618,6 +624,11 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 ---
 ## On habits and systems
 
+<!--
+> *"People do not decide their futures, they decide their habits and their habits decide their futures."  
+-- F. M. Alexander
+-->
+
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 -- Will Durant*
 
@@ -680,6 +691,13 @@ Hints:
 
 ## On stress and health
 
+<!--
+> *"Civilize the mind but make savage the body."  
+-- Proverb*
+
+- an healthy mind does not speak ill of others.
+-->
+
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
 
@@ -706,6 +724,10 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 -- Proverb*
 
 ### On depression and anxiety
+
+<!--
+- the only thing complaining does is convince other people that you are not in control.
+-->
 
 > *"If you are depressed you are living in the past.   
 If you are anxious you are living in the future.   
@@ -778,6 +800,11 @@ Hints:
 
 ### How to overcome them?
 
+<!--
+> *"That which we need the most will be found where we least want to look."  
+-- Carl Jung*
+-->
+
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer*
 
@@ -815,6 +842,7 @@ Hints:
 ## On fear and excuses
 
 <!--
+- What would you do if you weren't afraid?
 - fear just wants us to stay the same.
 - climbing out the hole is about letting go of pride.
 -->
@@ -1007,13 +1035,24 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 > *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
 -- Alan Paton*
 
+### On empathy
 
+> *"Empathy without boundaries is self destruction."  
+-- Silvy Khoucasian*
+
+### On worry
+
+Worrying is worshipping the problem.
 
 
 
 
 ---
 ## On shame, confidence and validation
+
+<!--
+- Do what scares you until it doesn't.
+-->
 
 > *"Man is not what he thinks he is, he is what he hides."  
 -- Andre Malraux*
@@ -1035,6 +1074,10 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 -- Alan Watts*
 
 ### On confidence and validation
+
+<!--
+- humble enough to know i'm replaceable. cocky enough to know is a downgrade.
+-->
 
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  
 -- Leo Buscaglia*

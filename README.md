@@ -158,7 +158,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 > *"Fuck, don’t give a fuck and don’t be fucked over."  
 -- Proverb*
 
-Eight general advices:
+Nine general advices:
 
 > *"Life is a balancing act."  
 -- Unknown*
@@ -184,6 +184,9 @@ Eight general advices:
 > *"A prophet has no honour in his own country."  
 -- Bible (John 4: 44)*
 
+> *"Those who commit to nothing are distracted by everything."  
+-- Bhagavad Gita*
+
 Two practical advices:  
 
 - Have more than one child.  
@@ -195,4 +198,4 @@ One last advice for introverts:
 
 <hr>
 
-Copyright © 2016-2023 Enio Ferreira | [FAQ](FAQ.md)
+Copyright © 2016-2024 Enio Ferreira | [FAQ](FAQ.md)

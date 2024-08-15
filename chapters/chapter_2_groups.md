@@ -11,17 +11,18 @@
 ## On communication
 
 <!--
+> *"A silent man is the best one to listen to." (...)  
+"Say a little and say it well."
+-- Proverb*
+> *"You can have the mind or you can have the moment." (...)  
+"Better bored than busy."
+-- Naval Ravikant*
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
 > *"Conscience is what hurts when everything else feels so good.*
 > *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
 
 - A loucura é a incapacidade de comunicar-se.
 - you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
-
-- you can have the mind or you can have the moment. -- naval
-- better bored than busy -- naval
-
-- say a little and say it well - irish proverb
 -->
 
 > *"Knowledge speaks, but wisdom listens."  
@@ -161,7 +162,6 @@ Make networking an habit. Who you know and whether they like you will determine 
 <!--
 > *"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
 -- Kevin Kelly*
-
 > *"Give me the gift of a listening heart."  
 -- King Solomon*
 
@@ -237,11 +237,10 @@ Choose truth or your self-mythology will seduce you.
 <!--
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from teh hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
 -- Morgan Housel*
-
 > *"Any product that needs a manual is broken."  
 -- Elon Musk*
 
-"Platonic products rarely work."
+- Platonic products rarely work.
 - open source means each problem only has to solved once -- naval
 - teleshopping design.
 - my superpowers are rusting like unused tools left in the backyard shed inside my mind.
@@ -306,6 +305,11 @@ Validate your business by finding paying clients. If something is worth doing, s
 ### On entrepreneurship
 
 <!--
+> *"Don't find customers for your products. Find products for your customers."  
+-- Seth Godin*
+> *"Don't open a shop unless you know how to smile."  
+-- Proverb*
+
 - Ownership is the only thing. Never give a single share a unless you absolutely have to.
 -->
 
@@ -351,8 +355,6 @@ Do something that most people think is hard. If you try something easy, there wi
 <!--
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
-> *"Broadcast TV is not designed for you; it’s designed for advertisers.*
-> *"If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you."  
 
 - my prices are based on my talent, not your budget.
 - sell the problem you solve, not the product you have.
@@ -384,12 +386,6 @@ I look forward to your response. [Power play; leave them with good vibes.]
 - Unexpressed feelings never die. Releasing pressure is different from venting.
 - The more influence somebody is the more they use we / plural pronouns.
 - Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-
-- One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show.
-I said, “$1500”. She said, “Oh, that’s a bit too much. What would you charge to do just a one-hour show?”
-I said, “$2000”. She said, “No, wait, you’ll be performing less, not more!”
-I said, “Yeah! Exactly! What you’re paying me for is to get there! Once I’m there, playing music is the fun part! If you tell me I have to get back in the van after only an hour, and drive home, then I’m going to charge you more than if you let me play for a couple hours first.”
-She liked that so much she came up with the $1500. -- Derek Sivers
 
 - Cold call all owners to rent. 8 said yes. Then auction! 
 - irritation -> challenge people to make something that they don’t want to do. agitation -> challenge people to make something that they want to do. agitate more than irritate.
@@ -503,6 +499,9 @@ However always strive to achieve a win-win situation. When both sides don’t ta
 > *"Peace cannot be kept by force. It can only be achieved by understanding."  
 -- Albert Einstein*
 
+> *"One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show. I said, «$1500». She said, «Oh, that’s a bit too much. What would you charge to do just a one-hour show?» I said, «$2000». She said, «No, wait, you’ll be performing less, not more!» I said, «Yeah! Exactly! What you’re paying me for is to get there! Once I’m there, playing music is the fun part! If you tell me I have to get back in the van after only an hour, and drive home, then I’m going to charge you more than if you let me play for a couple hours first.» She liked that so much she came up with the $1500."  
+-- Derek Sivers*
+
 ### On price
 
 > *"Price is what you pay, value is what you get."  
@@ -588,6 +587,9 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- David Leach*
 
 ### How to mentor your kids?
+
+> *"Teach your children early what you learned late."  
+-- Richard Feynman*
 
 > *"If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales."  
 -- Albert Einstein*
@@ -755,7 +757,10 @@ Hints:
 -- Jorge Luis Borges*
 > *"When you are on the bottom you can’t afford to look like you belong there."  
 -- Mike Downey*
+> *"When the mouse laughs at the cat there is a hole nearby."  
+-- Proverb*
 
+- if you don't like something, just take away its only power: your attention.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
 - Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 - People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
@@ -790,18 +795,14 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+> *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
+-- Confucius*
 > *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
 -- Alexander Fraser Tytler*
 > *"Não há direitos sem obrigações e viceversa."  
 -- E. Ferreira*
-
-> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
-> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
-> *"Freedom of the press is for those who happen to own one.*
-> *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism
--- ownership of government by an individual, by a group or by any controlling private power."  
--- FDR*
-
+> *"Political language is designed to make lies sound truthful."  
+-- George Orwell*
 > *"History is a race between education and catastrophe."  
 -- H.G. Wells*
 > *"Fascism is cured by reading, and racism is cured by traveling."  
@@ -811,6 +812,13 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
 -- Thomas Sowell*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
+
+> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
+> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
+> *"Freedom of the press is for those who happen to own one.*
+> *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism
+-- ownership of government by an individual, by a group or by any controlling private power."  
+-- FDR*
 
 - the passports of the future should be based on skills and health rather than nationality.
 - law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
@@ -961,11 +969,14 @@ Hints:
 > *"Justice will not be served until those who are unaffected are as outraged as those who are."  
 -- Benjamin Franklin*
 
-> *"Mercy to the guilty is cruelty to the innocent."  
--- Adam Smith*
-
 > *"Everybody wants to see justice done, to somebody else."  
 -- Bruce Cockburn*
+
+> *"I guess the only time most people think about injustice is when it happens to them."  
+-- Charles Bukowski*
+
+> *"Mercy to the guilty is cruelty to the innocent."  
+-- Adam Smith*
 
 ### On bureaucracy
 
@@ -985,6 +996,13 @@ Hints:
 
 ---
 ## On following the herd
+	
+<!--
+> *"The only thing more dangerous than ignorance is arrogance."  
+-- Albert Einstein*
+
+- every snowflake is different but all snow is the same.
+-->
 
 > *"Mimicking the herd, invites regression to the mean."  
 -- Charlie Munger*
@@ -1054,6 +1072,14 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 
 ### On stupidity
 
+<!--
+> *"When a clown moves into a palace, he doesn't become a king. The palace becomes a circus."  
+-- Proverb*
+-->
+
+> *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
+-- twitter@sgrstk*
+
 > *"Stupidity is overlooking or dismissing crucial information."  
 -- Adam Robinson*
 
@@ -1091,6 +1117,12 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 -- Kevin Kelly*
 
 ### How to judge a man?
+
+<!--
+> *"When the character of a man is not clear to you, look at his friends."  
+-- Proverb*
+- we tend to judge others by their behaviour, and ourselves by our intentions.
+-->
 
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*
@@ -1147,6 +1179,8 @@ Hints:
 ## On opponents and allies
 
 <!--
+> *"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd."  
+-- Proverb*
 > *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
 -- Warren Buffett*
 > *"Never offend people with style when you can offend them with substance."  
@@ -1155,10 +1189,13 @@ Hints:
 -- Trump*
 > *"All guns are loaded."  
 -- Kevin Kelly*
+> *"Of all the bad men, religious bad men are the worst."  
+-- C.S. Lewis
+> *"Never assume that loud is strong and quiet is weak."  
+-- Gurubogsa*
 
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
-- every snowflake is different but all snow is the same.
 - understand the difference of an adversary and an enemy to not accumulate enemys.
 - When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
 - Nietszche says to measure one’s strength by the number of parasites one can support.
@@ -1321,6 +1358,11 @@ Hints:
 ## On leadership
 
 <!--
+> *"Only the guy who isn't rowing has time to rock the boat."  
+-- Jean Paul Sartre*
+> *"He who does not desire power is fit to hold it."  
+-- Plato*
+
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - the organization is always modelling the leader. military leader don’t have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
@@ -1412,6 +1454,9 @@ Hints:
 -- Naval Ravikant*
 -->
 
+> *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don't care about becoming a somebody."  
+-- Phil Dooley*
+
 > *"If you want to go fast, go alone. If you want to go far, go together."  
 -- Proverb*
 
@@ -1435,7 +1480,12 @@ Hints:
 > *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
 -- Naval Ravikant*
 
-### How to give feedback?
+### How to give fedback?
+
+<!--
+> *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
+-- Perry Belcher*
+-->
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
 -- HN_exelius*
@@ -1460,10 +1510,6 @@ Giving appropriate feedback makes your juniors feel like what they are doing is 
 
 ### On meetings
 
-<!--
-- text me when you’re ready but then give me 15 minutes.
--->
-
 Default to «no» for all meetings. Meetings are the death of productivity.
 
 If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
@@ -1476,6 +1522,7 @@ Hints:
 - People can’t remember more than 3 points from a speech.
 - Instead of PowerPoints use «narratives» — four-to-six page memos that employees read and discuss together. (Jeff Bezos)
 - Leave one seat free - for your customer. (Jeff Bezos)
+- Text me when you’re ready for the call but then give me 15 minutes.
 
 
 
@@ -1630,12 +1677,13 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
+> *"Whatever makes you weird is probably your greatest asset."  
+-- Joss Whedon*
+
 - People want freedom to choose their process.
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
-- Money is trust. system of mutual trust.
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
 - T ou pi shaped.
-- hiring question: "what do you believe that most people don't?"
 -->
 
 > *"He who works with his hands is a laborer.  
@@ -1652,9 +1700,10 @@ Hints:
 - When applying for a job be more of a consultant than an applicant. Don’t do interviews, do discussions.
 - Employers are just trying to find somebody they like, that’s what «culture fit» is. Often is not how good you are, you just have to be liked while being sufficiently good. Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you. And people like people like themselves.
 - Good interview questions:
-	- «What are there problems you’ve solved and how did you solve them?» (Elon Musk)
+	- «Problems you’ve solved and how did you solve them?» (Elon Musk)
 	- «What did you get done this week?» (Elon Musk)
 	- «What do you own and why?» (Sandy Gottesman, investor)
+	- «What do you believe that most people don’t?»
 - Remember that I’d hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I’d not have had to hire them. Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
 - Companies hire for a problem and not general optimizations. Even if they need a generalist. Growing companies are always hiring.
 - Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.

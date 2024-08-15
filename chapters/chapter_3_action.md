@@ -11,8 +11,11 @@
 ## On creativity
 
 <!--
+> *"Creativity is intelligence having fun."  
+-- Albert Einstein*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
+
 - Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
 -->
 
@@ -142,6 +145,11 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 
 ---
 ## On analysis
+
+<!--
+> *"The day has eyes, the night has ears."  
+-- Proverb*
+-->
 
 > *"There are no facts, only interpretations."  
 -- Friedrich Nietzsche*
@@ -416,6 +424,7 @@ Hints:
 -- Mark Manson*
 
 > *"My brother says to never make a big decision before you take a shower."*
+- you must learn to proceed without certainty.
 - Wait 48 hours before buying stuff
 - for every complex problem there is an answer that is clear, simple, and wrong.
 - indecision comes from not knowing what you want. they don’t know what matters to them nor have found something larger then themselves to commit to.
@@ -560,6 +569,14 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
+> *"Patience is also a form of action."  
+-- Auguste Rodin*
+
+> *"Rising early makes the road short."  
+"The seed of all evil is lazyness."
+-- Proverbs*
+- keep earning your title, or it expires. -- derek sivers
+
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
@@ -568,7 +585,6 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 - monk mode -> no communication during mornings, only deep work -> meetings afternoon
 - If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
 - jogar c o baralho todo / jogar com um subset
-- keep earning your title, or it expires. -- derek sivers
 - The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
 - The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
 -->
@@ -637,6 +653,10 @@ Stop making resolutions and start making something. Time is the most precious th
 
 ### On procrastination
 
+<!--
+- the cost of procrastination is the life you could've lived.
+-->
+
 > *"The more something threatens your identity, the more you will avoid it."  
 -- Mark Manson*
 
@@ -701,6 +721,9 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus, priorities and productivity
 
 <!--
+> *"Learn to be indifferent to what makes no difference."  
+-- Marcus Aurelius*
+
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
 - if it is important to you you’ll find a way, if not you’ll find an excuse.
@@ -762,10 +785,14 @@ Hints:
 ### On productivity
 
 <!--
+> *"Do something first, than talk about it."  
+-- Tom Ford*
+
+- 6 months of focus and hard work can put you 5 years ahead in life.
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
 - Strategic laziness as a leverage point.
 - maker days and manager days
-- how to say no? I’m Busy. Is a excuse for not doing something we don’t feel like doing.
+- how to say no? I’m busy. Is a excuse for not doing something we don’t feel like doing.
 - Focus on adaptability not effectiveness
 - If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable."*	
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
@@ -854,6 +881,9 @@ Consuming information gives the control freak an illusion of control. He doesn�
 
 <!--
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
+
+> *"Where there is too much, something is missing."  
+-- Proverb*
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  
@@ -889,6 +919,9 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
+> *"Your life does not get better by chance, it gets better by change."  
+-- Jim Rohn*
+
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
@@ -990,6 +1023,9 @@ There are limits on change. Willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
+> *"You can discover what your enemy fears most by observing the means he uses to frighten you."  
+-- Eric Hoffer*
+
 - What’s your advantage: informational, analytical, or behavioral?	
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 -->
@@ -1034,6 +1070,8 @@ Hints:
 ### On charming
 
 <!--
+> *"Abuse often starts with praise."  
+-- Proverb*
 > *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
 -- Liv Boeree*
 
@@ -1083,6 +1121,17 @@ Hints:
 -- Naval Ravikant*
 
 ### On deceiving 
+
+<!--
+> *"Everything you say should be true, but not everything true should be said."  
+-- Voltaire*
+> *"A tiger wearing a bell will starve."  
+-- Proverb*
+> *"Beware of false knowledge; it is more dangerous than ignarance."  
+-- George Bernard Shaw*
+> *"Muddy water is best cleared by leaving it alone."  
+-- Alan Watts*
+-->
 
 > *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
 -- Hannah Arendt*
@@ -1182,6 +1231,10 @@ Burocracy prevents low probability events to happen at the expense of making mor
 ---
 ## On finishing
 
+<!--
+- before you start something, figure out to finish it.
+-->
+
 > *"Everything will be ok in the end. If it’s not ok, it’s not the end."  
 -- Proverb*
 
@@ -1215,7 +1268,12 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 ## On winning
 
 <!--
+> *"Never cut what you can untie."  
+-- Robert Frost*
+> *"Man conquers the world by conquering himself."  
+-- Zeno*
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
+
 - tecnically win or fundamentally win
 - sportification of our culture. resistance doesn’t imply competition.
 -->
@@ -1275,6 +1333,8 @@ Hints:
 <!--
 > *"Summer grass, all that’s left of warrior’s dreams."  
 -- Basho*
+> *"They tried to bury us. They didn't know we were seeds."  
+-- Proverb*
 
 - nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
 - you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.
@@ -1338,6 +1398,11 @@ However people who forgive easily are taken for granted.
 -- Jodi Picoult*
 
 ### On revenge
+
+<!--
+> *"The axe forgets; the tree remembers."  
+-- Proverb*
+-->
 
 If you don’t reconcile you’re postponing war.
 

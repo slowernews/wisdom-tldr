@@ -11,6 +11,9 @@
 ## On past and memory
 
 <!--
+> *"The past is never dead. It's not even past."  
+-- William Faulkner*
+
 - history books are on the history of power.
 - o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
 -->
@@ -200,6 +203,10 @@ Our present (in)actions will compound into the future we will experience – tha
 ---
 ## On growing old
 
+<!--
+- When you're a kid you don't realize you're also watching your parents grow up.
+-->
+
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
 
@@ -340,6 +347,11 @@ Intelligence is a spectrum, a dog is intelligent also.
 
 ### On geniality
 
+<!--
+> *"A stupid man's report of what a clever man says can never be accurate, because he unconsciously translates what he hears onto something he can understand."  
+-- Bertrand Russell*
+-->
+
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
 -- Ralph Waldo Emerson*
 
@@ -369,6 +381,11 @@ Intelligence is a spectrum, a dog is intelligent also.
 ---
 ## On wealth
 
+<!--
+> *"Being poor is not having too little, it is wanting more."  
+-- Seneca*
+-->
+
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
 "No one is as impressed with your possessions as you are."  
 -- Kevin Kelly*
@@ -385,6 +402,10 @@ Being rich is being fulfilled.
 -- Stephen Swidr*
 
 ### On money
+
+<!--
+- Money is trust. system of mutual trust.
+-->
 
 Money is a tool; it can be a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
 
@@ -446,7 +467,8 @@ Books, friends, sleep, ideas, questions, gratefulness, laugh.
 ## On popularity
 
 <!--
-Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product. -- Elon Musk
+> *"Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product."  
+-- Elon Musk*
 -->
 
 > *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
@@ -477,6 +499,10 @@ People say they want to be famous to impact the world, often what they want is t
 -- M. Vázquez Montalban*
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
+> *"Until you make the uncouncious conscious, it will direct your life and you will call it fate."  
+-- C.C Jung*
+> *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  
+-- R.C. Sproul
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -597,9 +623,18 @@ Health is also an envy trigger. Often what people really envy is self-control.
 <!--
 > *"If you have a garden and a library, you have everything you need."  
 -- Cicero*
+> *"Mondays are fine. It's your life that sucks."  
+-- Ricky Gervais*
+> *"What does the money machine eat? It eats youth, spontaneity, life, beauty, and, above all, it eats creativity. It eats quality and shits quantity."  
+-- William S. Burroughs*
+> *"Joy and sorrow sleep on the same bed."  
+-- Proverb*
+> *"If you have a garden and a library, you have everything you need."  
+-- Cicero*
 
 - what’s your adrenaline type? velocidade ou fronteira do conhecido
 - If you’re not trying to make money, what are you even doing?
+- I do not believe making money in order to consume goods is mankinds's sole purpose on this planet.
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -714,6 +749,11 @@ Hints:
 <!--
 > *"Success lies in relentless execution of the basics."  
 -- Leonardo da Vinci*
+> *"In nature there are neither rewards nor punishments, there are consequences."  
+-- Robert G. Ingersoll*
+
+- the true measure of success is a calm nervous system.
+- success is a collection of well curated failures.
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -781,6 +821,11 @@ We don’t get successful by knowing everything, we get successful by listening.
 # Appendix C - Others
 
 ## On wisdom
+
+<!--
+> *"The art of being wise is knowing what to overlook."  
+-- William James*
+-->
 
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris*
@@ -892,7 +937,11 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On humanness and irrationality
 
 <!--
+> *"We all have enough strength to endure the misfortunes of other people."  
+-- La Rochefoucauld*
+
 - web3 assumes that people prefer privacy over free stuff, which is false.
+- If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
 -->
 
 > *"If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy."  
@@ -997,14 +1046,12 @@ Hints:
 - Pay attention to who you’re with when you feel your best.  
 - Be suspicious of people who like being owed a favor. Especially if it is not a favor you requested.  
 - Maintain old friendships.   
+- Bad friends will prevent you from having good friends.  
 
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you." (...)  
 "Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you." (...)  
 "Don’t loan money to a friend unless you are ready to make it a gift."  
 -- Kevin Kelly*
-
-> *"Bad friends will prevent you from having good friends."  
--- Proverb*
 
 > *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
 -- Mark Twain*
@@ -1139,6 +1186,11 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 ---
 ## On marriage
 
+<!--
+> *"A good husband should be deaf and a good wife should be blind."  
+-- Proverb*
+-->
+
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H.Harwood and R. Gore-Bro*
 
@@ -1175,8 +1227,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Warren Farrell (psychologist)*
 
 > *"As long as the bed shakes, the house will remain stable." (...)  
-"Happy the marriage where the husband is the head and the wife the heart." (...)  
-"When poverty comes in the door, love goes out of the window."  
+"When poverty comes in the door, love goes out of the window." (...)  
+"Happy the marriage where the husband is the head and the wife the heart."  
 -- Proverbs*
 
 
@@ -1356,6 +1408,10 @@ Technology is applied science.
 ---
 ## On art
 
+<!--
+- an artist is not paid for his labour but for his vision.
+-->
+
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth*
 
@@ -1400,6 +1456,12 @@ Artistic death is made by consensus.
 
 > *"Anybody with artistic ambitions is always trying to reconnect with the way they saw things as child."  
 -- Tim Burton*
+
+> *"Art is the absence of fear."  
+-- Erykah Badu*
+
+> *"Art is the elimination of the unnecessary."  
+-- Pablo Picasso*
 
 
 
@@ -1448,6 +1510,13 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On money management
 
 <!--
+> *"Asymmetric opportunities: invest in startups. Start a company. Create a book, podcast, video. Create a (software) product. Go on many first dates. Go to a cocktail party. Read a Lindy book. Move to a big city. Buy bitcoin. Tweet." (...)  
+"If you want to be wealthy, spend your time earning, learning, or relaxing. Outsource or ignore everything else." (...)  
+"Venture funds sell brand for the right to invest money."  
+-- Naval Ravikant*
+> *"I'm not interested in anything that's not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can't keep it going, I'm not interested in it."  
+-- Morgan Housel*
+
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
 - Modern slaves are not chains, they are debt. today, people with moderate incomes, are forced to speculate or live in poverty.
 - you’re spending time to save money when you should be spending money to save time
@@ -1458,18 +1527,6 @@ The more «art» you allow in, the less commercial success you’ll have. People
 - analise fundamental e técnica no poker como nas accoes. Crashes are typical of complex systems.
 - good investors don’t sell investment advice and not talk about their returns.
 - why do you want to invest? to make excitement or to make money?
-
-> *"Asymmetric opportunities: invest in startups. Start a company. Create a book, podcast, video. Create a (software) product. Go on many first dates. Go to a cocktail party. Read a Lindy book. Move to a big city. Buy bitcoin. Tweet."  
--- Naval Ravikant*
-
-> *"If you want to be wealthy, spend your time earning, learning, or relaxing. Outsource or ignore everything else."  
--- Naval Ravikant*
-
-> *"Venture funds sell brand for the right to invest money."  
--- Naval Ravikant*
-
-> *"I'm not interested in anything that's not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can't keep it going, I'm not interested in it."  
--- Morgan Housel*
 -->
 
 > *"I succeeded because I have a long attention span. (...)  
@@ -1562,6 +1619,9 @@ Hints:
 ## On education
 
 <!--
+> *"Education is not the learning of many facts, but the training of the mind to think."  
+-- Albert Einstein*
+
 - don't be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
 - school's real study topic is obedience.
 - school failed to: how to build self confidence / how to be good with money / dating and relationships skills / confrontation skills / critical thinking / creative productivity.
@@ -1761,25 +1821,29 @@ Hints:
 ---
 ## On media
 
-> *"The goal of media is to make every problem, your problem." (...)  
-"Journalists aren’t neutral, they’re the cavalry of culture wars."  
--- Naval Ravikant*
+<!--
+> *"Broadcast TV is not designed for you; it’s designed for advertisers.*
+-->
 
 > *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
 -- George Orwell*
-
-> *"The media is always accurate, except when they are talking about things I know."  
--- Knoll’s law*
 
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
 
 > *"The clash of ideas is the sound of freedom."  
 -- Lady Bird Johnson*
 
-> *"If you’re writing for your followers, your followers are worthless." (...)  
-"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
+> *"The goal of media is to make every problem, your problem." (...)  
+"Journalists aren’t neutral, they’re the cavalry of culture wars." (...)  
+"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation." (...)  
+"If you’re writing for your followers, your followers are worthless."
 -- Naval Ravikant*
 
+> *"Your job is to get your audience to care about your obsessions."  
+-- Martin Scorsese*
+
+> *"The media is always accurate, except when they are talking about things I know."  
+-- Knoll’s law*
 
 
 
