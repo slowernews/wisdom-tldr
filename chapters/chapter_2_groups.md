@@ -17,10 +17,10 @@
 > *"You can have the mind or you can have the moment." (...)  
 "Better bored than busy."
 -- Naval Ravikant*
-> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.*
-> *"Conscience is what hurts when everything else feels so good.*
-> *"A bore is someone who persists in holding his own views after we have enlightened him with ours.*
 
+> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."*
+> *"Conscience is what hurts when everything else feels so good."*
+> *"A bore is someone who persists in holding his own views after we have enlightened him with ours."*
 - A loucura é a incapacidade de comunicar-se.
 - you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
 -->
@@ -36,10 +36,15 @@ Speak less and listen more.
 > *"Know how to listen and you will profit even from those who talk badly."  
 -- Plutarch*
 
-> *"A fool is known by his speech, and a wise man by silence."  
+> *"A fool is known by his speech, and a wise man by silence."  r
 -- Pythagoras*
 
 ### How to communicate? 
+
+<!--
+> *"Be curious, not judgmental."  
+-- Walt Witman*
+-->
 
 > *"If you want to be interesting, be interested."  
 -- David Ogilvy*
@@ -55,6 +60,10 @@ Hints:
 - Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day.
 
 ### How to discord?
+
+<!--
+- my father used to say: don't raise your voice. improve your argument.
+-->
 
 > *"Admit when you’re wrong. Shut up when you’re right."  
 -- John Gottman*
@@ -109,6 +118,13 @@ Hints:
 
 ---
 ## On relationships
+
+<!--
+> *"between what is said and not meant, and what is meant and not said, most of love is lost."  
+-- Kahlil Gibran*
+
+- One day you're going to miss how much I cared.
+-->
 
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
 -- Kevin Kelly*
@@ -504,6 +520,11 @@ However always strive to achieve a win-win situation. When both sides don’t ta
 
 ### On price
 
+<!--
+> *"The price of anything is the amount of life you exchange for it."  
+-- Henry David Thoreau*
+-->
+
 > *"Price is what you pay, value is what you get."  
 -- Warren Buffett*
 
@@ -587,6 +608,11 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- David Leach*
 
 ### How to mentor your kids?
+
+<!--
+> *"Your naked body should belong only to those who fall in love with your naked soul."  
+-- Charlie Chaplin (in a letter to his daughter, Geraldine)
+-->
 
 > *"Teach your children early what you learned late."  
 -- Richard Feynman*
@@ -711,6 +737,11 @@ However some people are not ready to accept your vision. And «givers» attract 
 ---
 ## On generosity and incentives
 
+<!--
+> *"A candle loses nothing by lighting another candle."  
+-- Proverb*
+-->
+
 > *"No one has ever become poor by giving."  
 -- Anne Frank*
 
@@ -757,7 +788,8 @@ Hints:
 -- Jorge Luis Borges*
 > *"When you are on the bottom you can’t afford to look like you belong there."  
 -- Mike Downey*
-> *"When the mouse laughs at the cat there is a hole nearby."  
+> *"When the mouse laughs at the cat there is a hole nearby." (...)  
+"The sun doesn't forget a village just because it is small."  
 -- Proverb*
 
 - if you don't like something, just take away its only power: your attention.
@@ -1160,14 +1192,12 @@ Hints:
 > *"A drunk man’s words, are a sober man’s thoughts."  
 -- Proverb*
 
-> *"A great man is hard on himself; a small man is hard on others."  
+> *"A great man is hard on himself; a small man is hard on others." (...)
+"What the superior man seeks is in himself; what the small man seeks is in others."  
 -- Confucius*
 
 > *"I have never met a man so ignorant that I couldn’t learn anything from him."  
 -- Galileo Galilei*
-
-> *"What the superior man seeks is in himself; what the small man seeks is in others."  
--- Confucius*
 
 
 
@@ -1193,6 +1223,8 @@ Hints:
 -- C.S. Lewis
 > *"Never assume that loud is strong and quiet is weak."  
 -- Gurubogsa*
+> *"Because she competes with no one, no one can compete with her."  
+-- Lao Tzu*
 
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.

@@ -282,6 +282,11 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 ### On truth
 
+<!--
+> *"Real gold does not fear the furnace."  
+-- Proverb*
+-->
+
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
 
@@ -418,6 +423,8 @@ Hints:
 ## On decision making
 
 <!--
+> *"To have the right to do a thing is not at all the same as being right in doing it."  
+-- G.K. Chesterton*
 > *"Se não houvesse decisoes eramos todos iguais."  
 -- António Simões*
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
@@ -571,12 +578,15 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 <!--
 > *"Patience is also a form of action."  
 -- Auguste Rodin*
-
 > *"Rising early makes the road short."  
 "The seed of all evil is lazyness."
 -- Proverbs*
-- keep earning your title, or it expires. -- derek sivers
+> *"The man who moves a mountain begins by carrying away small stones."  
+-- Confucius*
+> *"One of the most underrated secrets to success is to start before you're ready."  
+-- Marie Forleo*
 
+- keep earning your title, or it expires. -- derek sivers
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
@@ -626,8 +636,12 @@ Stop making resolutions and start making something. Time is the most precious th
 ### On timing
 
 <!--
+> *"half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
+-- Josh Billings*
 > *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
 -- Paulo Coelho*
+> *"The cock that crows too early gets his head cut off."  
+-- Proverb*
 -->
 
 > *"The best time to plant a tree was 20 years ago. The second best time is right now."  
@@ -880,10 +894,11 @@ Consuming information gives the control freak an illusion of control. He doesn�
 ## On balance
 
 <!--
-- alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
-
-> *"Where there is too much, something is missing."  
+> *"Where there is too much, something is missing." (...)  
+"Sunshine all the time makes a desert."  
 -- Proverb*
+
+- alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  

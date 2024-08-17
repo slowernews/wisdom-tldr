@@ -39,7 +39,7 @@
 - [1181] ASSISI, Francis of (it)
 - [1270] WALLACE, William (uk)
 
-- [1452] DA VINCI, Leonardo
+- [1452] DA VINCI, Leonardo (it)
 - [1469] MACHIAVELLI, Niccoló (it)
 - [1475] MICHAELANGELO (it)
 
@@ -85,7 +85,10 @@
 - [1813] BEECHER, Henry Ward (us)
 - [1813] KIERKEGAARD, Soren (dk) 
 - [1815] BISMARCK, Otto von (de)
+- [1817] THOREAU, Henry David (us)
+- [1818] BILLINGS, Josh (us)
 - [1819] ELIOT, George (uk)
+- [1819] WHITMAN, Walt (us)
 - [1820] BOVEE, Christian Nestell (us)
 
 - [1821] BUCKLE, Henry Thomas (uk)
@@ -109,6 +112,7 @@
 - [1856] WASHINGTON, Booker T. (us)
 - [1858] ROOSEVELT, Theodore (us)
 
+- [1860] CHEKHOV, Anton (ru)
 - [1862] HENRY, O. (us)
 - [1862] WHARTON, Edith (us)
 - [1863] FORD, Henry (us)
@@ -188,7 +192,7 @@
 - [1903] PATON, Alan (za)
 - [1903] ROBINSON, Joan (uk)
 - [1904] DALI, Salvador (us)
-- [1905] FRANKL, Victor (at)
+- [1905] FRANKL, Viktor (at)
 - [1905] RAND, Ayn (ru)
 - [1906] ARENDT, Hannah (de)
 - [1906] ONASSIS, Aristotle (gr)
@@ -206,6 +210,7 @@
 - [1910] WALKER, Aaron (us)
 - [1910] WOODEN, John (us)
 
+- [1911] MAHFOUZ, Naguib (eg)
 - [1911] OGILVY, David (uk)
 - [1911] SCHUMACHER, Ernst F. (de)
 - [1911] WILLIAMS, Tennessee (us)
@@ -330,7 +335,6 @@
 - [1949] LUTUS, Paul (us)
 - [1949] MURAKAMI, Haruki (jp)
 - [1949] ULLMAN, Ellen (us)
-- [194?] BAGULHO, Fernando (pt)
 - [1950] LEBOWITZ, Fran (us)
 - [1950] STROUSTRUP, Bjarne (dk)
 

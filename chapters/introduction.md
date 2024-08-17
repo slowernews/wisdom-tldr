@@ -84,6 +84,8 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 -- Kevin Kelly*
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
 -- twitter@pat_stedman
+> *"Home is not where you are born; home is where all your attempts to escape cease."  
+-- Naguib Mahfouz*
 
 I may not be where I want to be, but thank god i'm not where I use to be.
 -->

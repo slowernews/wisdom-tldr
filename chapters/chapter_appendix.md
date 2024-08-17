@@ -204,6 +204,9 @@ Our present (in)actions will compound into the future we will experience – tha
 ## On growing old
 
 <!--
+> *"The youth can walk faster but the elder knows the road."  
+-- Proverb*
+
 - When you're a kid you don't realize you're also watching your parents grow up.
 -->
 
@@ -315,9 +318,8 @@ Finding a place to die is an important thing to do.
 
 <!--
 > *"Intelligence is curiosity. It is that and only that. If you are curious, you are intelligent. If you are not curious, you are not intelligent. In
-fact, politically correct be damned, I will say it straight: A general lack of curiosity is a general lack of intelligence. I will even go so far as to say that a general lack of curiosity is the worst of all traits."  
--- Zan Perrion*
-> *"Curiosity is a form of creation."  
+fact, politically correct be damned, I will say it straight: A general lack of curiosity is a general lack of intelligence. I will even go so far as to say that a general lack of curiosity is the worst of all traits." (...)  
+*"Curiosity is a form of creation."  
 -- Zan Perrion*
 -->
 
@@ -350,6 +352,8 @@ Intelligence is a spectrum, a dog is intelligent also.
 <!--
 > *"A stupid man's report of what a clever man says can never be accurate, because he unconsciously translates what he hears onto something he can understand."  
 -- Bertrand Russell*
+> *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
+-- Plato*
 -->
 
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
@@ -500,7 +504,7 @@ People say they want to be famous to impact the world, often what they want is t
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
 > *"Until you make the uncouncious conscious, it will direct your life and you will call it fate."  
--- C.C Jung*
+-- Carl Jung*
 > *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  
 -- R.C. Sproul
 -->
@@ -621,8 +625,8 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
-> *"If you have a garden and a library, you have everything you need."  
--- Cicero*
+> *"Any idiot can face a crisis; it's this day-to-day living that wears you out."  
+-- Anton Chekhov*
 > *"Mondays are fine. It's your life that sucks."  
 -- Ricky Gervais*
 > *"What does the money machine eat? It eats youth, spontaneity, life, beauty, and, above all, it eats creativity. It eats quality and shits quantity."  
@@ -631,7 +635,13 @@ Health is also an envy trigger. Often what people really envy is self-control.
 -- Proverb*
 > *"If you have a garden and a library, you have everything you need."  
 -- Cicero*
+> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
+-- Viktor Frankl*
+> *"To live is the rarest thing in the world. Most people just exist."  
+-- Oscar Wilde* 
 
+- never before has a generation so diligently recorded themselves accomplishing so little.
+- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
 - what’s your adrenaline type? velocidade ou fronteira do conhecido
 - If you’re not trying to make money, what are you even doing?
 - I do not believe making money in order to consume goods is mankinds's sole purpose on this planet.
@@ -825,6 +835,10 @@ We don’t get successful by knowing everything, we get successful by listening.
 <!--
 > *"The art of being wise is knowing what to overlook."  
 -- William James*
+> *"To attain knowledge, add things everyday. To attain wisdom, remove things everyday."  
+-- Lao Tzu*
+> *"Information is not knowledge."  
+-- Albert Einstein*
 -->
 
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
@@ -1309,9 +1323,24 @@ Against facts there are no arguments. Against faith there are no facts.
 
 
 ---
+## On philosophy
+
+> *"The aim of philosophy is the logical clarification of thought. Philosophy is not a theory but an activity."  
+-- Ludwig Wittgenstein*
+
+> *"Some ideias are so stupid that only intellectuals believe them."  
+-- George Orwell*
+
+
+
+
+
+
+---
 ## On science
 
 <!--
+- trust the science is the most anti-science statement ever. questioning science is how you do science.
 - theories are explanations, not predictions. prediction comes after the explanation
 - theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
 - science transforms raw materials (resources) into civilization.
@@ -1472,6 +1501,9 @@ Artistic death is made by consensus.
 ## On aesthetics
 
 <!--
+> *"It is a wise man who lives with money in teh bank, it is a fool who dies that way."  
+-- Proverb*
+
 - our goal is to discover the beauty that is held within the age of upcycling.
 -->
 
@@ -1541,7 +1573,8 @@ Hints:
 - Stay liquid, avoid investing in anything you can’t sell in a month or two. 
 - Diversify with uncorrelated investment bets (barbell strategy).
 
-> *"Never lose money. Rule No. 2: don’t forget rule No. 1."  
+> *"Never lose money. Rule No. 2: don’t forget rule No. 1." (...)  
+"Diversification may preserve wealth, but concentration builds wealth."  
 -- Warren Buffett*
 
 > *"Money just comes to me because I know where to stand."  
@@ -1622,6 +1655,7 @@ Hints:
 > *"Education is not the learning of many facts, but the training of the mind to think."  
 -- Albert Einstein*
 
+- no one is going to give you the education you need to overthrow them.
 - don't be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
 - school's real study topic is obedience.
 - school failed to: how to build self confidence / how to be good with money / dating and relationships skills / confrontation skills / critical thinking / creative productivity.
@@ -1748,6 +1782,9 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 ## On writing
 
 <!--
+> *"Medicine is my lawful wife and literature is my mistress."  
+-- Anton Chekhov*
+
 - o poeta faz a sintese das coisas
 5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
 9. good writing is about telling the truth. we are species that needs and wants to understand who we are.
@@ -1856,7 +1893,6 @@ News are the first draft of History but he human brain was not designed to proce
 - chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
 - llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
-
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - blockchains are not personal-computing operational systems; they are social systems.
 - 90% of webapps are database frontends.
@@ -1939,3 +1975,24 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 
 > *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
 -- Ian McEwan*
+
+
+<!--
+## On hope
+
+> *"Hope is the bread of the poor."  
+-- Proverb*
+
+
+## On impossible
+
+> *"Impossible is just an opinion."  
+-- Paulo Coelho*
+
+
+## On privacy
+
+- Privacy is power. What people don't know they can't ruin. 
+-- 
+
+-->

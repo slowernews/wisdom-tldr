@@ -333,6 +333,9 @@ Hints:
 > *"Continuous improvement is better than delayed perfection."  
 -- Mark Twain*
 
+> *"Gold, when beaten, shines."  
+-- Proverb*
+
 
 
 
@@ -342,6 +345,11 @@ Hints:
 # 1.2 - On growth
 
 ## On comfort and risk
+
+<!--
+> *"The lust for comfort murders the passions of the soul."  
+-- Kahlil Gibran*
+-->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
 -- Paulo Coelho*
@@ -493,6 +501,9 @@ Hints:
 -- Friedrich Nietzsche*
 
 <!--
+> *"If skill could be gained by watching, every dog would become a butcher."  
+-- Proverb*
+
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 - sabios c six packs
 - success is the worst teacher
@@ -696,6 +707,7 @@ Hints:
 -- Proverb*
 
 - an healthy mind does not speak ill of others.
+- you can't heal if you keep pretending you're not hurt.
 -->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
@@ -842,6 +854,9 @@ Hints:
 ## On fear and excuses
 
 <!--
+> *"Where you fear is, there your task is."  
+-- Carl Jung*
+
 - What would you do if you weren't afraid?
 - fear just wants us to stay the same.
 - climbing out the hole is about letting go of pride.

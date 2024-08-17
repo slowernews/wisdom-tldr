@@ -134,6 +134,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On lovers](/chapters/chapter_appendix.md#on-lovers)
 - [On family and friends](/chapters/chapter_appendix.md#on-family-and-friends)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
+- [On philosophy](/chapters/chapter_appendix.md#on-philosophy)
 - [On science](/chapters/chapter_appendix.md#on-science)
 - [On art](/chapters/chapter_appendix.md#on-art)
 - [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
