@@ -204,9 +204,6 @@ Our present (in)actions will compound into the future we will experience – tha
 ## On growing old
 
 <!--
-> *"The youth can walk faster but the elder knows the road."  
--- Proverb*
-
 - When you're a kid you don't realize you're also watching your parents grow up.
 -->
 
@@ -266,6 +263,9 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 > *"Aging is an extraordinary process where you become the person you always should have been."  
 -- David Bowie*
 
+> *"The youth can walk faster but the elder knows the road."  
+-- Proverb*
+
 ### How to slow down the aging process?
 
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
@@ -274,7 +274,7 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 People my age are so much older than me.
 
 > *"We don’t stop playing because we grow old; we grow old because we stop playing."  
--- George bernard Shaw*
+-- George Bernard Shaw*
 
 > *"You are only as young as the last time you changed your mind."  
 -- Kevin Kelly*
@@ -292,8 +292,9 @@ People my age are so much older than me.
 
 Finding a place to die is an important thing to do.
 
-> *"A man dies when he stops working."  
--- Proverb*
+> *"A man dies when he stops working." (...)  
+"Everybody wants to go to heaven, but nobody wants to die."  
+-- Proverbs*
 
 > *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
 -- Chuck Palahniuk*
@@ -304,8 +305,6 @@ Finding a place to die is an important thing to do.
 > *"Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree."  
 -- Kevin Kelly*
 
-> *"Everybody wants to go to heaven, but nobody wants to die."  
--- Proverb*
 
 
 
@@ -350,8 +349,6 @@ Intelligence is a spectrum, a dog is intelligent also.
 ### On geniality
 
 <!--
-> *"A stupid man's report of what a clever man says can never be accurate, because he unconsciously translates what he hears onto something he can understand."  
--- Bertrand Russell*
 > *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
 -- Plato*
 -->
@@ -470,11 +467,6 @@ Books, friends, sleep, ideas, questions, gratefulness, laugh.
 ---
 ## On popularity
 
-<!--
-> *"Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product."  
--- Elon Musk*
--->
-
 > *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
 -- Bjarne Stroustrup*
 
@@ -486,6 +478,9 @@ People say they want to be famous to impact the world, often what they want is t
 "The reward for getting on the stage is fame. The price of fame is that you can’t get off stage." (...)  
 "You want to be rich and anonymous, not poor and famous."  
 -- Naval Ravikant*
+
+> *"Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product."  
+-- Elon Musk*
 
 > *"He who is known as an early riser need not get up until noon.*  
 -- Proverb*
@@ -503,8 +498,6 @@ People say they want to be famous to impact the world, often what they want is t
 -- M. Vázquez Montalban*
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
-> *"Until you make the uncouncious conscious, it will direct your life and you will call it fate."  
--- Carl Jung*
 > *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  
 -- R.C. Sproul
 -->
@@ -551,6 +544,11 @@ Risk is everything you left over and didn’t thought about.
 
 > *"Risk is what's left over when you think you've thought of everything."  
 -- Carl Richards*
+
+## On hope
+
+> *"Hope is the bread of the poor."  
+-- Proverb*
 
 
 
@@ -625,21 +623,10 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
-> *"Any idiot can face a crisis; it's this day-to-day living that wears you out."  
--- Anton Chekhov*
-> *"Mondays are fine. It's your life that sucks."  
--- Ricky Gervais*
-> *"What does the money machine eat? It eats youth, spontaneity, life, beauty, and, above all, it eats creativity. It eats quality and shits quantity."  
--- William S. Burroughs*
 > *"Joy and sorrow sleep on the same bed."  
 -- Proverb*
-> *"If you have a garden and a library, you have everything you need."  
--- Cicero*
-> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
--- Viktor Frankl*
-> *"To live is the rarest thing in the world. Most people just exist."  
--- Oscar Wilde* 
 
+- crete a life you don't need a vacation from
 - never before has a generation so diligently recorded themselves accomplishing so little.
 - some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
 - what’s your adrenaline type? velocidade ou fronteira do conhecido
@@ -669,6 +656,24 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 
 > *"Time you enjoy wasting, was not wasted."  
 -- Bertrand Russell*
+
+> *"Any idiot can face a crisis; it's this day-to-day living that wears you out."  
+-- Anton Chekhov*
+
+> *"Mondays are fine. It's your life that sucks."  
+-- Ricky Gervais*
+
+> *"What does the money machine eat? It eats youth, spontaneity, life, beauty, and, above all, it eats creativity. It eats quality and shits quantity."  
+-- William S. Burroughs*
+
+> *"If you have a garden and a library, you have everything you need."  
+-- Cicero*
+
+> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
+-- Viktor Frankl*
+
+> *"To live is the rarest thing in the world. Most people just exist."  
+-- Oscar Wilde* 
 
 Hints:
 
@@ -832,15 +837,6 @@ We don’t get successful by knowing everything, we get successful by listening.
 
 ## On wisdom
 
-<!--
-> *"The art of being wise is knowing what to overlook."  
--- William James*
-> *"To attain knowledge, add things everyday. To attain wisdom, remove things everyday."  
--- Lao Tzu*
-> *"Information is not knowledge."  
--- Albert Einstein*
--->
-
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris*
 
@@ -860,6 +856,15 @@ Wisdom is knowing the long-term consequences of your actions.
 > *"The measure of wisdom is how calm you are when facing any given situation." (...)  
 "Knowledge is discovered colectively. Wisdom is rediscovered individually."  
 -- Naval Ravikant*
+
+> *"The art of being wise is knowing what to overlook."  
+-- William James*
+
+> *"To attain knowledge, add things everyday. To attain wisdom, remove things everyday."  
+-- Lao Tzu*
+
+> *"Information is not knowledge."  
+-- Albert Einstein*
 
 
 
@@ -905,13 +910,13 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 -- Proverbs*
 
 > *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
--- Unknown in San Francisco*
+-- Unknown (in San Francisco)*
 
 > *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
 -- Naval Ravikant*
 
-> *"«If i was your wife i would poison your coffee».  
-«If i was your husband i would drink it.»"  
+> *"«If i was your wife I would poison your coffee».  
+«If i was your husband I would drink it.»"  
 -- Winston Churchill*
 
 > *"The grass is always greener on the side that is fertilized with bullshit."  
@@ -951,9 +956,6 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On humanness and irrationality
 
 <!--
-> *"We all have enough strength to endure the misfortunes of other people."  
--- La Rochefoucauld*
-
 - web3 assumes that people prefer privacy over free stuff, which is false.
 - If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
 -->
@@ -1020,9 +1022,6 @@ Life is meant to be lived in community but don’t settle for a place where you�
 
 Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.  
 
-> *"At your funeral people will not recall what you did; they will only remember how you made them feel."  
--- Kevin Kelly*
-
 > *"When everything goes to hell, the people who stand by you without flinching, they are your family."  
 -- Jim Butcher*
 
@@ -1036,7 +1035,8 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 > *"I have nothing to offer anyone, except my own confusion."  
 -- Jack Kerouac*
 
-> *"Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
+> *"At your funeral people will not recall what you did; they will only remember how you made them feel." (...)  
+"Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
 "Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
 -- Kevin Kelly*
 
@@ -1083,7 +1083,7 @@ Hints:
 -- Abraham Lincoln*
 
 > *"Brothers love each other when they are equally rich."  
--- Proverb*
+-- Unknown*
 
 > *"Spend your time in the company of geniuses, sages, children and books."  
 -- Naval Ravikant*
@@ -1200,11 +1200,6 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 ---
 ## On marriage
 
-<!--
-> *"A good husband should be deaf and a good wife should be blind."  
--- Proverb*
--->
-
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H.Harwood and R. Gore-Bro*
 
@@ -1242,7 +1237,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 
 > *"As long as the bed shakes, the house will remain stable." (...)  
 "When poverty comes in the door, love goes out of the window." (...)  
-"Happy the marriage where the husband is the head and the wife the heart."  
+"Happy the marriage where the husband is the head and the wife the heart." (...)  
+"A good husband should be deaf and a good wife should be blind."  
 -- Proverbs*
 
 
@@ -1437,10 +1433,6 @@ Technology is applied science.
 ---
 ## On art
 
-<!--
-- an artist is not paid for his labour but for his vision.
--->
-
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth*
 
@@ -1462,22 +1454,30 @@ Artistic death is made by consensus.
 > *"Poetry is what gets lost in translation."  
 -- Robert Frost*
 
-> *"The role of the artist is to ask questions, not to answer them."  
--- Anton Chekhov*
+> *"Art is the absence of fear."  
+-- Erykah Badu*
+
+> *"Art is the elimination of the unnecessary."  
+-- Pablo Picasso*
 
 > *"If you create it for yourself, it’s art. If you create it for others, it’s business."  
 -- Naval Ravikant*
 
+> *"Art should comfort the disturbed and disturb the confortable."  
+-- Banksy*
+
+### On artists
+
 > *"No artist tolerates reality."  
 -- Friedrich Nietzsche*
 
-> *"Art should comfort the disturbed and disturb the confortable."  
--- Banksy*
+> *"The role of the artist is to ask questions, not to answer them."  
+-- Anton Chekhov*
 
 > *"To be an artist, you have to give up everything, including the desire to be a good artist."  
 -- Jasper Johns*
 
-> *"An artist is not paid by his work but by his vision"  
+> *"An artist is not paid by his work but by his vision."  
 -- James Whistler*
 
 > *"An artist discovers his genious the day he dares not to please."  
@@ -1486,11 +1486,8 @@ Artistic death is made by consensus.
 > *"Anybody with artistic ambitions is always trying to reconnect with the way they saw things as child."  
 -- Tim Burton*
 
-> *"Art is the absence of fear."  
--- Erykah Badu*
-
-> *"Art is the elimination of the unnecessary."  
--- Pablo Picasso*
+> *"To be an artist, you need to live in a world of silence."  
+-- Louise Bourgeois*
 
 
 
@@ -1501,9 +1498,6 @@ Artistic death is made by consensus.
 ## On aesthetics
 
 <!--
-> *"It is a wise man who lives with money in teh bank, it is a fool who dies that way."  
--- Proverb*
-
 - our goal is to discover the beauty that is held within the age of upcycling.
 -->
 
@@ -1549,6 +1543,7 @@ The more «art» you allow in, the less commercial success you’ll have. People
 > *"I'm not interested in anything that's not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can't keep it going, I'm not interested in it."  
 -- Morgan Housel*
 
+- being broke is hard. becoming rich is hard. choose your hard.
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
 - Modern slaves are not chains, they are debt. today, people with moderate incomes, are forced to speculate or live in poverty.
 - you’re spending time to save money when you should be spending money to save time
@@ -1600,6 +1595,9 @@ Hints:
 "A great reason to buy instead of renting is that you get to fire your landlord."  
 -- Naval Ravikant*
 
+> *"It is a wise man who lives with money in the bank, it is a fool who dies that way."  
+-- Proverb*
+
 ### On investment comfort zone
 
 > *"When forced to choose, I will not trade even a night’s sleep for the chance of extra profits."  
@@ -1627,8 +1625,8 @@ Hints:
 - Don’t buy on future hopes, buy on past mistakes. We don’t loose money on star businesses, we loose money on businesses we think will be star businesses.
 
 > *"What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." (...)  
-*"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds." (...)  
-*"You’re looking for a mispriced gamble."  
+"Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. You must learn to handle mistakes and new facts that change the odds." (...)  
+"You’re looking for a mispriced gamble."  
 -- Charlie Munger*
 
 > *"The future belongs to those who see possibilities before they become obvious."  
@@ -1652,9 +1650,6 @@ Hints:
 ## On education
 
 <!--
-> *"Education is not the learning of many facts, but the training of the mind to think."  
--- Albert Einstein*
-
 - no one is going to give you the education you need to overthrow them.
 - don't be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
 - school's real study topic is obedience.
@@ -1691,9 +1686,6 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 "You get rewarded for unique knowledge, not effort. effort is required to create unique knowledge."  
 -- Naval Ravikant*
 
-> *"Education is what survives when what has been learnt has been forgotten."  
--- B.F. Skinner*
-
 > *"Learning is a treasure that will follow it’s owner everywhere."  
 -- Proverb*
 
@@ -1702,6 +1694,12 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 > *"Nine tenths of education is encouragement."  
 -- Anatole France*
+
+> *"Education is not the learning of many facts, but the training of the mind to think."  
+-- Albert Einstein*
+
+> *"Education is what survives when what has been learnt has been forgotten."  
+-- B.F. Skinner*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 
@@ -1882,6 +1880,11 @@ News are the first draft of History but he human brain was not designed to proce
 > *"The media is always accurate, except when they are talking about things I know."  
 -- Knoll’s law*
 
+## On privacy
+
+Privacy is power. What people don't know they can't ruin. 
+
+
 
 
 
@@ -1922,6 +1925,11 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *"Computers are useless. They can only give you answers."  
 -- Pablo Picasso*
 
+> *"One of the biggest mistakes we made was trying to automate things that are super easy for a person to do, but super hard for a computer to do." (...)  
+"We're already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow." (...)  
+"When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that."  
+-- Elon Musk*
+
 
 
 
@@ -1950,7 +1958,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 -- Virginia Woolf*
 
 > *"A suit to women is like lingerie to men."  
--- Proverb*
+-- Unknown*
 
 > *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
 -- Charles de Talleyrand-Perigord*
@@ -1978,21 +1986,8 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 
 
 <!--
-## On hope
-
-> *"Hope is the bread of the poor."  
--- Proverb*
-
-
 ## On impossible
 
 > *"Impossible is just an opinion."  
 -- Paulo Coelho*
-
-
-## On privacy
-
-- Privacy is power. What people don't know they can't ruin. 
--- 
-
 -->

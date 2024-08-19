@@ -11,8 +11,6 @@
 ## On creativity
 
 <!--
-> *"Creativity is intelligence having fun."  
--- Albert Einstein*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 
@@ -46,7 +44,8 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 -- Oliver Wendell Holmes*
 
 > *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas." (...)  
-"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."  
+"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand." (...)  
+"Creativity is intelligence having fun."  
 -- Albert Einstein*
 
 > *"When nothing is sure, everything is possible."  
@@ -60,6 +59,9 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
 
 Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional people living conventional lives lead to conventional ideas.
+
+> *"All truly great thoughts are conceived by walking."  
+-- Friedrich Nietzsche*
 
 > *"I begin with an idea and then it becomes something else."  
 -- Pablo Picasso*
@@ -90,7 +92,15 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 > *"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."  
 -- George Bernard Shaw*
 
+> *"If you want a new idea read an old book."  
+-- Ivan Pavlov & others*
+
 ### How to judge ideas?
+
+<!--
+> *"Work on your tone. Often ideas are rejected because of the tone of voice they are wrapped in. Humility covers many blemishes."  
+-- Kevin Kelly*
+-->
 
 Ask peers. Managers will regret more a false positive than a false negative.
 
@@ -282,11 +292,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 ### On truth
 
-<!--
-> *"Real gold does not fear the furnace."  
--- Proverb*
--->
-
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
 
@@ -300,7 +305,8 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"There are 3 truths: my truth, your truth, and the truth." (...)  
 "Who’s talking the truth doesn’t need a lot of words." (...)  
 "A lie has many variations, the truth none." (...)  
-"Tell the truth and run."  
+"Tell the truth and run." (...)  
+"Real gold does not fear the furnace."  
 -- Proverbs*
 
 > *"A lie has speed but truth has endurance."  
@@ -429,6 +435,8 @@ Hints:
 -- António Simões*
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
 -- Mark Manson*
+> *"Don't say maybe if you want to say no."  
+-- Paulo Coelho*
 
 > *"My brother says to never make a big decision before you take a shower."*
 - you must learn to proceed without certainty.
@@ -478,7 +486,8 @@ We think we make choices but our choices are influenced by others. We pick what 
 "In the age of infinite leverage, judgement is the most important skill." (...)  
 "Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
 "The only part you can’t outsource is judgement." (...)  
-"The heart decides. The head rationalizes."  
+"The heart decides. The head rationalizes." (...)  
+"If you want to make the wrong decision, ask everyone."
 -- Naval Ravikant*
 
 > *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
@@ -633,18 +642,17 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Action expresses priorities."  
 -- Mahatma Gandhi*
 
+> *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can't finish until you start, so get good at starting."  
+-- Kevin Kelly*
+
 ### On timing
 
 <!--
-> *"half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
--- Josh Billings*
 > *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
 -- Paulo Coelho*
-> *"The cock that crows too early gets his head cut off."  
--- Proverb*
 -->
 
-> *"The best time to plant a tree was 20 years ago. The second best time is right now."  
+> *"The cock that crows too early gets his head cut off."  
 -- Proverb*
 
 > *"About 99% of the time, the right time is right now."  
@@ -664,6 +672,9 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
 -- Edward G. Bulwer-Lytton*
+
+> *"half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
+-- Josh Billings*
 
 ### On procrastination
 
@@ -691,6 +702,8 @@ Hints:
 > *"If opportunity doesn’t knock, build a door."  
 -- Milton Berle*
 
+> *"The best time to plant a tree was 20 years ago. The second best time is right now."   
+-- Proverb*
 
 
 
@@ -735,9 +748,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus, priorities and productivity
 
 <!--
-> *"Learn to be indifferent to what makes no difference."  
--- Marcus Aurelius*
-
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
 - if it is important to you you’ll find a way, if not you’ll find an excuse.
@@ -934,9 +944,6 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *"Your life does not get better by chance, it gets better by change."  
--- Jim Rohn*
-
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
@@ -958,6 +965,9 @@ Overcompensate. Some people get passion from something they struggled with.
 Plans are not static.
 
 Switch strategies a few times to get where you want to go. If problems shift faster than your rate of adaptation you loose.
+
+> *"Your life does not get better by chance, it gets better by change."  
+-- Jim Rohn*
 
 > *"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."  
 -- Everett Dirksen*
@@ -1005,7 +1015,7 @@ Adapt instead of reacting. An opportunity is taking an unwanted job.
 > *"If I don’t have red, I use blue."  
 -- Pablo Picasso*
 
-> *"Change is inevitable, it’s our job to exploit it."
+> *"Change is inevitable, it’s our job to exploit it."  
 -- Eli Goldratt*
 
 ### How to change?
@@ -1085,8 +1095,6 @@ Hints:
 ### On charming
 
 <!--
-> *"Abuse often starts with praise."  
--- Proverb*
 > *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
 -- Liv Boeree*
 
@@ -1095,7 +1103,8 @@ Hints:
 - the best way to get someone’s attention is to stop giving them yours.
 -->
 
-> *"We catch more flies with honey than vinegar."  
+> *"We catch more flies with honey than vinegar." (...)  
+"Abuse often starts with praise."  
 -- Proverb*
 
 > *"To combat an adversary, become their friend."  
@@ -1138,8 +1147,6 @@ Hints:
 ### On deceiving 
 
 <!--
-> *"Everything you say should be true, but not everything true should be said."  
--- Voltaire*
 > *"A tiger wearing a bell will starve."  
 -- Proverb*
 > *"Beware of false knowledge; it is more dangerous than ignarance."  
@@ -1157,6 +1164,9 @@ Hints:
 
 > *"Appear weak when you are strong and strong when you are weak."  
 -- Sun Tzu*
+
+> *"Everything you say should be true, but not everything true should be said."  
+-- Voltaire*
 
 If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don’t do well on the short term.
 
@@ -1291,6 +1301,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 
 - tecnically win or fundamentally win
 - sportification of our culture. resistance doesn’t imply competition.
+- vencedores focam na vitoria. perdedores focam nos vencedores.
 -->
 
 > *"Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat."  
@@ -1348,8 +1359,6 @@ Hints:
 <!--
 > *"Summer grass, all that’s left of warrior’s dreams."  
 -- Basho*
-> *"They tried to bury us. They didn't know we were seeds."  
--- Proverb*
 
 - nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
 - you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.
@@ -1359,7 +1368,8 @@ Hints:
 -- Tony Hawk*
 
 > *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering." (...)  
-"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere."  
+"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere." (...)  
+"You drown not by falling into a river, but by staying submerged in it."  
 -- Paulo Coelho*
 
 Letting go allows progress. Let things happen instead of trying things to happen. Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
@@ -1369,8 +1379,9 @@ In order to come back you have to go away. Use this opportunity to re-create you
 > *"When we are no longer able to change a situation, we are challenged to change ourselves."  
 -- Victor Frankl*
 
-> *"Once the game is over, the king and the pawn go back in the same box."  
--- Proverb*
+> *"Once the game is over, the king and the pawn go back in the same box." (...)  
+"They tried to bury us. They didn't know we were seeds."  
+-- Proverbs*
 
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
 -- Kevin Kelly*
@@ -1414,10 +1425,8 @@ However people who forgive easily are taken for granted.
 
 ### On revenge
 
-<!--
 > *"The axe forgets; the tree remembers."  
 -- Proverb*
--->
 
 If you don’t reconcile you’re postponing war.
 

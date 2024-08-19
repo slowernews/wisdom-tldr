@@ -39,12 +39,17 @@
 - [1181] ASSISI, Francis of (it)
 - [1270] WALLACE, William (uk)
 
+<!--
+- [1???] CERVANTES, Miguel de (es)
+-->
+
 - [1452] DA VINCI, Leonardo (it)
 - [1469] MACHIAVELLI, Niccoló (it)
 - [1475] MICHAELANGELO (it)
 
 - [1533] MONTAIGNE, Michel de (fr)
 - [1561] BACON, Francis (uk)
+- [1564] GALILEI, Galileo (it)
 - [1593] HERBERT, George (uk)
 
 - [1601] GRACIAN, Balthasar (es)
@@ -103,6 +108,7 @@
 - [1844] FRANCE, Anatole (fr)
 - [1844] NIETZSCHE, Friedrich (de)
 - [1847] EDISON, Thomas (us)
+- [1849] PAVLOV, Ivan (ru)
 
 - [1853] GOGH, Vincent Van (nl)
 - [1854] WILDE, Oscar (ie)
@@ -330,6 +336,7 @@
 - [1948] HINTON, S.E. (us)
 - [1948] MCEWAN, Ian (uk)
 - [1948] PRATCHETT, Terry (uk)
+- [1948] TOLLE, Eckhart (de)
 - [1949] DALIO, Ray (us)
 - [1949] GOLDSMITH, Marshall (us)
 - [1949] LUTUS, Paul (us)

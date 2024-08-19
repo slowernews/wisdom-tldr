@@ -8,15 +8,6 @@
 
 ## The real you
 
-<!--
-> *"Everyone sees what you appear to be, few experience what you really are."  
--- Niccoló Machiavelli*
-> *"Had I not created my whole world, I would certainly have died in other people's."  
--- Anais Nin*
-
-- Your new life will cost you your old one.
--->
-
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant*
 
@@ -26,7 +17,18 @@
 > *"It is better to be hated for what you are than to be loved for what you are not."  
 -- André Gide*
 
+> *"Everyone sees what you appear to be, few experience what you really are."  
+-- Niccoló Machiavelli*
+
+> *"Had I not created my whole world, I would certainly have died in other people's."  
+-- Anais Nin*
+
 ### How to come alive?
+
+<!--
+- Your new life will cost you your old one.
+- do not fear your own potential
+-->
 
 > *"All men die, but not every man lives."  
 -- William Wallace*
@@ -79,15 +81,13 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 ---
 ## On finding your path
 
-<!--
-> *"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
--- Kevin Kelly*
+<!--*
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
 -- twitter@pat_stedman
 > *"Home is not where you are born; home is where all your attempts to escape cease."  
 -- Naguib Mahfouz*
 
-I may not be where I want to be, but thank god i'm not where I use to be.
+- I may not be where I want to be, but thank god i'm not where I use to be.
 -->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
@@ -105,7 +105,8 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"Life is not a problem to be solved but a reality to be experienced."  
 -- Soren Kierkegaard*
 
-> *"You goal in life is to be able to say on the day before you die that you have fully become yourself."  
+> *"You goal in life is to be able to say on the day before you die that you have fully become yourself." (...)  
+"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly*
 
 > *"A man’s character is his fate."  
@@ -151,7 +152,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 - “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
 > *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you." (...)  
-"The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life."
+"The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life."  
 -- Naval Ravikant*
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
@@ -210,7 +211,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"Every great life has had in it a great renunciation."  
 -- Zan Perrion*
 
-> *"If you can't, you must. If you must, you can."
+> *"If you can't, you must. If you must, you can."  
 -- Tony Robbins*
 
 ### Wrong paths
@@ -224,16 +225,15 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn't the answer. It just gave us a glimpse of the possibility."  
 -- John Lennon*
 
-> *"The possibilities are numerous once we decide to act and not react."
+> *"The possibilities are numerous once we decide to act and not react."  
 -- George Bernard Shaw*
 
 > *"I am free and that is why I am lost."  
 -- Franz Kafka*
 
-<!--
 > *"To the mediocre, mediocrity appears great."  
 -- Proverb*
--->
+
 
 
 

@@ -63,6 +63,9 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
+> *"Always be radically honest, but use your honesty as a gift not as a weapon. Your honesty should benefit others."  
+-- Kevin Kelly*
+
 - Honesty is an antidote to impostor syndrome. 
 - CHANGE YOUR ACTIONS, NOT YOURSELF. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
 - You must play by your rules, funnel your weird stuff to give you some advantage.
@@ -210,6 +213,10 @@ One way to humble yourself is to place yourself in the position of being the wea
 > *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
 -- Naval Ravikant*
 
+> *"Humility is mostly about being very honest about how much you owe to luck." (...)  
+"You can't call it charity unless no one is watching."  
+-- Kevin Kelly*
+
 ### On respect
 
 > *"Everyone you will ever meet knows something you don’t."  
@@ -294,7 +301,7 @@ Hints:
 > *"The mind gives up before the body." (...)  
 "Persistence beats timing. Execution beats luck. Not immediately but eventually." (...)  
 "The optimal zone for performance is «slightly hungry»." (...)  
-"Don’t settle and don’t struggle. Life is what flows in between." (...)
+"Don’t settle and don’t struggle. Life is what flows in between." (...)  
 "You get paid for being right first, and to be first, you can’t wait for consensus." (...)  
 "Doing is faster than watching." (...)  
 "Choose inspiration over envy." (...)  
@@ -416,11 +423,6 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 ---
 ## On improving
 
-<!--
-> *"Ask the experienced rather than the learned."  
--- Proverb*
--->
-
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
 
@@ -497,13 +499,7 @@ Hints:
 > *"Pain plus reflection equals progress."  
 -- Ray Dalio*
 
-> *"All truly great thoughts are conceived by walking."  
--- Friedrich Nietzsche*
-
 <!--
-> *"If skill could be gained by watching, every dog would become a butcher."  
--- Proverb*
-
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 - sabios c six packs
 - success is the worst teacher
@@ -518,13 +514,16 @@ Hints:
 
 ### Improving by experience
 
-> *"Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand."  
--- Proverb*
+> *"Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand." (...)  
+"If skill could be gained by watching, every dog would become a butcher." (...)  
+"Ask the experienced rather than the learned."  
+-- Proverbs*
 
 > *"The difference between theory and practice: in theory, there’s no difference between theory and practice; in practice, there is."  
 -- Van de Snepscheut*
 
 > *"The greatest teacher is called «doing»." (...)  
+"When you are right, you are learning nothing." (...)  
 "To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them."  
 -- Kevin Kelly*
 
@@ -565,9 +564,6 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 ## On achieving mastery
 
 <!--
-> *"Don't play what's there, play what's not there."  
--- Miles Davis*
-
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
@@ -611,6 +607,9 @@ True experts recognize the limits of what they know and what they do not know.
 > *"I am always doing that which I cannot do, in order that I may learn how to do it."
 -- Pablo Picasso*
 
+> *"Don't play what's there, play what's not there."  
+-- Miles Davis*
+
 ### Mastery and arrogance
 
 There’s always room for improvement; be humble. There is no place for a «prima donna».
@@ -634,11 +633,6 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 
 ---
 ## On habits and systems
-
-<!--
-> *"People do not decide their futures, they decide their habits and their habits decide their futures."  
--- F. M. Alexander
--->
 
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 -- Will Durant*
@@ -668,7 +662,7 @@ Hints:
 -- Charles C. Nobel*
 
 > *"People don’t decide their future, they decide their habits and their habits decide their futures."  
--- F. M. Alexander*
+-- F.M. Alexander*
 
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett*
@@ -703,9 +697,6 @@ Hints:
 ## On stress and health
 
 <!--
-> *"Civilize the mind but make savage the body."  
--- Proverb*
-
 - an healthy mind does not speak ill of others.
 - you can't heal if you keep pretending you're not hurt.
 -->
@@ -723,6 +714,9 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 > *"The wise man accepts his pain, endures it, but does not add to it."  
 -- Marcus Aurelius*
 
+> *"If you get the inside right, the outside will fall into place. Primary reality is within; secondary reality without."  
+-- Eckhart Tolle*
+
 > *"A healthy body is light and silent, just as a healthy mind." (...)  
 "The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance." (...)  
 "Yoga cultivates peace of body. Meditation cultivates peace of mind." (...)  
@@ -732,8 +726,9 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 "When it comes to nutrition, subtract before you add."  
 -- Naval Ravikant*
 
-> *"An healthy person has a thousand wishes. A sick person has one."  
--- Proverb*
+> *"An healthy person has a thousand wishes. A sick person has one." (...)  
+"Civilize the mind but make savage the body."  
+-- Proverbs*
 
 ### On depression and anxiety
 
@@ -784,10 +779,8 @@ Hints:
 > *"Worrying is like paying a debt you don’t owe."  
 -- Mark Twain*
 
-> *"A man is as miserable as he thinks he is."  
--- Seneca*
-
-> *"We suffer more often in imagination than in reality."  
+> *"A man is as miserable as he thinks he is." (...)  
+"We suffer more often in imagination than in reality."  
 -- Seneca*
 
 > *"The mind is everything. What you think you become."  
@@ -811,11 +804,6 @@ Hints:
 -- Naval Ravikant*
 
 ### How to overcome them?
-
-<!--
-> *"That which we need the most will be found where we least want to look."  
--- Carl Jung*
--->
 
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer*
@@ -854,9 +842,6 @@ Hints:
 ## On fear and excuses
 
 <!--
-> *"Where you fear is, there your task is."  
--- Carl Jung*
-
 - What would you do if you weren't afraid?
 - fear just wants us to stay the same.
 - climbing out the hole is about letting go of pride.
@@ -895,6 +880,10 @@ Fear makes the wolf bigger than he really is.
 
 > *"Any person capable of angering you becomes your master; ha can anger you only you permit yourself being disturbed by him."  
 -- Epictetus*
+
+> *"Where you fear is, there your task is." (...)  
+"That which we need the most will be found where we least want to look."  
+-- Carl Jung*
 
 ### On courage
 
@@ -1305,6 +1294,9 @@ Hints:
 "To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  
 -- Naval Ravikant*
 
+> *"You'll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."  
+-- Kevin Kelly*
+
 
 
 
@@ -1366,6 +1358,9 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 
 > *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
 -- Marcus Aurelius*
+
+> *"Until you make the uncouncious conscious, it will direct your life and you will call it fate."  
+-- Carl Jung*
 
 ### How to grow self awareness?
 

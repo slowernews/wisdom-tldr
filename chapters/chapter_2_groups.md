@@ -11,9 +11,6 @@
 ## On communication
 
 <!--
-> *"A silent man is the best one to listen to." (...)  
-"Say a little and say it well."
--- Proverb*
 > *"You can have the mind or you can have the moment." (...)  
 "Better bored than busy."
 -- Naval Ravikant*
@@ -36,8 +33,13 @@ Speak less and listen more.
 > *"Know how to listen and you will profit even from those who talk badly."  
 -- Plutarch*
 
-> *"A fool is known by his speech, and a wise man by silence."  r
+> *"A fool is known by his speech, and a wise man by silence."  
 -- Pythagoras*
+
+> *"A silent man is the best one to listen to." (...)  
+"Say a little and say it well." (...)  
+"Silence cannot be misquoted."
+-- Proverbs*
 
 ### How to communicate? 
 
@@ -92,6 +94,9 @@ Good stories condense a massive amount of details into a consumable and shareabl
 > *"The more you say, the less people remember."  
 -- François Fénelon*
 
+> *"To tell a good story, you must reveal a surprise; otherwise is just a report."  
+-- Kevin Kelly*
+
 ### On public speaking
 
 > *"Eloquence is logic on fire."  
@@ -120,7 +125,7 @@ Hints:
 ## On relationships
 
 <!--
-> *"between what is said and not meant, and what is meant and not said, most of love is lost."  
+> *"Between what is said and not meant, and what is meant and not said, most of love is lost."  
 -- Kahlil Gibran*
 
 - One day you're going to miss how much I cared.
@@ -147,6 +152,9 @@ Hints:
 
 > *"Play long-term games with long-term people. The secret to a happy relationship is two happy people. If you loose somebody for being yourself, then you never had them to begin with. Find a relationship where you, naturally being you, makes the other person happy and viceversa. The worst way to build a relationship is to try to build a relationship. The people you most want to impress can read your intentions."    
 -- Naval Ravikant (paraphrased)*
+
+> *"Faults are thick where love where love is thin."  
+-- Proverb*
 
 
 
@@ -176,11 +184,6 @@ Make networking an habit. Who you know and whether they like you will determine 
 ### How to network?
 
 <!--
-> *"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
--- Kevin Kelly*
-> *"Give me the gift of a listening heart."  
--- King Solomon*
-
 - What’s the most common question or problem you get asked about? Share the answer.
 - Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
 - Not what should I do next but who should you speak next?
@@ -188,7 +191,8 @@ Make networking an habit. Who you know and whether they like you will determine 
 - Networking types: shark, dolphin, drowner.  
 -->
 
-> *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead."  
+> *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead." (...)  
+"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
 -- Kevin Kelly*
 
 Be useful, not important. Listen to people, get their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
@@ -217,6 +221,9 @@ Hints:
 
 > *"If you expect magic in every encounter, you’ll find it."  
 -- Adam Robinson*
+
+> *"Give me the gift of a listening heart."  
+-- King Solomon*
 
 ### Why most people don’t like networking?
 
@@ -256,6 +263,7 @@ Choose truth or your self-mythology will seduce you.
 > *"Any product that needs a manual is broken."  
 -- Elon Musk*
 
+- sustainable design is just good design.
 - Platonic products rarely work.
 - open source means each problem only has to solved once -- naval
 - teleshopping design.
@@ -321,11 +329,6 @@ Validate your business by finding paying clients. If something is worth doing, s
 ### On entrepreneurship
 
 <!--
-> *"Don't find customers for your products. Find products for your customers."  
--- Seth Godin*
-> *"Don't open a shop unless you know how to smile."  
--- Proverb*
-
 - Ownership is the only thing. Never give a single share a unless you absolutely have to.
 -->
 
@@ -359,6 +362,12 @@ Do something that most people think is hard. If you try something easy, there wi
 -- David Velez (Nubank)*
 
 > *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."*
+
+> *"Don't find customers for your products. Find products for your customers."  
+-- Seth Godin*
+
+> *"Don't open a shop unless you know how to smile."  
+-- Proverb*
 
 
 
@@ -445,6 +454,9 @@ Modern selling: farmers (ambiverts and introverts)
 "You can’t bore people into buying your product."  
 -- David Ogilvy*
 
+> *"If you make people think they're thinking, they'll love you. If you really make them think, they'll hate you."  
+-- Don Marquis*
+
 > *"Nobody reads advertising. People read what interests them, and sometimes it’s an ad."  
 -- Howard Luck Gossage*
 
@@ -520,13 +532,11 @@ However always strive to achieve a win-win situation. When both sides don’t ta
 
 ### On price
 
-<!--
-> *"The price of anything is the amount of life you exchange for it."  
--- Henry David Thoreau*
--->
-
 > *"Price is what you pay, value is what you get."  
 -- Warren Buffett*
+
+> *"The price of anything is the amount of life you exchange for it."  
+-- Henry David Thoreau*
 
 Price is a filter. Set it to choose the customers you prefer to work with. If they can’t pay, walk away.
 
@@ -608,11 +618,6 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- David Leach*
 
 ### How to mentor your kids?
-
-<!--
-> *"Your naked body should belong only to those who fall in love with your naked soul."  
--- Charlie Chaplin (in a letter to his daughter, Geraldine)
--->
 
 > *"Teach your children early what you learned late."  
 -- Richard Feynman*
@@ -724,6 +729,9 @@ Hints:
 > *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
 -- T.H. White*
 
+> *"Your naked body should belong only to those who fall in love with your naked soul."  
+-- Charlie Chaplin (in a letter to his daughter, Geraldine)*
+
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
 
 > *"Do not teach a starving man to fish."  
@@ -737,16 +745,12 @@ However some people are not ready to accept your vision. And «givers» attract 
 ---
 ## On generosity and incentives
 
-<!--
-> *"A candle loses nothing by lighting another candle."  
--- Proverb*
--->
-
 > *"No one has ever become poor by giving."  
 -- Anne Frank*
 
-> *"A bit of fragrance clings to the hand that gives flowers."  
--- Proverb*
+> *"A bit of fragrance clings to the hand that gives flowers." (...)  
+> *"A candle loses nothing by lighting another candle."  
+-- Proverbs*
 
 No one on their deathbed has ever regretted giving too much away.
 
@@ -766,6 +770,9 @@ Hints:
 > *"Attention is the rarest and purest form of generosity."  
 -- Weil*
 
+> *"If you are more fortunate than others, build a longer table rather than a taller fence."  
+-- Kevin Kelly*
+
 ### On incentives
 
 Powerful people give freely, buying influence rather than things.
@@ -780,17 +787,13 @@ Hints:
 
 
 
+
 ---
 ## On hierarchy
 
 <!--
 > *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  
 -- Jorge Luis Borges*
-> *"When you are on the bottom you can’t afford to look like you belong there."  
--- Mike Downey*
-> *"When the mouse laughs at the cat there is a hole nearby." (...)  
-"The sun doesn't forget a village just because it is small."  
--- Proverb*
 
 - if you don't like something, just take away its only power: your attention.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
@@ -818,6 +821,13 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 "I don't believe in hierarchical relationships. I don't want to be above anybody and I don't want to be below anybody. If I can't treat someone like a peer and if they can't treat me like a peer, I just don't want to interact with them."  
 -- Naval Ravikant*
 
+> *"When you are on the bottom you can’t afford to look like you belong there."  
+-- Mike Downey*
+
+> *"When the mouse laughs at the cat there is a hole nearby." (...)  
+"The sun doesn't forget a village just because it is small."  
+-- Proverbs*
+
 
 
 
@@ -827,6 +837,8 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+> *"We all have enough strength to endure the misfortunes of other people."  
+-- François de La Rochefoucauld*
 > *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
 -- Confucius*
 > *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
@@ -843,6 +855,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- Ralph Waldo Emerson*
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
 -- Thomas Sowell*
+> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
 
 > *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
@@ -907,8 +920,6 @@ Hints:
 > *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
 -- John Kenneth Galbraith*
 
-> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
-
 > *"The worst form of inequality is to try to make unequal things equal."  
 -- Aristotle*
 
@@ -930,7 +941,8 @@ Hints:
 "Independent is what people call you if your opinions don’t upset anybody."  
 -- Nassin Taleb*
 
-> *"I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals."  
+> *"I love individuals. I hate groups of people. I hate a group of people with a «common purpose». Because pretty soon they have little hats. And armbands. And fight songs. And a list of people they’re going to visit at 3am. So, I dislike and despise groups of people. But I love individuals." (...)  
+"Political correctness is America’s newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people’s language with strict codes and rigid rules."  
 -- George Carlin*
 
 > *"Every society honors its live conformists and its dead troublemakers."  
@@ -977,9 +989,6 @@ Hints:
 
 > *"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum."  
 -- Noam Chomsky*
-
-> *"Political correctness is America’s newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people’s language with strict codes and rigid rules."  
--- George Carlin*
 
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
 -- Thomas Jefferson*
@@ -1084,14 +1093,12 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it."  
 -- Anders Hejlsberg*
 
-> *"Gold rushes make the shovel sellers rich, not the gold seekers."  
--- Proverb*
+> *"Gold rushes make the shovel sellers rich, not the gold seekers." (...)  
+"One cow breaks the fence and a dozen leap it."  
+-- Proverbs*
 
 > *"No snowflake in an avalanche ever feels responsible."  
 -- Voltaire*
-
-> *"One cow breaks the fence and a dozen leap it."  
--- Proverb*
 
 > *"In our infinite ignorance we are all equal."  
 -- Karl Popper*
@@ -1135,6 +1142,9 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 > *"Great things are not accomplished by those who yield to trends and fads and popular opinion."  
 -- Jack Kerouac*
 
+> *"A stupid man's report of what a clever man says can never be accurate, because he unconsciously translates what he hears onto something he can understand."  
+-- Bertrand Russell*
+
 It’s easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
 
 > *"Don’t ever take a fence down until you know the reason why it was put up."  
@@ -1151,8 +1161,6 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 ### How to judge a man?
 
 <!--
-> *"When the character of a man is not clear to you, look at his friends."  
--- Proverb*
 - we tend to judge others by their behaviour, and ourselves by our intentions.
 -->
 
@@ -1189,8 +1197,9 @@ Hints:
 > *"I’m suspicious of people who don’t like dogs, but I trust a dog when it doesn’t like a person."  
 -- Bill Murray*
 
-> *"A drunk man’s words, are a sober man’s thoughts."  
--- Proverb*
+> *"A drunk man’s words, are a sober man’s thoughts." (...)  
+"When the character of a man is not clear to you, look at his friends."  
+-- Proverbs*
 
 > *"A great man is hard on himself; a small man is hard on others." (...)
 "What the superior man seeks is in himself; what the small man seeks is in others."  
@@ -1209,10 +1218,6 @@ Hints:
 ## On opponents and allies
 
 <!--
-> *"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd."  
--- Proverb*
-> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
--- Warren Buffett*
 > *"Never offend people with style when you can offend them with substance."  
 -- Sam Brown*
 > *"Só os mais corajosos conseguem fazer a paz."  
@@ -1226,6 +1231,7 @@ Hints:
 > *"Because she competes with no one, no one can compete with her."  
 -- Lao Tzu*
 
+- your follower is not always your fan
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
 - understand the difference of an adversary and an enemy to not accumulate enemys.
@@ -1266,7 +1272,10 @@ Easy players are often just deceiving you. However - if you can identify them - 
 -- Albert Einstein*
 
 > *"«El dorados» are never drawn in the map."  
--- Proverb*
+-- Unknown*
+
+> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
+-- Warren Buffett*
 
 ### On desperate opponents
 
@@ -1317,6 +1326,7 @@ Hint:
 -- Peter Kropotkin*
 
 > *"United we are rock, divided we are sand." (...)  
+"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd." (...)  
 "Hungry dogs are never loyal."  
 -- Proverbs*
 
@@ -1390,8 +1400,6 @@ Hints:
 ## On leadership
 
 <!--
-> *"Only the guy who isn't rowing has time to rock the boat."  
--- Jean Paul Sartre*
 > *"He who does not desire power is fit to hold it."  
 -- Plato*
 
@@ -1451,6 +1459,9 @@ Hints:
 
 > *"The only thing that gives orders is balls."  
 -- Tony Montana*
+
+> *"Only the guy who isn't rowing has time to rock the boat."  
+-- Jean Paul Sartre*
 
 
 
@@ -1512,12 +1523,10 @@ Hints:
 > *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
 -- Naval Ravikant*
 
-### How to give fedback?
-
-<!--
 > *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
 -- Perry Belcher*
--->
+
+### How to give fedback?
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
 -- HN_exelius*
@@ -1588,7 +1597,8 @@ Hints:
 > *"The world will ask you who you are, and if don’t know, the world will tell you."  
 -- Carl Jung*
 
-> *"Don’t be the best. Be the only."  
+> *"Don’t be the best. Be the only." (...)  
+"A good sign that you are doing the kind of work that you should be doing is that you enjoy the tedious parts that other people find tortuous."  
 -- Kevin Kelly*
 
 Nobody can compete with you on being you. Most of your life is a search for who and what needs you the most.
@@ -1634,7 +1644,7 @@ Hints:
 -- HN_goatinaboat*
 
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
--- Proverb*
+-- HN_??*
 
 ### How to «pivot» career?
 
@@ -1646,7 +1656,7 @@ You will either pivot or get pivoted.
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
--- Proverb*
+-- Unknown*
 
 > *"My luggage is always ready."  
 -- Jorge Jesus (soccer coach)*
