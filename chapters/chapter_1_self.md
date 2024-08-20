@@ -63,9 +63,6 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-> *"Always be radically honest, but use your honesty as a gift not as a weapon. Your honesty should benefit others."  
--- Kevin Kelly*
-
 - Honesty is an antidote to impostor syndrome. 
 - CHANGE YOUR ACTIONS, NOT YOURSELF. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
 - You must play by your rules, funnel your weird stuff to give you some advantage.
@@ -114,6 +111,10 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 "To be honest speak without identity."  
 -- Naval Ravikant*
 
+> *"Always be radically honest, but use your honesty as a gift not as a weapon. Your honesty should benefit others."  
+-- Kevin Kelly*
+
+
 
 
 
@@ -122,8 +123,6 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 ## On accountability
 
 <!--
-> *"There is no greater fraud than the promise not kept."  
--- Proverb*
 > *"The more we disagree, the more chance there is that at least one of us is right.*
 
 - every damn thing is your own fault, if you are any good.
@@ -168,12 +167,15 @@ Take ownership of your life; only then you will cultivate respect for yourself a
 > *"To be trusted is a greater compliment than being loved."  
 -- George Mcdonald*
 
+> *"There is no greater fraud than the promise not kept."  
+-- Proverb*
+
 ### How to grow your reputation?
 
 Be impeccable with your word. Take responsibility. Trust, not money, is the currency of business and life.
 
 > *"Who does not trust enough will not be trusted."  
--- Lao Tsu*
+-- Lao Tzu*
 
 > *"Pay every debt, as if God wrote the bill."  
 -- Ralph Waldo Emerson*
@@ -213,8 +215,7 @@ One way to humble yourself is to place yourself in the position of being the wea
 > *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
 -- Naval Ravikant*
 
-> *"Humility is mostly about being very honest about how much you owe to luck." (...)  
-"You can't call it charity unless no one is watching."  
+> *"Humility is mostly about being very honest about how much you owe to luck."  
 -- Kevin Kelly*
 
 ### On respect
@@ -263,7 +264,8 @@ Don’t forget that a group of people blazed the trail we’re enjoying, and ano
 > *"A good life is not a life without problems. A good life is a life with good problems."  
 -- Mark Manson*
 
-> *"Writing down one thing you are grateful for each day is the cheapest possible therapy ever."  
+> *"Writing down one thing you are grateful for each day is the cheapest possible therapy ever." (...)  
+"You can't call it charity unless no one is watching."  
 -- Kevin Kelly*
 
 > *"The blind can’t see. The proud will not."  
@@ -298,30 +300,24 @@ Hints:
 - Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
 - «It’s on documentation. If it’s not add it.»
 
-> *"The mind gives up before the body." (...)  
-"Persistence beats timing. Execution beats luck. Not immediately but eventually." (...)  
-"The optimal zone for performance is «slightly hungry»." (...)  
-"Don’t settle and don’t struggle. Life is what flows in between." (...)  
-"You get paid for being right first, and to be first, you can’t wait for consensus." (...)  
-"Doing is faster than watching." (...)  
-"Choose inspiration over envy." (...)  
-"Better bored than busy."  
--- Naval Ravikant*
-
 > *"If you have a dream, don’t waste your energies explaining why."  
 -- Paulo Coelho*
 
-> *"I don’t count my sit-ups. I only start counting once it starts hurting."  
--- Muhammad Ali*
-
-> *"If there’s no wind, row." (...)  
-"The seed of all evil is laziness." (...)  
-"The longer the tongue, the shorter the hands." (...)  
-"Work is the medicine for poverty."  
--- Proverbs*
-
 > *"As a grown man you should know better than to go around advising people."  
 -- Bertolt Brecht*
+
+> *"The seed of all evil is laziness." (...)  
+"The longer the tongue, the shorter the hands."  
+-- Proverbs* 
+
+> *"Doing is faster than watching."  
+-- Naval Ravikant*
+
+> *"The most difficult is the decision to act, the rest is just tenacity."  
+-- Andrea Earhart*
+
+> *"You miss 100% of the shots you don’t take."  
+-- Wayne Gretzky*
 
 
 
@@ -340,8 +336,17 @@ Hints:
 > *"Continuous improvement is better than delayed perfection."  
 -- Mark Twain*
 
-> *"Gold, when beaten, shines."  
--- Proverb*
+> *"Gold, when beaten, shines." (...)  
+"If there’s no wind, row." (...)  
+"Work is the medicine for poverty."  
+-- Proverbs*
+
+> *"I don’t count my sit-ups. I only start counting once it starts hurting."  
+-- Muhammad Ali*
+
+> *"The mind gives up before the body." (...)  
+"Persistence beats timing. Execution beats luck. Not immediately but eventually."  
+-- Naval Ravikant*
 
 
 
@@ -523,8 +528,8 @@ Hints:
 -- Van de Snepscheut*
 
 > *"The greatest teacher is called «doing»." (...)  
-"When you are right, you are learning nothing." (...)  
-"To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them."  
+"To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them." (...)  
+"When you are right, you are learning nothing."  
 -- Kevin Kelly*
 
 ### Improving by analysis
@@ -541,7 +546,7 @@ Hints:
 - Fastest way to learn is to teach.
 
 > *"You can only connect the dots looking back, not looking forward."  
--- Proverb*
+-- Unknown*
 
 ### Applied knowledge
 
@@ -1234,6 +1239,9 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffet*
+
+> *Choose inspiration over envy."    
+-- Naval Ravikant*
 
 ### On blindspots
 

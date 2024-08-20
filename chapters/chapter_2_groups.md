@@ -11,8 +11,7 @@
 ## On communication
 
 <!--
-> *"You can have the mind or you can have the moment." (...)  
-"Better bored than busy."
+> *"You can have the mind or you can have the moment."  
 -- Naval Ravikant*
 
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."*
@@ -38,14 +37,13 @@ Speak less and listen more.
 
 > *"A silent man is the best one to listen to." (...)  
 "Say a little and say it well." (...)  
-"Silence cannot be misquoted."
+"Silence cannot be misquoted."  
 -- Proverbs*
 
 ### How to communicate? 
 
 <!--
-> *"Be curious, not judgmental."  
--- Walt Witman*
+
 -->
 
 > *"If you want to be interesting, be interested."  
@@ -63,12 +61,10 @@ Hints:
 
 ### How to discord?
 
-<!--
-- my father used to say: don't raise your voice. improve your argument.
--->
-
 > *"Admit when you’re wrong. Shut up when you’re right."  
 -- John Gottman*
+
+Don't raise your voice. improve your argument.
 
 Listen as you’re wrong. Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you’ll learn something. If they can’t you’ll soften their views.
 
@@ -83,6 +79,9 @@ Listen as you’re wrong. Ask the person trying to convince you of something to 
 
 > *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
 -- Winston Churchill*
+
+> *"Be curious, not judgmental."  
+-- Walt Witman*
 
 ### How to tell good stories?
 
@@ -577,11 +576,9 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 "Remove grading to see who is really interested in the topic."  
 -- Naval Ravikant*
 
-> *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever."  
--- Proverb*
-
-> *"I’d rather have criticism from a genius than praise from an idiot."  
--- Proverb*
+> *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever." (...)  
+"I’d rather have criticism from a genius than praise from an idiot."  
+-- Proverbs*
 
 > *"A critic is a legless man who teaches running."  
 -- Channing Pollock*
@@ -693,9 +690,6 @@ Hints:
 > *"To a father growing old nothing is dearer than a daughter."  
 -- Euripides*
 
-> *"Children are a poor man’s riches."  
--- Proverb*
-
 > *"Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you."  
 -- Honore de Balzac*
 
@@ -714,8 +708,9 @@ Hints:
 > *"Life doesn’t come with an instruction book — that’s why we have fathers."  
 -- H. Jackson Browne*
 
-> *"A father is someone you look up to no matter how tall you grow."  
--- Proverb*
+> *"Children are a poor man’s riches." (...)  
+"A father is someone you look up to no matter how tall you grow."  
+-- Proverbs*
 
 > *"Be nice to your children because they are going to choose your nursing home." (...)  
 "Children totally accept — and crave — family rules. «In our family we have a rule for X» is the only excuse a parent needs for setting a family policy. In fact, «I have a rule for X» is the only excuse you need for your own personal policies." (...)  
@@ -749,7 +744,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 -- Anne Frank*
 
 > *"A bit of fragrance clings to the hand that gives flowers." (...)  
-> *"A candle loses nothing by lighting another candle."  
+"A candle loses nothing by lighting another candle."  
 -- Proverbs*
 
 No one on their deathbed has ever regretted giving too much away.
@@ -839,28 +834,13 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 <!--
 > *"We all have enough strength to endure the misfortunes of other people."  
 -- François de La Rochefoucauld*
-> *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
--- Confucius*
-> *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
--- Alexander Fraser Tytler*
-> *"Não há direitos sem obrigações e viceversa."  
--- E. Ferreira*
-> *"Political language is designed to make lies sound truthful."  
--- George Orwell*
-> *"History is a race between education and catastrophe."  
--- H.G. Wells*
-> *"Fascism is cured by reading, and racism is cured by traveling."  
--- Miguel de Unamuno*
-> *"The triumph of culture is to overpower nationality."  
--- Ralph Waldo Emerson*
+> *"Não há direitos sem obrigações e viceversa."  -- E. Ferreira*
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
 -- Thomas Sowell*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
-
 > *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
 > *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
-> *"Freedom of the press is for those who happen to own one.*
 > *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism
 -- ownership of government by an individual, by a group or by any controlling private power."  
 -- FDR*
@@ -873,12 +853,11 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 - it’s just human nature that if i get to decide who get sthe gold it is gosng o be my friends,  family and people i like.
 - the real diversity that matters is the diversity of ideas, not the diversity of skin color.
 - few tv channels equalized culture.
-- the revolutionaries always become the new dictators
-- rigid regimes are doomed when they become flexible.
-- the struggle between collectivists and the individual is as old as humanity itself.
+- Rigid regimes are doomed when they become flexible. The revolutionaries always become the new dictators.
+- The struggle between collectivists and the individual is as old as humanity itself.
 - all poverty is energy poverty.
-- never apologize to the politically correct.
-- if you want to destroy any nation without war, make adultery or nudity common in the young generation.
+- Never apologize to the politically correct.
+- If you want to destroy any nation without war, make adultery or nudity common in the young generation.
 - Men often believe > *"or pretend > *"that the "Law" is something sacred, or at least a science > *"an unfounded assumption very convenient to governments.
 - low-key activism is often just narcisism. most people don’t really understand the issuesthey are being activist about. It’s just virtue signaling on Social Media. A young generation doesn’t know what a really debate dosen’t include demonizing people and get them canceled.
 - 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outisde of work.
@@ -920,22 +899,19 @@ Hints:
 > *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
 -- John Kenneth Galbraith*
 
-> *"The worst form of inequality is to try to make unequal things equal."  
--- Aristotle*
+> *"Love your neighbour, yet don’t pull down your hedge."  
+-- Benjamin Franklin*
+
+> *"Good fences make good neighbors."  
+-- Robert Frost*
+
+> *"All bad precedents began as justifiable measures."  
+-- Julius Caesar*
 
 > *"Love your country, but never trust its government." (...)  
 "Never appeal to a man’s «better nature». He may not have one. Invoking his self-interest gives you more leverage." (...)  
 "If you are part of a society that votes, then do so. There may be no candidates and measures you want to vote for... But there are certain to be ones you want to vote against. In case of doubt, vote against. By this rule you will rarely go wrong. If this is too blind for your taste, consult some well-meaning fool (there is always one around) and ask his advice. Then vote the other way. This enables you to be a good citizen (if such is your wish) without spending the enormous amount of time that truly intelligent exercise of the franchise requires."  
 -- Robert A. Heinlein*
-
-> *"Favors granted always become defined as rights."  
--- Saul Alinsky*
-
-> *"The comfort of the rich depends upon an abundant supply of the poor."  
--- Voltaire*
-
-> *"A conservative is a fellow who thinks a rich man should have a fair deal."  
--- Frank Dane*
 
 > *"The disease of 20th century is utopianism, that of 21th century is hypernaive utopianism: libertarianism, wokism, cryptoism, techno-salvationism, etc, are identical in spirit to Communism." (...)  
 "Independent is what people call you if your opinions don’t upset anybody."  
@@ -945,9 +921,6 @@ Hints:
 "Political correctness is America’s newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people’s language with strict codes and rigid rules."  
 -- George Carlin*
 
-> *"Every society honors its live conformists and its dead troublemakers."  
--- Marshall McLuhan*
-
 > *"Free people make free choices. Free choices mean you have unequal outcomes. You can have freedom or you can have equal outcomes. You can’t have both." (...)  
 "Populism is what we call democracy when we don’t like the outcome." (...)  
 "Groups search for consensus. Individuals search for truth." (...)  
@@ -956,33 +929,8 @@ Hints:
 "The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax the nominal gains, thereby confiscating the real value of the assets."  
 -- Naval Ravikant*
 
-> *"Inflation is how democracies die."  
--- Charlie Munger*
-
-> *"Love your neighbour, yet don’t pull down your hedge."  
--- Benjamin Franklin*
-
-> *"Good fences make good neighbors."  
--- Robert Frost*
-
-> *"The urge to save humanity is almost always a false front for the urge to rule it." (...)  
-"Every decent man is ashamed of the government he lives under."  
--- H.L. Mencken*
-
-> *"90% of the politicians give the other 10% a bad reputation."  
--- Henry Kissinger*
-
-> *"Democracy has got nothing to do with who should rule. Democracy is the system which allows you to remove policies and rulers most efficently without violence. and that’s how you judge different democratic systems."  
--- Karl Popper*
-
-> *"The price of apathy towards public affairs is to be ruled by evil men."  
--- Plato*
-
 > *"When people fear the government, there is tyranny. When government fears the people, there is liberty."  
 -- Thomas Paine*
-
-> *"All bad precedents began as justifiable measures."  
--- Julius Caesar*
 
 > *"I would rather have questions that can’t be answered than answers that can’t be questioned."  
 -- Richard Feinman*
@@ -996,7 +944,35 @@ Hints:
 > *"The more you have to define freedom the less freedom you have."  
 -- Alexander Bickel*
 
-### On law and justice
+> *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
+-- Confucius*
+
+### On democracy
+
+> *"Inflation is how democracies die."  
+-- Charlie Munger*
+
+> *"Democracy has got nothing to do with who should rule. Democracy is the system which allows you to remove policies and rulers most efficently without violence. and that’s how you judge different democratic systems."  
+-- Karl Popper*
+
+> *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
+-- Alexander Fraser Tytler*
+
+### On inequality
+
+> *"The worst form of inequality is to try to make unequal things equal."  
+-- Aristotle*
+
+> *"Favors granted always become defined as rights."  
+-- Saul Alinsky*
+
+> *"A conservative is a fellow who thinks a rich man should have a fair deal."  
+-- Frank Dane*
+
+> *"The comfort of the rich depends upon an abundant supply of the poor."  
+-- Voltaire*
+
+### On justice
 
 > *"If a law is unjust a man is not only right to disobey it, he is obligated to do so."  
 -- Thomas Jefferson*
@@ -1018,6 +994,21 @@ Hints:
 
 > *"Mercy to the guilty is cruelty to the innocent."  
 -- Adam Smith*
+
+### On politicians
+
+> *"90% of the politicians give the other 10% a bad reputation."  
+-- Henry Kissinger*
+
+> *"Political language is designed to make lies sound truthful."  
+-- George Orwell*
+
+> *"The urge to save humanity is almost always a false front for the urge to rule it." (...)  
+"Every decent man is ashamed of the government he lives under."  
+-- H.L. Mencken*
+
+> *"The price of apathy towards public affairs is to be ruled by evil men."  
+-- Plato*
 
 ### On bureaucracy
 
@@ -1111,11 +1102,6 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 
 ### On stupidity
 
-<!--
-> *"When a clown moves into a palace, he doesn't become a king. The palace becomes a circus."  
--- Proverb*
--->
-
 > *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
 -- twitter@sgrstk*
 
@@ -1144,6 +1130,9 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 
 > *"A stupid man's report of what a clever man says can never be accurate, because he unconsciously translates what he hears onto something he can understand."  
 -- Bertrand Russell*
+
+> *"When a clown moves into a palace, he doesn't become a king. The palace becomes a circus."  
+-- Proverb*
 
 It’s easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
 
@@ -1176,11 +1165,6 @@ Hints:
 
 > *"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."  
 -- Henry Ward Beecher*
-
-<!--
-> *"It isn’t what we say or think that defines us, but what we do."  
--- Jane Austen*
--->
 
 > *"We don’t judge people when we feel good about ourselves."  
 -- Brené Brown*
@@ -1224,14 +1208,7 @@ Hints:
 -- Trump*
 > *"All guns are loaded."  
 -- Kevin Kelly*
-> *"Of all the bad men, religious bad men are the worst."  
--- C.S. Lewis
-> *"Never assume that loud is strong and quiet is weak."  
--- Gurubogsa*
-> *"Because she competes with no one, no one can compete with her."  
--- Lao Tzu*
 
-- your follower is not always your fan
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
 - understand the difference of an adversary and an enemy to not accumulate enemys.
@@ -1260,6 +1237,9 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 "Talkers aren’t strong. The strong don’t talk."  
 -- Proverbs*
 
+> *"Because she competes with no one, no one can compete with her."  
+-- Lao Tzu*
+
 ### On easy opponents
 
 Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
@@ -1276,6 +1256,9 @@ Easy players are often just deceiving you. However - if you can identify them - 
 
 > *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
 -- Warren Buffett*
+
+> *"Never assume that loud is strong and quiet is weak."  
+-- Gurubogsa*
 
 ### On desperate opponents
 
@@ -1309,6 +1292,9 @@ Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty 
 > *"The best fighter is never angry."  
 -- Lao Tzu*
 
+> *"Of all the bad men, religious bad men are the worst."  
+-- C.S. Lewis*
+
 When nothing else works, surrender. Only use anger and go all in if you can see the end already.
 
 > *"Do I not destroy my enemies when I make them my friends?"  
@@ -1316,7 +1302,7 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 ### On allies
 
-The human strenght is the ability to cooperate. Heros are fictional stories.
+The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
 
 Hint:
 
@@ -1346,6 +1332,9 @@ Hint:
 -- Maya Angelou*
 
 ### On heros
+
+> *"Every society honors its live conformists and its dead troublemakers."  
+-- Marshall McLuhan*
 
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
 -- Harvey Dent*
@@ -1400,9 +1389,6 @@ Hints:
 ## On leadership
 
 <!--
-> *"He who does not desire power is fit to hold it."  
--- Plato*
-
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - the organization is always modelling the leader. military leader don’t have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
@@ -1413,7 +1399,7 @@ Hints:
 - never make a numbers person the leader
 -->
 
-> *"Only those who do not seek power are qualified to hold it."  
+> *"He who does not desire power is fit to hold it."  
 -- Plato*
 
 > *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
@@ -1492,11 +1478,6 @@ Hints:
 
 ### On teams
 
-<!--
-> *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
--- Naval Ravikant*
--->
-
 > *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don't care about becoming a somebody."  
 -- Phil Dooley*
 
@@ -1544,7 +1525,8 @@ Hints:
 > *"Praise by name, criticize by category."  
 -- Warren Buffet*
 
-> *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth."  
+> *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth." (...)  
+"Work on your tone. Often ideas are rejected because of the tone of voice they are wrapped in. Humility covers many blemishes."  
 -- Kevin Kelly*
 
 Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.

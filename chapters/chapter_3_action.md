@@ -97,11 +97,6 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 
 ### How to judge ideas?
 
-<!--
-> *"Work on your tone. Often ideas are rejected because of the tone of voice they are wrapped in. Humility covers many blemishes."  
--- Kevin Kelly*
--->
-
 Ask peers. Managers will regret more a false positive than a false negative.
 
 However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. So focus on transforming yourself into the kind of person who can bring them to life. 
@@ -205,7 +200,7 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 -- Henri Poincaré*
 
 > *"To understand is to know what to do."  
--- Wittgenstein*
+-- Ludwig Wittgenstein*
 
 > *"Nothing is as good or as bad as it seems."  
 -- Scott Galloway*
@@ -374,7 +369,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 -- Lewis Carroll*
 
 > *"The movie might be good or bad but in the end we’ll finish eating pizza."  
--- Proverb*
+-- Unknown*
 
 > *"Someone is sitting in the shade today because someone planted a tree a long time ago."  
 -- Warren Buffett*
@@ -435,8 +430,6 @@ Hints:
 -- António Simões*
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
 -- Mark Manson*
-> *"Don't say maybe if you want to say no."  
--- Paulo Coelho*
 
 > *"My brother says to never make a big decision before you take a shower."*
 - you must learn to proceed without certainty.
@@ -478,7 +471,8 @@ We think we make choices but our choices are influenced by others. We pick what 
 > *"Opportunity cost is how intelligent people assess things."  
 -- Charlie Munger*
 
-> *"A mistake repeated more than once is a decision."  
+> *"A mistake repeated more than once is a decision." (...)  
+"Don't say maybe if you want to say no."  
 -- Paulo Coelho*
 
 > *"Clear thinkers take feedback from reality, not society." (...)  
@@ -487,7 +481,7 @@ We think we make choices but our choices are influenced by others. We pick what 
 "Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
 "The only part you can’t outsource is judgement." (...)  
 "The heart decides. The head rationalizes." (...)  
-"If you want to make the wrong decision, ask everyone."
+"If you want to make the wrong decision, ask everyone."  
 -- Naval Ravikant*
 
 > *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
@@ -585,17 +579,10 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
-> *"Patience is also a form of action."  
--- Auguste Rodin*
-> *"Rising early makes the road short."  
-"The seed of all evil is lazyness."
--- Proverbs*
-> *"The man who moves a mountain begins by carrying away small stones."  
--- Confucius*
-> *"One of the most underrated secrets to success is to start before you're ready."  
--- Marie Forleo*
-
+> *"Better bored than busy."  
+-- Naval Ravikant*
 - keep earning your title, or it expires. -- derek sivers
+
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 - you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
@@ -627,12 +614,6 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Do not wait to strike till the iron is hot; but make it hot by striking."  
 -- Yeats*
 
-> *"You miss 100% of the shots you don’t take."  
--- Wayne Gretzky*
-
-> *"The most difficult is the decision to act, the rest is just tenacity."  
--- Andrea Earhart*
-
 > *"Did you know you can’t steer a boat that isn’t moving? Just like a life."  
 -- Paul Lutus*
 
@@ -645,12 +626,19 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can't finish until you start, so get good at starting."  
 -- Kevin Kelly*
 
-### On timing
+> *"Rising early makes the road short."  
+-- Proverb*
 
-<!--
-> *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
--- Paulo Coelho*
--->
+> *"The man who moves a mountain begins by carrying away small stones."  
+-- Confucius*
+
+> *"One of the most underrated secrets to success is to start before you're ready."  
+-- Marie Forleo*
+
+### On timing and patience
+
+> *"Patience is also a form of action."  
+-- Auguste Rodin*
 
 > *"The cock that crows too early gets his head cut off."  
 -- Proverb*
@@ -676,16 +664,15 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
 -- Josh Billings*
 
-### On procrastination
+> *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
+-- Paulo Coelho*
 
-<!--
-- the cost of procrastination is the life you could've lived.
--->
+### On procrastination
 
 > *"The more something threatens your identity, the more you will avoid it."  
 -- Mark Manson*
 
-We fear releasing something unimportant, so you don’t release anything at all. Inadequacy of results makes us realize that we are not as good as we think we are and creates anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety. When hope disappears, so does action.
+We fear releasing something unimportant, so you don’t release anything at all. Inadequacy of results makes us realize that we are not as good as we think we are and creates anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety. When hope disappears, so does action. The cost of procrastination is the life you could've lived.
 
 How to defeat procrastination?
 
@@ -919,7 +906,12 @@ Life is a balancing act. Most things are not binary.
 The dose makes the poison: things in excess become their opposite. The hardest skill is knowing when to stop.
 
 > *"Do not go past the mark you aimed for; in victory, learn when to stop."  
--- Robert Greene (47th law of power)*
+-- Robert Greene (law of power)*
+
+> *"The optimal zone for performance is «slightly hungry»." (...)  
+"Don’t settle and don’t struggle. Life is what flows in between." (...)  
+"You get paid for being right first, and to be first, you can’t wait for consensus."  
+-- Naval Ravikant*
 
 Balance is not about spending the same amount of time focused on every area of your life either. It’s about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
 
@@ -1128,7 +1120,7 @@ Hints:
 "Court attention at all cost." (...)  
 "Play to people’s fantasies." (...)  
 "Create compelling spectacles." (...)  
-"Stir up waters to catch fish."
+"Stir up waters to catch fish."  
 -- Robert Greene (laws of power)*
 
 > *"I’ve never fooled anyone. I’ve let people fool themselves. They didn’t bother to find out who and what I was. Instead they would invent a character for me. I wouldn’t argue with them. They were obviously loving somebody I wasn’t."  

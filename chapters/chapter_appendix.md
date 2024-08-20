@@ -47,6 +47,9 @@ Life becomes easy when you recognize the recurring patterns.
 > *"If past history was all there was about the game, the richest people would be librarians."  
 -- Warren Buffett*
 
+> *"History is a race between education and catastrophe."  
+-- H.G. Wells*
+
 You are your memory.
 
 However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don’t be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
@@ -348,11 +351,6 @@ Intelligence is a spectrum, a dog is intelligent also.
 
 ### On geniality
 
-<!--
-> *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
--- Plato*
--->
-
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
 -- Ralph Waldo Emerson*
 
@@ -374,6 +372,9 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"If a man knows more than others he becomes lonely."  
 -- Carl Jung*
 
+> *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
+-- Plato*
+
 
 
 
@@ -381,11 +382,6 @@ Intelligence is a spectrum, a dog is intelligent also.
 
 ---
 ## On wealth
-
-<!--
-> *"Being poor is not having too little, it is wanting more."  
--- Seneca*
--->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
 "No one is as impressed with your possessions as you are."  
@@ -402,11 +398,12 @@ Being rich is being fulfilled.
 > *"Being rich is having money; being wealthy is having time."  
 -- Stephen Swidr*
 
+> *"Being poor is not having too little, it is wanting more."  
+-- Seneca*
+
 ### On money
 
-<!--
-- Money is trust. system of mutual trust.
--->
+Money is trust. A system of mutual trust.
 
 Money is a tool; it can be a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
 
@@ -482,7 +479,7 @@ People say they want to be famous to impact the world, often what they want is t
 > *"Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product."  
 -- Elon Musk*
 
-> *"He who is known as an early riser need not get up until noon.*  
+> *"He who is known as an early riser need not get up until noon."  
 -- Proverb*
 
 
@@ -533,17 +530,17 @@ Risk is everything you left over and didn’t thought about.
 
  Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. Luck and risk are two faces of the same coin.
 
-> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
--- Robert Schiller*
-
-> *"The day you decide to do it is your lucky day."  
--- Proverb*
-
 > *"Things that come with little help of luck are more resistant to randomness."  
 -- Nassim Taleb*
 
+> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
+-- Robert Schiller*
+
 > *"Risk is what's left over when you think you've thought of everything."  
 -- Carl Richards*
+
+> *"The day you decide to do it is your lucky day."  
+-- Proverb*
 
 ## On hope
 
@@ -671,9 +668,6 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 
 > *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
 -- Viktor Frankl*
-
-> *"To live is the rarest thing in the world. Most people just exist."  
--- Oscar Wilde* 
 
 Hints:
 
@@ -1747,13 +1741,16 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 -- Susan Sontag*
 
 > *"One cannot read a book: one can only reread it. A good reader, a major reader, an active and creative reader is a rereader."  
--- Nabokov*
+-- Vladimir Nabokov*
 
 > *"I have never met a person I admired who did not read more books than I did."  
 -- Kevin Kelly*
 
 > *"You don’t have to burn books to destroy a culture. Just get people to stop reading them."  
 -- Ray Bradbury*
+
+> *"When the reader is ready the book appears."  
+-- Naval Ravikant*
 
 ### On classics
 
@@ -1767,9 +1764,6 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 
 > *"The worst thing about new books is that they keep us from reading the old ones."  
 -- Joseph Joubert*
-
-> *"When the reader is ready the book appears."  
--- Naval Ravikant*
 
 
 
@@ -1801,7 +1795,7 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 > *"I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of."  
 -- Joss Whedon*
 
-If you are writing to be read you are doing it wrongly. Write to learn not to teach. If you have lived a diverse life you’ll have a lot to say.
+Write to learn not to teach. If you are writing to be read you are doing it wrongly. If you have lived a diverse life you’ll have a lot to say.
 
 > *"The purpose of literature is to turn blood into ink."  
 -- T.S. Eliot*
@@ -1858,6 +1852,7 @@ Hints:
 
 <!--
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
+> *"Freedom of the press is for those who happen to own one.*
 -->
 
 > *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
@@ -1871,7 +1866,7 @@ News are the first draft of History but he human brain was not designed to proce
 > *"The goal of media is to make every problem, your problem." (...)  
 "Journalists aren’t neutral, they’re the cavalry of culture wars." (...)  
 "The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation." (...)  
-"If you’re writing for your followers, your followers are worthless."
+"If you’re writing for your followers, your followers are worthless."  
 -- Naval Ravikant*
 
 > *"Your job is to get your audience to care about your obsessions."  

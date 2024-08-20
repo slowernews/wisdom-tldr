@@ -37,17 +37,15 @@
 - [0121] AURELIUS, Marcus (it)
 
 - [1181] ASSISI, Francis of (it)
-- [1270] WALLACE, William (uk)
 
-<!--
-- [1???] CERVANTES, Miguel de (es)
--->
+- [1270] WALLACE, William (uk)
 
 - [1452] DA VINCI, Leonardo (it)
 - [1469] MACHIAVELLI, Niccoló (it)
 - [1475] MICHAELANGELO (it)
 
 - [1533] MONTAIGNE, Michel de (fr)
+- [1547] CERVANTES, Miguel de (es)
 - [1561] BACON, Francis (uk)
 - [1564] GALILEI, Galileo (it)
 - [1593] HERBERT, George (uk)
@@ -68,7 +66,6 @@
 - [1729] BURKE, Edmund (ie)
 - [1743] JEFFERSON, Thomas (us)
 - [1749] GOETHE, Johann Wolfgang von (de)
-
 - [1754] JOUBERT, Joseph (fr)
 - [1754] TALLEYRAND-PERIGORD, Charles de (fr)
 - [1757] BLAKE, William (uk)

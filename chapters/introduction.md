@@ -23,6 +23,9 @@
 > *"Had I not created my whole world, I would certainly have died in other people's."  
 -- Anais Nin*
 
+> *"It isn’t what we say or think that defines us, but what we do."  
+-- Jane Austen*
+
 ### How to come alive?
 
 <!--
@@ -47,6 +50,9 @@
 
 > *"Action expresses priorities."  
 -- Mahatma Ghandi*
+
+> *"To live is the rarest thing in the world. Most people just exist."  
+-- Oscar Wilde* 
 
 No matter where you are in your life, you have the power to change everything in an instant. Most won't. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
 
@@ -84,8 +90,6 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 <!--*
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
 -- twitter@pat_stedman
-> *"Home is not where you are born; home is where all your attempts to escape cease."  
--- Naguib Mahfouz*
 
 - I may not be where I want to be, but thank god i'm not where I use to be.
 -->
@@ -122,8 +126,11 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 -- Mark Manson*
 
 > *"It is possible for ordinary people to choose to be extraordinary." (...)  
-"If you need inspiration, don't do it."
+"If you need inspiration, don't do it."  
 -- Elon Musk*
+
+> *"Home is not where you are born; home is where all your attempts to escape cease."  
+-- Naguib Mahfouz*
 
 ### Hints 
 
@@ -194,7 +201,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"The question is not who is going to let me; it’s who is going to stop me."  
 -- Ayn Rand*
 
-> *"If someone says can’t, that shows you what to do."
+> *"If someone says can’t, that shows you what to do."  
 -- John Cage*
 
 > *"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."  
