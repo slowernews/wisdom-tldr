@@ -12,8 +12,8 @@
 
 <!--
 - when you don't want to be interesting you are free. -- moojy
-- Don’t build your castle in other peoples kingdom’s
 - Freedom to -> freedom from -- naval
+- Don’t build your castle in other peoples kingdom’s
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
 -->
 
@@ -63,16 +63,14 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
-- Honesty is an antidote to impostor syndrome. 
-- CHANGE YOUR ACTIONS, NOT YOURSELF. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. truth-a-better-way-to-talk-about-ourselves.
-- You must play by your rules, funnel your weird stuff to give you some advantage.
+- I approve of me. I am my word. I keep my word / I take nothing she says seriously, helps me relax. Change your actions, not yourself. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. 
 - 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
-- Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
 - Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
-- I approve of me. I am my word. I keep my word / I take nothing she says seriously, helps me relax.
+- Honesty is an antidote to impostor syndrome. 
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
-- You are shaped by how you see others seeing you
-- Personal branding will kill you. Personal DOING will save everyone around you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
+- You are shaped by how you see others seeing you.
+- truth-a-better-way-to-talk-about-ourselves. Personal branding will kill you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
+- Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
 -->
 
 > *"I’d rather be hated for who I am, than loved for who I am not."  
@@ -127,7 +125,6 @@ If you try to be something you’re not, you end up being nothing. Don’t try t
 
 - every damn thing is your own fault, if you are any good.
 - chi sei? sono l’evoluzione di tutti i miei errori.
-- dishonesty is a reaction to fear.
 - bravery is learned -> micro-bravery, start small
 - Humility With forward action: ’I wasn’t the smartest in X but.."  
 - integrity is what you think is what you say, and the same what you do.
@@ -279,8 +276,8 @@ Don’t forget that a group of people blazed the trail we’re enjoying, and ano
 
 Quickly, specifically, sincerely.
 
-> *"It’s not an apology if it comes with an excuse. It is not a compliment if it comes with a request."  
--- Kevin Kelly*
+> *"Never ruin an apology with an excuse."  
+-- Benjamin Franklin*
 
 
 
@@ -361,6 +358,7 @@ Hints:
 <!--
 > *"The lust for comfort murders the passions of the soul."  
 -- Kahlil Gibran*
+- which do you want - the pain of stayng where you are, or the pain of growth?
 -->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
@@ -569,6 +567,9 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 ## On achieving mastery
 
 <!--
+> *"Quality is remembered long after the price is forgotten."  
+-- Gucci*
+
 - introverts have more probability of being an expert in their field. extraversion is not good for mastery. most people are not extremes and most people are in the middle. most things are not binary. introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 -->
 
@@ -609,7 +610,7 @@ True experts recognize the limits of what they know and what they do not know.
 > *"This has always been a motto of mine: Attempt the impossible in order to improve your work."  
 -- Bette Davis*
 
-> *"I am always doing that which I cannot do, in order that I may learn how to do it."
+> *"I am always doing that which I cannot do, in order that I may learn how to do it."  
 -- Pablo Picasso*
 
 > *"Don't play what's there, play what's not there."  
@@ -702,8 +703,12 @@ Hints:
 ## On stress and health
 
 <!--
+> *"The curious paradox is that when I accept myself just as I am, then I can change."  
+-- Carl Rogers*
+
 - an healthy mind does not speak ill of others.
 - you can't heal if you keep pretending you're not hurt.
+- the heaviest burdens that we carry are the thoughts in our heads.
 -->
 
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
@@ -732,13 +737,15 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 -- Naval Ravikant*
 
 > *"An healthy person has a thousand wishes. A sick person has one." (...)  
-"Civilize the mind but make savage the body."  
+"Civilize the mind but make savage the body." (...)  
+"A doctor will take care of the rich man; the poor man is cured with work."
 -- Proverbs*
 
 ### On depression and anxiety
 
 <!--
 - the only thing complaining does is convince other people that you are not in control.
+- cages aren't made of iron, they're made of thoughts.
 -->
 
 > *"If you are depressed you are living in the past.   
@@ -848,7 +855,7 @@ Hints:
 
 <!--
 - What would you do if you weren't afraid?
-- fear just wants us to stay the same.
+- dishonesty is a reaction to fear. fear just wants us to stay the same.
 - climbing out the hole is about letting go of pride.
 -->
 
@@ -938,6 +945,9 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 
 > *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"  
 -- Robert A. Heinlein*
+
+> *"Courage is knowing it might hurt and doing it anyway. Stupidity is the same. And that's why life is hard."  
+-- Jeremy Goldberg*
 
 ### How to increase courage?
 
@@ -1044,6 +1054,9 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 > *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
 -- Alan Paton*
 
+> *"In anger we should refrain both from speech and action."  
+-- Pythagoras*
+
 ### On empathy
 
 > *"Empathy without boundaries is self destruction."  
@@ -1061,6 +1074,7 @@ Worrying is worshipping the problem.
 
 <!--
 - Do what scares you until it doesn't.
+- humble enough to know i'm replaceable. cocky enough to know is a downgrade.
 -->
 
 > *"Man is not what he thinks he is, he is what he hides."  
@@ -1083,10 +1097,6 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 -- Alan Watts*
 
 ### On confidence and validation
-
-<!--
-- humble enough to know i'm replaceable. cocky enough to know is a downgrade.
--->
 
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  
 -- Leo Buscaglia*
@@ -1187,7 +1197,7 @@ Lazyness is resting before getting tired.
 
 Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. Most people keep telling themselves old stories that aren’t serving them.
 
-> *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."
+> *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
 -- Unknown (tetraplegic)*
 
 > *"Motivation is what gets you started. Habit is what keeps you going."  
@@ -1335,9 +1345,6 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 
 > *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
 -- Andy Hunt*
-
-> *"Something does not need to be perfect to be wonderful. Specially weddings."  
--- Kevin Kelly*
 
 
 

@@ -619,18 +619,6 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ---
 ## On lifestyle
 
-<!--
-> *"Joy and sorrow sleep on the same bed."  
--- Proverb*
-
-- crete a life you don't need a vacation from
-- never before has a generation so diligently recorded themselves accomplishing so little.
-- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
-- what’s your adrenaline type? velocidade ou fronteira do conhecido
-- If you’re not trying to make money, what are you even doing?
-- I do not believe making money in order to consume goods is mankinds's sole purpose on this planet.
--->
-
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
 -- David Hockney*
 
@@ -642,14 +630,8 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"Each of us, when our day’s work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves."  
 -- O. Henry*
 
-> *"Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will."  
--- Kevin Kelly*
-
 > *"Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t."  
 -- Ramit Sethi*
-
-> *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
--- Colette*
 
 > *"Time you enjoy wasting, was not wasted."  
 -- Bertrand Russell*
@@ -666,8 +648,17 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"If you have a garden and a library, you have everything you need."  
 -- Cicero*
 
-> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
--- Viktor Frankl*
+> *"The happiest of all lives is a busy solitude."  
+-- Voltaire*
+
+<!--
+- create a life you don't need a vacation from
+- never before has a generation so diligently recorded themselves accomplishing so little.
+- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
+- what’s your adrenaline type? velocidade ou fronteira do conhecido
+- If you’re not trying to make money, what are you even doing?
+- I do not believe making money in order to consume goods is mankinds's sole purpose on this planet.
+-->
 
 Hints:
 
@@ -681,11 +672,6 @@ Hints:
 - House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.  
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
 - Simplicity is the ultimate sophistication.
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is my slave, not my master. I’m not choosing ignorance. I’m choosing to not watch wrestling.  
-- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. All that clutter used to be money. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self. Storage is a way of warehousing the past.
-- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
-- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
-- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
 
 > *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3." (...)  
 "For a great payoff, be especially curious about the things you are not interested in."  
@@ -694,26 +680,12 @@ Hints:
 > *"Hard work is simply the refuge of people that have nothing to do."  
 -- Oscar Wilde*
 
-> *"I drink to make other people more interesting."  
--- Ernest Hemingway*
-
-> *"The happiest of all lives is a busy solitude."  
--- Voltaire*
-
-> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
--- Christina Scalise*
-
 > *"Think of each day as a single life."  
 -- Seneca*
 
-> *"The price of anything is the amount of life you exchange for it."  
--- Henry David Thoreau*
-
-> *"He who buys what he does not need, steals from himself."  
--- Proverb*
-
-> *"If a little is not enough for you, nothing is."  
--- Epicurus*
+> *"He who buys what he does not need, steals from himself." (...)  
+"Joy and sorrow sleep on the same bed."  
+-- Proverbs*
 
 > *"To measure your quality of life, simply do nothing and see how it feels." (...)  
 "People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom." (...)  
@@ -746,6 +718,36 @@ Hints:
 
 > *"A vacation is a very expensive way to schedule the time to read a book in peace."  
 -- Naval Ravikant*
+
+### On clutter
+
+> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
+-- Christina Scalise*
+
+Hints:
+
+- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is my slave, not my master. I’m not choosing ignorance. I’m choosing to not watch wrestling.  
+- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. All that clutter used to be money. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self. Storage is a way of warehousing the past.
+- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
+- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
+- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
+
+> *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
+-- Colette*
+
+> *"Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will."  
+-- Kevin Kelly*
+
+> *"If a little is not enough for you, nothing is."  
+-- Epicurus*
+
+### On vice
+
+> *"I drink to make other people more interesting."  
+-- Ernest Hemingway*
+
+> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
+-- Viktor Frankl*
 
 
 
@@ -1243,6 +1245,11 @@ Marry an happy person. Unhappy spouse, unhappy life.
 ---
 ## On religion
 
+<!--
+> *"The laws of nature are written by the hand of God in the language of mathematics*"  
+-- Galileo Galilei*
+-->
+
 > *"Science without religion is lame. Religion without science is blind."  
 -- Albert Einstein*
 
@@ -1250,7 +1257,6 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Nassim Taleb*
 
 And on the first day, men created god. Religion simplify ideas.
-
 Against facts there are no arguments. Against faith there are no facts.
 
 > *"I’d rather be in the mountains thinking of God than in church thinking about the mountains."  
@@ -1314,6 +1320,10 @@ Against facts there are no arguments. Against faith there are no facts.
 
 ---
 ## On philosophy
+
+<!--
+- philosophy improves your intellectual rigor!
+-->
 
 > *"The aim of philosophy is the logical clarification of thought. Philosophy is not a theory but an activity."  
 -- Ludwig Wittgenstein*
@@ -1694,6 +1704,9 @@ Maybe the thing about college is that a child is not yet ready to be an adult. I
 
 > *"Education is what survives when what has been learnt has been forgotten."  
 -- B.F. Skinner*
+
+> *"We learn 10% of what we read, 20% of what we hear, 30% of what we see, 50% of what we see and hear, 70% of what we discuss, 80% of what we experience and 95% of what we teach to others."  
+-- William Glasser*
 
 Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 

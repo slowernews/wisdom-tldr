@@ -14,6 +14,7 @@
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 
+- If you want new ideas read old books.
 - Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
 -->
 
@@ -936,6 +937,9 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
+> *"The world is changed by your example, not by your opinion."  
+-- Paulo Coelho*
+
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
@@ -1018,7 +1022,7 @@ Adapt instead of reacting. An opportunity is taking an unwanted job.
 There are limits on change. Willpower is finite and change requires attention. However, small changes in a complex system can cause large changes. 
 
 > *"Preach the need for change, but never reform too much at once."  
--- Robert Greene (45th law of power)*
+-- Robert Greene (law of power)*
 
 > *"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."  
 -- George Bernard Shaw*
@@ -1040,9 +1044,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
-> *"You can discover what your enemy fears most by observing the means he uses to frighten you."  
--- Eric Hoffer*
-
+- You must play by your rules, funnel your weird stuff to give you some advantage.
 - What’s your advantage: informational, analytical, or behavioral?	
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 -->
@@ -1084,12 +1086,12 @@ Hints:
 > *"Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy."  
 -- Balthasar Gracian*
 
+> *"You can discover what your enemy fears most by observing the means he uses to frighten you."  
+-- Eric Hoffer*
+
 ### On charming
 
 <!--
-> *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
--- Liv Boeree*
-
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
 - the good reason and the real reason.
 - the best way to get someone’s attention is to stop giving them yours.
@@ -1097,7 +1099,7 @@ Hints:
 
 > *"We catch more flies with honey than vinegar." (...)  
 "Abuse often starts with praise."  
--- Proverb*
+-- Proverbs*
 
 > *"To combat an adversary, become their friend."  
 -- Kevin Kelly*
@@ -1136,13 +1138,12 @@ Hints:
 > *"If you don’t care to be liked, they can’t touch you."  
 -- Naval Ravikant*
 
+> *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
+-- Liv Boeree*
+
 ### On deceiving 
 
 <!--
-> *"A tiger wearing a bell will starve."  
--- Proverb*
-> *"Beware of false knowledge; it is more dangerous than ignarance."  
--- George Bernard Shaw*
 > *"Muddy water is best cleared by leaving it alone."  
 -- Alan Watts*
 -->
@@ -1202,6 +1203,12 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 
 > *"Have more than you show, speak less than you know."  
 -- William Shakespeare*
+
+> *"A tiger wearing a bell will starve."  
+-- Proverb*
+
+> *"Beware of false knowledge; it is more dangerous than ignorance."  
+-- George Bernard Shaw*
 
 Hints:
 
@@ -1340,6 +1347,8 @@ Hints:
 > *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
 -- Kevin Kelly*
 
+> *"A fool only wins the first game."  
+-- Proverb*
 
 
 

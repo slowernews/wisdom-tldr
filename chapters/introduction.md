@@ -8,6 +8,11 @@
 
 ## The real you
 
+<!--
+> *"You are not a drop in the ocean. You are the entire ocean in a drop."  
+-- Rumi*
+-->
+
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant*
 
@@ -29,8 +34,7 @@
 ### How to come alive?
 
 <!--
-- Your new life will cost you your old one.
-- do not fear your own potential
+- you are under no obligation to keep being the same person you used to be. Your new life will cost you your old one. Do not fear your own potential.
 -->
 
 > *"All men die, but not every man lives."  
@@ -131,6 +135,9 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 > *"Home is not where you are born; home is where all your attempts to escape cease."  
 -- Naguib Mahfouz*
+
+> *"If the path is clear, you're probably on someone else's ."  
+-- Carl Jung*
 
 ### Hints 
 

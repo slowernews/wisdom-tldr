@@ -11,9 +11,6 @@
 ## On communication
 
 <!--
-> *"You can have the mind or you can have the moment."  
--- Naval Ravikant*
-
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."*
 > *"Conscience is what hurts when everything else feels so good."*
 > *"A bore is someone who persists in holding his own views after we have enlightened him with ours."*
@@ -41,10 +38,6 @@ Speak less and listen more.
 -- Proverbs*
 
 ### How to communicate? 
-
-<!--
-
--->
 
 > *"If you want to be interesting, be interested."  
 -- David Ogilvy*
@@ -109,7 +102,8 @@ Hints:
 > *"A good speech should be like a woman’s skirt: long enough to cover the subject and short enought o create interest."  
 -- Winston Churchill*
 
-> *"The secret to public speaking is to speak as if you were alone."  
+> *"The secret to public speaking is to speak as if you were alone." (...)  
+> *"You can have the mind or you can have the moment."  
 -- Naval Ravikant*
 
 > *"Always say less than necessary."  
@@ -188,6 +182,7 @@ Make networking an habit. Who you know and whether they like you will determine 
 - Not what should I do next but who should you speak next?
 - Networking types: advocates a, boomerang b, celebrities c, drainers d  
 - Networking types: shark, dolphin, drowner.  
+- everyone has an invisible sign hanging from their neck saying, «Make me feel important». Never forget this message when working with people.
 -->
 
 > *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead." (...)  
@@ -630,6 +625,7 @@ Your father is your first mentor.
 Don’t tell your kids how to live. Live fully and let them see. Spend only half the money you think you should, but double the time with them.
 
 <!--
+- we become good parents when you start to control yourself instead of controlling your child.
 - If you don’t have kids you’ll be the first organism of your direct ancestors to not reproduce since the beggining of life. 
 - we are raising weak men and girls who need validation because their father wasn’t there.
 - teenagers = treated like children but expected to act like adults
@@ -1032,6 +1028,8 @@ Hints:
 <!--
 > *"The only thing more dangerous than ignorance is arrogance."  
 -- Albert Einstein*
+> *"The quicker you want something, the easier you are to manipulate."  
+-- Shane Parrish*
 
 - every snowflake is different but all snow is the same.
 -->
@@ -1149,10 +1147,6 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 
 ### How to judge a man?
 
-<!--
-- we tend to judge others by their behaviour, and ourselves by our intentions.
--->
-
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*
 
@@ -1192,6 +1186,9 @@ Hints:
 > *"I have never met a man so ignorant that I couldn’t learn anything from him."  
 -- Galileo Galilei*
 
+> *"You can discover more about a person in an hour of play than in a year of conversation."  
+-- Plato*
+
 
 
 
@@ -1209,6 +1206,7 @@ Hints:
 > *"All guns are loaded."  
 -- Kevin Kelly*
 
+- your competition isn't other people. Your competition is your proscrastination. Your ego. The unhealthy food you're consuming, the knowledge you neglect. The negative behaviour you're nurturing & your lack of creativity. Compete against that.
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 - i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
 - understand the difference of an adversary and an enemy to not accumulate enemys.
@@ -1245,7 +1243,7 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
 
 > *"Despise the free lunch."  
--- Robert Greene (40th law of power)*
+-- Robert Greene (law of power)*
 
 > *"Sometimes one pays most for the things one gets for nothing." (...)  
 "Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
@@ -1287,7 +1285,7 @@ Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty 
 
 > *"Get others to do the work for you, but always take the credit." (...)  
 "Keep your hands clean."  
--- Robert Greene*
+-- Robert Greene (Law of power)*
 
 > *"The best fighter is never angry."  
 -- Lao Tzu*
@@ -1558,7 +1556,6 @@ Hints:
 <!--
 - i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
 - "estava a perder o controlo da minha carreira" -- vertonghen
-- philosophy improves your intellectual rigor!
 - behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
 - remote killed HR
 - hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
