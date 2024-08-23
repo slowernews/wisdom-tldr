@@ -54,6 +54,11 @@ Hints:
 
 ### How to discord?
 
+<!--
+> *"The aim of argument, or of discussion, should not be victory, but progress."  
+-- Joseph Joubert*
+-->
+
 > *"Admit when you’re wrong. Shut up when you’re right."  
 -- John Gottman*
 
@@ -552,7 +557,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 
 
 ---
-## On feedback and mentorship
+## On mentorship
 
 <!--
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
@@ -828,8 +833,6 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
-> *"We all have enough strength to endure the misfortunes of other people."  
--- François de La Rochefoucauld*
 > *"Não há direitos sem obrigações e viceversa."  -- E. Ferreira*
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
 -- Thomas Sowell*
@@ -841,6 +844,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 -- ownership of government by an individual, by a group or by any controlling private power."  
 -- FDR*
 
+- the same people who sell the panic, sell the pill
 - the passports of the future should be based on skills and health rather than nationality.
 - law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
 - insisting in your rights without acknowledging your responsabilities isn’t freedom is adolescence
@@ -954,20 +958,6 @@ Hints:
 > *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
 -- Alexander Fraser Tytler*
 
-### On inequality
-
-> *"The worst form of inequality is to try to make unequal things equal."  
--- Aristotle*
-
-> *"Favors granted always become defined as rights."  
--- Saul Alinsky*
-
-> *"A conservative is a fellow who thinks a rich man should have a fair deal."  
--- Frank Dane*
-
-> *"The comfort of the rich depends upon an abundant supply of the poor."  
--- Voltaire*
-
 ### On justice
 
 > *"If a law is unjust a man is not only right to disobey it, he is obligated to do so."  
@@ -991,7 +981,7 @@ Hints:
 > *"Mercy to the guilty is cruelty to the innocent."  
 -- Adam Smith*
 
-### On politicians
+### On politicians and bureaucracy
 
 > *"90% of the politicians give the other 10% a bad reputation."  
 -- Henry Kissinger*
@@ -1006,8 +996,6 @@ Hints:
 > *"The price of apathy towards public affairs is to be ruled by evil men."  
 -- Plato*
 
-### On bureaucracy
-
 > *"The first responsibility of any bureaucracy is the preservation of itself. The second is to expand its responsiblities."  
 -- Mort Halperin*
 
@@ -1016,6 +1004,20 @@ Hints:
 
 > *"When you have an efficient government, you have a dictatorship."  
 -- Harry Truman*
+
+### On inequality
+
+> *"The worst form of inequality is to try to make unequal things equal."  
+-- Aristotle*
+
+> *"Favors granted always become defined as rights."  
+-- Saul Alinsky*
+
+> *"A conservative is a fellow who thinks a rich man should have a fair deal."  
+-- Frank Dane*
+
+> *"The comfort of the rich depends upon an abundant supply of the poor."  
+-- Voltaire*
 
 
 
@@ -1026,11 +1028,6 @@ Hints:
 ## On following the herd
 	
 <!--
-> *"The only thing more dangerous than ignorance is arrogance."  
--- Albert Einstein*
-> *"The quicker you want something, the easier you are to manipulate."  
--- Shane Parrish*
-
 - every snowflake is different but all snow is the same.
 -->
 
@@ -1098,6 +1095,9 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"You can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don’t first persuade their closest comrades."  
 -- Nassim Taleb*
 
+> *"The quicker you want something, the easier you are to manipulate."  
+-- Shane Parrish*
+
 ### On stupidity
 
 > *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
@@ -1144,6 +1144,9 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 "Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious." (...)  
 "You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it."  
 -- Kevin Kelly*
+
+> *"The only thing more dangerous than ignorance is arrogance."  
+-- Albert Einstein*
 
 ### How to judge a man?
 
@@ -1505,7 +1508,7 @@ Hints:
 > *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
 -- Perry Belcher*
 
-### How to give fedback?
+### How to give feedback?
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
 -- HN_exelius*
@@ -1554,6 +1557,10 @@ Hints:
 ## On career
 
 <!--
+> *"My thing is to work more than the others to show them how useless they are."  
+-- Karl Lagerfeld*
+
+- "Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out.""
 - i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
 - "estava a perder o controlo da minha carreira" -- vertonghen
 - behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
@@ -1625,7 +1632,7 @@ Hints:
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
 -- HN_??*
 
-### How to «pivot» career?
+### How to change career?
 
 > *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."  
 -- Robert Greene*
@@ -1698,9 +1705,6 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-> *"Whatever makes you weird is probably your greatest asset."  
--- Joss Whedon*
-
 - People want freedom to choose their process.
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
@@ -1742,7 +1746,8 @@ Hints:
 "If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss."  
 -- Kevin Kelly*
 
-> *"Your salary is the bribe they give you to forget your dreams."  
+> *"In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they don't have the first, the other two will kill you." (...)  
+"Your salary is the bribe they give you to forget your dreams."  
 -- Warren Buffett*
 
 > *"If you can’t see yourself working with someone for life, don’t work with them for a day." (...)  
@@ -1759,6 +1764,9 @@ Hints:
 
 - Your resume should tell the reader why you more valuable to the company than the next person. You’ll show that with your experience. Tell HOW you accomplished your responsibilities better than the next person. ie. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
 - There are two skill levels: still learning or confident.
+
+> *"Whatever makes you weird is probably your greatest asset."  
+-- Joss Whedon*
 
 ### How to attract and keep talented people?
 

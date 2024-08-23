@@ -62,7 +62,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -- Stephen Chbosky*
 
 > *"You never know the value of a moment until it becomes a memory."  
--- Proverb*
+-- Uknown*
 
 > *"Never regret something that once made you smile."  
 -- Amber Deckers*
@@ -80,7 +80,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -- Lois Lowry*
 
 > *"He’d wasted most of his life thinking he’d wasted most of his life."  
--- Proverb*
+-- Unknown*
 
 ### How memory works?
 
@@ -103,7 +103,13 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -- George Ball*
 
 > *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
--- Proverb*
+-- Unknown*
+
+### On tradition
+
+> *"Traditions are answers that have been discovered to enduring questions."  
+-- Sir Roger Scruton*
+
 
 
 
@@ -204,634 +210,14 @@ Our present (in)actions will compound into the future we will experience – tha
 
 
 ---
-## On growing old
-
-<!--
-- When you're a kid you don't realize you're also watching your parents grow up.
--->
-
-> *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
--- Warren Buffett*
-
-> *"Nothing is more disgraceful than that an old man should have nothing to show to prove that he has lived long, except his years."  
--- Seneca*
-
-After reaching a certain age, you are no longer seen as an individual; you become an institution and are treated as institutions are. You are expected to behave like a piece of historical furniture, an architectural landmark.
-
-> *"Every one desires to live long, but no one would be old."  
--- Jonathan Swift*
-
-> *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. Theer was no transitional period."  
--- Stan Ulam*
-
-> *"Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older."  
--- John Cassavetes*
-
-> *"When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time."  
--- Jon Boorman*
-
-Aging implies wear and tear, often seen as a high price to pay for maturity.
-
-> *"Every day in the mirror I watch death at work."  
--- Jean Cocteau*
-
-> *"Once I was beautiful, now I’m myself."  
--- Anne Sexton*
-
-> *"Forty is the old age of youth; fifty is the youth of old age."  
--- Victor Hugo*
-
-### On maturity
-
-> *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
--- Kevin Kelly*
-
-The advantage of aging is that you become more decisive. Maturing is realizing that many things don’t need your comments.
-
-> *"We mature with the damage, not with the years."  
--- Mateus William*
-
-> *"That is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful."  
--- Ernest Hemingway*
-
-> *"We never really grow up, we only learn how to act in public."  
--- Bryan White*
-
-> *"Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it."  
--- George Orwell*
-
-> *"The old believe everything; the middle-aged suspect everything; the young know everything."  
--- Oscar Wilde*
-
-> *"Aging is an extraordinary process where you become the person you always should have been."  
--- David Bowie*
-
-> *"The youth can walk faster but the elder knows the road."  
--- Proverb*
-
-### How to slow down the aging process?
-
-> *"A man that lives from memories becames old. One that lives from projects remains young."  
--- Bruno Munari*
-
-People my age are so much older than me.
-
-> *"We don’t stop playing because we grow old; we grow old because we stop playing."  
--- George Bernard Shaw*
-
-> *"You are only as young as the last time you changed your mind."  
--- Kevin Kelly*
-
-> *"It takes a very long time to become young."  
--- Pablo Picasso*
-
-> *"An honest man is always a child."  
--- Socrates*
-
-### On retirement
-
-> *"Retirement is when you stop sacrificing today for an imaginary tomorrow."  
--- Naval Ravikant*
-
-Finding a place to die is an important thing to do.
-
-> *"A man dies when he stops working." (...)  
-"Everybody wants to go to heaven, but nobody wants to die."  
--- Proverbs*
-
-> *"All God does is watch us and kill us when we get boring. We must never, ever be boring."  
--- Chuck Palahniuk*
-
-> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
--- Francis Bacon*
-
-> *"Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree."  
--- Kevin Kelly*
-
-
-
-
-
-
----
-# Appendix B - On envy triggers
-
-## On talent
-
-<!--
-> *"Intelligence is curiosity. It is that and only that. If you are curious, you are intelligent. If you are not curious, you are not intelligent. In
-fact, politically correct be damned, I will say it straight: A general lack of curiosity is a general lack of intelligence. I will even go so far as to say that a general lack of curiosity is the worst of all traits." (...)  
-*"Curiosity is a form of creation."  
--- Zan Perrion*
--->
-
-> *"The difference between sounding smart and being smart is «I don’t know»." (...)  
-"The real test of intelligence is if you get what you want from life."  
--- Naval Ravikant*
-
-> *"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction."  
--- Ernst F. Schumacher*
-
-Talent is fragile and it’s the most sensitive envy trigger. To reveal the true nature of your intelligence rarely pays
-
-Intelligence is a spectrum, a dog is intelligent also.
-
-> *"I think we have an ideology about talent that says that talent is a tangible, resilient, hardened, shiny thing. It will always rise to the top. To find and encourage talent, all you have to do as a society, is to make sure the right doors are open. Free campus visits, free tuition, letters to the kids with high score. You raise your hand and say, «over here!» and the talent will come running, but that’s not true. It’s not resilient and shiny, talent is really, really fragile."  
--- Malcolm Gladwell*
-
-> *"The true sign of intelligence is not knowledge but imagination." (...)  
-"The measure of intelligence is the ability to change."  
--- Albert Einstein*
-
-> *"Intelligence is like a river: the deeper it is, the less noise it makes."  
--- Milwaukee Journal Sentinel*
-
-> *"When stupidity is considered patriotism, it is unsafe to be intelligent."  
--- Isaac Asimov*
-
-### On geniality
-
-> *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
--- Ralph Waldo Emerson*
-
-> *"Talent hits a target no one else can hit. Genius hits a target no one else can see."  
--- Arthur Schopenhauer*
-
-> *"Most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities."  
--- Andy Benoit*
-
-> *"Some people feel the rain. Others just get wet."  
--- Bob Marley*
-
-> *"Andy Warhol is the only genius I’ve ever known with an IQ of 60."  
--- Gore Vidal*
-
-> *"Genious is man who can do the average thing when everyone else around him is losing his mind."  
--- Naval Ravikant*
-
-> *"If a man knows more than others he becomes lonely."  
--- Carl Jung*
-
-> *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
--- Plato*
-
-
-
-
-
-
----
-## On wealth
-
-> *"To be wealthy, accumulate all those things that money can’t buy." (...)  
-"No one is as impressed with your possessions as you are."  
--- Kevin Kelly*
-
-Being rich is being fulfilled.
-
-> *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
--- Mr. Money Mustache*
-
-> *"Some people are so poor, all they have is money."  
--- Patrick Meagher*
-
-> *"Being rich is having money; being wealthy is having time."  
--- Stephen Swidr*
-
-> *"Being poor is not having too little, it is wanting more."  
--- Seneca*
-
-### On money
-
-Money is trust. A system of mutual trust.
-
-Money is a tool; it can be a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
-
-> *"A problem that can be solved with money is not really a problem."  
--- Kevin Kelly*
-
-> *"We don’t make movies to make money; We make money to make more movies."  
--- Walt Disney*
-
-> *"It’s nice to have a lot of money, but you know, you don’t want to keep it around forever. I prefer buying things. Otherwise, it’s a little like saving sex for your old age."  
--- Warren Buffett*
-
-> *"Don’t think money does everything or you are going to end up doing everything for money."  
--- Voltaire*
-
-> *"After a certain point, money is meaningless. It ceases to be the goal. The game is what counts."  
--- Aristotle Onassis*
-
-### How to get wealthy (without getting lucky)
-
-> *"You don’t get rich by spending your time to save money; you get rich by saving your time to make money."  
--- Naval Ravikant*
-
-> *"Rich people stay rich by living like they’re broke. Broke people stay broke by living like they’re rich."  
--- Proverb*
-
-Making money is not about luck. 
-
-- Learn to sell. Learn to build. If you can do both, you will be unstoppable.  
-- Equip yourself with specialized knowledge, accountability, and leverage. Specialized knowledge is what you learn uniquely, not through standard education. If society can teach it to you, it can teach it to others, making you replaceable. You acquire specialized knowledge by following your genuine interests, not just current trends. While you might find it enjoyable, others may see it as hard work. This kind of knowledge is usually passed on through apprenticeships, not traditional schooling. It often involves technical or creative expertise that’s difficult to outsource or automate.  
-- Embrace responsability and take business risks under your own name. In exchange, society might grant you more duties, ownership, and influence. The most accountable people usually have unique, public, and bold personal brands, like Oprah, Trump, Kanye, and Elon. 
-- Select partners with intelligence, energy, and, above all, integrity. Stay away from cynics and pessimists, as their negative beliefs can become self-fulfilling prophecies.
-- To become wealthy, offer what society wants but can’t access easily, and do it at a large scale. Pick an industry for long-term projects with similar-minded people. The internet has opened up diverse career options, yet many haven’t realized this. Focus on persistent efforts. In life, the most substantial gains come from building on past progress. Money is a tool for trading experiences. Create valuable experiences to build your wealth. 
-- Prioritize building wealth instead of chasing money or status. Wealth involves owning assets that generate income without constant effort. Understand that it’s possible to create wealth ethically. Don’t pay attention to those who focus on status games; they often gain status by criticizing wealth builders. Money is a sensitive topic as many tie their self-worth and identity to their jobs and earnings, reflecting their skills and competence in the market.  
-- You won’t achieve significant wealth by simply trading your time for money. To attain financial freedom, you must have ownership or equity in a business or venture.
-- When you eventually attain wealth, you will realize that it wasn’t your primary pursuit in the first place.
-
-> *"You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life."  
--- Peter Mallouk*
-
-> *"To succeed, get other people to pay you; to become wealthy, help other people to succeed."  
--- Kevin Kelly*
-
-> *"Money follows execution, not precedes it." (...)  
-"Making money is not something that you do - it’s a skill that you learn." (...)   
-"Management is the oldest, and most over-rated form of leverage. Capital, media, and code are the modern forms."  
--- Naval Ravikant*
-
-### Nearly free stuff
-
-Books, friends, sleep, ideas, questions, gratefulness, laugh.
-
-
-
-
-
-
----
-## On popularity
-
-> *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
--- Bjarne Stroustrup*
-
-See fame as a multiplier. 
-
-People say they want to be famous to impact the world, often what they want is the adoration of their peers.
-
-> *"If you’re not ready to be hated, you’re not ready to be famous." (...)  
-"The reward for getting on the stage is fame. The price of fame is that you can’t get off stage." (...)  
-"You want to be rich and anonymous, not poor and famous."  
--- Naval Ravikant*
-
-> *"Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product."  
--- Elon Musk*
-
-> *"He who is known as an early riser need not get up until noon."  
--- Proverb*
-
-
-
-
-
-
----
-## On luck and risk
-
-<!--
-> *"I naufraghi prima o poi finiscono per incontrarsi."  
--- M. Vázquez Montalban*
-> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
--- Paulo Coelho*
-> *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  
--- R.C. Sproul
--->
-
-> *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
--- Ralph Waldo Emerson*
-
-> *"If you live long enough, most people will get what they deserve."  
--- Charlie Munger*
-
-Unless you’re winning, life will seem unfair to you.
-
-Bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn’t repeat on one’s lifetime. Everything is a pattern.
-
-> *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
--- Naval Ravikant*
-
-> *"The devil always takes back his gifts."  
--- Proverb*
-
-> *"Coincidence is God’s way of remaining anonymous." (...)  
-"God is subtle but he is not malicious."  
--- Albert Einstein*
-
-### On risk and chance
-
-> *"Luck is what happens when preparation meets opportunity."  
--- Seneca*
-
-Risk is everything you left over and didn’t thought about.
-
-	RISK = THREATS x VULNERABILITIES
-
- Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier. Luck and risk are two faces of the same coin.
-
-> *"Things that come with little help of luck are more resistant to randomness."  
--- Nassim Taleb*
-
-> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
--- Robert Schiller*
-
-> *"Risk is what's left over when you think you've thought of everything."  
--- Carl Richards*
-
-> *"The day you decide to do it is your lucky day."  
--- Proverb*
-
-## On hope
-
-> *"Hope is the bread of the poor."  
--- Proverb*
-
-
-
-
-
-
----
-## On beauty and style
-
-<!--
-- dress like you’re going somewhere better later
-- taste may be an instinct for honest signals
--->
-
-> *"If cats looked like frogs we’d realize what nasty, cruel little bastards they are. Style. That’s what people remember."  
--- Terry Pratchett*
-
-A beautiful person always see beauty in others. Beauty grabs attention. Personality grabs the heart.
-
-> *"A man’s face is his autobiography. A woman’s face is her work of fiction."  
--- Oscar Wilde*
-
-> *"Dress shabbily and they remember the dress; dress impeccably and they remember the woman."  
--- Coco Chanel*
-
-> *"Beauty needs a witness. This the only thing a man ever needs to know."  
--- Zan Perrion*
-
-> *"Elegance is a physical quality. If a woman doesn’t have it naked, she’ll never have it clothed."  
--- Karl Lagerfeld*
-
-> *"Clothes make the man. Naked people have little or no influence on society."  
--- Mark Twain*
-
-> *"The only thing more mysteriously attractive than beauty is corruption."  
--- Octave Mirbeau*
-
-> *"Many complain of their looks but none of their brains."  
--- Proverb*
-
-
-
-
-
-
----
-## On health
-
-> *"You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness."  
--- Allen Tucker*
-
-Health is also an envy trigger. Often what people really envy is self-control.
-
-### How to stay healthy?
-
-- Exercise is king. Balance on body training = flexibility (yoga or animal movements) + strength (weights). Minimum effective dose.  
-- Nutrition is queen. Eat more real foods and practice intermittent fasting.  
-- Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated.
-
-> *"The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison."  
--- Ann Wigmore*
-
-> *"You can eat any dessert you want if you take only 3 bites."  
--- Kevin Kelly*
-
-
-
-
-
-
----
-## On lifestyle
-
-> *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
--- David Hockney*
-
-We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die. When life becomes about enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
-
-> *"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."  
--- Robert Heinlein*
-
-> *"Each of us, when our day’s work is done, must seek our ideal, whether it be love or pinochle or lobster à la Newburg, or the sweet silence of the musty bookshelves."  
--- O. Henry*
-
-> *"Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t."  
--- Ramit Sethi*
-
-> *"Time you enjoy wasting, was not wasted."  
--- Bertrand Russell*
-
-> *"Any idiot can face a crisis; it's this day-to-day living that wears you out."  
--- Anton Chekhov*
-
-> *"Mondays are fine. It's your life that sucks."  
--- Ricky Gervais*
-
-> *"What does the money machine eat? It eats youth, spontaneity, life, beauty, and, above all, it eats creativity. It eats quality and shits quantity."  
--- William S. Burroughs*
-
-> *"If you have a garden and a library, you have everything you need."  
--- Cicero*
-
-> *"The happiest of all lives is a busy solitude."  
--- Voltaire*
-
-<!--
-- create a life you don't need a vacation from
-- never before has a generation so diligently recorded themselves accomplishing so little.
-- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
-- what’s your adrenaline type? velocidade ou fronteira do conhecido
-- If you’re not trying to make money, what are you even doing?
-- I do not believe making money in order to consume goods is mankinds's sole purpose on this planet.
--->
-
-Hints:
-
-- Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. Don’t play the government’s game.
-- Aspire to work 3 days a week; 3 weeks a month; 3 months free a year.  
-- Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
-- Own my house on a few acres with clean water river frontage, and assets I can enjoy & be creative with (car, bike, music equipment, tools, etc)  
-- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it. Income doesn’t make you rich. spending habits do.  
-- The opposite of play isn’t work, it’s depression.  
-- 3 hobbies: one creative, one to keep in shape and one to make money.
-- House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.  
-- I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
-- Simplicity is the ultimate sophistication.
-
-> *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3." (...)  
-"For a great payoff, be especially curious about the things you are not interested in."  
--- Kevin Kelly*
-
-> *"Hard work is simply the refuge of people that have nothing to do."  
--- Oscar Wilde*
-
-> *"Think of each day as a single life."  
--- Seneca*
-
-> *"He who buys what he does not need, steals from himself." (...)  
-"Joy and sorrow sleep on the same bed."  
--- Proverbs*
-
-> *"To measure your quality of life, simply do nothing and see how it feels." (...)  
-"People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom." (...)  
-"When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you." (...)  
-"No routine. I’m famously unscheduled." (...)  
-"You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
-"Develop strategic incompetence - people won’t ask you to do things you hate to do if you’re bad at them."  
--- Naval Ravikant*
-
-### On travel
-
-> *"Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain."  
--- Jack Kerouac*
-
-Travel is the only thing you buy that makes you richer. Travels are mini-lifes. They solve a plethora of self-improvement goals. 
-
-Hints:
-
-- Travelling is getting under the skin of the place.  
-- For how long? Research says aim for 3 to 6 days of travel. Frequency beats intensity. 
-- Think less about money optimization and more about who you’re going with.
-- Travellers are the best money managers. People have a cultural memory of travelling as expensive but it’s not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
-- Choose places with “lifers”: people who are dedicated to the business itself, not to a paycheck.
-
-> *"What gives value to travel is fear."  
--- Albert Camus*
-
-> *"A vacation + a disaster = an adventure."  
--- Kevin Kelly*
-
-> *"A vacation is a very expensive way to schedule the time to read a book in peace."  
--- Naval Ravikant*
-
-### On clutter
-
-> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
--- Christina Scalise*
-
-Hints:
-
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is my slave, not my master. I’m not choosing ignorance. I’m choosing to not watch wrestling.  
-- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. All that clutter used to be money. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self. Storage is a way of warehousing the past.
-- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
-- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
-- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
-
-> *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
--- Colette*
-
-> *"Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will."  
--- Kevin Kelly*
-
-> *"If a little is not enough for you, nothing is."  
--- Epicurus*
-
-### On vice
-
-> *"I drink to make other people more interesting."  
--- Ernest Hemingway*
-
-> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
--- Viktor Frankl*
-
-
-
-
-
-
----
-## On success
-
-<!--
-> *"Success lies in relentless execution of the basics."  
--- Leonardo da Vinci*
-> *"In nature there are neither rewards nor punishments, there are consequences."  
--- Robert G. Ingersoll*
-
-- the true measure of success is a calm nervous system.
-- success is a collection of well curated failures.
--->
-
-> *"Success doesn’t come to you. You go to it."  
--- Marva Collins*
-
-	SUCCESS = EDUCATION + ACTION
-
-There is no shortcut. Success is nothing but the accumulation of small things done consistently over a long period. Succeeding means securing advantage.
-
-Success (and happiness) is internal not external. True fulfillment comes from living not from achievement. Experiences worth more than material. When people finally became a «success» they realize that they were no more fulfilled at 40 with $100K in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them.
-
-> *"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."  
--- John Woode*
-
-> *"A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do."  
--- Bob Dylan*
-
-> *"To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man."  
--- Louis L’amour*
-
-> *"Most overnight successes take at least 5 years. Budget your life accordingly." (...)  
-"Recipe for success: under-promise and over-deliver." (...)  
-"Show up. Keep showing up. Somebody successful said: 99% of success is just showing up."  
--- Kevin Kelly*
-
-> *"Want to get ahead in life? Start genuinely rooting for others to succeed. It’s as simple as that."  
--- Sahil Bloom*
-
-> *"Success is a lousy teacher. It seduces smart people into thinking they can’t lose."  
--- Bill Gates*
-
-> *"Strive not to be a success, but rather be of value."  
--- Albert Einstein*
-
-> *"The success formula: solve your own problems and freely share the solutions." (...)  
-"The price of growth is outgrowing people." (...)  
-"Predicting failure is easier than predicting success." (...)  
-"When working, surround yourself with people more successful than you. When playing, surround yourself with people happier than you."  
--- Naval Ravikant*
-
-### On barriers to success
-
-Fear, not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit.
-
-We don’t get successful by knowing everything, we get successful by listening.
-
-> *"Doubt kills more dreams than failure ever will."  
--- Suzy Kassem*
-
-> *"Whether you think you can, or you think you can’t, you’re right."  
--- Henry Ford*
-
-> *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
--- Roger Kipling*
-
-> *"Success and rest don’t sleep together."  
--- Proverb*
-
-
-
-
-
-
----
-# Appendix C - Others
+# Appendix B - Others
 
 ## On wisdom
+
+<!--
+> *"Silence is a fence around wisdom."  
+-- Proverb*
+-->
 
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris*
@@ -844,7 +230,7 @@ Wisdom is knowing the long-term consequences of your actions.
 -- René Descartes*
 
 > *"The beginning of wisdom is calling things by their right names."  
--- Proverb*
+-- Unknown*
 
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
@@ -952,6 +338,9 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On humanness and irrationality
 
 <!--
+> *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
+-- Proverb*
+
 - web3 assumes that people prefer privacy over free stuff, which is false.
 - If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
 -->
@@ -1057,6 +446,7 @@ Hints:
 - Be suspicious of people who like being owed a favor. Especially if it is not a favor you requested.  
 - Maintain old friendships.   
 - Bad friends will prevent you from having good friends.  
+- You only grow apart from people who don't grow.
 
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you." (...)  
 "Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you." (...)  
@@ -1111,7 +501,7 @@ Hints:
 - Relationships start with «can we talk» to «we need to talk». Once you start disliking someone, everything they do is irritating to you. A dirty dish by the sink can be a big marriage problem.
 - Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
 
-### Falling in love
+### On falling in love
 
 > *"The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them."  
 -- Charles Bukowski*
@@ -1134,7 +524,7 @@ Hints:
 > *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
 -- Joyce Benenson*
 
-### On love
+### On love and romance
 
 > *"Love is the absence of judgement."  
 -- Dalai Lama*
@@ -1155,15 +545,13 @@ Hints:
 "You can’t buy a real kiss."  
 -- Naval Ravikant*
 
-### On romance
-
 > *"Romance is the glamour which turns the dust of everyday life into a golden haze."  
 -- Elinor Glyn*
 
 > *"The very essence of romance is uncertainty."  
 -- Oscar Wilde*
 
-### Falling out of love
+### On falling out of love
 
 > *"The love that lasts the longest is the love that is never returned."  
 -- W. Somerset Maugham*
@@ -1187,6 +575,46 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 > *"Both men and women are desperate to revive a broken relationship, to re-create the great love affair they had at the beginning. The difference is that women try to do it while it is ongoing, and men try to do it when it is over."  
 -- Zan Perrion*
+
+### What women value in men
+
+> *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
+-- Alessandra Torre*
+
+Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.  
+
+> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
+-- Gaius Lucilius*
+
+> *"The classical definition of a gentleman: he never insulted anyone unintentionally."  
+-- James Crow*
+
+> *"If you can make a woman laugh, you can make her do anything."  
+-- Marilyn Monroe*
+
+> *"Why are women so much more interesting to men than men are to women?"  
+-- Virginia Woolf*
+
+> *"A suit to women is like lingerie to men."  
+-- Unknown*
+
+> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
+-- Charles de Talleyrand-Perigord*
+
+> *"What do women want? (...) Every woman wants to be in a love story."  
+-- Zan Perrion*
+
+### What men value in women
+
+> *"No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful."  
+-- Eleanor Roosevelt*
+
+Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
+
+Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
+
+> *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
+-- Ian McEwan*
 
 
 
@@ -1248,6 +676,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 <!--
 > *"The laws of nature are written by the hand of God in the language of mathematics*"  
 -- Galileo Galilei*
+> *"Hell is empty and all the devis are here."  
+-- William Shakespeare*
 -->
 
 > *"Science without religion is lame. Religion without science is blind."  
@@ -1321,12 +751,10 @@ Against facts there are no arguments. Against faith there are no facts.
 ---
 ## On philosophy
 
-<!--
-- philosophy improves your intellectual rigor!
--->
-
 > *"The aim of philosophy is the logical clarification of thought. Philosophy is not a theory but an activity."  
 -- Ludwig Wittgenstein*
+
+Philosophy improves your intellectual rigor.
 
 > *"Some ideias are so stupid that only intellectuals believe them."  
 -- George Orwell*
@@ -1888,7 +1316,7 @@ News are the first draft of History but he human brain was not designed to proce
 > *"The media is always accurate, except when they are talking about things I know."  
 -- Knoll’s law*
 
-## On privacy
+### On privacy
 
 Privacy is power. What people don't know they can't ruin. 
 
@@ -1937,65 +1365,3 @@ We’ve grown dependent on three simple features that just aren’t available in
 "We're already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow." (...)  
 "When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that."  
 -- Elon Musk*
-
-
-
-
-
-
----
-# Appendix D - Bonus
-
-## On what women value in men
-
-> *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
--- Alessandra Torre*
-
-Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.  
-
-> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
--- Gaius Lucilius*
-
-> *"The classical definition of a gentleman: he never insulted anyone unintentionally."  
--- James Crow*
-
-> *"If you can make a woman laugh, you can make her do anything."  
--- Marilyn Monroe*
-
-> *"Why are women so much more interesting to men than men are to women?"  
--- Virginia Woolf*
-
-> *"A suit to women is like lingerie to men."  
--- Unknown*
-
-> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
--- Charles de Talleyrand-Perigord*
-
-> *"What do women want? (...) Every woman wants to be in a love story."  
--- Zan Perrion*
-
-
-
-
-
-
----
-## On what men value in women
-
-> *"No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful."  
--- Eleanor Roosevelt*
-
-Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
-
-Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
-
-> *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
--- Ian McEwan*
-
-
-<!--
-## On impossible
-
-> *"Impossible is just an opinion."  
--- Paulo Coelho*
--->

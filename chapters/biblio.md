@@ -1,7 +1,7 @@
 <!--
 - [1980] FERREIRA, E. (pt)
 - [????] LEACH, David (??) https://en.wikipedia.org/wiki/David_Leach
-- [????] PYTHAGORAS
+- [TWITTER]
 -->
 
 - [----] Proverb  
@@ -23,6 +23,7 @@
 
 - [-680] ARCHILOCHUS (gr)  
 - [-571] TZU, Lao (cn)  
+- [-570] PYTHAGORAS (gr)
 - [-551] CONFUCIUS (cn)  
 - [-564] BUDDHA (Siddharta Gautama) (np)  
 - [-544] TZU, Sun (cn)  

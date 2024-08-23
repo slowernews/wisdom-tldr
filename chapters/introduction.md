@@ -139,7 +139,7 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"If the path is clear, you're probably on someone else's ."  
 -- Carl Jung*
 
-### Hints 
+### Hints on finding your path
 
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."  
 -- Jordan Peterson*
@@ -228,7 +228,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"If you can't, you must. If you must, you can."  
 -- Tony Robbins*
 
-### Wrong paths
+### On the wrong paths
 
 > *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
 -- Alexander Graham Bell*

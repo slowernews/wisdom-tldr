@@ -32,7 +32,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On growth*
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
-- [On achieving mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
+- [On mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 
 *On your worst enemy: yourself*
@@ -40,11 +40,21 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On fear and excuses](/chapters/chapter_1_self.md#on-fear-and-excuses)
 - [On failure, mistakes and anger](/chapters/chapter_1_self.md#on-failure-mistakes-and-anger)
 - [On shame, confidence and validation](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
-- [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
 - [On jealousy and envy](/chapters/chapter_1_self.md#on-jealousy-and-envy)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
 - [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
+- [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
+
+*On envy triggers*
+- [On talent](/chapters/chapter_appendix.md#on-talent)
+- [On wealth](/chapters/chapter_appendix.md#on-wealth)
+- [On popularity](/chapters/chapter_appendix.md#on-popularity)
+- [On luck and risk](/chapters/chapter_appendix.md#on-luck-and-risk)
+- [On beauty and style](/chapters/chapter_appendix.md#on-beauty-and-style)
+- [On health](/chapters/chapter_appendix.md#on-health)
+- [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
+- [On success](/chapters/chapter_appendix.md#on-success)
 
 
 
@@ -59,7 +69,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On networking](/chapters/chapter_2_groups.md#on-networking)
 - [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
 - [On selling, negotiation and price](/chapters/chapter_2_groups.md#on-selling-negotiation-and-price)
-- [On feedback and mentorship](/chapters/chapter_2_groups.md#on-feedback-and-mentorship)
+- [On mentorship](/chapters/chapter_2_groups.md#on-mentorship)
 - [On generosity and incentives](/chapters/chapter_2_groups.md#on-generosity-and-incentives)
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
 - [On society and politics](/chapters/chapter_2_groups.md#on-society-and-politics)
@@ -91,7 +101,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 *On executing*
 - [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
 - [On speed and direction](/chapters/chapter_3_action.md#on-speed-and-direction)
-- [On focus, priorities and productivity](/chapters/chapter_3_action.md#on-focus-priorities-and-productivity)
+- [On focus and priorities](/chapters/chapter_3_action.md#on-focus-and-priorities)
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
@@ -116,23 +126,13 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On future](/chapters/chapter_appendix.md#on-future)
 - [On growing old](/chapters/chapter_appendix.md#on-growing-old)
 
-*On envy triggers*
-- [On talent](/chapters/chapter_appendix.md#on-talent)
-- [On wealth](/chapters/chapter_appendix.md#on-wealth)
-- [On popularity](/chapters/chapter_appendix.md#on-popularity)
-- [On luck and risk](/chapters/chapter_appendix.md#on-luck-and-risk)
-- [On beauty and style](/chapters/chapter_appendix.md#on-beauty-and-style)
-- [On health](/chapters/chapter_appendix.md#on-health)
-- [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
-- [On success](/chapters/chapter_appendix.md#on-success)
-
 *Other*
 - [On wisdom](/chapters/chapter_appendix.md#on-wisdom)
 - [On comedy](/chapters/chapter_appendix.md#on-comedy)
 - [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
-- [On marriage](/chapters/chapter_appendix.md#on-marriage)
-- [On lovers](/chapters/chapter_appendix.md#on-lovers)
 - [On family and friends](/chapters/chapter_appendix.md#on-family-and-friends)
+- [On lovers](/chapters/chapter_appendix.md#on-lovers)
+- [On marriage](/chapters/chapter_appendix.md#on-marriage)
 - [On religion](/chapters/chapter_appendix.md#on-religion)
 - [On philosophy](/chapters/chapter_appendix.md#on-philosophy)
 - [On science](/chapters/chapter_appendix.md#on-science)
@@ -144,10 +144,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On writing](/chapters/chapter_appendix.md#on-writing)
 - [On media](/chapters/chapter_appendix.md#on-media)
 - [On maths, computers and AI](/chapters/chapter_appendix.md#on-maths-computers-and-ai)
-
-*Bonus*
-- [On what women value in men](/chapters/chapter_appendix.md#on-what-women-value-in-men)
-- [On what men value in women](/chapters/chapter_appendix.md#on-what-men-value-in-women)
 
 
 
@@ -179,11 +175,11 @@ Nine general advices:
 > *"The empire long divided, must unite; long united, must divide."  
 -- Proverb*
 
-> *"After me will come the one who will prove that I wasn’t that bad."  
--- Proverb*
-
 > *"A prophet has no honour in his own country."  
 -- Bible (John 4: 44)*
+
+> *"After me will come the one who will prove that I wasn’t that bad."  
+-- Proverb*
 
 > *"Those who commit to nothing are distracted by everything."  
 -- Bhagavad Gita*

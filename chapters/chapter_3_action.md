@@ -144,6 +144,17 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"The limits of the possible can only be defined by going beyond them into the impossible."  
 -- Arthur C. Clarke*
 
+### On impossibility
+
+> *"Impossible is just an opinion."  
+-- Paulo Coelho*
+
+> *"The person who says it cannot be done should not interrupt the person doing it."  
+-- Proverb*
+
+> *"If you think we can't change the world, it just means you're not one of those that will."  
+-- Jacque Fresco*
+
 
 
 
@@ -345,6 +356,10 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 ---
 ## On planning and strategy
+
+<!--
+- a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
+-->
 
 > *"All battles are won or lost before they are ever fought."  
 -- Sun Tzu*
@@ -733,7 +748,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 
 ---
-## On focus, priorities and productivity
+## On focus and priorities
 
 <!--
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
