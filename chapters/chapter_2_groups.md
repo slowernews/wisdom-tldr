@@ -328,6 +328,9 @@ Validate your business by finding paying clients. If something is worth doing, s
 ### On entrepreneurship
 
 <!--
+> *"Starting a company is like jumping off a cliff and assembling the plane on the way down."  
+-- Reid Hoffman*
+
 - Ownership is the only thing. Never give a single share a unless you absolutely have to.
 -->
 
@@ -790,6 +793,8 @@ Hints:
 <!--
 > *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  
 -- Jorge Luis Borges*
+> *"If you know how quickly people forget the dead... you will stop living to impress people."  
+-- Christopher Walken*
 
 - if you don't like something, just take away its only power: your attention.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
@@ -833,6 +838,8 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+> *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
+-- Elie Wiesel*	
 > *"Não há direitos sem obrigações e viceversa."  -- E. Ferreira*
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
 -- Thomas Sowell*
@@ -1028,6 +1035,9 @@ Hints:
 ## On following the herd
 	
 <!--
+> *"In order to think you have to risk being offensive."  
+-- Jordan Peterson*
+
 - every snowflake is different but all snow is the same.
 -->
 
@@ -1208,6 +1218,8 @@ Hints:
 -- Trump*
 > *"All guns are loaded."  
 -- Kevin Kelly*
+> *"Choose the neighbour before choosing the house."  
+-- Proverb*
 
 - your competition isn't other people. Your competition is your proscrastination. Your ego. The unhealthy food you're consuming, the knowledge you neglect. The negative behaviour you're nurturing & your lack of creativity. Compete against that.
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
@@ -1509,6 +1521,11 @@ Hints:
 -- Perry Belcher*
 
 ### How to give feedback?
+
+<!--
+> *"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."  
+-- Aristotle*
+-->
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
 -- HN_exelius*

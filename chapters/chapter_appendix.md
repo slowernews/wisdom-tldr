@@ -576,6 +576,9 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"Both men and women are desperate to revive a broken relationship, to re-create the great love affair they had at the beginning. The difference is that women try to do it while it is ongoing, and men try to do it when it is over."  
 -- Zan Perrion*
 
+> *"When poverty comes in the door love goes out the window."  
+-- Proverb*
+
 ### What women value in men
 
 > *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
@@ -1365,3 +1368,11 @@ We’ve grown dependent on three simple features that just aren’t available in
 "We're already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow." (...)  
 "When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that."  
 -- Elon Musk*
+
+<!--
+---
+## On design
+
+> *"Good design: is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
+-- Dieter Rams (Ten principles for good design)*
+-->

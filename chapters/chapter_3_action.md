@@ -146,6 +146,13 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 
 ### On impossibility
 
+<!--
+> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  
+-- Terence McKenna*
+> *"Birds born is a cage think flying is an illness."  
+-- Alejandro Jodorowski*
+-->
+
 > *"Impossible is just an opinion."  
 -- Paulo Coelho*
 
@@ -751,6 +758,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus and priorities
 
 <!--
+- you will never reach your destination if you stop and throw stones at every dog that barks.
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
 - if it is important to you you’ll find a way, if not you’ll find an excuse.
@@ -815,6 +823,7 @@ Hints:
 > *"Do something first, than talk about it."  
 -- Tom Ford*
 
+- taking care of yourself is productivity
 - 6 months of focus and hard work can put you 5 years ahead in life.
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
 - Strategic laziness as a leverage point.
@@ -1161,6 +1170,8 @@ Hints:
 <!--
 > *"Muddy water is best cleared by leaving it alone."  
 -- Alan Watts*
+
+- always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
 -->
 
 > *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  

@@ -256,6 +256,11 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 ---
 ## On happiness
 
+<!--
+> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
+-- Oscar Wilde*
+-->
+
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
 -- Mahatma Gandhi*
 

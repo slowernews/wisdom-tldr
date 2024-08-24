@@ -11,6 +11,9 @@
 ## On autonomy
 
 <!--
+> *"I'm a warrior, so that my son may be a merchant, so that his son may be a poet."  
+-- John Quincy Adams*
+
 - when you don't want to be interesting you are free. -- moojy
 - Freedom to -> freedom from -- naval
 - Don’t build your castle in other peoples kingdom’s
@@ -64,6 +67,9 @@ Stand up for yourself, your friends, or your values, because at the end of the d
 ## On authenticity
 
 <!--
+> *"The man to lies to himself can be more easily offended than any other."  
+-- Fyodor Dostoyevsky (The brother Karamazov)
+
 - I approve of me. I am my word. I keep my word / I take nothing she says seriously, helps me relax. Change your actions, not yourself. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. 
 - 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
 - Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
@@ -517,6 +523,7 @@ Hints:
 - I believe in principles. the basics are really important. not jargon or specifics. understand it not memorize it. you only need to understand a few basic concepts. complexity emerges from very simple rules. first understand the basics! then pass to next level
 - career day an year -> journaling self analysis. skill fluency!
 - The better players did not examine more possibilities, only better ones — just as Capablanca had claimed. The expert relies not so much on an intrinsically stronger power of analysis as on a store of structured knowledge. Ericsson argues that what matters is not experience per se but “effortful study,” which entails continually tackling challenges that lie just beyond one’s competence. (out of confort zone)!!
+- the next level of your life will demand a different you.
 -->
 
 ### Improving by experience
@@ -865,6 +872,8 @@ Hints:
 <!--
 > *"the best way to keep a prisoner from escaping is to make sure he never knows he's in prison."  
 -- Fyodor Dostoyevsky*
+> *"The eyes do not see what the mind does not want."  
+-- Proverb*
 
 - What would you do if you weren't afraid?
 - dishonesty is a reaction to fear. fear just wants us to stay the same.
@@ -992,6 +1001,8 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 <!--
 > *"When you accept yourself, the whole world accepts you."  
 -- Lao Tzu*
+> *"The more you live like you are already who you want to become, the faster it will turn into a reality."  
+-- Cory Allen*
 -->
 
 > *"Experience is merely the name men gave to their mistakes."  
@@ -1091,6 +1102,11 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 ### On worry
 
 Worrying is worshipping the problem.
+
+> *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
+-- Ernest Hemingway*
+
+
 
 
 
@@ -1613,6 +1629,9 @@ Intelligence is a spectrum, a dog is intelligent also.
 > *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
 -- Plato*
 
+> *"Tolerance will reach such a level that intelligent people will be banned from thinking so as not to offend the imbeciles."  
+-- Fyodor Dostoyevsky*
+
 
 
 
@@ -1620,6 +1639,10 @@ Intelligence is a spectrum, a dog is intelligent also.
 
 ---
 ## On wealth
+
+<!--
+- an unhurried sense of time is in itself a form of wealth.
+-->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
 "No one is as impressed with your possessions as you are."  
@@ -1834,6 +1857,11 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 ---
 ## On health
 
+<!--
+> *"The secret to living well and longer is: eat half, walk double, laugh triple and love without measure."  
+-- Proverb*
+-->
+
 > *"You weren’t made to spend 10 hours a day staring at a screen in a cubicle arguing over email. If you do this your body will fall apart. As your body falls apart so will your brain. As your brain goes so does your chances of success or happiness."  
 -- Allen Tucker*
 
@@ -1894,6 +1922,8 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 <!--
 > *"Solitude is for me a fount of healing which makes my life worth living. Talking is often a torment for me, and I need many days of silence to recover from teh futility of words."  
 -- Carl Jung*
+> *"Don't be seduced into thinking that that which does not make a profit is without value."  
+-- Arthur Miller*
 
 - create a life you don't need a vacation from
 - never before has a generation so diligently recorded themselves accomplishing so little.
@@ -2006,6 +2036,8 @@ Hints:
 -- Leonardo da Vinci*
 > *"In nature there are neither rewards nor punishments, there are consequences."  
 -- Robert G. Ingersoll*
+> *"Success is the ability to go from one failure to another with no loss of enthusiasm."  
+-- Winston Churchill*
 
 - the true measure of success is a calm nervous system.
 - success is a collection of well curated failures.
