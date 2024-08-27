@@ -722,6 +722,7 @@ Hints:
 > *"Tension is who you think should be. Relaxation is who you are."  
 -- Proverb*
 
+- what is poison? anything beyond what we need is poison. it can be power, laziness, food, ego, ambition, vanity, fear, anger, or whatever.
 - an healthy mind does not speak ill of others.
 - you can't heal if you keep pretending you're not hurt.
 - the heaviest burdens that we carry are the thoughts in our heads.
@@ -832,6 +833,10 @@ Hints:
 -- Naval Ravikant*
 
 ### How to overcome them?
+
+<!--
+- you cannot live when you are untouchable. Life is vulnerability.
+-->
 
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer*
@@ -1106,6 +1111,11 @@ Worrying is worshipping the problem.
 > *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
 -- Ernest Hemingway*
 
+### On expectations
+
+> *"Expectations are resentments waiting to happen."  
+-- Brene Brown*
+
 
 
 
@@ -1197,7 +1207,7 @@ When hiding something about yourself, you automatically create shame. You’re s
 > *"Just get out of the room."  
 -- Robert Glover*
 
-### On entitlement
+### On entitlement and ego
 
 > *"Arrogance is a smokescreen for insecurity."  
 -- Amy Cuddy*
@@ -1211,6 +1221,9 @@ Entitlement comes in two forms:
 
 - I’m better than everybody so I deserve special treatment.  
 - I’m worse than everybody so I deserve special treatment.
+
+> *"The first part of life is devoted to forming an healthy ego. The second half is going inward and letting go of it."  
+-- Carl Jung*
 
 
 
@@ -1276,6 +1289,11 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 
 ---
 ## On pessimism
+
+<!--
+> *"Keep you thoughts positive because your thoughts become your words. Keep your thoughts positive because your words become your behaviour. Keep your behavior positive because your behavior becomes your habits. Keep your habits positive because your habits becomes your values. Keep your values positive because your values become your destiny."  
+-- Mahatma Gandhi*
+-->
 
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
 -- William Arthur Ward*
@@ -1436,6 +1454,9 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 
 > *"Every man takes the limits of his own field of vision for the limits of the world."  
 -- Arthur Schopenhauer*
+
+> *"Often isn't the mountains ahead that wear you out, it's the little pebble in your shoe."  
+-- Muhammad ALi*
 
 ### How to get motivation?
 
@@ -1759,7 +1780,10 @@ People say they want to be famous to impact the world, often what they want is t
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
 -- Paulo Coelho*
 > *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  
--- R.C. Sproul
+-- R.C. Sproul*
+> *"Opportunity is missed by most of people because it is dressed in overalls and looks like work."  
+-- Thomas Edison*
+
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  

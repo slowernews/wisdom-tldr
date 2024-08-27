@@ -173,6 +173,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 <!--
 > *"The day has eyes, the night has ears."  
 -- Proverb*
+> *"He uses statistics as a drunken man uses lamp posts - for support rather than for illumination."  
+-- Andrew Lang*
 -->
 
 > *"There are no facts, only interpretations."  
@@ -758,6 +760,8 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus and priorities
 
 <!--
+> *"The essential thing is to work in a state of mind that approaches prayer."  
+
 - you will never reach your destination if you stop and throw stones at every dog that barks.
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
@@ -823,6 +827,7 @@ Hints:
 > *"Do something first, than talk about it."  
 -- Tom Ford*
 
+- parkinson's law - if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
 - taking care of yourself is productivity
 - 6 months of focus and hard work can put you 5 years ahead in life.
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
@@ -963,6 +968,8 @@ Overcompensate. Some people get passion from something they struggled with.
 <!--
 > *"The world is changed by your example, not by your opinion."  
 -- Paulo Coelho*
+> *"At high tide the fish eats ants; at low tide the ants eat fish."  
+-- Proverb*
 
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.

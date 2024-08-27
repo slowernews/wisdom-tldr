@@ -330,6 +330,13 @@ Validate your business by finding paying clients. If something is worth doing, s
 <!--
 > *"Starting a company is like jumping off a cliff and assembling the plane on the way down."  
 -- Reid Hoffman*
+> *"If things aren't failing you're not innovating enough." (...)  
+"Great companies are built on great products." (...)  
+"Constantly think how you can do things better." (...)  
+"If you need inspiring words don't do it." (...)  
+"Pursue what you are passionate about." (...)  
+"It's important to like your coworkers."  
+-- Elon Musk*
 
 - Ownership is the only thing. Never give a single share a unless you absolutely have to.
 -->
@@ -772,6 +779,9 @@ Hints:
 > *"If you are more fortunate than others, build a longer table rather than a taller fence."  
 -- Kevin Kelly*
 
+> *"A guest and a fish stink in three days."  
+-- Proverb*
+
 ### On incentives
 
 Powerful people give freely, buying influence rather than things.
@@ -795,6 +805,10 @@ Hints:
 -- Jorge Luis Borges*
 > *"If you know how quickly people forget the dead... you will stop living to impress people."  
 -- Christopher Walken*
+> *"Never wrestle with a pig because if you do, you'll both get dirty, but the pig will enjoy it."  
+-- Charlie Munger*
+> *"A slave is one who waits for someone to come and free him."  
+-- Ezra Pound*
 
 - if you don't like something, just take away its only power: your attention.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
@@ -838,6 +852,9 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+> *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
+-- Salman Rushdie*
+
 > *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
 -- Elie Wiesel*	
 > *"Não há direitos sem obrigações e viceversa."  -- E. Ferreira*
@@ -1159,6 +1176,10 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 -- Albert Einstein*
 
 ### How to judge a man?
+
+<!--
+- your perception of me is a reflection of you
+-->
 
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire*

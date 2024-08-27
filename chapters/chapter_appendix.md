@@ -161,6 +161,11 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 ---
 ## On future
 
+<!--
+> *"I am a warrior so that my son may be a merchant, so that his son may be a poet."  
+-- John Quincy Adams*
+-->
+
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
 -- Michaelangelo*
 
@@ -481,7 +486,11 @@ Hints:
 ## On lovers
 
 <!--
-- psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
+> *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  
+-- Osho*
+
+- Thank you for not loving me. It forced me to love myself.
+- Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
 - I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
 -->
 
