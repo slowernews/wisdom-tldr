@@ -20,6 +20,7 @@
 - [NEWS.YCOMBINATOR] danielvf  
 - [NEWS.YCOMBINATOR] dilemma  
 - [NEWS.YCOMBINATOR] exelius
+- [TWITTER] pat_stedman
 
 - [-680] ARCHILOCHUS (gr)  
 - [-571] TZU, Lao (cn)  

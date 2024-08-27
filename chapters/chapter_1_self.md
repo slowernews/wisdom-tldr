@@ -368,6 +368,9 @@ Hints:
 <!--
 > *"The lust for comfort murders the passions of the soul."  
 -- Kahlil Gibran*
+> *"If we’re growing, we’re always going to be out of our comfort zone."  
+-- John Maxwell*
+
 - which do you want - the pain of stayng where you are, or the pain of growth?
 -->
 
@@ -763,6 +766,7 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 <!--
 - the only thing complaining does is convince other people that you are not in control.
 - cages aren't made of iron, they're made of thoughts.
+- we don't have anxiety for things we think we can handle!
 -->
 
 > *"If you are depressed you are living in the past.   
@@ -1101,10 +1105,18 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 
 ### On empathy
 
+<!--
+- honesty witout empathy is brutality. empathy without honesty é manipulação
+-->
+
 > *"Empathy without boundaries is self destruction."  
 -- Silvy Khoucasian*
 
 ### On worry
+
+<!--
+if you panic, panic early!
+-->
 
 Worrying is worshipping the problem.
 
@@ -1149,6 +1161,10 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 -- Alan Watts*
 
 ### On confidence and validation
+
+<!--
+- get confidence: impress yourself
+-->
 
 > *"One who believes in himself has no need to convince others."  
 -- lao Tzu*
@@ -1662,6 +1678,9 @@ Intelligence is a spectrum, a dog is intelligent also.
 ## On wealth
 
 <!--
+> *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
+-- Rudyard Kipling*
+
 - an unhurried sense of time is in itself a form of wealth.
 -->
 
@@ -1684,6 +1703,10 @@ Being rich is being fulfilled.
 -- Seneca*
 
 ### On money
+
+<!--
+- dinheiro dá liberdade | o poder é o impacto q tens na vida das pessoas
+-->
 
 Money is trust. A system of mutual trust.
 
@@ -2065,6 +2088,7 @@ Hints:
 
 - the true measure of success is a calm nervous system.
 - success is a collection of well curated failures.
+- the most successful people are those who are good at plan b.
 -->
 
 > *"Success doesn’t come to you. You go to it."  

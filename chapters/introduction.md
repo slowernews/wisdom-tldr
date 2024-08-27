@@ -1,73 +1,76 @@
 
-                                                      
+	  
 	 /      /                 |           /    /          
 	(  ___ (___  ___  ___  ___|      ___ (___    ___  ___ 
 	| |   )|    |   )|   )|   )|   )|    |    | |   )|   )
 	| |  / |__  |    |__/ |__/ |__/ |__  |__  | |__/ |  / 
-		
+	  
 
-## The real you
-
-<!--
-> *"You are not a drop in the ocean. You are the entire ocean in a drop."  
--- Rumi*
--->
+## Who are you?
 
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant*
 
-> *"How we spend our days is how we spend our lives."  
--- Annie Dillard*
-
-> *"It is better to be hated for what you are than to be loved for what you are not."  
--- André Gide*
-
-> *"Everyone sees what you appear to be, few experience what you really are."  
--- Niccoló Machiavelli*
-
-> *"Had I not created my whole world, I would certainly have died in other people's."  
--- Anais Nin*
+Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
 
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen*
 
-### How to come alive?
+> *"You are what you do, not what you say you’ll do."  
+-- Carl Jung*
+
+> *"How we spend our days is how we spend our lives."  
+-- Annie Dillard*
+
+### The real you
 
 <!--
-- you are under no obligation to keep being the same person you used to be. Your new life will cost you your old one. Do not fear your own potential.
+The ultimate question: Do you want you son/daughter to date someone like you?
 -->
+
+You are under no obligation to keep being the same person you used to be. Your new life will cost you your old one. Do not fear your own potential.
 
 > *"All men die, but not every man lives."  
 -- William Wallace*
 
+> *"To live is the rarest thing in the world. Most people just exist."  
+-- Oscar Wilde* 
+
+> *"It is better to be hated for what you are than to be loved for what you are not."  
+-- André Gide*
+
+> *"You are not a drop in the ocean. You are the entire ocean in a drop."  
+-- Rumi*
+
+> *"Everyone sees what you appear to be, few experience what you really are."  
+-- Niccoló Machiavelli*
+
+> *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
+-- E.E. Cummings*
+
+### How to come alive?
+
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
 -- Alan Watts*
 
-> *"You are what you do, not what you say you’ll do."  
--- Carl Jung*
+> *"The shell must break before the bird can fly."  
+-- Alfred Lord Tennyson*
 
-> *"What we think, we become."  
--- Buddha*
-
-> *"You become what you think about all day long."  
--- Ralph Waldo Emerson*
+No matter where you are in your life, you have the power to change everything in an instant. Most won't. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
 
 > *"Action expresses priorities."  
 -- Mahatma Ghandi*
 
-> *"To live is the rarest thing in the world. Most people just exist."  
--- Oscar Wilde* 
-
-No matter where you are in your life, you have the power to change everything in an instant. Most won't. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
-
-Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
-
-The ultimate question: Do you want you son/daughter to date someone like you?
+> *"What we think, we become."  
+-- Buddha*
 
 > *"You often feel tired, not because you've done too much, but because you've done too little of what sparks a light in you." (...) 
 "It's not finding yourself that's hard; it's facing yourself that is." (...)  
 "When a flower doesn't bloom, you fix the environment in which it grows, not the flower."  
 -- Alexander Den Heijer*
+
+> *"Had I not created my whole world, I would certainly have died in other people's."  
+-- Anais Nin*
 
 > *"Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive."  
 -- Howard Thurman*
@@ -78,11 +81,6 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 > *"Whatever you are, be a good one."  
 -- Abraham Lincoln*
 
-> *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
--- E.E. Cummings*
-
-> *"The shell must break before the bird can fly."  
--- Alfred Lord Tennyson*
 
 
 
@@ -91,10 +89,7 @@ The ultimate question: Do you want you son/daughter to date someone like you?
 ---
 ## On finding your path
 
-<!--*
-> *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
--- twitter@pat_stedman
-
+<!--
 - I may not be where I want to be, but thank god i'm not where I use to be.
 -->
 
@@ -105,7 +100,7 @@ The path will be revealed as you start walking.
 
 Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. 
 
-     EFFORT + SURRENDER = DESTINY
+     DESTINY = EFFORT + SURRENDER
 
 > *"Life is either a daring adventure or nothing at all."  
 -- Helen Keller*
@@ -123,69 +118,30 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."  
 -- E.B. White*
 
-> *"I'm not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
--- Naval Ravikant*
-
-> *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
--- Mark Manson*
-
 > *"It is possible for ordinary people to choose to be extraordinary." (...)  
 "If you need inspiration, don't do it."  
 -- Elon Musk*
 
-> *"Home is not where you are born; home is where all your attempts to escape cease."  
--- Naguib Mahfouz*
-
 > *"If the path is clear, you're probably on someone else's ."  
 -- Carl Jung*
-
-### Hints on finding your path
-
-> *"The purpose of life is finding the largest burden that you can bear and bearing it."  
--- Jordan Peterson*
-
-> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
--- Abraham Maslow*
 
 > *"Take advantage of the opportunities - that’s probably more important than charting your path."  
 -- Admiral William Mcraven*
 
-Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
+> *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
+-- pat_stedman@twitter*
 
-- Passion is made not found. Instead of looking for your life’s purpose, look for things that will stretch you, engage you, and teach you.  
-- Fear is your guide. The more fear you feel, the more you will know you are on the right track.  
-- Experience more things. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward.  
-- The trouble with setting goals is that you're constantly working toward what you used to want.  
-- It’s easier to ask forgiveness than to get permission.  
-- Old keys won't open new doors.
-- The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.
-- We say we try to get better but if look at your behaviour you'll see you actually are trying to to stay the same.
-- Put your happiness before goals.
-- Focus on financial freedom first.
-- Pick one thing and stick with it to completion.
-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
-
-> *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you." (...)  
-"The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life."  
--- Naval Ravikant*
-
-> *"The meaning of life is to find your gift. The purpose of life is to give it away."  
--- Pablo Picasso*
-
-> *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
--- Rudyard Kipling*
-
-> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"  
--- Maya Angelou*
+> *"Home is not where you are born; home is where all your attempts to escape cease."  
+-- Naguib Mahfouz*
 
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland*
 
+> *"A person often meets his destiny on the road he took to avoid it."  
+-- Jean de La Fontaine*
+
 > *"I can think, I can wait and I can fast."  
 -- Siddahrta*
-
-> *"If we’re growing, we’re always going to be out of our comfort zone."  
--- John Maxwell*
 
 > *"The obstacle is the way."  
 -- Marcus Aurelius*
@@ -195,9 +151,6 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 
 > *"In the middle of difficulty lies opportunity."  
 -- Albert Einstein*
-
-> *"A person often meets his destiny on the road he took to avoid it."  
--- Jean de La Fontaine*
 
 > *"You can, you should, and if you’re brave enough to start, you will."  
 -- Stephen King*
@@ -228,6 +181,48 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"If you can't, you must. If you must, you can."  
 -- Tony Robbins*
 
+### On ambition
+
+> *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
+-- Mark Manson*
+
+> *"I'm not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
+-- Naval Ravikant*
+
+> *"To the mediocre, mediocrity appears great."  
+-- Proverb*
+
+### On the purpose of life
+
+> *"The purpose of life is finding the largest burden that you can bear and bearing it."  
+-- Jordan Peterson*
+
+> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
+-- Abraham Maslow*
+
+Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
+
+Hints:
+
+- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.  
+- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.  
+- Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.  
+- The trouble with setting goals is that you're constantly working toward what you used to want. Old keys won't open new doors.  
+- It’s easier to ask forgiveness than to get permission.  
+- We say we try to get better but if look at your behaviour you'll see you actually are trying to to stay the same.
+- Focus on financial freedom first. Put your happiness before goals.  
+- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
+
+> *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you." (...)  
+"The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life."  
+-- Naval Ravikant*
+
+> *"The meaning of life is to find your gift. The purpose of life is to give it away."  
+-- Pablo Picasso*
+
+> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"  
+-- Maya Angelou*
+
 ### On the wrong paths
 
 > *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
@@ -244,9 +239,6 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 
 > *"I am free and that is why I am lost."  
 -- Franz Kafka*
-
-> *"To the mediocre, mediocrity appears great."  
--- Proverb*
 
 
 

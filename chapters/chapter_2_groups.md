@@ -333,7 +333,6 @@ Validate your business by finding paying clients. If something is worth doing, s
 > *"If things aren't failing you're not innovating enough." (...)  
 "Great companies are built on great products." (...)  
 "Constantly think how you can do things better." (...)  
-"If you need inspiring words don't do it." (...)  
 "Pursue what you are passionate about." (...)  
 "It's important to like your coworkers."  
 -- Elon Musk*
@@ -880,6 +879,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 - Rigid regimes are doomed when they become flexible. The revolutionaries always become the new dictators.
 - The struggle between collectivists and the individual is as old as humanity itself.
 - all poverty is energy poverty.
+- uma bandeira representa sempre um colectivo
 - Never apologize to the politically correct.
 - If you want to destroy any nation without war, make adultery or nudity common in the young generation.
 - Men often believe > *"or pretend > *"that the "Law" is something sacred, or at least a science > *"an unfounded assumption very convenient to governments.

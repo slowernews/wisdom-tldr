@@ -16,6 +16,7 @@
 
 - history books are on the history of power.
 - o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
+- a historia muda. é uma questao de interpretação do que realmente aconteceu
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
@@ -478,6 +479,8 @@ Hints:
 
 > *"Spend your time in the company of geniuses, sages, children and books."  
 -- Naval Ravikant*
+
+
 
 
 
@@ -987,6 +990,7 @@ The more «art» you allow in, the less commercial success you’ll have. People
 > *"I'm not interested in anything that's not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can't keep it going, I'm not interested in it."  
 -- Morgan Housel*
 
+- buffett is focusing in stuff that never change
 - being broke is hard. becoming rich is hard. choose your hard.
 - ultimately is about the total cost of the mortgage. that is the price of the home. the closing price is an illusion.
 - Modern slaves are not chains, they are debt. today, people with moderate incomes, are forced to speculate or live in poverty.
@@ -1306,6 +1310,7 @@ Hints:
 <!--
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
 > *"Freedom of the press is for those who happen to own one.*
+- engagement media
 -->
 
 > *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
@@ -1346,6 +1351,7 @@ Privacy is power. What people don't know they can't ruin.
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - blockchains are not personal-computing operational systems; they are social systems.
+- physics is the only law, everything else is a recommendation
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
 - Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
