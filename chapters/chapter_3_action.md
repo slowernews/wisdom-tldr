@@ -245,13 +245,13 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - Prefer stats than narratives. We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.
 - There’s always a good reason and a real reason.
 - Look for something that doesn’t make sense. That’s where the gold mine is: «It doesn’t make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don’t try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They’re the ones that will make the assets price move. (Adam Robinson)
-- Randomness: most facts are a «tell» but some are just random.  
-- Skepticism is a great servant and a terrible master.  
+- Randomness: most facts are a «tell» but some are just random.
+- Skepticism is a great servant and a terrible master.
 - There’s truth on *group* stereotypes. *Group* opinions self correct themselves.
-- We tend to think that the people who agree with us are really smart.  
+- We tend to think that the people who agree with us are really smart.
 - Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
 - Pay attention to negative cues: what should have happened but did not.
-- «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.  
+- «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.
 - Best way to deal with confirmation bias: You need to search out disconfirming evidence. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. Too much info is the main cause of it: you’ll always find confirmation to your pre-existing beliefs. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
 - Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.
 - Nothing is as good or as bad as it seems.
@@ -411,7 +411,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
 -- Descartes*
 
-Start with a vision. Then look for actionable steps.  
+Start with a vision. Then look for actionable steps.
 
 Hints:
 
@@ -457,6 +457,7 @@ Hints:
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
 -- Mark Manson*
 
+- Consensus happens just in the beginning and in the end of something.
 > *"My brother says to never make a big decision before you take a shower."*
 - you must learn to proceed without certainty.
 - Wait 48 hours before buying stuff
@@ -705,7 +706,7 @@ How to defeat procrastination?
 Hints:
 
 - What gets measured gets done.
-- Don’t wait for the perfect occasion, a good occasion is a safer bet.  You will languish if you stop for a long time and paralysis is worse than bad timing.
+- Don’t wait for the perfect occasion, a good occasion is a safer bet. You will languish if you stop for a long time and paralysis is worse than bad timing.
  At some point, the pain of not doing it becomes greater than the pain of doing it. Pressed by circumstances, we feel unusually energized and focused (the panic monster). 
 - However, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a plan. Any plan will do.
 
@@ -780,8 +781,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 First the essential. Then the details.
 
-Focusing is an art. Time itself is not your limitation: attention is.  
-Busy imply out of control. Lack of time is lack of priorities.
+Focusing is an art. Time itself is not your limitation: attention is. Busy imply out of control. Lack of time is lack of priorities.
 
 Hints:
 
@@ -1127,7 +1127,7 @@ Hints:
 ### On charming
 
 <!--
-- Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.  
+- Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.
 - the good reason and the real reason.
 - the best way to get someone’s attention is to stop giving them yours.
 -->
@@ -1350,7 +1350,7 @@ It’s not just about winning. The way you win sets you up for the next round. W
 
 Hints:
 
-- Giving yourself permission to lose, automatically guarantees a loss.  
+- Giving yourself permission to lose, automatically guarantees a loss.
 - I’m losing and I lost are too different things.
 
 > *"Win through your actions, never through argument."  

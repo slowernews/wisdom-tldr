@@ -31,7 +31,7 @@ Stop being codependent of others and start caring for yourself first. The money,
 
 Hints:
 
-- Telling *your* truth is not selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be able to serve others to your fullest capacity.  
+- Telling *your* truth is not selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be able to serve others to your fullest capacity.
 - Stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. A boundary is knowing what you want and what you don’t want in a moment. E.g: «If I loved myself at a level 10 of 10, would I do this?»
 
 > *"I think the reward for conformity is that everyone likes you except yourself."  
@@ -92,9 +92,9 @@ Authenticity isn’t the presence of something, but the absence of everything th
 
 Hints:
 
-- If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate to you. Just be real, and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to excel at everything. Find your context.  
-- If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh.  
-- Honesty is an antidote to impostor syndrome. 
+- If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate to you. Just be real, and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to excel at everything. Find your context.
+- If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh.
+- Honesty is an antidote to impostor syndrome.
 - Truth is a better way to talk about ourselves. Personal branding will kill you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
 
 > *"Always be a first rate version of yourself and not a second rate version of someone else."  
@@ -360,11 +360,11 @@ Comfort is the enemy of achievement. The size of your life is directly proportio
 
 Hints:
 
-- Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.  
-- Repeating close variations on your usual theme unlocks far more value than you’d expect given minimal novelty value is a surprising result.  
-- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, spend a week alone in nature. Being uncomfortable should be «play» for you. Find comfort in discomfort.  
-- Leap while you’re at the top of the curve, and the next curve builds on the momentum.  
-- This isn’t just a success strategy; it’s a well-being strategy. The risk of not changing is often greater than the risk of changing.  
+- Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
+- Repeating close variations on your usual theme unlocks far more value than you’d expect given minimal novelty value is a surprising result.
+- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, spend a week alone in nature. Being uncomfortable should be «play» for you. Find comfort in discomfort.
+- Leap while you’re at the top of the curve, and the next curve builds on the momentum.
+- This isn’t just a success strategy; it’s a well-being strategy. The risk of not changing is often greater than the risk of changing.
 - Risk looks different for everyone. Stability without stagnation.
 - Which do you want - the pain of stayng where you are, or the pain of growth?
 
@@ -432,9 +432,9 @@ The accumulation of experience and the analysis of past situations will structur
 
 Hints:
 
-- Listen to someone explaining challenging techniques, and then attempt to follow their advice. Seek feedback as it accelerates learning.  
-- If it’s easy and you're not surprised, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That’s when real learning occurs.  
-- Reflect on your mistakes; try to identify the cues you missed and what to look for next time.  
+- Listen to someone explaining challenging techniques, and then attempt to follow their advice. Seek feedback as it accelerates learning.
+- If it’s easy and you're not surprised, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That’s when real learning occurs.
+- Reflect on your mistakes; try to identify the cues you missed and what to look for next time.
 - Repeat.
 
 > *"The fastest way to learn is to do things the slow way."  
@@ -685,13 +685,13 @@ Hints:
 
 - Study physics, mathematics, computers, microeconomics, game theory and persuasion.
 - Believe in principles. The basics are really important, not jargon or specifics. Understand it, not memorize it. You only need to understand a few basic concepts. complexity emerges from very simple rules.
-- Applied focus. This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines. Don’t major on minor things.  
+- Applied focus. This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines. Don’t major on minor things.
 - School fails in subjects like: how to build self confidence / how to be good with money / dating and relationships skills / confrontation skills / critical thinking / creative productivity.
-- Education leads toward a continuing self-discovery; training leads toward a final self-definition.  
-- School rewards generalists, the world not so.  
-- School's real study topic is obedience. No one is going to give you the education you need to overthrow them.  
-- Success is the worst teacher.  
-- The biggest mistake anyone makes when studying a foreign language is that they do it little by little, not jumping into it head first. Language is not mathematics; one doen't need to learn it, one needs to get accustomed to it. It's not about logic or memory; It's about experience and skill.  
+- Education leads toward a continuing self-discovery; training leads toward a final self-definition.
+- School rewards generalists, the world not so.
+- School's real study topic is obedience. No one is going to give you the education you need to overthrow them.
+- Success is the worst teacher.
+- The biggest mistake anyone makes when studying a foreign language is that they do it little by little, not jumping into it head first. Language is not mathematics; one doen't need to learn it, one needs to get accustomed to it. It's not about logic or memory; It's about experience and skill.
 
 > *"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths." (...)  
 "Study math to understand physics. Study physics to understand chemistry. Study chemistry to understand biology. Study biology to understand psychology. Study psychology to understand economics. Study economics and philosophy to be free." (...)  
@@ -814,8 +814,7 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 > *"I write because I don’t know what I think until I read what I say."  
 -- Flannery O’Connor*
 
-> *"This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.  
-So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader’s ear. Don’t just write words. Write music"  
+> *"This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important. So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader’s ear. Don’t just write words. Write music"  
 -- Gary Provost*
 
 > *"Any word you have to hunt for in a thesaurus is the wrong word."  
@@ -825,14 +824,14 @@ So write with a combination of short, medium, and long sentences. Create a sound
 
 Hints:
 
-- Make the subject unique, meaningful and easily searchable.  
+- Make the subject unique, meaningful and easily searchable.
 - Make a single, specific, simple request – such that it’s hard to say no - in the first line and then explain if you need to. The reader should be able to reply to the email in one word, forward it on to the right person or delete it so be specific in your request. Examples:
 	- «Do you have time for a 5 min call this week?»  
 	- «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?» instead of «Can you meet sometime next week?»
 	- «Please review and sign this document.»  
 	- «Can you make a quick intro to XYZ person?» 
 	- «I’d love a letter of support from you. I’ve attached a draft for your review.»  
-- Keep it under three lines, more than this call.  
+- Keep it under three lines, more than this call.
 - Use easy-to-read formatting. Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS. 
 
 
@@ -853,7 +852,7 @@ Consistency doesn’t result from effort, it comes from showing up. Long-term th
 Hints:
 
 - See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD.
-- You do not raise to the level of your goals, you fall to the level of your systems.  
+- You do not raise to the level of your goals, you fall to the level of your systems.
 - Stop a bad behaviour by filling the space with a better one. Replacement is better than abstinence.
 
 > *"At any given time, I’m either trying to pick up a good habit or discard a previous bad habit." (...)  
@@ -881,7 +880,7 @@ Hints:
 > *"Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things."  
 -- Charles Duhigg*
 
-We tend to abandon the good system we’ll follow in search of the perfect system that we will quit.  
+We tend to abandon the good system we’ll follow in search of the perfect system that we will quit.
 
 Hints:
 
@@ -1021,12 +1020,12 @@ Money is a force multiplier to help you live the life of your dreams. However, t
 
 Making money is not about luck. 
 
-- Learn to sell. Learn to build. If you can do both, you will be unstoppable.  
-- Equip yourself with specialized knowledge, accountability, and leverage. Specialized knowledge is what you learn uniquely, not through standard education. If society can teach it to you, it can teach it to others, making you replaceable. You acquire specialized knowledge by following your genuine interests, not just current trends. While you might find it enjoyable, others may see it as hard work. This kind of knowledge is usually passed on through apprenticeships, not traditional schooling. It often involves technical or creative expertise that’s difficult to outsource or automate.  
-- Embrace responsability and take business risks under your own name. In exchange, society might grant you more duties, ownership, and influence. The most accountable people usually have unique, public, and bold personal brands, like Oprah, Trump, Kanye, and Elon. 
+- Learn to sell. Learn to build. If you can do both, you will be unstoppable.
+- Equip yourself with specialized knowledge, accountability, and leverage. Specialized knowledge is what you learn uniquely, not through standard education. If society can teach it to you, it can teach it to others, making you replaceable. You acquire specialized knowledge by following your genuine interests, not just current trends. While you might find it enjoyable, others may see it as hard work. This kind of knowledge is usually passed on through apprenticeships, not traditional schooling. It often involves technical or creative expertise that’s difficult to outsource or automate.
+- Embrace responsability and take business risks under your own name. In exchange, society might grant you more duties, ownership, and influence. The most accountable people usually have unique, public, and bold personal brands, like Oprah, Trump, Kanye, and Elon.
 - Select partners with intelligence, energy, and, above all, integrity. Stay away from cynics and pessimists, as their negative beliefs can become self-fulfilling prophecies.
-- To become wealthy, offer what society wants but can’t access easily, and do it at a large scale. Pick an industry for long-term projects with similar-minded people. The internet has opened up diverse career options, yet many haven’t realized this. Focus on persistent efforts. In life, the most substantial gains come from building on past progress. Money is a tool for trading experiences. Create valuable experiences to build your wealth. 
-- Prioritize building wealth instead of chasing money or status. Wealth involves owning assets that generate income without constant effort. Understand that it’s possible to create wealth ethically. Don’t pay attention to those who focus on status games; they often gain status by criticizing wealth builders. Money is a sensitive topic as many tie their self-worth and identity to their jobs and earnings, reflecting their skills and competence in the market.  
+- To become wealthy, offer what society wants but can’t access easily, and do it at a large scale. Pick an industry for long-term projects with similar-minded people. The internet has opened up diverse career options, yet many haven’t realized this. Focus on persistent efforts. In life, the most substantial gains come from building on past progress. Money is a tool for trading experiences. Create valuable experiences to build your wealth.
+- Prioritize building wealth instead of chasing money or status. Wealth involves owning assets that generate income without constant effort. Understand that it’s possible to create wealth ethically. Don’t pay attention to those who focus on status games; they often gain status by criticizing wealth builders. Money is a sensitive topic as many tie their self-worth and identity to their jobs and earnings, reflecting their skills and competence in the market. 
 - You won’t achieve significant wealth by simply trading your time for money. To attain financial freedom, you must have ownership or equity in a business or venture. You’re spending time to save money when you should be spending money to save time.
 - When you eventually attain wealth, you will realize that it wasn’t your primary pursuit in the first place. Free wealth: Books, friends, sleep, ideas, questions, gratefulness, laugh.
 - Being broke is hard. Becoming rich is hard. Choose your hard.
@@ -1120,13 +1119,13 @@ What’s my religion? Arbitrage and rents.
 
 Hints:
 
-- What’s going to stay the same in the next ten years. While boring, offer the best investment opportunities.  
-- Where is low optimism. Recessions are caused when a bunch of people lose confidence all at once.  
-- Know who are the buyers, the sellers and their motivations.  
-- Investments are competing with each other.  
+- What’s going to stay the same in the next ten years. While boring, offer the best investment opportunities.
+- Where is low optimism. Recessions are caused when a bunch of people lose confidence all at once.
+- Know who are the buyers, the sellers and their motivations.
+- Investments are competing with each other.
 - The best companies aren’t sold, they’re bought. Stay away from junk stocks.
-- The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.  
-- Take risk from the table whenever possible.  
+- The more you know, the less you need to diversify. Diversification is an hedge against lack of knowledge.
+- Take risk from the table whenever possible.
 - Don’t buy on future hopes, buy on past mistakes. We don’t loose money on star businesses, we loose money on businesses we think will be star businesses.
 - Good investors don’t sell investment advice and not talk about their returns.
 
@@ -1239,6 +1238,9 @@ Every outcome in life is guided by forces other than individual effort. The best
 
 ### On hope
 
+> *"Hope is a good breakfast, but it is a bad supper."  
+-- Francis Bacon*
+
 > *"Hope is the bread of the poor."  
 -- Proverb*
 
@@ -1295,8 +1297,8 @@ Health is also an envy trigger. Often what people really envy is self-control.
 
 ### How to stay healthy?
 
-- Exercise is king. Balance on body training is training flexibility (yoga or animal movements) and strength (weights). Minimum effective dose.  
-- Nutrition is queen. Eat more real foods and practice intermittent fasting.  
+- Exercise is king. Balance on body training is training flexibility (yoga or animal movements) and strength (weights). Minimum effective dose.
+- Nutrition is queen. Eat more real foods and practice intermittent fasting.
 - Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated.
 
 > *"The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison."  
@@ -1326,6 +1328,9 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 
 > *"Time you enjoy wasting, was not wasted."  
 -- Bertrand Russell*
+
+> *"I drink to make other people more interesting."  
+-- Ernest Hemingway*
 
 > *"Any idiot can face a crisis; it's this day-to-day living that wears you out."  
 -- Anton Chekhov*
@@ -1357,14 +1362,15 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 Hints:
 
 - Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. 
-- Aspire to work 3 days a week; 3 weeks a month; 3 months free a year.  
+- Aspire to work 3 days a week; 3 weeks a month; 3 months free a year.
 - Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
 - Own my house on a few acres with clean water river frontage, and assets I can enjoy & be creative with (car, bike, music equipment, tools, etc)  
-- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it. Income doesn’t make you rich. spending habits do.  
+- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it. Income doesn’t make you rich. spending habits do.
 - The opposite of play isn’t work, it’s depression. Create a life you don't need a vacation from. Making money in order to consume goods can't mankinds's sole purpose on this planet.
 - 3 hobbies: one creative, one to keep in shape and one to make money.
-- House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.  
-- I have no plans to retire. It’s the perfect combination of work and play that keep you young.  
+- House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.
+- I have no plans to retire. It’s the perfect combination of work and play that keep you young.
+- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
 - Simplicity is the ultimate sophistication.
 
 > *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3." (...)  
@@ -1400,7 +1406,7 @@ Travel is the only thing you buy that makes you richer. Travels are mini-lifes. 
 
 Hints:
 
-- Travelling is getting under the skin of the place.  
+- Travelling is getting under the skin of the place.
 - Think less about money optimization and more about who you’re going with.
 - Travellers are the best money managers. People have a cultural memory of travelling as expensive but it’s not. Just buy a ticket to the next destination, look for empty seats and get people to take you home.
 - Choose places with «lifers»: people who are dedicated to the business itself, not to a paycheck.
@@ -1530,17 +1536,6 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 "Tension is who you think should be. Relaxation is who you are."  
 -- Proverbs*
 
-### On worry
-
-<!--
-if you panic, panic early!
--->
-
-Worrying is worshipping the problem.
-
-> *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
--- Ernest Hemingway*
-
 ### On depression and anxiety
 
 <!--
@@ -1553,7 +1548,7 @@ Worrying is worshipping the problem.
 - you can't heal if you keep pretending you're not hurt.
 -->
 
-> *"If you are depressed you are living in the past.   
+> *"If you are depressed you are living in the past.  
 If you are anxious you are living in the future.   
 If you are at peace you are living in the present."  
 -- Lao Tzu*
@@ -1634,7 +1629,7 @@ Hints:
 
 Action cures everything. Physical stress eliminates the need for control.
 
-Hustling (the right amount of stimulation) involves consistently stretching your comfort zone. Avoiding stress is avoiding life.  
+Hustling (the right amount of stimulation) involves consistently stretching your comfort zone. Avoiding stress is avoiding life.
 
 Hints:
 
@@ -1693,7 +1688,7 @@ When you view everything through the lens of fear, you’re more likely to remai
 
 Replace fear with curiosity. Conquering fear means defining fear.
 
-Fear makes the wolf bigger than he really is.  
+Fear makes the wolf bigger than he really is.
 
 > *"Nothing in life is to be feared, it is only to be understood."  
 -- Marie Curie*
@@ -1962,7 +1957,8 @@ Hints:
 
 > *"Guilt is society’s voice speaking in your head." (...)  
 "Self-esteem is just the reputation you have with yourself. You’ll always know." (...)  
-"Ego is false confidence, self-respect is true confidence."  
+"Ego is false confidence, self-respect is true confidence." (...)  
+"You are a story you tell yourself."  
 -- Naval Ravikant*
 
 > *"Self-confidence is the memory of success."  
@@ -1998,7 +1994,7 @@ Confidence is not walking into a room thinking you are better than everyone, it�
 
 Entitlement comes in two forms:
 
-- I’m better than everybody so I deserve special treatment.  
+- I’m better than everybody so I deserve special treatment.
 - I’m worse than everybody so I deserve special treatment.
 
 > *"The first part of life is devoted to forming an healthy ego. The second half is going inward and letting go of it."  
@@ -2031,22 +2027,17 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 ---
 ## On jealousy and envy
 
-<!--
-- an healthy mind does not speak ill of others.
-- Consensus happens just in the beginning and in the end of something.
--->
-
 > *"You’ll never be criticized by someone who is doing more than you. You’ll always be critized by someone who is doing less. Remember that."  
 -- Denzel Washington*
 
 > *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
 -- Henry Thomas Buckle*
 
-Jealousy is the face of low self-esteem.
+Jealousy is the face of low self-esteem. An healthy mind does not speak ill of others.
+
+Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, fame, luck, beauty, health, sucess and lifestyle (freedom) are the main triggers.
 
 Treat haters like toddlers. When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy - they think that you’re better than them. If someone is copying you, you won.
-
-Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, ambition, fame, luck, beauty, health, freedom and a mix of them (lifestyle) are the main triggers.
 
 > *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence." (...)  
 "If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut."  
@@ -2074,6 +2065,18 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 > *Choose inspiration over envy."    
 -- Naval Ravikant*
 
+However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
+
+> *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
+-- Ralph Waldo Emerson*
+
+### On empathy
+
+> *"Empathy without boundaries is self destruction."  
+-- Silvy Khoucasian*
+
+Honesty witout empathy is brutality. Empathy without honesty is manipulation.
+
 
 
 
@@ -2081,11 +2084,6 @@ Outliers inspire envy. Once they stop talking to you, they start talking about y
 
 ---
 ## On pessimism
-
-<!--
-> *"Keep you thoughts positive because your thoughts become your words. Keep your thoughts positive because your words become your behaviour. Keep your behavior positive because your behavior becomes your habits. Keep your habits positive because your habits becomes your values. Keep your values positive because your values become your destiny."  
--- Mahatma Gandhi*
--->
 
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
 -- William Arthur Ward*
@@ -2103,9 +2101,6 @@ Hints:
 - Entrepreneurs are inherently optimistic because they are rewarded by being optimistic. Intelectuals the opposite.
 - Organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
 
-> *"Hope is a good breakfast, but it is a bad supper."  
--- Francis Bacon*
-
 > *"That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be."  
 -- James Jones*
 
@@ -2117,9 +2112,6 @@ Hints:
 
 > *"Pessimists sound smart. Optimists make money."  
 -- Nat Friedman*
-
-> *"Worry gives small things a big shadow."  
--- Proverb*
 
 > *"I’m always looking for a way to make it happen, not excuses why it won’t work."  
 -- Aaron Walker*
@@ -2134,14 +2126,18 @@ Hints:
 > *"You'll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."  
 -- Kevin Kelly*
 
-### On empathy
+> *"Keep you thoughts positive because your thoughts become your words. Keep your thoughts positive because your words become your behaviour. Keep your behavior positive because your behavior becomes your habits. Keep your habits positive because your habits becomes your values. Keep your values positive because your values become your destiny."  
+-- Mahatma Gandhi*
 
-<!--
-- honesty witout empathy is brutality. empathy without honesty é manipulação
--->
+### On worry
 
-> *"Empathy without boundaries is self destruction."  
--- Silvy Khoucasian*
+> *"Worry gives small things a big shadow."  
+-- Proverb*
+
+Worrying is worshipping the problem. If you panic, panic early.
+
+> *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
+-- Ernest Hemingway*
 
 
 
@@ -2184,25 +2180,17 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 
 Hints:
 
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is my slave, not my master. I’m not choosing ignorance. I’m choosing to not watch wrestling.  
-- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. All that clutter used to be money. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. if you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self. Storage is a way of warehousing the past.
-- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.  
+- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is your slave, not your master. You’re not choosing ignorance, you’re choosing to not watch wrestling.
+- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. Storage is a way of warehousing the past. If you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self.
+- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.
 - Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
-- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
+- All that clutter used to be money.
 
 > *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
 -- Colette*
 
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus*
-
-### On vice
-
-> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
--- Viktor Frankl*
-
-> *"I drink to make other people more interesting."  
--- Ernest Hemingway*
 
 
 
@@ -2215,7 +2203,7 @@ Hints:
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
 -- Archilochus*
 
-Your fears define your limits.  
+Your fears define your limits.
 
 Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. However your level of success will seldom exceed your level of personal development. 
 
@@ -2231,6 +2219,11 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 > *"There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with."  
 -- Kevin Kelly*
 
+### On expectations
+
+> *"Expectations are resentments waiting to happen."  
+-- Brene Brown*
+
 ### On motivation
 
 > *"With a strong enough «why», you can overcome any «how»."  
@@ -2244,24 +2237,19 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 > *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
 -- Unknown (tetraplegic)*
 
-### On expectations
-
-> *"Expectations are resentments waiting to happen."  
--- Brene Brown*
-
-### On blindspots
-
-However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
-
-> *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
--- Ralph Waldo Emerson*
-
 ### On self awareness
 
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
 -- François de La Rochefoucauld*
 
-Self awareness is the ability to pause your mind. It reduces the gap between who you are and who you think you are.   
+Self awareness is the ability to pause your mind. It reduces the gap between who you are and who you think you are. 
+
+Do you know anyone who doesn’t have any blind spots? So why would you be different?  
+
+Hints:
+
+- Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
+- Ask questions to challenge your assumptions: «What if I’m wrong about this?»
 
 > *"The best mirror is an old friend."  
 -- George Herbert*
@@ -2281,8 +2269,6 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 > *"Until you make the uncouncious conscious, it will direct your life and you will call it fate."  
 -- Carl Jung*
 
-### How to grow self awareness?
-
 > *"People who can’t laugh at themselves will always be outwitted by people who can."  
 -- T.K. Coleman*
 
@@ -2290,18 +2276,10 @@ Self awareness is the ability to pause your mind. It reduces the gap between who
 "A great way to understand yourself is to seriously reflect on everything you find irritating in others."  
 -- Kevin Kelly*
 
-Do you know anyone who doesn’t have any blind spots? So why would you be different?  
-
-Hints:
-
-- Meditation makes you more mindful. Over time, meditation can rewire your brain to be less reactive and enable you to thoughtfully respond to your feelings.
-- Ask questions to challenge your assumptions: «What if I’m wrong about this?»
-
 > *"Self-awareness is the most attractive trait." (...)  
 "Meditation is a good way to measure where you are." (...)  
 "Meditation is intermittent fasting for the mind. Distractions are to mind the same as sugar to body." (...)  
 "The best meditation is being curious about the contents of your own mind." (...)  
-"You are a story you tell yourself." (...)  
 "A fit mind is a clear mind."  
 -- Naval Ravikant*
 
@@ -2336,15 +2314,7 @@ After reaching a certain age, you are no longer seen as an individual; you becom
 > *"When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time."  
 -- Jon Boorman*
 
-Aging implies wear and tear, often seen as a high price to pay for maturity.
-
-> *"Every day in the mirror I watch death at work."  
--- Jean Cocteau*
-
-> *"Once I was beautiful, now I’m myself."  
--- Anne Sexton*
-
-### How to slow down the aging process?
+### On aging
 
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
 -- Bruno Munari*
@@ -2362,6 +2332,14 @@ People my age are so much older than me.
 
 > *"An honest man is always a child."  
 -- Socrates*
+
+Aging implies wear and tear, often seen as a high price to pay for maturity.
+
+> *"Every day in the mirror I watch death at work."  
+-- Jean Cocteau*
+
+> *"Once I was beautiful, now I’m myself."  
+-- Anne Sexton*
 
 ### On maturity
 

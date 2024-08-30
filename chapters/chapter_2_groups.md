@@ -46,7 +46,7 @@ Be interested to be interesting. Don’t debate at all. Just listen. The point o
 
 Hints:
 
-- Listen. Mirroring or paraphrase: Repeat the last 1-3 words the person just said as a question or repeat what they just said in your own words. (Yes, it’s that simple). Seek to understand before seeking to be understood. Don’t worry about what you’re going to say next. Speak what’s in your mind, sometimes it backfires, but be real. The best conversationalists are the best listeners. Be interested to be interesting. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..  
+- Listen. Mirroring or paraphrase: Repeat the last 1-3 words the person just said as a question or repeat what they just said in your own words. (Yes, it’s that simple). Seek to understand before seeking to be understood. Don’t worry about what you’re going to say next. Speak what’s in your mind, sometimes it backfires, but be real. The best conversationalists are the best listeners. Be interested to be interesting. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..
 - Ask questions. Ask a question. Listen to the answer. Respond in the form of a statement. No one is boring. They’re only boring because you haven’t asked the right questions. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but cF\rucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
 - Stop trying to impress. Focus on being interested instead of being interesting. Controlling the impression that you make on others takes a large amount of cognitive bandwidth and it will appear as fake. Smile and relax. Warmth comes from smiling while you speak. Popular people always smile more. Calm is largely a matter of slowing your speech down. Treat new aquaintances as old friends. Don’t be stubborn. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow. Emphasize Similarity, we like people who are like us.
 - People believe in everything, if you whisper it.
@@ -147,7 +147,7 @@ Make networking an habit. Who you know and whether they like you will determine 
 - Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
 - Not what should I do next but who should you speak next?
 - Networking types: advocates a, boomerang b, celebrities c, drainers d  
-- Networking types: shark, dolphin, drowner.  
+- Networking types: shark, dolphin, drowner.
 - everyone has an invisible sign hanging from their neck saying, «Make me feel important». Never forget this message when working with people.
 -->
 
@@ -317,8 +317,8 @@ Hints:
 - Deliver a little bit more than expected. That’ll help to get you some recommendations.
 - Say «no» to nasty, time consuming and time wasting clients. Fire customers that cause you to much stress or that cost too much to service.
 - Entrepreneurs are more risk averse than general population. Budget pessimistically using the worst case scenario.
-- There’s the myth that failure makes you a better entrepreneur. This is false. Study your failures.  
-- Most companies don’t die because they run out of money.  
+- There’s the myth that failure makes you a better entrepreneur. This is false. Study your failures.
+- Most companies don’t die because they run out of money.
 
 <!--
 - In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
@@ -616,8 +616,8 @@ Hints:
 - Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
 - Self improvement: «Did you give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
 - Autority: «Kid: why do I have to do this? You: I was a boy myself. I know why is important.»  
-- Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).  
-- Deal with failure: «How did you fail today?» The best gift you can give your children is failure. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar. Parents prevent their kid from dying but as they get older they shouldn’t prevent them from living.  
+- Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).
+- Deal with failure: «How did you fail today?» The best gift you can give your children is failure. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar. Parents prevent their kid from dying but as they get older they shouldn’t prevent them from living.
 
 > *"My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect."  
 -- Ivy Baker Priest*
@@ -1279,7 +1279,7 @@ Most people approach each and every year in the exact same way while expecting d
 > *"A serious and good philosophical work could be written consisting entirely of jokes."  
 -- Ludwig Wittgenstein*
 
-Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
+Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated. The truer the things they say, the funnier they are. 
 
 > *"The only intelligent tactical response to life’s horror is to laugh defiantly at it."  
 -- Soren Kierkegaard*
@@ -1356,8 +1356,8 @@ Focus on what you can give. However, after taking first steps, mirror their beha
 
 Hints:
 
-- If you are lonely when you are not alone, you are in bad company.  
-- If a person is nice to you and to nobody else, that person is not nice.  
+- If you are lonely when you are not alone, you are in bad company.
+- If a person is nice to you and to nobody else, that person is not nice.
 - Trust and vulnerability are correlated. Don’t hide your feelings from people who show you theirs.
 - Supporting helps people grow and builds healthy relationships. Fixing manipulates people and builds resentment and/or co-dependency.
 - Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
@@ -1391,7 +1391,7 @@ Hints:
 
 Life is meant to be lived in community but don’t settle for a place where you’re tolerated. Go where you’re celebrated.
 
-Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.  
+Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
 
 > *"When everything goes to hell, the people who stand by you without flinching, they are your family."  
 -- Jim Butcher*
@@ -1422,16 +1422,16 @@ If you’re always the smartest in the room, you’re in the wrong room. When yo
 
 Hints:
 
-- If your absence doesn’t bother them, your presence never mattered.  
-- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are. People who genuinely want the best for you are very rare and they are usually already wealthy, loved and happy.  
-- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.  
+- If your absence doesn’t bother them, your presence never mattered.
+- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are. People who genuinely want the best for you are very rare and they are usually already wealthy, loved and happy.
+- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.
 - Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
 - You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
-- It’s ok to unfollow people in real life. Don’t let your loneliness tempt you to reconnect with toxic people. You wouldn’t drink poison just because you’re thirsty.  
-- Pay attention to who you’re with when you feel your best.  
-- Be suspicious of people who like being owed a favor. Especially if it is not a favor you requested.  
-- Maintain old friendships.   
-- Bad friends will prevent you from having good friends.  
+- It’s ok to unfollow people in real life. Don’t let your loneliness tempt you to reconnect with toxic people. You wouldn’t drink poison just because you’re thirsty.
+- Pay attention to who you’re with when you feel your best.
+- Be suspicious of people who like being owed a favor. Especially if it is not a favor you requested.
+- Maintain old friendships. 
+- Bad friends will prevent you from having good friends.
 - You only grow apart from people who don't grow.
 
 > *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you." (...)  
@@ -1576,7 +1576,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
 -- Alessandra Torre*
 
-Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.  
+Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.
 
 > *"Man is loved mainly because of two virtues: courage first, loyalty second."  
 -- Gaius Lucilius*
@@ -2082,7 +2082,7 @@ Hints:
 
 - Leaders are embassadors of their teams. They can delegate culture keeping but not culture creation. 
 - If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.
-- Best leaders are leaders that grew up in the hierarchy.  
+- Best leaders are leaders that grew up in the hierarchy.
 - People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
 > *"Leadership is not about being followed, is about being first."  
@@ -2133,7 +2133,7 @@ Managing is delegating. A great manager is a great facilitator. His responsabili
 
 Hints:
 
-- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?» The speed that you offload your stuff will be the speed of your team.  
+- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?» The speed that you offload your stuff will be the speed of your team.
 - Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you’re occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
 - Spend one hour a day communicating to your people and everything will be OK.
 - Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
@@ -2209,8 +2209,8 @@ If you can’t say no, schedule for the afternoon and preferably as walking meet
 
 Hints:
 
-- Start with an overachieving question: «how can we raise sales by 20%?».  
-- Do not share your opinion before asking for input from your team. Lower ranked people should speak first.  
+- Start with an overachieving question: «how can we raise sales by 20%?».
+- Do not share your opinion before asking for input from your team. Lower ranked people should speak first.
 - Tell the bad news promptly. Good news can wait. (Berkshire policy)
 - People can’t remember more than 3 points from a speech.
 - Instead of PowerPoints use «narratives» — four-to-six page memos that employees read and discuss together. (Jeff Bezos)
@@ -2320,7 +2320,7 @@ You make yourself rare by combining two or more relevant «pretty goods». Capit
 
 - use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
 - stuff that looks fun for you and looks like work for others.
-- take risks to boost your immune system.  
+- take risks to boost your immune system.
 
 > *"Your income is directly proportional to the need for what you do and your ability to do it."  
 -- Jim Rohn*
@@ -2335,8 +2335,8 @@ Employees have no control over their futures. The economy forces all the risk on
 
 Hints:
 
-- When you sell your ability to deliver results nobody asks about your skillset. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.  
-- Rich people get paid by project and pay by the hour.  
+- When you sell your ability to deliver results nobody asks about your skillset. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
+- Rich people get paid by project and pay by the hour.
 - The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.
 
 > *"A taste of freedom can make you unemployable." (...)  
@@ -2354,7 +2354,7 @@ Hints:
 
 Hints:
 
-- To be an entrepreneur you need to know a little about a lot of things.  
+- To be an entrepreneur you need to know a little about a lot of things.
 - To be employed, if you pick the right specialization, you’ll do better as a specialist.
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 
@@ -2632,8 +2632,8 @@ You’re either part of the solution or part of the problem.
 
 Hints:
 
-- Use «we». Mean it and take responsability.  
-- Bring options to the table. It’s easier to negotiate down.  
+- Use «we». Mean it and take responsability.
+- Bring options to the table. It’s easier to negotiate down.
 
 > *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
 "Your best response to an insult is «you’re probably right». Often they are."  

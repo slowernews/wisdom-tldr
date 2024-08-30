@@ -101,14 +101,16 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 
 Hints:
 
-- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.  
-- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.  
-- Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.  
-- The trouble with setting goals is that you're constantly working toward what you used to want. Old keys won't open new doors.  
-- It’s easier to ask forgiveness than to get permission.  
+- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.
+- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.
+- Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.
+- The trouble with setting goals is that you're constantly working toward what you used to want. Old keys won't open new doors.
+- It’s easier to ask forgiveness than to get permission.
 - We say we try to get better but if look at your behaviour you'll see you actually are trying to to stay the same.
-- Focus on financial freedom first. Put your happiness before goals.  
-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
+- Focus on financial freedom first. Put your happiness before goals.
+
+> *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment."  
+-- Jim Rohn*
 
 > *"Life is either a daring adventure or nothing at all."  
 -- Helen Keller*
@@ -128,7 +130,7 @@ Hints:
 "If you need inspiration, don't do it."  
 -- Elon Musk*
 
-> *"If the path is clear, you're probably on someone else's ."  
+> *"If the path is clear, you're probably on someone else's."  
 -- Carl Jung*
 
 > *"Take advantage of the opportunities - that’s probably more important than charting your path."  
@@ -221,6 +223,9 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"  
 -- Maya Angelou*
 
+> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
+-- Viktor Frankl*
+
 ### On fate
 
 > *"A man’s character is his fate."  
@@ -275,11 +280,11 @@ Stop looking for happiness in the same place where you lost it.
 
 Hints:
 
-- Regrets of the dying: don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.  
-- Happiness is outside of your comfort zone.  
-- We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.  
-- I’m a straight capitalist-meritocratist, entirely driven by gratitude. The richer you get the more expensive happiness becomes.  
-- Amor fati. True wisdom comes from accepting fate. High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.  
+- Regrets of the dying: don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
+- Happiness is outside of your comfort zone.
+- We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.
+- I’m a straight capitalist-meritocratist, entirely driven by gratitude. The richer you get the more expensive happiness becomes.
+- Amor fati. True wisdom comes from accepting fate. High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.
 
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli*
