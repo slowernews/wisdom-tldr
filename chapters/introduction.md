@@ -22,22 +22,25 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 > *"How we spend our days is how we spend our lives."  
 -- Annie Dillard*
 
+> *"What do you really despise? By this you are truly known."  
+-- Frank Herbert*
+
 ### The real you
 
 <!--
-The ultimate question: Do you want you son/daughter to date someone like you?
+- The ultimate question: Do you want you son/daughter to date someone like you?
 -->
 
-You are under no obligation to keep being the same person you used to be. Your new life will cost you your old one. Do not fear your own potential.
+Your new life will cost you your old one. Do not fear your own potential.
+
+> *"You’re under no obligation to be the same person you were five minutes ago."  
+-- Alan Watts*
 
 > *"All men die, but not every man lives."  
 -- William Wallace*
 
 > *"To live is the rarest thing in the world. Most people just exist."  
 -- Oscar Wilde* 
-
-> *"It is better to be hated for what you are than to be loved for what you are not."  
--- André Gide*
 
 > *"You are not a drop in the ocean. You are the entire ocean in a drop."  
 -- Rumi*
@@ -89,18 +92,23 @@ No matter where you are in your life, you have the power to change everything in
 ---
 ## On finding your path
 
-<!--
-- I may not be where I want to be, but thank god i'm not where I use to be.
--->
-
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
 
 The path will be revealed as you start walking.
 
-Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. 
+Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you're not where you use to be.
 
-     DESTINY = EFFORT + SURRENDER
+Hints:
+
+- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.  
+- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.  
+- Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.  
+- The trouble with setting goals is that you're constantly working toward what you used to want. Old keys won't open new doors.  
+- It’s easier to ask forgiveness than to get permission.  
+- We say we try to get better but if look at your behaviour you'll see you actually are trying to to stay the same.
+- Focus on financial freedom first. Put your happiness before goals.  
+- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
 
 > *"Life is either a daring adventure or nothing at all."  
 -- Helen Keller*
@@ -109,11 +117,9 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 -- Soren Kierkegaard*
 
 > *"You goal in life is to be able to say on the day before you die that you have fully become yourself." (...)  
-"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
+"Copying others is a good way to start. Copying yourself is a disappointing way to end." (...)  
+"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."  
 -- Kevin Kelly*
-
-> *"A man’s character is his fate."  
--- Heraclitus*
 
 > *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."  
 -- E.B. White*
@@ -137,23 +143,23 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland*
 
-> *"A person often meets his destiny on the road he took to avoid it."  
--- Jean de La Fontaine*
-
-> *"I can think, I can wait and I can fast."  
--- Siddahrta*
-
 > *"The obstacle is the way."  
 -- Marcus Aurelius*
-
-> *"The best way out is always through."  
--- Robert Frost*
 
 > *"In the middle of difficulty lies opportunity."  
 -- Albert Einstein*
 
+> *"The best way out is always through."  
+-- Robert Frost*
+
 > *"You can, you should, and if you’re brave enough to start, you will."  
 -- Stephen King*
+
+> *"If someone says can’t, that shows you what to do."  
+-- John Cage*
+
+> *"If you can't, you must. If you must, you can."  
+-- Tony Robbins*
 
 > *"Don’t argue your path with other people. Walk it."  
 -- Lazy Yogi*
@@ -161,33 +167,36 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"The question is not who is going to let me; it’s who is going to stop me."  
 -- Ayn Rand*
 
-> *"If someone says can’t, that shows you what to do."  
--- John Cage*
-
 > *"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."  
 -- Friedrich Nietzsche*
 
-> *"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is." (...)  
-"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  
--- Kevin Kelly*
-
 > *"We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change." (...)  
-"Move to a place that feels strange until it feels like home. constantly learning and growing. then do it again, pursuing disconfort, until the whole world is my home."  
+"Move to a place that feels strange until it feels like home. Constantly learning and growing. then do it again, pursuing disconfort, until the whole world is my home."  
 -- Derek Sivers*
 
 > *"Every great life has had in it a great renunciation."  
 -- Zan Perrion*
 
-> *"If you can't, you must. If you must, you can."  
--- Tony Robbins*
+> *"I am free and that is why I am lost."  
+-- Franz Kafka*
+
+> *"I can think, I can wait and I can fast."  
+-- Siddahrta*
 
 ### On ambition
 
+<!--
+- If you’re not trying to make money, what are you even doing?
+-->
+
+> *"The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life." (...)  
+"I'm not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
+-- Naval Ravikant*
+
+Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
+
 > *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
 -- Mark Manson*
-
-> *"I'm not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
--- Naval Ravikant*
 
 > *"To the mediocre, mediocrity appears great."  
 -- Proverb*
@@ -200,21 +209,10 @@ Cancel your pity party, no one is coming to save you. Pull yourself together and
 > *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
 -- Abraham Maslow*
 
-Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
+> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
+-- Oscar Wilde*
 
-Hints:
-
-- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.  
-- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.  
-- Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.  
-- The trouble with setting goals is that you're constantly working toward what you used to want. Old keys won't open new doors.  
-- It’s easier to ask forgiveness than to get permission.  
-- We say we try to get better but if look at your behaviour you'll see you actually are trying to to stay the same.
-- Focus on financial freedom first. Put your happiness before goals.  
-- “We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment.”
-
-> *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you." (...)  
-"The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life."  
+> *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you."  
 -- Naval Ravikant*
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
@@ -222,6 +220,19 @@ Hints:
 
 > *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"  
 -- Maya Angelou*
+
+### On fate
+
+> *"A man’s character is his fate."  
+-- Heraclitus*
+
+     DESTINY = EFFORT + SURRENDER
+
+> *"The possibilities are numerous once we decide to act and not react."  
+-- George Bernard Shaw*
+
+> *"A person often meets his destiny on the road he took to avoid it."  
+-- Jean de La Fontaine*
 
 ### On the wrong paths
 
@@ -234,11 +245,8 @@ Hints:
 > *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn't the answer. It just gave us a glimpse of the possibility."  
 -- John Lennon*
 
-> *"The possibilities are numerous once we decide to act and not react."  
--- George Bernard Shaw*
-
-> *"I am free and that is why I am lost."  
--- Franz Kafka*
+> *"What’s right is what’s left if you do everything else wrong."  
+-- Robin Williams*
 
 
 
@@ -247,11 +255,6 @@ Hints:
 
 ---
 ## On happiness
-
-<!--
-> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
--- Oscar Wilde*
--->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
 -- Mahatma Gandhi*
@@ -266,40 +269,33 @@ Happiness is a mind state where nothing is missing.
 > *"Success is getting what you want. Happiness is wanting what you get."  
 -- Dale Carnegie*
 
-> *"Happiness in intelligent people is the rarest thing I know."  
--- Ernest Hemingway*
-
 ### How to find happiness?
 
 Stop looking for happiness in the same place where you lost it.
 
 Hints:
 
-- amor fati. true wisdom comes from accepting fate.  
-- Regrets of the dying: Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.  
-- High expectations make you miserable, expectations nowadays are more and more triggered by top of hierarchy being more exposed.  
-- Focus on internal fulfillment not external success.  
-- Happiness is outside of my comfort zone.  
-- I’m a straight capitalist-meritocratist, entirely driven by gratitude.  
-- The richer you get the more expensive happiness becomes.  
-- We only stay happy, productive and inspired when we uncover our true personality.  
-- Doing what you like is freedom. liking what you do is happiness.
+- Regrets of the dying: don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.  
+- Happiness is outside of your comfort zone.  
+- We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.  
+- I’m a straight capitalist-meritocratist, entirely driven by gratitude. The richer you get the more expensive happiness becomes.  
+- Amor fati. True wisdom comes from accepting fate. High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.  
 
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli*
+
+> *"The happiness of your life depends upon the quality of your thoughts." (...)  
+"Almost nothing material is needed for a happy life, for he who has understood existence."  
+-- Marcus Aurelius*
+
+> *"Many people lose the small joys in the hope for the big happiness."  
+-- Pearl S. Buck*
 
 > *"The rise is always better than the peak."  
 -- Jim Jefferies*
 
 > *"The minute you’re satisfied with where you are, you aren’t there anymore."  
 -- Tony Gwynn*
-
-> *"Many people lose the small joys in the hope for the big happiness."  
--- Pearl S. Buck*
-
-> *"The happiness of your life depends upon the quality of your thoughts." (...)  
-"Almost nothing material is needed for a happy life, for he who has understood existence."  
--- Marcus Aurelius*
 
 > *"Money can’t make rich people happy but it can make poor people happy." (...)  
 "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned." (...)  
@@ -316,14 +312,14 @@ Hints:
 > *"One of the keys to happiness is a bad memory."  
 -- Rita Mae Brown*
 
+> *"Melancholy is the happiness of being sad."  
+-- Victor Hugo*
+
+> *"Happiness in intelligent people is the rarest thing I know."  
+-- Ernest Hemingway*
+
 > *"Angels can fly because they can take themselves lightly."  
 -- G.K. Chasterton*
 
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
 -- Robert A. Heinlein*
-
-> *"Melancholy is the happiness of being sad."  
--- Victor Hugo*
-
-> *"The quality of your life is determined by the quality of the questions you ask. It’s as simple as that. Small minds sit in answers, great minds sit in questions. Always ask the greater questions and nevermore the small."  
--- Zan Perrion*

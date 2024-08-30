@@ -23,38 +23,39 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *On foundations*
 - [On autonomy](/chapters/chapter_1_self.md#on-autonomy)
-- [On authenticity](/chapters/chapter_1_self.md#on-authenticity)
-- [On accountability](/chapters/chapter_1_self.md#on-accountability)
+- [On honesty](/chapters/chapter_1_self.md#on-honesty)
 - [On humility](/chapters/chapter_1_self.md#on-humility)
-- [On agency](/chapters/chapter_1_self.md#on-agency)
-- [On resilience](/chapters/chapter_1_self.md#on-resilience)
+- [On drive](/chapters/chapter_1_self.md#on-drive)
 
 *On growth*
 - [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
 - [On improving](/chapters/chapter_1_self.md#on-improving)
-- [On mastery](/chapters/chapter_1_self.md#on-achieving-mastery)
+- [On wisdom](/chapters/chapter_1_self.md#on-wisdom)
+- [On education](/chapters/chapter_1_self.md#on-education)
+- [On reading](/chapters/chapter_1_self.md#on-reading)
+- [On writing](/chapters/chapter_1_self.md#on-writing)
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 
+*On envy triggers*
+- [On talent](/chapters/chapter_2_groups.md#on-talent)
+- [On wealth](/chapters/chapter_2_groups.md#on-wealth)
+- [On popularity](/chapters/chapter_2_groups.md#on-popularity)
+- [On luck and risk](/chapters/chapter_2_groups.md#on-luck-and-risk)
+- [On beauty and style](/chapters/chapter_2_groups.md#on-beauty-and-style)
+- [On health](/chapters/chapter_2_groups.md#on-health)
+- [On lifestyle](/chapters/chapter_2_groups.md#on-lifestyle)
+- [On success](/chapters/chapter_2_groups.md#on-success)
+
 *On your worst enemy: yourself*
-- [On stress and health](/chapters/chapter_1_self.md#on-stress-and-health)
-- [On fear and excuses](/chapters/chapter_1_self.md#on-fear-and-excuses)
-- [On failure, mistakes and anger](/chapters/chapter_1_self.md#on-failure-mistakes-and-anger)
-- [On shame, confidence and validation](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
+- [On stress](/chapters/chapter_1_self.md#on-stress-and-health)
+- [On fear](/chapters/chapter_1_self.md#on-fear-and-excuses)
+- [On failure](/chapters/chapter_1_self.md#on-failure-mistakes-and-anger)
+- [On shame](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
 - [On jealousy and envy](/chapters/chapter_1_self.md#on-jealousy-and-envy)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
-- [On self awareness](/chapters/chapter_1_self.md#on-self-awareness)
 - [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
-
-*On envy triggers*
-- [On talent](/chapters/chapter_appendix.md#on-talent)
-- [On wealth](/chapters/chapter_appendix.md#on-wealth)
-- [On popularity](/chapters/chapter_appendix.md#on-popularity)
-- [On luck and risk](/chapters/chapter_appendix.md#on-luck-and-risk)
-- [On beauty and style](/chapters/chapter_appendix.md#on-beauty-and-style)
-- [On health](/chapters/chapter_appendix.md#on-health)
-- [On lifestyle](/chapters/chapter_appendix.md#on-lifestyle)
-- [On success](/chapters/chapter_appendix.md#on-success)
+- [On growing old](/chapters/chapter_3_action.md#on-growing-old)
 
 
 
@@ -72,18 +73,33 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On mentorship](/chapters/chapter_2_groups.md#on-mentorship)
 - [On generosity and incentives](/chapters/chapter_2_groups.md#on-generosity-and-incentives)
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
-- [On society and politics](/chapters/chapter_2_groups.md#on-society-and-politics)
-- [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
 
-*On competition*
-- [On opponents and allies](/chapters/chapter_2_groups.md#on-opponents-and-allies)
-- [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
+*On society*
+- [On politics](/chapters/chapter_2_groups.md#on-society-and-politics)
+- [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
+- [On humanness and irrationality](/chapters/chapter_2_groups.md#on-humanness-and-irrationality)
+- [On comedy](/chapters/chapter_2_groups.md#on-comedy)
+- [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
+- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
+- [On marriage](/c2_groups.md#on-marriage)
+- [On religion](/chapters/chapter_2_groups.md#on-religion)
+- [On philosophy](/chapters/chapter_2_groups.md#on-philosophy)
+- [On science](/chapters/chapter_2_groups.md#on-science)
+- [On art](/chapters/chapter_2_groups.md#on-art)
+- [On aesthetics](/chapters/chapter_2_groups.md#on-aesthetics)
+- [On money management](/chapters/chapter_2_groups.md#on-money-management)
+- [On media](/chapters/chapter_2_groups.md#on-media)
+- [On maths, computers and AI](/chapters/chapter_2_groups.md#on-maths-computers-and-ai)
 
 *On teams*
 - [On leadership](/chapters/chapter_2_groups.md#on-leadership)
 - [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
 - [On career](/chapters/chapter_2_groups.md#on-career)
 - [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
+
+*On competition*
+- [On opponents and allies](/chapters/chapter_2_groups.md#on-opponents-and-allies)
+- [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
 
 
 
@@ -113,37 +129,10 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On quiting and surrendering](/chapters/chapter_3_action.md#on-quiting-and-surrendering)
 - [On forgiveness and revenge](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
 
-
-
-
-
-
-## Appendix
-
 *On time*
-- [On past and memory](/chapters/chapter_appendix.md#on-past-and-memory)
-- [On present](/chapters/chapter_appendix.md#on-present)
-- [On future](/chapters/chapter_appendix.md#on-future)
-- [On growing old](/chapters/chapter_appendix.md#on-growing-old)
-
-*Other*
-- [On wisdom](/chapters/chapter_appendix.md#on-wisdom)
-- [On comedy](/chapters/chapter_appendix.md#on-comedy)
-- [On humanness and irrationality](/chapters/chapter_appendix.md#on-humanness-and-irrationality)
-- [On family and friends](/chapters/chapter_appendix.md#on-family-and-friends)
-- [On lovers](/chapters/chapter_appendix.md#on-lovers)
-- [On marriage](/chapters/chapter_appendix.md#on-marriage)
-- [On religion](/chapters/chapter_appendix.md#on-religion)
-- [On philosophy](/chapters/chapter_appendix.md#on-philosophy)
-- [On science](/chapters/chapter_appendix.md#on-science)
-- [On art](/chapters/chapter_appendix.md#on-art)
-- [On aesthetics](/chapters/chapter_appendix.md#on-aesthetics)
-- [On money management](/chapters/chapter_appendix.md#on-money-management)
-- [On education](/chapters/chapter_appendix.md#on-education)
-- [On reading](/chapters/chapter_appendix.md#on-reading)
-- [On writing](/chapters/chapter_appendix.md#on-writing)
-- [On media](/chapters/chapter_appendix.md#on-media)
-- [On maths, computers and AI](/chapters/chapter_appendix.md#on-maths-computers-and-ai)
+- [On past and memory](/chapters/chapter_3_action.md#on-past-and-memory)
+- [On present](/chapters/chapter_3_action.md#on-present)
+- [On future](/chapters/chapter_3_action.md#on-future)
 
 
 
@@ -153,7 +142,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 ## TLDR
 
 > *"Fuck, don’t give a fuck and don’t be fucked over."  
--- Proverb*
+-- Unknown*
 
 Nine general advices:
 

@@ -57,6 +57,7 @@ Hints:
 <!--
 > *"The aim of argument, or of discussion, should not be victory, but progress."  
 -- Joseph Joubert*
+> *"The more we disagree, the more chance there is that at least one of us is right.*
 -->
 
 > *"Admit when you’re wrong. Shut up when you’re right."  
@@ -113,46 +114,6 @@ Hints:
 
 > *"Always say less than necessary."  
 -- Kevin Kelly*
-
-
-
-
-
-
----
-## On relationships
-
-<!--
-> *"Between what is said and not meant, and what is meant and not said, most of love is lost."  
--- Kahlil Gibran*
-
-- One day you're going to miss how much I cared.
--->
-
-> *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
--- Kevin Kelly*
-
-> *"Never allow someone to be your priority while allowing yourself to be their option."  
--- Mark Twain*
-
-Focus on what you can give. However, after taking first steps, mirror their behavior. Don’t cross oceans for people who wouldn’t even jump puddles for you.
-
-Hints:
-
-- If you are lonely when you are not alone, you are in bad company.  
-- If a person is nice to you and to nobody else, that person is not nice.  
-- Trust and vulnerability are correlated. Don’t hide your feelings from people who show you theirs.
-- Supporting helps people grow and builds healthy relationships. Fixing manipulates people and builds resentment and/or co-dependency.
-- Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
-
-> *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
--- Dream Hampton*
-
-> *"Play long-term games with long-term people. The secret to a happy relationship is two happy people. If you loose somebody for being yourself, then you never had them to begin with. Find a relationship where you, naturally being you, makes the other person happy and viceversa. The worst way to build a relationship is to try to build a relationship. The people you most want to impress can read your intentions."    
--- Naval Ravikant (paraphrased)*
-
-> *"Faults are thick where love where love is thin."  
--- Proverb*
 
 
 
@@ -783,6 +744,9 @@ Hints:
 
 ### On incentives
 
+> *"In nature there are neither rewards nor punishments, there are consequences."  
+-- Robert G. Ingersoll*
+
 Powerful people give freely, buying influence rather than things.
 
 Hints:
@@ -848,12 +812,13 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 
 
 ---
+# 2.2 - On society
+
 ## On society and politics
 
 <!--
 > *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
 -- Salman Rushdie*
-
 > *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
 -- Elie Wiesel*	
 > *"Não há direitos sem obrigações e viceversa."  -- E. Ferreira*
@@ -1054,6 +1019,8 @@ Hints:
 <!--
 > *"In order to think you have to risk being offensive."  
 -- Jordan Peterson*
+> *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."  
+-- Friedrich Nietzsche*
 
 - every snowflake is different but all snow is the same.
 -->
@@ -1142,7 +1109,7 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 -- Euripides*
 
 > *"Nothing is more terrible than to see ignorance in action."  
--- Goethe*
+-- J.W. Goethe*
 
 > *"Never attribute to malice that which can be adequately explained by neglect."  
 -- Hanlon’s Razor*
@@ -1179,6 +1146,9 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 
 <!--
 - your perception of me is a reflection of you
+
+> *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  
+-- Kevin Kelly*
 -->
 
 > *"Judge a man by his questions, not by his answers."  
@@ -1201,7 +1171,7 @@ Hints:
 -- Winston Churchill*
 
 > *"You can easily judge the character of a man by how he treats those who can do nothing for him."  
--- Goethe*
+-- J.W. Goethe*
 
 > *"Nearly all men can stand adversity, but if you want to test a man’s character, give him power."  
 -- Abraham Lincoln*
@@ -1228,155 +1198,57 @@ Hints:
 
 
 
-# 2.2 - On competition
-
-## On opponents and allies
+---
+## On humanness and irrationality
 
 <!--
-> *"Never offend people with style when you can offend them with substance."  
--- Sam Brown*
-> *"Só os mais corajosos conseguem fazer a paz."  
--- Trump*
-> *"All guns are loaded."  
--- Kevin Kelly*
-> *"Choose the neighbour before choosing the house."  
+> *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
 -- Proverb*
 
-- your competition isn't other people. Your competition is your proscrastination. Your ego. The unhealthy food you're consuming, the knowledge you neglect. The negative behaviour you're nurturing & your lack of creativity. Compete against that.
-- Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
-- i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
-- understand the difference of an adversary and an enemy to not accumulate enemys.
-- When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
-- Nietszche says to measure one’s strength by the number of parasites one can support.
-- surpass a gatekeeper: i’m x, i know your situation and how is the way i can make it the most confortable (safe) for you.
+- web3 assumes that people prefer privacy over free stuff, which is false.
+- If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
 -->
 
-> *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
--- Goethe*
+> *"If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy."  
+-- Robert Heinlein*
 
-Beware of all players.
+Most people approach each and every year in the exact same way while expecting drastically different results.
 
-People are amazing optimizers and will find any loopholes or gaps to their advantage. Only your parents will help you in a way that is prejudicial to them.
-
-> *"The world is divided between victims and predators, and you have to defend yourself against both."  
--- Florenz Baron*
-
-> *"The enemy is fear. We think it is hate, but it is fear."  
--- Ghandi*
-
-> *"Any person capable of angering you becomes your master."  
--- Epictetus*
-
-> *"Who lies for you will lie against you." (...)  
-"Talkers aren’t strong. The strong don’t talk."  
--- Proverbs*
-
-> *"Because she competes with no one, no one can compete with her."  
--- Lao Tzu*
-
-### On easy opponents
-
-Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
-
-> *"Despise the free lunch."  
--- Robert Greene (law of power)*
-
-> *"Sometimes one pays most for the things one gets for nothing." (...)  
-"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
--- Albert Einstein*
-
-> *"«El dorados» are never drawn in the map."  
+> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."  
 -- Unknown*
 
-> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
--- Warren Buffett*
+> *"The problem with people who have no vices is that generally you can be pretty sure they’re going to have some pretty annoying virtues."  
+-- Elizabeth Taylor*
 
-> *"Never assume that loud is strong and quiet is weak."  
--- Gurubogsa*
+> *"I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them»."  
+-- Anaïs Nin*
 
-### On desperate opponents
+> *"I always worried someone would notice me, and then when no one did, I felt lonely."  
+-- Curtis Sittenfeld*
 
-> *"Necessity knows no law." (...)  
-"Fear can make a donkey attack a lion."  
--- Proverbs*
+> *"I don’t want to be alone, I want to be left alone."  
+-- Audrey Hepburn*
 
-Beware of sad people.
+> *"Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they’ve all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe."  
+-- Neil Gaiman*
 
-Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
+> *"People aren’t either wicked or noble. They’re like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict."  
+-- Lemony Snicket*
 
-> *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
--- Balthasar Gracian*
+> *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."  
+-- Unknown*
 
-> *"Beware the fury of a patient man."  
--- John Dryden*
+> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
+-- Unknown*
 
-### On difficult opponents
+> *"Monkeys are superior to man in this: when a monkey looks into a mirror, he sees a monkey."  
+-- Chazal*
 
-The thougest competition is a good enough competitor.
+> *"The American people don't believe anything until they see it on television."  
+-- Richard Nixon*
 
-Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
-
-> *"Put all the meat in the barbecue."  
--- Jorge Jesus (soccer coach)*
-
-> *"Get others to do the work for you, but always take the credit." (...)  
-"Keep your hands clean."  
--- Robert Greene (Law of power)*
-
-> *"The best fighter is never angry."  
--- Lao Tzu*
-
-> *"Of all the bad men, religious bad men are the worst."  
--- C.S. Lewis*
-
-When nothing else works, surrender. Only use anger and go all in if you can see the end already.
-
-> *"Do I not destroy my enemies when I make them my friends?"  
--- Abraham Lincoln*
-
-### On allies
-
-The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
-
-Hint:
-
-- Buy from your community. Sell to outsiders.
-
-> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
--- Peter Kropotkin*
-
-> *"United we are rock, divided we are sand." (...)  
-"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd." (...)  
-"Hungry dogs are never loyal."  
--- Proverbs*
-
-> *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
--- Mark Twain*
-
-> *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
--- Paul Alexander*
-
-> *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
--- Balthasar Gracian*
-
-> *"The worst thing about betrayal is that it never comes from your enemies."  
--- The godfather*
-
-> *"I learned a long time ago the wisest thing I can do is be on my side."  
--- Maya Angelou*
-
-### On heros
-
-> *"Every society honors its live conformists and its dead troublemakers."  
--- Marshall McLuhan*
-
-> *"You either die a hero, or you live long enough to see yourself become the villain."  
--- Harvey Dent*
-
-Our heros are our idealized selfes.
-
-> *"Show me a hero, and I’ll write you a tragedy."  
--- F. Scott Fitzgerald*
+> *"There is no exception to the rule that everybody likes to be an exception to the rule."  
+-- Malcolm Forbes*
 
 
 
@@ -1384,33 +1256,789 @@ Our heros are our idealized selfes.
 
 
 ---
-## On conflicts
+## On comedy
 
-> *"War is what happens when language fails."  
--- Margaret Atwood*
+<!--
+> *"If you can smile when things go wrong, you have someone in mind to blame.*
+> *"The early bird may get the worm, but the second mouse gets the cheese.*
+> *"He who lives without folly is less wise than he believes.*
+> *"La que no es puta non desfruta."*
+> *"Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem."*
+> *"The four most expensive words in the English language: «This time is different»."  
+- which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
+> *"College is a fountain of knowledge...and the students are there to drink.*
+> *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients: Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I’m pregnant. Who did it?"*
+-->
 
-Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
+> *"Only the truth is funny."  
+-- Rick Reynolds*
 
-Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
+> *"Comedy is the art of telling forbidden truths, without getting beat out."  
+-- Naval Ravikant*
 
-### On conflict resolution
+> *"A serious and good philosophical work could be written consisting entirely of jokes."  
+-- Ludwig Wittgenstein*
 
-You’re either part of the solution or part of the problem.
+Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated.  The truer the things they say, the funnier they are. 
+
+> *"The only intelligent tactical response to life’s horror is to laugh defiantly at it."  
+-- Soren Kierkegaard*
+
+> *"The world is a tragedy to those who feel, but a comedy to those who think."  
+-- Horace Walpole*
+
+> *"I miss being the age when I thought I would have my shit together by the time I was the age I am now." (...)  
+"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)  
+"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
+"Society: Be yourself. Society: Not like that."  
+-- Proverbs*
+
+> *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
+-- Unknown (in San Francisco)*
+
+> *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
+-- Naval Ravikant*
+
+> *"«If i was your wife I would poison your coffee».  
+«If i was your husband I would drink it.»"  
+-- Winston Churchill*
+
+> *"The grass is always greener on the side that is fertilized with bullshit."  
+-- Morgan Housel*
+
+> *"Give me a museum and I’ll fill it."  
+-- Pablo Picasso*
+
+> *"When you’re up to your nose in shit, keep your mouth shut."  
+-- Jack Beauregard (fictional)*
+
+### Where is home?
+
+> *"Home is where the bra isn’t."  
+-- Unknown*
+
+> *"Home is where the parking lot is."  
+-- Unknown*
+
+### What is love?
+
+> *"What you call love was invented by guys like me to sell nylons."  
+-- Don Draper*
+
+> *"I really don’t know what «I love you» means. I think it means «don’t leave me here alone»."  
+-- Neil Gaiman*
+
+> *"I am a cage in search for a bird."  
+-- Franz Kafka*
+
+
+
+
+
+
+---
+## On relationships
+
+<!--
+> *"Between what is said and not meant, and what is meant and not said, most of love is lost."  
+-- Kahlil Gibran*
+
+- One day you're going to miss how much I cared.
+-->
+
+> *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
+-- Kevin Kelly*
+
+> *"Never allow someone to be your priority while allowing yourself to be their option."  
+-- Mark Twain*
+
+Focus on what you can give. However, after taking first steps, mirror their behavior. Don’t cross oceans for people who wouldn’t even jump puddles for you.
 
 Hints:
 
-- Use «we». Mean it and take responsability.  
-- Bring options to the table. It’s easier to negotiate down.  
+- If you are lonely when you are not alone, you are in bad company.  
+- If a person is nice to you and to nobody else, that person is not nice.  
+- Trust and vulnerability are correlated. Don’t hide your feelings from people who show you theirs.
+- Supporting helps people grow and builds healthy relationships. Fixing manipulates people and builds resentment and/or co-dependency.
+- Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
 
-> *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
-"Your best response to an insult is «you’re probably right». Often they are."  
+> *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
+-- Dream Hampton*
+
+> *"Play long-term games with long-term people. The secret to a happy relationship is two happy people. If you loose somebody for being yourself, then you never had them to begin with. Find a relationship where you, naturally being you, makes the other person happy and viceversa. The worst way to build a relationship is to try to build a relationship. The people you most want to impress can read your intentions."    
+-- Naval Ravikant (paraphrased)*
+
+> *"Faults are thick where love where love is thin."  
+-- Proverb*
+
+
+
+
+
+
+
+---
+## On family and friends
+
+> *"Your friends are the ones that go to your funeral in a day of rain."  
+-- Proverb*
+
+> *"True friendship can exist only between equals."  
+-- Plato*
+
+> *"If everybody loves you, something is wrong."  
+-- Paulo Coelho*
+
+Life is meant to be lived in community but don’t settle for a place where you’re tolerated. Go where you’re celebrated.
+
+Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.  
+
+> *"When everything goes to hell, the people who stand by you without flinching, they are your family."  
+-- Jim Butcher*
+
+> *"It is easier to forgive an enemy than to forgive a friend."  
+-- William Blake*
+
+> *"To lose one parent may be regarded as a misfortune; to lose both looks like carelessness." (...)  
+"A bore is someone who deprives you of solitude without providing you company."  
+-- Oscar Wilde*
+
+> *"I have nothing to offer anyone, except my own confusion."  
+-- Jack Kerouac*
+
+> *"At your funeral people will not recall what you did; they will only remember how you made them feel." (...)  
+"Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
+"Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
 -- Kevin Kelly*
 
-> *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
+> *"Routinely greeting six neighbours maximizes wellbeing."  
+-- Mr. Rogers*
+
+### How to curate your friends?
+
+You are the average of your friends.
+
+If you’re always the smartest in the room, you’re in the wrong room. When you enter a workplace, think that you will become like them and not the opposite.
+
+Hints:
+
+- If your absence doesn’t bother them, your presence never mattered.  
+- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are. People who genuinely want the best for you are very rare and they are usually already wealthy, loved and happy.  
+- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.  
+- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
+- You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
+- It’s ok to unfollow people in real life. Don’t let your loneliness tempt you to reconnect with toxic people. You wouldn’t drink poison just because you’re thirsty.  
+- Pay attention to who you’re with when you feel your best.  
+- Be suspicious of people who like being owed a favor. Especially if it is not a favor you requested.  
+- Maintain old friendships.   
+- Bad friends will prevent you from having good friends.  
+- You only grow apart from people who don't grow.
+
+> *"Cultivate 12 people who love you, because they are worth more than 12 million people who like you." (...)  
+"Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you." (...)  
+"Don’t loan money to a friend unless you are ready to make it a gift."  
+-- Kevin Kelly*
+
+> *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
+-- Mark Twain*
+
+> *"Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success."  
+-- Oscar Wilde*
+
+> *"When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun»."  
+-- Groucho Marx*
+
+> *"Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors."  
 -- Balthasar Gracian*
 
-> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
--- Seneca*
+> *"I don’t like that man. I must get to know him better."  
+-- Abraham Lincoln*
+
+> *"Brothers love each other when they are equally rich."  
+-- Unknown*
+
+> *"Spend your time in the company of geniuses, sages, children and books."  
+-- Naval Ravikant*
+
+
+
+
+
+
+---
+## On lovers
+
+<!--
+> *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  
+-- Osho*
+
+- Thank you for not loving me. It forced me to love myself.
+- Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
+- I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
+-->
+
+> *"We accept the love we think we deserve."  
+-- Stephen Chbosky*
+
+You attract what you are.
+
+Love is what happens to men and women that don’t know each other. Love doesn’t hurt, expectations do. Every person feels loved in a different form.
+
+Hints:
+
+- We fall in love with someone because of how they make us feel about ourselves.
+- We’re always looking for somebody that looks for us. First parents, then a lover. Screens give us 100% attention. Tech is a compensation.
+- Man’s loyalty is tested when he has everything. Woman’s loyalty is tested when her man has nothing.
+- Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
+- Relationships start with «can we talk» to «we need to talk». Once you start disliking someone, everything they do is irritating to you. A dirty dish by the sink can be a big marriage problem.
+- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
+
+### On falling in love
+
+> *"The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them."  
+-- Charles Bukowski*
+
+> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
+-- Ronald Colman*
+
+> *"The first sign of love: for men is timidity, in women it is courage."  
+-- Voltaire*
+
+> *"You haven’t been in love, if you haven’t let it ruin your life."  
+-- Sarah Hildebrand*
+
+> *"Real love doesn’t meet you at your best. It meets you in your mess."  
+-- J.S. Park*
+
+> *"Unless you love someone, nothing else makes any sense."  
+-- E.E. Cummings*
+
+> *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
+-- Joyce Benenson*
+
+### On love and romance
+
+> *"Love is the absence of judgement."  
+-- Dalai Lama*
+
+> *"Love is the triumph of imagination over intelligence."  
+-- H.L. Mencken*
+
+> *"Love is a flower, friendship a sheltering tree."  
+-- Samuel Taylor Coleridge*
+
+> *"The highest function of love is that it makes the loved one a unique and irreplaceable being."  
+-- Tom Robbins*
+
+> *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
+-- Emilie Autumn*
+
+> *"The measure of love is peace." (...)  
+"You can’t buy a real kiss."  
+-- Naval Ravikant*
+
+> *"Romance is the glamour which turns the dust of everyday life into a golden haze."  
+-- Elinor Glyn*
+
+> *"The very essence of romance is uncertainty."  
+-- Oscar Wilde*
+
+### On falling out of love
+
+> *"The love that lasts the longest is the love that is never returned."  
+-- W. Somerset Maugham*
+
+First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
+
+> *"That’s what careless words do. They make people love you a little less."  
+-- Arundhati Roy*
+
+> *"You must love in such a way that the person you love feels free."  
+-- Thich Nhat Hanh*
+
+> *"Our story has three parts: a beginning, a middle, and an end. And although this is the way all stories unfold, I still can’t believe that ours didn’t go on forever."  
+-- Nicholas Sparks*
+
+> *"True, unconditional love is the province of parents and saints."  
+-- Naval Ravikant*
+
+> *"Men experience many passions in a lifetime. One passion drives away the one before it."  
+-- Paul Newman*
+
+> *"Both men and women are desperate to revive a broken relationship, to re-create the great love affair they had at the beginning. The difference is that women try to do it while it is ongoing, and men try to do it when it is over."  
+-- Zan Perrion*
+
+> *"When poverty comes in the door love goes out the window."  
+-- Proverb*
+
+### What women value in men
+
+> *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
+-- Alessandra Torre*
+
+Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.  
+
+> *"Man is loved mainly because of two virtues: courage first, loyalty second."  
+-- Gaius Lucilius*
+
+> *"The classical definition of a gentleman: he never insulted anyone unintentionally."  
+-- James Crow*
+
+> *"If you can make a woman laugh, you can make her do anything."  
+-- Marilyn Monroe*
+
+> *"Why are women so much more interesting to men than men are to women?"  
+-- Virginia Woolf*
+
+> *"A suit to women is like lingerie to men."  
+-- Unknown*
+
+> *"Women sometimes forgive a man who forces the opportunity, but never a man who misses one."  
+-- Charles de Talleyrand-Perigord*
+
+> *"What do women want? (...) Every woman wants to be in a love story."  
+-- Zan Perrion*
+
+### What men value in women
+
+> *"No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful."  
+-- Eleanor Roosevelt*
+
+Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
+
+Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
+
+> *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
+-- Ian McEwan*
+
+
+
+
+
+
+---
+## On marriage
+
+> *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
+-- H.Harwood and R. Gore-Bro*
+
+Marry an happy person. Unhappy spouse, unhappy life.
+
+> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience."  
+-- Oscar Wilde*
+
+> *"He who marries for love without money has good nights and sorry days."  
+-- Ani Difranco*
+
+> *"You don’t marry a person, you marry a family."  
+-- Kevin Kelly*
+
+> *"If Apple sold you a product that failed 50% of the time, would you buy it?"  
+-- Esther Perel*
+
+> *"Don’t do it. You’ll regret it. The things you love about him now, you’ll hate in a few years."  
+-- Tom Ford (Movie)*
+
+> *"If men acted after marriage as they do during courtship, there would be fewer divorces and more bankruptcies."  
+-- Frances Rodman*
+
+> *"When a man steals your wife, there is no better revenge than to let him keep her."  
+-- Sacha Guitry*
+
+> *"It doesn’t much signify whom one marries, for one is sure to find out next morning it was someone else."  
+-- Will Rogers*
+
+> *"The happiest time of a person’s life is after his first divorce."  
+-- J.K. Galbraith*
+
+> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
+-- Warren Farrell (psychologist)*
+
+> *"As long as the bed shakes, the house will remain stable." (...)  
+"When poverty comes in the door, love goes out of the window." (...)  
+"Happy the marriage where the husband is the head and the wife the heart." (...)  
+"A good husband should be deaf and a good wife should be blind."  
+-- Proverbs*
+
+
+
+
+
+
+---
+## On religion
+
+<!--
+> *"The laws of nature are written by the hand of God in the language of mathematics*"  
+-- Galileo Galilei*
+> *"Hell is empty and all the devis are here."  
+-- William Shakespeare*
+-->
+
+> *"Science without religion is lame. Religion without science is blind."  
+-- Albert Einstein*
+
+> *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
+-- Nassim Taleb*
+
+And on the first day, men created god. Religion simplify ideas.
+Against facts there are no arguments. Against faith there are no facts.
+
+> *"I’d rather be in the mountains thinking of God than in church thinking about the mountains."  
+-- John Muir*
+
+> *"We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further."  
+-- Richard Dawkins*
+
+> *"God has no religion."  
+-- Mahatma Gandhi*
+
+> *"My religion is simple, my religion is kindness."  
+-- Dalai Lama*
+
+> *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."  
+-- Friedrich Nietzsche*
+
+> *"When you renounce something, you’re stuck to it forever."  
+-- Anthony de Mello*
+
+> *"Believe in the religion that has no name." (...)  
+"Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner."  
+-- Naval Ravikant*
+
+> *"People who want to share their religious views with you almost never want you to share yours with them."  
+-- Dave Barry*
+
+### On morality
+
+> *"Morality is the way that we would like the world to be, economics is the way that the world actually works."  
+-- Steven Levitt*
+
+> *"The cash register did more for human morality than the congregational church."  
+-- Charlie Munger*
+
+> *"The teachers of morality speak like angels, but live like men."  
+-- Sam Johnson*
+
+> *"Compassion is the basis of morality."  
+-- Arthur Schopenhauer*
+
+> *"Morality, like art, means drawing a line someplace."  
+-- Oscar Wilde*
+
+> *"There are causes worth dying for, but none worth killing for."  
+-- Albert Camus*
+
+> *"The first thing a man will do for his ideals is lie."  
+-- Joseph Schumpeter*
+
+> *"Men never do evil so cheerfully and completely as when they do it from religious conviction."  
+-- Blaise Pascal*
+
+> *"Fanaticism is always a sign of repressed doubt."  
+-- Carl Jung*
+
+
+
+
+
+
+---
+## On philosophy
+
+> *"The aim of philosophy is the logical clarification of thought. Philosophy is not a theory but an activity."  
+-- Ludwig Wittgenstein*
+
+Philosophy improves your intellectual rigor.
+
+> *"Some ideias are so stupid that only intellectuals believe them."  
+-- George Orwell*
+
+
+
+
+
+
+---
+## On science
+
+<!--
+- trust the science is the most anti-science statement ever. questioning science is how you do science.
+- theories are explanations, not predictions. prediction comes after the explanation
+- theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
+- science transforms raw materials (resources) into civilization.
+- future proof by avoiding dedicated hardware
+- making something social destroys truth of it because social groups need consensus to survive - otherwise they fight and can’t get along - and consensus is all about truth seeking.
+- social sciences need to appeal to society for funding so they are politically motivated.
+- the real diversity that matters is diversity of ideas not diversity of skin color.
+- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition.
+- wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
+- enlightment was a revolution in how people sought knowledge : by trying not to rely on authorithy.
+- Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+- look at ideas individually not at the ism
+- the world as your lab. if you do stuff scientifically you can do it right next time also
+1. Engineering is done with numbers. Analysis without numbers is only an opinion.
+2. To design a spacecraft right takes an infinite amount of effort. This is why it’s a good idea to design them to operate when some things are wrong .
+3. Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
+4. Your best design efforts will inevitably wind up being useless in the final design. Learn to live with the disappointment.
+7. At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.
+8. In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.
+9. Not having all the information you need is never a satisfactory excuse for not starting the analysis.
+10. When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.
+11. Sometimes, the fastest way to get to the end is to throw everything out and start over.
+12. There is never a single right solution. There are always multiple wrong ones, though.
+13. Design is based on requirements. There’s no justification for designing something one bit "better" than the requirements dictate.
+16. The previous people who did a similar analysis did not have a direct pipeline to the wisdom of the ages. There is therefore no reason to believe their analysis over yours. There is especially no reason to present their analysis as yours.
+17. The fact that an analysis appears in print has no relationship to the likelihood of its being correct.
+20. A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
+23. The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
+27. (Varsi’s Law) Schedules only move in one direction.
+29. (von Tiesenhausen’s Law of Program Management) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.
+30. (von Tiesenhausen’s Law of Engineering Design) If you want to have a maximum effect on the design of a new engineering system, learn to draw. Engineers always wind up designing the vehicle to look like the initial artist’s concept.
+31. (Mo’s Law of Evolutionary Development) You can’t get to the moon by climbing successively taller trees.
+32. (Atkin’s Law of Demonstrations) When the hardware is working perfectly, the really important visitors don’t show up.
+33. (Patton’s Law of Program Planning) A good plan violently executed now is better than a perfect plan next week.
+34. (Roosevelt’s Law of Task Planning) Do what you can, where you are, with what you have.
+35. (de Saint-Exupery’s Law of Design) A designer knows that they have achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
+37. (Henshaw’s Law) One key to success in a mission is establishing clear lines of blame.
+40. (McBryan’s Law) You can’t make it better until you make it work.
+41. There’s never enough time to do it right, but somehow, there’s always enough time to do it over.
+43. You really understand something the third time you see it (or the first time you teach it.)
+44. (Lachance’s Law) "Plenty of time" becomes "not enough time" in a very short time.
+-->
+
+> *"The whole of science is nothing more than a refinement of everyday thinking." (...)  
+"The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms."  
+-- Albert Einstein*
+
+Science is the study of truth. Science is about disproving, not proving. Everything that is not a law of nature is just a shared belief.
+
+Technology is applied science.
+
+> *"Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought."  
+-- Albert Szent-Gyorgyi*
+
+> *"The most exciting phrase to hear in science is not «Eureka!» but «That’s funny...»"  
+-- Isaac Asimov*
+
+> *"The imagination of nature is far, far greater than the imagination of man."  
+-- Richard Feynman*
+
+> *"Technological progress is like an ax in the hands of a pathological criminal." (...)  
+"Science is a wonderful thing if one does not have to earn one’s living at it." (...)  
+"If we knew what it was we were doing, it would not be called research, would it?"  
+-- Albert Einstein*
+
+> *"What is research but a blind date with knowledge?"  
+-- Will Harvey*
+
+> *"Nature, to be commanded, must be obeyed."  
+-- Francis Bacon*
+
+> *"Science advances one funeral at a time."  
+-- Max Planck*
+
+> *"Aha moment: The moment of understanding when two smaller truths connect and a greater truth is revealed." (...)
+"Science requires skepticism. Religion requires belief." (...)  
+"Scientists who support silencing opposing voices are actually priests."  
+-- Naval Ravikant*
+
+> *"The price of success in philosophy is triviality."  
+-- C. Glymour*
+
+> *"Everything that can be invented has been invented."  
+-- Charles Duell (director of us patent office)*
+
+> *"Science is organized knowledge. Wisdom is organized life."  
+-- Immanuel Kant*
+
+
+
+
+
+
+---
+## On art
+
+> *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
+-- Donald Knuth*
+
+Art is a meditation and design is a negotiation. Art is just another form of screaming, it should confort thedisturbed and disturb the confortable. Life imitates art. Creators don’t separate from their work, because they are their work.
+
+Artistic death is made by consensus.
+
+> *"All art is erotic." (...)  
+"Art washes away from the soul the dust of everyday life." (...)  
+"Art is the lie that enables us to realize the truth."  
+-- Pablo Picasso*
+
+> *"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings."  
+-- Robert Benchley*
+
+> *"Poets are damned but see with the eyes of angels."  
+-- Allen Ginsberg*
+
+> *"Poetry is what gets lost in translation."  
+-- Robert Frost*
+
+> *"Art is the absence of fear."  
+-- Erykah Badu*
+
+> *"Art is the elimination of the unnecessary."  
+-- Pablo Picasso*
+
+> *"If you create it for yourself, it’s art. If you create it for others, it’s business."  
+-- Naval Ravikant*
+
+> *"Art should comfort the disturbed and disturb the confortable."  
+-- Banksy*
+
+### On artists
+
+> *"No artist tolerates reality."  
+-- Friedrich Nietzsche*
+
+> *"The role of the artist is to ask questions, not to answer them."  
+-- Anton Chekhov*
+
+> *"To be an artist, you have to give up everything, including the desire to be a good artist."  
+-- Jasper Johns*
+
+> *"An artist is not paid by his work but by his vision."  
+-- James Whistler*
+
+> *"An artist discovers his genious the day he dares not to please."  
+-- Andre Malraux*
+
+> *"Anybody with artistic ambitions is always trying to reconnect with the way they saw things as child."  
+-- Tim Burton*
+
+> *"To be an artist, you need to live in a world of silence."  
+-- Louise Bourgeois*
+
+### On aesthetics
+
+<!--
+- our goal is to discover the beauty that is held within the age of upcycling.
+-->
+
+> *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
+-- Antoine de Saint-Exupéry*
+
+Most people with good taste are young and poor.
+
+The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment. 
+
+> *"Form follows profit is the aesthetic principle of our times."  
+-- Richard Rogers*
+
+> *"Good taste is easy. What’s challenging is to be close to vulgarity."  
+-- Adam Caruso*
+
+> *"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."  
+-- Edsger Dijkstra*
+
+> *"There is no exquisite beauty without some strangeness in the proportion."  
+-- Edgar Allan Poe*
+
+> *"Sharpness is a bourgeois concept."  
+-- Henri Cartier-Bresson*
+
+> *"Limit everything to the essential but do not remove the poetry."  
+-- Dieter Rams*
+
+
+
+
+
+
+---
+## On media
+
+<!--
+> *"Broadcast TV is not designed for you; it’s designed for advertisers.*
+> *"Freedom of the press is for those who happen to own one.*
+- engagement media
+-->
+
+> *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
+-- George Orwell*
+
+News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
+
+> *"The clash of ideas is the sound of freedom."  
+-- Lady Bird Johnson*
+
+> *"The goal of media is to make every problem, your problem." (...)  
+"Journalists aren’t neutral, they’re the cavalry of culture wars." (...)  
+"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation." (...)  
+"If you’re writing for your followers, your followers are worthless."  
+-- Naval Ravikant*
+
+> *"Your job is to get your audience to care about your obsessions."  
+-- Martin Scorsese*
+
+> *"The media is always accurate, except when they are talking about things I know."  
+-- Knoll’s law*
+
+### On privacy
+
+Privacy is power. What people don't know they can't ruin. 
+
+
+
+
+
+
+---
+## On maths, computers and AI
+
+<!--
+- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
+- llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
+- Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
+- hash is a fingerprint of an amount of information. SHA256 -> 64 characters
+- blockchains are not personal-computing operational systems; they are social systems.
+- physics is the only law, everything else is a recommendation
+- 90% of webapps are database frontends.
+- a fundamental rule of technology: There is no third ecosystem
+- Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
+alan perlis - 1. One man’s constant is another man’s variable.
+alan perlis - 21. Optimization hinders evolution.
+alan perlis - 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+alan perlis - 105. You can’t communicate complexity, only an awareness of it.
+alan perlis - 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+-->
+
+> *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  
+-- Ellen Ullman*
+
+We’ve grown dependent on three simple features that just aren’t available in the analog world: search, sort and filter.
+
+> *"As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality."  
+-- Albert Einstein*
+
+> *"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."  
+-- John von Neumann*
+
+> *"Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigor should be a signal to the historian that the maps have been made, and the real explorers have gone elsewhere."  
+-- William S. Anglin*
+
+> *"Computers are useless. They can only give you answers."  
+-- Pablo Picasso*
+
+> *"One of the biggest mistakes we made was trying to automate things that are super easy for a person to do, but super hard for a computer to do." (...)  
+"We're already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow." (...)  
+"When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that."  
+-- Elon Musk*
+
+<!--
+---
+## On design
+
+> *"Good design: is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
+-- Dieter Rams (Ten principles for good design)*
+-->
 
 
 
@@ -1567,6 +2195,9 @@ Hints:
 > *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth." (...)  
 "Work on your tone. Often ideas are rejected because of the tone of voice they are wrapped in. Humility covers many blemishes."  
 -- Kevin Kelly*
+
+> *"Good advice is something a man gives when he is too old to set a bad example."  
+-- La Rouchefoucauld*
 
 Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
 
@@ -1822,3 +2453,194 @@ Hints:
 
 > *"Everybody wants to hire the best. Few of them actually pay them like they’re the best."  
 -- Naval Ravikant*
+
+
+
+
+
+
+---
+# 2.4 - On competition
+
+## On opponents and allies
+
+<!--
+> *"Never offend people with style when you can offend them with substance."  
+-- Sam Brown*
+> *"Só os mais corajosos conseguem fazer a paz."  
+-- Trump*
+> *"All guns are loaded."  
+-- Kevin Kelly*
+> *"Choose the neighbour before choosing the house."  
+-- Proverb*
+
+- Be willing to side with the minority.
+- your competition isn't other people. Your competition is your proscrastination. Your ego. The unhealthy food you're consuming, the knowledge you neglect. The negative behaviour you're nurturing & your lack of creativity. Compete against that.
+- Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
+- i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
+- understand the difference of an adversary and an enemy to not accumulate enemys.
+- When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
+- Nietszche says to measure one’s strength by the number of parasites one can support.
+- surpass a gatekeeper: i’m x, i know your situation and how is the way i can make it the most confortable (safe) for you.
+-->
+
+> *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
+-- J.W. Goethe*
+
+Beware of all players.
+
+People are amazing optimizers and will find any loopholes or gaps to their advantage. Only your parents will help you in a way that is prejudicial to them.
+
+> *"The world is divided between victims and predators, and you have to defend yourself against both."  
+-- Florenz Baron*
+
+> *"The enemy is fear. We think it is hate, but it is fear."  
+-- Ghandi*
+
+> *"Any person capable of angering you becomes your master."  
+-- Epictetus*
+
+> *"Who lies for you will lie against you." (...)  
+"Talkers aren’t strong. The strong don’t talk."  
+-- Proverbs*
+
+> *"Because she competes with no one, no one can compete with her."  
+-- Lao Tzu*
+
+### On easy opponents
+
+Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
+
+> *"Despise the free lunch."  
+-- Robert Greene (law of power)*
+
+> *"Sometimes one pays most for the things one gets for nothing." (...)  
+"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
+-- Albert Einstein*
+
+> *"«El dorados» are never drawn in the map."  
+-- Unknown*
+
+> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
+-- Warren Buffett*
+
+> *"Never assume that loud is strong and quiet is weak."  
+-- Gurubogsa*
+
+### On desperate opponents
+
+> *"Necessity knows no law." (...)  
+"Fear can make a donkey attack a lion."  
+-- Proverbs*
+
+Beware of sad people.
+
+Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
+
+> *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
+-- Balthasar Gracian*
+
+> *"Beware the fury of a patient man."  
+-- John Dryden*
+
+### On difficult opponents
+
+The thougest competition is a good enough competitor.
+
+Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
+
+> *"Put all the meat in the barbecue."  
+-- Jorge Jesus (soccer coach)*
+
+> *"Get others to do the work for you, but always take the credit." (...)  
+"Keep your hands clean."  
+-- Robert Greene (Law of power)*
+
+> *"The best fighter is never angry."  
+-- Lao Tzu*
+
+> *"Of all the bad men, religious bad men are the worst."  
+-- C.S. Lewis*
+
+When nothing else works, surrender. Only use anger and go all in if you can see the end already.
+
+> *"Do I not destroy my enemies when I make them my friends?"  
+-- Abraham Lincoln*
+
+### On allies
+
+The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
+
+Hint:
+
+- Buy from your community. Sell to outsiders.
+
+> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
+-- Peter Kropotkin*
+
+> *"United we are rock, divided we are sand." (...)  
+"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd." (...)  
+"Hungry dogs are never loyal."  
+-- Proverbs*
+
+> *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
+-- Mark Twain*
+
+> *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
+-- Paul Alexander*
+
+> *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
+-- Balthasar Gracian*
+
+> *"The worst thing about betrayal is that it never comes from your enemies."  
+-- The godfather*
+
+> *"I learned a long time ago the wisest thing I can do is be on my side."  
+-- Maya Angelou*
+
+### On heros
+
+> *"Every society honors its live conformists and its dead troublemakers."  
+-- Marshall McLuhan*
+
+> *"You either die a hero, or you live long enough to see yourself become the villain."  
+-- Harvey Dent*
+
+Our heros are our idealized selfes.
+
+> *"Show me a hero, and I’ll write you a tragedy."  
+-- F. Scott Fitzgerald*
+
+
+
+
+
+
+---
+## On conflicts
+
+> *"War is what happens when language fails."  
+-- Margaret Atwood*
+
+Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
+
+Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
+
+### On conflict resolution
+
+You’re either part of the solution or part of the problem.
+
+Hints:
+
+- Use «we». Mean it and take responsability.  
+- Bring options to the table. It’s easier to negotiate down.  
+
+> *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
+"Your best response to an insult is «you’re probably right». Often they are."  
+-- Kevin Kelly*
+
+> *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
+-- Balthasar Gracian*
+
+> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
+-- Seneca*

@@ -762,6 +762,8 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 <!--
 > *"The essential thing is to work in a state of mind that approaches prayer."  
+> *"Anything I cannot transform into something marvelous, I let go."  
+-- Anais Nin*
 
 - you will never reach your destination if you stop and throw stones at every dog that barks.
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
@@ -1188,7 +1190,7 @@ Hints:
 
 > *"A man is not deceived by others, he deceives himself." (...)  
 "The senses do not deceive; it is the judgment that deceives."  
--- Goethe*
+-- J.W. Goethe*
 
 > *"Appear weak when you are strong and strong when you are weak."  
 -- Sun Tzu*
@@ -1474,3 +1476,215 @@ If you don’t reconcile you’re postponing war.
 
 > *"Before you embark on a journey of revenge, dig two graves."  
 -- Confucius*
+
+
+
+
+
+
+---
+# 3.4 - Time
+
+## On past and memory
+
+<!--
+> *"The past is never dead. It's not even past."  
+-- William Faulkner*
+
+- history books are on the history of power.
+- o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
+- a historia muda. é uma questao de interpretação do que realmente aconteceu
+-->
+
+> *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
+-- José Saramago*
+
+Life becomes easy when you recognize the recurring patterns.
+
+> *"History is the study of change, ironically used as a map of the future."  
+-- Morgan Housel*
+
+> *"History does not repeat, but it does rhyme."  
+-- Mark Twain*
+
+> *"The historian is not really interested in the unique, but in what is general in the unique."  
+-- Edward Carr*
+
+> *"Life is understood backwards, but must be lived forwards."  
+-- Soren Kierkegaard*
+
+> *"The years teach much which the days never know."  
+-- Ralph Waldo Emerson*
+
+> *"There are decades when nothing happens and there are weeks when decades happen."  
+-- Vladimir Lenin*
+
+> *"Don’t bother fighting the old; just build the new."  
+-- Kevin Kelly*
+
+> *"If past history was all there was about the game, the richest people would be librarians."  
+-- Warren Buffett*
+
+> *"History is a race between education and catastrophe."  
+-- H.G. Wells*
+
+You are your memory.
+
+However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don’t be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
+
+> *"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist." (...)  
+"Changing your interpretation of your past is often just as good as changing your past."  
+-- Naval Ravikant*
+
+> *"This moment will just be another story someday."  
+-- Stephen Chbosky*
+
+> *"You never know the value of a moment until it becomes a memory."  
+-- Uknown*
+
+> *"Never regret something that once made you smile."  
+-- Amber Deckers*
+
+> *"Keep in mind that people change, but the past doesn’t."  
+-- Becca Fitzpatrick*
+
+> *"I don’t know any longer whether I’m living or remembering."  
+-- Albert Camus*
+
+> *"But how can you live and have no story to tell?"  
+-- Fyodor Dostoyevsky*
+
+> *"The worst part of holding the memories is not the pain. It’s the loneliness of it. Memories need to be shared."  
+-- Lois Lowry*
+
+> *"He’d wasted most of his life thinking he’d wasted most of his life."  
+-- Unknown*
+
+### How memory works?
+
+> *"A busy mind accelerates the perceived passage of time. Buy time by cultivating peace of mind."  
+-- Naval Ravikant*
+
+> *"It takes an huge effort to free yourself from memory."  
+-- Paulo Coelho*
+
+> *"You forget what you want to remember, and you remember what you want to forget."  
+-- Cormac McCarthy*
+
+> *"You don’t remember what happened. What you remember becomes what happened."  
+-- John Green*
+
+> *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
+-- Rosalind Cartwright*
+
+> *"Nostalgia is a seductive liar."  
+-- George Ball*
+
+> *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
+-- Unknown*
+
+### On tradition
+
+> *"Traditions are answers that have been discovered to enduring questions."  
+-- Sir Roger Scruton*
+
+
+
+
+
+
+---
+## On present
+
+<!--
+- 100 blocks a day -- wait but why
+- Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
+-->
+
+> *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
+-- Steve Jobs*
+
+You will die soon.
+
+Act accordingly and don’t postpone joy. Live life like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find it anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment.
+
+The elderly and dying invariably regret what they didn’t do, not what they did.
+
+> *"Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today."  
+-- James T. McKay*
+
+> *"Live as if you were to die tomorrow. Learn as if you were to live forever."  
+-- Mahatma Gandhi*
+
+> *"Either write something worth reading or do something worth writing."  
+-- Benjamin Franklin*
+
+> *"What’s life? Showing up for the people you love, again and again, until you can’t show up anymore."  
+-- Rebecca Walker*
+
+> *"Confine thyself to the present."  
+-- Marcus Aurelius*
+
+> *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
+-- Kahlil Gibran*
+
+> *"Stop measuring days by degree of productivity and start experiencing them by degree of presence."  
+-- Alan Watts*
+
+
+
+
+
+
+---
+## On future
+
+<!--
+> *"I am a warrior so that my son may be a merchant, so that his son may be a poet."  
+-- John Quincy Adams*
+> *"The quality of your life is determined by the quality of the questions you ask. It’s as simple as that. Small minds sit in answers, great minds sit in questions. Always ask the greater questions and nevermore the small."  
+-- Zan Perrion*
+-->
+
+> *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
+-- Michaelangelo*
+
+Dream big.
+
+An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don’t frighten you, they are not big enough.
+
+> *"Rich people think big. Poor people think small."  
+-- T. Harv Eker*
+
+> *"Every saint has a past, and every sinner has a future." (...)  
+"Anyone who lives within their means suffers from a lack of imagination."  
+-- Oscar Wilde*
+
+> *"If you don’t imagine, nothing ever happens at all."  
+-- John Green*
+
+> *"I dream my painting and I paint my dream."  
+-- Vincent van Gogh*
+
+> *"The best way to make your dreams come true is to wake up."  
+-- Paul Valery*
+
+> *"Dreams are illustrations from the book your soul is writing about you."  
+-- Marsha Norman*
+
+> *"Goals are dreams with deadlines."  
+-- Diana Scharf Hunt*
+
+> *"A man without a vision for his future always return to his past."  
+-- Proverb*
+
+Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
+
+> *"I never worry about the future. It comes soon enough."  
+-- Albert Einstein*
+
+> *"No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened."  
+-- John Hodgman*
+
+> *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
+-- Kevin Kelly*
