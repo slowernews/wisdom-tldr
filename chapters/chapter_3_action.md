@@ -1434,8 +1434,9 @@ In order to come back you have to go away. Use this opportunity to re-create you
 
 
 
+
 ---
-## On forgiveness and revenge
+## On forgiveness
 
 > *"The only way out of the labyrinth of suffering is to forgive."  
 -- John Green*
@@ -1485,15 +1486,10 @@ If you don’t reconcile you’re postponing war.
 ---
 # 3.4 - Time
 
-## On past and memory
+## On past
 
 <!--
-> *"The past is never dead. It's not even past."  
--- William Faulkner*
-
-- history books are on the history of power.
-- o q antes era rotina, hj é lembrança. never say goodbye because goodbye means going away and going awya means forgetting.
-- a historia muda. é uma questao de interpretação do que realmente aconteceu
+- history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
@@ -1503,6 +1499,9 @@ Life becomes easy when you recognize the recurring patterns.
 
 > *"History is the study of change, ironically used as a map of the future."  
 -- Morgan Housel*
+
+> *"If past history was all there was about the game, the richest people would be librarians."  
+-- Warren Buffett*
 
 > *"History does not repeat, but it does rhyme."  
 -- Mark Twain*
@@ -1522,11 +1521,10 @@ Life becomes easy when you recognize the recurring patterns.
 > *"Don’t bother fighting the old; just build the new."  
 -- Kevin Kelly*
 
-> *"If past history was all there was about the game, the richest people would be librarians."  
--- Warren Buffett*
-
 > *"History is a race between education and catastrophe."  
 -- H.G. Wells*
+
+### On memory
 
 You are your memory.
 
@@ -1540,7 +1538,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -- Stephen Chbosky*
 
 > *"You never know the value of a moment until it becomes a memory."  
--- Uknown*
+-- Unknown*
 
 > *"Never regret something that once made you smile."  
 -- Amber Deckers*
@@ -1560,13 +1558,8 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"He’d wasted most of his life thinking he’d wasted most of his life."  
 -- Unknown*
 
-### How memory works?
-
 > *"A busy mind accelerates the perceived passage of time. Buy time by cultivating peace of mind."  
 -- Naval Ravikant*
-
-> *"It takes an huge effort to free yourself from memory."  
--- Paulo Coelho*
 
 > *"You forget what you want to remember, and you remember what you want to forget."  
 -- Cormac McCarthy*
@@ -1597,8 +1590,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 ## On present
 
 <!--
-- 100 blocks a day -- wait but why
-- Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
+- 96 blocks a day -- wait but why
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
@@ -1622,9 +1614,6 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 > *"What’s life? Showing up for the people you love, again and again, until you can’t show up anymore."  
 -- Rebecca Walker*
 
-> *"Confine thyself to the present."  
--- Marcus Aurelius*
-
 > *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
 -- Kahlil Gibran*
 
@@ -1640,10 +1629,7 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 ## On future
 
 <!--
-> *"I am a warrior so that my son may be a merchant, so that his son may be a poet."  
--- John Quincy Adams*
-> *"The quality of your life is determined by the quality of the questions you ask. It’s as simple as that. Small minds sit in answers, great minds sit in questions. Always ask the greater questions and nevermore the small."  
--- Zan Perrion*
+- Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
 -->
 
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
@@ -1652,6 +1638,8 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 Dream big.
 
 An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don’t frighten you, they are not big enough.
+
+Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
 
 > *"Rich people think big. Poor people think small."  
 -- T. Harv Eker*
@@ -1678,7 +1666,8 @@ An ambitious goal sets the bar so high that even a failure can be considered a s
 > *"A man without a vision for his future always return to his past."  
 -- Proverb*
 
-Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
+> *"I am a warrior so that my son may be a merchant, so that his son may be a poet."  
+-- John Quincy Adams*
 
 > *"I never worry about the future. It comes soon enough."  
 -- Albert Einstein*

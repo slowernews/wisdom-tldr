@@ -28,6 +28,9 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 ### The real you
 
 <!--
+> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
+-- Richard Bach*
+
 - The ultimate question: Do you want you son/daughter to date someone like you?
 -->
 

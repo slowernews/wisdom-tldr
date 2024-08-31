@@ -127,7 +127,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On finishing](/cfsuchapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On quiting and surrendering](/chapters/chapter_3_action.md#on-quiting-and-surrendering)
-- [On forgiveness and revenge](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
+- [On forgiveness](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
 
 *On time*
 - [On past and memory](/chapters/chapter_3_action.md#on-past-and-memory)

@@ -11,8 +11,6 @@
 ## On communication
 
 <!--
-> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."*
-> *"Conscience is what hurts when everything else feels so good."*
 > *"A bore is someone who persists in holding his own views after we have enlightened him with ours."*
 - A loucura é a incapacidade de comunicar-se.
 - you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
@@ -1714,6 +1712,9 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"Morality is the way that we would like the world to be, economics is the way that the world actually works."  
 -- Steven Levitt*
 
+> *"Conscience is what hurts when everything else feels so good."  
+-- Unknown*
+
 > *"The cash register did more for human morality than the congregational church."  
 -- Charlie Munger*
 
@@ -1734,6 +1735,9 @@ Against facts there are no arguments. Against faith there are no facts.
 
 > *"Men never do evil so cheerfully and completely as when they do it from religious conviction."  
 -- Blaise Pascal*
+
+> *"The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality."  
+-- Dante Alighieri*
 
 > *"Fanaticism is always a sign of repressed doubt."  
 -- Carl Jung*
