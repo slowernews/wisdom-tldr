@@ -10,12 +10,6 @@
 
 ## On communication
 
-<!--
-> *"A bore is someone who persists in holding his own views after we have enlightened him with ours."*
-- A loucura é a incapacidade de comunicar-se.
-- you don’t need to have an opinion about everything. get fewer opinions about way fewer things. then interrogate your stronger opinions.
--->
-
 > *"Knowledge speaks, but wisdom listens."  
 -- Jimi Hendrix*
 
@@ -40,22 +34,24 @@ Speak less and listen more.
 > *"If you want to be interesting, be interested."  
 -- David Ogilvy*
 
-Be interested to be interesting. Don’t debate at all. Just listen. The point of a conversation is not to win.
+Be interested to be interesting. Don’t debate at all. Just listen. The point of a conversation is not to win. You don’t need to have an opinion about everything. Get fewer opinions about way fewer things and then interrogate your stronger opinions.
 
 Hints:
 
 - Listen. Mirroring or paraphrase: Repeat the last 1-3 words the person just said as a question or repeat what they just said in your own words. (Yes, it’s that simple). Seek to understand before seeking to be understood. Don’t worry about what you’re going to say next. Speak what’s in your mind, sometimes it backfires, but be real. The best conversationalists are the best listeners. Be interested to be interesting. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..
 - Ask questions. Ask a question. Listen to the answer. Respond in the form of a statement. No one is boring. They’re only boring because you haven’t asked the right questions. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but cF\rucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
 - Stop trying to impress. Focus on being interested instead of being interesting. Controlling the impression that you make on others takes a large amount of cognitive bandwidth and it will appear as fake. Smile and relax. Warmth comes from smiling while you speak. Popular people always smile more. Calm is largely a matter of slowing your speech down. Treat new aquaintances as old friends. Don’t be stubborn. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow. Emphasize Similarity, we like people who are like us.
-- People believe in everything, if you whisper it.
 - Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day.
+- People believe in everything, if you whisper it.
+
+> *"The more you say, the less people remember."  
+-- François Fénelon*
 
 ### How to discord?
 
 <!--
-> *"The aim of argument, or of discussion, should not be victory, but progress."  
--- Joseph Joubert*
-> *"The more we disagree, the more chance there is that at least one of us is right.*
+> *"A bore is someone who persists in holding his own views after we have enlightened him with ours."*
+- A loucura é a incapacidade de comunicar-se.
 -->
 
 > *"Admit when you’re wrong. Shut up when you’re right."  
@@ -63,7 +59,7 @@ Hints:
 
 Don't raise your voice. improve your argument.
 
-Listen as you’re wrong. Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you’ll learn something. If they can’t you’ll soften their views.
+Listen as you’re wrong. Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you’ll learn something. If they can’t you’ll soften their views. The more we disagree, the more chance there is that at least one of us is right.
 
 > *"Never argue with a fool, onlookers may not be able to tell the difference."  
 -- Mark Twain*
@@ -71,24 +67,18 @@ Listen as you’re wrong. Ask the person trying to convince you of something to 
 > *"With truly logical people, most arguments are very short and based mainly on differing assumptions."  
 -- Naval Ravikant*
 
-> *"Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it."  
--- Kevin Kelly*
-
 > *"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."  
 -- Winston Churchill*
 
 > *"Be curious, not judgmental."  
 -- Walt Witman*
 
-### How to tell good stories?
+### How to tell stories?
 
 > *"Cinema is just life with the boring parts cut out."  
 -- Alfred Hitchcock*
 
 Good stories condense a massive amount of details into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment.
-
-> *"The more you say, the less people remember."  
--- François Fénelon*
 
 > *"To tell a good story, you must reveal a surprise; otherwise is just a report."  
 -- Kevin Kelly*
@@ -106,8 +96,7 @@ Hints:
 > *"A good speech should be like a woman’s skirt: long enough to cover the subject and short enought o create interest."  
 -- Winston Churchill*
 
-> *"The secret to public speaking is to speak as if you were alone." (...)  
-> *"You can have the mind or you can have the moment."  
+> *"The secret to public speaking is to speak as if you were alone."  
 -- Naval Ravikant*
 
 > *"Always say less than necessary."  
@@ -121,13 +110,13 @@ Hints:
 ---
 ## On networking
 
-> *"To develop your intellectual powers at the expense of the social is to retard your own progress to mastery."  
--- Robert Greene*
-
 > *"The enemy of excellence is isolation."  
 -- Aaron Walker*
 
 Make networking an habit. Who you know and whether they like you will determine what opportunities you get.
+
+> *"To develop your intellectual powers at the expense of the social is to retard your own progress to mastery."  
+-- Robert Greene*
 
 > *"Money is the ultimate network effect."  
 -- Naval Ravikant*
@@ -140,6 +129,12 @@ Make networking an habit. Who you know and whether they like you will determine 
 
 ### How to network?
 
+> *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead." (...)  
+"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
+-- Kevin Kelly*
+
+Be useful, not important. Listen to people, get their goals and help them. It’s not about you, it’s about the impact you have on others.
+
 <!--
 - What’s the most common question or problem you get asked about? Share the answer.
 - Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
@@ -148,12 +143,6 @@ Make networking an habit. Who you know and whether they like you will determine 
 - Networking types: shark, dolphin, drowner.
 - everyone has an invisible sign hanging from their neck saying, «Make me feel important». Never forget this message when working with people.
 -->
-
-> *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead." (...)  
-"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
--- Kevin Kelly*
-
-Be useful, not important. Listen to people, get their goals and help them. It’s not about you, it’s about the impact you have on others and the legacy that you leave.
 
 Hints:
 
@@ -164,13 +153,13 @@ Hints:
 - Social inadequacy (creepiness) is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
 - Field tactics:
 	- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
-	- Eye contact builds trust. dont hide yourself. dont wait to start talking. a group or a double might be an easy place to start.
+	- Eye contact builds trust. Don't hide yourself. Don't wait to start talking. A group or a double might be an easy place to start.
 	- Small and open groups. Opening line: "Hi, I’m X and I dont know anybody in this party."  
 	- Go to the bar and meet people there or help the hosters to serve food.
 	- You should go on after 10 or 15 minutes, think about it as exploring. How to politely end conversations:
 		- «Excuse me but I must to talk with somebody that entered the room.»
 		- «Excuse me I have to make a phone call.»
-		- Human sacrifice... Intro him and leave.
+		- Human sacrifice... Introduce him and leave.
 		- To rude people: «My mum always told me not to speak with strangers.»
 - Forget those who forget you. Those who want to stay in your life, will always find a way.
 
@@ -185,9 +174,7 @@ Hints:
 
 ### Why most people don’t like networking?
 
-Handling rejection is hard. Period.
-
-We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
+Handling rejection is hard. Period. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
 
 > *"Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works."  
 -- Kevin Kelly*
@@ -199,13 +186,13 @@ I help (or a derivative) investors (target: people is too generalist but don’t
 6 or 7 words -- short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
 -->
 
-> *"When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes."  
--- Jordan Harbinger*
+> *"Being honest may not get you a lot of friends but it’ll always get you the right ones."  
+-- John Lennon*
 
 Choose truth or your self-mythology will seduce you.
 
-> *"Being honest may not get you a lot of friends but it’ll always get you the right ones."  
--- John Lennon*
+> *"When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes."  
+-- Jordan Harbinger*
 
 
 
@@ -216,10 +203,8 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from teh hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
+> *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
 -- Morgan Housel*
-> *"Any product that needs a manual is broken."  
--- Elon Musk*
 
 - sustainable design is just good design.
 - Platonic products rarely work.
@@ -248,6 +233,10 @@ Choose truth or your self-mythology will seduce you.
 - disney salvation: create a clear, simple vision -> deleverage | Make long-term bets. | Make fearless acquisitions on the edge.
 - zona genius: only 3 things I’m allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
 - designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
+- Ownership is the only thing. Never give a single share a unless you absolutely have to.
+- In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
+For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
+- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
 -->
 
 > *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."  
@@ -255,9 +244,7 @@ Choose truth or your self-mythology will seduce you.
 
 Focus on what you can easily give that empowers others.
 
-It’s not about what you know, it’s about who trusts you to solve their problems. Often, it requires the technical skills. Always, it requires the persuasion skills.
-
-Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet.
+Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet. It’s not about what you know, it’s about who trusts you to solve their problems. Often, it requires the technical skills. Always, it requires the persuasion skills.
 
 > *"What you need to start a new business: generosity."  
 -- Derek Sivers*
@@ -272,32 +259,28 @@ Validate your business by finding paying clients. If something is worth doing, s
 "If you can change people’s lives you have a business."  
 -- Richard Branson*
 
-> *"You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further." (...)  
+> *"You can obsess about serving your customers or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further." (...)  
 "Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
 -- Kevin Kelly*
 
 > *"There is no skill called business. Avoid business magazines and business classes." (...)  
+"Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not." (...)  
 "You are not building a product. You are solving a problem." (...)  
 "Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
-"Startups don’t die when they run out of cash, they die when the founders run out of energy." (...)  
-"Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not." (...)  
-"You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product."  
+"You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product." (...)  
+"Startups don’t die when they run out of cash, they die when the founders run out of energy."  
 -- Naval Ravikant*
 
-### On entrepreneurship
+> *"Don't find customers for your products. Find products for your customers."  
+-- Seth Godin*
 
-<!--
-> *"Starting a company is like jumping off a cliff and assembling the plane on the way down."  
--- Reid Hoffman*
-> *"If things aren't failing you're not innovating enough." (...)  
+> *"Constantly think how you can do things better." (...)  
+"If things aren't failing you're not innovating enough." (...)  
 "Great companies are built on great products." (...)  
-"Constantly think how you can do things better." (...)  
+"Any product that needs a manual is broken." (...)  
 "Pursue what you are passionate about." (...)  
 "It's important to like your coworkers."  
 -- Elon Musk*
-
-- Ownership is the only thing. Never give a single share a unless you absolutely have to.
--->
 
 First try to sell it. Than build it.
 
@@ -313,25 +296,14 @@ Hints:
 - Do things manually at first. Don’t scale your team/product until you have built something people want. Only after you are over running your ability to do things manually you do have to worry about automation. 
 - Focus on revenue generating activities: if it is not going to earn you money, then don’t do it or outsource them so you have more time to work on your cash flow.
 - Deliver a little bit more than expected. That’ll help to get you some recommendations.
-- Say «no» to nasty, time consuming and time wasting clients. Fire customers that cause you to much stress or that cost too much to service.
+- «Fire» nasty, time consuming and time wasting clients.
 - Entrepreneurs are more risk averse than general population. Budget pessimistically using the worst case scenario.
-- There’s the myth that failure makes you a better entrepreneur. This is false. Study your failures.
-- Most companies don’t die because they run out of money.
+- There’s the myth that failure makes you a better entrepreneur. This is true only if you study your failures.
 
-<!--
-- In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
-For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
-- There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
--->
-
-> *"What one piece of advice would you give someone starting a company?
-Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too."  
+> *"What one piece of advice would you give someone starting a company? Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too."  
 -- David Velez (Nubank)*
 
 > *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."*
-
-> *"Don't find customers for your products. Find products for your customers."  
--- Seth Godin*
 
 > *"Don't open a shop unless you know how to smile."  
 -- Proverb*
@@ -381,6 +353,12 @@ I look forward to your response. [Power play; leave them with good vibes.]
 
 - Cold call all owners to rent. 8 said yes. Then auction! 
 - irritation -> challenge people to make something that they don’t want to do. agitation -> challenge people to make something that they want to do. agitate more than irritate.
+
+- how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
+- how to say no to an interview: i think i said already everthing about that subject.
+- how to say no to something else: i think i did already what i can do.
+- how much would i have to pay to close this deal now
+- smart partners negotiate fair deals because they know that lopsided deals are fragile and that most value accumulates in long term trust relationships. you can tell a lot about a potential partner by their opening offer. (naval)
 -->
 
 > *"Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don’t need."  
@@ -417,8 +395,8 @@ Modern selling: farmers (ambiverts and introverts)
 -- Zig Ziglar*
 
 > *"If it doesn’t sell, it isn’t creative." (...)  
-"If you can’t advertise yourself, what hope have you being able to advertise anything else." (...)  
-"You can’t bore people into buying your product."  
+"You can’t bore people into buying your product." (...)  
+"If you can’t advertise yourself, what hope have you being able to advertise anything else."  
 -- David Ogilvy*
 
 > *"If you make people think they're thinking, they'll love you. If you really make them think, they'll hate you."  
@@ -438,32 +416,24 @@ Modern selling: farmers (ambiverts and introverts)
 
 ### On negotiation
 
-<!--
-- how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
-- how to say no to an interview: i think i said already everthing about that subject.
-- how to say no to something else: i think i did already what i can do.
-- how much would i have to pay to close this deal now
-- smart partners negotiate fair deals because they know that lopsided deals are fragile and that most value accumulates in long term trust relationships. you can tell a lot about a potential partner by their opening offer. (naval)
--->
-
 > *"Negotiations are won by whoever cares less."  
 -- Naval Ravikant*
 
 You don’t get what you deserve in life, only what you negotiate.
 
-Negotiation establishes the price (exchange rate between money and value). That said, a good negotiation means that you are paying less money (or value) than receiving value (or money).
+Negotiation establishes the price (exchange rate between money and value). That said, a good negotiation means that you are giving less money (or value) than receiving value (or money).
 
 Hints:
 
+- You can only negotiate with integrous people.
 - To negotiate you need to have options.
 - To go fast, let the other part go first.
-- You can only negotiate with integrous people.
 - Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy wants to make it fast. For the accomodator, the relationship is the most important.
 - Be playful and smart. Your counter-part will often mirror your good mood.
 - Mirroring by repeating the last few words of the other person. It opens up people’s brain. It tests the firmness of what they want.
-- Never negotiate with binary questions: prefer «What can you do?» instead of «Will you do this?»
-- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.
 - Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the only way to sell.
+- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.
+- Never negotiate with binary questions: prefer «What can you do?» instead of «Will you do this?»
 - Close it: «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
 - The more you take, the more you can give back in meaningless concessions. When people feel they have a choice, they «walk into your trap» that much more easily.
 - People buy better versions of themselves, not products.
@@ -499,11 +469,11 @@ However always strive to achieve a win-win situation. When both sides don’t ta
 
 ### On price
 
-> *"Price is what you pay, value is what you get."  
--- Warren Buffett*
-
 > *"The price of anything is the amount of life you exchange for it."  
 -- Henry David Thoreau*
+
+> *"Price is what you pay, value is what you get."  
+-- Warren Buffett*
 
 Price is a filter. Set it to choose the customers you prefer to work with. If they can’t pay, walk away.
 
@@ -519,7 +489,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 > *"Nowadays people know the price of everything and the value of nothing."  
 -- Oscar Wilde*
 
-
+/
 
 
 
