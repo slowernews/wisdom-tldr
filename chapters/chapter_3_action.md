@@ -1489,6 +1489,9 @@ If you don’t reconcile you’re postponing war.
 ## On past
 
 <!--
+> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  
+-- George S. Patton
+
 - history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
 -->
 
@@ -1591,6 +1594,8 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 
 <!--
 - 96 blocks a day -- wait but why
+> *"We are always complaining that our days are few, and acting as though there would be no end of them."  
+-- Seneca*
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  

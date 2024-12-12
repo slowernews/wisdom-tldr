@@ -936,6 +936,11 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 
 ### On geniality
 
+<!--
+> *"What is the difference between a madman and a genious? Success."  
+-- Javier Milei*
+-->
+
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
 -- Ralph Waldo Emerson*
 
