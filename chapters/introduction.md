@@ -191,6 +191,11 @@ Hints:
 ### On ambition
 
 <!--
+> *"It is only in adventure that some people succeed in knowing themselves." -- Andre Gide*
+> *"Life is being on the wire, everything else is just waiting. -- Karl Wallenda*
+> *"The shell must break before the bird can fly." -- Alfred Tennyson*
+> *"There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it."*
+
 - If you’re not trying to make money, what are you even doing?
 -->
 

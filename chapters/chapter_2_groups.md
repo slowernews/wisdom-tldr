@@ -10,6 +10,14 @@
 
 ## On communication
 
+<!--
+> *"The most important thing in communication is hearing what isn't said." -- Peter Drucker*
+> *"Think like a wise man but communicate in the language of the people." -- William Butler Yeats*
+> *"Two monologues do not make a dialogue." -- Jeff Daly*
+> *"Give me the gift of a listening heart." -- King Solomon*
+> *"Everybody's a teacher if you listen." -- Doris Roberts*
+-->
+
 > *"Knowledge speaks, but wisdom listens."  
 -- Jimi Hendrix*
 
@@ -203,8 +211,13 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
+> *"Microsoft is always two years away from failure." -- Bill Gates*
+> *"Money never starts an idea; it is the idea that starts the money." -- William J. Cameron*
+> *"You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new." -- Steve Jobs*
+> *"We've reached the end of incrementalism. Only those companies that are capable of creating industry revolutions will prosper in the new economy. -- Gary Hamel*
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
 -- Morgan Housel*
+> *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
 
 - sustainable design is just good design.
 - Platonic products rarely work.
@@ -319,6 +332,7 @@ Hints:
 <!--
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
+> *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 
 - my prices are based on my talent, not your budget.
 - sell the problem you solve, not the product you have.
@@ -489,7 +503,6 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 > *"Nowadays people know the price of everything and the value of nothing."  
 -- Oscar Wilde*
 
-/
 
 
 
@@ -498,7 +511,10 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On mentorship
 
 <!--
+> *"It is impossible for a man to learn what he thinks he already knows." -- Epictetus*
+
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
+> *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them." -- Oscar Wilde*
 -->
 
 > *"To know the road ahead, ask those coming back."  
@@ -553,6 +569,11 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- David Leach*
 
 ### How to mentor your kids?
+
+<!--
+> *"My family history begins with me, but yours ends with you." -- Iphicrates*
+> *"When you wish to instruct, be brief; children's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind." -- Cicero*
+-->
 
 > *"Teach your children early what you learned late."  
 -- Richard Feynman*
@@ -785,11 +806,29 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On society and politics
 
 <!--
+on trust:
+FOR YOUR REFLECTION:
+How much do you trust yourself?
+Who is the person you trust the most in your life?
+What are the attributes of the person you trust the most?
+How trustworthy are you?
+When people lose trust in you, do you know why?
+Who, in your life are you not trusting these days?
+Do you know why you are not trusting this person?
+Are you (and that person) committed to restoring trust?
+What's the level of trust on whatever teams you are on?
+If you are a team leader, how much do team members trust you?
+What do you need to do to regain the trust of others?
+What is the simplest thing you can do to be more trustworthy?
+
+
+> *"A government that is big enough to give you all you want is big enough to take it all away." -- Barry Goldwater*
 > *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
 -- Salman Rushdie*
 > *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
 -- Elie Wiesel*	
 > *"Não há direitos sem obrigações e viceversa."  -- E. Ferreira*
+> *"A right is not what someone gives you; it's what no one can take from you." -- Ramsey Clark*
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
 -- Thomas Sowell*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
@@ -940,6 +979,13 @@ Hints:
 
 ### On politicians and bureaucracy
 
+<!--
+> *"When you have an efficient government, you have a dictatorship." -- Harry Truman*
+> *"You can tell the ideals of a nation by its advertisements." -- Norman Douglas*
+
+> *"A memorandum is written not to inform the reader, but to protect the writer." -- Dean Acheson*
+-->
+
 > *"90% of the politicians give the other 10% a bad reputation."  
 -- Henry Kissinger*
 
@@ -985,6 +1031,9 @@ Hints:
 ## On following the herd
 	
 <!--
+> *"Fools rush in -- and get the best seats in the house."*
+> *"It's not that they can't see the solution. They can't see the problem." -- G.K. Chesterton*
+> *"Wise men talk because they have something to say; fools, because they have to say something." -- Plato*
 > *"In order to think you have to risk being offensive."  
 -- Jordan Peterson*
 > *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."  
@@ -1117,6 +1166,9 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 
 > *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  
 -- Kevin Kelly*
+> *"A fanatic is a person who can't change his mind and won't change the subject." -- Winston Churchill*
+> *"A gossip is one who talks to you about others, a bore is one who talks to you about himself; and a brilliant conversationalist is one who talks to you about yourself." -- Lisa Kirk*
+
 -->
 
 > *"Judge a man by his questions, not by his answers."  
@@ -1170,6 +1222,8 @@ Hints:
 ## On humanness and irrationality
 
 <!--
+> *"I am a deeply superficial person." -- Andy Warhol*
+> *"I can't understand why a person will take a year or two to write a novel when he can easily buy one for a few dollars." -- Fred Allen*
 > *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
 -- Proverb*
 
@@ -1227,6 +1281,21 @@ Most people approach each and every year in the exact same way while expecting d
 ## On comedy
 
 <!--
+> *"Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing." -- Dick Brandon*
+> *"Old musicians never die, they just decompose."*
+> *"Humorists always sit at the children's table." -- Woody Allen*
+> *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..." -- Lyndon B. Johnson*
+> *"I watch television because you don't know what it will do if you leave it in the room alone."*
+> *"I think trash is the most important manifestation of culture we have in my LIfetime." -- Johnny Legend*
+> *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need." -- Lao Tzu*
+> *"Successful and fortunate crime is called virtue." -- Seneca*
+> *"Satire is tragedy plus time." -- Lenny Bruce*
+> *"To find out a girl's faults, praise her to her girl friends." -- Benjamin Franklin*
+> *"What a misfortune to be a woman! And yet, the worst misfortune is not to understand what a misfortune it is." -- Kierkegaard, 1813-1855.*
+> *"Testing can show the presense of bugs, but not their absence." -- Dijkstra*
+> *"That which we are capable of feeling, we are capable of saying." -- Cervantes*
+> *"Whenever you hug someone, be the last to let go."*
+
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 > *"The early bird may get the worm, but the second mouse gets the cheese.*
 > *"He who lives without folly is less wise than he believes.*
@@ -1348,6 +1417,11 @@ Hints:
 ---
 ## On family and friends
 
+<!--
+> *"Friendships last when each friend thinks he has a slight superiority over the other." -- Honore De Balzac*
+> *"Love your neighbour, yet don't pull down your hedge." -- Benjamin Franklin*
+-->
+
 > *"Your friends are the ones that go to your funeral in a day of rain."  
 -- Proverb*
 
@@ -1437,8 +1511,12 @@ Hints:
 ## On lovers
 
 <!--
+> *"One expresses well the love he does not feel." -- J.A. Karr*
+> *"People change and forget to tell each other." -- Lillian Hellman*
+> *"The surest sign that a man is in love is when he divorces his wife."*
 > *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  
 -- Osho*
+> *"A man is already halfway in love with any woman who listens to him." -- Brendan Francis*
 
 - Thank you for not loving me. It forced me to love myself.
 - Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
@@ -1587,6 +1665,14 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 ---
 ## On marriage
 
+<!--
+> *"By all means marry: If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher." -- Socrates*
+> *"Marriage is the process of finding out what kind of man your wife would have preferred."*
+> *"When should a man marry? A young man, not yet; an elder man, not at all." -- Sir Francis Bacon*
+> *"When a woman marries again it is because she detested her first husband. When a man marries again, it is because he adored his first wife." -- Oscar Wilde*
+> *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it." -- Peggy Joyce*
+-->
+
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H.Harwood and R. Gore-Bro*
 
@@ -1637,6 +1723,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 ## On religion
 
 <!--
+> *"Faith: not wanting to know what is true." -- Friedrich Nietzsche*
+> *"It may be that our role on this planet is not to worship God but to create him." -- Arthur C. Clarke*
 > *"The laws of nature are written by the hand of God in the language of mathematics*"  
 -- Galileo Galilei*
 > *"Hell is empty and all the devis are here."  
@@ -1834,6 +1922,11 @@ Technology is applied science.
 ---
 ## On art
 
+<!--
+> *"Art is either plagiarism or revolution." -- Paul Gauguin*
+> *"I went into the business for the money, and the art grew out of it. If people are disillusioned by that remark, I can't help it. It's the truth." -- Charlie Chaplin*
+-->
+
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth*
 
@@ -1868,6 +1961,10 @@ Artistic death is made by consensus.
 -- Banksy*
 
 ### On artists
+
+<!--
+> *"A true artist will let his wife starve, his children go barefoot, his mother drudge for his living at seventy, sooner than work at anything but his art." -- Shaw*
+-->
 
 > *"No artist tolerates reality."  
 -- Friedrich Nietzsche*
@@ -1968,6 +2065,9 @@ Privacy is power. What people don't know they can't ruin.
 ## On maths, computers and AI
 
 <!--
+> *"Any sufficiently advanced technology is indistinguishable from magic." -- Arthur C. Clarke*
+> *"Man is the best computer we can put aboard a spacecraft ... and the only one that can be mass produced with unskilled labor." -- Wernher von Braun*
+> *"Never try to explain computers to a layman. It's easier to explain sex to a virgin." -- Robert Heinlein*
 - chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
 - llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
@@ -2025,6 +2125,28 @@ We’ve grown dependent on three simple features that just aren’t available in
 ## On leadership
 
 <!--
+> *"Effective leadership is putting first things first. Effective management is discipline, carrying it out." -- Stephen Covey*
+> *"Example is not the main thing in influencing others; it is the only thing." -- Albert Schweitzer*
+> *"If you don't understand that you work for your mislabeled 'subordinates,' then you know nothing of leadership. You know only tyranny." -- Dee Hock*
+> *"If your actions inspire others to dream more, learn more, do more and become more, you are a leader." -- John Quincy Adams*
+> *"Lead and inspire people. Don't try to manage and manipulate people. Inventories can be managed but people must be lead." -- Ross Perot*
+> *"Leaders must be close enough to relate to others, but far enough ahead to motivate them." -- John Maxwell*
+> *"Leadership is the capacity to translate vision into reality." -- Warren Bennis*
+> *"Management has a lot to do with answers. Leadership is a function of questions. And the first question for a leader always is: 'Who do we intend to be?' Not 'What are we going to do?' but 'Who do we intend to be?' -- Max DePree*
+> *"Management is doing things right; leadership is doing the right things." -- Peter F. Drucker*
+> *"Lots of folks confuse bad management with destiny." -- Frank Hubbard*
+> *"My greatest strength as a consultant is to be ignorant and ask a few questions." -- Peter Drucker*
+> *"Never tell people how to do things. Tell them what to do and they´will surprise you with their ingenuity." -- General George Patton*
+> *"One of the tests of leadership is the ability to recognize a problem before it becomes an emergency." -- Arnold Glasow*
+> *"People ask the difference between a leader and a boss. The leader works in the open, and the boss in covert." -- Theodore Roosevelt*
+> *"The function of leadership is to produce more leaders, not more followers." -- Ralph Nader*
+> *"The manager asks how and when; the leader asks what and why." -- Warren Bennis*
+> *"The leader has to be practical and a realist, yet must talk the language of the visionary and the idealist." -- Eric Hoffer*
+> *"To be able to lead others, a man must be willing to go forward alone." -- Harry Truman*
+> *"The first responsibility of a leader is to define reality. The last is to say thank you." -- Max DePree*
+> *"The key to successful leadership today is influence, not authority." -- Kenneth Blanchard*
+> *"The led must not be compelled; they must be able to choose their own leader." -- Albert Einstein*
+
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - the organization is always modelling the leader. military leader don’t have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
 - Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
@@ -2114,6 +2236,15 @@ Hints:
 
 ### On teams
 
+<!--
+> *"If you need emergency help from a bystander, command them what to do. By giving them an assignment, you transform them from bewildered bystander to a responsible assistant."*
+> *"If you want to build a ship, don't herd people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." -- Antoine de Saint-Exupery*
+> *"Never accept a work meeting until you’ve seen the agenda and know what decisions need to be made. If no decisions need to be made, skip the meeting."*
+> *"No institution can possibly survive if it needs geniuses or supermen to manage it. It must be organized in such a way as to be able to get along under a leadership composed of average human beings." -- Peter Drucker*
+> *"You're either part of the solution or part of the problem." -- Eldridge Cleaver*
+> *"A team effort is a lot of people doing what I say." -- Michael Winner, British film director*
+-->
+
 > *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don't care about becoming a somebody."  
 -- Phil Dooley*
 
@@ -2146,8 +2277,23 @@ Hints:
 ### How to give feedback?
 
 <!--
+> *"If you are impressed with someone’s work, you should tell them, but even better, tell their boss."*
+> *"Share your knowledge. It is a way to achieve immortality." -- Dalai Lama*
+> *"When you want to teach children to think, you begin by treating them seriously when they are little, giving them responsibilities, talking to them candidly, providing privacy and solitude for them, and making them readers and thinkers of significant thoughts from the beginning. That's if you want to teach them to think." -- Bertrand Russell*
 > *"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."  
 -- Aristotle*
+
+TEN TIPS ON GIVING FEEDBACK
+-- Give at least five times more positive feedback than negative.
+-- Give feedback soon after the behavior you want to respond to.
+-- Pick the moment when both of you are in the right frame of mind.
+-- Keep it private. Feedback is not a spectator sport.
+-- Prepare. Take the time to organize what you want to say.
+-- Avoid generalities. Cite specific examples.
+-- Focus on the issue or behavior, not the person.
+-- Pay attention to body language. Adjust your feedback accordingly.
+-- Keep it simple. Don't focus on too many things at once.
+-- End on a positive note.
 -->
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
@@ -2200,8 +2346,11 @@ Hints:
 ## On career
 
 <!--
+> *"Don't be irreplaceable, if you can't be replaced, you can't be promoted.*
+
 > *"My thing is to work more than the others to show them how useless they are."  
 -- Karl Lagerfeld*
+> *"A good sign that you are doing the kind of work you should be doing is that you enjoy the tedious parts that other people find tortuous."*
 
 - "Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out.""
 - i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
@@ -2439,6 +2588,12 @@ Hints:
 ## On opponents and allies
 
 <!--
+> *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth." -- Doc Rivers*
+> *"If you want to make enemies, try to change something." -- Woodrow Wilson*
+> *"Only the hypocrite is really rotten to the core." -- Hannah Arendt*
+> *"When neither their poverty nor their honor is touched, the majority of men live content." -- Niccolo Machiavelli*
+> *"With a gentleman I try to be a gentleman and a half, and with a fraud I try to be a fraud and a half." -- Otto von Bismark*
+
 > *"Never offend people with style when you can offend them with substance."  
 -- Sam Brown*
 > *"Só os mais corajosos conseguem fazer a paz."  

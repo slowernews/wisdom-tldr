@@ -18,6 +18,13 @@
 - Freedom to -> freedom from -- naval
 - Don’t build your castle in other peoples kingdom’s
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
+
+> *"Commitment is what transforms a promise into a reality."  
+-- Abraham Lincoln*
+> *"Commitment is an act, not a word."  
+-- Jean-Paul Sartre*
+> *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  
+-- Paulo Coelho*
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -231,6 +238,15 @@ You might think you want a fancy car or a nice watch but what you probably want 
 -- Paulo Coelho*
 
 ### On gratitude
+
+<!--
+> *"Feeling gratitude and not expressing it is like wrapping a present and not giving it." -- William Arthur Ward*
+> *"If you are more fortunate than others, build a longer table rather than a taller fence."*
+> *"The most selfish thing in the world you can do is to be generous. Your generosity will return you ten fold."*
+> *"Humility is mostly about being very honest about how much you owe to luck."*
+> *"If I had any humility I would be perfect." -- Ted Turner*
+> *"You can’t call it charity unless no one is watching."*
+-->
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero*
@@ -539,6 +555,10 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 
 ---
 ## On wisdom
+	
+<!--
+> *"Wisdom is knowing what to do with what you know." -- J. Winter Smith*
+-->
 
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris*
@@ -573,6 +593,18 @@ Wisdom is knowing the long-term consequences of your actions.
 -- Proverb*
 
 ### On mastery
+
+<!--
+> *"Clarity precedes mastery." -- Robin Sharma*
+> *"In the beginner's mind there are many possibilities, in the expert's mind there are few." -- Shunryu Suzuki*
+> *"One can have no smaller or greater mastery then mastery of oneself." -- Leonardo DaVinci*
+> *"Order and simplification are the first steps towards mastery of a subject." -- Thomas Mann*
+
+> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
+-- Bruce Lee*
+> *"The price of greatness is responsibility."
+-- Winston Churchill*
+-->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
 -- Niels Bohr*
@@ -632,6 +664,28 @@ Introverts have more probability of being an expert in their field. Extraversion
 ## On education
 
 <!--
+> *"You can only be as good as you dare to be bad." -- John Barrymore*
+> *"When you take the free will out of education, that turns it into schooling." -- John Taylor Gatto*
+> *"Education is a progressive discovery of our own ignorance." -- Will Durant*
+> *"Education is learning what you didn't know you didn't know." -- George Boas*
+> *"Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime." -- Maimonides*
+> *"If you think education is expensive, try ignorance." -- Andy McIntyre*
+> *"Learning starts with failure; the first failure is the beginning of education." -- John Hersey*
+> *"Nine-tenths of education is encouragement." -- Anatole France*
+> *"Rewards and punishment is the lowest form of education." -- Chuang Tzu*
+> *"Self-education is, I firmly believe, the only kind of education there is." -- Isaac Asimov*
+> *"Some people will never learn anything, for this reason, because they understand everything too soon." -- Alexander Pope*
+> *"Spoon feeding in the long run teaches us nothing but the shape of the spoon." -- E.M. Forster*
+> *"Tell me and I forget. Teach me and I remember. Involve me and I learn." -- Benjamin Franklin*
+> *"The highest result of education is tolerance." -- Helen Keller*
+> *"The aim of education is the knowledge, not of facts, but of values." -- William Burroughs*
+> *"The difference between school and life? In school, you're taught a lesson and then given a test. In life, you're given a test that teaches you a lesson." -- Tom Bodett*
+> *"The only person who is educated is the one who has learned how to learn and change." -- Carl Rogers*
+> *"The whole art of teaching is only the art of awakening the natural curiosity of the mind for the purpose of satisfying it afterwards." -- Anatole France*
+> *"When a subject becomes totally obsolete we make it a required course." -- Peter Drucker*
+> *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
+> *"When you are right, you are learning nothing."*
+
 - the problem is not, and never have been, "as good as a professional". It has always been "it's good enoughto replace a professional so it'll be cheaper." the key thing about AI is that AI+human is waht we'll do.
 - deliberate practice
 - He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
@@ -770,6 +824,9 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 ## On writing
 
 <!--
+> *"There's nothing to writing. All you do is sit at a typewriter and open a vein." -- Red Smith*
+> *"What no spouse of a writer can ever understand is that a writer is working when he's staring out the window.*
+> *"Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good." -- Samuel Johnson*
 > *"Medicine is my lawful wife and literature is my mistress."  
 -- Anton Chekhov*
 
@@ -937,6 +994,7 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 ### On geniality
 
 <!--
+> *"If you have to ask what jazz is, you'll never know." -- Louis Armstrong*
 > *"What is the difference between a madman and a genious? Success."  
 -- Javier Milei*
 -->
@@ -1156,6 +1214,11 @@ Hints:
 ---
 ## On popularity
 
+<!--
+> *"There is only one thing in the world worse than being talked about, and that is not being talked about." -- Oscar Wilde*
+> *"We'll know that rock is dead when you have to get a degree to work in it."*
+-->
+
 > *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
 -- Bjarne Stroustrup*
 
@@ -1184,6 +1247,17 @@ People say they want to be famous to impact the world, often what they want is t
 ## On luck and risk
 
 <!--
+> *"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." -- Anais Nin*
+> *"Are you placing enough interesting, freakish, long shot, weirdo bets?" -- Tom Peters*
+> *"If you risk nothing, then you risk everything." -- Geena Davis*
+> *"Necessity is the mother of taking chances." -- Mark Twain*
+> *"Only those who will risk going too far can possibly find out how far it is possible to go." -- T.S. Eliot*
+> *"People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year." -- Peter Drucker*
+> *"The quality of your life is in direct proportion to the amount of uncertainty you can comfortably deal with." -- Tony Robbins*
+> *"To dare is to lose one's footing momentarily. To not dare is to lose oneself." -- Soren Kierkegaard*
+
+> *"In the realm of scientific observation, luck is granted only to those who are prepared." -- Louis Pasteur*
+> *"Opportunity dances with those on the dance floor." -- Anonymous*
 > *"We all have enough strength to endure the misfortunes of other people."  
 -- François de La Rochefoucauld*
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
@@ -1317,6 +1391,13 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ---
 ## On lifestyle
 
+<!--
+> *"Live fast, die young, and leave a good looking corpse." -- James Dean*
+> *"Television has proved that people will look at anything rather than each other." -- Ann Landers*
+> *"TV is chewing gum for the eyes." -- Frank Lloyd Wright*
+> *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
+-->
+
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
 -- David Hockney*
 
@@ -1432,6 +1513,20 @@ Hints:
 
 ---
 ## On success
+
+<!--
+> *"Anything that is successful is a series of mistakes." -- Billie Armstrong*
+> *"Failure is only the opportunity to begin again more intelligently." -- Henry Ford*
+> *"Failure is success if we learn from it." -- Malcolm Forbes*
+> *"I failed my way to success." -- Thomas Edison*
+> *"I never made a mistake in my life. I thought I did once, but I was wrong." -- Lucy Van Pelt*
+> *"If your life is free of failures, you're not taking enough risks." -- H. Jackson Brown*
+> *"Never confuse a single defeat with a final defeat." -- F. Scott Fitzgerald*
+> *"One's only rival is one's own potentialities. One's only failure is failing to live up to one's own possibilities. In this sense, every man can be a king, and must therefore be treated like a king." -- Abraham Maslow*
+> *"Our greatest glory is not in never falling, but in rising every time we fall." -- Confucius*
+> *"The way to succeed is to double your failure rate." -- Thomas Watson, Founder, IBM*
+> *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
+-->
 
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins*
@@ -1928,6 +2023,10 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 
 ### On confidence and validation
 
+<!--
+> *"The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you. Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved." -- William Jennings Bryan*
+-->
+
 > *"One who believes in himself has no need to convince others."  
 -- lao Tzu*
 
@@ -2090,6 +2189,12 @@ Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 ---
 ## On pessimism
 
+<!--
+> *"An optimist expects his dreams to come true; a pessimist expects his nightmares to." -- Laurence J. Peter*
+> *"You’ll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."*
+> *"What we anticipate seldom occurs; what we least expect generally happens." -- Bengamin Disraeli*
+-->
+
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
 -- William Arthur Ward*
 
@@ -2151,6 +2256,11 @@ Worrying is worshipping the problem. If you panic, panic early.
 
 ---
 ## On perfectionism
+
+<!--
+> *"Perfection is not attainable, but if we chase perfection, we can catch excellence."
+-- Vince Lombardi*
+-->
 
 > *"Perfectionism is the fear of being criticized."  
 -- Caroline Myss*
@@ -2298,6 +2408,14 @@ Hints:
 
 ---
 ## On growing old
+
+<!--
+> *"Ain't nothin' an old man can do for me but bring me a message from a young man." -- Moms Mabley*
+> *"To stay youthful, stay useful.*
+> *"Young men think old men are fools; but old men know young men are fools." -- George Chapman*
+> *"Youth is when you blame all your troubles on your parents; maturity is when you learn that everything is the fault of the younger generation.*
+> *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it." -- Mark Twain*
+-->
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
