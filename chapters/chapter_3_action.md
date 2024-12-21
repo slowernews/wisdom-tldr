@@ -207,6 +207,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 -- Andrew Lang*
 > *"A little inaccuracy sometimes saves tons of explanation." -- H.H. Munro*
 > *"Be curious, not judgmental." -- Walt Whitman*
+> *"To see we must forget the name of the thing we are looking at."  
+-- Claude Monet*
 -->
 
 > *"There are no facts, only interpretations."  
@@ -423,7 +425,10 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -- The Prophet Muhammed*
 > *"The time to repair the roof is when the sun is shining."
 -- John F. Kennedy*
+> *"To achieve great things, two things are needed; a plan, and not quite enough time."  
+-- Leonard Bernstein*
 
+- dig the well before you are thirsty. -- proverb
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 -->
 
@@ -506,6 +511,8 @@ Hints:
 ## On decision making
 
 <!--
+> *"The hardest thing to learn in life is which bridge to cross and which to burn."  
+-- Bertrand Russell*
 > *"When nothing is sure, everything is possible." -- Margaret Drabble*
 > *"To have the right to do a thing is not at all the same as being right in doing it."  
 -- G.K. Chesterton*
@@ -840,14 +847,14 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 <!--
 > *"Nearly every complex solution to a programming problem that I have looked at carefully has turned out to be wrong." -- Brent Welch*
-
 > *"Self-discipline begins with the mastery of your thoughts. If you don't control what you think, you can't control what you do. Simply, self-discipline enables you to think first and act afterward." -- Napoleon Hill*
 > *"To the person who does not know where he wants to go there is no favorable wind." -- Seneca*
 > *"The essential thing is to work in a state of mind that approaches prayer."  
 > *"A complex system that works is invariably found to have evolved from a simple system that works."*
 > *"Anything I cannot transform into something marvelous, I let go."  
 -- Anais Nin*
-
+> *"The man who chases two rabbits, catches neither."  
+-- Confucius*
 - you will never reach your destination if you stop and throw stones at every dog that barks.
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
@@ -1558,6 +1565,11 @@ In order to come back you have to go away. Use this opportunity to re-create you
 ---
 ## On forgiveness
 
+<!--
+> *"I hate victims who respect their executioners."  
+-- Jean-Paul Sartre*
+-->
+
 > *"The only way out of the labyrinth of suffering is to forgive."  
 -- John Green*
 
@@ -1617,8 +1629,11 @@ If you don’t reconcile you’re postponing war.
 > *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  
 -- George S. Patton
 > *"All my possessions for a moment of time." -- Queen Elizabeth*
+> *"Tradition is not to preserve the ashes, but to pass on the fire."  
+-- Gustav Mahler*
 
 - history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
+- no one is there anymore.
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  

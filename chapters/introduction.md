@@ -13,6 +13,8 @@
 
 Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
 
+A big part of who you are is who you're not.
+
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen*
 
@@ -26,13 +28,6 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 -- Frank Herbert*
 
 ### The real you
-
-<!--
-> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
--- Richard Bach*
-
-- The ultimate question: Do you want you son/daughter to date someone like you?
--->
 
 Your new life will cost you your old one. Do not fear your own potential.
 
@@ -54,13 +49,16 @@ Your new life will cost you your old one. Do not fear your own potential.
 > *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
 -- E.E. Cummings*
 
+> *"The most common form of despair is not being who you are."  
+-- Soren Kierkegaard*
+
 ### How to come alive?
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
 -- Alan Watts*
 
-> *"The shell must break before the bird can fly."  
--- Alfred Lord Tennyson*
+> *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
+-- Richard Bach*
 
 No matter where you are in your life, you have the power to change everything in an instant. Most won't. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
 
@@ -69,6 +67,9 @@ No matter where you are in your life, you have the power to change everything in
 
 > *"What we think, we become."  
 -- Buddha*
+
+> *"The shell must break before the bird can fly."  
+-- Alfred Tennyson*
 
 > *"You often feel tired, not because you've done too much, but because you've done too little of what sparks a light in you." (...) 
 "It's not finding yourself that's hard; it's facing yourself that is." (...)  
@@ -91,16 +92,15 @@ No matter where you are in your life, you have the power to change everything in
 
 
 
-
 ---
 ## On finding your path
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
 
-The path will be revealed as you start walking.
+You are not behind, you are on a different path.
 
-Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you're not where you use to be.
+The path will be revealed as you start walking. Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you're not where you use to be.
 
 Hints:
 
@@ -123,27 +123,34 @@ Hints:
 
 > *"You goal in life is to be able to say on the day before you die that you have fully become yourself." (...)  
 "Copying others is a good way to start. Copying yourself is a disappointing way to end." (...)  
-"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is."  
+"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is." (...)  
+"There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it."  
 -- Kevin Kelly*
 
 > *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."  
 -- E.B. White*
 
-> *"It is possible for ordinary people to choose to be extraordinary." (...)  
-"If you need inspiration, don't do it."  
--- Elon Musk*
-
 > *"If the path is clear, you're probably on someone else's."  
 -- Carl Jung*
 
+> *"Only he who wanders, find new paths."  
+-- Proverb*
+
 > *"Take advantage of the opportunities - that’s probably more important than charting your path."  
 -- Admiral William Mcraven*
+
+> *"It is possible for ordinary people to choose to be extraordinary." (...)  
+"If you need inspiration, don't do it."  
+-- Elon Musk*
 
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
 -- pat_stedman@twitter*
 
 > *"Home is not where you are born; home is where all your attempts to escape cease."  
 -- Naguib Mahfouz*
+
+> *"One's destination is never a place, but a new way of seeing things."  
+-- Henry Miller*
 
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland*
@@ -169,6 +176,9 @@ Hints:
 > *"Don’t argue your path with other people. Walk it."  
 -- Lazy Yogi*
 
+> *"While we wait for life, life passes."  
+-- Seneca*
+
 > *"The question is not who is going to let me; it’s who is going to stop me."  
 -- Ayn Rand*
 
@@ -191,11 +201,8 @@ Hints:
 ### On ambition
 
 <!--
-> *"It is only in adventure that some people succeed in knowing themselves." -- Andre Gide*
-> *"Life is being on the wire, everything else is just waiting. -- Karl Wallenda*
-> *"The shell must break before the bird can fly." -- Alfred Tennyson*
-> *"There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it."*
-
+- The ultimate question: Do you want you son/daughter to date someone like you?
+- everything wants you when you want nothing
 - If you’re not trying to make money, what are you even doing?
 -->
 
@@ -233,6 +240,12 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 
 > *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
 -- Viktor Frankl*
+
+> *"Of course life has no point. If it had, man would not be free."  
+-- Andrei Tarkovsky*
+
+> *"Life is being on the wire, everything else is just waiting."  
+-- Karl Wallenda*
 
 ### On fate
 

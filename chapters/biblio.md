@@ -10,6 +10,7 @@
 - [BOOK] Valve employee
 - [FICTIONAL] ALTEREGO, Prof. Quirrel
 - [FICTIONAL] BEAUREGARD, Jack
+- [FICTIONAL] BROWN, Charlie
 - [FICTIONAL] DENT, Harvey
 - [FICTIONAL] DRAPER, Don
 - [FICTIONAL] MONTANA, Tony
@@ -19,6 +20,7 @@
 - [NEWS.YCOMBINATOR] danielvf
 - [NEWS.YCOMBINATOR] dilemma
 - [NEWS.YCOMBINATOR] exelius
+- [NEWS.YCOMBINATOR] pystack
 - [TWITTER] pat_stedman
 
 - [-680] ARCHILOCHUS (gr)
@@ -33,6 +35,7 @@
 - [-427] PLATO (gr)
 - [-384] ARISTOTLE (gr)
 - [-375] KAUTILYA (in)
+- [-369] ZHOU, Zhuang (cn)
 - [-212] ARCHIMEDES (gr)
 - [-180] GAIUS LUCILIUS (it)
 - [-106] CICERO (it)
@@ -41,8 +44,10 @@
 
 - [0046] PLUTARCH (gr)
 - [0050] EPICTETUS (gr)
+- [0050] AKIVA, Rabbi (il)
 - [0121] AURELIUS, Marcus (it)
 
+- [1138] MAIMONIDES (es)
 - [1181] ASSISI, Francis of (it)
 
 - [1207] RUMI (ir)
@@ -64,6 +69,7 @@
 - [1621] LA FONTAINE, Jean de (fr)
 - [1623] PASCAL, Blaise (fr)
 - [1631] DRYDEN, John (uk)
+
 - [1651] FÉNELON, François (fr)
 - [1667] SWIFT, Jonathan (ie)
 - [1694] VOLTAIRE (fr)
@@ -75,6 +81,7 @@
 - [1729] BURKE, Edmund (ie)
 - [1743] JEFFERSON, Thomas (us)
 - [1749] GOETHE, Johann Wolfgang von (de)
+
 - [1754] JOUBERT, Joseph (fr)
 - [1754] TALLEYRAND-PERIGORD, Charles de (fr)
 - [1757] BLAKE, William (uk)
@@ -92,6 +99,7 @@
 - [1806] MILL, John Stuart (uk)
 - [1809] LINCOLN, Abraham (us)
 - [1809] POE, Edgar Allan (us)
+- [1809] TENNYSON, Alfred (uk)
 
 - [1813] BEECHER, Henry Ward (us)
 - [1813] KIERKEGAARD, Soren (dk) 
@@ -100,8 +108,8 @@
 - [1818] BILLINGS, Josh (us)
 - [1819] ELIOT, George (uk)
 - [1819] WHITMAN, Walt (us)
-- [1820] BOVEE, Christian Nestell (us)
 
+- [1820] BOVEE, Christian Nestell (us)
 - [1821] BUCKLE, Henry Thomas (uk)
 - [1821] DOSTOYEVSKY, Fyodor (ru)
 
@@ -110,6 +118,7 @@
 - [1835] TWAIN, Mark (us)
 - [1838] MUIR, John (uk)
 
+- [1840] MONET, Claude (fr)
 - [1842] KROPOTKIN, Peter (ru)
 - [1844] FRANCE, Anatole (fr)
 - [1844] NIETZSCHE, Friedrich (de)
@@ -123,8 +132,10 @@
 - [1856] SHAW, George Bernard (ie)
 - [1856] WASHINGTON, Booker T. (us)
 - [1858] ROOSEVELT, Theodore (us)
-- [1860] CHEKHOV, Anton (ru)
 
+- [1860] CHEKHOV, Anton (ru)
+- [1860] MAHLER, Gustav (at)
+- [1861] TAGORE, Rabindranath (in)
 - [1862] HENRY, O. (us)
 - [1862] WHARTON, Edith (us)
 - [1863] FORD, Henry (us)
@@ -134,11 +145,12 @@
 - [1865] YEATS, W.B. (ie)
 - [1866] TUCKER, Allen (us)
 - [1866] WELLS, H.G. (uk)
+- [1868] DOUGLAS, Norman (uk)
 - [1868] HUBBARD, Kin (us)
 - [1869] GANDHI, Mahatma (in)
 - [1869] GIDE, André (fr)
-- [1870] LENIN, Vladimir (ru)
 
+- [1870] LENIN, Vladimir (ru)
 - [1872] HOFMANNSTHAL (Lord Chandos), Hugo von (at)
 - [1872] RUSSELL, Bertrand (uk)
 - [1873] COLETTE (fr)
@@ -148,17 +160,18 @@
 - [1874] HARWOOD, H.M (uk)
 - [1874] MAUGHAM, W. Somerset (fr)
 - [1875] JUNG, Carl (ch)
+- [1875] MANN, Thomas (de)
 - [1877] HESSE, Hermann (de)
 - [1878] HAMMERSTEIN-EQUORD, Kurt von (de)
 - [1879] EINSTEIN, Albert (de)
-- [1880] KELLER, Helen (us)
 
+- [1880] KELLER, Helen (us)
 - [1881] PICASSO, Pablo (es)
 - [1882] MILNE, A.A. (uk)
 - [1882] SWOPE, Herbert (us)
 - [1882] WOOLF, Virginia (uk)
 - [1883] CHANEL, Coco (fr)
-- [1883] GIBRAN, Kahlil (lb)
+- [1883] GIBRAN, Khalil (lb)
 - [1883] KAFKA, Franz (cz)
 - [1883] KEYNES, John Maynard (uk)
 - [1883] SCHUMPETER, Joseph (at)
@@ -172,11 +185,12 @@
 - [1889] BENCHLEY, Robert (us)
 - [1889] COCTEAU, Jean (fr)
 - [1889] WITTGENSTEIN, Ludwig (at)
-- [1890] MARX, Groucho (us)
 
+- [1890] MARX, Groucho (us)
 - [1892] BUCK, Pearl S. (us)
 - [1892] CARR, Edward (uk)
 - [1892] GORE-BROWN, R. (uk)
+- [1893] ACHESON, Dean (us)
 - [1893] SZENT-GYORGYI, Albert (hu)
 - [1893] WEST, Mae (us)
 - [1894] CUMMINGS, E.E. (us)
@@ -192,20 +206,23 @@
 - [1899] NABOKOV, Vladimir (ru)
 - [1899] THURMAN, Howard (us)
 - [1899] WHITE, E.B. (us)
+
 - [1900] MITCHELL, Margaret (us)
 - [1900] SAINT-EXUPÉRY, Antoine de (fr)
-
 - [1901] DISNEY, Walt (us)
 - [1901] EUWE, Max (nl)
 - [1901] PAULING, Linus (us)
+- [1902] ROGERS, Carl (us)
 - [1903] NEUMANN, John von (hu)
 - [1903] NIN, Anaïs (fr)
 - [1903] ORWELL, George (uk)
 - [1903] PATON, Alan (za)
 - [1903] ROBINSON, Joan (uk)
 - [1904] DALI, Salvador (us)
+- [1904] SUZUKI, Shunryu (jp)
 - [1905] FRANKL, Viktor (at)
 - [1905] RAND, Ayn (ru)
+- [1905] WALLENDA, Karl (de)
 - [1906] ARENDT, Hannah (de)
 - [1906] ONASSIS, Aristotle (gr)
 - [1907] HEINLEIN, Robert A. (us)
@@ -218,10 +235,10 @@
 - [1909] ALINSKY, Saul (us)
 - [1909] DRUCKER, Peter (at)
 - [1909] WIGMORE, Ann (lt)
+
 - [1910] LEVENSTEIN, Aaron (us)
 - [1910] WALKER, Aaron (us)
 - [1910] WOODEN, John (us)
-
 - [1911] MAHFOUZ, Naguib (eg)
 - [1911] OGILVY, David (uk)
 - [1911] SCHUMACHER, Ernst F. (de)
@@ -233,21 +250,23 @@
 - [1914] DURAS, Marguerite (fr)
 - [1914] WATSON Jr, Tom J. (us)
 - [1915] SINATRA, Frank (us)
-- [1915] TUKEY, John (us)
+- [1915] TUKEY, John (us)(uk)
 - [1915] WATTS, Alan (uk)
 - [1916] ANGLIN, William S. (ca)
 - [1916] NOBLE, Charles C. (us)
 - [1917] KENNEDY, John F. (us)
+- [1918] BERNSTEIN, Leonard (us)
 - [1918] EYCK, Aldo van (nl)
 - [1918] FEYNMAN, Richard (us)
 - [1918] MANDELA, Nelson (za)
 - [1919] BOX, George (uk)
 - [1919] HILLARY, Edmund (nz)
+
 - [1920] ASIMOV, Isaac (ru)
 - [1920] BRADBURY, Ray (us)
 - [1920] BUKOWSKI, Charles (de)
-
 - [1921] JONES, James (us)
+- [1921] NIGHTINGALE, Earl (us)
 - [1921] WARD, William Arthur (us)
 - [1922] CARTWRIGHT, Rosalind (us)
 - [1922] GARLAND, Judy (us)
@@ -260,6 +279,7 @@
 - [1924] MUNGER, Charlie (us)
 - [1925] NEWMAN, Paul (us)
 - [1925] VIDAL, Gore (us)
+- [1926] ELLIOT, Elisabeth (be)
 - [1926] GINSBERG, Allen (us)
 - [1926] HẠNH, Thích Nhất (vn)
 - [1926] MONROE, Marilyn (us)
@@ -272,14 +292,16 @@
 - [1929] CASSAVETES, John (us)
 - [1929] FRANK, Anne (de)
 - [1929] HEPBURN, Audrey (uk)
+- [1929] SPENCE, Gerry (us)
+
 - [1930] BUFFETT, Warren (us)
 - [1930] CHAMBERLAIN, Geoffrey P. (uk)
 - [1930] DIJKSTRA, Edsger (nl)
 - [1930] ROHN, Jim (us)
-
 - [1932] COVEY, Stephen (us)
 - [1932] PLATH, Sylvia (us)
 - [1932] ROBBINS, Tom (us)
+- [1932] TARKOVSKY, Andrei (ru)
 - [1932] TAYLOR, Elizabeth (uk)
 - [1933] LAGERFELD, Karl (de)
 - [1933] MCCARTHY, Cormac (us)
@@ -289,7 +311,7 @@
 - [1934] STEINEM, Gloria (us)
 - [1935] LAMA, Dalai (np)
 - [1935] OLIVER, Mary (us)
-- [1936] BATH, Richard (us)
+- [1936] BACH, Richard (us)
 - [1936] COLLINS, Marva (us)
 - [1936] DAWES, Robyn (us)
 - [1936] GOODHART, Charles (uk)
@@ -305,11 +327,11 @@
 - [1939] ATWOOD, Margaret (us)
 - [1939] MONTALBAN, Manuel Vázquez (us)
 - [1939] ZANDER, Benjamin (uk)
+
 - [1940] ANDRETTI, Mario (it)
 - [1940] DYER, Wayne (us)
 - [1940] KAY, Alan (us)
 - [1940] LENNON, John (uk)
-
 - [1941] DAWKINS, Richard (us)
 - [1941] DYLAN, Bob (us)
 - [1942] BIDEN, Joe (us)
@@ -349,9 +371,9 @@
 - [1949] LUTUS, Paul (us)
 - [1949] MURAKAMI, Haruki (jp)
 - [1949] ULLMAN, Ellen (us)
+
 - [1950] LEBOWITZ, Fran (us)
 - [1950] STROUSTRUP, Bjarne (dk)
-
 - [1951] REYNOLDS, Rick (us)
 - [1952] COPELAND, Stewart (us)
 - [1952] KELLY, Kevin (us)
@@ -376,13 +398,13 @@
 - [1958] SOMMER, Chris (us)
 - [1959] GREENE, Robert (us)
 - [1959] SEMLER, Ricardo (br)
+
 - [1960] GAIMAN, Neil (uk)
 - [1960] GODIN, Seth (us)
 - [1960] GWYNN, Tony (us)
 - [1960] HEJLSBERG, Anders (dk)
 - [1960] ROBBINS, Anthony (us)
 - [1960] TALEB, Nassim (lb)
-
 - [1961] ANDERSON, Laurie Halse (us)
 - [1961] GRETZKY, Wayne (ca)
 - [1961] KAUFMAN, Peter S. (us)
@@ -403,6 +425,7 @@
 - [1965] MATTHEIJ, Jacques (nl)
 - [1965] ROWLING, J.K. (uk)
 - [1965] SPARKS, Nicholas (us)
+- [1965] SHARMA, Robin (ca)
 - [1966] PICOULT, Jodi (us)
 - [1966] TYSON, Mike (us)
 - [1967] COBAIN, Kurt (us)
@@ -416,11 +439,11 @@
 - [1969] SIVERS, Derek (us)
 - [1969] STRAUSS, Neil (us)
 - [1969] WALKER, Rebecca (us)
+
 - [1970] CHBOSKY, Stephen (us)
 - [1970] DIFRANCO, Ani (us)
 - [1970] MILEI, Javier (ar)
 - [1970] SNICKET, Lemony (us)
-
 - [1971] BUTCHER, Jim (us)
 - [1971] CHACHRA, Deb (us)
 - [1971] HAMPTON, Dream (us)
@@ -455,8 +478,8 @@
 - [1978] NEMER, Jason (us)
 - [1978] TORRE, Alessandra (us)
 - [1979] FITZPATRICK, Becca (us)
-- [1980] HARBINGER, Jordan (us)
 
+- [1980] HARBINGER, Jordan (us)
 - [1982] NEWPORT, Cal (us)
 - [1982] SETHI, Ramit (us)
 - [1982] VELEZ, David (co)
@@ -467,8 +490,8 @@
 - [1986] BENOIT, Andy (us)
 - [1986] TATE, Andrew (uk)
 - [1987] HOLIDAY, Ryan (us)
-- [1990] HILDEBRAND, Sarah (my)
 
+- [1990] HILDEBRAND, Sarah (my)
 - [1997] NESTARES, Santiago (us)
 
 - [????] BALL, George (us)

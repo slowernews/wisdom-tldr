@@ -219,6 +219,7 @@ Choose truth or your self-mythology will seduce you.
 -- Morgan Housel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
 
+- cheap prices attract problematic customers
 - sustainable design is just good design.
 - Platonic products rarely work.
 - open source means each problem only has to solved once -- naval
@@ -573,6 +574,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 <!--
 > *"My family history begins with me, but yours ends with you." -- Iphicrates*
 > *"When you wish to instruct, be brief; children's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind." -- Cicero*
+- prepare the child for the path, not the child for teh path.
 -->
 
 > *"Teach your children early what you learned late."  
@@ -744,6 +746,8 @@ Hints:
 - Instead of punishments extingue rewards.
 - The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your presence and attention.
 
+> *"Rewards and punishment is the lowest form of education."  
+-- Zhuang Zhou*
 
 
 
@@ -821,7 +825,8 @@ If you are a team leader, how much do team members trust you?
 What do you need to do to regain the trust of others?
 What is the simplest thing you can do to be more trustworthy?
 
-
+> *"Tolerance becomes a crime when applied to evil."  
+-- Thomas Mann*
 > *"A government that is big enough to give you all you want is big enough to take it all away." -- Barry Goldwater*
 > *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
 -- Salman Rushdie*
@@ -979,13 +984,6 @@ Hints:
 
 ### On politicians and bureaucracy
 
-<!--
-> *"When you have an efficient government, you have a dictatorship." -- Harry Truman*
-> *"You can tell the ideals of a nation by its advertisements." -- Norman Douglas*
-
-> *"A memorandum is written not to inform the reader, but to protect the writer." -- Dean Acheson*
--->
-
 > *"90% of the politicians give the other 10% a bad reputation."  
 -- Henry Kissinger*
 
@@ -996,7 +994,8 @@ Hints:
 "Every decent man is ashamed of the government he lives under."  
 -- H.L. Mencken*
 
-> *"The price of apathy towards public affairs is to be ruled by evil men."  
+> *"No one is more hated than he who speaks the truth." (...)  
+"The price of apathy towards public affairs is to be ruled by evil men."  
 -- Plato*
 
 > *"The first responsibility of any bureaucracy is the preservation of itself. The second is to expand its responsiblities."  
@@ -1007,6 +1006,12 @@ Hints:
 
 > *"When you have an efficient government, you have a dictatorship."  
 -- Harry Truman*
+
+> *"You can tell the ideals of a nation by its advertisements."  
+-- Norman Douglas*
+
+> *"A memorandum is written not to inform the reader, but to protect the writer."  
+-- Dean Acheson*
 
 ### On inequality
 
@@ -1226,6 +1231,8 @@ Hints:
 > *"I can't understand why a person will take a year or two to write a novel when he can easily buy one for a few dollars." -- Fred Allen*
 > *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
 -- Proverb*
+> *"If you feel pain, you're alive. If you feel other people's pain, you're a human being."  
+-- Leo Tolstoy*
 
 - web3 assumes that people prefer privacy over free stuff, which is false.
 - If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
@@ -1517,8 +1524,12 @@ Hints:
 > *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  
 -- Osho*
 > *"A man is already halfway in love with any woman who listens to him." -- Brendan Francis*
-
+> *"How bold one gets when one is sure of being loved."  
+-- Sigmund Freud*
+> *"A mind all logic is like a knife all blade. It makes the hand bleed that uses it."  
+-- Rabindranath Tagore*
 - Thank you for not loving me. It forced me to love myself.
+- she was poetry but he couldn't read.
 - Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
 - I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
 -->
@@ -1671,6 +1682,8 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 > *"When should a man marry? A young man, not yet; an elder man, not at all." -- Sir Francis Bacon*
 > *"When a woman marries again it is because she detested her first husband. When a man marries again, it is because he adored his first wife." -- Oscar Wilde*
 > *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it." -- Peggy Joyce*
+> *"If you are afraid of loneliness, don't marry."  
+-- Anton Chekhov*
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
@@ -1729,6 +1742,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Galileo Galilei*
 > *"Hell is empty and all the devis are here."  
 -- William Shakespeare*
+> *"I would rather have a mind opened by wonder than one closed by belief."  
+-- Gerry Spence*
 -->
 
 > *"Science without religion is lame. Religion without science is blind."  
@@ -2207,6 +2222,8 @@ Hints:
 > *"Only the guy who isn't rowing has time to rock the boat."  
 -- Jean Paul Sartre*
 
+### On vision
+
 
 
 
@@ -2638,6 +2655,11 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 
 ### On easy opponents
 
+<!--
+> *"A free lunch is only found in mousetraps."  
+-- John Capozzi*
+-->
+
 Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
 
 > *"Despise the free lunch."  
@@ -2691,6 +2713,9 @@ Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty 
 > *"Of all the bad men, religious bad men are the worst."  
 -- C.S. Lewis*
 
+> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
+-- Bruce Lee*
+
 When nothing else works, surrender. Only use anger and go all in if you can see the end already.
 
 > *"Do I not destroy my enemies when I make them my friends?"  
@@ -2728,6 +2753,11 @@ Hint:
 -- Maya Angelou*
 
 ### On heros
+
+<!--
+> *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards."  
+-- Nietzsche*
+-->
 
 > *"Every society honors its live conformists and its dead troublemakers."  
 -- Marshall McLuhan*

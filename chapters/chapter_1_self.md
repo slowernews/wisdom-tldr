@@ -13,18 +13,21 @@
 <!--
 > *"I'm a warrior, so that my son may be a merchant, so that his son may be a poet."  
 -- John Quincy Adams*
-
-- when you don't want to be interesting you are free. -- moojy
-- Freedom to -> freedom from -- naval
-- Don’t build your castle in other peoples kingdom’s
-- Bees don’t waste their time explaining to flies that flowers taste better than shit.
-
 > *"Commitment is what transforms a promise into a reality."  
 -- Abraham Lincoln*
 > *"Commitment is an act, not a word."  
 -- Jean-Paul Sartre*
 > *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  
 -- Paulo Coelho*
+> *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  
+-- George Bernard Shaw*
+> *"Your worst sin is that you have destroyed and betrayed yourself for nothing."  
+-- Fyodor Dostoyevsky*
+
+- when you don't want to be interesting you are free. -- moojy
+- Freedom to -> freedom from -- naval
+- Don’t build your castle in other peoples kingdom’s
+- Bees don’t waste their time explaining to flies that flowers taste better than shit.
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -87,6 +90,7 @@ Hints:
 - Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 - You are shaped by how you see others seeing you.
+- tetris taught me that when you try to fit in, you'll disappear.
 -->
 
 > *"When we see truth in a person we call it authenticity."  
@@ -221,7 +225,8 @@ One way to humble yourself is to place yourself in the position of being the wea
 > *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
 -- Naval Ravikant*
 
-> *"Humility is mostly about being very honest about how much you owe to luck."  
+> *"Humility is mostly about being very honest about how much you owe to luck." (...)  
+"If you are more fortunate than others, build a longer table rather than a taller fence."  
 -- Kevin Kelly*
 
 ### On respect
@@ -238,15 +243,6 @@ You might think you want a fancy car or a nice watch but what you probably want 
 -- Paulo Coelho*
 
 ### On gratitude
-
-<!--
-> *"Feeling gratitude and not expressing it is like wrapping a present and not giving it." -- William Arthur Ward*
-> *"If you are more fortunate than others, build a longer table rather than a taller fence."*
-> *"The most selfish thing in the world you can do is to be generous. Your generosity will return you ten fold."*
-> *"Humility is mostly about being very honest about how much you owe to luck."*
-> *"If I had any humility I would be perfect." -- Ted Turner*
-> *"You can’t call it charity unless no one is watching."*
--->
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero*
@@ -275,7 +271,8 @@ Being grateful is looking up. Don’t forget that a group of people blazed the t
 -- Mark Manson*
 
 > *"Writing down one thing you are grateful for each day is the cheapest possible therapy ever." (...)  
-"You can't call it charity unless no one is watching."  
+"The most selfish thing in the world you can do is to be generous. Your generosity will return you ten fold." (...)  
+"You can’t call it charity unless no one is watching."  
 -- Kevin Kelly*
 
 > *"The blind can’t see. The proud will not."  
@@ -284,6 +281,9 @@ Being grateful is looking up. Don’t forget that a group of people blazed the t
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich." (...)  
 "When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu*
+
+> *"Feeling gratitude and not expressing it is like wrapping a present and not giving it."  
+-- William Arthur Ward*
 
 ### How to apologise?
 
@@ -528,7 +528,7 @@ Hints:
 - Journal early before your inhibitions take in. Record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.
 
 > *"You can only connect the dots looking back, not looking forward."  
--- Unknown*
+-- Steve Jobs*
 
 ### On applied knowledge
 
@@ -555,13 +555,12 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 
 ---
 ## On wisdom
-	
-<!--
-> *"Wisdom is knowing what to do with what you know." -- J. Winter Smith*
--->
 
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris*
+
+> *"Wisdom is knowing what to do with what you know."  
+-- J. Winter Smith*
 
 Wisdom is knowing the long-term consequences of your actions.
 
@@ -570,8 +569,8 @@ Wisdom is knowing the long-term consequences of your actions.
 > *"Doubt is the origin of wisdom."  
 -- René Descartes*
 
-> *"The beginning of wisdom is calling things by their right names."  
--- Unknown*
+> *"The beginning of wisdom is to call things by their proper name."  
+-- Confucius*
 
 > *"Being wise means having more questions than answers."  
 -- Kevin Kelly*
@@ -590,21 +589,9 @@ Wisdom is knowing the long-term consequences of your actions.
 -- Albert Einstein*
 
 > *"Silence is a fence around wisdom."  
--- Proverb*
+-- Rabbi Akiva*
 
 ### On mastery
-
-<!--
-> *"Clarity precedes mastery." -- Robin Sharma*
-> *"In the beginner's mind there are many possibilities, in the expert's mind there are few." -- Shunryu Suzuki*
-> *"One can have no smaller or greater mastery then mastery of oneself." -- Leonardo DaVinci*
-> *"Order and simplification are the first steps towards mastery of a subject." -- Thomas Mann*
-
-> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
--- Bruce Lee*
-> *"The price of greatness is responsibility."
--- Winston Churchill*
--->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
 -- Niels Bohr*
@@ -638,7 +625,7 @@ Introverts have more probability of being an expert in their field. Extraversion
 -- Robyn Dawes*
 
 > *"Amateurs play for tricks, masters play for position."
--- Unknown*
+-- pystack@HN*
 
 > *"Don't play what's there, play what's not there."  
 -- Miles Davis*
@@ -655,6 +642,20 @@ Introverts have more probability of being an expert in their field. Extraversion
 > *"My opinions may have changed, but not the fact that I am right."  
 -- Ashleigh Brilliant*
 
+> *"Clarity precedes mastery."  
+-- Robin Sharma*
+
+> *"In the beginner's mind there are many possibilities, in the expert's mind there are few."  
+-- Shunryu Suzuki*
+
+> *"One can have no smaller or greater mastery then mastery of oneself."  
+-- Leonardo Da Vinci*
+
+> *"Order and simplification are the first steps towards mastery of a subject."  
+-- Thomas Mann*
+
+> *"The price of greatness is responsibility."  
+-- Winston Churchill*
 
 
 
@@ -666,25 +667,12 @@ Introverts have more probability of being an expert in their field. Extraversion
 <!--
 > *"You can only be as good as you dare to be bad." -- John Barrymore*
 > *"When you take the free will out of education, that turns it into schooling." -- John Taylor Gatto*
-> *"Education is a progressive discovery of our own ignorance." -- Will Durant*
-> *"Education is learning what you didn't know you didn't know." -- George Boas*
-> *"Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime." -- Maimonides*
 > *"If you think education is expensive, try ignorance." -- Andy McIntyre*
 > *"Learning starts with failure; the first failure is the beginning of education." -- John Hersey*
-> *"Nine-tenths of education is encouragement." -- Anatole France*
-> *"Rewards and punishment is the lowest form of education." -- Chuang Tzu*
-> *"Self-education is, I firmly believe, the only kind of education there is." -- Isaac Asimov*
 > *"Some people will never learn anything, for this reason, because they understand everything too soon." -- Alexander Pope*
 > *"Spoon feeding in the long run teaches us nothing but the shape of the spoon." -- E.M. Forster*
 > *"Tell me and I forget. Teach me and I remember. Involve me and I learn." -- Benjamin Franklin*
-> *"The highest result of education is tolerance." -- Helen Keller*
-> *"The aim of education is the knowledge, not of facts, but of values." -- William Burroughs*
-> *"The difference between school and life? In school, you're taught a lesson and then given a test. In life, you're given a test that teaches you a lesson." -- Tom Bodett*
-> *"The only person who is educated is the one who has learned how to learn and change." -- Carl Rogers*
-> *"The whole art of teaching is only the art of awakening the natural curiosity of the mind for the purpose of satisfying it afterwards." -- Anatole France*
 > *"When a subject becomes totally obsolete we make it a required course." -- Peter Drucker*
-> *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
-> *"When you are right, you are learning nothing."*
 
 - the problem is not, and never have been, "as good as a professional". It has always been "it's good enoughto replace a professional so it'll be cheaper." the key thing about AI is that AI+human is waht we'll do.
 - deliberate practice
@@ -692,6 +680,8 @@ Introverts have more probability of being an expert in their field. Extraversion
 - career day an year -> journaling self analysis. skill fluency!
 - the next level of your life will demand a different you.
 
+> *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
+> *"When you are right, you are learning nothing."*
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 -->
 
@@ -720,10 +710,13 @@ College education may help you make a living. Self-education may make you a fort
 > *"Learning is a treasure that will follow it’s owner everywhere."  
 -- Proverb*
 
+> *"Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."  
+-- Maimonides*
+
 > *"Polymaths are late bloomers."  
 -- Robin Hanson*
 
-> *"Nine tenths of education is encouragement."  
+> *"Nine-tenths of education is encouragement."  
 -- Anatole France*
 
 > *"Education is not the learning of many facts, but the training of the mind to think."  
@@ -732,8 +725,23 @@ College education may help you make a living. Self-education may make you a fort
 > *"Education is what survives when what has been learnt has been forgotten."  
 -- B.F. Skinner*
 
+> *"The only person who is educated is the one who has learned how to learn and change."  
+-- Carl Rogers*
+
+> *"The highest result of education is tolerance."  
+-- Helen Keller*
+
+> *"The aim of education is the knowledge, not of facts, but of values."  
+-- William Burroughs*
+
+> *"Education is a progressive discovery of our own ignorance."  
+-- Will Durant*
+
 > *"We learn 10% of what we read, 20% of what we hear, 30% of what we see, 50% of what we see and hear, 70% of what we discuss, 80% of what we experience and 95% of what we teach to others."  
 -- William Glasser*
+
+> *"Self-education is, I firmly believe, the only kind of education there is."  
+-- Isaac Asimov*
 
 Hints:
 
@@ -829,6 +837,8 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 > *"Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good." -- Samuel Johnson*
 > *"Medicine is my lawful wife and literature is my mistress."  
 -- Anton Chekhov*
+> *"When you are consumed by thoughts, write. When you are uninspired, read."  
+-- Stephen King*
 
 - o poeta faz a sintese das coisas
 5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
@@ -997,6 +1007,8 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 > *"If you have to ask what jazz is, you'll never know." -- Louis Armstrong*
 > *"What is the difference between a madman and a genious? Success."  
 -- Javier Milei*
+> *"Genious is finding the invisible links between things."  
+-- Vladimir Nabokov*
 -->
 
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
@@ -1264,6 +1276,8 @@ People say they want to be famous to impact the world, often what they want is t
 -- M. Vázquez Montalban*
 > *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  
 -- R.C. Sproul*
+
+- Luck sometimes visit a fool, but it never sits down with him.
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -1396,6 +1410,12 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"Television has proved that people will look at anything rather than each other." -- Ann Landers*
 > *"TV is chewing gum for the eyes." -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
+> *"Travel and tell no one, live a true love story and tell no one, people ruin beautiful things."  
+-- Kahlil Gibran*
+> *"Most people tiptoe through life, hoping to make it safely to death."  
+-- Earl Nightingale*
+
+- It's okay to live a life others don't understand. 
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -1765,6 +1785,10 @@ Hints:
 -- Fyodor Dostoyevsky*
 > *"The eyes do not see what the mind does not want."  
 -- Proverb*
+> *"Hatred is the coward's revenge for being intimidated."  
+-- George Bernard Shaw*
+> *"Fear arrives when we imagine everything depends on us."  
+-- Elisabeth Elliot*
 
 - What would you do if you weren't afraid?
 - dishonesty is a reaction to fear. fear just wants us to stay the same.
@@ -1957,11 +1981,22 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 -- Bob Harris (Lost in translation)*
 
 - Pay attention to what people say out of anger, they've been dying to tell you that.
+
+> *"And God said «love your enemy», and I loved myself.*
+-- Khalil Gibran*
 -->
 
 Anger is a punishment we give ourselves for someone else’s mistake.
 
 ### On scars
+
+<!--
+> *"I bear the wounds of all the battles I avoided."  
+-- Fernando Pessoa*
+
+- i don't hide my scars. they are proof that i showed up for life. and fought.
+- if you don't heal what hurt you, you'll bleed on people who didn't cut you.
+-->
 
 > *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
 -- China Mieville*
@@ -2069,6 +2104,11 @@ Hints:
 -- David Storey*
 
 ### How to overcome shame and grow confidence?
+
+<!--
+> *"Out of your vulnerabilities will come your strength."  
+-- Sigmund Freud*  
+-->
 
 > *"Once you’ve accepted your flaws, no one can use them against you."  
 -- Tyrion*
@@ -2260,6 +2300,10 @@ Worrying is worshipping the problem. If you panic, panic early.
 <!--
 > *"Perfection is not attainable, but if we chase perfection, we can catch excellence."
 -- Vince Lombardi*
+> *"And now that you don't have to be perfect, you can be good."  
+-- Charlie Brown*
+> *"If I had any humility I would be perfect."  
+-- Ted Turner*
 -->
 
 > *"Perfectionism is the fear of being criticized."  
@@ -2354,6 +2398,11 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 
 ### On self awareness
 
+<!--
+> *"It is only in adventure that some people succeed in knowing themselves."  
+-- Andre Gide*
+-->
+
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
 -- François de La Rochefoucauld*
 
@@ -2415,6 +2464,8 @@ Hints:
 > *"Young men think old men are fools; but old men know young men are fools." -- George Chapman*
 > *"Youth is when you blame all your troubles on your parents; maturity is when you learn that everything is the fault of the younger generation.*
 > *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it." -- Mark Twain*
+> *"Life really does begin at forty. Up until then, you are just doing research."  
+-- Carl Jung*
 -->
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
@@ -2514,3 +2565,8 @@ Finding a place to die is an important thing to do.
 
 > *"Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree."  
 -- Kevin Kelly*
+
+### On loneliness
+
+> *"Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you."  
+-- Carl Jung*
