@@ -10,14 +10,6 @@
 
 ## On communication
 
-<!--
-> *"The most important thing in communication is hearing what isn't said." -- Peter Drucker*
-> *"Think like a wise man but communicate in the language of the people." -- William Butler Yeats*
-> *"Two monologues do not make a dialogue." -- Jeff Daly*
-> *"Give me the gift of a listening heart." -- King Solomon*
-> *"Everybody's a teacher if you listen." -- Doris Roberts*
--->
-
 > *"Knowledge speaks, but wisdom listens."  
 -- Jimi Hendrix*
 
@@ -37,6 +29,12 @@ Speak less and listen more.
 "Silence cannot be misquoted."  
 -- Proverbs*
 
+> *"Give me the gift of a listening heart."  
+-- King Solomon*
+
+> *"The most important thing in communication is hearing what isn't said."  
+-- Peter Drucker*
+
 ### How to communicate? 
 
 > *"If you want to be interesting, be interested."  
@@ -54,6 +52,15 @@ Hints:
 
 > *"The more you say, the less people remember."  
 -- François Fénelon*
+
+> *"Think like a wise man but communicate in the language of the people."  
+-- W.B. Yeats*
+
+> *"Two monologues do not make a dialogue."  
+-- Jeff Daly*
+
+> *"A little inaccuracy sometimes saves tons of explanation."  
+-- H.H. Munro*
 
 ### How to discord?
 
@@ -211,10 +218,7 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"Microsoft is always two years away from failure." -- Bill Gates*
 > *"Money never starts an idea; it is the idea that starts the money." -- William J. Cameron*
-> *"You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new." -- Steve Jobs*
-> *"We've reached the end of incrementalism. Only those companies that are capable of creating industry revolutions will prosper in the new economy. -- Gary Hamel*
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
 -- Morgan Housel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
@@ -321,6 +325,12 @@ Hints:
 
 > *"Don't open a shop unless you know how to smile."  
 -- Proverb*
+
+> *"Microsoft is always two years away from failure."  
+-- Bill Gates*
+
+> *"You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new."  
+-- Steve Jobs*
 
 
 
@@ -508,14 +518,361 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 
 
 
+
+---
+## On generosity and incentives
+
+> *"No one has ever become poor by giving."  
+-- Anne Frank*
+
+> *"A bit of fragrance clings to the hand that gives flowers." (...)  
+"A candle loses nothing by lighting another candle."  
+-- Proverbs*
+
+No one on their deathbed has ever regretted giving too much away.
+
+Hints:
+
+- If you can afford the dinner you can afford the tip.
+- Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.
+- A low value gift may have the opposite effect.
+
+> *"He that gives should never remember and he that receives should never forget."  
+-- Talmud*
+
+> *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he’d learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I’ll write you a check». Almost everyone who was just in it for the handouts couldn’t be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He’d hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn’t want to spend time with him so there was never really a conflict there." (...)  
+"My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn’t lessen his genuine love for everyone, just let him be a little more super human."  
+-- danielvf@HN*
+
+> *"Attention is the rarest and purest form of generosity."  
+-- Weil*
+
+> *"If you are more fortunate than others, build a longer table rather than a taller fence."  
+-- Kevin Kelly*
+
+> *"A guest and a fish stink in three days."  
+-- Proverb*
+
+### On incentives
+
+> *"In nature there are neither rewards nor punishments, there are consequences."  
+-- Robert G. Ingersoll*
+
+Powerful people give freely, buying influence rather than things.
+
+Hints:
+
+- We learn complex behaviors via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. After the behaviour is learnt, continuous reinforcement becomes intermitent reinforcement.
+- Instead of punishments extingue rewards.
+- The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your presence and attention.
+
+> *"Rewards and punishment is the lowest form of education."  
+-- Zhuang Zhou*
+
+
+
+
+
+
+---
+## On leadership
+
+<!--
+- a autoridade é delegavel mas a responsabilidade n é delegavel
+- the organization is always modelling the leader. military leader don’t have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
+- Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
+- There are three keys: honesty, effectiveness, and efficiency.
+- succeful takers are the most visible people in organizations.
+- Proactive problem management – Go directly to the source.
+- convincing vs inspiring leadership
+- never make a numbers person the leader
+-->
+
+> *"He who does not desire power is fit to hold it."  
+-- Plato*
+
+> *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
+-- Rumi*
+
+> *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
+-- Alexander the great*
+
+> *"To lead people walk behind them." (...)  
+"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."  
+-- Lao Tzu*
+
+Leaders are team makers. There are no bad teams, only bad leaders.
+
+Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strongest person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
+
+Hints:
+
+- Leaders are embassadors of their teams. They can delegate culture keeping but not culture creation. 
+- If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.
+- Best leaders are leaders that grew up in the hierarchy.
+- People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
+
+> *"Leadership is not about being followed, is about being first."  
+-- Dan Munro*
+
+> *"You can tell a bully from a leader by how they treat people who disagree with them."  
+-- Miles K. Davis*
+
+> *"The person who clears the path ultimately controls its direction, just as the canvas shapes the painting."  
+-- Ryan Holiday*
+
+> *"If you wish to control others you must control yourself."  
+-- Miyamoto Musashi*
+
+> *"A politician who reads aloud speaches written by others is an actor, not a leader." (...)  
+"The leader doesn’t take charge of the tribe. The leader takes responsability for the tribe." (...)  
+"The highest status people in human history are those that asked for nothing and gave everything." (...)  
+"Charisma is the ability to project confidence and love at the same time." (...)  
+"If you aren’t willing to get mocked, you’ll never be able to lead." (...)  
+"You lead by willing to walk alone."  
+-- Naval Ravikant*
+
+> *"The only thing that gives orders is balls."  
+-- Tony Montana*
+
+> *"Only the guy who isn't rowing has time to rock the boat."  
+-- Jean Paul Sartre*
+
+> *"To be able to lead others, a man must be willing to go forward alone."  
+-- Harry Truman*
+
+> *"If you want to build a ship, don't herd people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea."  
+-- Antoine de Saint-Exupery*
+
+> *"Effective leadership is putting first things first. Effective management is discipline, carrying it out."  
+-- Stephen Covey*
+
+> *"Example is not the main thing in influencing others; it is the only thing."  
+-- Albert Schweitzer*
+
+> *"Leaders must be close enough to relate to others, but far enough ahead to motivate them."  
+-- John Maxwell*
+
+> *"Management has a lot to do with answers. Leadership is a function of questions. And the first question for a leader always is: «Who do we intend to be?» Not «What are we going to do?» but «Who do we intend to be?»"  
+-- Max DePree*
+
+> *"One of the tests of leadership is the ability to recognize a problem before it becomes an emergency."  
+-- Arnold Glasow*
+
+> *"If you don't understand that you work for your mislabeled «subordinates», then you know nothing of leadership. You know only tyranny."  
+-- Dee Hock*
+
+> *"People ask the difference between a leader and a boss. The leader works in the open, and the boss in covert."  
+-- Theodore Roosevelt*
+
+> *"Leadership is the capacity to translate vision into reality."  
+-- Warren Bennis*
+
+> *"The leader has to be practical and a realist, yet must talk the language of the visionary and the idealist."  
+-- Eric Hoffer*
+
+> *"The first responsibility of a leader is to define reality. The last is to say thank you."  
+-- Max DePree*
+
+> *"The key to successful leadership today is influence, not authority."  
+-- Kenneth Blanchard*
+
+> *"The led must not be compelled; they must be able to choose their own leader."  
+-- Albert Einstein*
+
+> *"The function of leadership is to produce more leaders, not more followers."  
+-- Ralph Nader*
+
+> *"Lead and inspire people. Don't try to manage and manipulate people. Inventories can be managed but people must be lead."  
+-- Ross Perot*
+
+> *"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."  
+-- John Quincy Adams*
+
+### On vision
+
+> *"Vision is the art of seeing things invisible."  
+-- Jonathan Swift*
+
+> *"Vision without action is a daydream. Action with without vision is a nightmare."  
+-- Proverb*
+
+> *"Vision without execution is hallucination."  
+-- Thomas Edison*
+
+> *"To accomplish great things we must dream as well as act."  
+-- Anatole France*
+
+> *"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside awakens."  
+-- Carl Jung*
+
+> *"If I have seen farther than others, it is because I was standing on the shoulders of giants."  
+-- Isaac Newton*
+
+> *"Societies in decline have no use for visionaries."  
+-- Anais Nin*
+
+
+
+
+
+
+---
+## On management and delegation
+
+<!--
+- reward system. culture is influenced by structure. give to the right person
+- as estruturas funcionam qd ha coesao
+- Ideas are welcomed, execution is worshiped
+- good managers shield their team from all the noise coming from above and give them a calm environment to work in. Bad managers amplify the noise and make the team feel every silly whim of upper management.
+-->
+
+> *"Don’t postpone to tomorrow what other people can do for you today."  
+-- Warren Buffett*
+
+Managing is delegating. A great manager is a great facilitator. His responsability is to make his team better. 
+
+Hints:
+
+- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?» The speed that you offload your stuff will be the speed of your team.
+- Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you’re occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
+- Spend one hour a day communicating to your people and everything will be OK.
+- Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
+
+> *"Management is doing things right; leadership is doing the right things." (...)  
+"My greatest strength as a consultant is to be ignorant and ask a few questions." (...)  
+"No institution can possibly survive if it needs geniuses or supermen to manage it. It must be organized in such a way as to be able to get along under a leadership composed of average human beings."  
+-- Peter F. Drucker*
+
+> *"Lots of folks confuse bad management with destiny."  
+-- Frank Hubbard*
+
+> *"The manager asks how and when; the leader asks what and why."  
+-- Warren Bennis*
+
+> *"Never tell people how to do things. Tell them what to do and they´will surprise you with their ingenuity."  
+-- General George Patton*
+
+> *"The best executive is the one who has sense enough to pick good people to do what he wants done, and self-restraint to keep from meddling with them while they do it."  
+-- Theodore Roosevelt*
+
+
+### On teams
+
+<!--
+> *"If you need emergency help from a bystander, command them what to do. By giving them an assignment, you transform them from bewildered bystander to a responsible assistant."*
+> *"Never accept a work meeting until you’ve seen the agenda and know what decisions need to be made. If no decisions need to be made, skip the meeting."*
+-->
+
+> *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don't care about becoming a somebody."  
+-- Phil Dooley*
+
+> *"If you want to go fast, go alone. If you want to go far, go together."  
+-- Proverb*
+
+People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
+
+Hints:
+
+- Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
+- A chain is only as strong as its weakest link.
+- Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
+
+> *"I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief."  
+-- Kurt von Hammerstein-Equord*
+
+> *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
+-- Edith Wharton*
+
+> *"Every person in your company is a vector. Your progress is determined by the sum of all vectors."  
+-- Elon Musk*
+
+> *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
+-- Naval Ravikant*
+
+> *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
+-- Perry Belcher*
+
+> *"You're either part of the solution or part of the problem."  
+-- Eldridge Cleaver*
+
+> *"A team effort is a lot of people doing what I say."  
+-- Michael Winner, British film director*
+
+### How to give feedback?
+
+<!--
+> *"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."  
+-- Aristotle*
+
+TEN TIPS ON GIVING FEEDBACK
+-- Give at least five times more positive feedback than negative.
+-- Give feedback soon after the behavior you want to respond to.
+-- Pick the moment when both of you are in the right frame of mind.
+-- Keep it private. Feedback is not a spectator sport.
+-- Prepare. Take the time to organize what you want to say.
+-- Avoid generalities. Cite specific examples.
+-- Focus on the issue or behavior, not the person.
+-- Pay attention to body language. Adjust your feedback accordingly.
+-- Keep it simple. Don't focus on too many things at once.
+-- End on a positive note.
+-->
+
+> *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
+-- HN_exelius*
+
+Ask instead of telling.
+
+Continue, or consider. You give feedback that says either «continue doing X» or «consider changing X to make it better». If the delivered work is not good enough give a reason. It’s really simple, fast and actionable.
+
+Hints:
+
+- «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
+- «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
+- «Interesting, how do you feel about it? And your team? Is that the best you can do?»
+
+> *"Praise by name, criticize by category."  
+-- Warren Buffet*
+
+> *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth." (...)  
+"Work on your tone. Often ideas are rejected because of the tone of voice they are wrapped in. Humility covers many blemishes." (...)  
+"If you are impressed with someone’s work, you should tell them, but even better, tell their boss."  
+-- Kevin Kelly*
+
+> *"Good advice is something a man gives when he is too old to set a bad example."  
+-- La Rouchefoucauld*
+
+Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
+
+### On meetings
+
+Default to «no» for all meetings. Meetings are the death of productivity.
+
+If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
+
+Hints:
+
+- Start with an overachieving question: «how can we raise sales by 20%?».
+- Do not share your opinion before asking for input from your team. Lower ranked people should speak first.
+- Tell the bad news promptly. Good news can wait. (Berkshire policy)
+- People can’t remember more than 3 points from a speech.
+- Instead of PowerPoints use «narratives» — four-to-six page memos that employees read and discuss together. (Jeff Bezos)
+- Leave one seat free - for your customer. (Jeff Bezos)
+- Text me when you’re ready for the call but then give me 15 minutes.
+
+
+
+
+
+
 ---
 ## On mentorship
 
 <!--
 > *"It is impossible for a man to learn what he thinks he already knows." -- Epictetus*
+> *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them." -- Oscar Wilde*
 
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
-> *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them." -- Oscar Wilde*
 -->
 
 > *"To know the road ahead, ask those coming back."  
@@ -543,6 +900,9 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 
 > *"Good advice helps you find the solution to your problem. Great advice helps you find you were solving the wrong problem."  
 -- Merlin Mann*
+
+> *"Share your knowledge. It is a way to achieve immortality."  
+-- Dalai Lama*
 
 ### How to find mentors?
 
@@ -573,7 +933,6 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 
 <!--
 > *"My family history begins with me, but yours ends with you." -- Iphicrates*
-> *"When you wish to instruct, be brief; children's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind." -- Cicero*
 - prepare the child for the path, not the child for teh path.
 -->
 
@@ -700,71 +1059,255 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 
 ---
-## On generosity and incentives
+## On career
 
-> *"No one has ever become poor by giving."  
--- Anne Frank*
+<!--
+> *"Don't be irreplaceable, if you can't be replaced, you can't be promoted.*
 
-> *"A bit of fragrance clings to the hand that gives flowers." (...)  
-"A candle loses nothing by lighting another candle."  
--- Proverbs*
+- "Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out.""
+- i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
+- "estava a perder o controlo da minha carreira" -- vertonghen
+- behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
+- remote killed HR
+- hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
+- volunteer for assignments / becoming the go to guy for some questions
+- trabalhar de porta aberta vs trabalhar à porta fechada
+- Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
+- trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
+- recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
+- 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
+- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
+- doing things you enjoy / doing things you're good at / doing things other people want
+- nobody ever gets credit for fixing problems that never happened
+-->
 
-No one on their deathbed has ever regretted giving too much away.
+> *"Look for the job that you would take if you didn’t need a job."  
+-- Warren Buffett*
 
-Hints:
+> *"The world will ask you who you are, and if don’t know, the world will tell you."  
+-- Carl Jung*
 
-- If you can afford the dinner you can afford the tip.
-- Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.
-- A low value gift may have the opposite effect.
-
-> *"He that gives should never remember and he that receives should never forget."  
--- Talmud*
-
-> *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he’d learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I’ll write you a check». Almost everyone who was just in it for the handouts couldn’t be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He’d hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn’t want to spend time with him so there was never really a conflict there." (...)  
-"My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn’t lessen his genuine love for everyone, just let him be a little more super human."  
--- HN_danielvf*
-
-> *"Attention is the rarest and purest form of generosity."  
--- Weil*
-
-> *"If you are more fortunate than others, build a longer table rather than a taller fence."  
+> *"Don’t be the best. Be the only." (...)  
+"A good sign that you are doing the kind of work that you should be doing is that you enjoy the tedious parts that other people find tortuous."  
 -- Kevin Kelly*
 
-> *"A guest and a fish stink in three days."  
--- Proverb*
+Nobody can compete with you on being you. Most of your life is a search for who and what needs you the most.
 
-### On incentives
+> *"If the title matters to you, you don’t belong to a startup." (...)  
+"If you want to be part of a great tech company, then you need to be able to sell or build. If you don’t do either, learn." (...)  
+"Creative teams should be colocated. The rest of the company can be distributed." (...)  
+"There are 7B people in the world. someday, I hope, there will be 7B companies." (...)  
+"What feels like play to you and work to others?" (...)  
+"Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now." (...)  
+"Be the best in the world at what you do. Keep redefining what you do until this is true." (...)  
+"You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge." (...)  
+"Give the world what it need and it will give you what you want." (...)  
+"You don’t have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely." (...)  
+"Knowledge workers function like athletes - train and sprint, then rest and reassess." (...)  
+"If the work doesn’t require creativity, delegate it, automate it or leave it." (...)  
+"Set and enforce an aspirational hourly rate." (...)  
+"Rich people get paid by the project and pay by the hour." (...)  
+"To get paid in the future, live in the future."  
+-- Naval Ravikant*
 
-> *"In nature there are neither rewards nor punishments, there are consequences."  
--- Robert G. Ingersoll*
+> *"The interesting jobs are the ones that you make up."  
+-- Chris Young*
 
-Powerful people give freely, buying influence rather than things.
+> *"My thing is to work more than the others to show them how useless they are."  
+-- Karl Lagerfeld*
+
+### How to advance career?
+
+> *"Learn to sell. Learn to build. If you can do both, you’re unstoppable."  
+-- Naval Ravikant*
+
+Become the best at one specific thing or very good at two or more things.
 
 Hints:
 
-- We learn complex behaviors via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. After the behaviour is learnt, continuous reinforcement becomes intermitent reinforcement.
-- Instead of punishments extingue rewards.
-- The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your presence and attention.
+- You don’t get anywhere, and for more money, sitting in the same seat.
+- Happy, smart, and useful. Work smart not harder but hard still. It’s good to be better, but is better to be different.
+- Metaknowledge (instead of asking, journal higher hierarchy than you).
+- Deliver more value than expected.
 
-> *"Rewards and punishment is the lowest form of education."  
--- Zhuang Zhou*
+> *"While deep work will promote you, shallow work will only prevent you from being fired."  
+-- Cal Newport*
+
+> *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
+-- HN_goatinaboat*
+
+> *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
+-- HN_??*
+
+### How to change career?
+
+> *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."  
+-- Robert Greene*
+
+You will either pivot or get pivoted.
+
+Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
+
+> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
+-- Unknown*
+
+> *"My luggage is always ready."  
+-- Jorge Jesus (soccer coach)*
+
+You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
+
+- use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
+- stuff that looks fun for you and looks like work for others.
+- take risks to boost your immune system.
+
+> *"Your income is directly proportional to the need for what you do and your ability to do it."  
+-- Jim Rohn*
+
+> *"Be so good that they cannot ignore you." (...)  
+"Career capital is the unique skills that make you rare and valuable."  
+-- Cal Newport*
+
+### Employee or entrepreneur?
+
+Employees have no control over their futures. The economy forces all the risk on them.
+
+Hints:
+
+- When you sell your ability to deliver results nobody asks about your skillset. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
+- Rich people get paid by project and pay by the hour.
+- The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.
+
+> *"A taste of freedom can make you unemployable." (...)  
+"An entrepreneur without drive is just an unemployed." (...)  
+"Earn with your mind, not with your time." (...)  
+"You’re never going to get rich renting out your time." (...)  
+"Trade money for time, not time for money. You’re going to run out of time first."  
+-- Naval Ravikant*
+
+### Specialist or generalist?
+
+<!--
+- There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
+-->
+
+Hints:
+
+- To be an entrepreneur you need to know a little about a lot of things.
+- To be employed, if you pick the right specialization, you’ll do better as a specialist.
+- Startups are (by necessity) filled with generalists; big companies are filled with specialists.
+
+### How to know your strenghts?
+ 
+Ask employers why did they asked you for an interview - they will describe your strengths.
+
+> *"Our best work is the work we find ourselves doing, when there is no obligation to do so."  
+-- Naval Ravikant*
+
 
 
 
 
 
 ---
+## On hiring and being hired
+
+<!--
+- People want freedom to choose their process.
+- Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
+- Two valid methods: hiring on culture contribution and hiring on culture matching.
+- T ou pi shaped.
+-->
+
+> *"He who works with his hands is a laborer.  
+He who works with his hands and his head is a craftsman.  
+He who works with his hands and his head and his heart is an artist."  
+-- St. Francis of Assisi*
+
+Trial most but only hire likable persons that «get shit done».
+
+Your goal should be to «fire» yourself and hire people who are better at your job than you are. Leaders must become masters at finding and hiring talent.
+
+Hints:
+
+- When applying for a job be more of a consultant than an applicant. Don’t do interviews, do discussions.
+- Employers are just trying to find somebody they like, that’s what «culture fit» is. Often is not how good you are, you just have to be liked while being sufficiently good. Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you. And people like people like themselves.
+- Good interview questions:
+	- «Problems you’ve solved and how did you solve them?» (Elon Musk)
+	- «What did you get done this week?» (Elon Musk)
+	- «What do you own and why?» (Sandy Gottesman, investor)
+	- «What do you believe that most people don’t?»
+- Remember that I’d hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I’d not have had to hire them. Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
+- Companies hire for a problem and not general optimizations. Even if they need a generalist. Growing companies are always hiring.
+- Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
+- A job search is both a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
+
+> *"Bad professionals make money off their customers, good professionals make money for their customers."  
+-- Jacques Mattheij*
+
+> *"We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
+-- Valve employee book*
+
+> *"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for." (...)  
+"Being enthusiastic is worth 25 IQ points." (...)  
+"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do." (...)  
+"If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss."  
+-- Kevin Kelly*
+
+> *"In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they don't have the first, the other two will kill you." (...)  
+"Your salary is the bribe they give you to forget your dreams."  
+-- Warren Buffett*
+
+> *"If you can’t see yourself working with someone for life, don’t work with them for a day." (...)  
+"Mercenaries work for money. Missionaries build for others. Artists create for themselves." (...)  
+"Management is mostly hiring well and firing quickly."  
+-- Naval Ravikant*
+
+> *"I am looking for a lot of people who have an infinite capacity to not know what can't be done."  
+-- Henry Ford*
+
+### On resumes
+
+> *"Your real resume is a painful recounting of all your struggles."  
+-- Naval Ravikant*
+
+Hints:
+
+- Your resume should tell the reader why you more valuable to the company than the next person. You’ll show that with your experience. Tell HOW you accomplished your responsibilities better than the next person. ie. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
+- There are two skill levels: still learning or confident.
+
+> *"Whatever makes you weird is probably your greatest asset."  
+-- Joss Whedon*
+
+### How to attract and keep talented people?
+
+Respect them. You’ll never respect them if you don’t reward them accordingly.
+
+Hints:
+
+- Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
+- Smart people will not work extremely hard just for money.
+- Good employees are not easy to find. It takes some real *chutzpah* to make someone do your work for insufficient compensation while you rake in the big bucks.
+- Asking for a raise. Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.
+
+> *"Train employees well enough they could get another job, but treat them well enough so they never want to."  
+-- Kevin Kelly*
+
+> *"Everybody wants to hire the best. Few of them actually pay them like they’re the best."  
+-- Naval Ravikant*
+
+
+
+
+
+
+---
+# 2.2 - On competition
+
 ## On hierarchy
 
 <!--
 > *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  
 -- Jorge Luis Borges*
-> *"If you know how quickly people forget the dead... you will stop living to impress people."  
--- Christopher Walken*
-> *"Never wrestle with a pig because if you do, you'll both get dirty, but the pig will enjoy it."  
--- Charlie Munger*
-> *"A slave is one who waits for someone to come and free him."  
--- Ezra Pound*
 
 - if you don't like something, just take away its only power: your attention.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
@@ -799,13 +1342,232 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 "The sun doesn't forget a village just because it is small."  
 -- Proverbs*
 
+> *"A slave is one who waits for someone to come and free him."  
+-- Ezra Pound*
+
+> *"If you know how quickly people forget the dead... you will stop living to impress people."  
+-- Christopher Walken*
+
 
 
 
 
 
 ---
-# 2.2 - On society
+## On opponents and allies
+
+<!--
+> *"Só os mais corajosos conseguem fazer a paz." -- Trump*
+> *"All guns are loaded." -- Kevin Kelly*
+
+- Be willing to side with the minority.
+- your competition isn't other people. Your competition is your proscrastination. Your ego. The unhealthy food you're consuming, the knowledge you neglect. The negative behaviour you're nurturing & your lack of creativity. Compete against that.
+- Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
+- i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
+- understand the difference of an adversary and an enemy to not accumulate enemys.
+- When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
+- Nietszche says to measure one’s strength by the number of parasites one can support.
+- surpass a gatekeeper: i’m x, i know your situation and how is the way i can make it the most confortable (safe) for you.
+-->
+
+> *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
+-- J.W. Goethe*
+
+Beware of all players.
+
+People are amazing optimizers and will find any loopholes or gaps to their advantage. Only your parents will help you in a way that is prejudicial to them.
+
+> *"The world is divided between victims and predators, and you have to defend yourself against both."  
+-- Florenz Baron*
+
+> *"The enemy is fear. We think it is hate, but it is fear."  
+-- Ghandi*
+
+> *"Any person capable of angering you becomes your master."  
+-- Epictetus*
+
+> *"Who lies for you will lie against you." (...)  
+"Talkers aren’t strong. The strong don’t talk."  
+-- Proverbs*
+
+> *"Because she competes with no one, no one can compete with her."  
+-- Lao Tzu*
+
+> *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth."  
+-- Doc Rivers*
+
+> *"If you want to make enemies, try to change something."  
+-- Woodrow Wilson*
+
+> *"Only the hypocrite is really rotten to the core."  
+-- Hannah Arendt*
+
+> *"Never wrestle with a pig because if you do, you'll both get dirty, but the pig will enjoy it."  
+-- Charlie Munger*
+
+### On easy opponents
+
+Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
+
+> *"Despise the free lunch."  
+-- Robert Greene (law of power)*
+
+> *"Sometimes one pays most for the things one gets for nothing." (...)  
+"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
+-- Albert Einstein*
+
+> *"«El dorados» are never drawn in the map."  
+-- Unknown*
+
+> *"A free lunch is only found in mousetraps."  
+-- John Capozzi*
+
+> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
+-- Warren Buffett*
+
+> *"Never assume that loud is strong and quiet is weak."  
+-- Gurubogsa*
+
+### On desperate opponents
+
+> *"Necessity knows no law." (...)  
+"Fear can make a donkey attack a lion."  
+-- Proverbs*
+
+Beware of sad people.
+
+Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
+
+> *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
+-- Balthasar Gracian*
+
+> *"Beware the fury of a patient man."  
+-- John Dryden*
+
+### On difficult opponents
+
+The thougest competition is a good enough competitor.
+
+Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
+
+> *"Put all the meat in the barbecue."  
+-- Jorge Jesus (soccer coach)*
+
+> *"Get others to do the work for you, but always take the credit." (...)  
+"Keep your hands clean."  
+-- Robert Greene (Law of power)*
+
+> *"The best fighter is never angry."  
+-- Lao Tzu*
+
+> *"Of all the bad men, religious bad men are the worst."  
+-- C.S. Lewis*
+
+> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
+-- Bruce Lee*
+
+When nothing else works, surrender. Only use anger and go all in if you can see the end already.
+
+> *"Do I not destroy my enemies when I make them my friends?"  
+-- Abraham Lincoln*
+
+### On allies
+
+The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
+
+Hint:
+
+- Buy from your community. Sell to outsiders.
+
+> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
+-- Peter Kropotkin*
+
+> *"When neither their poverty nor their honor is touched, the majority of men live content."  
+-- Niccolo Machiavelli*
+
+> *"United we are rock, divided we are sand." (...)  
+"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd." (...)  
+"Hungry dogs are never loyal."  
+-- Proverbs*
+
+> *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
+-- Mark Twain*
+
+> *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
+-- Paul Alexander*
+
+> *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
+-- Balthasar Gracian*
+
+> *"The worst thing about betrayal is that it never comes from your enemies."  
+-- The godfather*
+
+> *"I learned a long time ago the wisest thing I can do is be on my side."  
+-- Maya Angelou*
+
+### On heros
+
+> *"Every society honors its live conformists and its dead troublemakers."  
+-- Marshall McLuhan*
+
+> *"You either die a hero, or you live long enough to see yourself become the villain."  
+-- Harvey Dent*
+
+Our heros are our idealized selfes.
+
+> *"Show me a hero, and I’ll write you a tragedy."  
+-- F. Scott Fitzgerald*
+
+
+
+
+
+
+---
+## On conflicts
+
+> *"War is what happens when language fails."  
+-- Margaret Atwood*
+
+Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
+
+Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
+
+> *"War is delightful to those who have had no experience of it." 
+-- Desiderius Erasmus*
+
+> *"War spares not the brave, but the cowardly."  
+-- Anacreon*
+
+> *"You cannot find peace by avoiding life."  
+-- Virginia Woolf*
+
+### On conflict resolution
+
+You’re either part of the solution or part of the problem.
+
+Hints:
+
+- Use «we». Mean it and take responsability.
+- Bring options to the table. It’s easier to negotiate down.
+
+> *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
+"Your best response to an insult is «you’re probably right». Often they are."  
+-- Kevin Kelly*
+
+> *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
+-- Balthasar Gracian*
+
+> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
+-- Seneca*
+
+
+
+
+
+
+---
+# 2.3 - On society
 
 ## On society and politics
 
@@ -1037,12 +1799,7 @@ Hints:
 	
 <!--
 > *"Fools rush in -- and get the best seats in the house."*
-> *"It's not that they can't see the solution. They can't see the problem." -- G.K. Chesterton*
-> *"Wise men talk because they have something to say; fools, because they have to say something." -- Plato*
-> *"In order to think you have to risk being offensive."  
--- Jordan Peterson*
-> *"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."  
--- Friedrich Nietzsche*
+> *"In order to think you have to risk being offensive." -- Jordan Peterson*
 
 - every snowflake is different but all snow is the same.
 -->
@@ -1080,7 +1837,8 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 -- Kevin Kelly*
 
 > *"In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." (...)  
-"And those who were seen dancing were thought to be insane by those who could not hear the music."  
+"And those who were seen dancing were thought to be insane by those who could not hear the music." (...)  
+"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."  
 -- Friedrich Nietzsche*
 
 > *"When you do as everyone else does, don’t be surprised when you get what everyone else gets."  
@@ -1117,7 +1875,7 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 ### On stupidity
 
 > *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
--- twitter@sgrstk*
+-- sgrstk@twitter*
 
 > *"Stupidity is overlooking or dismissing crucial information."  
 -- Adam Robinson*
@@ -1150,7 +1908,8 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 
 It’s easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
 
-> *"Don’t ever take a fence down until you know the reason why it was put up."  
+> *"Don’t ever take a fence down until you know the reason why it was put up." (...)  
+"It's not that they can't see the solution. They can't see the problem."  
 -- G.K. Chesterton*
 
 > *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"  
@@ -1164,6 +1923,9 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 > *"The only thing more dangerous than ignorance is arrogance."  
 -- Albert Einstein*
 
+> *"Wise men talk because they have something to say; fools, because they have to say something."  
+-- Plato*
+
 ### How to judge a man?
 
 <!--
@@ -1172,8 +1934,6 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 > *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  
 -- Kevin Kelly*
 > *"A fanatic is a person who can't change his mind and won't change the subject." -- Winston Churchill*
-> *"A gossip is one who talks to you about others, a bore is one who talks to you about himself; and a brilliant conversationalist is one who talks to you about yourself." -- Lisa Kirk*
-
 -->
 
 > *"Judge a man by his questions, not by his answers."  
@@ -1218,6 +1978,8 @@ Hints:
 > *"You can discover more about a person in an hour of play than in a year of conversation."  
 -- Plato*
 
+> *"A gossip is one who talks to you about others, a bore is one who talks to you about himself; and a brilliant conversationalist is one who talks to you about yourself."  
+-- Lisa Kirk*
 
 
 
@@ -1227,12 +1989,8 @@ Hints:
 ## On humanness and irrationality
 
 <!--
-> *"I am a deeply superficial person." -- Andy Warhol*
-> *"I can't understand why a person will take a year or two to write a novel when he can easily buy one for a few dollars." -- Fred Allen*
 > *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
 -- Proverb*
-> *"If you feel pain, you're alive. If you feel other people's pain, you're a human being."  
--- Leo Tolstoy*
 
 - web3 assumes that people prefer privacy over free stuff, which is false.
 - If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
@@ -1279,6 +2037,18 @@ Most people approach each and every year in the exact same way while expecting d
 > *"There is no exception to the rule that everybody likes to be an exception to the rule."  
 -- Malcolm Forbes*
 
+> *"I am a deeply superficial person."  
+-- Andy Warhol*
+
+> *"If you feel pain, you're alive. If you feel other people's pain, you're a human being."  
+-- Leo Tolstoy*
+
+> *"I can't understand why a person will take a year or two to write a novel when he can easily buy one for a few dollars."  
+-- Fred Allen*
+
+> *"What a misfortune to be a woman! And yet, the worst misfortune is not to understand what a misfortune it is."  
+-- Kierkegaard*
+
 
 
 
@@ -1290,7 +2060,6 @@ Most people approach each and every year in the exact same way while expecting d
 <!--
 > *"Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing." -- Dick Brandon*
 > *"Old musicians never die, they just decompose."*
-> *"Humorists always sit at the children's table." -- Woody Allen*
 > *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..." -- Lyndon B. Johnson*
 > *"I watch television because you don't know what it will do if you leave it in the room alone."*
 > *"I think trash is the most important manifestation of culture we have in my LIfetime." -- Johnny Legend*
@@ -1298,20 +2067,15 @@ Most people approach each and every year in the exact same way while expecting d
 > *"Successful and fortunate crime is called virtue." -- Seneca*
 > *"Satire is tragedy plus time." -- Lenny Bruce*
 > *"To find out a girl's faults, praise her to her girl friends." -- Benjamin Franklin*
-> *"What a misfortune to be a woman! And yet, the worst misfortune is not to understand what a misfortune it is." -- Kierkegaard, 1813-1855.*
 > *"Testing can show the presense of bugs, but not their absence." -- Dijkstra*
 > *"That which we are capable of feeling, we are capable of saying." -- Cervantes*
-> *"Whenever you hug someone, be the last to let go."*
-
+> *"Whenever you hug someone, be the last to let go." -- Kevin Kelly*
+> *"Give me a museum and I’ll fill it." -- Pablo Picasso*
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 > *"The early bird may get the worm, but the second mouse gets the cheese.*
 > *"He who lives without folly is less wise than he believes.*
-> *"La que no es puta non desfruta."*
-> *"Já vi o fim do mundo algumas vezes e na manhã seguinte estava tudo bem."*
 > *"The four most expensive words in the English language: «This time is different»."  
 - which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
-> *"College is a fountain of knowledge...and the students are there to drink.*
-> *"In a literature class, the students were given an assignment to write a short story involving all the important ingredients: Nobility, Emotion, Sex, Religion *and Mystery. One student allegedly handed in the following story: "My god!" cried the duchess. "I’m pregnant. Who did it?"*
 -->
 
 > *"Only the truth is funny."  
@@ -1350,18 +2114,16 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 > *"The grass is always greener on the side that is fertilized with bullshit."  
 -- Morgan Housel*
 
-> *"Give me a museum and I’ll fill it."  
--- Pablo Picasso*
-
 > *"When you’re up to your nose in shit, keep your mouth shut."  
 -- Jack Beauregard (fictional)*
 
+> *"Humorists always sit at the children's table."  
+-- Woody Allen*
+
 ### Where is home?
 
-> *"Home is where the bra isn’t."  
--- Unknown*
-
-> *"Home is where the parking lot is."  
+> *"Home is where the bra isn’t." (...)  
+"Home is where the parking lot is."  
 -- Unknown*
 
 ### What is love?
@@ -1384,9 +2146,6 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On relationships
 
 <!--
-> *"Between what is said and not meant, and what is meant and not said, most of love is lost."  
--- Kahlil Gibran*
-
 - One day you're going to miss how much I cared.
 -->
 
@@ -1412,7 +2171,7 @@ Hints:
 > *"Play long-term games with long-term people. The secret to a happy relationship is two happy people. If you loose somebody for being yourself, then you never had them to begin with. Find a relationship where you, naturally being you, makes the other person happy and viceversa. The worst way to build a relationship is to try to build a relationship. The people you most want to impress can read your intentions."    
 -- Naval Ravikant (paraphrased)*
 
-> *"Faults are thick where love where love is thin."  
+> *"Faults are thick where love is thin."  
 -- Proverb*
 
 
@@ -1423,11 +2182,6 @@ Hints:
 
 ---
 ## On family and friends
-
-<!--
-> *"Friendships last when each friend thinks he has a slight superiority over the other." -- Honore De Balzac*
-> *"Love your neighbour, yet don't pull down your hedge." -- Benjamin Franklin*
--->
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
 -- Proverb*
@@ -1462,6 +2216,12 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 
 > *"Routinely greeting six neighbours maximizes wellbeing."  
 -- Mr. Rogers*
+
+> *"Love your neighbour, yet don't pull down your hedge."  
+-- Benjamin Franklin*
+
+> *"Friendships last when each friend thinks he has a slight superiority over the other."  
+-- Honore De Balzac*
 
 ### How to curate your friends?
 
@@ -1518,16 +2278,9 @@ Hints:
 ## On lovers
 
 <!--
-> *"One expresses well the love he does not feel." -- J.A. Karr*
-> *"People change and forget to tell each other." -- Lillian Hellman*
 > *"The surest sign that a man is in love is when he divorces his wife."*
-> *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  
--- Osho*
-> *"A man is already halfway in love with any woman who listens to him." -- Brendan Francis*
-> *"How bold one gets when one is sure of being loved."  
--- Sigmund Freud*
-> *"A mind all logic is like a knife all blade. It makes the hand bleed that uses it."  
--- Rabindranath Tagore*
+> *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation." -- Osho*
+> *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved." -- R.C. Sproul*
 - Thank you for not loving me. It forced me to love myself.
 - she was poetry but he couldn't read.
 - Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
@@ -1573,6 +2326,9 @@ Hints:
 > *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
 -- Joyce Benenson*
 
+> *"A man is already halfway in love with any woman who listens to him."  
+-- Brendan Behan*
+
 ### On love and romance
 
 > *"Love is the absence of judgement."  
@@ -1599,6 +2355,15 @@ Hints:
 
 > *"The very essence of romance is uncertainty."  
 -- Oscar Wilde*
+
+> *"A mind all logic is like a knife all blade. It makes the hand bleed that uses it."  
+-- Rabindranath Tagore*
+
+> *"How bold one gets when one is sure of being loved."  
+-- Sigmund Freud*
+
+> *"One expresses well the love he does not feel."  
+-- J.A. Karr*
 
 ### On falling out of love
 
@@ -1627,6 +2392,12 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 > *"When poverty comes in the door love goes out the window."  
 -- Proverb*
+
+> *"Between what is said and not meant, and what is meant and not said, most of love is lost."  
+-- Kahlil Gibran*
+
+> *"People change and forget to tell each other."  
+-- Lillian Hellman*
 
 ### What women value in men
 
@@ -1677,13 +2448,8 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 ## On marriage
 
 <!--
-> *"By all means marry: If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher." -- Socrates*
 > *"Marriage is the process of finding out what kind of man your wife would have preferred."*
-> *"When should a man marry? A young man, not yet; an elder man, not at all." -- Sir Francis Bacon*
-> *"When a woman marries again it is because she detested her first husband. When a man marries again, it is because he adored his first wife." -- Oscar Wilde*
 > *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it." -- Peggy Joyce*
-> *"If you are afraid of loneliness, don't marry."  
--- Anton Chekhov*
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
@@ -1691,7 +2457,8 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 
 Marry an happy person. Unhappy spouse, unhappy life.
 
-> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience."  
+> *"Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience." (...)  
+"When a woman marries again it is because she detested her first husband. When a man marries again, it is because he adored his first wife."  
 -- Oscar Wilde*
 
 > *"He who marries for love without money has good nights and sorry days."  
@@ -1727,6 +2494,12 @@ Marry an happy person. Unhappy spouse, unhappy life.
 "A good husband should be deaf and a good wife should be blind."  
 -- Proverbs*
 
+> *"When should a man marry? A young man, not yet; an elder man, not at all."  
+-- Sir Francis Bacon*
+
+> *"By all means marry: If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher."  
+-- Socrates*
+
 
 
 
@@ -1737,13 +2510,7 @@ Marry an happy person. Unhappy spouse, unhappy life.
 
 <!--
 > *"Faith: not wanting to know what is true." -- Friedrich Nietzsche*
-> *"It may be that our role on this planet is not to worship God but to create him." -- Arthur C. Clarke*
-> *"The laws of nature are written by the hand of God in the language of mathematics*"  
--- Galileo Galilei*
-> *"Hell is empty and all the devis are here."  
--- William Shakespeare*
-> *"I would rather have a mind opened by wonder than one closed by belief."  
--- Gerry Spence*
+> *"I would rather have a mind opened by wonder than one closed by belief." -- Gerry Spence*
 -->
 
 > *"Science without religion is lame. Religion without science is blind."  
@@ -1780,6 +2547,9 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"People who want to share their religious views with you almost never want you to share yours with them."  
 -- Dave Barry*
 
+> *"It may be that our role on this planet is not to worship God but to create him."  
+-- Arthur C. Clarke*
+
 ### On morality
 
 > *"Morality is the way that we would like the world to be, economics is the way that the world actually works."  
@@ -1787,6 +2557,9 @@ Against facts there are no arguments. Against faith there are no facts.
 
 > *"Conscience is what hurts when everything else feels so good."  
 -- Unknown*
+
+> *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards."  
+-- Nietzsche*
 
 > *"The cash register did more for human morality than the congregational church."  
 -- Charlie Munger*
@@ -1814,6 +2587,12 @@ Against facts there are no arguments. Against faith there are no facts.
 
 > *"Fanaticism is always a sign of repressed doubt."  
 -- Carl Jung*
+
+> *"Hell is empty and all the devis are here."  
+-- William Shakespeare*
+
+> *"To have the right to do a thing is not at all the same as being right in doing it."  
+-- G.K. Chesterton*
 
 
 
@@ -1929,6 +2708,9 @@ Technology is applied science.
 > *"Science is organized knowledge. Wisdom is organized life."  
 -- Immanuel Kant*
 
+> *"The laws of nature are written by the hand of God in the language of mathematics*"  
+-- Galileo Galilei*
+
 
 
 
@@ -1936,11 +2718,6 @@ Technology is applied science.
 
 ---
 ## On art
-
-<!--
-> *"Art is either plagiarism or revolution." -- Paul Gauguin*
-> *"I went into the business for the money, and the art grew out of it. If people are disillusioned by that remark, I can't help it. It's the truth." -- Charlie Chaplin*
--->
 
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth*
@@ -1975,11 +2752,10 @@ Artistic death is made by consensus.
 > *"Art should comfort the disturbed and disturb the confortable."  
 -- Banksy*
 
-### On artists
+> *"Art is either plagiarism or revolution."  
+-- Paul Gauguin*
 
-<!--
-> *"A true artist will let his wife starve, his children go barefoot, his mother drudge for his living at seventy, sooner than work at anything but his art." -- Shaw*
--->
+### On artists
 
 > *"No artist tolerates reality."  
 -- Friedrich Nietzsche*
@@ -2001,6 +2777,12 @@ Artistic death is made by consensus.
 
 > *"To be an artist, you need to live in a world of silence."  
 -- Louise Bourgeois*
+
+> *"A true artist will let his wife starve, his children go barefoot, his mother drudge for his living at seventy, sooner than work at anything but his art."  
+-- Shaw*
+
+> *"I went into the business for the money, and the art grew out of it. If people are disillusioned by that remark, I can't help it. It's the truth."  
+-- Charlie Chaplin*
 
 ### On aesthetics
 
@@ -2080,9 +2862,6 @@ Privacy is power. What people don't know they can't ruin.
 ## On maths, computers and AI
 
 <!--
-> *"Any sufficiently advanced technology is indistinguishable from magic." -- Arthur C. Clarke*
-> *"Man is the best computer we can put aboard a spacecraft ... and the only one that can be mass produced with unskilled labor." -- Wernher von Braun*
-> *"Never try to explain computers to a layman. It's easier to explain sex to a virgin." -- Robert Heinlein*
 - chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
 - llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
@@ -2121,6 +2900,12 @@ We’ve grown dependent on three simple features that just aren’t available in
 "When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that."  
 -- Elon Musk*
 
+> *"Any sufficiently advanced technology is indistinguishable from magic."  
+-- Arthur C. Clarke*
+
+> *"Man is the best computer we can put aboard a spacecraft ...and the only one that can be mass produced with unskilled labor."  
+-- Wernher von Braun*
+
 <!--
 ---
 ## On design
@@ -2128,678 +2913,3 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *"Good design: is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
 -- Dieter Rams (Ten principles for good design)*
 -->
-
-
-
-
-
-
----
-# 2.3 - On teams
-
-## On leadership
-
-<!--
-> *"Effective leadership is putting first things first. Effective management is discipline, carrying it out." -- Stephen Covey*
-> *"Example is not the main thing in influencing others; it is the only thing." -- Albert Schweitzer*
-> *"If you don't understand that you work for your mislabeled 'subordinates,' then you know nothing of leadership. You know only tyranny." -- Dee Hock*
-> *"If your actions inspire others to dream more, learn more, do more and become more, you are a leader." -- John Quincy Adams*
-> *"Lead and inspire people. Don't try to manage and manipulate people. Inventories can be managed but people must be lead." -- Ross Perot*
-> *"Leaders must be close enough to relate to others, but far enough ahead to motivate them." -- John Maxwell*
-> *"Leadership is the capacity to translate vision into reality." -- Warren Bennis*
-> *"Management has a lot to do with answers. Leadership is a function of questions. And the first question for a leader always is: 'Who do we intend to be?' Not 'What are we going to do?' but 'Who do we intend to be?' -- Max DePree*
-> *"Management is doing things right; leadership is doing the right things." -- Peter F. Drucker*
-> *"Lots of folks confuse bad management with destiny." -- Frank Hubbard*
-> *"My greatest strength as a consultant is to be ignorant and ask a few questions." -- Peter Drucker*
-> *"Never tell people how to do things. Tell them what to do and they´will surprise you with their ingenuity." -- General George Patton*
-> *"One of the tests of leadership is the ability to recognize a problem before it becomes an emergency." -- Arnold Glasow*
-> *"People ask the difference between a leader and a boss. The leader works in the open, and the boss in covert." -- Theodore Roosevelt*
-> *"The function of leadership is to produce more leaders, not more followers." -- Ralph Nader*
-> *"The manager asks how and when; the leader asks what and why." -- Warren Bennis*
-> *"The leader has to be practical and a realist, yet must talk the language of the visionary and the idealist." -- Eric Hoffer*
-> *"To be able to lead others, a man must be willing to go forward alone." -- Harry Truman*
-> *"The first responsibility of a leader is to define reality. The last is to say thank you." -- Max DePree*
-> *"The key to successful leadership today is influence, not authority." -- Kenneth Blanchard*
-> *"The led must not be compelled; they must be able to choose their own leader." -- Albert Einstein*
-
-- a autoridade é delegavel mas a responsabilidade n é delegavel
-- the organization is always modelling the leader. military leader don’t have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
-- Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
-- There are three keys: honesty, effectiveness, and efficiency.
-- succeful takers are the most visible people in organizations.
-- Proactive problem management – Go directly to the source.
-- convincing vs inspiring leadership
-- never make a numbers person the leader
--->
-
-> *"He who does not desire power is fit to hold it."  
--- Plato*
-
-> *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
--- Rumi*
-
-> *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
--- Alexander the great*
-
-> *"To lead people walk behind them." (...)  
-"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."  
--- Lao Tzu*
-
-Leaders are team makers. There are no bad teams, only bad leaders.
-
-Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strongest person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
-
-Hints:
-
-- Leaders are embassadors of their teams. They can delegate culture keeping but not culture creation. 
-- If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.
-- Best leaders are leaders that grew up in the hierarchy.
-- People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
-
-> *"Leadership is not about being followed, is about being first."  
--- Dan Munro*
-
-> *"You can tell a bully from a leader by how they treat people who disagree with them."  
--- Miles K. Davis*
-
-> *"The person who clears the path ultimately controls its direction, just as the canvas shapes the painting."  
--- Ryan Holiday*
-
-> *"If you wish to control others you must control yourself."  
--- Miyamoto Musashi*
-
-> *"A politician who reads aloud speaches written by others is an actor, not a leader." (...)  
-"The leader doesn’t take charge of the tribe. The leader takes responsability for the tribe." (...)  
-"The highest status people in human history are those that asked for nothing and gave everything." (...)  
-"Charisma is the ability to project confidence and love at the same time." (...)  
-"If you aren’t willing to get mocked, you’ll never be able to lead." (...)  
-"You lead by willing to walk alone."  
--- Naval Ravikant*
-
-> *"The only thing that gives orders is balls."  
--- Tony Montana*
-
-> *"Only the guy who isn't rowing has time to rock the boat."  
--- Jean Paul Sartre*
-
-### On vision
-
-
-
-
-
-
----
-## On management and delegation
-
-<!--
-- reward system. culture is influenced by structure. give to the right person
-- as estruturas funcionam qd ha coesao
-- Ideas are welcomed, execution is worshiped
-- good managers shield their team from all the noise coming from above and give them a calm environment to work in. Bad managers amplify the noise and make the team feel every silly whim of upper management.
--->
-
-> *"Don’t postpone to tomorrow what other people can do for you today."  
--- Warren Buffett*
-
-Managing is delegating. A great manager is a great facilitator. His responsability is to make his team better. 
-
-Hints:
-
-- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?» The speed that you offload your stuff will be the speed of your team.
-- Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you’re occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
-- Spend one hour a day communicating to your people and everything will be OK.
-- Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
-
-### On teams
-
-<!--
-> *"If you need emergency help from a bystander, command them what to do. By giving them an assignment, you transform them from bewildered bystander to a responsible assistant."*
-> *"If you want to build a ship, don't herd people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." -- Antoine de Saint-Exupery*
-> *"Never accept a work meeting until you’ve seen the agenda and know what decisions need to be made. If no decisions need to be made, skip the meeting."*
-> *"No institution can possibly survive if it needs geniuses or supermen to manage it. It must be organized in such a way as to be able to get along under a leadership composed of average human beings." -- Peter Drucker*
-> *"You're either part of the solution or part of the problem." -- Eldridge Cleaver*
-> *"A team effort is a lot of people doing what I say." -- Michael Winner, British film director*
--->
-
-> *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don't care about becoming a somebody."  
--- Phil Dooley*
-
-> *"If you want to go fast, go alone. If you want to go far, go together."  
--- Proverb*
-
-People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
-
-Hints:
-
-- Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
-- A chain is only as strong as its weakest link.
-- Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
-
-> *"I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief."  
--- Kurt von Hammerstein-Equord*
-
-> *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
--- Edith Wharton*
-
-> *"Every person in your company is a vector. Your progress is determined by the sum of all vectors."  
--- Elon Musk*
-
-> *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you."  
--- Naval Ravikant*
-
-> *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
--- Perry Belcher*
-
-### How to give feedback?
-
-<!--
-> *"If you are impressed with someone’s work, you should tell them, but even better, tell their boss."*
-> *"Share your knowledge. It is a way to achieve immortality." -- Dalai Lama*
-> *"When you want to teach children to think, you begin by treating them seriously when they are little, giving them responsibilities, talking to them candidly, providing privacy and solitude for them, and making them readers and thinkers of significant thoughts from the beginning. That's if you want to teach them to think." -- Bertrand Russell*
-> *"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."  
--- Aristotle*
-
-TEN TIPS ON GIVING FEEDBACK
--- Give at least five times more positive feedback than negative.
--- Give feedback soon after the behavior you want to respond to.
--- Pick the moment when both of you are in the right frame of mind.
--- Keep it private. Feedback is not a spectator sport.
--- Prepare. Take the time to organize what you want to say.
--- Avoid generalities. Cite specific examples.
--- Focus on the issue or behavior, not the person.
--- Pay attention to body language. Adjust your feedback accordingly.
--- Keep it simple. Don't focus on too many things at once.
--- End on a positive note.
--->
-
-> *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
--- HN_exelius*
-
-Ask instead of telling.
-
-Continue, or consider. You give feedback that says either «continue doing X» or «consider changing X to make it better». If the delivered work is not good enough give a reason. It’s really simple, fast and actionable.
-
-Hints:
-
-- «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
-- «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
-- «Interesting, how do you feel about it? And your team? Is that the best you can do?»
-
-> *"Praise by name, criticize by category."  
--- Warren Buffet*
-
-> *"To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth." (...)  
-"Work on your tone. Often ideas are rejected because of the tone of voice they are wrapped in. Humility covers many blemishes."  
--- Kevin Kelly*
-
-> *"Good advice is something a man gives when he is too old to set a bad example."  
--- La Rouchefoucauld*
-
-Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
-
-### On meetings
-
-Default to «no» for all meetings. Meetings are the death of productivity.
-
-If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
-
-Hints:
-
-- Start with an overachieving question: «how can we raise sales by 20%?».
-- Do not share your opinion before asking for input from your team. Lower ranked people should speak first.
-- Tell the bad news promptly. Good news can wait. (Berkshire policy)
-- People can’t remember more than 3 points from a speech.
-- Instead of PowerPoints use «narratives» — four-to-six page memos that employees read and discuss together. (Jeff Bezos)
-- Leave one seat free - for your customer. (Jeff Bezos)
-- Text me when you’re ready for the call but then give me 15 minutes.
-
-
-
-
-
-
----
-## On career
-
-<!--
-> *"Don't be irreplaceable, if you can't be replaced, you can't be promoted.*
-
-> *"My thing is to work more than the others to show them how useless they are."  
--- Karl Lagerfeld*
-> *"A good sign that you are doing the kind of work you should be doing is that you enjoy the tedious parts that other people find tortuous."*
-
-- "Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out.""
-- i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
-- "estava a perder o controlo da minha carreira" -- vertonghen
-- behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
-- remote killed HR
-- hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
-- volunteer for assignments / becoming the go to guy for some questions
-- trabalhar de porta aberta vs trabalhar à porta fechada
-- Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
-- trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
-- recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
-- 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
-- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
-- doing things you enjoy / doing things you're good at / doing things other people want
-- nobody ever gets credit for fixing problems that never happened
--->
-
-> *"Look for the job that you would take if you didn’t need a job."  
--- Warren Buffett*
-
-> *"The world will ask you who you are, and if don’t know, the world will tell you."  
--- Carl Jung*
-
-> *"Don’t be the best. Be the only." (...)  
-"A good sign that you are doing the kind of work that you should be doing is that you enjoy the tedious parts that other people find tortuous."  
--- Kevin Kelly*
-
-Nobody can compete with you on being you. Most of your life is a search for who and what needs you the most.
-
-> *"If the title matters to you, you don’t belong to a startup." (...)  
-"If you want to be part of a great tech company, then you need to be able to sell or build. If you don’t do either, learn." (...)  
-"Creative teams should be colocated. The rest of the company can be distributed." (...)  
-"There are 7B people in the world. someday, I hope, there will be 7B companies." (...)  
-"What feels like play to you and work to others?" (...)  
-"Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now." (...)  
-"Be the best in the world at what you do. Keep redefining what you do until this is true." (...)  
-"You get rewarded for unique knowledge, not for effort. Effort is required to create unique knowledge." (...)  
-"Give the world what it need and it will give you what you want." (...)  
-"You don’t have 8 creative problem-solving hours in the day - you have 2. Spend your time wisely." (...)  
-"Knowledge workers function like athletes - train and sprint, then rest and reassess." (...)  
-"If the work doesn’t require creativity, delegate it, automate it or leave it." (...)  
-"Set and enforce an aspirational hourly rate." (...)  
-"Rich people get paid by the project and pay by the hour." (...)  
-"To get paid in the future, live in the future."  
--- Naval Ravikant*
-
-> *"The interesting jobs are the ones that you make up."  
--- Chris Young*
-
-### How to advance career?
-
-> *"Learn to sell. Learn to build. If you can do both, you’re unstoppable."  
--- Naval Ravikant*
-
-Become the best at one specific thing or very good at two or more things.
-
-Hints:
-
-- You don’t get anywhere, and for more money, sitting in the same seat.
-- Happy, smart, and useful. Work smart not harder but hard still. It’s good to be better, but is better to be different.
-- Metaknowledge (instead of asking, journal higher hierarchy than you).
-- Deliver more value than expected.
-
-> *"While deep work will promote you, shallow work will only prevent you from being fired."  
--- Cal Newport*
-
-> *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
--- HN_goatinaboat*
-
-> *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
--- HN_??*
-
-### How to change career?
-
-> *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."  
--- Robert Greene*
-
-You will either pivot or get pivoted.
-
-Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
-
-> *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
--- Unknown*
-
-> *"My luggage is always ready."  
--- Jorge Jesus (soccer coach)*
-
-You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
-
-- use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
-- stuff that looks fun for you and looks like work for others.
-- take risks to boost your immune system.
-
-> *"Your income is directly proportional to the need for what you do and your ability to do it."  
--- Jim Rohn*
-
-> *"Be so good that they cannot ignore you." (...)  
-"Career capital is the unique skills that make you rare and valuable."  
--- Cal Newport*
-
-### Employee or entrepreneur?
-
-Employees have no control over their futures. The economy forces all the risk on them.
-
-Hints:
-
-- When you sell your ability to deliver results nobody asks about your skillset. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
-- Rich people get paid by project and pay by the hour.
-- The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.
-
-> *"A taste of freedom can make you unemployable." (...)  
-"An entrepreneur without drive is just an unemployed." (...)  
-"Earn with your mind, not with your time." (...)  
-"You’re never going to get rich renting out your time." (...)  
-"Trade money for time, not time for money. You’re going to run out of time first."  
--- Naval Ravikant*
-
-### Specialist or generalist?
-
-<!--
-- There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
--->
-
-Hints:
-
-- To be an entrepreneur you need to know a little about a lot of things.
-- To be employed, if you pick the right specialization, you’ll do better as a specialist.
-- Startups are (by necessity) filled with generalists; big companies are filled with specialists.
-
-### How to know your strenghts?
- 
-Ask employers why did they asked you for an interview - they will describe your strengths.
-
-> *"Our best work is the work we find ourselves doing, when there is no obligation to do so."  
--- Naval Ravikant*
-
-
-
-
-
-
----
-## On hiring and being hired
-
-<!--
-- People want freedom to choose their process.
-- Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
-- Two valid methods: hiring on culture contribution and hiring on culture matching.
-- T ou pi shaped.
--->
-
-> *"He who works with his hands is a laborer.  
-He who works with his hands and his head is a craftsman.  
-He who works with his hands and his head and his heart is an artist."  
--- St. Francis of Assisi*
-
-Trial most but only hire likable persons that «get shit done».
-
-Your goal should be to «fire» yourself and hire people who are better at your job than you are. Leaders must become masters at finding and hiring talent.
-
-Hints:
-
-- When applying for a job be more of a consultant than an applicant. Don’t do interviews, do discussions.
-- Employers are just trying to find somebody they like, that’s what «culture fit» is. Often is not how good you are, you just have to be liked while being sufficiently good. Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you. And people like people like themselves.
-- Good interview questions:
-	- «Problems you’ve solved and how did you solve them?» (Elon Musk)
-	- «What did you get done this week?» (Elon Musk)
-	- «What do you own and why?» (Sandy Gottesman, investor)
-	- «What do you believe that most people don’t?»
-- Remember that I’d hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I’d not have had to hire them. Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
-- Companies hire for a problem and not general optimizations. Even if they need a generalist. Growing companies are always hiring.
-- Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
-- A job search is both a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
-
-> *"Bad professionals make money off their customers, good professionals make money for their customers."  
--- Jacques Mattheij*
-
-> *"We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
--- Valve employee book*
-
-> *"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for." (...)  
-"Being enthusiastic is worth 25 IQ points." (...)  
-"The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do." (...)  
-"If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss."  
--- Kevin Kelly*
-
-> *"In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they don't have the first, the other two will kill you." (...)  
-"Your salary is the bribe they give you to forget your dreams."  
--- Warren Buffett*
-
-> *"If you can’t see yourself working with someone for life, don’t work with them for a day." (...)  
-"Mercenaries work for money. Missionaries build for others. Artists create for themselves." (...)  
-"Management is mostly hiring well and firing quickly."  
--- Naval Ravikant*
-
-### On resumes
-
-> *"Your real resume is a painful recounting of all your struggles."  
--- Naval Ravikant*
-
-Hints:
-
-- Your resume should tell the reader why you more valuable to the company than the next person. You’ll show that with your experience. Tell HOW you accomplished your responsibilities better than the next person. ie. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
-- There are two skill levels: still learning or confident.
-
-> *"Whatever makes you weird is probably your greatest asset."  
--- Joss Whedon*
-
-### How to attract and keep talented people?
-
-Respect them. You’ll never respect them if you don’t reward them accordingly.
-
-Hints:
-
-- Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
-- Smart people will not work extremely hard just for money.
-- Good employees are not easy to find. It takes some real *chutzpah* to make someone do your work for insufficient compensation while you rake in the big bucks.
-- Asking for a raise. Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.
-
-> *"Train employees well enough they could get another job, but treat them well enough so they never want to."  
--- Kevin Kelly*
-
-> *"Everybody wants to hire the best. Few of them actually pay them like they’re the best."  
--- Naval Ravikant*
-
-
-
-
-
-
----
-# 2.4 - On competition
-
-## On opponents and allies
-
-<!--
-> *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth." -- Doc Rivers*
-> *"If you want to make enemies, try to change something." -- Woodrow Wilson*
-> *"Only the hypocrite is really rotten to the core." -- Hannah Arendt*
-> *"When neither their poverty nor their honor is touched, the majority of men live content." -- Niccolo Machiavelli*
-> *"With a gentleman I try to be a gentleman and a half, and with a fraud I try to be a fraud and a half." -- Otto von Bismark*
-
-> *"Never offend people with style when you can offend them with substance."  
--- Sam Brown*
-> *"Só os mais corajosos conseguem fazer a paz."  
--- Trump*
-> *"All guns are loaded."  
--- Kevin Kelly*
-> *"Choose the neighbour before choosing the house."  
--- Proverb*
-
-- Be willing to side with the minority.
-- your competition isn't other people. Your competition is your proscrastination. Your ego. The unhealthy food you're consuming, the knowledge you neglect. The negative behaviour you're nurturing & your lack of creativity. Compete against that.
-- Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
-- i fear not the man who's read ten thousand books, but the man who's read the book ten thousand times.
-- understand the difference of an adversary and an enemy to not accumulate enemys.
-- When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
-- Nietszche says to measure one’s strength by the number of parasites one can support.
-- surpass a gatekeeper: i’m x, i know your situation and how is the way i can make it the most confortable (safe) for you.
--->
-
-> *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
--- J.W. Goethe*
-
-Beware of all players.
-
-People are amazing optimizers and will find any loopholes or gaps to their advantage. Only your parents will help you in a way that is prejudicial to them.
-
-> *"The world is divided between victims and predators, and you have to defend yourself against both."  
--- Florenz Baron*
-
-> *"The enemy is fear. We think it is hate, but it is fear."  
--- Ghandi*
-
-> *"Any person capable of angering you becomes your master."  
--- Epictetus*
-
-> *"Who lies for you will lie against you." (...)  
-"Talkers aren’t strong. The strong don’t talk."  
--- Proverbs*
-
-> *"Because she competes with no one, no one can compete with her."  
--- Lao Tzu*
-
-### On easy opponents
-
-<!--
-> *"A free lunch is only found in mousetraps."  
--- John Capozzi*
--->
-
-Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
-
-> *"Despise the free lunch."  
--- Robert Greene (law of power)*
-
-> *"Sometimes one pays most for the things one gets for nothing." (...)  
-"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
--- Albert Einstein*
-
-> *"«El dorados» are never drawn in the map."  
--- Unknown*
-
-> *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
--- Warren Buffett*
-
-> *"Never assume that loud is strong and quiet is weak."  
--- Gurubogsa*
-
-### On desperate opponents
-
-> *"Necessity knows no law." (...)  
-"Fear can make a donkey attack a lion."  
--- Proverbs*
-
-Beware of sad people.
-
-Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
-
-> *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
--- Balthasar Gracian*
-
-> *"Beware the fury of a patient man."  
--- John Dryden*
-
-### On difficult opponents
-
-The thougest competition is a good enough competitor.
-
-Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
-
-> *"Put all the meat in the barbecue."  
--- Jorge Jesus (soccer coach)*
-
-> *"Get others to do the work for you, but always take the credit." (...)  
-"Keep your hands clean."  
--- Robert Greene (Law of power)*
-
-> *"The best fighter is never angry."  
--- Lao Tzu*
-
-> *"Of all the bad men, religious bad men are the worst."  
--- C.S. Lewis*
-
-> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
--- Bruce Lee*
-
-When nothing else works, surrender. Only use anger and go all in if you can see the end already.
-
-> *"Do I not destroy my enemies when I make them my friends?"  
--- Abraham Lincoln*
-
-### On allies
-
-The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
-
-Hint:
-
-- Buy from your community. Sell to outsiders.
-
-> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
--- Peter Kropotkin*
-
-> *"United we are rock, divided we are sand." (...)  
-"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd." (...)  
-"Hungry dogs are never loyal."  
--- Proverbs*
-
-> *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
--- Mark Twain*
-
-> *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
--- Paul Alexander*
-
-> *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
--- Balthasar Gracian*
-
-> *"The worst thing about betrayal is that it never comes from your enemies."  
--- The godfather*
-
-> *"I learned a long time ago the wisest thing I can do is be on my side."  
--- Maya Angelou*
-
-### On heros
-
-<!--
-> *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards."  
--- Nietzsche*
--->
-
-> *"Every society honors its live conformists and its dead troublemakers."  
--- Marshall McLuhan*
-
-> *"You either die a hero, or you live long enough to see yourself become the villain."  
--- Harvey Dent*
-
-Our heros are our idealized selfes.
-
-> *"Show me a hero, and I’ll write you a tragedy."  
--- F. Scott Fitzgerald*
-
-
-
-
-
-
----
-## On conflicts
-
-> *"War is what happens when language fails."  
--- Margaret Atwood*
-
-Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
-
-Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
-
-### On conflict resolution
-
-You’re either part of the solution or part of the problem.
-
-Hints:
-
-- Use «we». Mean it and take responsability.
-- Bring options to the table. It’s easier to negotiate down.
-
-> *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
-"Your best response to an insult is «you’re probably right». Often they are."  
--- Kevin Kelly*
-
-> *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
--- Balthasar Gracian*
-
-> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
--- Seneca*

@@ -1,10 +1,12 @@
 <!--
-- [1980] FERREIRA, E. (pt)
-- [????] LEACH, David (??) https://en.wikipedia.org/wiki/David_Leach
+- [19] LEACH, David (??) https://en.wikipedia.org/wiki/David_Leach
+
+- [19] DALY, Jeff (us)
+- [19] , J.A. KARR (us)
 -->
 
 - [----] Proverb
-- [Book] Bhagavad Gita
+- [BOOK] Bhagavad Gita
 - [BOOK] Bible
 - [BOOK] Talmud
 - [BOOK] Valve employee
@@ -16,14 +18,12 @@
 - [FICTIONAL] MONTANA, Tony
 - [FICTIONAL] PLOUGHMAN, Tara
 - [FICTIONAL] TYRION
-- [NEWS.YCOMBINATOR] bane
-- [NEWS.YCOMBINATOR] danielvf
-- [NEWS.YCOMBINATOR] dilemma
-- [NEWS.YCOMBINATOR] exelius
-- [NEWS.YCOMBINATOR] pystack
-- [TWITTER] pat_stedman
+- [NEWS.YCOMBINATOR] bane / danielvf / dilemma / exelius / pystack
+- [TWITTER] pat_stedman / sgrstk
 
+- [-970] SOLOMON, King (il)
 - [-680] ARCHILOCHUS (gr)
+- [-573] ANACREON (gr)
 - [-571] TZU, Lao (cn)
 - [-570] PYTHAGORAS (gr)
 - [-551] CONFUCIUS (cn)
@@ -32,13 +32,17 @@
 - [-535] HERACLITUS (gr)
 - [-497] SOPHOCLES (gr)
 - [-480] EURIPIDES (gr)
+- [-470] SOCRATES (gr)
 - [-427] PLATO (gr)
+- [-418] IPHICRATES (gr)
 - [-384] ARISTOTLE (gr)
 - [-375] KAUTILYA (in)
 - [-369] ZHOU, Zhuang (cn)
 - [-212] ARCHIMEDES (gr)
-- [-180] GAIUS LUCILIUS (it)
+- [-180] LUCILIUS, Gaius (it)
 - [-106] CICERO (it)
+- [-100] CAESAR, Julius (it)
+- [-065] HORACE (it)
 - [-039] OVID (it)
 - [-004] SENECA (it)
 
@@ -46,6 +50,8 @@
 - [0050] EPICTETUS (gr)
 - [0050] AKIVA, Rabbi (il)
 - [0121] AURELIUS, Marcus (it)
+
+- [0570] MUHAMMAD (sa)
 
 - [1138] MAIMONIDES (es)
 - [1181] ASSISI, Francis of (it)
@@ -55,13 +61,16 @@
 - [1265] ALIGHIERI, Dante (it)
 
 - [1452] DA VINCI, Leonardo (it)
+- [1466] ERASMUS, Desiderius (nl)
 - [1469] MACHIAVELLI, Niccoló (it)
 - [1475] MICHAELANGELO (it)
 
 - [1533] MONTAIGNE, Michel de (fr)
 - [1547] CERVANTES, Miguel de (es)
+- [1559] CHAPMAN, George (uk)
 - [1561] BACON, Francis (uk)
 - [1564] GALILEI, Galileo (it)
+- [1564] SHAKESPEARE, William (uk)
 - [1593] HERBERT, George (uk)
 
 - [1601] GRACIAN, Balthasar (es)
@@ -69,6 +78,7 @@
 - [1621] LA FONTAINE, Jean de (fr)
 - [1623] PASCAL, Blaise (fr)
 - [1631] DRYDEN, John (uk)
+- [1642] NEWTON, Isaac (uk)
 
 - [1651] FÉNELON, François (fr)
 - [1667] SWIFT, Jonathan (ie)
@@ -91,6 +101,7 @@
 - [1775] BEECHER, Lyman (us)
 - [1788] SCHOPENHAUER, Arthur (de)
 - [1790] SMITH, Adam (uk)
+- [1799] BALZAC, Honoré de (fr)
 
 - [1803] BULWER-LYTTON, Edward (uk)
 - [1803] EMERSON, Ralph Waldo (us)
@@ -123,6 +134,7 @@
 - [1844] FRANCE, Anatole (fr)
 - [1844] NIETZSCHE, Friedrich (de)
 - [1847] EDISON, Thomas (us)
+- [1848] GAUGUIN, Paul (fr)
 - [1849] PAVLOV, Ivan (ru)
 
 - [1853] GOGH, Vincent Van (nl)
@@ -148,7 +160,7 @@
 - [1868] DOUGLAS, Norman (uk)
 - [1868] HUBBARD, Kin (us)
 - [1869] GANDHI, Mahatma (in)
-- [1869] GIDE, André (fr)
+- [1869] GIDE, Andre (fr)
 
 - [1870] LENIN, Vladimir (ru)
 - [1872] HOFMANNSTHAL (Lord Chandos), Hugo von (at)
@@ -159,6 +171,7 @@
 - [1874] FROST, Robert (us)
 - [1874] HARWOOD, H.M (uk)
 - [1874] MAUGHAM, W. Somerset (fr)
+- [1874] WATSON, Thomas John (us)
 - [1875] JUNG, Carl (ch)
 - [1875] MANN, Thomas (de)
 - [1877] HESSE, Hermann (de)
@@ -180,8 +193,10 @@
 - [1885] DOREN, Carl Van (us)
 - [1885] DURANT, Will (us)
 - [1885] PATTON, George S. (us)
+- [1885] POUND, Ezra (us)
 - [1888] CARNEGIE, Dale (us)
 - [1888] PESSOA, Fernando (pt)
+- [1889] CHAPLIN, Charlie (uk)
 - [1889] BENCHLEY, Robert (us)
 - [1889] COCTEAU, Jean (fr)
 - [1889] WITTGENSTEIN, Ludwig (at)
@@ -193,12 +208,16 @@
 - [1893] ACHESON, Dean (us)
 - [1893] SZENT-GYORGYI, Albert (hu)
 - [1893] WEST, Mae (us)
-- [1894] CUMMINGS, E.E. (us)
+- [1894] ALLEN, Fred (us)
 - [1894] CÉLINE, Louis (fr)
+- [1894] CUMMINGS, E.E. (us)
+- [1894] MABLEY, Moms (us)
 - [1895] FULLER, Buckminster (us)
+- [1895] KRISHNAMURTI, Jiddu (in)
 - [1896] DIRKSEN, Everett (us)
 - [1896] FITZGERALD, F. Scott (us)
 - [1897] EARHART, Amelia (us)
+- [1898] BRECHT, Bertold (de)
 - [1898] MEIR, Golda (il)
 - [1899] BORGES, Jorge Luis (ar)
 - [1899] HEMINGWAY, Ernest (us)
@@ -221,7 +240,10 @@
 - [1904] DALI, Salvador (us)
 - [1904] SUZUKI, Shunryu (jp)
 - [1905] FRANKL, Viktor (at)
+- [1905] HELLMAN, Lillian (us)
 - [1905] RAND, Ayn (ru)
+- [1905] SARTRE, Jean-Paul (fr)
+- [1905] SMITH, Red (us)
 - [1905] WALLENDA, Karl (de)
 - [1906] ARENDT, Hannah (de)
 - [1906] ONASSIS, Aristotle (gr)
@@ -243,6 +265,7 @@
 - [1911] OGILVY, David (uk)
 - [1911] SCHUMACHER, Ernst F. (de)
 - [1911] WILLIAMS, Tennessee (us)
+- [1912] BRAUN, Wernher von (de)
 - [1912] CAGE, John (us)
 - [1913] CAMUS, Albert (dz)
 - [1913] DAVIES, Robertson (ca)
@@ -254,6 +277,7 @@
 - [1915] WATTS, Alan (uk)
 - [1916] ANGLIN, William S. (ca)
 - [1916] NOBLE, Charles C. (us)
+- [1917] CLARKE, Arthur C. (uk)
 - [1917] KENNEDY, John F. (us)
 - [1918] BERNSTEIN, Leonard (us)
 - [1918] EYCK, Aldo van (nl)
@@ -261,6 +285,7 @@
 - [1918] MANDELA, Nelson (za)
 - [1919] BOX, George (uk)
 - [1919] HILLARY, Edmund (nz)
+- [1919] PETER, Laurence J. (ca)
 
 - [1920] ASIMOV, Isaac (ru)
 - [1920] BRADBURY, Ray (us)
@@ -273,6 +298,7 @@
 - [1922] KEROUAC, Jack (us)
 - [1922] SARAMAGO, José (pt)
 - [1922] VONNEGUT, Kurt (us)
+- [1923] BEHAN, Brendan (ie)
 - [1923] BERSHADER, Daniel (us)
 - [1924] BUSCAGLIA, Leo (us)
 - [1924] CAPOTE, Truman (us)
@@ -288,10 +314,12 @@
 - [1928] ANGELOU, Maya (us)
 - [1928] CHOMSKY, Noam (us)
 - [1928] SEXTON, Anne (us)
+- [1928] WARHOL, Andy (us)
 - [1928] WESTHEIMER, Ruth (de)
 - [1929] CASSAVETES, John (us)
 - [1929] FRANK, Anne (de)
 - [1929] HEPBURN, Audrey (uk)
+- [1929] KING, Martin Luther (us)
 - [1929] SPENCE, Gerry (us)
 
 - [1930] BUFFETT, Warren (us)
@@ -309,6 +337,7 @@
 - [1933] SONTAG, Susan (us)
 - [1934] LORDE, Audre (us)
 - [1934] STEINEM, Gloria (us)
+- [1935] ALLEN, Woodie (us)
 - [1935] LAMA, Dalai (np)
 - [1935] OLIVER, Mary (us)
 - [1936] BACH, Richard (us)
@@ -324,11 +353,13 @@
 - [1938] CHOUINARD, Yvon (us)
 - [1938] KNUTH, Donald (us)
 - [1938] ROGERS, Martha (us)
+- [1938] TURNER, Ted (us)
 - [1939] ATWOOD, Margaret (us)
 - [1939] MONTALBAN, Manuel Vázquez (us)
 - [1939] ZANDER, Benjamin (uk)
 
 - [1940] ANDRETTI, Mario (it)
+- [1940] BROWN JR., H. Jackson (us)
 - [1940] DYER, Wayne (us)
 - [1940] KAY, Alan (us)
 - [1940] LENNON, John (uk)
@@ -339,9 +370,10 @@
 - [1942] HENDRIX, Jimi (us)
 - [1942] HORNING, Jim (us)
 - [1942] RUMELT, Richard (us)
-- [1942] ZANDER, Rosamund (uk)
 - [1943] MACMILLAN, Margaret (us)
 - [1943] SIMÕES, António (pt)
+- [1943] WALKEN, Christopher (us)
+- [1942] ZANDER, Rosamund (uk)
 - [1944] BROWN, Rita Mae (us)
 - [1944] FLAGG, Fannie (us)
 - [1945] ALLEN, David (us)
@@ -385,12 +417,14 @@
 - [1954] ROBERTS, Russ (us)
 - [1954] WINFREY, Oprah (us)
 - [1955] GATES, Bill (us)
+- [1955] GOLDBERG, Whoopi (us)
 - [1955] GLOVER, Robert (us)
 - [1955] JOBS, Steve (us)
 - [1955] MCRAVEN, William (us)
 - [1955] NYE, Bill (us)
 - [1955] ROBINSON, Adam (us)
 - [1955] SHRIVER, Maria (us)
+- [1956] DAVIS, Geena (us)
 - [1957] GILBER, Daniel (us)
 - [1957] KELLER, Gary (us)
 - [1958] ALBOM, Mitch (us)
@@ -444,12 +478,14 @@
 - [1970] DIFRANCO, Ani (us)
 - [1970] MILEI, Javier (ar)
 - [1970] SNICKET, Lemony (us)
+- [1971] BADU, Erykah (us)
 - [1971] BUTCHER, Jim (us)
 - [1971] CHACHRA, Deb (us)
 - [1971] HAMPTON, Dream (us)
 - [1971] HODGMAN, John (us)
 - [1971] MALLOUK, Peter (jo)
 - [1971] MUSK, Elon (za)
+- [1972] ARMSTRONG, Billie (us)
 - [1972] CUDDY, Amy (us)
 - [1972] MIÉVILLE, China (uk)
 - [1973] AUTUMN, Emilie (us)
@@ -481,6 +517,7 @@
 
 - [1980] HARBINGER, Jordan (us)
 - [1982] NEWPORT, Cal (us)
+- [1982] PARRISH, Shane (ca)
 - [1982] SETHI, Ramit (us)
 - [1982] VELEZ, David (co)
 - [1983] HOUSEL, Morgan (us)

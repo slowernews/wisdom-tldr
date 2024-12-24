@@ -29,6 +29,14 @@ A big part of who you are is who you're not.
 
 ### The real you
 
+<!--
+> *"Be the change you want to see in the world." -- Mahatma Gandhi*
+> *"Everyone thinks of changing the world, but no one thinks of changing himself." -- Leo Tolstoy*
+> *"I've finally learned what "upward compatible" means. It means we get to keep all our old mistakes." -- Dennie van Tassel*
+> *"The key to change... is to let go of fear." -- Rosanne Cash*
+> *"The world is changed by your example, not by your opinion." -- Paulo Coelho*
+-->
+
 Your new life will cost you your old one. Do not fear your own potential.
 
 > *"You’re under no obligation to be the same person you were five minutes ago."  

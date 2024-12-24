@@ -81,7 +81,7 @@ Hints:
 -- Kevin Kelly*
 
 > *"The man to lies to himself can be more easily offended than any other."  
--- Fyodor Dostoyevsky (The brother Karamazov)*
+-- Fyodor Dostoyevsky*
 
 ### On authenticity
 
@@ -317,6 +317,14 @@ Blessed are the restless.
 
 ### On agency
 
+<!--
+> *"If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission." -- Rear Admiral Grace Hopper*
+> *"If not you, who? If not now, when?" -- Rabbi Hillel*
+> *"Knowing is not enough. We must apply. Willing is not enough. We must do." -- Bruce Lee*
+> *"The possibilities are numerous once we decide to act and not react." -- George Bernard Shaw*
+> *"You'll always miss 100% of the shots you don't take." -- Wayne Gretzky*
+-->
+
 > *"The most difficult is the decision to act, the rest is just tenacity."  
 -- Andrea Earhart*
 
@@ -426,6 +434,9 @@ Hints:
 -- Warren Buffett*
 
 Being risk-prone is better than being risk-averse, but don’t allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is NOT about experiencing pain.
+
+> *"If your life is free of failures, you're not taking enough risks."  
+-- H. Jackson Brown*
 
 
 
@@ -832,13 +843,9 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 ## On writing
 
 <!--
-> *"There's nothing to writing. All you do is sit at a typewriter and open a vein." -- Red Smith*
 > *"What no spouse of a writer can ever understand is that a writer is working when he's staring out the window.*
-> *"Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good." -- Samuel Johnson*
-> *"Medicine is my lawful wife and literature is my mistress."  
--- Anton Chekhov*
-> *"When you are consumed by thoughts, write. When you are uninspired, read."  
--- Stephen King*
+> *"Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good."  -- Samuel Johnson*
+> *"Medicine is my lawful wife and literature is my mistress." -- Anton Chekhov*
 
 - o poeta faz a sintese das coisas
 5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
@@ -884,8 +891,12 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 > *"This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important. So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader’s ear. Don’t just write words. Write music"  
 -- Gary Provost*
 
-> *"Any word you have to hunt for in a thesaurus is the wrong word."  
+> *"Any word you have to hunt for in a thesaurus is the wrong word." (...)  
+"When you are consumed by thoughts, write. When you are uninspired, read."  
 -- Stephen King*
+
+> *"There's nothing to writing. All you do is sit at a typewriter and open a vein."  
+-- Red Smith*
 
 ### On email
 
@@ -1004,12 +1015,15 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 ### On geniality
 
 <!--
-> *"If you have to ask what jazz is, you'll never know." -- Louis Armstrong*
+> *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  
+-- Brendan Behan*
+-->
+
 > *"What is the difference between a madman and a genious? Success."  
 -- Javier Milei*
+
 > *"Genious is finding the invisible links between things."  
 -- Vladimir Nabokov*
--->
 
 > *"In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."  
 -- Ralph Waldo Emerson*
@@ -1023,14 +1037,14 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 > *"Some people feel the rain. Others just get wet."  
 -- Bob Marley*
 
+> *"If you have to ask what jazz is, you'll never know."  
+-- Louis Armstrong*
+
 > *"Andy Warhol is the only genius I’ve ever known with an IQ of 60."  
 -- Gore Vidal*
 
 > *"Genious is man who can do the average thing when everyone else around him is losing his mind."  
 -- Naval Ravikant*
-
-> *"If a man knows more than others he becomes lonely."  
--- Carl Jung*
 
 > *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
 -- Plato*
@@ -1038,6 +1052,8 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 > *"Tolerance will reach such a level that intelligent people will be banned from thinking so as not to offend the imbeciles."  
 -- Fyodor Dostoyevsky*
 
+> *"I have no special talent. I am only passionately curious."  
+-- Albert Einstein*
 
 
 
@@ -1227,7 +1243,6 @@ Hints:
 ## On popularity
 
 <!--
-> *"There is only one thing in the world worse than being talked about, and that is not being talked about." -- Oscar Wilde*
 > *"We'll know that rock is dead when you have to get a degree to work in it."*
 -->
 
@@ -1250,6 +1265,9 @@ People say they want to be famous to impact the world, often what they want is t
 > *"He who is known as an early riser need not get up until noon."  
 -- Proverb*
 
+> *"There is only one thing in the world worse than being talked about, and that is not being talked about."  
+-- Oscar Wilde*
+
 
 
 
@@ -1261,23 +1279,15 @@ People say they want to be famous to impact the world, often what they want is t
 <!--
 > *"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." -- Anais Nin*
 > *"Are you placing enough interesting, freakish, long shot, weirdo bets?" -- Tom Peters*
-> *"If you risk nothing, then you risk everything." -- Geena Davis*
-> *"Necessity is the mother of taking chances." -- Mark Twain*
 > *"Only those who will risk going too far can possibly find out how far it is possible to go." -- T.S. Eliot*
 > *"People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year." -- Peter Drucker*
 > *"The quality of your life is in direct proportion to the amount of uncertainty you can comfortably deal with." -- Tony Robbins*
 > *"To dare is to lose one's footing momentarily. To not dare is to lose oneself." -- Soren Kierkegaard*
-
-> *"In the realm of scientific observation, luck is granted only to those who are prepared." -- Louis Pasteur*
 > *"Opportunity dances with those on the dance floor." -- Anonymous*
 > *"We all have enough strength to endure the misfortunes of other people."  
 -- François de La Rochefoucauld*
 > *"I naufraghi prima o poi finiscono per incontrarsi."  
 -- M. Vázquez Montalban*
-> *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  
--- R.C. Sproul*
-
-- Luck sometimes visit a fool, but it never sits down with him.
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -1320,14 +1330,24 @@ Risk is everything you left over and didn’t thought about.
 
 Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
 
+> *"If you risk nothing, then you risk everything."  
+-- Geena Davis*
+
 > *"Opportunity is missed by most of people because it is dressed in overalls and looks like work."  
 -- Thomas Edison*
 
 > *"Things that come with little help of luck are more resistant to randomness."  
 -- Nassim Taleb*
 
-> *"The day you decide to do it is your lucky day."  
--- Proverb*
+> *"The day you decide to do it is your lucky day." (...)  
+"Luck sometimes visit a fool, but it never sits down with him."  
+-- Proverbs*
+
+> *"Necessity is the mother of taking chances."  
+-- Mark Twain*
+
+> *"In the realm of scientific observation, luck is granted only to those who are prepared."  
+-- Louis Pasteur*
 
 ### On hope
 
@@ -1336,6 +1356,9 @@ Every outcome in life is guided by forces other than individual effort. The best
 
 > *"Hope is the bread of the poor."  
 -- Proverb*
+
+> *"Hope is not a strategy."  
+-- Vince Lombardi*
 
 
 
@@ -1410,16 +1433,18 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"Television has proved that people will look at anything rather than each other." -- Ann Landers*
 > *"TV is chewing gum for the eyes." -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
-> *"Travel and tell no one, live a true love story and tell no one, people ruin beautiful things."  
--- Kahlil Gibran*
 > *"Most people tiptoe through life, hoping to make it safely to death."  
 -- Earl Nightingale*
 
-- It's okay to live a life others don't understand. 
+- never before has a generation so diligently recorded themselves accomplishing so little.
+- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
+- what’s your adrenaline type? velocidade ou fronteira do conhecido
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
 -- David Hockney*
+
+It's okay to live a life others don't understand. 
 
 We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die. When life becomes about enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
 
@@ -1459,11 +1484,8 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"Don't be seduced into thinking that that which does not make a profit is without value."  
 -- Arthur Miller*
 
-<!--
-- never before has a generation so diligently recorded themselves accomplishing so little.
-- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
-- what’s your adrenaline type? velocidade ou fronteira do conhecido
--->
+> *"Travel and tell no one, live a true love story and tell no one, people ruin beautiful things."  
+-- Kahlil Gibran*
 
 Hints:
 
@@ -1535,16 +1557,7 @@ Hints:
 ## On success
 
 <!--
-> *"Anything that is successful is a series of mistakes." -- Billie Armstrong*
-> *"Failure is only the opportunity to begin again more intelligently." -- Henry Ford*
-> *"Failure is success if we learn from it." -- Malcolm Forbes*
-> *"I failed my way to success." -- Thomas Edison*
 > *"I never made a mistake in my life. I thought I did once, but I was wrong." -- Lucy Van Pelt*
-> *"If your life is free of failures, you're not taking enough risks." -- H. Jackson Brown*
-> *"Never confuse a single defeat with a final defeat." -- F. Scott Fitzgerald*
-> *"One's only rival is one's own potentialities. One's only failure is failing to live up to one's own possibilities. In this sense, every man can be a king, and must therefore be treated like a king." -- Abraham Maslow*
-> *"Our greatest glory is not in never falling, but in rising every time we fall." -- Confucius*
-> *"The way to succeed is to double your failure rate." -- Thomas Watson, Founder, IBM*
 > *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
 -->
 
@@ -1596,6 +1609,15 @@ Hints:
 
 > *"Success lies in relentless execution of the basics."  
 -- Leonardo da Vinci*
+
+> *"I failed my way to success."  
+-- Thomas Edison*
+
+> *"The way to succeed is to double your failure rate."  
+-- Thomas John Watson*
+
+> *"Anything that is successful is a series of mistakes."  
+-- Billie Armstrong*
 
 ### On barriers to success
 
@@ -1737,13 +1759,6 @@ Hints:
 
 ### How to overcome them?
 
-<!--
-> *"The curious paradox is that when I accept myself just as I am, then I can change."  
--- Carl Rogers*
-
-- you cannot live when you are untouchable. Life is vulnerability.
--->
-
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer*
 
@@ -1783,8 +1798,6 @@ Hints:
 <!--
 > *"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison."  
 -- Fyodor Dostoyevsky*
-> *"The eyes do not see what the mind does not want."  
--- Proverb*
 > *"Hatred is the coward's revenge for being intimidated."  
 -- George Bernard Shaw*
 > *"Fear arrives when we imagine everything depends on us."  
@@ -1918,10 +1931,11 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 ## On failure
 
 <!--
-> *"When you accept yourself, the whole world accepts you."  
--- Lao Tzu*
-> *"The more you live like you are already who you want to become, the faster it will turn into a reality."  
--- Cory Allen*
+> *"The more you live like you are already who you want to become, the faster it will turn into a reality." -- Cory Allen*
+> *"Failure is only the opportunity to begin again more intelligently." -- Henry Ford*
+> *"Failure is success if we learn from it." -- Malcolm Forbes*
+> *"One's only rival is one's own potentialities. One's only failure is failing to live up to one's own possibilities. In this sense, every man can be a king, and must therefore be treated like a king." -- Abraham Maslow*
+> *"Our greatest glory is not in never falling, but in rising every time we fall." -- Confucius*
 -->
 
 > *"Experience is merely the name men gave to their mistakes."  
@@ -1976,24 +1990,21 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 
 ### On anger
 
-<!--
 > *"The more you know who you are, and what you want, the less you let things upset you."  
 -- Bob Harris (Lost in translation)*
 
-- Pay attention to what people say out of anger, they've been dying to tell you that.
-
 > *"And God said «love your enemy», and I loved myself.*
 -- Khalil Gibran*
--->
 
 Anger is a punishment we give ourselves for someone else’s mistake.
 
-### On scars
+Hint: 
+
+- Pay attention to what people say out of anger, they've been dying to tell you that.
+
+### On scars and wounds
 
 <!--
-> *"I bear the wounds of all the battles I avoided."  
--- Fernando Pessoa*
-
 - i don't hide my scars. they are proof that i showed up for life. and fought.
 - if you don't heal what hurt you, you'll bleed on people who didn't cut you.
 -->
@@ -2024,6 +2035,9 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 > *"In anger we should refrain both from speech and action."  
 -- Pythagoras*
 
+> *"I bear the wounds of all the battles I avoided."  
+-- Fernando Pessoa*
+
 
 
 
@@ -2033,6 +2047,13 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 ## On shame, confidence and validation
 
 <!--
+> *"Out of your vulnerabilities will come your strength."  
+-- Sigmund Freud*
+> *"The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you. Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved." -- William Jennings Bryan*
+> *"The curious paradox is that when I accept myself just as I am, then I can change."  
+-- Carl Rogers*
+
+- you cannot live when you are untouchable. Life is vulnerability.
 - Do what scares you until it doesn't.
 - humble enough to know i'm replaceable. cocky enough to know is a downgrade.
 -->
@@ -2058,11 +2079,8 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 
 ### On confidence and validation
 
-<!--
-> *"The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you. Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved." -- William Jennings Bryan*
--->
-
-> *"One who believes in himself has no need to convince others."  
+> *"One who believes in himself has no need to convince others." (...)  
+"When you accept yourself, the whole world accepts you."  
 -- lao Tzu*
 
 > *"Value yourself. The only people who appreciate a doormat are people with dirty shoes."  
@@ -2104,11 +2122,6 @@ Hints:
 -- David Storey*
 
 ### How to overcome shame and grow confidence?
-
-<!--
-> *"Out of your vulnerabilities will come your strength."  
--- Sigmund Freud*  
--->
 
 > *"Once you’ve accepted your flaws, no one can use them against you."  
 -- Tyrion*
@@ -2230,9 +2243,7 @@ Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 ## On pessimism
 
 <!--
-> *"An optimist expects his dreams to come true; a pessimist expects his nightmares to." -- Laurence J. Peter*
 > *"You’ll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."*
-> *"What we anticipate seldom occurs; what we least expect generally happens." -- Bengamin Disraeli*
 -->
 
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
@@ -2279,6 +2290,9 @@ Hints:
 > *"Keep you thoughts positive because your thoughts become your words. Keep your thoughts positive because your words become your behaviour. Keep your behavior positive because your behavior becomes your habits. Keep your habits positive because your habits becomes your values. Keep your values positive because your values become your destiny."  
 -- Mahatma Gandhi*
 
+> *"An optimist expects his dreams to come true; a pessimist expects his nightmares to."  
+-- Laurence J. Peter*
+
 ### On worry
 
 > *"Worry gives small things a big shadow."  
@@ -2296,15 +2310,6 @@ Worrying is worshipping the problem. If you panic, panic early.
 
 ---
 ## On perfectionism
-
-<!--
-> *"Perfection is not attainable, but if we chase perfection, we can catch excellence."
--- Vince Lombardi*
-> *"And now that you don't have to be perfect, you can be good."  
--- Charlie Brown*
-> *"If I had any humility I would be perfect."  
--- Ted Turner*
--->
 
 > *"Perfectionism is the fear of being criticized."  
 -- Caroline Myss*
@@ -2331,6 +2336,15 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 
 > *"We are all broken, that's how the light gets in."  
 -- Ernest Hemingway*
+
+> *"Perfection is not attainable, but if we chase perfection, we can catch excellence."
+-- Vince Lombardi*
+
+> *"And now that you don't have to be perfect, you can be good."  
+-- Charlie Brown*
+
+> *"If I had any humility I would be perfect."  
+-- Ted Turner*
 
 ### On clutter
 
@@ -2359,6 +2373,12 @@ Hints:
 ---
 ## On limits
 
+<!--
+> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination." -- Terence McKenna*
+> *"Birds born is a cage think flying is an illness." -- Alejandro Jodorowski*
+> *"When nothing is sure, everything is possible." -- Margaret Drabble*
+-->
+
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
 -- Archilochus*
 
@@ -2378,6 +2398,39 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 > *"There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with."  
 -- Kevin Kelly*
 
+> *"Impossible is just an opinion."  
+-- Paulo Coelho*
+
+> *"The person who says it cannot be done should not interrupt the person doing it."  
+-- Proverb*
+
+> *"If you think we can't change the world, it just means you're not one of those that will."  
+-- Jacque Fresco*
+
+> *"The limits of the possible can only be defined by going beyond them into the impossible."  
+-- Arthur C. Clarke*
+
+> *"A likely impossibility is always preferable to an unconvincing possibility."  
+-- Aristotle*
+
+> *"In order to attain the impossible, one must attempt the absurd." 
+-- Miguel de Cervantes*
+
+> *"If you can't, you must. If you must, you can."  
+-- Tony Robbins*
+
+> *"It's kind of fun to do the impossible!"  
+-- Walt Disney*
+
+> *"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."  
+-- St. Francis of Assisi*
+
+> *"It's not because things are difficult that we dare not venture. It's because we dare not venture that they are difficult."  
+-- Seneca*
+
+> *"I am where I am because I believe in all possibilities."  
+-- Whoopi Goldberg*
+
 ### On expectations
 
 > *"Expectations are resentments waiting to happen."  
@@ -2396,12 +2449,10 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 > *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
 -- Unknown (tetraplegic)*
 
-### On self awareness
+> *"The eyes do not see what the mind does not want."  
+-- Proverb*
 
-<!--
-> *"It is only in adventure that some people succeed in knowing themselves."  
--- Andre Gide*
--->
+### On self awareness
 
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
 -- François de La Rochefoucauld*
@@ -2450,6 +2501,9 @@ Hints:
 > *"If you correct your mind, the rest of your life will fall into place."  
 -- Lao Tzu*
 
+> *"It is only in adventure that some people succeed in knowing themselves."  
+-- Andre Gide*
+
 
 
 
@@ -2457,16 +2511,6 @@ Hints:
 
 ---
 ## On growing old
-
-<!--
-> *"Ain't nothin' an old man can do for me but bring me a message from a young man." -- Moms Mabley*
-> *"To stay youthful, stay useful.*
-> *"Young men think old men are fools; but old men know young men are fools." -- George Chapman*
-> *"Youth is when you blame all your troubles on your parents; maturity is when you learn that everything is the fault of the younger generation.*
-> *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it." -- Mark Twain*
-> *"Life really does begin at forty. Up until then, you are just doing research."  
--- Carl Jung*
--->
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
@@ -2489,6 +2533,10 @@ After reaching a certain age, you are no longer seen as an individual; you becom
 -- Jon Boorman*
 
 ### On aging
+
+<!--
+> *"To stay youthful, stay useful.*
+-->
 
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
 -- Bruno Munari*
@@ -2515,6 +2563,12 @@ Aging implies wear and tear, often seen as a high price to pay for maturity.
 > *"Once I was beautiful, now I’m myself."  
 -- Anne Sexton*
 
+> *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it."  
+-- Mark Twain*
+
+> *"Ain't nothin' an old man can do for me but bring me a message from a young man."  
+-- Moms Mabley*
+
 ### On maturity
 
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
@@ -2534,6 +2588,9 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 > *"Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it."  
 -- George Orwell*
 
+> *"Youth is when you blame all your troubles on your parents; maturity is when you learn that everything is the fault of the younger generation."  
+-- Bertold Brecht*
+
 > *"The old believe everything; the middle-aged suspect everything; the young know everything."  
 -- Oscar Wilde*
 
@@ -2545,6 +2602,12 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 
 > *"Forty is the old age of youth; fifty is the youth of old age."  
 -- Victor Hugo*
+
+> *"Life really does begin at forty. Up until then, you are just doing research."  
+-- Carl Jung*
+
+> *"Young men think old men are fools; but old men know young men are fools."  
+-- George Chapman*
 
 ### On retirement
 
@@ -2568,5 +2631,9 @@ Finding a place to die is an important thing to do.
 
 ### On loneliness
 
-> *"Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you."  
+> *"If a man knows more than others he becomes lonely." (...)  
+"Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you."  
 -- Carl Jung*
+
+> *"If you are afraid of loneliness, don't marry."  
+-- Anton Chekhov*
