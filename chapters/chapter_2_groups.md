@@ -184,9 +184,6 @@ Hints:
 > *"If you expect magic in every encounter, you’ll find it."  
 -- Adam Robinson*
 
-> *"Give me the gift of a listening heart."  
--- King Solomon*
-
 ### Why most people don’t like networking?
 
 Handling rejection is hard. Period. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
@@ -219,8 +216,7 @@ Choose truth or your self-mythology will seduce you.
 
 <!--
 > *"Money never starts an idea; it is the idea that starts the money." -- William J. Cameron*
-> *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  
--- Morgan Housel*
+> *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- Morgan Housel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
 
 - cheap prices attract problematic customers
@@ -802,24 +798,21 @@ Hints:
 ### How to give feedback?
 
 <!--
-> *"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."  
--- Aristotle*
-
 TEN TIPS ON GIVING FEEDBACK
--- Give at least five times more positive feedback than negative.
--- Give feedback soon after the behavior you want to respond to.
--- Pick the moment when both of you are in the right frame of mind.
--- Keep it private. Feedback is not a spectator sport.
--- Prepare. Take the time to organize what you want to say.
--- Avoid generalities. Cite specific examples.
--- Focus on the issue or behavior, not the person.
--- Pay attention to body language. Adjust your feedback accordingly.
--- Keep it simple. Don't focus on too many things at once.
--- End on a positive note.
+- Give at least five times more positive feedback than negative.
+- Give feedback soon after the behavior you want to respond to.
+- Pick the moment when both of you are in the right frame of mind.
+- Keep it private. Feedback is not a spectator sport.
+- Prepare. Take the time to organize what you want to say.
+- Avoid generalities. Cite specific examples.
+- Focus on the issue or behavior, not the person.
+- Pay attention to body language. Adjust your feedback accordingly.
+- Keep it simple. Don't focus on too many things at once.
+- End on a positive note.
 -->
 
 > *"The goal is to move everyone up from «unconfident and incompetent» to «confident and competent»."  
--- HN_exelius*
+-- exelius@HN*
 
 Ask instead of telling.
 
@@ -869,8 +862,8 @@ Hints:
 ## On mentorship
 
 <!--
-> *"It is impossible for a man to learn what he thinks he already knows." -- Epictetus*
-> *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them." -- Oscar Wilde*
+> *"It is impossible for a man to learn what he thinks he already knows."  -- Epictetus*
+> *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them."  -- Oscar Wilde*
 
 - what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
 -->
@@ -933,7 +926,6 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 
 <!--
 > *"My family history begins with me, but yours ends with you." -- Iphicrates*
-- prepare the child for the path, not the child for teh path.
 -->
 
 > *"Teach your children early what you learned late."  
@@ -948,6 +940,8 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 Your father is your first mentor.
 
 Don’t tell your kids how to live. Live fully and let them see. Spend only half the money you think you should, but double the time with them.
+
+Prepare the child for the path, not the child for the path.
 
 <!--
 - we become good parents when you start to control yourself instead of controlling your child.
@@ -1134,10 +1128,10 @@ Hints:
 -- Cal Newport*
 
 > *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
--- HN_goatinaboat*
+-- goatinaboat@HN*
 
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
--- HN_??*
+-- @HN*
 
 ### How to change career?
 
@@ -1306,8 +1300,7 @@ Hints:
 ## On hierarchy
 
 <!--
-> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  
--- Jorge Luis Borges*
+> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  -- Jorge Luis Borges*
 
 - if you don't like something, just take away its only power: your attention.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
@@ -1357,8 +1350,8 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On opponents and allies
 
 <!--
-> *"Só os mais corajosos conseguem fazer a paz." -- Trump*
-> *"All guns are loaded." -- Kevin Kelly*
+> *"Só os mais corajosos conseguem fazer a paz."  -- Trump*
+> *"All guns are loaded."  -- Kevin Kelly*
 
 - Be willing to side with the minority.
 - your competition isn't other people. Your competition is your proscrastination. Your ego. The unhealthy food you're consuming, the knowledge you neglect. The negative behaviour you're nurturing & your lack of creativity. Compete against that.
@@ -1572,7 +1565,6 @@ Hints:
 ## On society and politics
 
 <!--
-on trust:
 FOR YOUR REFLECTION:
 How much do you trust yourself?
 Who is the person you trust the most in your life?
@@ -1587,17 +1579,8 @@ If you are a team leader, how much do team members trust you?
 What do you need to do to regain the trust of others?
 What is the simplest thing you can do to be more trustworthy?
 
-> *"Tolerance becomes a crime when applied to evil."  
--- Thomas Mann*
-> *"A government that is big enough to give you all you want is big enough to take it all away." -- Barry Goldwater*
-> *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
--- Salman Rushdie*
-> *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
--- Elie Wiesel*	
-> *"Não há direitos sem obrigações e viceversa."  -- E. Ferreira*
-> *"A right is not what someone gives you; it's what no one can take from you." -- Ramsey Clark*
-> *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  
--- Thomas Sowell*
+> *"A right is not what someone gives you; it's what no one can take from you."  -- Ramsey Clark*
+> *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  -- Thomas Sowell*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
 > *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
@@ -1606,6 +1589,7 @@ What is the simplest thing you can do to be more trustworthy?
 -- ownership of government by an individual, by a group or by any controlling private power."  
 -- FDR*
 
+- Não há direitos sem obrigações e viceversa.
 - the same people who sell the panic, sell the pill
 - the passports of the future should be based on skills and health rather than nationality.
 - law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
@@ -1721,7 +1705,7 @@ Hints:
 > *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
 -- Alexander Fraser Tytler*
 
-### On justice
+### On tolerance and justice
 
 > *"If a law is unjust a man is not only right to disobey it, he is obligated to do so."  
 -- Thomas Jefferson*
@@ -1743,6 +1727,15 @@ Hints:
 
 > *"Mercy to the guilty is cruelty to the innocent."  
 -- Adam Smith*
+
+> *"Tolerance becomes a crime when applied to evil."  
+-- Thomas Mann*
+
+> *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
+-- Elie Wiesel*	
+
+> *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
+-- Salman Rushdie*
 
 ### On politicians and bureaucracy
 
@@ -1774,6 +1767,9 @@ Hints:
 
 > *"A memorandum is written not to inform the reader, but to protect the writer."  
 -- Dean Acheson*
+
+> *"A government that is big enough to give you all you want is big enough to take it all away."  
+-- Barry Goldwater*
 
 ### On inequality
 
@@ -1929,11 +1925,10 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 ### How to judge a man?
 
 <!--
-- your perception of me is a reflection of you
-
-> *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  
--- Kevin Kelly*
+> *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  -- Kevin Kelly*
 > *"A fanatic is a person who can't change his mind and won't change the subject." -- Winston Churchill*
+
+- your perception of me is a reflection of you
 -->
 
 > *"Judge a man by his questions, not by his answers."  
@@ -1989,8 +1984,7 @@ Hints:
 ## On humanness and irrationality
 
 <!--
-> *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
--- Proverb*
+> *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  -- Proverb*
 
 - web3 assumes that people prefer privacy over free stuff, which is false.
 - If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
@@ -2495,7 +2489,7 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Proverbs*
 
 > *"When should a man marry? A young man, not yet; an elder man, not at all."  
--- Sir Francis Bacon*
+-- Francis Bacon*
 
 > *"By all means marry: If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher."  
 -- Socrates*
@@ -2559,7 +2553,7 @@ Against facts there are no arguments. Against faith there are no facts.
 -- Unknown*
 
 > *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards."  
--- Nietzsche*
+-- Friedrich Nietzsche*
 
 > *"The cash register did more for human morality than the congregational church."  
 -- Charlie Munger*
@@ -2779,7 +2773,7 @@ Artistic death is made by consensus.
 -- Louise Bourgeois*
 
 > *"A true artist will let his wife starve, his children go barefoot, his mother drudge for his living at seventy, sooner than work at anything but his art."  
--- Shaw*
+-- George Bernard Shaw*
 
 > *"I went into the business for the money, and the art grew out of it. If people are disillusioned by that remark, I can't help it. It's the truth."  
 -- Charlie Chaplin*
@@ -2910,6 +2904,5 @@ We’ve grown dependent on three simple features that just aren’t available in
 ---
 ## On design
 
-> *"Good design: is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
--- Dieter Rams (Ten principles for good design)*
+> *"Good design: is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  -- Dieter Rams (Ten principles for good design)*
 -->

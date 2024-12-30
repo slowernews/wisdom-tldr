@@ -363,18 +363,13 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 ## On planning and strategy
 
 <!--
-> *"What we anticipate seldom occurs; what we least expect generally happens."  
--- Benjamin Disraeli*
-> *"I have a simple philosophy: Fill what's empty. Empty what's full. Scratch where it itches."  
--- A.R. Longworth*
-> *"What you think is your problem is not your problem, your strategy is."  
--- Dan Munro*
-> *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
--- Abraham Lincoln*
-> *"The time to repair the roof is when the sun is shining."
--- John F. Kennedy*
+> *"What we anticipate seldom occurs; what we least expect generally happens."  -- Benjamin Disraeli*
+> *"I have a simple philosophy: Fill what's empty. Empty what's full. Scratch where it itches."  -- A.R. Longworth*
+> *"What you think is your problem is not your problem, your strategy is."  -- Dan Munro*
+> *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."  -- Abraham Lincoln*
+> *"The time to repair the roof is when the sun is shining."  -- John F. Kennedy*
+> *"dig the well before you are thirsty."  -- Proverb*
 
-- dig the well before you are thirsty. -- proverb
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 -->
 
@@ -625,12 +620,9 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 
 <!--
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
-> *"Not too soon and not too late; the secret of education lies in choosing the right time to do things." -- Natalia Ginzburg*
-> *"The beginning is the most important part of the work." -- Plato*
-> *"The person who removes a mountain begins by carrying away small stones." -- Chinese Proverb*
 > *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity." -- Henry Van Dyke*
-> *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
 > *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it." -- Goethe*
+> *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
 - keep earning your title, or it expires. -- derek sivers
 
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
@@ -676,8 +668,9 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can't finish until you start, so get good at starting."  
 -- Kevin Kelly*
 
-> *"Rising early makes the road short."  
--- Proverb*
+> *"Rising early makes the road short." (...)  
+"The person who removes a mountain begins by carrying away small stones."  
+-- Proverbs*
 
 > *"The man who moves a mountain begins by carrying away small stones."  
 -- Confucius*
@@ -693,6 +686,9 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"You may delay, but time will not."  
 -- Ben Franklin*
+
+> *"The beginning is the most important part of the work."  
+-- Plato*
 
 ### On timing and patience
 
@@ -725,6 +721,9 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
 -- Paulo Coelho*
+
+> *"Not too soon and not too late; the secret of education lies in choosing the right time to do things."  
+-- Natalia Ginzburg*
 
 ### On procrastination
 
@@ -937,6 +936,25 @@ Hints:
 > *"Premature optimization is the root of all evil."  
 -- Donald Knuth*
 
+### On clutter
+
+> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
+-- Christina Scalise*
+
+Hints:
+
+- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is your slave, not your master. You’re not choosing ignorance, you’re choosing to not watch wrestling.
+- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. Storage is a way of warehousing the past. If you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self.
+- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.
+- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
+- All that clutter used to be money.
+
+> *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
+-- Colette*
+
+> *"If a little is not enough for you, nothing is."  
+-- Epicurus*
+
 
 
 
@@ -1002,8 +1020,6 @@ Consuming information gives the control freak an illusion of control. He doesn�
 ## On balance
 
 <!--
-> *"Sunshine all the time makes a desert." -- Proverb*
-
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
 -->
 
@@ -1035,8 +1051,9 @@ Hints:
 > *"You never know what is enough until you know what is more than enough."  
 -- William Blake*
 
-> *"Where there is too much, something is missing."  
--- Proverb*
+> *"Where there is too much, something is missing." (...)  
+"Sunshine all the time makes a desert."   
+-- Proverbs*
 
 ### How to balance an imbalance?
 
@@ -1178,7 +1195,6 @@ There are limits on change. Willpower is finite and change requires attention. H
 - What’s your advantage: informational, analytical, or behavioral?	
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
-> *"When you try to accomplish something difficult, surround yourself with friends."* - kk
 -->
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
@@ -1279,8 +1295,7 @@ Hints:
 ### On deceiving 
 
 <!--
-> *"Muddy water is best cleared by leaving it alone."  
--- Alan Watts*
+> *"Muddy water is best cleared by leaving it alone."  -- Alan Watts*
 
 - always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
 -->
@@ -1407,17 +1422,13 @@ Burocracy prevents low probability events to happen at the expense of making mor
 ---
 ## On finishing
 
-<!--
-- before you start something, figure out to finish it.
--->
-
 > *"Everything will be ok in the end. If it’s not ok, it’s not the end."  
 -- Proverb*
 
 > *"If you’re going to try, go all the way. Otherwise, don’t even start."  
 -- Charles Bukowski*
 
-Starting is fun but success belongs to finishers. Going halfway is a waste.
+Starting is fun but success belongs to finishers. Going halfway is a waste. Before you start something, figure out to finish it.
 
 When the end finally comes, it comes quickly. Nothing ends poetically. It ends and we turn it into poetry. All that blood was never once beautiful. It was just red.
 
@@ -1434,6 +1445,9 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 
 > *"All endings are also beginnings. We just don’t know it at the time."  
 -- Mitch Albom*
+
+> *"When you try to accomplish something difficult, surround yourself with friends."  
+-- Kevin Kelly*
 
 
 
@@ -1500,7 +1514,7 @@ Hints:
 -- Proverb*
 
 > *"Man conquers the world by conquering himself."  
--- Zeno*
+-- Zeno of Elea*
 
 
 
@@ -1611,9 +1625,8 @@ If you don’t reconcile you’re postponing war.
 ## On past
 
 <!--
-> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  
--- George S. Patton
-> *"All my possessions for a moment of time." -- Queen Elizabeth*
+> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  -- George S. Patton
+> *"All my possessions for a moment of time."  -- Queen Elizabeth*
 
 - history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
 - no one is there anymore.
@@ -1723,11 +1736,9 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 ## On present
 
 <!--
-> *"Half our life is spent trying to find something to do with the time we have rushed through life trying to save." -- Will Rogers*
+> *"Half our life is spent trying to find something to do with the time we have rushed through life trying to save."  -- Will Rogers*
 
 - 96 blocks a day -- wait but why
-> *"We are always complaining that our days are few, and acting as though there would be no end of them."  
--- Seneca*
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
@@ -1759,6 +1770,9 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 
 > *"Dream as if you'll live forever. Live as if you'll die today."  
 -- James Dean*
+
+> *"We are always complaining that our days are few, and acting as though there would be no end of them."  
+-- Seneca*
 
 
 

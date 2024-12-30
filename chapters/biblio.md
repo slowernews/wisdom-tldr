@@ -1,6 +1,5 @@
 <!--
 - [19] LEACH, David (??) https://en.wikipedia.org/wiki/David_Leach
-
 - [19] DALY, Jeff (us)
 - [19] , J.A. KARR (us)
 -->
@@ -31,6 +30,7 @@
 - [-544] TZU, Sun (cn)
 - [-535] HERACLITUS (gr)
 - [-497] SOPHOCLES (gr)
+- [-490] ZENO OF ELEA (gr)
 - [-480] EURIPIDES (gr)
 - [-470] SOCRATES (gr)
 - [-427] PLATO (gr)
@@ -38,6 +38,7 @@
 - [-384] ARISTOTLE (gr)
 - [-375] KAUTILYA (in)
 - [-369] ZHOU, Zhuang (cn)
+- [-341] EPICURUS (gr)
 - [-212] ARCHIMEDES (gr)
 - [-180] LUCILIUS, Gaius (it)
 - [-106] CICERO (it)
@@ -139,6 +140,7 @@
 
 - [1853] GOGH, Vincent Van (nl)
 - [1854] WILDE, Oscar (ie)
+- [1854] POINCARÉ, Henri (fr)
 - [1856] FREUD, Sigmund (at)
 - [1856] HUBBARD, Elbert (us)
 - [1856] SHAW, George Bernard (ie)
@@ -161,6 +163,7 @@
 - [1868] HUBBARD, Kin (us)
 - [1869] GANDHI, Mahatma (in)
 - [1869] GIDE, Andre (fr)
+- [1869] MATISSE, Henri (fr)
 
 - [1870] LENIN, Vladimir (ru)
 - [1872] HOFMANNSTHAL (Lord Chandos), Hugo von (at)
@@ -283,6 +286,7 @@
 - [1918] EYCK, Aldo van (nl)
 - [1918] FEYNMAN, Richard (us)
 - [1918] MANDELA, Nelson (za)
+- [1918] STURGEON, Theodore (us)
 - [1919] BOX, George (uk)
 - [1919] HILLARY, Edmund (nz)
 - [1919] PETER, Laurence J. (ca)
@@ -326,6 +330,7 @@
 - [1930] CHAMBERLAIN, Geoffrey P. (uk)
 - [1930] DIJKSTRA, Edsger (nl)
 - [1930] ROHN, Jim (us)
+- [1930] SOWELL, Thomas (us)
 - [1932] COVEY, Stephen (us)
 - [1932] PLATH, Sylvia (us)
 - [1932] ROBBINS, Tom (us)
@@ -386,6 +391,7 @@
 - [1946] MILLMAN, Dan (us)
 - [1946] PEPPERS, Don (us)
 - [1946] SCHILLER, Robert (us)
+- [1946] SPIELBERG, Steven (us)
 - [1946] TRUMP, Donald (us)
 - [1947] COELHO, Paulo (br)
 - [1947] HOLT, John (jm)

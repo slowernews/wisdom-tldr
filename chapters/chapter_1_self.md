@@ -11,18 +11,12 @@
 ## On autonomy
 
 <!--
-> *"I'm a warrior, so that my son may be a merchant, so that his son may be a poet."  
--- John Quincy Adams*
-> *"Commitment is what transforms a promise into a reality."  
--- Abraham Lincoln*
-> *"Commitment is an act, not a word."  
--- Jean-Paul Sartre*
-> *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  
--- Paulo Coelho*
-> *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  
--- George Bernard Shaw*
-> *"Your worst sin is that you have destroyed and betrayed yourself for nothing."  
--- Fyodor Dostoyevsky*
+> *"I'm a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams*
+> *"Commitment is what transforms a promise into a reality."  -- Abraham Lincoln*
+> *"Commitment is an act, not a word."  -- Jean-Paul Sartre*
+> *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  -- Paulo Coelho*
+> *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  -- George Bernard Shaw*
+> *"Your worst sin is that you have destroyed and betrayed yourself for nothing."  -- Fyodor Dostoyevsky*
 
 - when you don't want to be interesting you are free. -- moojy
 - Freedom to -> freedom from -- naval
@@ -318,11 +312,11 @@ Blessed are the restless.
 ### On agency
 
 <!--
-> *"If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission." -- Rear Admiral Grace Hopper*
-> *"If not you, who? If not now, when?" -- Rabbi Hillel*
-> *"Knowing is not enough. We must apply. Willing is not enough. We must do." -- Bruce Lee*
-> *"The possibilities are numerous once we decide to act and not react." -- George Bernard Shaw*
-> *"You'll always miss 100% of the shots you don't take." -- Wayne Gretzky*
+> *"If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission."  -- Rear Admiral Grace Hopper*
+> *"If not you, who? If not now, when?"  -- Rabbi Hillel*
+> *"Knowing is not enough. We must apply. Willing is not enough. We must do."  -- Bruce Lee*
+> *"The possibilities are numerous once we decide to act and not react."  -- George Bernard Shaw*
+> *"You'll always miss 100% of the shots you don't take."  -- Wayne Gretzky*
 -->
 
 > *"The most difficult is the decision to act, the rest is just tenacity."  
@@ -676,14 +670,14 @@ Introverts have more probability of being an expert in their field. Extraversion
 ## On education
 
 <!--
-> *"You can only be as good as you dare to be bad." -- John Barrymore*
-> *"When you take the free will out of education, that turns it into schooling." -- John Taylor Gatto*
-> *"If you think education is expensive, try ignorance." -- Andy McIntyre*
-> *"Learning starts with failure; the first failure is the beginning of education." -- John Hersey*
-> *"Some people will never learn anything, for this reason, because they understand everything too soon." -- Alexander Pope*
-> *"Spoon feeding in the long run teaches us nothing but the shape of the spoon." -- E.M. Forster*
-> *"Tell me and I forget. Teach me and I remember. Involve me and I learn." -- Benjamin Franklin*
-> *"When a subject becomes totally obsolete we make it a required course." -- Peter Drucker*
+> *"You can only be as good as you dare to be bad."  -- John Barrymore*
+> *"When you take the free will out of education, that turns it into schooling."  -- John Taylor Gatto*
+> *"If you think education is expensive, try ignorance."  -- Andy McIntyre*
+> *"Learning starts with failure; the first failure is the beginning of education."  -- John Hersey*
+> *"Some people will never learn anything, for this reason, because they understand everything too soon."  -- Alexander Pope*
+> *"Spoon feeding in the long run teaches us nothing but the shape of the spoon."  -- E.M. Forster*
+> *"Tell me and I forget. Teach me and I remember. Involve me and I learn."  -- Benjamin Franklin*
+> *"When a subject becomes totally obsolete we make it a required course."  -- Peter Drucker*
 
 - the problem is not, and never have been, "as good as a professional". It has always been "it's good enoughto replace a professional so it'll be cheaper." the key thing about AI is that AI+human is waht we'll do.
 - deliberate practice
@@ -845,7 +839,7 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 <!--
 > *"What no spouse of a writer can ever understand is that a writer is working when he's staring out the window.*
 > *"Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good."  -- Samuel Johnson*
-> *"Medicine is my lawful wife and literature is my mistress." -- Anton Chekhov*
+> *"Medicine is my lawful wife and literature is my mistress."  -- Anton Chekhov*
 
 - o poeta faz a sintese das coisas
 5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
@@ -1015,8 +1009,7 @@ fact, politically correct be damned, I will say it straight: A general lack of c
 ### On geniality
 
 <!--
-> *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  
--- Brendan Behan*
+> *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan*
 -->
 
 > *"What is the difference between a madman and a genious? Success."  
@@ -1277,17 +1270,15 @@ People say they want to be famous to impact the world, often what they want is t
 ## On luck and risk
 
 <!--
-> *"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." -- Anais Nin*
-> *"Are you placing enough interesting, freakish, long shot, weirdo bets?" -- Tom Peters*
-> *"Only those who will risk going too far can possibly find out how far it is possible to go." -- T.S. Eliot*
-> *"People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year." -- Peter Drucker*
-> *"The quality of your life is in direct proportion to the amount of uncertainty you can comfortably deal with." -- Tony Robbins*
-> *"To dare is to lose one's footing momentarily. To not dare is to lose oneself." -- Soren Kierkegaard*
-> *"Opportunity dances with those on the dance floor." -- Anonymous*
-> *"We all have enough strength to endure the misfortunes of other people."  
--- François de La Rochefoucauld*
-> *"I naufraghi prima o poi finiscono per incontrarsi."  
--- M. Vázquez Montalban*
+> *"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom."  -- Anais Nin*
+> *"Are you placing enough interesting, freakish, long shot, weirdo bets?"  -- Tom Peters*
+> *"Only those who will risk going too far can possibly find out how far it is possible to go."  -- T.S. Eliot*
+> *"People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year."  -- Peter Drucker*
+> *"The quality of your life is in direct proportion to the amount of uncertainty you can comfortably deal with." - - Tony Robbins*
+> *"To dare is to lose one's footing momentarily. To not dare is to lose oneself."  -- Soren Kierkegaard*
+> *"Opportunity dances with those on the dance floor."  -- Anonymous*
+> *"We all have enough strength to endure the misfortunes of other people."  -- François de La Rochefoucauld*
+> *"I naufraghi prima o poi finiscono per incontrarsi."  -- M. Vázquez Montalban*
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
@@ -1433,8 +1424,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"Television has proved that people will look at anything rather than each other." -- Ann Landers*
 > *"TV is chewing gum for the eyes." -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
-> *"Most people tiptoe through life, hoping to make it safely to death."  
--- Earl Nightingale*
+> *"Most people tiptoe through life, hoping to make it safely to death."  -- Earl Nightingale*
 
 - never before has a generation so diligently recorded themselves accomplishing so little.
 - some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
@@ -1796,12 +1786,9 @@ Hints:
 ## On fear
 
 <!--
-> *"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison."  
--- Fyodor Dostoyevsky*
-> *"Hatred is the coward's revenge for being intimidated."  
--- George Bernard Shaw*
-> *"Fear arrives when we imagine everything depends on us."  
--- Elisabeth Elliot*
+> *"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison."  -- Fyodor Dostoyevsky*
+> *"Hatred is the coward's revenge for being intimidated."  -- George Bernard Shaw*
+> *"Fear arrives when we imagine everything depends on us."  -- Elisabeth Elliot*
 
 - What would you do if you weren't afraid?
 - dishonesty is a reaction to fear. fear just wants us to stay the same.
@@ -2047,11 +2034,9 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 ## On shame, confidence and validation
 
 <!--
-> *"Out of your vulnerabilities will come your strength."  
--- Sigmund Freud*
-> *"The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you. Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved." -- William Jennings Bryan*
-> *"The curious paradox is that when I accept myself just as I am, then I can change."  
--- Carl Rogers*
+> *"Out of your vulnerabilities will come your strength."  -- Sigmund Freud*
+> *"The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you. Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved."  -- William Jennings Bryan*
+> *"The curious paradox is that when I accept myself just as I am, then I can change."  -- Carl Rogers*
 
 - you cannot live when you are untouchable. Life is vulnerability.
 - Do what scares you until it doesn't.
@@ -2227,6 +2212,9 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 > *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
 -- Ralph Waldo Emerson*
 
+> *"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."  
+-- Aristotle*
+
 ### On empathy
 
 > *"Empathy without boundaries is self destruction."  
@@ -2346,25 +2334,6 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 > *"If I had any humility I would be perfect."  
 -- Ted Turner*
 
-### On clutter
-
-> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
--- Christina Scalise*
-
-Hints:
-
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is your slave, not your master. You’re not choosing ignorance, you’re choosing to not watch wrestling.
-- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. Storage is a way of warehousing the past. If you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self.
-- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.
-- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
-- All that clutter used to be money.
-
-> *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
--- Colette*
-
-> *"If a little is not enough for you, nothing is."  
--- Epicurus*
-
 
 
 
@@ -2374,9 +2343,9 @@ Hints:
 ## On limits
 
 <!--
-> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination." -- Terence McKenna*
-> *"Birds born is a cage think flying is an illness." -- Alejandro Jodorowski*
-> *"When nothing is sure, everything is possible." -- Margaret Drabble*
+> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  -- Terence McKenna*
+> *"Birds born is a cage think flying is an illness."  -- Alejandro Jodorowski*
+> *"When nothing is sure, everything is possible."  -- Margaret Drabble*
 -->
 
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
