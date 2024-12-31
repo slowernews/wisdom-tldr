@@ -11,8 +11,8 @@
 ## On creativity
 
 <!--
-> *"The man with a new idea is a crank -- until the idea succeeds." -- Mark Twain*
-> *"When dreams become more important than reality, you give up travel, building, creating; you even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives left behind in the thought records." -- Vina, "The Menagerie" ("The Cage"), stardate unknown*
+> *"The man with a new idea is a crank -- until the idea succeeds."  -- Mark Twain*
+> *"When dreams become more important than reality, you give up travel, building, creating; you even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives left behind in the thought records."  -- Vina, "The Menagerie" ("The Cage"), stardate unknown*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 
@@ -462,7 +462,7 @@ Hints:
 ## On decision making
 
 <!--
-> *"Se não houvesse decisoes eramos todos iguais." -- António Simões*
+> *"Se não houvesse decisoes eramos todos iguais."  -- António Simões*
 
 - Consensus happens just in the beginning and in the end of something.
 > *"My brother says to never make a big decision before you take a shower."*
@@ -620,8 +620,8 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 
 <!--
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
-> *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity." -- Henry Van Dyke*
-> *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it." -- Goethe*
+> *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity."  -- Henry Van Dyke*
+> *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  -- Goethe*
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
 - keep earning your title, or it expires. -- derek sivers
 
@@ -808,7 +808,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus and priorities
 
 <!--
-> *"Nearly every complex solution to a programming problem that I have looked at carefully has turned out to be wrong." -- Brent Welch*
+> *"Nearly every complex solution to a programming problem that I have looked at carefully has turned out to be wrong."  -- Brent Welch*
 > *"The essential thing is to work in a state of mind that approaches prayer."  
 > *"A complex system that works is invariably found to have evolved from a simple system that works."*
 
@@ -879,7 +879,7 @@ Hints:
 ### On productivity
 
 <!--
-> *"Do something first, than talk about it." -- Tom Ford*
+> *"Do something first, than talk about it."  -- Tom Ford*
 
 - parkinson's law - if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
 - taking care of yourself is productivity
@@ -1458,7 +1458,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 ## On winning
 
 <!--
-> *"Never cut what you can untie." -- Robert Frost*
+> *"Never cut what you can untie."  -- Robert Frost*
 
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
@@ -1525,7 +1525,7 @@ Hints:
 ## On quiting and surrendering
 
 <!--
-> *"Summer grass, all that’s left of warrior’s dreams." -- Basho*
+> *"Summer grass, all that’s left of warrior’s dreams."  -- Basho*
 
 - nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
 - you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.

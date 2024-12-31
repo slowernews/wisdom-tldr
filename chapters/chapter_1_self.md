@@ -1000,10 +1000,7 @@ Intelligence is a spectrum, your dog is intelligent also.
 -- Isaac Asimov*
 
 <!--
-> *"Intelligence is curiosity. It is that and only that. If you are curious, you are intelligent. If you are not curious, you are not intelligent. In
-fact, politically correct be damned, I will say it straight: A general lack of curiosity is a general lack of intelligence. I will even go so far as to say that a general lack of curiosity is the worst of all traits." (...)  
-*"Curiosity is a form of creation."  
--- Zan Perrion*
+> *"Intelligence is curiosity. It is that and only that. If you are curious, you are intelligent. If you are not curious, you are not intelligent. In fact, politically correct be damned, I will say it straight: A general lack of curiosity is a general lack of intelligence. I will even go so far as to say that a general lack of curiosity is the worst of all traits." (...) "Curiosity is a form of creation."  -- Zan Perrion*
 -->
 
 ### On geniality
@@ -1420,9 +1417,9 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
-> *"Live fast, die young, and leave a good looking corpse." -- James Dean*
-> *"Television has proved that people will look at anything rather than each other." -- Ann Landers*
-> *"TV is chewing gum for the eyes." -- Frank Lloyd Wright*
+> *"Live fast, die young, and leave a good looking corpse."  -- James Dean*
+> *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
+> *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 > *"Most people tiptoe through life, hoping to make it safely to death."  -- Earl Nightingale*
 
@@ -1547,7 +1544,7 @@ Hints:
 ## On success
 
 <!--
-> *"I never made a mistake in my life. I thought I did once, but I was wrong." -- Lucy Van Pelt*
+> *"I never made a mistake in my life. I thought I did once, but I was wrong."  -- Lucy Van Pelt*
 > *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
 -->
 
@@ -1918,11 +1915,11 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 ## On failure
 
 <!--
-> *"The more you live like you are already who you want to become, the faster it will turn into a reality." -- Cory Allen*
-> *"Failure is only the opportunity to begin again more intelligently." -- Henry Ford*
-> *"Failure is success if we learn from it." -- Malcolm Forbes*
-> *"One's only rival is one's own potentialities. One's only failure is failing to live up to one's own possibilities. In this sense, every man can be a king, and must therefore be treated like a king." -- Abraham Maslow*
-> *"Our greatest glory is not in never falling, but in rising every time we fall." -- Confucius*
+> *"The more you live like you are already who you want to become, the faster it will turn into a reality."  -- Cory Allen*
+> *"Failure is only the opportunity to begin again more intelligently."  -- Henry Ford*
+> *"Failure is success if we learn from it."  -- Malcolm Forbes*
+> *"One's only rival is one's own potentialities. One's only failure is failing to live up to one's own possibilities. In this sense, every man can be a king, and must therefore be treated like a king."  -- Abraham Maslow*
+> *"Our greatest glory is not in never falling, but in rising every time we fall."  -- Confucius*
 -->
 
 > *"Experience is merely the name men gave to their mistakes."  

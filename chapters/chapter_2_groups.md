@@ -215,7 +215,7 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"Money never starts an idea; it is the idea that starts the money." -- William J. Cameron*
+> *"Money never starts an idea; it is the idea that starts the money."  -- William J. Cameron*
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- Morgan Housel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
 
@@ -925,7 +925,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 ### How to mentor your kids?
 
 <!--
-> *"My family history begins with me, but yours ends with you." -- Iphicrates*
+> *"My family history begins with me, but yours ends with you."  -- Iphicrates*
 -->
 
 > *"Teach your children early what you learned late."  
@@ -1060,7 +1060,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 - "Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out.""
 - i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
-- "estava a perder o controlo da minha carreira" -- vertonghen
+- "estava a perder o controlo da minha carreira"  -- vertonghen
 - behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
 - remote killed HR
 - hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
@@ -1795,7 +1795,7 @@ Hints:
 	
 <!--
 > *"Fools rush in -- and get the best seats in the house."*
-> *"In order to think you have to risk being offensive." -- Jordan Peterson*
+> *"In order to think you have to risk being offensive."  -- Jordan Peterson*
 
 - every snowflake is different but all snow is the same.
 -->
@@ -1926,7 +1926,7 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 
 <!--
 > *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  -- Kevin Kelly*
-> *"A fanatic is a person who can't change his mind and won't change the subject." -- Winston Churchill*
+> *"A fanatic is a person who can't change his mind and won't change the subject."  -- Winston Churchill*
 
 - your perception of me is a reflection of you
 -->
@@ -2052,19 +2052,19 @@ Most people approach each and every year in the exact same way while expecting d
 ## On comedy
 
 <!--
-> *"Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing." -- Dick Brandon*
+> *"Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing."  -- Dick Brandon*
 > *"Old musicians never die, they just decompose."*
-> *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..." -- Lyndon B. Johnson*
+> *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..."  -- Lyndon B. Johnson*
 > *"I watch television because you don't know what it will do if you leave it in the room alone."*
-> *"I think trash is the most important manifestation of culture we have in my LIfetime." -- Johnny Legend*
-> *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need." -- Lao Tzu*
-> *"Successful and fortunate crime is called virtue." -- Seneca*
-> *"Satire is tragedy plus time." -- Lenny Bruce*
-> *"To find out a girl's faults, praise her to her girl friends." -- Benjamin Franklin*
-> *"Testing can show the presense of bugs, but not their absence." -- Dijkstra*
-> *"That which we are capable of feeling, we are capable of saying." -- Cervantes*
-> *"Whenever you hug someone, be the last to let go." -- Kevin Kelly*
-> *"Give me a museum and I’ll fill it." -- Pablo Picasso*
+> *"I think trash is the most important manifestation of culture we have in my LIfetime."  -- Johnny Legend*
+> *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  -- Lao Tzu*
+> *"Successful and fortunate crime is called virtue."  -- Seneca*
+> *"Satire is tragedy plus time."  -- Lenny Bruce*
+> *"To find out a girl's faults, praise her to her girl friends."  -- Benjamin Franklin*
+> *"Testing can show the presense of bugs, but not their absence."  -- Dijkstra*
+> *"That which we are capable of feeling, we are capable of saying."  -- Cervantes*
+> *"Whenever you hug someone, be the last to let go."  -- Kevin Kelly*
+> *"Give me a museum and I’ll fill it."  -- Pablo Picasso*
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 > *"The early bird may get the worm, but the second mouse gets the cheese.*
 > *"He who lives without folly is less wise than he believes.*
@@ -2273,8 +2273,8 @@ Hints:
 
 <!--
 > *"The surest sign that a man is in love is when he divorces his wife."*
-> *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation." -- Osho*
-> *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved." -- R.C. Sproul*
+> *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  -- Osho*
+> *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  -- R.C. Sproul*
 - Thank you for not loving me. It forced me to love myself.
 - she was poetry but he couldn't read.
 - Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
@@ -2443,7 +2443,7 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 
 <!--
 > *"Marriage is the process of finding out what kind of man your wife would have preferred."*
-> *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it." -- Peggy Joyce*
+> *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it."  -- Peggy Joyce*
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
@@ -2503,8 +2503,8 @@ Marry an happy person. Unhappy spouse, unhappy life.
 ## On religion
 
 <!--
-> *"Faith: not wanting to know what is true." -- Friedrich Nietzsche*
-> *"I would rather have a mind opened by wonder than one closed by belief." -- Gerry Spence*
+> *"Faith: not wanting to know what is true."  -- Friedrich Nietzsche*
+> *"I would rather have a mind opened by wonder than one closed by belief."  -- Gerry Spence*
 -->
 
 > *"Science without religion is lame. Religion without science is blind."  
