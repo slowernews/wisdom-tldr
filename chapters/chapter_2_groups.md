@@ -2702,7 +2702,7 @@ Technology is applied science.
 > *"Science is organized knowledge. Wisdom is organized life."  
 -- Immanuel Kant*
 
-> *"The laws of nature are written by the hand of God in the language of mathematics*"  
+> *"The laws of nature are written by the hand of God in the language of mathematics."  
 -- Galileo Galilei*
 
 

@@ -621,7 +621,7 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 <!--
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
 > *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity."  -- Henry Van Dyke*
-> *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  -- Goethe*
+> *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  -- J.W. Goethe*
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
 - keep earning your title, or it expires. -- derek sivers
 
@@ -1006,7 +1006,7 @@ Consuming information gives the control freak an illusion of control. He doesn�
 -- John Allen Paulos*
 
 > *"The dangers of life are infinite, and among them is safety."  
--- Goethe*
+-- J.W. Goethe*
 
 > *"Security is mostly a superstition. Life is either a daring adventure or nothing."  
 -- Helen Keller*

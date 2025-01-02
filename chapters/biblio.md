@@ -2,6 +2,26 @@
 - [19] LEACH, David (??) https://en.wikipedia.org/wiki/David_Leach
 - [19] DALY, Jeff (us)
 - [19] , J.A. KARR (us)
+
+- [????] BALL, George (us)
+- [????] BLAIR, Tor (us)
+- [????] BLOOM, Sahil (us)
+- [????] BOORMAN, Jon (uk)
+- [????] BRUNDANT, Mike (us)
+- [????] CARR, Bertram (uk)
+- [????] COLEMAN, T.K. (us)
+- [????] CROW, James (us)
+- [????] DUHIGG, Charles (us)
+- [????] LAMB, Karen (uk)
+- [????] PARK, J.S. (us)
+- [????] RAND, Johannes (us)
+- [????] RUSSELL, Bertie (us)
+- [????] SOMMER, Bobby (us)
+- [????] WINFELD, Carl (us)
+- [????] YOGI, Lazy
+- [19??] DEN HEIJER, Alexander (nl)
+- [genY] KARIV, Dan (us)
+- [genY] SMITH (n, Té V.garn)
 -->
 
 - [----] Proverb
@@ -91,7 +111,7 @@
 - [1724] KANT, Immanuel (de)
 - [1729] BURKE, Edmund (ie)
 - [1743] JEFFERSON, Thomas (us)
-- [1749] GOETHE, Johann Wolfgang von (de)
+- [1749] GOETHE, J.W. (de)
 
 - [1754] JOUBERT, Joseph (fr)
 - [1754] TALLEYRAND-PERIGORD, Charles de (fr)
@@ -242,7 +262,7 @@
 - [1903] ORWELL, George (uk)
 - [1903] PATON, Alan (za)
 - [1903] ROBINSON, Joan (uk)
-- [1904] DALI, Salvador (us)
+- [1904] DALI, Salvador (es)
 - [1904] SUZUKI, Shunryu (jp)
 - [1905] FRANKL, Viktor (at)
 - [1905] HELLMAN, Lillian (us)
@@ -337,6 +357,7 @@
 - [1930] SOWELL, Thomas (us)
 - [1932] COVEY, Stephen (us)
 - [1932] PLATH, Sylvia (us)
+- [1932] RAMS, Dieter (de)
 - [1932] ROBBINS, Tom (us)
 - [1932] TARKOVSKY, Andrei (ru)
 - [1932] TAYLOR, Elizabeth (uk)
@@ -541,23 +562,3 @@
 
 - [1990] HILDEBRAND, Sarah (my)
 - [1997] NESTARES, Santiago (us)
-
-- [????] BALL, George (us)
-- [????] BLAIR, Tor (us)
-- [????] BLOOM, Sahil (us)
-- [????] BOORMAN, Jon (uk)
-- [????] BRUNDANT, Mike (us)
-- [????] CARR, Bertram (uk)
-- [????] COLEMAN, T.K. (us)
-- [????] CROW, James (us)
-- [????] DUHIGG, Charles (us)
-- [????] LAMB, Karen (uk)
-- [????] PARK, J.S. (us)
-- [????] RAND, Johannes (us)
-- [????] RUSSELL, Bertie (us)
-- [????] SOMMER, Bobby (us)
-- [????] WINFELD, Carl (us)
-- [????] YOGI, Lazy
-- [19??] DEN HEIJER, Alexander (nl)
-- [genY] KARIV, Dan (us)
-- [genY] SMITH (n, Té V.garn)
