@@ -22,6 +22,7 @@
 - [19??] DEN HEIJER, Alexander (nl)
 - [genY] KARIV, Dan (us)
 - [genY] SMITH (n, Té V.garn)
+- [19xx] FREEMAN, Morgan (us)
 -->
 
 - [----] Proverb

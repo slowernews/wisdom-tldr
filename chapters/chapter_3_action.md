@@ -11,7 +11,7 @@
 ## On creativity
 
 <!--
-> *"The man with a new idea is a crank -- until the idea succeeds."  -- Mark Twain*
+> *"The man with a new idea is a crank - until the idea succeeds."  -- Mark Twain*
 > *"When dreams become more important than reality, you give up travel, building, creating; you even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives left behind in the thought records."  -- Vina, "The Menagerie" ("The Cage"), stardate unknown*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
@@ -58,7 +58,7 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 > *"Creativity is thinking up new things. Innovation is doing new things."  
 -- Theodore Levitt*
 
-> *"Everything you can imagine is real."  (...)  
+> *"Everything you can imagine is real." (...)  
 "I begin with an idea and then it becomes something else."  
 -- Pablo Picasso*
 
@@ -233,7 +233,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
 - Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
 - Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
-- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths -- even those that had seemed so certain as to be immune to the very possibility of revision -- are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
+- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths - even those that had seemed so certain as to be immune to the very possibility of revision - are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
 -->
 
 - True motivations are revealed, not declared.
@@ -1562,13 +1562,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 > *"Never confuse a single defeat with a final defeat."  
 -- F. Scott Fitzgerald*
 
-
-
-
-
-
----
-## On forgiveness
+### On forgiveness
 
 > *"The only way out of the labyrinth of suffering is to forgive."  
 -- John Green*

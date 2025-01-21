@@ -195,7 +195,7 @@ Handling rejection is hard. Period. We don’t like people that see us in a way 
 
 <!--
 I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
-6 or 7 words -- short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
+6 or 7 words - short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
 -->
 
 > *"Being honest may not get you a lot of friends but it’ll always get you the right ones."  
@@ -1181,7 +1181,7 @@ Hints:
 ### Specialist or generalist?
 
 <!--
-- There’s nothing wrong in specialization -- it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
+- There’s nothing wrong in specialization - it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
 -->
 
 Hints:
@@ -1794,7 +1794,7 @@ Hints:
 ## On following the herd
 	
 <!--
-> *"Fools rush in -- and get the best seats in the house."*
+> *"Fools rush in and get the best seats in the house."*
 > *"In order to think you have to risk being offensive."  -- Jordan Peterson*
 
 - every snowflake is different but all snow is the same.

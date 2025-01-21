@@ -12,8 +12,6 @@
 
 <!--
 > *"I'm a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams*
-> *"Commitment is what transforms a promise into a reality."  -- Abraham Lincoln*
-> *"Commitment is an act, not a word."  -- Jean-Paul Sartre*
 > *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  -- Paulo Coelho*
 > *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  -- George Bernard Shaw*
 > *"Your worst sin is that you have destroyed and betrayed yourself for nothing."  -- Fyodor Dostoyevsky*
@@ -123,6 +121,8 @@ Hints:
 ### On accountability
 
 <!--
+> *"Commitment is what transforms a promise into a reality."  -- Abraham Lincoln*
+> *"Commitment is an act, not a word."  -- Jean-Paul Sartre*
 - every damn thing is your own fault, if you are any good.
 - chi sei? sono l’evoluzione di tutti i miei errori.
 - Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
@@ -1058,8 +1058,11 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 Being rich is being fulfilled. An unhurried sense of time is in itself a form of wealth.
 
-> *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
--- Mr. Money Mustache*
+> *"Being rich is having money; being wealthy is having time."  
+-- Stephen Swidr*
+
+> *"Being poor is not having too little, it is wanting more."  
+-- Seneca*
 
 > *"Some people are so poor, all they have is money."  
 -- Patrick Meagher*
@@ -1067,15 +1070,13 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 > *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
 -- Rudyard Kipling*
 
-> *"Being rich is having money; being wealthy is having time."  
--- Stephen Swidr*
+> *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
+-- Mr. Money Mustache*
 
-> *"Being poor is not having too little, it is wanting more."  
--- Seneca*
+> *"You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life."  
+-- Peter Mallouk*
 
 ### On money
-
-Money is trust. A system of mutual trust.
 
 Money is a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
 
@@ -1096,9 +1097,6 @@ Money is a force multiplier to help you live the life of your dreams. However, t
 > *"You don’t get rich by spending your time to save money; you get rich by saving your time to make money."  
 -- Naval Ravikant*
 
-> *"Rich people stay rich by living like they’re broke. Broke people stay broke by living like they’re rich."  
--- Unknown*
-
 Making money is not about luck. 
 
 - Learn to sell. Learn to build. If you can do both, you will be unstoppable.
@@ -1111,8 +1109,8 @@ Making money is not about luck.
 - When you eventually attain wealth, you will realize that it wasn’t your primary pursuit in the first place. Free wealth: Books, friends, sleep, ideas, questions, gratefulness, laugh.
 - Being broke is hard. Becoming rich is hard. Choose your hard.
 
-> *"You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life."  
--- Peter Mallouk*
+> *"Rich people stay rich by living like they’re broke. Broke people stay broke by living like they’re rich."  
+-- Unknown*
 
 > *"To succeed, get other people to pay you; to become wealthy, help other people to succeed."  
 -- Kevin Kelly*

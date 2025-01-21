@@ -24,12 +24,10 @@ A big part of who you are is who you're not.
 > *"How we spend our days is how we spend our lives."  
 -- Annie Dillard*
 
-> *"What do you really despise? By this you are truly known."  
--- Frank Herbert*
-
 ### The real you
 
 <!--
+> *"What do you really despise? By this you are truly known."  -- Frank Herbert*
 > *"Be the change you want to see in the world."  -- Mahatma Gandhi*
 > *"Everyone thinks of changing the world, but no one thinks of changing himself."  -- Leo Tolstoy*
 > *"I've finally learned what "upward compatible" means. It means we get to keep all our old mistakes."  -- Dennie van Tassel*
@@ -226,6 +224,9 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"To the mediocre, mediocrity appears great."  
 -- Proverb*
 
+> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
+-- Oscar Wilde*
+
 ### On the purpose of life
 
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."  
@@ -234,16 +235,13 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
 -- Abraham Maslow*
 
-> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
--- Oscar Wilde*
-
 > *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you."  
 -- Naval Ravikant*
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso*
 
-> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style"  
+> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."  
 -- Maya Angelou*
 
 > *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
