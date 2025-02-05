@@ -1544,6 +1544,7 @@ Hints:
 <!--
 > *"I never made a mistake in my life. I thought I did once, but I was wrong."  -- Lucy Van Pelt*
 > *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
+- sucess is a lonely pursuit. a relentless grind. -- codie sanchez
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -2341,6 +2342,7 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 > *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  -- Terence McKenna*
 > *"Birds born is a cage think flying is an illness."  -- Alejandro Jodorowski*
 > *"When nothing is sure, everything is possible."  -- Margaret Drabble*
+- we are wired to blame: we blame ourselves or teh others. we are obsessed with fault.
 -->
 
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  

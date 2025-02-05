@@ -288,6 +288,11 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 ---
 ## On happiness
 
+<!--
+- worthless friends. these friendships increase your happyness -- codie sanchez
+- if they are not in front of you, leave them behind. transactional friendships decrease your happiness.
+-->
+
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
 -- Mahatma Gandhi*
 

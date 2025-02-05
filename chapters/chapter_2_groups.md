@@ -100,6 +100,10 @@ Good stories condense a massive amount of details into a consumable and shareabl
 
 ### On public speaking
 
+<!--
+- study your audience reaction more than yourself. try to make your presentation as confortable for yourself as you can.
+-->
+
 > *"Eloquence is logic on fire."  
 -- Lyman Beecher*
 
@@ -218,6 +222,10 @@ Choose truth or your self-mythology will seduce you.
 > *"Money never starts an idea; it is the idea that starts the money."  -- William J. Cameron*
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It's no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- Morgan Housel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
+- the real growth happens through Merge and aquisitions.
+- you can run a company based on 5 points that fit a back of a package of a cigarette: low cost. every company its five points are different.
+- a company is somehow a machine - alfred lin
+- if we don't like teh guy that we are going to invest, we wait an year. - delay decision -- codey sanchez
 
 - cheap prices attract problematic customers
 - sustainable design is just good design.
@@ -341,6 +349,7 @@ Hints:
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
 > *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 
+- marketing position makes sense when there is confusion who your client is. know where you fit and what can you offer better the next guy. help your client to make a decision. let them understand if your product is teh right for them.
 - my prices are based on my talent, not your budget.
 - sell the problem you solve, not the product you have.
 - make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
@@ -582,6 +591,7 @@ Hints:
 - Proactive problem management – Go directly to the source.
 - convincing vs inspiring leadership
 - never make a numbers person the leader
+- a leader makes the people next to them better version of themselves.
 -->
 
 > *"He who does not desire power is fit to hold it."  
@@ -1210,6 +1220,9 @@ Ask employers why did they asked you for an interview - they will describe your 
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
 - Two valid methods: hiring on culture contribution and hiring on culture matching.
 - T ou pi shaped.
+- ask them to show you their calendar. a lot of detailed stuff is a implementer. to know a fast thinker ask him how to solve a problem that you have right now. -- codey sanchez
+- hiring questions: who are you? strengths and bad stuff. you want teh opposite of you. -- codey sanchez
+- hiring questions: sucess history. why did you go that company and why did you left.
 -->
 
 > *"He who works with his hands is a laborer.  
@@ -1465,6 +1478,10 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 -- Abraham Lincoln*
 
 ### On allies
+
+<!--
+- allies want you to win. friends want you to stay with them. -- codie sanchez
+-->
 
 The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
 
@@ -2870,6 +2887,7 @@ alan perlis - 21. Optimization hinders evolution.
 alan perlis - 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 alan perlis - 105. You can’t communicate complexity, only an awareness of it.
 alan perlis - 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+- being relevant in the age of LLMs is really hard. what's left for humans? the physical world and providing news to the LLM.
 -->
 
 > *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  

@@ -1195,6 +1195,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 - What’s your advantage: informational, analytical, or behavioral?	
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
+- applying force vs removing obstacles. when you apply force you can identify obstacles. -- codey sanchez
 -->
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
@@ -1459,6 +1460,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 
 <!--
 > *"Never cut what you can untie."  -- Robert Frost*
+- winners are overgivers -- codey sanchez
 
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
