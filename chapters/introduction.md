@@ -24,15 +24,14 @@ A big part of who you are is who you're not.
 > *"How we spend our days is how we spend our lives."  
 -- Annie Dillard*
 
+> *"Day by day, what you choose, what you think and what you do is who you become."  
+-- Heraclitus*
+
 ### The real you
 
 <!--
-> *"What do you really despise? By this you are truly known."  -- Frank Herbert*
-> *"Be the change you want to see in the world."  -- Mahatma Gandhi*
-> *"Everyone thinks of changing the world, but no one thinks of changing himself."  -- Leo Tolstoy*
-> *"I've finally learned what "upward compatible" means. It means we get to keep all our old mistakes."  -- Dennie van Tassel*
-> *"The key to change... is to let go of fear."  -- Rosanne Cash*
-> *"The world is changed by your example, not by your opinion."  -- Paulo Coelho*
+> *"I have already lost touch with a couple of people I used to be."  -- Joan Didion*
+> *"I'd woke up early and I took a long time getting ready to exist."  -- Fernando Pessoa*
 -->
 
 Your new life will cost you your old one. Do not fear your own potential.
@@ -58,7 +57,23 @@ Your new life will cost you your old one. Do not fear your own potential.
 > *"The most common form of despair is not being who you are."  
 -- Soren Kierkegaard*
 
+> *"Perhaps you're a slave to your own idea of yourself."  
+-- D.W. Lawrence*
+
+> *"Everyone thinks of changing the world, but no one thinks of changing himself."  
+-- Leo Tolstoy*
+
 ### How to come alive?
+
+<!--
+> *"As soon as you trust yourself you will know how to live."  -- Goethe*
+> *"I am not what happened to me, I am what I choose to become."  -- Carl Jung*
+> *"To find yourself, think for yourself."  -- Socrates*
+> *"Do not speak of your happiness to one less fortunate than yourself."  -- Plutarch*
+> *"The key to change... is to let go of fear."  -- Rosanne Cash*
+> *"Be the change you want to see in the world."  -- Mahatma Gandhi*
+> *"The world is changed by your example, not by your opinion."  -- Paulo Coelho*
+-->	
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
 -- Alan Watts*
@@ -101,6 +116,11 @@ No matter where you are in your life, you have the power to change everything in
 ---
 ## On finding your path
 
+<!--
+> *"People seldom do what they believe in. They do what is convenient, then repent."  -- Bob Dylan*
+> *"Every next level of your life will demand a different you."  -- Leonardo DiCaprio*
+-->
+
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
 
@@ -132,6 +152,9 @@ Hints:
 "Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is." (...)  
 "There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it."  
 -- Kevin Kelly*
+
+> *"First ask yourself who you want to be and then do what you have to do."  
+-- Epictetus*
 
 > *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."  
 -- E.B. White*
@@ -324,6 +347,12 @@ Hints:
 > *"The happiness of your life depends upon the quality of your thoughts." (...)  
 "Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius*
+
+> *"The secret of happiness is freedom and the secret of freedom is courage."  
+-- Thucydides*
+
+> *"Happiness is not a destination but a state of being."  
+-- Demetrius of phalerum*
 
 > *"Many people lose the small joys in the hope for the big happiness."  
 -- Pearl S. Buck*

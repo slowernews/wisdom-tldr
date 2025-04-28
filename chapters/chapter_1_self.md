@@ -28,7 +28,7 @@
 Your autonomy is your major legacy.
 
 Once you’re «bought», it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent. The bank owns us. Work owns us.
-  
+
 Stop being codependent of others and start caring for yourself first. The money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
 
 Hints:
@@ -68,6 +68,11 @@ Hints:
 
 ---
 ## On honesty
+
+<!--
+> *"No legacy is so rich as honesty."  -- William Shakespeare*
+> *"He who dares not offend cannot be honest."  -- Thomas Paine*
+-->
 
 > *"Always be radically honest, but use your honesty as a gift not as a weapon. Your honesty should benefit others."  
 -- Kevin Kelly*
@@ -149,6 +154,10 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 -- S.E. Hinton*
 
 ### On trust and reputation
+
+<!--
+> *"To be trusted is a greater compliment than being loved."  -- Leo Tolstoy*
+-->
 
 > *"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
 -- Warren Buffett*
@@ -237,6 +246,10 @@ You might think you want a fancy car or a nice watch but what you probably want 
 -- Paulo Coelho*
 
 ### On gratitude
+
+<!--
+> *"The miracle is this: the more we share the more we have."  -- Leonard Nimoy*
+-->
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero*
@@ -439,6 +452,12 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 
 ---
 ## On improving
+
+<!--
+> *"Knowledge isn't free. You have to pay attention."  -- Richard Feynman*
+> *"The school prepares us for "  
+-- 
+-->
 
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
@@ -670,6 +689,7 @@ Introverts have more probability of being an expert in their field. Extraversion
 ## On education
 
 <!--
+> *"The school prepares us for a world that does not exist."  -- Albert Camus*
 > *"You can only be as good as you dare to be bad."  -- John Barrymore*
 > *"When you take the free will out of education, that turns it into schooling."  -- John Taylor Gatto*
 > *"If you think education is expensive, try ignorance."  -- Andy McIntyre*
@@ -774,6 +794,10 @@ Hints:
 ---
 ## On reading
 
+<!--
+> *"Read a thousand books and your words will flow like a river."  -- Virginia Woolf*
+-->
+
 > *"I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me."  
 -- Ralph Waldo Emerson*
 
@@ -840,6 +864,7 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 > *"What no spouse of a writer can ever understand is that a writer is working when he's staring out the window.*
 > *"Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good."  -- Samuel Johnson*
 > *"Medicine is my lawful wife and literature is my mistress."  -- Anton Chekhov*
+> *"The person who writes for fools is always sure of a large audience."  -- Arthur Schopenhauer*
 
 - o poeta faz a sintese das coisas
 5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
@@ -1007,6 +1032,7 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 <!--
 > *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan*
+> *"It takes a wise man to discover a wise man."  -- Diogenes*
 -->
 
 > *"What is the difference between a madman and a genious? Success."  
@@ -1051,6 +1077,11 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 ---
 ## On wealth
+
+<!--
+> *"Contentment is natural wealth; luxury is artificial poverty."  -- Socrates*
+> *"Self-sufficiency is the greatest of all wealth."  -- Epicurus*
+-->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
 "No one is as impressed with your possessions as you are."  
@@ -1337,6 +1368,12 @@ Every outcome in life is guided by forces other than individual effort. The best
 
 ### On hope
 
+<!--
+> *"Hope is not the conviction that something will turn out well, but the certainty that something is worth doing no matter how it turns out."  -- Václav Havel*
+> *"Faith: not wanting to know what is true."  -- Friedrich Nietzsche*
+> *"Faith is patience with mystery."  -- Richard Rohr*
+-->
+
 > *"Hope is a good breakfast, but it is a bad supper."  
 -- Francis Bacon*
 
@@ -1420,6 +1457,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 > *"Most people tiptoe through life, hoping to make it safely to death."  -- Earl Nightingale*
+> *"Reality TV to me is the museum of social decay."  -- Gary Oldman*
 
 - never before has a generation so diligently recorded themselves accomplishing so little.
 - some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
@@ -1667,6 +1705,8 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 ### On depression and anxiety
 
 <!--
+> *"Man is not worried by real problems so much as by his imagined anxieties about real problems."  -- Epictetus*
+
 - the only thing complaining does is convince other people that you are not in control.
 - cages aren't made of iron, they're made of thoughts.
 - we don't have anxiety for things we think we can handle!
@@ -1785,6 +1825,7 @@ Hints:
 > *"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison."  -- Fyodor Dostoyevsky*
 > *"Hatred is the coward's revenge for being intimidated."  -- George Bernard Shaw*
 > *"Fear arrives when we imagine everything depends on us."  -- Elisabeth Elliot*
+> *"The cave you fear to enter, holds the treasure you seek."  -- Joseph Campbell*
 
 - What would you do if you weren't afraid?
 - dishonesty is a reaction to fear. fear just wants us to stay the same.
@@ -1832,8 +1873,17 @@ Fear makes the wolf bigger than he really is.
 ### On courage
 
 <!--
+> *"He who jumps into the void owes no explanation to those who stand and watch."
+> *"You cannot fix what you will not face"  -- James Baldwin*
+> *"Speak your mind, even if your voice shakes."  -- Maggie Smith*
+> *"It's better to be a restarined monster than a well-behaved coward."  -- Jordan Peterson*
+> *""  
+-- 
 - bravery is learned -> micro-bravery, start small
 -->
+
+> *"I bear all the wounds of all the battles I avoided."  
+-- Fernando Pessoa*
 
 > *"Life shrinks or expands in proportion to one’s courage."  
 -- Anaïs Nin*
@@ -1988,6 +2038,8 @@ Hint:
 ### On scars and wounds
 
 <!--
+> *"Adversity makes men, and prosperity makes monsters."  -- Victor Hugo*
+
 - i don't hide my scars. they are proof that i showed up for life. and fought.
 - if you don't heal what hurt you, you'll bleed on people who didn't cut you.
 -->
@@ -2017,9 +2069,6 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 
 > *"In anger we should refrain both from speech and action."  
 -- Pythagoras*
-
-> *"I bear the wounds of all the battles I avoided."  
--- Fernando Pessoa*
 
 
 
@@ -2164,6 +2213,11 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 
 ---
 ## On jealousy and envy
+
+<!--
+> *"If evil be spoken of you and it be true, correct yourself, if it be a lie, laugh at it."  -- Epictetus*
+> *"The first art of kings is to endure hatred."  -- Seneca*
+-->
 
 > *"You’ll never be criticized by someone who is doing more than you. You’ll always be critized by someone who is doing less. Remember that."  
 -- Denzel Washington*
@@ -2478,6 +2532,10 @@ Hints:
 ---
 ## On growing old
 
+<!--
+> *"As a well spent day brings happy sleep, so life well used brings happy death."  -- Leonardo da Vinci*
+-->
+
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
 
@@ -2502,6 +2560,7 @@ After reaching a certain age, you are no longer seen as an individual; you becom
 
 <!--
 > *"To stay youthful, stay useful.*
+> *"As I have not worried to be born, I do not worry to die."  -- Federico Garcia Lorca*
 -->
 
 > *"A man that lives from memories becames old. One that lives from projects remains young."  

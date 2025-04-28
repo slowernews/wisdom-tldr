@@ -22,7 +22,8 @@
 - [19??] DEN HEIJER, Alexander (nl)
 - [genY] KARIV, Dan (us)
 - [genY] SMITH (n, Té V.garn)
-- [19xx] FREEMAN, Morgan (us)
+- [19??] FREEMAN, Morgan (us)
+- [19??] LAWRENCE, D.H. ()
 -->
 
 - [----] Proverb
@@ -38,8 +39,8 @@
 - [FICTIONAL] MONTANA, Tony
 - [FICTIONAL] PLOUGHMAN, Tara
 - [FICTIONAL] TYRION
-- [NEWS.YCOMBINATOR] bane / danielvf / dilemma / exelius / pystack
-- [TWITTER] pat_stedman / sgrstk
+- [YCOMB] bane / danielvf / dilemma / exelius / pystack
+- [X.COM] pat_stedman / sgrstk
 
 - [-970] SOLOMON, King (il)
 - [-680] ARCHILOCHUS (gr)
@@ -54,11 +55,15 @@
 - [-490] ZENO OF ELEA (gr)
 - [-480] EURIPIDES (gr)
 - [-470] SOCRATES (gr)
+- [-460] THUCYDIDES (gr)
 - [-427] PLATO (gr)
 - [-418] IPHICRATES (gr)
+- [-403] DIOGENES (gr)
 - [-384] ARISTOTLE (gr)
 - [-375] KAUTILYA (in)
 - [-369] ZHOU, Zhuang (cn)
+- [-357] ALEXANDER THE GREAT (gr)
+- [-350] DEMETRIUS OF PHALERUM (gr)
 - [-341] EPICURUS (gr)
 - [-212] ARCHIMEDES (gr)
 - [-180] LUCILIUS, Gaius (it)
@@ -100,6 +105,7 @@
 - [1621] LA FONTAINE, Jean de (fr)
 - [1623] PASCAL, Blaise (fr)
 - [1631] DRYDEN, John (uk)
+- [1632] SPINOZA, Baruch (nl)
 - [1642] NEWTON, Isaac (uk)
 
 - [1651] FÉNELON, François (fr)
@@ -147,6 +153,7 @@
 - [1820] BOVEE, Christian Nestell (us)
 - [1821] BUCKLE, Henry Thomas (uk)
 - [1821] DOSTOYEVSKY, Fyodor (ru)
+- [1828] TOLSTOY, Leo (ru)
 
 - [1832] CARROLL, Lewis (uk)
 - [1834] STEPHENS, J.W. (us)

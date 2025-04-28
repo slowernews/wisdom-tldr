@@ -15,6 +15,7 @@
 > *"When dreams become more important than reality, you give up travel, building, creating; you even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives left behind in the thought records."  -- Vina, "The Menagerie" ("The Cage"), stardate unknown*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
+> *"Negativity is the enemy of creativity."  -- David Lynch*
 
 - If you want new ideas read old books.
 - Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
@@ -159,6 +160,15 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ---
 ## On analysis
 
+<!--
+> *"The power of accurate observation is commonly called cynicism by those who have not got it."  -- George Bernard Shaw*
+> *"A man sees in the world what he carries in his heart."  -- Goethe*
+> *"Understanding a question is half an answer."  -- Socrates*
+> *"Remember that all is opinion."  -- Seneca*
+> *"When you understand that every opinion is a vision loaded with personal history, you will begin to understand that all judgement is a confession."  -- Nikola Tesla*
+- if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
+-->
+
 > *"There are no facts, only interpretations."  
 -- Friedrich Nietzsche*
 
@@ -178,8 +188,8 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."  
 -- Marcus Aurelius*
 
-> *"What Susie says of Sally says more about Susie than of Sally."  
--- Unknown*
+> *"What Paul says about Peter tells us more about Paul than Peter."  
+-- Baruch Spinoza*
 
 > *"Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?"  
 -- George Carlin*
@@ -199,7 +209,8 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"The power of accurate observation is commonly called cynicism by those who have not got it."  
 -- George Bernard Shaw*
 
-> *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection."  
+> *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection." (...)  
+"It is by logic that we prove, but is by intuition that we discover."  
 -- Henri Poincaré*
 
 > *"To understand is to know what to do."  
@@ -304,6 +315,11 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 ### On truth
 
+<!--
+> *"The color of truth is gray."  -- Andre Gide*
+> *"When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear."  -- Thomas Sowell*
+-->
+
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
 
@@ -333,10 +349,12 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *The closer you are to the truth, the more silent you become inside."  
 -- Naval Ravikant*
 
-> *"No one is more hated than he who speaks the truth."  
+> *"You should not honor men more than truth." (...)  
+"No one is more hated than he who speaks the truth."  
 -- Plato*
 
-> *"The further a society drifts from the truth the more it will hate those who speak it."  
+> *"The further a society drifts from the truth the more it will hate those who speak it." (...)  
+"In a time of universal deceit, telling the truth is a revolutionary act."  
 -- George Horwell*
 
 > *"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened."  
@@ -369,6 +387,8 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."  -- Abraham Lincoln*
 > *"The time to repair the roof is when the sun is shining."  -- John F. Kennedy*
 > *"dig the well before you are thirsty."  -- Proverb*
+> *"Improvisation is the ability to talk with oneself."  -- Cecil Taylor*
+> *"To be prepared is half of the victory."  -- Miguel Cervantes*
 
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 -->
@@ -619,11 +639,13 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
+> *"The cold water doesn't get warmer if you jump late." 
+> *"Do it, or don't do it - you will regret both."  -- Soren Kierkegaard*
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
 > *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity."  -- Henry Van Dyke*
 > *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  -- J.W. Goethe*
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
-- keep earning your title, or it expires. -- derek sivers
+- keep earning your title, or it expires. -- Derek Sivers
 
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 - you always throw out your first pancake - primeiro milho é para os pardais
@@ -692,6 +714,14 @@ Stop making resolutions and start making something. Time is the most precious th
 
 ### On timing and patience
 
+<!--
+> *"Be patient and tough; someday this pain will be useful to you."  -- Ovid*
+> *"Stoicism is about the domestication of emotions, not their elimination."  -- Nassim Taleb*
+> *"Every word has consequences. Every silence, too."  -- Sartre*
+> *"Desire makes slaves out of kings and patience makes kings out of slaves."  -- Al-Ghazali*
+> *"Genius is etrenal patience."  -- Michaelangelo*
+-->
+
 > *"Patience is also a form of action."  
 -- Auguste Rodin*
 
@@ -726,6 +756,13 @@ Stop making resolutions and start making something. Time is the most precious th
 -- Natalia Ginzburg*
 
 ### On procrastination
+
+<!--
+> *"While we are postponing, life speeds by."  -- Seneca*
+> *"More is lost by indecision than wrong decision."  -- Cicero*
+> *"Indecision is the thief of opportunity."  -- Cicero*
+> *"Evil is whatever distracts."  -- Franz Kafka*
+-->
 
 > *"The more something threatens your identity, the more you will avoid it."  
 -- Mark Manson*
@@ -764,13 +801,18 @@ Hints:
 ---
 ## On speed and direction
 
+<!--
+> *"A clever person solves a problem. A wise person avoids it."  -- Albert Einstein*
+> *"The wisest people follow their own direction."  -- Euripedes*
+-->
+
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker*
 
 > *"I’m a slow walker but I never walk back."  
 -- Abraham Lincoln*
 
-> *"Most people overestimate what they can do in one year and underestimate what they can do in ten years."  
+> *"Most people overestimate what they can do in one year and unRderestimate what they can do in ten years."  
 -- Bill Gates*
 
 > *"Start as close to the end as possible."  
@@ -1068,6 +1110,8 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
+> *"Circumstances do not make the man, they reveal him."  -- Epictetus*
+
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
@@ -1297,6 +1341,10 @@ Hints:
 
 <!--
 > *"Muddy water is best cleared by leaving it alone."  -- Alan Watts*
+> *"Have more than you show, speak less than you know."  -- William Shakespeare*
+> *"Let silence be your general rule; say only what is necessary and in few words."  -- Epictetus*
+> *"When you have something to say, silence is a lie."  -- Jordan Peterson* 
+> *"Every man is guilty of all the good he did not do."  -- Voltaire*
 
 - always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
 -->
@@ -1460,6 +1508,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 
 <!--
 > *"Never cut what you can untie."  -- Robert Frost*
+> *"War does not determine who is right - only who is left."  -- Bertrand Russell*
 - winners are overgivers -- codey sanchez
 
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
@@ -1527,7 +1576,10 @@ Hints:
 ## On quiting and surrendering
 
 <!--
+> *"You are never destroyed by anyone except yourself."  -- Friedrich Nietzsche*
 > *"Summer grass, all that’s left of warrior’s dreams."  -- Basho*
+> *"To destroy war, destroy patriotism."  -- Leo Tolstoy*
+> *"Develop strength to do bold things, not the strength to suffer."  -- Machiavelli*
 
 - nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
 - you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.
@@ -1623,7 +1675,8 @@ If you don’t reconcile you’re postponing war.
 <!--
 > *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  -- George S. Patton
 > *"All my possessions for a moment of time."  -- Queen Elizabeth*
-
+ 
+- never be a prisoner of your past. It was just a lesson not a life sentence.
 - history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
 - no one is there anymore.
 -->

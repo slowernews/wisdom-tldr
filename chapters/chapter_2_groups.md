@@ -227,6 +227,7 @@ Choose truth or your self-mythology will seduce you.
 - a company is somehow a machine - alfred lin
 - if we don't like teh guy that we are going to invest, we wait an year. - delay decision -- codey sanchez
 
+- Sell the problem you solve. Not the product.
 - cheap prices attract problematic customers
 - sustainable design is just good design.
 - Platonic products rarely work.
@@ -527,6 +528,10 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ---
 ## On generosity and incentives
 
+<!--
+> *"Givers have to set limits because takers rarely do."  -- Henry Ford*
+-->
+
 > *"No one has ever become poor by giving."  
 -- Anne Frank*
 
@@ -550,7 +555,7 @@ Hints:
 -- danielvf@HN*
 
 > *"Attention is the rarest and purest form of generosity."  
--- Weil*
+-- Simone? Weil*
 
 > *"If you are more fortunate than others, build a longer table rather than a taller fence."  
 -- Kevin Kelly*
@@ -727,6 +732,7 @@ Hints:
 ## On management and delegation
 
 <!--
+> *"Management is about persuading people to do things they do not want to do, while leadership is about inspiring people to do things they never thought they could."  -- Steve Jobs*
 - reward system. culture is influenced by structure. give to the right person
 - as estruturas funcionam qd ha coesao
 - Ideas are welcomed, execution is worshiped
@@ -874,8 +880,11 @@ Hints:
 <!--
 > *"It is impossible for a man to learn what he thinks he already knows."  -- Epictetus*
 > *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them."  -- Oscar Wilde*
+> *"Good teaching is 1/4 preparation and 3/4 theatre."  -- Gail Godwin*
+> *"A good teacher does not teach facts, he or she teaches enthusiasm, open-mindedness and values."  -- Gian Carlo Rota*
 
-- what do i do that is most annoying to u? say thank you and don’t discuss it. don’t act on it. just put it in your mind.
+- Teach principles, not formulas. Understand, don't memorize.
+- What do I do that is most annoying to you? Say thank you and don’t discuss it. Don’t act on it. JRtruust put it in your mind.
 -->
 
 > *"To know the road ahead, ask those coming back."  
@@ -936,6 +945,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 
 <!--
 > *"My family history begins with me, but yours ends with you."  -- Iphicrates*
+> *"If children feel safe, they can take risks, ask questions, make mistakes, learn to trust, share their feelings and grow."  -- Alfie Kohn*
 -->
 
 > *"Teach your children early what you learned late."  
@@ -1068,7 +1078,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 <!--
 > *"Don't be irreplaceable, if you can't be replaced, you can't be promoted.*
 
-- "Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out.""
+- "Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out."
 - i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
 - "estava a perder o controlo da minha carreira"  -- vertonghen
 - behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
@@ -1201,7 +1211,11 @@ Hints:
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 
 ### How to know your strenghts?
- 
+
+<!--
+> *"Your work speaks only to those on the same wavelenght as you."  -- Jean Cocteau*
+-->
+
 Ask employers why did they asked you for an interview - they will describe your strengths.
 
 > *"Our best work is the work we find ourselves doing, when there is no obligation to do so."  
@@ -1313,15 +1327,17 @@ Hints:
 ## On hierarchy
 
 <!--
+> *"Disobedience is the true foundation of liberty. The obedient must be slaves."  -- Henry David Thoreau*
+> *"If you are ruled by mind you are a king; if by body a slave."  -- Cato*
 > *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  -- Jorge Luis Borges*
-
 - if you don't like something, just take away its only power: your attention.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
 - Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 - People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
 -->
 
-> *"If you want to know who controls you, look at who you are not allowed to criticize."  
+> *"If you want to know who controls you, look at who you are not allowed to criticize." (...)  
+> *"It is dangerous to be right in matters where established men are wrong."  
 -- Voltaire*
 
 > *"No one can make you feel inferior without your permission."  
@@ -1596,6 +1612,7 @@ If you are a team leader, how much do team members trust you?
 What do you need to do to regain the trust of others?
 What is the simplest thing you can do to be more trustworthy?
 
+> *"The closer the collapse of an empire, the crazier its laws."  -- Cicero*
 > *"A right is not what someone gives you; it's what no one can take from you."  -- Ramsey Clark*
 > *"Um dos tristes sinais da nossa época é que demonizamos aqueles que produzem, subsidiamos os que se recusam a produzir e canonizamos aqueles que reclamam."  -- Thomas Sowell*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
@@ -1813,6 +1830,10 @@ Hints:
 <!--
 > *"Fools rush in and get the best seats in the house."*
 > *"In order to think you have to risk being offensive."  -- Jordan Peterson*
+> *"Do not try to seem wise to others."  -- Epictetus*
+> *"We are all one. Only egos, beliefs, and fears separate us."  -- Nikola Tesla*
+> *"It's better to be silent, than to dispute with the ignorant."  -- Pythagoras*
+> *"A fool contributes nothing worth hearing and takes offense at everything."  -- Aristotle*
 
 - every snowflake is different but all snow is the same.
 -->
@@ -1887,6 +1908,12 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 
 ### On stupidity
 
+<!--
+> *"Any man can make mistakes, but only an idiot persists in his error."  -- Cicero*
+-->
+
+> *"If they are wise, do not quarrel with them; if they are fools, ignore them."  -- Epictetus*
+
 > *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
 -- sgrstk@twitter*
 
@@ -1944,7 +1971,10 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 <!--
 > *"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving."  -- Kevin Kelly*
 > *"A fanatic is a person who can't change his mind and won't change the subject."  -- Winston Churchill*
-
+> *"I do not know any other form of superiority but kindness."  -- Ludwig van Beethoven*
+> *"The need to be right - the sign of a vulgar mind."  -- Albert Camus*
+> *"What do you really despise? By this you are truly known."  -- Frank Herbert*
+> *"Everything that irritates us about others can lead us to an understanding of ourselves."  -- Carl Gustav Jung*
 - your perception of me is a reflection of you
 -->
 
@@ -2079,7 +2109,7 @@ Most people approach each and every year in the exact same way while expecting d
 > *"Satire is tragedy plus time."  -- Lenny Bruce*
 > *"To find out a girl's faults, praise her to her girl friends."  -- Benjamin Franklin*
 > *"Testing can show the presense of bugs, but not their absence."  -- Dijkstra*
-> *"That which we are capable of feeling, we are capable of saying."  -- Cervantes*
+> *"That which we are capable of feeling, we are capable of saying."  -- Miguel Cervantes*
 > *"Whenever you hug someone, be the last to let go."  -- Kevin Kelly*
 > *"Give me a museum and I’ll fill it."  -- Pablo Picasso*
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
@@ -2292,6 +2322,9 @@ Hints:
 > *"The surest sign that a man is in love is when he divorces his wife."*
 > *"If you love a flower don't pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  -- Osho*
 > *"When I think I'm unfairly hated, I try to remember that I'm unfairly loved."  -- R.C. Sproul*
+> *"The desire to be loved is the last illusion. Give it up and you'll be so free."  -- Margaret Atwood*
+> *"Nothing is so necessary for a young man as the company of intelligent woman."  -- Leo Tolstoy*
+> *"Tell me what a man finds sexually attractive and I will tell you his entire philosophy of life."  -- Ayn Rand*
 - Thank you for not loving me. It forced me to love myself.
 - she was poetry but he couldn't read.
 - Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
@@ -2520,7 +2553,6 @@ Marry an happy person. Unhappy spouse, unhappy life.
 ## On religion
 
 <!--
-> *"Faith: not wanting to know what is true."  -- Friedrich Nietzsche*
 > *"I would rather have a mind opened by wonder than one closed by belief."  -- Gerry Spence*
 -->
 
@@ -2630,6 +2662,7 @@ Philosophy improves your intellectual rigor.
 ## On science
 
 <!--
+> *"Three great forces rule the world: stupidity, fera and greed."  -- Albert Einstein*
 - trust the science is the most anti-science statement ever. questioning science is how you do science.
 - theories are explanations, not predictions. prediction comes after the explanation
 - theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
@@ -2766,7 +2799,16 @@ Artistic death is made by consensus.
 > *"Art is either plagiarism or revolution."  
 -- Paul Gauguin*
 
+> *"The merit of originality is not novelty; it is sincerity."  
+-- Thomas Carlyle*
+
 ### On artists
+
+<!--
+> *"An intellectual says a simple thing in an hard way. An artist says a hard thing in a simple way."  -- Charles Bukowski*
+> *"An artist is someone who has learned to trust in himself."  -- Ludwig van Beethoven*	
+> *"Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out."  matisse? 
+-->
 
 > *"No artist tolerates reality."  
 -- Friedrich Nietzsche*
@@ -2873,6 +2915,8 @@ Privacy is power. What people don't know they can't ruin.
 ## On maths, computers and AI
 
 <!--
+> *"I've finally learned what «upward compatible» means. It means we get to keep all our old mistakes."  -- Dennie van Tassel*
+
 - chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
 - llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
