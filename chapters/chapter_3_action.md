@@ -317,7 +317,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 <!--
 > *"The color of truth is gray."  -- Andre Gide*
-> *"When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear."  -- Thomas Sowell*
 -->
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
@@ -371,6 +370,9 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 > *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
 -- Kevin Kelly*
+
+> *"When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear."  
+-- Thomas Sowell*
 
 
 

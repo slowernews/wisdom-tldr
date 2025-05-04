@@ -30,8 +30,9 @@ A big part of who you are is who you're not.
 ### The real you
 
 <!--
-> *"I have already lost touch with a couple of people I used to be."  -- Joan Didion*
+> *"I am not what happened to me, I am what I choose to become."  -- Carl Jung*
 > *"I'd woke up early and I took a long time getting ready to exist."  -- Fernando Pessoa*
+> *"Every next level of your life will demand a different you."  -- Leonardo DiCaprio*
 -->
 
 Your new life will cost you your old one. Do not fear your own potential.
@@ -63,13 +64,12 @@ Your new life will cost you your old one. Do not fear your own potential.
 > *"Everyone thinks of changing the world, but no one thinks of changing himself."  
 -- Leo Tolstoy*
 
+> *"I have already lost touch with a couple of people I used to be."  
+-- Joan Didion*
+
 ### How to come alive?
 
 <!--
-> *"As soon as you trust yourself you will know how to live."  -- Goethe*
-> *"I am not what happened to me, I am what I choose to become."  -- Carl Jung*
-> *"To find yourself, think for yourself."  -- Socrates*
-> *"Do not speak of your happiness to one less fortunate than yourself."  -- Plutarch*
 > *"The key to change... is to let go of fear."  -- Rosanne Cash*
 > *"Be the change you want to see in the world."  -- Mahatma Gandhi*
 > *"The world is changed by your example, not by your opinion."  -- Paulo Coelho*
@@ -109,17 +109,22 @@ No matter where you are in your life, you have the power to change everything in
 > *"Whatever you are, be a good one."  
 -- Abraham Lincoln*
 
+> *"To find yourself, think for yourself."  
+-- Socrates*
+
+> *"As soon as you trust yourself you will know how to live."  
+-- Goethe*
+
+> *"People seldom do what they believe in. They do what is convenient, then repent."  
+-- Bob Dylan*
+
+
 
 
 
 
 ---
 ## On finding your path
-
-<!--
-> *"People seldom do what they believe in. They do what is convenient, then repent."  -- Bob Dylan*
-> *"Every next level of your life will demand a different you."  -- Leonardo DiCaprio*
--->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
@@ -173,7 +178,7 @@ Hints:
 -- Elon Musk*
 
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
--- pat_stedman@twitter*
+-- pat_stedman@x*
 
 > *"Home is not where you are born; home is where all your attempts to escape cease."  
 -- Naguib Mahfouz*

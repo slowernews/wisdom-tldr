@@ -530,6 +530,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 
 <!--
 > *"Givers have to set limits because takers rarely do."  -- Henry Ford*
+> *"The miracle is this: the more we share the more we have."  -- Leonard Nimoy*
 -->
 
 > *"No one has ever become poor by giving."  
@@ -1915,7 +1916,7 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"If they are wise, do not quarrel with them; if they are fools, ignore them."  -- Epictetus*
 
 > *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
--- sgrstk@twitter*
+-- sgrstk@x*
 
 > *"Stupidity is overlooking or dismissing crucial information."  
 -- Adam Robinson*
@@ -2637,6 +2638,9 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"To have the right to do a thing is not at all the same as being right in doing it."  
 -- G.K. Chesterton*
 
+> *"Reality TV to me is the museum of social decay."  
+-- Gary Oldman*
+
 
 
 
@@ -2662,7 +2666,6 @@ Philosophy improves your intellectual rigor.
 ## On science
 
 <!--
-> *"Three great forces rule the world: stupidity, fera and greed."  -- Albert Einstein*
 - trust the science is the most anti-science statement ever. questioning science is how you do science.
 - theories are explanations, not predictions. prediction comes after the explanation
 - theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
@@ -2726,7 +2729,8 @@ Technology is applied science.
 
 > *"Technological progress is like an ax in the hands of a pathological criminal." (...)  
 "Science is a wonderful thing if one does not have to earn one’s living at it." (...)  
-"If we knew what it was we were doing, it would not be called research, would it?"  
+"If we knew what it was we were doing, it would not be called research, would it?" (...)  
+"Three great forces rule the world: stupidity, fear and greed."  
 -- Albert Einstein*
 
 > *"What is research but a blind date with knowledge?"  
@@ -2805,8 +2809,6 @@ Artistic death is made by consensus.
 ### On artists
 
 <!--
-> *"An intellectual says a simple thing in an hard way. An artist says a hard thing in a simple way."  -- Charles Bukowski*
-> *"An artist is someone who has learned to trust in himself."  -- Ludwig van Beethoven*	
 > *"Don't try to be original. Be simple. Be good technically, and if there is something in you, it will come out."  matisse? 
 -->
 
@@ -2836,6 +2838,12 @@ Artistic death is made by consensus.
 
 > *"I went into the business for the money, and the art grew out of it. If people are disillusioned by that remark, I can't help it. It's the truth."  
 -- Charlie Chaplin*
+
+> *"An intellectual says a simple thing in an hard way. An artist says a hard thing in a simple way."  
+-- Charles Bukowski*
+
+> *"An artist is someone who has learned to trust in himself."  
+-- Ludwig van Beethoven*
 
 ### On aesthetics
 
