@@ -22,6 +22,9 @@
 - [19??] DEN HEIJER, Alexander (nl)
 - [genY] KARIV, Dan (us)
 - [genY] SMITH (n, Té V.garn)
+- [19xx] PARRISH, Shane (ca)
+- [19xx] TOMMASI, Rollo (us)
+- [1805] Tocqueville, Alexis de (fr)
 -->
 
 - [----] Proverb
@@ -226,6 +229,7 @@
 - [1885] LAWRENCE, D.H. (uk)
 - [1885] PATTON, George S. (us)
 - [1885] POUND, Ezra (us)
+- [1887] SCHRODINGER, Erwin (at)
 - [1888] CARNEGIE, Dale (us)
 - [1888] PESSOA, Fernando (pt)
 - [1889] BENCHLEY, Robert (us)
@@ -364,6 +368,7 @@
 - [1930] SOWELL, Thomas (us)
 - [1932] COVEY, Stephen (us)
 - [1932] PLATH, Sylvia (us)
+- [1932] QUINO (ar)
 - [1932] RAMS, Dieter (de)
 - [1932] ROBBINS, Tom (us)
 - [1932] TARKOVSKY, Andrei (ru)

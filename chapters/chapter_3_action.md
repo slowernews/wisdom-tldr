@@ -11,11 +11,9 @@
 ## On creativity
 
 <!--
-> *"The man with a new idea is a crank - until the idea succeeds."  -- Mark Twain*
 > *"When dreams become more important than reality, you give up travel, building, creating; you even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives left behind in the thought records."  -- Vina, "The Menagerie" ("The Cage"), stardate unknown*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
-> *"Negativity is the enemy of creativity."  -- David Lynch*
 
 - If you want new ideas read old books.
 - Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
@@ -68,6 +66,9 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 
 > *"I don't dream at night, I dream all day. I dream for a living."  
 -- Steven Spielberg*
+
+> *"Negativity is the enemy of creativity."  
+-- David Lynch*
 
 ### How to find good ideas?
 
@@ -152,6 +153,9 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"In order to attain the impossible, one must attempt the absurd."  
 -- Miguel de Cervantes*
 
+> *"The man with a new idea is a crank - until the idea succeeds."  
+-- Mark Twain*
+
 
 
 
@@ -161,12 +165,8 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ## On analysis
 
 <!--
-> *"The power of accurate observation is commonly called cynicism by those who have not got it."  -- George Bernard Shaw*
-> *"A man sees in the world what he carries in his heart."  -- Goethe*
-> *"Understanding a question is half an answer."  -- Socrates*
-> *"Remember that all is opinion."  -- Seneca*
-> *"When you understand that every opinion is a vision loaded with personal history, you will begin to understand that all judgement is a confession."  -- Nikola Tesla*
 - if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
+- We overlook major flaws in those we like. And exaggerate minor faults in those we don't.
 -->
 
 > *"There are no facts, only interpretations."  
@@ -201,7 +201,7 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 -- Fernando Pessoa*
 
 > *"Don’t tell me what you value. Show me your budget, and I’ll tell you what you value."  
--- Joe Biden quoting his father*
+-- Joe Biden (quoting his father)*
 
 > *"The eye sees only what the mind is prepared to comprehend."  
 -- Robertson Davies*
@@ -230,6 +230,12 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 
 > *"He uses statistics as a drunken man uses lamp posts - for support rather than for illumination."  
 -- Andrew Lang*
+
+> *"A man sees in the world what he carries in his heart."  
+-- Goethe*
+
+> *"When you understand that every opinion is a vision loaded with personal history, you will begin to understand that all judgement is a confession."  
+-- Nikola Tesla*
 
 ### Hints
 
@@ -313,11 +319,13 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"Don’t ask the barber whether you need a haircut."  
 -- Daniel S. Greenberg*
 
-### On truth
+> *"Understanding a question is half an answer."  
+-- Socrates*
 
-<!--
-> *"The color of truth is gray."  -- Andre Gide*
--->
+> *"Remember that all is opinion."  
+-- Seneca*
+
+### On truth
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna*
@@ -374,6 +382,9 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear."  
 -- Thomas Sowell*
 
+> *"The color of truth is gray."  
+-- Andre Gide*
+
 
 
 
@@ -383,15 +394,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 ## On planning and strategy
 
 <!--
-> *"What we anticipate seldom occurs; what we least expect generally happens."  -- Benjamin Disraeli*
-> *"I have a simple philosophy: Fill what's empty. Empty what's full. Scratch where it itches."  -- A.R. Longworth*
-> *"What you think is your problem is not your problem, your strategy is."  -- Dan Munro*
-> *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."  -- Abraham Lincoln*
-> *"The time to repair the roof is when the sun is shining."  -- John F. Kennedy*
-> *"dig the well before you are thirsty."  -- Proverb*
-> *"Improvisation is the ability to talk with oneself."  -- Cecil Taylor*
-> *"To be prepared is half of the victory."  -- Miguel Cervantes*
-
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 -->
 
@@ -405,6 +407,10 @@ You can’t predict but you can prepare for the highly probable scenarios.
 
 > *"The best way to predict the future is to invent it."  
 -- Alan Kay*
+
+<!--
+> *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."  -- Abraham Lincoln*
+-->
 
 > *"If I had 9 hours to chop down a tree, I’d spend the first six sharpening my ax."  
 -- Abraham Lincoln*
@@ -440,6 +446,15 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"By failing to prepare, you are preparing to fail."
 -- Benjamin Franklin*
 
+> *"What we anticipate seldom occurs; what we least expect generally happens."  
+-- Benjamin Disraeli*
+
+> *"What you think is your problem is not your problem, your strategy is."  
+-- Dan Munro*
+
+> *"To be prepared is half of the victory."  
+-- Miguel Cervantes*
+
 ### How to plan?
 
 > *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
@@ -463,10 +478,14 @@ Hints:
 > *"Strategy requires thought; tactics require observation."  
 -- Max Euwe*
 
+> *"I have a simple philosophy: Fill what's empty. Empty what's full. Scratch where it itches."  
+-- A.R. Longworth*
+
 > *"I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day."  
 -- Ernest Hemingway*
 
-> *"You make plans and god laughs."  
+> *"You make plans and god laughs." (...)  
+"Dig the well before you are thirsty."  
 -- Proverb*
 
 > *"The wise warrior avoids the battle."  
@@ -485,6 +504,7 @@ Hints:
 
 <!--
 > *"Se não houvesse decisoes eramos todos iguais."  -- António Simões*
+> *"I never made a mistake in my life. I thought I did once, but I was wrong."  -- Lucy Van Pelt*
 
 - Consensus happens just in the beginning and in the end of something.
 > *"My brother says to never make a big decision before you take a shower."*
@@ -572,7 +592,8 @@ Hints:
 > *"While we are reasoning concerning life, life is gone."  
 -- David Hume*
 
-> *"More is lost by indecision than wrong decision."  
+> *"More is lost by indecision than wrong decision." (...)  
+"Indecision is the thief of opportunity."  
 -- Cicero*
 
 > *"Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise."  
@@ -641,11 +662,9 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
-> *"The cold water doesn't get warmer if you jump late." 
 > *"Do it, or don't do it - you will regret both."  -- Soren Kierkegaard*
+> *"The cold water doesn't get warmer if you jump late." 
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
-> *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity."  -- Henry Van Dyke*
-> *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  -- J.W. Goethe*
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
 - keep earning your title, or it expires. -- Derek Sivers
 
@@ -714,15 +733,13 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"The beginning is the most important part of the work."  
 -- Plato*
 
+> *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  
+-- J.W. Goethe*
+
 ### On timing and patience
 
-<!--
-> *"Be patient and tough; someday this pain will be useful to you."  -- Ovid*
-> *"Stoicism is about the domestication of emotions, not their elimination."  -- Nassim Taleb*
-> *"Every word has consequences. Every silence, too."  -- Sartre*
-> *"Desire makes slaves out of kings and patience makes kings out of slaves."  -- Al-Ghazali*
-> *"Genius is etrenal patience."  -- Michaelangelo*
--->
+> *"The early bird may get the worm, but the second mouse gets the cheese."  
+-- Unknown*
 
 > *"Patience is also a form of action."  
 -- Auguste Rodin*
@@ -742,8 +759,8 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"A good plan, violently executed now, is better than a perfect plan next week."  
 -- General George Patton*
 
-> *"While we wait for life, life passes."  
--- Seneca*
+> *"Stoicism is about the domestication of emotions, not their elimination."  
+-- Nassim Taleb*
 
 > *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
 -- Edward G. Bulwer-Lytton*
@@ -757,19 +774,25 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Not too soon and not too late; the secret of education lies in choosing the right time to do things."  
 -- Natalia Ginzburg*
 
-### On procrastination
+> *"Desire makes slaves out of kings and patience makes kings out of slaves."  
+-- Al-Ghazali*
 
-<!--
-> *"While we are postponing, life speeds by."  -- Seneca*
-> *"More is lost by indecision than wrong decision."  -- Cicero*
-> *"Indecision is the thief of opportunity."  -- Cicero*
-> *"Evil is whatever distracts."  -- Franz Kafka*
--->
+> *"The time to repair the roof is when the sun is shining."  
+-- John F. Kennedy*
+
+### On procrastination
 
 > *"The more something threatens your identity, the more you will avoid it."  
 -- Mark Manson*
 
+> *"While we wait for life, life passes." (...)  
+"While we are postponing, life speeds by."  
+-- Seneca*
+
 We fear releasing something unimportant, so you don’t release anything at all. Inadequacy of results makes us realize that we are not as good as we think we are and creates anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety. When hope disappears, so does action. The cost of procrastination is the life you could've lived.
+
+> *"Evil is whatever distracts."  
+-- Franz Kafka*
 
 How to defeat procrastination?
 
@@ -804,8 +827,7 @@ Hints:
 ## On speed and direction
 
 <!--
-> *"A clever person solves a problem. A wise person avoids it."  -- Albert Einstein*
-> *"The wisest people follow their own direction."  -- Euripedes*
+> *"The greatest muscle you can build is urgency. Decrease the time between having an idea and getting it done. Everything changes."  -- Codey Sanchez*
 -->
 
 > *"Speed is useful only if you are running in the right direction."  
@@ -852,6 +874,9 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 ## On focus and priorities
 
 <!--
+> *"Social media says: do everything, everywhere, all at once. Reality says: focus on doing one or two things extremely well, in one place, consistently, over a long period of time."  -- Mark Manson*
+> *"Don’t solve problems you don’t have."  -- Sahil Lavingia*
+
 > *"Nearly every complex solution to a programming problem that I have looked at carefully has turned out to be wrong."  -- Brent Welch*
 > *"The essential thing is to work in a state of mind that approaches prayer."  
 > *"A complex system that works is invariably found to have evolved from a simple system that works."*
@@ -923,8 +948,6 @@ Hints:
 ### On productivity
 
 <!--
-> *"Do something first, than talk about it."  -- Tom Ford*
-
 - parkinson's law - if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
 - taking care of yourself is productivity
 - 6 months of focus and hard work can put you 5 years ahead in life.
@@ -979,6 +1002,9 @@ Hints:
 
 > *"Premature optimization is the root of all evil."  
 -- Donald Knuth*
+
+> *"Do something first, than talk about it."  
+-- Tom Ford*
 
 ### On clutter
 
@@ -1055,6 +1081,8 @@ Consuming information gives the control freak an illusion of control. He doesn�
 > *"Security is mostly a superstition. Life is either a daring adventure or nothing."  
 -- Helen Keller*
 
+> *"If you are not in danger, do not fight."  
+-- Sun Tzu*
 
 
 
@@ -1112,8 +1140,6 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *"Circumstances do not make the man, they reveal him."  -- Epictetus*
-
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 - grow also feels like loss
@@ -1222,9 +1248,6 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 > *"God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." 
 -- St. Francis of Assisi*
-
-> *"When we are no longer able to change a situation, we are challenged to change ourselves."  
--- Victor Frankl*
 
 
 
@@ -1343,10 +1366,6 @@ Hints:
 
 <!--
 > *"Muddy water is best cleared by leaving it alone."  -- Alan Watts*
-> *"Have more than you show, speak less than you know."  -- William Shakespeare*
-> *"Let silence be your general rule; say only what is necessary and in few words."  -- Epictetus*
-> *"When you have something to say, silence is a lie."  -- Jordan Peterson* 
-> *"Every man is guilty of all the good he did not do."  -- Voltaire*
 
 - always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
 -->
@@ -1361,16 +1380,17 @@ Hints:
 > *"Appear weak when you are strong and strong when you are weak."  
 -- Sun Tzu*
 
-> *"Everything you say should be true, but not everything true should be said."  
+> *"Everything you say should be true, but not everything true should be said." (...)
+"Every man is guilty of all the good he did not do."  
 -- Voltaire*
 
 If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don’t do well on the short term.
 
 By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you. However deceiving is not lying. Lying is like a nuclear bomb, the effects will be there for a long time. Disappointment destroys trust.
 
-> *"Conceal your intention."  
-"Say less than necessary."  
-"Keep others in suspended terror: cultivate an air of unpredictability."  
+> *"Conceal your intention." (...)  
+"Say less than necessary." (...)  
+"Keep others in suspended terror: cultivate an air of unpredictability." (...)  
 "Assume formlessness."  
 -- Robert Greene*
 
@@ -1429,7 +1449,14 @@ Hints:
 > *Sometimes people dont want to hear the truth because they don’t want their illusions destroyed."  
 -- Friedrich Nietzsche*
 
+> *"Let silence be your general rule; say only what is necessary and in few words."  
+-- Epictetus*
+
 ### On mirroring
+
+<!--
+""Start by being warm, pleasant, & generous w/every person you meet;  but if someone tries to exercise power over you, exercise power over him;  & if he messes w/you, remember to keep messing w/him long after he has forgotten about it".  Silver Rule of Fat Tony in #SkinInTheGame"
+-->
 
 > *"Disarm and infuriate with the mirror effect."  
 -- Robert Greene*
@@ -1509,10 +1536,6 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 ## On winning
 
 <!--
-> *"Never cut what you can untie."  -- Robert Frost*
-> *"War does not determine who is right - only who is left."  -- Bertrand Russell*
-- winners are overgivers -- codey sanchez
-
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
 - sportification of our culture. resistance doesn’t imply competition.
@@ -1569,6 +1592,12 @@ Hints:
 > *"Man conquers the world by conquering himself."  
 -- Zeno of Elea*
 
+> *"Never cut what you can untie."  
+-- Robert Frost*
+
+> *"Winners are overgivers."  
+-- codey sanchez*
+
 
 
 
@@ -1578,10 +1607,7 @@ Hints:
 ## On quiting and surrendering
 
 <!--
-> *"You are never destroyed by anyone except yourself."  -- Friedrich Nietzsche*
-> *"Summer grass, all that’s left of warrior’s dreams."  -- Basho*
-> *"To destroy war, destroy patriotism."  -- Leo Tolstoy*
-> *"Develop strength to do bold things, not the strength to suffer."  -- Machiavelli*
+> *"You never cure structural defects; the system corrects itself by collapsing."  -- Nassim Taleb*
 
 - nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
 - you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.
@@ -1617,6 +1643,12 @@ In order to come back you have to go away. Use this opportunity to re-create you
 
 > *"Never confuse a single defeat with a final defeat."  
 -- F. Scott Fitzgerald*
+
+> *"You are never destroyed by anyone except yourself."  
+-- Friedrich Nietzsche*
+
+> *"Develop strength to do bold things, not the strength to suffer."  
+-- Niccoló Machiavelli*
 
 ### On forgiveness
 
@@ -1675,9 +1707,8 @@ If you don’t reconcile you’re postponing war.
 ## On past
 
 <!--
-> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  -- George S. Patton
-> *"All my possessions for a moment of time."  -- Queen Elizabeth*
- 
+> *"> *"I’ve always preferred mythology to history. Because history is made up of truths that eventually turn into lies. Mythology is made up of lies that eventually become truths."  -- Jean Cocteau*
+
 - never be a prisoner of your past. It was just a lesson not a life sentence.
 - history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
 - no one is there anymore.
@@ -1787,7 +1818,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 ## On present
 
 <!--
-> *"Half our life is spent trying to find something to do with the time we have rushed through life trying to save."  -- Will Rogers*
+> *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity."  -- Henry Van Dyke*
 
 - 96 blocks a day -- wait but why
 -->

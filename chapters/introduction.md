@@ -18,7 +18,8 @@ A big part of who you are is who you're not.
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen*
 
-> *"You are what you do, not what you say you’ll do."  
+> *"You are what you do, not what you say you’ll do." (...)  
+"I am not what happened to me, I am what I choose to become."  
 -- Carl Jung*
 
 > *"How we spend our days is how we spend our lives."  
@@ -30,9 +31,9 @@ A big part of who you are is who you're not.
 ### The real you
 
 <!--
-> *"I am not what happened to me, I am what I choose to become."  -- Carl Jung*
 > *"I'd woke up early and I took a long time getting ready to exist."  -- Fernando Pessoa*
 > *"Every next level of your life will demand a different you."  -- Leonardo DiCaprio*
+> *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  -- Lao Tzu*
 -->
 
 Your new life will cost you your old one. Do not fear your own potential.
@@ -125,6 +126,10 @@ No matter where you are in your life, you have the power to change everything in
 
 ---
 ## On finding your path
+
+<!--
+> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  -- George S. Patton
+-->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
