@@ -28,15 +28,18 @@ A big part of who you are is who you're not.
 > *"Day by day, what you choose, what you think and what you do is who you become."  
 -- Heraclitus*
 
+> *"The world wants to assign you a role in life. And once you accept that role you are doomed."  
+-- Robert Green*
+
+> *"There are two people in you. The one who talks and the one who listens. The one who talks is always changing. The one who listens is always the same. You are the one who listens."  
+-- Naval Ravikant*
+
 ### The real you
 
-<!--
-> *"I'd woke up early and I took a long time getting ready to exist."  -- Fernando Pessoa*
-> *"Every next level of your life will demand a different you."  -- Leonardo DiCaprio*
-> *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  -- Lao Tzu*
--->
-
 Your new life will cost you your old one. Do not fear your own potential.
+
+> *"Tell me what you lie about and I will tell you who you are."  
+-- Nassim Taleb*
 
 > *"You’re under no obligation to be the same person you were five minutes ago."  
 -- Alan Watts*
@@ -68,12 +71,19 @@ Your new life will cost you your old one. Do not fear your own potential.
 > *"I have already lost touch with a couple of people I used to be."  
 -- Joan Didion*
 
+> *"Every next level of your life will demand a different you."  
+-- Leonardo DiCaprio*
+
+> *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
+-- Lao Tzu*
+
 ### How to come alive?
 
 <!--
-> *"The key to change... is to let go of fear."  -- Rosanne Cash*
-> *"Be the change you want to see in the world."  -- Mahatma Gandhi*
 > *"The world is changed by your example, not by your opinion."  -- Paulo Coelho*
+
+- The longer you are living on autopilot, the harder the future is going to be.
+- It's not the lack of intelligence, it's the lack of focus that is stopping you.
 -->	
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
@@ -119,6 +129,11 @@ No matter where you are in your life, you have the power to change everything in
 > *"People seldom do what they believe in. They do what is convenient, then repent."  
 -- Bob Dylan*
 
+> *"I'd woke up early and I took a long time getting ready to exist."  
+-- Fernando Pessoa*
+
+> *"Always stick to what makes you weird, odd, strange, different. That’s your source of power."  
+-- Robert Green*
 
 
 
@@ -126,10 +141,6 @@ No matter where you are in your life, you have the power to change everything in
 
 ---
 ## On finding your path
-
-<!--
-> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, ‘Go away, I’m busy,’ or ‘I don’t know you, so don’t bother me.’ But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  -- George S. Patton
--->
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
@@ -237,9 +248,13 @@ Hints:
 > *"I can think, I can wait and I can fast."  
 -- Siddahrta*
 
+> *"The path to mediocrity is paved with platitudes."  
+-- Nassim Taleb*
+
 ### On ambition
 
 <!--
+
 - The ultimate question: Do you want you son/daughter to date someone like you?
 - everything wants you when you want nothing
 - If you’re not trying to make money, what are you even doing?
@@ -260,7 +275,24 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
 -- Oscar Wilde*
 
+> *"Understand: if you are weak and ask for little, little is what you will get."  
+-- Robert Green*
+
+> *"I disagree. There are plenty of ambitious people. My life and business experience is that there are far more ambitious people that lack competence than ambitious people that are competent. Ambition with competence is rare."  
+-- glenn_foster@x*
+
+> *"Society underestimates how much it owes elon for raising the collective ambition level at a time when optimism for the future was receding."  
+-- Sam Altman* 
+
+> *"I worked a lot on my mental health and now I am no longer ambitious."  
+-- jxnlco@x*
+
 ### On the purpose of life
+
+<!--
+> *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Schopenhauer*
+> *"We will only have work-life balance when we feel safe at home and feel safe at work."  -- simonsinek@x*
+-->
 
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."  
 -- Jordan Peterson*
@@ -286,6 +318,9 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"Life is being on the wire, everything else is just waiting."  
 -- Karl Wallenda*
 
+> *"The high IQ, high openness crowd will spend decades in the wilderness of DIY worldviews and lifestyles only to find out, often too late, that the most meaningful thing to do was just to get married and have kids."  
+-- cxgonzalez@x*
+
 ### On fate
 
 > *"A man’s character is his fate."  
@@ -298,6 +333,8 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 
 > *"A person often meets his destiny on the road he took to avoid it."  
 -- Jean de La Fontaine*
+
+> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, «Go away, I’m busy», or «I don’t know you, so don’t bother me». But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  -- George S. Patton*
 
 ### On the wrong paths
 
@@ -313,6 +350,10 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"What’s right is what’s left if you do everything else wrong."  
 -- Robin Williams*
 
+> *"Lack of progress means you are doing too much of the wrong things. Step back and reprioritize your daily tasks. You want to achieve more, you need to learn how to do less." (...)  
+"If the years pass and your life doesn’t get better, it means: you forgot your long-term plan; you actually don’t learn properly; you are around the wrong people; you live in the wrong environment; your intuition and judgment are off; or you struggle to focus when it matters."
+-- orangebook_@x*
+
 
 
 
@@ -322,8 +363,12 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 ## On happiness
 
 <!--
-- worthless friends. these friendships increase your happyness -- codie sanchez
-- if they are not in front of you, leave them behind. transactional friendships decrease your happiness.
+- If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
+> *"Worthless friends. These friendships increase your happyness."  -- Codie Sanchez*
+
+- Men give up happyness for their family. Women give up family for their happyness.
+- You are happy because you are surrounded by people you trust and love. You are healthy because you are in control of your impulses and habits. You are wealthy because you started investing long-term decades ago. You are relaxed because you are in control of your time.
+- You don’t hear much from happy people, because once you are living the life you want, you keep a low profile, you keep your life private.
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
@@ -350,6 +395,7 @@ Hints:
 - We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude. The richer you get the more expensive happiness becomes.
 - Amor fati. True wisdom comes from accepting fate. High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.
+- Busy people are happier.
 
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli*
@@ -375,8 +421,9 @@ Hints:
 
 > *"Money can’t make rich people happy but it can make poor people happy." (...)  
 "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned." (...)  
-"The price of trying to make everybody else happy is making yourself miserable." (...)
-"Happiness is your default state when you remove everything."  
+"The price of trying to make everybody else happy is making yourself miserable." (...)  
+"Happiness is your default state when you remove everything." (...)  
+"Beyond the basics, money doesn’t make you happier because, beyond the basics, nothing makes you happier."  
 -- Naval Ravikant*
 
 > *"Don’t put your happiness in other people’s hands. They’ll drop it. They’ll drop it every time."  
@@ -399,3 +446,15 @@ Hints:
 
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
 -- Robert A. Heinlein*
+
+> *"You want happyness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happyness. Or jail."  
+-- wuwei113@x*
+
+> *"A common trait of unhappy people: they love to criticize everything and everyone all the time, they get distracted by things that don’t matter. A common trait of happy people: they are focused on themselves, their business, their family and friends, their difficult goals."  
+-- orangebook_@x*
+
+> *"Nobody can make you happy until you're happy with yourself first."  
+-- proffeynman@x*
+
+> *"The happiest people I know are slowing down, not speeding up."  
+-- thejustinwelsh@x*

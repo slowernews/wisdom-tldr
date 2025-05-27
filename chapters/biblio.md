@@ -22,9 +22,8 @@
 - [19??] DEN HEIJER, Alexander (nl)
 - [genY] KARIV, Dan (us)
 - [genY] SMITH (n, Té V.garn)
-- [19xx] PARRISH, Shane (ca)
-- [19xx] TOMMASI, Rollo (us)
-- [1805] Tocqueville, Alexis de (fr)
+- [198x] SANCHEZ, Codie (us)
+- [198x] URBAN, Tim (us)
 -->
 
 - [----] Proverb
@@ -40,7 +39,7 @@
 - [FICTIONAL] MONTANA, Tony
 - [FICTIONAL] PLOUGHMAN, Tara
 - [FICTIONAL] TYRION
-- [YCOMB] bane / danielvf / dilemma / exelius / pystack
+- [HN.COM] bane / danielvf / dilemma / exelius / pystack
 - [X.COM] pat_stedman / sgrstk
 
 - [-970] SOLOMON, King (il)
@@ -137,6 +136,7 @@
 - [1803] EMERSON, Ralph Waldo (us)
 - [1804] DISRAELI, Benjamin (uk)
 - [1805] PURKEY, William W. (uk)
+- [1805] TOCQUEVILLE, Alexis de (fr)
 - [1806] MILL, John Stuart (uk)
 - [1809] LINCOLN, Abraham (us)
 - [1809] POE, Edgar Allan (us)
@@ -341,6 +341,7 @@
 - [1924] BUSCAGLIA, Leo (us)
 - [1924] CAPOTE, Truman (us)
 - [1924] MUNGER, Charlie (us)
+- [1925] BERRA, Yogi (us)
 - [1925] NEWMAN, Paul (us)
 - [1925] VIDAL, Gore (us)
 - [1926] ELLIOT, Elisabeth (be)
@@ -479,6 +480,7 @@
 - [1959] GREENE, Robert (us)
 - [1959] SEMLER, Ricardo (br)
 
+- [196x] TOMMASI, Rollo (us)
 - [1960] GAIMAN, Neil (uk)
 - [1960] GODIN, Seth (us)
 - [1960] GWYNN, Tony (us)
@@ -502,6 +504,7 @@
 - [1964] WHEDON, Joss (us)
 - [1965] BROWN, Brene (us)
 - [1965] BURROUGHS, Augusten (us)
+- [1965] DOMINGOS, Pedro (pt)
 - [1965] MATTHEIJ, Jacques (nl)
 - [1965] ROWLING, J.K. (uk)
 - [1965] SPARKS, Nicholas (us)
@@ -551,16 +554,19 @@
 - [1975] SITTENFELD, Curtis (us)
 - [1975] ZUSAK, Markus (au)
 - [1976] HARARI, Yuval Noah (il)
+- [1976] MALICE, Michael (ua-us)
 - [1976] WAITZKIN, Josh (us)
 - [1977] DECKERS, Amber (us)
 - [1977] FERRISS, Tim (us)
 - [1977] FRIEDMAN, Nat (us)
 - [1977] GREEN, John (us)
 - [1977] JEFFERIES, Jim (au)
+- [1977] WEST, Kanye (us)
 - [1978] NEMER, Jason (us)
 - [1978] TORRE, Alessandra (us)
 - [1979] FITZPATRICK, Becca (us)
 
+- [198x] PARRISH, Shane (ca)
 - [1980] HARBINGER, Jordan (us)
 - [1982] NEWPORT, Cal (us)
 - [1982] PARRISH, Shane (ca)
@@ -569,10 +575,12 @@
 - [1983] HOUSEL, Morgan (us)
 - [1983] MILHÃO, Miguel (pt)
 - [1984] MANSON, Mark (us)
+- [1985] ALTMAN, Sam (us)
 - [1985] YOUNG, Chris (us)
 - [1986] BENOIT, Andy (us)
 - [1986] TATE, Andrew (uk)
 - [1987] HOLIDAY, Ryan (us)
+- [1988] LAVINGIA, Sahil (us)
 
 - [1990] HILDEBRAND, Sarah (my)
 - [1997] NESTARES, Santiago (us)

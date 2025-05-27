@@ -12,11 +12,9 @@
 
 <!--
 > *"I'm a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams*
-> *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  -- Paulo Coelho*
-> *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  -- George Bernard Shaw*
-
 - when you don't want to be interesting you are free. -- moojy
 - Freedom to -> freedom from -- naval
+
 - Don’t build your castle in other peoples kingdom’s
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
 -->
@@ -60,6 +58,15 @@ Hints:
 > *"Never explain: your friends do not need it, and your enemies will not believe you anyway."  
 -- Elbert Hubbard*
 
+> *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  
+-- George Bernard Shaw*
+
+> *"If you do not take risks for your opinion, you are nothing."  
+-- Nassim Taleb*
+
+> *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  
+-- Paulo Coelho*
+
 
 
 
@@ -80,8 +87,6 @@ Hints:
 ### On authenticity
 
 <!--
-> *"Anything you loose by being real was fake."  -- Kanye West*
-
 - 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
 - Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
@@ -94,6 +99,9 @@ Hints:
 
 > *"It is better to be hated for what you are than to be loved for what you are not."  
 -- André Gide*
+
+> *"Anything you loose by being real was fake."  
+-- Kanye West*
 
 Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
 
@@ -161,6 +169,10 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 
 ### On trust and reputation
 
+<!--
+- A person who trusts no one now, once trusted someone too much.
+-->
+
 > *"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
 -- Warren Buffett*
 
@@ -206,6 +218,9 @@ Trust, not money, is the currency of business and life.
 > *"With enough courage, you can do without a reputation."  
 -- Margaret Mitchell*
 
+> *"Fame is a lagging indicator of distinctiveness. Reputation is a lagging indicator of trustworthiness."  
+-- rapahelz@x*
+
 
 
 
@@ -215,8 +230,6 @@ Trust, not money, is the currency of business and life.
 ## On humility
 
 <!--
-> *"The highest form of humility is being teachable."  -- rapahelz@x*
-> *"You learn more from other people if you pretend you know less than them."  -- alexhormozi@x*
 
 - Humility With forward action: "I wasn’t the smartest in X but.."  
 -->
@@ -242,11 +255,13 @@ One way to humble yourself is to place yourself in the position of being the wea
 > *"Do not speak of your happiness to one less fortunate than yourself."  
 -- Plutarch*
 
-### On respect
+> *"The highest form of humility is being teachable."  
+-- rapahelz@x*
 
-<!--
-> *"Being nice counts the most when you are nice to people ignored by others."  -- Nassim Taleb*
--->
+> *"You learn more from other people if you pretend you know less than them."  
+-- alexhormozi@x*
+
+### On respect
 
 > *"Everyone you will ever meet knows something you don’t."  
 -- Bill Nye*
@@ -258,6 +273,15 @@ You might think you want a fancy car or a nice watch but what you probably want 
 
 > *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn’t know it."  
 -- Paulo Coelho*
+
+> *"Being nice counts the most when you are nice to people ignored by others."  
+-- Nassim Taleb*
+
+> *"Never look down on a man working to level himself up."  
+-- stirlingwisdom@x*
+
+> *"This generation has no loyalty, it’s just built on attention."  
+-- iamaaronwill@x*
 
 ### On gratitude
 
@@ -293,8 +317,9 @@ Being grateful is looking up. Don’t forget that a group of people blazed the t
 "You can’t call it charity unless no one is watching."  
 -- Kevin Kelly*
 
-> *"The blind can’t see. The proud will not."  
--- Proverb*
+> *"The blind can’t see. The proud will not." (...)  
+"The day a blind man sees, the first thing he throws away is the stick that has helped him all his life."  
+-- Proverbs*
 
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich." (...)  
 "When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
@@ -303,12 +328,21 @@ Being grateful is looking up. Don’t forget that a group of people blazed the t
 > *"Feeling gratitude and not expressing it is like wrapping a present and not giving it."  
 -- William Arthur Ward*
 
+> *"The greater your gifts, the greater your duty."  
+-- Naval Ravikant*
+
 ### How to apologise?
 
 Quickly, specifically, sincerely.
 
 > *"Never ruin an apology with an excuse."  
 -- Benjamin Franklin*
+
+> *"Apology under pressure is not an apology."  
+-- Nassim Taleb*
+
+> *"Most excuses are just explanations. They don’t excuse anything."  
+-- Mark Manson*
 
 
 
@@ -336,12 +370,7 @@ Blessed are the restless.
 ### On agency
 
 <!--
-> *"If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission."  -- Rear Admiral Grace Hopper*
-> *"If not you, who? If not now, when?"  -- Rabbi Hillel*
-> *"The possibilities are numerous once we decide to act and not react."  -- George Bernard Shaw*
-> *"The distance between dreams and reality is called discipline."  -- Paulo Coelho*
-
-- get your dopamine from action
+> *"«You’re doing it all wrong», said someone doing nothing at all." -- Sahil Lavingia*
 -->
 
 > *"The most difficult is the decision to act, the rest is just tenacity."  
@@ -351,6 +380,9 @@ Hints:
 
 - Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
 - «It’s on documentation. If it’s not add it.»
+- Without commitment, you’ll never start. Without consistency, you’ll never finish.
+- You don't need 100 self-help books, all you need is action + self-discipline.
+- Get your dopamine from action.
 
 > *"Doing is faster than watching."  
 -- Naval Ravikant*
@@ -360,6 +392,15 @@ Hints:
 
 > *"Knowing is not enough. We must apply. Willing is not enough. We must do."  
 -- Bruce Lee*
+
+> *"The possibilities are numerous once we decide to act and not react."  
+-- George Bernard Shaw*
+
+> *"If not you, who? If not now, when?"  
+-- Rabbi Hillel*
+
+> *"If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission."  
+-- Rear Admiral Grace Hopper*
 
 ### On resilience
 
@@ -386,6 +427,15 @@ Hints:
 
 > *"Discipline is choosing between what you want now and what you want most."  
 -- Abraham Lincoln*
+
+> *"The distance between dreams and reality is called discipline."  
+-- Paulo Coelho*
+
+> *"Your ability to tolerate boredom while repeating the same action determines your odds of success."  
+-- alexhormozi@x*
+
+> *"Your growth depends on your ability to absorb criticisms. Your success depends on your ability to absorb failures. Your survival depends on your ability to absorb traumas."  
+-- rapahelz@x*
 
 
 
@@ -467,10 +517,6 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 
 ---
 ## On improving
-
-<!--
-> *"What I learned on my own, I still remember."  -- Nassim Taleb*
--->
 
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
@@ -564,6 +610,12 @@ Hints:
 > *"I am always doing that which I cannot do, in order that I may learn how to do it."  
 -- Pablo Picasso*
 
+> *"What I learned on my own, I still remember."  
+-- Nassim Taleb*
+
+> *"In theory there is no difference between theory and practice; in practice there is"  
+-- Yogi Berra*
+
 ### Improving by analysis
 
 > *"Fools say that they learn by experience, I prefer to profit by others’ experience."  
@@ -606,8 +658,6 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 ## On wisdom
 
 <!--
-> *"The measure of intelligence is creativity. The measure of wisdom is sagacity. The measure of ethics is transparency."  -- rapahelz@x*
-
 > *"He who lives without folly is less wise than he believes.*
 -->
 
@@ -655,11 +705,13 @@ Wisdom is knowing the long-term consequences of your actions.
 > *"The wisest people follow their own direction."  
 -- Euripedes*
 
+> *"The measure of intelligence is creativity. The measure of wisdom is sagacity. The measure of ethics is transparency."  
+-- rapahelz@x*
+
 ### On mastery
 
 <!--
-> *"Every expert has a past. Every creator has a future."  -- rapahelz@x*
-
+There’s always room for improvement; be humble. There is no place for a «prima donna». If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
 -->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
@@ -694,7 +746,7 @@ Introverts have more probability of being an expert in their field. Extraversion
 -- Robyn Dawes*
 
 > *"Amateurs play for tricks, masters play for position."
--- pystack@HN*
+-- pystack@hn*
 
 > *"Don't play what's there, play what's not there."  
 -- Miles Davis*
@@ -729,6 +781,13 @@ Introverts have more probability of being an expert in their field. Extraversion
 > *"The price of greatness is responsibility."  
 -- Winston Churchill*
 
+> *"The pursuit of excellence comes at a price. The biggest cost is solitude. Collectivist societies struggle with excellence because the price of solitude is hard for most to accept."  
+-- kunalb11@x*
+
+> *"The young man knows the rules, the old man knows the exceptions."  
+-- Charlie Munger*
+
+
 
 
 
@@ -737,8 +796,6 @@ Introverts have more probability of being an expert in their field. Extraversion
 ## On education
 
 <!--
-> *"The cost of a college education keeps going up, and the value keeps going down."  -- Pedro Domingos*
-
 - The modern education system doesn't create leaders. It creates followers. Escape the matrix.
 - Young men could learn anything if you questify schools.
 - the problem is not, and never have been, "as good as a professional". It has always been "it's good enoughto replace a professional so it'll be cheaper." the key thing about AI is that AI+human is waht we'll do.
@@ -828,6 +885,21 @@ College education may help you make a living. Self-education may make you a fort
 > *"Spoon feeding in the long run teaches us nothing but the shape of the spoon."  
 -- E.M. Forster*
 
+> *"The cost of a college education keeps going up, and the value keeps going down."  
+-- Pedro Domingos*
+
+> *"University is just expensive procrastination."  
+-- LayahHeilpern@x* 
+
+> *"School: success stems from conformity and consensus. Life: success stems from curiosity and creativity."  
+-- rapahelz@x*
+
+> *"When elite universities uploaded all of their courses online for public consumption, we collectively realized that the limiting reagent for global intelligence is not access to information, it's motivation."  
+-- cpaik@x*
+
+> *"Only the autodidacts are free."  
+-- thesiliconstoic@x*
+
 Hints:
 
 - Study physics, mathematics, computers, microeconomics, game theory and persuasion.
@@ -842,10 +914,13 @@ Hints:
 
 > *"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths." (...)  
 "Study math to understand physics. Study physics to understand chemistry. Study chemistry to understand biology. Study biology to understand psychology. Study psychology to understand economics. Study economics and philosophy to be free." (...)  
+"Study physics, mathematics, computers, microeconomics, game theory, and persuasion." (...)  
 "Timeless: science, math, philosophy, rhetoric. First principles. Creating art & business. Family & lifelong friends. Habits to calm mind & body. Temporary: politics, news, estertainment. Memorizing facts. Hourly work. Transactional relationships. Drugs & doctors for mind and body." (...)  
 "The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas - just learning. Actually you’re already here. Careful who you follow."  
 -- Naval Ravikant*
 
+> *"Learn a niche business and cold-call."  
+-- realestatetrent@x*
 
 
 
@@ -853,12 +928,6 @@ Hints:
 
 ---
 ## On reading
-
-<!--
-> *"A good book is one that no two readers would summarize in the same way. A great book is one that produces different summaries for the very same reader."  -- Nassim Taleb*
-
-- If you want better ideas, read better books. If you want new ideas, read old books.
--->
 
 > *"I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me."  
 -- Ralph Waldo Emerson*
@@ -898,12 +967,20 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 > *"You don’t have to burn books to destroy a culture. Just get people to stop reading them."  
 -- Ray Bradbury*
 
-> *"When the reader is ready the book appears."  
+> *"When the reader is ready the book appears." (...)  
+"The smarter you get, the slower you read."  
 -- Naval Ravikant*
+
+> *"A good book is one that no two readers would summarize in the same way. A great book is one that produces different summaries for the very same reader."  -- Nassim Taleb*
+
+> *"Read to collect the dots, write to connect them."  
+-- david_perell@x*
 
 ### On classics
 
 Don’t read the books made to make money, read the ones they want to ban. Most books are propaganda.
+
+If you want better ideas, read better books. If you want new ideas, read old books.
 
 > *"The great books are the books that never have to be written again."  
 -- Carl Van Doren*
@@ -914,6 +991,9 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 > *"The worst thing about new books is that they keep us from reading the old ones."  
 -- Joseph Joubert*
 
+> *"I don’t believe in book recommendations lol. Reading what everyone else is already reading—especially books has minimal value (hardly a novel observation) therefore you should allocate your time differently. If everyone’s reading it, the insights are already absorbed into the zeitgeist or regurgitated online. Reading what’s obscure gives you asymmetric knowledge—potentially valuable ideas others haven’t yet mined. There’s a counter: sometimes it pays to understand why a popular book resonates. It’s less about the book itself & more about mapping the cultural moment or the biases of the masses. For this use case I just use chatgpt."  
+-- signulll@x*
+
 
 
 
@@ -923,14 +1003,9 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 ## On writing
 
 <!--
-> *"Your most original writing is when you write for one audience: yourself."  -- rapahelz@x*
-> *"Words are living things. They have personality, interests, ambitions, friends, and foes."  -- rapahelz@x*
-> *"Actually almost everything I've written that has survived was written when I didn't try to get anything done."  -- Nassim Taleb*
-> *"I want to write books that only those who read them claim they did."  -- Nassim Taleb*
-
 > *"What no spouse of a writer can ever understand is that a writer is working when he's staring out the window.*
-- We don’t need ChatGPT to write letters and emails. Just send the prompts.
 
+- We don’t need ChatGPT to write letters and emails. Just send the prompts.
 - o poeta faz a sintese das coisas
 5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
 9. good writing is about telling the truth. we are species that needs and wants to understand who we are.
@@ -990,6 +1065,17 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 
 > *"The person who writes for fools is always sure of a large audience."  
 -- Arthur Schopenhauer*
+
+> *"We write things down, both to help us remember, and to help us forget."  
+-- Naval Ravikant*
+
+> *"Your most original writing is when you write for one audience: yourself." (...)  
+"Words are living things. They have personality, interests, ambitions, friends, and foes."  
+-- rapahelz@x*
+
+> *"Actually almost everything I've written that has survived was written when I didn't try to get anything done." (...)  
+"I want to write books that only those who read them claim they did."  
+-- Nassim Taleb*
 
 ### On email
 
@@ -1074,6 +1160,11 @@ Hints:
 
 ## On talent
 
+<!--
+- You discover your true intelligence once you start acting instead of overthinking.
+- IQ is like speed of running. If you run in a wrong direction, it will not help you.
+-->
+
 > *"The difference between sounding smart and being smart is «I don’t know»." (...)  
 "The real test of intelligence is if you get what you want from life."  
 -- Naval Ravikant*
@@ -1106,7 +1197,6 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 <!--
 > *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan*
-> *"Intelligence is no longer the bottleneck. Ingenuity is."  -- Sahil Lavingia*
 -->
 
 > *"What is the difference between a madman and a genious? Success."  
@@ -1148,6 +1238,15 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Genius is eternal patience."  
 -- Michaelangelo*
 
+> *"Intelligence is no longer the bottleneck. Ingenuity is."  
+-- Sahil Lavingia*
+
+> *"Knowledge is fragmented and scattered. Curious, creative people build bridges, establish links."  
+-- rapahelz@x*
+
+> *"Intellectuals pride themselves on their intelligence but they'd be more intelligent if they prided themselves on their curiosity."  
+-- g_s_bhogal@x*
+
 
 
 
@@ -1155,6 +1254,11 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 ---
 ## On wealth
+
+<!--
+- Wealth is the slave of the wise man and master of the fool.
+- «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
+-->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
 "No one is as impressed with your possessions as you are."  
@@ -1235,9 +1339,13 @@ Making money is not about luck.
 "Asymmetric opportunities: invest in startups. Start a company. Create a book, podcast, video. Create a (software) product. Go on many first dates. Go to a cocktail party. Read a Lindy book. Move to a big city. Buy bitcoin. Tweet."  
 -- Naval Ravikant*
 
+> *"He who works all day has no time to make money."  
+-- John D. Rockefeller*
+
 ### On money management
 
 <!--
+- It’s crazy to think the entire real estate market is propped up by what is essentially the entire middle class being 100x long.
 - inflation = printing money.
 - Stock buybacks are effectively same as dividends.
 - entrepreneurship vs investment - 2 different mentalities.
@@ -1284,6 +1392,9 @@ Hints:
 "I only believe in micro. I don’t believe in macro." (...)  
 "All returns in life, weather in wealth, relationships or knowledge come from compound interest." (...)  
 "A great reason to buy instead of renting is that you get to fire your landlord."  
+"Understanding economics means continually asking, «But at what cost?»" (...)  
+"Every generation has to learn the lesson of inflation firsthand." (...)  
+"Diversification is a hedge against a lack of knowledge."  
 -- Naval Ravikant*
 
 > *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
@@ -1306,6 +1417,10 @@ Scared money never wins. It’s all about the risk of losing money versus the ri
 -- Morgan Housel*
 
 ### How to spot good investments?
+
+<!--
+- I don't waste time with unpriced listings.
+-->
 
 > *"It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism."  
 -- Howard Marks*
@@ -1338,6 +1453,12 @@ Hints:
 > *"If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme."  
 -- Kevin Kelly*
 
+> *"I don’t buy property because I think the value is going to go up. I buy property because I can make the value go up."  
+-- realestatetrent@x*
+
+> *"The stock market is the only market where things go on sale and all the customers run out of the store." 
+-- cullenroche@x*
+
 
 
 
@@ -1360,7 +1481,8 @@ People say they want to be famous to impact the world, often what they want is t
 > *"If you’re not ready to be hated, you’re not ready to be famous." (...)  
 "The reward for getting on the stage is fame. The price of fame is that you can’t get off stage." (...)  
 "You want to be rich and anonymous, not poor and famous." (...)  
-"Venture funds sell brand for the right to invest money."  
+"Venture funds sell brand for the right to invest money." (...)  
+"You don’t want fame, you want respect. Respect comes from living up to their standards. You don’t want respect, you want self-respect. Self-respect comes from living up to your own standards. The same standards that you apply to other people."  
 -- Naval Ravikant*
 
 > *"Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product."  
@@ -1371,114 +1493,6 @@ People say they want to be famous to impact the world, often what they want is t
 
 > *"There is only one thing in the world worse than being talked about, and that is not being talked about."  
 -- Oscar Wilde*
-
-
-
-
-
-
----
-## On luck and risk
-
-<!--
-> *"The quality of your life is in direct proportion to the amount of uncertainty you can comfortably deal with." -- Tony Robbins*
-> *"We all have enough strength to endure the misfortunes of other people."  -- François de La Rochefoucauld*
-> *"I naufraghi prima o poi finiscono per incontrarsi."  -- M. Vázquez Montalban*
--->
-
-> *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
--- Ralph Waldo Emerson*
-
-> *"If you live long enough, most people will get what they deserve."  
--- Charlie Munger*
-
-Unless you’re winning, life will seem unfair to you.
-
-Bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn’t repeat on one’s lifetime. Everything is a pattern.
-
-Risk is everything you left over and didn’t thought about.
-
-	RISK = THREATS x VULNERABILITIES
-
-> *"Risk is what's left over when you think you've thought of everything."  
--- Carl Richards*
-
-> *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
--- Naval Ravikant*
-
-> *"The devil always takes back his gifts."  
--- Proverb*
-
-> *"Coincidence is God’s way of remaining anonymous." (...)  
-"God is subtle but he is not malicious."  
--- Albert Einstein*
-
-> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
--- Paulo Coelho*
-
-> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
--- Robert Schiller*
-
-> *"To dare is to lose one's footing momentarily. To not dare is to lose oneself."  
--- Soren Kierkegaard*
-
-### On chance
-
-> *"Luck is what happens when preparation meets opportunity."  
--- Seneca*
-
-Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
-
-> *"If you risk nothing, then you risk everything."  
--- Geena Davis*
-
-> *"Opportunity is missed by most of people because it is dressed in overalls and looks like work."  
--- Thomas Edison*
-
-> *"Things that come with little help of luck are more resistant to randomness."  
--- Nassim Taleb*
-
-> *"The day you decide to do it is your lucky day." (...)  
-"Luck sometimes visit a fool, but it never sits down with him."  
--- Proverbs*
-
-> *"Necessity is the mother of taking chances."  
--- Mark Twain*
-
-> *"In the realm of scientific observation, luck is granted only to those who are prepared."  
--- Louis Pasteur*
-
-> *"People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year."  
--- Peter Drucker*
-
-> *"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom."  
--- Anais Nin*
-
-> *"Only those who will risk going too far can possibly find out how far it is possible to go."  
--- T.S. Eliot*
-
-> *"Opportunity dances with those on the dance floor."  
--- Anonymous*
-
-### On hope and faith
-
-> *"Hope is a good breakfast, but it is a bad supper."  
--- Francis Bacon*
-
-> *"Hope is the bread of the poor."  
--- Proverb*
-
-> *"Hope is not a strategy."  
--- Vince Lombardi*
-
-> *"Hope is not the conviction that something will turn out well, but the certainty that something is worth doing no matter how it turns out."  
--- Václav Havel*
-
-> *"Faith: not wanting to know what is true."  
--- Friedrich Nietzsche*
-
-> *"Faith is patience with mystery."  
--- Richard Rohr*
 
 
 
@@ -1527,7 +1541,7 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 ## On health
 
 <!--
-> *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  -- RealJamesPierce@x*
+- Pain changes people. Some become rude. Some become silent.
 -->
 
 > *"The secret to living well and longer is: eat half, walk double, laugh triple and love without measure."  
@@ -1544,6 +1558,12 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison."  
 -- Ann Wigmore*
 
+> *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  
+-- RealJamesPierce@x*
+
+> *"If someone offered you a billion dollars with the only catch being that you’d have a pretty bad cold for the rest of your life, would you take it? Definite no for me and, I’d guess, for many of you. Really highlights how much more important health is than everything else."  
+-- Tim Urban*
+
 
 
 
@@ -1555,12 +1575,15 @@ Health is also an envy trigger. Often what people really envy is self-control.
 <!--
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
+> *"Muscle is proof of work ethic. Fat is proof of neglect."  giamacool@x*
+> *"If you are having too much fun, too much happiness, then something must be wrong as you 'ought' to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 
-- Muscle is proof of work ethic. Fat is proof of neglect. -- gia macool
+- You don't have to be rich to start living the life you want. Most people were just brainwashed into thinking that they wanted a luxurious, expensive lifestyle. A happy life tends to be much simpler: a healthy body, a mind at peace, a loving family, time to do what you love.
 - never before has a generation so diligently recorded themselves accomplishing so little.
 - some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
-- what’s your adrenaline type? velocidade ou fronteira do conhecido
+- what’s your adrenaline type? velocidade ou fronteira do conhecido.
+- Poor people spend to be seen. Wealthy people spend to be invisible.
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -1688,8 +1711,9 @@ Hints:
 ## On success
 
 <!--
+> *"The secret to success is retaining your child-like qualities."  -- Robert Green*
+> *"If you could literally just sit for 30 minutes and be happy, you are successful."  -- Naval Ravikant*
 > *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
-- sucess is a lonely pursuit. a relentless grind. -- codie sanchez
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -1750,6 +1774,9 @@ Hints:
 > *"Anything that is successful is a series of mistakes."  
 -- Billie Armstrong*
 
+> *"Your current results are just the visible output of your old decisions compounding over time. But since people evaluate based on short-term signals, they often misinterpret whether something is actually working. This is why so many businesses & individuals chase surface level metrics instead of real durable progress. Early effort often leads to decline before real takeoff, but most people quit before the inflection point."  
+-- signulll@x*
+
 ### On barriers to success
 
 Fear, not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit.
@@ -1809,13 +1836,18 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 "Tension is who you think should be. Relaxation is who you are."  
 -- Proverbs*
 
+> *"Social media is a great way to compare yourself to the top 1%."  
+-- Sahil Lavingia*
+
 ### On depression and anxiety
 
 <!--
 > *"The #1 reason to be anonymous is insecurity."  -- Sahil Lavingia*
-> *"Man is not worried by real problems so much as by his imagined anxieties about real problems."  -- Epictetus*
-> *"You have anxiety because deep down you know you could be doing bigger things."  -- Codey Sanchez*
+> *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  -- rapahelz@x*
 
+- You know a nigga depressed once he starts going on walks.
+- The more alone a man is, the more likely he is to get into "depression". Live alone, eat alone, work alone, never go out = depression. Spend more time with people, go out in nature, lift weights, and eat good food - no depression.
+- Turns out I wasn’t depressed, I just needed a job that fulfills me, a «date to marry» relationship, a consistent physical activity and high protein whole foods nutrition.
 - It took me 13 years to realize that the only cure to depression is just leaving the house at every single possible opportunity no matter how badly you don’t want to.
 - the only thing complaining does is convince other people that you are not in control.
 - cages aren't made of iron, they're made of thoughts.
@@ -1893,6 +1925,9 @@ Hints:
 "You’re offended when you fear that it might be true."  
 -- Naval Ravikant*
 
+> *"Man is not worried by real problems so much as by his imagined anxieties about real problems."  
+-- Epictetus*
+
 ### How to overcome them?
 
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
@@ -1923,6 +1958,9 @@ Hints:
 > *"The soul is healed by being with children."  
 -- Fyodor Dostoyevski*
 
+> *"You have anxiety because deep down you know you could be doing bigger things."  
+-- Codie Sanchez*
+
 
 
 
@@ -1932,12 +1970,6 @@ Hints:
 ## On fear
 
 <!--
-> *"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison."  -- Fyodor Dostoyevsky*
-> *"Hatred is the coward's revenge for being intimidated."  -- George Bernard Shaw*
-> *"Fear arrives when we imagine everything depends on us."  -- Elisabeth Elliot*
-> *"The cave you fear to enter, holds the treasure you seek."  -- Joseph Campbell*
-> *"No child is ever born afraid. Fear is learned... So is courage."  -- Codey Sanchez*
-
 - What would you do if you weren't afraid?
 - dishonesty is a reaction to fear. fear just wants us to stay the same.
 - climbing out the hole is about letting go of pride.
@@ -1981,12 +2013,14 @@ Fear makes the wolf bigger than he really is.
 "That which we need the most will be found where we least want to look."  
 -- Carl Jung*
 
+> *"The cave you fear to enter, holds the treasure you seek."  
+-- Joseph Campbell*
+
 ### On courage
 
 <!--
 > *"He who jumps into the void owes no explanation to those who stand and watch."
-> *"You cannot fix what you will not face."  -- James Baldwin*
-> *"The Roman army rule:  action removes fear."  -- Nassim Taleb*
+
 - bravery is learned -> micro-bravery, start small
 -->
 
@@ -2046,6 +2080,13 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Speak your mind, even if your voice shakes."  
 -- Maggie Smith*
 
+> *"A man without a heroic bent starts dying at the age of thirty." (...)  
+"Virtue signaling is virtue without courage, without skin in the game, which is why it is getting more common."  
+-- Nassim Taleb*
+
+> *"No child is ever born afraid. Fear is learned... So is courage."  
+-- Codie Sanchez*
+
 ### How to increase courage?
 
 > *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
@@ -2066,6 +2107,9 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"A man of courage is also full of faith."  
 -- Cicero*
 
+> *"The Roman army rule: action removes fear."  
+-- Nassim Taleb*
+
 
 
 
@@ -2073,13 +2117,6 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 
 ---
 ## On failure
-
-<!--
-> *"The more you live like you are already who you want to become, the faster it will turn into a reality."  -- Cory Allen*
-> *"Failure is success if we learn from it."  -- Malcolm Forbes*
-> *"One's only rival is one's own potentialities. One's only failure is failing to live up to one's own possibilities. In this sense, every man can be a king, and must therefore be treated like a king."  -- Abraham Maslow*
-> *"Our greatest glory is not in never falling, but in rising every time we fall."  -- Confucius*
--->
 
 > *"Experience is merely the name men gave to their mistakes."  
 -- Oscar Wilde*
@@ -2134,7 +2171,17 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 > *"Failure is only the opportunity to begin again more intelligently."  
 -- Henry Ford*
 
+> *"Our greatest glory is not in never falling, but in rising every time we fall."  
+-- Confucius*
+
+> *"I'm not afraid of failure, I'm afraid of being in the exact same place next year."  
+-- thejustinwelsh@x*
+
 ### On anger
+
+<!--
+- Most angry people are envious people who don’t understand that life will only get better once they are focused on their own lives and actively improving who they are.
+-->
 
 > *"The more you know who you are, and what you want, the less you let things upset you."  
 -- Bob Harris (Lost in translation)*
@@ -2151,6 +2198,8 @@ Hint:
 ### On scars and wounds
 
 <!--
+> *"Words can’t hurt you, they can only hurt your image of you."  -- Naval Ravikant*
+
 - i don't hide my scars. they are proof that i showed up for life. and fought.
 - if you don't heal what hurt you, you'll bleed on people who didn't cut you.
 -->
@@ -2193,11 +2242,9 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 ## On shame, confidence and validation
 
 <!--
-> *"Out of your vulnerabilities will come your strength."  -- Sigmund Freud*
-> *"The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you. Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved."  -- William Jennings Bryan*
-> *"The curious paradox is that when I accept myself just as I am, then I can change."  -- Carl Rogers*
-> *"Most excuses are just explanations. They don’t excuse anything."  -- Mark Manson*
-
+- How you view yourself is how people will view you.
+- People with low self-esteem protect themselves by not taking risks. High self-esteem gives you the power of confidence to take chances.
+- Normalize this. Normalize that. How about you feel shame for once?
 - you cannot live when you are untouchable. Life is vulnerability.
 - Do what scares you until it doesn't.
 - humble enough to know i'm replaceable. cocky enough to know is a downgrade.
@@ -2222,11 +2269,13 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 > *"Insecurity is the result of trying to be secure."  
 -- Alan Watts*
 
+> *"The curious paradox is that when I accept myself just as I am, then I can change."  
+-- Carl Rogers*
+
 ### On confidence and validation
 
 <!--
-> *"This is the essence of the abundance mindset – confidence is derived from options."  -- Rollo Tomasi*
-> *"If you lack confidence, build evidence."  -- Alex Hormozi*
+- People who lack self-confidence love to make fun of others and denigrate their success, that’s how they feel better about themselves, don’t take it personally.
 -->
 
 > *"One who believes in himself has no need to convince others." (...)  
@@ -2258,6 +2307,7 @@ Hints:
 - Confidence come from some success. You need some accomplishment to get there.
 - Everything you’re running away is in your head. We hold on to something so tight because we fear something so great won’t happen twice.
 - Money problems are self-confidence problems.
+- Confident people don’t crave attention.
 
 > *"The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence."  
 -- Charles Bukowski*
@@ -2265,11 +2315,15 @@ Hints:
 > *"Guilt is society’s voice speaking in your head." (...)  
 "Self-esteem is just the reputation you have with yourself. You’ll always know." (...)  
 "Ego is false confidence, self-respect is true confidence." (...)  
+"Seek validation through creation, not through appreciation." (...)  
 "You are a story you tell yourself."  
 -- Naval Ravikant*
 
 > *"Self-confidence is the memory of success."  
 -- David Storey*
+
+> *"Out of your vulnerabilities will come your strength."  
+-- Sigmund Freud*
 
 ### How to overcome shame and grow confidence?
 
@@ -2289,7 +2343,17 @@ When hiding something about yourself, you automatically create shame. You’re s
 > *"Just get out of the room."  
 -- Robert Glover*
 
+> *"Confidence is derived from options."  
+-- Rollo Tomasi*
+
+> *"Cringe is to mental growth what muscle soreness is to physical growth."  
+-- cpaik@x*
+
 ### On entitlement and ego
+
+<!--
+- People will tolerate a bit of arrogance if you are talented and still young; but once you get older, you understand that you could have attracted many more opportunities if you had had the intelligence to learn humility earlier in life.
+-->
 
 > *"Arrogance is a smokescreen for insecurity."  
 -- Amy Cuddy*
@@ -2307,12 +2371,6 @@ Entitlement comes in two forms:
 > *"The first part of life is devoted to forming an healthy ego. The second half is going inward and letting go of it."  
 -- Carl Jung*
 
-### On arrogance
-
-There’s always room for improvement; be humble. There is no place for a «prima donna».
-
-If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
-
 > *"I am not young enough to know everything."  
 -- Oscar Wilde*
 
@@ -2326,6 +2384,25 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 > *"A good deed dies when it is spoken about."  
 -- Proverb*
 
+### On addictions
+
+<!--
+> *"Smart people are so good at discovering their own flaws but so mid at actually fixing them. Is the solution to most of their problems just experimental drugs or getting a job in sales?"  -- anuatluru@x*
+> *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you're actually extroverted around people who bring you peace."  -- Zachary Laid*
+
+- signs of a man who has lost control of his life: watch porn. addicted to comfort. addicted to drugs and alcohol. spend all day indoor.
+- So many men lose themselves trying to make an ungrateful woman happy.
+- Porn isn’t real sex. Cocaine isn't real energy. Alcohol isn't real courage. Gambling isn't real investing. Nightly news isn't real facts. Social media isn't really social. Business books aren't real business.
+-->
+
+> *"The three most harmful addictions are heroin, carbohydrates, and a monthly sallary."  
+-- Nassim Taleb*
+
+Nietzsche describes 3 modern vices: OVERWORK (to be constantly busy is self-negation. It betrays a «will to forget» oneself), CURIOSITY (vague curiosity about everything, without deep obsessions, goes nowhere), SYMPATHY (sympathy for all means a refusal to rank good and bad).
+
+> *"Addiction to knowledge is like any other addiction. It offers an escape from the fear of emptiness, of loneliness, of frustration, the fear of being nothing."  
+-- K__Quotes@x*
+
 
 
 
@@ -2334,23 +2411,19 @@ If you’re not improving today, you’re regressing. Skills are perishable, and
 ---
 ## On jealousy and envy
 
-<!--
-> *"Envy is the dark side of admiration. Inspiration is the bright side of admiration."  -- rapahelz@x*
-> *"If someone's insults bother you; it is evidence that you respect him."  -- Nassim Taleb*
-
--->
-
 > *"You’ll never be criticized by someone who is doing more than you. You’ll always be critized by someone who is doing less. Remember that."  
 -- Denzel Washington*
 
 > *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
 -- Henry Thomas Buckle*
 
+Envy is a sign that you are not focused on your life.
+
 Jealousy is the face of low self-esteem. An healthy mind does not speak ill of others.
 
 Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, fame, luck, beauty, health, sucess and lifestyle (freedom) are the main triggers.
 
-Treat haters like toddlers. When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy - they think that you’re better than them. If someone is copying you, you won.
+Treat haters like toddlers. When people criticize your life they are speaking about their fears and limitations not yours. Only take advice from those achieving what you want to achieve. Ignore and be flattered by the rest. Never hate people who are jealous of you. Respect their jealousy - they think that you’re better than them. If someone is copying you, you won. Jealousy comes in jokes, pay attention.
 
 > *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence." (...)  
 "If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut."  
@@ -2363,7 +2436,8 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 -- Te’ V. Smith*
 
 > *"Think as you like but behave like others." (...)  
-"Never appear too perfect."  
+"Never appear too perfect." (...)  
+"If people with natural gifts also possess a good work ethic and have some luck in life, envy will follow them wherever they go."  
 -- Robert Greene*
 
 > *"Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you."  
@@ -2384,6 +2458,9 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 > *"The first art of kings is to endure hatred."  
 -- Seneca*
 
+> *"If someone's insults bother you; it is evidence that you respect him."  
+-- Nassim Taleb*
+
 However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
 
 > *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
@@ -2402,6 +2479,9 @@ Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 > *"That which we are capable of feeling, we are capable of saying."  
 -- Miguel Cervantes*
 
+> *"Someone could be more successful than you and still envy you because your character carries more weight than their status."  
+-- pallnandi@x*
+
 
 
 
@@ -2411,8 +2491,6 @@ Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 ## On pessimism
 
 <!--
-> *"Optimists are focused on rewards. Pessimists are focused on risks."  -- rapahelz@x*
-
 > *"You’ll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."*
 -->
 
@@ -2444,6 +2522,12 @@ Hints:
 > *"Pessimists sound smart. Optimists make money."  
 -- Nat Friedman*
 
+> *"Optimists are focused on rewards. Pessimists are focused on risks."  
+-- rapahelz@x*
+
+> *"An optimist expects his dreams to come true; a pessimist expects his nightmares to."  
+-- Laurence J. Peter*
+
 > *"I’m always looking for a way to make it happen, not excuses why it won’t work."  
 -- Aaron Walker*
 
@@ -2460,8 +2544,8 @@ Hints:
 > *"Keep you thoughts positive because your thoughts become your words. Keep your thoughts positive because your words become your behaviour. Keep your behavior positive because your behavior becomes your habits. Keep your habits positive because your habits becomes your values. Keep your values positive because your values become your destiny."  
 -- Mahatma Gandhi*
 
-> *"An optimist expects his dreams to come true; a pessimist expects his nightmares to."  
--- Laurence J. Peter*
+> *"Complaints don't deliver complaints, they mostly reveal your weakness."  
+-- Nassim Taleb*
 
 ### On worry
 
@@ -2480,10 +2564,6 @@ Worrying is worshipping the problem. If you panic, panic early.
 
 ---
 ## On perfectionism
-
-<!--
-> *"People don’t do hard things because it makes them feel soft."  -- alexhormozi@x*
--->
 
 > *"Perfectionism is the fear of being criticized."  
 -- Caroline Myss*
@@ -2520,6 +2600,9 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 > *"If I had any humility I would be perfect."  
 -- Ted Turner*
 
+> *"People don’t do hard things because it makes them feel soft."  
+-- alexhormozi@x*
+
 
 
 
@@ -2529,7 +2612,6 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 ## On limits
 
 <!--
-> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  -- Terence McKenna*
 - we are wired to blame: we blame ourselves or teh others. we are obsessed with fault.
 -->
 
@@ -2591,12 +2673,19 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 > *"When nothing is sure, everything is possible."  
 -- Margaret Drabble*
 
+> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  
+-- Terence McKenna*
+
 ### On expectations
 
 > *"Expectations are resentments waiting to happen."  
 -- Brene Brown*
 
 ### On motivation
+
+<!--
+- everyone is motivated until the 4AM alarm, then it's discipline.
+-->
 
 > *"With a strong enough «why», you can overcome any «how»."  
 -- Tony Robbins*
@@ -2672,6 +2761,12 @@ Hints:
 ---
 ## On growing old
 
+<!--
+- Spiritual maturity begins when we feel like we have to stop taking care of the world.
+- As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life.
+- At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don't know.
+-->
+
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett*
 
@@ -2700,6 +2795,9 @@ After reaching a certain age, you are no longer seen as an individual; you becom
 
 > *"My objective is to die with my shoes on."  
 -- Nassim Taleb*
+
+> *"You’re a kid until you have kids."  
+-- Sahil Lavingia*
 
 ### On aging
 
@@ -2739,6 +2837,11 @@ Aging implies wear and tear, often seen as a high price to pay for maturity.
 -- Moms Mabley*
 
 ### On maturity
+
+<!--
+- Maturity is when you don't force people to choose you.
+- Normalize this by age 30: Talk slow. Be clear. Never mumble. Don't interrupt.
+-->
 
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
 -- Kevin Kelly*
@@ -2806,3 +2909,6 @@ Finding a place to die is an important thing to do.
 
 > *"If you are afraid of loneliness, don't marry."  
 -- Anton Chekhov*
+
+> *"A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free."  
+-- Arthur Schopenhauer*
