@@ -187,4 +187,4 @@ One last advice for introverts:
 
 <hr>
 
-Copyright © 2016-2024 Enio Ferreira | [FAQ](FAQ.md)
+Copyright © 2016-NOW Enio Ferreira | [FAQ](FAQ.md)

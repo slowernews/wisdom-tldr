@@ -8,12 +8,17 @@
 
 ## Who are you?
 
+<!--
+> *"Our life always expresses the result of our dominant thoughts."  -- Soren Kierkegaard*
+> *"You are what you eat and read."  -- Maya Corrigan*
+-->
+
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant*
 
 Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
 
-A big part of who you are is who you're not.
+A big part of who you are is who you’re not.
 
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen*
@@ -35,6 +40,10 @@ A big part of who you are is who you're not.
 -- Naval Ravikant*
 
 ### The real you
+
+<!--
+> *"The privilege of a lifetime is to become who you truly are."  -- Carl Jung*
+-->
 
 Your new life will cost you your old one. Do not fear your own potential.
 
@@ -62,7 +71,7 @@ Your new life will cost you your old one. Do not fear your own potential.
 > *"The most common form of despair is not being who you are."  
 -- Soren Kierkegaard*
 
-> *"Perhaps you're a slave to your own idea of yourself."  
+> *"Perhaps you’re a slave to your own idea of yourself."  
 -- D.W. Lawrence*
 
 > *"Everyone thinks of changing the world, but no one thinks of changing himself."  
@@ -83,7 +92,7 @@ Your new life will cost you your old one. Do not fear your own potential.
 > *"The world is changed by your example, not by your opinion."  -- Paulo Coelho*
 
 - The longer you are living on autopilot, the harder the future is going to be.
-- It's not the lack of intelligence, it's the lack of focus that is stopping you.
+- It’s not the lack of intelligence, it’s the lack of focus that is stopping you.
 -->	
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
@@ -92,7 +101,7 @@ Your new life will cost you your old one. Do not fear your own potential.
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
 -- Richard Bach*
 
-No matter where you are in your life, you have the power to change everything in an instant. Most won't. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
+No matter where you are in your life, you have the power to change everything in an instant. Most won’t. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
 
 > *"Action expresses priorities."  
 -- Mahatma Ghandi*
@@ -103,12 +112,12 @@ No matter where you are in your life, you have the power to change everything in
 > *"The shell must break before the bird can fly."  
 -- Alfred Tennyson*
 
-> *"You often feel tired, not because you've done too much, but because you've done too little of what sparks a light in you." (...) 
-"It's not finding yourself that's hard; it's facing yourself that is." (...)  
-"When a flower doesn't bloom, you fix the environment in which it grows, not the flower."  
+> *"You often feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you." (...) 
+"It’s not finding yourself that’s hard; it’s facing yourself that is." (...)  
+"When a flower doesn’t bloom, you fix the environment in which it grows, not the flower."  
 -- Alexander Den Heijer*
 
-> *"Had I not created my whole world, I would certainly have died in other people's."  
+> *"Had I not created my whole world, I would certainly have died in other people’s."  
 -- Anais Nin*
 
 > *"Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive."  
@@ -129,7 +138,7 @@ No matter where you are in your life, you have the power to change everything in
 > *"People seldom do what they believe in. They do what is convenient, then repent."  
 -- Bob Dylan*
 
-> *"I'd woke up early and I took a long time getting ready to exist."  
+> *"I’d woke up early and I took a long time getting ready to exist."  
 -- Fernando Pessoa*
 
 > *"Always stick to what makes you weird, odd, strange, different. That’s your source of power."  
@@ -142,21 +151,28 @@ No matter where you are in your life, you have the power to change everything in
 ---
 ## On finding your path
 
+<!--
+> *"If the path before you is clear, you’re probably on someone else’s."  -- Carl Jung*
+> *"The path to paradise begins in hell."  -- Dante Alighieri*
+- life is not about finding yourself. life is about creating yourself.
+- Better to admit you walked to the wrong door than spend your life in the wrong room.
+-->
+
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman*
 
 You are not behind, you are on a different path.
 
-The path will be revealed as you start walking. Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you're not where you use to be.
+The path will be revealed as you start walking. Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you’re not where you use to be.
 
 Hints:
 
 - Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.
 - Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.
 - Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.
-- The trouble with setting goals is that you're constantly working toward what you used to want. Old keys won't open new doors.
+- The trouble with setting goals is that you’re constantly working toward what you used to want. Old keys won’t open new doors.
 - It’s easier to ask forgiveness than to get permission.
-- We say we try to get better but if look at your behaviour you'll see you actually are trying to to stay the same.
+- We say we try to get better but if look at your behaviour you’ll see you actually are trying to to stay the same.
 - Focus on financial freedom first. Put your happiness before goals.
 
 > *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment."  
@@ -180,7 +196,7 @@ Hints:
 > *"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."  
 -- E.B. White*
 
-> *"If the path is clear, you're probably on someone else's."  
+> *"If the path is clear, you’re probably on someone else’s."  
 -- Carl Jung*
 
 > *"Only he who wanders, find new paths."  
@@ -190,7 +206,7 @@ Hints:
 -- Admiral William Mcraven*
 
 > *"It is possible for ordinary people to choose to be extraordinary." (...)  
-"If you need inspiration, don't do it."  
+"If you need inspiration, don’t do it."  
 -- Elon Musk*
 
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
@@ -199,7 +215,7 @@ Hints:
 > *"Home is not where you are born; home is where all your attempts to escape cease."  
 -- Naguib Mahfouz*
 
-> *"One's destination is never a place, but a new way of seeing things."  
+> *"One’s destination is never a place, but a new way of seeing things."  
 -- Henry Miller*
 
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
@@ -220,7 +236,7 @@ Hints:
 > *"If someone says can’t, that shows you what to do."  
 -- John Cage*
 
-> *"If you can't, you must. If you must, you can."  
+> *"If you can’t, you must. If you must, you can."  
 -- Tony Robbins*
 
 > *"Don’t argue your path with other people. Walk it."  
@@ -254,14 +270,13 @@ Hints:
 ### On ambition
 
 <!--
-
 - The ultimate question: Do you want you son/daughter to date someone like you?
 - everything wants you when you want nothing
 - If you’re not trying to make money, what are you even doing?
 -->
 
-> *"The best thing about Elon Musk is that he makes me question if i'm thinking big enough with my life." (...)  
-"I'm not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
+> *"The best thing about Elon Musk is that he makes me question if i’m thinking big enough with my life." (...)  
+"I’m not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
 -- Naval Ravikant*
 
 Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
@@ -291,7 +306,10 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 
 <!--
 > *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Schopenhauer*
-> *"We will only have work-life balance when we feel safe at home and feel safe at work."  -- simonsinek@x*
+> *"We will only have work-life balance when we feel safe at home and feel safe at work."  -- Simon Sinek*
+> *"The literal meaning of life is whatever you’re doing that prevents you from killing yourself."  -- Albert Camus*
+
+- basically your job here on earth is to make 1-2-3 decisions in your life extremely well, and the rest is a rounding error.
 -->
 
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."  
@@ -309,7 +327,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."  
 -- Maya Angelou*
 
-> *"When a person can't find a deep sense of meaning, they distract themselves with pleasure."  
+> *"When a person can’t find a deep sense of meaning, they distract themselves with pleasure."  
 -- Viktor Frankl*
 
 > *"Of course life has no point. If it had, man would not be free."  
@@ -344,7 +362,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"You can’t go back and change the beginning, but you can start where you are and change the ending."  
 -- C.S. Lewis*
 
-> *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn't the answer. It just gave us a glimpse of the possibility."  
+> *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn’t the answer. It just gave us a glimpse of the possibility."  
 -- John Lennon*
 
 > *"What’s right is what’s left if you do everything else wrong."  
@@ -364,7 +382,6 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 
 <!--
 - If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
-> *"Worthless friends. These friendships increase your happyness."  -- Codie Sanchez*
 
 - Men give up happyness for their family. Women give up family for their happyness.
 - You are happy because you are surrounded by people you trust and love. You are healthy because you are in control of your impulses and habits. You are wealthy because you started investing long-term decades ago. You are relaxed because you are in control of your time.
@@ -447,14 +464,17 @@ Hints:
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
 -- Robert A. Heinlein*
 
-> *"You want happyness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happyness. Or jail."  
+> *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happyness. Or jail."  
 -- wuwei113@x*
 
 > *"A common trait of unhappy people: they love to criticize everything and everyone all the time, they get distracted by things that don’t matter. A common trait of happy people: they are focused on themselves, their business, their family and friends, their difficult goals."  
 -- orangebook_@x*
 
-> *"Nobody can make you happy until you're happy with yourself first."  
+> *"Nobody can make you happy until you’re happy with yourself first."  
 -- proffeynman@x*
 
 > *"The happiest people I know are slowing down, not speeding up."  
 -- thejustinwelsh@x*
+
+> *"Worthless friends. These friendships increase your happiness."  
+-- codie_sanchez@x*

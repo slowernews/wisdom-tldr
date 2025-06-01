@@ -11,9 +11,13 @@
 ## On autonomy
 
 <!--
-> *"I'm a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams*
-- when you don't want to be interesting you are free. -- moojy
+> *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams*
+> *"Never never compromise. Say it the way it is."  -- Nassim Taleb*
+
+- when you don’t want to be interesting you are free. -- moojy
 - Freedom to -> freedom from -- naval
+
+- Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
 
 - Don’t build your castle in other peoples kingdom’s
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
@@ -91,7 +95,7 @@ Hints:
 - Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 - You are shaped by how you see others seeing you.
-- tetris taught me that when you try to fit in, you'll disappear.
+- tetris taught me that when you try to fit in, you’ll disappear.
 -->
 
 > *"When we see truth in a person we call it authenticity."  
@@ -136,6 +140,8 @@ Hints:
 ### On accountability
 
 <!--
+> *"Make two people proud: your 8-year-old self and your 80-year-old self."  -- David Perell*
+
 - every damn thing is your own fault, if you are any good.
 - chi sei? sono l’evoluzione di tutti i miei errori.
 - Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
@@ -170,6 +176,8 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 ### On trust and reputation
 
 <!--
+> *"If you worry about your reputation you don’t deserve to have one."  -- Nassim Taleb*
+
 - A person who trusts no one now, once trusted someone too much.
 -->
 
@@ -199,9 +207,6 @@ Trust, not money, is the currency of business and life.
 
 > *"To be trusted is a greater compliment than being loved."  
 -- George Mcdonald*
-
-> *"To be trusted is a greater compliment than being loved."  
--- Leo Tolstoy*
 
 > *"You will earn the respect of all if you begin earning the respect of yourself."  
 -- Rufus*
@@ -370,7 +375,6 @@ Blessed are the restless.
 ### On agency
 
 <!--
-> *"«You’re doing it all wrong», said someone doing nothing at all." -- Sahil Lavingia*
 -->
 
 > *"The most difficult is the decision to act, the rest is just tenacity."  
@@ -381,7 +385,7 @@ Hints:
 - Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
 - «It’s on documentation. If it’s not add it.»
 - Without commitment, you’ll never start. Without consistency, you’ll never finish.
-- You don't need 100 self-help books, all you need is action + self-discipline.
+- You don’t need 100 self-help books, all you need is action + self-discipline.
 - Get your dopamine from action.
 
 > *"Doing is faster than watching."  
@@ -399,10 +403,14 @@ Hints:
 > *"If not you, who? If not now, when?"  
 -- Rabbi Hillel*
 
-> *"If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission."  
+> *"If it’s a good idea, go ahead and do it. It’s much easier to apologize than it is to get permission."  
 -- Rear Admiral Grace Hopper*
 
 ### On resilience
+
+<!--
+- Consistency is boring to watch. But impossible to compete with.
+-->
 
 > *"Our patiente will achieve more than our force."  
 -- Edmund Burke*
@@ -436,6 +444,9 @@ Hints:
 
 > *"Your growth depends on your ability to absorb criticisms. Your success depends on your ability to absorb failures. Your survival depends on your ability to absorb traumas."  
 -- rapahelz@x*
+
+> *"Desires makes slaves out of kings, and patience makes kings out of slaves."  
+-- Imam Al Ghazali*
 
 
 
@@ -507,7 +518,7 @@ Hints:
 
 Being risk-prone is better than being risk-averse, but don’t allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is NOT about experiencing pain.
 
-> *"If your life is free of failures, you're not taking enough risks."  
+> *"If your life is free of failures, you’re not taking enough risks."  
 -- H. Jackson Brown*
 
 
@@ -517,6 +528,10 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 
 ---
 ## On improving
+
+<!--
+> *"We grow the most when we practice the skills we are worst at."  -- Dokeshi no michi*
+-->
 
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill*
@@ -532,7 +547,7 @@ The accumulation of experience and the analysis of past situations will structur
 Hints:
 
 - Listen to someone explaining challenging techniques, and then attempt to follow their advice. Seek feedback as it accelerates learning.
-- If it’s easy and you're not surprised, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That’s when real learning occurs.
+- If it’s easy and you’re not surprised, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That’s when real learning occurs.
 - Reflect on your mistakes; try to identify the cues you missed and what to look for next time.
 - Repeat.
 
@@ -578,10 +593,10 @@ Hints:
 > *"The right way to do things is not to try to persuade people you’re right but to challenge them to think it through for themselves."  
 -- Noam Chomsky*
 
-> *"You should take the approach that you're wrong. Your goal is to be less wrong."  
+> *"You should take the approach that you’re wrong. Your goal is to be less wrong."  
 -- Elon Musk*
 
-> *"Knowledge isn't free. You have to pay attention."  
+> *"Knowledge isn’t free. You have to pay attention."  
 -- Richard Feynman*
 
 > *"You can only be as good as you dare to be bad."  
@@ -634,7 +649,7 @@ Hints:
 ### On applied knowledge
 
 <!--
-- don't be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
+- don’t be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
 - sabios c six packs
 -->
 
@@ -659,6 +674,7 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 
 <!--
 > *"He who lives without folly is less wise than he believes.*
+- knowledge is knowing what to say. wisdom is knowing when to say it.
 -->
 
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
@@ -748,7 +764,7 @@ Introverts have more probability of being an expert in their field. Extraversion
 > *"Amateurs play for tricks, masters play for position."
 -- pystack@hn*
 
-> *"Don't play what's there, play what's not there."  
+> *"Don’t play what’s there, play what’s not there."  
 -- Miles Davis*
 
 > *"This has always been a motto of mine: Attempt the impossible in order to improve your work."  
@@ -769,7 +785,7 @@ Introverts have more probability of being an expert in their field. Extraversion
 > *"Clarity precedes mastery."  
 -- Robin Sharma*
 
-> *"In the beginner's mind there are many possibilities, in the expert's mind there are few."  
+> *"In the beginner’s mind there are many possibilities, in the expert’s mind there are few."  
 -- Shunryu Suzuki*
 
 > *"One can have no smaller or greater mastery then mastery of oneself."  
@@ -796,9 +812,11 @@ Introverts have more probability of being an expert in their field. Extraversion
 ## On education
 
 <!--
-- The modern education system doesn't create leaders. It creates followers. Escape the matrix.
+> *"People think of education as something that they can finish."  -- Isaac Asimov*
+
+- The modern education system doesn’t create leaders. It creates followers. Escape the matrix.
 - Young men could learn anything if you questify schools.
-- the problem is not, and never have been, "as good as a professional". It has always been "it's good enoughto replace a professional so it'll be cheaper." the key thing about AI is that AI+human is waht we'll do.
+- the problem is not, and never have been, "as good as a professional". It has always been "it’s good enoughto replace a professional so it’ll be cheaper." the key thing about AI is that AI+human is waht we’ll do.
 - deliberate practice
 - He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
 - career day an year -> journaling self analysis. skill fluency!
@@ -889,12 +907,12 @@ College education may help you make a living. Self-education may make you a fort
 -- Pedro Domingos*
 
 > *"University is just expensive procrastination."  
--- LayahHeilpern@x* 
+-- layahheilpern@x* 
 
 > *"School: success stems from conformity and consensus. Life: success stems from curiosity and creativity."  
 -- rapahelz@x*
 
-> *"When elite universities uploaded all of their courses online for public consumption, we collectively realized that the limiting reagent for global intelligence is not access to information, it's motivation."  
+> *"When elite universities uploaded all of their courses online for public consumption, we collectively realized that the limiting reagent for global intelligence is not access to information, it’s motivation."  
 -- cpaik@x*
 
 > *"Only the autodidacts are free."  
@@ -908,9 +926,9 @@ Hints:
 - School fails in subjects like: how to build self confidence / how to be good with money / dating and relationships skills / confrontation skills / critical thinking / creative productivity.
 - Education leads toward a continuing self-discovery; training leads toward a final self-definition.
 - School rewards generalists, the world not so.
-- School's real study topic is obedience. No one is going to give you the education you need to overthrow them.
+- School’s real study topic is obedience. No one is going to give you the education you need to overthrow them.
 - Success is the worst teacher.
-- The biggest mistake anyone makes when studying a foreign language is that they do it little by little, not jumping into it head first. Language is not mathematics; one doen't need to learn it, one needs to get accustomed to it. It's not about logic or memory; It's about experience and skill.
+- The biggest mistake anyone makes when studying a foreign language is that they do it little by little, not jumping into it head first. Language is not mathematics; one doen’t need to learn it, one needs to get accustomed to it. It’s not about logic or memory; It’s about experience and skill.
 
 > *"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths." (...)  
 "Study math to understand physics. Study physics to understand chemistry. Study chemistry to understand biology. Study biology to understand psychology. Study psychology to understand economics. Study economics and philosophy to be free." (...)  
@@ -1003,16 +1021,19 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 ## On writing
 
 <!--
-> *"What no spouse of a writer can ever understand is that a writer is working when he's staring out the window.*
+> *"Write from your heart. Rewrite from your head."  -- Phoebe Waller-Bridge*
+> *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
+> *"Make it personal enough so you feel embarrassed to share it."  -- Quentin Tarantino*
+> *"Life is always going to be stranger than fiction. Because fiction has to convincing. And life doesn’t."  -- Neil Gaiman*
 
 - We don’t need ChatGPT to write letters and emails. Just send the prompts.
 - o poeta faz a sintese das coisas
-5. I wrote down the funny stuff I overheard. I learned to be like a ship's rat, veined ears trembling, and i learned to scribble it all down.
+5. I wrote down the funny stuff I overheard. I learned to be like a ship’s rat, veined ears trembling, and i learned to scribble it all down.
 9. good writing is about telling the truth. we are species that needs and wants to understand who we are.
 13. become a better writer is going to help you become a better reader, and that is the real payoff.
 15. e.l.doctorow once said that: "writing a novel is like driving a car at night. you can see only as far as your headlights, but you can make the hole trip that way."
 45. when people shine a little light on their monster, we find out how similar most of our monsters are.
-46. we write to expose the unexposed. If there's one door in teh castle you have been told not to go through, you must. Otherwise, you'll just be rearranging furniture in rooms you've already been in.
+46. we write to expose the unexposed. If there’s one door in teh castle you have been told not to go through, you must. Otherwise, you’ll just be rearranging furniture in rooms you’ve already been in.
 47. Annie Dillard has said that day by day you have to give the work before you all teh best stuff you have, not saving up for later projects. If you give freely, there will always be more.
 49. becoming a writer is about becoming conscious.
 50. you can either set a brick as a laborer or as an artist.
@@ -1054,7 +1075,7 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 "When you are consumed by thoughts, write. When you are uninspired, read."  
 -- Stephen King*
 
-> *"There's nothing to writing. All you do is sit at a typewriter and open a vein."  
+> *"There’s nothing to writing. All you do is sit at a typewriter and open a vein."  
 -- Red Smith*
 
 > *"Read a thousand books and your words will flow like a river."  
@@ -1073,7 +1094,7 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 "Words are living things. They have personality, interests, ambitions, friends, and foes."  
 -- rapahelz@x*
 
-> *"Actually almost everything I've written that has survived was written when I didn't try to get anything done." (...)  
+> *"Actually almost everything I’ve written that has survived was written when I didn’t try to get anything done." (...)  
 "I want to write books that only those who read them claim they did."  
 -- Nassim Taleb*
 
@@ -1217,7 +1238,7 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Some people feel the rain. Others just get wet."  
 -- Bob Marley*
 
-> *"If you have to ask what jazz is, you'll never know."  
+> *"If you have to ask what jazz is, you’ll never know."  
 -- Louis Armstrong*
 
 > *"Andy Warhol is the only genius I’ve ever known with an IQ of 60."  
@@ -1244,7 +1265,7 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Knowledge is fragmented and scattered. Curious, creative people build bridges, establish links."  
 -- rapahelz@x*
 
-> *"Intellectuals pride themselves on their intelligence but they'd be more intelligent if they prided themselves on their curiosity."  
+> *"Intellectuals pride themselves on their intelligence but they’d be more intelligent if they prided themselves on their curiosity."  
 -- g_s_bhogal@x*
 
 
@@ -1256,6 +1277,8 @@ Intelligence is a spectrum, your dog is intelligent also.
 ## On wealth
 
 <!--
+> *"We are not rich by what we possess but by we can do without."  -- Immanuel Kant*
+
 - Wealth is the slave of the wise man and master of the fool.
 - «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
 -->
@@ -1345,6 +1368,9 @@ Making money is not about luck.
 ### On money management
 
 <!--
+> *"I disagree with the followers of Marx and those of Adam Smith: the reason free markets work is because they allow people to be lucky, thanks to aggressive trial and error, not by giving rewards or "incentives" for skill."  -- Nassim Taleb*
+
+- Salary is for expenses. Equity is wealth. Invest in yourself and stop renting your time. Be an owner.
 - It’s crazy to think the entire real estate market is propped up by what is essentially the entire middle class being 100x long.
 - inflation = printing money.
 - Stock buybacks are effectively same as dividends.
@@ -1413,13 +1439,13 @@ Scared money never wins. It’s all about the risk of losing money versus the ri
 > *"The safest way to double your money is to fold it over once and put it in your pocket."  
 -- Kin Hubbard*
 
-> *"I'm not interested in anything that's not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can't keep it going, I'm not interested in it."  
+> *"I’m not interested in anything that’s not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can’t keep it going, I’m not interested in it."  
 -- Morgan Housel*
 
 ### How to spot good investments?
 
 <!--
-- I don't waste time with unpriced listings.
+- I don’t waste time with unpriced listings.
 -->
 
 > *"It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism."  
@@ -1459,6 +1485,9 @@ Hints:
 > *"The stock market is the only market where things go on sale and all the customers run out of the store." 
 -- cullenroche@x*
 
+> *"Never take investment advice from someone who has to work for a living."   
+-- Nassim Taleb*
+
 
 
 
@@ -1468,7 +1497,8 @@ Hints:
 ## On popularity
 
 <!--
-> *"We'll know that rock is dead when you have to get a degree to work in it."*
+> *"We’ll know that rock is dead when you have to get a degree to work in it."*
+- don’t strive to be well-known, strive to be worth knowing.
 -->
 
 > *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
@@ -1559,7 +1589,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 -- Ann Wigmore*
 
 > *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  
--- RealJamesPierce@x*
+-- realjamespierce@x*
 
 > *"If someone offered you a billion dollars with the only catch being that you’d have a pretty bad cold for the rest of your life, would you take it? Definite no for me and, I’d guess, for many of you. Really highlights how much more important health is than everything else."  
 -- Tim Urban*
@@ -1575,11 +1605,14 @@ Health is also an envy trigger. Often what people really envy is self-control.
 <!--
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
-> *"Muscle is proof of work ethic. Fat is proof of neglect."  giamacool@x*
-> *"If you are having too much fun, too much happiness, then something must be wrong as you 'ought' to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
+> *"Muscle is proof of work ethic. Fat is proof of neglect."  -- giamacool@x*
+> *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 
-- You don't have to be rich to start living the life you want. Most people were just brainwashed into thinking that they wanted a luxurious, expensive lifestyle. A happy life tends to be much simpler: a healthy body, a mind at peace, a loving family, time to do what you love.
+- look around, all that clutter used to be money
+- clutter is just a museum of shit you thought would make you happy.
+- Owning less is better than organising more. Eliminate instead of organize.
+- You don’t have to be rich to start living the life you want. Most people were just brainwashed into thinking that they wanted a luxurious, expensive lifestyle. A happy life tends to be much simpler: a healthy body, a mind at peace, a loving family, time to do what you love.
 - never before has a generation so diligently recorded themselves accomplishing so little.
 - some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
 - what’s your adrenaline type? velocidade ou fronteira do conhecido.
@@ -1589,7 +1622,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
 -- David Hockney*
 
-It's okay to live a life others don't understand. 
+It’s okay to live a life others don’t understand. 
 
 We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die. When life becomes about enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
 
@@ -1608,10 +1641,10 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"I drink to make other people more interesting."  
 -- Ernest Hemingway*
 
-> *"Any idiot can face a crisis; it's this day-to-day living that wears you out."  
+> *"Any idiot can face a crisis; it’s this day-to-day living that wears you out."  
 -- Anton Chekhov*
 
-> *"Mondays are fine. It's your life that sucks."  
+> *"Mondays are fine. It’s your life that sucks."  
 -- Ricky Gervais*
 
 > *"What does the money machine eat? It eats youth, spontaneity, life, beauty, and, above all, it eats creativity. It eats quality and shits quantity."  
@@ -1626,7 +1659,7 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"Solitude is for me a fount of healing which makes my life worth living. Talking is often a torment for me, and I need many days of silence to recover from the futility of words."  
 -- Carl Jung*
 
-> *"Don't be seduced into thinking that that which does not make a profit is without value."  
+> *"Don’t be seduced into thinking that that which does not make a profit is without value."  
 -- Arthur Miller*
 
 > *"Travel and tell no one, live a true love story and tell no one, people ruin beautiful things."  
@@ -1641,6 +1674,9 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"Live fast, die young, and leave a good looking corpse."  
 -- James Dean*
 
+> *"I’d rather live like a poor man - only with lots of money."  
+-- Pablo Picasso*
+
 Hints:
 
 - Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. 
@@ -1648,7 +1684,7 @@ Hints:
 - Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
 - Own my house on a few acres with clean water river frontage, and assets I can enjoy & be creative with (car, bike, music equipment, tools, etc)  
 - How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it. Income doesn’t make you rich. spending habits do.
-- The opposite of play isn’t work, it’s depression. Create a life you don't need a vacation from. Making money in order to consume goods can't mankinds's sole purpose on this planet.
+- The opposite of play isn’t work, it’s depression. Create a life you don’t need a vacation from. Making money in order to consume goods can’t mankinds’s sole purpose on this planet.
 - 3 hobbies: one creative, one to keep in shape and one to make money.
 - House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.
@@ -1711,9 +1747,8 @@ Hints:
 ## On success
 
 <!--
-> *"The secret to success is retaining your child-like qualities."  -- Robert Green*
-> *"If you could literally just sit for 30 minutes and be happy, you are successful."  -- Naval Ravikant*
 > *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
+> *"Nothing is more common than unsuccessful people with talent. Leave the house before you find something worth staying in for."  -- Banksy*
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -1756,7 +1791,8 @@ Hints:
 
 > *"The success formula: solve your own problems and freely share the solutions." (...)  
 "The price of growth is outgrowing people." (...)  
-"Predicting failure is easier than predicting success."  
+"Predicting failure is easier than predicting success." (...)  
+"If you could literally just sit for 30 minutes and be happy, you are successful."  
 -- Naval Ravikant*
 
 > *"Success is the ability to go from one failure to another with no loss of enthusiasm."  
@@ -1776,6 +1812,9 @@ Hints:
 
 > *"Your current results are just the visible output of your old decisions compounding over time. But since people evaluate based on short-term signals, they often misinterpret whether something is actually working. This is why so many businesses & individuals chase surface level metrics instead of real durable progress. Early effort often leads to decline before real takeoff, but most people quit before the inflection point."  
 -- signulll@x*
+
+> *"The secret to success is retaining your child-like qualities."  
+-- Robert Green*
 
 ### On barriers to success
 
@@ -1844,18 +1883,21 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 <!--
 > *"The #1 reason to be anonymous is insecurity."  -- Sahil Lavingia*
 > *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  -- rapahelz@x*
+> *"An intellectual is someone whose mind watches itself."  -- Albert Camus*
+
++ orangebook_@x -- You are not anxious because you have too much to do, you are anxious because you are not doing what you know you should be doing.
 
 - You know a nigga depressed once he starts going on walks.
 - The more alone a man is, the more likely he is to get into "depression". Live alone, eat alone, work alone, never go out = depression. Spend more time with people, go out in nature, lift weights, and eat good food - no depression.
 - Turns out I wasn’t depressed, I just needed a job that fulfills me, a «date to marry» relationship, a consistent physical activity and high protein whole foods nutrition.
 - It took me 13 years to realize that the only cure to depression is just leaving the house at every single possible opportunity no matter how badly you don’t want to.
 - the only thing complaining does is convince other people that you are not in control.
-- cages aren't made of iron, they're made of thoughts.
-- we don't have anxiety for things we think we can handle!
+- cages aren’t made of iron, they’re made of thoughts.
+- we don’t have anxiety for things we think we can handle!
 - Most people are not extremes and most people are in the middle. Most things are not binary. Introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 - the heaviest burdens that we carry are the thoughts in our heads.
 - what is poison? anything beyond what we need is poison. it can be power, laziness, food, ego, ambition, vanity, fear, anger, or whatever.
-- you can't heal if you keep pretending you're not hurt.
+- you can’t heal if you keep pretending you’re not hurt.
 -->
 
 > *"If you are depressed you are living in the past.  
@@ -1930,6 +1972,10 @@ Hints:
 
 ### How to overcome them?
 
+<!--
+> *"Those who are unhappy have no need for anything in this world but people capable of giving them their attention."  -- Simone Weil*
+-->
+
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer*
 
@@ -1959,7 +2005,7 @@ Hints:
 -- Fyodor Dostoyevski*
 
 > *"You have anxiety because deep down you know you could be doing bigger things."  
--- Codie Sanchez*
+-- codie_sanchez@x*
 
 
 
@@ -1970,7 +2016,9 @@ Hints:
 ## On fear
 
 <!--
-- What would you do if you weren't afraid?
+> *"Train yourself to let go of everything you fear to lose."  -- Yoda*
+
+- What would you do if you weren’t afraid?
 - dishonesty is a reaction to fear. fear just wants us to stay the same.
 - climbing out the hole is about letting go of pride.
 -->
@@ -2074,7 +2122,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"  
 -- Robert A. Heinlein*
 
-> *"Courage is knowing it might hurt and doing it anyway. Stupidity is the same. And that's why life is hard."  
+> *"Courage is knowing it might hurt and doing it anyway. Stupidity is the same. And that’s why life is hard."  
 -- Jeremy Goldberg*
 
 > *"Speak your mind, even if your voice shakes."  
@@ -2085,7 +2133,7 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 -- Nassim Taleb*
 
 > *"No child is ever born afraid. Fear is learned... So is courage."  
--- Codie Sanchez*
+-- codie_sanchez@x*
 
 ### How to increase courage?
 
@@ -2174,12 +2222,13 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 > *"Our greatest glory is not in never falling, but in rising every time we fall."  
 -- Confucius*
 
-> *"I'm not afraid of failure, I'm afraid of being in the exact same place next year."  
+> *"I’m not afraid of failure, I’m afraid of being in the exact same place next year."  
 -- thejustinwelsh@x*
 
 ### On anger
 
 <!--
+
 - Most angry people are envious people who don’t understand that life will only get better once they are focused on their own lives and actively improving who they are.
 -->
 
@@ -2193,15 +2242,18 @@ Anger is a punishment we give ourselves for someone else’s mistake.
 
 Hint: 
 
-- Pay attention to what people say out of anger, they've been dying to tell you that.
+- Pay attention to what people say out of anger, they’ve been dying to tell you that.
+
+> *"An angry man opens his mouth and shuts his eyes."  
+-- Cato*
 
 ### On scars and wounds
 
 <!--
 > *"Words can’t hurt you, they can only hurt your image of you."  -- Naval Ravikant*
 
-- i don't hide my scars. they are proof that i showed up for life. and fought.
-- if you don't heal what hurt you, you'll bleed on people who didn't cut you.
+- i don’t hide my scars. they are proof that i showed up for life. and fought.
+- if you don’t heal what hurt you, you’ll bleed on people who didn’t cut you.
 -->
 
 > *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
@@ -2246,8 +2298,8 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 - People with low self-esteem protect themselves by not taking risks. High self-esteem gives you the power of confidence to take chances.
 - Normalize this. Normalize that. How about you feel shame for once?
 - you cannot live when you are untouchable. Life is vulnerability.
-- Do what scares you until it doesn't.
-- humble enough to know i'm replaceable. cocky enough to know is a downgrade.
+- Do what scares you until it doesn’t.
+- humble enough to know i’m replaceable. cocky enough to know is a downgrade.
 -->
 
 > *"Man is not what he thinks he is, he is what he hides."  
@@ -2276,6 +2328,7 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 
 <!--
 - People who lack self-confidence love to make fun of others and denigrate their success, that’s how they feel better about themselves, don’t take it personally.
+- you’re so busy doubting yourself while so many others are intimidated by your potential.
 -->
 
 > *"One who believes in himself has no need to convince others." (...)  
@@ -2387,12 +2440,9 @@ Entitlement comes in two forms:
 ### On addictions
 
 <!--
-> *"Smart people are so good at discovering their own flaws but so mid at actually fixing them. Is the solution to most of their problems just experimental drugs or getting a job in sales?"  -- anuatluru@x*
-> *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you're actually extroverted around people who bring you peace."  -- Zachary Laid*
-
 - signs of a man who has lost control of his life: watch porn. addicted to comfort. addicted to drugs and alcohol. spend all day indoor.
 - So many men lose themselves trying to make an ungrateful woman happy.
-- Porn isn’t real sex. Cocaine isn't real energy. Alcohol isn't real courage. Gambling isn't real investing. Nightly news isn't real facts. Social media isn't really social. Business books aren't real business.
+- Porn isn’t real sex. Cocaine isn’t real energy. Alcohol isn’t real courage. Gambling isn’t real investing. Nightly news isn’t real facts. Social media isn’t really social. Business books aren’t real business.
 -->
 
 > *"The three most harmful addictions are heroin, carbohydrates, and a monthly sallary."  
@@ -2401,7 +2451,20 @@ Entitlement comes in two forms:
 Nietzsche describes 3 modern vices: OVERWORK (to be constantly busy is self-negation. It betrays a «will to forget» oneself), CURIOSITY (vague curiosity about everything, without deep obsessions, goes nowhere), SYMPATHY (sympathy for all means a refusal to rank good and bad).
 
 > *"Addiction to knowledge is like any other addiction. It offers an escape from the fear of emptiness, of loneliness, of frustration, the fear of being nothing."  
--- K__Quotes@x*
+-- k__quotes@x*
+
+### On introversion
+
+> *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you’re actually extroverted around people who bring you peace."  
+-- Zachary Laid*
+
+There are no introverts, only people that don't feel safe.
+
+> *"Intellectualism is a common cover-up for fear of direct experience."  
+-- Carl Jung*
+
+> *"Smart people are so good at discovering their own flaws but so mid at actually fixing them. Is the solution to most of their problems just experimental drugs or getting a job in sales?"  
+-- anuatluru@x*
 
 
 
@@ -2458,8 +2521,11 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 > *"The first art of kings is to endure hatred."  
 -- Seneca*
 
-> *"If someone's insults bother you; it is evidence that you respect him."  
+> *"If someone’s insults bother you; it is evidence that you respect him."  
 -- Nassim Taleb*
+
+> *"«You’re doing it all wrong», said someone doing nothing at all."  
+-- Sahil Lavingia*
 
 However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
 
@@ -2490,10 +2556,6 @@ Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 ---
 ## On pessimism
 
-<!--
-> *"You’ll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."*
--->
-
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
 -- William Arthur Ward*
 
@@ -2508,6 +2570,7 @@ While optimism is not always the way, pessimism is rarely the way. On the long t
 Hints:
 
 - Entrepreneurs are inherently optimistic because they are rewarded by being optimistic. Intelectuals the opposite.
+- You’ll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic.
 - Organisms that treat threats as more urgent than oportunities have a better chance to survive and reproduce.
 
 > *"That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be."  
@@ -2538,13 +2601,13 @@ Hints:
 "To see if they really think that things are getting worse, ask them if they’d rather live in the future or in the past."  
 -- Naval Ravikant*
 
-> *"You'll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."  
+> *"You’ll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic."  
 -- Kevin Kelly*
 
 > *"Keep you thoughts positive because your thoughts become your words. Keep your thoughts positive because your words become your behaviour. Keep your behavior positive because your behavior becomes your habits. Keep your habits positive because your habits becomes your values. Keep your values positive because your values become your destiny."  
 -- Mahatma Gandhi*
 
-> *"Complaints don't deliver complaints, they mostly reveal your weakness."  
+> *"Complaints don’t deliver complaints, they mostly reveal your weakness."  
 -- Nassim Taleb*
 
 ### On worry
@@ -2588,14 +2651,14 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 > *"No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first."  
 -- Andy Hunt*
 
-> *"We are all broken, that's how the light gets in."  
+> *"We are all broken, that’s how the light gets in."  
 -- Ernest Hemingway*
 
 > *"Perfection is not attainable, but if we chase perfection, we can catch excellence."
 -- Vince Lombardi*
 
-> *"And now that you don't have to be perfect, you can be good."  
--- Charlie Brown*
+> *"And now that you don’t have to be perfect, you can be good."  
+-- ???*
 
 > *"If I had any humility I would be perfect."  
 -- Ted Turner*
@@ -2613,6 +2676,7 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 
 <!--
 - we are wired to blame: we blame ourselves or teh others. we are obsessed with fault.
+- the fears we don’t face become our limits.
 -->
 
 > *"We don’t rise to the level of our expectations, we fall to the level of our training."  
@@ -2628,7 +2692,7 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 > *"Every man takes the limits of his own field of vision for the limits of the world."  
 -- Arthur Schopenhauer*
 
-> *"Often isn't the mountains ahead that wear you out, it's the little pebble in your shoe."  
+> *"Often isn’t the mountains ahead that wear you out, it’s the little pebble in your shoe."  
 -- Muhammad ALi*
 
 > *"There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with."  
@@ -2640,7 +2704,7 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 > *"The person who says it cannot be done should not interrupt the person doing it."  
 -- Proverb*
 
-> *"If you think we can't change the world, it just means you're not one of those that will."  
+> *"If you think we can’t change the world, it just means you’re not one of those that will."  
 -- Jacque Fresco*
 
 > *"The limits of the possible can only be defined by going beyond them into the impossible."  
@@ -2652,16 +2716,16 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 > *"In order to attain the impossible, one must attempt the absurd." 
 -- Miguel de Cervantes*
 
-> *"If you can't, you must. If you must, you can."  
+> *"If you can’t, you must. If you must, you can."  
 -- Tony Robbins*
 
-> *"It's kind of fun to do the impossible!"  
+> *"It’s kind of fun to do the impossible!"  
 -- Walt Disney*
 
-> *"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."  
+> *"Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible."  
 -- St. Francis of Assisi*
 
-> *"It's not because things are difficult that we dare not venture. It's because we dare not venture that they are difficult."  
+> *"It’s not because things are difficult that we dare not venture. It’s because we dare not venture that they are difficult."  
 -- Seneca*
 
 > *"I am where I am because I believe in all possibilities."  
@@ -2684,7 +2748,7 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 ### On motivation
 
 <!--
-- everyone is motivated until the 4AM alarm, then it's discipline.
+- everyone is motivated until the 4AM alarm, then it’s discipline.
 -->
 
 > *"With a strong enough «why», you can overcome any «how»."  
@@ -2753,6 +2817,9 @@ Hints:
 > *"It is only in adventure that some people succeed in knowing themselves."  
 -- Andre Gide*
 
+> *"I never made a mistake in my life. I thought I did once, but I was wrong."  
+-- Lucy Van Pelt*
+
 
 
 
@@ -2764,7 +2831,7 @@ Hints:
 <!--
 - Spiritual maturity begins when we feel like we have to stop taking care of the world.
 - As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life.
-- At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don't know.
+- At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don’t know.
 -->
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
@@ -2833,14 +2900,14 @@ Aging implies wear and tear, often seen as a high price to pay for maturity.
 > *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it."  
 -- Mark Twain*
 
-> *"Ain't nothin' an old man can do for me but bring me a message from a young man."  
+> *"Ain’t nothin’ an old man can do for me but bring me a message from a young man."  
 -- Moms Mabley*
 
 ### On maturity
 
 <!--
-- Maturity is when you don't force people to choose you.
-- Normalize this by age 30: Talk slow. Be clear. Never mumble. Don't interrupt.
+- Maturity is when you don’t force people to choose you.
+- Normalize this by age 30: Talk slow. Be clear. Never mumble. Don’t interrupt.
 -->
 
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
@@ -2903,11 +2970,15 @@ Finding a place to die is an important thing to do.
 
 ### On loneliness
 
+<!--
+> *"I hate who teals my solitude without, in exchange, offering me true company."  -- Friedrich Nietzsche*
+-->
+
 > *"If a man knows more than others he becomes lonely." (...)  
 "Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you."  
 -- Carl Jung*
 
-> *"If you are afraid of loneliness, don't marry."  
+> *"If you are afraid of loneliness, don’t marry."  
 -- Anton Chekhov*
 
 > *"A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free."  

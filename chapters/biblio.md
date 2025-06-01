@@ -22,8 +22,7 @@
 - [19??] DEN HEIJER, Alexander (nl)
 - [genY] KARIV, Dan (us)
 - [genY] SMITH (n, Té V.garn)
-- [198x] SANCHEZ, Codie (us)
-- [198x] URBAN, Tim (us)
+- [xxxx] CATO (it)
 -->
 
 - [----] Proverb
@@ -33,14 +32,76 @@
 - [BOOK] Valve employee
 - [FICTIONAL] ALTEREGO, Prof. Quirrel
 - [FICTIONAL] BEAUREGARD, Jack
-- [FICTIONAL] BROWN, Charlie
 - [FICTIONAL] DENT, Harvey
 - [FICTIONAL] DRAPER, Don
 - [FICTIONAL] MONTANA, Tony
 - [FICTIONAL] PLOUGHMAN, Tara
 - [FICTIONAL] TYRION
-- [HN.COM] bane / danielvf / dilemma / exelius / pystack
-- [X.COM] pat_stedman / sgrstk
+
+<!--
+
+- [HN.COM]
+
+ / bane
+ / danielvf
+ / dilemma
+ / exelius
+ / goatinaboat
+ / pystack
+
+- [X.COM]
+
+ / alexhormozi
+ / alpharivelino
+ / anuatluru
+ / brianferoldi
+ / clayroutledge
+ / codie_sanchez
+ / cpaik
+ / cullenroche
+ / cxgonzalez
+ / david_perell
+ / empty_america
+ / falsi1ke
+ / farnamstreet
+ / farshadsarrafi
+ / g_s_bhogal
+ / giamacool
+ / glenn_foster
+ / heycharafeddine
+ / iamaaronwill
+ / incentivising
+ / iterintellectus
+ / jlippincott_
+ / jxnlco
+ / k__quotes
+ / karlremarks
+ / konstantinkisin
+ / kunalb11
+ / layahheilpern
+ / leilahormozi
+ / maximecperoumal
+ / micsolana
+ / molson_hart
+ / nivi
+ / orangebook_
+ / pallnandi
+ / pat_stedman
+ / pearlythingz
+ / proffeynman
+ / rapahelz
+ / realestatetrent
+ / realjamespierce
+ / rmcentush
+ / samoburja
+ / sgrstk
+ / signulll
+ / skylarromines
+ / stirlingwisdom
+ / thejustinwelsh
+ / thesiliconstoic
+ / wuwei113
+-->
 
 - [-970] SOLOMON, King (il)
 - [-680] ARCHILOCHUS (gr)
@@ -288,7 +349,7 @@
 - [1907] MUNARI, Bruno (it)
 - [1908] BERLE, Milton (us)
 - [1908] CARTIER-BRESSON, Henri (fr)
-- [1908] L'AMOUR, Louis (us)
+- [1908] L’AMOUR, Louis (us)
 - [1908] MASLOW, Abraham (us)
 - [1909] ALINSKY, Saul (us)
 - [1909] DRUCKER, Peter (at)
@@ -495,6 +556,7 @@
 - [1962] PALAHNIUK, Chuck (us)
 - [1962] PETERSON, Jordan (ca)
 - [1963] GLADWELL, Malcolm (uk)
+- [1963] TARANTINO, Quentin (us)
 - [1964] BEZOS, Jeff (us)
 - [1964] CORNELL, Chris (us)
 - [1964] DERESIEWICZ, William (us)
@@ -566,14 +628,14 @@
 - [1978] TORRE, Alessandra (us)
 - [1979] FITZPATRICK, Becca (us)
 
-- [198x] PARRISH, Shane (ca)
 - [1980] HARBINGER, Jordan (us)
 - [1982] NEWPORT, Cal (us)
 - [1982] PARRISH, Shane (ca)
 - [1982] SETHI, Ramit (us)
+- [1982] URBAN, Tim (us)
 - [1982] VELEZ, David (co)
-- [1983] HOUSEL, Morgan (us)
 - [1983] MILHÃO, Miguel (pt)
+- [1983] HOUSEL, Morgan (us)
 - [1984] MANSON, Mark (us)
 - [1985] ALTMAN, Sam (us)
 - [1985] YOUNG, Chris (us)
@@ -582,5 +644,5 @@
 - [1987] HOLIDAY, Ryan (us)
 - [1988] LAVINGIA, Sahil (us)
 
-- [1990] HILDEBRAND, Sarah (my)
-- [1997] NESTARES, Santiago (us)
+// - [1990] HILDEBRAND, Sarah (my)
+// - [1997] NESTARES, Santiago (us)
