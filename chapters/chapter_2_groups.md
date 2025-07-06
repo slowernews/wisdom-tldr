@@ -14,9 +14,8 @@
 > *"Don’t talk unless you can improve the silence."  -- Jorge Luis Borges*
 > *"The best way to become boring is to say everything."  -- Voltaire*
 
-- If you can’t be kind, be quiet.
+- If you can’t be kind, be quiet. The quieter you become. The more you can hear.
 - Normalize this by age 30: Talk slow; Be clear; Never mumble; Don’t interrupt.
-- The quieter you become. The more you can hear.
 -->
 
 > *"Knowledge speaks, but wisdom listens."  
@@ -402,8 +401,8 @@ Hints:
 ## On selling, negotiation and price
 
 <!--
-+ shl@x -- If you can’t sell yourself in 1 sentence you won’t be able to sell yourself in several paragraphs
-+ skylarromines@x -- Sales is basically just be decent enough at something and let people like you. Nobody gives a shit how smart you are.
+> *"If you can’t sell yourself in 1 sentence you won’t be able to sell yourself in several paragraphs."  -- shl@x*
+> *"Sales is basically just be decent enough at something and let people like you. Nobody gives a shit how smart you are."  -- skylarromines@x*
 > *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
@@ -599,7 +598,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ## On generosity and incentives
 
 <!--
-+ naval@X -- Use money to reward the best, not to motivate the rest.
+> *"Use money to reward the best, not to motivate the rest."  -- naval@X*
 -->
 
 > *"No one has ever become poor by giving."  
@@ -819,8 +818,6 @@ Hints:
 ## On management and delegation
 
 <!--
-+ elonmusk@x -- The final step of @DOGE is to delete itself
-+ elonmusk@x -- Threat to democracy? Nope, threat to BUREAUCRACY!!!
 + kunalb11@x -- Introverts who hate managing people may be first to automate most things with AI.
 
 - as estruturas funcionam qd ha coesao
@@ -958,7 +955,7 @@ Giving appropriate feedback makes your juniors feel like what they are doing is 
 ### On meetings
 
 <!--
-+ naval@x -- If you want the meeting, make it an offer, not an ask.
+> *"If you want the meeting, make it an offer, not an ask."  -- naval@x*
 + Jeff Bezos: the most senior person at a meeting should speak last (superb leadership advice)
 -->
 
@@ -1212,8 +1209,8 @@ However some people are not ready to accept your vision. And «givers» attract 
 ## On career
 
 <!--
-+ naval@x -- Be a creator and you won’t have to worry about jobs, careers, and AI.
-+ naval@x -- If they can train you to do it, they can train a machine to do it.
+> *"Be a creator and you won’t have to worry about jobs, careers, and AI."  -- naval@x*
+> *"If they can train you to do it, they can train a machine to do it."  -- naval@x*
 - "estava a perder o controlo da minha carreira"  -- vertonghen
 > *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  -- realestatetrent@x*
 > *"Don’t be irreplaceable, if you can’t be replaced, you can’t be promoted.*
@@ -1393,13 +1390,13 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-+ shl@x -- A designer who can’t build is like a chef who can’t cook
-+ shl@x -- Chief of staff: who you hire when you want to retire but don’t want to look like you’ve retired
-+ shl@x -- Every job will be automated until four remain: engineer, entrepreneur, investor, artist.
-+ shl@X -- Fixing the dishwasher is harder than washing the dishes. Automation makes (remaining) jobs harder, not easier.
-+ shl@x -- Hire for ideas and agency.
-+ shl@x -- Never trust an engineer in a suit
-+ shl@x -- The people who embrace AI will automate the people who don’t
+> *"A designer who can’t build is like a chef who can’t cook"  -- shl@x*
+> *"Chief of staff: who you hire when you want to retire but don’t want to look like you’ve retired"  -- shl@x*
+> *"Every job will be automated until four remain: engineer, entrepreneur, investor, artist."  -- shl@x*
+> *"Fixing the dishwasher is harder than washing the dishes. Automation makes (remaining) jobs harder, not easier."  -- shl@x*
+> *"Hire for ideas and agency."  -- shl@x*
+> *"Never trust an engineer in a suit"  -- shl@x*
+> *"The people who embrace AI will automate the people who don’t"  -- shl@x*
 > *"Hire character. Train skill."  -- Peter Schutz*
 > *"Tell me the story of your life. problems and how you solved them."  -- elon musk*
 
@@ -1532,7 +1529,7 @@ Hints:
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 > *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  -- Jorge Luis Borges*
 > *"Nothing is more despicable than respect based on fear."  -- Albert Camus*
-+ rapahelz@x -- technology: belief in competence. Regulation: belief in influence
+> *"technology: belief in competence. Regulation: belief in influence"  -- rapahelz@x*
 
 - be careful what you tolerate. You are teaching people how to treat you
 - Call a rich guy poor, and all he will do is smirk. Call a powerful man weak, and all he will do is smirk. Call a charming misogynist a «virgin», and all he will do is smirk. If it affects you, it is true.
@@ -1807,8 +1804,8 @@ Our heros are our idealized selfes.
 ## On conflicts
 
 <!--
-+ nntaleb@x -- LLMs are useful to compulsively argumentative people who run out of friends to debate.
-+ shl@x -- Don’t take things personally, unless you want to improve.
+> *"LLMs are useful to compulsively argumentative people who run out of friends to debate."  -- nntaleb@x*
+> *"Don’t take things personally, unless you want to improve."  -- shl@x*
 -->
 
 > *"War is what happens when language fails."  
@@ -1861,8 +1858,8 @@ Hints:
 
 <!--
 > *"Pierwsza ofiara wojny jest prawda"  -- Terry Hayes*
-+ naval@x -- If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it.
-+ robinhanson@x -- War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery.
+> *"If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it."  -- naval@x*
+> *"War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery."  -- robinhanson@x*
 -->
 
 > *"War does not determine who is right - only who is left."  
@@ -1891,36 +1888,27 @@ Hints:
 ## On society and politics
 
 <!--
-+ damon_peters@x -- “The river became cleaner and the towns died." 
-+ defiyantlyfree@x -- Reparations means people who never had any slaves must pay people who were never slaves. This is the most idiotic Marxist lunacy. Stop it.
-+ elonmusk@x -- Had this election not been won by Trump, civilization would be lost.
-+ g_s_bhogal@x -- A fundamental delusion of marxism and wokeism is that life is zero-sum; that for one group to achieve great success, another must be oppressed. This is why many on the left oppose merit; they mistake excellence for exploitation, and mediocrity for morality.
-+ giammacool@x -- Men have a monopoly on force. Whether brute physical strength in the past or military strength today. That’s why men and women can’t be truly equal. Female «rights» exist because men enforce them.
 + kunalb11@x -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
-+ naval@x -- A culture is a co-operating system for humans.
-+ naval@x -- America is forged by immigrants and descendants of immigrants. Self-selecting for the American Dream. Choosing freedom over safety, opportunity over handouts, prosperity over equality
-+ naval@x -- Angry people vote, the apathetic stay home. Trump has to make you angry at the state of affairs. Kamala has to make you angry at Trump.
-+ naval@x -- Drone proliferation will democratize Mutually Assured Destruction and possibly lead to an uneasy peace.
-+ naval@x -- Free speech is how you spot the errors, voting is how you fix them, and staying armed is how you keep those rights.
-+ naval@x -- It’s nationalists vs communists from here on out.
-+ naval@x -- It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men.
-+ naval@x -- Libertarianism can only emerge in the cocoon of a functioning, high-trust republic.
-+ naval@x -- Local environmentalism is real. Global environmentalism is performative.
-+ naval@x -- Marxism is the religion with a thousand faces.
-+ naval@x -- Mass drone manufacturing capability is the new nuclear weapon.
-+ naval@x -- Socialism is the suicide pact of mediocrity.
-+ naval@x -- Tech is the accelerator, regulation is the brake.
-+ naval@X -- Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers.
-+ naval@x -- The greatest threats to the future are suppression of freedom of speech—freedom of mathematics, freedom of expression, and freedom of creation. And those are pointless if they can’t be backed up by violence. If you don’t have your own ability to inflict violence, it will be taken away from you. One recent tweet I had said, “The right to vote does not give you power. Power gives you the right to vote." You can just do a simple thought exercise: If there were a hundred of us on a desert island and we’re trapped, and we all kind of have to cooperate to create a new society. Suppose there are 10 people on the island who are all from the same ethnic background, who are all extremely unified, and they have all the guns. Those 10 have it, the other 90 don’t. Who do you think is going to end up running the place “for the benefit of the others"? Anyone who’s been around the block a few times knows what’s going to happen. So it’s just the nature of humans that if you want freedom at the individual level, if you want the rights to be dispersed and distributed, the power has to be dispersed and distributed. And there’s very few institutions and organizations that do that. Really, it’s the right to bear arms, cryptography, free speech, mathematics, personal computing. These are examples of decentralized technologies and capabilities that spread power amongst people. Most things concentrate power.
-+ naval@x -- The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left.
-+ naval@x -- The real tax is society forcing otherwise productive people to pay attention to politics.
-+ naval@x -- The struggle between collectivists and individualists is as old as humanity.
-+ naval@X -- They want to punish you for your words because they can’t punish you for your thoughts.
-+ naval@x -- Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome.
-+ nayibbukele@x -- "Algunos dicen que hemos encarcelado miles, pero la realidad es que hemos liberado a millones. Ahora son los buenos los que viven libres. Sin miedo".
-+ pmddomingos@x -- The postwar era has ended. The prewar era has begun.
-+ realmaalouf@x -- Churches and synagogues all over the world require police protection. Mosques do not. Islamophobia is not real. Islamic terrorism is.
-+ wildbarestepf@x -- anti-capitalism isn’t a philosophy. it’s a death wish dressed up as a virtue signal. it’s the aesthetic of rebellion powered by an iPhone, subsidized by Uber Eats, and resting on 400 years of industrial infrastructure you take for granted because you’ve never built a single useful thing in your life. you’re not oppressed. you’re just ungrateful.
+> *"America is forged by immigrants and descendants of immigrants. Self-selecting for the American Dream. Choosing freedom over safety, opportunity over handouts, prosperity over equality"  -- naval@x*
+> *"A culture is a co-operating system for humans."  -- naval@x*
+> *"Angry people vote, the apathetic stay home. Trump has to make you angry at the state of affairs. Kamala has to make you angry at Trump."  -- naval@x*
+> *"Drone proliferation will democratize Mutually Assured Destruction and possibly lead to an uneasy peace."  -- naval@x*
+> *"Free speech is how you spot the errors, voting is how you fix them, and staying armed is how you keep those rights."  -- naval@x*
+> *"It’s nationalists vs communists from here on out."  -- naval@x*
+> *"It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men."  -- naval@x*
+> *"Libertarianism can only emerge in the cocoon of a functioning, high-trust republic."  -- naval@x*
+> *"Local environmentalism is real. Global environmentalism is performative."  -- naval@x*
+> *"Marxism is the religion with a thousand faces."  -- naval@x*
+> *"Mass drone manufacturing capability is the new nuclear weapon."  -- naval@x*
+> *"Socialism is the suicide pact of mediocrity."  -- naval@x*
+> *"Tech is the accelerator, regulation is the brake."  -- naval@x*
+> *"Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers."  -- naval@x*
+> *"The greatest threats to the future are suppression of freedom of speech—freedom of mathematics, freedom of expression, and freedom of creation. And those are pointless if they can’t be backed up by violence. If you don’t have your own ability to inflict violence, it will be taken away from you. One recent tweet I had said, “The right to vote does not give you power. Power gives you the right to vote." You can just do a simple thought exercise: If there were a hundred of us on a desert island and we’re trapped, and we all kind of have to cooperate to create a new society. Suppose there are 10 people on the island who are all from the same ethnic background, who are all extremely unified, and they have all the guns. Those 10 have it, the other 90 don’t. Who do you think is going to end up running the place “for the benefit of the others"? Anyone who’s been around the block a few times knows what’s going to happen. So it’s just the nature of humans that if you want freedom at the individual level, if you want the rights to be dispersed and distributed, the power has to be dispersed and distributed. And there’s very few institutions and organizations that do that. Really, it’s the right to bear arms, cryptography, free speech, mathematics, personal computing. These are examples of decentralized technologies and capabilities that spread power amongst people. Most things concentrate power."  -- naval@x*
+> *"The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left."  -- naval@x*
+> *"The real tax is society forcing otherwise productive people to pay attention to politics."  -- naval@x*
+> *"The struggle between collectivists and individualists is as old as humanity."  -- naval@x*
+> *"They want to punish you for your words because they can’t punish you for your thoughts."  -- naval@x*
+> *"Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome."  -- naval@x*
 > *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
 > *"A constitution is an algorithm for running a country."  -- Pedro Domingos*
 > *"A country’s assets reside in the tinkerers, the hobbyists, and the risk-takers."  -- Nassim Taleb*
@@ -2178,8 +2166,7 @@ Hints:
 
 <!--
 > *"Bureaucracy = Culture of submission. Innovation = Culture of subversion. Hence the antagonism."  -- rapahelz@x*
-+ jasondebolt@x -- Elon is attacking corruption, and corruption is attacking Elon. It’s as simple as that.
-+ naval@x -- Fix immigration and voting, punish lawfare and censorship, wipe out the bureaucracy. Everything else is downstream.
+> *"Fix immigration and voting, punish lawfare and censorship, wipe out the bureaucracy. Everything else is downstream."  -- naval@x*
 -->
 
 > *"90% of the politicians give the other 10% a bad reputation."  
@@ -2262,7 +2249,6 @@ Hints:
 ## On following the herd
 	
 <!--
-- One of the hardest lessons in adulthood is realizing some people just aren’t built for reflection or growth. They’ll make the same mistake for 20 years and call it a personality.
 > *"Fools rush in and get the best seats in the house."*
 > *"It is better to be silent than to dispute with the ignorant."  -- Aristotle*
 > *"Many people don’t have original thoughts of their own, not because they lack mental creativity, but because they lack the courage to take real risks with the unknown, to walk alone, to challenge the consensus: they are afraid to live a life that no one has lived before."  -- orangebook_@x*
@@ -2273,6 +2259,7 @@ Hints:
 > *"What the herd hates most is the one who thinks differently; it is not so much the opinion itself, but the audacity of wanting to think for themselves, something that they do not know how to do."  -- Arthur Schopenhauer (1788-1860)*
 + paulg@x -- Prediction: Most of the participants in the worst woke excesses of the 2010s will forget they were participants. Not because they’re deliberately lying, but because when people join mobs they’re not themselves, and such things are easy to forget.
 
+- One of the hardest lessons in adulthood is realizing some people just aren’t built for reflection or growth. They’ll make the same mistake for 20 years and call it a personality.
 - every snowflake is different but all snow is the same.
 -->
 
@@ -2687,10 +2674,10 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On relationships
 
 <!--
-+ naval@X -- If you ask someone why they’re with someone else and the answer sounds like a resume, it’s over.
-+ naval@X -- Intimacy is a flower - it blooms in a healthy relationship, and disappears in a sick one.
-+ naval@x -- The basis for friendship, relationship, partnership - isn’t proximity or time spent together - it’s values.
-+ signulll@x -- there are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older. 2) insanely crazy heartbreak. there are simply no other ways.
+>*"If you ask someone why they’re with someone else and the answer sounds like a resume, it’s over."  -- naval@X*
+>*"Intimacy is a flower - it blooms in a healthy relationship, and disappears in a sick one."  -- naval@X*
+>*"The basis for friendship, relationship, partnership - isn’t proximity or time spent together - it’s values."  -- naval@X*
+> *"there are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older. 2) insanely crazy heartbreak. there are simply no other ways."  -- signulll@x*
 > *"Ultimately, you attract the complement of what you project."  -- Naval Ravikant*
 
 - Choose people that choose you. The end.
@@ -2738,17 +2725,17 @@ Hints:
 ## On family and friends
 
 <!--
-+ dentesleo@x -- There are cycles in life. Do not expect people to level up with you. You are not supposed to keep the same friends forever.
-+ maximecperoumal@x -- Instead of trying to change people, curate them.
-+ naval@x -- Your family is broken but you’re going to fix the world.
+> *"Your family is broken but you’re going to fix the world."  -- naval@x*
 > *"Absence, the highest form of presence."  -- James Joyce*
 
 - I love Nietzsche’s definition of friendship, which is "people with whom you share one great suffering and one great hope." You can’t be friends unless you hate the same things and worship the same Gods
 - If you look at the people in your circle and don’t get inspired, you don’t have a circle. You have a cage.
+- Instead of trying to change people, curate them.
 - stay way from people who act like a victim in a problem they created.
 - The older you get as a man, the more you understand your father and forgive him for everything.
 - The price of growth is outgrowing people.
 - The real miracle of Jesus was having 12 close friends in your late 30s
+- There are cycles in life. Do not expect people to level up with you. You are not supposed to keep the same friends forever.
 - You need friends who inspire you to do better, not acquaintances who tell you what you can’t do.
 - Your girlfriend will get a new boyfriend. Your boss will replace you before your burial. But your mum won’t get another son. Take care of her. Your birthday is for your mom, not you.
 - your single female friends are the most toxic thing in your relationship DUMP them!
@@ -3014,8 +3001,8 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 <!--
 > *"How can men lead when they have more to lose in a relationship. If you’re in a business deal and party A loses everything by the deal ending and Party B gains everything by the deal ending. Wouldn’t party A constantly be trying to please party B to keep the deal going?"  -- pearlythingz@X*
+> *"Women want men to be leaders but no longer want to be followers. One cannot exist without the other."  -- giammacool@x*
 + buridansridge@x -- Skilled male seducers understand that women’s kryptonite is a grounded, authentic, and calm masculine man. He is often disarmingly honest, but in an eloquent way. He allows for her to be who she desires to be in his presence. Seduction is about satisfying her desire to feel safe and seen. Mystery is the mistress of desire. Infer how you feel, because things don’t always need to be spelled out clearly. Women want to read between the lines. We fall in love through our minds. If we think about you because we are trying to solve you, our minds will do the work for you.
-+ giammacool@x -- Women want men to be leaders but no longer want to be followers. One cannot exist without the other.
 
 - A man without money can be loved... by his mother. Women respect security, power, and ambition. If you’re broke, you’re tolerated at best and ignored at worst.
 - Every woman wants sex, she just wants it from the best.
@@ -3095,7 +3082,7 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 + giammacool@x -- If she refuses to sign a prenup she’s planning the wedding and the exit strategy.
 + giammacool@x -- Ladies, If you’re thinking, «I don’t recognize the man I married, I’m not attracted to him anymore», Consider this… Pointing out everything he does wrong daily changes a man. A man who is constantly torn down will naturally pull away. If you’re not building him up daily, you’re setting yourself up for your own downfall, and worse, you’re not protecting your man.
 + giammacool@x -- Nothing is more attractive to a man than your willingness to adopt his last name. Either way, your last name is either your husband’s or your father’s. So, claiming you want to keep your last name isn’t strictly accurate.
-+ mc_shortyy@x -- you can tell the health of a marriage by how often the wife posts selfies
+> *"You can tell the health of a marriage by how often the wife posts selfies."  -- mc_shortyy@x*
 
 - A man would marry a poor woman as long as she’s loyal. A woman would marry a cheating man as long as he’s rich.
 - A submissive wife can make you richer than a career woman.
@@ -3229,7 +3216,7 @@ Against facts there are no arguments. Against faith there are no facts.
 ### On morality
 
 <!--
-+ naval@x -- Virtues are the rules that, if widely adopted by individuals, lead to win-win outcomes for all of society.\
+> *"Virtues are the rules that, if widely adopted by individuals, lead to win-win outcomes for all of society."  -- naval@x*
 > *"When a society loses its moral compass, it collapses from within."  -- G.K. Chesterton*
 > *"Respect for the truth comes close to being the basis of all morality."  -- Dune*
 
@@ -3294,7 +3281,7 @@ Against facts there are no arguments. Against faith there are no facts.
 
 <!--
 > *"Disneyland is presented as imaginary in order to make us believe that the rest is real."  -- Baudrillard*
-+ naval@X -- Philosophy is the memoir of a fully-lived life.
+> *"Philosophy is the memoir of a fully-lived life."  -- naval@X*
 
 - Philosophy is dead. "Intellectuals" as a class are over. The smartest men alive are posting cartoon frogs.
 -->
@@ -3443,7 +3430,7 @@ Technology is applied science.
 > *"You can’t show everything. If you do, it’s no longer art. Art lies in suggestion."  -- ?*
 > *"Art is plagiarism or revolution."  -- Marcel Duchamp*
 > *"The idea that a movie should be seen only once is an extension of our traditional conception of film as entertainment rather than art."  -- Stanley Kubrick*
-+ nikhuno@x -- Art is the memory of feeling alive.
+> *"Art is the memory of feeling alive."  -- nikhuno@x*
 -->
 
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
@@ -3573,8 +3560,8 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On media
 
 <!--
-+ elonmusk@x -- Good rule of thumb: those who frequently use the word «disinformation» are the ones most likely to be pushing it.
-+ naval@x -- Elon’s purchase of Twitter was the single most consequential act of the last decade. It restored free speech, broke the Overton window, and enabled the second American revolution.
+> *"Good rule of thumb: those who frequently use the word «disinformation» are the ones most likely to be pushing it."  -- elonmusk@x*
+> *"Elon’s purchase of Twitter was the single most consequential act of the last decade. It restored free speech, broke the Overton window, and enabled the second American revolution."  -- naval@x*
 > *"All new information starts as misinformation."  -- Naval Ravikant*
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
 > *"Freedom of the press is for those who happen to own one.*
@@ -3676,19 +3663,14 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 ### On AI
 
-<!--
-+ mozarrinsadaf@x -- AI doesn’t replace intelligence. It replaces effort.
-+ shl@x -- Humans raise the ceiling, AI raises the floor
-+ rapahelz@x -- The three epochs of the Internet use: 1. Sort knowledge (e.g. Yahoo). 2. Search knowledge (e.g. Google). 3. Synthesize knowledge (e.g. ChatGPT)
--->
-
 > *"Humans doing the hard jobs on minimum wage while the robots write poetry and paint is not the future I wanted."  
 -- karlremarks@x*
 
 > *"Scarier the AI the higher the valuations."  
 -- samoburja@x*
 
-> *"Ultimately, we will end up with an AI that is omnipresent, omniscient, and omnipotent. Maybe we have to admit that we are in the process of building some sort of god."  
+> *"Ultimately, we will end up with an AI that is omnipresent, omniscient, and omnipotent. Maybe we have to admit that we are in the process of building some sort of god." (...)  
+"The three epochs of the Internet use: 1. Sort knowledge (e.g. Yahoo). 2. Search knowledge (e.g. Google). 3. Synthesize knowledge (e.g. ChatGPT)"  
 -- rapahelz@x*
 
 > *"AI won’t replace programmers, but rather make it easier for programmers to replace everyone else." (...)  
@@ -3698,5 +3680,11 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *"Humans are an API to ChatGPT. ChatGPT is an API to Python. Python is an API to C. C is an API to assembly. Assembly is an API to binary. Binary is an API to physics. Physics is an API to the machine that runs the universe. It’s computation all the way down."  
 -- lex Fridman*
 
-> *"With large language models we have externalized and formalized our unconscious—even our collective unconscious."  
+> *"Humans raise the ceiling, AI raises the floor"  
+-- shl@x*
+
+> *"AI doesn’t replace intelligence. It replaces effort."  
+-- mozarrinsadaf@x*
+
+> *"With large language models we have externalized and formalized our unconscious — even our collective unconscious."  
 -- Jordan Peterson*
