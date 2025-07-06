@@ -90,9 +90,12 @@ Your new life will cost you your old one. Do not fear your own potential.
 
 <!--
 > *"The world is changed by your example, not by your opinion."  -- Paulo Coelho*
++ naval@x -- All the great questions have only personal answers.
++ naval@x -- Only two things are pursued for their own sake - even if they make you feel worse or make you worse off - truth and love.
 
-- The longer you are living on autopilot, the harder the future is going to be.
 - It’s not the lack of intelligence, it’s the lack of focus that is stopping you.
+- the biggest comeback is making yourself feel like yourself again.
+- The longer you are living on autopilot, the harder the future is going to be.
 -->	
 
 > *"Waking up to who you are requires letting go of who you imagine yourself to be."  
@@ -154,6 +157,7 @@ No matter where you are in your life, you have the power to change everything in
 <!--
 > *"If the path before you is clear, you’re probably on someone else’s."  -- Carl Jung*
 > *"The path to paradise begins in hell."  -- Dante Alighieri*
+
 - life is not about finding yourself. life is about creating yourself.
 - Better to admit you walked to the wrong door than spend your life in the wrong room.
 -->
@@ -270,6 +274,8 @@ Hints:
 ### On ambition
 
 <!--
+> *"Routine, in an intelligent man, is a sign of ambition."  -- W. H. Auden*
+
 - The ultimate question: Do you want you son/daughter to date someone like you?
 - everything wants you when you want nothing
 - If you’re not trying to make money, what are you even doing?
@@ -308,6 +314,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 > *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Schopenhauer*
 > *"We will only have work-life balance when we feel safe at home and feel safe at work."  -- Simon Sinek*
 > *"The literal meaning of life is whatever you’re doing that prevents you from killing yourself."  -- Albert Camus*
+> *"The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children."  -- G.K. Chesterton*
 
 - basically your job here on earth is to make 1-2-3 decisions in your life extremely well, and the rest is a rounding error.
 -->
@@ -381,8 +388,10 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 ## On happiness
 
 <!--
-- If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
++ naval@x -- Money does buy happiness, if you earned it.
 
+- alcançar a liberdade: ou c muito dinheiro ou c falta de desejos.
+- If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
 - Men give up happyness for their family. Women give up family for their happyness.
 - You are happy because you are surrounded by people you trust and love. You are healthy because you are in control of your impulses and habits. You are wealthy because you started investing long-term decades ago. You are relaxed because you are in control of your time.
 - You don’t hear much from happy people, because once you are living the life you want, you keep a low profile, you keep your life private.

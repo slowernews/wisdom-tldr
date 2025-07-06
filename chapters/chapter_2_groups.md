@@ -16,6 +16,7 @@
 
 - If you can’t be kind, be quiet.
 - Normalize this by age 30: Talk slow; Be clear; Never mumble; Don’t interrupt.
+- The quieter you become. The more you can hear.
 -->
 
 > *"Knowledge speaks, but wisdom listens."  
@@ -146,11 +147,16 @@ Hints:
 
 <!--
 > *"Millenials who learn the dark Boomer arts of phone calls and eye contact will inherit the earth."  -- molson_hart@x*
++ naval@x -- Nothing will attract people to you as much as your values.
++ rapahelz@x -- Mediocre talent seeks to figure out how to network. Great talent seeks to figure out how to contribute.
++ shl@x -- Influencers are just oversharers who got lucky
 
+- Avoid forcing connections.
+- Do not beg. Do not call twice. Do not explain yourself. Do not simp. Respect yourself. Do not insult yourself: If they reject you, they are not worthy of your presence.
+- shyness costs a fortune
+- The first time you meet people, treat them as well as you possibly can – after that, treat them as they treat you.
 - When you first meet someone, introduce yourself as a nobody, watch how they treat you, you will gauge their true character, you will understand how they treat others.
 - You don’t meet people by accident. There’s always a reason. A lesson or a blessing.
-- Avoid forcing connections.
-- shyness costs a fortune
 -->
 
 > *"The enemy of excellence is isolation."  
@@ -179,12 +185,12 @@ Make networking an habit. Who you know and whether they like you will determine 
 Be useful, not important. Listen to people, get their goals and help them. It’s not about you, it’s about the impact you have on others.
 
 <!--
-- What’s the most common question or problem you get asked about? Share the answer.
 - Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
-- Not what should I do next but who should you speak next?
+- everyone has an invisible sign hanging from their neck saying, «Make me feel important». Never forget this message when working with people.
 - Networking types: advocates a, boomerang b, celebrities c, drainers d  
 - Networking types: shark, dolphin, drowner.
-- everyone has an invisible sign hanging from their neck saying, «Make me feel important». Never forget this message when working with people.
+- Not what should I do next but who should you speak next?
+- What’s the most common question or problem you get asked about? Share the answer.
 -->
 
 Hints:
@@ -225,7 +231,8 @@ Handling rejection is hard. Period. We don’t like people that see us in a way 
 ### How to prepare an elevator pitch?
 
 <!--
-I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
++ signulll@x -- when you want to tell stories, be it startup pitches, or just stories about your experiences, always share them in three points—no more, no less. the human mind & the underlying world gravitates towards threes, look at any industry, typically the equilibrium points lie in threes. there are also numerous other examples that paint this phenomena. it’s a magic number for communication. story tellers rule the world.
+- I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words - short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
 -->
 
@@ -246,57 +253,69 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"Four ways to make money: 1. Save people time 2. Save people money 3. Make people money 4. Make people happy" -- Sahil Lavingia*
-> *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  -- alexhormozi@x*
-> *"To build product, «make something people want». To create art, make something «you» want. (The best do both)."  -- Naval Ravikant*
-> *"For the most successful founders, entrepreneurship is a pursuit of creative express.ion disguised as a business pursuit."  -- rapahelz@x*
-> *"The essence of American capitalism is to allow the rapid emergence of new companies, the essence of European capitalism is to do everything so that old companies do not die."  -- Léon Blum (1932)*
-> *"We are living in an era of woke capitalism in which companies pretend to care about social justice to sell products to people who pretend to hate capitalism."  -- clayroutledge@x*
-> *"Money never starts an idea; it is the idea that starts the money."  -- William J. Cameron*
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It’s no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- Morgan Housel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
-- a company is somehow a machine - alfred lin
-- if we don’t like teh guy that we are going to invest, we wait an year. - delay decision -- codie_sanchez@x*
-
-+ thejustinwelsh@x -- Business is like a marathon. The longer you stick around, the less crowded it gets.
+> *"For the most successful founders, entrepreneurship is a pursuit of creative express.ion disguised as a business pursuit."  -- rapahelz@x*
+> *"Four ways to make money: 1. Save people time 2. Save people money 3. Make people money 4. Make people happy" -- Sahil Lavingia*
+> *"Money never starts an idea; it is the idea that starts the money."  -- William J. Cameron*
+> *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  -- alexhormozi@x*
+> *"Stay small until you figured out what’s working."  -- Naval Ravikant*
+> *"The essence of American capitalism is to allow the rapid emergence of new companies, the essence of European capitalism is to do everything so that old companies do not die."  -- Léon Blum (1932)*
+> *"To build product, «make something people want». To create art, make something «you» want. (The best do both)."  -- Naval Ravikant*
+> *"We are living in an era of woke capitalism in which companies pretend to care about social justice to sell products to people who pretend to hate capitalism."  -- clayroutledge@x*
++ codie_sanchez@x -- Decrease the time between having an idea and getting it done. Money loves speed. Poverty loves waiting.
++ codie_sanchez@x -- If you want to make money in a downturn, ask two questions: What do people need to spend $ on no matter what. What do rich people spend money on? These are the sectors you want to be in.
++ marc_louvion@x -- Buy domain names / Buy domains, ship apps / Buy domains, ship apps, do marketing.
++ naval@X -- Ethics in business means «don’t sell anything you wouldn’t buy».
++ naval@x -- Nobody who’s actually good at making money needs to sell you a course on it.
++ naval@x -- The reality is that opportunities have never been more equal than now. @elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone. They’re eating food that might be marginally better than yours, but it’s basically the same. You might even have a better diet than them. You probably have more time to go to the gym than them. They’re not immortal, and they’re not going to be—most likely, not at this time scale. So you have more youth than them. You have a lot of advantages over them. The wealth gaps are actually much smaller than people think. A lot of that is due to mass production, which comes from specialization, labor, and capitalism. But it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys. It makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days. They’re craving status, not money or wealth. And status is a zero-sum game. So it’s kind of an evil game to play because there have to be losers for every winner. And the only way to win is by crushing somebody else down.
++ naval@x -- You only have to be right once.
++ rapahelz@x -- Show me a person doing great things and I’ll show you a kid playing.
++ realestatetrent@x -- I buy annoying properties and make them not annoying. My business, in a nutshell.
 + schrodingrsbrat@x -- Entrepreneurship is gonna look a lot more like art than business because the only moat left will be taste, not technicality. The role of art has always been to detect the signs of cultural change—artists find creative arbitrages, saying what people think before they realize it themselves. So the future of consumer products depends on how well you can detect, define, and create what people want before they know it. Traditional market research might be less useful because most people don’t know/can’t articulate what they want—it’s up to the artistically intuitive and psychologically inclined thinkers to find the local religion or patterns of belief and desire in a given market. “Everywhere I go I find a poet has been there before me.” (Freud)
++ shl@x -- It’s easy to be right. It’s hard to build things and take financial risks that reward you for being right
++ thejustinwelsh@x -- Business is like a marathon. The longer you stick around, the less crowded it gets.
 
-- When I was younger I moved to China to teach English. I got paid $15 an hour to teach a class. A friend of mine went to China at the same time. He instead offered classes to business people for $20/hour for a class of 5. $100/hour. Same product, different offer, different result.
-- the real growth happens through Merge and aquisitions.
-- you can run a company based on 5 points that fit a back of a package of a cigarette: low cost. every company its five points are different.
-- Sell the problem you solve. Not the product.
-- cheap prices attract problematic customers
-- sustainable design is just good design.
-- Platonic products rarely work.
-- open source means each problem only has to solved once -- naval
-- teleshopping design.
-- my superpowers are rusting like unused tools left in the backyard shed inside my mind.
-- Ideas don’t make you rich execution does.
-- you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
-- to optimise focus on reducing waiting time more than doing the work faster.
+- a company is somehow a machine - alfred lin
 - balance sheets is for accountants but you have to deeply understand your cash flows.
-- ignore great ideas and focus on execution. focus. delegate. sell before you need or when bored. remember to give it all away.
-- Intuitive equals familiar. Informational age is homogeneising our tastes. globalization é em tudo
-- two ways to make money: bundling and unbundling!
-- you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
+- CEOs are adaptable and flexible and good risk managers.
+- cheap prices attract problematic customers
+- designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
+- disney salvation: create a clear, simple vision -> deleverage | Make long-term bets. | Make fearless acquisitions on the edge.
 - Entrepeneurs are curious
 - Equity unlocks human potential: when people feel like they have ownership in an idea, they can’t stop thinking about it. The more ideas your stakeholders contribute, the better off your chances are at succeeding. empregados sempre c skin in the game. the enemies are outside not inside
-- CEOs are adaptable and flexible and good risk managers.
-- Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it. Become the best in the world at what you do. Keep redefining what you do until this is true.
-- tip: Ask your current customers “What nearly stopped you buying from us?”
-- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you’re living in the future and you build something cool that users love, it may matter more than outsiders think."	
-- Moonshot: 10X bigger instead of 10%. imply a new process not an optimization. Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
-- Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don’t. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
-- startups are similar to biological life. Wherever the conditions are hospitable, life already exists.
-- process of asking 3 whys is a row -> the first why is easy to answer
 - failing business -> fire 60% top managers (ricardo semler)
-- disney salvation: create a clear, simple vision -> deleverage | Make long-term bets. | Make fearless acquisitions on the edge.
-- zona genius: only 3 things I’m allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
-- designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
-- Ownership is the only thing. Never give a single share a unless you absolutely have to.
+- Ideas don’t make you rich execution does.
+- if we don’t like teh guy that we are going to invest, we wait an year. - delay decision -- codie_sanchez@x*
+- ignore great ideas and focus on execution. focus. delegate. sell before you need or when bored. remember to give it all away.
 - In Zero to One, Peter Thiel describes how PayPal achieved the critical mass of users needed for it to be useful:
-For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
+- Intuitive equals familiar. Informational age is homogeneising our tastes. globalization é em tudo
+- Moonshot: 10X bigger instead of 10%. imply a new process not an optimization. Aiming for something that is 10x better vs 10% better is 100 times more worth it… but never 100 times harder.
+- my superpowers are rusting like unused tools left in the backyard shed inside my mind.
+- One of my favorite pg ideas: "When something is described as a toy, that means it has everything an idea needs except being important. It’s cool; users love it; it just doesn’t matter. But if you’re living in the future and you build something cool that users love, it may matter more than outsiders think."	
+- open source means each problem only has to solved once -- naval
+- Ownership is the only thing. Never give a single share a unless you absolutely have to.
+- Platonic products rarely work.
+- process of asking 3 whys is a row -> the first why is easy to answer
+- Raising money: The problem is that investors are too easy when it comes to giving second, third, fourth, fifth, sixth chances... And they absolutely suck at giving first chances to the right people. Investors just sit there and assume that the right people will find them, but they don’t. The right people are too busy working to be chasing down investors 24/7. The first-timers who end up getting funded over and over again are usually the ones who network 24/7 and their only real talent is seducing investors who confuse their well-rehearsed talk for passion and intelligence.
+- Sell the problem you solve. Not the product.
+- Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it. Become the best in the world at what you do. Keep redefining what you do until this is true.
+- startups are similar to biological life. Wherever the conditions are hospitable, life already exists.
+- sustainable design is just good design.
+- teleshopping design.
+- The fact that the world’s richest man got there by solving the world’s biggest problems, rather than playing financial games, is bullish for humanity.
+- the real growth happens through Merge and aquisitions.
 - There is a golden rule, long cherished by restaurateurs, for determining whether a business is viable. Rent should take up no more than 25 percent of your revenue, another 25 percent should go toward payroll, and 35 percent should go toward the product. The remaining 15 percent is what you take home. There’s an even more elegant version of that rule: Make your rent in four days to be profitable, a week to break even. If you haven’t hit the latter mark in a month, close.
+- tip: Ask your current customers “What nearly stopped you buying from us?”
+- to optimise focus on reducing waiting time more than doing the work faster.
+- two ways to make money: bundling and unbundling!
+- When I was younger I moved to China to teach English. I got paid $15 an hour to teach a class. A friend of mine went to China at the same time. He instead offered classes to business people for $20/hour for a class of 5. $100/hour. Same product, different offer, different result.
+- you can run a company based on 5 points that fit a back of a package of a cigarette: low cost. every company its five points are different.
+- you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
+- you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
+- You’d be richer if you learned how to market rather than code.
+- zona genius: only 3 things I’m allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
+- For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up. We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate.
 -->
 
 > *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."  
@@ -383,22 +402,24 @@ Hints:
 ## On selling, negotiation and price
 
 <!--
++ shl@x -- If you can’t sell yourself in 1 sentence you won’t be able to sell yourself in several paragraphs
++ skylarromines@x -- Sales is basically just be decent enough at something and let people like you. Nobody gives a shit how smart you are.
+> *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
-> *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 > *"The world rewards the people who are the best at communicating ideas, not the people with the best ideas."  -- david_perell@x*
 
 - 0 visibility x 100 skills = 0 opportunities
+- Alex says you can even create a worksheet for yourself by asking clear and direct questions like: What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
+- always negotiate. dont communicate weakness on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
 - If you run enough A/B tests online, you’ll end up with a porn site.
-- Raise your prices, lower your stress.
+- make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
 - marketing position makes sense when there is confusion who your client is. know where you fit and what can you offer better the next guy. help your client to make a decision. let them understand if your product is teh right for them.
 - my prices are based on my talent, not your budget.
-- sell the problem you solve, not the product you have.
-- make clear agreements and hell yes agreements, keeping my agreements (90%), renegotiating agreements before they break, clean my agreements after breaking them.
-- There is no such thing as "shortage" of anything. Just pay more, and you’ll get it.
-- always negotiate. dont communicate weakness on your negotiation. your first reaction should be no reaction. fight impulse to imediatelly give the answer.
+- Raise your prices, lower your stress.
 - Responding to Job Offers for Maximum Impact- Always use first names (caveat: unless their title vastly exceeds yours — if they’re on LinkedIn, use how they address themselves there as a reference.) Never make the first offer. Thank them. Set the tone for the negotiation. Display social proof/market validation. Set your “ask.” Help them visualize the win. Reiterate interest and close strong.
-- Alex says you can even create a worksheet for yourself by asking clear and direct questions like: What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
+- sell the problem you solve, not the product you have.
+- There is no such thing as "shortage" of anything. Just pay more, and you’ll get it.
 
 Letter One [Strong Response]
 Bob, [First name: power play.]
@@ -418,14 +439,11 @@ I look forward to your response. [Power play; leave them with good vibes.]
 - First establish a baseline — use Google. Ask if they will match advertised prices from a competitor.
 “What is your best out the door price?” “Will you do that -10%?” “If you reach my price, I will buy today.”
 “I am on the phone with xxxx; they have this advertised for $xxxx. Can you beat that?” “If I buy here, will you throw in xxxx?” “What if I pay cash?” “Okay, thank you. It’s helpful to know where you stand. I am going to check out a couple of your competitors and will be back if it makes sense.” WALK AWAY.
-
 - Unexpressed feelings never die. Releasing pressure is different from venting.
 - The more influence somebody is the more they use we / plural pronouns.
 - Negotiate contracts in minute detail on the front end so that you aren’t negotiating after work is done, investments are made, and you have no bargaining power. This is especially important if the relationship between people is important as it avoids conflict later on.
-
 - Cold call all owners to rent. 8 said yes. Then auction! 
 - irritation -> challenge people to make something that they don’t want to do. agitation -> challenge people to make something that they want to do. agitate more than irritate.
-
 - how to say no: When processing a “yes” or “no” to a request, don’t forget about your third option: negotiation.
 - how to say no to an interview: i think i said already everthing about that subject.
 - how to say no to something else: i think i did already what i can do.
@@ -486,6 +504,8 @@ Modern selling: farmers (ambiverts and introverts)
 ### On negotiation
 	
 <!--
+> *"He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation."*
+
 - You are not paid what you are worth. You are paid what you negotiate for.
 -->
 
@@ -578,6 +598,10 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 ---
 ## On generosity and incentives
 
+<!--
++ naval@X -- Use money to reward the best, not to motivate the rest.
+-->
+
 > *"No one has ever become poor by giving."  
 -- Anne Frank*
 
@@ -617,6 +641,10 @@ Hints:
 
 ### On incentives
 
+<!--
++ paulskallas@x -- Punish her bad behavior consistently, reward her good behavior intermittently
+-->
+
 > *"In nature there are neither rewards nor punishments, there are consequences."  
 -- Robert G. Ingersoll*
 
@@ -647,14 +675,15 @@ Hints:
 > *"To lead an orchestra, you must turn your back on the crowd."  -- Aristotle*
 
 - a autoridade é delegavel mas a responsabilidade n é delegavel
-- the organization is always modelling the leader. military leader don’t have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
-- Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
-- There are three keys: honesty, effectiveness, and efficiency.
-- succeful takers are the most visible people in organizations.
-- Proactive problem management – Go directly to the source.
-- convincing vs inspiring leadership
-- never make a numbers person the leader
 - a leader makes the people next to them better version of themselves.
+- A man asked a gardener why his plants grew so beautifully. The gardener said: «I don’t force them to grow. I remove what stops them.»
+- convincing vs inspiring leadership
+- Lou Holtz has a very pithy mental model for how to evaluate leadership: 1. Can I trust you? 2. Do you care about me? 3. Are you committed to excellence?
+- never make a numbers person the leader
+- Proactive problem management – Go directly to the source.
+- succeful takers are the most visible people in organizations.
+- the organization is always modelling the leader. military leader don’t have money to distribute. is way easier. monetary bonus are more a requirement than a motivator now and is negative because people may think they getting unfairly treated.
+- There are three keys: honesty, effectiveness, and efficiency.
 -->
 
 > *"He who does not desire power is fit to hold it."  
@@ -790,11 +819,17 @@ Hints:
 ## On management and delegation
 
 <!--
-- reward system. culture is influenced by structure. give to the right person
++ elonmusk@x -- The final step of @DOGE is to delete itself
++ elonmusk@x -- Threat to democracy? Nope, threat to BUREAUCRACY!!!
++ kunalb11@x -- Introverts who hate managing people may be first to automate most things with AI.
+
 - as estruturas funcionam qd ha coesao
-- Ideas are welcomed, execution is worshiped
 - good managers shield their team from all the noise coming from above and give them a calm environment to work in. Bad managers amplify the noise and make the team feel every silly whim of upper management.
+- Ideas are welcomed, execution is worshiped
+- reward system. culture is influenced by structure. give to the right person
 -->
+
+> *"The oldest and largest organisation in the world has only 4 layers of management, that’s the Catholic church."  -- Steve Jobs*
 
 > *"Don’t postpone to tomorrow what other people can do for you today."  
 -- Warren Buffett*
@@ -837,6 +872,7 @@ Hints:
 > *"Nós nunca fomos muitos, mas enquanto soubemos ser todos, nós fomos sempre os bastantes."  -- José Hermano Saraiva*
 > *"If you need emergency help from a bystander, command them what to do. By giving them an assignment, you transform them from bewildered bystander to a responsible assistant."*
 > *"Never accept a work meeting until you’ve seen the agenda and know what decisions need to be made. If no decisions need to be made, skip the meeting."*
++ greenlumberfx@x -- «The best» in almost anything is likely to be a man due to the wider distribution of IQ compared to women. Men have more geniuses and more idiots. Plus higher testosterone + physical strength makes men more likely to voice the unconventional opinions that drive innovation.
 -->
 
 > *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don’t care about becoming a somebody."  
@@ -921,6 +957,11 @@ Giving appropriate feedback makes your juniors feel like what they are doing is 
 
 ### On meetings
 
+<!--
++ naval@x -- If you want the meeting, make it an offer, not an ask.
++ Jeff Bezos: the most senior person at a meeting should speak last (superb leadership advice)
+-->
+
 Default to «no» for all meetings. Meetings are the death of productivity.
 
 If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
@@ -944,6 +985,8 @@ Hints:
 ## On mentorship
 
 <!--
++ dears_o_n@x -- You’re a man. Never argue with your father. Shut up or walk away.
+
 - Teach principles, not formulas. Understand, don’t memorize.
 - What do I do that is most annoying to you? Say thank you and don’t discuss it. Don’t act on it. JRtruust put it in your mind.
 -->
@@ -1020,18 +1063,18 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 ### How to mentor your kids?
 
 <!--
-> *"My family history begins with me, but yours ends with you."  -- Iphicrates*
-> *"If children feel safe, they can take risks, ask questions, make mistakes, learn to trust, share their feelings and grow."  -- Alfie Kohn*
-> *"Never help a child with a task he feels he can succeed."  -- Maria Montessori*
-> *"My partner teacher des this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."  -- Tom Brassington*
-> *"The hardest job kids face today is learning good manners without seeing any."  -- Fred Astaire*
-> *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson*
 > *"Don’t ask kids what they want to be when they grow up but what problems do they want to solve. This changesthe conversation from who do you want to work for, to what do i need to learn to be able to do that."  -- Jaime Casap*
+> *"If children feel safe, they can take risks, ask questions, make mistakes, learn to trust, share their feelings and grow."  -- Alfie Kohn*
+> *"My family history begins with me, but yours ends with you."  -- Iphicrates*
+> *"My partner teacher des this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."  -- Tom Brassington*
+> *"Never help a child with a task he feels he can succeed."  -- Maria Montessori*
+> *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson*
+> *"The hardest job kids face today is learning good manners without seeing any."  -- Fred Astaire*
 
+- A father is the one who reveals the truth about life to the kids. A mother is the one who comforts them after hearing it.
 - children don’t need a perfect teacher. they need a happy teacher, who’s gonna make them excited to come to school and grow a love for learning.
 - Children learn to be kind by experiencing kindness. Not by being told to be kind.
 - your child’s behaviour triggers you because deep down inside lives a child that was shamed for behaving the same way.
-- A father is the one who reveals the truth about life to the kids. A mother is the one who comforts them after hearing it.
 -->
 
 > *"Teach your children early what you learned late." (...)  
@@ -1169,35 +1212,37 @@ However some people are not ready to accept your vision. And «givers» attract 
 ## On career
 
 <!--
-> *"Work for companies you would invest in and invest in companies you would work for."  -- morganhousel@x*
++ naval@x -- Be a creator and you won’t have to worry about jobs, careers, and AI.
++ naval@x -- If they can train you to do it, they can train a machine to do it.
+- "estava a perder o controlo da minha carreira"  -- vertonghen
 > *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  -- realestatetrent@x*
 > *"Don’t be irreplaceable, if you can’t be replaced, you can’t be promoted.*
-> *"Work in isolation, collaborate in person."  -- maximecperoumal@x*
-- "estava a perder o controlo da minha carreira"  -- vertonghen
 > *"Every job will be automated until four remain: engineer, entrepreneur, investor, artist." -- Sahil Lavingia*
 > *"How did people come to believe that if everyone went to college we could all just get jobs sending each other emails and someone else (who?) would maintain all physical elements of modern society? It sounds so dumb when you say it explicitly."  -- empty_america@x*
 > *"My dad sat me down once and said: “There are only two jobs in the world: building or selling. If you’re not doing one of those, you’re just an expense.” still think about this."  -- rmcentush@x*
+> *"Work for companies you would invest in and invest in companies you would work for."  -- morganhousel@x*
+> *"Work in isolation, collaborate in person."  -- maximecperoumal@x*
 
+- "Don’t try to be original. Be simple. Be good technically, and if there is something in you, it will come out."
+- 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
+- behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
+- doing things you enjoy / doing things you’re good at / doing things other people want
+- hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
+- If it drains you, it’s not for you. Always remember that.
+- If you can’t find 4 hours a day to work on your own projects. You’ll end up working 8 for someone else for a lot less. That is the reality.
 - if you don’t take risks, you’ll work for someone who does.
 - If you’re gonna do sales, sell something expensive.
-- Why do mediocre graphic designers feel like they have some kind of human right to have their existence subsidized by consumers.
-- If you can’t find 4 hours a day to work on your own projects. You’ll end up working 8 for someone else for a lot less. That is the reality.
-- If it drains you, it’s not for you. Always remember that.
-- The “40 hour work week” is a lie. It doesn’t account for: • Getting ready • Commuting • Your “lunch break” • Commuting again • Stressing after the day is over 60 hours of indebted time for 40 hours of pay.
-- "Don’t try to be original. Be simple. Be good technically, and if there is something in you, it will come out."
 - i’m really good in thsi game so i showld keep playaing vs i’m really good in thsi game so i showld stop playaing 
-- behaviour economist: dar bonus no inicio do ano e tira-lo no fim do ano se as coisas correrem mal!
-- remote killed HR
-- hj ha muito mais pessoas q fazem o q gosta do q dantes devido ao digital: creative economy
-- volunteer for assignments / becoming the go to guy for some questions
-- trabalhar de porta aberta vs trabalhar à porta fechada
-- Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
-- trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
-- recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
-- 100% time -> 100% results | 20% time -> 80%results | So: 100% on one thing = 80% on 5 things!
-- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
-- doing things you enjoy / doing things you’re good at / doing things other people want
 - nobody ever gets credit for fixing problems that never happened
+- recruiting better than hiring: find a place where you can do a good job«- look at situations as systems. i help to create systems.
+- remote killed HR
+- The classics: deliberately being 3 years behind on the latest technologies is a really good way to stay employable without driving yourself mad.
+- The “40 hour work week” is a lie. It doesn’t account for: • Getting ready • Commuting • Your “lunch break” • Commuting again • Stressing after the day is over 60 hours of indebted time for 40 hours of pay.
+- trabalhar de porta aberta vs trabalhar à porta fechada
+- trade-able skills: skills you already have that you can charge for. find your unique secret sauce and NAME it. you need to get people attention
+- volunteer for assignments / becoming the go to guy for some questions
+- Why do mediocre graphic designers feel like they have some kind of human right to have their existence subsidized by consumers.
+- Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 -->
 
 > *"Look for the job that you would take if you didn’t need a job."  
@@ -1263,6 +1308,10 @@ Hints:
 -- ???@hn*
 
 ### How to change career?
+
+<!--
++ ashleymayer@x -- My theory: career pivots keep you young/hungry/foolish.
+-->
 
 > *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."  
 -- Robert Greene*
@@ -1344,14 +1393,23 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
++ shl@x -- A designer who can’t build is like a chef who can’t cook
++ shl@x -- Chief of staff: who you hire when you want to retire but don’t want to look like you’ve retired
++ shl@x -- Every job will be automated until four remain: engineer, entrepreneur, investor, artist.
++ shl@X -- Fixing the dishwasher is harder than washing the dishes. Automation makes (remaining) jobs harder, not easier.
++ shl@x -- Hire for ideas and agency.
++ shl@x -- Never trust an engineer in a suit
++ shl@x -- The people who embrace AI will automate the people who don’t
 > *"Hire character. Train skill."  -- Peter Schutz*
+> *"Tell me the story of your life. problems and how you solved them."  -- elon musk*
 
-- Your boss doesn’t care how hard you work. They care how easy you make their job.
-- People want freedom to choose their process.
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
-- Two valid methods: hiring on culture contribution and hiring on culture matching.
-- T ou pi shaped.
 - hiring questions: sucess history. why did you go that company and why did you left.
+- People want freedom to choose their process.
+- pro tip: near the end of an interview, tell your interviewers that you want the role
+- T ou pi shaped.
+- Two valid methods: hiring on culture contribution and hiring on culture matching.
+- Your boss doesn’t care how hard you work. They care how easy you make their job.
 -->
 
 > *"He who works with his hands is a laborer.  
@@ -1471,18 +1529,23 @@ Hints:
 ## On hierarchy
 
 <!--
-> *"Nothing is more despicable than respect based on fear."  -- Albert Camus*
-> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  -- Jorge Luis Borges*
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
+> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  -- Jorge Luis Borges*
+> *"Nothing is more despicable than respect based on fear."  -- Albert Camus*
++ rapahelz@x -- technology: belief in competence. Regulation: belief in influence
 
-- How he carries himself is how he will be treated. A man with supreme confidence and self-assurance will be treated like one.
-- people respect who they can’t disrespect. 
 - be careful what you tolerate. You are teaching people how to treat you
-- People don’t fly business class just for the seat. They do it to not have to spend 12 hours with normies. The more money you make the more you realize the barriers to luxury are not just for comfort. But for seperation.
-- if you don’t like something, just take away its only power: your attention.
+- Call a rich guy poor, and all he will do is smirk. Call a powerful man weak, and all he will do is smirk. Call a charming misogynist a «virgin», and all he will do is smirk. If it affects you, it is true.
 - civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
-- Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
+- How he carries himself is how he will be treated. A man with supreme confidence and self-assurance will be treated like one.
+- if you don’t like something, just take away its only power: your attention.
+- in any hierarchy there are zealots
+- No one cares about you until you win. No one is ever ignoring you, everyone is focused on their goals, and you should be doing the same.
+- People don’t fly business class just for the seat. They do it to not have to spend 12 hours with normies. The more money you make the more you realize the barriers to luxury are not just for comfort. But for seperation.
 - People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
+- people respect who they can’t disrespect. 
+- Stop wasting time on fake achievements. Learn to fight, build, or make money. Real men create, not escape.
+- Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 -->
 
 > *"If you want to know who controls you, look at who you are not allowed to criticize." (...)  
@@ -1559,15 +1622,15 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 > *"If you don’t like a person, it’s because they remind you of something you don’t like about yourself."  -- Sigmund Freud*
 > *"Só os mais corajosos conseguem fazer a paz."  -- Trump*
 
-- The wicked don’t listen. When you shame a good man for a small infraction, he feels guilty. He tries to do better. When you shame a genuinely bad man, he doesn’t care. He views you with contempt because you do. Shaming the incorrigible is futile. Pointless.
 - Be willing to side with the minority.
-- your competition isn’t other people. Your competition is your proscrastination. Your ego. The unhealthy food you’re consuming, the knowledge you neglect. The negative behaviour you’re nurturing & your lack of creativity. Compete against that.
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
 - i fear not the man who’s read ten thousand books, but the man who’s read the book ten thousand times.
-- understand the difference of an adversary and an enemy to not accumulate enemys.
-- When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
 - Nietszche says to measure one’s strength by the number of parasites one can support.
 - surpass a gatekeeper: i’m x, i know your situation and how is the way i can make it the most confortable (safe) for you.
+- The wicked don’t listen. When you shame a good man for a small infraction, he feels guilty. He tries to do better. When you shame a genuinely bad man, he doesn’t care. He views you with contempt because you do. Shaming the incorrigible is futile. Pointless.
+- understand the difference of an adversary and an enemy to not accumulate enemys.
+- When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
+- your competition isn’t other people. Your competition is your proscrastination. Your ego. The unhealthy food you’re consuming, the knowledge you neglect. The negative behaviour you’re nurturing & your lack of creativity. Compete against that.
 -->
 
 > *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
@@ -1678,6 +1741,9 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 <!--
 > *"And God said love your enemy and I obeyed him and loved myself."  -- Kahlil Gibran*
+
+- Your biggest supporters will be strangers, and your biggest critics will be people you know.
+- if you find someone smarter than you, don't compete. Work together.
 -->
 
 The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
@@ -1740,6 +1806,11 @@ Our heros are our idealized selfes.
 ---
 ## On conflicts
 
+<!--
++ nntaleb@x -- LLMs are useful to compulsively argumentative people who run out of friends to debate.
++ shl@x -- Don’t take things personally, unless you want to improve.
+-->
+
 > *"War is what happens when language fails."  
 -- Margaret Atwood*
 
@@ -1788,6 +1859,12 @@ Hints:
 
 ### On war
 
+<!--
+> *"Pierwsza ofiara wojny jest prawda"  -- Terry Hayes*
++ naval@x -- If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it.
++ robinhanson@x -- War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery.
+-->
+
 > *"War does not determine who is right - only who is left."  
 -- Bertrand Russell*
 
@@ -1814,65 +1891,101 @@ Hints:
 ## On society and politics
 
 <!--
-> *"O comunismo penetrou até mesmo nos circulos cristãos disfarçado de solidariedade. É nosso dever pastoral expô-lo."  -- Robert Francis Prevost (Papa Leão XIV em 2010)
-> *"Nature has given women so much power that the law has very wisely given them little."  -- Samuel Johnson*
-> *"It is much more important to kill bad bills, than to pass good ones."  -- Calvin Coolidge*
-> *"What «multiculturalism» boils down to is that you can praise any culture in the world except Western culture - and you cannot blame any culture in the world except Western culture."  -- Thomas Sowell*
-> *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
-> *"To be wealthy and honored in an unjust society is a disgrace."  -- Confucius*
-> *"One of the penalties of refusing to participate in politics is that you end up being governed by your inferiors."  -- Plato*
-> *"The best way to keep a prisoner from escaping is to make sure he never knows he’s in prison."  -- Fyodor Dostoyevsky*
-> *"Be wary of any word that ends with “ism”. More often than not, "ism" at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  -- rapahelz@x*
-> *"the reason only leftists commit acts of terrorism and tear things down is simple: destruction is easy, building is hard. if they could build anything worth something, they wouldn’t be leftists in the first place. leftism is the ideology of those who failed at creation, resentment turned into politics. they despise excellence and beauty because they can’t achieve it, so they sabotage what others create. no one able to build something stays leftist for long, success cures that delusion fast."  -- iterintellectus@x*
-> *"the way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- micsolana@x*
++ damon_peters@x -- “The river became cleaner and the towns died." 
++ defiyantlyfree@x -- Reparations means people who never had any slaves must pay people who were never slaves. This is the most idiotic Marxist lunacy. Stop it.
++ elonmusk@x -- Had this election not been won by Trump, civilization would be lost.
++ g_s_bhogal@x -- A fundamental delusion of marxism and wokeism is that life is zero-sum; that for one group to achieve great success, another must be oppressed. This is why many on the left oppose merit; they mistake excellence for exploitation, and mediocrity for morality.
++ giammacool@x -- Men have a monopoly on force. Whether brute physical strength in the past or military strength today. That’s why men and women can’t be truly equal. Female «rights» exist because men enforce them.
++ kunalb11@x -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
++ naval@x -- A culture is a co-operating system for humans.
++ naval@x -- America is forged by immigrants and descendants of immigrants. Self-selecting for the American Dream. Choosing freedom over safety, opportunity over handouts, prosperity over equality
++ naval@x -- Angry people vote, the apathetic stay home. Trump has to make you angry at the state of affairs. Kamala has to make you angry at Trump.
++ naval@x -- Drone proliferation will democratize Mutually Assured Destruction and possibly lead to an uneasy peace.
++ naval@x -- Free speech is how you spot the errors, voting is how you fix them, and staying armed is how you keep those rights.
++ naval@x -- It’s nationalists vs communists from here on out.
++ naval@x -- It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men.
++ naval@x -- Libertarianism can only emerge in the cocoon of a functioning, high-trust republic.
++ naval@x -- Local environmentalism is real. Global environmentalism is performative.
++ naval@x -- Marxism is the religion with a thousand faces.
++ naval@x -- Mass drone manufacturing capability is the new nuclear weapon.
++ naval@x -- Socialism is the suicide pact of mediocrity.
++ naval@x -- Tech is the accelerator, regulation is the brake.
++ naval@X -- Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers.
++ naval@x -- The greatest threats to the future are suppression of freedom of speech—freedom of mathematics, freedom of expression, and freedom of creation. And those are pointless if they can’t be backed up by violence. If you don’t have your own ability to inflict violence, it will be taken away from you. One recent tweet I had said, “The right to vote does not give you power. Power gives you the right to vote." You can just do a simple thought exercise: If there were a hundred of us on a desert island and we’re trapped, and we all kind of have to cooperate to create a new society. Suppose there are 10 people on the island who are all from the same ethnic background, who are all extremely unified, and they have all the guns. Those 10 have it, the other 90 don’t. Who do you think is going to end up running the place “for the benefit of the others"? Anyone who’s been around the block a few times knows what’s going to happen. So it’s just the nature of humans that if you want freedom at the individual level, if you want the rights to be dispersed and distributed, the power has to be dispersed and distributed. And there’s very few institutions and organizations that do that. Really, it’s the right to bear arms, cryptography, free speech, mathematics, personal computing. These are examples of decentralized technologies and capabilities that spread power amongst people. Most things concentrate power.
++ naval@x -- The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left.
++ naval@x -- The real tax is society forcing otherwise productive people to pay attention to politics.
++ naval@x -- The struggle between collectivists and individualists is as old as humanity.
++ naval@X -- They want to punish you for your words because they can’t punish you for your thoughts.
++ naval@x -- Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome.
++ nayibbukele@x -- "Algunos dicen que hemos encarcelado miles, pero la realidad es que hemos liberado a millones. Ahora son los buenos los que viven libres. Sin miedo".
++ pmddomingos@x -- The postwar era has ended. The prewar era has begun.
++ realmaalouf@x -- Churches and synagogues all over the world require police protection. Mosques do not. Islamophobia is not real. Islamic terrorism is.
++ wildbarestepf@x -- anti-capitalism isn’t a philosophy. it’s a death wish dressed up as a virtue signal. it’s the aesthetic of rebellion powered by an iPhone, subsidized by Uber Eats, and resting on 400 years of industrial infrastructure you take for granted because you’ve never built a single useful thing in your life. you’re not oppressed. you’re just ungrateful.
+> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
 > *"A constitution is an algorithm for running a country."  -- Pedro Domingos*
-> *"The ultimate woke perversity is the claim that free speech is a tool of oppression."  -- Pedro Domingos*
-> *"America innovates, China replicates, Europe regulates."  -- Pedro Domingos*
-> *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos*
-> *"Until we have a vaccine against wokeism, social distancing is the best solution."  -- Pedro Domingos*
-> *"People who believe politicians care about them are the same people who think OnlyFans girls care about them."  -- stirlingwisdom@x*
-> *"Voting is the adult version of writing a letter to Santa Claus."  -- stirlingwisdom@x*
-> *"Far-right are nostalgic for a world that never was. Far-left are hopeful for a world that can never be."  -- g_s_bhogal@x*
-> *"Ideologues often become so captivated by an abstract ideal of humanity that they cease to care about actual humans."  -- g_s_bhogal@x*
-> *"Diversity at the local level means homogeneity at the global level. Homogeneity at the local level means diversity at the global level. Nationalism preserves diversity. Globalism destroys it."  -- PandemicRiskMan@x*
-> *"As a society degrades, it goes from shaming sin, to tolerating it, to accepting it, to encouraging it, to celebrating it. Once it has fully degenerated, those who don’t join the celebration are shamed."  -- ZubyMusic@x*
-> *"Reality is that which does not go away when you stop thinking about it."  -- Naval Ravikant*
-> *"The average man lives in a matriarchy, the average woman lives in a patriarchy, and they’re both correct."  -- Naval Ravikant*
+> *"A country’s assets reside in the tinkerers, the hobbyists, and the risk-takers."  -- Nassim Taleb*
 > *"A culture is a co-operating system for humans."  -- Naval Ravikant*
-> *"The West is in an existential struggle between equality and excellence."  -- Naval Ravikant*
+> *"All governments suffer a recurring problem: power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible."  -- Frank Herbert (dune)*
+> *"America innovates, China replicates, Europe regulates."  -- Pedro Domingos*
 > *"Any country that can’t manufacture its own drones will be a vassal state."  -- Naval Ravikant*
+> *"Anyone who claims that their political party does no wrong and the other party does no right is either a liar, a fool or both."  -- Elon Musk*
+> *"As a society degrades, it goes from shaming sin, to tolerating it, to accepting it, to encouraging it, to celebrating it. Once it has fully degenerated, those who don’t join the celebration are shamed."  -- ZubyMusic@x*
+> *"Be wary of any word that ends with “ism”. More often than not, "ism" at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  -- rapahelz@x*
+> *"Bureaucracy is a construction designed to maximize the distance between a decision-maker and the risks of the decision." @nntaleb*
+> *"Diversity at the local level means homogeneity at the global level. Homogeneity at the local level means diversity at the global level. Nationalism preserves diversity. Globalism destroys it."  -- PandemicRiskMan@x*
+> *"Do you know how I stopped getting protesters to my event at universities? I held them in the morning."  -- Dr. Jordan Peterson*
+> *"Europe was created by history. America was created by philosophy."  -- Margaret Thatcher*
+> *"Far-right are nostalgic for a world that never was. Far-left are hopeful for a world that can never be."  -- g_s_bhogal@x*
+> *"Fascism, Nazism, Communism and Socialism are only superficial variations of the same monstrous theme - collectivism."  -- Ayn Rand*
+> *"High-paying low-skill jobs are the real social safety net. Immigrants taking these jobs and lowering their wages is terrible for Americans."  -- jlippincott_@x*
+> *"Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free."  -- Aleksandr Solzhenitsyn*
+> *"I don’t want a Black History Month. Black history is American history. How are we going to get rid of racism? Stop talking about it!"  -- Morgan Freeman*
+> *"I have never understood why it is «greed» to want to keep the money you have earned but not greed to want to take somebody else’s money."  -- Thomas Sowell*
+> *"Ideologues often become so captivated by an abstract ideal of humanity that they cease to care about actual humans."  -- g_s_bhogal@x*
+> *"If I fully destroy the corruption, they will kill me."  -- Elon Musk*
+> *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb*
+> *"Immigration is a privilege, not a right, and the safety of our citizens must come first, without question."  -- Donald J. Trump*
+> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
+> *"It is amazing that people who think we cannot afford to pay for doctors, hospitals, and medication somehow think that we can afford to pay for doctors, hospitals, medication and a government bureaucracy to administer it." --  Thomas Sowell*
+> *"It is much more important to kill bad bills, than to pass good ones."  -- Calvin Coolidge*
+> *"Nation-states like war; city-states like commerce; families like stability; and individuals like entertainment."  -- Nassim Taleb*
+> *"Nature has given women so much power that the law has very wisely given them little."  -- Samuel Johnson*
+> *"O comunismo penetrou até mesmo nos circulos cristãos disfarçado de solidariedade. É nosso dever pastoral expô-lo."  -- Robert Francis Prevost (Papa Leão XIV em 2010)
+> *"One of the penalties of refusing to participate in politics is that you end up being governed by your inferiors."  -- Plato*
+> *"One of the sad signs of our times is that we have demonized those who produce, subsidized those who refuse to produce, and canonized those who complain."  -- Thomas Sowell*
+> *"People demand freedom of speech as a compensation for the freedom of thought which they seldom use."  -- Søren Kierkegaard*
+> *"People who believe politicians care about them are the same people who think OnlyFans girls care about them."  -- stirlingwisdom@x*
+> *"Politics is the art of making your selfish desires seem like national interest."  -- Thomas Sowell*
+> *"Racism is not dead, but it is on life support — kept alive by politicians, race hustlers, and people who get a sense of superiority by denouncing others as «racists.»"  -- Thomas Sowell*
+> *"Reality is that which does not go away when you stop thinking about it."  -- Naval Ravikant*
+> *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos*
+> *"The average man lives in a matriarchy, the average woman lives in a patriarchy, and they’re both correct."  -- Naval Ravikant*
+> *"The axiomatic error undermining much of Western Civilization is “weak makes right”. If someone accepts, explicitly or implicitly, that the oppressed are always the good guys, then the natural conclusion is that the strong are the bad guys."  -- Elon Musk*
+> *"The best way to keep a prisoner from escaping is to make sure he never knows he’s in prison."  -- Fyodor Dostoyevsky*
+> *"the disappearance of nations would have impoverished us no less than if all men had become alike, with one personality and one face. Nations are the wealth of mankind, its collective personalities; the very least of them wears its own special colours and bears within itself a special facet of divine intention."  -- Aleksandr Solzhenitsyn*
 > *"The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states."  -- Naval Ravikant*
 > *"The end state of all vehicles is autonomous. The end state of all military hardware is drones."  -- Naval Ravikant*
-> *"The people who start the wars don’t fight them, the people who spend the taxes don’t pay them, and the people who forgive the criminals don’t live next to them."  -- Naval Ravikant*
-> *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb*
-> *"Nation-states like war; city-states like commerce; families like stability; and individuals like entertainment."  -- Nassim Taleb*
-> *"A country’s assets reside in the tinkerers, the hobbyists, and the risk-takers."  -- Nassim Taleb*
-> *"When the state calls you a taxpayer is equivalent to a rapist calling his victim his girlfriend."  -- Javier Milei*
-> *"The state does not create wealth, the state destroys it. The state can give you nothing, beacuse it produces nothing."  -- Javier Milei*
-> *"High-paying low-skill jobs are the real social safety net. Immigrants taking these jobs and lowering their wages is terrible for Americans."  -- jlippincott_@x*
-> *"It is amazing that people who think we cannot afford to pay for doctors, hospitals, and medication somehow think that we can afford to pay for doctors, hospitals, medication and a government bureaucracy to administer it." --  Thomas Sowell*
-> *"Politics is the art of making your selfish desires seem like national interest."  -- Thomas Sowell*
-> *"One of the sad signs of our times is that we have demonized those who produce, subsidized those who refuse to produce, and canonized those who complain."  -- Thomas Sowell*
-> *"I have never understood why it is «greed» to want to keep the money you have earned but not greed to want to take somebody else’s money."  -- Thomas Sowell*
-> *"Fascism, Nazism, Communism and Socialism are only superficial variations of the same monstrous theme - collectivism."  -- Ayn Rand*
+> *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism -- ownership of government by an individual, by a group or by any controlling private power."  -- FDR*
+> *"The more corrupt the state, the more numerous the laws."  -- Tacitus*
 > *"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command." -- George Orwell*
-> *"What society does to its children, so will its children do to society." -- Marcus Tullius Cicero*
-> *"Anyone who claims that their political party does no wrong and the other party does no right is either a liar, a fool or both."  -- Elon Musk*
-> *"The axiomatic error undermining much of Western Civilization is “weak makes right”. If someone accepts, explicitly or implicitly, that the oppressed are always the good guys, then the natural conclusion is that the strong are the bad guys."  -- Elon Musk*
+> *"The people who start the wars don’t fight them, the people who spend the taxes don’t pay them, and the people who forgive the criminals don’t live next to them. Of course we’re going to have too many wars, too much spending, and too much crime."  -- Naval Ravikant*
+> *"The people who start the wars don’t fight them, the people who spend the taxes don’t pay them, and the people who forgive the criminals don’t live next to them."  -- Naval Ravikant*
+> *"the reason only leftists commit acts of terrorism and tear things down is simple: destruction is easy, building is hard. if they could build anything worth something, they wouldn’t be leftists in the first place. leftism is the ideology of those who failed at creation, resentment turned into politics. they despise excellence and beauty because they can’t achieve it, so they sabotage what others create. no one able to build something stays leftist for long, success cures that delusion fast."  -- iterintellectus@x*
 > *"The rich - they keep all the money - do none of the work. The middle class - they do all the work - pay all the taxes. The poor? The poor are there to scare the shit out of the middle class! Keep them showing up at those jobs."  -- George Carlin*
-> *"Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free."  -- Aleksandr Solzhenitsyn*
-> *"the disappearance of nations would have impoverished us no less than if all men had become alike, with one personality and one face. Nations are the wealth of mankind, its collective personalities; the very least of them wears its own special colours and bears within itself a special facet of divine intention."  -- Aleksandr Solzhenitsyn*
-> *"All governments suffer a recurring problem: power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible."  -- Frank Herbert (dune)*
-> *"Europe was created by history. America was created by philosophy."  -- Margaret Thatcher*
-> *"Immigration is a privilege, not a right, and the safety of our citizens must come first, without question."  -- Donald J. Trump*
-> *"People demand freedom of speech as a compensation for the freedom of thought which they seldom use."  -- Søren Kierkegaard*
+> *"The rich - they keep all the money - do none of the work. The middle class - they do all the work - pay all the taxes. The poor? The poor are there to scare the shit out of the middle class! Keep them showing up at those jobs."-- George Carlin*
+> *"The state does not create wealth, the state destroys it. The state can give you nothing, beacuse it produces nothing."  -- Javier Milei*
+> *"The ultimate woke perversity is the claim that free speech is a tool of oppression."  -- Pedro Domingos*
+> *"the way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- micsolana@x*
+> *"The West is in an existential struggle between equality and excellence."  -- Naval Ravikant*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
+> *"To be wealthy and honored in an unjust society is a disgrace."  -- Confucius*
+> *"Until we have a vaccine against wokeism, social distancing is the best solution."  -- Pedro Domingos*
+> *"Voting is the adult version of writing a letter to Santa Claus."  -- stirlingwisdom@x*
+> *"What society does to its children, so will its children do to society." -- Marcus Tullius Cicero*
+> *"What «multiculturalism» boils down to is that you can praise any culture in the world except Western culture - and you cannot blame any culture in the world except Western culture."  -- Thomas Sowell*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
-> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
-> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
-> *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism
--- ownership of government by an individual, by a group or by any controlling private power."  
--- FDR*
+> *"When the state calls you a taxpayer is equivalent to a rapist calling his victim his girlfriend."  -- Javier Milei*
+> *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
 
 FOR YOUR REFLECTION:
 How much do you trust yourself?
@@ -1888,56 +2001,61 @@ If you are a team leader, how much do team members trust you?
 What do you need to do to regain the trust of others?
 What is the simplest thing you can do to be more trustworthy?
 
-- When a democrat says "threat to our democracy". They really mean threat to their corrupt bureaucracy.
-- Only a poor man and an unattractive woman truly understand the reality of life.
+- 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outisde of work.
+- all poverty is energy poverty.
+- As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
+- communism isn’t evil, it’s foolish. in the same way that unrestricted capitalism is foolish if you strive to make everyone’s lives better.
+- escola meritocratica e o o q podes fazer por ti. mundo n. mundo move-se pelo q podes fazer por mim.
 - everything I don’t like must be banned. Everything I do like is a human right and must be paid for by others.
-- Young people have energy to argue over every minor difference or slight. They possess both the vigour and the inclination to squabble. But with age, and wisdom, you just don’t care. You pick your battles. You assess the value of conflict. If the payoff for winning doesn’t exceed the effort required to win - you simply don’t bother. You neglect. You ignore. You don’t care.
-- Youthful male energy is the lifeblood of revolution. The campaign against young men isn’t about preventing misogyny - it’s about preventing regime change.
-- What is Woke? It is a worldview that teaches that all interactions are about power. There is only one conflict in the world, and it is the powerful against the powerless, where the powerful are trying to preserve their power (this is called «intersectionality»)
+- few tv channels equalized culture.
+- hard times create strong man, strong man create good times. good times create weak men. weak men create weak times.
+- If Satoshi wasn’t anon he’d have already been arrested by any Western country.
+- If you want to destroy any nation without war, make adultery or nudity common in the young generation.
+- insisting in your rights without acknowledging your responsabilities isn’t freedom is adolescence
+- it’s just human nature that if i get to decide who get sthe gold it is gosng o be my friends,  family and people i like.
+- law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
+- liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
+- low-key activism is often just narcisism. most people don’t really understand the issuesthey are being activist about. It’s just virtue signaling on Social Media. A young generation doesn’t know what a really debate dosen’t include demonizing people and get them canceled.
+- Men often believe > *"or pretend > *"that the "Law" is something sacred, or at least a science > *"an unfounded assumption very convenient to governments.
+- minimal amounts of cash improve the life of poor more than equivalent spending on aid programs or goods.
+- nacionalistas vs globalistas | moderados vs radicais?
+- Never apologize to the politically correct.
+- Não há direitos sem obrigações e viceversa.
+- Only a poor man and an unattractive woman truly understand the reality of life.
+- pandemic imprisoned poor people and freed rich people.
+- people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
+- people of all political persuasions
+- politics are a catalyst
+- Politics is simply theatre for the slave class.
+- Pretending that simple things are complicated and that complicated things are simple is the bread and butter of politics.
+- Proximity to white people and their tax dollars is not a human right.
+- Rigid regimes are doomed when they become flexible. The revolutionaries always become the new dictators.
 - Saying that White countries deserve to be flooded with brown migrants because of colonialism is acknowledging that you people are a plague and a punishment.
+- social contracts: public promises. Everything is a contract!
+- sufffering is individual. nations or corporations don’t suffer.
+- the benefits of a world government that federated nations would be an improvement for all. We could replace the war model by a policing model. We could institute the basic human right of mobility on the planet. we could address the global climate change.
+- The entire real estate market of the West is based on «how far away can I get from these people without having to drive 4h to work».
+- The idea of sinister elites controlling everything is popular because it’s more comforting than the truth: that even our leaders don’t know what they’re doing and society is ruled mostly by chance.
+- the passports of the future should be based on skills and health rather than nationality.
+- the real diversity that matters is the diversity of ideas, not the diversity of skin color.
+- the same people who sell the panic, sell the pill
+- The struggle between collectivists and the individual is as old as humanity itself.
 - This is what police does. They want peace, but can’t arrest perpetrators, so they arrest the victim instead. This used to happen a lot during BLM. They even arrested people from their own homes and neighbourhoods.
 - Time to make crime illegal again.
-- Wokeness is the belief that every disparity is rooted in discrimination.
-- Politics is simply theatre for the slave class.
-- Proximity to white people and their tax dollars is not a human right.
-- The idea of sinister elites controlling everything is popular because it’s more comforting than the truth: that even our leaders don’t know what they’re doing and society is ruled mostly by chance.
-- The entire real estate market of the West is based on «how far away can I get from these people without having to drive 4h to work».
-- Não há direitos sem obrigações e viceversa.
-- the same people who sell the panic, sell the pill
-- the passports of the future should be based on skills and health rather than nationality.
-- law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
-- insisting in your rights without acknowledging your responsabilities isn’t freedom is adolescence
-- communism isn’t evil, it’s foolish. in the same way that unrestricted capitalism is foolish if you strive to make everyone’s lives better.
-- hard times create strong man, strong man create good times. good times create weak men. weak men create weak times.
-- it’s just human nature that if i get to decide who get sthe gold it is gosng o be my friends,  family and people i like.
-- the real diversity that matters is the diversity of ideas, not the diversity of skin color.
-- few tv channels equalized culture.
-- Rigid regimes are doomed when they become flexible. The revolutionaries always become the new dictators.
-- The struggle between collectivists and the individual is as old as humanity itself.
-- all poverty is energy poverty.
+- Um socialista honesto não entende de Economia. Um socialista que entende de economia não é honesto. Um homem honesto que entende de Economia não é socialista.
 - uma bandeira representa sempre um colectivo
-- Never apologize to the politically correct.
-- If you want to destroy any nation without war, make adultery or nudity common in the young generation.
-- Men often believe > *"or pretend > *"that the "Law" is something sacred, or at least a science > *"an unfounded assumption very convenient to governments.
-- low-key activism is often just narcisism. most people don’t really understand the issuesthey are being activist about. It’s just virtue signaling on Social Media. A young generation doesn’t know what a really debate dosen’t include demonizing people and get them canceled.
-- 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outisde of work.
-- pandemic imprisoned poor people and freed rich people.
-- the benefits of a world government that federated nations would be an improvement for all. We could replace the war model by a policing model. We could institute the basic human right of mobility on the planet. we could address the global climate change.
-- minimal amounts of cash improve the life of poor more than equivalent spending on aid programs or goods.
-- escola meritocratica e o o q podes fazer por ti. mundo n. mundo move-se pelo q podes fazer por mim.
-- politics are a catalyst
-- sufffering is individual. nations or corporations don’t suffer.
-- social contracts: public promises. Everything is a contract!
+- What is Woke? It is a worldview that teaches that all interactions are about power. There is only one conflict in the world, and it is the powerful against the powerless, where the powerful are trying to preserve their power (this is called «intersectionality»)
+- When a democrat says "threat to our democracy". They really mean threat to their corrupt bureaucracy.
+- When people support socialism, they always think they’ll be the ones to receive and never realize that they’re the ones that give.
+- When the state is absent the patriots become the state.
+- Wokeness is the belief that every disparity is rooted in discrimination.
+- Young people have energy to argue over every minor difference or slight. They possess both the vigour and the inclination to squabble. But with age, and wisdom, you just don’t care. You pick your battles. You assess the value of conflict. If the payoff for winning doesn’t exceed the effort required to win - you simply don’t bother. You neglect. You ignore. You don’t care.
+- Youthful male energy is the lifeblood of revolution. The campaign against young men isn’t about preventing misogyny - it’s about preventing regime change.
 > *"A single death is a tragedy; a million deaths is a statistic."*
-- people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
-- liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
-- nacionalistas vs globalistas | moderados vs radicais?
-- people of all political persuasions
-- As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
-Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
-But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
-The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
 And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
+But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
+Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
+The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
 -->
 
 > *"For the friends: everything. For the others: the law."  
@@ -2060,6 +2178,8 @@ Hints:
 
 <!--
 > *"Bureaucracy = Culture of submission. Innovation = Culture of subversion. Hence the antagonism."  -- rapahelz@x*
++ jasondebolt@x -- Elon is attacking corruption, and corruption is attacking Elon. It’s as simple as that.
++ naval@x -- Fix immigration and voting, punish lawfare and censorship, wipe out the bureaucracy. Everything else is downstream.
 -->
 
 > *"90% of the politicians give the other 10% a bad reputation."  
@@ -2142,13 +2262,16 @@ Hints:
 ## On following the herd
 	
 <!--
-> *"The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them."  -- Desiderius Erasmus*
-> *"It is better to be silent than to dispute with the ignorant."  -- Aristotle*
-
+- One of the hardest lessons in adulthood is realizing some people just aren’t built for reflection or growth. They’ll make the same mistake for 20 years and call it a personality.
 > *"Fools rush in and get the best seats in the house."*
-> *"Never argue. In society nothing must be discussed; give only results."  -- Benjamin Disraeli*
+> *"It is better to be silent than to dispute with the ignorant."  -- Aristotle*
 > *"Many people don’t have original thoughts of their own, not because they lack mental creativity, but because they lack the courage to take real risks with the unknown, to walk alone, to challenge the consensus: they are afraid to live a life that no one has lived before."  -- orangebook_@x*
+> *"Never argue. In society nothing must be discussed; give only results."  -- Benjamin Disraeli*
 > *"One’s only rival is one’s own potentialities. One’s only failure is failing to live up to one’s own possibilities. In this sense, every man can be a king, and must therefore be treated like a king."  -- Abraham Maslow*
+> *"The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them."  -- Desiderius Erasmus*
+> *"The problem isn't that Johnny can't read. The problem isn't even that Johnny can't think. The problem is that Johnny doesn't know what thinking is; he confuses it with feeling."  -- Thomas Sowell*
+> *"What the herd hates most is the one who thinks differently; it is not so much the opinion itself, but the audacity of wanting to think for themselves, something that they do not know how to do."  -- Arthur Schopenhauer (1788-1860)*
++ paulg@x -- Prediction: Most of the participants in the worst woke excesses of the 2010s will forget they were participants. Not because they’re deliberately lying, but because when people join mobs they’re not themselves, and such things are easy to forget.
 
 - every snowflake is different but all snow is the same.
 -->
@@ -2542,6 +2665,10 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 ### What is love?
 
+<!--
+> *"Love is the extremely difficult realisation that something other than oneself is real."  -- Iris Murdoch*
+-->
+
 > *"What you call love was invented by guys like me to sell nylons."  
 -- Don Draper*
 
@@ -2560,10 +2687,17 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On relationships
 
 <!--
++ naval@X -- If you ask someone why they’re with someone else and the answer sounds like a resume, it’s over.
++ naval@X -- Intimacy is a flower - it blooms in a healthy relationship, and disappears in a sick one.
++ naval@x -- The basis for friendship, relationship, partnership - isn’t proximity or time spent together - it’s values.
++ signulll@x -- there are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older. 2) insanely crazy heartbreak. there are simply no other ways.
+> *"Ultimately, you attract the complement of what you project."  -- Naval Ravikant*
+
+- Choose people that choose you. The end.
 - Loyalty is earned, not owed. If they drain your energy, stunt your growth, or disrespect your boundaries, let them go. You weren’t born to carry dead weight. Protect your peace and move forward.
 - Never force, don’t beg and don’t chase.
 - One day you’re going to miss how much I cared.
-- Choose people that choose you. The end.
+- The more you do for people the less gratitude they show. The more you go out of your way for them to like you, the less appreciative they are of you. too much availability kills your VALUE.
 -->
 
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
@@ -2604,15 +2738,21 @@ Hints:
 ## On family and friends
 
 <!--
++ dentesleo@x -- There are cycles in life. Do not expect people to level up with you. You are not supposed to keep the same friends forever.
++ maximecperoumal@x -- Instead of trying to change people, curate them.
++ naval@x -- Your family is broken but you’re going to fix the world.
 > *"Absence, the highest form of presence."  -- James Joyce*
 
-- stay way from people who act like a victim in a problem they created.
-- your single female friends are the most toxic thing in your relationship DUMP them!
-- You need friends who inspire you to do better, not acquaintances who tell you what you can’t do.
-- Your successful friends will leave you behind if you don’t level up too.
-- The real miracle of Jesus was having 12 close friends in your late 30s
-- The price of growth is outgrowing people.
+- I love Nietzsche’s definition of friendship, which is "people with whom you share one great suffering and one great hope." You can’t be friends unless you hate the same things and worship the same Gods
 - If you look at the people in your circle and don’t get inspired, you don’t have a circle. You have a cage.
+- stay way from people who act like a victim in a problem they created.
+- The older you get as a man, the more you understand your father and forgive him for everything.
+- The price of growth is outgrowing people.
+- The real miracle of Jesus was having 12 close friends in your late 30s
+- You need friends who inspire you to do better, not acquaintances who tell you what you can’t do.
+- Your girlfriend will get a new boyfriend. Your boss will replace you before your burial. But your mum won’t get another son. Take care of her. Your birthday is for your mom, not you.
+- your single female friends are the most toxic thing in your relationship DUMP them!
+- Your successful friends will leave you behind if you don’t level up too.
 -->
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
@@ -2720,31 +2860,32 @@ Hints:
 ## On lovers
 
 <!--
-> *"Never has anyone done something entirely for others. All love is self-love. Think of those you love: dig deeply and you will see that you do not love them; you love the pleasant sensations that this love produces in you! You love the desire, not the desired." -- Friedrich Nietzsche*
 > *"Absence diminishes minor passions and inflames great ones, as the wind douses a candle and fans a fire."  -- La Rochefoucauld*
-> *"When women love us, they forgive us everything, even our crimes; when they do not love us, they give us credit for nothing, not even our virtues"  -- Honoré de Balzac*
-> *"Men dream about virgins. Women dream about monsters. Who’s more perverted?"  -- Rivelino*
-> *"Your "loyalty" doesn’t mean anything to her if you can’t get other women. That’s not being loyal, that’s being a loser."  -- Rivelino*
+> *"Early internet: meeting someone online? Probably a weirdo. Now: meeting someone without an online presence? Definitely a weirdo."  -- signulll@x*
 > *"If you love a flower don’t pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  -- Osho*
-> *"When I think I’m unfairly hated, I try to remember that I’m unfairly loved."  -- R.C. Sproul*
-> *"The desire to be loved is the last illusion. Give it up and you’ll be so free."  -- Margaret Atwood*
+> *"Men dream about virgins. Women dream about monsters. Who’s more perverted?"  -- Rivelino*
+> *"Modern dating is basically learning all about someone until you are no longer attracted to them—sometimes it takes one date, sometimes it takes years."  -- signulll@x*  
+> *"Never has anyone done something entirely for others. All love is self-love. Think of those you love: dig deeply and you will see that you do not love them; you love the pleasant sensations that this love produces in you! You love the desire, not the desired." -- Friedrich Nietzsche*
 > *"Porn has prolonged more marriages than it’s ever destroyed."  -- Rollo Tomasi*
 > *"Sexuality is spontaneous chemical reaction between two parties, not a process of negotiation."  -- Rollo Tomasi*
-> *"There are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older 2) insanely crazy heartbreak. there are simply no other ways."  -- signulll@x*
 > *"Some advice i gave to my friend: your value as a man should never be reduced to how you look. On dating apps that’s all you are—your height, & your face. It’s an endless police lineup for women to pick from, with nothing else factored in. The apps flattens you into a 2D commodity, judged in milliseconds. If you value yourself in any meaningful way, you should never partake in such a marketplace, ever."  -- signulll@x*
-> *"Modern dating is basically learning all about someone until you are no longer attracted to them—sometimes it takes one date, sometimes it takes years."  -- signulll@x*  
-> *"Early internet: meeting someone online? Probably a weirdo. Now: meeting someone without an online presence? Definitely a weirdo."  -- signulll@x*
+> *"The desire to be loved is the last illusion. Give it up and you’ll be so free."  -- Margaret Atwood*
+> *"There are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older 2) insanely crazy heartbreak. there are simply no other ways."  -- signulll@x*
+> *"There are three qualities to look for in a partner: intelligence, energy, and integrity. You need all three. You can’t compromise on any one of them."  -- Naval Ravikant*
+> *"When I think I’m unfairly hated, I try to remember that I’m unfairly loved."  -- R.C. Sproul*
+> *"When women love us, they forgive us everything, even our crimes; when they do not love us, they give us credit for nothing, not even our virtues"  -- Honoré de Balzac*
+> *"Your "loyalty" doesn’t mean anything to her if you can’t get other women. That’s not being loyal, that’s being a loser."  -- Rivelino*
 
-- Men will spend money on women they don’t love, but a woman will never spend money on a man she doesn’t love.
+- A man will cry for a woman once in his lifetime. After that, his soul will never allow him to ever trust women (or fully love) ever again.
+- Date multiple women, and you’ll never fall in love. Date only one woman, and you’ll lose faith in love.
+- I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
 - I once asked my grandpa: «Why should I not go back to my ex». He replied: «If you see the same tree in the forest twice, it’s because you are lost».
 - Men can be easily manipulated by attractive women. Women can be easily manipulated by high status men.
-- A man will cry for a woman once in his lifetime. After that, his soul will never allow him to ever trust women (or fully love) ever again.
+- Men will spend money on women they don’t love, but a woman will never spend money on a man she doesn’t love.
 - Porn has ruined men. Social media has ruined women.
-- Date multiple women, and you’ll never fall in love. Date only one woman, and you’ll lose faith in love.
-- Thank you for not loving me. It forced me to love myself.
-- she was poetry but he couldn’t read.
 - Psycologically the worst feelling is sitting next to a person who means the world you knowing that you men nothing to them.
-- I always have this fear that one day you are going to discover that i’m not as great as you once thoght I was.
+- she was poetry but he couldn’t read.
+- Thank you for not loving me. It forced me to love myself.
 -->
 
 > *"We accept the love we think we deserve."  
@@ -2793,6 +2934,10 @@ Hints:
 -- Unknown*
 
 ### On love and romance
+
+<!--
+> *"Absence diminishes small loves and increases great ones, as the wind blows out the candle and fans the bonfire."  -- La Rochefoucauld*
+-->
 
 > *"Love is the absence of judgement."  
 -- Dalai Lama*
@@ -2869,16 +3014,20 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 
 <!--
 > *"How can men lead when they have more to lose in a relationship. If you’re in a business deal and party A loses everything by the deal ending and Party B gains everything by the deal ending. Wouldn’t party A constantly be trying to please party B to keep the deal going?"  -- pearlythingz@X*
++ buridansridge@x -- Skilled male seducers understand that women’s kryptonite is a grounded, authentic, and calm masculine man. He is often disarmingly honest, but in an eloquent way. He allows for her to be who she desires to be in his presence. Seduction is about satisfying her desire to feel safe and seen. Mystery is the mistress of desire. Infer how you feel, because things don’t always need to be spelled out clearly. Women want to read between the lines. We fall in love through our minds. If we think about you because we are trying to solve you, our minds will do the work for you.
++ giammacool@x -- Women want men to be leaders but no longer want to be followers. One cannot exist without the other.
 
-- My man needs to have good social skills. I don’t care how he gets them.
-- Girls don’t leave good guys. They leave boring ones.
-- Women want to be desired, not because it gives them connection, but because it gives them control.
-- I want a man that sees my demons.
-- Women would break down crying if they understood how much more pure men are compared to them.
-- Without money only mother can love you.
 - A man without money can be loved... by his mother. Women respect security, power, and ambition. If you’re broke, you’re tolerated at best and ignored at worst.
 - Every woman wants sex, she just wants it from the best.
+- Girls don’t leave good guys. They leave boring ones.
+- I want a man that sees my demons.
 - If you’re waiting for a man to get rich before you take him serious, take note. "Men don’t fall in love when they’re rich"
+- My man needs to have good social skills. I don’t care how he gets them.
+- Only a coward is worse than a boring guy. I want neither of them.
+- What men think women want: Looks and money. What women actually need: Leadership, humor, honesty, intelligence, resilience, certainty in their actions.
+- Without money only mother can love you.
+- Women want to be desired, not because it gives them connection, but because it gives them control.
+- Women would break down crying if they understood how much more pure men are compared to them.
 -->
 
 > *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
@@ -2913,8 +3062,10 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 ### What men value in women
 
 <!--
-- Young women value themselves based on how much men want to sleep with them, which gives them a false high self valuation. If they valued themselves based on how much men wanted to marry them once they got to know them, they’d have a much more accurate estimation of their worth.
+- Men do not care if a woman is an engineer or a doctor. They only care about if she’s loyal, respectful and virgin.
+- Men hate disrespect more than they love sex
 - Men pick loyal girls over successful ones. Girls pick successful men over loyal ones.
+- Young women value themselves based on how much men want to sleep with them, which gives them a false high self valuation. If they valued themselves based on how much men wanted to marry them once they got to know them, they’d have a much more accurate estimation of their worth.
 -->
 
 > *"No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful."  
@@ -2939,11 +3090,17 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 ## On marriage
 
 <!--
-- We are not avoiding marriage, we are avoiding divorce.
++ giammacool@x -- Hard times create marriageable women. Marriageable women create good times. Good times create whores. Whores create hard times
++ giammacool@x -- I was raised by a middle eastern family. In Lebanon only men decide divorce. The way it needs to be.
++ giammacool@x -- If she refuses to sign a prenup she’s planning the wedding and the exit strategy.
++ giammacool@x -- Ladies, If you’re thinking, «I don’t recognize the man I married, I’m not attracted to him anymore», Consider this… Pointing out everything he does wrong daily changes a man. A man who is constantly torn down will naturally pull away. If you’re not building him up daily, you’re setting yourself up for your own downfall, and worse, you’re not protecting your man.
++ giammacool@x -- Nothing is more attractive to a man than your willingness to adopt his last name. Either way, your last name is either your husband’s or your father’s. So, claiming you want to keep your last name isn’t strictly accurate.
++ mc_shortyy@x -- you can tell the health of a marriage by how often the wife posts selfies
+
 - A man would marry a poor woman as long as she’s loyal. A woman would marry a cheating man as long as he’s rich.
 - A submissive wife can make you richer than a career woman.
-
-+ mc_shortyy@x -- you can tell the health of a marriage by how often the wife posts selfies
+- I want to be wanted, but not needed. I should be the one pushing for commitment. I want to have the feeling that I make a great deal, because he's of higher value than me.
+- We are not avoiding marriage, we are avoiding divorce.
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
@@ -3014,6 +3171,7 @@ Marry an happy person. Unhappy spouse, unhappy life.
 <!--
 > *"Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful."  -- Seneca*
 > *"Religion is for people who fear hell, spirituality is for people who have been there."  -- David Bowie*
+> *"If Christianity disappears in Europe, the whole world is threatened."  -- Cardinal Robert Sarah*
 -->
 
 > *"Science without religion is lame. Religion without science is blind."  
@@ -3069,7 +3227,15 @@ Against facts there are no arguments. Against faith there are no facts.
 -- Pedro Domingos*
 
 ### On morality
-	
+
+<!--
++ naval@x -- Virtues are the rules that, if widely adopted by individuals, lead to win-win outcomes for all of society.\
+> *"When a society loses its moral compass, it collapses from within."  -- G.K. Chesterton*
+> *"Respect for the truth comes close to being the basis of all morality."  -- Dune*
+
+- Losers claim moral superiority when they have objective inferiority.
+-->
+
 > *"Morality is the way that we would like the world to be, economics is the way that the world actually works."  
 -- Steven Levitt*
 
@@ -3126,6 +3292,13 @@ Against facts there are no arguments. Against faith there are no facts.
 ---
 ## On philosophy
 
+<!--
+> *"Disneyland is presented as imaginary in order to make us believe that the rest is real."  -- Baudrillard*
++ naval@X -- Philosophy is the memoir of a fully-lived life.
+
+- Philosophy is dead. "Intellectuals" as a class are over. The smartest men alive are posting cartoon frogs.
+-->
+
 > *"The aim of philosophy is the logical clarification of thought. Philosophy is not a theory but an activity."  
 -- Ludwig Wittgenstein*
 
@@ -3146,21 +3319,22 @@ Philosophy improves your intellectual rigor.
 ## On science
 
 <!--
-- if you cannot question it, it’s not science, it’s propaganda.
-- trust the science is the most anti-science statement ever. questioning science is how you do science.
-- theories are explanations, not predictions. prediction comes after the explanation
-- theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
-- science transforms raw materials (resources) into civilization.
+- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition.
+- enlightment was a revolution in how people sought knowledge : by trying not to rely on authorithy.
 - future proof by avoiding dedicated hardware
+- if you cannot question it, it’s not science, it’s propaganda.
+- look at ideas individually not at the ism
 - making something social destroys truth of it because social groups need consensus to survive - otherwise they fight and can’t get along - and consensus is all about truth seeking.
+- Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+- science transforms raw materials (resources) into civilization.
 - social sciences need to appeal to society for funding so they are politically motivated.
 - the real diversity that matters is diversity of ideas not diversity of skin color.
-- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition.
-- wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
-- enlightment was a revolution in how people sought knowledge : by trying not to rely on authorithy.
-- Money is a shared belief. So is a border. So are bitcoins. The list goes on.
-- look at ideas individually not at the ism
 - the world as your lab. if you do stuff scientifically you can do it right next time also
+- theories are explanations, not predictions. prediction comes after the explanation
+- theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
+- trust the science is the most anti-science statement ever. questioning science is how you do science.
+- wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
+
 1. Engineering is done with numbers. Analysis without numbers is only an opinion.
 2. To design a spacecraft right takes an infinite amount of effort. This is why it’s a good idea to design them to operate when some things are wrong .
 3. Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
@@ -3269,6 +3443,7 @@ Technology is applied science.
 > *"You can’t show everything. If you do, it’s no longer art. Art lies in suggestion."  -- ?*
 > *"Art is plagiarism or revolution."  -- Marcel Duchamp*
 > *"The idea that a movie should be seen only once is an extension of our traditional conception of film as entertainment rather than art."  -- Stanley Kubrick*
++ nikhuno@x -- Art is the memory of feeling alive.
 -->
 
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
@@ -3398,10 +3573,14 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On media
 
 <!--
++ elonmusk@x -- Good rule of thumb: those who frequently use the word «disinformation» are the ones most likely to be pushing it.
++ naval@x -- Elon’s purchase of Twitter was the single most consequential act of the last decade. It restored free speech, broke the Overton window, and enabled the second American revolution.
+> *"All new information starts as misinformation."  -- Naval Ravikant*
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
 > *"Freedom of the press is for those who happen to own one.*
-- Instagram: where average people pretend to be millionaires. Twitter: where millionaires pretend to be average people.
+
 - engagement media
+- Instagram: where average people pretend to be millionaires. Twitter: where millionaires pretend to be average people.
 -->
 
 > *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
@@ -3442,22 +3621,23 @@ Privacy is power. What people don’t know they can’t ruin.
 
 <!--
 - 20 years ago, the Internet was an escape from the real world. Today, the real world is an escape from the Internet.
-- There is no cloud. It’s just someone else’s computer.
-- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
-- llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
-- Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
-- hash is a fingerprint of an amount of information. SHA256 -> 64 characters
-- blockchains are not personal-computing operational systems; they are social systems.
-- physics is the only law, everything else is a recommendation
 - 90% of webapps are database frontends.
 - a fundamental rule of technology: There is no third ecosystem
+- Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
+- being relevant in the age of LLMs is really hard. what’s left for humans? the physical world and providing news to the LLM.
+- blockchains are not personal-computing operational systems; they are social systems.
+- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
+- hash is a fingerprint of an amount of information. SHA256 -> 64 characters
+- llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
+- physics is the only law, everything else is a recommendation
+- There is no cloud. It’s just someone else’s computer.
 - Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
+
 alan perlis - 1. One man’s constant is another man’s variable.
 alan perlis - 21. Optimization hinders evolution.
 alan perlis - 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 alan perlis - 105. You can’t communicate complexity, only an awareness of it.
 alan perlis - 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
-- being relevant in the age of LLMs is really hard. what’s left for humans? the physical world and providing news to the LLM.
 -->
 
 > *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  
@@ -3498,6 +3678,8 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 <!--
 + mozarrinsadaf@x -- AI doesn’t replace intelligence. It replaces effort.
++ shl@x -- Humans raise the ceiling, AI raises the floor
++ rapahelz@x -- The three epochs of the Internet use: 1. Sort knowledge (e.g. Yahoo). 2. Search knowledge (e.g. Google). 3. Synthesize knowledge (e.g. ChatGPT)
 -->
 
 > *"Humans doing the hard jobs on minimum wage while the robots write poetry and paint is not the future I wanted."  

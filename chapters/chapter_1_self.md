@@ -14,13 +14,11 @@
 > *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams*
 > *"Never never compromise. Say it the way it is."  -- Nassim Taleb*
 
-- when you don’t want to be interesting you are free. -- moojy
-- Freedom to -> freedom from -- naval
-
-- Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
-
-- Don’t build your castle in other peoples kingdom’s
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
+- Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
+- Don’t build your castle in other peoples kingdom’s
+- Freedom to -> freedom from -- naval
+- when you don’t want to be interesting you are free. -- moojy
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -141,6 +139,7 @@ Hints:
 
 <!--
 > *"Make two people proud: your 8-year-old self and your 80-year-old self."  -- David Perell*
+> *"Whenever you think that some situation or some person is ruining your life, it’s actually you who are ruining your life. It’s such a simple idea. Feeling like a victim is a perfectly disastrous way to make go through life."  -- Charlie Munger*
 
 - every damn thing is your own fault, if you are any good.
 - chi sei? sono l’evoluzione di tutti i miei errori.
@@ -235,7 +234,6 @@ Trust, not money, is the currency of business and life.
 ## On humility
 
 <!--
-
 - Humility With forward action: "I wasn’t the smartest in X but.."  
 -->
 
@@ -267,6 +265,14 @@ One way to humble yourself is to place yourself in the position of being the wea
 -- alexhormozi@x*
 
 ### On respect
+
+<!--
+- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things- If I don’t respect him, I’ll disrespect him. Nothing in between..
+- Normalize ghosting girls at the first sign of disrespect.
+- Respect isn’t earned anymore. It’s auctioned to the highest bidder.
+- They don’t respect you at the bottom, they ignore you in the middle, and they hate you at the top. You’ll never have everyone’s approval. So it’s best to just focus on what you’re doing.
+- you can't force someone to respect you, but you can refuse to be disrespected.
+-->
 
 > *"Everyone you will ever meet knows something you don’t."  
 -- Bill Nye*
@@ -375,6 +381,14 @@ Blessed are the restless.
 ### On agency
 
 <!--
++ farawaylaughtr@x -- 80% of what people call agency is trying the «dumb» solution and iterating from that. you can just do dumb things
++ naval@x -- Impatience with actions, patience with results.
++ naval@x -- Inspiration is perishable. Act on it immediately.
++ signulll@x -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
+> *"I don’t have talent, so I just get up earlier."  -- Henry Rollins*
+
+- As a man, never stay at home all day. Go out, make friends, and create new connections. A man's job is to face the world, take risks, and embrace difficulties.
+- Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself. Dark but true
 -->
 
 > *"The most difficult is the decision to act, the rest is just tenacity."  
@@ -409,6 +423,8 @@ Hints:
 ### On resilience
 
 <!--
+> *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons."  -- Jim Rohn*
+
 - Consistency is boring to watch. But impossible to compete with.
 -->
 
@@ -457,6 +473,11 @@ Hints:
 # 1.2 - On growth
 
 ## On comfort and risk
+
+<!--
+- You think you are playing safe, but you are actually accumulating anxiety. Take bolder risks, it’s mentally liberating.
+- If you want to grow as a man... Never stay in the same place for too long.
+-->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
 -- Paulo Coelho*
@@ -674,6 +695,7 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 
 <!--
 > *"He who lives without folly is less wise than he believes.*
+
 - knowledge is knowing what to say. wisdom is knowing when to say it.
 -->
 
@@ -727,7 +749,7 @@ Wisdom is knowing the long-term consequences of your actions.
 ### On mastery
 
 <!--
-There’s always room for improvement; be humble. There is no place for a «prima donna». If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
+- There’s always room for improvement; be humble. There is no place for a «prima donna». If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
 -->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
@@ -812,8 +834,15 @@ Introverts have more probability of being an expert in their field. Extraversion
 ## On education
 
 <!--
++ naval@x -- Anytime you mix education and entertainment, you get neither.
++ naval@x -- Instead of asking what books you should read, ask what ideas you should understand.
++ shl@x -- Literacy peaked with Millennials
+> *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 > *"People think of education as something that they can finish."  -- Isaac Asimov*
+> *"When you are right, you are learning nothing."*
+> *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
 
+- Young men could learn anything if you questify schools.
 - The modern education system doesn’t create leaders. It creates followers. Escape the matrix.
 - Young men could learn anything if you questify schools.
 - the problem is not, and never have been, "as good as a professional". It has always been "it’s good enoughto replace a professional so it’ll be cheaper." the key thing about AI is that AI+human is waht we’ll do.
@@ -821,10 +850,6 @@ Introverts have more probability of being an expert in their field. Extraversion
 - He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
 - career day an year -> journaling self analysis. skill fluency!
 - the next level of your life will demand a different you.
-
-> *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
-> *"When you are right, you are learning nothing."*
-> *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 -->
 
 > *"The mind is not a vessel to be filled but a fire to be kindled."  
@@ -944,8 +969,13 @@ Hints:
 
 
 
+
 ---
 ## On reading
+
+<!--
+- Barbell approach: consume what’s latest and the oldest books. Most of modern bookstores sell the middle.
+-->
 
 > *"I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me."  
 -- Ralph Waldo Emerson*
@@ -1021,10 +1051,11 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 ## On writing
 
 <!--
-> *"Write from your heart. Rewrite from your head."  -- Phoebe Waller-Bridge*
-> *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
-> *"Make it personal enough so you feel embarrassed to share it."  -- Quentin Tarantino*
++ g_s_bhogal@x -- You'll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
 > *"Life is always going to be stranger than fiction. Because fiction has to convincing. And life doesn’t."  -- Neil Gaiman*
+> *"Make it personal enough so you feel embarrassed to share it."  -- Quentin Tarantino*
+> *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
+> *"Write from your heart. Rewrite from your head."  -- Phoebe Waller-Bridge*
 
 - We don’t need ChatGPT to write letters and emails. Just send the prompts.
 - o poeta faz a sintese das coisas
@@ -1119,6 +1150,10 @@ Hints:
 
 ---
 ## On habits and systems
+
+<!--
+> *"You'll never change your life until you change something you do daily. The secret to your success is found in your daily routine."  -- John C. Maxwell*
+-->
 
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 -- Will Durant*
@@ -1217,6 +1252,10 @@ Intelligence is a spectrum, your dog is intelligent also.
 ### On geniality
 
 <!--
++ naval@X -- Intelligence not only demands solitude but feeds upon it.
++ naval@x -- The smarter you are, the faster you see through any given game.
++ signulll@x -- the illusion of human exceptionalism crumbles fast when you see how much of our intelligence is just pattern recognition & predictive modeling. ai exposes how much of what we call «creativity» is remixing, how much «insight» is regurgitation, & how much «expertise» is just memorized heuristics.
+> *"All these years that I had spent in the service of mankind brought me nothing but insults and humiliation."  -- Nikola Tesla's (last message to his mother)* 
 > *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan*
 -->
 
@@ -1278,9 +1317,11 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 <!--
 > *"We are not rich by what we possess but by we can do without."  -- Immanuel Kant*
++ alexhormozi@x -- Three levels of wealth: No meetings. Lots of meetings. No meetings.
 
 - Wealth is the slave of the wise man and master of the fool.
 - «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
+- people don't get rich because of intelligence. Most people who get rich in business are usually insanely self-disciplined. Self-discipline is the real metric for succes
 -->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
@@ -1317,6 +1358,13 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 -- Queen Elizabeth*
 
 ### On money
+
+<!--
+- Never worship money, but always avoid people who hate money. They hate competence. They have a distorted view of reality. They are losers. Never associate with losers... or you’ll become one.
++ naval@x -- Don’t make things so you can make money; make money so you can make things.
++ naval@x -- It doesn’t take money to make money, it takes leverage to make money.
++ shl@x -- Where there’s value, there’s money.
+-->
 
 Money is a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
 
@@ -1445,6 +1493,12 @@ Scared money never wins. It’s all about the risk of losing money versus the ri
 ### How to spot good investments?
 
 <!--
++ naval@x -- The #1 thing you should look for in an investor is conviction.
++ naval@x -- The best investors have no use for spreadsheets.
+> *"I would rather earn 1% off 100 people's efforts than 100% of my own efforts."  -- John D. Rockefeller*
+> *"Much of investing is avoiding FOMO buying and panic selling."  -- Naval Ravikant*
+> *"The big money is not in the buying and selling, but in the waiting."  -- Charlie Munger*
+
 - I don’t waste time with unpriced listings.
 -->
 
@@ -1498,6 +1552,7 @@ Hints:
 
 <!--
 > *"We’ll know that rock is dead when you have to get a degree to work in it."*
+
 - don’t strive to be well-known, strive to be worth knowing.
 -->
 
@@ -1571,7 +1626,17 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 ## On health
 
 <!--
++ naval@x -- Calm the stomach. Move the body. Rest the mind.
++ naval@x -- The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance.
++ orangebook_@x -- Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone.
++ zubymusic@X -- Healthcare is primarily your diet, exercise, sleep, and lifestyle habits. What most people call 'healthcare' is actually sick care.
+
+- A man complaining a lot is a man not accomplishing a lot.
+- a sedentary lifestyle is a magnet for depression.
+- A women is either a 0 or a 1. A hore or a wife material. Dont overcomplicate.
+- Depression and schizophrenia are so tied to poor gut bacteria that researchers can identify a person with depression just by analyzing their gut bacteria composition.
 - Pain changes people. Some become rude. Some become silent.
+- Turns out I wasn’t depressed, I just needed a job that fulfills me, a «date to marry» relationship, a consistent physical activity and high protein whole foods nutrition.
 -->
 
 > *"The secret to living well and longer is: eat half, walk double, laugh triple and love without measure."  
@@ -1603,20 +1668,28 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
++ naval@x -- Outgrow bosses, landlords, and roommates.
++ nikitabier@X -- The sole purpose of leisure travel after age 30 is to remind yourself that you’ve lost all childlike joy and the only thing that excites you is aggregating land and resources and watching number go up.
+> *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
+> *"Muscle is proof of work ethic. Fat is proof of neglect."  -- giamacool@x*
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
-> *"Muscle is proof of work ethic. Fat is proof of neglect."  -- giamacool@x*
-> *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 
-- look around, all that clutter used to be money
 - clutter is just a museum of shit you thought would make you happy.
-- Owning less is better than organising more. Eliminate instead of organize.
-- You don’t have to be rich to start living the life you want. Most people were just brainwashed into thinking that they wanted a luxurious, expensive lifestyle. A happy life tends to be much simpler: a healthy body, a mind at peace, a loving family, time to do what you love.
+- Hit the gym. Avoid drama. Smell nice. Make money. Level up your circle. Talk less. Pray more. Think highly of yourself.
+- I much prefer the riches I had - anonymity, freedom, simplicity - to those they have today - technology driven constant connectedness, ultra convenient (but awful) food, instant entertainment. It’s the difference between a vigorous independent youth and one scheduled and managed by the predominant culture. I prefer the former.
+- If you’re from a poor background, entertainment is your enemy. That sh!t will keep you poor
+- look around, all that clutter used to be money
 - never before has a generation so diligently recorded themselves accomplishing so little.
-- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
-- what’s your adrenaline type? velocidade ou fronteira do conhecido.
+- Owning less is better than organising more. Eliminate instead of organize.
 - Poor people spend to be seen. Wealthy people spend to be invisible.
+- Sex, sun, rest, exercise, diet, self-respect, real friends, money, gratitude, discipline, laughter, purpose, peace of mind., mental clarity, purpose, gratitude, meditation, growth, time in nature.
+- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
+- watching sports is «by definition» NPC behavior
+- what’s your adrenaline type? velocidade ou fronteira do conhecido.
+- When you watch sports on TV, you are watching other men live out their dreams while you doing nothing for your own dreams. You are a Dream Cuck.
+- You don’t have to be rich to start living the life you want. Most people were just brainwashed into thinking that they wanted a luxurious, expensive lifestyle. A happy life tends to be much simpler: a healthy body, a mind at peace, a loving family, time to do what you love.
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -1747,8 +1820,10 @@ Hints:
 ## On success
 
 <!--
-> *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
+> *"If you want to be successful, you must respect one rule – never lie to yourself."  -- Paulo Coelho*
 > *"Nothing is more common than unsuccessful people with talent. Leave the house before you find something worth staying in for."  -- Banksy*
+> *"The most successful people I know believe in themselves almost to the point of delusion."  -- Sam Altman*
+> *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -1844,6 +1919,10 @@ We don’t get successful by knowing everything, we get successful by listening.
 
 ## On stress
 
+<!--
+> *"Stress primarily comes from not taking action over something that you can have some control over."  -- Jeff Bezos*
+-->
+
 > *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
 -- Erik Vance*
 
@@ -1881,23 +1960,30 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 ### On depression and anxiety
 
 <!--
-> *"The #1 reason to be anonymous is insecurity."  -- Sahil Lavingia*
-> *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  -- rapahelz@x*
-> *"An intellectual is someone whose mind watches itself."  -- Albert Camus*
-
++ _falsi1ke@x -- Most men don't ask for help. They suffer in silence. If a man is asking for your help, You are his last hope.
++ _falsi1ke@x -- Unemployment hits different when you’re a man. Your Family treats you differently. People lose respect for you. Nobody cares about you and what you say. Your Family is only nice when you have something to offer. May the universe be kind to our unemployed brothers.
++ alpharivelino@x -- A woman's insecurities make her more beautiful. A man's insecurities make him more pathetic
++ morganhousel@x -- A really ugly mix is intelligence + insecurity.
++ naval@X -- The central contradiction of therapy is that the source of unhappiness is thinking about yourself.
 + orangebook_@x -- You are not anxious because you have too much to do, you are anxious because you are not doing what you know you should be doing.
++ willmanidis@x -- I’ve met many more people who turned their lives around by walking around aimlessly for a couple hours a day than I’ve met people who have had their lives improved at all by professional therapy
+> *"An intellectual is someone whose mind watches itself."  -- Albert Camus*
+> *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  -- rapahelz@x*
+> *"Just like a low resting heart rate is the byproduct of intense exercise, low anxiety is the byproduct of intense self-examination." — Naval Ravikant*
+> *"Self-obsession is the root of all unhappiness. The happiest people in life love something more than they love themselves. They love their children, they love God, they love their mission, what have you. And all misery comes from rumination, from sitting around...going in circles in your head about me, me, me, me. I get interested in topics and concepts and ideas and understandings. And the more I focus that way, the less I think about myself."  -- NAVAL*
+> *"The #1 reason to be anonymous is insecurity."  -- Sahil Lavingia*
 
-- You know a nigga depressed once he starts going on walks.
-- The more alone a man is, the more likely he is to get into "depression". Live alone, eat alone, work alone, never go out = depression. Spend more time with people, go out in nature, lift weights, and eat good food - no depression.
-- Turns out I wasn’t depressed, I just needed a job that fulfills me, a «date to marry» relationship, a consistent physical activity and high protein whole foods nutrition.
-- It took me 13 years to realize that the only cure to depression is just leaving the house at every single possible opportunity no matter how badly you don’t want to.
-- the only thing complaining does is convince other people that you are not in control.
 - cages aren’t made of iron, they’re made of thoughts.
-- we don’t have anxiety for things we think we can handle!
+- It took me 13 years to realize that the only cure to depression is just leaving the house at every single possible opportunity no matter how badly you don’t want to.
 - Most people are not extremes and most people are in the middle. Most things are not binary. Introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
 - the heaviest burdens that we carry are the thoughts in our heads.
+- The more alone a man is, the more likely he is to get into "depression". Live alone, eat alone, work alone, never go out = depression. Spend more time with people, go out in nature, lift weights, and eat good food - no depression.
+- the only thing complaining does is convince other people that you are not in control.
+- Turns out I wasn’t depressed, I just needed a job that fulfills me, a «date to marry» relationship, a consistent physical activity and high protein whole foods nutrition.
+- we don’t have anxiety for things we think we can handle!
 - what is poison? anything beyond what we need is poison. it can be power, laziness, food, ego, ambition, vanity, fear, anger, or whatever.
 - you can’t heal if you keep pretending you’re not hurt.
+- You know a nigga depressed once he starts going on walks.
 -->
 
 > *"If you are depressed you are living in the past.  
@@ -2068,6 +2154,7 @@ Fear makes the wolf bigger than he really is.
 
 <!--
 > *"He who jumps into the void owes no explanation to those who stand and watch."
++ naval@x -- Because, as Taleb says, courage is the only virtue that can’t be faked.
 
 - bravery is learned -> micro-bravery, start small
 -->
@@ -2166,6 +2253,10 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 ---
 ## On failure
 
+<!--
+> *"Failure is irrelevant unless it is catastrophic."  -- Elon Musk*
+-->
+
 > *"Experience is merely the name men gave to their mistakes."  
 -- Oscar Wilde*
 
@@ -2228,7 +2319,6 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 ### On anger
 
 <!--
-
 - Most angry people are envious people who don’t understand that life will only get better once they are focused on their own lives and actively improving who they are.
 -->
 
@@ -2294,12 +2384,12 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 ## On shame, confidence and validation
 
 <!--
-- How you view yourself is how people will view you.
-- People with low self-esteem protect themselves by not taking risks. High self-esteem gives you the power of confidence to take chances.
-- Normalize this. Normalize that. How about you feel shame for once?
-- you cannot live when you are untouchable. Life is vulnerability.
 - Do what scares you until it doesn’t.
+- How you view yourself is how people will view you.
 - humble enough to know i’m replaceable. cocky enough to know is a downgrade.
+- Normalize this. Normalize that. How about you feel shame for once?
+- People with low self-esteem protect themselves by not taking risks. High self-esteem gives you the power of confidence to take chances.
+- you cannot live when you are untouchable. Life is vulnerability.
 -->
 
 > *"Man is not what he thinks he is, he is what he hides."  
@@ -2327,7 +2417,12 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 ### On confidence and validation
 
 <!--
+- Confidence in public comes from discipline in private.
+- I can see in his eyes whether he’s confident about himself.
+- I can tell if his confidence is fake. Real confidence is like an aura, calm assuredness. Fake confidence is loud, annoying and needy.
+- If her words can hurt you Then you are WEAK
 - People who lack self-confidence love to make fun of others and denigrate their success, that’s how they feel better about themselves, don’t take it personally.
+- The more confident a man is, the slower he will talk
 - you’re so busy doubting yourself while so many others are intimidated by your potential.
 -->
 
@@ -2440,9 +2535,9 @@ Entitlement comes in two forms:
 ### On addictions
 
 <!--
+- Porn isn’t real sex. Cocaine isn’t real energy. Alcohol isn’t real courage. Gambling isn’t real investing. Nightly news isn’t real facts. Social media isn’t really social. Business books aren’t real business.
 - signs of a man who has lost control of his life: watch porn. addicted to comfort. addicted to drugs and alcohol. spend all day indoor.
 - So many men lose themselves trying to make an ungrateful woman happy.
-- Porn isn’t real sex. Cocaine isn’t real energy. Alcohol isn’t real courage. Gambling isn’t real investing. Nightly news isn’t real facts. Social media isn’t really social. Business books aren’t real business.
 -->
 
 > *"The three most harmful addictions are heroin, carbohydrates, and a monthly sallary."  
@@ -2454,6 +2549,11 @@ Nietzsche describes 3 modern vices: OVERWORK (to be constantly busy is self-nega
 -- k__quotes@x*
 
 ### On introversion
+
+<!--
++ karunpal@x -- Introverts, being "too nice" is not kindness, it’s a trauma response. Where does this come from? For many, it starts in childhood: Growing up in unpredictable environments; having to please parents to avoid punishment or neglect; believing your worth depends on keeping others happy. This behavior becomes survival.
++ kaseyklimes@x -- the introvert/extrovert dichotomy has always struck me as a bit silly. people generally gain energy spending time with people they feel they can be their authentic selves around. they generally spend energy being around people they feel they can’t.
+-->
 
 > *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you’re actually extroverted around people who bring you peace."  
 -- Zachary Laid*
@@ -2473,6 +2573,13 @@ There are no introverts, only people that don't feel safe.
 
 ---
 ## On jealousy and envy
+
+<!--
++ naval@x -- The only people worth envying are the ones incapable of envy.
+
+- A inveja mata-nos. O sucesso dá-nos vida!
+- Humans hate the most successful humans as it makes their little egos feel inferior.
+-->
 
 > *"You’ll never be criticized by someone who is doing more than you. You’ll always be critized by someone who is doing less. Remember that."  
 -- Denzel Washington*
@@ -2555,6 +2662,10 @@ Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 
 ---
 ## On pessimism
+
+<!--
+> *"It’s good to be optimistic in the general and skeptical in the specific. It’s very dangerous to be pessimistic in the general and optimistic in the specific."  -- Naval Ravikant*
+-->
 
 > *"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."  
 -- William Arthur Ward*
@@ -2767,6 +2878,10 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 
 ### On self awareness
 
+<!--
++ naval@x -- Can you look in the mirror without telling a story about yourself?
+-->
+
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
 -- François de La Rochefoucauld*
 
@@ -2829,9 +2944,9 @@ Hints:
 ## On growing old
 
 <!--
-- Spiritual maturity begins when we feel like we have to stop taking care of the world.
 - As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life.
 - At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don’t know.
+- Spiritual maturity begins when we feel like we have to stop taking care of the world.
 -->
 
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
@@ -2972,6 +3087,9 @@ Finding a place to die is an important thing to do.
 
 <!--
 > *"I hate who teals my solitude without, in exchange, offering me true company."  -- Friedrich Nietzsche*
+
+- the cure to male loneliness is being extremely ambitious
+- A person who is okay with being alone is a powerful person.
 -->
 
 > *"If a man knows more than others he becomes lonely." (...)  
@@ -2983,3 +3101,9 @@ Finding a place to die is an important thing to do.
 
 > *"A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free."  
 -- Arthur Schopenhauer*
+
+### On pride
+
+<!--
++ zubymusic@x -- Pride keeps people poor more than laziness does.
+-->

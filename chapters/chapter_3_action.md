@@ -172,10 +172,17 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ## On analysis
 
 <!--
-> *"On a poll 79% are right. In life, 79% are usually wrong."  -- warikoo@x*
++ rapahelz@X -- The hallmark of clear thinking is skepticism with regard to dominant narratives.
++ scottadamssays@x -- Complexity is always a cover for fraud. In every domain.
++ wordgrammer@x -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
+> *"All rumors about a public figure are to be deemed untrue until he threatens to sue."  -- Nassim Taleb*
+> *"All the ways of a man are clean in his own sight, but the Lord weighs the motives."  -- Proverbs 16:2*
+> *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  -- Morgan Housel*
 > *"Invisible things are the only realities"  -- Edgar Allen Poe*
+> *"On a poll 79% are right. In life, 79% are usually wrong."  -- warikoo@x*
 
 - if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
+- It's less about the past men than the future men. Past actions predict future actions. Hoeing around, then getting scared and wanting to "settle down", is basically a guarantee that she has no intention of changing her behavior. She's just realizing how much she has to lie. Never forget: Your word is your power.
 - We overlook major flaws in those we like. And exaggerate minor faults in those we don’t.
 -->
 
@@ -255,15 +262,15 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 <!--
 > *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
 
-- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
-- if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
-- tese antitheses -> syntesis
-- The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
-Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
-- The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
-- Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
-- Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 - As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths - even those that had seemed so certain as to be immune to the very possibility of revision - are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
+- Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
+- if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
+- Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
+- tese antitheses -> syntesis
+- The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
+- The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
+- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
+Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
 -->
 
 - True motivations are revealed, not declared.
@@ -341,8 +348,18 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ### On truth
 
 <!--
++ naval@x -- Curiosity is just the search for truth.
++ naval@X -- Mystics search for truth - the truth of what is. Scientists search for truth - the truth of how it works. Entrepreneurs search for truth - the truth of what people want.
++ naval@x -- There are infinite ways to lie, there’s only one way to tell the truth.
++ naval@X -- Truth is that which, once you see it, you can’t unsee it.
++ naval@x -- Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).
++ thomassowell@x -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with "hate speech" laws.
++ zubymusic@x -- Conservatives get mad when you lie to them. Progressives get mad when you tell them the truth.
 > *"People don’t realize how hard is to speak the truth, to a world full of people that don’t realize they’re living in a lie."  -- Edward Snowden*
 > *"Sometimes people don’t want to hear the truth because they don’t want their ilusions destroyed."  -- Friedrich Nietzsche*
+> *"Truth emerges from the clash of adverse ideas." -- John Stuart Mill*
+
+- A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
 - How do you tell who’s telling the truth? The ones trying to silence other people are the ones lying.
 -->
 
@@ -423,9 +440,10 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 <!--
 > *"whatever you want to achieve you can achieve faster if you get hyperspecific."  -- anuatluru@x*
 
-- The Romans removed the soldiers’ incentive to be a coward and hurt others thanks to a process called decimation. If a legion loses a battle and there is suspicion of cowardice, 10 percent of the soldiers and commanders are put to death, usually by random lottery.
+- 20% of the game is strategy. 80% of the game is not quitting.
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 - Don’t tell everyone your plans, instead show them your results.
+- The Romans removed the soldiers’ incentive to be a coward and hurt others thanks to a process called decimation. If a legion loses a battle and there is suspicion of cowardice, 10 percent of the soldiers and commanders are put to death, usually by random lottery.
 -->
 
 > *"All battles are won or lost before they are ever fought."  
@@ -537,33 +555,33 @@ Hints:
 ## On decision making
 
 <!--
++ naval@x -- Decisions: If you can’t decide, the answer is no. / If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality). / Choose the path that leaves you more equanimous in the long term.
++ sahilbloom@x - The worst decisions in life are made when you allow your head to talk you into something when your gut already said no.
+> *"My brother says to never make a big decision before you take a shower."*
 > *"Se não houvesse decisoes eramos todos iguais."  -- António Simões*
 
-+ sahilbloom@x - The worst decisions in life are made when you allow your head to talk you into something when your gut already said no.
-
+- a good decision is risking little for the opportunity to gain a lot. and vice-versa.
+- Actions > Thoughts; Actions change the world. Not beliefs.
+- As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
+- Ask yourself “does this decision require fast or slow thinking?” 
+- Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
+- Blue collar want to feel the same as others. White collar want to feel different from others.
 - Consensus happens just in the beginning and in the end of something.
-> *"My brother says to never make a big decision before you take a shower."*
-- you must learn to proceed without certainty.
-- Wait 48 hours before buying stuff
+- decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
+- estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game’ should give estimates.
+- everything is a trade-off.
+- find 3 people that high expertise but that they discord and listen. take your conclusions
 - for every complex problem there is an answer that is clear, simple, and wrong.
 - indecision comes from not knowing what you want. they don’t know what matters to them nor have found something larger then themselves to commit to.
-- everything is a trade-off.
-- a good decision is risking little for the opportunity to gain a lot. and vice-versa.
-- people are punished for bad decisions and rarely rewarded for good decisions.
-- Ask yourself “does this decision require fast or slow thinking?” 
+- Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
 - Occam’s razor states that the simplest solution is usually correct.
+- people are punished for bad decisions and rarely rewarded for good decisions.
 - the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
-- estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game’ should give estimates.
-- With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
-As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
-- Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
-Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
-- Actions > Thoughts; Actions change the world. Not beliefs.
-- find 3 people that high expertise but that they discord and listen. take your conclusions
 - The Problems With Goals: Goals have an endpoint. Goals rely on factors which we do not always have control over. Goals rely on willpower and self-discipline. Goals can make us complacent or reckless.
-- Blue collar want to feel the same as others. White collar want to feel different from others.
-- decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
-- Your product is decisions. 
+- Wait 48 hours before buying stuff
+- With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
+- you must learn to proceed without certainty.
+- Your product is decisions.
 -->
 
 > *"May your choices reflect your choices, not your fears."  
@@ -698,23 +716,23 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 ## On starting and timing
 
 <!--
-> *"For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn’t conspire against you, but it doesn’t go out of its way to line up all the pins either. Conditions are never perfect. “Someday” is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it “eventually,” just do it and correct course along the way."  -- Tim Ferriss*
-- keep earning your title, or it expires. -- Derek Sivers
-> *"The cold water doesn’t get warmer if you jump late." 
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
+> *"The cold water doesn’t get warmer if you jump late." 
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
 
-- The dumbest thing smart people do: Overthink. The smartest thing dumb people do: Act.
-> *"Brooks’ Law: Adding manpower to a late software project makes it later.*
-- you always throw out your first pancake - primeiro milho é para os pardais
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
-- Research is not doing something. Knowledge is never the issue, action is.
-- The more “goal oriented” is the task, the more a potential 10x programmer
-- monk mode -> no communication during mornings, only deep work -> meetings afternoon
 - If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
 - jogar c o baralho todo / jogar com um subset
+- keep earning your title, or it expires. -- Derek Sivers
+- monk mode -> no communication during mornings, only deep work -> meetings afternoon
+- Research is not doing something. Knowledge is never the issue, action is.
+- The dumbest thing smart people do: Overthink. The smartest thing dumb people do: Act.
 - The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
+- The more “goal oriented” is the task, the more a potential 10x programmer
 - The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
+- you always throw out your first pancake - primeiro milho é para os pardais
+> *"Brooks’ Law: Adding manpower to a late software project makes it later.*
+> *"For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn’t conspire against you, but it doesn’t go out of its way to line up all the pins either. Conditions are never perfect. “Someday” is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it “eventually,” just do it and correct course along the way."  -- Tim Ferriss*
 -->
 
 > *"A year from now, you will wish you had started today."  
@@ -781,6 +799,13 @@ Stop making resolutions and start making something. Time is the most precious th
 
 ### On timing and patience
 
+<!--
++ alexhormozi@x -- The lazy don’t know how to start. The losers don’t know how to finish. The legends don’t know how to stop.
++ shl@x -- Thinking before you speak is a skill
+
+- Always leave the party early. Show class. Don’t be the clingy friend that spends the night. Don’t be the needy one who asks what’s next. Leave before it’s too late. Leave at the peak. Be the peak.
+-->
+
 > *"The early bird may get the worm, but the second mouse gets the cheese."  
 -- Unknown*
 
@@ -827,9 +852,12 @@ Stop making resolutions and start making something. Time is the most precious th
 ### On procrastination
 
 <!--
-- You’re too gifted to be paralyzed by procrastination. Dear son, I need you to focus.
 - i think procrastination leads to burnout much more than work does.
+- Just finished the book «Buy Back Your Time». Key takeaway? Outsource your weaknesses. It isn’t lazy, it’s smart. Double down on your zone of genius and watch your business, health and life transform.
+- Laziness is just a symptom of not having something worth waking up for. It’s a lack of direction. When your goals align with your passions, laziness fades away because you’re driven by something bigger than yourself. Purpose fuels progress. It’s about building something that outlasts you.
 - Laziness is often disguised as a lack of knowledge.
+- One pattern I’ve noticed in all miserable people: They overthink and underact.
+- You’re too gifted to be paralyzed by procrastination. Dear son, I need you to focus.
 -->
 
 > *"The more something threatens your identity, the more you will avoid it." (...)  
@@ -880,10 +908,14 @@ Hints:
 ---
 ## On speed and direction
 
+<!--
+- Most successful people I’ve met are not that smart. They just move fast, take risks and work a lot.
+-->
+
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker*
 
-> *"I’m a slow walker but I never walk back."  
+> *"I’m a slow walker, but I never walk back."  
 -- Abraham Lincoln*
 
 > *"Most people overestimate what they can do in one year and unRderestimate what they can do in ten years."  
@@ -928,12 +960,12 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 > *"The essential thing is to work in a state of mind that approaches prayer."  
 > *"A complex system that works is invariably found to have evolved from a simple system that works."*
 
-- Until it’s done tell none.
-- you will never reach your destination if you stop and throw stones at every dog that barks.
+- if it is important to you you’ll find a way, if not you’ll find an excuse.
 - If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
 - pessoas hj em dia querem ser especialistas de tudo.
-- if it is important to you you’ll find a way, if not you’ll find an excuse.
 - priorities are like arms. if you think you have more than a couple, you’re either lying or crazy.
+- Until it’s done tell none.
+- you will never reach your destination if you stop and throw stones at every dog that barks.
 -->
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
@@ -1007,16 +1039,17 @@ Hints:
 
 <!--
 > *"The greatest muscle you can build is urgency. Decrease the time between having an idea and getting it done. Everything changes."  -- codie_sanchez@x*
++ naval@X -- Q: What is overrated? A: “Hard work is really overrated. How hard you work matters a lot less in the modern economy. Q: What is underrated? A: Judgment. Judgment is underrated.
 
-- parkinson’s law - if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
-- taking care of yourself is productivity
 - 6 months of focus and hard work can put you 5 years ahead in life.
-- work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
-- Strategic laziness as a leverage point.
-- maker days and manager days
-- how to say no? I’m busy. Is a excuse for not doing something we don’t feel like doing.
 - Focus on adaptability not effectiveness
+- how to say no? I’m busy. Is a excuse for not doing something we don’t feel like doing.
 - If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable."*	
+- maker days and manager days
+- parkinson’s law - if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
+- Strategic laziness as a leverage point.
+- taking care of yourself is productivity
+- work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
 try to hit 10% of your followers instead of trying to hit all of them at the same time.
 -->
 
@@ -1216,6 +1249,7 @@ Every outcome in life is guided by forces other than individual effort. The best
 
 <!--
 > *"They say Trump is out of control, but he’s not. He’s just out of their control."  -- Tucker Carlson*
++ skylarromines@x -- Never correct anyone who’s wrong unless you’re being paid to do it. Watch quality of life improve.
 
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
@@ -1330,14 +1364,17 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-> *"You can ignore reality, but you can’t ignore the consequences of ignoring reality."  -- Ayn Rand*
 > *"The problem is not to find the answer, it’s to face the answer."  -- Terence Mckenna*
+> *"You can ignore reality, but you can’t ignore the consequences of ignoring reality."  -- Ayn Rand*
++ naval@x -- People think they can’t change themselves, but they can. People think they can change others, but they can’t.
++ omanueljoaquim@x -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
++ shl@x -- You can’t change someone. All you can do is understand them
 
+- grow also feels like loss
+- Inertia is why a car does not stop the moment the brakes are applied.
 - next shot is more important than last mistake.
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
-- grow also feels like loss
-- Inertia is why a car does not stop the moment the brakes are applied.
 -->
 
 > *"This is the joy of the rose, that it blows, and then it goes."  
@@ -1464,11 +1501,14 @@ There are limits on change. Willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
-- You must play by your rules, funnel your weird stuff to give you some advantage.
-- What’s your advantage: informational, analytical, or behavioral?	
-- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
-- failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
+> *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  -- George Orwell*
++ paulskallas@x -- Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage.
+
 - applying force vs removing obstacles. when you apply force you can identify obstacles. -- codie_sanchez@x*
+- failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
+- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
+- What’s your advantage: informational, analytical, or behavioral?	
+- You must play by your rules, funnel your weird stuff to give you some advantage.
 -->
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
@@ -1523,13 +1563,16 @@ Hints:
 ### On charming
 
 <!--
-> *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  -- Carl Jung*
++ naval@x -- Good people don’t spend time moralizing about how good they are.
 > *"Diplomacy is the art of telling people to go to hell in such a way that they ask for directions."  -- Winston Churchill*
+> *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  -- Carl Jung*
+> *"You will never fully convince someone that he is wrong; only reality can."  -- Nassim Nicholas Taleb*
 
-- People only get defensive if what you’re saying about them is true.
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.
-- the good reason and the real reason.
+- Never trust a person who hangs out with the same people that they talk bad about.
+- People only get defensive if what you’re saying about them is true.
 - the best way to get someone’s attention is to stop giving them yours.
+- the good reason and the real reason.
 - When someone can’t use logic to make you care about the same things they care about, they resort to name-calling: sociopath, soulless, etc. But recall: misplaced empathy is why the west is falling. -- Diane Yap
 -->
 
@@ -1585,7 +1628,9 @@ Hints:
 <!--
 > *"Muddy water is best cleared by leaving it alone."  -- Alan Watts*
 > *"They muddy the water, to make it seem deep."  -- Friedrich Nietzsche*
+> *"Yo no escucho lo que dice la gente, solo observo lo que hacen. El comportamiento nunca miente"  -- Winston Churchill*
 
+- Acusa-os sempre daquilo que tu fazes
 - always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
 -->
 
@@ -1696,6 +1741,8 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 ### On defeating status quo
 
 <!--
+> *"Growth means change and change involves risk, stepping from the known to the unknown."  -- George Shinn*
+
 - we are fighting a trillion dollar propaganda machine with memes.
 -->
 
@@ -1784,6 +1831,8 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 ## On winning
 
 <!--
+> *"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."  -- Sun Tzu*
+
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
 - tecnically win or fundamentally win
 - sportification of our culture. resistance doesn’t imply competition.
@@ -1964,11 +2013,11 @@ If you don’t reconcile you’re postponing war.
 ## On past
 
 <!--
+- history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
+- never be a prisoner of your past. It was just a lesson not a life sentence.
+- no one is there anymore.
 - One day each of us burned a cd for the last time but we didn´t know it was the last time.
 - One million seconds ago was 11 days ago. One billion seconds ago was 31 years ago.
-- never be a prisoner of your past. It was just a lesson not a life sentence.
-- history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
-- no one is there anymore.
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
@@ -2090,8 +2139,10 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 ## On present
 
 <!--
-- 96 blocks a day -- wait but why
+> *"Money has no utility to me. Time has utility to me."  -- Warren Buffett*
+
 - Think in years, work in days, live in the moment.
+- «4000 weeks» is by far the most insane framing for how short life is. “80 summers” is easily the most insane way to describe how short life is. | 96 blocks a day -- wait but why
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
@@ -2146,6 +2197,11 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 
 ---
 ## On future
+
+<!--
++ g_s_bhogal@x -- Your future is constantly shrinking, so the longer you spend preparing for it, the smaller it's going to be.
++ naval@x -- The future belongs to people who are good at creating things, not people who are good at dividing them up.
+-->
 
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
 -- Michaelangelo*
