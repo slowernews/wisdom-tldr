@@ -15,14 +15,14 @@
 -->
 
 > *"Knowledge speaks, but wisdom listens."  
--- Jimi Hendrix*
+-- Jimi Hendrix [1942]*
 
 Speak less and listen more. Talk slow. Be clear. Never mumble. Don’t interrupt. If you can’t be kind, be quiet. The quieter you become. The more you can hear.
 
 > *"A silent man is the best one to listen to." (...)  
 "Say a little and say it well." (...)  
 "Silence cannot be misquoted."  
--- Proverbs*
+-- vox populi*
 
 > *"Give me the gift of a listening heart."  
 -- King Solomon [-970]*
@@ -64,16 +64,16 @@ Hints:
 -- François Fénelon [1651]*
 
 > *"Think like a wise man but communicate in the language of the people."  
--- W.B. Yeats*
+-- W.B. Yeats [1865]*
 
 > *"Two monologues do not make a dialogue."  
--- Jeff Daly*
+-- Jeff Daly *
 
 > *"A little inaccuracy sometimes saves tons of explanation."  
--- H.H. Munro*
+-- H.H. Munro *
 
 > *"Everyone you meet always asks if you have a career, are married or own a house; as if life was some kind of grocery list. But nobody ever asks if you are happy."  
--- Heath Ledger*
+-- Heath Ledger *
 
 ### How to discord?
 
@@ -84,7 +84,7 @@ Hints:
 -->
 
 > *"Admit when you’re wrong. Shut up when you’re right."  
--- John Gottman*
+-- John Gottman [1942]*
 
 Don’t raise your voice. improve your argument.
 
@@ -101,7 +101,7 @@ Listen as you’re wrong. Ask the person trying to convince you of something to 
 -- Naval Ravikant [1974]*
 
 > *"Be curious, not judgmental."  
--- Walt Witman*
+-- Walt Witman *
 
 ### How to tell stories?
 
@@ -140,7 +140,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Improvisation is the ability to talk with oneself."  
--- Cecil Taylor*
+-- Cecil Taylor *
 
 
 
@@ -217,7 +217,7 @@ Hints:
 -- Dale Carnegie [1888]*
 
 > *"If you expect magic in every encounter, you’ll find it."  
--- Adam Robinson*
+-- Adam Robinson [1955]*
 
 > *"Mediocre talent seeks to figure out how to network. Great talent seeks to figure out how to contribute."  
  -- rapahelz@x*
@@ -245,7 +245,7 @@ Handling rejection is hard. Period. We don’t like people that see us in a way 
 Choose truth or your self-mythology will seduce you.
 
 > *"When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes."  
--- Jordan Harbinger*
+-- Jordan Harbinger [1980]*
 
 > *"when you want to tell stories, be it startup pitches, or just stories about your experiences, always share them in three points—no more, no less. the human mind & the underlying world gravitates towards threes, look at any industry, typically the equilibrium points lie in threes. there are also numerous other examples that paint this phenomena. it’s a magic number for communication. story tellers rule the world."  
 -- signulll@x*
@@ -326,11 +326,14 @@ Choose truth or your self-mythology will seduce you.
 -->
 
 > *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."  
--- Santiago Nestares*
+-- Santiago Nestares [1997]*
 
 Focus on what you can easily give that empowers others.
 
 Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet. It’s not about what you know, it’s about who trusts you to solve their problems. Often, it requires the technical skills. Always, it requires the persuasion skills.
+
+> *"Without customers, you don’t have a business. You have a hobby."  
+-- Don Peppers [1946] & Martha Rogers [1938]*
 
 > *"A business is simply an idea to make other people’s lives better." (...)  
 "If you can change people’s lives you have a business."  
@@ -340,11 +343,11 @@ Validate your business by finding paying clients. If something is worth doing, s
 "Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
 -- Kevin Kelly [1952]*
 
-> *"Your margin is my opportunity."  
--- Jeff Bezos [1964]*
-
 > *"Don’t find customers for your products. Find products for your customers."  
 -- Seth Godin [1960]*
+
+> *"Your margin is my opportunity."  
+-- Jeff Bezos [1964]*
 
 > *"What you need to start a new business: generosity."  
 -- Derek Sivers [1969]*
@@ -365,9 +368,6 @@ Validate your business by finding paying clients. If something is worth doing, s
 "Startups don’t die when they run out of cash, they die when the founders run out of energy."  
 -- Naval Ravikant [1974]*
 
-> *"Without customers, you don’t have a business. You have a hobby."  
--- Don Peppers & Martha Rogers*
-
 First try to sell it. Than build it.
 
 If you build something that people say they’ll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a «wannapreneur». At that point it’s just part of the struggle.
@@ -387,7 +387,7 @@ Hints:
 - There’s the myth that failure makes you a better entrepreneur. This is true only if you study your failures.
 
 > *"Don’t open a shop unless you know how to smile."  
--- Proverb*
+-- vox populi*
 
 > *"Microsoft is always two years away from failure."  
 -- Bill Gates [1955]*
@@ -396,9 +396,10 @@ Hints:
 -- Steve Jobs [1955]*
 
 > *"What one piece of advice would you give someone starting a company? Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too."  
--- David Velez (Nubank)*
+-- David Velez [1982]*
 
-> *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."*
+> *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."  
+-- Unknown *
 
 
 
@@ -507,7 +508,7 @@ Modern selling: farmers (ambiverts and introverts)
 -- Ryan Holiday [1987]*
 
 > *"Advertising serves not so much to advertise products as to promote consumption as a way of life."  
--- Carl Lash*
+-- Carl Lash *
 
 ### On negotiation
 	
@@ -545,11 +546,11 @@ Hints:
 > *"Flattery is the infantry of negotiation."  
 -- Lord Chandos [1872]*
 
+> *"People may or may not say what they mean but they always say something designed to get what they want."  
+-- David Mamet [1947]*
+
 > *"When asking for help, appeal to people’s self-interest, never to their mercy or gratitude."  
 -- Robert Greene [1959]*
-
-> *"People may or may not say what they mean but they always say something designed to get what they want."  
--- David Mamet*
 
 However always strive to achieve a win-win situation. When both sides don’t take what they need from it, the deal may fall. The most dangerous negotiation is the one you don’t know you’re in.
 
@@ -585,15 +586,15 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 > *"Nowadays people know the price of everything and the value of nothing."  
 -- Oscar Wilde [1854]*
 
+> *"Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource."  
+-- Allen Tucker [1866]*
+
 > *"When you don’t know how much to pay someone for a particular task, ask them «what would be fair» and their answer usually is."  
 -- Kevin Kelly [1952]*
 
 > *"Pay double and insist on ten times the quality." (...)  
 "If it takes an expert to tell you what it’s worth, it isn’t worth anything."  
 -- Naval Ravikant [1974]*
-
-> *"Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource."  
--- Allen Tucker*
 
 > *"At some point you begin to define «expensive» in terms of time instead of money."  
 -- realestatetrent@x*
@@ -611,7 +612,7 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 
 > *"A bit of fragrance clings to the hand that gives flowers." (...)  
 "A candle loses nothing by lighting another candle."  
--- Proverbs*
+-- vox populi*
 
 No one on their deathbed has ever regretted giving too much away.
 
@@ -622,7 +623,7 @@ Hints:
 - A low value gift may have the opposite effect.
 
 > *"A guest and a fish stink in three days."  
--- Proverb*
+-- vox populi*
 
 > *"He that gives should never remember and he that receives should never forget."  
 -- Talmud*
@@ -636,20 +637,20 @@ Hints:
 > *"Use money to reward the best, not to motivate the rest."  
 -- Naval Ravikant [1974]*
 
+> *"Attention is the rarest and purest form of generosity."  
+-- Simone Weil *
+
+> *"The miracle is this: the more we share the more we have."  
+-- Leonard Nimoy *
+
 > *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he’d learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I’ll write you a check». Almost everyone who was just in it for the handouts couldn’t be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He’d hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn’t want to spend time with him so there was never really a conflict there." (...)  
 "My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn’t lessen his genuine love for everyone, just let him be a little more super human."  
 -- danielvf@hn*
 
-> *"Attention is the rarest and purest form of generosity."  
--- Simone Weil*
-
-> *"The miracle is this: the more we share the more we have."  
--- Leonard Nimoy*
-
 ### On incentives
 
 > *"In nature there are neither rewards nor punishments, there are consequences."  
--- Robert G. Ingersoll*
+-- Robert G. Ingersoll *
 
 Powerful people give freely, buying influence rather than things.
 
@@ -661,7 +662,7 @@ Hints:
 - Punish bad behavior consistently, reward good behavior intermittently
 
 > *"Rewards and punishment is the lowest form of education."  
--- Zhuang Zhou*
+-- Zhuang Zhou [-369]*
 
 > *"Never take compliments personally. People compliment you because they like you, not because you’re perfect."  
 -- farshadsarrafi@x*
@@ -732,6 +733,12 @@ Hints:
 > *"Only the guy who isn’t rowing has time to rock the boat."  
 -- Jean-Paul Sartre [1905]*
 
+> *"You can tell a bully from a leader by how they treat people who disagree with them."  
+-- Miles Davis [1926]*
+
+> *"Effective leadership is putting first things first. Effective management is discipline, carrying it out."  
+-- Stephen Covey [1932]*
+
 > *"Leaders must be close enough to relate to others, but far enough ahead to motivate them."  
 -- John C. Maxwell [1947]*
 
@@ -750,57 +757,49 @@ Hints:
 -- Ryan Holiday [1987]*
 
 > *"Leadership is not about being followed, is about being first."  
--- Dan Munro*
-
-> *"You can tell a bully from a leader by how they treat people who disagree with them."  
--- Miles K. Davis*
+-- Dan Munro *
 
 > *"If you wish to control others you must control yourself."  
--- Miyamoto Musashi*
-
-> *"The only thing that gives orders is balls."  
--- Tony Montana*
-
-> *"Effective leadership is putting first things first. Effective management is discipline, carrying it out."  
--- Stephen Covey*
+-- Miyamoto Musashi *
 
 > *"Example is not the main thing in influencing others; it is the only thing."  
--- Albert Schweitzer*
+-- Albert Schweitzer *
 
-> *"Management has a lot to do with answers. Leadership is a function of questions. And the first question for a leader always is: «Who do we intend to be?» Not «What are we going to do?» but «Who do we intend to be?»"  
--- Max DePree*
+> *"Management has a lot to do with answers. Leadership is a function of questions. And the first question for a leader always is: «Who do we intend to be?» Not «What are we going to do?» but «Who do we intend to be?»" (...)  
+"The first responsibility of a leader is to define reality. The last is to say thank you."  
+-- Max DePree *
 
 > *"One of the tests of leadership is the ability to recognize a problem before it becomes an emergency."  
--- Arnold Glasow*
+-- Arnold Glasow *
 
 > *"If you don’t understand that you work for your mislabeled «subordinates», then you know nothing of leadership. You know only tyranny."  
--- Dee Hock*
+-- Dee Hock *
 
 > *"Leadership is the capacity to translate vision into reality."  
--- Warren Bennis*
+-- Warren Bennis *
 
 > *"The leader has to be practical and a realist, yet must talk the language of the visionary and the idealist."  
--- Eric Hoffer*
-
-> *"The first responsibility of a leader is to define reality. The last is to say thank you."  
--- Max DePree*
+-- Eric Hoffer *
 
 > *"The key to successful leadership today is influence, not authority."  
--- Kenneth Blanchard*
+-- Kenneth Blanchard *
 
 > *"The function of leadership is to produce more leaders, not more followers."  
--- Ralph Nader*
+-- Ralph Nader *
 
 > *"Lead and inspire people. Don’t try to manage and manipulate people. Inventories can be managed but people must be lead."  
--- Ross Perot*
+-- Ross Perot *
 
 > *"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."  
--- John Quincy Adams*
+-- John Quincy Adams *
+
+> *"The only thing that gives orders is balls."  
+-- Tony Montana {fictional}*
 
 ### On vision
 
 > *"Vision without action is a daydream. Action with without vision is a nightmare."  
--- Proverb*
+-- vox populi*
 
 > *"If I have seen farther than others, it is because I was standing on the shoulders of giants."  
 -- Isaac Newton [1642]*
@@ -870,10 +869,10 @@ Hints:
 -- Pedro Domingos [1965]*
 
 > *"Lots of folks confuse bad management with destiny."  
--- Frank Hubbard*
+-- Frank Hubbard *
 
 > *"The manager asks how and when; the leader asks what and why."  
--- Warren Bennis*
+-- Warren Bennis *
 
 ### On teams
 
@@ -885,10 +884,10 @@ Hints:
 -->
 
 > *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don’t care about becoming a somebody."  
--- Phil Dooley*
+-- Phil Dooley *
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
--- Proverb*
+-- vox populi*
 
 People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
 
@@ -897,6 +896,9 @@ Hints:
 - Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - A chain is only as strong as its weakest link.
 - Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
+
+> *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
+-- Edith Wharton [1862]*
 
 > *"I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief."  
 -- Kurt von Hammerstein-Equord [1878]*
@@ -908,14 +910,11 @@ Hints:
 "A good organization focuses on correctness. A bad organization focuses on consensus."  
 -- Naval Ravikant [1974]*
 
-> *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
--- Edith Wharton*
-
 > *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
--- Perry Belcher*
+-- Perry Belcher *
 
 > *"You’re either part of the solution or part of the problem."  
--- Eldridge Cleaver*
+-- Eldridge Cleaver *
 
 > *"A team effort is a lot of people doing what I say."  
 -- Michael Winner, British film director*
@@ -1003,7 +1002,7 @@ Hints:
 -->
 
 > *"To know the road ahead, ask those coming back."  
--- Proverb*
+-- vox populi*
 
 Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door. Don’t take criticism from people that you would never go for advice.
 
@@ -1011,7 +1010,7 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 
 > *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever." (...)  
 "I’d rather have criticism from a genius than praise from an idiot."  
--- Proverbs*
+-- vox populi*
 
 > *"You don’t need mentors, you need action." (...)  
 "Take feedback from nature and markets, not from people." (...)  
@@ -1024,22 +1023,22 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 -- Sahil Lavingia [1989]*
 
 > *"A critic is a legless man who teaches running."  
--- Channing Pollock*
+-- Channing Pollock *
 
 > *"If something is too early to criticize, it’s also too early to evangelize."  
--- Kelsey Hightower*
+-- Kelsey Hightower *
 
 > *"Good advice helps you find the solution to your problem. Great advice helps you find you were solving the wrong problem."  
 -- Merlin Mann*
 
 > *"Share your knowledge. It is a way to achieve immortality."  
--- Dalai Lama*
+-- Dalai Lama *
 
 > *"A good teacher does not teach facts, he or she teaches enthusiasm, open-mindedness and values."  
--- Gian Carlo Rota*
+-- Gian Carlo Rota *
 
 > *"Good teaching is 1/4 preparation and 3/4 theatre."  
--- Gail Godwin*
+-- Gail Godwin *
 
 > *"Teach what you build. Your product is proof. Your process is value. Your execution is credibility. No one wants a guru. They want a builder who shares."  
 -- heycharafeddine@x*
@@ -1054,7 +1053,7 @@ A paid mentor isn’t a mentor. It’s a salesperson.
 Look for the «silver medalist». He has more availability, and sometimes, a better attitude than «the golden child».
 
 > *"A society grows great when old men plant trees whose shade they know they shall never sit in."  
--- Proverb*
+-- vox populi*
 
 > *"Those who know do. Those that understand teach."  
 -- Aristotle [-384]*
@@ -1066,10 +1065,10 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- Naval Ravikant [1974]*
 
 > *"If you think you’re too small to make an impact, try to go to bed with a mosquito in the room."  
--- Dalai Lama*
+-- Dalai Lama *
 
 > *"Don’t follow your mentors; follow your mentors’ mentors."  
--- David Leach*
+-- David Leach *
 
 ### How to mentor your kids?
 
@@ -1091,7 +1090,7 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- Albert Einstein [1879]*
 
 > *"The only thing worse than a boy who hates you: a boy that loves you."  
--- Markus Zusak*
+-- Markus Zusak [1975]*
 
 Your father is your first mentor.
 
@@ -1121,7 +1120,7 @@ Hints:
 
 > *"Children are a poor man’s riches." (...)  
 "A father is someone you look up to no matter how tall you grow."  
--- Proverbs*
+-- vox populi*
 
 > *"When you teach your son, you teach your son’s son."  
 -- Talmud*
@@ -1138,8 +1137,14 @@ Hints:
 > *"My family history begins with me, but yours ends with you."  
 -- Iphicrates [-418]*
 
+> *"Children need models rather than critics."  
+-- Joseph Joubert [1754]*
+
 > *"Some day you will know that a father is much happier in his children’s happiness than in his own. I cannot explain it to you: it is a feeling in your body that spreads gladness through you."  
 -- Honoré De Balzac [1799]*
+
+> *"It is easier to build strong children than to repair broken men."  
+-- Frederick Douglass [1818]*
 
 > *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them."  
 -- Oscar Wilde [1854]*
@@ -1175,60 +1180,54 @@ Hints:
 -- John Green [1977]*
 
 > *"My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect."  
--- Ivy Baker Priest*
+-- Ivy Baker Priest *
 
 > *"One of the greatest things a father can do for his children is to love their mother."  
--- Howard W. Hunter*
+-- Howard W. Hunter *
 
 > *"My father didn’t tell me how to live. He lived and let me watch him do it."  
--- Clarence Budington Kelland*
+-- Clarence Budington Kelland *
 
 > *"Every father should remember one day his son will follow his example, not his advice."  
--- Charles Kettering*
-
-> *"Children need models rather than critics."  
--- Joseph Joubert*
-
-> *"It is easier to build strong children than to repair broken men."  
--- Frederick Douglass*
+-- Charles Kettering *
 
 > *"A parent will always worry about the wrong child."  
--- Don Alt*
+-- Don Alt *
 
 > *"No man can possibly know what life means, what the world means, what anything means, until he has a child and loves it."  
--- Lafcadio Hearn*
+-- Lafcadio Hearn *
 
 > *"Fathering is not something perfect men do, but something that perfects the man."  
--- Frank Pittman*
+-- Frank Pittman *
 
 > *"Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of song."  
--- Pam Brown*
+-- Pam Brown *
 
 > *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
--- T.H. White*
+-- T.H. White *
 
 > *"Don’t ask kids what they want to be when they grow up but what problems do they want to solve. This changesthe conversation from who do you want to work for, to what do i need to learn to be able to do that."  
--- Jaime Casap*
+-- Jaime Casap *
 
 > *"If children feel safe, they can take risks, ask questions, make mistakes, learn to trust, share their feelings and grow."  
--- Alfie Kohn*
+-- Alfie Kohn *
 
 > *"My partner teacher des this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."  
--- Tom Brassington*
+-- Tom Brassington *
 
 > *"Never help a child with a task he feels he can succeed."  
--- Maria Montessori*
+-- Maria Montessori *
 
 > *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  
--- Julie Louisson*
+-- Julie Louisson *
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
 
 > *"Do not teach a starving man to fish."  
--- Proverb*
+-- vox populi*
 
 > *"All you have to do is love them and show them the world." — my mother on raising children"  
--- Paul Graham*
+-- Paul Graham [1964]*
 
 
 
@@ -1283,10 +1282,7 @@ However some people are not ready to accept your vision. And «givers» attract 
 Nobody can compete with you on being you. Most of your life is a search for who and what needs you the most.
 
 > *"My thing is to work more than the others to show them how useless they are."  
--- Karl Lagerfeld*
-
-> *"The interesting jobs are the ones that you make up."  
--- Chris Young*
+-- Karl Lagerfeld [1933]*
 
 > *"If the title matters to you, you don’t belong to a startup." (...)  
 "If you want to be part of a great tech company, then you need to be able to sell or build. If you don’t do either, learn." (...)  
@@ -1307,6 +1303,9 @@ Nobody can compete with you on being you. Most of your life is a search for who 
 "If they can train you to do it, they can train a machine to do it."  
 -- Naval Ravikant [1974]*
 
+> *"The interesting jobs are the ones that you make up."  
+-- Chris Young [1985]*
+
 ### How to advance career?
 
 <!--
@@ -1326,13 +1325,13 @@ Hints:
 - Deliver more value than expected.
 
 > *"While deep work will promote you, shallow work will only prevent you from being fired."  
--- Cal Newport*
+-- Cal Newport [1982]*
 
 > *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
 -- goatinaboat@hn*
 
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
--- ???@hn*
+-- ???@hn *
 
 ### How to change career?
 
@@ -1348,10 +1347,10 @@ You will either pivot or get pivoted.
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
--- Unknown*
+-- Unknown *
 
 > *"My luggage is always ready."  
--- Jorge Jesus (soccer coach)*
+-- Jorge Jesus (soccer coach) *
 
 You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
 
@@ -1364,7 +1363,7 @@ You make yourself rare by combining two or more relevant «pretty goods». Capit
 
 > *"Be so good that they cannot ignore you." (...)  
 "Career capital is the unique skills that make you rare and valuable."  
--- Cal Newport*
+-- Cal Newport [1982]*
 
 ### Employee or entrepreneur?
 
@@ -1457,9 +1456,6 @@ Hints:
 - Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
 - A job search is both a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
 
-> *"We value “T-shaped” people. That is, people who are both generalists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
--- Valve employee book*
-
 > *"I am looking for a lot of people who have an infinite capacity to not know what can’t be done."  
 -- Henry Ford [1863]*
 
@@ -1491,11 +1487,14 @@ Hints:
 "The people who embrace AI will automate the people who don’t."
 -- Sahil Lavingia [1989]*
 
+> *"We value “T-shaped” people. That is, people who are both genera lists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
+-- Valve employee book*
+
 > *"If you are not embarrassed by how much you charge, you’re probably undercharging."  
--- Casey Brown*
+-- Casey Brown *
 
 > *"Bad professionals make money off their customers, good professionals make money for their customers."  
--- Jacques Mattheij@hn*
+-- Jacques Mattheij@hn *
 
 > *"No one works harder than people who work at a small company, there’s nobody to delegate to and nowhere to hide."  
 -- anuatluru@x*
@@ -1520,7 +1519,7 @@ Hints:
 - There are two skill levels: still learning or confident.
 
 > *"Whatever makes you weird is probably your greatest asset."  
--- Joss Whedon*
+-- Joss Whedon [1964]*
 
 ### How to attract and keep talented people?
 
@@ -1584,7 +1583,7 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 
 > *"When the mouse laughs at the cat there is a hole nearby." (...)  
 "The sun doesn’t forget a village just because it is small."  
--- Proverbs*
+-- vox populi*
 
 > *"Care about what other people think and you will always be their prisoner."  
 -- Lao Tzu [-571]*
@@ -1669,7 +1668,7 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 
 > *"Who lies for you will lie against you." (...)  
 "Talkers aren’t strong. The strong don’t talk."  
--- Proverbs*
+-- vox populi*
 
 > *"Because she competes with no one, no one can compete with her."  
 -- Lao Tzu [-571]*
@@ -1687,13 +1686,13 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 -- Charlie Munger [1924]*
 
 > *"If you want to make enemies, try to change something."  
--- Woodrow Wilson*
+-- Woodrow Wilson *
 
 > *"The world is divided between victims and predators, and you have to defend yourself against both."  
--- Florenz Baron*
+-- Florenz Baron *
 
 > *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth."  
--- Doc Rivers*
+-- Doc Rivers *
 
 ### On easy opponents
 
@@ -1719,13 +1718,13 @@ Easy players are often just deceiving you. However - if you can identify them - 
 -- Brene Brown [1965]*
 
 > *"«El dorados» are never drawn in the map."  
--- Unknown*
+-- Unknown *
 
 ### On desperate opponents
 
 > *"Necessity knows no law." (...)  
 "Fear can make a donkey attack a lion."  
--- Proverbs*
+-- vox populi*
 
 Beware of sad people.
 
@@ -1780,7 +1779,7 @@ Hint:
 > *"United we are rock, divided we are sand." (...)  
 "The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd." (...)  
 "Hungry dogs are never loyal."  
--- Proverbs*
+-- vox populi*
 
 > *"When neither their poverty nor their honor is touched, the majority of men live content."  
 -- Niccoló Machiavelli [1469]*
@@ -1791,21 +1790,21 @@ Hint:
 > *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
 -- Mark Twain [1835]*
 
+> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
+-- Peter Kropotkin [1842]*
+
 > *"I learned a long time ago the wisest thing I can do is be on my side."  
 -- Maya Angelou [1928]*
+
+> *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
+-- Paul Alexander [1946]*
 
 > *"The ones who refer to you repeatedly as "my friend" are most likely to betray you." (...)  
 "Never argue with people in private (you will not convince them); argue in public to convince others."  
 -- Nassim Taleb [1960]*
 
-> *"Help a man who is in trouble and that man will remember you when he is in trouble again."  
--- Paul Alexander*
-
-> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
--- Peter Kropotkin*
-
 > *"The worst thing about betrayal is that it never comes from your enemies."  
--- The godfather*
+-- The godfather {fictional}*
 
 > *"Allies want you to win. Friends want you to stay with them."  
 -- codie_sanchez@x*
@@ -1813,10 +1812,10 @@ Hint:
 ### On heros
 
 > *"Every society honors its live conformists and its dead troublemakers."  
--- Marshall McLuhan*
+-- Marshall McLuhan *
 
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
--- Harvey Dent*
+-- Harvey Dent {fictional}*
 
 Our heros are our idealized selfes.
 
@@ -1837,14 +1836,14 @@ Our heros are our idealized selfes.
 -->
 
 > *"War is what happens when language fails."  
--- Margaret Atwood*
+-- Margaret Atwood [1939]*
 
 Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
 
 Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
 
 > *"War spares not the brave, but the cowardly."  
--- Anacreon*
+-- Anacreon [-573]*
 
 > *"War is delightful to those who have had no experience of it." 
 -- Desiderius Erasmus [1466]*
@@ -1878,7 +1877,7 @@ Hints:
 -- Kevin Kelly [1952]*
 
 > *"My father used to say, «don’t raise your voice». Improve your argument."  
--- (archbishop) Desmond Tutu*
+-- (archbishop) Desmond Tutu *
 
 > *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  -- realestatetrent@x*
 
@@ -1903,7 +1902,7 @@ Hints:
 -- Andrew Tate [1986]*
 
 > *"Summer grass, all that’s left of warrior’s dreams."  
--- Basho*
+-- Basho *
 
 
 
@@ -2141,13 +2140,13 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
--- John Kenneth Galbraith*
+-- John Kenneth Galbraith *
 
 > *"The more you have to define freedom the less freedom you have."  
--- Alexander Bickel*
+-- Alexander Bickel *
 
 > *"A right is not what someone gives you; it’s what no one can take from you."  
--- Ramsey Clark*
+-- Ramsey Clark *
 
 ### On democracy
 
@@ -2193,17 +2192,17 @@ Hints:
 > *"I guess the only time most people think about injustice is when it happens to them."  
 -- Charles Bukowski [1920]*
 
+> *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
+-- Elie Wiesel [1928]*	
+
 > *"There's no greater indictment of judges than the fact that honest people are afraid to go into court, while criminals swagger out its revolving doors."  
 -- Thomas Sowell [1930]*
 
 > *"Evil preaches tolerance until it is dominant, then it tries to silence good."  
--- (archbishop) Charles J. Chaput*
+-- (archbishop) Charles J. Chaput [1944]*
 
 > *"Everybody wants to see justice done on somebody else."  
--- Bruce Cockburn*
-
-> *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
--- Elie Wiesel*	
+-- Bruce Cockburn [1945]*
 
 ### On politicians
 
@@ -2233,8 +2232,17 @@ Hints:
 
 ### On bureaucracy
 
+> *"It is much more important to kill bad bills, than to pass good ones."  
+-- Calvin Coolidge [1872]*
+
 > *"When you have an efficient government, you have a dictatorship."  
 -- Harry Truman [1884]*
+
+> *"A memorandum is written not to inform the reader, but to protect the writer."  
+-- Dean Acheson [1893]*
+
+> *"A government that is big enough to give you all you want is big enough to take it all away."  
+-- Barry Goldwater [1909]*
 
 > *"Thank God we don’t get all the government we pay for."  
 -- Milton Friedman [1912]*
@@ -2243,17 +2251,8 @@ Hints:
 "You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing."  
 -- Thomas Sowell [1930]*
 
-> *"It is much more important to kill bad bills, than to pass good ones."  
--- Calvin Coolidge*
-
-> *"A memorandum is written not to inform the reader, but to protect the writer."  
--- Dean Acheson*
-
-> *"A government that is big enough to give you all you want is big enough to take it all away."  
--- Barry Goldwater*
-
 > *"The first responsibility of any bureaucracy is the preservation of itself. The second is to expand its responsiblities."  
--- Morton Halperin*
+-- Morton Halperin [1934]*
 
 ### On inequality and taxes
 
@@ -2332,7 +2331,7 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 
 > *"Gold rushes make the shovel sellers rich, not the gold seekers." (...)  
 "One cow breaks the fence and a dozen leap it."  
--- Proverbs*
+-- vox populi*
 
 > *"It’s better to be silent, than to dispute with the ignorant."  
 -- Pythagoras [-570]*
@@ -2360,6 +2359,9 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"Common sense is the collection of prejudices acquired by age eighteen."  
 -- Albert Einstein [1879]*
 
+> *"If everybody is thinking alike, then somebody isn’t thinking."  
+-- (general) George Patton [1885]*
+
 > *"Everyone is born a genius, but the process of living de-geniuses them."  
 -- Buckminster Fuller [1895]*
 
@@ -2373,8 +2375,14 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 "When someone tells you something is wrong, they’re usually right. When someone tells you how to fix it, they’re usually wrong."  
 -- Kevin Kelly [1952]*
 
+> *"Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it."  
+-- Anders Hejlsberg [1960]*
+
 > *"You can make (most) human beings believe the most absurd ideas provided you manage first to convince their friends; you will fail to sway them with the most compelling arguments if you don’t first persuade their closest comrades."  
 -- Nassim Taleb [1960]*
+
+> *"When you do as everyone else does, don’t be surprised when you get what everyone else gets."  
+-- Peter Kaufman [1961]*
 
 > *"In order to think you have to risk being offensive."  
 -- Jordan Peterson [1962]*
@@ -2390,17 +2398,8 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 "Think for yourself, not of yourself. Think of others, not for others."  
 -- Naval Ravikant [1974]*
 
-> *"If everybody is thinking alike, then somebody isn’t thinking."  
--- George S. Patton Jr.*
-
-> *"When you do as everyone else does, don’t be surprised when you get what everyone else gets."  
--- Peter Kaufman*
-
-> *"Just because people tell you it can’t be done, that doesn’t necessarily mean that it can’t be done. It just means that they can’t do it."  
--- Anders Hejlsberg*
-
 > *"The quicker you want something, the easier you are to manipulate."  
--- Shane Parrish*
+-- Shane Parrish [1982]*
 
 ### On stupidity
 
@@ -2408,16 +2407,16 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 "If they are wise, do not quarrel with them; if they are fools, ignore them."  
 -- Epictetus [0050]*
 
+> *"Stupidity is overlooking or dismissing crucial information."  
+-- Adam Robinson [1955]*
+
 > *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
 -- sgrstk@x*
-
-> *"Stupidity is overlooking or dismissing crucial information."  
--- Adam Robinson*
 
 Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don’t actually think, they just take their first thought and go. There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.
 
 > *"When a clown moves into a palace, he doesn’t become a king. The palace becomes a circus."  
--- Proverb*
+-- vox populi*
 
 > *"Never attribute to malice that which can be adequately explained by neglect."  
 -- Hanlon’s Razor*
@@ -2446,7 +2445,7 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 It’s easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
 
 > *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»"  
--- Proverb*
+-- vox populi*
 
 > *"Wise men talk because they have something to say; fools, because they have to say something."  
 -- Plato [-427]*
@@ -2497,7 +2496,7 @@ Hints:
 
 > *"A drunk man’s words, are a sober man’s thoughts." (...)  
 "When the character of a man is not clear to you, look at his friends."  
--- Proverbs*
+-- vox populi*
 
 > *"A great man is hard on himself; a small man is hard on others." (...)
 "What the superior man seeks is in himself; what the small man seeks is in others."  
@@ -2560,7 +2559,7 @@ Hints:
 -- Sahil Lavingia [1989]*
 
 > *"A gossip is one who talks to you about others, a bore is one who talks to you about himself; and a brilliant conversationalist is one who talks to you about yourself."  
--- Lisa Kirk*
+-- Lisa Kirk *
 
 
 
@@ -2593,6 +2592,9 @@ Most people approach each and every year in the exact same way while expecting d
 > *"If a man never contradicts himself, the reason must be that he virtually never says anything at all."  
 -- Erwin Schrodinger [1887]*
 
+> *"I can’t understand why a person will take a year or two to write a novel when he can easily buy one for a few dollars."  
+-- Fred Allen [1894]*
+
 > *"I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them»."  
 -- Anaïs Nin [1903]*
 
@@ -2611,32 +2613,29 @@ Most people approach each and every year in the exact same way while expecting d
 > *"Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they’ve all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe."  
 -- Neil Gaiman [1960]*
 
-> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."  
--- Unknown*
+> *"People aren’t either wicked or noble. They’re like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict."  
+-- Lemony Snicket [1970]*
 
 > *"I always worried someone would notice me, and then when no one did, I felt lonely."  
--- Curtis Sittenfeld*
+-- Curtis Sittenfeld [1975]*
 
-> *"People aren’t either wicked or noble. They’re like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict."  
--- Lemony Snicket*
+> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."  
+-- Unknown *
 
 > *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."  
--- Unknown*
+-- Unknown *
 
 > *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
--- Unknown*
+-- Unknown *
 
 > *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
--- Unknown*
+-- Unknown *
 
 > *"Monkeys are superior to man in this: when a monkey looks into a mirror, he sees a monkey."  
--- Chazal*
+-- Chazal *
 
 > *"There is no exception to the rule that everybody likes to be an exception to the rule."  
--- Malcolm Forbes*
-
-> *"I can’t understand why a person will take a year or two to write a novel when he can easily buy one for a few dollars."  
--- Fred Allen*
+-- Malcolm Forbes *
 
 > *"People aren’t getting crazier. Crazy people are getting louder."  
 -- g_s_bhogal@x*
@@ -2662,7 +2661,7 @@ Most people approach each and every year in the exact same way while expecting d
 -->
 
 > *"Only the truth is funny."  
--- Rick Reynolds*
+-- Rick Reynolds [1951]*
 
 > *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant [1974]*
@@ -2676,7 +2675,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 "Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)  
 "There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
 "Society: Be yourself. Society: Not like that."  
--- Proverbs*
+-- vox populi*
 
 > *"The world is a tragedy to those who feel, but a comedy to those who think."  
 -- Horace Walpole [1717]*
@@ -2707,7 +2706,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 > *"Home is where the bra isn’t." (...)  
 "Home is where the parking lot is."  
--- Unknown*
+-- Unknown *
 
 ### What is love?
 
@@ -2763,10 +2762,10 @@ Hints:
 - Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
 
 > *"Faults are thick where love is thin."  
--- Proverb*
+-- vox populi*
 
 > *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
--- Dream Hampton*
+-- Dream Hampton [1971]*
 
 > *"Play long-term games with long-term people. The secret to a happy relationship is two happy people. If you loose somebody for being yourself, then you never had them to begin with. Find a relationship where you, naturally being you, makes the other person happy and viceversa. The worst way to build a relationship is to try to build a relationship. The people you most want to impress can read your intentions."    
 -- Naval Ravikant {paraphrased} [1974]*
@@ -2802,7 +2801,7 @@ Hints:
 -->
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
--- Proverb*
+-- vox populi*
 
 > *"True friendship can exist only between equals."  
 -- Plato [-427]*
@@ -2836,10 +2835,10 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 -- Kevin Kelly [1952]*
 
 > *"When everything goes to hell, the people who stand by you without flinching, they are your family."  
--- Jim Butcher*
+-- Jim Butcher [1971]*
 
 > *"Routinely greeting six neighbours maximizes wellbeing."  
--- Mr. Rogers*
+-- Mr. Rogers *
 
 > *"A mother tells you you’re special. A father gets you to prove it." (...)  
 "If you can’t talk shit to your friends, you’re not friends."  
@@ -2892,7 +2891,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Brothers love each other when they are equally rich."  
--- Unknown*
+-- Unknown *
 
 > *"Hard truth: most people don’t want you to be the best version of yourself. They want you to be the version of you that’s best for them."  
 -- skylarromines@x*
@@ -2964,26 +2963,29 @@ Hints:
 > *"The free soul is rare, but you know it when you see it basically because you feel good, very good, when you are near or with them."  
 -- Charles Bukowski [1920]*
 
-> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
--- Ronald Colman*
+> *"A man is already halfway in love with any woman who listens to him."  
+-- Brendan Behan [1923]*
 
 > *"You haven’t been in love, if you haven’t let it ruin your life."  
--- Sarah Hildebrand*
+-- Sarah Hildebrand [1990]*
+
+> *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
+-- Ronald Colman *
 
 > *"Real love doesn’t meet you at your best. It meets you in your mess."  
--- J.S. Park*
+-- J.S. Park *
 
 > *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
 -- Joyce Benenson*
-
-> *"A man is already halfway in love with any woman who listens to him."  
--- Brendan Behan*
 
 ### On love and romance
 
 <!--
 > *"Absence diminishes small loves and increases great ones, as the wind blows out the candle and fans the bonfire."  -- François de La Rochefoucauld [1613]*
 -->
+
+> *"Love is a flower, friendship a sheltering tree."  
+-- Samuel Taylor Coleridge [1772]*
 
 > *"Nothing is so necessary for a young man as the company of intelligent woman."  
 -- Leo Tolstoy [1828]*
@@ -2997,43 +2999,43 @@ Hints:
 > *"A mind all logic is like a knife all blade. It makes the hand bleed that uses it."  
 -- Rabindranath Tagore [1861]*
 
+> *"Romance is the glamour which turns the dust of everyday life into a golden haze."  
+-- Elinor Glyn [1864]*
+
 > *"Love is the triumph of imagination over intelligence."  
 -- H.L. Mencken [1880]*
+
+> *"The highest function of love is that it makes the loved one a unique and irreplaceable being."  
+-- Tom Robbins [1932]*
+
+> *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
+-- Emilie Autumn [1973]*
 
 > *"The measure of love is peace." (...)  
 "You can’t buy a real kiss."  
 -- Naval Ravikant [1974]*
 
 > *"Love is the absence of judgement."  
--- Dalai Lama*
-
-> *"Love is a flower, friendship a sheltering tree."  
--- Samuel Taylor Coleridge*
-
-> *"The highest function of love is that it makes the loved one a unique and irreplaceable being."  
--- Tom Robbins*
-
-> *"It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."  
--- Emilie Autumn*
-
-> *"Romance is the glamour which turns the dust of everyday life into a golden haze."  
--- Elinor Glyn*
+-- Dalai Lama *
 
 > *"One expresses well the love he does not feel."  
--- J.A. Karr*
+-- J.A. Karr *
 
 ### On falling out of love
 
 > *"The love that lasts the longest is the love that is never returned."  
--- W. Somerset Maugham*
+-- W. Somerset Maugham [1874]*
 
 First you see the virtues. Then the flaws. For a long and deep relationship, values must match.
 
 > *"When poverty comes in the door love goes out the window."  
--- Proverb*
+-- vox populi*
 
 > *"Between what is said and not meant, and what is meant and not said, most of love is lost."  
 -- Kahlil Gibran [1883]*
+
+> *"People change and forget to tell each other."  
+-- Lillian Hellman [1905]*
 
 > *"Men experience many passions in a lifetime. One passion drives away the one before it."  
 -- Paul Newman [1925]*
@@ -3051,10 +3053,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 -- Naval Ravikant [1974]*
 
 > *"You must love in such a way that the person you love feels free."  
--- Thich Nhat Hanh*
-
-> *"People change and forget to tell each other."  
--- Lillian Hellman*
+-- Thich Nhat Hanh *
 
 ### What women value in men
 
@@ -3077,7 +3076,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 -->
 
 > *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
--- Alessandra Torre*
+-- Alessandra Torre [1978]*
 
 Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.
 
@@ -3100,7 +3099,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 -- Zan Perrion [1964]*
 
 > *"The classical definition of a gentleman: he never insulted anyone unintentionally."  
--- James Crow*
+-- James Crow *
 
 > *"Most women fall in love with the lifestyle of a man, not with the man himself."  
 -- falsi1ke@x*
@@ -3122,7 +3121,7 @@ Trust, style, nice to my family, ambitious and adventurous, must like burritos a
 Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
 
 > *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
--- Ian McEwan*
+-- Ian McEwan [1948]*
 
 > *"A man settles down where he finds peace. Not beauty, not money, not status, but PEACE."  
 -- falsi1ke@x*
@@ -3150,7 +3149,7 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
--- H.Harwood and R. Gore-Bro*
+-- H. Harwood [1874] & R. Gore-Bro *
 
 Marry an happy person. Unhappy spouse, unhappy life.
 
@@ -3158,7 +3157,7 @@ Marry an happy person. Unhappy spouse, unhappy life.
 "When poverty comes in the door, love goes out of the window." (...)  
 "Happy the marriage where the husband is the head and the wife the heart." (...)  
 "A good husband should be deaf and a good wife should be blind."  
--- Proverbs*
+-- vox populi*
 
 > *"By all means marry: If you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher."  
 -- Socrates [-470]*
@@ -3174,32 +3173,32 @@ Marry an happy person. Unhappy spouse, unhappy life.
 > *"You don’t marry a person, you marry a family."  
 -- Kevin Kelly [1952]*
 
-> *"He who marries for love without money has good nights and sorry days."  
--- Ani Difranco*
-
 > *"If Apple sold you a product that failed 50% of the time, would you buy it?"  
--- Esther Perel*
+-- Esther Perel [1958]*
+
+> *"He who marries for love without money has good nights and sorry days."  
+-- Ani Difranco [1970]*
 
 > *"Don’t do it. You’ll regret it. The things you love about him now, you’ll hate in a few years."  
--- Tom Ford*
+-- Tom Ford *
 
 > *"If men acted after marriage as they do during courtship, there would be fewer divorces and more bankruptcies."  
--- Frances Rodman*
+-- Frances Rodman *
 
 > *"When a man steals your wife, there is no better revenge than to let him keep her."  
--- Sacha Guitry*
+-- Sacha Guitry *
 
 > *"It doesn’t much signify whom one marries, for one is sure to find out next morning it was someone else."  
--- Will Rogers*
+-- Will Rogers *
 
 > *"The happiest time of a person’s life is after his first divorce."  
--- J.K. Galbraith*
+-- J.K. Galbraith *
 
 > *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
--- Warren Farrell (psychologist)*
+-- Warren Farrell (psychologist) *
 
 > *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it."  
--- Peggy Joyce*
+-- Peggy Joyce *
 
 > *"Modern women don’t want a husband. They want a lifestyle. If another man can upgrade them, they’re gone."  
 -- pallnandi@x*
@@ -3242,6 +3241,9 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"It may be that our role on this planet is not to worship God but to create him."  
 -- Arthur C. Clarke [1917]*
 
+> *"I would rather have a mind opened by wonder than one closed by belief."  
+-- Gerry Spence [1929]*
+
 > *"We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further."  
 -- Richard Dawkins [1941]*
 
@@ -3259,16 +3261,13 @@ Against facts there are no arguments. Against faith there are no facts.
 -- Naval Ravikant [1974]*
 
 > *"My religion is simple, my religion is kindness."  
--- (dalai lama) ???*
+-- (dalai lama) ??? *
 
 > *"When you renounce something, you’re stuck to it forever."  
--- Anthony de Mello*
+-- Anthony de Mello *
 
 > *"People who want to share their religious views with you almost never want you to share yours with them."  
--- Dave Barry*
-
-> *"I would rather have a mind opened by wonder than one closed by belief."  
--- Gerry Spence*
+-- Dave Barry *
 
 ### On morality
 
@@ -3322,10 +3321,10 @@ Against facts there are no arguments. Against faith there are no facts.
 -- Naval Ravikant [1974]*
 
 > *"The teachers of morality speak like angels, but live like men."  
--- Sam Johnson*
+-- Sam Johnson *
 
 > *"Reality TV to me is the museum of social decay."  
--- Gary Oldman*
+-- Gary Oldman *
 
 
 
@@ -3463,16 +3462,16 @@ Technology is applied science.
 -- Naval Ravikant [1974]*
 
 > *"What is research but a blind date with knowledge?"  
--- Will Harvey*
+-- Will Harvey *
 
 > *"The price of success in philosophy is triviality."  
--- C. Glymour*
+-- C. Glymour *
 
 > *"Everything that can be invented has been invented."  
--- Charles Duell (director of us patent office)*
+-- Charles Duell (director of us patent office) *
 
 > *"Scientists study the world as it is, engineers create the world that never has been."  
--- Theodore von Karman*
+-- Theodore von Karman *
 
 
 
@@ -3495,6 +3494,9 @@ Art is a meditation and design is a negotiation. Art is just another form of scr
 
 Artistic death is made by consensus.
 
+> *"The merit of originality is not novelty; it is sincerity."  
+-- Thomas Carlyle [1795]*
+
 > *"Art is either plagiarism or revolution."  
 -- Paul Gauguin [1848]*
 
@@ -3510,24 +3512,21 @@ Artistic death is made by consensus.
 > *"Art is plagiarism or revolution."  
 -- Marcel Duchamp [1887]*
 
+> *"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings."  
+-- Robert Benchley [1889]*
+
+> *"Poets are damned but see with the eyes of angels."  
+-- Allen Ginsberg [1926]*
+
+> *"Art is the absence of fear."  
+-- Erykah Badu [1971]*
+
+> *"Art should comfort the disturbed and disturb the confortable."  
+-- Banksy [1974]*
+
 > *"If you create it for yourself, it’s art. If you create it for others, it’s business." (...)  
 "Art extracts the timeless from the temporary."  
 -- Naval Ravikant [1974]*
-
-> *"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings."  
--- Robert Benchley*
-
-> *"Poets are damned but see with the eyes of angels."  
--- Allen Ginsberg*
-
-> *"The merit of originality is not novelty; it is sincerity."  
--- Thomas Carlyle*
-
-> *"Art should comfort the disturbed and disturb the confortable."  
--- Banksy*
-
-> *"Art is the absence of fear."  
--- Erykah Badu*
 
 > *"Expertise is rooted in rules, rules are the expression of a collective consensus. Creativity is rooted in art, art is the expression of a singularity."  
 -- rapahelz@x*
@@ -3546,9 +3545,6 @@ Artistic death is made by consensus.
 
 > *"No artist tolerates reality."  
 -- Friedrich Nietzsche [1844]* 
-
-> *"An artist is not paid by his work but by his vision."  
--- James Whistler*
 
 > *"A true artist will let his wife starve, his children go barefoot, his mother drudge for his living at seventy, sooner than work at anything but his art."  
 -- George Bernard Shaw [1856]*
@@ -3571,8 +3567,11 @@ Artistic death is made by consensus.
 > *"To be an artist, you have to give up everything, including the desire to be a good artist."  
 -- Jasper Johns [1930]*
 
+> *"An artist is not paid by his work but by his vision."  
+-- James Whistler *
+
 > *"To be an artist, you need to live in a world of silence."  
--- Louise Bourgeois*
+-- Louise Bourgeois *
 
 ### On aesthetics
 
@@ -3632,12 +3631,6 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
 
-> *"The clash of ideas is the sound of freedom."  
--- Lady Bird Johnson*
-
-> *"Your job is to get your audience to care about your obsessions."  
--- Martin Scorsese*
-
 > *"The goal of media is to make every problem, your problem." (...)  
 "Journalists aren’t neutral, they’re the cavalry of culture wars." (...)  
 "All new information starts as misinformation." (...)  
@@ -3645,6 +3638,12 @@ News are the first draft of History but he human brain was not designed to proce
 "Elon’s purchase of Twitter was the single most consequential act of the last decade. It restored free speech, broke the Overton window, and enabled the second American revolution." (...)
 "If you’re writing for your followers, your followers are worthless."  
 -- Naval Ravikant [1974]*
+
+> *"The clash of ideas is the sound of freedom."  
+-- Lady Bird Johnson *
+
+> *"Your job is to get your audience to care about your obsessions."  
+-- Martin Scorsese *
 
 > *"The hallmark of modern society is the theft of attention. Modern society is overcrowded with thieves of attention." (...)  
 "Social media holds up a magnifying mirror to our emotions. AI holds up a magnifying mirror to our intellectual abilities."  
@@ -3687,7 +3686,7 @@ alan perlis - 120. Adapting old programs to fit new machines usually means adapt
 -->
 
 > *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  
--- Ellen Ullman*
+-- Ellen Ullman [1949]*
 
 We’ve grown dependent on three simple features that just aren’t available in the analog world: search, sort and filter.
 
@@ -3718,7 +3717,7 @@ We’ve grown dependent on three simple features that just aren’t available in
 -- Elon Musk [1971]*
 
 > *"I’ve finally learned what «upward compatible» means. It means we get to keep all our old mistakes."  
--- Dennie van Tassel*
+-- Dennie van Tassel *
 
 ### On AI
 
@@ -3733,7 +3732,7 @@ We’ve grown dependent on three simple features that just aren’t available in
 -- Sahil Lavingia [1989]*
 
 > *"Humans are an API to ChatGPT. ChatGPT is an API to Python. Python is an API to C. C is an API to assembly. Assembly is an API to binary. Binary is an API to physics. Physics is an API to the machine that runs the universe. It’s computation all the way down."  
--- lex Fridman*
+-- lex Fridman *
 
 > *"Humans doing the hard jobs on minimum wage while the robots write poetry and paint is not the future I wanted."  
 -- karlremarks@x*

@@ -10,12 +10,12 @@
 
 <!--
 > *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
-> *"We will only have work-life balance when we feel safe at home and feel safe at work."  -- Simon Sinek [1973]*
-> *"The literal meaning of life is whatever you’re doing that prevents you from killing yourself."  -- Albert Camus [1913]**
-> *"The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children."  -- G.K. Chesterton [1874]*
 > *"You are not a drop in the ocean. You are the entire ocean in a drop."  -- Rumi [1207]*
 - basically your job here on earth is to make 1-2-3 decisions in your life extremely well, and the rest is a rounding error.
 -->
+
+> *"The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children."  
+-- G.K. Chesterton [1874]*
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso [1881]*
@@ -235,7 +235,7 @@ Hints:
 - Focus on financial freedom first. Put your happiness before goals.
 
 > *"Only he who wanders, find new paths."  
--- Proverb*
+-- vox populi*
 
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu [-571]*
