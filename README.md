@@ -10,16 +10,13 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## Introduction
 
-- [Who are you?](/chapters/introduction.md#who-are-you)
-	- [The real you](/chapters/introduction.md#the-real-you)
-	- [How to come alive?](/chapters/introduction.md#how-to-come-alive)
-- [On finding your path](/chapters/introduction.md#on-finding-your-path)
-	- [On the purpose of life](/chapters/introduction.md#on-the-purpose-of-life)
-	- [On ambition](/chapters/introduction.md#on-ambition) 
-	- [On fate](/chapters/introduction.md#on-fate)
-	- [On the wrong paths](/chapters/introduction.md#on-the-wrong-paths)
-- [On happiness](/chapters/introduction.md#on-happiness)
+- [On the purpose of life](/chapters/introduction.md#on-happiness)
+	- [On happiness](/chapters/introduction.md#on-happiness)
 	- [How to find happiness?](/chapters/introduction.md#how-to-find-happiness)
+- [Who are you now?](/chapters/introduction.md#who-are-you)
+	- [On finding your path](/chapters/introduction.md#on-finding-your-path)
+	- [On the wrong paths](/chapters/introduction.md#on-the-wrong-paths)
+	- [On destiny](/chapters/introduction.md#on-fate)
 
 
 

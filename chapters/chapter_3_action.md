@@ -22,42 +22,49 @@
 -->
 
 > *"The secret to creativity is knowing how to hide your sources."  
--- Albert Einstein*
+-- Albert Einstein [1879]*
 
 Creative minds are rarely tidy. We don’t have an «imagination» we have a memory. More than addition, creativity is subtraction.
 
 > *"What is now proved, was once only imagined."  
--- William Blake*
+-- William Blake [1757]*
 
 > *"To invent, you need a good imagination and a pile of junk."  
--- Thomas Edison*
+-- Thomas Edison [1847]*
 
 > *"Consistency is the last refuge of the unimaginative."  
--- Oscar Wilde*
+-- Oscar Wilde [1854]*
 
 > *"I know quite certainly that I myself have no special talent. Curiosity, obsession and dogged endurance, combined with self-criticism, have brought me to my ideas." (...)  
 "Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand." (...)  
 "Creativity is intelligence having fun."  
--- Albert Einstein*
+-- Albert Einstein [1879]*
 
 > *"Everything you can imagine is real." (...)  
 "I begin with an idea and then it becomes something else."  
--- Pablo Picasso*
+-- Pablo Picasso [1881]*
 
 > *"A pile of rocks ceases to be a rock when somebody contemplates it with the idea of a cathedral in mind."  
--- Antoine St. Exupery*
+-- Antoine de Saint Exupery [1900]*
 
 > *"Those who do not want to imitate anything, produce nothing."  
--- Salvador Dali*
+-- Salvador Dali [1904]*
 
-> *"I don’t dream at night, I dream all day. I dream for a living."  
--- Steven Spielberg*
+> *"Creativity is thinking up new things. Innovation is doing new things."  
+-- Theodore Levitt [1925]*
 
 > *"Negativity is the enemy of creativity."  
--- David Lynch*
+-- David Lynch [1946]*
+
+> *"I don’t dream at night, I dream all day. I dream for a living."  
+-- Steven Spielberg [1946]*
 
 > *"Good artists copy; great artists steal."  
--- (popularized by) Steve Jobs*
+-- (popularized by) Steve Jobs [1955]*
+
+> *"Chaos is needed for innovation. Structure makes those ideas useful." (...)  
+"The ability to see order in chaos is called creativity."  
+-- Simon Sinek [1973]*
 
 > *"One’s mind, once stretched by a new idea, never regains its original dimensions."  
 -- Oliver Wendell Holmes*
@@ -65,53 +72,46 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 > *"When nothing is sure, everything is possible."  
 -- Margaret Drabble*
 
-> *"Creativity is thinking up new things. Innovation is doing new things."  
--- Theodore Levitt*
-
-> *"Chaos is needed for innovation. Structure makes those ideas useful." (...)  
-"The ability to see order in chaos is called creativity."  
--- Simon Sinek*
-
 ### How to find good ideas?
 
 > *"The way to get good ideas is to get lots of ideas and throw the bad ones away."  
--- Linus Pauling*
+-- Linus Pauling [1901]*
 
 Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
 
 Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional people living conventional lives lead to conventional ideas.
 
 > *"Name the greatest of all inventors. Accident."  
--- Mark Twain*
+-- Mark Twain [1835]*
 
 > *"All truly great thoughts are conceived by walking."  
--- Friedrich Nietzsche*
+-- Friedrich Nietzsche [1844]* 
 
 > *"Nearly every man who develops an idea works it up to the point where it looks impossible, and then he gets discouraged. That’s not the place to become discouraged."  
--- Thomas Edison*
+-- Thomas Edison [1847]*
+
+> *"If you want a new idea read an old book."  
+-- Ivan Pavlov & others [1849]*
 
 > *"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."  
--- George Bernard Shaw*
+-- George Bernard Shaw [1856]*
 
 > *"We can’t solve problems by using the same kind of thinking we used when we created them." (...)  
 "The mind that opens to a new idea never returns to its original size."  
--- Albert Einstein*
-
-> *"If you want a new idea read an old book."  
--- Ivan Pavlov & others*
-
-> *"I cultivate empty space as a way of life for the creative process."  
--- Josh Waitzkin*
+-- Albert Einstein [1879]*
 
 > *"The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours."  
--- Amos Tversky*
+-- Amos Tversky [1937]*
 
 > *"Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 > *"Using creativity to solve problems cannot be taught, and it’s ultimately what free markets pay for." (...)  
 "A busy calendar and a busy mind will destroy your ability to create anything great."  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
+
+> *"I cultivate empty space as a way of life for the creative process."  
+-- Josh Waitzkin [1976]*
 
 ### How to judge ideas?
 
@@ -120,37 +120,37 @@ Ask peers. Managers will regret more a false positive than a false negative.
 However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. So focus on transforming yourself into the kind of person who can bring them to life. 
 
 > *"A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man’s brow."  
--- Ovid*
+-- Ovid [-039]*
 
 > *"In order to attain the impossible, one must attempt the absurd."  
--- Miguel de Cervantes*
+-- Miguel de Cervantes [1547]*
 
 > *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
--- Victor Hugo*
+-- Victor Hugo [1802]*
 
 > *"The man with a new idea is a crank - until the idea succeeds."  
--- Mark Twain*
-
-> *"An idea that is not dangerous is unworthy of being called an idea at all."  
--- Oscar Wilde*
+-- Mark Twain [1835]*
 
 > *"We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unsympathetic to us."  
--- Friedrich Nietzche*
+-- Friedrich Nietzsche [1844]* 
 
-> *"If at first, the idea is not absurd, then there is no hope for it."  
--- Albert Einstein*
-
-> *"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."  
--- F. Scott Fitzgerald*
-
-> *"New ideas pass through three periods: 1) It can’t be done; 2) It probably can be done, but it’s not worth doing; 3) I knew it was a good idea all along!"  
--- Arthur C. Clarke*
+> *"An idea that is not dangerous is unworthy of being called an idea at all."  
+-- Oscar Wilde [1854]*
 
 > *"Almost all really new ideas have a certain aspect of foolishness when they are just produced."  
--- Alfred North Whitehead*
+-- Alfred North Whitehead [1861]*
 
 > *"Nothing is more dangerous than an idea when it is the only one you have."  
--- Emile Chartier*
+-- Émile-Auguste Chartier [1868]*
+
+> *"If at first, the idea is not absurd, then there is no hope for it."  
+-- Albert Einstein [1879]*
+
+> *"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."  
+-- F. Scott Fitzgerald [1896]*
+
+> *"New ideas pass through three periods: 1) It can’t be done; 2) It probably can be done, but it’s not worth doing; 3) I knew it was a good idea all along!"  
+-- Arthur C. Clarke [1917]*
 
 > *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
 -- Unknown*
@@ -173,10 +173,9 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 + rapahelz@X -- The hallmark of clear thinking is skepticism with regard to dominant narratives.
 + scottadamssays@x -- Complexity is always a cover for fraud. In every domain.
 + wordgrammer@x -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
-> *"All rumors about a public figure are to be deemed untrue until he threatens to sue."  -- Nassim Taleb*
+> *"All rumors about a public figure are to be deemed untrue until he threatens to sue."  -- Nassim Taleb [1960]*
 > *"All the ways of a man are clean in his own sight, but the Lord weighs the motives."  -- Proverbs 16:2*
-> *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  -- Morgan Housel*
-> *"Invisible things are the only realities"  -- Edgar Allen Poe*
+> *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  -- morganhousel@x*
 > *"On a poll 79% are right. In life, 79% are usually wrong."  -- warikoo@x*
 
 - if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
@@ -185,57 +184,61 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 -->
 
 > *"There are no facts, only interpretations."  
--- Friedrich Nietzsche*
+-- Friedrich Nietzsche [1844]* 
 
 Analysis is an art, not a science. The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
 
 I don’t trust words. I even question actions. But I never doubt patterns.
 
 > *"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."  
--- Marcus Aurelius*
+-- Marcus Aurelius [0121]*
 
 > *"What Paul says about Peter tells us more about Paul than Peter."  
--- Baruch Spinoza*
+-- Baruch Spinoza [1632]*
 
 > *"A man sees in the world what he carries in his heart."  
--- Goethe*
+-- J.W. Goethe [1749]*
 
-> *"Believe only half of what you see and nothing that you hear."  
--- Edgar Allan Poe*
+> *"Believe only half of what you see and nothing that you hear." (...)  
+"Invisible things are the only realities"  
+-- Edgar Allan Poe [1809]*
 
 > *"Whenever you find yourself on the side of the majority, it is time to pause and reflect."  
--- Mark Twain*
+-- Mark Twain [1835]*
 
 > *"To see we must forget the name of the thing we are looking at."  
--- Claude Monet*
+-- Claude Monet [1940]*
 
 > *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection." (...)  
 "It is by logic that we prove, but is by intuition that we discover."  
--- Henri Poincaré*
+-- Henri Poincaré [1854]*
 
 > *"The power of accurate observation is commonly called cynicism by those who have not got it."  
--- George Bernard Shaw*
+-- George Bernard Shaw [1856]*
 
 > *"When you understand that every opinion is a vision loaded with personal history, you will begin to understand that all judgement is a confession."  
--- Nikola Tesla*
+-- Nikola Tesla [1856]*
 
 > *"Not everything that counts can be counted, and not everything that can be counted counts."  
--- Albert Einstein*
+-- Albert Einstein [1879]*
 
 > *"We don’t look at what we look, but at what we are."  
--- Fernando Pessoa*
+-- Fernando Pessoa [1888]*
 
 > *"To understand is to know what to do."  
--- Ludwig Wittgenstein*
+-- Ludwig Wittgenstein [1889]*
 
 > *"Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital."  
--- Aaron Levenstein*
+-- Aaron Levenstein [1910]*
 
 > *"Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?"  
--- George Carlin*
+-- George Carlin [1937]*
 
 > *"Don’t tell me what you value. Show me your budget, and I’ll tell you what you value."  
--- Joe Biden (quoting his father)*
+-- Joe Biden {quoting his father} [1942]*
+
+> *"Information is useless unless you know how to interpret it."  
+-- Robert Greene [1959]*
 
 > *"The eye sees only what the mind is prepared to comprehend."  
 -- Robertson Davies*
@@ -251,9 +254,6 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 
 > *"He uses statistics as a drunken man uses lamp posts - for support rather than for illumination."  
 -- Andrew Lang*
-
-> *"Information is useless unless you know how to interpret it."  
--- Robert Green*
 
 ### Hints
 
@@ -288,31 +288,38 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - Bragging razor: if someone brags assume half. if someone downplays double it.
 
 > *"Understanding a question is half an answer."  
--- Socrates*
+-- Socrates [-470]*
 
 > *"Remember that all is opinion."  
--- Seneca*
+-- Seneca [-004]*
 
 > *"I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things."  
--- Benjamin Franklin*
+-- Benjamin Franklin [1706]*
 
 > *"Sometimes a cigar is just a cigar."  
--- Sigmund Freud*
+-- Sigmund Freud [1856]*
 
 > *"The hardest thing to explain is the glaringly evident that everyone has decided not to see."  
--- Ayn Rand*
+-- Ayn Rand [1905]*
 
 > *"You always get exaggerated notions of things you don’t know anything about."  
--- Albert Camus*
+-- Albert Camus [1913]*
 
 > *"I look for ways of changing my mind. I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do."  
--- Chalie Munger*
+-- Charlie Munger [1924]*
 
 > *"What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact."  
--- Warren Buffett*
+-- Warren Buffett [1930]*
 
 > *"Things which are different in order to be different are seldom better, but that which is made to be better is almost always different."  
--- Dieter Rams*
+-- Dieter Rams [1932]*
+
+> *"Whenever there is an argument between two sides, find the third side." (...)  
+"Anything you say before the word «but» does not count."  
+-- Kevin Kelly [1952]*
+
+> *"If you don’t know, it’s because you are not interested in it."  
+-- Naval Ravikant [1974]*
 
 > *"The most important question: «What do you need to see to change your view?»"  
 -- Adam Robinson*
@@ -333,13 +340,6 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"Don’t ask the barber whether you need a haircut."  
 -- Daniel S. Greenberg*
 
-> *"Whenever there is an argument between two sides, find the third side." (...)  
-"Anything you say before the word «but» does not count."  
--- Kevin Kelly*
-
-> *"If you don’t know, it’s because you are not interested in it."  
--- Naval Ravikant*
-
 > *"When a measure becomes a target, it ceases to be a good measure."  
 -- Goodhart’s Law*
 
@@ -354,8 +354,9 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 + thomassowell@x -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with "hate speech" laws.
 + zubymusic@x -- Conservatives get mad when you lie to them. Progressives get mad when you tell them the truth.
 > *"People don’t realize how hard is to speak the truth, to a world full of people that don’t realize they’re living in a lie."  -- Edward Snowden*
-> *"Sometimes people don’t want to hear the truth because they don’t want their ilusions destroyed."  -- Friedrich Nietzsche*
-> *"Truth emerges from the clash of adverse ideas." -- John Stuart Mill*
+> *"Sometimes people don’t want to hear the truth because they don’t want their ilusions destroyed."  -- Friedrich Nietzsche [1844]* 
+> *"Truth emerges from the clash of adverse ideas." -- John Stuart Mill [1806]*
+
 
 - A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
 - How do you tell who’s telling the truth? The ones trying to silence other people are the ones lying.
@@ -379,23 +380,43 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 > *"You should not honor men more than truth." (...)  
 "No one is more hated than he who speaks the truth."  
--- Plato*
+-- Plato [-427]*
+
+> *"Truth prevails where opinions are free."  
+-- Thomas Paine [1737]*
 
 > *"It is easier for the world to accept a simple lie than a complex truth."  
--- Alexis de Tocqueville*
+-- Alexis de Tocqueville [1805]*
 
 > *"The truth is rarely pure and never simple."  
--- Oscar Wilde*
+-- Oscar Wilde [1854]*
+
+> *"The color of truth is gray."  
+-- André Gide [1869]*
+
+> *"Exactitude is not truth."  
+-- Henry Matisse [1869]*
 
 > *"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened."  
--- Winston Churchill*
+-- Winston Churchill [1874]*
 
 > *"The further a society drifts from the truth the more it will hate those who speak it." (...)  
 "In a time of universal deceit, telling the truth is a revolutionary act."  
--- George Horwell*
+-- George Orwell [1903]*
 
 > *"When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear."  
--- Thomas Sowell*
+-- Thomas Sowell [1930]*
+
+> *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
+-- Kevin Kelly [1952]*
+
+> *"The truth is generally seen, rarely heard."  
+-- Robert Greene [1959]*
+
+> *The closer you are to the truth, the more silent you become inside." (...)  
+"I went looking for truth and all I found was love. I went looking for love and all I found was truth." (...)  
+"If it hurts to hear it, look for the truth in it. If it comforts to hear it, look for the lie in it."  
+-- Naval Ravikant [1974]*
 
 > *"A lie has speed but truth has endurance."  
 -- Edgar J. Mohn*
@@ -405,26 +426,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 > *"The truth will set you free, but first it will piss you off."  
 -- Gloria Steinem*
-
-> *"Truth prevails where opinions are free."  
--- Tom Paine*
-
-> *"Exactitude is not truth."  
--- Henry Matisse*
-
-> *"The color of truth is gray."  
--- Andre Gide*
-
-> *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
--- Kevin Kelly*
-
-> *"The truth is generally seen, rarely heard."  
--- Robert Green*
-
-> *The closer you are to the truth, the more silent you become inside." (...)  
-"I went looking for truth and all I found was love. I went looking for love and all I found was truth." (...)  
-"If it hurts to hear it, look for the truth in it. If it comforts to hear it, look for the lie in it."  
--- Naval Ravikant*
 
 > *"Words are used, first and foremost, to soften the inflexibility of truth."  
 -- rapahelz@x*
@@ -447,62 +448,58 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 -->
 
 > *"All battles are won or lost before they are ever fought."  
--- Sun Tzu*
+-- Sun Tzu [-544]*
 
 You can’t predict but you can prepare for the highly probable scenarios.
 
 > *"Pray to Allah, but tie your camel."
--- Muhammad*
+-- Muhammad [0570]*
 
 > *"To be prepared is half of the victory."  
--- Miguel Cervantes*
+-- Miguel de Cervantes [1547]*
 
 > *"By failing to prepare, you are preparing to fail."
--- Benjamin Franklin*
+-- Benjamin Franklin [1706]*
 
-> *"If I had 9 hours to chop down a tree, I’d spend the first six sharpening my ax."  
--- Abraham Lincoln*
+> *"What we anticipate seldom occurs; what we least expect generally happens."  
+-- Benjamin Disraeli [1804]*
 
-<!--
-> *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."  -- Abraham Lincoln*
--->
+> *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."  
+-- Abraham Lincoln (attributed) [1809]*
 
 > *"If you don’t know where you’re going, any road will get you there."  
--- Lewis Carroll*
+-- Lewis Carroll [1832]*
 
 > *"He who fails to plan is planning to fail." (...)  
 "Plans are of little importance, but planning is essential."  
--- Winston Churchill*
-
-> *"All human plans are subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe."
--- Arthur C. Clarke*
+-- Winston Churchill [1874]*
 
 > *"A goal without a plan is just a wish."
--- Antoine de Saint Exupery*
+-- Antoine de Saint Exupery [1900]*
+
+> *"All human plans are subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe."
+-- Arthur C. Clarke [1917]*
+
+> *"To achieve great things, two things are needed; a plan, and not quite enough time."  
+-- Leonard Bernstein [1918]*
 
 > *"Someone is sitting in the shade today because someone planted a tree a long time ago."  
--- Warren Buffett*
+-- Warren Buffett [1930]*
 
 > *"The best way to predict the future is to invent it."  
--- Alan Kay*
+-- Alan Kay [1940]*
 
 > *"If your goal does not have a schedule, it is a dream."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 > *"You need to be stubborn on your vision, but very flexible on the details."  
--- Jeff Bezos*
+-- Jeff Bezos [1964]*
 
 > *"The movie might be good or bad but in the end we’ll finish eating pizza."  
--- Unknown*
+-- Christopher Nolan [1970]*
 
 > *"No one ever wrote a plan to be fat, lazy or stupid. That’s what happens when you don’t have a plan."  
 -- Larry Winget*
-
-> *"To achieve great things, two things are needed; a plan, and not quite enough time."  
--- Leonard Bernstein*
-
-> *"What we anticipate seldom occurs; what we least expect generally happens."  
--- Benjamin Disraeli*
 
 > *"What you think is your problem is not your problem, your strategy is."  
 -- Dan Munro*
@@ -510,7 +507,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 ### How to plan?
 
 > *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
--- Descartes*
+-- René Descartes [1596]*
 
 Start with a vision. Then look for actionable steps.
 
@@ -526,25 +523,25 @@ Hints:
 -- Proverb*
 
 > *"The wise warrior avoids the battle."  
--- Sun Tzu*
+-- Sun Tzu [-544]*
 
 > *"Vision is the art of seeing what is invisible to others."  
--- Johnathan Swift*
-
-> *"The question isn’t who is going to let me; it’s who is going to stop me."  
--- Ayn Rand*
-
-> *"I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day."  
--- Ernest Hemingway*
-
-> *"A strategy has a single, well defined focus. A strategy lays out a path to be followed. A strategy is made up of parts (tactics). Each of a strategy’s parts pushes towards the defined focus. A strategy is either intentionally formed or emerges naturally."  
--- Geoffrey P. Chamberlain*
-
-> *"Strategy requires thought; tactics require observation."  
--- Max Euwe*
+-- Jonathan Swift [1667]*
 
 > *"I have a simple philosophy: Fill what’s empty. Empty what’s full. Scratch where it itches."  
--- A.R. Longworth*
+-- Alice Roosevelt Longworth [1884]*
+
+> *"I always worked until I had something done and I always stopped when I knew what was going to happen next. That way I could be sure of going on the next day."  
+-- Ernest Hemingway [1899]*
+
+> *"Strategy requires thought; tactics require observation."  
+-- Max Euwe [1901]*
+
+> *"The question isn’t who is going to let me; it’s who is going to stop me."  
+-- Ayn Rand [1905]*
+
+> *"A strategy has a single, well defined focus. A strategy lays out a path to be followed. A strategy is made up of parts (tactics). Each of a strategy’s parts pushes towards the defined focus. A strategy is either intentionally formed or emerges naturally."  
+-- Geoffrey P. Chamberlain [1930]*
 
 
 
@@ -585,24 +582,24 @@ Hints:
 -->
 
 > *"May your choices reflect your choices, not your fears."  
--- Nelson Mandela*
+-- Nelson Mandela [1918]*
 
 You are evaluated by your decisions. Getting 80% good decisions is exponentially better than 70%.
 
 We think we make choices but our choices are influenced by others. We pick what is familiar.
 
 > *"The hardest thing to learn in life is which bridge to cross and which to burn."  
--- Bertrand Russell*
+-- Bertrand Russell [1872]*
 
 > *"Opportunity cost is how intelligent people assess things."  
--- Charlie Munger*
+-- Charlie Munger [1924]*
 
 > *"A mistake repeated more than once is a decision." (...)  
 "Don’t say maybe if you want to say no."  
--- Paulo Coelho*
+-- Paulo Coelho [1947]*
 
 > *"It’s a common belief that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s triggering a knee-jerk emotional response to something that happened long ago."  
--- Derek Sivers*
+-- Derek Sivers [1969]*
 
 > *"Clear thinkers take feedback from reality, not society." (...)  
 "The three big decisions: where you live, who you’re with, and what you’re doing." (...)  
@@ -612,10 +609,10 @@ We think we make choices but our choices are influenced by others. We pick what 
 "The heart decides. The head rationalizes." (...)  
 "You’re always making the best choice based on your current understanding. Don’t try to change the choice, change the understanding." (...)  
 "If you want to make the wrong decision, ask everyone."  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
 
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
--- Mark Manson*
+-- Mark Manson [1984]*
 
 > *"A well defined problem seeks its own solution."  
 -- Mike Brundant*
@@ -642,19 +639,19 @@ Hints:
 
 > *"More is lost by indecision than wrong decision." (...)  
 "Indecision is the thief of opportunity."  
--- Cicero*
+-- Cicero [-106]*
 
 > *"While we are reasoning concerning life, life is gone."  
--- David Hume*
+-- David Hume [1711]*
 
 > *"In the small matters trust the mind, in the large ones the heart."  
--- Sigmund Freud*
+-- Sigmund Freud [1856]*
 
 > *"Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 > *"The cost of being wrong is less than the cost of doing nothing."  
--- Seth Godin*
+-- Seth Godin [1960]*
 
 > *"Economics teaches you that making a choice means giving up something."  
 -- Russ Roberts*
@@ -697,13 +694,13 @@ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficien
 A mental model is a functional tool. If you don’t understand its limitations, you don’t understand the model. The practical question is how limited do they have to be to not be useful. 
 
 > *"The basic trouble, you see, is that people think that «right» and «wrong» are absolute; that everything that isn’t perfectly and completely right is totally and equally wrong."  
--- Isaac Asimov*
+-- Isaac Asimov [1920]*
+
+> *"Scientists generally agree that no theory is one hundred percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science."  
+-- Yuval Noah Harari [1976]*
 
 > *"A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one."  
 -- Joan Robinson*
-
-> *"Scientists generally agree that no theory is one hundred percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science."  
--- Yuval Noah Harari*
 
 
 
@@ -746,47 +743,47 @@ Stop making resolutions and start making something. Time is the most precious th
 "The person who removes a mountain begins by carrying away small stones."  
 -- Proverbs*
 
-> *"The man who moves a mountain begins by carrying away small stones."  
--- Confucius*
-
 > *"The journey of a thousand miles begins with a single step."  
--- Lao Tzu*
+-- Lao Tzu [-571]*
+
+> *"The man who moves a mountain begins by carrying away small stones."  
+-- Confucius [-551]*
 
 > *"The beginning is the most important part of the work."  
--- Plato*
+-- Plato [-427]*
 
 > *"You may delay, but time will not."  
--- Ben Franklin*
+-- Benjamin Franklin [1706]*
 
 > *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  
--- J.W. Goethe*
+-- J.W. Goethe [1749]*
 
 > *"Do it, or don’t do it - you will regret both."  
--- Soren Kierkegaard*
-
-> *"Go and do the things you can’t. That is how you get to do them."  
--- Pablo Picasso*
+-- Soren Kierkegaard [1813]*
 
 > *"Action expresses priorities."  
--- Mahatma Gandhi*
+-- Mahatma Gandhi [1869]*
+
+> *"Go and do the things you can’t. That is how you get to do them."  
+-- Pablo Picasso [1881]*
 
 > *"I’ve been on a calendar, but I have never been on time."  
--- Marilyn Monroe*
+-- Marilyn Monroe [1926]*
 
 > *"You don’t have to be great to start, but you have to start to be great."  
--- Zig Ziglar*
+-- Zig Ziglar [1926]*
+
+> *"Do something instead of killing time. Because time is killing you."  
+-- Paulo Coelho [1947]*
+
+> *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."  
+-- Kevin Kelly [1952]*
 
 > *"If everybody contemplates the infinite instead of fixing the drains, many of us will die of cholera."  
 -- John Rich*
 
 > *"Do not wait to strike till the iron is hot; but make it hot by striking."  
 -- Yeats*
-
-> *"Do something instead of killing time. Because time is killing you."  
--- Paulo Coelho*
-
-> *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."  
--- Kevin Kelly*
 
 > *"Did you know you can’t steer a boat that isn’t moving? Just like a life."  
 -- Paul Lutus*
@@ -809,24 +806,30 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"The cock that crows too early gets his head cut off."  
 -- Proverb*
 
+> *"Desire makes slaves out of kings and patience makes kings out of slaves."  
+-- (imam) Al-Ghazali [1058]*
+
 > *"Patience is also a form of action."  
--- Auguste Rodin*
+-- Auguste Rodin [1840]*
 
 > *"The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing."  
--- Winston Churchill*
+-- Winston Churchill [1874]*
+
+> *"A good plan, violently executed now, is better than a perfect plan next week."  
+-- (general) George Patton [1885]*
 
 > *"The time to repair the roof is when the sun is shining."  
--- John F. Kennedy*
+-- John F. Kennedy [1917]*
 
 > *"Waiting hurts. Forgetting hurts. But not knowing which decision to take can sometimes be the most painful."  
--- Paulo Coelho*
+-- Paulo Coelho [1947]*
 
 > *"About 99% of the time, the right time is right now."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 > *"Stoicism is about the domestication of emotions, not their elimination." (...)  
 "Never threaten when angry. Never promise when joyful. Never plan when gloomy. Never reply when tired. Never buy when euphoric."  
--- Nassim Taleb*
+-- Nassim Taleb [1960]*
 
 > *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
 -- Edward G. Bulwer-Lytton*
@@ -837,17 +840,11 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Not too soon and not too late; the secret of education lies in choosing the right time to do things."  
 -- Natalia Ginzburg*
 
-> *"Desire makes slaves out of kings and patience makes kings out of slaves."  
--- Al-Ghazali*
-
 > *"The early bird may get the worm, but the second mouse gets the cheese."  
 -- Unknown*
 
 > *"Hesitation is always easy, rarely useful."  
 -- Prof. Quirrel*
-
-> *"A good plan, violently executed now, is better than a perfect plan next week."  
--- George Patton (General)*
 
 ### On procrastination
 
@@ -862,16 +859,16 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"The more something threatens your identity, the more you will avoid it." (...)  
 «Learning more» is the most seductive form of procrastination. «Planning more» is the second most."  
--- Mark Manson*
+-- Mark Manson [1984]*
 
 > *"While we wait for life, life passes." (...)  
 "While we are postponing, life speeds by."  
--- Seneca*
+-- Seneca [-004]*
 
 We fear releasing something unimportant, so you don’t release anything at all. Inadequacy of results makes us realize that we are not as good as we think we are and creates anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety. When hope disappears, so does action. The cost of procrastination is the life you could’ve lived.
 
 > *"Evil is whatever distracts."  
--- Franz Kafka*
+-- Franz Kafka [1883]*
 
 How to defeat procrastination?
 
@@ -886,13 +883,13 @@ Hints:
 -- Proverb*
 
 > *"What’s well begun is half done."  
--- Horace*
+-- Horace [-065]*
 
 > *"If opportunity doesn’t knock, build a door."  
--- Milton Berle*
+-- Milton Berle [1908]*
 
 > *"Better bored than busy."  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
 
 > *"Idleness makes hours pass slowly and years swiftly. Activity makes the hours short and the years long."  
 -- Cesare Pavese*
@@ -913,13 +910,13 @@ Hints:
 -->
 
 > *"I’m a slow walker, but I never walk back."  
--- Abraham Lincoln*
+-- Abraham Lincoln [1809]*
+
+> *"Most people overestimate what they can do in one year and unRderestimate what they can do in ten years."  
+-- Bill Gates [1955]*
 
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker*
-
-> *"Most people overestimate what they can do in one year and unRderestimate what they can do in ten years."  
--- Bill Gates*
 
 > *"Start as close to the end as possible."  
 -- Kurt Vonnegu*
@@ -936,13 +933,13 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 -- Proverb*
 
 > *"To the person who does not know where he wants to go there is no favorable wind."  
--- Seneca*
-
-> *"No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant."  
--- Warren Buffett*
+-- Seneca [-004]*
 
 > *"If you don’t know where you are going, you’ll end up someplace else."
--- Yogi Berra*
+-- Yogi Berra [1925]*
+
+> *"No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant."  
+-- Warren Buffett [1930]*
 
 > *"Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise."  
 -- John Tukey*
@@ -969,10 +966,10 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 -->
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
--- Seth Godin*
+-- Seth Godin [1960]*
 
 > *"People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1000 things."  
--- Steve Jobs*
+-- Steve Jobs [1955]*
 
 First the essential. Then the details.
 
@@ -987,34 +984,44 @@ Hints:
 -- Proverbs*
 
 > *"The man who chases two rabbits, catches neither."  
--- Confucius*
+-- Confucius [-551]*
 
 > *"Learn to be indifferent to what makes no difference."  
--- Marcus Aurelius*
+-- Marcus Aurelius [0121]*
 
 > *"As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself."  
--- Arthur Schopenhauer*
-
-> *"I want to know God’s thoughts; the rest are details."  
--- Albert Einstein*
-
-> *"When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It’s hard to compete with businesses who have correctly identified the right variables to maximize or minimize."  
--- Charlie Munger*
-
-> *"You only have to do a very few things right in your life so long as you don’t do too many things wrong."  
--- Warren Buffett*
-
-> *"Anything I cannot transform into something marvelous, I let go."  
--- Anais Nin*
-
-> *"You can do anything, but not everything."  
--- David Allen*
-
-> *"Strike the shepherd and the sheep will scatter."  
--- Robert Greene (Law of power)*
+-- Arthur Schopenhauer [1788]*
 
 > *"Learn what is to be taken seriously and laugh at the rest."  
--- Hermann Hesse*
+-- Hermann Hesse [1877]*
+
+> *"I want to know God’s thoughts; the rest are details."  
+-- Albert Einstein [1879]*
+
+> *"Anything I cannot transform into something marvelous, I let go."  
+-- Anais Nin [1903]*
+
+> *"When everything is a priority nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable, and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It’s hard to compete with businesses who have correctly identified the right variables to maximize or minimize."  
+-- Charlie Munger [1924]*
+
+> *"You only have to do a very few things right in your life so long as you don’t do too many things wrong."  
+-- Warren Buffett [1930]*
+
+> *"You can do anything, but not everything."  
+-- David Allen [1945]*
+
+> *"Strike the shepherd and the sheep will scatter."  
+-- Robert Greene [1959]*
+
+> *"A common mistake that builders make: optimizing a process that shouldn’t exist in the first place."  
+-- Elon Musk [1971]*
+
+> *"Social media says: do everything, everywhere, all at once. Reality says: focus on doing one or two things extremely well, in one place, consistently, over a long period of time." (...)  
+"You have a limited amount of fucks to give. Very few, in fact. And if you go around giving a fuck about everything and everyone without conscious thought or choice—well, then you’re going to get fucked."  
+-- Mark Manson [1984]*
+
+> *"Don’t solve problems you don’t have."  
+-- Sahil Lavingia [1989]*
 
 > *"I will have to remember «I’m here today to cross the swamp, not to fight all the alligators."  
 -- Rosamund and Benjamin Zander (Art of possibility)*
@@ -1022,18 +1029,8 @@ Hints:
 > *"A wealth of information creates a poverty of attention."  
 -- Herbert Simon*
 
-> *"A common mistake that builders make: optimizing a process that shouldn’t exist in the first place."  
--- Elon Musk*
-
 > *"Doing something well does not make it important. I think this is one of the most common problems with a lot of time-management or productivity advice; they focus on how to do things quickly. The vast majority of things that people do quickly should not be done at all."  
 -- Tim Ferriss*
-
-> *"Social media says: do everything, everywhere, all at once. Reality says: focus on doing one or two things extremely well, in one place, consistently, over a long period of time." (...)  
-"You have a limited amount of fucks to give. Very few, in fact. And if you go around giving a fuck about everything and everyone without conscious thought or choice—well, then you’re going to get fucked."  
--- Mark Manson*
-
-> *"Don’t solve problems you don’t have."  
--- Sahil Lavingia*
 
 ### On productivity
 
@@ -1055,7 +1052,7 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 -->
 
 > *"As few as you can, as many as you must."  
--- John Stuart Mill*
+-- John Stuart Mill [1806]*
 
 Getting a lot of unnecessary things done is not productivity, it’s stupidity.
 
@@ -1076,14 +1073,23 @@ Hints:
 - Buy yourself time: delegate. Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
 - To get anything done quickly, ask a busy person to do it.
 
+> *"Don’t make 100 decisions when one will do."  
+-- Peter Drucker [1909]*
+
 > *"Premature optimization is the root of all evil."  
--- Donald Knuth*
+-- Donald Knuth [1938]*
+
+> *"As a rule, whatever you need to optimize, don’t do."  
+-- Nassim Taleb [1960]*
+
+> *"The price of productivity is creativity." (...)  
+"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
+"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
+"Say no: «It doesn’t feel right to me.» No more explanations are needed."  
+-- Naval Ravikant [1974]*
 
 > *"My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm."  
 -- Gary Keller*
-
-> *"Don’t make 100 decisions when one will do."  
--- Peter Drucker*
 
 > *"Work expands so as to fill the time available for its completion."  
 -- C. Northcote Parkinson*
@@ -1093,15 +1099,6 @@ Hints:
 
 > *"Do something first, than talk about it."  
 -- Tom Ford*
-
-> *"As a rule, whatever you need to optimize, don’t do."  
--- Nassim Taleb*
-
-> *"The price of productivity is creativity." (...)  
-"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
-"Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
-"Say no: «It doesn’t feel right to me.» No more explanations are needed."  
--- Naval Ravikant*
 
 ### On clutter
 
@@ -1117,10 +1114,10 @@ Hints:
 - All that clutter used to be money.
 
 > *"If a little is not enough for you, nothing is."  
--- Epicurus*
+-- Epicurus [-341]*
 
 > *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
--- Colette*
+-- Colette [1873]*
 
 
 
@@ -1135,10 +1132,10 @@ Hints:
 -->
 
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
--- Ralph Waldo Emerson*
+-- Ralph Waldo Emerson [1803]*
 
 > *"If you live long enough, most people will get what they deserve."  
--- Charlie Munger*
+-- Charlie Munger [1924]*
 
 Unless you’re winning, life will seem unfair to you.
 
@@ -1152,17 +1149,23 @@ Risk is everything you left over and didn’t thought about.
 -- Proverb*
 
 > *"We all have enough strength to endure the misfortunes of other people."  
--- François de La Rochefoucauld*
+-- François de La Rochefoucauld [1613]*
 
 > *"To dare is to lose one’s footing momentarily. To not dare is to lose oneself."  
--- Soren Kierkegaard*
+-- Soren Kierkegaard [1813]*
 
 > *"Coincidence is God’s way of remaining anonymous." (...)  
 "God is subtle but he is not malicious."  
--- Albert Einstein*
+-- Albert Einstein [1879]*
 
 > *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
--- Paulo Coelho*
+-- Paulo Coelho [1947]*
+
+> *"I know that history is going to be dominated by an improbable event, I just don’t know what that event will be."  
+-- Nassim Taleb [1960]*
+
+> *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
+-- Naval Ravikant [1974]*
 
 > *"Risk is what’s left over when you think you’ve thought of everything."  
 -- Carl Richards*
@@ -1170,16 +1173,10 @@ Risk is everything you left over and didn’t thought about.
 > *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
 -- Robert Schiller*
 
-> *"I know that history is going to be dominated by an improbable event, I just don’t know what that event will be."  
--- Nassim Taleb*
-
-> *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
--- Naval Ravikant*
-
 ### On chance
 
 > *"Luck is what happens when preparation meets opportunity."  
--- Seneca*
+-- Seneca [-004]*
 
 Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
 
@@ -1187,35 +1184,35 @@ Every outcome in life is guided by forces other than individual effort. The best
 "Luck sometimes visit a fool, but it never sits down with him."  
 -- Proverbs*
 
-> *"Necessity is the mother of taking chances."  
--- Mark Twain*
-
 > *"In the realm of scientific observation, luck is granted only to those who are prepared."  
--- Louis Pasteur*
+-- Louis Pasteur [1822]*
+
+> *"Necessity is the mother of taking chances."  
+-- Mark Twain [1835]*
 
 > *"Opportunity is missed by most of people because it is dressed in overalls and looks like work."  
--- Thomas Edison*
-
-> *"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom."  
--- Anais Nin*
+-- Thomas Edison [1847]*
 
 > *"Only those who will risk going too far can possibly find out how far it is possible to go."  
--- T.S. Eliot*
+-- T.S. Eliot [1888]*
 
-> *"If you risk nothing, then you risk everything."  
--- Geena Davis*
+> *"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom."  
+-- Anais Nin [1903]*
 
 > *"People who don’t take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year."  
--- Peter Drucker*
-
-> *"Things that come with little help of luck are more resistant to randomness."  
--- Nassim Taleb*
+-- Peter Drucker [1909]*
 
 > *"Opportunity dances with those on the dance floor."  
--- Anonymous*
+-- H. Jackson Brown Jr. [1940]*
+
+> *"If you risk nothing, then you risk everything."  
+-- Geena Davis [1956]*
 
 > *"The quality of your life is in direct proportion to the amount of uncertainty you can comfortably deal with."  
--- Tony Robbins*
+-- Tony Robbins [1960]*
+
+> *"Things that come with little help of luck are more resistant to randomness."  
+-- Nassim Taleb [1960]*
 
 > *"Taking risk is the ultimate expression of optimism."  
 -- rapahelz@x*
@@ -1226,19 +1223,19 @@ Every outcome in life is guided by forces other than individual effort. The best
 -- Proverb*
 
 > *"Hope is a good breakfast, but it is a bad supper."  
--- Francis Bacon*
+-- Francis Bacon [1561]*
 
 > *"Faith: not wanting to know what is true."  
--- Friedrich Nietzsche*
+-- Friedrich Nietzsche [1844]* 
+
+> *"Faith is patience with mystery."  
+-- Richard Rohr [1943]*
 
 > *"Hope is not a strategy."  
--- Vince Lombardi*
+-- Vince Lombardi [1913]*
 
 > *"Hope is not the conviction that something will turn out well, but the certainty that something is worth doing no matter how it turns out."  
 -- Václav Havel*
-
-> *"Faith is patience with mystery."  
--- Richard Rohr*
 
 
 
@@ -1267,37 +1264,34 @@ Control what you can: what you’re primed by, who you are around, the ideas and
 
 Consuming information gives the control freak an illusion of control. He doesn’t want to acknowledge that the universe doesn’t make sense and he doesn’t trust himself to handle disorder in a situation that will get out of his league or skillset.
 
-> *"Nature, to be commanded, must be obeyed."  
--- Francis Bacon*
-
 > *"Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed."  
--- Friedrich Nietzsche*
+-- Friedrich Nietzsche [1844]* 
 
 > *"One’s real life is often the life that one does not lead."  
--- Oscar Wilde*
+-- Oscar Wilde [1854]*
+
+> *"Some of us think holding on makes us strong, but sometimes it is letting go." 
+-- Hermann Hesse [1877]*
+
+> *"If things seem under control, you’re just not going fast enough."  
+-- Mario Andretti [1940]*
+
+> *"You get pseudo-order when you seek order; you only get a measure of order and control when you embrace randomness."  
+-- Nassim Taleb [1960]*
 
 > *"If you change the way you look at things, the thing you look at change"  
 -- Wayne Dyer*
 
-> *"Some of us think holding on makes us strong, but sometimes it is letting go." 
--- Hermann Hesse*
-
-> *"If things seem under control, you’re just not going fast enough."  
--- Mario Andretti (F1 pilot)*
-
-> *"You get pseudo-order when you seek order; you only get a measure of order and control when you embrace randomness."  
--- Nassim Taleb*
-
 ### On security
 
 > *"If you are not in danger, do not fight."  
--- Sun Tzu*
+-- Sun Tzu [-544]*
 
 > *"The dangers of life are infinite, and among them is safety."  
--- J.W. Goethe*
+-- J.W. Goethe [1749]*
 
 > *"Security is mostly a superstition. Life is either a daring adventure or nothing."  
--- Helen Keller*
+-- Helen Keller [1880]*
 
 > *"Our only security is our ability to change."  
 -- John Lilly*
@@ -1318,19 +1312,19 @@ Consuming information gives the control freak an illusion of control. He doesn�
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  
--- Albert Einstein*
+-- Albert Einstein [1879]*
 
 Life is a balancing act. Most things are not binary.
 
 The dose makes the poison: things in excess become their opposite. The hardest skill is knowing when to stop.
 
 > *"Do not go past the mark you aimed for; in victory, learn when to stop."  
--- Robert Greene*
+-- Robert Greene [1959]*
 
 > *"The optimal zone for performance is «slightly hungry»." (...)  
 "Don’t settle and don’t struggle. Life is what flows in between." (...)  
 "You get paid for being right first, and to be first, you can’t wait for consensus."  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
 
 Balance is not about spending the same amount of time focused on every area of your life either. It’s about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
 
@@ -1344,17 +1338,17 @@ Hints:
 -- Proverbs*
 
 > *"Life is a balance between holding on and letting go."  
--- Rumi*
+-- Rumi [1207]*
 
 > *"You never know what is enough until you know what is more than enough."  
--- William Blake*
+-- William Blake [1757]*
 
 ### How to balance an imbalance?
 
 Overcompensate. Some people get passion from something they struggled with.
 
 > *"An abnormal reaction to an abnormal situation is normal behaviour."  
--- Victor Frankl*
+-- Victor Frankl [1905]*
 
 
 
@@ -1366,7 +1360,7 @@ Overcompensate. Some people get passion from something they struggled with.
 
 <!--
 > *"The problem is not to find the answer, it’s to face the answer."  -- Terence Mckenna*
-> *"You can ignore reality, but you can’t ignore the consequences of ignoring reality."  -- Ayn Rand*
+> *"You can ignore reality, but you can’t ignore the consequences of ignoring reality."  -- Ayn Rand [1905]*
 + naval@x -- People think they can’t change themselves, but they can. People think they can change others, but they can’t.
 + omanueljoaquim@x -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
 + shl@x -- You can’t change someone. All you can do is understand them
@@ -1381,10 +1375,10 @@ Overcompensate. Some people get passion from something they struggled with.
 -->
 
 > *"However beautiful the strategy, you should occasionally look at the results."  
--- Winston Churchill*
+-- Winston Churchill [1874]*
 
 > *"At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information."  
--- Charlie Munger*
+-- Charlie Munger [1924]*
 
 > *"Life is more like tetris than chess."  
 -- Tor Blair*
@@ -1399,23 +1393,42 @@ Switch strategies a few times to get where you want to go. If problems shift fas
 > *"At high tide the fish eats ants; at low tide the ants eat fish."  
 -- Proverb*
 
+> *"One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing."  
+-- Kautilya [-375]*
+
 > *"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
--- Charles Darwin*
+-- Charles Darwin [1809]*
 
 > *"Be the change you want to see in the world."  
--- Mahatma Gandhi*
+-- Mahatma Gandhi [1869]*
+
+> *"The most important thing to do if you find yourself in a hole is to stop digging."  
+-- Warren Buffett [1930]*
 
 > *"Your life does not get better by chance, it gets better by change."  
--- Jim Rohn*
+-- Jim Rohn [1930]*
+
+> *"You don’t do well by trying to be right; it is impossible for humans. You do well by figuring out when you’re wrong faster than others do."  
+-- Nassim Taleb [1960]*
+
+> *"Everyone has a plan until they get punched in the mouth."  
+-- Mike Tyson [1966]*
+
+> *"The directions to get you anywhere include a few turns:  
+Sometimes you need to say YES to everything and be open to growth;  
+Sometimes you need to say NO to everything and focus.  
+It’s scary to make those direction choices but fear is a great road sign."  
+-- Derek Sivers (paraphrased) [1969]*
+
+> *"The best way, perhaps the only way, to change others is to become an example." (...)  
+"Everybody wants to change others. Nobody wants to be changed." (...)  
+"Everybody likes to conjecture, nobody likes to correct errors." (...)  
+"People think they can’t change themselves, but they can. People think they can change others, but they can’t." (...)  
+"Sometimes it’s easier to change the world than to change people’s minds."  
+-- Naval Ravikant [1974]*
 
 > *"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."  
 -- Everett Dirksen*
-
-> *"One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing."  
--- Kautilya*
-
-> *"The most important thing to do if you find yourself in a hole is to stop digging."  
--- Warren Buffett*
 
 > *"What got you here won’t get you there."  
 -- Marshall Goldsmith*
@@ -1423,29 +1436,10 @@ Switch strategies a few times to get where you want to go. If problems shift fas
 > *"Whatever space and time mean, place and occasion mean more."  
 -- Aldo van Eyck*
 
-> *"You don’t do well by trying to be right; it is impossible for humans. You do well by figuring out when you’re wrong faster than others do."  
--- Nassim Taleb*
-
-> *"Everyone has a plan until they get punched in the mouth."  
--- Mike Tyson*
-
-> *"The directions to get you anywhere include a few turns:  
-Sometimes you need to say YES to everything and be open to growth;  
-Sometimes you need to say NO to everything and focus.  
-It’s scary to make those direction choices but fear is a great road sign."  
--- Derek Sivers (paraphrased)*
-
-> *"The best way, perhaps the only way, to change others is to become an example." (...)  
-"Everybody wants to change others. Nobody wants to be changed." (...)  
-"Everybody likes to conjecture, nobody likes to correct errors." (...)  
-"People think they can’t change themselves, but they can. People think they can change others, but they can’t." (...)  
-"Sometimes it’s easier to change the world than to change people’s minds."  
--- Naval Ravikant*
-
 Listen to predict a collapse.
 
 > *"When things break, it’s not the actual breaking that prevents them from getting back together again. It’s because a little piece gets lost - the two remaining ends couldn’t fit together even if they wanted to. The whole shape has changed."  
--- John Green*
+-- John Green [1977]*
 
 > *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  
 -- James Akre*
@@ -1456,10 +1450,10 @@ Adapt instead of reacting. An opportunity is taking an unwanted job.
 -- Proverb*
 
 > *"Things do not change; we change."  
--- Henry David Thoreau*
+-- Henry David Thoreau [1817]*
 
 > *"If I don’t have red, I use blue."  
--- Pablo Picasso*
+-- Pablo Picasso [1881]*
 
 > *"Change is inevitable, it’s our job to exploit it."  
 -- Eli Goldratt*
@@ -1470,25 +1464,25 @@ Adapt instead of reacting. An opportunity is taking an unwanted job.
 ### How to change?
 
 > *"It is much easier to change how you think by changing your behavior, than it is to change your behavior by changing how you think. Act out the change you seek."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 There are limits on change. Willpower is finite and change requires attention. However, small changes in a complex system can cause large changes. 
 
 > *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
--- Socrates*
+-- Socrates [-470]*
 
 > *"God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." 
--- St. Francis of Assisi*
+-- St. Francis of Assisi [1181]*
 
 > *"Those who cannot change their minds cannot change anything." (...)  
 "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."  
--- George Bernard Shaw*
+-- George Bernard Shaw [1856]*
 
 > *"You never change things by fighting the existing reality. To change something, build a model that makes the existing model obsolete."  
--- Buckminster Fuller*
+-- Buckminster Fuller [1895]*
 
 > *"Preach the need for change, but never reform too much at once."  
--- Robert Greene (law of power)*
+-- Robert Greene [1959]*
 
 > *"The key to change... is to let go of fear."  
 -- Rosanne Cash*
@@ -1504,7 +1498,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
-> *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  -- George Orwell*
+> *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  -- George Orwell [1903]*
 + paulskallas@x -- Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage.
 
 - Changing the subject. Hallmark of the loser
@@ -1516,18 +1510,14 @@ There are limits on change. Willpower is finite and change requires attention. H
 -->
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
--- Archimedes*
+-- Archimedes [-212]*
 
 > *"Never interrupt your enemy when he is making a mistake."  
--- Napoleon Bonaparte*
+-- Napoleon Bonaparte [1769]*
 
 Strategy is about winning before the battle begins, tactics are about striking at weakness.
 
 Leverage is a force multiplier. Leverage your target weaknesses to raise your chances of winning. Use methods like unpredictability, charming or mirroring. Even deceiving, some opponents may require special tools.
-
-> *"The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
-A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
--- Richard Rumelt*
 
 > *"You are strong only where you were broken." (...)  
 "It’s hard to defeat a high-morale defender with an unlimited supply line." (...)  
@@ -1536,7 +1526,11 @@ A good strategy doesn’t just draw on existing strength; it creates strength. R
 Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
 Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it."  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
+
+> *"The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
+A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
+-- Richard Rumelt*
 
 Hints:
 
@@ -1550,16 +1544,16 @@ Hints:
 - Look to people when they are bluffing.
 
 > *"Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy."  
--- Balthasar Gracian*
+-- Balthasar Gracian [1601]*
+
+> *"To bankrupt a fool, give him information."  
+-- Nassim Taleb [1960]*
 
 > *"You can discover what your enemy fears most by observing the means he uses to frighten you."  
 -- Eric Hoffer*
 
 > *"Never offend people with style when you can offend them with substance."  
 -- Sam Brown*
-
-> *"To bankrupt a fool, give him information."  
--- Nassim Taleb*
 
 > *"The most underrated super power in the world is simply asking for things."  
 -- realestatetrent@x*
@@ -1568,9 +1562,9 @@ Hints:
 
 <!--
 + naval@x -- Good people don’t spend time moralizing about how good they are.
-> *"Diplomacy is the art of telling people to go to hell in such a way that they ask for directions."  -- Winston Churchill*
-> *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  -- Carl Jung*
-> *"You will never fully convince someone that he is wrong; only reality can."  -- Nassim Nicholas Taleb*
+> *"Diplomacy is the art of telling people to go to hell in such a way that they ask for directions."  -- Winston Churchill [1874]*
+> *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  -- Carl Jung [1875]*
+> *"You will never fully convince someone that he is wrong; only reality can."  -- Nassim Taleb [1960]*
 
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.
 - Never trust a person who hangs out with the same people that they talk bad about.
@@ -1585,7 +1579,7 @@ Hints:
 -- Proverbs*
 
 > *"To combat an adversary, become their friend."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 Charm the enemy to find their weaknesses. Then exploit them.
 
@@ -1596,17 +1590,17 @@ Hints:
 - Instead of killing it, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.
 
 > *"Kind words don’t cost much. Yet they accomplish much."  
--- Blaise Pascal*
+-- Blaise Pascal [1623]*
 
 > *"We swallow greedily any lie that flatters us, but we sip only little by little at a truth we find bitter."  
--- Denis Diderot*
+-- Denis Diderot [1713]*
 
 > *"I’ve never fooled anyone. I’ve let people fool themselves. They didn’t bother to find out who and what I was. Instead they would invent a character for me. I wouldn’t argue with them. They were obviously loving somebody I wasn’t."  
--- Marilyn Monroe*
+-- Marilyn Monroe [1926]*
 
 > *"Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends." (...)  
 "Compliment people behind their back. It’ll come back to you."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 > *"Make other people come to you: use bait if necessary." (...)  
 "Use absence to increase respect and honor." (...)  
@@ -1619,10 +1613,10 @@ Hints:
 "Play to people’s fantasies." (...)  
 "Create compelling spectacles." (...)  
 "Stir up waters to catch fish."  
--- Robert Greene (laws of power)*
+-- Robert Greene [1959]*
 
 > *"If you don’t care to be liked, they can’t touch you."  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
 
 > *"The moment a magician says, «now we begin» you’re already screwed!"  
 -- Brian Brushwood*
@@ -1630,26 +1624,26 @@ Hints:
 ### On deceiving 
 
 <!--
-> *"Muddy water is best cleared by leaving it alone."  -- Alan Watts*
-> *"Yo no escucho lo que dice la gente, solo observo lo que hacen. El comportamiento nunca miente"  -- Winston Churchill*
+> *"Muddy water is best cleared by leaving it alone."  -- Alan Watts [1915]*
+> *"Yo no escucho lo que dice la gente, solo observo lo que hacen. El comportamiento nunca miente"  -- Winston Churchill [1874]*
 
 - Acusa-os sempre daquilo que tu fazes
 - always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
 -->
 
 > *"Appear weak when you are strong and strong when you are weak."  
--- Sun Tzu*
+-- Sun Tzu [-544]*
 
 > *"A man is not deceived by others, he deceives himself." (...)  
 "The senses do not deceive; it is the judgment that deceives."  
--- J.W. Goethe*
+-- J.W. Goethe [1749]*
 
 > *"Everything you say should be true, but not everything true should be said." (...)
 "Every man is guilty of all the good he did not do."  
--- Voltaire*
+-- Voltaire [1694]*
 
 > *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
--- Hannah Arendt*
+-- Hannah Arendt [1906]*
 
 If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don’t do well on the short term.
 
@@ -1659,44 +1653,44 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 -- Proverb*
 
 > *"The evil that men do lives after them; The good is often interred with their bones."  
--- Julius Caesar*
+-- Julius Caesar [-100]*
 
 > *"Have more than you show, speak less than you know."  
--- William Shakespeare*
+-- William Shakespeare [1564]*
 
 > *"Never tell the truth to people who are not worthy of it." (...)  
 "If you tell the truth, you don’t have to remember anything." (...)  
 "A lie can travel half way around the world while the truth is putting on its shoes."  
--- Mark Twain*
+-- Mark Twain [1835]*
 
 > *"I’m not upset that you lied to me. I’m upset that from now on I can’t believe on you." (...)  
 "They muddy the water, to make it seem deep."  
--- Friedrich Nietzsche*
+-- Friedrich Nietzsche [1844]* 
 
 > *"Beware of false knowledge; it is more dangerous than ignorance."  
--- George Bernard Shaw*
-
-> *"Honesty is a very expensive gift, don’t expect it from cheap people."  
--- Warren Buffett*
+-- George Bernard Shaw [1856]*
 
 > *"The first principle is that you must not fool yourself - and you are the easiest person to fool."  
--- Richard Feynman*
+-- Richard Feynman [1918]*
+
+> *"Honesty is a very expensive gift, don’t expect it from cheap people."  
+-- Warren Buffett [1930]*
 
 > *"Conceal your intention." (...)  
 "Say less than necessary." (...)  
 "Keep others in suspended terror: cultivate an air of unpredictability." (...)  
 "Assume formlessness."  
--- Robert Greene*
+-- Robert Greene [1959]*
 
 > *"When you have something to say, silence is a lie."  
--- Jordan Peterson*
+-- Jordan Peterson [1962]*
 
 > *"One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted."  
--- James Altucher*
+-- James Altucher [1968]*
 
 > *"It’s the nature of truth that once you see it, you can’t unsee it." (...)  
 "If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it."  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
 
 > *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
 -- Liv Boeree*
@@ -1712,13 +1706,13 @@ Hints:
 - There are 2 rules in life. nr. one: never give out all the information.
 
 > *"Let silence be your general rule; say only what is necessary and in few words."  
--- Epictetus*
+-- Epictetus [0050]*
 
 > *Sometimes people dont want to hear the truth because they don’t want their illusions destroyed."  
--- Friedrich Nietzsche*
+-- Friedrich Nietzsche [1844]* 
 
 > *"Any sufficiently advanced negligence is indistinguishable from malice."  
--- Deb Chachra*
+-- Deb Chachra [1971]*
 
 ### On mirroring
 
@@ -1727,17 +1721,17 @@ Hints:
 -->
 
 > *"Disarm and infuriate with the mirror effect."  
--- Robert Greene*
+-- Robert Greene [1959]*
 
 Reciprocation is the foundation on which we have evolved: our ancestors learned to share their food and their skills in an honored network of obligation. We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
 
-> *"Being pacifist in face of wolves is the source of endless tragedy."*
-
 > *"A violent man will die a violent death."  
--- Lao Tsu*
+-- Lao Tzu [-571]*
 
 > *"With a gentleman I try to be a gentleman and a half, and with a fraud I try to be a fraud and a half."  
--- Otto von Bismark*
+-- Otto von Bismarck [1815]*
+
+> *"Being pacifist in face of wolves is the source of endless tragedy."*
 
 ### On defeating status quo
 
@@ -1748,35 +1742,35 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 -->
 
 > *"To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate."  
--- Srdja Popovic*
+-- Srdja Popovic [1973]*
 
 The only successful changes are those coming from within.
 
 Burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
 
 > *"Revolutions spring not from accident, but from necessity. A revolution is a return from the factitious to the real. It takes place because it must."  
--- Victor Hugo*
-
-> *"Every joke is a tiny revolution."  
--- George Orwell*
-
-> *"Jokes of the proper kind, properly told, can do more to enlighten questions of politics, philosophy, and literature than any number of dull arguments."  
--- Isaac Asimov*
+-- Victor Hugo [1802]*
 
 > *"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."  
--- Buckminster Fuller*
+-- Buckminster Fuller [1895]*
 
-> *"Those who make peaceful revolution impossible will make violent revolution inevitable."  
--- John F. Kennedy*
-
-> *"A social movement that only moves people is merely a revolt. A movement that changes both people and institutions is a revolution."  
--- Martin Luther King Jr*
+> *"Every joke is a tiny revolution."  
+-- George Orwell [1903]*
 
 > *"Progress isn’t made by early risers. It’s made by lazy men trying to find easier ways to do something."  
--- Robert Heinlein*
+-- Robert A. Heinlein [1907]*
+
+> *"Those who make peaceful revolution impossible will make violent revolution inevitable."  
+-- John F. Kennedy [1917]*
+
+> *"Jokes of the proper kind, properly told, can do more to enlighten questions of politics, philosophy, and literature than any number of dull arguments."  
+-- Isaac Asimov [1920]*
+
+> *"A social movement that only moves people is merely a revolt. A movement that changes both people and institutions is a revolution."  
+-- Martin Luther King Jr [1929]*
 
 > *"Never argue with someone with the aim of changing his or her mind; focus instead on changing the much less invested minds of the audience."  
--- Nassim Taleb*
+-- Nassim Taleb [1960]*
 
 
 
@@ -1790,7 +1784,7 @@ Burocracy prevents low probability events to happen at the expense of making mor
 -- Proverb*
 
 > *"If you’re going to try, go all the way. Otherwise, don’t even start."  
--- Charles Bukowski*
+-- Charles Bukowski [1920]*
 
 Starting is fun but success belongs to finishers. Going halfway is a waste. Before you start something, figure out to finish it.
 
@@ -1802,20 +1796,20 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -- Proverbs*
 
 > *"All cruelty springs from weakness."  
--- Seneca*
+-- Seneca [-004]*
 
 > *"Only put off until tomorrow what you are willing to die having left undone."  
--- Pablo Picasso*
+-- Pablo Picasso [1881]*
+
+> *"When you try to accomplish something difficult, surround yourself with friends."  
+-- Kevin Kelly [1952]*
 
 > *"All endings are also beginnings. We just don’t know it at the time."  
--- Mitch Albom*
+-- Mitch Albom [1958]*
 
 > *"Crush your enemy totally." (...)  
 "Do not wait for a coronation; the greatest emperors crown themselves."  
--- Robert Greene*
-
-> *"When you try to accomplish something difficult, surround yourself with friends."  
--- Kevin Kelly*
+-- Robert Greene [1959]*
 
 > *"Ends reveal themselves through means."  
 -- incentivising@x* 
@@ -1841,10 +1835,10 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -->
 
 > *"Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat."  
--- Balthasar Gracian*
+-- Balthasar Gracian [1601]*
 
 > *"Winning isn’t everything, but wanting to win is."  
--- Vince Lombardi*
+-- Vince Lombardi [1913]*
 
 It’s not just about winning. The way you win sets you up for the next round. Winning is not the end of the road; it’s just a stop along the way.
 
@@ -1857,41 +1851,41 @@ Hints:
 
 > *"To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting." (...)  
 "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."  
--- Sun Tzu*
+-- Sun Tzu [-544]*
 
 > *"Man conquers the world by conquering himself."  
--- Zeno of Elea*
+-- Zeno of Elea [-490]*
 
 > *"Never attempt to win by force what can be won by deception."  
--- Niccoló Machiavelli*
+-- Niccoló Machiavelli [1469]*
 
 > *"The war will be ended by the exhaustion of nations rather than the victories of armies."  
--- Winston Churchill*
+-- Winston Churchill [1874]*
 
 > *"Never cut what you can untie."  
--- Robert Frost*
+-- Robert Frost [1874]*
+
+> *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."  
+-- George S. Patton (general) [1885]*
 
 > *"You only find out who is swimming naked when the tide goes out."  
--- Warren Buffett*
+-- Warren Buffett [1930]*
+
+> *"You don’t win by predicting the future; you win by getting the odds right."  
+-- Will Bonner [1948]*
+
+> *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
+-- Kevin Kelly [1952]*
 
 > *"Win through your actions, never through argument."  
 "Make your accomplishments seem effortless."  
--- Robert Greene*
+-- Robert Greene [1959]*
 
 > *"You might be winning but you’re not growing, and growing might be the most important form of winning."  
--- Jordan Peterson*
-
-> *"You don’t win by predicting the future; you win by getting the odds right."  
--- Will Bonner*
-
-> *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."  
--- George Smith Patton*
-
-> *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
--- Kevin Kelly*
+-- Jordan Peterson [1962]*
 
 > *"We prefer to see winners as naturally talented rather then hard working. Because if it were reversed, what would that inply to us?"  
--- Naval Ravikant*
+-- Naval Ravikant [1974]*
 
 > *"Winners are overgivers."  
 -- codie_sanchez@x*
@@ -1916,7 +1910,7 @@ Hints:
 > *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering." (...)  
 "Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere." (...)  
 "You drown not by falling into a river, but by staying submerged in it."  
--- Paulo Coelho*
+-- Paulo Coelho [1947]*
 
 Letting go allows progress. Let things happen instead of trying things to happen. Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
 
@@ -1927,28 +1921,28 @@ In order to come back you have to go away. Use this opportunity to re-create you
 -- Proverbs*
 
 > *"Develop strength to do bold things, not the strength to suffer."  
--- Niccoló Machiavelli*
+-- Niccoló Machiavelli [1469]*
 
 > *"You are never destroyed by anyone except yourself."  
--- Friedrich Nietzsche*
+-- Friedrich Nietzsche [1844]* 
 
 > *"Never confuse a single defeat with a final defeat."  
--- F. Scott Fitzgerald*
-
-> *"Violence is the last refuge of the incompetent."  
--- Isaac Asimov*
+-- F. Scott Fitzgerald [1896]*
 
 > *"When we are no longer able to change a situation, we are challenged to change ourselves."  
--- Victor Frankl*
+-- Victor Frankl [1905]*
+
+> *"Violence is the last refuge of the incompetent."  
+-- Isaac Asimov [1920]*
 
 > *"Only the weak are cruel. Gentleness can only be expected from the strong."  
--- Leo Buscaglia*
+-- Leo Buscaglia [1924]*
 
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 > *"You never cure structural defects; the system corrects itself by collapsing."  
--- Nassim Taleb*
+-- Nassim Taleb [1960]*
 
 ### On forgiveness
 
@@ -1957,31 +1951,31 @@ In order to come back you have to go away. Use this opportunity to re-create you
 -->
 
 > *"The only way out of the labyrinth of suffering is to forgive."  
--- John Green*
+-- John Green [1977]*
 
 Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
 
 Forgiveness is a process of release so the opposite is a decision to hold onto something. By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
 
-> *"Life has become immeasurably better since I have been forced to stop taking it seriously."  
--- Hunter S. Thompson*
-
 > *"If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us."  
--- Hermann Hesse*
+-- Hermann Hesse [1877]*
+
+> *"Life has become immeasurably better since I have been forced to stop taking it seriously."  
+-- Hunter S. Thompson [1937]*
 
 > *"To heal a wound you must stop scratching it."  
--- Paulo Coelho*
+-- Paulo Coelho [1947]*
 
 > *"People find it far easier to forgive others for being wrong than being right."  
--- J.K. Rowling*
+-- J.K. Rowling [1965]*
 
 However people who forgive easily are taken for granted.
 
 > *"I hate victims who respect their executioners."  
--- Jean-Paul Sartre*
+-- Jean-Paul Sartre [1905]*
 
 > *"Once you had put the pieces back together, even though you may look intact, you were never quite the same as you’d been before the fall."  
--- Jodi Picoult*
+-- Jodi Picoult [1966]*
 
 ### On revenge
 
@@ -1991,16 +1985,16 @@ However people who forgive easily are taken for granted.
 If you don’t reconcile you’re postponing war.
 
 > *"Before you embark on a journey of revenge, dig two graves."  
--- Confucius*
+-- Confucius [-551]*
 
 > *"An eye for an eye will only make the whole world blind."  
--- Mahatma Gandhi*
+-- Mahatma Gandhi [1869]*
 
 > *"The greatest revenge is success."  
--- Frank Sinatra*
+-- Frank Sinatra [1915]*
 
 > *"Today’s victims will be tomorrow’s oppressors."  
--- Nassim Taleb*
+-- Nassim Taleb [1960]*
 
 
 
@@ -2021,42 +2015,42 @@ If you don’t reconcile you’re postponing war.
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
--- José Saramago*
+-- José Saramago [1922]*
 
 Life becomes easy when you recognize the recurring patterns.
 
-> *"The years teach much which the days never know."  
--- Ralph Waldo Emerson*
-
 > *"History is the version of past events that people have decided to agree on."  
--- Napoleon Bonaparte*
+-- Napoleon Bonaparte [1769]*
+
+> *"The years teach much which the days never know."  
+-- Ralph Waldo Emerson [1803]*
 
 > *"Life is understood backwards, but must be lived forwards."  
--- Soren Kierkegaard*
+-- Soren Kierkegaard [1813]*
 
 > *"History does not repeat, but it does rhyme."  
--- Mark Twain*
+-- Mark Twain [1835]*
+
+> *"History is a race between education and catastrophe."  
+-- H.G. Wells [1866]*
+
+> *"There are decades when nothing happens and there are weeks when decades happen."  
+-- Vladimir Lenin [1870]*
+
+> *"I’ve always preferred mythology to history. Because history is made up of truths that eventually turn into lies. Mythology is made up of lies that eventually become truths."  
+-- Jean Cocteau [1889]*
 
 > *"If past history was all there was about the game, the richest people would be librarians."  
--- Warren Buffett*
+-- Warren Buffett [1930]*
+
+> *"Don’t bother fighting the old; just build the new."  
+-- Kevin Kelly [1952]*
 
 > *"The historian is not really interested in the unique, but in what is general in the unique."  
 -- Edward Carr*
 
-> *"There are decades when nothing happens and there are weeks when decades happen."  
--- Vladimir Lenin*
-
-> *"History is a race between education and catastrophe."  
--- H.G. Wells*
-
-> *"I’ve always preferred mythology to history. Because history is made up of truths that eventually turn into lies. Mythology is made up of lies that eventually become truths."  
--- Jean Cocteau*
-
-> *"Don’t bother fighting the old; just build the new."  
--- Kevin Kelly*
-
 > *"History is the study of change, ironically used as a map of the future."  
--- Morgan Housel*
+-- morganhousel@x*
 
 > *"The history of the world: men fighting for power and women fucking whoever wins."  
 -- alpharivelino@x*
@@ -2078,13 +2072,24 @@ You are your memory.
 However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don’t be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
 
 > *"But how can you live and have no story to tell?"  
--- Fyodor Dostoyevsky*
+-- Fyodor Dostoyevsky [1821]*
 
 > *"I don’t know any longer whether I’m living or remembering."  
--- Albert Camus*
+-- Albert Camus [1913]*
+
+> *"He’d wasted most of his life thinking he’d wasted most of his life."  
+-- David Foster Wallace [1962]*
 
 > *"This moment will just be another story someday."  
--- Stephen Chbosky*
+-- Stephen Chbosky [1970]*
+
+> *"A busy mind accelerates the perceived passage of time. Buy time by cultivating peace of mind." (...)  
+"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist." (...)  
+"Changing your interpretation of your past is often just as good as changing your past."  
+-- Naval Ravikant [1974]*
+
+> *"You don’t remember what happened. What you remember becomes what happened."  
+-- John Green [1977]*
 
 > *"Never regret something that once made you smile."  
 -- Amber Deckers*
@@ -2098,17 +2103,11 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"You never know the value of a moment until it becomes a memory."  
 -- Unknown*
 
-> *"He’d wasted most of his life thinking he’d wasted most of his life."  
--- Unknown*
-
 > *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
 -- Unknown*
 
 > *"You forget what you want to remember, and you remember what you want to forget."  
 -- Cormac McCarthy*
-
-> *"You don’t remember what happened. What you remember becomes what happened."  
--- John Green*
 
 > *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
 -- Rosalind Cartwright*
@@ -2119,18 +2118,13 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"We look at the world once, in childhood. The rest is memory."  
 -- Louise Gluck*
 
-> *"A busy mind accelerates the perceived passage of time. Buy time by cultivating peace of mind." (...)  
-"The past is entirely contained in your head. It is nowhere else. The present is all that exists and that is where you exist." (...)  
-"Changing your interpretation of your past is often just as good as changing your past."  
--- Naval Ravikant*
-
 ### On tradition
 
 > *"Tradition is not to preserve the ashes, but to pass on the fire."  
--- Gustav Mahler*
+-- Gustav Mahler [1860]*
 
 > *"Traditions are answers that have been discovered to enduring questions."  
--- Sir Roger Scruton*
+-- (sir) Roger Scruton*
 
 
 
@@ -2146,7 +2140,7 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
--- Steve Jobs*
+-- Steve Jobs [1955]*
 
 You will die soon.
 
@@ -2155,22 +2149,37 @@ Act accordingly and don’t postpone joy. Live life like it’s everyone else’
 The elderly and dying invariably regret what they didn’t do, not what they did.
 
 > *"We are always complaining that our days are few, and acting as though there would be no end of them."  
--- Seneca*
+-- Seneca [-004]*
 
 > *"Either write something worth reading or do something worth writing."  
--- Benjamin Franklin*
+-- Benjamin Franklin [1706]*
 
 > *"Live as if you were to die tomorrow. Learn as if you were to live forever."  
--- Mahatma Gandhi*
+-- Mahatma Gandhi [1869]*
+
+> *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
+-- Kahlil Gibran [1883]*
 
 > *"Stop measuring days by degree of productivity and start experiencing them by degree of presence."  
--- Alan Watts*
+-- Alan Watts [1915]*
 
 > *"Money has no utility to me. Time has utility to me."  
--- Warren Buffett*
+-- Warren Buffett [1930]*
 
 > *"Dream as if you’ll live forever. Live as if you’ll die today."  
--- James Dean*
+-- James Dean [1931]*
+
+> *"You can’t add days to your life, but you can add life to your days."  
+-- John C. Maxwell [1947]*
+
+> *"You are your worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you’re only half involved in what you do."  
+-- Robert Greene [1959]*
+
+> *"What’s life? Showing up for the people you love, again and again, until you can’t show up anymore."  
+-- Rebecca Walker [1969]*
+
+> *"The past is a narrative and the future is a fiction. The only absolute truth is here and now."  
+-- Naval Ravikant [1974]*
 
 > *"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity."  
 -- Henry Van Dyke*
@@ -2178,23 +2187,8 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 > *"If we learn to enjoy waiting, we don’t have to wait to enjoy."  
 -- Kazuaki Tanahashi*
 
-> *"You can’t add days to your life, but you can add life to your days."  
--- John Maxwell*
-
 > *"Tomorrow, you promise yourself, will be different, yet, tomorrow is too often a repetition of today."  
 -- James T. McKay*
-
-> *"What’s life? Showing up for the people you love, again and again, until you can’t show up anymore."  
--- Rebecca Walker*
-
-> *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
--- Kahlil Gibran*
-
-> *"You are your worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you’re only half involved in what you do."  
--- Robert Green*
-
-> *"The past is a narrative and the future is a fiction. The only absolute truth is here and now."  
--- Naval Ravikant*
 
 
 
@@ -2205,7 +2199,7 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 ## On future
 
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
--- Michaelangelo*
+-- Michelangelo [1475]*
 
 Dream big.
 
@@ -2216,30 +2210,33 @@ Our present (in)actions will compound into the future we will experience – tha
 > *"A man without a vision for his future always return to his past."  
 -- Proverb*
 
+> *"I dream my painting and I paint my dream."  
+-- Vincent Van Gogh [1853]*
+
 > *"Every saint has a past, and every sinner has a future." (...)  
 "Anyone who lives within their means suffers from a lack of imagination."  
--- Oscar Wilde*
+-- Oscar Wilde [1854]*
 
-> *"I dream my painting and I paint my dream."  
--- Vincent van Gogh*
+> *"The best way to make your dreams come true is to wake up."  
+-- Paul Valery [1871]*
 
 > *"The empires of the future are empires of the mind."  
--- Winston Churchill*
+-- Winston Churchill [1874]*
 
 > *"I never worry about the future. It comes soon enough."  
--- Albert Einstein*
+-- Albert Einstein [1879]*
 
 > *"In the business world, the rearview mirror is always clearer than the windshield."  
--- Warren Buffett*
+-- Warren Buffett [1930]*
+
+> *"The future belongs to people who are good at creating things, not people who are good at dividing them up."  
+-- Naval Ravikant [1974]*
+
+> *"If you don’t imagine, nothing ever happens at all."  
+-- John Green [1977]*
 
 > *"Rich people think big. Poor people think small."  
 -- T. Harv Eker*
-
-> *"If you don’t imagine, nothing ever happens at all."  
--- John Green*
-
-> *"The best way to make your dreams come true is to wake up."  
--- Paul Valery*
 
 > *"Dreams are illustrations from the book your soul is writing about you."  
 -- Marsha Norman*
@@ -2249,9 +2246,6 @@ Our present (in)actions will compound into the future we will experience – tha
 
 > *"No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened."  
 -- John Hodgman*
-
-> *"The future belongs to people who are good at creating things, not people who are good at dividing them up."  
--- Naval Ravikant*
 
 > *"Every expert has a past. Every creator has a future."  
 -- rapahelz@x*
@@ -2264,10 +2258,10 @@ Our present (in)actions will compound into the future we will experience – tha
 Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
 
 > *"The future belongs to those who see possibilities before they become obvious."  
--- John Sculley*
+-- John Sculley [1939]*
 
 > *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
--- Kevin Kelly*
+-- Kevin Kelly [1952]*
 
 > *"The probability that your theory is correct decreases exponentially with the number of assumptions you make."  
--- pmddomingos@x*
+-- Pedro Domingos [1965]*
