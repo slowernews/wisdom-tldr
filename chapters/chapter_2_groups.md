@@ -66,14 +66,14 @@ Hints:
 > *"Think like a wise man but communicate in the language of the people."  
 -- W.B. Yeats [1865]*
 
-> *"Two monologues do not make a dialogue."  
--- Jeff Daly *
-
 > *"A little inaccuracy sometimes saves tons of explanation."  
--- H.H. Munro *
+-- H.H. Munro [1870]*
+
+> *"Two monologues do not make a dialogue."  
+-- Mikhail Bakhtin [1895]*
 
 > *"Everyone you meet always asks if you have a career, are married or own a house; as if life was some kind of grocery list. But nobody ever asks if you are happy."  
--- Heath Ledger *
+-- Heath Ledger [1979]*
 
 ### How to discord?
 
@@ -90,6 +90,9 @@ Don’t raise your voice. improve your argument.
 
 Listen as you’re wrong. Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you’ll learn something. If they can’t you’ll soften their views. The more we disagree, the more chance there is that at least one of us is right.
 
+> *"Be curious, not judgmental."  
+-- Walt Witman [1819]*
+
 > *"Never argue with a fool, onlookers may not be able to tell the difference." (...)  
 "Never argue with stupid people, because they will drag you down to their level and then beat you with experience."  
 -- Mark Twain [1835]*
@@ -99,9 +102,6 @@ Listen as you’re wrong. Ask the person trying to convince you of something to 
 
 > *"With truly logical people, most arguments are very short and based mainly on differing assumptions."  
 -- Naval Ravikant [1974]*
-
-> *"Be curious, not judgmental."  
--- Walt Witman *
 
 ### How to tell stories?
 
@@ -133,14 +133,14 @@ Hints:
 > *"A good speech should be like a woman’s skirt: long enough to cover the subject and short enought o create interest."  
 -- Winston Churchill [1874]*
 
+> *"Improvisation is the ability to talk with oneself."  
+-- Cecil Taylor [1929]*
+
 > *"Always say less than necessary."  
 -- Kevin Kelly [1952]*
 
 > *"The secret to public speaking is to speak as if you were alone."  
 -- Naval Ravikant [1974]*
-
-> *"Improvisation is the ability to talk with oneself."  
--- Cecil Taylor *
 
 
 
@@ -399,7 +399,7 @@ Hints:
 -- David Velez [1982]*
 
 > *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."  
--- Unknown *
+-- m2jr@x*
 
 
 
@@ -497,6 +497,9 @@ Modern selling: farmers (ambiverts and introverts)
 "Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust."  
 -- Zig Ziglar [1926]*
 
+> *"Advertising serves not so much to advertise products as to promote consumption as a way of life."  
+-- Christopher Lasch [1932]*
+
 > *"Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device." (...)  
 "Don’t find customers for your products, find products for your customers."  
 -- Seth Godin [1960]*
@@ -506,9 +509,6 @@ Modern selling: farmers (ambiverts and introverts)
 
 > *"You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp."  
 -- Ryan Holiday [1987]*
-
-> *"Advertising serves not so much to advertise products as to promote consumption as a way of life."  
--- Carl Lash *
 
 ### On negotiation
 	
@@ -638,10 +638,10 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Attention is the rarest and purest form of generosity."  
--- Simone Weil *
+-- Simone Weil [1909]*
 
 > *"The miracle is this: the more we share the more we have."  
--- Leonard Nimoy *
+-- Leonard Nimoy [1931]*
 
 > *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he’d learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I’ll write you a check». Almost everyone who was just in it for the handouts couldn’t be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He’d hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn’t want to spend time with him so there was never really a conflict there." (...)  
 "My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn’t lessen his genuine love for everyone, just let him be a little more super human."  
@@ -650,7 +650,7 @@ Hints:
 ### On incentives
 
 > *"In nature there are neither rewards nor punishments, there are consequences."  
--- Robert G. Ingersoll *
+-- Robert G. Ingersoll [1833]*
 
 Powerful people give freely, buying influence rather than things.
 
@@ -718,8 +718,17 @@ Hints:
 > *"To lead an orchestra, you must turn your back on the crowd."  
 -- Aristotle [-384]*
 
+> *"If you wish to control others you must control yourself."  
+-- Miyamoto Musashi [1584]*
+
+> *"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."  
+-- John Quincy Adams [1767]*
+
 > *"People ask the difference between a leader and a boss. The leader works in the open, and the boss in covert."  
 -- Theodore Roosevelt [1858]*
+
+> *"Example is not the main thing in influencing others; it is the only thing."  
+-- Albert Schweitzer [1875]*
 
 > *"The led must not be compelled; they must be able to choose their own leader."  
 -- Albert Einstein [1879]*
@@ -730,14 +739,39 @@ Hints:
 > *"If you want to build a ship, don’t herd people together to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea."  
 -- Antoine de Saint Exupery [1900]*
 
+> *"The leader has to be practical and a realist, yet must talk the language of the visionary and the idealist."  
+-- Eric Hoffer [1902]*
+
+> *"One of the tests of leadership is the ability to recognize a problem before it becomes an emergency."  
+-- Arnold Glasow [1905]*
+
 > *"Only the guy who isn’t rowing has time to rock the boat."  
 -- Jean-Paul Sartre [1905]*
+
+> *"Management has a lot to do with answers. Leadership is a function of questions. And the first question for a leader always is: «Who do we intend to be?» Not «What are we going to do?» but «Who do we intend to be?»" (...)  
+"The first responsibility of a leader is to define reality. The last is to say thank you."  
+-- Max DePree [1924]*
+
+> *"Leadership is the capacity to translate vision into reality."  
+-- Warren Bennis [1925]*
 
 > *"You can tell a bully from a leader by how they treat people who disagree with them."  
 -- Miles Davis [1926]*
 
+> *"If you don’t understand that you work for your mislabeled «subordinates», then you know nothing of leadership. You know only tyranny."  
+-- Dee Hock [1929]*
+
+> *"Lead and inspire people. Don’t try to manage and manipulate people. Inventories can be managed but people must be lead."  
+-- Ross Perot [1930]*
+
 > *"Effective leadership is putting first things first. Effective management is discipline, carrying it out."  
 -- Stephen Covey [1932]*
+
+> *"The function of leadership is to produce more leaders, not more followers."  
+-- Ralph Nader [1934]*
+
+> *"The key to successful leadership today is influence, not authority."  
+-- Kenneth Blanchard [1939]*
 
 > *"Leaders must be close enough to relate to others, but far enough ahead to motivate them."  
 -- John C. Maxwell [1947]*
@@ -757,41 +791,7 @@ Hints:
 -- Ryan Holiday [1987]*
 
 > *"Leadership is not about being followed, is about being first."  
--- Dan Munro *
-
-> *"If you wish to control others you must control yourself."  
--- Miyamoto Musashi *
-
-> *"Example is not the main thing in influencing others; it is the only thing."  
--- Albert Schweitzer *
-
-> *"Management has a lot to do with answers. Leadership is a function of questions. And the first question for a leader always is: «Who do we intend to be?» Not «What are we going to do?» but «Who do we intend to be?»" (...)  
-"The first responsibility of a leader is to define reality. The last is to say thank you."  
--- Max DePree *
-
-> *"One of the tests of leadership is the ability to recognize a problem before it becomes an emergency."  
--- Arnold Glasow *
-
-> *"If you don’t understand that you work for your mislabeled «subordinates», then you know nothing of leadership. You know only tyranny."  
--- Dee Hock *
-
-> *"Leadership is the capacity to translate vision into reality."  
--- Warren Bennis *
-
-> *"The leader has to be practical and a realist, yet must talk the language of the visionary and the idealist."  
--- Eric Hoffer *
-
-> *"The key to successful leadership today is influence, not authority."  
--- Kenneth Blanchard *
-
-> *"The function of leadership is to produce more leaders, not more followers."  
--- Ralph Nader *
-
-> *"Lead and inspire people. Don’t try to manage and manipulate people. Inventories can be managed but people must be lead."  
--- Ross Perot *
-
-> *"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."  
--- John Quincy Adams *
+-- til_danmunro@x*
 
 > *"The only thing that gives orders is balls."  
 -- Tony Montana {fictional}*
@@ -869,10 +869,10 @@ Hints:
 -- Pedro Domingos [1965]*
 
 > *"Lots of folks confuse bad management with destiny."  
--- Frank Hubbard *
+-- Frank Hubbard [1920]*
 
 > *"The manager asks how and when; the leader asks what and why."  
--- Warren Bennis *
+-- Warren Bennis [1925]*
 
 ### On teams
 
@@ -884,7 +884,7 @@ Hints:
 -->
 
 > *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don’t care about becoming a somebody."  
--- Phil Dooley *
+-- Phill Dooley [1966]*
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
 -- vox populi*
@@ -903,21 +903,21 @@ Hints:
 > *"I divide my officers into four groups. There are clever, stupid, diligent and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief."  
 -- Kurt von Hammerstein-Equord [1878]*
 
+> *"You’re either part of the solution or part of the problem."  
+-- Eldridge Cleaver [1935]*
+
+> *"A team effort is a lot of people doing what I say."  
+-- Michael Winner [1935]*
+
+> *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
+-- Perry Belcher [1947]*
+
 > *"Every person in your company is a vector. Your progress is determined by the sum of all vectors."  
 -- Elon Musk [1971]*
 
 > *"When working surround yourself with people more sucessful than you. When playing surround yourself with people happier than you." (...)  
 "A good organization focuses on correctness. A bad organization focuses on consensus."  
 -- Naval Ravikant [1974]*
-
-> *"Nothing will kill a great employee faster than whatching you tolerate a bad one."  
--- Perry Belcher *
-
-> *"You’re either part of the solution or part of the problem."  
--- Eldridge Cleaver *
-
-> *"A team effort is a lot of people doing what I say."  
--- Michael Winner, British film director*
 
 ### How to give feedback?
 
@@ -1012,6 +1012,21 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 "I’d rather have criticism from a genius than praise from an idiot."  
 -- vox populi*
 
+> *"A critic is a legless man who teaches running."  
+-- Channing Pollock [1880]*
+
+> *"A good teacher does not teach facts, he or she teaches enthusiasm, open-mindedness and values."  
+-- Gian Carlo Rota [1932]*
+
+> *"Good teaching is 1/4 preparation and 3/4 theatre."  
+-- Gail Godwin [1937]*
+
+> *"Share your knowledge. It is a way to achieve immortality."  
+-- Sadhguru Jaggi Vasudev [1957]*
+
+> *"Good advice helps you find the solution to your problem. Great advice helps you find you were solving the wrong problem."  
+-- Merlin Mann [1966]*
+
 > *"You don’t need mentors, you need action." (...)  
 "Take feedback from nature and markets, not from people." (...)  
 "A good scare is a great error-correcting mechanism." (...)  
@@ -1019,26 +1034,11 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 "Every piece of advice must be taken before it’s given."   
 -- Naval Ravikant [1974]*
 
+> *"If something is too early to criticize, it’s also too early to evangelize."  
+-- Kelsey Hightower [1981]*
+
 > *"Most asks for advice are a version of: «Can you motivate me?»."  
 -- Sahil Lavingia [1989]*
-
-> *"A critic is a legless man who teaches running."  
--- Channing Pollock *
-
-> *"If something is too early to criticize, it’s also too early to evangelize."  
--- Kelsey Hightower *
-
-> *"Good advice helps you find the solution to your problem. Great advice helps you find you were solving the wrong problem."  
--- Merlin Mann*
-
-> *"Share your knowledge. It is a way to achieve immortality."  
--- Dalai Lama *
-
-> *"A good teacher does not teach facts, he or she teaches enthusiasm, open-mindedness and values."  
--- Gian Carlo Rota *
-
-> *"Good teaching is 1/4 preparation and 3/4 theatre."  
--- Gail Godwin *
 
 > *"Teach what you build. Your product is proof. Your process is value. Your execution is credibility. No one wants a guru. They want a builder who shares."  
 -- heycharafeddine@x*
@@ -1065,10 +1065,10 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 -- Naval Ravikant [1974]*
 
 > *"If you think you’re too small to make an impact, try to go to bed with a mosquito in the room."  
--- Dalai Lama *
+-- Anita Roddick [1942]*
 
 > *"Don’t follow your mentors; follow your mentors’ mentors."  
--- David Leach *
+-- David Leach [1936]*
 
 ### How to mentor your kids?
 
@@ -1099,6 +1099,9 @@ Don’t tell your kids how to live. Live fully and let them see. Spend only half
 Prepare the child for the path, not the child for the path.
 
 <!--
+> *"My partner teacher does this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."
+> *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson *
+
 - we become good parents when you start to control yourself instead of controlling your child.
 - If you don’t have kids you’ll be the first organism of your direct ancestors to not reproduce since the beggining of life. 
 - we are raising weak men and girls who need validation because their father wasn’t there.
@@ -1146,14 +1149,26 @@ Hints:
 > *"It is easier to build strong children than to repair broken men."  
 -- Frederick Douglass [1818]*
 
+> *"No man can possibly know what life means, what the world means, what anything means, until he has a child and loves it."  
+-- Lafcadio Hearn [1850]*
+
 > *"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them."  
 -- Oscar Wilde [1854]*
 
 > *"I cannot think of any need in children as strong as the need for a father’s protection."  
 -- Sigmund Freud [1856]*
 
+> *"Never help a child with a task he feels he can succeed."  
+-- Maria Montessori [1870]*
+
 > *"Nothing affects the life of a child so much as the unlived life of its parent."  
 -- Carl Jung [1875]*
+
+> *"Every father should remember one day his son will follow his example, not his advice."  
+-- Charles Kettering [1876]*
+
+> *"My father didn’t tell me how to live. He lived and let me watch him do it."  
+-- Clarence Budington Kelland [1881]*
 
 > *"Your naked body should belong only to those who fall in love with your naked soul."  
 -- Charlie Chaplin (in a letter to his daughter, Geraldine) [1889]*
@@ -1161,16 +1176,40 @@ Hints:
 > *"The hardest job kids face today is learning good manners without seeing any."  
 -- Fred Astaire [1899]*
 
+> *"My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect."  
+-- Ivy Baker Priest [1905]*
+
+> *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
+-- T.H. White [1906]*
+
+> *"One of the greatest things a father can do for his children is to love their mother."  
+-- Howard W. Hunter [1907]*
+
+> *"A parent will always worry about the wrong child."  
+-- Don Alt [1916]*
+
+> *"Fathering is not something perfect men do, but something that perfects the man."  
+-- Frank Pittman [1935]*
+
 > *"Life doesn’t come with an instruction book — that’s why we have fathers."  
 -- H. Jackson Brown Jr. [1940]*
+
+> *"Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of song."  
+-- Pam Brown [1948]*
 
 > *"Be nice to your children because they are going to choose your nursing home." (...)  
 "Children totally accept — and crave — family rules. «In our family we have a rule for X» is the only excuse a parent needs for setting a family policy. In fact, «I have a rule for X» is the only excuse you need for your own personal policies." (...)  
 "To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave."  
 -- Kevin Kelly [1952]*
 
+> *"If children feel safe, they can take risks, ask questions, make mistakes, learn to trust, share their feelings and grow."  
+-- Alfie Kohn [1957]*
+
 > *"My advice is my autobiography not slogans. People relate better like that."  
 -- James Altucher [1968]*
+
+> *"Don’t ask kids what they want to be when they grow up but what problems do they want to solve. This changesthe conversation from who do you want to work for, to what do i need to learn to be able to do that."  
+-- Jaime Casap [1970]*
 
 > *"If raising children was less rewarding than not doing it, the human race would have gone extinct." (...)  
 "Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."  
@@ -1178,48 +1217,6 @@ Hints:
 
 > *"The nature of impending fatherhood is that you are doing something that you’re unqualified to do, and then you become qualified while doing it."  
 -- John Green [1977]*
-
-> *"My father always said there are four things a child needs: plenty of love, nourishing food, regular sleep, and lots of soap and water. After that, what he needs most is some intelligent neglect."  
--- Ivy Baker Priest *
-
-> *"One of the greatest things a father can do for his children is to love their mother."  
--- Howard W. Hunter *
-
-> *"My father didn’t tell me how to live. He lived and let me watch him do it."  
--- Clarence Budington Kelland *
-
-> *"Every father should remember one day his son will follow his example, not his advice."  
--- Charles Kettering *
-
-> *"A parent will always worry about the wrong child."  
--- Don Alt *
-
-> *"No man can possibly know what life means, what the world means, what anything means, until he has a child and loves it."  
--- Lafcadio Hearn *
-
-> *"Fathering is not something perfect men do, but something that perfects the man."  
--- Frank Pittman *
-
-> *"Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of song."  
--- Pam Brown *
-
-> *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
--- T.H. White *
-
-> *"Don’t ask kids what they want to be when they grow up but what problems do they want to solve. This changesthe conversation from who do you want to work for, to what do i need to learn to be able to do that."  
--- Jaime Casap *
-
-> *"If children feel safe, they can take risks, ask questions, make mistakes, learn to trust, share their feelings and grow."  
--- Alfie Kohn *
-
-> *"My partner teacher des this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."  
--- Tom Brassington *
-
-> *"Never help a child with a task he feels he can succeed."  
--- Maria Montessori *
-
-> *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  
--- Julie Louisson *
 
 However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
 
@@ -1331,7 +1328,7 @@ Hints:
 -- goatinaboat@hn*
 
 > *"I had a manager who once said the people who were terminated were those who question too much and do too little."  
--- ???@hn *
+-- nostrademons@hn {paraphrased}*
 
 ### How to change career?
 
@@ -1347,10 +1344,10 @@ You will either pivot or get pivoted.
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
--- Unknown *
+-- bergerjac@hn*
 
 > *"My luggage is always ready."  
--- Jorge Jesus (soccer coach) *
+-- Jorge Jesus [1954]*
 
 You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
 
@@ -1477,6 +1474,9 @@ Hints:
 "Management is mostly hiring well and firing quickly."  
 -- Naval Ravikant [1974]*
 
+> *"If you are not embarrassed by how much you charge, you’re probably undercharging."  
+-- Casey Brown [1978]*
+
 > *"Don’t hire people who hire people to do their jobs."  
 "A designer who can’t build is like a chef who can’t cook" (...)  
 "Chief of staff: who you hire when you want to retire but don’t want to look like you’ve retired" (...)  
@@ -1490,11 +1490,8 @@ Hints:
 > *"We value “T-shaped” people. That is, people who are both genera lists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
 -- Valve employee book*
 
-> *"If you are not embarrassed by how much you charge, you’re probably undercharging."  
--- Casey Brown *
-
 > *"Bad professionals make money off their customers, good professionals make money for their customers."  
--- Jacques Mattheij@hn *
+-- jacquesm@hn*
 
 > *"No one works harder than people who work at a small company, there’s nobody to delegate to and nowhere to hide."  
 -- anuatluru@x*
@@ -1676,6 +1673,9 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 > *"Any person capable of angering you becomes your master."  
 -- Epictetus [0050]*
 
+> *"If you want to make enemies, try to change something."  
+-- Woodrow Wilson [1856]*
+
 > *"The enemy is fear. We think it is hate, but it is fear."  
 -- Mahatma Gandhi [1869]*
 
@@ -1685,18 +1685,18 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 > *"Never wrestle with a pig because if you do, you’ll both get dirty, but the pig will enjoy it."  
 -- Charlie Munger [1924]*
 
-> *"If you want to make enemies, try to change something."  
--- Woodrow Wilson *
-
 > *"The world is divided between victims and predators, and you have to defend yourself against both."  
--- Florenz Baron *
+-- Florence Baron [1952]*
 
 > *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth."  
--- Doc Rivers *
+-- Doc Rivers [1961]*
 
 ### On easy opponents
 
 Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
+
+> *"«El dorados» are never drawn in the map."  
+-- vox populi*
 
 > *"Sometimes one pays most for the things one gets for nothing." (...)  
 "Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
@@ -1716,9 +1716,6 @@ Easy players are often just deceiving you. However - if you can identify them - 
 
 > *"Never assume that loud is strong and quiet is weak."  
 -- Brene Brown [1965]*
-
-> *"«El dorados» are never drawn in the map."  
--- Unknown *
 
 ### On desperate opponents
 

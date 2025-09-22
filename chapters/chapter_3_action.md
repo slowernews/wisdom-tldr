@@ -1550,7 +1550,7 @@ Hints:
 -- Nassim Taleb [1960]*
 
 > *"You can discover what your enemy fears most by observing the means he uses to frighten you."  
--- Eric Hoffer *
+-- Eric Hoffer [1902]*
 
 > *"Never offend people with style when you can offend them with substance."  
 -- Sam Brown *

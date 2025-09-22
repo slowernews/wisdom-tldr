@@ -234,9 +234,6 @@ Hints:
 - We say we try to get better but if look at your behaviour you’ll see you actually are trying to to stay the same.
 - Focus on financial freedom first. Put your happiness before goals.
 
-> *"Only he who wanders, find new paths."  
--- vox populi*
-
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu [-571]*
 
@@ -276,6 +273,9 @@ Hints:
 
 > *"To live is the rarest thing in the world. Most people just exist."  
 -- Oscar Wilde [1854]*
+
+> *"Only he who wanders, find new paths."  
+-- Fridtjof Nansen [1861]*
 
 > *"Action expresses priorities."  
 -- Mahatma Gandhi [1869]*

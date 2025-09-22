@@ -37,7 +37,7 @@ Hints:
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu [-571]*
 
-> *"Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live."  
+/> *"Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live."  
 -- Oscar Wilde [1854]*
 
 > *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  
@@ -2323,6 +2323,9 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 > *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."  
 -- Sophocles [-497]*
 
+> *"There are two types of people that fail: those that listen to nobody and those that listen to everybody"  
+-- J.P. Morgan [1837]*
+
 > *"The greatest mistake you can make in life is to continually be afraid you will make one."  
 -- Elbert Hubbard [1856]*
 
@@ -2364,32 +2367,26 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 "Most of our suffering comes from avoidance."  
 -- Naval Ravikant [1974]*
 
-> *"There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody."  
--- Thomas Beshere, Jr. *
-
 > *"I’m not afraid of failure, I’m afraid of being in the exact same place next year."  
 -- thejustinwelsh@x*
 
 ### On anger
 
-<!--
-- Most angry people are envious people who don’t understand that life will only get better once they are focused on their own lives and actively improving who they are.
--->
-
 > *"The more you know who you are, and what you want, the less you let things upset you."  
--- Bob Harris (Lost in translation) *
-
-> *"And God said «love your enemy», and I loved myself."  
--- Kahlil Gibran [1883]*
+-- Bob Harris (fictional)*
 
 Anger is a punishment we give ourselves for someone else’s mistake.
 
 Hint: 
 
 - Pay attention to what people say out of anger, they’ve been dying to tell you that.
+- Most angry people are envious people who don’t understand that life will only get better once they are focused on their own lives and actively improving who they are.
 
 > *"An angry man opens his mouth and shuts his eyes."  
 -- Cato the Younger [-095]*
+
+> *"And God said «love your enemy», and I loved myself."  
+-- Kahlil Gibran [1883]*
 
 ### On scars and wounds
 
@@ -2488,7 +2485,7 @@ Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecuriti
 -- Leo Buscaglia [1924]*
 
 > *"Having a low opinion of yourself is not modesty. It’s self-destruction."  
--- Bobby Sommer *
+-- Bobbe Sommer [1936]*
 
 Confidence is the opposite of shame. Confidence is shamelessness. 
 
@@ -2517,15 +2514,15 @@ Hints:
 > *"The problem with the world is that the intelligent people are full of doubts while the stupid ones are full of confidence."  
 -- Charles Bukowski [1920]*
 
+> *"Self-confidence is the memory of success."  
+-- David Storey [1933]*
+
 > *"Guilt is society’s voice speaking in your head." (...)  
 "Self-esteem is just the reputation you have with yourself. You’ll always know." (...)  
 "Ego is false confidence, self-respect is true confidence." (...)  
 "Seek validation through creation, not through appreciation." (...)  
 "You are a story you tell yourself."  
 -- Naval Ravikant [1974]*
-
-> *"Self-confidence is the memory of success."  
--- David Storey *
 
 ### How to overcome shame and grow confidence?
 
@@ -2539,14 +2536,14 @@ When hiding something about yourself, you automatically create shame. You’re s
 > *"Imperfections are attractive when their owners are happy with them."  
 -- Augusten Burroughs [1965]*
 
-> *"The less confident you are, the more serious you have to act."  
--- Tara Ploughman {fiction}*
-
 > *"Just get out of the room."  
 -- Robert Glover [1955]*
 
 > *"Confidence is derived from options."  
--- Rollo Tommasi [196x]*
+-- Rollo Tomassi [1969]*
+
+> *"The less confident you are, the more serious you have to act."  
+-- Tara Ploughman {fiction}*
 
 > *"Cringe is to mental growth what muscle soreness is to physical growth."  
 -- cpaik@x*
@@ -2561,7 +2558,7 @@ When hiding something about yourself, you automatically create shame. You’re s
 -- Amy Cuddy [1972]*
 
 > *"Rudeness is the weak person’s imitation of strength."  
--- Eric Hoffer *
+-- Eric Hoffer [1902]*
 
 Confidence is not walking into a room thinking you are better than everyone, it’s walking in not having to compare yourself with anyone. Someone else’s strengths don’t make you look bad, being jealous and insecure does.
 
@@ -2610,7 +2607,7 @@ Nietzsche describes 3 modern vices: OVERWORK (to be constantly busy is self-nega
 -->
 
 > *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you’re actually extroverted around people who bring you peace."  
--- Zachary Laid *
+-- zacharylaid@x*
 
 There are no introverts, only people that don't feel safe.
 
@@ -2636,7 +2633,7 @@ There are no introverts, only people that don't feel safe.
 -->
 
 > *"You’ll never be criticized by someone who is doing more than you. You’ll always be critized by someone who is doing less. Remember that."  
--- Denzel Washington *
+-- Denzel Washington [1954]*
 
 > *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
 -- Henry Thomas Buckle [1821]*
@@ -2686,7 +2683,7 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 -- Sahil Lavingia [1989]*
 
 > *"They called her witch because she knew how to heal herself."  
--- Te’ V. Smith *
+-- tevsmith@x*
 
 However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
 
@@ -2699,7 +2696,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ### On empathy
 
 > *"Empathy without boundaries is self destruction."  
--- Silvy Khoucasian *
+-- khoucasian@x*
 
 Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 
@@ -2872,11 +2869,23 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 > *"It’s kind of fun to do the impossible!"  
 -- Walt Disney [1901]*
 
+> *"If you think we can’t change the world, it just means you’re not one of those that will."  
+-- Jacque Fresco [1916]*
+
 > *"The limits of the possible can only be defined by going beyond them into the impossible."  
 -- Arthur C. Clarke [1917]*
 
+> *"Birds born is a cage think flying is an illness."  
+-- Alejandro Jodorowski [1929]*
+
+> *"When nothing is sure, everything is possible."  
+-- Margaret Drabble [1939]*
+
 > *"Often isn’t the mountains ahead that wear you out, it’s the little pebble in your shoe."  
 -- Muhammad Ali [1942]*
+
+> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  
+-- Terence McKenna [1946]*
 
 > *"Impossible is just an opinion."  
 -- Paulo Coelho [1947]*
@@ -2889,18 +2898,6 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 
 > *"If you can’t, you must. If you must, you can."  
 -- Tony Robbins [1960]*
-
-> *"If you think we can’t change the world, it just means you’re not one of those that will."  
--- Jacque Fresco *
-
-> *"Birds born is a cage think flying is an illness."  
--- Alejandro Jodorowski *
-
-> *"When nothing is sure, everything is possible."  
--- Margaret Drabble *
-
-> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  
--- Terence McKenna *
 
 ### On expectations
 
@@ -2925,7 +2922,7 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 -- Jim Rohn [1930]*
 
 > *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
--- Unknown (tetraplegic) *
+-- jonmorrow@x*
 
 ### On self awareness
 
@@ -2981,10 +2978,10 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"People who can’t laugh at themselves will always be outwitted by people who can."  
--- T.K. Coleman *
+-- tk_coleman@x*
 
 > *"I never made a mistake in my life. I thought I did once, but I was wrong."  
--- Lucy Van Pelt *
+-- Lucy Van Pelt (fictional)*
 
 
 
@@ -3014,23 +3011,23 @@ After reaching a certain age, you are no longer seen as an individual; you becom
 > *"Every one desires to live long, but no one would be old."  
 -- Jonathan Swift [1667]*
 
-> *"My objective is to die with my shoes on."  
--- Nassim Taleb [1960]*
+> *"As I have not worried to be born, I do not worry to die."  
+-- Federico Garcia Lorca [1898]*
 
 > *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. There was no transitional period."  
--- Stan Ulam *
+-- Stanisław Ulam [1909]*
 
 > *"Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older."  
 -- John Cassavetes [1929]*
 
+> *"When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time."  
+-- Jon Boorman [1933]*
+
+> *"My objective is to die with my shoes on."  
+-- Nassim Taleb [1960]*
+
 > *"You’re a kid until you have kids."  
 -- Sahil Lavingia [1989]*
-
-> *"When you’re young, you have so much time but never enough money. When you’re old you have money but never enough time."  
--- Jon Boorman *
-
-> *"As I have not worried to be born, I do not worry to die."  
--- Federico Garcia Lorca *
 
 ### On aging
 
@@ -3063,11 +3060,11 @@ Aging implies wear and tear, often seen as a high price to pay for maturity.
 > *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it."  
 -- Mark Twain [1835]*
 
-> *"Once I was beautiful, now I’m myself."  
--- Anne Sexton*
-
 > *"Ain’t nothin’ an old man can do for me but bring me a message from a young man."  
 -- Moms Mabley [1894]*
+
+> *"Once I was beautiful, now I’m myself."  
+-- Anne Sexton [1928]*
 
 ### On maturity
 
@@ -3105,14 +3102,14 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 > *"Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it."  
 -- George Orwell [1903]*
 
-> *"We never really grow up, we only learn how to act in public."  
--- Bryan White [1974]*
+> *"Aging is an extraordinary process where you become the person you always should have been."  
+-- David Bowie [1947]*
 
 > *"We mature with the damage, not with the years."  
--- Mateus William *
+-- Terry Pratchett [1948]*
 
-> *"Aging is an extraordinary process where you become the person you always should have been."  
--- David Bowie *
+> *"We never really grow up, we only learn how to act in public."  
+-- Bryan White [1974]*
 
 ### On retirement
 
