@@ -1809,7 +1809,7 @@ Hint:
 ### On heros
 
 > *"Every society honors its live conformists and its dead troublemakers."  
--- Marshall McLuhan *
+-- Marshall McLuhan [1911]*
 
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
 -- Harvey Dent {fictional}*
@@ -1869,12 +1869,12 @@ Hints:
 > *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
 -- Balthasar Gracian [1601]*
 
+> *"My father used to say, «don’t raise your voice». Improve your argument."  
+-- (archbishop) Desmond Tutu [1931]*
+
 > *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
 "Your best response to an insult is «you’re probably right». Often they are."  
 -- Kevin Kelly [1952]*
-
-> *"My father used to say, «don’t raise your voice». Improve your argument."  
--- (archbishop) Desmond Tutu *
 
 > *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  -- realestatetrent@x*
 
@@ -1885,6 +1885,9 @@ Hints:
 > *"If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it."  -- naval@x*
 > *"War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery."  -- Robin Hanson [1959]*
 -->
+
+> *"Summer grass, all that’s left of warrior’s dreams."  
+-- Basho [1644]*
 
 > *"To destroy war, destroy patriotism."  
 -- Leo Tolstoy [1828]*
@@ -1897,9 +1900,6 @@ Hints:
 
 > *"All wars benefit the elites at the cost of the common man. Every. Single. One."  
 -- Andrew Tate [1986]*
-
-> *"Summer grass, all that’s left of warrior’s dreams."  
--- Basho *
 
 
 
@@ -2114,8 +2114,17 @@ Hints:
 "If you are part of a society that votes, then do so. There may be no candidates and measures you want to vote for... But there are certain to be ones you want to vote against. In case of doubt, vote against. By this rule you will rarely go wrong. If this is too blind for your taste, consult some well-meaning fool (there is always one around) and ask his advice. Then vote the other way. This enables you to be a good citizen (if such is your wish) without spending the enormous amount of time that truly intelligent exercise of the franchise requires."  
 -- Robert A. Heinlein [1907]*
 
+> *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
+-- John Kenneth Galbraith [1908]*
+
 > *"I would rather have questions that can’t be answered than answers that can’t be questioned."  
 -- Richard Feynman [1918]*
+
+> *"The more you have to define freedom the less freedom you have."  
+-- Alexander Bickel [1924]*
+
+> *"A right is not what someone gives you; it’s what no one can take from you."  
+-- Ramsey Clark [1927]*
 
 > *"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum."  
 -- Noam Chomsky [1928]*
@@ -2135,15 +2144,6 @@ Hints:
 "All tyranny begins with the desire to coerce others for the greater good." (...)  
 "The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax the nominal gains, thereby confiscating the real value of the assets."  
 -- Naval Ravikant [1974]*
-
-> *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
--- John Kenneth Galbraith *
-
-> *"The more you have to define freedom the less freedom you have."  
--- Alexander Bickel *
-
-> *"A right is not what someone gives you; it’s what no one can take from you."  
--- Ramsey Clark *
 
 ### On democracy
 
@@ -3729,7 +3729,7 @@ We’ve grown dependent on three simple features that just aren’t available in
 -- Sahil Lavingia [1989]*
 
 > *"Humans are an API to ChatGPT. ChatGPT is an API to Python. Python is an API to C. C is an API to assembly. Assembly is an API to binary. Binary is an API to physics. Physics is an API to the machine that runs the universe. It’s computation all the way down."  
--- lex Fridman *
+-- lexfridman@x*
 
 > *"Humans doing the hard jobs on minimum wage while the robots write poetry and paint is not the future I wanted."  
 -- karlremarks@x*
