@@ -2909,12 +2909,10 @@ Nothing can sabotage you more quickly and more completely than limiting beliefs.
 
 ### On motivation
 
-<!--
-- everyone is motivated until the 4AM alarm, then it’s discipline.
--->
-
 > *"With a strong enough «why», you can overcome any «how»."  
 -- Tony Robbins [1960]*
+
+Everyone is motivated until the 4AM alarm, then it’s discipline.
 
 Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. Most people keep telling themselves old stories that aren’t serving them. Lazyness is resting before getting tired.
 
@@ -2923,6 +2921,9 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 
 > *"Motivation is what gets you started. Habit is what keeps you going."  
 -- Jim Rohn [1930]*
+
+> *"If you need inspiration, don’t do it."  
+-- Elon Musk [1971]*
 
 > *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
 -- jonmorrow@x*
@@ -3133,14 +3134,15 @@ Finding a place to die is an important thing to do.
 ### On loneliness
 
 <!--
-> *"I hate who teals my solitude without, in exchange, offering me true company."  -- Friedrich Nietzsche [1844]* 
-
 - the cure to male loneliness is being extremely ambitious
 - A person who is okay with being alone is a powerful person.
 -->
 
 > *"A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free."  
 -- Arthur Schopenhauer [1788]*
+
+> *"I hate who teals my solitude without, in exchange, offering me true company."  
+-- Friedrich Nietzsche [1844]* 
 
 > *"If you are afraid of loneliness, don’t marry."  
 -- Anton Chekhov [1860]*

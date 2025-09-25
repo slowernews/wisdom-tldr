@@ -358,8 +358,7 @@ Hints:
 "Move to a place that feels strange until it feels like home. Constantly learning and growing. then do it again, pursuing disconfort, until the whole world is my home."  
 -- Derek Sivers [1969]*
 
-> *"It is possible for ordinary people to choose to be extraordinary." (...)  
-"If you need inspiration, don’t do it."  
+> *"It is possible for ordinary people to choose to be extraordinary."  
 -- Elon Musk [1971]*
 
 > *"Every next level of your life will demand a different you."  
