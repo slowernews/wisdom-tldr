@@ -11,7 +11,8 @@
 ## On autonomy
 
 <!--
-> *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams*
+> *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams [1767]*
+> *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  -- E.E. Cummings [1894]*
 
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
 - Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
@@ -1693,7 +1694,6 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 - A women is either a 0 or a 1. A hore or a wife material. Dont overcomplicate.
 - Depression and schizophrenia are so tied to poor gut bacteria that researchers can identify a person with depression just by analyzing their gut bacteria composition.
 - Pain changes people. Some become rude. Some become silent.
-- Turns out I wasn’t depressed, I just needed a job that fulfills me, a «date to marry» relationship, a consistent physical activity and high protein whole foods nutrition.
 -->
 
 > *"The secret to living well and longer is: eat half, walk double, laugh triple and love without measure."  
@@ -2027,6 +2027,7 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 > *"Just like a low resting heart rate is the byproduct of intense exercise, low anxiety is the byproduct of intense self-examination." — Naval Ravikant*
 > *"Self-obsession is the root of all unhappiness. The happiest people in life love something more than they love themselves. They love their children, they love God, they love their mission, what have you. And all misery comes from rumination, from sitting around...going in circles in your head about me, me, me, me. I get interested in topics and concepts and ideas and understandings. And the more I focus that way, the less I think about myself."  -- NAVAL*
 > *"The #1 reason to be anonymous is insecurity."  -- Sahil Lavingia [1989]*
+> *"Angels can fly because they can take themselves lightly."  -- {attributed to} G.K. Chesterton [1874]*
 
 - cages aren’t made of iron, they’re made of thoughts.
 - It took me 13 years to realize that the only cure to depression is just leaving the house at every single possible opportunity no matter how badly you don’t want to.

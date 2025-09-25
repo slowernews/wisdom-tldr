@@ -710,6 +710,7 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
 > *"The cold water doesn’t get warmer if you jump late." 
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
+> *"You can, you should, and if you’re brave enough to start, you will."  -- Stephen King [1947]*
 
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
 - If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
@@ -745,6 +746,9 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"The beginning is the most important part of the work."  
 -- Plato [-427]*
+
+> *"While we wait for life, life passes."  
+-- Seneca [-004]*
 
 > *"You may delay, but time will not."  
 -- Benjamin Franklin [1706]*

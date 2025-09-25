@@ -11,7 +11,6 @@
 <!--
 > *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
 > *"You are not a drop in the ocean. You are the entire ocean in a drop."  -- Rumi [1207]*
-- basically your job here on earth is to make 1-2-3 decisions in your life extremely well, and the rest is a rounding error.
 -->
 
 > *"The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children."  
@@ -20,17 +19,10 @@
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso [1881]*
 
+Your job here on earth is to make a few life decisions extremely well, and the rest is a rounding error.
+
 > *"When a person can’t find a deep sense of meaning, they distract themselves with pleasure."  
 -- Victor Frankl [1905]*
-
-> *"Life is being on the wire, everything else is just waiting."  
--- Karl Wallenda [1905]*
-
-> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
--- Abraham Maslow [1908]*
-
-> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."  
--- Maya Angelou [1928]*
 
 > *"Of course life has no point. If it had, man would not be free."  
 -- Andrei Tarkovsky [1932]*
@@ -44,11 +36,15 @@
 > *"The high IQ, high openness crowd will spend decades in the wilderness of DIY worldviews and lifestyles only to find out, often too late, that the most meaningful thing to do was just to get married and have kids."  
 -- cxgonzalez@x*
 
-### On happiness
+
+
+
+
+
+
+## On happiness
 
 <!--
-+ naval@x -- Money does buy happiness, if you earned it.
-
 - alcançar a liberdade: ou c muito dinheiro ou c falta de desejos.
 - If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
 - Men give up happyness for their family. Women give up family for their happyness.
@@ -63,6 +59,9 @@ Happiness is a mind state where nothing is missing.
 
 	HAPPINESS = AUTONOMY + BELONGING + MASTERY  and  REALITY > EXPECTATIONS
 
+> *"Happiness is not a destination but a state of being."  
+-- Demetrius of Phalerum [-350]*
+
 > *"Happiness is not a goal, it’s a byproduct."  
 -- Eleanor Roosevelt [1884]*
 
@@ -70,6 +69,9 @@ Happiness is a mind state where nothing is missing.
 -- Dale Carnegie [1888]*
 
 ### How to find happiness?
+
+> *"The secret of happiness is freedom and the secret of freedom is courage."  
+-- Thucydides [-460]*
 
 Stop looking for happiness in the same place where you lost it.
 
@@ -79,33 +81,24 @@ Hints:
 - Happiness is outside of your comfort zone.
 - We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.
 - I’m a straight capitalist-meritocratist, entirely driven by gratitude. The richer you get the more expensive happiness becomes.
+- Busy people are happier. They don't have time to overthink.
 - Amor fati. True wisdom comes from accepting fate. High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.
-- Busy people are happier.
 
-> *"The secret of happiness is freedom and the secret of freedom is courage."  
--- Thucydides [-460]*
-
-> *"Happiness is not a destination but a state of being."  
--- Demetrius of Phalerum [-350]*
+> *"Happy is he who learns to bear what he cannot change."  
+-- Seneca [-004]*
 
 > *"The happiness of your life depends upon the quality of your thoughts." (...)  
 "Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius [0121]*
 
-> *"Happy is he who learns to bear what he cannot change."  
--- Seneca [-004]*
-
-> *"Melancholy is the happiness of being sad."  
--- Victor Hugo [1802]*
-
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli [1804]*
 
-> *"Angels can fly because they can take themselves lightly."  
--- G.K. Chesterton [1874]*
-
 > *"Many people lose the small joys in the hope for the big happiness."  
 -- Pearl S. Buck [1892]*
+
+> *"Melancholy is the happiness of being sad."  
+-- Victor Hugo [1802]*
 
 > *"Happiness in intelligent people is the rarest thing I know."  
 -- Ernest Hemingway [1899]*
@@ -126,13 +119,13 @@ Hints:
 -- Brené Brown [1965]*
 
 > *"Money can’t make rich people happy but it can make poor people happy." (...)  
+"Beyond the basics, money doesn’t make you happier because, beyond the basics, nothing makes you happier." (...)  
 "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned." (...)  
 "The price of trying to make everybody else happy is making yourself miserable." (...)  
-"Happiness is your default state when you remove everything." (...)  
-"Beyond the basics, money doesn’t make you happier because, beyond the basics, nothing makes you happier."  
+"Happiness is your default state when you remove everything."  
 -- Naval Ravikant [1974]*
 
-> *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happyness. Or jail."  
+> *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happiness. Or jail."  
 -- wuwei113@x*
 
 > *"A common trait of unhappy people: they love to criticize everything and everyone all the time, they get distracted by things that don’t matter. A common trait of happy people: they are focused on themselves, their business, their family and friends, their difficult goals."  
@@ -157,6 +150,8 @@ Hints:
 
 <!--
 > *"You are what you eat and read."  -- Maya Corrigan*
+> *"It isn’t what we say or think that defines us, but what we do."  -- Jane Austen [1775]*
+> *"I have already lost touch with a couple of people I used to be."  -- Joan Didion [1934]*
 -->
 
 > *"You are the combination of your habits and the people who you spend the most time with."  
@@ -169,9 +164,6 @@ A big part of who you are is who you’re not.
 > *"Day by day, what you choose, what you think and what you do is who you become."  
 -- Heraclitus [-535]*
 
-> *"It isn’t what we say or think that defines us, but what we do."  
--- Jane Austen [1775]*
-
 > *"Our life always expresses the result of our dominant thoughts." (...)  
 "The most common form of despair is not being who you are."  
 -- Soren Kierkegaard [1813]*
@@ -180,9 +172,6 @@ A big part of who you are is who you’re not.
 "I am not what happened to me, I am what I choose to become." (...)  
 "The privilege of a lifetime is to become who you truly are."  
 -- Carl Jung [1875]*
-
-> *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
--- E.E. Cummings [1894]*
 
 > *"The world wants to assign you a role in life. And once you accept that role you are doomed."  
 -- Robert Greene [1959]*
@@ -196,9 +185,6 @@ A big part of who you are is who you’re not.
 ### On finding your path
 
 <!--
-> *"Everyone sees what you appear to be, few experience what you really are."  -- Niccoló Machiavelli [1469]*
-> *"The world is changed by your example, not by your opinion."  -- Paulo Coelho [1947]*
-
 + naval@x -- All the great questions have only personal answers.
 + naval@x -- Only two things are pursued for their own sake - even if they make you feel worse or make you worse off - truth and love.
 + naval@x -- Three decisions determine 90% of your life outcomes: who you're with, what you do, and where you live.
@@ -209,9 +195,6 @@ A big part of who you are is who you’re not.
 - the biggest comeback is making yourself feel like yourself again.
 - The longer you are living on autopilot, the harder the future is going to be.
 -->	
-
-> *"Waking up to who you are requires letting go of who you imagine yourself to be."  
--- Alan Watts [1915]*
 
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
 -- Richard Bach [1936]*
@@ -243,12 +226,6 @@ Hints:
 
 > *"To find yourself, think for yourself."  
 -- Socrates [-470]*
-
-> *"While we wait for life, life passes."  
--- Seneca [-004]*
-
-> *"First ask yourself who you want to be and then do what you have to do."  
--- Epictetus [0050]*
 
 > *"The obstacle is the way."  
 -- Marcus Aurelius [0121]*
@@ -316,23 +293,30 @@ Hints:
 > *"The question is not who is going to let me; it’s who is going to stop me."  
 -- Ayn Rand [1905]*
 
+> *"Life is being on the wire, everything else is just waiting."  
+-- Karl Wallenda [1905]*
+
+> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
+-- Abraham Maslow [1908]*
+
 > *"Home is not where you are born; home is where all your attempts to escape cease."  
 -- Naguib Mahfouz [1911]*
 
 > *"If someone says can’t, that shows you what to do."  
 -- John Cage [1912]*
 
-> *"You’re under no obligation to be the same person you were five minutes ago."  
+> *"You’re under no obligation to be the same person you were five minutes ago." (...)  
+"Waking up to who you are requires letting go of who you imagine yourself to be."  
 -- Alan Watts [1915]*
+
+> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."  
+-- Maya Angelou [1928]*
 
 > *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment."  
 -- Jim Rohn [1930]*
 
 > *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."  
 -- Warren Buffett [1930]*
-
-> *"I have already lost touch with a couple of people I used to be."  
--- Joan Didion [1934]*
 
 > *"People seldom do what they believe in. They do what is convenient, then repent."  
 -- Bob Dylan [1941]*
@@ -342,9 +326,6 @@ Hints:
 
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman [1946]*
-
-> *"You can, you should, and if you’re brave enough to start, you will."  
--- Stephen King [1947]*
 
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland [1952]*
@@ -387,7 +368,7 @@ Hints:
 > *"You often feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you." (...) 
 "It’s not finding yourself that’s hard; it’s facing yourself that is." (...)  
 "When a flower doesn’t bloom, you fix the environment in which it grows, not the flower."  
--- Alexander Den Heijer*
+-- purposologist@x*
 
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
 -- pat_stedman@x*

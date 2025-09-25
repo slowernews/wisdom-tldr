@@ -219,9 +219,6 @@ Hints:
 > *"If you expect magic in every encounter, you’ll find it."  
 -- Adam Robinson [1955]*
 
-> *"Mediocre talent seeks to figure out how to network. Great talent seeks to figure out how to contribute."  
- -- rapahelz@x*
-
 > *"Millenials who learn the dark Boomer arts of phone calls and eye contact will inherit the earth."  
 -- molson_hart@x*
 
@@ -544,7 +541,7 @@ Hints:
 - Marketing is a symptom of excess production.
 
 > *"Flattery is the infantry of negotiation."  
--- Lord Chandos [1872]*
+-- (Lord Chandos) Hugo von Hofmannsthal [1872]*
 
 > *"People may or may not say what they mean but they always say something designed to get what they want."  
 -- David Mamet [1947]*
@@ -678,6 +675,7 @@ Hints:
 <!--
 + @MoZarrinsadaf -- The more you explain, the more they sense you doubt it too.
 + @MoZarrinsadaf -- Your emotions are biochemical reactions designed for survival, not truth.
+> *"The world is changed by your example, not by your opinion."  -- Paulo Coelho [1947]*
 
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - a leader makes the people next to them better version of themselves.
@@ -1967,7 +1965,7 @@ Hints:
 > *"Politics is the art of making your selfish desires seem like national interest."  -- Thomas Sowell [1930]*
 > *"We are living in an era when sanity is controversial, and insanity is just another viewpoint - and degeneracy only another lifestyle."  -- Thomas Sowell [1930]*
 > *"Nation-states like war; city-states like commerce; families like stability; and individuals like entertainment."  -- Nassim Taleb [1960]*
-> *"Nature has given women so much power that the law has very wisely given them little."  -- Samuel Johnson*
+> *"Nature has given women so much power that the law has very wisely given them little."  -- Samuel Johnson [1709]*
 > *"O comunismo penetrou até mesmo nos circulos cristãos disfarçado de solidariedade. É nosso dever pastoral expô-lo."  -- Robert Francis Prevost (Papa Leão XIV em 2010)
 > *"People demand freedom of speech as a compensation for the freedom of thought which they seldom use."  -- Søren Kierkegaard*
 > *"People who believe politicians care about them are the same people who think OnlyFans girls care about them."  -- stirlingwisdom@x*
@@ -2539,6 +2537,9 @@ Hints:
 > *"What do you really despise? By this you are truly known."  
 -- Frank Herbert [1920]*
 
+> *"A gossip is one who talks to you about others, a bore is one who talks to you about himself; and a brilliant conversationalist is one who talks to you about yourself."  
+-- Lisa Kirk [1923]*
+
 > *"I’m suspicious of people who don’t like dogs, but I trust a dog when it doesn’t like a person."  
 -- Bill Murray [1950]*
 
@@ -2554,9 +2555,6 @@ Hints:
 
 > *"If you want to know someone, meet their parents."  
 -- Sahil Lavingia [1989]*
-
-> *"A gossip is one who talks to you about others, a bore is one who talks to you about himself; and a brilliant conversationalist is one who talks to you about yourself."  
--- Lisa Kirk *
 
 
 
@@ -2577,11 +2575,17 @@ Hints:
 
 Most people approach each and every year in the exact same way while expecting drastically different results.
 
+> *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
+-- vox populi*
+
 > *"What a misfortune to be a woman! And yet, the worst misfortune is not to understand what a misfortune it is."  
 -- Soren Kierkegaard [1813]*
 
 > *"If you feel pain, you’re alive. If you feel other people’s pain, you’re a human being."  
 -- Leo Tolstoy [1828]*
+
+> *"Monkeys are superior to man in this: when a monkey looks into a mirror, he sees a monkey."  
+-- Bertrand Russell {paraphrased} [1872]*
 
 > *"The pendulum of the mind oscillates between sense and nonsense, not between right and wrong."  
 -- Carl Jung [1875]*
@@ -2598,6 +2602,9 @@ Most people approach each and every year in the exact same way while expecting d
 > *"The American people don’t believe anything until they see it on television."  
 -- Richard Nixon [1913]*
 
+> *"There is no exception to the rule that everybody likes to be an exception to the rule."  
+-- Malcolm Forbes [1919]*
+
 > *"I am a deeply superficial person."  
 -- Andy Warhol [1928]*
 
@@ -2610,29 +2617,20 @@ Most people approach each and every year in the exact same way while expecting d
 > *"Everybody has a secret world inside of them. I mean everybody. All of the people in the whole world, I mean everybody — no matter how dull and boring they are on the outside. Inside them they’ve all got unimaginable, magnificent, wonderful, stupid, amazing worlds... Not just one world. Hundreds of them. Thousands, maybe."  
 -- Neil Gaiman [1960]*
 
+> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."  
+-- Chuck Palahniuk [1963]*
+
 > *"People aren’t either wicked or noble. They’re like chef’s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict."  
 -- Lemony Snicket [1970]*
 
 > *"I always worried someone would notice me, and then when no one did, I felt lonely."  
 -- Curtis Sittenfeld [1975]*
 
-> *"How to write compelling characters? It’s easy, just make them contradictions. To be human is to be a contradiction."  
--- Unknown *
-
 > *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."  
--- Unknown *
+-- Walter White {fictional}*
 
 > *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
--- Unknown *
-
-> *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
--- Unknown *
-
-> *"Monkeys are superior to man in this: when a monkey looks into a mirror, he sees a monkey."  
--- Chazal *
-
-> *"There is no exception to the rule that everybody likes to be an exception to the rule."  
--- Malcolm Forbes *
+-- {attributed to} Peter Drucker [1909]*
 
 > *"People aren’t getting crazier. Crazy people are getting louder."  
 -- g_s_bhogal@x*
@@ -2674,6 +2672,9 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 "Society: Be yourself. Society: Not like that."  
 -- vox populi*
 
+> *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
+-- vox populi {in San Francisco}*
+
 > *"The world is a tragedy to those who feel, but a comedy to those who think."  
 -- Horace Walpole [1717]*
 
@@ -2693,9 +2694,6 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 > *"The grass is always greener on the side that is fertilized with bullshit."  
 -- morganhousel@x*
 
-> *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  
--- Unknown (in San Francisco)*
-
 > *"When you’re up to your nose in shit, keep your mouth shut."  
 -- Jack Beauregard (fictional)*
 
@@ -2703,7 +2701,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 > *"Home is where the bra isn’t." (...)  
 "Home is where the parking lot is."  
--- Unknown *
+-- vox populi*
 
 ### What is love?
 
@@ -2810,6 +2808,9 @@ Life is meant to be lived in community but don’t settle for a place where you�
 
 Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
 
+> *"Everyone sees what you appear to be, few experience what you really are."  
+-- Niccoló Machiavelli [1469]*
+
 > *"Love your neighbour, yet don’t pull down your hedge."  
 -- Benjamin Franklin [1706]*
 
@@ -2835,7 +2836,7 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 -- Jim Butcher [1971]*
 
 > *"Routinely greeting six neighbours maximizes wellbeing."  
--- Mr. Rogers *
+-- Fred Rogers [1928]*
 
 > *"A mother tells you you’re special. A father gets you to prove it." (...)  
 "If you can’t talk shit to your friends, you’re not friends."  
@@ -2864,6 +2865,9 @@ Hints:
 - Bad friends will prevent you from having good friends.
 - You only grow apart from people who don’t grow.
 
+> *"Brothers love each other when they are equally rich."  
+-- vox populi*
+
 > *"Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors."  
 -- Balthasar Gracian [1601]*
 
@@ -2887,9 +2891,6 @@ Hints:
 > *"Spend your time in the company of geniuses, sages, children and books."  
 -- Naval Ravikant [1974]*
 
-> *"Brothers love each other when they are equally rich."  
--- Unknown *
-
 > *"Hard truth: most people don’t want you to be the best version of yourself. They want you to be the version of you that’s best for them."  
 -- skylarromines@x*
 
@@ -2905,17 +2906,15 @@ Hints:
 > *"Absence diminishes minor passions and inflames great ones, as the wind douses a candle and fans a fire."  -- François de La Rochefoucauld [1613]*
 > *"Early internet: meeting someone online? Probably a weirdo. Now: meeting someone without an online presence? Definitely a weirdo."  -- signulll@x*
 > *"If you love a flower don’t pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  -- Osho*
-> *"Men dream about virgins. Women dream about monsters. Who’s more perverted?"  -- Rivelino*
 > *"Modern dating is basically learning all about someone until you are no longer attracted to them—sometimes it takes one date, sometimes it takes years."  -- signulll@x*  
 > *"Never has anyone done something entirely for others. All love is self-love. Think of those you love: dig deeply and you will see that you do not love them; you love the pleasant sensations that this love produces in you! You love the desire, not the desired." -- Friedrich Nietzsche [1844]* 
 > *"Porn has prolonged more marriages than it’s ever destroyed."  -- Rollo Tomasi*
-> *"Sexuality is spontaneous chemical reaction between two parties, not a process of negotiation."  -- Rollo Tomasi*
 > *"Some advice i gave to my friend: your value as a man should never be reduced to how you look. On dating apps that’s all you are—your height, & your face. It’s an endless police lineup for women to pick from, with nothing else factored in. The apps flattens you into a 2D commodity, judged in milliseconds. If you value yourself in any meaningful way, you should never partake in such a marketplace, ever."  -- signulll@x*
 > *"The desire to be loved is the last illusion. Give it up and you’ll be so free."  -- Margaret Atwood*
 > *"There are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older 2) insanely crazy heartbreak. there are simply no other ways."  -- signulll@x*
 > *"There are three qualities to look for in a partner: intelligence, energy, and integrity. You need all three. You can’t compromise on any one of them."  -- Naval Ravikant [1974]*
 > *"When I think I’m unfairly hated, I try to remember that I’m unfairly loved."  -- R.C. Sproul*
-> *"When women love us, they forgive us everything, even our crimes; when they do not love us, they give us credit for nothing, not even our virtues"  -- Honoré De Balzac [1799]*
+> *"Men dream about virgins. Women dream about monsters. Who’s more perverted?"  -- Rivelino*
 > *"Your "loyalty" doesn’t mean anything to her if you can’t get other women. That’s not being loyal, that’s being a loser."  -- Rivelino*
 
 - A man will cry for a woman once in his lifetime. After that, his soul will never allow him to ever trust women (or fully love) ever again.
@@ -2951,6 +2950,9 @@ Hints:
 > *"The first sign of love: for men is timidity, in women it is courage."  
 -- Voltaire [1694]*
 
+> *"When women love us, they forgive us everything, even our crimes; when they do not love us, they give us credit for nothing, not even our virtues"  
+-- Honoré De Balzac [1799]*
+
 > *"The surest sign that a man is in love is when he divorces his wife."  
 -- H.L. Mencken [1880]*
 
@@ -2963,17 +2965,20 @@ Hints:
 > *"A man is already halfway in love with any woman who listens to him."  
 -- Brendan Behan [1923]*
 
+> *"Sexuality is spontaneous chemical reaction between two parties, not a process of negotiation."  
+-- Rollo Tomassi [1969]*
+
 > *"You haven’t been in love, if you haven’t let it ruin your life."  
 -- Sarah Hildebrand [1990]*
 
 > *"A man usually falls in love with a woman who asks the kinds of questions he is able to answer."  
--- Ronald Colman *
-
-> *"Real love doesn’t meet you at your best. It meets you in your mess."  
--- J.S. Park *
+-- Ronald Colman [1891]*
 
 > *"Warriors and worriers. Human males form cooperative groups to compete against out-groups, while human females exclude other females in their quest to find mates, female family members to invest in their children. This challenges the familiar wisdom that women are more sociable than men and men are more competitive than women."  
--- Joyce Benenson*
+-- Joyce Benenson [1949]*
+
+> *"Real love doesn’t meet you at your best. It meets you in your mess."  
+-- jsparkblog@x*
 
 ### On love and romance
 
@@ -2981,8 +2986,14 @@ Hints:
 > *"Absence diminishes small loves and increases great ones, as the wind blows out the candle and fans the bonfire."  -- François de La Rochefoucauld [1613]*
 -->
 
+> *"Love is the absence of judgement."  
+-- vox populi*
+
 > *"Love is a flower, friendship a sheltering tree."  
 -- Samuel Taylor Coleridge [1772]*
+
+> *"One expresses well the love he does not feel."  
+-- Jean-Baptiste Alphonse Karr [1808]*
 
 > *"Nothing is so necessary for a young man as the company of intelligent woman."  
 -- Leo Tolstoy [1828]*
@@ -3011,12 +3022,6 @@ Hints:
 > *"The measure of love is peace." (...)  
 "You can’t buy a real kiss."  
 -- Naval Ravikant [1974]*
-
-> *"Love is the absence of judgement."  
--- Dalai Lama *
-
-> *"One expresses well the love he does not feel."  
--- J.A. Karr *
 
 ### On falling out of love
 
@@ -3050,7 +3055,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 -- Naval Ravikant [1974]*
 
 > *"You must love in such a way that the person you love feels free."  
--- Thich Nhat Hanh *
+-- Thich Nhat Hanh [1926]*
 
 ### What women value in men
 
@@ -3086,6 +3091,9 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 > *"Why are women so much more interesting to men than men are to women?"  
 -- Virginia Woolf [1882]*
 
+> *"The classical definition of a gentleman: he never insulted anyone unintentionally."  
+-- James Crow [1916]*
+
 > *"If you can make a woman laugh, you can make her do anything."  
 -- Marilyn Monroe [1926]*
 
@@ -3094,9 +3102,6 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 
 > *"What do women want? (...) Every woman wants to be in a love story."  
 -- Zan Perrion [1964]*
-
-> *"The classical definition of a gentleman: he never insulted anyone unintentionally."  
--- James Crow *
 
 > *"Most women fall in love with the lifestyle of a man, not with the man himself."  
 -- falsi1ke@x*
@@ -3146,7 +3151,7 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
--- H. Harwood [1874] & R. Gore-Bro *
+-- H. Harwood [1874] & R. Gore-Bro [1893]*
 
 Marry an happy person. Unhappy spouse, unhappy life.
 
@@ -3177,25 +3182,25 @@ Marry an happy person. Unhappy spouse, unhappy life.
 -- Ani Difranco [1970]*
 
 > *"Don’t do it. You’ll regret it. The things you love about him now, you’ll hate in a few years."  
--- Tom Ford *
+-- Tom Ford [1961]*
 
 > *"If men acted after marriage as they do during courtship, there would be fewer divorces and more bankruptcies."  
--- Frances Rodman *
+-- Frances Rodman [1917]*
 
 > *"When a man steals your wife, there is no better revenge than to let him keep her."  
--- Sacha Guitry *
+-- Sacha Guitry [1885]*
 
 > *"It doesn’t much signify whom one marries, for one is sure to find out next morning it was someone else."  
--- Will Rogers *
+-- Will Rogers [1879]*
 
 > *"The happiest time of a person’s life is after his first divorce."  
--- J.K. Galbraith *
+-- John Kenneth Galbraith [1908]*
 
 > *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
--- Warren Farrell (psychologist) *
+-- Warren Farrell [1943]*
 
 > *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it."  
--- Peggy Joyce *
+-- Peggy Hopkins Joyce [1893]*
 
 > *"Modern women don’t want a husband. They want a lifestyle. If another man can upgrade them, they’re gone."  
 -- pallnandi@x*
@@ -3258,13 +3263,13 @@ Against facts there are no arguments. Against faith there are no facts.
 -- Naval Ravikant [1974]*
 
 > *"My religion is simple, my religion is kindness."  
--- (dalai lama) ??? *
+-- (14th dalai lama) Tenzin Gyatso [1935]*
 
 > *"When you renounce something, you’re stuck to it forever."  
--- Anthony de Mello *
+-- Anthony de Mello [1931]*
 
 > *"People who want to share their religious views with you almost never want you to share yours with them."  
--- Dave Barry *
+-- Dave Barry [1947]*
 
 ### On morality
 
@@ -3285,6 +3290,9 @@ Against facts there are no arguments. Against faith there are no facts.
 
 > *"Men never do evil so cheerfully and completely as when they do it from religious conviction."  
 -- Blaise Pascal [1623]*
+
+> *"The teachers of morality speak like angels, but live like men."  
+-- Samuel Johnson [1709]*
 
 > *"Compassion is the basis of morality."  
 -- Arthur Schopenhauer [1788]*
@@ -3311,17 +3319,14 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"The cash register did more for human morality than the congregational church."  
 -- Charlie Munger [1924]*
 
+> *"Reality TV to me is the museum of social decay."  
+-- Gary Oldman [1958]*
+
 > *"Morality is the way that we would like the world to be, economics is the way that the world actually works."  
 -- Steven Levitt [1967]*
 
 > *"Intentions don’t matter. Actions do. That’s why being ethical is hard."  
 -- Naval Ravikant [1974]*
-
-> *"The teachers of morality speak like angels, but live like men."  
--- Sam Johnson *
-
-> *"Reality TV to me is the museum of social decay."  
--- Gary Oldman *
 
 
 
@@ -3459,16 +3464,16 @@ Technology is applied science.
 -- Naval Ravikant [1974]*
 
 > *"What is research but a blind date with knowledge?"  
--- Will Harvey *
+-- Will Harvey [1966]*
 
 > *"The price of success in philosophy is triviality."  
--- C. Glymour *
+-- Clark Glymour [1942]*
 
 > *"Everything that can be invented has been invented."  
--- Charles Duell (director of us patent office) *
+-- Charles Holland Duell [1850]*
 
 > *"Scientists study the world as it is, engineers create the world that never has been."  
--- Theodore von Karman *
+-- Theodore von Karman [1881]*
 
 
 
@@ -3540,6 +3545,9 @@ Artistic death is made by consensus.
 > *"An artist is someone who has learned to trust in himself."  
 -- Ludwig van Beethoven [1770]*
 
+> *"An artist is not paid by his work but by his vision."  
+-- James McNeill Whistler [1834]*
+
 > *"No artist tolerates reality."  
 -- Friedrich Nietzsche [1844]* 
 
@@ -3558,17 +3566,14 @@ Artistic death is made by consensus.
 > *"An artist discovers his genious the day he dares not to please."  
 -- André Malraux [1901]*
 
+> *"To be an artist, you need to live in a world of silence."  
+-- Louise Bourgeois [1911]*
+
 > *"An intellectual says a simple thing in an hard way. An artist says a hard thing in a simple way."  
 -- Charles Bukowski [1920]*
 
 > *"To be an artist, you have to give up everything, including the desire to be a good artist."  
 -- Jasper Johns [1930]*
-
-> *"An artist is not paid by his work but by his vision."  
--- James Whistler *
-
-> *"To be an artist, you need to live in a world of silence."  
--- Louise Bourgeois *
 
 ### On aesthetics
 
@@ -3628,6 +3633,12 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
 
+> *"The clash of ideas is the sound of freedom."  
+-- Lady Bird Johnson [1912]*
+
+> *"Your job is to get your audience to care about your obsessions."  
+-- Martin Scorsese [1942]*
+
 > *"The goal of media is to make every problem, your problem." (...)  
 "Journalists aren’t neutral, they’re the cavalry of culture wars." (...)  
 "All new information starts as misinformation." (...)  
@@ -3635,12 +3646,6 @@ News are the first draft of History but he human brain was not designed to proce
 "Elon’s purchase of Twitter was the single most consequential act of the last decade. It restored free speech, broke the Overton window, and enabled the second American revolution." (...)
 "If you’re writing for your followers, your followers are worthless."  
 -- Naval Ravikant [1974]*
-
-> *"The clash of ideas is the sound of freedom."  
--- Lady Bird Johnson *
-
-> *"Your job is to get your audience to care about your obsessions."  
--- Martin Scorsese *
 
 > *"The hallmark of modern society is the theft of attention. Modern society is overcrowded with thieves of attention." (...)  
 "Social media holds up a magnifying mirror to our emotions. AI holds up a magnifying mirror to our intellectual abilities."  
@@ -3705,6 +3710,9 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *"Any sufficiently advanced technology is indistinguishable from magic."  
 -- Arthur C. Clarke [1917]*
 
+> *"I’ve finally learned what «upward compatible» means. It means we get to keep all our old mistakes."  
+-- Dennie van Tassel [1939]*
+
 > *"Real mathematicians understand completeness, real philosophers understand incompleteness, the rest don’t formally understand anything."  
 -- Nassim Taleb [1960]*
 
@@ -3712,9 +3720,6 @@ We’ve grown dependent on three simple features that just aren’t available in
 "We’re already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow." (...)  
 "When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it’s really silly to be afraid of a lack of photons. Then I wasn’t afraid of the dark anymore after that."  
 -- Elon Musk [1971]*
-
-> *"I’ve finally learned what «upward compatible» means. It means we get to keep all our old mistakes."  
--- Dennie van Tassel *
 
 ### On AI
 
