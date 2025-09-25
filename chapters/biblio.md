@@ -52,6 +52,7 @@
  / iterintellectus
  / jlippincott_
  / jonmorrow
+ / jordanharbinger
  / jsparkblog
  / jxnlco
  / k__quotes
@@ -209,6 +210,7 @@
 - [1788] SCHOPENHAUER, Arthur (de)
 - [1790] SMITH, Adam (uk)
 - [1795] CARLYLE, Thomas (uk)
+- [1795] KEATS, John (uk)
 - [1799] BALZAC, Honoré de (fr)
 
 - [1802] HUGO, Victor (fr)
@@ -861,13 +863,12 @@
 - [1979] FITZPATRICK, Becca (us)
 - [1979] LEDGER, Heath (au)
 
-	- [1980] HARBINGER, Jordan (us)
 - [1981] HIGHTOWER, Kelsey (us)
+- [1981] VELEZ, David (co)
 - [1982] NEWPORT, Cal (us)
 - [1982] PARRISH, Shane (ca)
 - [1982] SETHI, Ramit (us)
 - [1982] URBAN, Tim (us)
-- [1982] VELEZ, David (co)
 - [1983] MILHÃO, Miguel (pt)
 - [1984] MANSON, Mark (us)
 - [1985] ALTMAN, Sam (us)

@@ -90,8 +90,6 @@ Hints:
 ### On authenticity
 
 <!--
-+ @naval -- What the world craves is authenticity.
-	
 - 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
 - Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
@@ -132,9 +130,9 @@ Hints:
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin [1937]*
 
-> *"Everybody wants spirituality. Nobody wants the truth." (...)  
-"Escape competition through authenticity." (...)  
-"To be honest speak without identity."  
+> *"Escape competition through authenticity." (...)  
+"What the world craves is authenticity." (...)   
+"To be honest speak without identity."
 -- Naval Ravikant [1974]*
 
 ### On accountability
@@ -1430,8 +1428,6 @@ Money is a force multiplier to help you live the life of your dreams. However, t
 ### How to get wealthy without luck
 
 <!--
-+ naval@x -- 
-
 - I don’t waste time with unpriced listings.
 -->
 
@@ -1475,7 +1471,8 @@ Making money is not about luck.
 "It doesn’t take money to make money, it takes leverage to make money."  
 -- Naval Ravikant [1974]*
 
-> *"Where there’s value, there’s money."  
+> *"Four ways to make money: 1. Save people time 2. Save people money 3. Make people money 4. Make people happy" (...)  
+"Where there’s value, there’s money."  
 -- Sahil Lavingia [1989]*
 
 ### On money management
@@ -1607,21 +1604,16 @@ Hints:
 ---
 ## On popularity
 
-<!--
-> *"We’ll know that rock is dead when you have to get a degree to work in it."*
-+ shl@x -- Influencers are just oversharers who got lucky
-
-- don’t strive to be well-known, strive to be worth knowing.
--->
-
 > *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."  
 -- Bjarne Stroustrup*
 
 See fame as a multiplier. 
 
 People say they want to be famous to impact the world, often what they want is the adoration of their peers.
+Don’t strive to be well-known, strive to be worth knowing.
 
-> *"He who is known as an early riser need not get up until noon."  
+> *"He who is known as an early riser need not get up until noon." (...)  
+"We’ll know that rock is dead when you have to get a degree to work in it."  
 -- vox populi*
 
 > *"There is only one thing in the world worse than being talked about, and that is not being talked about."  
@@ -1636,6 +1628,9 @@ People say they want to be famous to impact the world, often what they want is t
 "Venture funds sell brand for the right to invest money." (...)  
 "You don’t want fame, you want respect. Respect comes from living up to their standards. You don’t want respect, you want self-respect. Self-respect comes from living up to your own standards. The same standards that you apply to other people."  
 -- Naval Ravikant [1974]*
+
+> *"Influencers are just oversharers who got lucky."  
+-- Sahil Lavingia [1989]*
 
 
 
@@ -1722,7 +1717,6 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
-+ naval@x -- Outgrow bosses, landlords, and roommates.
 + nikitabier@X -- The sole purpose of leisure travel after age 30 is to remind yourself that you’ve lost all childlike joy and the only thing that excites you is aggregating land and resources and watching number go up.
 + @Cobratate -- A sad generation who’s obsessed with taking happy pictures.
 > *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
@@ -1755,11 +1749,36 @@ It’s okay to live a life others don’t understand.
 
 We were designed to walk dozens of miles each day, catch our own meals, live in a close-knit tribe, have regular sex, raise children and die. When life becomes about enjoying every second over accumulating more stuff, we are able to live lives of true abundance and joy.
 
+Hints:
+
+- Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. 
+- Aspire to work 3 days a week; 3 weeks a month; 3 months free a year.
+- Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
+- Own my house on a few acres with clean water river frontage, and assets I can enjoy & be creative with (car, bike, music equipment, tools, etc)  
+- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it. Income doesn’t make you rich. spending habits do.
+- The opposite of play isn’t work, it’s depression. Create a life you don’t need a vacation from. Making money in order to consume goods can’t mankinds’s sole purpose on this planet.
+- 3 hobbies: one creative, one to keep in shape and one to make money.
+- House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.
+- I have no plans to retire. It’s the perfect combination of work and play that keep you young.
+- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
+- Simplicity is the ultimate sophistication.
+
+> *"He who buys what he does not need, steals from himself." (...)  
+"Joy and sorrow sleep on the same bed."  
+-- vox populi*
+
 > *"If you have a garden and a library, you have everything you need."  
 -- Cicero [-106]*
 
+> *"Think of each day as a single life."  
+-- Seneca [-004]*
+
 > *"The happiest of all lives is a busy solitude."  
 -- Voltaire [1694]*
+
+> *"Hard work is simply the refuge of people that have nothing to do." (...)  
+"We live in an age when unnecessary things are our only necessities."  
+-- Oscar Wilde [1854]*
 
 > *"Any idiot can face a crisis; it’s this day-to-day living that wears you out." (...)  
 "Medicine is my lawful wife and literature is my mistress."  
@@ -1798,44 +1817,13 @@ We were designed to walk dozens of miles each day, catch our own meals, live in 
 > *"Live fast, die young, and leave a good looking corpse."  
 -- James Dean [1931]*
 
-> *"Mondays are fine. It’s your life that sucks."  
--- Ricky Gervais [1961]*
-
-> *"If someone offered you a billion dollars with the only catch being that you’d have a pretty bad cold for the rest of your life, would you take it? Definite no for me and, I’d guess, for many of you. Really highlights how much more important health is than everything else."  
--- Tim Urban [1982]*
-
-> *"Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t."  
--- Ramit Sethi [1982]*
-
-Hints:
-
-- Build a business with the heuristic of «maximize my vacation time». You will often be presented with two options: the lucrative option and the lifestyle option. 
-- Aspire to work 3 days a week; 3 weeks a month; 3 months free a year.
-- Aspire to move past room-mates, commutes, alarm clocks and calendars. (Naval Ravikant)
-- Own my house on a few acres with clean water river frontage, and assets I can enjoy & be creative with (car, bike, music equipment, tools, etc)  
-- How to reduce your expenses without sacrificing your quality of life? Geoarbitrage. Car: max 10K. Job: live next to it. Income doesn’t make you rich. spending habits do.
-- The opposite of play isn’t work, it’s depression. Create a life you don’t need a vacation from. Making money in order to consume goods can’t mankinds’s sole purpose on this planet.
-- 3 hobbies: one creative, one to keep in shape and one to make money.
-- House + work + third place. We drink to loosen our tongues. Feel like a local celebrity: everybody knows who you are.
-- I have no plans to retire. It’s the perfect combination of work and play that keep you young.
-- You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
-- Simplicity is the ultimate sophistication.
-
-> *"He who buys what he does not need, steals from himself." (...)  
-"Joy and sorrow sleep on the same bed."  
--- vox populi*
-
-> *"Think of each day as a single life."  
--- Seneca [-004]*
-
-> *"Hard work is simply the refuge of people that have nothing to do." (...)  
-"We live in an age when unnecessary things are our only necessities."  
--- Oscar Wilde [1854]*
-
 > *"At a restaurant do you order what you know is great, or do you try something new? Do you make what you know will sell or try something new? Do you keep dating new folks or try to commit to someone you already met? The optimal balance for exploring new things vs exploiting them once found is: 1/3. Spend 1/3 of your time on exploring and 2/3 time on deepening. It is harder to devote time to exploring as you age because it seems unproductive, but aim for 1/3." (...)  
 "For a great payoff, be especially curious about the things you are not interested in." (...)  
 "Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will."  
 -- Kevin Kelly [1952]*
+
+> *"Mondays are fine. It’s your life that sucks."  
+-- Ricky Gervais [1961]*
 
 > *"To measure your quality of life, simply do nothing and see how it feels." (...)  
 "People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom." (...)  
@@ -1843,8 +1831,15 @@ Hints:
 "When working, surround yourself with people more successful than you. When playing, surround yourself with people more happy than you." (...)  
 "No routine. I’m famously unscheduled." (...)  
 "You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
-"Develop strategic incompetence - people won’t ask you to do things you hate to do if you’re bad at them."  
+"Develop strategic incompetence - people won’t ask you to do things you hate to do if you’re bad at them." (...)  
+"Outgrow bosses, landlords, and roommates."  
 -- Naval Ravikant [1974]*
+
+> *"If someone offered you a billion dollars with the only catch being that you’d have a pretty bad cold for the rest of your life, would you take it? Definite no for me and, I’d guess, for many of you. Really highlights how much more important health is than everything else."  
+-- Tim Urban [1982]*
+
+> *"Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t."  
+-- Ramit Sethi [1982]*
 
 ### On travel
 
@@ -1878,10 +1873,6 @@ Hints:
 ## On success
 
 <!--
-> *"If you want to be successful, you must respect one rule – never lie to yourself."  -- Paulo Coelho [1947]*
-> *"Nothing is more common than unsuccessful people with talent. Leave the house before you find something worth staying in for."  -- Banksy*
-> *"The most successful people I know believe in themselves almost to the point of delusion."  -- Sam Altman*
-> *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."*
 -->
 
 > *"Success doesn’t come to you. You go to it."  
@@ -1959,11 +1950,23 @@ We don’t get successful by knowing everything, we get successful by listening.
 > *"Whether you think you can, or you think you can’t, you’re right."  
 -- Henry Ford [1863]*
 
+> *"If you want to be successful, you must respect one rule – never lie to yourself."  
+-- Paulo Coelho [1947]*
+
 > *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
 -- Robert Kiyosaki [1947]*
+	
+> *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."  
+-- Kevin Kelly [1952]*
+
+> *"Nothing is more common than unsuccessful people with talent. Leave the house before you find something worth staying in for."  
+-- Banksy [1974]*
 
 > *"Doubt kills more dreams than failure ever will."  
 -- Suzy Kassem [1975]*
+
+> *"The most successful people I know believe in themselves almost to the point of delusion."  
+-- Sam Altman [1985]*
 
 
 
@@ -2114,10 +2117,6 @@ Hints:
 
 ### How to overcome them?
 
-<!--
-> *"Those who are unhappy have no need for anything in this world but people capable of giving them their attention."  -- Simone Weil*
--->
-
 > *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
 -- Jason Nemer [1978]*
 
@@ -2139,6 +2138,9 @@ Hints:
 
 > *"If you want to lift yourself up, lift up someone else."  
 -- Booker T. Washington [1856]*
+
+> *"Those who are unhappy have no need for anything in this world but people capable of giving them their attention."  
+-- Simone Weil [1909]*
 
 > *"No medicine cures what happiness cannot."  
 -- Gabriel Garcí­a Márquez [1927]*
@@ -2392,8 +2394,6 @@ Hint:
 ### On scars and wounds
 
 <!--
-> *"Words can’t hurt you, they can only hurt your image of you."  -- Naval Ravikant [1974]*
-
 - i don’t hide my scars. they are proof that i showed up for life. and fought.
 - if you don’t heal what hurt you, you’ll bleed on people who didn’t cut you.
 -->
@@ -2426,6 +2426,9 @@ You are more than your mistakes. Past mistakes are meant to guide you, not to de
 
 > *"It’s not just other people we need to forgive. Sometimes we need to forgive ourselves."  
 -- Mitch Albom [1958]*
+
+> *"Words can’t hurt you, they can only hurt your image of you."  
+-- Naval Ravikant [1974]*
 
 
 
@@ -2627,8 +2630,6 @@ There are no introverts, only people that don't feel safe.
 ## On jealousy and envy
 
 <!--
-+ naval@x -- The only people worth envying are the ones incapable of envy.
-
 - A inveja mata-nos. O sucesso dá-nos vida!
 - Humans hate the most successful humans as it makes their little egos feel inferior.
 -->
@@ -2677,7 +2678,8 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 > *"If someone’s insults bother you; it is evidence that you respect him."  
 -- Nassim Taleb [1960]*
 
-> *Choose inspiration over envy."    
+> *Choose inspiration over envy." (...)  
+"The only people worth envying are the ones incapable of envy."   
 -- Naval Ravikant [1974]*
 
 > *"«You’re doing it all wrong», said someone doing nothing at all."  
@@ -2927,10 +2929,6 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 
 ### On self awareness
 
-<!--
-+ naval@x -- Can you look in the mirror without telling a story about yourself?
--->
-
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
 -- François de La Rochefoucauld [1613]*
 
@@ -2975,7 +2973,8 @@ Hints:
 "Meditation is a good way to measure where you are." (...)  
 "Meditation is intermittent fasting for the mind. Distractions are to mind the same as sugar to body." (...)  
 "The best meditation is being curious about the contents of your own mind." (...)  
-"A fit mind is a clear mind."  
+"A fit mind is a clear mind." (...)  
+"Can you look in the mirror without telling a story about yourself?"  
 -- Naval Ravikant [1974]*
 
 > *"People who can’t laugh at themselves will always be outwitted by people who can."  
@@ -3032,10 +3031,6 @@ After reaching a certain age, you are no longer seen as an individual; you becom
 
 ### On aging
 
-<!--
-> *"To stay youthful, stay useful.*
--->
-
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
 -- Bruno Munari [1907]*
 
@@ -3043,6 +3038,9 @@ People my age are so much older than me.
 
 > *"An honest man is always a child."  
 -- Socrates [-470]*
+
+> *"To stay youthful, stay useful."  
+-- John Keats [1795]*
 
 > *"It takes a very long time to become young."  
 -- Pablo Picasso [1881]*

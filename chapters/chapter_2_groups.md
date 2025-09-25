@@ -236,13 +236,13 @@ Handling rejection is hard. Period. We don’t like people that see us in a way 
 6 or 7 words - short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
 -->
 
-> *"Being honest may not get you a lot of friends but it’ll always get you the right ones."  
--- John Lennon [1940]*
+> *"If you can’t sell yourself in 1 sentence you won’t be able to sell yourself in several paragraphs."  
+-- Sahil Lavingia [1989]*
 
 Choose truth or your self-mythology will seduce you.
 
 > *"When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes."  
--- Jordan Harbinger [1980]*
+-- jordanharbinger@x*
 
 > *"when you want to tell stories, be it startup pitches, or just stories about your experiences, always share them in three points—no more, no less. the human mind & the underlying world gravitates towards threes, look at any industry, typically the equilibrium points lie in threes. there are also numerous other examples that paint this phenomena. it’s a magic number for communication. story tellers rule the world."  
 -- signulll@x*
@@ -255,16 +255,12 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"Stay small until you figured out what’s working."  -- Naval Ravikant [1974]*
-> *"To build product, «make something people want». To create art, make something «you» want. (The best do both)."  -- Naval Ravikant [1974]*
-> *"Ethics in business means «don’t sell anything you wouldn’t buy»."  -- Naval Ravikant [1974]*
 > *"Nobody who’s actually good at making money needs to sell you a course on it."  -- Naval Ravikant [1974]*
 > *"You only have to be right once."  -- Naval Ravikant [1974]*
 > *"The reality is that opportunities have never been more equal than now. @elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone. They’re eating food that might be marginally better than yours, but it’s basically the same. You might even have a better diet than them. You probably have more time to go to the gym than them. They’re not immortal, and they’re not going to be—most likely, not at this time scale. So you have more youth than them. You have a lot of advantages over them. The wealth gaps are actually much smaller than people think. A lot of that is due to mass production, which comes from specialization, labor, and capitalism. But it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys. It makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days. They’re craving status, not money or wealth. And status is a zero-sum game. So it’s kind of an evil game to play because there have to be losers for every winner. And the only way to win is by crushing somebody else down."  -- Naval Ravikant [1974]*
 
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It’s no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- morganhousel@x*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
-> *"Four ways to make money: 1. Save people time 2. Save people money 3. Make people money 4. Make people happy" -- Sahil Lavingia [1989]*
 > *"Money never starts an idea; it is the idea that starts the money."  -- William J. Cameron*
 > *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  -- alexhormozi@x*
 > *"The essence of American capitalism is to allow the rapid emergence of new companies, the essence of European capitalism is to do everything so that old companies do not die."  -- Léon Blum (1932)*
@@ -359,10 +355,12 @@ Validate your business by finding paying clients. If something is worth doing, s
 
 > *"There is no skill called business. Avoid business magazines and business classes." (...)  
 "Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not." (...)  
+"To build product, «make something people want». To create art, make something «you» want. (The best do both)." (...) 
 "You are not building a product. You are solving a problem." (...)  
 "Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
 "You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product." (...)  
-"Startups don’t die when they run out of cash, they die when the founders run out of energy."  
+"Startups don’t die when they run out of cash, they die when the founders run out of energy." (...)  
+"Ethics in business means «don’t sell anything you wouldn’t buy»."  
 -- Naval Ravikant [1974]*
 
 First try to sell it. Than build it.
@@ -393,7 +391,7 @@ Hints:
 -- Steve Jobs [1955]*
 
 > *"What one piece of advice would you give someone starting a company? Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too."  
--- David Velez [1982]*
+-- velez_david@x*
 
 > *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."  
 -- m2jr@x*
@@ -407,7 +405,6 @@ Hints:
 ## On selling, negotiation and price
 
 <!--
-> *"If you can’t sell yourself in 1 sentence you won’t be able to sell yourself in several paragraphs."  -- shl@x*
 > *"Sales is basically just be decent enough at something and let people like you. Nobody gives a shit how smart you are."  -- skylarromines@x*
 > *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 > *"Cheap prices are only cheap if your time has no value.*
@@ -958,7 +955,6 @@ Hints:
 -- Kevin Kelly [1952]*
 
 > *"Ask for feedback on your attempts, not advice on your ideas."  
--- Sahil Lavingia [1989]*
 
 Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
 
@@ -2780,6 +2776,7 @@ Hints:
 <!--
 > *"Your family is broken but you’re going to fix the world."  -- naval@x*
 > *"Absence, the highest form of presence."  -- James Joyce*
+> *"Being honest may not get you a lot of friends but it’ll always get you the right ones."  -- John Lennon [1940]*
 
 - I love Nietzsche’s definition of friendship, which is "people with whom you share one great suffering and one great hope." You can’t be friends unless you hate the same things and worship the same Gods
 - If you look at the people in your circle and don’t get inspired, you don’t have a circle. You have a cage.

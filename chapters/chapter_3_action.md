@@ -422,7 +422,8 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 > *The closer you are to the truth, the more silent you become inside." (...)  
 "I went looking for truth and all I found was love. I went looking for love and all I found was truth." (...)  
-"If it hurts to hear it, look for the truth in it. If it comforts to hear it, look for the lie in it."  
+"If it hurts to hear it, look for the truth in it. If it comforts to hear it, look for the lie in it." (...) 
+"Everybody wants spirituality. Nobody wants the truth."  
 -- Naval Ravikant [1974]*
 
 > *"Words are used, first and foremost, to soften the inflexibility of truth."  
