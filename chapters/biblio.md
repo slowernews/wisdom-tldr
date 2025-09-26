@@ -41,6 +41,7 @@
  / david_perell
  / empty_america
  / falsi1ke
+ / farawaylaughtr
  / farnamstreet
  / farshadsarrafi
  / g_s_bhogal
@@ -58,6 +59,7 @@
  / k__quotes
  / karenlambauthor
  / karlremarks
+ / karunpal
  / khoucasian
  / konstantinkisin
  / kunalb11
@@ -72,6 +74,7 @@
  / molson_hart
  / morganhousel
  / mozarrinsadaf
+ / nikitabier
  / nikhuno
  / nivi
  / orangebook_
@@ -97,6 +100,7 @@
  / torbair
  / wuwei113
  / zacharylaid
+ / zubymusic
 
 <!--
 - [1775] AUSTEN, Jane (uk)
@@ -582,7 +586,9 @@
 - [1931] GREENBERG, Daniel S. (us)
 - [1931] MELLO, Anthony de (in)
 - [1931] NIMOY, Leonard (us)
+- [1931] SCHUTZ, Peter (de)
 - [1931] TUTU, Desmond (za)
+- [1931] WILSON, Colin (uk)
 - [1932] COVEY, Stephen (us)
 - [1932] LASCH, Christopher (us)
 - [1932] PLATH, Sylvia (us)

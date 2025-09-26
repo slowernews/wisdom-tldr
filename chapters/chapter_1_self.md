@@ -12,7 +12,6 @@
 
 <!--
 > *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams [1767]*
-> *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  -- E.E. Cummings [1894]*
 
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
 - Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
@@ -49,6 +48,9 @@ Hints:
 
 > *"Freedom is not free. It is earned. It is taken. It is wrestled from the jaws of fear and uncertainty and doubt."  
 -- Nikos Kazantzakis [1883]*
+
+> *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
+-- E.E. Cummings [1894]*
 
 > *"I think the reward for conformity is that everyone likes you except yourself."  
 -- Rita Mae Brown [1944]*
@@ -130,6 +132,9 @@ Hints:
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin [1937]*
 
+> *"Being honest may not get you a lot of friends but it’ll always get you the right ones."  
+-- John Lennon [1940]*
+
 > *"Escape competition through authenticity." (...)  
 "What the world craves is authenticity." (...)   
 "To be honest speak without identity."
@@ -138,9 +143,6 @@ Hints:
 ### On accountability
 
 <!--
-> *"Make two people proud: your 8-year-old self and your 80-year-old self."  -- David Perell*
-> *"Whenever you think that some situation or some person is ruining your life, it’s actually you who are ruining your life. It’s such a simple idea. Feeling like a victim is a perfectly disastrous way to make go through life."  -- Charlie Munger [1924]*
-
 - every damn thing is your own fault, if you are any good.
 - chi sei? sono l’evoluzione di tutti i miei errori.
 - Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
@@ -163,6 +165,9 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 > *"Commitment is an act, not a word."  
 -- Jean-Paul Sartre [1905]*
 
+> *"Whenever you think that some situation or some person is ruining your life, it’s actually you who are ruining your life. It’s such a simple idea. Feeling like a victim is a perfectly disastrous way to make go through life."  
+-- Charlie Munger [1924]*
+
 > *"I lie to myself all the time. But I never believe me."  
 -- S.E. Hinton [1948]*
 
@@ -171,6 +176,9 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 
 > *"Without commitment, you cannot have depth in anything, whether it’s a relationship, a business or a hobby."  
 -- Neil Strauss [1969]*
+
+> *"Make two people proud: your 8-year-old self and your 80-year-old self."  
+-- david_perell@x*
 
 ### On trust and reputation
 
@@ -382,7 +390,6 @@ Blessed are the restless.
 ### On agency
 
 <!--
-+ farawaylaughtr@x -- 80% of what people call agency is trying the «dumb» solution and iterating from that. you can just do dumb things
 + signulll@x -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
 
 - As a man, never stay at home all day. Go out, make friends, and create new connections. A man's job is to face the world, take risks, and embrace difficulties.
@@ -418,10 +425,16 @@ Hints:
 > *"I don’t have talent, so I just get up earlier."  
 -- Henry Rollins [1961]*
 
+> *"The world is changed by your example, not by your opinion."  
+-- Paulo Coelho [1947]*
+
 > *"Doing is faster than watching." (...)  
 "Impatience with actions, patience with results." (...)  
 "Inspiration is perishable. Act on it immediately."  
 -- Naval Ravikant [1974]*
+
+> *"80% of what people call agency is trying the «dumb» solution and iterating from that. You can just do dumb things."  
+-- farawaylaughtr@x*
 
 ### On ambition
 
@@ -732,8 +745,6 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 ## On wisdom
 
 <!--
-> *"He who lives without folly is less wise than he believes.*
-
 - knowledge is knowing what to say. wisdom is knowing when to say it.
 -->
 
@@ -762,6 +773,9 @@ Wisdom is knowing what to do with what you know.
 
 > *"Doubt is the origin of wisdom."  
 -- René Descartes [1596]*
+
+> *"He who lives without folly is less wise than he believes."  
+-- François de La Rochefoucauld [1613]*
 
 > *"The art of being wise is knowing what to overlook."  
 -- William James [1842]*
@@ -1089,7 +1103,6 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 
 <!--
 + g_s_bhogal@x -- You'll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
-> *"Make it personal enough so you feel embarrassed to share it."  -- Quentin Tarantino*
 > *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
 
 - We don’t need ChatGPT to write letters and emails. Just send the prompts.
@@ -1156,6 +1169,9 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 > *"Actually almost everything I’ve written that has survived was written when I didn’t try to get anything done." (...)  
 "I want to write books that only those who read them claim they did."  
 -- Nassim Taleb [1960]*
+
+> *"Make it personal enough so you feel embarrassed to share it."  
+-- Quentin Tarantino [1963]*
 
 > *"There are no more writers like Shakespeare because all he had was a table, a candle, a pen and some paper."  
 -- Chris Cornell [1964]*
@@ -1292,8 +1308,6 @@ Intelligence is a spectrum, your dog is intelligent also.
 ### On geniality
 
 <!--
-+ signulll@x -- the illusion of human exceptionalism crumbles fast when you see how much of our intelligence is just pattern recognition & predictive modeling. ai exposes how much of what we call «creativity» is remixing, how much «insight» is regurgitation, & how much «expertise» is just memorized heuristics.
-> *"All these years that I had spent in the service of mankind brought me nothing but insults and humiliation."  -- Nikola Tesla [1856] (last message to his mother)* 
 > *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan*
 -->
 
@@ -1311,6 +1325,9 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 > *"Tolerance will reach such a level that intelligent people will be banned from thinking so as not to offend the imbeciles."  
 -- Fyodor Dostoyevsky [1821]*
+
+> *"All these years that I had spent in the service of mankind brought me nothing but insults and humiliation."  
+-- Nikola Tesla [1856]* 
 
 > *"I have no special talent. I am only passionately curious."  
 -- Albert Einstein [1879]*
@@ -1347,6 +1364,9 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Knowledge is fragmented and scattered. Curious, creative people build bridges, establish links."  
 -- rapahelz@x*
 
+> *"The illusion of human exceptionalism crumbles fast when you see how much of our intelligence is just pattern recognition & predictive modeling. AI exposes how much of what we call «creativity» is remixing, how much «insight» is regurgitation, & how much «expertise» is just memorized heuristics."  
+-- signulll@x*
+
 > *"Intellectuals pride themselves on their intelligence but they’d be more intelligent if they prided themselves on their curiosity."  
 -- g_s_bhogal@x*
 
@@ -1359,8 +1379,6 @@ Intelligence is a spectrum, your dog is intelligent also.
 ## On wealth
 
 <!--
-+ alexhormozi@x -- Three levels of wealth: No meetings. Lots of meetings. No meetings.
-
 - Money loves speed. Wealth loves time. Poverty loves indecision.
 - Wealth is the slave of the wise man and master of the fool.
 - «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
@@ -1402,6 +1420,9 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 
 > *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
 -- Mr. Money Mustache [1975]*
+
+> *"Three levels of wealth: No meetings. Lots of meetings. No meetings."  
+-- alexhormozi@x*
 
 ### On money
 
@@ -1679,11 +1700,6 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 ## On health
 
 <!--
-+ naval@x -- Calm the stomach. Move the body. Rest the mind.
-+ naval@x -- The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance.
-+ orangebook_@x -- Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone.
-+ zubymusic@X -- Healthcare is primarily your diet, exercise, sleep, and lifestyle habits. What most people call 'healthcare' is actually sick care.
-
 - A man complaining a lot is a man not accomplishing a lot.
 - a sedentary lifestyle is a magnet for depression.
 - A women is either a 0 or a 1. A hore or a wife material. Dont overcomplicate.
@@ -1708,6 +1724,16 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  
 -- realjamespierce@x*
 
+> *"Calm the stomach. Move the body. Rest the mind." (...)  
+"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
+-- Naval Ravikant [1974]*
+
+> *"Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone."  
+-- orangebook_@x*
+
+> *"Healthcare is primarily your diet, exercise, sleep, and lifestyle habits. What most people call 'healthcare' is actually sick care."  
+-- zubymusic@x*
+
 
 
 
@@ -1717,7 +1743,6 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ## On lifestyle
 
 <!--
-+ nikitabier@X -- The sole purpose of leisure travel after age 30 is to remind yourself that you’ve lost all childlike joy and the only thing that excites you is aggregating land and resources and watching number go up.
 + @Cobratate -- A sad generation who’s obsessed with taking happy pictures.
 > *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
 > *"Muscle is proof of work ethic. Fat is proof of neglect."  -- giamacool@x*
@@ -1725,6 +1750,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 > *"We will only have work-life balance when we feel safe at home and feel safe at work."  -- Simon Sinek [1973]*
+> *"Give me a museum and I’ll fill it."  -- Pablo Picasso [1881]*
 
 - clutter is just a museum of shit you thought would make you happy.
 - Hit the gym. Avoid drama. Smell nice. Make money. Level up your circle. Talk less. Pray more. Think highly of yourself.
@@ -1864,6 +1890,9 @@ Hints:
 > *"A vacation is a very expensive way to schedule the time to read a book in peace."  
 -- Naval Ravikant [1974]*
 
+> *"The sole purpose of leisure travel after age 30 is to remind yourself that you’ve lost all childlike joy and the only thing that excites you is aggregating land and resources and watching number go up."  
+-- nikitabier@x*
+
 
 
 
@@ -1871,9 +1900,6 @@ Hints:
 
 ---
 ## On success
-
-<!--
--->
 
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins [1936]*
@@ -2605,11 +2631,6 @@ Nietzsche describes 3 modern vices: OVERWORK (to be constantly busy is self-nega
 
 ### On introversion
 
-<!--
-+ karunpal@x -- Introverts, being "too nice" is not kindness, it’s a trauma response. Where does this come from? For many, it starts in childhood: Growing up in unpredictable environments; having to please parents to avoid punishment or neglect; believing your worth depends on keeping others happy. This behavior becomes survival.
-+ kaseyklimes@x -- the introvert/extrovert dichotomy has always struck me as a bit silly. people generally gain energy spending time with people they feel they can be their authentic selves around. they generally spend energy being around people they feel they can’t.
--->
-
 > *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you’re actually extroverted around people who bring you peace."  
 -- zacharylaid@x*
 
@@ -2620,6 +2641,12 @@ There are no introverts, only people that don't feel safe.
 
 > *"Smart people are so good at discovering their own flaws but so mid at actually fixing them. Is the solution to most of their problems just experimental drugs or getting a job in sales?"  
 -- anuatluru@x*
+
+> *"Introverts, being "too nice" is not kindness, it’s a trauma response. Where does this come from? For many, it starts in childhood: Growing up in unpredictable environments; having to please parents to avoid punishment or neglect; believing your worth depends on keeping others happy. This behavior becomes survival."  
+-- karunpal@x*
+
+> *"The introvert/extrovert dichotomy has always struck me as a bit silly. People generally gain energy spending time with people they feel they can be their authentic selves around. They generally spend energy being around people they feel they can’t."  
+-- kaseyklimes@x*
 
 
 
@@ -3153,6 +3180,5 @@ Finding a place to die is an important thing to do.
 
 ### On pride
 
-<!--
-+ zubymusic@x -- Pride keeps people poor more than laziness does.
--->
+> *"Pride keeps people poor more than laziness does."  
+-- zubymusic@x*

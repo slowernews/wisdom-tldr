@@ -11,7 +11,6 @@
 ## On creativity
 
 <!--
-> *"Imagination should be used not to escape reality, but to create it."  -- Colin Wilson*
 > *"When dreams become more important than reality, you give up travel, building, creating; you even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives left behind in the thought records."  -- Vina, "The Menagerie" ("The Cage"), stardate unknown*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
@@ -55,6 +54,9 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 
 > *"Creativity is thinking up new things. Innovation is doing new things."  
 -- Theodore Levitt [1925]*
+
+> *"Imagination should be used not to escape reality, but to create it."  
+-- Colin Wilson [1931]*
 
 > *"When nothing is sure, everything is possible."  
 -- Margaret Drabble [1939]*

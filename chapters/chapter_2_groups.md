@@ -10,10 +10,6 @@
 
 ## On communication
 
-<!--
-+ naval@x -- The art of conversation is best practiced between three to four people.
--->
-
 > *"Knowledge speaks, but wisdom listens."  
 -- Jimi Hendrix [1942]*
 
@@ -139,7 +135,8 @@ Hints:
 > *"Always say less than necessary."  
 -- Kevin Kelly [1952]*
 
-> *"The secret to public speaking is to speak as if you were alone."  
+> *"The secret to public speaking is to speak as if you were alone." (...)  
+"The art of conversation is best practiced between three to four people."  
 -- Naval Ravikant [1974]*
 
 
@@ -670,10 +667,6 @@ Hints:
 ## On leadership
 
 <!--
-+ @MoZarrinsadaf -- The more you explain, the more they sense you doubt it too.
-+ @MoZarrinsadaf -- Your emotions are biochemical reactions designed for survival, not truth.
-> *"The world is changed by your example, not by your opinion."  -- Paulo Coelho [1947]*
-
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - a leader makes the people next to them better version of themselves.
 - A man asked a gardener why his plants grew so beautifully. The gardener said: «I don’t force them to grow. I remove what stops them.»
@@ -787,6 +780,10 @@ Hints:
 
 > *"Leadership is not about being followed, is about being first."  
 -- til_danmunro@x*
+
+> *"The more you explain, the more they sense you doubt it too." (...)  
+"Your emotions are biochemical reactions designed for survival, not truth."  
+-- mozarrinsadaf@x*
 
 > *"The only thing that gives orders is balls."  
 -- Tony Montana {fictional}*
@@ -1231,7 +1228,6 @@ However some people are not ready to accept your vision. And «givers» attract 
 <!--
 > *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  -- realestatetrent@x*
 > *"Don’t be irreplaceable, if you can’t be replaced, you can’t be promoted.*
-> *"Every job will be automated until four remain: engineer, entrepreneur, investor, artist." -- Sahil Lavingia [1989]*
 > *"How did people come to believe that if everyone went to college we could all just get jobs sending each other emails and someone else (who?) would maintain all physical elements of modern society? It sounds so dumb when you say it explicitly."  -- empty_america@x*
 > *"My dad sat me down once and said: “There are only two jobs in the world: building or selling. If you’re not doing one of those, you’re just an expense.” still think about this."  -- rmcentush@x*
 > *"Work for companies you would invest in and invest in companies you would work for."  -- morganhousel@x*
@@ -1297,6 +1293,9 @@ Nobody can compete with you on being you. Most of your life is a search for who 
 > *"The interesting jobs are the ones that you make up."  
 -- Chris Young [1985]*
 
+> *"Every job will be automated until four remain: engineer, entrepreneur, investor, artist."  
+-- Sahil Lavingia [1989]*
+
 ### How to advance career?
 
 <!--
@@ -1326,10 +1325,6 @@ Hints:
 
 ### How to change career?
 
-<!--
-+ ashleymayer@x -- My theory: career pivots keep you young/hungry/foolish.
--->
-
 > *"The moment you rigidly follow a plan set in your youth, you lock yourself into a position, and the times will ruthlessly pass you by."  
 -- Robert Greene [1959]*
 
@@ -1337,11 +1332,14 @@ You will either pivot or get pivoted.
 
 Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
 
+> *"My luggage is always ready."  
+-- Jorge Jesus [1954]*
+
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
 -- bergerjac@hn*
 
-> *"My luggage is always ready."  
--- Jorge Jesus [1954]*
+> *"My theory: career pivots keep you young/hungry/foolish."  
+-- ashleymayer@x*
 
 You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
 
@@ -1410,9 +1408,6 @@ Ask employers why did they asked you for an interview - they will describe your 
 ## On hiring and being hired
 
 <!--
-> *"Hire character. Train skill."  -- Peter Schutz*
-> *"Tell me the story of your life. problems and how you solved them."  -- Elon Musk [1971]*
-
 - Estimativas são Promessas. Promessas devem ser cumpridas. In a nutshell, you can never give an estimate that is "correct". If you could, it would not be an "estimate", it would be a "prediction". Therefore, there is zero correlation between an estimate and the actual outcome.
 - hiring questions: sucess history. why did you go that company and why did you left.
 - People want freedom to choose their process.
@@ -1453,6 +1448,9 @@ Hints:
 > *"In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they don’t have the first, the other two will kill you." (...)  
 "Your salary is the bribe they give you to forget your dreams."  
 -- Warren Buffett [1930]*
+
+> *"Hire character. Train skill."  
+-- Peter Schutz [1930]*
 
 > *"Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for." (...)  
 "Being enthusiastic is worth 25 IQ points." (...)  
@@ -1625,7 +1623,8 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 "The swiftest way to subjugate someone is to make them believe that consensus is more important than truth."  
 -- rapahelz@x*
 
-> *"The way you know society is messed up is how massive the gap is between what people will say in public and what they’ll tell you privately."  -- konstantinkisin@x*
+> *"The way you know society is messed up is how massive the gap is between what people will say in public and what they’ll tell you privately."  
+-- konstantinkisin@x*
 
 
 
@@ -1636,7 +1635,6 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 ## On opponents and allies
 
 <!--
-> *"If you don’t like a person, it’s because they remind you of something you don’t like about yourself."  -- Sigmund Freud [1856]*
 > *"Só os mais corajosos conseguem fazer a paz."  -- Trump*
 
 - Be willing to side with the minority.
@@ -1666,6 +1664,9 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 
 > *"Any person capable of angering you becomes your master."  
 -- Epictetus [0050]*
+
+> *"If you don’t like a person, it’s because they remind you of something you don’t like about yourself."  
+-- Sigmund Freud [1856]*
 
 > *"If you want to make enemies, try to change something."  
 -- Woodrow Wilson [1856]*
@@ -1842,6 +1843,9 @@ Small (but relevant) conflicts will grow into big conflicts. What could have bee
 > *"Insults are the arguments employed by those who are in the wrong."  
 -- Jean-Jacques Rousseau [1712]*
 
+> *"Never argue. In society nothing must be discussed; give only results."  
+-- Benjamin Disraeli [1804]*
+
 > *"You cannot find peace by avoiding life."  
 -- Virginia Woolf [1882]*
 
@@ -1876,8 +1880,6 @@ Hints:
 
 <!--
 > *"Pierwsza ofiara wojny jest prawda"  -- Terry Hayes*
-> *"If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it."  -- naval@x*
-> *"War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery."  -- Robin Hanson [1959]*
 -->
 
 > *"Summer grass, all that’s left of warrior’s dreams."  
@@ -1889,8 +1891,14 @@ Hints:
 > *"War does not determine who is right - only who is left."  
 -- Bertrand Russell [1872]*
 
+> *"War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery."  
+-- Robin Hanson [1959]*
+
 > *"Men destroy each other during war, themselves during peacetime."  
 -- Nassim Taleb [1960]*
+
+> *"If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it."  
+-- Naval Ravikant [1974]*
 
 > *"All wars benefit the elites at the cost of the common man. Every. Single. One."  
 -- Andrew Tate [1986]*
@@ -2297,9 +2305,7 @@ Hints:
 	
 <!--
 > *"Fools rush in and get the best seats in the house."*
-> *"It is better to be silent than to dispute with the ignorant."  -- Aristotle [-384]*
 > *"Many people don’t have original thoughts of their own, not because they lack mental creativity, but because they lack the courage to take real risks with the unknown, to walk alone, to challenge the consensus: they are afraid to live a life that no one has lived before."  -- orangebook_@x*
-> *"Never argue. In society nothing must be discussed; give only results."  -- Benjamin Disraeli [1804]*
 > *"One’s only rival is one’s own potentialities. One’s only failure is failing to live up to one’s own possibilities. In this sense, every man can be a king, and must therefore be treated like a king."  -- Abraham Maslow [1908]*
 > *"The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them."  -- Desiderius Erasmus [1466]*
 > *"The problem isn't that Johnny can't read. The problem isn't even that Johnny can't think. The problem is that Johnny doesn't know what thinking is; he confuses it with feeling."  -- Thomas Sowell [1930]*
@@ -2417,6 +2423,9 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 
 > *"Talk sense to a fool and he calls you foolish."  
 -- Euripides [-480]*
+
+> *"It is better to be silent than to dispute with the ignorant."  
+-- Aristotle [-384]*
 
 > *"Any man can make mistakes, but only an idiot persists in his error."  
 -- Cicero [-106]*
@@ -2644,7 +2653,6 @@ Most people approach each and every year in the exact same way while expecting d
 > *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..."  -- Lyndon B. Johnson*
 > *"I think trash is the most important manifestation of culture we have in my Lifetime."  -- Johnny Legend*
 > *"Whenever you hug someone, be the last to let go."  -- Kevin Kelly [1952]*
-> *"Give me a museum and I’ll fill it."  -- Pablo Picasso [1881]*
 > *"Old musicians never die, they just decompose."*
 > *"The four most expensive words in the English language: «This time is different»."  
 
@@ -2723,11 +2731,6 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 ## On relationships
 
 <!--
->*"If you ask someone why they’re with someone else and the answer sounds like a resume, it’s over."  -- naval@X*
->*"Intimacy is a flower - it blooms in a healthy relationship, and disappears in a sick one."  -- naval@X*
->*"The basis for friendship, relationship, partnership - isn’t proximity or time spent together - it’s values."  -- naval@X*
-> *"there are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older. 2) insanely crazy heartbreak. there are simply no other ways."  -- signulll@x*
-> *"Ultimately, you attract the complement of what you project."  -- Naval Ravikant [1974]*
 
 - Choose people that choose you. The end.
 - Loyalty is earned, not owed. If they drain your energy, stunt your growth, or disrespect your boundaries, let them go. You weren’t born to carry dead weight. Protect your peace and move forward.
@@ -2758,12 +2761,19 @@ Hints:
 > *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
 -- Dream Hampton [1971]*
 
-> *"Play long-term games with long-term people. The secret to a happy relationship is two happy people. If you loose somebody for being yourself, then you never had them to begin with. Find a relationship where you, naturally being you, makes the other person happy and viceversa. The worst way to build a relationship is to try to build a relationship. The people you most want to impress can read your intentions."    
--- Naval Ravikant {paraphrased} [1974]*
+> *"Play long-term games with long-term people. The secret to a happy relationship is two happy people. If you loose somebody for being yourself, then you never had them to begin with. Find a relationship where you, naturally being you, makes the other person happy and viceversa. The worst way to build a relationship is to try to build a relationship. The people you most want to impress can read your intentions." (...)  
+"If you ask someone why they’re with someone else and the answer sounds like a resume, it’s over." (...)  
+"Intimacy is a flower - it blooms in a healthy relationship, and disappears in a sick one." (...)  
+"The basis for friendship, relationship, partnership - isn’t proximity or time spent together - it’s values." (...)  
+"Ultimately, you attract the complement of what you project."  
+-- Naval Ravikant [1974]*
 
 > *"The most authentic relationship is between two people who don’t speak the same language." (...)  
 "A beautiful relationship is between equals, intellectually and ethically."  
 -- rapahelz@x*
+
+> *"There are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older. 2) insanely crazy heartbreak. There are simply no other ways."  
+-- signulll@x*
 
 
 
@@ -2774,9 +2784,7 @@ Hints:
 ## On family and friends
 
 <!--
-> *"Your family is broken but you’re going to fix the world."  -- naval@x*
 > *"Absence, the highest form of presence."  -- James Joyce*
-> *"Being honest may not get you a lot of friends but it’ll always get you the right ones."  -- John Lennon [1940]*
 
 - I love Nietzsche’s definition of friendship, which is "people with whom you share one great suffering and one great hope." You can’t be friends unless you hate the same things and worship the same Gods
 - If you look at the people in your circle and don’t get inspired, you don’t have a circle. You have a cage.
@@ -2824,6 +2832,9 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 > *"I have nothing to offer anyone, except my own confusion."  
 -- Jack Kerouac [1922]*
 
+> *"Routinely greeting six neighbours maximizes wellbeing."  
+-- Fred Rogers [1928]*
+
 > *"At your funeral people will not recall what you did; they will only remember how you made them feel." (...)  
 "Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
 "Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
@@ -2832,8 +2843,8 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 > *"When everything goes to hell, the people who stand by you without flinching, they are your family."  
 -- Jim Butcher [1971]*
 
-> *"Routinely greeting six neighbours maximizes wellbeing."  
--- Fred Rogers [1928]*
+> *"Your family is broken but you’re going to fix the world."  
+-- Naval Ravikant [1974]*
 
 > *"A mother tells you you’re special. A father gets you to prove it." (...)  
 "If you can’t talk shit to your friends, you’re not friends."  
