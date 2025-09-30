@@ -6,6 +6,8 @@
 	| |  / |__  |    |__/ |__/ |__/ |__  |__  | |__/ |  / 
 	  
 
+# 0 - Introduction
+
 ## On the purpose of life
 
 <!--
@@ -16,10 +18,10 @@
 > *"The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children."  
 -- G.K. Chesterton [1874]*
 
+Your job here on earth is to make a few life decisions extremely well, and the rest is a rounding error.
+
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso [1881]*
-
-Your job here on earth is to make a few life decisions extremely well, and the rest is a rounding error.
 
 > *"When a person can’t find a deep sense of meaning, they distract themselves with pleasure."  
 -- Victor Frankl [1905]*
@@ -34,15 +36,9 @@ Your job here on earth is to make a few life decisions extremely well, and the r
 -- Naval Ravikant [1974]*
 
 > *"The high IQ, high openness crowd will spend decades in the wilderness of DIY worldviews and lifestyles only to find out, often too late, that the most meaningful thing to do was just to get married and have kids."  
--- cxgonzalez@x*
+-- x@cxgonzalez*
 
-
-
-
-
-
-
-## On happiness
+### On happiness
 
 <!--
 - alcançar a liberdade: ou c muito dinheiro ou c falta de desejos.
@@ -126,32 +122,29 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happiness. Or jail."  
--- wuwei113@x*
+-- x@wuwei113*
 
 > *"A common trait of unhappy people: they love to criticize everything and everyone all the time, they get distracted by things that don’t matter. A common trait of happy people: they are focused on themselves, their business, their family and friends, their difficult goals."  
--- orangebook_@x*
+-- x@orangebook_*
 
 > *"Nobody can make you happy until you’re happy with yourself first."  
--- proffeynman@x*
+-- x@proffeynman*
 
 > *"The happiest people I know are slowing down, not speeding up."  
--- thejustinwelsh@x*
+-- x@thejustinwelsh*
 
 > *"Worthless friends. These friendships increase your happiness."  
--- codie_sanchez@x*
+-- x@codie_sanchez*
 
 
 
 
 
 
----
 ## Who are you now?
 
 <!--
 > *"You are what you eat and read."  -- Maya Corrigan*
-> *"It isn’t what we say or think that defines us, but what we do."  -- Jane Austen [1775]*
-> *"I have already lost touch with a couple of people I used to be."  -- Joan Didion [1934]*
 -->
 
 > *"You are the combination of your habits and the people who you spend the most time with."  
@@ -164,6 +157,9 @@ A big part of who you are is who you’re not.
 > *"Day by day, what you choose, what you think and what you do is who you become."  
 -- Heraclitus [-535]*
 
+> *"It isn’t what we say or think that defines us, but what we do."  
+-- Jane Austen [1775]*
+
 > *"Our life always expresses the result of our dominant thoughts." (...)  
 "The most common form of despair is not being who you are."  
 -- Soren Kierkegaard [1813]*
@@ -172,6 +168,9 @@ A big part of who you are is who you’re not.
 "I am not what happened to me, I am what I choose to become." (...)  
 "The privilege of a lifetime is to become who you truly are."  
 -- Carl Jung [1875]*
+
+> *"I have already lost touch with a couple of people I used to be."  
+-- Joan Didion [1934]*
 
 > *"The world wants to assign you a role in life. And once you accept that role you are doomed."  
 -- Robert Greene [1959]*
@@ -182,13 +181,14 @@ A big part of who you are is who you’re not.
 > *"There are two people in you. The one who talks and the one who listens. The one who talks is always changing. The one who listens is always the same. You are the one who listens."  
 -- Naval Ravikant [1974]*
 
-### On finding your path
+
+
+
+
+
+## On finding your path
 
 <!--
-+ naval@x -- All the great questions have only personal answers.
-+ naval@x -- Only two things are pursued for their own sake - even if they make you feel worse or make you worse off - truth and love.
-+ naval@x -- Three decisions determine 90% of your life outcomes: who you're with, what you do, and where you live.
-
 - life is not about finding yourself. life is about creating yourself.
 - Better to admit you walked to the wrong door than spend your life in the wrong room.
 - It’s not the lack of intelligence, it’s the lack of focus that is stopping you.
@@ -205,7 +205,9 @@ No matter where you are in your life, you have the power to change everything in
 
 You are not behind, you are on a different path.
 
-The path will be revealed as you start walking. Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you’re not where you use to be.
+The destiny will be revealed as you start walking. Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you’re not where you use to be.
+
+     DESTINY = EFFORT + SURRENDER
 
 Hints:
 
@@ -224,6 +226,9 @@ Hints:
 "I can think, I can wait and I can fast."  
 -- Siddahrta Gautama (Buddha) [-564]*
 
+> *"A man’s character is his fate."  
+-- Heraclitus [-535]*
+
 > *"To find yourself, think for yourself."  
 -- Socrates [-470]*
 
@@ -232,6 +237,9 @@ Hints:
 
 > *"The path to paradise begins in hell."  
 -- Dante Alighieri [1265]*
+
+> *"A person often meets his destiny on the road he took to avoid it."  
+-- Jean de La Fontaine [1621]*
 
 > *"As soon as you trust yourself you will know how to live."  
 -- J.W. Goethe [1749]*
@@ -242,14 +250,17 @@ Hints:
 > *"Life is not a problem to be solved but a reality to be experienced."  
 -- Soren Kierkegaard [1813]*
 
-> *"Everyone thinks of changing the world, but no one thinks of changing himself."  
--- Leo Tolstoy [1828]*
-
 > *"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."  
 -- Friedrich Nietzsche [1844]* 
 
+> *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
+-- Alexander Graham Bell [1847]*
+
 > *"To live is the rarest thing in the world. Most people just exist."  
 -- Oscar Wilde [1854]*
+
+> *"The possibilities are numerous once we decide to act and not react."  
+-- George Bernard Shaw [1856]*
 
 > *"Only he who wanders, find new paths."  
 -- Fridtjof Nansen [1861]*
@@ -275,11 +286,17 @@ Hints:
 > *"Perhaps you’re a slave to your own idea of yourself."  
 -- D.W. Lawrence [1885]*
 
+> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, «Go away, I’m busy», or «I don’t know you, so don’t bother me». But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  
+-- (general) George S. Patton [1885]*
+
 > *"I’d woke up early and I took a long time getting ready to exist."  
 -- Fernando Pessoa [1888]*
 
 > *"One’s destination is never a place, but a new way of seeing things."  
 -- Henry Miller [1891]*
+
+> *"You can’t go back and change the beginning, but you can start where you are and change the ending."  
+-- C.S. Lewis [1898]*
 
 > *"Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive."  
 -- Howard Thurman [1899]*
@@ -318,6 +335,9 @@ Hints:
 > *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."  
 -- Warren Buffett [1930]*
 
+> *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn’t the answer. It just gave us a glimpse of the possibility."  
+-- John Lennon [1940]*
+
 > *"People seldom do what they believe in. They do what is convenient, then repent."  
 -- Bob Dylan [1941]*
 
@@ -329,6 +349,9 @@ Hints:
 
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland [1952]*
+
+> *"What’s right is what’s left if you do everything else wrong."  
+-- Robin Williams [1951]*
 
 > *"You goal in life is to be able to say on the day before you die that you have fully become yourself." (...)  
 "Copying others is a good way to start. Copying yourself is a disappointing way to end." (...)  
@@ -364,44 +387,19 @@ Hints:
 > *"Every next level of your life will demand a different you."  
 -- Leonardo DiCaprio [1974]*
 
-> *"You often feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you." (...) 
+> *"All the great questions have only personal answers." (...)  
+"Only two things are pursued for their own sake - even if they make you feel worse or make you worse off - truth and love." (...)  
+"Three decisions determine 90% of your life outcomes: who you're with, what you do, and where you live."  
+-- Naval Ravikant [1974]*
+
+> *"You often feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you." (...)  
 "It’s not finding yourself that’s hard; it’s facing yourself that is." (...)  
 "When a flower doesn’t bloom, you fix the environment in which it grows, not the flower."  
--- purposologist@x*
+-- x@purposologist*
 
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
--- pat_stedman@x*
-
-### On the wrong paths
-
-> *"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us."  
--- Alexander Graham Bell [1847]*
-
-> *"You can’t go back and change the beginning, but you can start where you are and change the ending."  
--- C.S. Lewis [1898]*
-
-> *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn’t the answer. It just gave us a glimpse of the possibility."  
--- John Lennon [1940]*
-
-> *"What’s right is what’s left if you do everything else wrong."  
--- Robin Williams [1951]*
+-- x@pat_stedman*
 
 > *"Lack of progress means you are doing too much of the wrong things. Step back and reprioritize your daily tasks. You want to achieve more, you need to learn how to do less." (...)  
-"If the years pass and your life doesn’t get better, it means: you forgot your long-term plan; you actually don’t learn properly; you are around the wrong people; you live in the wrong environment; your intuition and judgment are off; or you struggle to focus when it matters."
--- orangebook_@x*
-
-### On destiny
-
-> *"A man’s character is his fate."  
--- Heraclitus [-535]*
-
-     DESTINY = EFFORT + SURRENDER
-
-> *"A person often meets his destiny on the road he took to avoid it."  
--- Jean de La Fontaine [1621]*
-
-> *"The possibilities are numerous once we decide to act and not react."  
--- George Bernard Shaw [1856]*
-
-> *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, «Go away, I’m busy», or «I don’t know you, so don’t bother me». But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  
--- George S. Patton (general) [1885]*
+"If the years pass and your life doesn’t get better, it means: you forgot your long-term plan; you actually don’t learn properly; you are around the wrong people; you live in the wrong environment; your intuition and judgment are off; or you struggle to focus when it matters."  
+-- x@orangebook_*

@@ -37,7 +37,7 @@ Hints:
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu [-571]*
 
-/> *"Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live."  
+> *"Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live."  
 -- Oscar Wilde [1854]*
 
 > *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  
@@ -178,7 +178,7 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 -- Neil Strauss [1969]*
 
 > *"Make two people proud: your 8-year-old self and your 80-year-old self."  
--- david_perell@x*
+-- x@david_perell*
 
 ### On trust and reputation
 
@@ -232,7 +232,7 @@ Trust, not money, is the currency of business and life.
 -- Naval Ravikant [1974]*
 
 > *"Fame is a lagging indicator of distinctiveness. Reputation is a lagging indicator of trustworthiness."  
--- rapahelz@x*
+-- x@rapahelz*
 
 
 
@@ -268,10 +268,10 @@ One way to humble yourself is to place yourself in the position of being the wea
 -- Naval Ravikant [1974]*
 
 > *"The highest form of humility is being teachable."  
--- rapahelz@x*
+-- x@rapahelz*
 
 > *"You learn more from other people if you pretend you know less than them."  
--- alexhormozi@x*
+-- x@alexhormozi*
 
 ### On respect
 
@@ -298,10 +298,10 @@ You might think you want a fancy car or a nice watch but what you probably want 
 -- Nassim Taleb [1960]*
 
 > *"Never look down on a man working to level himself up."  
--- stirlingwisdom@x*
+-- x@stirlingwisdom*
 
 > *"This generation has no loyalty, it’s just built on attention."  
--- iamaaronwill@x*
+-- x@iamaaronwill*
 
 ### On gratitude
 
@@ -390,7 +390,7 @@ Blessed are the restless.
 ### On agency
 
 <!--
-+ signulll@x -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
++ x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
 
 - As a man, never stay at home all day. Go out, make friends, and create new connections. A man's job is to face the world, take risks, and embrace difficulties.
 - Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself. Dark but true
@@ -434,7 +434,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"80% of what people call agency is trying the «dumb» solution and iterating from that. You can just do dumb things."  
--- farawaylaughtr@x*
+-- x@farawaylaughtr*
 
 ### On ambition
 
@@ -472,10 +472,10 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 -- Sam Altman [1985]*
 
 > *"I disagree. There are plenty of ambitious people. My life and business experience is that there are far more ambitious people that lack competence than ambitious people that are competent. Ambition with competence is rare."  
--- glenn_foster@x*
+-- x@glenn_foster*
 
 > *"I worked a lot on my mental health and now I am no longer ambitious."  
--- jxnlco@x*
+-- x@jxnlco*
 
 ### On resilience
 
@@ -515,10 +515,10 @@ Consistency is boring to watch. But impossible to compete with.
 -- Naval Ravikant [1974]*
 
 > *"Your ability to tolerate boredom while repeating the same action determines your odds of success."  
--- alexhormozi@x*
+-- x@alexhormozi*
 
 > *"Your growth depends on your ability to absorb criticisms. Your success depends on your ability to absorb failures. Your survival depends on your ability to absorb traumas."  
--- rapahelz@x*
+-- x@rapahelz*
 
 
 
@@ -792,7 +792,7 @@ Wisdom is knowing what to do with what you know.
 -- Naval Ravikant [1974]*
 
 > *"The measure of intelligence is creativity. The measure of wisdom is sagacity. The measure of ethics is transparency."  
--- rapahelz@x*
+-- x@rapahelz*
 
 ### On mastery
 
@@ -867,11 +867,11 @@ Introverts have more probability of being an expert in their field. Extraversion
 > *"Clarity precedes mastery."  
 -- Robin Sharma [1965]*
 
-> *"Amateurs play for tricks, masters play for position."
+> *"Amateurs play for tricks, masters play for position."  
 -- pystack@hn*
 
 > *"The pursuit of excellence comes at a price. The biggest cost is solitude. Collectivist societies struggle with excellence because the price of solitude is hard for most to accept."  
--- kunalb11@x*
+-- x@kunalb11*
 
 
 
@@ -882,7 +882,7 @@ Introverts have more probability of being an expert in their field. Extraversion
 ## On education
 
 <!--
-+ shl@x -- Literacy peaked with Millennials
++ x@shl -- Literacy peaked with Millennials
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
 > *"When you are right, you are learning nothing."*
 > *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
@@ -983,16 +983,16 @@ College education may help you make a living. Self-education may make you a fort
 -- Naval Ravikant [1974]*
 
 > *"University is just expensive procrastination."  
--- layahheilpern@x* 
+-- x@layahheilpern* 
 
 > *"School: success stems from conformity and consensus. Life: success stems from curiosity and creativity."  
--- rapahelz@x*
+-- x@rapahelz*
 
 > *"When elite universities uploaded all of their courses online for public consumption, we collectively realized that the limiting reagent for global intelligence is not access to information, it’s motivation."  
--- cpaik@x*
+-- x@cpaik*
 
 > *"Only the autodidacts are free."  
--- thesiliconstoic@x*
+-- x@thesiliconstoic*
 
 Hints:
 
@@ -1014,7 +1014,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Learn a niche business and cold-call."  
--- realestatetrent@x*
+-- x@realestatetrent*
 
 
 
@@ -1073,7 +1073,7 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 -- Matt Haig [1975]*
 
 > *"Read to collect the dots, write to connect them."  
--- david_perell@x*
+-- x@david_perell*
 
 ### On classics
 
@@ -1091,7 +1091,7 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 -- Carl Van Doren [1885]*
 
 > *"I don’t believe in book recommendations lol. Reading what everyone else is already reading—especially books has minimal value (hardly a novel observation) therefore you should allocate your time differently. If everyone’s reading it, the insights are already absorbed into the zeitgeist or regurgitated online. Reading what’s obscure gives you asymmetric knowledge—potentially valuable ideas others haven’t yet mined. There’s a counter: sometimes it pays to understand why a popular book resonates. It’s less about the book itself & more about mapping the cultural moment or the biases of the masses. For this use case I just use chatgpt."  
--- signulll@x*
+-- x@signulll*
 
 
 
@@ -1102,7 +1102,7 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 ## On writing
 
 <!--
-+ g_s_bhogal@x -- You'll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
++ x@g_s_bhogal -- You'll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
 > *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
 
 - We don’t need ChatGPT to write letters and emails. Just send the prompts.
@@ -1184,7 +1184,7 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 
 > *"Your most original writing is when you write for one audience: yourself." (...)  
 "Words are living things. They have personality, interests, ambitions, friends, and foes."  
--- rapahelz@x*
+-- x@rapahelz*
 
 ### On email
 
@@ -1362,13 +1362,13 @@ Intelligence is a spectrum, your dog is intelligent also.
 -- Sahil Lavingia [1989]*
 
 > *"Knowledge is fragmented and scattered. Curious, creative people build bridges, establish links."  
--- rapahelz@x*
+-- x@rapahelz*
 
 > *"The illusion of human exceptionalism crumbles fast when you see how much of our intelligence is just pattern recognition & predictive modeling. AI exposes how much of what we call «creativity» is remixing, how much «insight» is regurgitation, & how much «expertise» is just memorized heuristics."  
--- signulll@x*
+-- x@signulll*
 
 > *"Intellectuals pride themselves on their intelligence but they’d be more intelligent if they prided themselves on their curiosity."  
--- g_s_bhogal@x*
+-- x@g_s_bhogal*
 
 
 
@@ -1422,14 +1422,12 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 -- Mr. Money Mustache [1975]*
 
 > *"Three levels of wealth: No meetings. Lots of meetings. No meetings."  
--- alexhormozi@x*
+-- x@alexhormozi*
 
 ### On money
 
 <!--
 - Never worship money, but always avoid people who hate money. They hate competence. They have a distorted view of reality. They are losers. Never associate with losers... or you’ll become one.
-+ naval@x -- Don’t make things so you can make money; make money so you can make things.
-+ naval@x -- 
 -->
 
 Money is a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
@@ -1557,7 +1555,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Money just comes to me because I know where to stand."  
--- ChelseaLazkani@x*
+-- x@ChelseaLazkani*
 
 ### On investment comfort zone
 
@@ -1570,7 +1568,7 @@ Scared money never wins. It’s all about the risk of losing money versus the ri
 -- Kin Hubbard [1868]*
 
 > *"I’m not interested in anything that’s not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can’t keep it going, I’m not interested in it."  
--- morganhousel@x*
+-- x@morganhousel*
 
 ### How to spot good investments?
 
@@ -1612,10 +1610,10 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"I don’t buy property because I think the value is going to go up. I buy property because I can make the value go up."  
--- realestatetrent@x*
+-- x@realestatetrent*
 
 > *"The stock market is the only market where things go on sale and all the customers run out of the store." 
--- cullenroche@x*
+-- x@cullenroche*
 
 
 
@@ -1700,7 +1698,6 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 ## On health
 
 <!--
-- A man complaining a lot is a man not accomplishing a lot.
 - a sedentary lifestyle is a magnet for depression.
 - A women is either a 0 or a 1. A hore or a wife material. Dont overcomplicate.
 - Depression and schizophrenia are so tied to poor gut bacteria that researchers can identify a person with depression just by analyzing their gut bacteria composition.
@@ -1722,17 +1719,17 @@ Health is also an envy trigger. Often what people really envy is self-control.
 -- Ann Wigmore [1909]*
 
 > *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  
--- realjamespierce@x*
+-- x@realjamespierce*
 
 > *"Calm the stomach. Move the body. Rest the mind." (...)  
 "The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
 -- Naval Ravikant [1974]*
 
 > *"Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone."  
--- orangebook_@x*
+-- x@orangebook_*
 
 > *"Healthcare is primarily your diet, exercise, sleep, and lifestyle habits. What most people call 'healthcare' is actually sick care."  
--- zubymusic@x*
+-- x@zubymusic*
 
 
 
@@ -1745,7 +1742,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 <!--
 + @Cobratate -- A sad generation who’s obsessed with taking happy pictures.
 > *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
-> *"Muscle is proof of work ethic. Fat is proof of neglect."  -- giamacool@x*
+> *"Muscle is proof of work ethic. Fat is proof of neglect."  -- x@giamacool*
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
@@ -1891,7 +1888,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"The sole purpose of leisure travel after age 30 is to remind yourself that you’ve lost all childlike joy and the only thing that excites you is aggregating land and resources and watching number go up."  
--- nikitabier@x*
+-- x@nikitabier*
 
 
 
@@ -1962,7 +1959,7 @@ Hints:
 -- Sahil Bloom [1991]*
 
 > *"Your current results are just the visible output of your old decisions compounding over time. But since people evaluate based on short-term signals, they often misinterpret whether something is actually working. This is why so many businesses & individuals chase surface level metrics instead of real durable progress. Early effort often leads to decline before real takeoff, but most people quit before the inflection point."  
--- signulll@x*
+-- x@signulll*
 
 ### On barriers to success
 
@@ -1981,7 +1978,7 @@ We don’t get successful by knowing everything, we get successful by listening.
 
 > *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
 -- Robert Kiyosaki [1947]*
-	
+
 > *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."  
 -- Kevin Kelly [1952]*
 
@@ -2044,20 +2041,21 @@ We were built to hunt, gather, and move, not to stay still. However, the root ca
 ### On depression and anxiety
 
 <!--
-+ _falsi1ke@x -- Most men don't ask for help. They suffer in silence. If a man is asking for your help, You are his last hope.
-+ _falsi1ke@x -- Unemployment hits different when you’re a man. Your Family treats you differently. People lose respect for you. Nobody cares about you and what you say. Your Family is only nice when you have something to offer. May the universe be kind to our unemployed brothers.
-+ alpharivelino@x -- A woman's insecurities make her more beautiful. A man's insecurities make him more pathetic
-+ morganhousel@x -- A really ugly mix is intelligence + insecurity.
-+ naval@X -- The central contradiction of therapy is that the source of unhappiness is thinking about yourself.
-+ orangebook_@x -- You are not anxious because you have too much to do, you are anxious because you are not doing what you know you should be doing.
-+ willmanidis@x -- I’ve met many more people who turned their lives around by walking around aimlessly for a couple hours a day than I’ve met people who have had their lives improved at all by professional therapy
++ x@_falsi1ke -- Most men don't ask for help. They suffer in silence. If a man is asking for your help, You are his last hope.
++ x@_falsi1ke -- Unemployment hits different when you’re a man. Your Family treats you differently. People lose respect for you. Nobody cares about you and what you say. Your Family is only nice when you have something to offer. May the universe be kind to our unemployed brothers.
++ x@alpharivelino -- A woman's insecurities make her more beautiful. A man's insecurities make him more pathetic
++ x@morganhousel -- A really ugly mix is intelligence + insecurity.
++ x@naval -- The central contradiction of therapy is that the source of unhappiness is thinking about yourself.
++ x@orangebook_ -- You are not anxious because you have too much to do, you are anxious because you are not doing what you know you should be doing.
++ x@willmanidis -- I’ve met many more people who turned their lives around by walking around aimlessly for a couple hours a day than I’ve met people who have had their lives improved at all by professional therapy
 > *"An intellectual is someone whose mind watches itself."  -- Albert Camus [1913]*
-> *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  -- rapahelz@x*
+> *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  -- x@rapahelz*
 > *"Just like a low resting heart rate is the byproduct of intense exercise, low anxiety is the byproduct of intense self-examination." — Naval Ravikant*
 > *"Self-obsession is the root of all unhappiness. The happiest people in life love something more than they love themselves. They love their children, they love God, they love their mission, what have you. And all misery comes from rumination, from sitting around...going in circles in your head about me, me, me, me. I get interested in topics and concepts and ideas and understandings. And the more I focus that way, the less I think about myself."  -- NAVAL*
 > *"The #1 reason to be anonymous is insecurity."  -- Sahil Lavingia [1989]*
 > *"Angels can fly because they can take themselves lightly."  -- {attributed to} G.K. Chesterton [1874]*
 
+- A man complaining a lot is a man not accomplishing a lot.
 - cages aren’t made of iron, they’re made of thoughts.
 - It took me 13 years to realize that the only cure to depression is just leaving the house at every single possible opportunity no matter how badly you don’t want to.
 - Most people are not extremes and most people are in the middle. Most things are not binary. Introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
@@ -2175,7 +2173,7 @@ Hints:
 -- Haruki Murakami [1949]*
 
 > *"You have anxiety because deep down you know you could be doing bigger things."  
--- codie_sanchez@x*
+-- x@codie_sanchez*
 
 
 
@@ -2238,7 +2236,7 @@ Fear makes the wolf bigger than he really is.
 
 <!--
 > *"He who jumps into the void owes no explanation to those who stand and watch."
-+ naval@x -- Because, as Taleb says, courage is the only virtue that can’t be faked.
++ x@naval -- Because, as Taleb says, courage is the only virtue that can’t be faked.
 
 - bravery is learned -> micro-bravery, start small
 -->
@@ -2301,10 +2299,10 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 -- Ayaan Hirsi Ali [1969]*
 
 > *"Courage is knowing it might hurt and doing it anyway. Stupidity is the same. And that’s why life is hard."  
--- lovebombsaway@x*
+-- x@lovebombsaway*
 
 > *"No child is ever born afraid. Fear is learned... So is courage."  
--- codie_sanchez@x*
+-- x@codie_sanchez*
 
 ### How to increase courage?
 
@@ -2397,7 +2395,7 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 -- Naval Ravikant [1974]*
 
 > *"I’m not afraid of failure, I’m afraid of being in the exact same place next year."  
--- thejustinwelsh@x*
+-- x@thejustinwelsh*
 
 ### On anger
 
@@ -2576,7 +2574,7 @@ When hiding something about yourself, you automatically create shame. You’re s
 -- Tara Ploughman {fiction}*
 
 > *"Cringe is to mental growth what muscle soreness is to physical growth."  
--- cpaik@x*
+-- x@cpaik*
 
 ### On entitlement and ego
 
@@ -2627,12 +2625,12 @@ Entitlement comes in two forms:
 Nietzsche describes 3 modern vices: OVERWORK (to be constantly busy is self-negation. It betrays a «will to forget» oneself), CURIOSITY (vague curiosity about everything, without deep obsessions, goes nowhere), SYMPATHY (sympathy for all means a refusal to rank good and bad).
 
 > *"Addiction to knowledge is like any other addiction. It offers an escape from the fear of emptiness, of loneliness, of frustration, the fear of being nothing."  
--- k__quotes@x*
+-- x@k__quotes*
 
 ### On introversion
 
 > *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you’re actually extroverted around people who bring you peace."  
--- zacharylaid@x*
+-- x@zacharylaid*
 
 There are no introverts, only people that don't feel safe.
 
@@ -2640,13 +2638,13 @@ There are no introverts, only people that don't feel safe.
 -- Carl Jung [1875]*
 
 > *"Smart people are so good at discovering their own flaws but so mid at actually fixing them. Is the solution to most of their problems just experimental drugs or getting a job in sales?"  
--- anuatluru@x*
+-- x@anuatluru*
 
 > *"Introverts, being "too nice" is not kindness, it’s a trauma response. Where does this come from? For many, it starts in childhood: Growing up in unpredictable environments; having to please parents to avoid punishment or neglect; believing your worth depends on keeping others happy. This behavior becomes survival."  
--- karunpal@x*
+-- x@karunpal*
 
 > *"The introvert/extrovert dichotomy has always struck me as a bit silly. People generally gain energy spending time with people they feel they can be their authentic selves around. They generally spend energy being around people they feel they can’t."  
--- kaseyklimes@x*
+-- x@kaseyklimes*
 
 
 
@@ -2713,7 +2711,7 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 -- Sahil Lavingia [1989]*
 
 > *"They called her witch because she knew how to heal herself."  
--- tevsmith@x*
+-- x@tevsmith*
 
 However beware of blindspots, not all criticism is envy. When somebody says something bad about you, is negativity. When everyone says it, is advice.
 
@@ -2726,7 +2724,7 @@ However beware of blindspots, not all criticism is envy. When somebody says some
 ### On empathy
 
 > *"Empathy without boundaries is self destruction."  
--- khoucasian@x*
+-- x@khoucasian*
 
 Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 
@@ -2734,7 +2732,7 @@ Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 -- Miguel de Cervantes [1547]*
 
 > *"Someone could be more successful than you and still envy you because your character carries more weight than their status."  
--- pallnandi@x*
+-- x@pallnandi*
 
 
 
@@ -2797,7 +2795,7 @@ Hints:
 -- Laurence J. Peter*
 
 > *"Optimists are focused on rewards. Pessimists are focused on risks."  
--- rapahelz@x*
+-- x@rapahelz*
 
 ### On worry
 
@@ -2853,7 +2851,7 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 -- Augusten Burroughs [1965]*
 
 > *"People don’t do hard things because it makes them feel soft."  
--- alexhormozi@x*
+-- x@alexhormozi*
 
 
 
@@ -2953,7 +2951,7 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 -- Elon Musk [1971]*
 
 > *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
--- jonmorrow@x*
+-- x@jonmorrow*
 
 ### On self awareness
 
@@ -3006,7 +3004,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"People who can’t laugh at themselves will always be outwitted by people who can."  
--- tk_coleman@x*
+-- x@tk_coleman*
 
 > *"I never made a mistake in my life. I thought I did once, but I was wrong."  
 -- Lucy Van Pelt (fictional)*
@@ -3181,4 +3179,4 @@ Finding a place to die is an important thing to do.
 ### On pride
 
 > *"Pride keeps people poor more than laziness does."  
--- zubymusic@x*
+-- x@zubymusic*

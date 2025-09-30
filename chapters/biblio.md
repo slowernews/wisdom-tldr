@@ -102,10 +102,6 @@
  / zacharylaid
  / zubymusic
 
-<!--
-- [1775] AUSTEN, Jane (uk)
--->
-
 - [-970] SOLOMON, King (il)
 - [-680] ARCHILOCHUS (gr)
 - [-573] ANACREON (gr)
@@ -200,8 +196,8 @@
 - [1747] TYTLER, Alexander Fraser (uk)
 - [1749] GOETHE, J.W. (de)
 
-- [1754] JOUBERT, Joseph (fr)
 - [1754] DE TALLEYRAND-PERIGORD, Charles (fr)
+- [1754] JOUBERT, Joseph (fr)
 - [1757] BLAKE, William (uk)
 - [1758] NELSON, Horatio (uk)
 - [1767] ADAMS, John Quincy (us)
@@ -210,6 +206,7 @@
 - [1770] BEETHOVEN, Ludwig van (de)
 - [1771] SCOTT, Walter (uk)
 - [1772] COLERIDGE, Samuel Taylor (uk)
+- [1775] AUSTEN, Jane (uk)
 - [1775] BEECHER, Lyman (us)
 - [1788] SCHOPENHAUER, Arthur (de)
 - [1790] SMITH, Adam (uk)

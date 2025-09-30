@@ -14,9 +14,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 	- [On happiness](/chapters/introduction.md#on-happiness)
 	- [How to find happiness?](/chapters/introduction.md#how-to-find-happiness)
 - [Who are you now?](/chapters/introduction.md#who-are-you)
-	- [On finding your path](/chapters/introduction.md#on-finding-your-path)
-	- [On the wrong paths](/chapters/introduction.md#on-the-wrong-paths)
-	- [On destiny](/chapters/introduction.md#on-fate)
+- [On finding your path](/chapters/introduction.md#on-finding-your-path)
 
 
 

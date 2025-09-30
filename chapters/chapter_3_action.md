@@ -155,13 +155,13 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 -- Arthur C. Clarke [1917]*
 
 > *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
--- yellow_and_gray@hn*
+-- hn@yellow_and_gray*
 
 > *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
--- dilemma@hn*
+-- hn@dilemma*
 
 > *"If everyone thinks it’s a good idea, you already missed the opportunity."  
--- alexhormozi@x*
+-- x@alexhormozi*
 
 
 
@@ -172,13 +172,11 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 ## On analysis
 
 <!--
-+ rapahelz@X -- The hallmark of clear thinking is skepticism with regard to dominant narratives.
-+ scottadamssays@x -- Complexity is always a cover for fraud. In every domain.
-+ wordgrammer@x -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
++ x@rapahelz -- The hallmark of clear thinking is skepticism with regard to dominant narratives.
++ x@scottadamssays -- Complexity is always a cover for fraud. In every domain.
++ x@wordgrammer -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
 > *"All rumors about a public figure are to be deemed untrue until he threatens to sue."  -- Nassim Taleb [1960]*
 > *"All the ways of a man are clean in his own sight, but the Lord weighs the motives."  -- Proverbs 16:2*
-> *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  -- morganhousel@x*
-> *"On a poll 79% are right. In life, 79% are usually wrong."  -- warikoo@x*
 
 - if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
 - It's less about the past men than the future men. Past actions predict future actions. Hoeing around, then getting scared and wanting to "settle down", is basically a guarantee that she has no intention of changing her behavior. She's just realizing how much she has to lie. Never forget: Your word is your power.
@@ -256,6 +254,9 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 
 > *"Nothing is as good or as bad as it seems."  
 -- Scott Galloway [1964]*
+
+> *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  
+-- x@morganhousel*
 
 ### Hints
 
@@ -348,22 +349,14 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 ### On truth
 
 <!--
-+ naval@x -- Curiosity is just the search for truth.
-+ naval@X -- Mystics search for truth - the truth of what is. Scientists search for truth - the truth of how it works. Entrepreneurs search for truth - the truth of what people want.
-+ naval@x -- There are infinite ways to lie, there’s only one way to tell the truth.
-+ naval@X -- Truth is that which, once you see it, you can’t unsee it.
-+ naval@x -- Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).
-+ thomassowell@x -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with "hate speech" laws.
-+ zubymusic@x -- Conservatives get mad when you lie to them. Progressives get mad when you tell them the truth.
+> *"There will come a day, when all the lies will collapse under their own weight, and truth will again triumph."  -- Joseph Goebbels*
 > *"People don’t realize how hard is to speak the truth, to a world full of people that don’t realize they’re living in a lie."  -- Edward Snowden*
-> *"Sometimes people don’t want to hear the truth because they don’t want their ilusions destroyed."  -- Friedrich Nietzsche [1844]* 
-> *"Truth emerges from the clash of adverse ideas." -- John Stuart Mill [1806]*
 
++ x@thomassowell -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with "hate speech" laws.
++ x@zubymusic -- Conservatives get mad when you lie to them. Progressives get mad when you tell them the truth.
 
 - A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
 - How do you tell who’s telling the truth? The ones trying to silence other people are the ones lying.
-
-> *"There will come a day, when all the lies will collapse under their own weight, and truth will again triumph."  -- Joseph Goebbels*
 -->
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
@@ -391,6 +384,12 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"It is easier for the world to accept a simple lie than a complex truth."  
 -- Alexis de Tocqueville [1805]*
 
+> *"Truth emerges from the clash of adverse ideas."  
+-- John Stuart Mill [1806]*
+
+> *"Sometimes people don’t want to hear the truth because they don’t want their ilusions destroyed."  
+-- Friedrich Nietzsche [1844]* 
+
 > *"The truth is rarely pure and never simple."  
 -- Oscar Wilde [1854]*
 
@@ -406,6 +405,9 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 > *"The further a society drifts from the truth the more it will hate those who speak it." (...)  
 "In a time of universal deceit, telling the truth is a revolutionary act."  
 -- George Orwell [1903]*
+
+> *"You can ignore reality, but you can’t ignore the consequences of ignoring reality."  
+-- Ayn Rand [1905]*
 
 > *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
 -- Patrick Moynihan [1927]*
@@ -426,10 +428,15 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 "I went looking for truth and all I found was love. I went looking for love and all I found was truth." (...)  
 "If it hurts to hear it, look for the truth in it. If it comforts to hear it, look for the lie in it." (...) 
 "Everybody wants spirituality. Nobody wants the truth."  
+"Curiosity is just the search for truth." (...)  
+"There are infinite ways to lie, there’s only one way to tell the truth." (...)  
+"Truth is that which, once you see it, you can’t unsee it." (...)  
+"Mystics search for truth - the truth of what is. Scientists search for truth - the truth of how it works. Entrepreneurs search for truth - the truth of what people want." (...)  
+"Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status)."  
 -- Naval Ravikant [1974]*
 
 > *"Words are used, first and foremost, to soften the inflexibility of truth."  
--- rapahelz@x*
+-- x@rapahelz*
 
 
 
@@ -440,8 +447,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 ## On planning and strategy
 
 <!--
-> *"whatever you want to achieve you can achieve faster if you get hyperspecific."  -- anuatluru@x*
-
 - What you think is your problem is not your problem, your strategy is.  
 - 20% of the game is strategy. 80% of the game is not quitting.
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
@@ -503,6 +508,9 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"The movie might be good or bad but in the end we’ll finish eating pizza."  
 -- Christopher Nolan [1970]*
 
+> *"whatever you want to achieve you can achieve faster if you get hyperspecific."  
+-- x@anuatluru*
+
 ### How to plan?
 
 > *"Divide each difficulty into as many parts as is feasible and necessary to resolve it."  
@@ -551,8 +559,8 @@ Hints:
 ## On decision making
 
 <!--
-+ naval@x -- Decisions: If you can’t decide, the answer is no. / If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality). / Choose the path that leaves you more equanimous in the long term.
-+ sahilbloom@x - The worst decisions in life are made when you allow your head to talk you into something when your gut already said no.
++ x@naval -- Decisions: If you can’t decide, the answer is no. / If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality). / Choose the path that leaves you more equanimous in the long term.
++ x@sahilbloom - The worst decisions in life are made when you allow your head to talk you into something when your gut already said no.
 > *"My brother says to never make a big decision before you take a shower."*
 > *"Se não houvesse decisoes eramos todos iguais."  -- António Simões*
 
@@ -731,7 +739,7 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 -->
 
 > *"A year from now, you will wish you had started today."  
--- karenlambauthor@x*
+-- x@karenlambauthor*
 
 Just start.
 
@@ -798,8 +806,8 @@ Stop making resolutions and start making something. Time is the most precious th
 ### On timing and patience
 
 <!--
-+ alexhormozi@x -- The lazy don’t know how to start. The losers don’t know how to finish. The legends don’t know how to stop.
-+ shl@x -- Thinking before you speak is a skill
++ x@alexhormozi -- The lazy don’t know how to start. The losers don’t know how to finish. The legends don’t know how to stop.
++ x@shl -- Thinking before you speak is a skill
 
 - Always leave the party early. Show class. Don’t be the clingy friend that spends the night. Don’t be the needy one who asks what’s next. Leave before it’s too late. Leave at the peak. Be the peak.
 -->
@@ -894,7 +902,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"One of the counterintuitive things that I’ve learned is that procrastination is often a side-effect of perfectionism."  
--- bane@hn*
+-- hn@bane*
 
 
 
@@ -1034,8 +1042,8 @@ Hints:
 ### On productivity
 
 <!--
-> *"The greatest muscle you can build is urgency. Decrease the time between having an idea and getting it done. Everything changes."  -- codie_sanchez@x*
-+ naval@X -- Q: What is overrated? A: “Hard work is really overrated. How hard you work matters a lot less in the modern economy. Q: What is underrated? A: Judgment. Judgment is underrated.
+> *"The greatest muscle you can build is urgency. Decrease the time between having an idea and getting it done. Everything changes."  -- x@codie_sanchez*
++ x@naval -- Q: What is overrated? A: “Hard work is really overrated. How hard you work matters a lot less in the modern economy. Q: What is underrated? A: Judgment. Judgment is underrated.
 + @orangebook_ -- Productive people are just people who are really good at ignoring everything that has nothing to do with their lives.
 
 - 6 months of focus and hard work can put you 5 years ahead in life.
@@ -1102,7 +1110,7 @@ Hints:
 ### On clutter
 
 > *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
--- authorcscalise@x*
+-- x@authorcscalise*
 
 Hints:
 
@@ -1170,7 +1178,7 @@ Risk is everything you left over and didn’t thought about.
 -- Naval Ravikant [1974]*
 
 > *"Risk is what’s left over when you think you’ve thought of everything."  
--- behaviorgap@x*
+-- x@behaviorgap*
 
 ### On chance
 
@@ -1214,7 +1222,7 @@ Every outcome in life is guided by forces other than individual effort. The best
 -- Nassim Taleb [1960]*
 
 > *"Taking risk is the ultimate expression of optimism."  
--- rapahelz@x*
+-- x@rapahelz*
 
 ### On hope and faith
 
@@ -1246,7 +1254,7 @@ Every outcome in life is guided by forces other than individual effort. The best
 
 <!--
 > *"They say Trump is out of control, but he’s not. He’s just out of their control."  -- Tucker Carlson*
-+ skylarromines@x -- Never correct anyone who’s wrong unless you’re being paid to do it. Watch quality of life improve.
++ x@skylarromines -- Never correct anyone who’s wrong unless you’re being paid to do it. Watch quality of life improve.
 
 - Não se pode fazer colecção de tudo.
 - focus on what doesnt change
@@ -1359,10 +1367,9 @@ Overcompensate. Some people get passion from something they struggled with.
 
 <!--
 > *"The problem is not to find the answer, it’s to face the answer."  -- Terence Mckenna*
-> *"You can ignore reality, but you can’t ignore the consequences of ignoring reality."  -- Ayn Rand [1905]*
-+ naval@x -- People think they can’t change themselves, but they can. People think they can change others, but they can’t.
-+ omanueljoaquim@x -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
-+ shl@x -- You can’t change someone. All you can do is understand them
++ x@naval -- People think they can’t change themselves, but they can. People think they can change others, but they can’t.
++ x@omanueljoaquim -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
++ x@shl -- You can’t change someone. All you can do is understand them
 + @Rapahelz -- Behaviors that are rewarded in the zoo are suicidal in the jungle.
 
 - when there is a problem there is an oportunity
@@ -1383,7 +1390,7 @@ Overcompensate. Some people get passion from something they struggled with.
 -- Charlie Munger [1924]*
 
 > *"Your life is tetris. Stop playing it like chess."  
--- torbair@x*
+-- x@torbair*
 
 Plans are not static.
 
@@ -1397,6 +1404,9 @@ Switch strategies a few times to get where you want to go. If problems shift fas
 
 > *"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
 -- Charles Darwin [1809]*
+
+> *"Everyone thinks of changing the world, but no one thinks of changing himself."  
+-- Leo Tolstoy [1828]*
 
 > *"Be the change you want to see in the world."  
 -- Mahatma Gandhi [1869]*
@@ -1426,7 +1436,7 @@ Switch strategies a few times to get where you want to go. If problems shift fas
 Sometimes you need to say YES to everything and be open to growth;  
 Sometimes you need to say NO to everything and focus.  
 It’s scary to make those direction choices but fear is a great road sign."  
--- Derek Sivers (paraphrased) [1969]*
+-- Derek Sivers {paraphrased} [1969]*
 
 > *"The best way, perhaps the only way, to change others is to become an example." (...)  
 "Everybody wants to change others. Nobody wants to be changed." (...)  
@@ -1498,10 +1508,10 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 <!--
 > *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  -- George Orwell [1903]*
-+ paulskallas@x -- Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage.
++ x@paulskallas -- Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage.
 
 - Changing the subject. Hallmark of the loser
-- applying force vs removing obstacles. when you apply force you can identify obstacles. -- codie_sanchez@x*
+- applying force vs removing obstacles. when you apply force you can identify obstacles. -- x@codie_sanchez*
 - failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - What’s your advantage: informational, analytical, or behavioral?	
@@ -1555,12 +1565,12 @@ Hints:
 -- Sam W. Brown Jr. [1943]*
 
 > *"The most underrated super power in the world is simply asking for things."  
--- realestatetrent@x*
+-- x@realestatetrent*
 
 ### On charming
 
 <!--
-+ naval@x -- Good people don’t spend time moralizing about how good they are.
++ x@naval -- Good people don’t spend time moralizing about how good they are.
 > *"Diplomacy is the art of telling people to go to hell in such a way that they ask for directions."  -- Winston Churchill [1874]*
 > *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  -- Carl Jung [1875]*
 > *"You will never fully convince someone that he is wrong; only reality can."  -- Nassim Taleb [1960]*
@@ -1694,7 +1704,7 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 -- Naval Ravikant [1974]*
 
 > *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
--- liv_boeree@x*
+-- x@liv_boeree*
 
 Hints:
 
@@ -1816,10 +1826,10 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -- Robert Greene [1959]*
 
 > *"Ends reveal themselves through means."  
--- incentivising@x* 
+-- x@incentivising* 
 
 > *"The quicker you want something, the easier you are to manipulate."  
--- farnamstreet@x*
+-- x@farnamstreet*
 
 
 
@@ -1892,7 +1902,7 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Winners are overgivers."  
--- codie_sanchez@x*
+-- x@codie_sanchez*
 
 
 
@@ -2054,16 +2064,16 @@ Life becomes easy when you recognize the recurring patterns.
 -- Kevin Kelly [1952]*
 
 > *"History is the study of change, ironically used as a map of the future."  
--- morganhousel@x*
+-- x@morganhousel*
 
 > *"The history of the world: men fighting for power and women fucking whoever wins."  
--- alpharivelino@x*
+-- x@alpharivelino*
 
 > *"If a journalist can have a hidden agenda, imagine a historian."  
--- rapahelz@x*
+-- x@rapahelz*
 
 > *"If all you study is the news then you’ll conclude that things have never been worse. If all you study is history then you’ll conclude that things have never been better."  
--- brianferoldi@x*
+-- x@brianferoldi*
 
 ### On memory
 
@@ -2249,10 +2259,10 @@ Our present (in)actions will compound into the future we will experience – tha
 -- John Green [1977]*
 
 > *"Every expert has a past. Every creator has a future."  
--- rapahelz@x*
+-- x@rapahelz*
 
 > *"Your future is constantly shrinking, so the longer you spend preparing for it, the smaller it's going to be."  
--- g_s_bhogal@x*
+-- x@g_s_bhogal*
 
 ### On predictions
 
