@@ -87,6 +87,7 @@
  / realestatetrent
  / realjamespierce
  / rmcentush
+ / ryanstewman
  / samoburja
  / sgrstk
  / signulll
@@ -603,6 +604,7 @@
 - [1933] SONTAG, Susan (us)
 - [1933] STOREY, David (uk)
 - [1933] TANAHASHI, Kazuaki (jp)
+- [1934] CHOUINARD, Yvon (us)
 - [1934] DIDION, Joan (us)
 - [1934] HALPERIN, Morton (us)
 - [1934] LORDE, Audre (us)

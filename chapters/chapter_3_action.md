@@ -117,6 +117,9 @@ Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out 
 
 ### How to judge ideas?
 
+> *"If everyone thinks it’s a good idea, you already missed the opportunity."  
+-- x@alexhormozi*
+
 Ask peers. Managers will regret more a false positive than a false negative.
 
 However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. So focus on transforming yourself into the kind of person who can bring them to life. 
@@ -160,15 +163,11 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
 -- hn@dilemma*
 
-> *"If everyone thinks it’s a good idea, you already missed the opportunity."  
--- x@alexhormozi*
 
 
 
 
 
-
----
 ## On analysis
 
 <!--
@@ -443,7 +442,6 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 
 
 
----
 ## On planning and strategy
 
 <!--
@@ -555,7 +553,6 @@ Hints:
 
 
 
----
 ## On decision making
 
 <!--
@@ -712,7 +709,6 @@ A mental model is a functional tool. If you don’t understand its limitations, 
 
 
 
----
 # 3.2 - On executing
 
 ## On starting and timing
@@ -746,7 +742,8 @@ Just start.
 Stop making resolutions and start making something. Time is the most precious thing you own.
 
 > *"Rising early makes the road short." (...)  
-"The person who removes a mountain begins by carrying away small stones."  
+"The person who removes a mountain begins by carrying away small stones." (...)  
+"The best time to plant a tree was 20 years ago. The second best time is right now."   
 -- vox populi*
 
 > *"The journey of a thousand miles begins with a single step."  
@@ -758,7 +755,8 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"The beginning is the most important part of the work."  
 -- Plato [-427]*
 
-> *"While we wait for life, life passes."  
+> *"While we wait for life, life passes." (...)  
+"While we are postponing, life speeds by."  
 -- Seneca [-004]*
 
 > *"You may delay, but time will not."  
@@ -773,11 +771,17 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"Do not wait to strike till the iron is hot; but make it hot by striking."  
 -- W.B. Yeats [1865]*
 
+> *"Beginnings are always messy."  
+-- John Galsworthy [1867]*
+
 > *"Action expresses priorities."  
 -- Mahatma Gandhi [1869]*
 
 > *"Go and do the things you can’t. That is how you get to do them."  
 -- Pablo Picasso [1881]*
+
+> *"If opportunity doesn’t knock, build a door."  
+-- Milton Berle [1908]*
 
 > *"I’ve been on a calendar, but I have never been on time."  
 -- Marilyn Monroe [1926]*
@@ -800,13 +804,12 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"One of the most underrated secrets to success is to start before you’re ready."  
 -- Marie Forleo [1975]*
 
-> *"Beginnings are always messy."  
--- John Galsworthy [1867]*
+> *"The lazy don’t know how to start. The losers don’t know how to finish. The legends don’t know how to stop."  
+-- x@alexhormozi*
 
 ### On timing and patience
 
 <!--
-+ x@alexhormozi -- The lazy don’t know how to start. The losers don’t know how to finish. The legends don’t know how to stop.
 + x@shl -- Thinking before you speak is a skill
 
 - Always leave the party early. Show class. Don’t be the clingy friend that spends the night. Don’t be the needy one who asks what’s next. Leave before it’s too late. Leave at the peak. Be the peak.
@@ -846,87 +849,32 @@ Stop making resolutions and start making something. Time is the most precious th
 > *"About 99% of the time, the right time is right now."  
 -- Kevin Kelly [1952]*
 
+> *"Most people overestimate what they can do in one year and underestimate what they can do in ten years."  
+-- Bill Gates [1955]*
+
 > *"Stoicism is about the domestication of emotions, not their elimination." (...)  
 "Never threaten when angry. Never promise when joyful. Never plan when gloomy. Never reply when tired. Never buy when euphoric."  
 -- Nassim Taleb [1960]*
 
-> *"Hesitation is always easy, rarely useful."  
--- Prof. Quirrel {fictional}*
-
-### On procrastination
-
-<!--
-- i think procrastination leads to burnout much more than work does.
-- Just finished the book «Buy Back Your Time». Key takeaway? Outsource your weaknesses. It isn’t lazy, it’s smart. Double down on your zone of genius and watch your business, health and life transform.
-- Laziness is just a symptom of not having something worth waking up for. It’s a lack of direction. When your goals align with your passions, laziness fades away because you’re driven by something bigger than yourself. Purpose fuels progress. It’s about building something that outlasts you.
-- Laziness is often disguised as a lack of knowledge.
-- One pattern I’ve noticed in all miserable people: They overthink and underact.
-- You’re too gifted to be paralyzed by procrastination. Dear son, I need you to focus.
--->
-
-> *"The more something threatens your identity, the more you will avoid it." (...)  
-«Learning more» is the most seductive form of procrastination. «Planning more» is the second most."  
--- Mark Manson [1984]*
-
-> *"While we wait for life, life passes." (...)  
-"While we are postponing, life speeds by."  
--- Seneca [-004]*
-
-We fear releasing something unimportant, so you don’t release anything at all. Inadequacy of results makes us realize that we are not as good as we think we are and creates anxiety. We distract ourselves because we are not willing to face up with what bothers us. We procrastinate in order to remove that anxiety. When hope disappears, so does action. The cost of procrastination is the life you could’ve lived.
-
-> *"Evil is whatever distracts."  
--- Franz Kafka [1883]*
-
-How to defeat procrastination?
-
-Hints:
-
-- What gets measured gets done.
-- Don’t wait for the perfect occasion, a good occasion is a safer bet. You will languish if you stop for a long time and paralysis is worse than bad timing.
- At some point, the pain of not doing it becomes greater than the pain of doing it. Pressed by circumstances, we feel unusually energized and focused (the panic monster). 
-- However, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a plan. Any plan will do.
-
-> *"The best time to plant a tree was 20 years ago. The second best time is right now."   
--- vox populi*
-
-> *"What’s well begun is half done."  
--- Horace [-065]*
-
-> *"If opportunity doesn’t knock, build a door."  
--- Milton Berle [1908]*
-
-> *"Idleness makes hours pass slowly and years swiftly. Activity makes the hours short and the years long."  
--- Cesare Pavese [1908]*
-
 > *"Better bored than busy."  
 -- Naval Ravikant [1974]*
 
-> *"One of the counterintuitive things that I’ve learned is that procrastination is often a side-effect of perfectionism."  
--- hn@bane*
+> *"Hesitation is always easy, rarely useful."  
+-- Prof. Quirrel {fictional}*
 
 
 
 
 
 
----
 ## On speed and direction
 
 <!--
 - Most successful people I’ve met are not that smart. They just move fast, take risks and work a lot.
 -->
 
-> *"I’m a slow walker, but I never walk back."  
--- Abraham Lincoln [1809]*
-
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker [1945]*
-
-> *"Most people overestimate what they can do in one year and unRderestimate what they can do in ten years."  
--- Bill Gates [1955]*
-
-> *"Start as close to the end as possible."  
--- Kurt Vonnegut [1922]*
 
 Direction is more important than velocity. Even if we can’t choose the starting point, often, we can choose the direction.
 
@@ -942,8 +890,14 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 > *"To the person who does not know where he wants to go there is no favorable wind."  
 -- Seneca [-004]*
 
+> *"I’m a slow walker, but I never walk back."  
+-- Abraham Lincoln [1809]*
+
 > *"Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise."  
 -- John Tukey [1915]*
+
+> *"Start as close to the end as possible."  
+-- Kurt Vonnegut [1922]*
 
 > *"If you don’t know where you are going, you’ll end up someplace else."
 -- Yogi Berra [1925]*
@@ -956,7 +910,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 
 
----
 ## On focus and priorities
 
 <!--
@@ -974,9 +927,6 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
 -- Seth Godin [1960]*
-
-> *"People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1000 things."  
--- Steve Jobs [1955]*
 
 First the essential. Then the details.
 
@@ -1022,6 +972,9 @@ Hints:
 
 > *"You can do anything, but not everything."  
 -- David Allen [1945]*
+
+> *"People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying «no» to 1000 things."  
+-- Steve Jobs [1955]*
 
 > *"Strike the shepherd and the sheep will scatter."  
 -- Robert Greene [1959]*
@@ -1107,39 +1060,16 @@ Hints:
 "Say no: «It doesn’t feel right to me.» No more explanations are needed."  
 -- Naval Ravikant [1974]*
 
-### On clutter
-
-> *"Clutter is the physical manifestation of unmade decisions fueled by procrastination."  
--- x@authorcscalise*
-
-Hints:
-
-- Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is your slave, not your master. You’re not choosing ignorance, you’re choosing to not watch wrestling.
-- Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. Storage is a way of warehousing the past. If you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self.
-- Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.
-- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
-- All that clutter used to be money.
-
-> *"If a little is not enough for you, nothing is."  
--- Epicurus [-341]*
-
-> *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
--- Colette [1873]*
 
 
 
 
 
-
----
 ## On luck and risk
 
 <!--
 > *"I naufraghi prima o poi finiscono per incontrarsi."  -- M. Vázquez Montalban*
 -->
-
-> *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
--- Ralph Waldo Emerson [1803]*
 
 > *"If you live long enough, most people will get what they deserve."  
 -- Charlie Munger [1924]*
@@ -1157,6 +1087,9 @@ Risk is everything you left over and didn’t thought about.
 
 > *"We all have enough strength to endure the misfortunes of other people."  
 -- François de La Rochefoucauld [1613]*
+
+> *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
+-- Ralph Waldo Emerson [1803]*
 
 > *"To dare is to lose one’s footing momentarily. To not dare is to lose oneself."  
 -- Soren Kierkegaard [1813]*
@@ -1249,7 +1182,6 @@ Every outcome in life is guided by forces other than individual effort. The best
 
 
 
----
 ## On control
 
 <!--
@@ -1311,7 +1243,6 @@ Consuming information gives the control freak an illusion of control. He doesn�
 
 
 
----
 ## On balance
 
 <!--
@@ -1362,14 +1293,12 @@ Overcompensate. Some people get passion from something they struggled with.
 
 
 
----
 ## On change and adapting
 
 <!--
-> *"The problem is not to find the answer, it’s to face the answer."  -- Terence Mckenna*
 + x@naval -- People think they can’t change themselves, but they can. People think they can change others, but they can’t.
-+ x@omanueljoaquim -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
 + x@shl -- You can’t change someone. All you can do is understand them
++ x@omanueljoaquim -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
 + @Rapahelz -- Behaviors that are rewarded in the zoo are suicidal in the jungle.
 
 - when there is a problem there is an oportunity
@@ -1379,15 +1308,6 @@ Overcompensate. Some people get passion from something they struggled with.
 - regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
 - when you hit a wrong note, it’s the next note that makes it good or bad.
 -->
-
-> *"This is the joy of the rose, that it blows, and then it goes."  
--- Willa Cather [1873]*
-
-> *"However beautiful the strategy, you should occasionally look at the results."  
--- Winston Churchill [1874]*
-
-> *"At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information."  
--- Charlie Munger [1924]*
 
 > *"Your life is tetris. Stop playing it like chess."  
 -- x@torbair*
@@ -1411,11 +1331,20 @@ Switch strategies a few times to get where you want to go. If problems shift fas
 > *"Be the change you want to see in the world."  
 -- Mahatma Gandhi [1869]*
 
+> *"This is the joy of the rose, that it blows, and then it goes."  
+-- Willa Cather [1873]*
+
+> *"However beautiful the strategy, you should occasionally look at the results."  
+-- Winston Churchill [1874]*
+
 > *"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."  
 -- Everett Dirksen [1896]*
 
 > *"Whatever space and time mean, place and occasion mean more."  
 -- Aldo van Eyck [1918]*
+
+> *"At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information."  
+-- Charlie Munger [1924]*
 
 > *"The most important thing to do if you find yourself in a hole is to stop digging."  
 -- Warren Buffett [1930]*
@@ -1501,7 +1430,6 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 
 
----
 # 3.3 - On ending
 
 ## On getting advantage
@@ -1518,15 +1446,19 @@ There are limits on change. Willpower is finite and change requires attention. H
 - You must play by your rules, funnel your weird stuff to give you some advantage.
 -->
 
-> *"Give me a lever long enough, and a place to stand, and I will move the earth."  
--- Archimedes [-212]*
-
 > *"Never interrupt your enemy when he is making a mistake."  
 -- Napoleon Bonaparte [1769]*
 
 Strategy is about winning before the battle begins, tactics are about striking at weakness.
 
 Leverage is a force multiplier. Leverage your target weaknesses to raise your chances of winning. Use methods like unpredictability, charming or mirroring. Even deceiving, some opponents may require special tools.
+
+> *"Give me a lever long enough, and a place to stand, and I will move the earth."  
+-- Archimedes [-212]*
+
+> *"The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
+A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
+-- Richard Rumelt [1942]*
 
 > *"You are strong only where you were broken." (...)  
 "It’s hard to defeat a high-morale defender with an unlimited supply line." (...)  
@@ -1536,10 +1468,6 @@ Capital means money. To raise money, apply your specific knowledge, with account
 Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it."  
 -- Naval Ravikant [1974]*
-
-> *"The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
-A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
--- Richard Rumelt*
 
 Hints:
 
@@ -1570,9 +1498,6 @@ Hints:
 ### On charming
 
 <!--
-+ x@naval -- Good people don’t spend time moralizing about how good they are.
-> *"Diplomacy is the art of telling people to go to hell in such a way that they ask for directions."  -- Winston Churchill [1874]*
-> *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  -- Carl Jung [1875]*
 > *"You will never fully convince someone that he is wrong; only reality can."  -- Nassim Taleb [1960]*
 
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.
@@ -1582,10 +1507,6 @@ Hints:
 - the good reason and the real reason.
 - When someone can’t use logic to make you care about the same things they care about, they resort to name-calling: sociopath, soulless, etc. But recall: misplaced empathy is why the west is falling. -- Diane Yap
 -->
-
-> *"We catch more flies with honey than vinegar." (...)  
-"Abuse often starts with praise."  
--- vox populi*
 
 > *"To combat an adversary, become their friend."  
 -- Kevin Kelly [1952]*
@@ -1598,11 +1519,18 @@ Hints:
 - Use absence and bait to attract people. It will become a challenge for them to win your affections. The ability to make others come to you is a weapon far more powerful than any tool of aggression. use it with moderation.
 - Instead of killing it, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.
 
+> *"We catch more flies with honey than vinegar." (...)  
+"Abuse often starts with praise."  
+-- vox populi*
+
 > *"Kind words don’t cost much. Yet they accomplish much."  
 -- Blaise Pascal [1623]*
 
 > *"We swallow greedily any lie that flatters us, but we sip only little by little at a truth we find bitter."  
 -- Denis Diderot [1713]*
+
+> *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  
+-- Carl Jung [1875]*
 
 > *"I’ve never fooled anyone. I’ve let people fool themselves. They didn’t bother to find out who and what I was. Instead they would invent a character for me. I wouldn’t argue with them. They were obviously loving somebody I wasn’t."  
 -- Marilyn Monroe [1926]*
@@ -1791,7 +1719,6 @@ Burocracy prevents low probability events to happen at the expense of making mor
 
 
 
----
 ## On finishing
 
 > *"Everything will be ok in the end. If it’s not ok, it’s not the end."  
@@ -1836,7 +1763,6 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 
 
 
----
 ## On winning
 
 <!--
@@ -1909,7 +1835,6 @@ Hints:
 
 
 
----
 ## On quiting and surrendering
 
 <!--
@@ -2015,7 +1940,6 @@ If you don’t reconcile you’re postponing war.
 
 
 
----
 # 3.4 - Time
 
 ## On past
@@ -2063,6 +1987,9 @@ Life becomes easy when you recognize the recurring patterns.
 > *"Don’t bother fighting the old; just build the new."  
 -- Kevin Kelly [1952]*
 
+> *"He’d wasted most of his life thinking he’d wasted most of his life."  
+-- David Foster Wallace [1962]*
+
 > *"History is the study of change, ironically used as a map of the future."  
 -- x@morganhousel*
 
@@ -2076,6 +2003,9 @@ Life becomes easy when you recognize the recurring patterns.
 -- x@brianferoldi*
 
 ### On memory
+
+> *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
+-- Rosalind Cartwright [1922]*
 
 You are your memory.
 
@@ -2096,9 +2026,6 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 > *"I don’t know any longer whether I’m living or remembering."  
 -- Albert Camus [1913]*
 
-> *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
--- Rosalind Cartwright [1922]*
-
 > *"You forget what you want to remember, and you remember what you want to forget."  
 -- Cormac McCarthy [1933]*
 
@@ -2107,9 +2034,6 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 
 > *"We look at the world once, in childhood. The rest is memory."  
 -- Louise Gluck [1943]*
-
-> *"He’d wasted most of his life thinking he’d wasted most of his life."  
--- David Foster Wallace [1962]*
 
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky [1970]*
@@ -2142,7 +2066,6 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 
 
 
----
 ## On present
 
 <!--
@@ -2177,6 +2100,9 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 > *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
 -- Kahlil Gibran [1883]*
 
+> *"Idleness makes hours pass slowly and years swiftly. Activity makes the hours short and the years long."  
+-- Cesare Pavese [1908]*
+
 > *"Stop measuring days by degree of productivity and start experiencing them by degree of presence."  
 -- Alan Watts [1915]*
 
@@ -2206,7 +2132,6 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 
 
 
----
 ## On future
 
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
@@ -2266,10 +2191,10 @@ Our present (in)actions will compound into the future we will experience – tha
 
 ### On predictions
 
-Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
-
 > *"The future belongs to those who see possibilities before they become obvious."  
 -- John Sculley [1939]*
+
+Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
 
 > *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
 -- Kevin Kelly [1952]*

@@ -144,7 +144,6 @@ Hints:
 
 
 
----
 ## On networking
 
 > *"The enemy of excellence is isolation."  
@@ -248,7 +247,6 @@ Choose truth or your self-mythology will seduce you.
 
 
 
----
 ## On business and entrepreneurship
 
 <!--
@@ -398,7 +396,6 @@ Hints:
 
 
 
----
 ## On selling, negotiation and price
 
 <!--
@@ -454,9 +451,6 @@ I look forward to your response. [Power play; leave them with good vibes.]
 > *"Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don’t need."  
 -- Chuck Palahniuk [1963]*
 
-> *"A man who stops advertising to save money is like a man who stops a clock to save time."  
--- Henry Ford [1863]*
-
 We’re all in sales. To sell is to deal with objections.
 
 Sales used to be about information asymmetry but now it’s mostly applied persuasion and keeping relationships. Best sellers are now ambiverts. Being recomendend is the best marketing.
@@ -472,6 +466,9 @@ Modern selling: farmers (ambiverts and introverts)
 - Research (to understand the customer - time spent alone on the web, reading and analyzing information)  
 - Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
 - Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
+
+> *"A man who stops advertising to save money is like a man who stops a clock to save time."  
+-- Henry Ford [1863]*
 
 > *"If you make people think they’re thinking, they’ll love you. If you really make them think, they’ll hate you."  
 -- Don Marquis [1878]*
@@ -566,13 +563,13 @@ However always strive to achieve a win-win situation. When both sides don’t ta
 - When money’s free, nobody looks at the price.
 -->
 
-> *"The price of anything is the amount of life you exchange for it."  
--- Henry David Thoreau [1817]*
-
 > *"Price is what you pay, value is what you get."  
 -- Warren Buffett [1930]*
 
 Price is a filter. Set it to choose the customers you prefer to work with. If they can’t pay, walk away.
+
+> *"The price of anything is the amount of life you exchange for it."  
+-- Henry David Thoreau [1817]*
 
 > *"Nowadays people know the price of everything and the value of nothing."  
 -- Oscar Wilde [1854]*
@@ -595,15 +592,10 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 
 
 
----
 ## On generosity and incentives
 
 > *"No one has ever become poor by giving."  
 -- Anne Frank [1929]*
-
-> *"A bit of fragrance clings to the hand that gives flowers." (...)  
-"A candle loses nothing by lighting another candle."  
--- vox populi*
 
 No one on their deathbed has ever regretted giving too much away.
 
@@ -613,7 +605,9 @@ Hints:
 - Always give best in class: practical luxuries make better gifts than merchandise branded with your company’s logo.
 - A low value gift may have the opposite effect.
 
-> *"A guest and a fish stink in three days."  
+> *"A bit of fragrance clings to the hand that gives flowers." (...)  
+"A candle loses nothing by lighting another candle." (...)  
+"A guest and a fish stink in three days."  
 -- vox populi*
 
 > *"He that gives should never remember and he that receives should never forget."  
@@ -663,7 +657,6 @@ Hints:
 
 
 
----
 ## On leadership
 
 <!--
@@ -683,15 +676,6 @@ Hints:
 "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."  
 -- Lao Tzu [-571]*
 
-> *"He who does not desire power is fit to hold it."  
--- Plato [-427]*
-
-> *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
--- Alexander the great [-357]*
-
-> *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
--- Rumi [1207]*
-
 Leaders are team makers. There are no bad teams, only bad leaders.
 
 Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strongest person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
@@ -703,8 +687,17 @@ Hints:
 - Best leaders are leaders that grew up in the hierarchy.
 - People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
 
+> *"He who does not desire power is fit to hold it."  
+-- Plato [-427]*
+
 > *"To lead an orchestra, you must turn your back on the crowd."  
 -- Aristotle [-384]*
+
+> *"An army of sheep led by a lion is better than an army of lions led by a sheep."  
+-- Alexander the great [-357]*
+
+> *"Raise your words, not your voice. It is rain that grows flowers not thunders."  
+-- Rumi [1207]*
 
 > *"If you wish to control others you must control yourself."  
 -- Miyamoto Musashi [1584]*
@@ -816,7 +809,6 @@ Hints:
 
 
 
----
 ## On management and delegation
 
 <!--
@@ -827,9 +819,6 @@ Hints:
 - Ideas are welcomed, execution is worshiped
 - reward system. culture is influenced by structure. give to the right person
 -->
-
-> *"The oldest and largest organisation in the world has only 4 layers of management, that’s the Catholic church."  
--- Steve Jobs [1955]*
 
 > *"Don’t postpone to tomorrow what other people can do for you today."  
 -- Warren Buffett [1930]*
@@ -854,17 +843,18 @@ Hints:
 "No institution can possibly survive if it needs geniuses or supermen to manage it. It must be organized in such a way as to be able to get along under a leadership composed of average human beings."  
 -- Peter Drucker [1909]*
 
-> *"Management is about persuading people to do things they do not want to do, while leadership is about inspiring people to do things they never thought they could."  
--- Steve Jobs [1955]*
-
-> *"Management is prompt engineering for humans."  
--- Pedro Domingos [1965]*
-
 > *"Lots of folks confuse bad management with destiny."  
 -- Frank Hubbard [1920]*
 
 > *"The manager asks how and when; the leader asks what and why."  
 -- Warren Bennis [1925]*
+
+> *"Management is about persuading people to do things they do not want to do, while leadership is about inspiring people to do things they never thought they could." (...)  
+"The oldest and largest organisation in the world has only 4 layers of management, that’s the Catholic church."  
+-- Steve Jobs [1955]*
+
+> *"Management is prompt engineering for humans."  
+-- Pedro Domingos [1965]*
 
 ### On teams
 
@@ -878,9 +868,6 @@ Hints:
 > *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don’t care about becoming a somebody."  
 -- Phill Dooley [1966]*
 
-> *"If you want to go fast, go alone. If you want to go far, go together."  
--- vox populi*
-
 People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
 
 Hints:
@@ -888,6 +875,9 @@ Hints:
 - Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
 - A chain is only as strong as its weakest link.
 - Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
+
+> *"If you want to go fast, go alone. If you want to go far, go together."  
+-- vox populi*
 
 > *"There are two ways of spreading light: to be the candle or the mirror that reflects it."  
 -- Edith Wharton [1862]*
@@ -952,10 +942,14 @@ Hints:
 -- Kevin Kelly [1952]*
 
 > *"Ask for feedback on your attempts, not advice on your ideas."  
+-- Sahil Lavingia [1989]*
 
 Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
 
 ### On meetings
+
+> *"The most senior person at a meeting should speak last."  
+-- Jeff Bezos [1964]*
 
 Default to «no» for all meetings. Meetings are the death of productivity.
 
@@ -971,9 +965,6 @@ Hints:
 - Leave one seat free - for your customer. (Jeff Bezos)
 - Text me when you’re ready for the call but then give me 15 minutes.
 
-> *"The most senior person at a meeting should speak last."  
--- Jeff Bezos [1964]*
-
 > *"If you want the meeting, make it an offer, not an ask."  
 -- Naval Ravikant [1974]*
 
@@ -982,7 +973,6 @@ Hints:
 
 
 
----
 ## On mentorship
 
 <!--
@@ -1077,12 +1067,6 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 "Teach your children how to think, not what to think."  
 -- Richard Feynman [1918]*
 
-> *"If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales."  
--- Albert Einstein [1879]*
-
-> *"The only thing worse than a boy who hates you: a boy that loves you."  
--- Markus Zusak [1975]*
-
 Your father is your first mentor.
 
 Don’t tell your kids how to live. Live fully and let them see. Spend only half the money you think you should, but double the time with them.
@@ -1158,6 +1142,9 @@ Hints:
 > *"Every father should remember one day his son will follow his example, not his advice."  
 -- Charles Kettering [1876]*
 
+> *"If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales."  
+-- Albert Einstein [1879]*
+
 > *"My father didn’t tell me how to live. He lived and let me watch him do it."  
 -- Clarence Budington Kelland [1881]*
 
@@ -1206,6 +1193,9 @@ Hints:
 "Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."  
 -- Naval Ravikant [1974]*
 
+> *"The only thing worse than a boy who hates you: a boy that loves you."  
+-- Markus Zusak [1975]*
+
 > *"The nature of impending fatherhood is that you are doing something that you’re unqualified to do, and then you become qualified while doing it."  
 -- John Green [1977]*
 
@@ -1222,7 +1212,6 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 
 
----
 ## On career
 
 <!--
@@ -1255,17 +1244,17 @@ However some people are not ready to accept your vision. And «givers» attract 
 - Working hard for something we don’t care about is called stress; working hard for something we love is called passion.
 -->
 
-> *"Look for the job that you would take if you didn’t need a job."  
--- Warren Buffett [1930]*
-
-> *"The world will ask you who you are, and if don’t know, the world will tell you."  
--- Carl Jung [1875]*
-
 > *"Don’t be the best. Be the only." (...)  
 "A good sign that you are doing the kind of work that you should be doing is that you enjoy the tedious parts that other people find tortuous."  
 -- Kevin Kelly [1952]*
 
 Nobody can compete with you on being you. Most of your life is a search for who and what needs you the most.
+
+> *"The world will ask you who you are, and if don’t know, the world will tell you."  
+-- Carl Jung [1875]*
+
+> *"Look for the job that you would take if you didn’t need a job."  
+-- Warren Buffett [1930]*
 
 > *"My thing is to work more than the others to show them how useless they are."  
 -- Karl Lagerfeld [1933]*
@@ -1358,6 +1347,9 @@ You make yourself rare by combining two or more relevant «pretty goods». Capit
 
 ### Employee or entrepreneur?
 
+> *"Employees who leave to start their own business face a huge risk few ever think about: If the venture fails, they find themselves unwilling to ever go back to being an employee, and many never get back on track. It’s a real risk, and nobody talks about it."  
+-- x@realestatetrent*
+
 Employees have no control over their futures. The economy forces all the risk on them.
 
 Hints:
@@ -1375,9 +1367,6 @@ Hints:
 "You’re never going to get rich renting out your time." (...)  
 "Trade money for time, not time for money. You’re going to run out of time first."  
 -- Naval Ravikant [1974]*
-
-> *"Employees who leave to start their own business face a huge risk few ever think about: If the venture fails, they find themselves unwilling to ever go back to being an employee, and many never get back on track. It’s a real risk, and nobody talks about it."  
--- x@realestatetrent*
 
 ### Specialist or generalist?
 
@@ -1406,7 +1395,6 @@ Ask employers why did they asked you for an interview - they will describe your 
 
 
 
----
 ## On hiring and being hired
 
 <!--
@@ -1514,6 +1502,9 @@ Hints:
 
 ### How to attract and keep talented people?
 
+> *"Everybody wants to hire the best. Few of them actually pay them like they’re the best."  
+-- Naval Ravikant [1974]*
+
 Respect them. You’ll never respect them if you don’t reward them accordingly.
 
 Hints:
@@ -1526,9 +1517,6 @@ Hints:
 > *"Train employees well enough they could get another job, but treat them well enough so they never want to."  
 -- Kevin Kelly [1952]*
 
-> *"Everybody wants to hire the best. Few of them actually pay them like they’re the best."  /
--- Naval Ravikant [1974]*
-
 > *"It’s not the office that they hate, it’s the commute."  
 -- x@realestatetrent*
 
@@ -1537,7 +1525,6 @@ Hints:
 
 
 
----
 # 2.2 - On competition
 
 ## On hierarchy
@@ -1562,11 +1549,8 @@ Hints:
 -->
 
 > *"If you want to know who controls you, look at who you are not allowed to criticize." (...)  
-> *"It is dangerous to be right in matters where established men are wrong."  
+"It is dangerous to be right in matters where established men are wrong."  
 -- Voltaire [1694]*
-
-> *"No one can make you feel inferior without your permission."  
--- Eleanor Roosevelt [1884]*
 
 Everything is hierarchy. Only comedians can speak the truth without consequences.
 
@@ -1587,6 +1571,9 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 
 > *"Disobedience is the true foundation of liberty. The obedient must be slaves."  
 -- Henry David Thoreau [1817]*
+
+> *"No one can make you feel inferior without your permission."  
+-- Eleanor Roosevelt [1884]*
 
 > *"A slave is one who waits for someone to come and free him."  
 -- Ezra Pound [1885]*
@@ -1633,7 +1620,6 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 
 
 
----
 ## On opponents and allies
 
 <!--
@@ -1666,6 +1652,9 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 
 > *"Any person capable of angering you becomes your master."  
 -- Epictetus [0050]*
+
+> *"I don’t like that man. I must get to know him better."  
+-- Abraham Lincoln [1809]*
 
 > *"If you don’t like a person, it’s because they remind you of something you don’t like about yourself."  
 -- Sigmund Freud [1856]*
@@ -1764,6 +1753,9 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 - if you find someone smarter than you, don't compete. Work together.
 -->
 
+> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
+-- Peter Kropotkin [1842]*
+
 The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
 
 Hint:
@@ -1784,9 +1776,6 @@ Hint:
 > *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."  
 -- Mark Twain [1835]*
 
-> *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
--- Peter Kropotkin [1842]*
-
 > *"I learned a long time ago the wisest thing I can do is be on my side."  
 -- Maya Angelou [1928]*
 
@@ -1805,9 +1794,6 @@ Hint:
 
 ### On heros
 
-> *"Every society honors its live conformists and its dead troublemakers."  
--- Marshall McLuhan [1911]*
-
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
 -- Harvey Dent {fictional}*
 
@@ -1816,18 +1802,15 @@ Our heros are our idealized selfes.
 > *"Show me a hero, and I’ll write you a tragedy."  
 -- F. Scott Fitzgerald [1896]*
 
+> *"Every society honors its live conformists and its dead troublemakers."  
+-- Marshall McLuhan [1911]*
 
 
 
 
 
----
+
 ## On conflicts
-
-<!--
-> *"LLMs are useful to compulsively argumentative people who run out of friends to debate."  -- x@nntaleb*
-> *"Don’t take things personally, unless you want to improve."  -- x@shl*
--->
 
 > *"War is what happens when language fails."  
 -- Margaret Atwood [1939]*
@@ -1856,6 +1839,8 @@ Small (but relevant) conflicts will grow into big conflicts. What could have bee
 
 ### On conflict resolution
 
+> *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  -- x@realestatetrent*
+
 You’re either part of the solution or part of the problem.
 
 Hints:
@@ -1866,6 +1851,9 @@ Hints:
 > *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
 -- Seneca [-004]*
 
+> *"If they are wise, do not quarrel with them; if they are fools, ignore them."  
+-- Epictetus [0050]*
+
 > *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
 -- Balthasar Gracian [1601]*
 
@@ -1875,8 +1863,6 @@ Hints:
 > *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
 "Your best response to an insult is «you’re probably right». Often they are."  
 -- Kevin Kelly [1952]*
-
-> *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  -- x@realestatetrent*
 
 ### On war
 
@@ -1910,7 +1896,6 @@ Hints:
 
 
 
----
 # 2.3 - On society
 
 ## On society and politics
@@ -2110,6 +2095,9 @@ Hints:
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
 -- Thomas Jefferson [1743]*
 
+> *"Diplomacy is the art of telling people to go to hell in such a way that they ask for directions."  
+-- Winston Churchill [1874]*
+
 > *"Good fences make good neighbors."  
 -- Robert Frost [1874]*
 
@@ -2302,7 +2290,6 @@ Hints:
 
 
 
----
 ## On following the herd
 	
 <!--
@@ -2402,15 +2389,8 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 
 ### On stupidity
 
-> *"Do not try to seem wise to others." (...)  
-"If they are wise, do not quarrel with them; if they are fools, ignore them."  
--- Epictetus [0050]*
-
 > *"Stupidity is overlooking or dismissing crucial information."  
 -- Adam Robinson [1955]*
-
-> *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
--- x@sgrstk*
 
 Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. Most people don’t actually think, they just take their first thought and go. There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.
 
@@ -2432,6 +2412,9 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 > *"Any man can make mistakes, but only an idiot persists in his error."  
 -- Cicero [-106]*
 
+> *"Do not try to seem wise to others."  
+-- Epictetus [0050]*
+
 > *"Nothing is more terrible than to see ignorance in action."  
 -- J.W. Goethe [1749]*
 
@@ -2443,6 +2426,9 @@ Stupidity is the cost of intelligence operating in a complex environment and it�
 
 > *"Great things are not accomplished by those who yield to trends and fads and popular opinion."  
 -- Jack Kerouac [1922]*
+
+> *"A fact is information minus emotion. An opinion is information plus experience. Ignorance is an opinion lacking information. And, stupidity is an opinion that ignores a fact."  
+-- x@sgrstk*
 
 It’s easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
 
@@ -2568,7 +2554,6 @@ Hints:
 
 
 
----
 ## On humanness and irrationality
 
 <!--
@@ -2647,7 +2632,6 @@ Most people approach each and every year in the exact same way while expecting d
 
 
 
----
 ## On comedy
 
 <!--
@@ -2657,18 +2641,13 @@ Most people approach each and every year in the exact same way while expecting d
 > *"Whenever you hug someone, be the last to let go."  -- Kevin Kelly [1952]*
 > *"Old musicians never die, they just decompose."*
 > *"The four most expensive words in the English language: «This time is different»."  
+> *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
 
 - which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
 -->
 
 > *"Only the truth is funny."  
 -- Rick Reynolds [1951]*
-
-> *"Comedy is the art of telling forbidden truths, without getting beat out."  
--- Naval Ravikant [1974]*
-
-> *"A serious and good philosophical work could be written consisting entirely of jokes."  
--- Ludwig Wittgenstein [1889]*
 
 Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated. The truer the things they say, the funnier they are. 
 
@@ -2691,10 +2670,13 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 «If i was your husband I would drink it.»"  
 -- Winston Churchill [1874]*
 
+> *"A serious and good philosophical work could be written consisting entirely of jokes."  
+-- Ludwig Wittgenstein [1889]*
+
 > *"Humorists always sit at the children’s table."  
 -- Woody Allen [1935]*
 
-> *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
+> *"Comedy is the art of telling forbidden truths, without getting beat out."  
 -- Naval Ravikant [1974]*
 
 > *"The grass is always greener on the side that is fertilized with bullshit."  
@@ -2729,11 +2711,9 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 
 
----
 ## On relationships
 
 <!--
-
 - Choose people that choose you. The end.
 - Loyalty is earned, not owed. If they drain your energy, stunt your growth, or disrespect your boundaries, let them go. You weren’t born to carry dead weight. Protect your peace and move forward.
 - Never force, don’t beg and don’t chase.
@@ -2743,9 +2723,6 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
 -- Kevin Kelly [1952]*
-
-> *"Never allow someone to be your priority while allowing yourself to be their option."  
--- Mark Twain [1835]*
 
 Focus on what you can give. However, after taking first steps, mirror their behavior. Don’t cross oceans for people who wouldn’t even jump puddles for you.
 
@@ -2759,6 +2736,9 @@ Hints:
 
 > *"Faults are thick where love is thin."  
 -- vox populi*
+
+> *"Never allow someone to be your priority while allowing yourself to be their option."  
+-- Mark Twain [1835]*
 
 > *"Never waste your time trying to explain who you are to people who are committed to misunderstanding you."  
 -- Dream Hampton [1971]*
@@ -2782,7 +2762,6 @@ Hints:
 
 
 
----
 ## On family and friends
 
 <!--
@@ -2802,18 +2781,15 @@ Hints:
 - Your successful friends will leave you behind if you don’t level up too.
 -->
 
-> *"Your friends are the ones that go to your funeral in a day of rain."  
--- vox populi*
-
 > *"True friendship can exist only between equals."  
 -- Plato [-427]*
-
-> *"If everybody loves you, something is wrong."  
--- Paulo Coelho [1947]*
 
 Life is meant to be lived in community but don’t settle for a place where you’re tolerated. Go where you’re celebrated.
 
 Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
+
+> *"Your friends are the ones that go to your funeral in a day of rain."  
+-- vox populi*
 
 > *"Everyone sees what you appear to be, few experience what you really are."  
 -- Niccoló Machiavelli [1469]*
@@ -2837,6 +2813,9 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 > *"Routinely greeting six neighbours maximizes wellbeing."  
 -- Fred Rogers [1928]*
 
+> *"If everybody loves you, something is wrong."  
+-- Paulo Coelho [1947]*
+
 > *"At your funeral people will not recall what you did; they will only remember how you made them feel." (...)  
 "Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem." (...)  
 "Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."  
@@ -2856,6 +2835,9 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 -- x@falsi1ke*
 
 ### How to curate your friends?
+
+> *"Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success."  
+-- Oscar Wilde [1854]*
 
 You are the average of your friends.
 
@@ -2881,14 +2863,8 @@ Hints:
 > *"Don’t make a man feel too indebted to you. With many persons it is not necessary to do more than overburden them with favours to lose them altogether: they cannot repay you, and so they retire, preferring rather to be enemies than perpetual debtors."  
 -- Balthasar Gracian [1601]*
 
-> *"I don’t like that man. I must get to know him better."  
--- Abraham Lincoln [1809]*
-
 > *"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you too can become great."  
 -- Mark Twain [1835]*
-
-> *"Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success."  
--- Oscar Wilde [1854]*
 
 > *"When you’re in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, «Damn, that was fun»."  
 -- Groucho Marx [1890]*
@@ -2909,7 +2885,6 @@ Hints:
 
 
 
----
 ## On lovers
 
 <!--
@@ -3145,7 +3120,6 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 
 
 
----
 ## On marriage
 
 <!--
@@ -3222,23 +3196,20 @@ Marry an happy person. Unhappy spouse, unhappy life.
 
 
 
----
 ## On religion
 
 <!--
-> *"Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful."  -- Seneca [-004]*
-> *"Religion is for people who fear hell, spirituality is for people who have been there."  -- David Bowie*
 > *"If Christianity disappears in Europe, the whole world is threatened."  -- Cardinal Robert Sarah*
 -->
-
-> *"Science without religion is lame. Religion without science is blind."  
--- Albert Einstein [1879]*
 
 > *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
 -- Nassim Taleb [1960]*
 
 And on the first day, men created god. Religion simplify ideas.
 Against facts there are no arguments. Against faith there are no facts.
+
+> *"Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful."  
+-- Seneca [-004]*
 
 > *"Death of a child is the gretest reason to doubt the existence of god."  
 -- Fyodor Dostoyevsky [1821]*
@@ -3252,6 +3223,9 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"God has no religion."  
 -- Mahatma Gandhi [1869]*
 
+> *"Science without religion is lame. Religion without science is blind."  
+-- Albert Einstein [1879]*
+
 > *"It may be that our role on this planet is not to worship God but to create him."  
 -- Arthur C. Clarke [1917]*
 
@@ -3260,6 +3234,9 @@ Against facts there are no arguments. Against faith there are no facts.
 
 > *"We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further."  
 -- Richard Dawkins [1941]*
+
+> *"Religion is for people who fear hell, spirituality is for people who have been there."  
+-- David Bowie [1947]*
 
 > *"There is something irremediably sad at an atheist’s funeral." (...)  
 "Those who think religion is about belief don’t understand religion, and don’t understand belief."  
@@ -3286,10 +3263,10 @@ Against facts there are no arguments. Against faith there are no facts.
 ### On morality
 
 <!--
-> *"Virtues are the rules that, if widely adopted by individuals, lead to win-win outcomes for all of society."  -- x@naval*
 > *"When a society loses its moral compass, it collapses from within."  -- G.K. Chesterton [1874]*
 > *"Respect for the truth comes close to being the basis of all morality."  -- Dune*
 + @Rapahelz -- The measure of ethics is transparency.
++ x@naval -- Good people don’t spend time moralizing about how good they are.
 
 - Losers claim moral superiority when they have objective inferiority.
 -->
@@ -3337,7 +3314,8 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"Morality is the way that we would like the world to be, economics is the way that the world actually works."  
 -- Steven Levitt [1967]*
 
-> *"Intentions don’t matter. Actions do. That’s why being ethical is hard."  
+> *"Intentions don’t matter. Actions do. That’s why being ethical is hard." (...)  
+"Virtues are the rules that, if widely adopted by individuals, lead to win-win outcomes for all of society."  
 -- Naval Ravikant [1974]*
 
 
@@ -3345,7 +3323,6 @@ Against facts there are no arguments. Against faith there are no facts.
 
 
 
----
 ## On philosophy
 
 > *"The aim of philosophy is the logical clarification of thought. Philosophy is not a theory but an activity."  
@@ -3371,7 +3348,6 @@ Philosophy improves your intellectual rigor.
 
 
 
----
 ## On science
 
 <!--
@@ -3441,6 +3417,9 @@ Technology is applied science.
 > *"In science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs."  
 -- (sir) William Osler [1849]*
 
+> *"Everything that can be invented has been invented."  
+-- Charles Holland Duell [1850]*
+
 > *"Science advances one funeral at a time."  
 -- Max Planck [1858]*
 
@@ -3450,19 +3429,20 @@ Technology is applied science.
 "Three great forces rule the world: stupidity, fear and greed."  
 -- Albert Einstein [1879]*
 
+> *"Scientists study the world as it is, engineers create the world that never has been."  
+-- Theodore von Karman [1881]*
+
 > *"Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought."  
 -- Albert Szent-Gyorgyi [1893]*
 
 > *"The imagination of nature is far, far greater than the imagination of man."  
 -- Richard Feynman [1918]*
 
-> *"Progress in science comes when experiments contradict theory." (...)  
-"We must be careful not to believe things simply because we want them to be true. No one can fool you as easily as you can fool yourself." (...)  
-"You should, in science, believe logic and arguments, carefully drawn, and not authorities."  
--- x@proffeynman*
-
 > *"The most exciting phrase to hear in science is not «Eureka!» but «That’s funny...»"  
 -- Isaac Asimov [1920]*
+
+> *"The price of success in philosophy is triviality."  
+-- Clark Glymour [1942]*
 
 > *"AI is intelligence acceleration." (...)  
 "Gravity is the speed of time." (...)  
@@ -3470,22 +3450,18 @@ Technology is applied science.
 "The job of a scientist is to listen carefully to nature, not to tell nature how to behave."  
 -- Pedro Domingos [1965]*
 
+> *"What is research but a blind date with knowledge?"  
+-- Will Harvey [1966]*
+
 > *"Aha moment: The moment of understanding when two smaller truths connect and a greater truth is revealed." (...)
 "Science requires skepticism. Religion requires belief." (...)  
 "Scientists who support silencing opposing voices are actually priests."  
 -- Naval Ravikant [1974]*
 
-> *"What is research but a blind date with knowledge?"  
--- Will Harvey [1966]*
-
-> *"The price of success in philosophy is triviality."  
--- Clark Glymour [1942]*
-
-> *"Everything that can be invented has been invented."  
--- Charles Holland Duell [1850]*
-
-> *"Scientists study the world as it is, engineers create the world that never has been."  
--- Theodore von Karman [1881]*
+> *"Progress in science comes when experiments contradict theory." (...)  
+"We must be careful not to believe things simply because we want them to be true. No one can fool you as easily as you can fool yourself." (...)  
+"You should, in science, believe logic and arguments, carefully drawn, and not authorities."  
+-- x@proffeynman*
 
 
 
@@ -3493,7 +3469,6 @@ Technology is applied science.
 
 
 
----
 ## On art
 
 <!--
@@ -3628,7 +3603,6 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 
 
----
 ## On media
 
 <!--
@@ -3675,7 +3649,6 @@ Privacy is power. What people don’t know they can’t ruin.
 
 
 
----
 ## On maths, computers and AI
 
 <!--

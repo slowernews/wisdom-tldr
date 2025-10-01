@@ -344,6 +344,9 @@ Hints:
 > *"How we spend our days is how we spend our lives."  
 -- Annie Dillard [1945]*
 
+> *"The problem is not to find the answer, it’s to face the answer."  
+-- Terence McKenna [1946]*
+
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman [1946]*
 
