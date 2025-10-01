@@ -257,7 +257,7 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  
 -- x@morganhousel*
 
-### Hints
+Hints:
 
 <!--
 > *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
@@ -1430,9 +1430,7 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 
 
-# 3.3 - On ending
-
-## On getting advantage
+### On getting advantage
 
 <!--
 > *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  -- George Orwell [1903]*
@@ -1940,7 +1938,7 @@ If you don’t reconcile you’re postponing war.
 
 
 
-# 3.4 - Time
+# 3.3 - Time
 
 ## On past
 
@@ -2143,6 +2141,8 @@ An ambitious goal sets the bar so high that even a failure can be considered a s
 
 Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
 
+Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
+
 > *"A man without a vision for his future always return to his past."  
 -- vox populi*
 
@@ -2165,14 +2165,23 @@ Our present (in)actions will compound into the future we will experience – tha
 > *"In the business world, the rearview mirror is always clearer than the windshield."  
 -- Warren Buffett [1930]*
 
+> *"The future belongs to those who see possibilities before they become obvious."  
+-- John Sculley [1939]*
+
 > *"Dreams are illustrations from the book your soul is writing about you."  
 -- Marsha Norman [1947]*
 
 > *"Goals are dreams with deadlines."  
 -- Diana Scharf Hunt [1952]*
 
+> *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
+-- Kevin Kelly [1952]*
+
 > *"Rich people think big. Poor people think small."  
 -- T. Harv Eker [1954]*
+
+> *"The probability that your theory is correct decreases exponentially with the number of assumptions you make."  
+-- Pedro Domingos [1965]*
 
 > *"No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened."  
 -- John Hodgman [1971]*
@@ -2188,16 +2197,3 @@ Our present (in)actions will compound into the future we will experience – tha
 
 > *"Your future is constantly shrinking, so the longer you spend preparing for it, the smaller it's going to be."  
 -- x@g_s_bhogal*
-
-### On predictions
-
-> *"The future belongs to those who see possibilities before they become obvious."  
--- John Sculley [1939]*
-
-Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
-
-> *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
--- Kevin Kelly [1952]*
-
-> *"The probability that your theory is correct decreases exponentially with the number of assumptions you make."  
--- Pedro Domingos [1965]*
