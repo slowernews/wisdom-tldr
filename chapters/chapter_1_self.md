@@ -768,6 +768,9 @@ Wisdom is knowing what to do with what you know.
 > *"He who lives without folly is less wise than he believes."  
 -- François de La Rochefoucauld [1613]*
 
+> *"Science is organized knowledge. Wisdom is organized life."  
+-- Immanuel Kant [1724]*
+
 > *"The art of being wise is knowing what to overlook."  
 -- William James [1842]*
 
@@ -1487,6 +1490,9 @@ Fear makes the wolf bigger than he really is.
 
 > *"It’s not the mountain we conquer but ourselves."  
 -- (sir) Edmund Hillary [1919]*
+
+> *"When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it’s really silly to be afraid of a lack of photons. Then I wasn’t afraid of the dark anymore after that."  
+-- Elon Musk [1971]*
 
 ### On courage
 
@@ -2284,7 +2290,8 @@ Hints:
 > *"The things we see every day are the things we never see at all."  
 -- G.K. Chesterton [1874]*
 
-> *"Until you make the uncouncious conscious, it will direct your life and you will call it fate."  
+> *"Until you make the uncouncious conscious, it will direct your life and you will call it fate." (...)  
+"Fanaticism is always a sign of repressed doubt."  
 -- Carl Jung [1875]*
 
 > *"Conscience is the inner voice that warns us somebody may be looking."  

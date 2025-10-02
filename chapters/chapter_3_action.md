@@ -34,6 +34,9 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 > *"To invent, you need a good imagination and a pile of junk."  
 -- Thomas Edison [1847]*
 
+> *"Everything that can be invented has been invented."  
+-- Charles Holland Duell [1850]*
+
 > *"Consistency is the last refuge of the unimaginative."  
 -- Oscar Wilde [1854]*
 
@@ -1884,7 +1887,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 ### On forgiveness
 
 <!--
-- Good kids who do one thing wrong were punished worse than Kids who were always acting up. Infact recently 'good behaviour' from problem kids is rewarded, but nothing for the kids who aren't a problem. Sums up society in a way.
+- Good kids who do one thing wrong were punished worse than Kids who were always acting up. In fact recently 'good behaviour' from problem kids is rewarded, but nothing for the kids who aren't a problem. Sums up society in a way.
 -->
 
 > *"The only way out of the labyrinth of suffering is to forgive."  

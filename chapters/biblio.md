@@ -569,7 +569,6 @@
 - [1929] HOCK, Dee (us)
 - [1929] JODOROWSKI, Alejandro (cl)
 - [1929] KING, Martin Luther (us)
-- [1929] SPENCE, Gerry (us)
 - [1929] TAYLOR, Cecil (us)
 
 - [1930] BOK, Derek (us)

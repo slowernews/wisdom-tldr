@@ -467,6 +467,9 @@ Modern selling: farmers (ambiverts and introverts)
 - Listening (to understand individual needs - being patient and quiet while remaining open to new ideas and perspectives)  
 - Reacting (to adapt to the identified needs - letting the other person set the pace and the agenda)
 
+> *"In science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs."  
+-- (sir) William Osler [1849]*
+
 > *"A man who stops advertising to save money is like a man who stops a clock to save time."  
 -- Henry Ford [1863]*
 
@@ -3073,6 +3076,7 @@ Hints:
 ## On society and politics
 
 <!--
+> *"When a society loses its moral compass, it collapses from within."  -- G.K. Chesterton [1874]*
 + x@kunalb11 -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
 + @naval -- The game theory of autonomous drones is similar to the game theory of nuclear weapons - with MAD, doomsday devices, and first /second strike, but scaled down to individuals. We are entering the age of “if you can see it, you can kill it.” Anonymity is the best defense.
 > *"America is forged by immigrants and descendants of immigrants. Self-selecting for the American Dream. Choosing freedom over safety, opportunity over handouts, prosperity over equality"  -- x@naval*
@@ -3454,6 +3458,9 @@ Hints:
 > *"I never believed that man’s freedom consisted in doing what he wants, but rather in never doing what he does not want to do."  
 -- Jean-Jacques Rousseau [1712]*
 
+> *"The clash of ideas is the sound of freedom."  
+-- Lady Bird Johnson [1912]*
+
 > *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
 -- Salman Rushdie [1947]*
 
@@ -3518,7 +3525,8 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.’  
 -- Bertrand Russell [1872]*
 
-> *"Common sense is the collection of prejudices acquired by age eighteen."  
+> *"Common sense is the collection of prejudices acquired by age eighteen." (...)  
+"Three great forces rule the world: stupidity, fear and greed."  
 -- Albert Einstein [1879]*
 
 > *"If everybody is thinking alike, then somebody isn’t thinking."  
@@ -3902,6 +3910,9 @@ Philosophy improves your intellectual rigor.
 > *"Disneyland is presented as imaginary in order to make us believe that the rest is real."  
 -- Jean Baudrillard [1924]*
 
+> *"The price of success in philosophy is triviality."  
+-- Clark Glymour [1942]*
+
 > *"Philosophy is the memoir of a fully-lived life."  
 -- Naval Ravikant [1974]*
 
@@ -3922,13 +3933,14 @@ Philosophy improves your intellectual rigor.
 > *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
 -- Nassim Taleb [1960]*
 
-And on the first day, men created god. Religion simplify ideas.
-Against facts there are no arguments. Against faith there are no facts.
+And on the first day, men created god.
+
+Against facts there are no arguments. Against faith there are no facts. Religion simplify ideas.
 
 > *"Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful."  
 -- Seneca [-004]*
 
-> *"Death of a child is the gretest reason to doubt the existence of god."  
+> *"Death of a child is the gretest reason to doubt the existence of God."  
 -- Fyodor Dostoyevsky [1821]*
 
 > *"I’d rather be in the mountains thinking of God than in church thinking about the mountains."  
@@ -3946,11 +3958,14 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"It may be that our role on this planet is not to worship God but to create him."  
 -- Arthur C. Clarke [1917]*
 
-> *"I would rather have a mind opened by wonder than one closed by belief."  
--- Gerry Spence [1929]*
+> *"My religion is simple, my religion is kindness."  
+-- (14th dalai lama) Tenzin Gyatso [1935]*
 
 > *"We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further."  
 -- Richard Dawkins [1941]*
+
+> *"People who want to share their religious views with you almost never want you to share yours with them."  
+-- Dave Barry [1947]*
 
 > *"Religion is for people who fear hell, spirituality is for people who have been there."  
 -- David Bowie [1947]*
@@ -3968,30 +3983,12 @@ Against facts there are no arguments. Against faith there are no facts.
 "Two kinds of fools - those who take religion literally, and those who think it has no value."  
 -- Naval Ravikant [1974]*
 
-> *"My religion is simple, my religion is kindness."  
--- (14th dalai lama) Tenzin Gyatso [1935]*
-
-> *"When you renounce something, you’re stuck to it forever."  
--- Anthony de Mello [1931]*
-
-> *"People who want to share their religious views with you almost never want you to share yours with them."  
--- Dave Barry [1947]*
-
 ### On morality
-
-<!--
-> *"When a society loses its moral compass, it collapses from within."  -- G.K. Chesterton [1874]*
-> *"Respect for the truth comes close to being the basis of all morality."  -- Dune*
-+ @Rapahelz -- The measure of ethics is transparency.
-+ x@naval -- Good people don’t spend time moralizing about how good they are.
-
-- Losers claim moral superiority when they have objective inferiority.
--->
 
 > *"The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality."  
 -- Dante Alighieri [1265]*
 
-> *"Hell is empty and all the devis are here."  
+> *"Hell is empty and all the devils are here."  
 -- William Shakespeare [1564]*
 
 > *"Men never do evil so cheerfully and completely as when they do it from religious conviction."  
@@ -4013,14 +4010,14 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"To have the right to do a thing is not at all the same as being right in doing it."  
 -- G.K. Chesterton [1874]*
 
-> *"Fanaticism is always a sign of repressed doubt."  
--- Carl Jung [1875]*
-
 > *"The first thing a man will do for his ideals is lie."  
 -- Joseph Schumpeter [1883]*
 
 > *"There are causes worth dying for, but none worth killing for."  
 -- Albert Camus [1913]*
+
+> *"Respect for the truth comes close to being the basis of all morality."  
+-- Frank Herbert [1920]*
 
 > *"The cash register did more for human morality than the congregational church."  
 -- Charlie Munger [1924]*
@@ -4034,6 +4031,9 @@ Against facts there are no arguments. Against faith there are no facts.
 > *"Intentions don’t matter. Actions do. That’s why being ethical is hard." (...)  
 "Virtues are the rules that, if widely adopted by individuals, lead to win-win outcomes for all of society."  
 -- Naval Ravikant [1974]*
+
+> *"The measure of ethics is transparency."  
+-- x@rapahelz*
 
 
 
@@ -4093,9 +4093,7 @@ Against facts there are no arguments. Against faith there are no facts.
 "The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms."  
 -- Albert Einstein [1879]*
 
-Science is the study of truth. Science is about disproving, not proving. Everything that is not a law of nature is just a shared belief.
-
-Technology is applied science.
+Science is the study of truth. Science is about disproving, not proving. Everything that is not a law of nature is just a shared belief. Technology is applied science.
 
 > *"Nature, to be commanded, must be obeyed."  
 -- Francis Bacon [1561]*
@@ -4103,22 +4101,12 @@ Technology is applied science.
 > *"The laws of nature are written by the hand of God in the language of mathematics."  
 -- Galileo Galilei [1564]*
 
-> *"Science is organized knowledge. Wisdom is organized life."  
--- Immanuel Kant [1724]*
-
-> *"In science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs."  
--- (sir) William Osler [1849]*
-
-> *"Everything that can be invented has been invented."  
--- Charles Holland Duell [1850]*
-
 > *"Science advances one funeral at a time."  
 -- Max Planck [1858]*
 
 > *"Technological progress is like an ax in the hands of a pathological criminal." (...)  
 "Science is a wonderful thing if one does not have to earn one’s living at it." (...)  
-"If we knew what it was we were doing, it would not be called research, would it?" (...)  
-"Three great forces rule the world: stupidity, fear and greed."  
+"If we knew what it was we were doing, it would not be called research, would it?"  
 -- Albert Einstein [1879]*
 
 > *"Scientists study the world as it is, engineers create the world that never has been."  
@@ -4128,17 +4116,15 @@ Technology is applied science.
 -- Albert Szent-Gyorgyi [1893]*
 
 > *"The imagination of nature is far, far greater than the imagination of man."  
+"Progress in science comes when experiments contradict theory." (...)  
+"We must be careful not to believe things simply because we want them to be true. No one can fool you as easily as you can fool yourself." (...)  
+"You should, in science, believe logic and arguments, carefully drawn, and not authorities."  
 -- Richard Feynman [1918]*
 
 > *"The most exciting phrase to hear in science is not «Eureka!» but «That’s funny...»"  
 -- Isaac Asimov [1920]*
 
-> *"The price of success in philosophy is triviality."  
--- Clark Glymour [1942]*
-
-> *"AI is intelligence acceleration." (...)  
-"Gravity is the speed of time." (...)  
-"Sleeping on a plane is the closest there is to teleportation." (...)  
+> *"Gravity is the speed of time." (...)  
 "The job of a scientist is to listen carefully to nature, not to tell nature how to behave."  
 -- Pedro Domingos [1965]*
 
@@ -4150,11 +4136,6 @@ Technology is applied science.
 "Scientists who support silencing opposing voices are actually priests."  
 -- Naval Ravikant [1974]*
 
-> *"Progress in science comes when experiments contradict theory." (...)  
-"We must be careful not to believe things simply because we want them to be true. No one can fool you as easily as you can fool yourself." (...)  
-"You should, in science, believe logic and arguments, carefully drawn, and not authorities."  
--- x@proffeynman*
-
 
 
 
@@ -4163,18 +4144,12 @@ Technology is applied science.
 ## On maths and computers
 
 <!--
-- 20 years ago, the Internet was an escape from the real world. Today, the real world is an escape from the Internet.
-- 90% of webapps are database frontends.
-- a fundamental rule of technology: There is no third ecosystem
-- Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
-- being relevant in the age of LLMs is really hard. what’s left for humans? the physical world and providing news to the LLM.
-- blockchains are not personal-computing operational systems; they are social systems.
-- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer.
+- 90% of webapps are database frontends. - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
-- llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
-- physics is the only law, everything else is a recommendation
-- There is no cloud. It’s just someone else’s computer.
 - Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
+- There is no cloud. It’s just someone else’s computer. / a fundamental rule of technology: There is no third ecosystem
+- blockchains are not personal-computing operational systems; they are social systems.
+- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer. llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 
 alan perlis - 1. One man’s constant is another man’s variable.
 alan perlis - 21. Optimization hinders evolution.
@@ -4212,15 +4187,19 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *"Real mathematicians understand completeness, real philosophers understand incompleteness, the rest don’t formally understand anything."  
 -- Nassim Taleb [1960]*
 
-> *"One of the biggest mistakes we made was trying to automate things that are super easy for a person to do, but super hard for a computer to do." (...)  
-"We’re already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow." (...)  
-"When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it’s really silly to be afraid of a lack of photons. Then I wasn’t afraid of the dark anymore after that."  
--- Elon Musk [1971]*
-
 ### On AI
 
 > *"With large language models we have externalized and formalized our unconscious — even our collective unconscious."  
 -- Jordan Peterson [1962]*
+
+Being relevant in the age of LLMs is really hard. What’s left for humans? The physical world and providing news to the LLM.
+
+> *"AI is intelligence acceleration." (...)  
+"Sleeping on a plane is the closest there is to teleportation."  
+-- Pedro Domingos [1965]*
+
+> *"We’re already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow."  
+-- Elon Musk [1971]*
 
 > *"AI won’t replace programmers, but rather make it easier for programmers to replace everyone else." (...)  
 "Automation means not having to do anything twice. Automation with the Internet means not having to do anything that anyone else has already done. All that remains are creativity and judgement."  
@@ -4228,6 +4207,10 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 > *"Humans raise the ceiling, AI raises the floor"  
 -- Sahil Lavingia [1989]*
+
+> *"Twenty years ago, the Internet was an escape from the real world. Today, the real world is an escape from the Internet.
+"  
+-- x@noahpinion*
 
 > *"Humans are an API to ChatGPT. ChatGPT is an API to Python. Python is an API to C. C is an API to assembly. Assembly is an API to binary. Binary is an API to physics. Physics is an API to the machine that runs the universe. It’s computation all the way down."  
 -- x@lexfridman*
@@ -4285,9 +4268,6 @@ Artistic death is made by consensus.
 > *"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings."  
 -- Robert Benchley [1889]*
 
-> *"Poets are damned but see with the eyes of angels."  
--- Allen Ginsberg [1926]*
-
 > *"Art is the absence of fear."  
 -- Erykah Badu [1971]*
 
@@ -4322,8 +4302,8 @@ Artistic death is made by consensus.
 > *"A true artist will let his wife starve, his children go barefoot, his mother drudge for his living at seventy, sooner than work at anything but his art."  
 -- George Bernard Shaw [1856]*
 
-> *"Anybody with artistic ambitions is always trying to reconnect with the way they saw things as child."  
--- Tim Burton [1958]*
+> *"Poets are damned but see with the eyes of angels."  
+-- Allen Ginsberg [1926]*
 
 > *"The role of the artist is to ask questions, not to answer them."  
 -- Anton Chekhov [1860]*
@@ -4342,6 +4322,9 @@ Artistic death is made by consensus.
 
 > *"To be an artist, you have to give up everything, including the desire to be a good artist."  
 -- Jasper Johns [1930]*
+
+> *"Anybody with artistic ambitions is always trying to reconnect with the way they saw things as child."  
+-- Tim Burton [1958]*
 
 ### On aesthetics
 
@@ -4374,10 +4357,10 @@ The more «art» you allow in, the less commercial success you’ll have. People
 > *"Good taste is easy. What’s challenging is to be close to vulgarity."  
 -- Adam Caruso [1962]*
 
-## On design
+### On design
 
-> *"Good design: is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
--- Dieter Rams {Ten principles for good design} [1932]*
+> *"Ten principles for good design: good design is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
+-- Dieter Rams [1932]*
 
 
 
@@ -4390,6 +4373,7 @@ The more «art» you allow in, the less commercial success you’ll have. People
 > *"Good rule of thumb: those who frequently use the word «disinformation» are the ones most likely to be pushing it."  -- x@elonmusk*
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
 > *"Freedom of the press is for those who happen to own one.*
+"If you’re writing for your followers, your followers are worthless."  -- naval
 
 - engagement media
 - Instagram: where average people pretend to be millionaires. Twitter: where millionaires pretend to be average people.
@@ -4400,18 +4384,13 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
 
-> *"The clash of ideas is the sound of freedom."  
--- Lady Bird Johnson [1912]*
-
 > *"Your job is to get your audience to care about your obsessions."  
 -- Martin Scorsese [1942]*
 
 > *"The goal of media is to make every problem, your problem." (...)  
 "Journalists aren’t neutral, they’re the cavalry of culture wars." (...)  
 "All new information starts as misinformation." (...)  
-"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation." (...)  
-"Elon’s purchase of Twitter was the single most consequential act of the last decade. It restored free speech, broke the Overton window, and enabled the second American revolution." (...)
-"If you’re writing for your followers, your followers are worthless."  
+"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
 -- Naval Ravikant [1974]*
 
 > *"The hallmark of modern society is the theft of attention. Modern society is overcrowded with thieves of attention." (...)  

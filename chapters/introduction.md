@@ -145,6 +145,7 @@ Hints:
 
 <!--
 > *"You are what you eat and read."  -- Maya Corrigan*
+> *"When you renounce something, you’re stuck to it forever."  -- Anthony de Mello [1931]*
 -->
 
 > *"You are the combination of your habits and the people who you spend the most time with."  
