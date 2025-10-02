@@ -21,10 +21,12 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter I - Self
+## Chapter I - SELF
 
 *On foundations*
 - [On autonomy](/chapters/chapter_1_self.md#on-autonomy)
+	- [On accountability](/chapters/chapter_1_self.md#on-accountability)
+	- [On trust and reputation](/chapters/chapter_1_self.md#on-trust-and-reputation)
 - [On honesty](/chapters/chapter_1_self.md#on-honesty)
 - [On humility](/chapters/chapter_1_self.md#on-humility)
 - [On drive](/chapters/chapter_1_self.md#on-drive)
@@ -38,16 +40,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On writing](/chapters/chapter_1_self.md#on-writing)
 - [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
 
-*On envy triggers*
-- [On talent](/chapters/chapter_2_groups.md#on-talent)
-- [On wealth](/chapters/chapter_2_groups.md#on-wealth)
-- [On popularity](/chapters/chapter_2_groups.md#on-popularity)
-- [On luck and risk](/chapters/chapter_2_groups.md#on-luck-and-risk)
-- [On beauty and style](/chapters/chapter_2_groups.md#on-beauty-and-style)
-- [On health](/chapters/chapter_2_groups.md#on-health)
-- [On lifestyle](/chapters/chapter_2_groups.md#on-lifestyle)
-- [On success](/chapters/chapter_2_groups.md#on-success)
-
 *On your worst enemy: yourself*
 - [On stress](/chapters/chapter_1_self.md#on-stress-and-health)
 - [On fear](/chapters/chapter_1_self.md#on-fear-and-excuses)
@@ -56,7 +48,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On jealousy and envy](/chapters/chapter_1_self.md#on-jealousy-and-envy)
 - [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
 - [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
-- [On limits and motivation](/chapters/chapter_1_self.md#on-limits-and-motivation)
+- [On limits](/chapters/chapter_1_self.md#on-limits)
 - [On growing old](/chapters/chapter_3_action.md#on-growing-old)
 
 
@@ -64,7 +56,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter II - Groups
+## Chapter II - RELATIONS
 
 *On cooperation*
 - [On communication](/chapters/chapter_2_groups.md#on-communication)
@@ -76,35 +68,43 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
 - [On mentorship](/chapters/chapter_2_groups.md#on-mentorship)
 - [On career](/chapters/chapter_2_groups.md#on-career)
-- [On hiring and being hired](/chapters/chapter_2_groups.md#on-hiring-and-being-hired)
+- [On relationships](/chapters/chapter_2_groups.md#on-relationships)
+- [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
+- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
+- [On marriage](/c2_groups.md#on-marriage)
 
 *On competition*
 - [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
 - [On opponents and allies](/chapters/chapter_2_groups.md#on-opponents-and-allies)
+- [On envy triggers]()
+	- [On talent](/chapters/chapter_2_groups.md#on-talent)
+	- [On wealth](/chapters/chapter_2_groups.md#on-wealth)
+	- [On popularity](/chapters/chapter_2_groups.md#on-popularity)
+	- [On luck and risk](/chapters/chapter_2_groups.md#on-luck-and-risk)
+	- [On beauty and style](/chapters/chapter_2_groups.md#on-beauty-and-style)
+	- [On health](/chapters/chapter_2_groups.md#on-health)
+	- [On lifestyle](/chapters/chapter_2_groups.md#on-lifestyle)
+	- [On success](/chapters/chapter_2_groups.md#on-success)
 - [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
 
 *On society*
 - [On politics](/chapters/chapter_2_groups.md#on-society-and-politics)
 - [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
 - [On humanness and irrationality](/chapters/chapter_2_groups.md#on-humanness-and-irrationality)
-- [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
-- [On relationships](/chapters/chapter_2_groups.md#on-relationships)
-- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
-- [On marriage](/c2_groups.md#on-marriage)
 - [On comedy](/chapters/chapter_2_groups.md#on-comedy)
-- [On religion](/chapters/chapter_2_groups.md#on-religion)
 - [On philosophy](/chapters/chapter_2_groups.md#on-philosophy)
+- [On religion](/chapters/chapter_2_groups.md#on-religion)
 - [On science](/chapters/chapter_2_groups.md#on-science)
+- [On maths and computers](/chapters/chapter_2_groups.md#on-maths-and-computers)
 - [On art](/chapters/chapter_2_groups.md#on-art)
 - [On media](/chapters/chapter_2_groups.md#on-media)
-- [On maths, computers and AI](/chapters/chapter_2_groups.md#on-maths-computers-and-ai)
 
 
 
 
 
 
-## Chapter III - Action
+## Chapter III - ACTION
 
 *On preparation*
 - [On creativity](/chapters/chapter_3_action.md#on-creativity)
@@ -119,13 +119,10 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On control](/chapters/chapter_3_action.md#on-control)
 - [On balance](/chapters/chapter_3_action.md#on-balance)
 - [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
-
-*On ending*
 - [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
 - [On finishing](/cfsuchapters/chapter_3_action.md#on-finishing)
 - [On winning](/chapters/chapter_3_action.md#on-winning)
 - [On quiting and surrendering](/chapters/chapter_3_action.md#on-quiting-and-surrendering)
-- [On forgiveness](/chapters/chapter_3_action.md#on-forgiveness-and-revenge)
 
 *On time*
 - [On past and memory](/chapters/chapter_3_action.md#on-past-and-memory)
