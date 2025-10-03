@@ -614,7 +614,7 @@ Hints:
 -- vox populi*
 
 > *"He that gives should never remember and he that receives should never forget."  
--- Talmud*
+-- Talmud [Book]*
 
 > *"Givers have to set limits because takers rarely do."  
 -- Henry Ford [1863]*
@@ -1104,7 +1104,7 @@ Hints:
 -- vox populi*
 
 > *"When you teach your son, you teach your son’s son."  
--- Talmud*
+-- Talmud [Book]*
 
 > *"The father who does not teach his son his duties is equally guilty with the son who neglects them."  
 -- Confucius [-551]*
@@ -1218,11 +1218,8 @@ However some people are not ready to accept your vision. And «givers» attract 
 ## On career
 
 <!--
-> *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  -- x@realestatetrent*
 > *"Don’t be irreplaceable, if you can’t be replaced, you can’t be promoted.*
 > *"How did people come to believe that if everyone went to college we could all just get jobs sending each other emails and someone else (who?) would maintain all physical elements of modern society? It sounds so dumb when you say it explicitly."  -- x@empty_america*
-> *"My dad sat me down once and said: “There are only two jobs in the world: building or selling. If you’re not doing one of those, you’re just an expense.” still think about this."  -- x@rmcentush*
-> *"Work for companies you would invest in and invest in companies you would work for."  -- x@morganhousel*
 - "estava a perder o controlo da minha carreira"  -- vertonghen
 
 - "Don’t try to be original. Be simple. Be good technically, and if there is something in you, it will come out."
@@ -1286,6 +1283,12 @@ Nobody can compete with you on being you. Most of your life is a search for who 
 
 > *"Every job will be automated until four remain: engineer, entrepreneur, investor, artist."  
 -- Sahil Lavingia [1989]*
+
+> *"My dad sat me down once and said: “There are only two jobs in the world: building or selling. If you’re not doing one of those, you’re just an expense.” still think about this."  
+-- x@rmcentush*
+
+> *"Work for companies you would invest in and invest in companies you would work for."  
+-- x@morganhousel*
 
 ### How to advance career?
 
@@ -1383,6 +1386,9 @@ Hints:
 - To be employed, if you pick the right specialization, you’ll do better as a specialist.
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 
+> *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  
+-- x@realestatetrent*
+
 ### How to know your strenghts?
 
 Ask employers why did they asked you for an interview - they will describe your strengths.
@@ -1468,7 +1474,7 @@ Hints:
 -- Sahil Lavingia [1989]*
 
 > *"We value “T-shaped” people. That is, people who are both genera lists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  
--- Valve employee book*
+-- Valve employee [Book]*
 
 > *"Bad professionals make money off their customers, good professionals make money for their customers."  
 -- hn@jacquesm*
@@ -3902,7 +3908,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 
 Philosophy improves your intellectual rigor.
 
-"Intellectuals" as a class are over. The smartest men alive are posting cartoon frogs.
+«Intellectuals» as a class are over. The smartest men alive are posting cartoon frogs.
 
 > *"Some ideias are so stupid that only intellectuals believe them."  
 -- George Orwell [1903]*

@@ -13,95 +13,95 @@
 
 - [HN.COM]
 
- / bane
- / bergerjac
- / danielvf
- / dilemma
- / exelius
- / goatinaboat
- / jacquesm
- / nostrademons
- / pystack
- / yellow_and_gray
+  @bane
+  @bergerjac
+  @danielvf
+  @dilemma
+  @exelius
+  @goatinaboat
+  @jacquesm
+  @nostrademons
+  @pystack
+  @yellow_and_gray
 
 - [X.COM]
 
- / alexhormozi
- / alpharivelino
- / anuatluru
- / authorcscalise
- / behaviorgap
- / brianferoldi
- / chelsealazkani
- / clayroutledge
- / codie_sanchez
- / cpaik
- / cullenroche
- / cxgonzalez
- / david_perell
- / empty_america
- / falsi1ke
- / farawaylaughtr
- / farnamstreet
- / farshadsarrafi
- / g_s_bhogal
- / giamacool
- / glenn_foster
- / heycharafeddine
- / iamaaronwill
- / incentivising
- / iterintellectus
- / jlippincott_
- / jonmorrow
- / jordanharbinger
- / jsparkblog
- / jxnlco
- / k__quotes
- / karenlambauthor
- / karlremarks
- / karunpal
- / khoucasian
- / konstantinkisin
- / kunalb11
- / layahheilpern
- / leilahormozi
- / lexfridman
- / liv_boeree
- / lovebombsaway
- / m2jr
- / maximecperoumal
- / micsolana
- / molson_hart
- / morganhousel
- / mozarrinsadaf
- / nikitabier
- / nikhuno
- / nivi
- / orangebook_
- / pallnandi
- / pat_stedman
- / pearlythingz
- / proffeynman
- / purposologist
- / rapahelz
- / realestatetrent
- / realjamespierce
- / rmcentush
- / ryanstewman
- / samoburja
- / sgrstk
- / signulll
- / skylarromines
- / stirlingwisdom
- / tevsmith
- / thejustinwelsh
- / thesiliconstoic
- / til_danmunro
- / tk_coleman
- / torbair
- / wuwei113
- / zacharylaid
- / zubymusic
+  @alexhormozi
+  @alpharivelino
+  @anuatluru
+  @authorcscalise
+  @behaviorgap
+  @brianferoldi
+  @chelsealazkani
+  @clayroutledge
+  @codie_sanchez
+  @cpaik
+  @cullenroche
+  @cxgonzalez
+  @david_perell
+  @empty_america
+  @falsi1ke
+  @farawaylaughtr
+  @farnamstreet
+  @farshadsarrafi
+  @g_s_bhogal
+  @giamacool
+  @glenn_foster
+  @heycharafeddine
+  @iamaaronwill
+  @incentivising
+  @iterintellectus
+  @jlippincott_
+  @jonmorrow
+  @jordanharbinger
+  @jsparkblog
+  @jxnlco
+  @k__quotes
+  @karenlambauthor
+  @karlremarks
+  @karunpal
+  @khoucasian
+  @konstantinkisin
+  @kunalb11
+  @layahheilpern
+  @leilahormozi
+  @lexfridman
+  @liv_boeree
+  @lovebombsaway
+  @m2jr
+  @maximecperoumal
+  @micsolana
+  @molson_hart
+  @morganhousel
+  @mozarrinsadaf
+  @nikitabier
+  @nikhuno
+  @nivi
+  @orangebook_
+  @pallnandi
+  @pat_stedman
+  @pearlythingz
+  @proffeynman
+  @purposologist
+  @rapahelz
+  @realestatetrent
+  @realjamespierce
+  @rmcentush
+  @ryanstewman
+  @samoburja
+  @sgrstk
+  @signulll
+  @skylarromines
+  @stirlingwisdom
+  @tevsmith
+  @thejustinwelsh
+  @thesiliconstoic
+  @til_danmunro
+  @tk_coleman
+  @torbair
+  @wuwei113
+  @zacharylaid
+  @zubymusic
 
 - [-970] SOLOMON, King (il)
 - [-680] ARCHILOCHUS (gr)

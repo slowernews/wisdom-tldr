@@ -137,18 +137,15 @@ Principles on difficult subjects / Concise answers to difficult questions
 ## TLDR
 
 > *"Fuck, don’t give a fuck and don’t be fucked over."  
--- Unknown*
+-- Vox populi*
 
-Nine general advices:
+Eight general advices:
 
 > *"Life is a balancing act."  
--- Unknown*
+-- Vox populi*
 
 > *"The root of our problems is our inability to let go."  
 -- Leo Babauta*
-
-> *"Avoiding relevant conflict will not keep peace, will rot it."  
--- E. Ferreira*
 
 > *"All self-help boils down to «choose long-term over short-term»."  
 -- Naval Ravikant*
@@ -157,19 +154,20 @@ Nine general advices:
 -- Derek Sivers*
 
 > *"The empire long divided, must unite; long united, must divide."  
--- Proverb*
+-- Vox populi*
 
 > *"A prophet has no honour in his own country."  
--- Bible (John 4: 44)*
+-- Bible {John 4: 44} [Book]*
 
 > *"After me will come the one who will prove that I wasn’t that bad."  
--- Proverb*
+-- Vox populi*
 
 > *"Those who commit to nothing are distracted by everything."  
--- Bhagavad Gita*
+-- Bhagavad Gita [Book]*
 
 Two practical advices:  
 
+- Avoiding relevant conflict will not keep peace, will rot it.
 - Have more than one child.  
 - Moving in a direction opposite to what we are doing right now where we are not successful often guarantee success.
 
