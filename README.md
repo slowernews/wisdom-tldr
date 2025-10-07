@@ -25,7 +25,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *1.1 - On foundations*
 - [On autonomy](/chapters/1-1_self_foundations.md#on-autonomy)
-	- [On accountability](/chapters/1_self_foundations.md.md#on-accountability)
+	- [On accountability](/chapters/1-1_self_foundations.md.md#on-accountability)
 	- [On trust and reputation](/chapters/1-1_self_foundations.md#on-trust-and-reputation)
 - [On honesty](/chapters/1-1_self_foundations.md#on-honesty)
 - [On humility](/chapters/1-1_self_foundations.md#on-humility)
@@ -41,14 +41,14 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On habits and systems](/chapters/1-2_self_growth.md#on-habits-and-systems)
 
 *1.3 - On your worst enemy: yourself*
-- [On stress](/chapters/1-3_self_inner-enemy.md#on-stress-and-health)
-- [On fear](/chapters/1-3_self_inner-enemy.md#on-fear-and-excuses)
-- [On failure](/chapters/1-3_self_inner-enemy.md#on-failure-mistakes-and-anger)
-- [On shame](/chapters/1-3_self_inner-enemy.md#on-shame-confidence-and-validation)
-- [On jealousy and envy](/chapters/1-3_self_inner-enemy.md#on-jealousy-and-envy)
-- [On pessimism](/chapters/1-3_self_inner-enemy.md#on-pessimism)
-- [On perfectionism](/chapters/1-3_self_inner-enemy.md#on-perfectionism)
-- [On limits](/chapters/1-3_self_inner-enemy.md#on-limits)
+- [On stress](/chapters/1-3_self_inner_enemy.md#on-stress-and-health)
+- [On fear](/chapters/1-3_self_inner_enemy.md#on-fear-and-excuses)
+- [On failure](/chapters/1-3_self_inner_enemy.md#on-failure-mistakes-and-anger)
+- [On shame](/chapters/1-3_self_inner_enemy.md#on-shame-confidence-and-validation)
+- [On jealousy and envy](/chapters/1-3_self_inner_enemy.md#on-jealousy-and-envy)
+- [On pessimism](/chapters/1-3_self_inner_enemy.md#on-pessimism)
+- [On perfectionism](/chapters/1-3_self_inner_enemy.md#on-perfectionism)
+- [On limits](/chapters/1-3_self_inner_enemy.md#on-limits)
 - [On growing old](/chapters/ch1-3_self_inner-enemy.md#on-growing-old)
 
 
@@ -56,48 +56,48 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter II - RELATIONS
+## Chapter II - relation
 
 *2.1 - On cooperation*
-- [On communication](/chapters/2-1_relations_cooperation.md#on-communication)
-- [On networking](/chapters/2-1_relations_cooperation.md#on-networking)
-- [On business and entrepreneurship](/chapters/2-1_relations_cooperation.md#on-business-and-entrepreneurship)
-- [On selling, negotiation and price](/chapters/2-1_relations_cooperation.md#on-selling-negotiation-and-price)
-- [On generosity and incentives](/chapters/2-1_relations_cooperation.md#on-generosity-and-incentives)
-- [On leadership](/chapters/2-1_relations_cooperation.md#on-leadership)
-- [On management and delegation](/chapters/2-1_relations_cooperation.md#on-management-and-delegation)
-- [On mentorship](/chapters/2-1_relations_cooperation.md#on-mentorship)
-- [On career](/chapters2-1_relations_cooperations.md#on-career)
-- [On relationships](/chapters/2-1_relations_cooperation.md#on-relationships)
-- [On family and friends](/chapters/2-1_relations_cooperation.md#on-family-and-friends)
-- [On lovers](/chapters/2-1_relations_cooperation.md#on-lovers)
-- [On marriage](/chapters/2-1_relations_cooperation.md#on-marriage)
+- [On communication](/chapters/2-1_relation_cooperation.md#on-communication)
+- [On networking](/chapters/2-1_relation_cooperation.md#on-networking)
+- [On business and entrepreneurship](/chapters/2-1_relation_cooperation.md#on-business-and-entrepreneurship)
+- [On selling, negotiation and price](/chapters/2-1_relation_cooperation.md#on-selling-negotiation-and-price)
+- [On generosity and incentives](/chapters/2-1_relation_cooperation.md#on-generosity-and-incentives)
+- [On leadership](/chapters/2-1_relation_cooperation.md#on-leadership)
+- [On management and delegation](/chapters/2-1_relation_cooperation.md#on-management-and-delegation)
+- [On mentorship](/chapters/2-1_relation_cooperation.md#on-mentorship)
+- [On career](/chapters2-1_relation_cooperations.md#on-career)
+- [On relationhips](/chapters/2-1_relation_cooperation.md#on-relationhips)
+- [On family and friends](/chapters/2-1_relation_cooperation.md#on-family-and-friends)
+- [On lovers](/chapters/2-1_relation_cooperation.md#on-lovers)
+- [On marriage](/chapters/2-1_relation_cooperation.md#on-marriage)
 
 *2.2 - On competition*
-- [On hierarchy](/chapters/2-2_relations_competition.md#on-hierarchy)
-- [On opponents and allies](/chapters/2-2_relations_competition.md#on-opponents-and-allies)
+- [On hierarchy](/chapters/2-2_relation_competition.md#on-hierarchy)
+- [On opponents and allies](/chapters/2-2_relation_competition.md#on-opponents-and-allies)
 - [On envy triggers]()
-	- [On talent](/chapters/2-2_relations_competition.md#on-talent)
-	- [On wealth](/chapters/2-2_relations_competition.md#on-wealth)
-	- [On popularity](/chapters/2-2_relations_competition.md#on-popularity)
-	- [On luck and risk](/chapters/2-2_relations_competition.md#on-luck-and-risk)
-	- [On beauty and style](/chapters/2-2_relations_competition.md#on-beauty-and-style)
-	- [On health](/chapters/2-2_relations_competition.md#on-health)
-	- [On lifestyle](/chapters/2-2_relations_competition.md#on-lifestyle)
-	- [On success](/chapters/2-2_relations_competition.md#on-success)
-- [On conflicts](/chapters/2-2_relations_competition.md#on-conflicts)
+	- [On talent](/chapters/2-2_relation_competition.md#on-talent)
+	- [On wealth](/chapters/2-2_relation_competition.md#on-wealth)
+	- [On popularity](/chapters/2-2_relation_competition.md#on-popularity)
+	- [On luck and risk](/chapters/2-2_relation_competition.md#on-luck-and-risk)
+	- [On beauty and style](/chapters/2-2_relation_competition.md#on-beauty-and-style)
+	- [On health](/chapters/2-2_relation_competition.md#on-health)
+	- [On lifestyle](/chapters/2-2_relation_competition.md#on-lifestyle)
+	- [On success](/chapters/2-2_relation_competition.md#on-success)
+- [On conflicts](/chapters/2-2_relation_competition.md#on-conflicts)
 
 *2.3 - On society*
-- [On politics](/chapters/2-3_relations_society.md#on-society-and-politics)
-- [On following the herd](/chapters/2-3_relations_society.md#on-following-the-herd)
-- [On humanness and irrationality](/chapters/2-3_relations_society.md#on-humanness-and-irrationality)
-- [On comedy](/chapters/2-3_relations_society.md#on-comedy)
-- [On philosophy](/chapters/2-3_relations_society.md#on-philosophy)
-- [On religion](/chapters/2-3_relations_society.md#on-religion)
-- [On science](/chapters/2-3_relations_society.md#on-science)
-- [On maths and computers](/chapters/2-3_relations_society.md#on-maths-and-computers)
-- [On art](/chapters/2-3_relations_society.md#on-art)
-- [On media](/chapters/2-3_relations_society.md#on-media)
+- [On politics](/chapters/2-3_relation_society.md#on-society-and-politics)
+- [On following the herd](/chapters/2-3_relation_society.md#on-following-the-herd)
+- [On humanness and irrationality](/chapters/2-3_relation_society.md#on-humanness-and-irrationality)
+- [On comedy](/chapters/2-3_relation_society.md#on-comedy)
+- [On philosophy](/chapters/2-3_relation_society.md#on-philosophy)
+- [On religion](/chapters/2-3_relation_society.md#on-religion)
+- [On science](/chapters/2-3_relation_society.md#on-science)
+- [On maths and computers](/chapters/2-3_relation_society.md#on-maths-and-computers)
+- [On art](/chapters/2-3_relation_society.md#on-art)
+- [On media](/chapters/2-3_relation_society.md#on-media)
 
 
 
@@ -112,7 +112,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On planning and strategy](/chapters/3-1_action_preparation.md#on-planning-and-strategy)
 - [On decision making](/chapters/3-1_action_preparation.md#on-decision-making)
 
-*3.2 - On executing*
+*3.2 - On execution*
 - [On starting and timing](/chapters/3-2_action_execution.md#on-starting-and-timing)
 - [On speed and direction](/chapters/3-2_action_execution.md#on-speed-and-direction)
 - [On focus and priorities](/chapters/3-2_action_execution.md#on-focus-and-priorities)
