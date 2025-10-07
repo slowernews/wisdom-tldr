@@ -10,11 +10,11 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## Introduction
 
-- [On the purpose of life](/chapters/introduction.md#on-happiness)
-	- [On happiness](/chapters/introduction.md#on-happiness)
-	- [How to find happiness?](/chapters/introduction.md#how-to-find-happiness)
-- [Who are you now?](/chapters/introduction.md#who-are-you)
-- [On finding your path](/chapters/introduction.md#on-finding-your-path)
+- [On the purpose of life](/chapters/0_introduction.md#on-happiness)
+	- [On happiness](/chapters/0_introduction.md#on-happiness)
+	- [How to find happiness?](/chapters/0_introduction.md#how-to-find-happiness)
+- [Who are you now?](/chapters/0_introduction.md#who-are-you)
+- [On finding your path](/chapters/0_introduction.md#on-finding-your-path)
 
 
 
@@ -23,33 +23,33 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## Chapter I - SELF
 
-*On foundations*
-- [On autonomy](/chapters/chapter_1_self.md#on-autonomy)
-	- [On accountability](/chapters/chapter_1_self.md#on-accountability)
-	- [On trust and reputation](/chapters/chapter_1_self.md#on-trust-and-reputation)
-- [On honesty](/chapters/chapter_1_self.md#on-honesty)
-- [On humility](/chapters/chapter_1_self.md#on-humility)
-- [On drive](/chapters/chapter_1_self.md#on-drive)
+*1.1 - On foundations*
+- [On autonomy](/chapters/1-1_self_foundations.md#on-autonomy)
+	- [On accountability](/chapters/1_self_foundations.md.md#on-accountability)
+	- [On trust and reputation](/chapters/1-1_self_foundations.md#on-trust-and-reputation)
+- [On honesty](/chapters/1-1_self_foundations.md#on-honesty)
+- [On humility](/chapters/1-1_self_foundations.md#on-humility)
+- [On drive](/chapters/1-1_self_foundations.md#on-drive)
 
-*On growth*
-- [On comfort and risk](/chapters/chapter_1_self.md#on-comfort-and-risk)
-- [On improving](/chapters/chapter_1_self.md#on-improving)
-- [On wisdom](/chapters/chapter_1_self.md#on-wisdom)
-- [On education](/chapters/chapter_1_self.md#on-education)
-- [On reading](/chapters/chapter_1_self.md#on-reading)
-- [On writing](/chapters/chapter_1_self.md#on-writing)
-- [On habits and systems](/chapters/chapter_1_self.md#on-habits-and-systems)
+*1.2 - On growth*
+- [On comfort and risk](/chapters/1-2_self_growth.md#on-comfort-and-risk)
+- [On improving](/chapters/1-2_self_growth.md#on-improving)
+- [On wisdom](/chapters/1-2_self_growth.md#on-wisdom)
+- [On education](/chapters/1-2_self_growth.md#on-education)
+- [On reading](/chapters/1-2_self_growth.md#on-reading)
+- [On writing](/chapters/1-2_self_growth.md#on-writing)
+- [On habits and systems](/chapters/1-2_self_growth.md#on-habits-and-systems)
 
-*On your worst enemy: yourself*
-- [On stress](/chapters/chapter_1_self.md#on-stress-and-health)
-- [On fear](/chapters/chapter_1_self.md#on-fear-and-excuses)
-- [On failure](/chapters/chapter_1_self.md#on-failure-mistakes-and-anger)
-- [On shame](/chapters/chapter_1_self.md#on-shame-confidence-and-validation)
-- [On jealousy and envy](/chapters/chapter_1_self.md#on-jealousy-and-envy)
-- [On pessimism](/chapters/chapter_1_self.md#on-pessimism)
-- [On perfectionism](/chapters/chapter_1_self.md#on-perfectionism)
-- [On limits](/chapters/chapter_1_self.md#on-limits)
-- [On growing old](/chapters/chapter_3_action.md#on-growing-old)
+*1.3 - On your worst enemy: yourself*
+- [On stress](/chapters/1-3_self_inner-enemy.md#on-stress-and-health)
+- [On fear](/chapters/1-3_self_inner-enemy.md#on-fear-and-excuses)
+- [On failure](/chapters/1-3_self_inner-enemy.md#on-failure-mistakes-and-anger)
+- [On shame](/chapters/1-3_self_inner-enemy.md#on-shame-confidence-and-validation)
+- [On jealousy and envy](/chapters/1-3_self_inner-enemy.md#on-jealousy-and-envy)
+- [On pessimism](/chapters/1-3_self_inner-enemy.md#on-pessimism)
+- [On perfectionism](/chapters/1-3_self_inner-enemy.md#on-perfectionism)
+- [On limits](/chapters/1-3_self_inner-enemy.md#on-limits)
+- [On growing old](/chapters/ch1-3_self_inner-enemy.md#on-growing-old)
 
 
 
@@ -58,46 +58,46 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## Chapter II - RELATIONS
 
-*On cooperation*
-- [On communication](/chapters/chapter_2_groups.md#on-communication)
-- [On networking](/chapters/chapter_2_groups.md#on-networking)
-- [On business and entrepreneurship](/chapters/chapter_2_groups.md#on-business-and-entrepreneurship)
-- [On selling, negotiation and price](/chapters/chapter_2_groups.md#on-selling-negotiation-and-price)
-- [On generosity and incentives](/chapters/chapter_2_groups.md#on-generosity-and-incentives)
-- [On leadership](/chapters/chapter_2_groups.md#on-leadership)
-- [On management and delegation](/chapters/chapter_2_groups.md#on-management-and-delegation)
-- [On mentorship](/chapters/chapter_2_groups.md#on-mentorship)
-- [On career](/chapters/chapter_2_groups.md#on-career)
-- [On relationships](/chapters/chapter_2_groups.md#on-relationships)
-- [On family and friends](/chapters/chapter_2_groups.md#on-family-and-friends)
-- [On lovers](/chapters/chapter_2_groups.md#on-lovers)
-- [On marriage](/c2_groups.md#on-marriage)
+*2.1 - On cooperation*
+- [On communication](/chapters/2-1_relations_cooperation.md#on-communication)
+- [On networking](/chapters/2-1_relations_cooperation.md#on-networking)
+- [On business and entrepreneurship](/chapters/2-1_relations_cooperation.md#on-business-and-entrepreneurship)
+- [On selling, negotiation and price](/chapters/2-1_relations_cooperation.md#on-selling-negotiation-and-price)
+- [On generosity and incentives](/chapters/2-1_relations_cooperation.md#on-generosity-and-incentives)
+- [On leadership](/chapters/2-1_relations_cooperation.md#on-leadership)
+- [On management and delegation](/chapters/2-1_relations_cooperation.md#on-management-and-delegation)
+- [On mentorship](/chapters/2-1_relations_cooperation.md#on-mentorship)
+- [On career](/chapters2-1_relations_cooperations.md#on-career)
+- [On relationships](/chapters/2-1_relations_cooperation.md#on-relationships)
+- [On family and friends](/chapters/2-1_relations_cooperation.md#on-family-and-friends)
+- [On lovers](/chapters/2-1_relations_cooperation.md#on-lovers)
+- [On marriage](/chapters/2-1_relations_cooperation.md#on-marriage)
 
-*On competition*
-- [On hierarchy](/chapters/chapter_2_groups.md#on-hierarchy)
-- [On opponents and allies](/chapters/chapter_2_groups.md#on-opponents-and-allies)
+*2.2 - On competition*
+- [On hierarchy](/chapters/2-2_relations_competition.md#on-hierarchy)
+- [On opponents and allies](/chapters/2-2_relations_competition.md#on-opponents-and-allies)
 - [On envy triggers]()
-	- [On talent](/chapters/chapter_2_groups.md#on-talent)
-	- [On wealth](/chapters/chapter_2_groups.md#on-wealth)
-	- [On popularity](/chapters/chapter_2_groups.md#on-popularity)
-	- [On luck and risk](/chapters/chapter_2_groups.md#on-luck-and-risk)
-	- [On beauty and style](/chapters/chapter_2_groups.md#on-beauty-and-style)
-	- [On health](/chapters/chapter_2_groups.md#on-health)
-	- [On lifestyle](/chapters/chapter_2_groups.md#on-lifestyle)
-	- [On success](/chapters/chapter_2_groups.md#on-success)
-- [On conflicts](/chapters/chapter_2_groups.md#on-conflicts)
+	- [On talent](/chapters/2-2_relations_competition.md#on-talent)
+	- [On wealth](/chapters/2-2_relations_competition.md#on-wealth)
+	- [On popularity](/chapters/2-2_relations_competition.md#on-popularity)
+	- [On luck and risk](/chapters/2-2_relations_competition.md#on-luck-and-risk)
+	- [On beauty and style](/chapters/2-2_relations_competition.md#on-beauty-and-style)
+	- [On health](/chapters/2-2_relations_competition.md#on-health)
+	- [On lifestyle](/chapters/2-2_relations_competition.md#on-lifestyle)
+	- [On success](/chapters/2-2_relations_competition.md#on-success)
+- [On conflicts](/chapters/2-2_relations_competition.md#on-conflicts)
 
-*On society*
-- [On politics](/chapters/chapter_2_groups.md#on-society-and-politics)
-- [On following the herd](/chapters/chapter_2_groups.md#on-following-the-herd)
-- [On humanness and irrationality](/chapters/chapter_2_groups.md#on-humanness-and-irrationality)
-- [On comedy](/chapters/chapter_2_groups.md#on-comedy)
-- [On philosophy](/chapters/chapter_2_groups.md#on-philosophy)
-- [On religion](/chapters/chapter_2_groups.md#on-religion)
-- [On science](/chapters/chapter_2_groups.md#on-science)
-- [On maths and computers](/chapters/chapter_2_groups.md#on-maths-and-computers)
-- [On art](/chapters/chapter_2_groups.md#on-art)
-- [On media](/chapters/chapter_2_groups.md#on-media)
+*2.3 - On society*
+- [On politics](/chapters/2-3_relations_society.md#on-society-and-politics)
+- [On following the herd](/chapters/2-3_relations_society.md#on-following-the-herd)
+- [On humanness and irrationality](/chapters/2-3_relations_society.md#on-humanness-and-irrationality)
+- [On comedy](/chapters/2-3_relations_society.md#on-comedy)
+- [On philosophy](/chapters/2-3_relations_society.md#on-philosophy)
+- [On religion](/chapters/2-3_relations_society.md#on-religion)
+- [On science](/chapters/2-3_relations_society.md#on-science)
+- [On maths and computers](/chapters/2-3_relations_society.md#on-maths-and-computers)
+- [On art](/chapters/2-3_relations_society.md#on-art)
+- [On media](/chapters/2-3_relations_society.md#on-media)
 
 
 
@@ -106,28 +106,28 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## Chapter III - ACTION
 
-*On preparation*
-- [On creativity](/chapters/chapter_3_action.md#on-creativity)
-- [On analysis](/chapters/chapter_3_action.md#on-analysis)
-- [On planning and strategy](/chapters/chapter_3_action.md#on-planning-and-strategy)
-- [On decision making](/chapters/chapter_3_action.md#on-decision-making)
+*3.1 - On preparation*
+- [On creativity](/chapters/3-1_action_preparation.md#on-creativity)
+- [On analysis](/chapters/3-1_action_preparation.md#on-analysis)
+- [On planning and strategy](/chapters/3-1_action_preparation.md#on-planning-and-strategy)
+- [On decision making](/chapters/3-1_action_preparation.md#on-decision-making)
 
-*On executing*
-- [On starting and timing](/chapters/chapter_3_action.md#on-starting-and-timing)
-- [On speed and direction](/chapters/chapter_3_action.md#on-speed-and-direction)
-- [On focus and priorities](/chapters/chapter_3_action.md#on-focus-and-priorities)
-- [On control](/chapters/chapter_3_action.md#on-control)
-- [On balance](/chapters/chapter_3_action.md#on-balance)
-- [On change and adapting](/chapters/chapter_3_action.md#on-change-and-adapting)
-- [On getting advantage](/chapters/chapter_3_action.md#on-getting-advantage)
-- [On finishing](/cfsuchapters/chapter_3_action.md#on-finishing)
-- [On winning](/chapters/chapter_3_action.md#on-winning)
-- [On quiting and surrendering](/chapters/chapter_3_action.md#on-quiting-and-surrendering)
+*3.2 - On executing*
+- [On starting and timing](/chapters/3-2_action_execution.md#on-starting-and-timing)
+- [On speed and direction](/chapters/3-2_action_execution.md#on-speed-and-direction)
+- [On focus and priorities](/chapters/3-2_action_execution.md#on-focus-and-priorities)
+- [On control](/chapters/3-2_action_execution.md#on-control)
+- [On balance](/chapters/3-2_action_execution.md#on-balance)
+- [On change and adapting](/chapters/3-2_action_execution.md#on-change-and-adapting)
+- [On getting advantage](/chapters/3-2_action_execution.md#on-getting-advantage)
+- [On finishing](/cfsuchapters/3-2_action_execution.md#on-finishing)
+- [On winning](/chapters/3-2_action_execution.md#on-winning)
+- [On quiting and surrendering](/chapters/3-2_action_execution.md#on-quiting-and-surrendering)
 
-*On time*
-- [On past and memory](/chapters/chapter_3_action.md#on-past-and-memory)
-- [On present](/chapters/chapter_3_action.md#on-present)
-- [On future](/chapters/chapter_3_action.md#on-future)
+*3.3 - On time*
+- [On past and memory](/chapters/3-3_action_time.md#on-past-and-memory)
+- [On present](/chapters/3-3_action_time.md#on-present)
+- [On future](/chapters/3-3_action_time.md#on-future)
 
 
 
@@ -165,7 +165,7 @@ Eight general advices:
 > *"Those who commit to nothing are distracted by everything."  
 -- Bhagavad Gita [Book]*
 
-Two practical advices:  
+Three practical advices:  
 
 - Avoiding relevant conflict will not keep peace, will rot it.
 - Have more than one child.  
@@ -174,7 +174,5 @@ Two practical advices:
 One last advice for introverts:
 
 - Aim at relying on your network and not at being self-sufficient.
-
-<hr>
 
 Copyright © 2016-NOW Enio Ferreira | [FAQ](FAQ.md)
