@@ -4,8 +4,6 @@
 
 <!--
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
-> *"No hay prepotencia más ridícula que la que se destila de la creencia de que recopilar talento ajeno es un talento."  -- Jorge Luis Borges [1899]*
-> *"technology: belief in competence. Regulation: belief in influence"  -- x@rapahelz*
 
 - be careful what you tolerate. You are teaching people how to treat you
 - Call a rich guy poor, and all he will do is smirk. Call a powerful man weak, and all he will do is smirk. Call a charming misogynist a «virgin», and all he will do is smirk. If it affects you, it is true.
@@ -323,7 +321,7 @@ Intelligence is a spectrum, your dog is intelligent also.
 #### On geniality
 
 <!--
-> *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan*
+> *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan [1923]*
 -->
 
 > *"Those who are able to see beyond the shadows and lies of their culture will never be understood let alone believed by the masses."  
@@ -727,7 +725,6 @@ Health is also an envy trigger. Often what people really envy is self-control.
 <!--
 + x@Cobratate -- A sad generation who’s obsessed with taking happy pictures.
 > *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
-> *"Muscle is proof of work ethic. Fat is proof of neglect."  -- x@giamacool*
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
@@ -1004,7 +1001,8 @@ Small (but relevant) conflicts will grow into big conflicts. What could have bee
 
 ### On conflict resolution
 
-> *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  -- x@realestatetrent*
+> *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  
+-- x@realestatetrent*
 
 You’re either part of the solution or part of the problem.
 

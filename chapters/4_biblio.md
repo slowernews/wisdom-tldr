@@ -70,6 +70,7 @@
   @lovebombsaway
   @m2jr
   @maximecperoumal
+  @mc_shortyy
   @micsolana
   @molson_hart
   @morganhousel
@@ -125,6 +126,10 @@
 - [-375] KAUTILYA (in)
 - [-369] ZHOU, Zhuang (cn)
 - [-357] ALEXANDER, the great (gr)
+- [-350] DEMETRIUS OF PHALERUM (gr)
+- [-341] EPICURUS (gr)
+- [-212] ARCHIMEDES (gr)
+- [-180] LUCILIUS, Gaius (it)
 - [-110] HILLEL, the elder (iq)
 - [-106] CICERO (it)
 - [-100] CAESAR, Julius (it)
@@ -133,14 +138,11 @@
 - [-039] OVID (it)
 - [-004] SENECA (it)
 
-- [-350] DEMETRIUS OF PHALERUM (gr)
-- [-341] EPICURUS (gr)
-- [-212] ARCHIMEDES (gr)
-- [-180] LUCILIUS, Gaius (it)
 - [0020] RUFUS, Gaius Musonius (it)
 - [0046] PLUTARCH (gr)
 - [0050] EPICTETUS (gr)
 - [0050] AKIVA (il)
+- [0056] TACITUS (it)
 - [0121] AURELIUS, Marcus (it)
 
 - [0570] MUHAMMAD (sa)
@@ -323,7 +325,7 @@
 - [1874] CHESTERTON, G.K. (uk)
 - [1874] CHURCHILL, Winston (uk)
 - [1874] FROST, Robert (us)
-- [1874] HARWOOD, H.M (uk)
+- [1874] HARWOOD, H.M. (uk)
 - [1874] HOFMANNSTHAL, Hugo von (at)
 - [1874] MAUGHAM, W. Somerset (fr)
 - [1874] WATSON Sr, Thomas John (us)
@@ -335,7 +337,7 @@
 - [1878] HAMMERSTEIN-EQUORD, Kurt von (de)
 - [1878] MARQUIS, Don (us)
 - [1879] EINSTEIN, Albert (de)
-- [1879] FORSTER, E.M.(uk)
+- [1879] FORSTER, E.M. (uk)
 - [1879] ROGERS, Will (us)
 
 - [1880] KELLER, Helen (us)
@@ -345,6 +347,7 @@
 - [1881] PICASSO, Pablo (es)
 - [1881] VON KÁRMÁN, Theodore (hu)
 - [1882] BARRYMORE, John (us)
+- [1882] JOYCE, James (ie)
 - [1882] MILNE, A.A. (uk)
 - [1882] SWOPE, Herbert (us)
 - [1882] WOOLF, Virginia (uk)
@@ -513,6 +516,7 @@
 - [1919] BOX, George (uk)
 - [1919] FORBES, Malcolm (us)
 - [1919] HILLARY, Edmund (nz)
+- [1919] MURDOCH, Iris (ie/uk)
 - [1919] PETER, Laurence J. (ca)
 
 - [1920] ASIMOV, Isaac (ru)

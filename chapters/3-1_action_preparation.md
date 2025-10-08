@@ -297,6 +297,9 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 > *"Sometimes a cigar is just a cigar."  
 -- Sigmund Freud [1856]*
 
+> *"Absence, the highest form of presence."  
+-- James Joyce [1882]*
+
 > *"An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice."  
 -- Louis Céline [1894]*
 
@@ -661,11 +664,11 @@ Hints:
 > *"Don’t ever respond to a solicitation or a proposal on the phone. The urgency is a disguise."  
 -- Kevin Kelly [1952]*
 
-> *"The cost of being wrong is less than the cost of doing nothing."  
--- Seth Godin [1960]*
-
 > *"Economics teaches you that making a choice means giving up something."  
 -- Russ Roberts[1954]*
+
+> *"The cost of being wrong is less than the cost of doing nothing."  
+-- Seth Godin [1960]*
 
 > *"Enough is a decision, not an amount."  
 -- Brené Brown [1965]*

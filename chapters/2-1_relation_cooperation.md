@@ -27,11 +27,11 @@ Speak less and listen more. Talk slow. Be clear. Never mumble. Don’t interrupt
 > *"Don’t talk unless you can improve the silence."  
 -- Jorge Luis Borges [1899]*
 
-> *"People don’t listen, they just wait for their turn to talk."  
--- Chuck Palahniuk [1963]*
-
 > *"The most important thing in communication is hearing what isn’t said."  
 -- Peter Drucker [1909]*
+
+> *"People don’t listen, they just wait for their turn to talk."  
+-- Chuck Palahniuk [1963]*
 
 ### How to communicate? 
 
@@ -242,7 +242,6 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"Nobody who’s actually good at making money needs to sell you a course on it."  -- Naval Ravikant [1974]*
 > *"You only have to be right once."  -- Naval Ravikant [1974]*
 > *"The reality is that opportunities have never been more equal than now. @elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone. They’re eating food that might be marginally better than yours, but it’s basically the same. You might even have a better diet than them. You probably have more time to go to the gym than them. They’re not immortal, and they’re not going to be—most likely, not at this time scale. So you have more youth than them. You have a lot of advantages over them. The wealth gaps are actually much smaller than people think. A lot of that is due to mass production, which comes from specialization, labor, and capitalism. But it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys. It makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days. They’re craving status, not money or wealth. And status is a zero-sum game. So it’s kind of an evil game to play because there have to be losers for every winner. And the only way to win is by crushing somebody else down."  -- Naval Ravikant [1974]*
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It’s no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- x@morganhousel*
@@ -346,7 +345,8 @@ Validate your business by finding paying clients. If something is worth doing, s
 "Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
 "You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product." (...)  
 "Startups don’t die when they run out of cash, they die when the founders run out of energy." (...)  
-"Ethics in business means «don’t sell anything you wouldn’t buy»."  
+"Ethics in business means «don’t sell anything you wouldn’t buy»." (...)  
+"Nobody who’s actually good at making money needs to sell you a course on it."  
 -- Naval Ravikant [1974]*
 
 First try to sell it. Than build it.
@@ -394,7 +394,6 @@ Hints:
 > *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
-> *"The world rewards the people who are the best at communicating ideas, not the people with the best ideas."  -- x@david_perell*
 
 - 0 visibility x 100 skills = 0 opportunities
 - Alex says you can even create a worksheet for yourself by asking clear and direct questions like: What am I negotiating? What is my timeline? (This will affect your urgency.) Who are the parties involved? (Asking questions will ensure you are dealing with the decision-maker.) What are my interests in this particular case? when asked for a number: “I’m looking at a few different offers and opportunities — what were you thinking?” When you do get an offer, Alex recommends not counteroffering immediately. “Say thank you for the offer and that you are grateful for the opportunity, and then ask if there is any flexibility on the base. A great closing line: “Based on other opportunities, if you can match this (salary) I can give notice tomorrow.” Alex points out that he wouldn’t hire someone who would simply accept the first offer he gives.
@@ -495,7 +494,13 @@ Modern selling: farmers (ambiverts and introverts)
 -- Ryan Holiday [1987]*
 
 > *"Marketing is attention engineering."  
--- x@MoZarrinsadaf*
+-- x@mozarrinsadaf*
+
+> *"The world rewards the people who are the best at communicating ideas, not the people with the best ideas."  
+-- x@david_perell*
+
+> *"Lots of folks doing everything they can to avoid talking on the phone. DMs, texts, emails - all shortcuts that reduce income dramatically. This business is about relationships. Hiding behind a screen is setting them years behind those who know the value of making real connections."  
+-- x@realestatetrent*
 
 ### On negotiation
 	
@@ -1073,7 +1078,7 @@ Prepare the child for the path, not the child for the path.
 
 <!--
 > *"My partner teacher does this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."
-> *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson *
+> *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson*
 > *"Children are natural mimics who act like their parents despite every effort to teach them good manners. Children seldom misquote you. In fact, they usually *repeat word for word what you shouldn’t have said.*
 
 - we become good parents when you start to control yourself instead of controlling your child.
@@ -1082,7 +1087,7 @@ Prepare the child for the path, not the child for the path.
 - teenagers = treated like children but expected to act like adults
 - the letter i wrote my kids after they born: you might think you want an expensive car, fancy watch and a huge car. but i’m telling you, you don’t. what you want is respect and admiration from other people and you think having expensive stuff will bring it. it almost nver does especially from the people you want it.
 - ask coolest moment of their week or favorite food.
-- monthly photo of your kid room and yearly lenghty video of your kid speaking
+- monthly photo of your kid room and yearly lenghty video of your kid speaking.
 -->
 
 Hints:
@@ -1214,7 +1219,6 @@ However some people are not ready to accept your vision. And «givers» attract 
 
 <!--
 > *"Don’t be irreplaceable, if you can’t be replaced, you can’t be promoted.*
-> *"How did people come to believe that if everyone went to college we could all just get jobs sending each other emails and someone else (who?) would maintain all physical elements of modern society? It sounds so dumb when you say it explicitly."  -- x@empty_america*
 - "estava a perder o controlo da minha carreira"  -- vertonghen
 
 - "Don’t try to be original. Be simple. Be good technically, and if there is something in you, it will come out."
@@ -1285,10 +1289,12 @@ Nobody can compete with you on being you. Most of your life is a search for who 
 > *"Work for companies you would invest in and invest in companies you would work for."  
 -- x@morganhousel*
 
+> *"How did people come to believe that if everyone went to college we could all just get jobs sending each other emails and someone else (who?) would maintain all physical elements of modern society? It sounds so dumb when you say it explicitly."  
+-- x@empty_america*
+
 ### How to advance career?
 
 <!--
-> *"Lots of folks doing everything they can to avoid talking on the phone. DMs, texts, emails - all shortcuts that reduce income dramatically. This business is about relationships. Hiding behind a screen is setting them years behind those who know the value of making real connections."  -- x@realestatetrent* 
 -->
 
 > *"Learn to sell. Learn to build. If you can do both, you’re unstoppable."  
@@ -1575,10 +1581,6 @@ Hints:
 
 ## On family and friends
 
-<!--
-> *"Absence, the highest form of presence."  -- James Joyce*
--->
-
 > *"True friendship can exist only between equals."  
 -- Plato [-427]*
 
@@ -1702,7 +1704,6 @@ Hints:
 > *"Porn has prolonged more marriages than it’s ever destroyed."  -- Rollo Tomasi*
 > *"Some advice i gave to my friend: your value as a man should never be reduced to how you look. On dating apps that’s all you are—your height, & your face. It’s an endless police lineup for women to pick from, with nothing else factored in. The apps flattens you into a 2D commodity, judged in milliseconds. If you value yourself in any meaningful way, you should never partake in such a marketplace, ever."  -- x@signulll*
 > *"The desire to be loved is the last illusion. Give it up and you’ll be so free."  -- Margaret Atwood*
-> *"There are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older 2) insanely crazy heartbreak. there are simply no other ways."  -- x@signulll*
 > *"There are three qualities to look for in a partner: intelligence, energy, and integrity. You need all three. You can’t compromise on any one of them."  -- Naval Ravikant [1974]*
 > *"When I think I’m unfairly hated, I try to remember that I’m unfairly loved."  -- R.C. Sproul*
 > *"Men dream about virgins. Women dream about monsters. Who’s more perverted?"  -- Rivelino*
@@ -1773,14 +1774,11 @@ Hints:
 
 ### On love and romance
 
-<!--
-> *"Absence diminishes small loves and increases great ones, as the wind blows out the candle and fans the bonfire."  -- François de La Rochefoucauld [1613]*
-> *"Absence diminishes minor passions and inflames great ones, as the wind douses a candle and fans a fire."  -- François de La Rochefoucauld [1613]*
-> *"Love is the extremely difficult realisation that something other than oneself is real."  -- Iris Murdoch*
--->
-
 > *"Love is the absence of judgement."  
 -- vox populi*
+
+> *"Absence diminishes small loves and increases great ones, as the wind blows out the candle and fans the bonfire."  
+-- François de La Rochefoucauld [1613]*
 
 > *"Love is a flower, friendship a sheltering tree."  
 -- Samuel Taylor Coleridge [1772]*
@@ -1806,6 +1804,9 @@ Hints:
 > *"Love is the triumph of imagination over intelligence."  
 -- H.L. Mencken [1880]*
 
+> *"Love is the extremely difficult realisation that something other than oneself is real."  
+-- Iris Murdoch [1919]*
+
 > *"The highest function of love is that it makes the loved one a unique and irreplaceable being."  
 -- Tom Robbins [1932]*
 
@@ -1816,7 +1817,8 @@ Hints:
 "You can’t buy a real kiss."  
 -- Naval Ravikant [1974]*
 
-> *"Early internet: meeting someone online? Probably a weirdo. Now: meeting someone without an online presence? Definitely a weirdo."  
+> *"Early internet: meeting someone online? Probably a weirdo. Now: meeting someone without an online presence? Definitely a weirdo." (...)  
+"There are only two ways to appreciate or understand how insanely rare a genuine connection with someone truly is: 1) getting older 2) insanely crazy heartbreak. there are simply no other ways."  
 -- x@signulll*
 
 ### On falling out of love
@@ -1838,6 +1840,9 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"Men experience many passions in a lifetime. One passion drives away the one before it."  
 -- Paul Newman [1925]*
 
+> *"You must love in such a way that the person you love feels free."  
+-- Thich Nhat Hanh [1926]*
+
 > *"That’s what careless words do. They make people love you a little less."  
 -- Arundhati Roy [1961]*
 
@@ -1850,26 +1855,11 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"True, unconditional love is the province of parents and saints."  
 -- Naval Ravikant [1974]*
 
-> *"You must love in such a way that the person you love feels free."  
--- Thich Nhat Hanh [1926]*
-
 ### What women value in men
 
 <!--
-> *"How can men lead when they have more to lose in a relationship. If you’re in a business deal and party A loses everything by the deal ending and Party B gains everything by the deal ending. Wouldn’t party A constantly be trying to please party B to keep the deal going?"  -- x@pearlythingz*
-> *"Women want men to be leaders but no longer want to be followers. One cannot exist without the other."  -- x@giammacool*
-+ x@buridansridge -- Skilled male seducers understand that women’s kryptonite is a grounded, authentic, and calm masculine man. He is often disarmingly honest, but in an eloquent way. He allows for her to be who she desires to be in his presence. Seduction is about satisfying her desire to feel safe and seen. Mystery is the mistress of desire. Infer how you feel, because things don’t always need to be spelled out clearly. Women want to read between the lines. We fall in love through our minds. If we think about you because we are trying to solve you, our minds will do the work for you.
-
-- A man without money can be loved... by his mother. Women respect security, power, and ambition. If you’re broke, you’re tolerated at best and ignored at worst.
-- Every woman wants sex, she just wants it from the best.
-- Girls don’t leave good guys. They leave boring ones.
 - I want a man that sees my demons.
-- If you’re waiting for a man to get rich before you take him serious, take note. "Men don’t fall in love when they’re rich"
 - My man needs to have good social skills. I don’t care how he gets them.
-- Only a coward is worse than a boring guy. I want neither of them.
-- What men think women want: Looks and money. What women actually need: Leadership, humor, honesty, intelligence, resilience, certainty in their actions.
-- Without money only mother can love you.
-- Women want to be desired, not because it gives them connection, but because it gives them control.
 - Women would break down crying if they understood how much more pure men are compared to them.
 -->
 
@@ -1877,6 +1867,14 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 -- Alessandra Torre [1978]*
 
 Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.
+
+Hints:
+
+- Girls don’t leave good guys. They leave boring ones. Only a coward is worse than a boring guy. They want neither of them.
+- What men think women want: Looks and money. What women actually need: Leadership, humor, honesty, intelligence, resilience, certainty in their actions.
+- Men pick loyal girls over successful ones. Girls pick successful men over loyal ones.
+- Women respect security, power, and ambition. If you’re broke, you’re tolerated at best and ignored at worst. Without money only mother can love you.
+- Every woman wants sex, she just wants it from the best. Women want to be desired, not because it gives them connection, but because it gives them control.
 
 > *"Man is loved mainly because of two virtues: courage first, loyalty second."  
 -- Gaius Lucilius [-180]*
@@ -1896,7 +1894,7 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 > *"A suit to women is like lingerie to men."  
 -- Yves Saint Laurent [1936]*
 
-> *"What do women want? (...) Every woman wants to be in a love story."  
+> *"What do women want? Every woman wants to be in a love story."  
 -- Zan Perrion [1964]*
 
 > *"Most women fall in love with the lifestyle of a man, not with the man himself."  
@@ -1904,19 +1902,16 @@ Women like a gentleman who knows when not to be gentle and exhibits grace under 
 
 ### What men value in women
 
-<!--
-- Men do not care if a woman is an engineer or a doctor. They only care about if she’s loyal, respectful and virgin.
-- Men hate disrespect more than they love sex
-- Men pick loyal girls over successful ones. Girls pick successful men over loyal ones.
-- Young women value themselves based on how much men want to sleep with them, which gives them a false high self valuation. If they valued themselves based on how much men wanted to marry them once they got to know them, they’d have a much more accurate estimation of their worth.
--->
-
 > *"No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful."  
 -- Eleanor Roosevelt [1884]*
 
-Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips.
+Trust, style, nice to my family, ambitious and adventurous, must like burritos and road trips. Men hate disrespect more than they love sex.
 
-Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
+Hints:
+
+- Young women value themselves based on how much men want to sleep with them, which gives them a false high self valuation. If they valued themselves based on how much men wanted to marry them once they got to know them, they’d have a much more accurate estimation of their worth.
+- Men do not care if a woman is an engineer or a doctor. They only care about if she’s loyal, respectful and not a hoe.
+- Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
 
 > *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
 -- Ian McEwan [1948]*
@@ -1932,23 +1927,24 @@ Every boy wants a good girl to be bad just for him. Every girl wants a bad boy t
 ## On marriage
 
 <!--
-+ x@giammacool -- Hard times create marriageable women. Marriageable women create good times. Good times create whores. Whores create hard times
++ x@giammacool -- Hard times create marriageable women. Marriageable women create good times. Good times create whores. Whores create hard times.
 + x@giammacool -- I was raised by a middle eastern family. In Lebanon only men decide divorce. The way it needs to be.
 + x@giammacool -- If she refuses to sign a prenup she’s planning the wedding and the exit strategy.
 + x@giammacool -- Ladies, If you’re thinking, «I don’t recognize the man I married, I’m not attracted to him anymore», Consider this… Pointing out everything he does wrong daily changes a man. A man who is constantly torn down will naturally pull away. If you’re not building him up daily, you’re setting yourself up for your own downfall, and worse, you’re not protecting your man.
 + x@giammacool -- Nothing is more attractive to a man than your willingness to adopt his last name. Either way, your last name is either your husband’s or your father’s. So, claiming you want to keep your last name isn’t strictly accurate.
-> *"You can tell the health of a marriage by how often the wife posts selfies."  -- x@mc_shortyy*
-
-- A man would marry a poor woman as long as she’s loyal. A woman would marry a cheating man as long as he’s rich.
-- A submissive wife can make you richer than a career woman.
-- I want to be wanted, but not needed. I should be the one pushing for commitment. I want to have the feeling that I make a great deal, because he's of higher value than me.
-- We are not avoiding marriage, we are avoiding divorce.
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H. Harwood [1874] & R. Gore-Bro [1893]*
 
-Marry an happy person. Unhappy spouse, unhappy life.
+Marry an happy person. Unhappy spouse, unhappy life. People are not avoiding marriage, people are avoiding divorce.
+
+Hints:
+
+- A man would marry a poor woman as long as she’s loyal. A woman would marry a cheating man as long as he’s rich.
+- A submissive wife can make a man richer than a career woman.
+- «I want to be wanted, but not needed. I should be the one pushing for commitment. I want to have the feeling that I make a great deal, because he's of higher value than me.»
+- If you’re waiting for a man to get rich before you take him serious, take note. «Men don’t fall in love when they’re rich».
 
 > *"As long as the bed shakes, the house will remain stable." (...)  
 "When poverty comes in the door, love goes out of the window." (...)  
@@ -1967,35 +1963,38 @@ Marry an happy person. Unhappy spouse, unhappy life.
 "Marriage is the process of finding out what kind of man your wife would have preferred."  
 -- Oscar Wilde [1854]*
 
+> *"It doesn’t much signify whom one marries, for one is sure to find out next morning it was someone else."  
+-- Will Rogers [1879]*
+
+> *"When a man steals your wife, there is no better revenge than to let him keep her."  
+-- Sacha Guitry [1885]*
+
+> *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it."  
+-- Peggy Hopkins Joyce [1893]*
+
+> *"The happiest time of a person’s life is after his first divorce."  
+-- John Kenneth Galbraith [1908]*
+
+> *"If men acted after marriage as they do during courtship, there would be fewer divorces and more bankruptcies."  
+-- Frances Rodman [1917]*
+
+> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
+-- Warren Farrell [1943]*
+
 > *"You don’t marry a person, you marry a family."  
 -- Kevin Kelly [1952]*
 
 > *"If Apple sold you a product that failed 50% of the time, would you buy it?"  
 -- Esther Perel [1958]*
 
-> *"He who marries for love without money has good nights and sorry days."  
--- Ani Difranco [1970]*
-
 > *"Don’t do it. You’ll regret it. The things you love about him now, you’ll hate in a few years."  
 -- Tom Ford [1961]*
 
-> *"If men acted after marriage as they do during courtship, there would be fewer divorces and more bankruptcies."  
--- Frances Rodman [1917]*
-
-> *"When a man steals your wife, there is no better revenge than to let him keep her."  
--- Sacha Guitry [1885]*
-
-> *"It doesn’t much signify whom one marries, for one is sure to find out next morning it was someone else."  
--- Will Rogers [1879]*
-
-> *"The happiest time of a person’s life is after his first divorce."  
--- John Kenneth Galbraith [1908]*
-
-> *"When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."  
--- Warren Farrell [1943]*
-
-> *"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it."  
--- Peggy Hopkins Joyce [1893]*
+> *"He who marries for love without money has good nights and sorry days."  
+-- Ani Difranco [1970]*
 
 > *"Modern women don’t want a husband. They want a lifestyle. If another man can upgrade them, they’re gone."  
 -- x@pallnandi*
+
+> *"You can tell the health of a marriage by how often the wife posts selfies."  
+-- x@mc_shortyy*

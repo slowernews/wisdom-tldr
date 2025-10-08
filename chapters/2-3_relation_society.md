@@ -188,14 +188,14 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 
 ### On justice, law and tolerance
 
-> *"The more corrupt the state, the more numerous the laws."  
--- Tacitus [----] *
-
 > *"Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws."  
 -- Plato [-427]*
 
 > *"The closer the collapse of an empire, the crazier its laws."  
 -- Cicero [-106]*
+
+> *"The more corrupt the state, the more numerous the laws."  
+-- Tacitus [0056]*
 
 > *"Justice will not be served until those who are unaffected are as outraged as those who are."  
 -- Benjamin Franklin [1706]*

@@ -528,7 +528,8 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 > *"I have never met a person I admired who did not read more books than I did."  
 -- Kevin Kelly [1952]*
 
-> *"A good book is one that no two readers would summarize in the same way. A great book is one that produces different summaries for the very same reader."  -- Nassim Taleb [1960]*
+> *"A good book is one that no two readers would summarize in the same way. A great book is one that produces different summaries for the very same reader."  
+-- Nassim Taleb [1960]*
 
 > *"Books are like mirrors: if a fool looks in, you cannot expect a genius to look out."  
 -- J.K. Rowling [1965]*

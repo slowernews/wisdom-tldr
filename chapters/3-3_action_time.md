@@ -4,8 +4,7 @@
 
 <!--
 - history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
-- never be a prisoner of your past. It was just a lesson not a life sentence.
-- no one is there anymore.
+- never be a prisoner of your past. It was just a lesson not a life sentence. No one is there anymore.
 - One day each of us burned a cd for the last time but we didn´t know it was the last time.
 - One million seconds ago was 11 days ago. One billion seconds ago was 31 years ago.
 -->

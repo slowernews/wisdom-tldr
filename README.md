@@ -27,7 +27,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On autonomy](/chapters/1-1_self_foundations.md#on-autonomy)
 	- [On accountability](/chapters/1-1_self_foundations.md.md#on-accountability)
 	- [On trust and reputation](/chapters/1-1_self_foundations.md#on-trust-and-reputation)
-- [On honesty](/chapters/1-1_self_foundations.md#on-honesty)
+- [On authenticity](/chapters/1-1_self_foundations.md#on-authenticity)
 - [On humility](/chapters/1-1_self_foundations.md#on-humility)
 - [On drive](/chapters/1-1_self_foundations.md#on-drive)
 

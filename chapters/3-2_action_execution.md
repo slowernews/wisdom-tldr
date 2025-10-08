@@ -6,12 +6,10 @@
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
 > *"The cold water doesn’t get warmer if you jump late." 
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
-> *"You can, you should, and if you’re brave enough to start, you will."  -- Stephen King [1947]*
 
 - Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
 - If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
 - jogar c o baralho todo / jogar com um subset
-- keep earning your title, or it expires. -- Derek Sivers
 - monk mode -> no communication during mornings, only deep work -> meetings afternoon
 - Research is not doing something. Knowledge is never the issue, action is.
 - The dumbest thing smart people do: Overthink. The smartest thing dumb people do: Act.
@@ -26,9 +24,7 @@
 > *"A year from now, you will wish you had started today."  
 -- x@karenlambauthor*
 
-Just start.
-
-Stop making resolutions and start making something. Time is the most precious thing you own.
+Just start. Stop making resolutions and start making something. Time is the most precious thing you own.
 
 > *"Rising early makes the road short." (...)  
 "The person who removes a mountain begins by carrying away small stones." (...)  
@@ -80,6 +76,9 @@ Stop making resolutions and start making something. Time is the most precious th
 
 > *"Do something instead of killing time. Because time is killing you."  
 -- Paulo Coelho [1947]*
+
+> *"You can, you should, and if you’re brave enough to start, you will."  
+-- Stephen King [1947]*
 
 > *"Did you know you can’t steer a boat that isn’t moving? Just like a life."  
 -- Paul Lutus [1949]*
@@ -521,11 +520,11 @@ Consuming information gives the control freak an illusion of control. He doesn�
 > *"Security is mostly a superstition. Life is either a daring adventure or nothing."  
 -- Helen Keller [1880]*
 
-> *"Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security there is." 
--- John Allen Paulos [1945]*
-
 > *"Our only security is our ability to change."  
 -- John C. Lilly [1915]*
+
+> *"Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security there is." 
+-- John Allen Paulos [1945]*
 
 
 
@@ -770,14 +769,14 @@ Hints:
 > *"Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy."  
 -- Balthasar Gracian [1601]*
 
-> *"To bankrupt a fool, give him information."  
--- Nassim Taleb [1960]*
-
 > *"You can discover what your enemy fears most by observing the means he uses to frighten you."  
 -- Eric Hoffer [1902]*
 
 > *"Never offend people with style when you can offend them with substance."  
 -- Sam W. Brown Jr. [1943]*
+
+> *"To bankrupt a fool, give him information."  
+-- Nassim Taleb [1960]*
 
 > *"The most underrated super power in the world is simply asking for things."  
 -- x@realestatetrent*
@@ -1048,12 +1047,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"The quicker you want something, the easier you are to manipulate."  
 -- x@farnamstreet*
 
-
-
-
-
-
-## On winning
+### On winning
 
 <!--
 - quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
@@ -1120,12 +1114,7 @@ Hints:
 > *"Winners are overgivers."  
 -- x@codie_sanchez*
 
-
-
-
-
-
-## On quiting and surrendering
+### On quiting and surrendering
 
 <!--
 - Don’t take it personally, most people who are constantly angry are just sleep-deprived, love-deprived, or purpose-deprived.
