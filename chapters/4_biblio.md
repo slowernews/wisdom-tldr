@@ -90,6 +90,7 @@
   @realjamespierce
   @rmcentush
   @ryanstewman
+  @sahilbloom
   @samoburja
   @sgrstk
   @signulll
@@ -381,7 +382,8 @@
 
 - [1890] CHRISTIE, Agatha (ks)
 - [1890] MARX, Groucho (us)
-- [1890] RICKENBACKER, Eddie
+- [1890] RICKENBACKER, Eddie (us)
+- [1890] TUCHOLSKY, Kurt (de)
 - [1891] COLMAN, Ronald (uk)
 - [1891] MILLER, Henry (us)
 - [1892] BUCK, Pearl S. (us)
@@ -751,7 +753,7 @@
 - [1955] GOLDBERG, Whoopi (us)/
 - [1955] JOBS, Steve (us)
 - [1955] MCRAVEN, William (us)
-- [1955] NYE, Bill (us)
+<!-- [1955] NYE, Bill (us) -->
 - [1955] ROBINSON, Adam (us)
 - [1955] SHRIVER, Maria (us)
 - [1956] DAVIS, Geena (us)
@@ -877,7 +879,8 @@
 - [1982] NEWPORT, Cal (us)
 - [1982] SETHI, Ramit (us)
 - [1982] URBAN, Tim (us)
-- [1983] MILHÃO, Miguel (pt)
+<!-- [1983] MILHÃO, Miguel (pt) -->
+- [1983] SNOWDEN, Edward (us)
 - [1984] MANSON, Mark (us)
 - [1985] ALTMAN, Sam (us)
 - [1985] WALLER-BRIDGE, Phoebe (uk) 

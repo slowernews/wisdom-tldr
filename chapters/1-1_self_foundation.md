@@ -70,6 +70,162 @@ Hints:
 
 
 
+## On drive
+
+> *"The superior man is modest in his speech but exceeds in his actions."  
+-- Confucius [-551]*
+
+Blessed are the restless.
+
+> *"The seed of all evil is laziness." (...)  
+"The longer the tongue, the shorter the hands."  
+-- vox populi* 
+
+> *"As a grown man you should know better than to go around advising people."  
+-- Bertolt Brecht [1898]*
+
+> *"If you have a dream, don’t waste your energies explaining why."  
+-- Paulo Coelho [1947]*
+
+### On agency
+
+<!--
++ x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
+
+- As a man, never stay at home all day. Go out, make friends, and create new connections. A man's job is to face the world, take risks, and embrace difficulties.
+- Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself. Dark but true
+-->
+
+> *"The most difficult is the decision to act, the rest is just tenacity."  
+-- Andrea Earhart [1897]*
+
+Hints:
+
+- Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
+- «It’s on documentation. If it’s not add it.»
+- Without commitment, you’ll never start. Without consistency, you’ll never finish.
+- You don’t need 100 self-help books, all you need is action + self-discipline.
+- Get your dopamine from action.
+
+> *"If not you, who? If not now, when?"  
+-- Hillel the Elder [-110]*
+
+> *"The possibilities are numerous once we decide to act and not react."  
+-- George Bernard Shaw [1856]*
+
+> *"If it’s a good idea, go ahead and do it. It’s much easier to apologize than it is to get permission."  
+-- (rear admiral) Grace Hopper [1906]*
+
+> *"Knowing is not enough. We must apply. Willing is not enough. We must do."  
+-- Bruce Lee [1940]*
+
+> *"You miss 100% of the shots you don’t take."  
+-- Wayne Gretzky [1961]*
+
+> *"I don’t have talent, so I just get up earlier."  
+-- Henry Rollins [1961]*
+
+> *"The world is changed by your example, not by your opinion."  
+-- Paulo Coelho [1947]*
+
+> *"Doing is faster than watching." (...)  
+"Impatience with actions, patience with results." (...)  
+"Inspiration is perishable. Act on it immediately."  
+-- Naval Ravikant [1974]*
+
+> *"80% of what people call agency is trying the «dumb» solution and iterating from that. You can just do dumb things."  
+-- x@farawaylaughtr*
+
+### On ambition
+
+<!--
+- The ultimate question: Do you want you son/daughter to date someone like you?
+- everything wants you when you want nothing
+- If you’re not trying to make money, what are you even doing?
+-->
+
+> *"The best thing about Elon Musk is that he makes me question if i’m thinking big enough with my life." (...)  
+"I’m not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
+-- Naval Ravikant [1974]*
+
+Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
+
+> *"To the mediocre, mediocrity appears great."  
+-- vox populi*
+
+> *"All men die, but not every man lives."  
+-- William Wallace [1270]*
+
+> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
+-- Oscar Wilde [1854]*
+
+> *"Routine, in an intelligent man, is a sign of ambition."  
+-- W.H. Auden [1907]*
+
+> *"Understand: if you are weak and ask for little, little is what you will get."  
+-- Robert Greene [1959]*
+
+> *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
+-- Mark Manson [1984]*
+
+> *"Society underestimates how much it owes elon for raising the collective ambition level at a time when optimism for the future was receding."  
+-- Sam Altman [1985]*
+
+> *"I disagree. There are plenty of ambitious people. My life and business experience is that there are far more ambitious people that lack competence than ambitious people that are competent. Ambition with competence is rare."  
+-- x@glenn_foster*
+
+> *"I worked a lot on my mental health and now I am no longer ambitious."  
+-- x@jxnlco*
+
+### On resilience
+
+<!-- On discipline -->
+
+> *"The distance between dreams and reality is called discipline."  
+-- Paulo Coelho [1947]*
+
+Consistency is boring to watch. But impossible to compete with.
+
+> *"Gold, when beaten, shines." (...)  
+"If there’s no wind, row." (...)  
+"Work is the medicine for poverty."  
+-- vox populi*
+
+> *"Devote the rest of your life into making progress."  
+-- Epictetus [0050]*
+
+> *"Desires makes slaves out of kings, and patience makes kings out of slaves."  
+-- (imam) Al-Ghazali [1058]*
+
+> *"Our patiente will achieve more than our force."  
+-- Edmund Burke [1729]*
+
+> *"Continuous improvement is better than delayed perfection."  
+-- Mark Twain [1835]*
+
+> *"Discipline is choosing between what you want now and what you want most."  
+-- Abraham Lincoln [1809]*
+
+> *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons."  
+-- Jim Rohn [1930]*
+
+> *"I don’t count my sit-ups. I only start counting once it starts hurting."  
+-- Muhammad Ali [1942]*
+
+> *"The mind gives up before the body." (...)  
+"Persistence beats timing. Execution beats luck. Not immediately but eventually."  
+-- Naval Ravikant [1974]*
+
+> *"Your ability to tolerate boredom while repeating the same action determines your odds of success."  
+-- x@alexhormozi*
+
+> *"Your growth depends on your ability to absorb criticisms. Your success depends on your ability to absorb failures. Your survival depends on your ability to absorb traumas."  
+-- x@rapahelz*
+
+
+
+
+
 ## On authenticity
 
 - 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
@@ -231,7 +387,34 @@ Trust, not money, is the currency of business and life.
 
 
 
-## On humility
+## On respect
+
+<!--
+- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things- If I don’t respect him, I’ll disrespect him. Nothing in between..
+-->
+
+> *"I have never met a man so ignorant that I couldn’t learn anything from him."  
+-- Galileo Galilei [1564]*
+
+You might think you want a fancy car or a nice watch but what you probably want is respect and admiration from your peers.
+
+> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn’t know it."  
+-- Paulo Coelho [1947]*
+
+> *"Promptness is a sign of respect." (...)  
+"Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious."  
+-- Kevin Kelly [1952]*
+
+> *"Being nice counts the most when you are nice to people ignored by others."  
+-- Nassim Taleb [1960]*
+
+> *"Never look down on a man working to level himself up."  
+-- x@stirlingwisdom*
+
+> *"This generation has no loyalty, it’s just built on attention."  
+-- x@iamaaronwill*
+
+### On humility
 
 <!--
 - Humility With forward action: "I wasn’t the smartest in X but.."
@@ -264,36 +447,6 @@ One way to humble yourself is to place yourself in the position of being the wea
 
 > *"You learn more from other people if you pretend you know less than them."  
 -- x@alexhormozi*
-
-### On respect
-
-<!--
-- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things- If I don’t respect him, I’ll disrespect him. Nothing in between..
--->
-
-> *"Everyone you will ever meet knows something you don’t."  
--- Bill Nye [1955]*
-
-You might think you want a fancy car or a nice watch but what you probably want is respect and admiration from your peers.
-
-> *"I have never met a man so ignorant that I couldn’t learn anything from him."  
--- Galileo Galilei [1564]*
-
-> *"No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn’t know it."  
--- Paulo Coelho [1947]*
-
-> *"Promptness is a sign of respect." (...)  
-"Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious."  
--- Kevin Kelly [1952]*
-
-> *"Being nice counts the most when you are nice to people ignored by others."  
--- Nassim Taleb [1960]*
-
-> *"Never look down on a man working to level himself up."  
--- x@stirlingwisdom*
-
-> *"This generation has no loyalty, it’s just built on attention."  
--- x@iamaaronwill*
 
 ### On gratitude
 
@@ -343,172 +496,15 @@ Being grateful is looking up. Don’t forget that a group of people blazed the t
 > *"A good life is not a life without problems. A good life is a life with good problems."  
 -- Mark Manson [1984]*
 
-### How to apologise?
+### On apologies
 
 > *"Never ruin an apology with an excuse."  
 -- Benjamin Franklin [1706]*
 
-Quickly, specifically, sincerely.
+How to apologise? Quickly, specifically, sincerely.
 
 > *"Apology under pressure is not an apology."  
 -- Nassim Taleb [1960]*
 
 > *"Most excuses are just explanations. They don’t excuse anything."  
 -- Mark Manson [1984]*
-
-
-
-
-
-
-## On drive
-
-> *"The superior man is modest in his speech but exceeds in his actions."  
--- Confucius [-551]*
-
-Blessed are the restless.
-
-> *"The seed of all evil is laziness." (...)  
-"The longer the tongue, the shorter the hands."  
--- vox populi* 
-
-> *"As a grown man you should know better than to go around advising people."  
--- Bertolt Brecht [1898]*
-
-> *"If you have a dream, don’t waste your energies explaining why."  
--- Paulo Coelho [1947]*
-
-### On agency
-
-<!--
-+ x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
-
-- As a man, never stay at home all day. Go out, make friends, and create new connections. A man's job is to face the world, take risks, and embrace difficulties.
-- Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself. Dark but true
--->
-
-> *"The most difficult is the decision to act, the rest is just tenacity."  
--- Andrea Earhart [1897]*
-
-Hints:
-
-- Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
-- «It’s on documentation. If it’s not add it.»
-- Without commitment, you’ll never start. Without consistency, you’ll never finish.
-- You don’t need 100 self-help books, all you need is action + self-discipline.
-- Get your dopamine from action.
-
-> *"If not you, who? If not now, when?"  
--- Hillel the Elder [-110]*
-
-> *"The possibilities are numerous once we decide to act and not react."  
--- George Bernard Shaw [1856]*
-
-> *"If it’s a good idea, go ahead and do it. It’s much easier to apologize than it is to get permission."  
--- (rear admiral) Grace Hopper [1906]*
-
-> *"Knowing is not enough. We must apply. Willing is not enough. We must do."  
--- Bruce Lee [1940]*
-
-> *"You miss 100% of the shots you don’t take."  
--- Wayne Gretzky [1961]*
-
-> *"I don’t have talent, so I just get up earlier."  
--- Henry Rollins [1961]*
-
-> *"The world is changed by your example, not by your opinion."  
--- Paulo Coelho [1947]*
-
-> *"Doing is faster than watching." (...)  
-"Impatience with actions, patience with results." (...)  
-"Inspiration is perishable. Act on it immediately."  
--- Naval Ravikant [1974]*
-
-> *"80% of what people call agency is trying the «dumb» solution and iterating from that. You can just do dumb things."  
--- x@farawaylaughtr*
-
-### On ambition
-
-<!--
-- The ultimate question: Do you want you son/daughter to date someone like you?
-- everything wants you when you want nothing
-- If you’re not trying to make money, what are you even doing?
--->
-
-> *"The best thing about Elon Musk is that he makes me question if i’m thinking big enough with my life." (...)  
-"I’m not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
--- Naval Ravikant [1974]*
-
-Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
-
-> *"To the mediocre, mediocrity appears great."  
--- vox populi*
-
-> *"All men die, but not every man lives."  
--- William Wallace [1270]*
-
-> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
--- Oscar Wilde [1854]*
-
-> *"Routine, in an intelligent man, is a sign of ambition."  
--- W.H. Auden [1907]*
-
-> *"Understand: if you are weak and ask for little, little is what you will get."  
--- Robert Greene [1959]*
-
-> *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
--- Mark Manson [1984]*
-
-> *"Society underestimates how much it owes elon for raising the collective ambition level at a time when optimism for the future was receding."  
--- Sam Altman [1985]*
-
-> *"I disagree. There are plenty of ambitious people. My life and business experience is that there are far more ambitious people that lack competence than ambitious people that are competent. Ambition with competence is rare."  
--- x@glenn_foster*
-
-> *"I worked a lot on my mental health and now I am no longer ambitious."  
--- x@jxnlco*
-
-### On resilience
-
-<!-- On discipline -->
-
-> *"The distance between dreams and reality is called discipline."  
--- Paulo Coelho [1947]*
-
-Consistency is boring to watch. But impossible to compete with.
-
-> *"Gold, when beaten, shines." (...)  
-"If there’s no wind, row." (...)  
-"Work is the medicine for poverty."  
--- vox populi*
-
-> *"Devote the rest of your life into making progress."  
--- Epictetus [0050]*
-
-> *"Desires makes slaves out of kings, and patience makes kings out of slaves."  
--- (imam) Al-Ghazali [1058]*
-
-> *"Our patiente will achieve more than our force."  
--- Edmund Burke [1729]*
-
-> *"Continuous improvement is better than delayed perfection."  
--- Mark Twain [1835]*
-
-> *"Discipline is choosing between what you want now and what you want most."  
--- Abraham Lincoln [1809]*
-
-> *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons."  
--- Jim Rohn [1930]*
-
-> *"I don’t count my sit-ups. I only start counting once it starts hurting."  
--- Muhammad Ali [1942]*
-
-> *"The mind gives up before the body." (...)  
-"Persistence beats timing. Execution beats luck. Not immediately but eventually."  
--- Naval Ravikant [1974]*
-
-> *"Your ability to tolerate boredom while repeating the same action determines your odds of success."  
--- x@alexhormozi*
-
-> *"Your growth depends on your ability to absorb criticisms. Your success depends on your ability to absorb failures. Your survival depends on your ability to absorb traumas."  
--- x@rapahelz*

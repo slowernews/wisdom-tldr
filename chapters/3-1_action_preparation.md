@@ -3,7 +3,6 @@
 ## On creativity
 
 <!--
-> *"When dreams become more important than reality, you give up travel, building, creating; you even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives left behind in the thought records."  -- Vina, "The Menagerie" ("The Cage"), stardate unknown*
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 
@@ -63,11 +62,14 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 -- Steven Spielberg [1946]*
 
 > *"Good artists copy; great artists steal."  
--- (popularized by) Steve Jobs [1955]*
+-- Steve Jobs {popularized by} [1955]*
 
 > *"Chaos is needed for innovation. Structure makes those ideas useful." (...)  
 "The ability to see order in chaos is called creativity."  
 -- Simon Sinek [1973]*
+
+> *"If you don’t imagine, nothing ever happens at all."  
+-- John Green [1977]*
 
 ### How to find good ideas?
 
@@ -250,10 +252,11 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"Nothing is as good or as bad as it seems."  
 -- Scott Galloway [1964]*
 
+> *"The probability that your theory is correct decreases exponentially with the number of assumptions you make."  
+-- Pedro Domingos [1965]*
+
 > *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  
 -- x@morganhousel*
-
-Hints:
 
 <!--
 > *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
@@ -269,13 +272,15 @@ Hints:
 Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
 -->
 
+Hints:
+
 - True motivations are revealed, not declared.
 - Prefer stats than narratives. We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.
 - There’s always a good reason and a real reason.
 - Look for something that doesn’t make sense. That’s where the gold mine is: «It doesn’t make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don’t try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They’re the ones that will make the assets price move. (Adam Robinson)
 - Randomness: most facts are a «tell» but some are just random.
 - Skepticism is a great servant and a terrible master.
-- There’s truth on *group* stereotypes. *Group* opinions self correct themselves.
+- There’s truth on «group» stereotypes. «Group» opinions self correct themselves.
 - We tend to think that the people who agree with us are really smart.
 - Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
 - Pay attention to negative cues: what should have happened but did not.
@@ -283,7 +288,7 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 - Best way to deal with confirmation bias: You need to search out disconfirming evidence. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. Too much info is the main cause of it: you’ll always find confirmation to your pre-existing beliefs. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
 - Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.
 - Nothing is as good or as bad as it seems.
-- Bragging razor: if someone brags assume half. if someone downplays double it.
+- Bragging razor: if someone brags assume half. If someone downplays double it.
 
 > *"Understanding a question is half an answer."  
 -- Socrates [-470]*
@@ -348,13 +353,10 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 <!--
 > *"There will come a day, when all the lies will collapse under their own weight, and truth will again triumph."  -- Joseph Goebbels*
-> *"People don’t realize how hard is to speak the truth, to a world full of people that don’t realize they’re living in a lie."  -- Edward Snowden*
 
 + x@thomassowell -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with "hate speech" laws.
-+ x@zubymusic -- Conservatives get mad when you lie to them. Progressives get mad when you tell them the truth.
 
 - A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
-- How do you tell who’s telling the truth? The ones trying to silence other people are the ones lying.
 -->
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
@@ -363,6 +365,11 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 Truth does not mind to be questioned. A lie does not like being challenged.
 
 In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don’t need to reharse anything.
+
+Hints:
+
+- How do you tell who’s telling the truth? The ones trying to silence other people are the ones lying.
+- Call a rich guy poor, and all he will do is smirk. Call a powerful man weak, and all he will do is smirk. Call a charming misogynist a «virgin», and all he will do is smirk. If it affects you, it is true.
 
 > *"There are 3 truths: my truth, your truth, and the truth." (...)  
 "Who’s talking the truth doesn’t need a lot of words." (...)  
@@ -434,8 +441,14 @@ In a world of propaganda, the truth is always a conspiracy. If you tell the trut
 "The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
 -- Naval Ravikant [1974]*
 
+> *"People don’t realize how hard is to speak the truth, to a world full of people that don’t realize they’re living in a lie."  
+-- Edward Snowden [1983]*
+
 > *"Words are used, first and foremost, to soften the inflexibility of truth."  
 -- x@rapahelz*
+
+> *"Conservatives get mad when you lie to them. Progressives get mad when you tell them the truth."  
+-- x@zubymusic*
 
 
 
@@ -556,8 +569,6 @@ Hints:
 ## On decision making
 
 <!--
-+ x@naval -- Decisions: If you can’t decide, the answer is no. / If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality). / Choose the path that leaves you more equanimous in the long term.
-+ x@sahilbloom - The worst decisions in life are made when you allow your head to talk you into something when your gut already said no.
 > *"My brother says to never make a big decision before you take a shower."*
 > *"Se não houvesse decisoes eramos todos iguais."  -- António Simões*
 
@@ -623,6 +634,9 @@ We think we make choices but our choices are influenced by others. We pick what 
 
 > *"Think of your life merely as a long sequence of actions and decisions. If you’re like most people, many of these actions and decisions are sub-optimal. And what most of us mean when we say we’d like to «change» ourselves is simply that we’d like to make slightly more optimal actions and decisions. Keep your «self» out of your decisions, because most likely, it’s not about «you». Simply ask yourself, «Is this a good thing to do?» Yes? Then go do it."  
 -- Mark Manson [1984]*
+
+> *"The worst decisions in life are made when you allow your head to talk you into something when your gut already said no."  
+-- x@sahilbloom*
 
 ### How to speed up decisions?
 

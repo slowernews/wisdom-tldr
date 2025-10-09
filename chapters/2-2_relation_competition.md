@@ -5,9 +5,6 @@
 <!--
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 
-- be careful what you tolerate. You are teaching people how to treat you
-- Call a rich guy poor, and all he will do is smirk. Call a powerful man weak, and all he will do is smirk. Call a charming misogynist a «virgin», and all he will do is smirk. If it affects you, it is true.
-- civilized war: please the master and positive relationship with servants. if you appear too ambitious they’ll bring you down.
 - How he carries himself is how he will be treated. A man with supreme confidence and self-assurance will be treated like one.
 - if you don’t like something, just take away its only power: your attention.
 - in any hierarchy there are zealots
@@ -15,7 +12,6 @@
 - People don’t fly business class just for the seat. They do it to not have to spend 12 hours with normies. The more money you make the more you realize the barriers to luxury are not just for comfort. But for seperation.
 - People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
 - people respect who they can’t disrespect. 
-- Stop wasting time on fake achievements. Learn to fight, build, or make money. Real men create, not escape.
 - Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 -->
 
@@ -416,6 +412,9 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 > *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
 -- Rudyard Kipling [1865]*
 
+> *"Rich people think big. Poor people think small."  
+-- T. Harv Eker [1954]*
+
 > *"You spend the first 20 years of being rich accumulating all of this stuff. And then you’ll spend the next 20 years trying to get out of one thing after another to simplify your life."  
 -- Peter Mallouk [1971]*
 
@@ -723,28 +722,18 @@ Health is also an envy trigger. Often what people really envy is self-control.
 ### On lifestyle
 
 <!--
+- never before has a generation so diligently recorded themselves accomplishing so little.
 + x@Cobratate -- A sad generation who’s obsessed with taking happy pictures.
 > *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
-> *"We will only have work-life balance when we feel safe at home and feel safe at work."  -- Simon Sinek [1973]*
-> *"Give me a museum and I’ll fill it."  -- Pablo Picasso [1881]*
 
-- clutter is just a museum of shit you thought would make you happy.
-- Hit the gym. Avoid drama. Smell nice. Make money. Level up your circle. Talk less. Pray more. Think highly of yourself.
 - I much prefer the riches I had - anonymity, freedom, simplicity - to those they have today - technology driven constant connectedness, ultra convenient (but awful) food, instant entertainment. It’s the difference between a vigorous independent youth and one scheduled and managed by the predominant culture. I prefer the former.
-- If you’re from a poor background, entertainment is your enemy. That sh!t will keep you poor
-- look around, all that clutter used to be money
-- never before has a generation so diligently recorded themselves accomplishing so little.
-- Owning less is better than organising more. Eliminate instead of organize.
-- Poor people spend to be seen. Wealthy people spend to be invisible.
-- Sex, sun, rest, exercise, diet, self-respect, real friends, money, gratitude, discipline, laughter, purpose, peace of mind., mental clarity, purpose, gratitude, meditation, growth, time in nature.
+- If you’re from a poor background, entertainment is your enemy. That sh!t will keep you poor.
 - some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
 - watching sports is «by definition» NPC behavior
 - what’s your adrenaline type? velocidade ou fronteira do conhecido.
-- When you watch sports on TV, you are watching other men live out their dreams while you doing nothing for your own dreams. You are a Dream Cuck.
-- You don’t have to be rich to start living the life you want. Most people were just brainwashed into thinking that they wanted a luxurious, expensive lifestyle. A happy life tends to be much simpler: a healthy body, a mind at peace, a loving family, time to do what you love.
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
@@ -767,6 +756,11 @@ Hints:
 - I have no plans to retire. It’s the perfect combination of work and play that keep you young.
 - You can never be over dressed or over educated but avoid clothing that are more interesting than you are.
 - Simplicity is the ultimate sophistication.
+- You don’t have to be rich to start living the life you want. Most people were just brainwashed into thinking that they wanted a luxurious, expensive lifestyle. A happy life tends to be much simpler: a healthy body, a mind at peace, a loving family, time to do what you love.
+- Hit the gym. Avoid drama. Smell nice. Make money. Level up your circle. Talk less. Pray more. Think highly of yourself. Sex, sun, rest, exercise, diet, self-respect, real friends, money, gratitude, discipline, laughter, purpose, peace of mind, mental clarity, meditation, growth, time in nature.
+- When you watch sports on TV, you are watching other men live out their dreams while you doing nothing for your own dreams. You are a Dream Cuck.
+- Poor people spend to be seen. Wealthy people spend to be invisible.
+- Stop wasting time on fake achievements. Learn to fight, build, or make money. Real men create, not escape.
 
 > *"He who buys what he does not need, steals from himself." (...)  
 "Joy and sorrow sleep on the same bed."  
@@ -1027,11 +1021,13 @@ Hints:
 "Your best response to an insult is «you’re probably right». Often they are."  
 -- Kevin Kelly [1952]*
 
+> *"Do you know how I stopped getting protesters to my event at universities? I held them in the morning."  
+-- Jordan Peterson [1962]*
+
 ### On war
 
 <!--
 > *"Pierwsza ofiara wojny jest prawda"  -- Terry Hayes*
-> *"A single death is a tragedy; a million deaths is a statistic."*
 -->
 
 > *"Summer grass, all that’s left of warrior’s dreams."  
@@ -1045,6 +1041,9 @@ Hints:
 
 > *"War does not determine who is right - only who is left."  
 -- Bertrand Russell [1872]*
+
+> *"A single death is a tragedy; a million deaths is a statistic."  
+-- Kurt Tucholsky [1890]*
 
 > *"War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery."  
 -- Robin Hanson [1959]*

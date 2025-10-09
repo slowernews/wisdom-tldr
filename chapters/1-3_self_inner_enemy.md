@@ -265,14 +265,15 @@ Heros and cowards feel the same fear but their answers are different. Courage im
 > *"Without courage there cannot be truth, and without truth there can be no other virtue."  
 -- (sir) Walter Scott [1771]*
 
-> *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind."  
+> *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind." (...)  
+"Self-trust is the essence of heroism."  
 -- Ralph Waldo Emerson [1803]*
-
-> *"Courage is resistance to fear, mastery of fear — not absence of fear."  
--- Mark Twain [1835]*
 
 > *"Courage makes a man more than himself; for he is then himself plus his valor."  
 -- William R. Alger [1822]*
+
+> *"Courage is resistance to fear, mastery of fear — not absence of fear."  
+-- Mark Twain [1835]*
 
 > *"I bear all the wounds of all the battles I avoided."  
 -- Fernando Pessoa [1888]*
@@ -580,10 +581,6 @@ When hiding something about yourself, you automatically create shame. You’re s
 
 ### On entitlement and ego
 
-<!--
-- People will tolerate a bit of arrogance if you are talented and still young; but once you get older, you understand that you could have attracted many more opportunities if you had had the intelligence to learn humility earlier in life.
--->
-
 > *"Arrogance is a smokescreen for insecurity."  
 -- Amy Cuddy [1972]*
 
@@ -594,11 +591,18 @@ Entitlement comes in two forms:
 - I’m better than everybody so I deserve special treatment.
 - I’m worse than everybody so I deserve special treatment.
 
+Hints:
+
+- People will tolerate a bit of arrogance if you are talented and still young; but once you get older, you understand that you could have attracted many more opportunities if you had had the intelligence to learn humility earlier in life.
+
 > *"A good deed dies when it is spoken about."  
 -- vox populi*
 
 > *"I am not young enough to know everything."  
 -- Oscar Wilde [1854]*
+
+> *"Cynicism such as one finds very frequently among the most highly educated young men and women of the West results from the combination of comfort with powerlessness. Powerlessness makes people feel that nothing is worth doing, and comfort makes the painfulness of this feeling just endurable."  
+-- Bertrand Russell [1872]*
 
 > *"The first part of life is devoted to forming an healthy ego. The second half is going inward and letting go of it."  
 -- Carl Jung [1875]*
@@ -619,8 +623,6 @@ Entitlement comes in two forms:
 ### On addictions
 
 <!--
-- Porn isn’t real sex. Cocaine isn’t real energy. Alcohol isn’t real courage. Gambling isn’t real investing. Nightly news isn’t real facts. Social media isn’t really social. Business books aren’t real business.
-- signs of a man who has lost control of his life: watch porn. addicted to comfort. addicted to drugs and alcohol. spend all day indoor.
 - So many men lose themselves trying to make an ungrateful woman happy.
 -->
 
@@ -628,6 +630,11 @@ Entitlement comes in two forms:
 -- Nassim Taleb [1960]*
 
 Nietzsche describes 3 modern vices: OVERWORK (to be constantly busy is self-negation. It betrays a «will to forget» oneself), CURIOSITY (vague curiosity about everything, without deep obsessions, goes nowhere), SYMPATHY (sympathy for all means a refusal to rank good and bad).
+
+Hints:
+
+- Signs of a man who has lost control of his life: watch porn, addicted to comfort, addicted to drugs and alcohol. Spend all day indoor.
+- Porn isn’t real sex. Cocaine isn’t real energy. Alcohol isn’t real courage. Gambling isn’t real investing. Nightly news isn’t real facts. Social media isn’t really social. Business books aren’t real business.
 
 > *"Addiction to knowledge is like any other addiction. It offers an escape from the fear of emptiness, of loneliness, of frustration, the fear of being nothing."  
 -- x@k__quotes*
@@ -858,12 +865,8 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 ### On procrastination
 
 <!--
-- i think procrastination leads to burnout much more than work does.
 - Just finished the book «Buy Back Your Time». Key takeaway? Outsource your weaknesses. It isn’t lazy, it’s smart. Double down on your zone of genius and watch your business, health and life transform.
-- Laziness is just a symptom of not having something worth waking up for. It’s a lack of direction. When your goals align with your passions, laziness fades away because you’re driven by something bigger than yourself. Purpose fuels progress. It’s about building something that outlasts you.
-- Laziness is often disguised as a lack of knowledge.
 - One pattern I’ve noticed in all miserable people: They overthink and underact.
-- You’re too gifted to be paralyzed by procrastination. Dear son, I need you to focus.
 -->
 
 > *"One of the counterintuitive things that I’ve learned is that procrastination is often a side-effect of perfectionism."  
@@ -877,6 +880,9 @@ Hints:
 - Don’t wait for the perfect occasion, a good occasion is a safer bet. You will languish if you stop for a long time and paralysis is worse than bad timing.
  At some point, the pain of not doing it becomes greater than the pain of doing it. Pressed by circumstances, we feel unusually energized and focused (the panic monster). 
 - However, never mistake action for motion. You must think like a man of action, and act like a man of thought. So make a plan. Any plan will do.
+- Procrastination leads to burnout much more than work does.
+- You’re too gifted to be paralyzed by procrastination. Dear son, I need you to focus.
+- Laziness is often disguised as a lack of knowledge but is just a symptom of not having something worth waking up for. It’s a lack of direction. When your goals align with your passions, laziness fades away because you’re driven by something bigger than yourself. Purpose fuels progress. It’s about building something that outlasts you.
 
 > *"Evil is whatever distracts."  
 -- Franz Kafka [1883]*
@@ -898,14 +904,18 @@ Hints:
 - Remove unnecessary distractions and obligations that aren’t truly serving your end goals. Technology is your slave, not your master. You’re not choosing ignorance, you’re choosing to not watch wrestling.
 - Minimalism doesn’t avoid possession. Only excess. The less you own, the less owns you. Owning less is better than organizing more. Eliminate instead of organizing. Organizing your email is like alphabetizing your recycling. Actively declutter makes room for your true treasures and clarify your values. Do not hold on to possessions you no longer need. Storage is a way of warehousing the past. If you don’t love it or use it is clutter. Decluttering is self-care. Clutter is not just physical stuff. It’s old ideas, toxic relationships and bad habits. Clutter is everything that doesn’t support the better self.
 - Use it or loose it. A tool is useful when passes human level. Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford.
+- Owning less is better than organising more. Eliminate instead of organize.
 - Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
-- All that clutter used to be money.
+- All that clutter used to be money. Clutter is just a museum of shit you thought would make you happy.
 
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus [-341]*
 
 > *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
 -- Colette [1873]*
+
+> *"Give me a museum and I’ll fill it."  
+-- Pablo Picasso [1881]*
 
 
 
@@ -1149,14 +1159,13 @@ Aging implies wear and tear, often seen as a high price to pay for maturity.
 ### On maturity
 
 <!--
-- Maturity is when you don’t force people to choose you.
 - Normalize this by age 30: Talk slow. Be clear. Never mumble. Don’t interrupt.
 -->
 
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
 -- Kevin Kelly [1952]*
 
-The advantage of aging is that you become more decisive. Maturing is realizing that many things don’t need your comments.
+The advantage of aging is that you become more decisive. Maturing is realizing that many things don’t need your comments. Maturity is when you don’t force people to choose you.
 
 > *"The youth can walk faster but the elder knows the road."  
 -- vox populi*
@@ -1219,10 +1228,11 @@ Finding a place to die is an important thing to do.
 
 ### On loneliness
 
-<!--
-- the cure to male loneliness is being extremely ambitious
-- A person who is okay with being alone is a powerful person.
--->
+> *"If a man knows more than others he becomes lonely." (...)  
+"Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you."  
+-- Carl Jung [1875]*
+
+A person who is okay with being alone is a powerful person.
 
 > *"A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free."  
 -- Arthur Schopenhauer [1788]*
@@ -1233,11 +1243,21 @@ Finding a place to die is an important thing to do.
 > *"If you are afraid of loneliness, don’t marry."  
 -- Anton Chekhov [1860]*
 
-> *"If a man knows more than others he becomes lonely." (...)  
-"Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you."  
--- Carl Jung [1875]*
-
 ### On pride
 
 > *"Pride keeps people poor more than laziness does."  
 -- x@zubymusic*
+
+### On dreams
+
+> *"I dream my painting and I paint my dream."  
+-- Vincent Van Gogh [1853]*
+
+> *"The best way to make your dreams come true is to wake up."  
+-- Paul Valery [1871]*
+
+> *"Dreams are illustrations from the book your soul is writing about you."  
+-- Marsha Norman [1947]*
+
+> *"Goals are dreams with deadlines."  
+-- Diana Scharf Hunt [1952]*

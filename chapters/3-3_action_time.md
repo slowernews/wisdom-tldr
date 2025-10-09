@@ -157,17 +157,11 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 > *"Yesterday is but today’s memory, and tomorrow is today’s dream."  
 -- Kahlil Gibran [1883]*
 
-> *"Idleness makes hours pass slowly and years swiftly. Activity makes the hours short and the years long."  
--- Cesare Pavese [1908]*
-
 > *"Stop measuring days by degree of productivity and start experiencing them by degree of presence."  
 -- Alan Watts [1915]*
 
 > *"Money has no utility to me. Time has utility to me."  
 -- Warren Buffett [1930]*
-
-> *"Dream as if you’ll live forever. Live as if you’ll die today."  
--- James Dean [1931]*
 
 > *"If we learn to enjoy waiting, we don’t have to wait to enjoy."  
 -- Kazuaki Tanahashi [1933]*
@@ -177,9 +171,6 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 
 > *"You are your worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you’re only half involved in what you do."  
 -- Robert Greene [1959]*
-
-> *"What’s life? Showing up for the people you love, again and again, until you can’t show up anymore."  
--- Rebecca Walker [1969]*
 
 > *"The past is a narrative and the future is a fiction. The only absolute truth is here and now."  
 -- Naval Ravikant [1974]*
@@ -205,15 +196,9 @@ Futurism is a study of time. Anomalies often represent the future but to our eye
 > *"A man without a vision for his future always return to his past."  
 -- vox populi*
 
-> *"I dream my painting and I paint my dream."  
--- Vincent Van Gogh [1853]*
-
 > *"Every saint has a past, and every sinner has a future." (...)  
 "Anyone who lives within their means suffers from a lack of imagination."  
 -- Oscar Wilde [1854]*
-
-> *"The best way to make your dreams come true is to wake up."  
--- Paul Valery [1871]*
 
 > *"The empires of the future are empires of the mind."  
 -- Winston Churchill [1874]*
@@ -227,29 +212,14 @@ Futurism is a study of time. Anomalies often represent the future but to our eye
 > *"The future belongs to those who see possibilities before they become obvious."  
 -- John Sculley [1939]*
 
-> *"Dreams are illustrations from the book your soul is writing about you."  
--- Marsha Norman [1947]*
-
-> *"Goals are dreams with deadlines."  
--- Diana Scharf Hunt [1952]*
-
 > *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
 -- Kevin Kelly [1952]*
-
-> *"Rich people think big. Poor people think small."  
--- T. Harv Eker [1954]*
-
-> *"The probability that your theory is correct decreases exponentially with the number of assumptions you make."  
--- Pedro Domingos [1965]*
 
 > *"No matter what you do or make in life, it will be forgotten. And then people will just make it again and pretend that what you did never happened."  
 -- John Hodgman [1971]*
 
 > *"The future belongs to people who are good at creating things, not people who are good at dividing them up."  
 -- Naval Ravikant [1974]*
-
-> *"If you don’t imagine, nothing ever happens at all."  
--- John Green [1977]*
 
 > *"Every expert has a past. Every creator has a future."  
 -- x@rapahelz*

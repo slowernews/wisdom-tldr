@@ -1549,6 +1549,7 @@ Hints:
 - Loyalty is earned, not owed. If they drain your energy, stunt your growth, or disrespect your boundaries, let them go. You weren’t born to carry dead weight. Protect your peace and move forward.
 - Never force, don’t beg and don’t chase.
 - One day you’re going to miss how much I cared.
+- Be careful what you tolerate. You are teaching people how to treat you.
 - The more you do for people the less gratitude they show. The more you go out of your way for them to like you, the less appreciative they are of you. too much availability kills your VALUE.
 
 > *"Faults are thick where love is thin."  

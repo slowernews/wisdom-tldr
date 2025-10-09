@@ -24,6 +24,9 @@ Your job here on earth is to make a few life decisions extremely well, and the r
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."  
 -- Jordan Peterson [1962]*
 
+> *"What’s life? Showing up for the people you love, again and again, until you can’t show up anymore."  
+-- Rebecca Walker [1969]*
+
 > *"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you."  
 -- Naval Ravikant [1974]*
 

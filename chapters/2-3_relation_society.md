@@ -19,6 +19,8 @@
 > *"Tech is the accelerator, regulation is the brake."  -- x@naval*
 > *"Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers."  -- x@naval*
 > *"The greatest threats to the future are suppression of freedom of speech—freedom of mathematics, freedom of expression, and freedom of creation. And those are pointless if they can’t be backed up by violence. If you don’t have your own ability to inflict violence, it will be taken away from you. One recent tweet I had said, “The right to vote does not give you power. Power gives you the right to vote." You can just do a simple thought exercise: If there were a hundred of us on a desert island and we’re trapped, and we all kind of have to cooperate to create a new society. Suppose there are 10 people on the island who are all from the same ethnic background, who are all extremely unified, and they have all the guns. Those 10 have it, the other 90 don’t. Who do you think is going to end up running the place “for the benefit of the others"? Anyone who’s been around the block a few times knows what’s going to happen. So it’s just the nature of humans that if you want freedom at the individual level, if you want the rights to be dispersed and distributed, the power has to be dispersed and distributed. And there’s very few institutions and organizations that do that. Really, it’s the right to bear arms, cryptography, free speech, mathematics, personal computing. These are examples of decentralized technologies and capabilities that spread power amongst people. Most things concentrate power."  -- x@naval*
+> *"The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states."  -- Naval Ravikant [1974]*
+> *"The end state of all vehicles is autonomous. The end state of all military hardware is drones."  -- Naval Ravikant [1974]*
 > *"The struggle between collectivists and individualists is as old as humanity."  -- x@naval*
 > *"Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome."  -- x@naval*
 > *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
@@ -27,7 +29,6 @@
 > *"A country’s assets reside in the tinkerers, the hobbyists, and the risk-takers."  -- Nassim Taleb [1960]*
 > *"America innovates, China replicates, Europe regulates."  -- Pedro Domingos [1965]*
 > *"Be wary of any word that ends with “ism”. More often than not, "ism" at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  -- x@rapahelz*
-> *"Do you know how I stopped getting protesters to my event at universities? I held them in the morning."  -- Jordan Peterson*
 > *"Europe was created by history. America was created by philosophy."  -- Margaret Thatcher*
 > *"Ideologues often become so captivated by an abstract ideal of humanity that they cease to care about actual humans."  -- x@g_s_bhogal*
 > *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb [1960]*
@@ -35,8 +36,6 @@
 > *"It is amazing that people who think we cannot afford to pay for doctors, hospitals, and medication somehow think that we can afford to pay for doctors, hospitals, medication and a government bureaucracy to administer it." -- Thomas Sowell [1930]*
 > *"O comunismo penetrou até mesmo nos circulos cristãos disfarçado de solidariedade. É nosso dever pastoral expô-lo."  -- Robert Francis Prevost (Papa Leão XIV em 2010)
 > *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos [1965]*
-> *"The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states."  -- Naval Ravikant [1974]*
-> *"The end state of all vehicles is autonomous. The end state of all military hardware is drones."  -- Naval Ravikant [1974]*
 > *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism -- ownership of government by an individual, by a group or by any controlling private power."  -- FDR*
 > *"the way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
@@ -76,7 +75,7 @@ What is the simplest thing you can do to be more trustworthy?
 - law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
 - liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
 - low-key activism is often just narcisism. most people don’t really understand the issuesthey are being activist about. It’s just virtue signaling on Social Media. A young generation doesn’t know what a really debate dosen’t include demonizing people and get them canceled.
-- Men often believe > *"or pretend > *"that the "Law" is something sacred, or at least a science > *"an unfounded assumption very convenient to governments.
+- Men often believe or pretend that the "Law" is something sacred, or at least a science an unfounded assumption very convenient to governments.
 - minimal amounts of cash improve the life of poor more than equivalent spending on aid programs or goods.
 - nacionalistas vs globalistas | moderados vs radicais?
 - Never apologize to the politically correct.
@@ -387,8 +386,6 @@ When a politician says "threat to our democracy". They really mean threat to the
 
 > *"The real tax is society forcing otherwise productive people to pay attention to politics."  
 -- Naval Ravikant [1974]* 
-
-
 
 ### On wokeism
 
