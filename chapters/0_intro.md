@@ -234,6 +234,9 @@ Hints:
 > *"The path to paradise begins in hell."  
 -- Dante Alighieri [1265]*
 
+> *"All men die, but not every man lives."  
+-- William Wallace [1270]*
+
 > *"A person often meets his destiny on the road he took to avoid it."  
 -- Jean de La Fontaine [1621]*
 

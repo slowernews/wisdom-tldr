@@ -25,10 +25,10 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *1.1 - On foundations*
 - [On autonomy](/chapters/1-1_self_foundations.md#on-autonomy)
+	- [On authenticity](/chapters/1-1_self_foundations.md#on-authenticity)
 	- [On accountability](/chapters/1-1_self_foundations.md.md#on-accountability)
 	- [On trust and reputation](/chapters/1-1_self_foundations.md#on-trust-and-reputation)
-- [On drive](/chapters/1-1_self_foundations.md#on-drive)
-- [On authenticity](/chapters/1-1_self_foundations.md#on-authenticity)
+- [On effort](/chapters/1-1_self_foundations.md#on-effort)
 - [On respect](/chapters/1-1_self_foundations.md#on-humility)
 
 *1.2 - On growth*

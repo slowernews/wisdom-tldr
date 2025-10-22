@@ -840,6 +840,9 @@ Hints:
 > *"Spend extravagantly on the things that you love and cut costs mercilessly on the things you don’t."  
 -- Ramit Sethi [1982]*
 
+> *"A good life is not a life without problems. A good life is a life with good problems."  
+-- Mark Manson [1984]*
+
 #### On travel
 
 > *"Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain."  
