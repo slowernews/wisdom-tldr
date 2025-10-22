@@ -24,17 +24,17 @@ Principles on difficult subjects / Concise answers to difficult questions
 ## Chapter I - SELF
 
 *1.1 - On foundations*
-- [On autonomy](/chapters/1-1_self_foundations.md#on-autonomy)
-	- [On authenticity](/chapters/1-1_self_foundations.md#on-authenticity)
-	- [On accountability](/chapters/1-1_self_foundations.md#on-accountability)
-- [On effort](/chapters/1-1_self_foundations.md#on-effort)
-	- [On initiative](/chapters/1-1_self_foundations.md#on-initiative)
-	- [On persistence](/chapters/1-1_self_foundations.md#on-persistence)
-	- [On ambition](/chapters/1-1_self_foundations.md#on-ambition)
-- [On respect](/chapters/1-1_self_foundations.md#on-humility)
-	- [On humility](/chapters/1-1_self_foundations.md#on-humility)
-	- [On gratitude](/chapters/1-1_self_foundations.md#on-gratitude)
-	- [On apologies](/chapters/1-1_self_foundations.md#on-apologies)
+- [On autonomy](/chapters/1-1_self_foundation.md#on-autonomy)
+	- [On authenticity](/chapters/1-1_self_foundation.md#on-authenticity)
+	- [On accountability](/chapters/1-1_self_foundation.md#on-accountability)
+- [On effort](/chapters/1-1_self_foundation.md#on-effort)
+	- [On initiative](/chapters/1-1_self_foundation.md#on-initiative)
+	- [On persistence](/chapters/1-1_self_foundation.md#on-persistence)
+	- [On ambition](/chapters/1-1_self_foundation.md#on-ambition)
+- [On respect](/chapters/1-1_self_foundation.md#on-humility)
+	- [On humility](/chapters/1-1_self_foundation.md#on-humility)
+	- [On gratitude](/chapters/1-1_self_foundation.md#on-gratitude)
+	- [On apologies](/chapters/1-1_self_foundation.md#on-apologies)
 
 *1.2 - On growth*
 - [On comfort and risk](/chapters/1-2_self_growth.md#on-comfort-and-risk)
