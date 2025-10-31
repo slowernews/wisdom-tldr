@@ -361,7 +361,7 @@ Intelligence is a spectrum, your dog is intelligent also.
 
 > *"Genious is man who can do the average thing when everyone else around him is losing his mind." (...)  
 "Intelligence not only demands solitude but feeds upon it." (...)  
-"The smarter you are, the faster you see through any given game."
+"The smarter you are, the faster you see through any given game."  
 -- Naval Ravikant [1974]*
 
 > *"Most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities."  

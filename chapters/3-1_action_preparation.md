@@ -478,7 +478,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"To be prepared is half of the victory."  
 -- Miguel de Cervantes [1547]*
 
-> *"By failing to prepare, you are preparing to fail."
+> *"By failing to prepare, you are preparing to fail."  
 -- Benjamin Franklin [1706]*
 
 > *"What we anticipate seldom occurs; what we least expect generally happens."  
@@ -494,7 +494,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 "Plans are of little importance, but planning is essential."  
 -- Winston Churchill [1874]*
 
-> *"A goal without a plan is just a wish."
+> *"A goal without a plan is just a wish."  
 -- Antoine de Saint Exupery [1900]*
 
 > *"All human plans are subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe."

@@ -1472,7 +1472,7 @@ Hints:
 "Fixing the dishwasher is harder than washing the dishes. Automation makes (remaining) jobs harder, not easier." (...)  
 "Hire for ideas and agency." (...)  
 "Never trust an engineer in a suit" (...)  
-"The people who embrace AI will automate the people who don’t."
+"The people who embrace AI will automate the people who don’t."  
 -- Sahil Lavingia [1989]*
 
 > *"We value “T-shaped” people. That is, people who are both genera lists (highly skilled at a broad set of valuable things—the top of the T) and also experts (among the best in their field within a narrow discipline—the vertical leg of the T) (...) An expert who is too narrow has difficulty collaborating. A generalist who doesn’t go deep enough in a single area ends up on the margins, not really contributing as an individual. Where you choose to be deep should be an area of interest to you and which the market values."  

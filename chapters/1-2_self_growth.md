@@ -338,7 +338,7 @@ Introverts have more probability of being an expert in their field. Extraversion
 -- Robin Sharma [1965]*
 
 > *"Amateurs play for tricks, masters play for position."  
--- pystack@hn*
+-- hn@pystack*
 
 > *"The pursuit of excellence comes at a price. The biggest cost is solitude. Collectivist societies struggle with excellence because the price of solitude is hard for most to accept."  
 -- x@kunalb11*

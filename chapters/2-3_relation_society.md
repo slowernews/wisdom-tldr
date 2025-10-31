@@ -1013,8 +1013,8 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 > *"The cash register did more for human morality than the congregational church."  
 -- Charlie Munger [1924]*
 
-> *"We are living in an era when sanity is controversial, and insanity is just another viewpoint - and degeneracy only another lifestyle."  -
-- Thomas Sowell [1930]*
+> *"We are living in an era when sanity is controversial, and insanity is just another viewpoint - and degeneracy only another lifestyle."  
+-- Thomas Sowell [1930]*
 
 > *"Reality TV to me is the museum of social decay."  
 -- Gary Oldman [1958]*

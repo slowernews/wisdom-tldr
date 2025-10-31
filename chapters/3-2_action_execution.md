@@ -187,7 +187,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 > *"Start as close to the end as possible."  
 -- Kurt Vonnegut [1922]*
 
-> *"If you don’t know where you are going, you’ll end up someplace else."
+> *"If you don’t know where you are going, you’ll end up someplace else."  
 -- Yogi Berra [1925]*
 
 > *"No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant."  
@@ -497,7 +497,7 @@ Consuming information gives the control freak an illusion of control. He doesn�
 > *"One’s real life is often the life that one does not lead."  
 -- Oscar Wilde [1854]*
 
-> *"Some of us think holding on makes us strong, but sometimes it is letting go." 
+> *"Some of us think holding on makes us strong, but sometimes it is letting go."  
 -- Hermann Hesse [1877]*
 
 > *"If things seem under control, you’re just not going fast enough."  
@@ -523,7 +523,7 @@ Consuming information gives the control freak an illusion of control. He doesn�
 > *"Our only security is our ability to change."  
 -- John C. Lilly [1915]*
 
-> *"Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security there is." 
+> *"Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security there is."  
 -- John Allen Paulos [1945]*
 
 
@@ -863,7 +863,7 @@ Hints:
 "The senses do not deceive; it is the judgment that deceives."  
 -- J.W. Goethe [1749]*
 
-> *"Everything you say should be true, but not everything true should be said." (...)
+> *"Everything you say should be true, but not everything true should be said." (...)  
 "Every man is guilty of all the good he did not do."  
 -- Voltaire [1694]*
 
