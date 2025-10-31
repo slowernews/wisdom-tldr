@@ -73,6 +73,7 @@ Hints:
 - Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
 - You are shaped by how you see others seeing you.
 - tetris taught me that when you try to fit in, you’ll disappear.
+- Honesty witout empathy is brutality. Empathy without honesty is manipulation.
 -->
 
 > *"When we see truth in a person we call it authenticity."  
@@ -122,7 +123,7 @@ Hints:
 
 > *"Escape competition through authenticity." (...)  
 "What the world craves is authenticity." (...)   
-"To be honest speak without identity."
+"To be honest speak without identity."  
 -- Naval Ravikant [1974]*
 
 > *"Anything you loose by being real was fake."  
@@ -230,6 +231,8 @@ Trust, not money, is the currency of business and life.
 
 <!--
 + x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
+> *"If you need inspiration, don’t do it."  -- Elon Musk [1971]*
+> *"The eyes do not see what the mind does not want."  -- vox populi*
 
 - As a man, never stay at home all day. Go out, make friends, and create new connections. A man's job is to face the world, take risks, and embrace difficulties.
 - Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself. Dark but true
@@ -289,12 +292,17 @@ Hints:
 > *"80% of what people call agency is trying the «dumb» solution and iterating from that. You can just do dumb things."  
 -- x@farawaylaughtr*
 
+> *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
+-- x@jonmorrow*
+
 ### On discipline
 
 > *"The distance between dreams and reality is called discipline."  
 -- Paulo Coelho [1947]*
 
-Consistency is boring to watch. But impossible to compete with.
+Everyone is motivated until the 4AM alarm, then it’s discipline. Consistency is boring to watch. But impossible to compete with.
+
+Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. Most people keep telling themselves old stories that aren’t serving them. Lazyness is resting before getting tired.
 
 > *"Gold, when beaten, shines." (...)  
 "If there’s no wind, row." (...)  
@@ -316,11 +324,15 @@ Consistency is boring to watch. But impossible to compete with.
 > *"Discipline is choosing between what you want now and what you want most."  
 -- Abraham Lincoln [1809]*
 
-> *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons."  
+> *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons." (...)  
+> *"Motivation is what gets you started. Habit is what keeps you going."  
 -- Jim Rohn [1930]*
 
 > *"I don’t count my sit-ups. I only start counting once it starts hurting."  
 -- Muhammad Ali [1942]*
+
+> *"With a strong enough «why», you can overcome any «how»."  
+-- Tony Robbins [1960]*
 
 > *"The mind gives up before the body." (...)  
 "Persistence beats timing. Execution beats luck. Not immediately but eventually."  
@@ -432,6 +444,9 @@ One way to humble yourself is to place yourself in the position of being the wea
 > *"You learn more from other people if you pretend you know less than them."  
 -- x@alexhormozi*
 
+> *"Empathy without boundaries is self destruction."  
+-- x@khoucasian*
+
 ### On gratitude
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
@@ -486,6 +501,9 @@ Play the cards you are dealt. And sometimes you will be dealt bad cards. Being g
 -- Benjamin Franklin [1706]*
 
 How to apologise? Quickly, specifically, sincerely.
+
+> *"That which we are capable of feeling, we are capable of saying."  
+-- Miguel de Cervantes [1547]*
 
 > *"Apology under pressure is not an apology."  
 -- Nassim Taleb [1960]*

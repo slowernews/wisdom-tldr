@@ -1933,6 +1933,8 @@ Hints:
 + x@giammacool -- If she refuses to sign a prenup she’s planning the wedding and the exit strategy.
 + x@giammacool -- Ladies, If you’re thinking, «I don’t recognize the man I married, I’m not attracted to him anymore», Consider this… Pointing out everything he does wrong daily changes a man. A man who is constantly torn down will naturally pull away. If you’re not building him up daily, you’re setting yourself up for your own downfall, and worse, you’re not protecting your man.
 + x@giammacool -- Nothing is more attractive to a man than your willingness to adopt his last name. Either way, your last name is either your husband’s or your father’s. So, claiming you want to keep your last name isn’t strictly accurate.
+
+- A women is either a 0 or a 1. A hore or a wife material. Dont overcomplicate.
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  

@@ -463,6 +463,8 @@ Hints:
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 - Don’t tell everyone your plans, instead show them your results.
 - The Romans removed the soldiers’ incentive to be a coward and hurt others thanks to a process called decimation. If a legion loses a battle and there is suspicion of cowardice, 10 percent of the soldiers and commanders are put to death, usually by random lottery.
+
+> *"Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone."  -- x@orangebook_*
 -->
 
 > *"All battles are won or lost before they are ever fought."  

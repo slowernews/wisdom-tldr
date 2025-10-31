@@ -113,7 +113,8 @@ Hints:
 "Beyond the basics, money doesn’t make you happier because, beyond the basics, nothing makes you happier." (...)  
 "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned." (...)  
 "The price of trying to make everybody else happy is making yourself miserable." (...)  
-"Happiness is your default state when you remove everything."  
+"Happiness is your default state when you remove everything." (...)  
+"Self-obsession is the root of all unhappiness. The happiest people in life love something more than they love themselves. They love their children, they love God, they love their mission, what have you. And all misery comes from rumination, from sitting around...going in circles in your head about me, me, me, me. I get interested in topics and concepts and ideas and understandings. And the more I focus that way, the less I think about myself."  
 -- Naval Ravikant [1974]*
 
 > *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happiness. Or jail."  

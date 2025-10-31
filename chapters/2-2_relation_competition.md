@@ -683,42 +683,6 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 > *"Beauty needs a witness. This the only thing a man ever needs to know."  
 -- Zan Perrion [1964]*
 
-### On health
-
-<!--
-- a sedentary lifestyle is a magnet for depression.
-- A women is either a 0 or a 1. A hore or a wife material. Dont overcomplicate.
-- Depression and schizophrenia are so tied to poor gut bacteria that researchers can identify a person with depression just by analyzing their gut bacteria composition.
-- Pain changes people. Some become rude. Some become silent.
--->
-
-> *"The secret to living well and longer is: eat half, walk double, laugh triple and love without measure."  
--- vox populi*
-
-Health is also an envy trigger. Often what people really envy is self-control.
-
-#### How to stay healthy?
-
-- Exercise is king. Balance on body training is training flexibility (yoga or animal movements) and strength (weights). Minimum effective dose.
-- Nutrition is queen. Eat more real foods and practice intermittent fasting.
-- Follow your circadian rhythm. If you need an alarm clock to get you started mornings, you are cheating yourself on rest. Memories need sleep to get consolidated.
-
-> *"The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison."  
--- Ann Wigmore [1909]*
-
-> *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  
--- x@realjamespierce*
-
-> *"Calm the stomach. Move the body. Rest the mind." (...)  
-"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance."  
--- Naval Ravikant [1974]*
-
-> *"Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone."  
--- x@orangebook_*
-
-> *"Healthcare is primarily your diet, exercise, sleep, and lifestyle habits. What most people call 'healthcare' is actually sick care."  
--- x@zubymusic*
-
 ### On lifestyle
 
 <!--
@@ -933,6 +897,9 @@ Hints:
 
 > *"Your current results are just the visible output of your old decisions compounding over time. But since people evaluate based on short-term signals, they often misinterpret whether something is actually working. This is why so many businesses & individuals chase surface level metrics instead of real durable progress. Early effort often leads to decline before real takeoff, but most people quit before the inflection point."  
 -- x@signulll*
+
+> *"Pride keeps people poor more than laziness does."  
+-- x@zubymusic*
 
 #### On barriers to success
 

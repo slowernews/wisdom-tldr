@@ -26,6 +26,7 @@
 
 - [X.COM]
 
+  @_falsi1ke
   @alexhormozi
   @alpharivelino
   @anuatluru
@@ -40,7 +41,6 @@
   @cxgonzalez
   @david_perell
   @empty_america
-  @falsi1ke
   @farawaylaughtr
   @farnamstreet
   @farshadsarrafi

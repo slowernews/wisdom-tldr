@@ -28,7 +28,7 @@ Just start. Stop making resolutions and start making something. Time is the most
 
 > *"Rising early makes the road short." (...)  
 "The person who removes a mountain begins by carrying away small stones." (...)  
-"The best time to plant a tree was 20 years ago. The second best time is right now."   
+"The best time to plant a tree was 20 years ago. The second best time is right now."  
 -- vox populi*
 
 > *"The journey of a thousand miles begins with a single step."  
@@ -560,7 +560,7 @@ Hints:
 - There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists. (Mark Manson)
 
 > *"Where there is too much, something is missing." (...)  
-"Sunshine all the time makes a desert."   
+"Sunshine all the time makes a desert."  
 -- vox populi*
 
 > *"Life is a balance between holding on and letting go."  
@@ -1183,6 +1183,9 @@ Forgiveness is a process of release so the opposite is a decision to hold onto s
 
 > *"To heal a wound you must stop scratching it."  
 -- Paulo Coelho [1947]*
+
+> *"It’s not just other people we need to forgive. Sometimes we need to forgive ourselves."  
+-- Mitch Albom [1958]*
 
 > *"People find it far easier to forgive others for being wrong than being right."  
 -- J.K. Rowling [1965]*
