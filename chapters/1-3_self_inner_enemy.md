@@ -102,7 +102,8 @@ Hints:
 > *"Worrying is like paying a debt you don’t owe."  
 -- Mark Twain [1835]*
 
-> *"And God said love your enemy and I obeyed him and loved myself."  
+> *"And God said love your enemy and I obeyed him and loved myself." (...)  
+"Our anxiety does not come from thinking about the future, but from wanting to control it."  
 -- Kahlil Gibran [1883]*
 
 > *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
@@ -224,6 +225,7 @@ Hints:
 - What would you do if you weren’t afraid?
 - dishonesty is a reaction to fear. fear just wants us to stay the same.
 - climbing out the hole is about letting go of pride.
+- the softer the cage, the longer you stay
 -->
 
 > *"We fear things in proportion to our ignorance of them."  
@@ -287,6 +289,9 @@ Hints:
 
 > *"Courage is resistance to fear, mastery of fear — not absence of fear."  
 -- Mark Twain [1835]*
+
+> *"Hatred is the coward's revenge for being intimidated."  
+-- George Bernard Shaw [1856]*
 
 > *"Nothing in life is to be feared, it is only to be understood."  
 -- Marie Curie [1867]*
@@ -453,6 +458,9 @@ Smart people aren’t used to failing, so they struggle to learn from their mist
 > *"Failure is only the opportunity to begin again more intelligently."  
 -- Henry Ford [1863]*
 
+> *"Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom."  
+-- Bertrand Russell [1872]*
+
 > *"Failure is the condiment that gives success its flavour."  
 -- Truman Capote [1924]*
 
@@ -534,6 +542,9 @@ Most angry people are envious people who don’t understand that life will only 
 > *"Any person capable of angering you becomes your master; he can anger you only you permit yourself being disturbed by him."  
 -- Epictetus [0050]*
 
+> *"Whatever begins in anger, ends in shame."  
+-- Benjamin Franklin [1706]*
+
 > *"And God said «love your enemy», and I loved myself."  
 -- Kahlil Gibran [1883]*
 
@@ -558,6 +569,9 @@ You cannot live when you are untouchable. Life is vulnerability.
 
 > *"The greater the outward show, the greater the inward poverty."  
 -- J. Krishnamurti [1895]*
+
+> *"What people are ashamed of usually makes a good story."  
+-- F. Scott Fitzgerald [1896]*
 
 > *"Man is not what he thinks he is, he is what he hides."  
 -- Andre Malraux [1901]*
@@ -756,6 +770,9 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 > *"The first art of kings is to endure hatred."  
 -- Seneca [-004]*
 
+> *"To feel envy is human, to savour schadenfreude is devilish."  
+-- Arthur Schopenhauer [1788]*
+
 > *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
 -- Henry Thomas Buckle [1821]*
 
@@ -817,7 +834,6 @@ Hints:
 
 > *"The best mirror is an old friend."  
 -- George Herbert [1593]*
-
 
 > *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
 -- Ralph Waldo Emerson [1803]*
@@ -1153,6 +1169,9 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 > *"You’re a kid until you have kids."  
 -- Sahil Lavingia [1989]*
 
+> *"When I was young, I used to admire intelligent people; as I grow older, I admire kind people."  
+-- Abraham Heschel [1907]*
+
 ### On loneliness
 
 > *"If a man knows more than others he becomes lonely." (...)  
@@ -1166,6 +1185,9 @@ A person who is okay with being alone is a powerful person.
 
 > *"I hate who teals my solitude without, in exchange, offering me true company."  
 -- Friedrich Nietzsche [1844]* 
+
+> *"And when nobody wakes you up in the morning, and when nobody waits for you at night, and when you can do whatever you want. what do you call it, freedom or loneliness?"  
+-- Milan Kundera [1929]*
 
 > *"If you are afraid of loneliness, don’t marry."  
 -- Anton Chekhov [1860]*

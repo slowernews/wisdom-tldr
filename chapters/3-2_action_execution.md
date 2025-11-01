@@ -956,6 +956,9 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 > *"Being pacifist in face of wolves is the source of endless tragedy."  
 -- vox populi*
 
+> *"He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you."  
+-- Friedrich Nietzsche [1844]*
+
 > *"A violent man will die a violent death."  
 -- Lao Tzu [-571]*
 

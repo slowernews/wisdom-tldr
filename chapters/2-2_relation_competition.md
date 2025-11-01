@@ -356,6 +356,9 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Some people feel the rain. Others just get wet."  
 -- Bob Marley [1945]*
 
+> *"The thing about smart people is that they seem crazy to dumb people."  
+-- Stephen Hawking*
+
 > *"What is the difference between a madman and a genious? Success."  
 -- Javier Milei [1970]*
 

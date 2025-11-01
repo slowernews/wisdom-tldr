@@ -362,7 +362,7 @@ Hints:
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna [1943]*
 
-Truth does not mind to be questioned. A lie does not like being challenged.
+Truth doesn’t mind to be questioned. A lie does..
 
 In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don’t need to reharse anything.
 
@@ -386,13 +386,17 @@ Hints:
 > *"Truth prevails where opinions are free."  
 -- Thomas Paine [1737]*
 
+> *"All truth passes through three stages: First, it is ridiculed; second, it is violently opposed; and third, it is accepted as self-evident."  
+-- Arthur Schopenhauer [1788]*
+
 > *"It is easier for the world to accept a simple lie than a complex truth."  
 -- Alexis de Tocqueville [1805]*
 
 > *"Truth emerges from the clash of adverse ideas."  
 -- John Stuart Mill [1806]*
 
-> *"Sometimes people don’t want to hear the truth because they don’t want their ilusions destroyed."  
+> *"Sometimes people don’t want to hear the truth because they don’t want their ilusions destroyed." (...)  
+"All truths that are kept silent become poisonous."  
 -- Friedrich Nietzsche [1844]* 
 
 > *"The truth is rarely pure and never simple."  

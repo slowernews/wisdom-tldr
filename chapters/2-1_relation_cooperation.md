@@ -996,6 +996,9 @@ Be generous and share your strengths. Impact the world. When you teach, you do s
 "I’d rather have criticism from a genius than praise from an idiot."  
 -- vox populi*
 
+> *"Time is a great teacher, but unfortunately it kills all its students."    
+-- Hector Berlioz [1803]*
+
 > *"A critic is a legless man who teaches running."  
 -- Channing Pollock [1880]*
 

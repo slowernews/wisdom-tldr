@@ -57,6 +57,7 @@ If you are a team leader, how much do team members trust you?
 What do you need to do to regain the trust of others?
 What is the simplest thing you can do to be more trustworthy?
 
+- the secret is to be cool with everybody but don't hang with nobody. that's how you survive the streets
 - Friedman told us...."keep your eye on one thing and one thing only....how much government is spending".
 - The co-exist people are unable to co-exist with people who disagree with them.
 - Respect is a passport. Crime is a deportation letter.
@@ -991,7 +992,8 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 > *"Compassion is the basis of morality."  
 -- Arthur Schopenhauer [1788]*
 
-> *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards."  
+> *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards." (...)  
+"There's an old illusion. It's called Good and Evil."  
 -- Friedrich Nietzsche [1844]* 
 
 > *"Morality, like art, means drawing a line someplace." (...)  
@@ -1252,6 +1254,9 @@ Artistic death is made by consensus.
 > *"Art is either plagiarism or revolution."  
 -- Paul Gauguin [1848]*
 
+> *"I don’t paint things. I only paint the difference between things."  
+-- Henry Matisse [1869]*
+
 > *"Poetry is what gets lost in translation."  
 -- Robert Frost [1874]*
 
@@ -1260,6 +1265,9 @@ Artistic death is made by consensus.
 "Art is the lie that enables us to realize the truth." (...)  
 "Art is the elimination of the unnecessary."  
 -- Pablo Picasso [1881]*
+
+> *"Art is a wound turned into light."  
+-- Georges Braque [1882]*
 
 > *"Art is plagiarism or revolution."  
 -- Marcel Duchamp [1887]*

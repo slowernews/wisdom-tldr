@@ -82,6 +82,9 @@ Hints:
 "Almost nothing material is needed for a happy life, for he who has understood existence."  
 -- Marcus Aurelius [0121]*
 
+> *"Rules for happiness: something to do, someone to love and something to hope for."  
+-- Immanuel Kant [1724]*
+
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli [1804]*
 
