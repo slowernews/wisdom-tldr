@@ -57,7 +57,7 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 > *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb [1960]*
 > *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
 > *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos [1965]*
-> *"the way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
+> *"The way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
 > *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
@@ -394,6 +394,9 @@ Communism isn’t evil, it’s foolish. In the same way that unrestricted capita
 > *"A tax is a fine for doing well. A fine is a tax for doing wrong."  
 -- Mark Twain [1835]*
 
+> *"The whole gospel of Karl Mark can be summed upin a single sentence; hate the man who is better off than you."  
+-- Henry Hazlitt [1894]*
+
 > *"The concept of social justice has been the trojan horse through which totalitarianism has entered." (...)  
 "There is all the difference in the world between treating people equally and attempting to make them equal."  
 -- Friedrich von Hayek [1899]*
@@ -406,10 +409,6 @@ Communism isn’t evil, it’s foolish. In the same way that unrestricted capita
 "I have never understood why it is «greed» to want to keep the money you have earned but not greed to want to take somebody else’s money."  
 -- Thomas Sowell [1930]*
 
-> *"The real tax is society forcing otherwise productive people to pay attention to politics." (...)  
-"The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left."  
--- Naval Ravikant [1974]*
-
 > *"I don’t want a Black History Month. Black history is American history. How are we going to get rid of racism? Stop talking about it!"  
 -- Morgan Freeman [1937]*
 
@@ -419,13 +418,12 @@ Communism isn’t evil, it’s foolish. In the same way that unrestricted capita
 > *"The axiomatic error undermining much of Western Civilization is “weak makes right”. If someone accepts, explicitly or implicitly, that the oppressed are always the good guys, then the natural conclusion is that the strong are the bad guys."  
 -- Elon Musk [1971]*
 
-> *"The struggle between collectivists and individualists is as old as humanity." (...)  
+> *"The real tax is society forcing otherwise productive people to pay attention to politics." (...)  
+"The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left." (...)  
+"The struggle between collectivists and individualists is as old as humanity." (...)  
 "Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome." (...)  
 "Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers."  
 -- Naval Ravikant [1974]*
-
-> *"The whole gospel of Karl Mark can be summed upin a single sentence; hate the man who is better off than you."  
--- Henry Hazlitt [1894]*
 
 > *"The reason only leftists commit acts of terrorism and tear things down is simple: destruction is easy, building is hard. if they could build anything worth something, they wouldn’t be leftists in the first place. leftism is the ideology of those who failed at creation, resentment turned into politics. they despise excellence and beauty because they can’t achieve it, so they sabotage what others create. no one able to build something stays leftist for long, success cures that delusion fast."  
 -- x@iterintellectus*
@@ -477,7 +475,7 @@ Society is run by peer pressure, not intelligence.
 
 Most people are other people. People accept the defaults very easily. Our thoughts are someone else opinions and we jump to conclusions. Our insecurities drive us to excess and overcompensation. We are, at heart, animals and we are easily manipulated, especially in groups.
 
-Groups of people behave differently than individuals. The larger the crowd, the less responsibility people have for their behaviour. This effect is known as mob behaviour. This is also why individuals should make decisions. Groups never admit failure.
+Groups of people behave differently than individuals. The larger the crowd, the less responsibility people have for their behaviour. This effect is known as mob behaviour.
 
 > *"Gold rushes make the shovel sellers rich, not the gold seekers." (...)  
 "One cow breaks the fence and a dozen leap it."  
@@ -760,6 +758,9 @@ Most people approach each and every year in the exact same way while expecting d
 > *"I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them»."  
 -- Anaïs Nin [1903]*
 
+> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
+-- {attributed to} Peter Drucker [1909]*
+
 > *"The American people don’t believe anything until they see it on television."  
 -- Richard Nixon [1913]*
 
@@ -790,9 +791,6 @@ Most people approach each and every year in the exact same way while expecting d
 > *"If there is one thing you can count on, it’s human greed. And I’m not pretending I’m above it myself."  
 -- Walter White {fictional}*
 
-> *"The three brick masons. When the first man was asked what he was building, he answered gruffly, without even raising his eyes from his work, «I’m laying bricks». The second man replied, «I’m building a wall». But the third man said enthusiastically and with obvious pride, «I’m building a cathedral»."  
--- {attributed to} Peter Drucker [1909]*
-
 > *"People aren’t getting crazier. Crazy people are getting louder."  
 -- x@g_s_bhogal*
 
@@ -807,33 +805,27 @@ Most people approach each and every year in the exact same way while expecting d
 > *"Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing."  -- Dick Brandon*
 > *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..."  -- Lyndon B. Johnson*
 > *"I think trash is the most important manifestation of culture we have in my Lifetime."  -- Johnny Legend*
-> *"Whenever you hug someone, be the last to let go."  -- Kevin Kelly [1952]*
 > *"Old musicians never die, they just decompose."*
+> *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  -- vox populi {in San Francisco}*
+> *"The grass is always greener on the side that is fertilized with bullshit."  -- x@morganhousel*
+> *"When you’re up to your nose in shit, keep your mouth shut."  -- Jack Beauregard {fictional}*
 > *"The four most expensive words in the English language: «This time is different»."  
 > *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
-
-- which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
-
 > *"I miss being the age when I thought I would have my shit together by the time I was the age I am now." (...)  
 "Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)  
 "There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
 > *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»" (...)  
-"Society: Be yourself. Society: Not like that."  
--- vox populi*
+"Society: Be yourself. Society: Not like that."  -- vox populi*
 
-> *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  -- vox populi {in San Francisco}*
-> *"The grass is always greener on the side that is fertilized with bullshit."  -- x@morganhousel*
-> *"When you’re up to your nose in shit, keep your mouth shut."  -- Jack Beauregard {fictional}*
-
-### Where is home?
-
+### Where is home? 
 > *"Home is where the bra isn’t." (...)  "Home is where the parking lot is."  -- vox populi*
 
 ### What is love?
-
 > *"I am a cage in search for a bird."  -- Franz Kafka [1883]*
 > *"I really don’t know what «I love you» means. I think it means «don’t leave me here alone»."  -- Neil Gaiman [1960]*
 > *"What you call love was invented by guys like me to sell nylons."  -- Don Draper [fiction]*
+
+- which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
 -->
 
 > *"Only the truth is funny."  
@@ -847,8 +839,7 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 > *"The only intelligent tactical response to life’s horror is to laugh defiantly at it."  
 -- Soren Kierkegaard [1813]*
 
-> *"«If i was your wife I would poison your coffee».  
-«If i was your husband I would drink it.»"  
+> *"«If I was your wife I would poison your coffee». «If I was your husband I would drink it.»"  
 -- Winston Churchill [1874]*
 
 > *"A serious and good philosophical work could be written consisting entirely of jokes."  
@@ -900,7 +891,7 @@ Philosophy improves your intellectual rigor.
 ## On religion
 
 <!--
-> *"If Christianity disappears in Europe, the whole world is threatened."  -- Cardinal Robert Sarah*
+> *"If Christianity disappears in Europe, the whole world is threatened."  -- (Cardinal) Robert Sarah*
 -->
 
 > *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
@@ -913,7 +904,7 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 > *"Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful."  
 -- Seneca [-004]*
 
-> *"Death of a child is the gretest reason to doubt the existence of God."  
+> *"Death of a child is the greatest reason to doubt the existence of God."  
 -- Fyodor Dostoyevsky [1821]*
 
 > *"I’d rather be in the mountains thinking of God than in church thinking about the mountains."  
@@ -1027,50 +1018,12 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 ## On science
 
 <!--
-- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition.
-- enlightment was a revolution in how people sought knowledge : by trying not to rely on authorithy.
-- future proof by avoiding dedicated hardware
-- if you cannot question it, it’s not science, it’s propaganda.
+- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition. enlightment was a revolution in how people sought knowledge: by trying not to rely on authorithy.
+- wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
 - look at ideas individually not at the ism
 - making something social destroys truth of it because social groups need consensus to survive - otherwise they fight and can’t get along - and consensus is all about truth seeking.
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
-- science transforms raw materials (resources) into civilization.
 - social sciences need to appeal to society for funding so they are politically motivated.
-- the real diversity that matters is diversity of ideas not diversity of skin color.
-- the world as your lab. if you do stuff scientifically you can do it right next time also
-- theories are explanations, not predictions. prediction comes after the explanation
-- theories are not derived from anything. human minds crete them by rearranging, combining, altering and adding to existing ideias. we guess.
-- trust the science is the most anti-science statement ever. questioning science is how you do science.
-- wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
-
-1. Engineering is done with numbers. Analysis without numbers is only an opinion.
-2. To design a spacecraft right takes an infinite amount of effort. This is why it’s a good idea to design them to operate when some things are wrong .
-3. Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
-4. Your best design efforts will inevitably wind up being useless in the final design. Learn to live with the disappointment.
-7. At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.
-8. In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.
-9. Not having all the information you need is never a satisfactory excuse for not starting the analysis.
-10. When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.
-11. Sometimes, the fastest way to get to the end is to throw everything out and start over.
-12. There is never a single right solution. There are always multiple wrong ones, though.
-13. Design is based on requirements. There’s no justification for designing something one bit "better" than the requirements dictate.
-16. The previous people who did a similar analysis did not have a direct pipeline to the wisdom of the ages. There is therefore no reason to believe their analysis over yours. There is especially no reason to present their analysis as yours.
-17. The fact that an analysis appears in print has no relationship to the likelihood of its being correct.
-20. A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
-23. The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
-27. (Varsi’s Law) Schedules only move in one direction.
-29. (von Tiesenhausen’s Law of Program Management) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.
-30. (von Tiesenhausen’s Law of Engineering Design) If you want to have a maximum effect on the design of a new engineering system, learn to draw. Engineers always wind up designing the vehicle to look like the initial artist’s concept.
-31. (Mo’s Law of Evolutionary Development) You can’t get to the moon by climbing successively taller trees.
-32. (Atkin’s Law of Demonstrations) When the hardware is working perfectly, the really important visitors don’t show up.
-33. (Patton’s Law of Program Planning) A good plan violently executed now is better than a perfect plan next week.
-34. (Roosevelt’s Law of Task Planning) Do what you can, where you are, with what you have.
-35. (de Saint-Exupery’s Law of Design) A designer knows that they have achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
-37. (Henshaw’s Law) One key to success in a mission is establishing clear lines of blame.
-40. (McBryan’s Law) You can’t make it better until you make it work.
-41. There’s never enough time to do it right, but somehow, there’s always enough time to do it over.
-43. You really understand something the third time you see it (or the first time you teach it.)
-44. (Lachance’s Law) "Plenty of time" becomes "not enough time" in a very short time.
 -->
 
 > *"The whole of science is nothing more than a refinement of everyday thinking." (...)  
@@ -1078,6 +1031,13 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 -- Albert Einstein [1879]*
 
 Science is the study of truth. Science is about disproving, not proving. Everything that is not a law of nature is just a shared belief. Technology is applied science.
+
+Hints: 
+
+- Science transforms raw materials (resources) into civilization.
+- Theories are explanations, not predictions. prediction comes after the explanation.
+- If you cannot question it, it’s not science, it’s propaganda.  
+- Trust the science is the most anti-science statement ever. Questioning science is how you do science.
 
 > *"Nature, to be commanded, must be obeyed."  
 -- Francis Bacon [1561]*
@@ -1128,12 +1088,10 @@ Science is the study of truth. Science is about disproving, not proving. Everyth
 ## On maths and computers
 
 <!--
-- 90% of webapps are database frontends. - Anytime machine learning is working quietly in the background, it almost always shows up as a feed in the front-end design
+- 90% of webapps are database frontends. / There is no cloud. It’s just someone else’s computer. / a fundamental rule of technology: There is no third ecosystem
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
-- There is no cloud. It’s just someone else’s computer. / a fundamental rule of technology: There is no third ecosystem
 - blockchains are not personal-computing operational systems; they are social systems.
-- chatgpt is a blurry jpeg of the web. openai chatbot offers paraphrases, whereas google offers quotes. which do we prefer. llms are essentially connection machines trained to find the linkages between concepts. ai is like an autocorrect system on steroids.
 
 alan perlis - 1. One man’s constant is another man’s variable.
 alan perlis - 21. Optimization hinders evolution.
@@ -1178,6 +1136,13 @@ We’ve grown dependent on three simple features that just aren’t available in
 
 Being relevant in the age of LLMs is really hard. What’s left for humans? The physical world and providing news to the LLM.
 
+Hints:
+
+- LLMs is a blurry jpeg of the web.  
+- LLMs offers paraphrases, whereas search engines offer quotes.  
+- LLMs are essentially connection machines trained to find the linkages between concepts.  
+- LLMs are like an autocorrect system on steroids.
+
 > *"AI is intelligence acceleration." (...)  
 "Sleeping on a plane is the closest there is to teleportation."  
 -- Pedro Domingos [1965]*
@@ -1219,11 +1184,6 @@ Being relevant in the age of LLMs is really hard. What’s left for humans? The 
 
 ## On art
 
-<!--
-> *"You can’t show everything. If you do, it’s no longer art. Art lies in suggestion."  -- ?*
-> *"The idea that a movie should be seen only once is an extension of our traditional conception of film as entertainment rather than art."  -- Stanley Kubrick*
--->
-
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth [1938]*
 
@@ -1263,12 +1223,18 @@ Artistic death is made by consensus.
 > *"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings."  
 -- Robert Benchley [1889]*
 
+> *"You can’t show everything. If you do, it’s no longer art. Art lies in suggestion."  
+-- Robert Bresson [1901]*
+
 > *"I think the job of an artist is to remind people of what they have chosen to forget."  
--- Arthur Miller*
+-- Arthur Miller [1915]*
 
 > *"The enemy of art is the absence of limitations." (...)  
 "A film is never really good unless the camera is an eye in the head of a poet."  
 -- Orson Welles [1915]*
+
+> *"The idea that a movie should be seen only once is an extension of our traditional conception of film as entertainment rather than art."  
+-- Stanley Kubrick [1928]*
 
 > *"Art is the absence of fear."  
 -- Erykah Badu [1971]*
@@ -1291,10 +1257,6 @@ Artistic death is made by consensus.
 
 ### On artists
 
-<!--
-> *"Don’t try to be original. Be simple. Be good technically, and if there is something in you, it will come out."  matisse? 
--->
-
 > *"An artist is someone who has learned to trust in himself."  
 -- Ludwig van Beethoven [1770]*
 
@@ -1306,6 +1268,9 @@ Artistic death is made by consensus.
 
 > *"A true artist will let his wife starve, his children go barefoot, his mother drudge for his living at seventy, sooner than work at anything but his art."  
 -- George Bernard Shaw [1856]*
+
+> *"Don’t try to be original. Be simple. Be good technically, and if there is something in you, it will come out."  
+-- Henry Matisse [1869]*
 
 > *"Poets are damned but see with the eyes of angels."  
 -- Allen Ginsberg [1926]*
@@ -1332,10 +1297,6 @@ Artistic death is made by consensus.
 -- Tim Burton [1958]*
 
 ### On aesthetics
-
-<!--
-- our goal is to discover the beauty that is held within the age of upcycling.
--->
 
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
 -- Antoine de Saint Exupery [1900]*

@@ -10,11 +10,11 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## Introduction
 
-- [On the purpose of life](/chapters/0_introduction.md#on-happiness)
-	- [On happiness](/chapters/0_introduction.md#on-happiness)
+- [On the purpose of life](/chapters/0_intro.md#on-the-purpose-of-life)
+	- [On happiness](/chapters/0_intro.md#on-happiness)
 	- [How to find happiness?](/chapters/0_introduction.md#how-to-find-happiness)
-- [Who are you now?](/chapters/0_introduction.md#who-are-you)
-- [On finding your path](/chapters/0_introduction.md#on-finding-your-path)
+- [Who are you now?](/chapters/0_intro.md#who-are-you-now)
+- [On finding your path](/chapters/0_intro.md#on-finding-your-path)
 
 
 
@@ -31,7 +31,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 	- [On initiative](/chapters/1-1_self_foundation.md#on-initiative)
 	- [On persistence](/chapters/1-1_self_foundation.md#on-persistence)
 	- [On ambition](/chapters/1-1_self_foundation.md#on-ambition)
-- [On respect](/chapters/1-1_self_foundation.md#on-humility)
+- [On respect](/chapters/1-1_self_foundation.md#on-respect)
 	- [On humility](/chapters/1-1_self_foundation.md#on-humility)
 	- [On gratitude](/chapters/1-1_self_foundation.md#on-gratitude)
 	- [On apologies](/chapters/1-1_self_foundation.md#on-apologies)

@@ -424,6 +424,7 @@
 
 - [1900] MITCHELL, Margaret (us)
 - [1900] SAINT-EXUPÉRY, Antoine de (fr)
+- [1901] BRESSON, Robert (fr)
 - [1901] DISNEY, Walt (us)
 - [1901] EUWE, Max (nl)
 - [1901] MALRAUX, André (fr)
@@ -572,6 +573,7 @@
 - [1927] MÁRQUEZ, Gabriel Garcí­a (co)
 - [1928] ANGELOU, Maya (us)
 - [1928] CHOMSKY, Noam (us)
+- [1928] KUBRICK, Stanley (us)
 - [1928] ROGERS, Fred (us)
 - [1928] SEXTON, Anne (us)
 - [1928] WARHOL, Andy (us)
