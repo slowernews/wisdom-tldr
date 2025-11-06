@@ -79,6 +79,7 @@
   @nikhuno
   @nivi
   @orangebook_
+  @ottophobia
   @pallnandi
   @pandemicriskman
   @pat_stedman
@@ -401,6 +402,7 @@
 - [1894] CUMMINGS, E.E. (us)
 - [1894] CÉLINE, Louis (fr)
 - [1894] MABLEY, Moms (us)
+- [1894] HAZLITT, Henry (us)
 - [1895] BAKHTIN, Mikhail (ru)
 - [1895] FULLER, Buckminster (us)
 - [1895] KRISHNAMURTI, Jiddu (in)
@@ -500,6 +502,7 @@
 - [1915] SINATRA, Frank (us)
 - [1915] TUKEY, John (us)(uk)
 - [1915] WATTS, Alan (uk)
+- [1915] WELLES, Orson (us)
 - [1916] ALT, Don (us)
 - [1916] ANGLIN, William S. (ca)
 - [1916] CROW, James (us)
@@ -555,6 +558,7 @@
 - [1925] LEVITT, Theodore (de)
 - [1925] NEWMAN, Paul (us)
 - [1925] O’CONNOR, Flannery (us)
+- [1925] THATCHER, Margaret (uk)
 - [1925] VIDAL, Gore (us)
 - [1926] DAVIS, Miles (us)
 - [1926] ELLIOT, Elisabeth (be)

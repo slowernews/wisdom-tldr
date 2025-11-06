@@ -3,60 +3,6 @@
 ## On society and politics
 
 <!--
-> *"When a society loses its moral compass, it collapses from within."  -- G.K. Chesterton [1874]*
-+ x@kunalb11 -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
-+ @naval -- The game theory of autonomous drones is similar to the game theory of nuclear weapons - with MAD, doomsday devices, and first /second strike, but scaled down to individuals. We are entering the age of “if you can see it, you can kill it.” Anonymity is the best defense.
-> *"Drone proliferation will democratize Mutually Assured Destruction and possibly lead to an uneasy peace."  -- x@naval*
-> *"Mass drone manufacturing capability is the new nuclear weapon."  -- x@naval*
-> *"Any country that can’t manufacture its own drones will be a vassal state."  -- Naval Ravikant [1974]*
-> *"America is forged by immigrants and descendants of immigrants. Self-selecting for the American Dream. Choosing freedom over safety, opportunity over handouts, prosperity over equality"  -- x@naval*
-> *"Angry people vote, the apathetic stay home. Trump has to make you angry at the state of affairs. Kamala has to make you angry at Trump."  -- x@naval*
-> *"Free speech is how you spot the errors, voting is how you fix them, and staying armed is how you keep those rights."  -- x@naval*
-> *"It’s nationalists vs communists from here on out."  -- x@naval*
-> *"It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men."  -- x@naval*
-> *"Libertarianism can only emerge in the cocoon of a functioning, high-trust republic."  -- x@naval*
-> *"Local environmentalism is real. Global environmentalism is performative."  -- x@naval*
-> *"Tech is the accelerator, regulation is the brake."  -- x@naval*
-> *"Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers."  -- x@naval*
-> *"The greatest threats to the future are suppression of freedom of speech—freedom of mathematics, freedom of expression, and freedom of creation. And those are pointless if they can’t be backed up by violence. If you don’t have your own ability to inflict violence, it will be taken away from you. One recent tweet I had said, “The right to vote does not give you power. Power gives you the right to vote." You can just do a simple thought exercise: If there were a hundred of us on a desert island and we’re trapped, and we all kind of have to cooperate to create a new society. Suppose there are 10 people on the island who are all from the same ethnic background, who are all extremely unified, and they have all the guns. Those 10 have it, the other 90 don’t. Who do you think is going to end up running the place “for the benefit of the others"? Anyone who’s been around the block a few times knows what’s going to happen. So it’s just the nature of humans that if you want freedom at the individual level, if you want the rights to be dispersed and distributed, the power has to be dispersed and distributed. And there’s very few institutions and organizations that do that. Really, it’s the right to bear arms, cryptography, free speech, mathematics, personal computing. These are examples of decentralized technologies and capabilities that spread power amongst people. Most things concentrate power."  -- x@naval*
-> *"The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states."  -- Naval Ravikant [1974]*
-> *"The end state of all vehicles is autonomous. The end state of all military hardware is drones."  -- Naval Ravikant [1974]*
-> *"The struggle between collectivists and individualists is as old as humanity."  -- x@naval*
-> *"Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome."  -- x@naval*
-> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
-> *"A constitution is an algorithm for running a country."  -- Pedro Domingos [1965]*
-> *"A culture is a co-operating system for humans."  -- Naval Ravikant [1974]*
-> *"A country’s assets reside in the tinkerers, the hobbyists, and the risk-takers."  -- Nassim Taleb [1960]*
-> *"America innovates, China replicates, Europe regulates."  -- Pedro Domingos [1965]*
-> *"Be wary of any word that ends with “ism”. More often than not, "ism" at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  -- x@rapahelz*
-> *"Europe was created by history. America was created by philosophy."  -- Margaret Thatcher*
-> *"Ideologues often become so captivated by an abstract ideal of humanity that they cease to care about actual humans."  -- x@g_s_bhogal*
-> *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb [1960]*
-> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
-> *"It is amazing that people who think we cannot afford to pay for doctors, hospitals, and medication somehow think that we can afford to pay for doctors, hospitals, medication and a government bureaucracy to administer it." -- Thomas Sowell [1930]*
-> *"O comunismo penetrou até mesmo nos circulos cristãos disfarçado de solidariedade. É nosso dever pastoral expô-lo."  -- Robert Francis Prevost (Papa Leão XIV em 2010)
-> *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos [1965]*
-> *"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That, in its essence, is Fascism -- ownership of government by an individual, by a group or by any controlling private power."  -- FDR*
-> *"the way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
-> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
-> *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
-> *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
-> *"The whole gospel of Karl Mark can be summed upin a single sentence; hate the man who is better off than you."  -- Henry Hazlitt*
-
-FOR YOUR REFLECTION:
-How much do you trust yourself?
-Who is the person you trust the most in your life?
-What are the attributes of the person you trust the most?
-How trustworthy are you?
-When people lose trust in you, do you know why?
-Who, in your life are you not trusting these days?
-Do you know why you are not trusting this person?
-Are you (and that person) committed to restoring trust?
-What’s the level of trust on whatever teams you are on?
-If you are a team leader, how much do team members trust you?
-What do you need to do to regain the trust of others?
-What is the simplest thing you can do to be more trustworthy?
-
 - the secret is to be cool with everybody but don't hang with nobody. that's how you survive the streets
 - Friedman told us...."keep your eye on one thing and one thing only....how much government is spending".
 - The co-exist people are unable to co-exist with people who disagree with them.
@@ -64,7 +10,6 @@ What is the simplest thing you can do to be more trustworthy?
 - 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outisde of work.
 - all poverty is energy poverty.
 - As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are “true” and “pure” members of our group, and we either shame any “non-believers” into conformity or simply expel them from the tribe.
-- communism isn’t evil, it’s foolish. in the same way that unrestricted capitalism is foolish if you strive to make everyone’s lives better.
 - escola meritocratica e o o q podes fazer por ti. mundo n. mundo move-se pelo q podes fazer por mim.
 - everything I don’t like must be banned. Everything I do like is a human right and must be paid for by others.
 - few tv channels equalized culture.
@@ -72,13 +17,12 @@ What is the simplest thing you can do to be more trustworthy?
 - If Satoshi wasn’t anon he’d have already been arrested by any Western country.
 - If you want to destroy any nation without war, make adultery or nudity common in the young generation.
 - insisting in your rights without acknowledging your responsabilities isn’t freedom is adolescence
-- it’s just human nature that if i get to decide who get sthe gold it is gosng o be my friends,  family and people i like.
-- law is not a moral compass. the people who hid anne frank were breaking the law. The people who killed her were following it.
+- it’s just human nature that if i get to decide who gets the gold it is goIng To be my friends, family and people i like.
+- law is not a moral compass. the people who hidE anne frank were breaking the law. The people who killed her were following it.
 - liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
 - low-key activism is often just narcisism. most people don’t really understand the issuesthey are being activist about. It’s just virtue signaling on Social Media. A young generation doesn’t know what a really debate dosen’t include demonizing people and get them canceled.
 - Men often believe or pretend that the "Law" is something sacred, or at least a science an unfounded assumption very convenient to governments.
 - minimal amounts of cash improve the life of poor more than equivalent spending on aid programs or goods.
-- nacionalistas vs globalistas | moderados vs radicais?
 - Never apologize to the politically correct.
 - Não há direitos sem obrigações e viceversa.
 - Only a poor man and an unattractive woman truly understand the reality of life.
@@ -87,9 +31,7 @@ What is the simplest thing you can do to be more trustworthy?
 - people of all political persuasions
 - politics are a catalyst
 - Politics is simply theatre for the slave class.
-- Pretending that simple things are complicated and that complicated things are simple is the bread and butter of politics.
 - Proximity to white people and their tax dollars is not a human right.
-- Rigid regimes are doomed when they become flexible. The revolutionaries always become the new dictators.
 - Saying that White countries deserve to be flooded with brown migrants because of colonialism is acknowledging that you people are a plague and a punishment.
 - social contracts: public promises. Everything is a contract!
 - sufffering is individual. nations or corporations don’t suffer.
@@ -98,21 +40,34 @@ What is the simplest thing you can do to be more trustworthy?
 - The idea of sinister elites controlling everything is popular because it’s more comforting than the truth: that even our leaders don’t know what they’re doing and society is ruled mostly by chance.
 - the passports of the future should be based on skills and health rather than nationality.
 - the same people who sell the panic, sell the pill
-- The struggle between collectivists and the individual is as old as humanity itself.
 - This is what police does. They want peace, but can’t arrest perpetrators, so they arrest the victim instead. This used to happen a lot during BLM. They even arrested people from their own homes and neighbourhoods.
 - Time to make crime illegal again.
 - uma bandeira representa sempre um colectivo
-- When people support socialism, they always think they’ll be the ones to receive and never realize that they’re the ones that give.
 - When the state is absent the patriots become the state.
 - Youthful male energy is the lifeblood of revolution. The campaign against young men isn’t about preventing misogyny - it’s about preventing regime change.
 And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
 But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
 The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
+
++ x@kunalb11 -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
+> *"It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men."  -- x@naval*
+> *"Tech is the accelerator, regulation is the brake."  -- x@naval*
+> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
+> *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb [1960]*
+> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
+> *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos [1965]*
+> *"the way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
+> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
+> *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
+> *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
+> *"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command."  -- George Orwell [1903]*
 -->
 
 > *"For the friends: everything. For the others: the law."  
 -- Niccoló Machiavelli {paraphrased} [1469]*
+
+Pretending that simple things are complicated and that complicated things are simple is the bread and butter of politics.
 
 > *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
 -- Confucius [-551]*
@@ -137,9 +92,6 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 > *"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable."  
 -- John Kenneth Galbraith [1908]*
 
-> *"A right is not what someone gives you; it’s what no one can take from you."  
--- Ramsey Clark [1927]*
-
 > *"Politics is the art of making your selfish desires seem like national interest."  
 -- Thomas Sowell [1930]*
 
@@ -150,85 +102,26 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 "Nation-states like war; city-states like commerce; families like stability; and individuals like entertainment."  
 -- Nassim Taleb [1960]*
 
-> *"The state does not create wealth, the state destroys it. The state can give you nothing, because it produces nothing."  
+> *"A constitution is an algorithm for running a country."  
+-- Pedro Domingos [1965]*
+
+> *"The state does not create wealth, the state destroys it. The state can give you nothing, because it produces nothing." (...)  
+"When the state calls you a taxpayer is equivalent to a rapist calling his victim his girlfriend."  
 -- Javier Milei [1970]*
 
 > *"Most of the culture wars are a struggle between what’s best for the children and what’s best for the childless." (...)  
-"Fix immigration and voting, punish lawfare and censorship, wipe out the bureaucracy. Everything else is downstream."  
+"Fix immigration and voting, punish lawfare and censorship, wipe out the bureaucracy. Everything else is downstream." (...)  
+"Angry people vote, the apathetic stay home. Trump has to make you angry at the state of affairs. Kamala has to make you angry at Trump." (...)  
+"The people who start the wars don’t fight them, the people who spend the taxes don’t pay them, and the people who forgive the criminals don’t live next to them. Of course we’re going to have too many wars, too much spending, and too much crime." (...)  
+"The average man lives in a matriarchy, the average woman lives in a patriarchy, and they’re both correct." (...)  
+"A culture is a co-operating system for humans."  
 -- Naval Ravikant [1974]*
 
-### On democracy
+> *"Ideologues often become so captivated by an abstract ideal of humanity that they cease to care about actual humans."  
+-- x@g_s_bhogal*
 
-> *"Masculine republics give way to feminine democracies, and feminine democracies give way to tyranny."  
--- Aristotle [-384]*
-
-> *"When people fear the government, there is tyranny. When government fears the people, there is liberty."  
--- Thomas Paine [1737]*
-
-> *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
--- Alexander Fraser Tytler [1747]*
-
-> *"Every decent man is ashamed of the government he lives under."  
--- H.L. Mencken [1880]*
-
-> *"Democracy has got nothing to do with who should rule. Democracy is the system which allows you to remove policies and rulers most efficently without violence. and that’s how you judge different democratic systems."  
--- Karl Popper [1902]*
-
-> *"Fascism, Nazism, Communism and Socialism are only superficial variations of the same monstrous theme - collectivism." (...)  
-"The difference between a welfare state and a totalitarian state is a matter of time."  
--- Ayn Rand [1905]*
-
-> *"Inflation is how democracies die."  
--- Charlie Munger [1924]*
-
-> *"Populism is what we call democracy when we don’t like the outcome." (...)  
-"All tyranny begins with the desire to coerce others for the greater good." (...)  
-"The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax the nominal gains, thereby confiscating the real value of the assets."  
--- Naval Ravikant [1974]*
-
-### On justice, law and tolerance
-
-> *"Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws."  
--- Plato [-427]*
-
-> *"The closer the collapse of an empire, the crazier its laws."  
--- Cicero [-106]*
-
-> *"The more corrupt the state, the more numerous the laws."  
--- Tacitus [0056]*
-
-> *"Justice will not be served until those who are unaffected are as outraged as those who are."  
--- Benjamin Franklin [1706]*
-
-> *"Nature has given women so much power that the law has very wisely given them little."  
--- Samuel Johnson [1709]*
-
-> *"If a law is unjust a man is not only right to disobey it, he is obligated to do so."  
--- Thomas Jefferson [1743]*
-
-> *"Mercy to the guilty is cruelty to the innocent."  
--- Adam Smith [1790]*
-
-> *"Aim and object of the law and lawyers was to defeat justice."  
--- Mark Twain [1835]*
-
-> *"Tolerance becomes a crime when applied to evil."  
--- Thomas Mann [1875]*
-
-> *"I guess the only time most people think about injustice is when it happens to them."  
--- Charles Bukowski [1920]*
-
-> *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
--- Elie Wiesel [1928]*	
-
-> *"There's no greater indictment of judges than the fact that honest people are afraid to go into court, while criminals swagger out its revolving doors."  
--- Thomas Sowell [1930]*
-
-> *"Evil preaches tolerance until it is dominant, then it tries to silence good."  
--- (archbishop) Charles J. Chaput [1944]*
-
-> *"Everybody wants to see justice done on somebody else."  
--- Bruce Cockburn [1945]*
+> *"Be wary of any word that ends with “ism”. More often than not, "ism" at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  
+-- x@rapahelz*
 
 ### On politicians
 
@@ -255,7 +148,8 @@ Hints:
 > *"A politician divides mankind into two classes: tools and enemies."  
 -- Friedrich Nietzsche [1844]* 
 
-> *"The urge to save humanity is almost always a false front for the urge to rule it."  
+> *"The urge to save humanity is almost always a false front for the urge to rule it." (...)  
+"Every decent man is ashamed of the government he lives under."  
 -- H.L. Mencken [1880]*
 
 > *"Political language is designed to make lies sound truthful."  
@@ -267,59 +161,22 @@ Hints:
 > *"Ideologues pose as misinformation experts like malware poses as security updates. It works."  
 -- Pedro Domingos [1965]*
 
-> *"If friends spoke to us like politicians and actors, reading aloud scripts written by others, we wouldn’t take them seriously as individuals."  
--- Naval Ravikant [1974]*
-
-> *"People who believe politicians care about them are the same people who think OnlyFans girls care about them."  
--- x@stirlingwisdom*
-
-### On voting
-
 > *"Anyone who claims that their political party does no wrong and the other party does no right is either a liar, a fool or both."  
 -- Elon Musk [1971]*
 
-> *"Voting is the adult version of writing a letter to Santa Claus."  
+> *"If friends spoke to us like politicians and actors, reading aloud scripts written by others, we wouldn’t take them seriously as individuals."  
+-- Naval Ravikant [1974]*
+
+> *"People who believe politicians care about them are the same people who think OnlyFans girls care about them." (...)  
+"Voting is the adult version of writing a letter to Santa Claus."  
 -- x@stirlingwisdom*
-
-### Left right
-
-> *"The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left."  
--- Naval Ravikant [1974]*
-
-### On equality
-
-> *"One of the sad signs of our times is that we have demonized those who produce, subsidized those who refuse to produce, and canonized those who complain."  -- Thomas Sowell [1930]*
-
-> *"Until we have a vaccine against wokeism, social distancing is the best solution."  
--- Pedro Domingos [1965]*
-
-> *"Socialism is the suicide pact of mediocrity." (...)  
-"The West is in an existential struggle between equality and excellence."  
--- Naval Ravikant [1974]*
-
-> *"The reason only leftists commit acts of terrorism and tear things down is simple: destruction is easy, building is hard. if they could build anything worth something, they wouldn’t be leftists in the first place. leftism is the ideology of those who failed at creation, resentment turned into politics. they despise excellence and beauty because they can’t achieve it, so they sabotage what others create. no one able to build something stays leftist for long, success cures that delusion fast."  
--- x@iterintellectus*
-
-> *"Diversity at the local level means homogeneity at the global level. Homogeneity at the local level means diversity at the global level. Nationalism preserves diversity. Globalism destroys it."  
--- x@pandemicriskman*
-
-### on immigration
-
-> *"Immigration is a privilege, not a right, and the safety of our citizens must come first, without question."  
--- Donald J. Trump [1946]*
-
-> *"My immigration policy: anyone who agrees with me is welcome into the country. Anyone who does not, is not."  
--- Naval Ravikant [1974]*
-
-> *"High-paying low-skill jobs are the real social safety net. Immigrants taking these jobs and lowering their wages is terrible for Americans."  
--- x@jlippincott_*
 
 ### On bureaucracy
 
 > *"The first responsibility of any bureaucracy is the preservation of itself. The second is to expand its responsiblities."  
 -- Morton Halperin [1934]*
 
-When a politician says "threat to our democracy". They really mean threat to their corrupt bureaucracy.
+When a politician says «threat to our democracy». They really mean threat to their corrupt bureaucracy.
 
 > *"It is much more important to kill bad bills, than to pass good ones."  
 -- Calvin Coolidge [1872]*
@@ -337,7 +194,8 @@ When a politician says "threat to our democracy". They really mean threat to the
 -- Milton Friedman [1912]*
 
 > *"The purpose of politics is not to solve problems but to find problems to justify the expansion of government power and an increase in taxes." (...)  
-"You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing."  
+"You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing." (...)  
+"It is amazing that people who think we cannot afford to pay for doctors, hospitals, and medication somehow think that we can afford to pay for doctors, hospitals, medication and a government bureaucracy to administer it."  
 -- Thomas Sowell [1930]*
 
 > *"Bureaucracy is a construction designed to maximize the distance between a decision-maker and the risks of the decision." 
@@ -349,94 +207,68 @@ When a politician says "threat to our democracy". They really mean threat to the
 > *"Bureaucracy = Culture of submission. Innovation = Culture of subversion. Hence the antagonism."  
 -- x@rapahelz*
 
-### On inequality and taxes
+### on nations and immigration
 
-> *"To be wealthy and honored in an unjust society is a disgrace."  
--- Confucius [-551]*
-
-> *"The worst form of inequality is to try to make unequal things equal."  
--- Aristotle [-384]*
-
-> *"The comfort of the rich depends upon an abundant supply of the poor."  
--- Voltaire [1694]*
-
-> *"Equality is a slogan based on envy. It signifies: nobody is going to occupy a place higher than I."  
--- Alexis de Tocqueville [1805]*
-
-> *"A tax is a fine for doing well. A fine is a tax for doing wrong."  
--- Mark Twain [1835]*
-
-> *"A conservative is a fellow who thinks a rich man should have a fair deal."  
--- Frank Dane [1885]*
-
-> *"The concept of social justice has been the trojan horse through which totalitarianism has entered." (...)  
-"There is all the difference in the world between treating people equally and attempting to make them equal."  
--- Friedrich von Hayek [1899]*
-
-> *"Favors granted always become defined as rights."  
--- Saul Alinsky [1909]*
-
-> *"If you cannot achieve equality of performance among people born to the same parents and raised under the same roof, how realistic is it to expect to achieve it across broader and deeper social divisions." (...)  
-"When people get used to preferential treatment, equal treatment feels like discrimination." (...)  
-"What’s exactly your «fair share» of what «someone else» has worked for?" (...)  
-"I have never understood why it is «greed» to want to keep the money you have earned but not greed to want to take somebody else’s money."  
--- Thomas Sowell [1930]*
-
-> *"When the state calls you a taxpayer is equivalent to a rapist calling his victim his girlfriend."  
--- Javier Milei [1970]*
-
-> *"The real tax is society forcing otherwise productive people to pay attention to politics."  
--- Naval Ravikant [1974]* 
-
-### On wokeism
-
-<!--
-- Um socialista honesto não entende de Economia. Um socialista que entende de economia não é honesto. Um homem honesto que entende de Economia não é socialista.
--->
-
-> *"Far-right are nostalgic for a world that never was. Far-left are hopeful for a world that can never be."  
--- x@g_s_bhogal*
-
-Wokeness is the belief that every disparity is rooted in discrimination. Worldview that believes that all interactions are about power. There is only one conflict in the world, and it is the powerful against the powerless, where the powerful are trying to preserve their power (this is called «intersectionality»)
-
-> *"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command."  
--- George Orwell [1903]*
-
-> *"Much of the social history of the Western world over the past three decades has involved replacing what worked with what sounded good."  
--- Thomas Sowell [1930]*
-
-> *"The axiomatic error undermining much of Western Civilization is “weak makes right”. If someone accepts, explicitly or implicitly, that the oppressed are always the good guys, then the natural conclusion is that the strong are the bad guys."  
--- Elon Musk [1971]*
-
-> *"The people who start the wars don’t fight them, the people who spend the taxes don’t pay them, and the people who forgive the criminals don’t live next to them. Of course we’re going to have too many wars, too much spending, and too much crime." (...)  
-> *"The average man lives in a matriarchy, the average woman lives in a patriarchy, and they’re both correct."  
--- Naval Ravikant [1974]*
-
-### On diversity
+> *"Immigration is a privilege, not a right, and the safety of our citizens must come first, without question."  
+-- Donald Trump [1946]*
 
 The real diversity that matters is the diversity of ideas, not the diversity of skin color.
-
-> *"Racism is not dead, but it is on life support — kept alive by politicians, race hustlers, and people who get a sense of superiority by denouncing others as «racists.»" (...)  
-"Our children and grandchildren may yet curse the day we began hyping race and ethnicity. There are countries where that has led to slughters in the streets but you cannot name a country where it has led to greater harmony." (...)  
-"What «multiculturalism» boils down to is that you can praise any culture in the world except Western culture - and you cannot blame any culture in the world except Western culture."  
--- Thomas Sowell [1930]*
-
-> *"I don’t want a Black History Month. Black history is American history. How are we going to get rid of racism? Stop talking about it!"  
--- Morgan Freeman [1937]*
-
-### On nations
 
 > *"the disappearance of nations would have impoverished us no less than if all men had become alike, with one personality and one face. Nations are the wealth of mankind, its collective personalities; the very least of them wears its own special colours and bears within itself a special facet of divine intention."  
 -- Aleksandr Solzhenitsyn [1918]*
 
-### On freedom
+> *"What «multiculturalism» boils down to is that you can praise any culture in the world except Western culture - and you cannot blame any culture in the world except Western culture." (...)  
+"Our children and grandchildren may yet curse the day we began hyping race and ethnicity. There are countries where that has led to slughters in the streets but you cannot name a country where it has led to greater harmony." (...)  
+"Racism is not dead, but it is on life support — kept alive by politicians, race hustlers, and people who get a sense of superiority by denouncing others as «racists.»"  
+-- Thomas Sowell [1930]*
 
-<!--
-- Liberdade sem propriedade é ilusao. Diz me quanto tens poupado em dias de consumo pessoal e eu digo te quantos dias tens de liberdade.
--->
+> *"A country’s assets reside in the tinkerers, the hobbyists, and the risk-takers."  
+-- Nassim Taleb [1960]*
+
+> *"My immigration policy: anyone who agrees with me is welcome into the country. Anyone who does not, is not." (...)  
+"Libertarianism can only emerge in the cocoon of a functioning, high-trust republic." (...)  
+"It’s nationalists vs communists from here on out."  
+-- Naval Ravikant [1974]*
+
+> *"High-paying low-skill jobs are the real social safety net. Immigrants taking these jobs and lowering their wages is terrible for Americans."  
+-- x@jlippincott_*
+
+> *"Diversity at the local level means homogeneity at the global level. Homogeneity at the local level means diversity at the global level. Nationalism preserves diversity. Globalism destroys it."  
+-- x@pandemicriskman*
+
+### On democracy
+
+> *"Masculine republics give way to feminine democracies, and feminine democracies give way to tyranny."  
+-- Aristotle [-384]*
+
+> *"When people fear the government, there is tyranny. When government fears the people, there is liberty."  
+-- Thomas Paine [1737]*
+
+> *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy–to be followed by a dictatorship."  
+-- Alexander Fraser Tytler [1747]*
+
+> *"Democracy has got nothing to do with who should rule. Democracy is the system which allows you to remove policies and rulers most efficently without violence. and that’s how you judge different democratic systems."  
+-- Karl Popper [1902]*
+
+> *"Fascism, Nazism, Communism and Socialism are only superficial variations of the same monstrous theme - collectivism." (...)  
+"The difference between a welfare state and a totalitarian state is a matter of time."  
+-- Ayn Rand [1905]*
+
+> *"Inflation is how democracies die."  
+-- Charlie Munger [1924]*
+
+> *"Populism is what we call democracy when we don’t like the outcome." (...)  
+"All tyranny begins with the desire to coerce others for the greater good." (...)  
+"The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax the nominal gains, thereby confiscating the real value of the assets." (...)  
+"The greatest threats to the future are suppression of freedom of speech—freedom of mathematics, freedom of expression, and freedom of creation. And those are pointless if they can’t be backed up by violence. If you don’t have your own ability to inflict violence, it will be taken away from you. One recent tweet I had said, “The right to vote does not give you power. Power gives you the right to vote." You can just do a simple thought exercise: If there were a hundred of us on a desert island and we’re trapped, and we all kind of have to cooperate to create a new society. Suppose there are 10 people on the island who are all from the same ethnic background, who are all extremely unified, and they have all the guns. Those 10 have it, the other 90 don’t. Who do you think is going to end up running the place “for the benefit of the others"? Anyone who’s been around the block a few times knows what’s going to happen. So it’s just the nature of humans that if you want freedom at the individual level, if you want the rights to be dispersed and distributed, the power has to be dispersed and distributed. And there’s very few institutions and organizations that do that. Really, it’s the right to bear arms, cryptography, free speech, mathematics, personal computing. These are examples of decentralized technologies and capabilities that spread power amongst people. Most things concentrate power."  
+-- Naval Ravikant [1974]*
+
+### On freedom
 
 > *"I never believed that man’s freedom consisted in doing what he wants, but rather in never doing what he does not want to do."  
 -- Jean-Jacques Rousseau [1712]*
+
+Freedom without property is an ilusion. 
 
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
 -- Thomas Jefferson [1743]*
@@ -476,6 +308,150 @@ The real diversity that matters is the diversity of ideas, not the diversity of 
 "Free people make free choices. Free choices mean you have unequal outcomes. You can have freedom or you can have equal outcomes. You can’t have both."  
 -- Naval Ravikant [1974]*
 
+### On justice, law and tolerance
+
+> *"To be wealthy and honored in an unjust society is a disgrace."  
+-- Confucius [-551]*
+
+> *"Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws."  
+-- Plato [-427]*
+
+> *"The closer the collapse of an empire, the crazier its laws."  
+-- Cicero [-106]*
+
+> *"The more corrupt the state, the more numerous the laws."  
+-- Tacitus [0056]*
+
+> *"Justice will not be served until those who are unaffected are as outraged as those who are."  
+-- Benjamin Franklin [1706]*
+
+> *"Nature has given women so much power that the law has very wisely given them little."  
+-- Samuel Johnson [1709]*
+
+> *"If a law is unjust a man is not only right to disobey it, he is obligated to do so."  
+-- Thomas Jefferson [1743]*
+
+> *"Mercy to the guilty is cruelty to the innocent."  
+-- Adam Smith [1790]*
+
+> *"Aim and object of the law and lawyers was to defeat justice."  
+-- Mark Twain [1835]*
+
+> *"When a society loses its moral compass, it collapses from within."  
+-- G.K. Chesterton [1874]*
+
+> *"Tolerance becomes a crime when applied to evil."  
+-- Thomas Mann [1875]*
+
+> *"A conservative is a fellow who thinks a rich man should have a fair deal."  
+-- Frank Dane [1885]*
+
+> *"Favors granted always become defined as rights."  
+-- Saul Alinsky [1909]*
+
+> *"I guess the only time most people think about injustice is when it happens to them."  
+-- Charles Bukowski [1920]*
+
+> *"A right is not what someone gives you; it’s what no one can take from you."  
+-- Ramsey Clark [1927]*
+
+> *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
+-- Elie Wiesel [1928]*	
+
+> *"There's no greater indictment of judges than the fact that honest people are afraid to go into court, while criminals swagger out its revolving doors."  
+-- Thomas Sowell [1930]*
+
+> *"Evil preaches tolerance until it is dominant, then it tries to silence good."  
+-- (archbishop) Charles J. Chaput [1944]*
+
+> *"Everybody wants to see justice done on somebody else."  
+-- Bruce Cockburn [1945]*
+
+> *"Free speech is how you spot the errors, voting is how you fix them, and staying armed is how you keep those rights."  
+-- Naval Ravikant [1974]*
+
+### On equality
+
+<!--
+- Um socialista honesto não entende de Economia. Um socialista que entende de economia não é honesto. Um homem honesto que entende de Economia não é socialista.
+- When people support Socialism, they always think they’ll be the ones to receive and never realize that they’re the ones that give.
+> *"O comunismo penetrou até mesmo nos circulos cristãos disfarçado de solidariedade. É nosso dever pastoral expô-lo."  -- Robert Francis Prevost (Papa Leão XIV em 2010)
+-->
+
+> *"Far-right are nostalgic for a world that never was. Far-left are hopeful for a world that can never be."  
+-- x@g_s_bhogal*
+
+Wokeness is the belief that every disparity is rooted in discrimination. Worldview that believes that all interactions are about power. There is only one conflict in the world, and it is the powerful against the powerless, where the powerful are trying to preserve their power (this is called «intersectionality»)
+
+Communism isn’t evil, it’s foolish. In the same way that unrestricted capitalism is foolish if you strive to make everyone’s lives better.
+
+> *"The worst form of inequality is to try to make unequal things equal."  
+-- Aristotle [-384]*
+
+> *"Equality is a slogan based on envy. It signifies: nobody is going to occupy a place higher than I."  
+-- Alexis de Tocqueville [1805]*
+
+> *"A tax is a fine for doing well. A fine is a tax for doing wrong."  
+-- Mark Twain [1835]*
+
+> *"The concept of social justice has been the trojan horse through which totalitarianism has entered." (...)  
+"There is all the difference in the world between treating people equally and attempting to make them equal."  
+-- Friedrich von Hayek [1899]*
+
+> *"Much of the social history of the Western world over the past three decades has involved replacing what worked with what sounded good." (...)  
+"One of the sad signs of our times is that we have demonized those who produce, subsidized those who refuse to produce, and canonized those who complain." (...)  
+"If you cannot achieve equality of performance among people born to the same parents and raised under the same roof, how realistic is it to expect to achieve it across broader and deeper social divisions." (...)  
+"When people get used to preferential treatment, equal treatment feels like discrimination." (...)  
+"What’s exactly your «fair share» of what «someone else» has worked for?" (...)  
+"I have never understood why it is «greed» to want to keep the money you have earned but not greed to want to take somebody else’s money."  
+-- Thomas Sowell [1930]*
+
+> *"The real tax is society forcing otherwise productive people to pay attention to politics." (...)  
+"The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left."  
+-- Naval Ravikant [1974]*
+
+> *"I don’t want a Black History Month. Black history is American history. How are we going to get rid of racism? Stop talking about it!"  
+-- Morgan Freeman [1937]*
+
+> *"Until we have a vaccine against wokeism, social distancing is the best solution."  
+-- Pedro Domingos [1965]*
+
+> *"The axiomatic error undermining much of Western Civilization is “weak makes right”. If someone accepts, explicitly or implicitly, that the oppressed are always the good guys, then the natural conclusion is that the strong are the bad guys."  
+-- Elon Musk [1971]*
+
+> *"The struggle between collectivists and individualists is as old as humanity." (...)  
+"Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome." (...)  
+"Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers."  
+-- Naval Ravikant [1974]*
+
+> *"The whole gospel of Karl Mark can be summed upin a single sentence; hate the man who is better off than you."  
+-- Henry Hazlitt [1894]*
+
+> *"The reason only leftists commit acts of terrorism and tear things down is simple: destruction is easy, building is hard. if they could build anything worth something, they wouldn’t be leftists in the first place. leftism is the ideology of those who failed at creation, resentment turned into politics. they despise excellence and beauty because they can’t achieve it, so they sabotage what others create. no one able to build something stays leftist for long, success cures that delusion fast."  
+-- x@iterintellectus*
+
+### On geopolitics
+
+Rigid regimes are doomed when they become flexible. The revolutionaries always become the new dictators.
+
+> *"Europe was created by history. America was created by philosophy."  
+-- Margaret Thatcher [1925]*
+
+> *"America innovates, China replicates, Europe regulates."  
+-- Pedro Domingos [1965]*
+
+> *"The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states." (...)  
+"The end state of all vehicles is autonomous. The end state of all military hardware is drones." (...)  
+"Drone proliferation will democratize Mutually Assured Destruction and possibly lead to an uneasy peace." (...)  
+"The game theory of autonomous drones is similar to the game theory of nuclear weapons - with MAD, doomsday devices, and first /second strike, but scaled down to individuals. We are entering the age of “if you can see it, you can kill it.” Anonymity is the best defense." (...)  
+"Mass drone manufacturing capability is the new nuclear weapon." (...)  
+"Any country that can’t manufacture its own drones will be a vassal state." (...)  
+"The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states." (...)  
+"Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome." (...)  
+"America is forged by immigrants and descendants of immigrants. Self-selecting for the American Dream. Choosing freedom over safety, opportunity over handouts, prosperity over equality" (...)  
+"Local environmentalism is real. Global environmentalism is performative."  
+-- Naval Ravikant [1974]*
+
 ### On privacy
 
 Privacy is power. What people don’t know they can’t ruin. 
@@ -489,7 +465,6 @@ Privacy is power. What people don’t know they can’t ruin.
 	
 <!--
 > *"Fools rush in and get the best seats in the house."*
-> *"One’s only rival is one’s own potentialities. One’s only failure is failing to live up to one’s own possibilities. In this sense, every man can be a king, and must therefore be treated like a king."  -- Abraham Maslow [1908]*
 
 - One of the hardest lessons in adulthood is realizing some people just aren’t built for reflection or growth. They’ll make the same mistake for 20 years and call it a personality.
 - every snowflake is different but all snow is the same.
@@ -548,6 +523,9 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 
 > *"In our infinite ignorance we are all equal."  
 -- Karl Popper [1902]*
+
+> *"One’s only rival is one’s own potentialities. One’s only failure is failing to live up to one’s own possibilities. In this sense, every man can be a king, and must therefore be treated like a king."  
+-- Abraham Maslow [1908]*
 
 > *"Too often we enjoy the comfort of opinion without the discomfort of thought."  
 -- John F. Kennedy [1917]*
@@ -708,7 +686,8 @@ Hints:
 "A fanatic is a person who can’t change his mind and won’t change the subject."  
 -- Winston Churchill [1874]*
 
-> *"Everything that irritates us about others can lead us to an understanding of ourselves."  
+> *"Everything that irritates us about others can lead us to an understanding of ourselves." (...)  
+"If one does not understand a person, one tends to regard him as a fool."  
 -- Carl Jung [1875]*
 
 > *"Tell me what a man finds sexually attractive and I will tell you his entire philosophy of life."  
@@ -895,6 +874,9 @@ Philosophy improves your intellectual rigor.
 
 «Intellectuals» as a class are over. The smartest men alive are posting cartoon frogs.
 
+> *"A kiss can destroy a philosophy."  
+-- Anaïs Nin [1903]*
+
 > *"Some ideias are so stupid that only intellectuals believe them."  
 -- George Orwell [1903]*
 
@@ -991,6 +973,9 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 
 > *"Compassion is the basis of morality."  
 -- Arthur Schopenhauer [1788]*
+
+> *"Ethics and aesthetics are one."  
+-- Luig Wittgenstein []*
 
 > *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards." (...)  
 "There's an old illusion. It's called Good and Evil."  
@@ -1269,11 +1254,21 @@ Artistic death is made by consensus.
 > *"Art is a wound turned into light."  
 -- Georges Braque [1882]*
 
+> *"Art is not beauty, art is seeing things differently."  
+-- Virginia Woolf [1882]*
+
 > *"Art is plagiarism or revolution."  
 -- Marcel Duchamp [1887]*
 
 > *"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings."  
 -- Robert Benchley [1889]*
+
+> *"I think the job of an artist is to remind people of what they have chosen to forget."  
+-- Arthur Miller*
+
+> *"The enemy of art is the absence of limitations." (...)  
+"A film is never really good unless the camera is an eye in the head of a poet."  
+-- Orson Welles [1915]*
 
 > *"Art is the absence of fear."  
 -- Erykah Badu [1971]*
@@ -1290,6 +1285,9 @@ Artistic death is made by consensus.
 
 > *"Art is the memory of feeling alive."  
 -- x@nikhuno*
+
+> *"Buy art, save a crazy person."  
+-- x@ottophobia*
 
 ### On artists
 

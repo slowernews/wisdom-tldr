@@ -100,6 +100,9 @@ Hints:
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
 -- Robert A. Heinlein [1907]*
 
+> *"Maybe happiness is this: not feeling like you should be elsewhere, doing something else, being someone else."  
+-- Isaac Asimov [1920]*
+
 > *"One of the keys to happiness is a bad memory."  
 -- Rita Mae Brown [1944]*
 

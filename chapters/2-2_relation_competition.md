@@ -403,7 +403,8 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 > *"Self-sufficiency is the greatest of all wealth."  
 -- Epicurus [-341]*
 
-> *"Being poor is not having too little, it is wanting more."  
+> *"Being poor is not having too little, it is wanting more." (...)  
+"Wealth is the slave of a wise man. The master of a fool."  
 -- Seneca [-004]*
 
 > *"All my possessions for a moment of time."  
@@ -635,7 +636,8 @@ People say they want to be famous to impact the world, often what they want is t
 Don’t strive to be well-known, strive to be worth knowing.
 
 > *"He who is known as an early riser need not get up until noon." (...)  
-"We’ll know that rock is dead when you have to get a degree to work in it."  
+"We’ll know that rock is dead when you have to get a degree to work in it." (...)  
+"Many climb the mountain to be seen, few to see."
 -- vox populi*
 
 > *"There is only one thing in the world worse than being talked about, and that is not being talked about."  

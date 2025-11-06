@@ -1032,6 +1032,9 @@ Hints:
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus [-341]*
 
+> *"For every minute spent in organizing, an hour is earned."  
+-- Benjamin Franklin [1706]*
+
 > *"I went to collect the few personal belongings which I held to be invaluable: my cat, my resolve to travel, and my solitude."  
 -- Colette [1873]*
 
@@ -1049,6 +1052,9 @@ Hints:
 
 - Signs of a man who has lost control of his life: watch porn, addicted to comfort, addicted to drugs and alcohol. Spend all day indoor.
 - Porn isn’t real sex. Cocaine isn’t real energy. Alcohol isn’t real courage. Gambling isn’t real investing. Nightly news isn’t real facts. Social media isn’t really social. Business books aren’t real business.
+
+> *"Confort is the worst addiction."  
+-- Marcus Aurelius [0121]*
 
 > *"Addiction to knowledge is like any other addiction. It offers an escape from the fear of emptiness, of loneliness, of frustration, the fear of being nothing."  
 -- x@k__quotes*

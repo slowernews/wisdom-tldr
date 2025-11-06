@@ -383,6 +383,9 @@ Hints:
 "No one is more hated than he who speaks the truth."  
 -- Plato [-427]*
 
+> *"The greatest enemy of the truth is not the lie, it's the lazy mind."  
+-- Voltaire [1694]*
+
 > *"Truth prevails where opinions are free."  
 -- Thomas Paine [1737]*
 

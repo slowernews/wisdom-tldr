@@ -357,6 +357,8 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 "I’m not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
 -- Naval Ravikant [1974]*
 
+Ambition without action becomes anxiety.
+
 Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
 
 > *"To the mediocre, mediocrity appears great."  

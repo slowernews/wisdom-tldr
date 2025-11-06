@@ -21,7 +21,8 @@ Speak less and listen more. Talk slow. Be clear. Never mumble. Don’t interrupt
 > *"Know how to listen and you will profit even from those who talk badly."  
 -- Plutarch [0046]*
 
-> *"The best way to become boring is to say everything."  
+> *"The best way to become boring is to say everything." (...)  
+"Everything you say should be true but not everything true should be said."  
 -- Voltaire [1694]*
 
 > *"Don’t talk unless you can improve the silence."  
@@ -1165,6 +1166,9 @@ Hints:
 
 > *"The most difficult thing in the world is to know how to do a thing and to watch someone else doing it wrong, without commenting."  
 -- T.H. White [1906]*
+
+> *"Do not handicap your children by making their lives easy."  
+-- Robert A. Heinlein [1907]*
 
 > *"One of the greatest things a father can do for his children is to love their mother."  
 -- Howard W. Hunter [1907]*
