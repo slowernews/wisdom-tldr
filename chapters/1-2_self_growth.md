@@ -3,6 +3,8 @@
 ## On comfort and risk
 
 <!--
+> *"Growth means change and change involves risk, stepping from the known to the unknown."  -- George Shinn*
+
 - You think you are playing safe, but you are actually accumulating anxiety. Take bolder risks, it’s mentally liberating.
 - If you want to grow as a man... Never stay in the same place for too long.
 -->
@@ -328,14 +330,14 @@ Introverts have more probability of being an expert in their field. Extraversion
 > *"Masters are able to ask the kinds of simple questions that most people pass over."  
 -- Robert Greene [1959]*
 
+> *"Clarity precedes mastery."  
+-- Robin Sharma [1965]*
+
 > *"A real DJ has to know how to clear the floor. To know the worse it can happen and how to come back."  
 -- James Altucher [1968]*
 
 > *"You know you’re good at something when you switch from making decisions with your conscious mind to making decisions with your instincts."  
 -- Naval Ravikant [1974]*
-
-> *"Clarity precedes mastery."  
--- Robin Sharma [1965]*
 
 > *"Amateurs play for tricks, masters play for position."  
 -- hn@pystack*
@@ -609,11 +611,11 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 > *"The purpose of literature is to turn blood into ink."  
 -- T.S. Eliot [1888]*
 
-> *"The best writing is rewriting."  
--- E.B. White [1899]*
-
 > *"Write drunk. Edit sober."  
 -- Ernest Hemingway [1899]*
+
+> *"The best writing is rewriting."  
+-- E.B. White [1899]*
 
 > *"There’s nothing to writing. All you do is sit at a typewriter and open a vein."  
 -- Red Smith [1905]*

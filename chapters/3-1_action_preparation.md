@@ -172,7 +172,6 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 + x@scottadamssays -- Complexity is always a cover for fraud. In every domain.
 + x@wordgrammer -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
 > *"Reality is that which does not go away when you stop thinking about it."  -- Naval Ravikant [1974]*
-> *"All rumors about a public figure are to be deemed untrue until he threatens to sue."  -- Nassim Taleb [1960]*
 > *"All the ways of a man are clean in his own sight, but the Lord weighs the motives."  -- Proverbs 16:2*
 
 - if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
@@ -339,6 +338,9 @@ Hints:
 > *"The most important question: «What do you need to see to change your view?»"  
 -- Adam Robinson [1955]*
 
+> *"All rumors about a public figure are to be deemed untrue until he threatens to sue."  
+-- Nassim Taleb [1960]*
+
 > *"The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches)." (...)  
 "That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them."  
 -- Paul Graham [1964]*
@@ -352,8 +354,6 @@ Hints:
 ### On truth
 
 <!--
-> *"There will come a day, when all the lies will collapse under their own weight, and truth will again triumph."  -- Joseph Goebbels*
-
 + x@thomassowell -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with "hate speech" laws.
 
 - A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
@@ -470,8 +470,6 @@ Hints:
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 - Don’t tell everyone your plans, instead show them your results.
 - The Romans removed the soldiers’ incentive to be a coward and hurt others thanks to a process called decimation. If a legion loses a battle and there is suspicion of cowardice, 10 percent of the soldiers and commanders are put to death, usually by random lottery.
-
-> *"Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone."  -- x@orangebook_*
 -->
 
 > *"All battles are won or lost before they are ever fought."  
@@ -530,6 +528,9 @@ You can’t predict but you can prepare for the highly probable scenarios.
 
 > *"whatever you want to achieve you can achieve faster if you get hyperspecific."  
 -- x@anuatluru*
+
+> *"Take better care of your health when you are already healthy. Keep investing when you are already financially secure. Find a better job when you already have a job. Take bigger risks when you don’t need to take any. Build meaningful relationships when you are already happy alone."  
+-- x@orangebook_*
 
 ### How to plan?
 

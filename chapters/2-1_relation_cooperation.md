@@ -243,27 +243,18 @@ Choose truth or your self-mythology will seduce you.
 ## On business and entrepreneurship
 
 <!--
-> *"You only have to be right once."  -- Naval Ravikant [1974]*
 > *"The reality is that opportunities have never been more equal than now. @elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone. They’re eating food that might be marginally better than yours, but it’s basically the same. You might even have a better diet than them. You probably have more time to go to the gym than them. They’re not immortal, and they’re not going to be—most likely, not at this time scale. So you have more youth than them. You have a lot of advantages over them. The wealth gaps are actually much smaller than people think. A lot of that is due to mass production, which comes from specialization, labor, and capitalism. But it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys. It makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days. They’re craving status, not money or wealth. And status is a zero-sum game. So it’s kind of an evil game to play because there have to be losers for every winner. And the only way to win is by crushing somebody else down."  -- Naval Ravikant [1974]*
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It’s no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- x@morganhousel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
 > *"Money never starts an idea; it is the idea that starts the money."  -- William J. Cameron*
-> *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  -- x@alexhormozi*
-> *"The essence of American capitalism is to allow the rapid emergence of new companies, the essence of European capitalism is to do everything so that old companies do not die."  -- Léon Blum (1932)*
+
 > *"We are living in an era of woke capitalism in which companies pretend to care about social justice to sell products to people who pretend to hate capitalism."  -- x@clayroutledge*
-+ x@codie_sanchez -- Decrease the time between having an idea and getting it done. Money loves speed. Poverty loves waiting.
-+ x@codie_sanchez -- If you want to make money in a downturn, ask two questions: What do people need to spend $ on no matter what. What do rich people spend money on? These are the sectors you want to be in.
-+ x@marc_louvion -- Buy domain names / Buy domains, ship apps / Buy domains, ship apps, do marketing.
-> *"For the most successful founders, entrepreneurship is a pursuit of creative express.ion disguised as a business pursuit."  -- x@rapahelz*
-> *"Show me a person doing great things and I’ll show you a kid playing."  -- x@rapahelz*
 + x@realestatetrent -- I buy annoying properties and make them not annoying. My business, in a nutshell.
 + x@schrodingrsbrat -- Entrepreneurship is gonna look a lot more like art than business because the only moat left will be taste, not technicality. The role of art has always been to detect the signs of cultural change—artists find creative arbitrages, saying what people think before they realize it themselves. So the future of consumer products depends on how well you can detect, define, and create what people want before they know it. Traditional market research might be less useful because most people don’t know/can’t articulate what they want—it’s up to the artistically intuitive and psychologically inclined thinkers to find the local religion or patterns of belief and desire in a given market. “Everywhere I go I find a poet has been there before me.” (Freud)
-+ x@shl -- It’s easy to be right. It’s hard to build things and take financial risks that reward you for being right
 + x@thejustinwelsh -- Business is like a marathon. The longer you stick around, the less crowded it gets.
 
 - a company is somehow a machine - alfred lin
 - Every founder I’ve met usually has something. From my experience it’s usually: adhd, autism, narcissism or sociopathy.
-- balance sheets is for accountants but you have to deeply understand your cash flows.
 - CEOs are adaptable and flexible and good risk managers.
 - cheap prices attract problematic customers
 - designers aren’t wired to play it safe. They’re wired to take risks and companies are risk-averse.
@@ -297,7 +288,6 @@ Choose truth or your self-mythology will seduce you.
 - two ways to make money: bundling and unbundling!
 - When I was younger I moved to China to teach English. I got paid $15 an hour to teach a class. A friend of mine went to China at the same time. He instead offered classes to business people for $20/hour for a class of 5. $100/hour. Same product, different offer, different result.
 - you can run a company based on 5 points that fit a back of a package of a cigarette: low cost. every company its five points are different.
-- you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
 - you only need to identify a market before others and profit from it. than wait till next one. it may take a decade.
 - You’d be richer if you learned how to market rather than code.
 - zona genius: only 3 things I’m allowed to do in my business, the things that really serve us and we good at it top 5 list you do, the rest is avoid at all cost list. genius area / excellence area / competence area / incompetence area
@@ -311,6 +301,27 @@ Focus on what you can easily give that empowers others.
 
 Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it - the consumer votes with his wallet. It’s not about what you know, it’s about who trusts you to solve their problems. Often, it requires the technical skills. Always, it requires the persuasion skills.
 
+First try to sell it. Than build it.
+
+If you build something that people say they’ll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a «wannapreneur». At that point it’s just part of the struggle.
+
+Hints:
+
+- If you have an idea, test it and launch now. It’s called putting out a “minimally viable product” or MVP. Timing is the most important factor in startup success (quick to start but not the first). Team and execution came next. Find the 80/20 solution. Don’t put a bunch of effort to find out there’s no paying demand. 
+- The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs. It’s easier when YOU are the customer. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem.
+- Do the math. When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?
+- In some complex and mature markets if you start small you my never be able to compete with existent players.
+- Create a culture that rewards killing ideas. Nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
+- Do things manually at first. Don’t scale your team/product until you have built something people want. Only after you are over running your ability to do things manually you do have to worry about automation. 
+- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it or outsource them so you have more time to work on your cash flow.
+- Deliver a little bit more than expected. That’ll help to get you some recommendations.
+- «Fire» nasty, time consuming and time wasting clients.
+- Entrepreneurs are more risk averse than general population. Budget pessimistically using the worst case scenario.
+- There’s the myth that failure makes you a better entrepreneur. This is true only if you study your failures.
+
+> *"Don’t open a shop unless you know how to smile."  
+-- vox populi*
+
 > *"Without customers, you don’t have a business. You have a hobby."  
 -- Don Peppers [1946] & Martha Rogers [1938]*
 
@@ -321,6 +332,12 @@ Validate your business by finding paying clients. If something is worth doing, s
 > *"You can obsess about serving your customers or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further." (...)  
 "Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money."  
 -- Kevin Kelly [1952]*
+
+> *"Microsoft is always two years away from failure."  
+-- Bill Gates [1955]*
+
+> *"You can’t just ask customers what they want and then try to give that to them. By the time you get it built, they’ll want something new."  
+-- Steve Jobs [1955]*
 
 > *"Don’t find customers for your products. Find products for your customers."  
 -- Seth Godin [1960]*
@@ -344,44 +361,28 @@ Validate your business by finding paying clients. If something is worth doing, s
 "To build product, «make something people want». To create art, make something «you» want. (The best do both)." (...) 
 "You are not building a product. You are solving a problem." (...)  
 "Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
+"You only have to be right once." (...)  
 "You’re doing sales because you failed at marketing. You’re doing marketing because you failed at product." (...)  
 "Startups don’t die when they run out of cash, they die when the founders run out of energy." (...)  
 "Ethics in business means «don’t sell anything you wouldn’t buy»." (...)  
 "Nobody who’s actually good at making money needs to sell you a course on it."  
 -- Naval Ravikant [1974]*
 
-First try to sell it. Than build it.
+> *"It’s easy to be right. It’s hard to build things and take financial risks that reward you for being right."  
+-- Sahil Lavingia [1989]*
 
-If you build something that people say they’ll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a «wannapreneur». At that point it’s just part of the struggle.
-
-Hints:
-
-- If you have an idea, test it and launch now. It’s called putting out a “minimally viable product” or MVP. Timing is the most important factor in startup success (quick to start but not the first). Team and execution came next. Find the 80/20 solution. Don’t put a bunch of effort to find out there’s no paying demand. 
-- The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs. It’s easier when YOU are the customer. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem.
-- Do the math. When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?
-- In some complex and mature markets if you start small you my never be able to compete with existent players.
-- Create a culture that rewards killing ideas. Nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
-- Do things manually at first. Don’t scale your team/product until you have built something people want. Only after you are over running your ability to do things manually you do have to worry about automation. 
-- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it or outsource them so you have more time to work on your cash flow.
-- Deliver a little bit more than expected. That’ll help to get you some recommendations.
-- «Fire» nasty, time consuming and time wasting clients.
-- Entrepreneurs are more risk averse than general population. Budget pessimistically using the worst case scenario.
-- There’s the myth that failure makes you a better entrepreneur. This is true only if you study your failures.
-
-> *"Don’t open a shop unless you know how to smile."  
--- vox populi*
-
-> *"Microsoft is always two years away from failure."  
--- Bill Gates [1955]*
-
-> *"You can’t just ask customers what they want and then try to give that to them. By the time you get it built, they’ll want something new."  
--- Steve Jobs [1955]*
+> *"For the most successful founders, entrepreneurship is a pursuit of creative express.ion disguised as a business pursuit." (...)  
+"Show me a person doing great things and I’ll show you a kid playing."  
+-- x@rapahelz*
 
 > *"What one piece of advice would you give someone starting a company? Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too."  
 -- x@velez_david*
 
 > *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."  
 -- x@m2jr*
+
+> *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  
+-- x@alexhormozi*
 
 
 
@@ -391,7 +392,6 @@ Hints:
 ## On selling, negotiation and price
 
 <!--
-> *"Sales is basically just be decent enough at something and let people like you. Nobody gives a shit how smart you are."  -- x@skylarromines*
 > *"Any fool can paint a picture, but it takes a wise person to be able to sell it."*
 > *"Cheap prices are only cheap if your time has no value.*
 > *"Q: What’s the difference between a used car salesman and a computer salesman? A: The used car salesman knows when he’s lying.*
@@ -503,11 +503,13 @@ Modern selling: farmers (ambiverts and introverts)
 > *"Lots of folks doing everything they can to avoid talking on the phone. DMs, texts, emails - all shortcuts that reduce income dramatically. This business is about relationships. Hiding behind a screen is setting them years behind those who know the value of making real connections."  
 -- x@realestatetrent*
 
+> *"Sales is basically just be decent enough at something and let people like you. Nobody gives a shit how smart you are."  
+-- x@skylarromines*
+
 ### On negotiation
 	
 <!--
 > *"He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation."*
-
 -->
 
 > *"Negotiations are won by whoever cares less."  
@@ -578,15 +580,15 @@ Price is a filter. Set it to choose the customers you prefer to work with. If th
 > *"Nowadays people know the price of everything and the value of nothing."  
 -- Oscar Wilde [1854]*
 
-> *"Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource."  
--- Allen Tucker [1866]*
-
 > *"When you don’t know how much to pay someone for a particular task, ask them «what would be fair» and their answer usually is."  
 -- Kevin Kelly [1952]*
 
 > *"Pay double and insist on ten times the quality." (...)  
 "If it takes an expert to tell you what it’s worth, it isn’t worth anything."  
 -- Naval Ravikant [1974]*
+
+> *"Pay too much for everything. The effort spent getting a deal is only a distraction and attention is your most limited resource."  
+-- x@allentucker*
 
 > *"At some point you begin to define «expensive» in terms of time instead of money."  
 -- x@realestatetrent*
@@ -620,17 +622,17 @@ Hints:
 > *"Givers have to set limits because takers rarely do."  
 -- Henry Ford [1863]*
 
-> *"If you are more fortunate than others, build a longer table rather than a taller fence."  
--- Kevin Kelly [1952]*
-
-> *"Use money to reward the best, not to motivate the rest."  
--- Naval Ravikant [1974]*
-
 > *"Attention is the rarest and purest form of generosity."  
 -- Simone Weil [1909]*
 
 > *"The miracle is this: the more we share the more we have."  
 -- Leonard Nimoy [1931]*
+
+> *"If you are more fortunate than others, build a longer table rather than a taller fence."  
+-- Kevin Kelly [1952]*
+
+> *"Use money to reward the best, not to motivate the rest."  
+-- Naval Ravikant [1974]*
 
 > *"The last time I saw my uncle, I asked how he could be generous, and yet not be taken advantage of or stuck with horrible people. He said that what he’d learned to do was to condition whatever help he was offering on the person taking some tiny step first. Often, it was as simple as «make up a budget for you and your wife to go on a three day getaway, send it to me, and I’ll write you a check». Almost everyone who was just in it for the handouts couldn’t be bothered. My uncle also mixed a lot of his giving with encouraging young people’s talents. He’d hire students who were excited in X, to do X for him in some way. He hired students to take photos, make music, decorate houses, build apps, archive things, paint, and who knows what else. He even hired a student to make memes. This way the students not only got money, but grew in their skills and were excited that someone wanted their work. There were, of course, some rude and uncaring people in his life. But those people didn’t want to spend time with him so there was never really a conflict there." (...)  
 "My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies. I always thought that his ability to always have you, and whatever you had last talked about with him, on his mind at any moment was some kind of supernatural gift. I was surprised to find out at his funeral that he actually kept an excel spreadsheet of everyone he met and what they needed and were going through. He reviewed this constantly. It didn’t lessen his genuine love for everyone, just let him be a little more super human."  
@@ -1049,26 +1051,16 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 > *"One repays a teacher badly if one remains only a pupil."  
 -- Friedrich Nietzsche [1844]* 
 
-> *"I was always ready to share, but before external success, nobody cared to listen."  
--- Naval Ravikant [1974]*
+> *"Don’t follow your mentors; follow your mentors’ mentors."  
+-- David Leach [1936]*
 
 > *"If you think you’re too small to make an impact, try to go to bed with a mosquito in the room."  
 -- Anita Roddick [1942]*
 
-> *"Don’t follow your mentors; follow your mentors’ mentors."  
--- David Leach [1936]*
+> *"I was always ready to share, but before external success, nobody cared to listen."  
+-- Naval Ravikant [1974]*
 
 ### How to mentor your kids?
-
-<!--
-+ @naval -- "Children are happy because: 1) They're not self conscious 2) They lack a sense of time pressure 3) They've no goals. The bottom line is they are living from moment to moment, and the mind is not there to interfere in their bliss."
-
-- Absent parent: troubled child
-- A father is the one who reveals the truth about life to the kids. A mother is the one who comforts them after hearing it.
-- children don’t need a perfect teacher. they need a happy teacher, who’s gonna make them excited to come to school and grow a love for learning.
-- Children learn to be kind by experiencing kindness. Not by being told to be kind.
-- your child’s behaviour triggers you because deep down inside lives a child that was shamed for behaving the same way.
--->
 
 > *"Teach your children early what you learned late." (...)  
 "Teach your children how to think, not what to think."  
@@ -1081,10 +1073,16 @@ Don’t tell your kids how to live. Live fully and let them see. Spend only half
 Prepare the child for the path, not the child for the path.
 
 <!--
++ @naval -- "Children are happy because: 1) They're not self conscious 2) They lack a sense of time pressure 3) They've no goals. The bottom line is they are living from moment to moment, and the mind is not there to interfere in their bliss."
 > *"My partner teacher does this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."
 > *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson*
 > *"Children are natural mimics who act like their parents despite every effort to teach them good manners. Children seldom misquote you. In fact, they usually *repeat word for word what you shouldn’t have said.*
 
+- Absent parent: troubled child
+- A father is the one who reveals the truth about life to the kids. A mother is the one who comforts them after hearing it.
+- children don’t need a perfect teacher. they need a happy teacher, who’s gonna make them excited to come to school and grow a love for learning.
+- Children learn to be kind by experiencing kindness. Not by being told to be kind.
+- your child’s behaviour triggers you because deep down inside lives a child that was shamed for behaving the same way.
 - we become good parents when you start to control yourself instead of controlling your child.
 - If you don’t have kids you’ll be the first organism of your direct ancestors to not reproduce since the beggining of life. 
 - we are raising weak men and girls who need validation because their father wasn’t there.
@@ -1300,9 +1298,6 @@ Nobody can compete with you on being you. Most of your life is a search for who 
 -- x@empty_america*
 
 ### How to advance career?
-
-<!--
--->
 
 > *"Learn to sell. Learn to build. If you can do both, you’re unstoppable."  
 -- Naval Ravikant [1974]*
@@ -1712,10 +1707,7 @@ Hints:
 > *"Porn has prolonged more marriages than it’s ever destroyed."  -- Rollo Tomasi*
 > *"Some advice i gave to my friend: your value as a man should never be reduced to how you look. On dating apps that’s all you are—your height, & your face. It’s an endless police lineup for women to pick from, with nothing else factored in. The apps flattens you into a 2D commodity, judged in milliseconds. If you value yourself in any meaningful way, you should never partake in such a marketplace, ever."  -- x@signulll*
 > *"The desire to be loved is the last illusion. Give it up and you’ll be so free."  -- Margaret Atwood*
-> *"There are three qualities to look for in a partner: intelligence, energy, and integrity. You need all three. You can’t compromise on any one of them."  -- Naval Ravikant [1974]*
 > *"When I think I’m unfairly hated, I try to remember that I’m unfairly loved."  -- R.C. Sproul*
-> *"Men dream about virgins. Women dream about monsters. Who’s more perverted?"  -- Rivelino*
-> *"Your "loyalty" doesn’t mean anything to her if you can’t get other women. That’s not being loyal, that’s being a loser."  -- Rivelino*
 
 - A man will cry for a woman once in his lifetime. After that, his soul will never allow him to ever trust women (or fully love) ever again.
 - Date multiple women, and you’ll never fall in love. Date only one woman, and you’ll lose faith in love.
@@ -1744,6 +1736,9 @@ Hints:
 - Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
 - Relationships start with «can we talk» to «we need to talk». Once you start disliking someone, everything they do is irritating to you. A dirty dish by the sink can be a big marriage problem.
 - Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
+
+> *"There are three qualities to look for in a partner: intelligence, energy, and integrity. You need all three. You can’t compromise on any one of them."  
+-- Naval Ravikant [1974]*
 
 ### On falling in love
 

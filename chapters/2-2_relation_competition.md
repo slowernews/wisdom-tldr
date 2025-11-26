@@ -353,11 +353,11 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Andy Warhol is the only genius I’ve ever known with an IQ of 60."  
 -- Gore Vidal [1925]*
 
+> *"The thing about smart people is that they seem crazy to dumb people."  
+-- Stephen Hawking [1942]*
+
 > *"Some people feel the rain. Others just get wet."  
 -- Bob Marley [1945]*
-
-> *"The thing about smart people is that they seem crazy to dumb people."  
--- Stephen Hawking*
 
 > *"What is the difference between a madman and a genious? Success."  
 -- Javier Milei [1970]*
@@ -698,6 +698,7 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live - what city, what country - has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 
+- you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
 - I much prefer the riches I had - anonymity, freedom, simplicity - to those they have today - technology driven constant connectedness, ultra convenient (but awful) food, instant entertainment. It’s the difference between a vigorous independent youth and one scheduled and managed by the predominant culture. I prefer the former.
 - If you’re from a poor background, entertainment is your enemy. That sh!t will keep you poor.
 - some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.

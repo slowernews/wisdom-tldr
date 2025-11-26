@@ -27,9 +27,11 @@
 - [X.COM]
 
   @_falsi1ke
+  @_shortyy
   @alexhormozi
   @alpharivelino
   @anuatluru
+  @ashleymayer
   @authorcscalise
   @behaviorgap
   @brianferoldi
@@ -60,6 +62,7 @@
   @karenlambauthor
   @karlremarks
   @karunpal
+  @kaseyklimes
   @khoucasian
   @konstantinkisin
   @kunalb11
@@ -75,14 +78,16 @@
   @molson_hart
   @morganhousel
   @mozarrinsadaf
-  @nikitabier
   @nikhuno
+  @nikitabier
   @nivi
+  @noahpinion
   @orangebook_
   @ottophobia
   @pallnandi
   @pandemicriskman
   @pat_stedman
+  @paulskallas
   @pearlythingz
   @proffeynman
   @purposologist
@@ -103,6 +108,8 @@
   @til_danmunro
   @tk_coleman
   @torbair
+  @velez_david
+  @willmanidis
   @wuwei113
   @zacharylaid
   @zubymusic
@@ -155,8 +162,8 @@
 - [1181] ASSISI, Francis of (it)
 
 - [1207] RUMI (ir)
-- [1270] WALLACE, William (uk)
 - [1265] ALIGHIERI, Dante (it)
+- [1270] WALLACE, William (uk)
 
 - [1452] DA VINCI, Leonardo (it)
 - [1459] CIMA DA CONEGLIANO (it)
@@ -565,7 +572,6 @@
 - [1926] ELLIOT, Elisabeth (be)
 - [1926] GINSBERG, Allen (us)
 - [1926] HANH, Thich Nhat (vn)
-- [1926] HẠNH, Thích Nhất (vn)
 - [1926] MONROE, Marilyn (us)
 - [1926] ZIGLAR, Zig (us)
 - [1927] CLARK, Ramsey (us)
@@ -595,12 +601,12 @@
 - [1930] JOHNS, Jasper (us)
 - [1930] PEROT, Ross (us)
 - [1930] ROHN, Jim (us)
+- [1930] SCHUTZ, Peter (de)
 - [1930] SOWELL, Thomas (us)
 - [1931] DEAN, James (us)
 - [1931] GREENBERG, Daniel S. (us)
 - [1931] MELLO, Anthony de (in)
 - [1931] NIMOY, Leonard (us)
-- [1931] SCHUTZ, Peter (de)
 - [1931] TUTU, Desmond (za)
 - [1931] WILSON, Colin (uk)
 - [1932] COVEY, Stephen (us)
@@ -771,7 +777,7 @@
 - [1957] GILBER, Daniel (us)
 - [1957] KELLER, Gary (us)
 - [1957] KOHN, Alfie (us)
-- [1957] VASDEV, Sadhguru Jaggi (in)
+- [1957] VASUDEV, Sadhguru Jaggi (in)
 - [1958] ALBOM, Mitch (us)
 - [1958] BURTON, Tim (us)
 - [1958] OLDMAN, Gary (uk)
@@ -871,7 +877,7 @@
 - [1975] SITTENFELD, Curtis (us)
 - [1975] ZUSAK, Markus (au)
 - [1976] HARARI, Yuval Noah (il)
-- [1976] MALICE, Michael (ua-us)
+- [1976] MALICE, Michael (us/ua)
 - [1976] WAITZKIN, Josh (us)
 - [1977] DECKERS, Amber (us)
 - [1977] FERRISS, Tim (us)
@@ -890,7 +896,6 @@
 - [1982] NEWPORT, Cal (us)
 - [1982] SETHI, Ramit (us)
 - [1982] URBAN, Tim (us)
-<!-- [1983] MILHÃO, Miguel (pt) -->
 - [1983] SNOWDEN, Edward (us)
 - [1984] MANSON, Mark (us)
 - [1985] ALTMAN, Sam (us)
@@ -902,5 +907,4 @@
 - [1989] LAVINGIA, Sahil (us)
 
 - [1990] HILDEBRAND, Sarah (my)
-- [1991] BLOOM, Sahil (us)
 - [1997] NESTARES, Santiago (us)

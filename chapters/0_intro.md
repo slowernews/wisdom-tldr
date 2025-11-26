@@ -85,14 +85,14 @@ Hints:
 > *"Rules for happiness: something to do, someone to love and something to hope for."  
 -- Immanuel Kant [1724]*
 
+> *"Melancholy is the happiness of being sad."  
+-- Victor Hugo [1802]*
+
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli [1804]*
 
 > *"Many people lose the small joys in the hope for the big happiness."  
 -- Pearl S. Buck [1892]*
-
-> *"Melancholy is the happiness of being sad."  
--- Victor Hugo [1802]*
 
 > *"Happiness in intelligent people is the rarest thing I know."  
 -- Ernest Hemingway [1899]*
@@ -153,9 +153,9 @@ Hints:
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant [1974]*
 
-Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
-
 A big part of who you are is who you’re not.
+
+Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
 
 > *"Day by day, what you choose, what you think and what you do is who you become."  
 -- Heraclitus [-535]*
@@ -356,11 +356,11 @@ Hints:
 > *"Everyone tells you what to do and what’s good for you. They don’t want you to find your own answers. They want you to believe theirs."  
 -- Dan Millman [1946]*
 
-> *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
--- Stewart Copeland [1952]*
-
 > *"What’s right is what’s left if you do everything else wrong."  
 -- Robin Williams [1951]*
+
+> *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
+-- Stewart Copeland [1952]*
 
 > *"You goal in life is to be able to say on the day before you die that you have fully become yourself." (...)  
 "Copying others is a good way to start. Copying yourself is a disappointing way to end." (...)  

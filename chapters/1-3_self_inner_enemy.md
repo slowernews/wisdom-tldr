@@ -258,12 +258,12 @@ Hints:
 > *"A man who fears suffering is already suffering from what he fears."  
 -- Michel de Montaigne [1533]*
 
-> *"Courage ought to be guided by skill, and skill armed by courage."  
--- (sir) Philip Sidney [1554]*
-
 > *"It is courage that vanquishes in war, and not good weapons." (...)  
 "He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."  
 -- Miguel de Cervantes [1547]*
+
+> *"Courage ought to be guided by skill, and skill armed by courage."  
+-- (sir) Philip Sidney [1554]*
 
 > *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
 -- Francis Bacon [1561]*
@@ -668,11 +668,11 @@ Honesty is the pathway to confidence.
 
 When hiding something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. Speaking openly about an imperfection is a sign of strength, not a weakness. So you gotta share that shit in order to heal it.
 
-> *"Imperfections are attractive when their owners are happy with them."  
--- Augusten Burroughs [1965]*
-
 > *"Just get out of the room."  
 -- Robert Glover [1955]*
+
+> *"Imperfections are attractive when their owners are happy with them."  
+-- Augusten Burroughs [1965]*
 
 > *"Confidence is derived from options."  
 -- Rollo Tomassi [1969]*
@@ -1163,6 +1163,9 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 > *"Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it."  
 -- George Orwell [1903]*
 
+> *"When I was young, I used to admire intelligent people; as I grow older, I admire kind people."  
+-- Abraham Heschel [1907]*
+
 > *"Aging is an extraordinary process where you become the person you always should have been."  
 -- David Bowie [1947]*
 
@@ -1174,9 +1177,6 @@ The advantage of aging is that you become more decisive. Maturing is realizing t
 
 > *"You’re a kid until you have kids."  
 -- Sahil Lavingia [1989]*
-
-> *"When I was young, I used to admire intelligent people; as I grow older, I admire kind people."  
--- Abraham Heschel [1907]*
 
 ### On loneliness
 
@@ -1192,14 +1192,14 @@ A person who is okay with being alone is a powerful person.
 > *"I hate who teals my solitude without, in exchange, offering me true company."  
 -- Friedrich Nietzsche [1844]* 
 
-> *"And when nobody wakes you up in the morning, and when nobody waits for you at night, and when you can do whatever you want. what do you call it, freedom or loneliness?"  
--- Milan Kundera [1929]*
-
 > *"If you are afraid of loneliness, don’t marry."  
 -- Anton Chekhov [1860]*
 
 > *"Loneliness really haunts me. That’s a theme for the young – not wanting to be alone, not wanting to be older, not wanting to give up their teenage lack of responsibility. They postpone everything in order to find some beauty, which becomes increasingly difficult as you get older."  
 -- John Cassavetes [1929]*
+
+> *"And when nobody wakes you up in the morning, and when nobody waits for you at night, and when you can do whatever you want. what do you call it, freedom or loneliness?"  
+-- Milan Kundera [1929]*
 
 ### On death
 

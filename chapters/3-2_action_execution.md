@@ -285,7 +285,6 @@ Hints:
 <!--
 > *"The greatest muscle you can build is urgency. Decrease the time between having an idea and getting it done. Everything changes."  -- x@codie_sanchez*
 + x@naval -- Q: What is overrated? A: “Hard work is really overrated. How hard you work matters a lot less in the modern economy. Q: What is underrated? A: Judgment. Judgment is underrated.
-+ @orangebook_ -- Productive people are just people who are really good at ignoring everything that has nothing to do with their lives.
 
 - 6 months of focus and hard work can put you 5 years ahead in life.
 - Focus on adaptability not effectiveness
@@ -347,6 +346,9 @@ Hints:
 "Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
 "Say no: «It doesn’t feel right to me.» No more explanations are needed."  
 -- Naval Ravikant [1974]*
+
+> *"Productive people are just people who are really good at ignoring everything that has nothing to do with their lives."  
+-- x@orangebook_*
 
 
 
@@ -721,9 +723,6 @@ There are limits on change. Willpower is finite and change requires attention. H
 ### On getting advantage
 
 <!--
-> *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  -- George Orwell [1903]*
-+ x@paulskallas -- Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage.
-
 - Changing the subject. Hallmark of the loser
 - applying force vs removing obstacles. when you apply force you can identify obstacles. -- x@codie_sanchez*
 - failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
@@ -742,6 +741,9 @@ Leverage is a force multiplier. Leverage your target weaknesses to raise your ch
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
 -- Archimedes [-212]*
 
+> *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  
+-- George Orwell [1903]*
+
 > *"The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
 A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
 -- Richard Rumelt [1942]*
@@ -754,6 +756,9 @@ Capital means money. To raise money, apply your specific knowledge, with account
 Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
 An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it."  
 -- Naval Ravikant [1974]*
+
+> *"Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage."  
+-- x@paulskallas*
 
 Hints:
 
@@ -784,8 +789,6 @@ Hints:
 ### On charming
 
 <!--
-> *"You will never fully convince someone that he is wrong; only reality can."  -- Nassim Taleb [1960]*
-
 - Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.
 - Never trust a person who hangs out with the same people that they talk bad about.
 - People only get defensive if what you’re saying about them is true.
@@ -837,6 +840,9 @@ Hints:
 "Create compelling spectacles." (...)  
 "Stir up waters to catch fish."  
 -- Robert Greene {laws of power} [1959]*
+
+> *"You will never fully convince someone that he is wrong; only reality can."  
+-- Nassim Taleb [1960]*
 
 > *"If you don’t care to be liked, they can’t touch you."  
 -- Naval Ravikant [1974]*
@@ -956,19 +962,18 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 > *"Being pacifist in face of wolves is the source of endless tragedy."  
 -- vox populi*
 
-> *"He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you."  
--- Friedrich Nietzsche [1844]*
-
 > *"A violent man will die a violent death."  
 -- Lao Tzu [-571]*
 
 > *"With a gentleman I try to be a gentleman and a half, and with a fraud I try to be a fraud and a half."  
 -- Otto von Bismarck [1815]*
 
+> *"He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you."  
+-- Friedrich Nietzsche [1844]*
+
 ### On defeating status quo
 
 <!--
-> *"Growth means change and change involves risk, stepping from the known to the unknown."  -- George Shinn*
 - we are fighting a trillion dollar propaganda machine with memes.
 -->
 

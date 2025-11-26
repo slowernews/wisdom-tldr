@@ -32,6 +32,9 @@ Hints:
 > *"Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live."  
 -- Oscar Wilde [1854]*
 
+> *"Never explain: your friends do not need it, and your enemies will not believe you anyway."  
+-- Elbert Hubbard [1856]*
+
 > *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  
 -- George Bernard Shaw [1856]*
 
@@ -49,9 +52,6 @@ Hints:
 
 > *"Freedom is not the absence of commitments, but the ability to choose and commit myself to what is best for me."  
 -- Paulo Coelho [1947]*
-
-> *"Never explain: your friends do not need it, and your enemies will not believe you anyway."  
--- Elbert Hubbard [1856]*
 
 > *"Independent is what people call you if your opinions don’t upset anybody." (...)  
 "If you do not take risks for your opinion, you are nothing." (...)  
@@ -318,11 +318,11 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 > *"Our patiente will achieve more than our force."  
 -- Edmund Burke [1729]*
 
-> *"Continuous improvement is better than delayed perfection."  
--- Mark Twain [1835]*
-
 > *"Discipline is choosing between what you want now and what you want most."  
 -- Abraham Lincoln [1809]*
+
+> *"Continuous improvement is better than delayed perfection."  
+-- Mark Twain [1835]*
 
 > *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons." (...)  
 > *"Motivation is what gets you started. Habit is what keeps you going."  

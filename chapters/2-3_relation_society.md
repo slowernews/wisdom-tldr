@@ -435,6 +435,9 @@ Rigid regimes are doomed when they become flexible. The revolutionaries always b
 > *"Europe was created by history. America was created by philosophy."  
 -- Margaret Thatcher [1925]*
 
+> *"The essence of American capitalism is to allow the rapid emergence of new companies, the essence of European capitalism is to do everything so that old companies do not die."  
+-- Léon Blum (1932)*
+
 > *"America innovates, China replicates, Europe regulates."  
 -- Pedro Domingos [1965]*
 
@@ -865,6 +868,9 @@ Philosophy improves your intellectual rigor.
 
 «Intellectuals» as a class are over. The smartest men alive are posting cartoon frogs.
 
+> *"Science is what you know. Philosophy is what you don’t know."  
+-- Bertrand Russell [1872]*
+
 > *"A kiss can destroy a philosophy."  
 -- Anaïs Nin [1903]*
 
@@ -965,9 +971,6 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 > *"Compassion is the basis of morality."  
 -- Arthur Schopenhauer [1788]*
 
-> *"Ethics and aesthetics are one."  
--- Luig Wittgenstein []*
-
 > *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards." (...)  
 "There's an old illusion. It's called Good and Evil."  
 -- Friedrich Nietzsche [1844]* 
@@ -981,6 +984,9 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 
 > *"The first thing a man will do for his ideals is lie."  
 -- Joseph Schumpeter [1883]*
+
+> *"Ethics and aesthetics are one."  
+-- Ludwig Wittgenstein [1899]*
 
 > *"There are causes worth dying for, but none worth killing for."  
 -- Albert Camus [1913]*
