@@ -3,8 +3,6 @@
 ## On comfort and risk
 
 <!--
-> *"Growth means change and change involves risk, stepping from the known to the unknown."  -- George Shinn*
-
 - You think you are playing safe, but you are actually accumulating anxiety. Take bolder risks, it’s mentally liberating.
 - If you want to grow as a man... Never stay in the same place for too long.
 -->
@@ -24,7 +22,7 @@ Hints:
 - Leap while you’re at the top of the curve, and the next curve builds on the momentum.
 - This isn’t just a success strategy; it’s a well-being strategy. The risk of not changing is often greater than the risk of changing.
 - Risk looks different for everyone. Stability without stagnation.
-- Which do you want - the pain of stayng where you are, or the pain of growth?
+- Which do you want, the pain of staying where you are, or the pain of growth?
 - When the love-of-life line crosses the fear-of-death line, all hell breaks loose.
 
 > *"When we are tired, we are attacked by ideas we conquered long ago."  
@@ -60,6 +58,9 @@ Hints:
 > *"Rather than steering your life to avoid surprises, aim directly for them."  
 -- Kevin Kelly [1952]*
 
+> *"If you’re a dude & you do not take risks in your life, you will be a nobody."  
+-- x@signulll*
+
 ### On risk management
 
 > *"Never test the depth of the river with both feet."  
@@ -69,6 +70,9 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 
 > *"If your life is free of failures, you’re not taking enough risks."  
 -- H. Jackson Brown Jr. [1940]*
+
+> *"Safety and predictability live in the zoo. Freedom and growth live in the jungle."  
+-- x@rapahelz* 
 
 
 
@@ -213,15 +217,12 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 
 ## On wisdom
 
-<!--
-- knowledge is knowing what to say. wisdom is knowing when to say it.
--->
-
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris [1967]*
 
 Wisdom is knowing the long-term consequences of your actions.  
-Wisdom is knowing what to do with what you know.
+Wisdom is knowing what to do with what you know.  
+Knowledge is knowing what to say. wisdom is knowing when to say it.
 
 	WISDOM = INTELIGENCE + EXPERIENCE
 
@@ -465,6 +466,9 @@ College education may help you make a living. Self-education may make you a fort
 > *"Only the autodidacts are free."  
 -- x@thesiliconstoic*
 
+> *"Modern college exists because it’s basically illegal to screen for job candidate intelligence using simple IQ tests."  
+-- x@stefanmolyneux*
+
 Hints:
 
 - Study physics, mathematics, computers, microeconomics, game theory and persuasion.
@@ -505,6 +509,9 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 
 > *"Books serve to show a man that those original thoughts of his aren’t very new after all."  
 -- Abraham Lincoln [1809]*
+
+> *"Literature is the most agreeable way of ignoring life."  
+-- Fernando Pessoa [1888]*
 
 > *"One cannot read a book: one can only reread it. A good reader, a major reader, an active and creative reader is a rereader."  
 -- Vladimir Nabokov [1899]*
@@ -572,7 +579,8 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 ## On writing
 
 <!--
-+ x@g_s_bhogal -- You'll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
++ x@naval - Good writing is the output of good thinking. (Why AI hasn’t taken over X).
++ x@g_s_bhogal -- You’ll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
 > *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
 
 - We don’t need ChatGPT to write letters and emails. Just send the prompts.
@@ -702,7 +710,7 @@ Hints:
 > *"Chains of habit are too light to be felt until they are to heavy to be broken."  
 -- Warren Buffett [1930]*
 
-> *"You'll never change your life until you change something you do daily. The secret to your success is found in your daily routine."  
+> *"You’ll never change your life until you change something you do daily. The secret to your success is found in your daily routine."  
 -- John C. Maxwell [1947]*
 
 > *"The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it."  

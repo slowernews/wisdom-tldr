@@ -3,7 +3,25 @@
 ## On society and politics
 
 <!--
-- the secret is to be cool with everybody but don't hang with nobody. that's how you survive the streets
++ x@PlanetOfMemes - Capitalism will actually be the driver of the utopia Socialists hope for.
++ x@Maronidd - He was transphobic and homophobic, he deserved to die". I have excellent news for you about the population of Gaza
+
++ x@kunalb11 -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
+> *"It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men."  -- x@naval*
+> *"Tech is the accelerator, regulation is the brake."  -- x@naval*
+> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
+> *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb [1960]*
+> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
+> *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos [1965]*
+> *"The way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
+> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
+> *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
+> *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
+> *"If all cultures are equal, then cannibalism is just a matter of culinary taste."  -- Léo Strauss*
+> *"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command."  -- George Orwell [1903]*
+> *"It was always the women, and above all the young ones, who were the most bigoted adherents of the party, the swallowers of slogans, the amateur spies."  -- George Orwell [1903]*
+
+- the secret is to be cool with everybody but don’t hang with nobody. that’s how you survive the streets
 - Friedman told us...."keep your eye on one thing and one thing only....how much government is spending".
 - The co-exist people are unable to co-exist with people who disagree with them.
 - Respect is a passport. Crime is a deportation letter.
@@ -49,19 +67,6 @@ And once your philosophy has inverted upon itself, it becomes corrupt. Just like
 But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
 Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
 The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
-
-+ x@kunalb11 -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
-> *"It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men."  -- x@naval*
-> *"Tech is the accelerator, regulation is the brake."  -- x@naval*
-> *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
-> *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb [1960]*
-> *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
-> *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos [1965]*
-> *"The way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
-> *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
-> *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
-> *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
-> *"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command."  -- George Orwell [1903]*
 -->
 
 > *"For the friends: everything. For the others: the law."  
@@ -106,7 +111,9 @@ Pretending that simple things are complicated and that complicated things are si
 -- Pedro Domingos [1965]*
 
 > *"The state does not create wealth, the state destroys it. The state can give you nothing, because it produces nothing." (...)  
-"When the state calls you a taxpayer is equivalent to a rapist calling his victim his girlfriend."  
+"When the state calls you a taxpayer is equivalent to a rapist calling his victim his girlfriend." (...)  
+"When you spend your money on yourself, you do it wisely. When you spend your money on others, you minimize cost. When you spend others’ money on yourself, there is waste. The worst is spending others’ money on others. That’s why the state is never efficient." (...)  
+"If printing money would end poverty, printing diplomas would end stupidity."  
 -- Javier Milei [1970]*
 
 > *"Most of the culture wars are a struggle between what’s best for the children and what’s best for the childless." (...)  
@@ -187,6 +194,9 @@ When a politician says «threat to our democracy». They really mean threat to t
 > *"A memorandum is written not to inform the reader, but to protect the writer."  
 -- Dean Acheson [1893]*
 
+> *"If a business man makes a mistake, he suffers the consequences. If a bureaucrat makes a mistake, you suffer the consequences."  
+-- Ayn Rand [1905]*
+
 > *"A government that is big enough to give you all you want is big enough to take it all away."  
 -- Barry Goldwater [1909]*
 
@@ -259,6 +269,7 @@ The real diversity that matters is the diversity of ideas, not the diversity of 
 
 > *"Populism is what we call democracy when we don’t like the outcome." (...)  
 "All tyranny begins with the desire to coerce others for the greater good." (...)  
+"Importing voters is a loophole in democracy." (...)  
 "The road to socialism via inflation: Print money, crash the reserve currency, destroy savers and force them into inflated assets. Asset inflation leads to inequality. Demonize asset holders and tax the nominal gains, thereby confiscating the real value of the assets." (...)  
 "The greatest threats to the future are suppression of freedom of speech—freedom of mathematics, freedom of expression, and freedom of creation. And those are pointless if they can’t be backed up by violence. If you don’t have your own ability to inflict violence, it will be taken away from you. One recent tweet I had said, “The right to vote does not give you power. Power gives you the right to vote." You can just do a simple thought exercise: If there were a hundred of us on a desert island and we’re trapped, and we all kind of have to cooperate to create a new society. Suppose there are 10 people on the island who are all from the same ethnic background, who are all extremely unified, and they have all the guns. Those 10 have it, the other 90 don’t. Who do you think is going to end up running the place “for the benefit of the others"? Anyone who’s been around the block a few times knows what’s going to happen. So it’s just the nature of humans that if you want freedom at the individual level, if you want the rights to be dispersed and distributed, the power has to be dispersed and distributed. And there’s very few institutions and organizations that do that. Really, it’s the right to bear arms, cryptography, free speech, mathematics, personal computing. These are examples of decentralized technologies and capabilities that spread power amongst people. Most things concentrate power."  
 -- Naval Ravikant [1974]*
@@ -358,7 +369,7 @@ Freedom without property is an ilusion.
 > *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
 -- Elie Wiesel [1928]*	
 
-> *"There's no greater indictment of judges than the fact that honest people are afraid to go into court, while criminals swagger out its revolving doors."  
+> *"There’s no greater indictment of judges than the fact that honest people are afraid to go into court, while criminals swagger out its revolving doors."  
 -- Thomas Sowell [1930]*
 
 > *"Evil preaches tolerance until it is dominant, then it tries to silence good."  
@@ -422,11 +433,16 @@ Communism isn’t evil, it’s foolish. In the same way that unrestricted capita
 "The left is morally driven to hate inequality and finds itself opposing human nature, free markets, and evolution. The right is the ragtag coalition of people that want to be left alone - merchants, nationalists, the religious, libertarians. What unifies the right is the left." (...)  
 "The struggle between collectivists and individualists is as old as humanity." (...)  
 "Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome." (...)  
-"Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers."  
+"Technology breeds collectivism, because it increases leverage, and therefore the gap between winners and losers." (...)  
+"A socialist is just an out-of-power communist." (...)  
+"Marxism is religion without God."  
 -- Naval Ravikant [1974]*
 
 > *"The reason only leftists commit acts of terrorism and tear things down is simple: destruction is easy, building is hard. if they could build anything worth something, they wouldn’t be leftists in the first place. leftism is the ideology of those who failed at creation, resentment turned into politics. they despise excellence and beauty because they can’t achieve it, so they sabotage what others create. no one able to build something stays leftist for long, success cures that delusion fast."  
 -- x@iterintellectus*
+
+> *"Notice they say «eat the rich» instead of «feed the poor»."  
+-- x@zubymusic*
 
 ### On geopolitics
 
@@ -558,16 +574,17 @@ Groups of people behave differently than individuals. The larger the crowd, the 
 > *"My first thought, is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom."  
 -- William Deresiewicz [1964]*
 
+> *"Prediction: Most of the participants in the worst woke excesses of the 2010s will forget they were participants. Not because they’re deliberately lying, but because when people join mobs they’re not themselves, and such things are easy to forget."  
+-- Paul Graham [1964]*
+
 > *"Individuals rarely admit mistakes. Groups never do." (...)  
 "Groups search for consensus. Individuals search for truth." (...)  
 "«Consensus» is just another way of saying «average»." (...)  
 "A group operates through consensus. The consensus will be set by the most intolerable minority. The intolerable minority will control the group." (...)  
 "If your opinions line up neatly with those of your friends and colleagues, they’re not your opinions." (...)  
-"Think for yourself, not of yourself. Think of others, not for others."  
+"Think for yourself, not of yourself. Think of others, not for others." (...)  
+"Crowds aren’t wise - markets are wise, and mobs are dumb."  
 -- Naval Ravikant [1974]*
-
-> *"Prediction: Most of the participants in the worst woke excesses of the 2010s will forget they were participants. Not because they’re deliberately lying, but because when people join mobs they’re not themselves, and such things are easy to forget."  
--- x@paulg*
 
 > *"Many people don’t have original thoughts of their own, not because they lack mental creativity, but because they lack the courage to take real risks with the unknown, to walk alone, to challenge the consensus: they are afraid to live a life that no one has lived before."  
 -- x@orangebook_*
@@ -621,13 +638,14 @@ It’s easier to recognise stupidity in others than ourselves but don’t take f
 > *"I have long held that stupidity is very largely the result of fear leading to mental inhibitions."  
 -- Dorothy L. Sayers [1893]*
 
-> *"I’m smart enough to know that I’m dumb."  
+> *"I’m smart enough to know that I’m dumb." (...)  
+"When you are dead, you don’t know you are dead. It’s pain only for others. It’s the same thing when you are stupid."  
 -- Richard Feynman [1918]*
 
 > *"Fools multiply when wise men are silent."  
 -- Nelson Mandela [1918]*
 
-> *"The problem isn't that Johnny can't read. The problem isn't even that Johnny can't think. The problem is that Johnny doesn't know what thinking is; he confuses it with feeling." (...)  
+> *"The problem isn’t that Johnny can’t read. The problem isn’t even that Johnny can’t think. The problem is that Johnny doesn’t know what thinking is; he confuses it with feeling." (...)  
 "It is usually futile to try to talk facts and analysis to people who are enjoying a sense of moral superiority in their ignorance."  
 -- Thomas Sowell [1930]*
 
@@ -896,10 +914,6 @@ Philosophy improves your intellectual rigor.
 
 ## On religion
 
-<!--
-> *"If Christianity disappears in Europe, the whole world is threatened."  -- (Cardinal) Robert Sarah*
--->
-
 > *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
 -- Nassim Taleb [1960]*
 
@@ -972,7 +986,7 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 -- Arthur Schopenhauer [1788]*
 
 > *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards." (...)  
-"There's an old illusion. It's called Good and Evil."  
+"There’s an old illusion. It’s called Good and Evil."  
 -- Friedrich Nietzsche [1844]* 
 
 > *"Morality, like art, means drawing a line someplace." (...)  
@@ -1094,6 +1108,13 @@ Hints:
 ## On maths and computers
 
 <!--
++ x@naval - Show me your axioms and I’ll show you your conclusions.
++ x@superintoit - look at your actions to determine your axioms. reverse engineered authenticity
++ x@pmddomingos - One theorem carries as much information as an infinite number of experiments.
++ x@pmddomingos - Intelligence is heuristics + compute. Don’t mistake more compute for better heuristics.
++ x@nntaleb - The more something is perceived as stable, the worse the fall.
++ x@nivi - The funny thing is incompressible = compressed.
+
 - 90% of webapps are database frontends. / There is no cloud. It’s just someone else’s computer. / a fundamental rule of technology: There is no third ecosystem
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
 - Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
@@ -1136,6 +1157,11 @@ We’ve grown dependent on three simple features that just aren’t available in
 -- Nassim Taleb [1960]*
 
 ### On AI
+
+<!--
++ x@yacineMTB - LLMs turn 10x engineers into 1000x engineers, and 1x engineers into 0.1x engineers
++ x@pmddomingos - The smarter your AI is, the less data it needs. Needing huge training sets is a sign of stupidity.
+-->
 
 > *"With large language models we have externalized and formalized our unconscious — even our collective unconscious."  
 -- Jordan Peterson [1962]*
@@ -1201,6 +1227,9 @@ Artistic death is made by consensus.
 
 > *"The merit of originality is not novelty; it is sincerity."  
 -- Thomas Carlyle [1795]*
+
+> *"Art is not what you see, but what you make other see."  
+-- Edgar Degas [1834]*
 
 > *"Art is either plagiarism or revolution."  
 -- Paul Gauguin [1848]*
@@ -1329,6 +1358,9 @@ The more «art» you allow in, the less commercial success you’ll have. People
 > *"Good taste is easy. What’s challenging is to be close to vulgarity."  
 -- Adam Caruso [1962]*
 
+> *"Good taste is recognizing when a woman’s tits are too big."  
+-- x@alpharivelino*
+
 ### On design
 
 > *"Ten principles for good design: good design is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
@@ -1342,10 +1374,9 @@ The more «art» you allow in, the less commercial success you’ll have. People
 ## On media
 
 <!--
-> *"Good rule of thumb: those who frequently use the word «disinformation» are the ones most likely to be pushing it."  -- x@elonmusk*
+
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
 > *"Freedom of the press is for those who happen to own one.*
-"If you’re writing for your followers, your followers are worthless."  -- naval
 
 - engagement media
 - Instagram: where average people pretend to be millionaires. Twitter: where millionaires pretend to be average people.
@@ -1359,9 +1390,13 @@ News are the first draft of History but he human brain was not designed to proce
 > *"Your job is to get your audience to care about your obsessions."  
 -- Martin Scorsese [1942]*
 
+> *"Good rule of thumb: those who frequently use the word «disinformation» are the ones most likely to be pushing it."  
+-- Elon Musk [1971]*
+
 > *"The goal of media is to make every problem, your problem." (...)  
 "Journalists aren’t neutral, they’re the cavalry of culture wars." (...)  
-"All new information starts as misinformation."  
+"All new information starts as misinformation." (...)  
+"If you’re writing for your followers, your followers are worthless."  
 -- Naval Ravikant [1974]*
 
 > *"The hallmark of modern society is the theft of attention. Modern society is overcrowded with thieves of attention." (...)  

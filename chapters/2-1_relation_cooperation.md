@@ -104,17 +104,14 @@ Good stories condense a massive amount of details into a consumable and shareabl
 
 ### On public speaking
 
-<!--
-- study your audience reaction more than yourself.
--->
-
 > *"Eloquence is logic on fire."  
 -- Lyman Beecher [1775]*
 
 Hints:
 
-- You don’t need to answer their questions. You can say whatever you want if it’s interesting but learn when to answer boring on easy to misinterpret questions.
-- Agree as much as you can without lieing. Ask questions instead of desagreeing.
+- You don’t need to answer their questions. You can say whatever you want if it’s interesting but learn when to answer boring on easy to misinterpret questions.  
+- Agree as much as you can without lieing. Ask questions instead of desagreeing.  
+- Study your audience reaction more than yourself.
 
 > *"If you want to reach a large audience, appeal to idiots."  
 -- Arthur Schopenhauer [1788]*
@@ -138,6 +135,10 @@ Hints:
 
 
 ## On networking
+
+<!--
++ x@WealthInc247 - Avoid people who are close with people who dislike you.
+-->
 
 > *"The enemy of excellence is isolation."  
 -- Aaron Walker [1910]*
@@ -247,8 +248,10 @@ Choose truth or your self-mythology will seduce you.
 > *"Assumptions create hypothetical people. Curiosity guides you to real people. Real people have real cash. Real cash is more sustainable tha hypothetical cash. It’s no surprise that hype is fabricated from the hypothetical. (...) To earn your First Paying Costumer, go help somebody."  -- x@morganhousel*
 > *"Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time."*
 > *"Money never starts an idea; it is the idea that starts the money."  -- William J. Cameron*
-
 > *"We are living in an era of woke capitalism in which companies pretend to care about social justice to sell products to people who pretend to hate capitalism."  -- x@clayroutledge*
+
++ x@naval - Starting a company is solving a simultaneous equation - you’re convincing the money that you have the talent, and the talent that you have the moxney.
++ x@naval - The job of a startup is to find undiscovered talent and distill it into a product.
 + x@realestatetrent -- I buy annoying properties and make them not annoying. My business, in a nutshell.
 + x@schrodingrsbrat -- Entrepreneurship is gonna look a lot more like art than business because the only moat left will be taste, not technicality. The role of art has always been to detect the signs of cultural change—artists find creative arbitrages, saying what people think before they realize it themselves. So the future of consumer products depends on how well you can detect, define, and create what people want before they know it. Traditional market research might be less useful because most people don’t know/can’t articulate what they want—it’s up to the artistically intuitive and psychologically inclined thinkers to find the local religion or patterns of belief and desire in a given market. “Everywhere I go I find a poet has been there before me.” (Freud)
 + x@thejustinwelsh -- Business is like a marathon. The longer you stick around, the less crowded it gets.
@@ -622,6 +625,9 @@ Hints:
 > *"Givers have to set limits because takers rarely do."  
 -- Henry Ford [1863]*
 
+> *"I was always ashamed to take. So I gave. It was not a virtue. It was a desguise."  
+-- Anais Nin [1903]*
+
 > *"Attention is the rarest and purest form of generosity."  
 -- Simone Weil [1909]*
 
@@ -910,6 +916,8 @@ Hints:
 ### How to give feedback?
 
 <!--
+- unsolicited advice is a form of criticism
+
 TEN TIPS ON GIVING FEEDBACK
 - Give at least five times more positive feedback than negative.
 - Give feedback soon after the behavior you want to respond to.
@@ -949,6 +957,9 @@ Hints:
 
 > *"Ask for feedback on your attempts, not advice on your ideas."  
 -- Sahil Lavingia [1989]*
+
+> *"Mistake I made when younger was giving unsolicited feedback to others when it’s actually one of the easiest ways to make people dislike you."  
+-- x@chrislakin*
 
 Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
 
@@ -1073,7 +1084,7 @@ Don’t tell your kids how to live. Live fully and let them see. Spend only half
 Prepare the child for the path, not the child for the path.
 
 <!--
-+ @naval -- "Children are happy because: 1) They're not self conscious 2) They lack a sense of time pressure 3) They've no goals. The bottom line is they are living from moment to moment, and the mind is not there to interfere in their bliss."
++ @naval -- "Children are happy because: 1) They’re not self conscious 2) They lack a sense of time pressure 3) They’ve no goals. The bottom line is they are living from moment to moment, and the mind is not there to interfere in their bliss."
 > *"My partner teacher does this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."
 > *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson*
 > *"Children are natural mimics who act like their parents despite every effort to teach them good manners. Children seldom misquote you. In fact, they usually *repeat word for word what you shouldn’t have said.*
@@ -1383,14 +1394,14 @@ Hints:
 - There’s nothing wrong in specialization - it’s how we stay sane. A very workable and easy to understand formula early in your career is specialize in two things; you don’t have to be better at X and better at Y than everyone you meet, you have to be "better at X than anyone who is better at Y" and "better at Y than anyone who is better at X." This is very, very achievable, regardless of how highly competent your local set of peers is.
 -->
 
+> *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  
+-- x@realestatetrent*
+
 Hints:
 
 - To be an entrepreneur you need to know a little about a lot of things.
 - To be employed, if you pick the right specialization, you’ll do better as a specialist.
 - Startups are (by necessity) filled with generalists; big companies are filled with specialists.
-
-> *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  
--- x@realestatetrent*
 
 ### How to know your strenghts?
 
@@ -1535,6 +1546,10 @@ Hints:
 
 ## On relationships
 
+<!--
+- a relationship, like a movie or a book, doesn’t fail when it comes to an end.
+-->
+
 > *"Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom."  
 -- Kevin Kelly [1952]*
 
@@ -1583,6 +1598,11 @@ Hints:
 
 
 ## On family and friends
+
+<!--
++ @NavalismHQ - "Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."
+- If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
+-->
 
 > *"True friendship can exist only between equals."  
 -- Plato [-427]*
@@ -1698,14 +1718,16 @@ Hints:
 
 
 
+
+
 ## On lovers
 
 <!--
 > *"If you love a flower don’t pick it up. Because if you pick it up it dies and it ceases to be what you love. So if you love a flower, let it be. Love is not about possession. Love is about appreciation."  -- Osho*
 > *"Modern dating is basically learning all about someone until you are no longer attracted to them—sometimes it takes one date, sometimes it takes years."  -- x@signulll*  
+> *"Some advice i gave to my friend: your value as a man should never be reduced to how you look. On dating apps that’s all you are—your height, & your face. It’s an endless police lineup for women to pick from, with nothing else factored in. The apps flattens you into a 2D commodity, judged in milliseconds. If you value yourself in any meaningful way, you should never partake in such a marketplace, ever."  -- x@signulll*
 > *"Never has anyone done something entirely for others. All love is self-love. Think of those you love: dig deeply and you will see that you do not love them; you love the pleasant sensations that this love produces in you! You love the desire, not the desired." -- Friedrich Nietzsche [1844]* 
 > *"Porn has prolonged more marriages than it’s ever destroyed."  -- Rollo Tomasi*
-> *"Some advice i gave to my friend: your value as a man should never be reduced to how you look. On dating apps that’s all you are—your height, & your face. It’s an endless police lineup for women to pick from, with nothing else factored in. The apps flattens you into a 2D commodity, judged in milliseconds. If you value yourself in any meaningful way, you should never partake in such a marketplace, ever."  -- x@signulll*
 > *"The desire to be loved is the last illusion. Give it up and you’ll be so free."  -- Margaret Atwood*
 > *"When I think I’m unfairly hated, I try to remember that I’m unfairly loved."  -- R.C. Sproul*
 
@@ -1861,6 +1883,7 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 ### What women value in men
 
 <!--
+	
 - I want a man that sees my demons.
 - My man needs to have good social skills. I don’t care how he gets them.
 - Women would break down crying if they understood how much more pure men are compared to them.
@@ -1897,6 +1920,9 @@ Hints:
 > *"A suit to women is like lingerie to men."  
 -- Yves Saint Laurent [1936]*
 
+> *"Women are attracted to funny men, it is often said. This is not true. It only appears this way because women laugh at everything a very handsome man say."    
+-- Norm Macdonald [1959]*
+
 > *"What do women want? Every woman wants to be in a love story."  
 -- Zan Perrion [1964]*
 
@@ -1930,13 +1956,7 @@ Hints:
 ## On marriage
 
 <!--
-+ x@giammacool -- Hard times create marriageable women. Marriageable women create good times. Good times create whores. Whores create hard times.
-+ x@giammacool -- I was raised by a middle eastern family. In Lebanon only men decide divorce. The way it needs to be.
-+ x@giammacool -- If she refuses to sign a prenup she’s planning the wedding and the exit strategy.
-+ x@giammacool -- Ladies, If you’re thinking, «I don’t recognize the man I married, I’m not attracted to him anymore», Consider this… Pointing out everything he does wrong daily changes a man. A man who is constantly torn down will naturally pull away. If you’re not building him up daily, you’re setting yourself up for your own downfall, and worse, you’re not protecting your man.
-+ x@giammacool -- Nothing is more attractive to a man than your willingness to adopt his last name. Either way, your last name is either your husband’s or your father’s. So, claiming you want to keep your last name isn’t strictly accurate.
-
-- A women is either a 0 or a 1. A hore or a wife material. Dont overcomplicate.
+- A women is either a 0 or a 1. A hoe or a wife material. Don’t overcomplicate.
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
@@ -1948,7 +1968,7 @@ Hints:
 
 - A man would marry a poor woman as long as she’s loyal. A woman would marry a cheating man as long as he’s rich.
 - A submissive wife can make a man richer than a career woman.
-- «I want to be wanted, but not needed. I should be the one pushing for commitment. I want to have the feeling that I make a great deal, because he's of higher value than me.»
+- «I want to be wanted, but not needed. I should be the one pushing for commitment. I want to have the feeling that I make a great deal, because he’s of higher value than me.»
 - If you’re waiting for a man to get rich before you take him serious, take note. «Men don’t fall in love when they’re rich».
 
 > *"As long as the bed shakes, the house will remain stable." (...)  
@@ -2003,3 +2023,10 @@ Hints:
 
 > *"You can tell the health of a marriage by how often the wife posts selfies."  
 -- x@mc_shortyy*
+
+> *"Hard times create marriageable women. Marriageable women create good times. Good times create whores. Whores create hard times." (...)  
+"I was raised by a middle eastern family. In Lebanon only men decide divorce. The way it needs to be." (...)  
+"If she refuses to sign a prenup she’s planning the wedding and the exit strategy." (...)  
+"Ladies, If you’re thinking, «I don’t recognize the man I married, I’m not attracted to him anymore», Consider this… Pointing out everything he does wrong daily changes a man. A man who is constantly torn down will naturally pull away. If you’re not building him up daily, you’re setting yourself up for your own downfall, and worse, you’re not protecting your man." (...)  
+"Nothing is more attractive to a man than your willingness to adopt his last name. Either way, your last name is either your husband’s or your father’s. So, claiming you want to keep your last name isn’t strictly accurate."  
+-- x@giammacool*

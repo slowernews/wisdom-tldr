@@ -5,6 +5,7 @@
 <!--
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 
++ x@naval - 
 - How he carries himself is how he will be treated. A man with supreme confidence and self-assurance will be treated like one.
 - if you don’t like something, just take away its only power: your attention.
 - in any hierarchy there are zealots
@@ -24,7 +25,7 @@ Everything is hierarchy. Only comedians can speak the truth without consequences
 However don’t vow to the gatekeepers. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
 > *"When the mouse laughs at the cat there is a hole nearby." (...)  
-"The sun doesn’t forget a village just because it is small."  
+"The sun doesn’t forget a village just because it is small."  r
 -- vox populi*
 
 > *"Care about what other people think and you will always be their prisoner."  
@@ -57,12 +58,16 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 > *"If you know how quickly people forget the dead... you will stop living to impress people."  
 -- Christopher Walken [1943]*
 
+> *"People think life will be like college where it’s a meritocracy. But it’s like high school where there are all these cliques. Bottom line, A+ students work for the C students that know how to get along with people and get things done. I know. I’m the C student and a director."  
+-- Meryl Streep [1949]*
+
 > *"None of our leaders are punished for lying. Instead, regular people are punished for telling the truth."  
 -- Tucker Carlson [1969]*
 
 > *"The internet doesn’t care about your title." (...)  
 "I don’t believe in hierarchical relationships. I don’t want to be above anybody and I don’t want to be below anybody. If I can’t treat someone like a peer and if they can’t treat me like a peer, I just don’t want to interact with them." (...)  
-"The person writing the teleprompter is in charge, not the person reading from it."  
+"The person writing the teleprompter is in charge, not the person reading from it." (...)  
+"Make God your only boss."  
 -- Naval Ravikant [1974]*
 
 > *"Low status people would love a social credit score because obedience is one of the few metrics they can compete on."  
@@ -81,6 +86,9 @@ However don’t vow to the gatekeepers. Someone’s position does not make them 
 
 > *"The way you know society is messed up is how massive the gap is between what people will say in public and what they’ll tell you privately."  
 -- x@konstantinkisin*
+
+> *"In hierarchy: be loyal upward, protective downward, and neutral sideways. Never reciprocate arrogance. Never gossip. Deliver beyond expectation and let your political behavior signal maturity. Character is armour; it outlasts talent, charm, and luck."  
+-- x@unmodernmanbot*
 
 
 
@@ -217,7 +225,7 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 
 <!--
 - Your biggest supporters will be strangers, and your biggest critics will be people you know.
-- if you find someone smarter than you, don't compete. Work together.
+- if you find someone smarter than you, don’t compete. Work together.
 -->
 
 > *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
@@ -382,13 +390,18 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Intellectuals pride themselves on their intelligence but they’d be more intelligent if they prided themselves on their curiosity."  
 -- x@g_s_bhogal*
 
+> *"Intelligence looks like randomness to those with less of it."  
+-- x@pmddomingos*
+
 ### On wealth
 
 <!--
++ x@intangiblecoins - a poor man with kids is richer than a rich man with none
+	
 - Money loves speed. Wealth loves time. Poverty loves indecision.
 - Wealth is the slave of the wise man and master of the fool.
 - «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
-- people don't get rich because of intelligence. Most people who get rich in business are usually insanely self-disciplined. Self-discipline is the real metric for succes
+- people don’t get rich because of intelligence. Most people who get rich in business are usually insanely self-disciplined. Self-discipline is the real metric for succes
 -->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
@@ -425,7 +438,8 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 > *"Some people are so poor, all they have is money."  
 -- Patrick Meagher [1973]*
 
-> *"Being rich is having money; being wealthy is having time."  
+> *"Being rich is having money; being wealthy is having time." (...)  
+"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."  
 -- Naval Ravikant [1974]*
 
 > *"You’re not supposed to optimize for money; you’re supposed to optimize for happiness."  
@@ -433,6 +447,9 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 
 > *"Three levels of wealth: No meetings. Lots of meetings. No meetings."  
 -- x@alexhormozi*
+
+> *"A poor man with kids is richer than a rich man with none."  
+-- x@intangiblecoins* 
 
 #### On money
 
@@ -476,7 +493,7 @@ Making money is not about luck.
 - Being broke is hard. Becoming rich is hard. Choose your hard.
 
 > *"He who works all day has no time to make money." (...)  
-"I would rather earn 1% off 100 people's efforts than 100% of my own efforts."  
+"I would rather earn 1% off 100 people’s efforts than 100% of my own efforts."  
 -- John D. Rockefeller [1839]*
 
 > *"The big money is not in the buying and selling, but in the waiting."  
@@ -567,7 +584,7 @@ Hints:
 > *"Money just comes to me because I know where to stand."  
 -- x@ChelseaLazkani*
 
-### On investment comfort zone
+#### On investment comfort zone
 
 > *"When forced to choose, I will not trade even a night’s sleep for the chance of extra profits."  
 -- Warren Buffett [1930]*
@@ -872,6 +889,9 @@ Hints:
 > *"Strive not to be a success, but rather be of value."  
 -- Albert Einstein [1879]*
 
+> *"No man can be successful, unless he first loves his work."  
+-- David Sarnoff [1891]*
+
 > *"To me success has meant just two things: a good life for my family, and the money to buy books and continue the education of this wandering man."  
 -- Louis L’amour [1908]*
 
@@ -1011,6 +1031,9 @@ Hints:
 
 > *"War is when government tells you who the bad guy is. Revolution is when you decide that for yourself."  
 -- Benjamin Franklin [1706]*
+
+> *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  
+-- John Quincy Adams [1767]*
 
 > *"To destroy war, destroy patriotism."  
 -- Leo Tolstoy [1828]*

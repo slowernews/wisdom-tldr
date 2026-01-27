@@ -169,13 +169,12 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 
 <!--
 + x@rapahelz -- The hallmark of clear thinking is skepticism with regard to dominant narratives.
-+ x@scottadamssays -- Complexity is always a cover for fraud. In every domain.
 + x@wordgrammer -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
 > *"Reality is that which does not go away when you stop thinking about it."  -- Naval Ravikant [1974]*
 > *"All the ways of a man are clean in his own sight, but the Lord weighs the motives."  -- Proverbs 16:2*
 
 - if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
-- It's less about the past men than the future men. Past actions predict future actions. Hoeing around, then getting scared and wanting to "settle down", is basically a guarantee that she has no intention of changing her behavior. She's just realizing how much she has to lie. Never forget: Your word is your power.
+- It’s less about the past men than the future men. Past actions predict future actions. Hoeing around, then getting scared and wanting to "settle down", is basically a guarantee that she has no intention of changing her behavior. She’s just realizing how much she has to lie. Never forget: Your word is your power.
 - We overlook major flaws in those we like. And exaggerate minor faults in those we don’t.
 -->
 
@@ -230,6 +229,9 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"To understand is to know what to do."  
 -- Ludwig Wittgenstein [1889]*
 
+> *"All observations are theory-impregnated. There is no pure, disinterested, theory-free observation."  
+-- Karl Popper [1902]*
+
 > *"Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital."  
 -- Aaron Levenstein [1910]*
 
@@ -256,6 +258,9 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 
 > *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  
 -- x@morganhousel*
+
+> *"Complexity is always a cover for fraud. In every domain."  
+-- x@scottadamssays*
 
 <!--
 > *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
@@ -354,9 +359,10 @@ Hints:
 ### On truth
 
 <!--
-+ x@thomassowell -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with "hate speech" laws.
++ x@thomassowell -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with «hate speech» laws.
 
 - A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
+- "A verdade é filha do tempo."
 -->
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
@@ -383,7 +389,7 @@ Hints:
 "No one is more hated than he who speaks the truth."  
 -- Plato [-427]*
 
-> *"The greatest enemy of the truth is not the lie, it's the lazy mind."  
+> *"The greatest enemy of the truth is not the lie, it’s the lazy mind."  
 -- Voltaire [1694]*
 
 > *"Truth prevails where opinions are free."  
@@ -436,9 +442,13 @@ Hints:
 > *"The truth is generally seen, rarely heard."  
 -- Robert Greene [1959]*
 
+> *"None of our leaders are punished by lying. Instead, regular people are punished for telling the truth."  
+-- Tucker Carlson [1969]*
+
 > *The closer you are to the truth, the more silent you become inside." (...)  
 "I went looking for truth and all I found was love. I went looking for love and all I found was truth." (...)  
 "If it hurts to hear it, look for the truth in it. If it comforts to hear it, look for the lie in it." (...) 
+"Lies are generally more pleasant than the truth because otherwise, how would they spread?" (...)  
 "Everybody wants spirituality. Nobody wants the truth."  
 "Curiosity is just the search for truth." (...)  
 "There are infinite ways to lie, there’s only one way to tell the truth." (...)  
@@ -470,6 +480,7 @@ Hints:
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 - Don’t tell everyone your plans, instead show them your results.
 - The Romans removed the soldiers’ incentive to be a coward and hurt others thanks to a process called decimation. If a legion loses a battle and there is suspicion of cowardice, 10 percent of the soldiers and commanders are put to death, usually by random lottery.
+- "every pattern is a map"
 -->
 
 > *"All battles are won or lost before they are ever fought."  
@@ -581,6 +592,7 @@ Hints:
 <!--
 > *"My brother says to never make a big decision before you take a shower."*
 > *"Se não houvesse decisoes eramos todos iguais."  -- António Simões*
+> *"When you renounce something, you’re stuck to it forever."  -- Anthony de Mello [1931]*
 
 - a good decision is risking little for the opportunity to gain a lot. and vice-versa.
 - Actions > Thoughts; Actions change the world. Not beliefs.
@@ -647,6 +659,9 @@ We think we make choices but our choices are influenced by others. We pick what 
 
 > *"The worst decisions in life are made when you allow your head to talk you into something when your gut already said no."  
 -- x@sahilbloom*
+
+> *"When it’s right, it’ll be obvious."  
+-- x@spiritgenealogy*
 
 ### How to speed up decisions?
 

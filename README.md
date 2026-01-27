@@ -38,23 +38,48 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *1.2 - On growth*
 - [On comfort and risk](/chapters/1-2_self_growth.md#on-comfort-and-risk)
+	- [On comfort and risk](/chapters/1-2_self_growth.md#on-risk-management)
 - [On improving](/chapters/1-2_self_growth.md#on-improving)
+	- [On improving by experience](/chapters/1-2_self_growth.md#on-improving-by-experience)
+	- [On improving by analysis](/chapters/1-2_self_growth.md#on-improving-by-analysis)
+	- [On applied knowledge](/chapters/1-2_self_growth.md#on-applied-knowledge)
 - [On wisdom](/chapters/1-2_self_growth.md#on-wisdom)
+	- [On mastery](/chapters/1-2_self_growth.md#on-mastery)
 - [On education](/chapters/1-2_self_growth.md#on-education)
 - [On reading](/chapters/1-2_self_growth.md#on-reading)
+	- [On classics](/chapters/1-2_self_growth.md#on-classics)
 - [On writing](/chapters/1-2_self_growth.md#on-writing)
+	- [On email](/chapters/1-2_self_growth.md#on-email)
 - [On habits and systems](/chapters/1-2_self_growth.md#on-habits-and-systems)
+	- [How to change habits?](/chapters/1-2_self_growth.md#How-to-change-habits)
 
 *1.3 - On your worst enemy: yourself*
-- [On stress](/chapters/1-3_self_inner_enemy.md#on-stress-and-health)
-- [On fear](/chapters/1-3_self_inner_enemy.md#on-fear-and-excuses)
+- [On mental health](/chapters/1-3_self_inner_enemy.md#on-mental-health)
+	- [On depression and anxiety](/chapters/1-3_self_inner_enemy.md#on-depression-and-anxiety)
+	- [How to stay healthy](/chapters/1-3_self_inner_enemy.md#how-to-stay-healthy)
+- [On shame, confidence and validation](/chapters/1-3_self_inner_enemy.md#on-shame-confidence-and-validation)
+	- [On confidence and validation](/chapters/1-3_self_inner_enemy.md#on-confidence-and-validation)
+	- [How to overcome shame and grow confidence?](/chapters/1-3_self_inner_enemy.md#how-to-overcome-shame-and-grow-confidence)
+	- [On entitlement and ego](/chapters/1-3_self_inner_enemy.md#on-entitlement-and-ego)
+	- [On introversion and insecurity](/chapters/1-3_self_inner_enemy.md#on-introversion-and-insecurity)
 - [On failure](/chapters/1-3_self_inner_enemy.md#on-failure-mistakes-and-anger)
-- [On shame](/chapters/1-3_self_inner_enemy.md#on-shame-confidence-and-validation)
+	- [On scars and wounds](/chapters/1-3_self_inner_enemy.md#on-scars-and-wounds)
+	- [On anger](/chapters/1-3_self_inner_enemy.md#on-anger)
+- [On fear and courage](/chapters/1-3_self_inner_enemy.md#on-fear-and-courage)
+	- [On limits](/chapters/1-3_self_inner_enemy.md#on-limits)
 - [On jealousy and envy](/chapters/1-3_self_inner_enemy.md#on-jealousy-and-envy)
+	- [On self awareness](/chapters/1-3_self_inner_enemy.md#on-self-awareness)
 - [On pessimism](/chapters/1-3_self_inner_enemy.md#on-pessimism)
 - [On perfectionism](/chapters/1-3_self_inner_enemy.md#on-perfectionism)
-- [On limits](/chapters/1-3_self_inner_enemy.md#on-limits)
+	- [On procrastination](/chapters/1-3_self_inner_enemy.md#on-procrastination)
+	- [On clutter](/chapters/1-3_self_inner_enemy.md#on-clutter)
+	- [On addictions](/chapters/1-3_self_inner_enemy.md#on-addictions)
 - [On growing old](/chapters/ch1-3_self_inner-enemy.md#on-growing-old)
+	- [On aging](/chapters/1-3_self_inner_enemy.md#on-aging)
+	- [On maturity](/chapters/1-3_self_inner_enemy.md#on-maturity)
+	- [On loneliness](/chapters/1-3_self_inner_enemy.md#on-loneliness)
+	- [On death](/chapters/1-3_self_inner_enemy.md#on-death)
+	- [On dreams](/chapters/1-3_self_inner_enemy.md#on-dreams)
 
 
 
@@ -65,17 +90,47 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *2.1 - On cooperation*
 - [On communication](/chapters/2-1_relation_cooperation.md#on-communication)
+	- [How to communicate?](/chapters/2-1_relation_cooperation.md#how-to-communicate)
+	- [How to discord?](/chapters/2-1_relation_cooperation.md#how-to-discord)
+	- [How to tell stories?](/chapters/2-1_relation_cooperation.md#how-to-tell-stories)
+	- [On public speaking](/chapters/2-1_relation_cooperation.md#on-public-speaking)
 - [On networking](/chapters/2-1_relation_cooperation.md#on-networking)
+	- [How to network?](/chapters/2-1_relation_cooperation.md#how-to-network)
+	- [Why most people don’t like networking?](/chapters/2-1_relation_cooperation.md#why-most-people-dont-like-networking)
+	- [How to prepare an elevator pitch?](/chapters/2-1_relation_cooperation.md#how-to-prepare-an-elevator-pitch)
 - [On business and entrepreneurship](/chapters/2-1_relation_cooperation.md#on-business-and-entrepreneurship)
 - [On selling, negotiation and price](/chapters/2-1_relation_cooperation.md#on-selling-negotiation-and-price)
+	- [On negotiation](/chapters/2-1_relation_cooperation.md#on-negotiation)
+	- [On price](/chapters/2-1_relation_cooperation.md#on-price)
 - [On generosity and incentives](/chapters/2-1_relation_cooperation.md#on-generosity-and-incentives)
+	- [On incentives](/chapters/2-1_relation_cooperation.md#on-incentives)
 - [On leadership](/chapters/2-1_relation_cooperation.md#on-leadership)
+	- [On vision](/chapters/2-1_relation_cooperation.md#on-vision)
 - [On management and delegation](/chapters/2-1_relation_cooperation.md#on-management-and-delegation)
+	- [On teams](/chapters/2-1_relation_cooperation.md#on-teams)
+	- [How to give feedback?](/chapters/2-1_relation_cooperation.md#how-to-give-feedback)
+	- [On meetings](/chapters/2-1_relation_cooperation.md#on-meetings)
 - [On mentorship](/chapters/2-1_relation_cooperation.md#on-mentorship)
+	- [How to find mentors?](/chapters/2-1_relation_cooperation.md#how-to-find-mentors)
+	- [How to mentor your kids?](/chapters/2-1_relation_cooperation.md#how-to-montor-your-kids)
 - [On career](/chapters2-1_relation_cooperations.md#on-career)
+	- [How to advance career?](/chapters/2-1_relation_cooperation.md#how-to-advance-career)
+	- [How to change career?](/chapters/2-1_relation_cooperation.md#how-to-change-career)
+	- [Employee or entrepreneur?](/chapters/2-1_relation_cooperation.md#employee-or-entrepreneur)
+	- [Specialist or generalist?](/chapters/2-1_relation_cooperation.md#specialist-or-generalist)
+	- [How to know your strenghts?](/chapters/2-1_relation_cooperation.md#how-to-know-your-strenghts)
+	- [On hiring and being hired](/chapters/2-1_relation_cooperation.md#on-hiring-and-being-hired)
+	- [On resumes](/chapters/2-1_relation_cooperation.md#on-resumes)
+	- [How to attract and keep talented people?](/chapters/2-1_relation_cooperation.md#how-to-attract-and-keep-talented-people)
 - [On relationhips](/chapters/2-1_relation_cooperation.md#on-relationhips)
 - [On family and friends](/chapters/2-1_relation_cooperation.md#on-family-and-friends)
+	- [How to curate your friends?](/chapters/2-1_relation_cooperation.md#how-to-curate-your-friends)
 - [On lovers](/chapters/2-1_relation_cooperation.md#on-lovers)
+	- [On falling in love](/chapters/2-1_relation_cooperation.md#on-falling-in-love)
+	- [On love and romance](/chapters/2-1_relation_cooperation.md#on-love-and-romance)
+	- [On falling out of love](/chapters/2-1_relation_cooperation.md#on-falling-out-of-love)
+	- [What women value in men?](/chapters/2-1_relation_cooperation.md#what-women-value-in-men)
+	- [What men value in women?](/chapters/2-1_relation_cooperation.md#what-men-value-in-women)
 - [On marriage](/chapters/2-1_relation_cooperation.md#on-marriage)
 
 *2.2 - On competition*
@@ -141,7 +196,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 ## TLDR
 
-> *"Fuck, don’t give a fuck and don’t be fucked over."  
+> *"Fxck, don’t give a fxck and don’t be fxcked over."  
 -- Vox populi*
 
 Eight general advices:

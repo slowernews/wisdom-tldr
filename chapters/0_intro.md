@@ -2,15 +2,13 @@
 
 ## On the purpose of life
 
-<!--
-> *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
-> *"You are not a drop in the ocean. You are the entire ocean in a drop."  -- Rumi [1207]*
--->
-
 > *"The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children."  
 -- G.K. Chesterton [1874]*
 
 Your job here on earth is to make a few life decisions extremely well, and the rest is a rounding error.
+
+> *"The purpose of life is to be defeated by greater and greater things."  
+-- Rainer Maria Rilke [1875]*
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- Pablo Picasso [1881]*
@@ -36,17 +34,15 @@ Your job here on earth is to make a few life decisions extremely well, and the r
 ### On happiness
 
 <!--
-- alcançar a liberdade: ou c muito dinheiro ou c falta de desejos.
-- If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
-- Men give up happyness for their family. Women give up family for their happyness.
-- You are happy because you are surrounded by people you trust and love. You are healthy because you are in control of your impulses and habits. You are wealthy because you started investing long-term decades ago. You are relaxed because you are in control of your time.
-- You don’t hear much from happy people, because once you are living the life you want, you keep a low profile, you keep your life private.
+> *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
 -->
 
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
 -- Mahatma Gandhi [1869]*
 
 Happiness is a mind state where nothing is missing.
+
+You don’t hear much from happy people, because once you are living the life you want, you keep a low profile, you keep your life private.
 
 	HAPPINESS = AUTONOMY + BELONGING + MASTERY  and  REALITY > EXPECTATIONS
 
@@ -68,12 +64,11 @@ Stop looking for happiness in the same place where you lost it.
 
 Hints:
 
-- Regrets of the dying: don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 - Happiness is outside of your comfort zone.
 - We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.
-- I’m a straight capitalist-meritocratist, entirely driven by gratitude. The richer you get the more expensive happiness becomes.
-- Busy people are happier. They don't have time to overthink.
+- Busy people are happier. They don’t have time to overthink.
 - Amor fati. True wisdom comes from accepting fate. High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.
+- Regrets of the dying: don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 
 > *"Happy is he who learns to bear what he cannot change."  
 -- Seneca [-004]*
@@ -117,10 +112,9 @@ Hints:
 
 > *"Money can’t make rich people happy but it can make poor people happy." (...)  
 "Beyond the basics, money doesn’t make you happier because, beyond the basics, nothing makes you happier." (...)  
-"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned." (...)  
 "The price of trying to make everybody else happy is making yourself miserable." (...)  
 "Happiness is your default state when you remove everything." (...)  
-"Self-obsession is the root of all unhappiness. The happiest people in life love something more than they love themselves. They love their children, they love God, they love their mission, what have you. And all misery comes from rumination, from sitting around...going in circles in your head about me, me, me, me. I get interested in topics and concepts and ideas and understandings. And the more I focus that way, the less I think about myself."  
+"Self-obsession is the root of all unhappiness. The happiest people in life love something more than they love themselves. They love their children, they love God, they love their mission, what have you. And all misery comes from rumination, from sitting around... going in circles in your head about me, me, me, me. I get interested in topics and concepts and ideas and understandings. And the more I focus that way, the less I think about myself."  
 -- Naval Ravikant [1974]*
 
 > *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happiness. Or jail."  
@@ -145,17 +139,12 @@ Hints:
 
 ## Who are you now?
 
-<!--
-> *"You are what you eat and read."  -- Maya Corrigan*
-> *"When you renounce something, you’re stuck to it forever."  -- Anthony de Mello [1931]*
--->
-
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant [1974]*
 
 A big part of who you are is who you’re not.
 
-Your actions reveal your real values. Not what you say, not what you believe. How you do anything is how you do everything. You are your options. Ultimately you are your choices.
+You are your options. Ultimately you are your choices. Your actions reveal your real values. Not what you say, not what you believe.
 
 > *"Day by day, what you choose, what you think and what you do is who you become."  
 -- Heraclitus [-535]*
@@ -191,18 +180,10 @@ Your actions reveal your real values. Not what you say, not what you believe. Ho
 
 ## On finding your path
 
-<!--
-- life is not about finding yourself. life is about creating yourself.
-- Better to admit you walked to the wrong door than spend your life in the wrong room.
-- It’s not the lack of intelligence, it’s the lack of focus that is stopping you.
-- the biggest comeback is making yourself feel like yourself again.
-- The longer you are living on autopilot, the harder the future is going to be.
--->	
-
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
 -- Richard Bach [1936]*
 
-Your new life will cost you your old one. Do not fear your own potential.
+Your new life will cost you your old one.
 
 No matter where you are in your life, you have the power to change everything in an instant. Most won’t. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
 
@@ -215,12 +196,11 @@ The destiny will be revealed as you start walking. Cancel your pity party, no on
 Hints:
 
 - Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.
-- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones.
-- Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.
-- The trouble with setting goals is that you’re constantly working toward what you used to want. Old keys won’t open new doors.
+- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.
+- The trouble with setting goals is that you’re constantly working toward what you used to want. Old keys won’t open new doors. Better to admit you walked to the wrong door than spend your life in the wrong room.
 - It’s easier to ask forgiveness than to get permission.
-- We say we try to get better but if look at your behaviour you’ll see you actually are trying to to stay the same.
-- Focus on financial freedom first. Put your happiness before goals.
+- We say we try to get better but if look at your behaviour you’ll see you actually are trying to to stay the same. The longer you are living on autopilot, the harder the future is going to be. The biggest comeback is making yourself feel like yourself again.
+- It’s not the lack of intelligence, it’s the lack of focus that is stopping you. Focus on financial freedom first. Put your happiness before goals.
 
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu [-571]*
@@ -335,11 +315,11 @@ Hints:
 > *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."  
 -- Maya Angelou [1928]*
 
-> *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment."  
--- Jim Rohn [1930]*
-
 > *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."  
 -- Warren Buffett [1930]*
+
+> *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment."  
+-- Jim Rohn [1930]*
 
 > *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn’t the answer. It just gave us a glimpse of the possibility."  
 -- John Lennon [1940]*
@@ -374,11 +354,11 @@ Hints:
 > *"Always stick to what makes you weird, odd, strange, different. That’s your source of power."  
 -- Robert Greene [1959]*
 
-> *"The path to mediocrity is paved with platitudes."  
--- Nassim Taleb [1960]*
-
 > *"If you can’t, you must. If you must, you can."  
 -- Tony Robbins [1960]*
+
+> *"The path to mediocrity is paved with platitudes."  
+-- Nassim Taleb [1960]*
 
 > *"Every great life has had in it a great renunciation."  
 -- Zan Perrion [1964]*
@@ -398,7 +378,7 @@ Hints:
 
 > *"All the great questions have only personal answers." (...)  
 "Only two things are pursued for their own sake - even if they make you feel worse or make you worse off - truth and love." (...)  
-"Three decisions determine 90% of your life outcomes: who you're with, what you do, and where you live."  
+"Three decisions determine 90% of your life outcomes: who you’re with, what you do, and where you live."  
 -- Naval Ravikant [1974]*
 
 > *"You often feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you." (...)  

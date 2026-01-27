@@ -3,11 +3,9 @@
 ## On autonomy
 
 <!--
-> *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  -- John Quincy Adams [1767]*
-
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
 - Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
-- Don’t build your castle in other peoples kingdom’s
+- Don’t build your castle in other peoples kingdom’s.
 - Freedom to -> freedom from -- naval
 - when you don’t want to be interesting you are free. -- moojy
 -->
@@ -231,11 +229,12 @@ Trust, not money, is the currency of business and life.
 
 <!--
 + x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
++ x@SpiritGenealogy - Discipline is self love in motion.
 > *"If you need inspiration, don’t do it."  -- Elon Musk [1971]*
 > *"The eyes do not see what the mind does not want."  -- vox populi*
 
-- As a man, never stay at home all day. Go out, make friends, and create new connections. A man's job is to face the world, take risks, and embrace difficulties.
-- Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself. Dark but true
+- As a man, never stay at home all day. Go out, make friends, and create new connections. A man’s job is to face the world, take risks, and embrace difficulties.
+- Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself.
 -->
 
 > *"The most difficult is the decision to act, the rest is just tenacity."  
@@ -245,12 +244,10 @@ Blessed are the restless.
 
 Hints:
 
+- Without commitment, you’ll never start. Without consistency, you’ll never finish. Get your dopamine from action.
+- You don’t need 100 self-help books, all you need is action + self-discipline.
 - Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
 - «It’s on documentation. If it’s not add it.»
-- Without commitment, you’ll never start. Without consistency, you’ll never finish.
-
-- You don’t need 100 self-help books, all you need is action + self-discipline.
-- Get your dopamine from action.
 
 > *"The seed of all evil is laziness." (...)  
 "The longer the tongue, the shorter the hands."  
@@ -347,9 +344,7 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 ### On ambition
 
 <!--
--- on motivation?
 - The ultimate question: Do you want you son/daughter to date someone like you?
-- everything wants you when you want nothing
 - If you’re not trying to make money, what are you even doing?
 -->
 
@@ -395,9 +390,8 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 ### On humility
 
 <!--
-- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things- If I don’t respect him, I’ll disrespect him. Nothing in between..
-- Humility With forward action: "I wasn’t the smartest in X but.."
-- Never joke with your sources of income 
+- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things - If I don’t respect him, I’ll disrespect him. Nothing in between..
+- Never joke with your sources of income.
 -->
 
 > *"Humility is mostly about being very honest about how much you owe to luck."  

@@ -40,7 +40,7 @@ Health is also an envy trigger. Often what people really envy is self-control.
 -- x@realjamespierce*
 
 > *"Most men don’t ask for help. They suffer in silence. If a man is asking for your help, You are his last hope." (...)  
-"Unemployment hits different when you’re a man. Your family treats you differently. People lose respect for you. Nobody cares about you and what you say. Your family is only nice when you have something to offer. May the universe be kind to our unemployed brothers."  
+"Unemployment hits d\ifferent when you’re a man. Your family treats you differently. People lose respect for you. Nobody cares about you and what you say. Your family is only nice when you have something to offer. May the universe be kind to our unemployed brothers."  
 -- x@_falsi1ke*
 
 > *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  
@@ -98,6 +98,9 @@ Hints:
 
 > *"Anxiety is the dizziness of freedom."  
 -- Soren Kierkegaard [1813]*
+
+> *"You sensed that you should be following a different path, a more ambitious one, you felt that you were destined for other things but you had no idea how to achieve them and in your misery you began to hate everything around you."  
+-- Fyodor Dostoyevsky [1821]*
 
 > *"Worrying is like paying a debt you don’t owe."  
 -- Mark Twain [1835]*
@@ -164,6 +167,9 @@ Hints:
 "Civilize the mind but make savage the body."  
 -- vox populi*
 
+> *"Everyone wants healing until medicine shows up in the form of discipline."  
+-- Hippocrates [-460]*
+
 > *"The soul is healed by being with children."  
 -- Fyodor Dostoyevsky [1821]*
 
@@ -208,345 +214,6 @@ Hints:
 
 > *"I’ve met many more people who turned their lives around by walking around aimlessly for a couple hours a day than I’ve met people who have had their lives improved at all by professional therapy."  
 -- x@willmanidis*
-
-
-
-
-
-
-## On fear and courage
-
-<!--
-> *"Train yourself to let go of everything you fear to lose."  -- Yoda*
-> *"He who jumps into the void owes no explanation to those who stand and watch."
-+ x@naval -- Because, as Taleb says, courage is the only virtue that can’t be faked.
-
-- bravery is learned -> micro-bravery, start small
-- What would you do if you weren’t afraid?
-- dishonesty is a reaction to fear. fear just wants us to stay the same.
-- climbing out the hole is about letting go of pride.
-- the softer the cage, the longer you stay
--->
-
-> *"We fear things in proportion to our ignorance of them."  
--- Christian Nestell Bovee [1820]*
-
-Fear is paralyzing. Fear does not stop death, it stops life.
-
-When you view everything through the lens of fear, you’re more likely to remain in retreat mode. Anger and excuses often mask underlying fears. Remember that all excuses can be challenged. The best years of your life are the ones in which you take ownership of your problems rather than blaming them on your family, the environment, or the president. Living in reality requires less energy than cultivating a victim mentality. Escaping reality drains your energy. What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
-
-A coward has no scar.
-
-Heros and cowards feel the same fear but their answers are different. Courage implies low reverence. Courage is a form of intelligence not strenght. It’s about outwitting your limiting beliefs, irrational fears and insecurities.
-
-Hints:
-
-- Replace fear with curiosity. Conquering fear means defining fear. Fear makes the wolf bigger than he really is.
-
-> *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
--- Lao Tzu [-571]*
-
-> *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
--- Plato [-427]*
-
-> *"A man of courage is also full of faith."  
--- Cicero [-106]*
-
-> *"All the darkness in the world cannot extinguish the light of a single candle."  
--- St. Francis of Assisi [1181]*
-
-> *"A man who fears suffering is already suffering from what he fears."  
--- Michel de Montaigne [1533]*
-
-> *"It is courage that vanquishes in war, and not good weapons." (...)  
-"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."  
--- Miguel de Cervantes [1547]*
-
-> *"Courage ought to be guided by skill, and skill armed by courage."  
--- (sir) Philip Sidney [1554]*
-
-> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
--- Francis Bacon [1561]*
-
-> *"Evil will prevail if good men stand back and do nothing."  
--- Edmund Burke [1729]*
-
-> *"Troops would never be deficient in courage, if they could only know how deficient in it their enemies were."  
--- (1st duke of Wellington) Arthur Wellesley [1769]*
-
-> *"Without courage there cannot be truth, and without truth there can be no other virtue."  
--- (sir) Walter Scott [1771]*
-
-> *"Tell a man that he is brave, and you help him become so."  
--- Thomas Carlyle [1795]*
-
-> *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind." (...)  
-"Self-trust is the essence of heroism."  
--- Ralph Waldo Emerson [1803]*
-
-> *"Courage makes a man more than himself; for he is then himself plus his valor."  
--- William R. Alger [1822]*
-
-> *"Courage is resistance to fear, mastery of fear — not absence of fear."  
--- Mark Twain [1835]*
-
-> *"Hatred is the coward's revenge for being intimidated."  
--- George Bernard Shaw [1856]*
-
-> *"Nothing in life is to be feared, it is only to be understood."  
--- Marie Curie [1867]*
-
-> *"Fear is a reaction. Courage is a decision."  
--- Winston Churchill [1874]*
-
-> *"Where you fear is, there your task is." (...)  
-"That which we need the most will be found where we least want to look."  
--- Carl Jung [1875]*
-
-> *"I bear all the wounds of all the battles I avoided."  
--- Fernando Pessoa [1888]*
-
-> *"Fear is incomplete knowledge."  
--- Agatha Christie [1890]*
-
-> *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
--- Eddie Rickenbacker [1890]*
-
-> *"Courage is grace under pressure."  
--- Ernest Hemingway [1899]*
-
-> *"Life shrinks or expands in proportion to one’s courage."  
--- Anaïs Nin [1903]*
-
-> *"The cave you fear to enter, holds the treasure you seek."  
--- Joseph Campbell [1904]*
-
-> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"  
--- Robert A. Heinlein [1907]*
-
-> *"Those who lack the courage will always find a philosophy to justify it."  
--- Albert Camus [1913]*
-
-> *"It’s not the mountain we conquer but ourselves."  
--- (sir) Edmund Hillary [1919]*
-
-> *"Speak your mind, even if your voice shakes."  
--- Maggie Smith [1934]*
-
-> *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
--- Paulo Coelho [1947]*
-
-> *"A man without a heroic bent starts dying at the age of thirty." (...)  
-"Virtue signaling is virtue without courage, without skin in the game, which is why it is getting more common." (...)  
-"The Roman army rule: action removes fear."  
--- Nassim Taleb [1960]*
-
-> *"It’s better to be a restrained monster than a well-behaved coward."  
--- Jordan Peterson [1962]*
-
-> *"Tolerance of intolerance is cowardice."  
--- Ayaan Hirsi Ali [1969]*
-
-> *"When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it’s really silly to be afraid of a lack of photons. Then I wasn’t afraid of the dark anymore after that."  
--- Elon Musk [1971]*
-
-> *"Courage is knowing it might hurt and doing it anyway. Stupidity is the same. And that’s why life is hard."  
--- x@lovebombsaway*
-
-> *"No child is ever born afraid. Fear is learned... So is courage."  
--- x@codie_sanchez*
-
-
-
-
-
-
-## On limits
-
-> *"We don’t rise to the level of our expectations, we fall to the level of our training."  
--- Archilochus [-680]*
-
-The fears you don’t face become your limits.
-
-Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. However your level of success will seldom exceed your level of personal development. 
-
-> *"The person who says it cannot be done should not interrupt the person doing it."  
--- vox populi*
-
-> *"A likely impossibility is always preferable to an unconvincing possibility."  
--- Aristotle [-384]*
-
-> *"It’s not because things are difficult that we dare not venture. It’s because we dare not venture that they are difficult."  
--- Seneca [-004]*
-
-> *"Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible."  
--- St. Francis of Assisi [1181]*
-
-> *"In order to attain the impossible, one must attempt the absurd."  
--- Miguel de Cervantes [1547]*
-
-> *"Every man takes the limits of his own field of vision for the limits of the world."  
--- Arthur Schopenhauer [1788]*
-
-> *"To define is to limit."  
--- Oscar Wilde [1854]*
-
-> *"It’s kind of fun to do the impossible!"  
--- Walt Disney [1901]*
-
-> *"If you think we can’t change the world, it just means you’re not one of those that will."  
--- Jacque Fresco [1916]*
-
-> *"The limits of the possible can only be defined by going beyond them into the impossible."  
--- Arthur C. Clarke [1917]*
-
-> *"Birds born is a cage think flying is an illness."  
--- Alejandro Jodorowski [1929]*
-
-> *"When nothing is sure, everything is possible."  
--- Margaret Drabble [1939]*
-
-> *"Often isn’t the mountains ahead that wear you out, it’s the little pebble in your shoe."  
--- Muhammad Ali [1942]*
-
-> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  
--- Terence McKenna [1946]*
-
-> *"Impossible is just an opinion."  
--- Paulo Coelho [1947]*
-
-> *"There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with."  
--- Kevin Kelly [1952]*
-
-> *"I am where I am because I believe in all possibilities."  
--- Whoopi Goldberg [1955]*
-
-> *"If you can’t, you must. If you must, you can."  
--- Tony Robbins [1960]*
-
-
-
-
-
-
-## On failure
-
-> *"Experience is merely the name men gave to their mistakes."  
--- Oscar Wilde [1854]*
-
-Sometimes you win, sometimes you learn. Fail fast and bounce back quickly.
-
-A failure is a man who has blundered but is not capable of cashing in on the experience. Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. We should fear missing opportunity more than we should fear failure.
-
-Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else.
-
-> *"Our greatest glory is not in never falling, but in rising every time we fall."  
--- Confucius [-551]*
-
-> *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."  
--- Sophocles [-497]*
-
-> *"There are two types of people that fail: those that listen to nobody and those that listen to everybody"  
--- J.P. Morgan [1837]*
-
-> *"The greatest mistake you can make in life is to continually be afraid you will make one."  
--- Elbert Hubbard [1856]*
-
-> *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
--- George Bernard Shaw [1856]*
-
-> *"Failure is only the opportunity to begin again more intelligently."  
--- Henry Ford [1863]*
-
-> *"Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom."  
--- Bertrand Russell [1872]*
-
-> *"Failure is the condiment that gives success its flavour."  
--- Truman Capote [1924]*
-
-> *"It’s not the load that breaks you down, it’s the way you carry it."  
--- Lou Holtz [1937]*
-
-> *"Good judgment comes from experience. Experience comes from bad judgment."  
--- Jim Horning [1942]*
-
-> *"If something fails where you thought it would fail, that is not a failure." (...)  
-"When crisis and disaster strike, don’t waste them. No problems, no progress."  
--- Kevin Kelly [1952]*
-
-> *"It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."  
--- Chuck Palahniuk [1963]*
-
-> *"You’re going to make mistakes in life. It’s what you do after the mistakes that counts."  
--- Brandi Chastain [1968]*
-
-> *"Calling it an experiment gives you permission to fail."  
--- A.J. Jacobs [1968]*
-
-> *"Failure is irrelevant unless it is catastrophic."  
--- Elon Musk [1971]*
-
-> *"We’re even wrong about which mistakes we’re making."  
--- Tim Hartford [1973]*
-
-> *"There is no failure, only feedback." (...)  
-"Most of our suffering comes from avoidance."  
--- Naval Ravikant [1974]*
-
-> *"I’m not afraid of failure, I’m afraid of being in the exact same place next year."  
--- x@thejustinwelsh*
-
-### On scars and wounds
-
-> *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
--- China Mieville [1972]*
-
-Don’t punish yourself for failing. Failing is learning.
-
-You are more than your mistakes. Past mistakes are meant to guide you, not to define you. If you don’t heal what hurt you, you’ll bleed on people who didn’t cut you. Don’t hide your scars. They are proof that you showed up for life. And fought. 
-
-> *"The scars you acquire by exercising courage will never make you feel inferior."  
--- Cima da Conegliano [1459]*
-
-> *"Adversity makes men, and prosperity makes monsters."  
--- Victor Hugo [1802]*
-
-> *"Your pain, is the breaking of the shell that encloses your understanding." (...)  
-"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."  
--- Kahlil Gibran [1883]*
-
-> *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
--- Alan Paton [1903]*
-
-> *"Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift."  
--- Mary Oliver [1935]*
-
-> *"Words can’t hurt you, they can only hurt your image of you."  
--- Naval Ravikant [1974]*
-
-### On anger
-
-> *"The more you know who you are, and what you want, the less you let things upset you."  
--- Bob Harris (fictional)*
-
-Anger is a punishment we give ourselves for someone else’s mistake. We are wired to blame: we blame ourselves or the others. We are obsessed with fault.
-
-Most angry people are envious people who don’t understand that life will only get better once they are focused on their own lives and actively improving who they are. Someone complaining a lot is someone not accomplishing a lot. Pay attention to what people say out of anger, they’ve been dying to tell you that.
-
-> *"In anger we should refrain both from speech and action."  
--- Pythagoras [-570]*
-
-> *"An angry man opens his mouth and shuts his eyes."  
--- Cato the Younger [-095]*
-
-> *"Any person capable of angering you becomes your master; he can anger you only you permit yourself being disturbed by him."  
--- Epictetus [0050]*
-
-> *"Whatever begins in anger, ends in shame."  
--- Benjamin Franklin [1706]*
-
-> *"And God said «love your enemy», and I loved myself."  
--- Kahlil Gibran [1883]*
 
 
 
@@ -724,6 +391,8 @@ Entitlement comes in two forms:
 
 <!--
 - Most people are not extremes. Most things are not binary. Introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+
+> *"If you’re a friend to everybody, you’re an enemy to yourself"  -- Mike Tyson*
 -->
 
 > *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you’re actually extroverted around people who bring you peace."  
@@ -739,6 +408,347 @@ There are no introverts, only people that don’t feel safe.
 
 > *"The introvert/extrovert dichotomy has always struck me as a bit silly. People generally gain energy spending time with people they feel they can be their authentic selves around. They generally spend energy being around people they feel they can’t."  
 -- x@kaseyklimes*
+
+
+
+
+
+
+## On failure
+
+<!--
+- letting go, she says is necessary throughout life. You have to. You have to because everything changes. It’s the hardest thing to learn. It’s the hardest thing to do.
+-->
+
+> *"Experience is merely the name men gave to their mistakes."  
+-- Oscar Wilde [1854]*
+
+Sometimes you win, sometimes you learn. Fail fast and bounce back quickly.
+
+A failure is a man who has blundered but is not capable of cashing in on the experience. Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure will toughen your spirit and show you with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something you will pay for it - that’s the stupidity tax. We should fear missing opportunity more than we should fear failure.
+
+Smart people aren’t used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else.
+
+> *"Our greatest glory is not in never falling, but in rising every time we fall."  
+-- Confucius [-551]*
+
+> *"All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride."  
+-- Sophocles [-497]*
+
+> *"There are two types of people that fail: those that listen to nobody and those that listen to everybody"  
+-- J.P. Morgan [1837]*
+
+> *"The greatest mistake you can make in life is to continually be afraid you will make one."  
+-- Elbert Hubbard [1856]*
+
+> *"A life spent making mistakes is not only more honourable, but more useful, than a life spent doing nothing."  
+-- George Bernard Shaw [1856]*
+
+> *"Failure is only the opportunity to begin again more intelligently."  
+-- Henry Ford [1863]*
+
+> *"Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom."  
+-- Bertrand Russell [1872]*
+
+> *"Failure is the condiment that gives success its flavour."  
+-- Truman Capote [1924]*
+
+> *"It’s not the load that breaks you down, it’s the way you carry it."  
+-- Lou Holtz [1937]*
+
+> *"Good judgment comes from experience. Experience comes from bad judgment."  
+-- Jim Horning [1942]*
+
+> *"If something fails where you thought it would fail, that is not a failure." (...)  
+"When crisis and disaster strike, don’t waste them. No problems, no progress."  
+-- Kevin Kelly [1952]*
+
+> *"It’s so hard to forget pain, but it’s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."  
+-- Chuck Palahniuk [1963]*
+
+> *"You’re going to make mistakes in life. It’s what you do after the mistakes that counts."  
+-- Brandi Chastain [1968]*
+
+> *"Calling it an experiment gives you permission to fail."  
+-- A.J. Jacobs [1968]*
+
+> *"Failure is irrelevant unless it is catastrophic."  
+-- Elon Musk [1971]*
+
+> *"We’re even wrong about which mistakes we’re making."  
+-- Tim Hartford [1973]*
+
+> *"There is no failure, only feedback." (...)  
+"Most of our suffering comes from avoidance."  
+-- Naval Ravikant [1974]*
+
+> *"I’m not afraid of failure, I’m afraid of being in the exact same place next year."  
+-- x@thejustinwelsh*
+
+### On scars and wounds
+
+> *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
+-- China Mieville [1972]*
+
+Don’t punish yourself for failing. Failing is learning.
+
+You are more than your mistakes. Past mistakes are meant to guide you, not to define you. If you don’t heal what hurt you, you’ll bleed on people who didn’t cut you. Don’t hide your scars. They are proof that you showed up for life. And fought. 
+
+> *"The scars you acquire by exercising courage will never make you feel inferior."  
+-- Cima da Conegliano [1459]*
+
+> *"Adversity makes men, and prosperity makes monsters."  
+-- Victor Hugo [1802]*
+
+> *"Your pain, is the breaking of the shell that encloses your understanding." (...)  
+"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."  
+-- Kahlil Gibran [1883]*
+
+> *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
+-- Alan Paton [1903]*
+
+> *"Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift."  
+-- Mary Oliver [1935]*
+
+> *"Words can’t hurt you, they can only hurt your image of you."  
+-- Naval Ravikant [1974]*
+
+### On anger
+
+> *"The more you know who you are, and what you want, the less you let things upset you."  
+-- Bob Harris (fictional)*
+
+Anger is a punishment we give ourselves for someone else’s mistake. We are wired to blame: we blame ourselves or the others. We are obsessed with fault.
+
+Most angry people are envious people who don’t understand that life will only get better once they are focused on their own lives and actively improving who they are. Someone complaining a lot is someone not accomplishing a lot. Pay attention to what people say out of anger, they’ve been dying to tell you that.
+
+> *"In anger we should refrain both from speech and action."  
+-- Pythagoras [-570]*
+
+> *"An angry man opens his mouth and shuts his eyes."  
+-- Cato the Younger [-095]*
+
+> *"Any person capable of angering you becomes your master; he can anger you only you permit yourself being disturbed by him."  
+-- Epictetus [0050]*
+
+> *"Whatever begins in anger, ends in shame."  
+-- Benjamin Franklin [1706]*
+
+> *"And God said «love your enemy», and I loved myself."  
+-- Kahlil Gibran [1883]*
+
+
+
+
+
+
+## On fear and courage
+
+<!--
+> *"Train yourself to let go of everything you fear to lose."  -- Yoda*
+> *"He who jumps into the void owes no explanation to those who stand and watch."
+
+- bravery is learned -> micro-bravery, start small
+- What would you do if you weren’t afraid?
+- dishonesty is a reaction to fear. fear just wants us to stay the same.
+- climbing out the hole is about letting go of pride.
+- the softer the cage, the longer you stay
+-->
+
+> *"We fear things in proportion to our ignorance of them."  
+-- Christian Nestell Bovee [1820]*
+
+Fear is paralyzing. Fear does not stop death, it stops life.
+
+When you view everything through the lens of fear, you’re more likely to remain in retreat mode. Anger and excuses often mask underlying fears. Remember that all excuses can be challenged. The best years of your life are the ones in which you take ownership of your problems rather than blaming them on your family, the environment, or the president. Living in reality requires less energy than cultivating a victim mentality. Escaping reality drains your energy. What are we afraid of? We’re afraid of growth. We’re terrified of exposure. Remember, nothing scares the crap out of us more than advancing, because to advance is to move from the known to the unknown. fear that you are not good enough: that you will never find a woman as good as your current girlfriend, or that other men will be able to care for her and satisfy her better than you will.
+
+A coward has no scar.
+
+Heros and cowards feel the same fear but their answers are different. Courage implies low reverence. Courage is a form of intelligence not strenght. It’s about outwitting your limiting beliefs, irrational fears and insecurities.
+
+Hints:
+
+- Replace fear with curiosity. Conquering fear means defining fear. Fear makes the wolf bigger than he really is.
+
+> *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
+-- Lao Tzu [-571]*
+
+> *"The brave man is he who overcomes not only his enemies but his pleasures."  
+-- Democritus [-460]*
+
+> *"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
+-- Plato [-427]*
+
+> *"A man of courage is also full of faith."  
+-- Cicero [-106]*
+
+> *"All the darkness in the world cannot extinguish the light of a single candle."  
+-- St. Francis of Assisi [1181]*
+
+> *"A man who fears suffering is already suffering from what he fears."  
+-- Michel de Montaigne [1533]*
+
+> *"It is courage that vanquishes in war, and not good weapons." (...)  
+"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."  
+-- Miguel de Cervantes [1547]*
+
+> *"Courage ought to be guided by skill, and skill armed by courage."  
+-- (sir) Philip Sidney [1554]*
+
+> *"Men fear death, as children fear to go in the dark; and as that natural fear in children is increased with tales, so is the other."  
+-- Francis Bacon [1561]*
+
+> *"Evil will prevail if good men stand back and do nothing."  
+-- Edmund Burke [1729]*
+
+> *"Troops would never be deficient in courage, if they could only know how deficient in it their enemies were."  
+-- (1st duke of Wellington) Arthur Wellesley [1769]*
+
+> *"Without courage there cannot be truth, and without truth there can be no other virtue."  
+-- (sir) Walter Scott [1771]*
+
+> *"Tell a man that he is brave, and you help him become so."  
+-- Thomas Carlyle [1795]*
+
+> *"Courage charms us, because it indicates that a man loves an idea better than all things in the world, that he is thinking neither of his bed, nor his dinner, nor his money, but will venture all to put in act the invisible thought of his mind." (...)  
+"Self-trust is the essence of heroism."  
+-- Ralph Waldo Emerson [1803]*
+
+> *"Courage makes a man more than himself; for he is then himself plus his valor."  
+-- William R. Alger [1822]*
+
+> *"Courage is resistance to fear, mastery of fear — not absence of fear."  
+-- Mark Twain [1835]*
+
+> *"Hatred is the coward’s revenge for being intimidated."  
+-- George Bernard Shaw [1856]*
+
+> *"Nothing in life is to be feared, it is only to be understood."  
+-- Marie Curie [1867]*
+
+> *"Fear is a reaction. Courage is a decision."  
+-- Winston Churchill [1874]*
+
+> *"Where you fear is, there your task is." (...)  
+"That which we need the most will be found where we least want to look."  
+-- Carl Jung [1875]*
+
+> *"I bear all the wounds of all the battles I avoided."  
+-- Fernando Pessoa [1888]*
+
+> *"Fear is incomplete knowledge."  
+-- Agatha Christie [1890]*
+
+> *"Courage is doing what you are afraid to do. There can be no courage unless you are scared."  
+-- Eddie Rickenbacker [1890]*
+
+> *"Courage is grace under pressure."  
+-- Ernest Hemingway [1899]*
+
+> *"Life shrinks or expands in proportion to one’s courage."  
+-- Anaïs Nin [1903]*
+
+> *"The cave you fear to enter, holds the treasure you seek."  
+-- Joseph Campbell [1904]*
+
+> *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"  
+-- Robert A. Heinlein [1907]*
+
+> *"Those who lack the courage will always find a philosophy to justify it."  
+-- Albert Camus [1913]*
+
+> *"It’s not the mountain we conquer but ourselves."  
+-- (sir) Edmund Hillary [1919]*
+
+> *"Speak your mind, even if your voice shakes."  
+-- Maggie Smith [1934]*
+
+> *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
+-- Paulo Coelho [1947]*
+
+> *"A man without a heroic bent starts dying at the age of thirty." (...)  
+"Courage is the only virtue that can’t be faked." (...)  
+"Virtue signaling is virtue without courage, without skin in the game, which is why it is getting more common." (...)  
+"The Roman army rule: action removes fear."  
+-- Nassim Taleb [1960]*
+
+> *"It’s better to be a restrained monster than a well-behaved coward."  
+-- Jordan Peterson [1962]*
+
+> *"Tolerance of intolerance is cowardice."  
+-- Ayaan Hirsi Ali [1969]*
+
+> *"When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absense of photons in the visible wavelenght - 400 to 700 nanometers. Then I thought, well, it’s really silly to be afraid of a lack of photons. Then I wasn’t afraid of the dark anymore after that."  
+-- Elon Musk [1971]*
+
+> *"Courage is knowing it might hurt and doing it anyway. Stupidity is the same. And that’s why life is hard."  
+-- x@lovebombsaway*
+
+> *"No child is ever born afraid. Fear is learned... So is courage."  
+-- x@codie_sanchez*
+
+### On limits
+
+> *"We don’t rise to the level of our expectations, we fall to the level of our training."  
+-- Archilochus [-680]*
+
+The fears you don’t face become your limits.
+
+Nothing can sabotage you more quickly and more completely than limiting beliefs. People underestimate their possibilities. However your level of success will seldom exceed your level of personal development. 
+
+> *"The person who says it cannot be done should not interrupt the person doing it."  
+-- vox populi*
+
+> *"A likely impossibility is always preferable to an unconvincing possibility."  
+-- Aristotle [-384]*
+
+> *"It’s not because things are difficult that we dare not venture. It’s because we dare not venture that they are difficult."  
+-- Seneca [-004]*
+
+> *"Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible."  
+-- St. Francis of Assisi [1181]*
+
+> *"In order to attain the impossible, one must attempt the absurd."  
+-- Miguel de Cervantes [1547]*
+
+> *"Every man takes the limits of his own field of vision for the limits of the world."  
+-- Arthur Schopenhauer [1788]*
+
+> *"To define is to limit."  
+-- Oscar Wilde [1854]*
+
+> *"It’s kind of fun to do the impossible!"  
+-- Walt Disney [1901]*
+
+> *"If you think we can’t change the world, it just means you’re not one of those that will."  
+-- Jacque Fresco [1916]*
+
+> *"The limits of the possible can only be defined by going beyond them into the impossible."  
+-- Arthur C. Clarke [1917]*
+
+> *"Birds born is a cage think flying is an illness."  
+-- Alejandro Jodorowski [1929]*
+
+> *"When nothing is sure, everything is possible."  
+-- Margaret Drabble [1939]*
+
+> *"Often isn’t the mountains ahead that wear you out, it’s the little pebble in your shoe."  
+-- Muhammad Ali [1942]*
+
+> *"What we call reality is in fact nothing more than a culturally sanctioned and linguistically reinforced hallucination."  
+-- Terence McKenna [1946]*
+
+> *"Impossible is just an opinion."  
+-- Paulo Coelho [1947]*
+
+> *"There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with."  
+-- Kevin Kelly [1952]*
+
+> *"I am where I am because I believe in all possibilities."  
+-- Whoopi Goldberg [1955]*
+
+> *"If you can’t, you must. If you must, you can."  
+-- Tony Robbins [1960]*
 
 
 
@@ -770,6 +780,9 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 > *"The first art of kings is to endure hatred."  
 -- Seneca [-004]*
 
+> *"Envy is a declaration of inferiority."  
+-- Napoleon Bonaparte [1769]*
+
 > *"To feel envy is human, to savour schadenfreude is devilish."  
 -- Arthur Schopenhauer [1788]*
 
@@ -785,6 +798,9 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 
 > *"It is not greed that drives the world, but envy."  
 -- Warren Buffett [1930]*
+
+> *"Envy was once considered to be one of the seven deadly sins before it became one of teh most admired virtues under its new name: «social justice»."  
+-- Thomas Sowell [1930]*
 
 > *"Remember if people talk behind your back, it only means you are two steps ahead."  
 -- Fannie Flagg [1944]*
@@ -811,6 +827,10 @@ Treat haters like toddlers. When people criticize your life they are speaking ab
 -- x@pallnandi*
 
 ### On self awareness
+
+<!--
+> *"You are not a drop in the ocean. You are the entire ocean in a drop."  -- Rumi [1207]*
+-->
 
 > *"No persons are more frequently wrong, than those who will not admit they are wrong."  
 -- François de La Rochefoucauld [1613]*
@@ -929,7 +949,6 @@ Entrepreneurs are inherently optimistic because they are rewarded by being optim
 -- Mark Manson [1984]*
 
 > *"A pessimist sees a difficulty in every opportunity. An optimist sees an opportunity in every difficulty."  
-
 -- Bertram Carr*
 
 > *"Optimists are focused on rewards. Pessimists are focused on risks."  
@@ -965,7 +984,7 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 > *"Have no fear of perfection. You’ll never reach it."  
 -- Salvador Dali [1904]*
 
-> *"Perfection is not attainable, but if we chase perfection, we can catch excellence."
+> *"Perfection is not attainable, but if we chase perfection, we can catch excellence."  
 -- Vince Lombardi [1913]*
 
 > *"If I had any humility I would be perfect."  
@@ -985,6 +1004,7 @@ Strive for excellence, not for perfection. From good enough you derive success. 
 <!--
 - Just finished the book «Buy Back Your Time». Key takeaway? Outsource your weaknesses. It isn’t lazy, it’s smart. Double down on your zone of genius and watch your business, health and life transform.
 - One pattern I’ve noticed in all miserable people: They overthink and underact.
+- procrastination is merely the avoidance of unpleasant emotions.
 -->
 
 > *"One of the counterintuitive things that I’ve learned is that procrastination is often a side-effect of perfectionism."  
@@ -1132,6 +1152,8 @@ Aging implies wear and tear, often seen as a high price to pay for maturity.
 ### On maturity
 
 <!--
+> *"The work of the mature person is to carry grief in one hand and gratitude in the other."  -- Francis Weller []*
+
 - Normalize this by age 30: Talk slow. Be clear. Never mumble. Don’t interrupt.
 - As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life.
 - At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don’t know.

@@ -400,8 +400,14 @@ Risk is everything you left over and didn’t thought about.
 > *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
 -- Naval Ravikant [1974]*
 
+> *"The odd person is exceptionally lucky or unlucky. But in the vast majority of cases, people are exactly where they belong."  
+-- Andrew Tate [1986]*
+
 > *"Risk is what’s left over when you think you’ve thought of everything."  
 -- x@behaviorgap*
+
+> *"Luck is probability engineering."  
+-- x@schisofrenia*
 
 ### On chance
 
@@ -586,8 +592,7 @@ Overcompensate. Some people get passion from something they struggled with.
 ## On change and adapting
 
 <!--
-+ x@naval -- People think they can’t change themselves, but they can. People think they can change others, but they can’t.
-+ x@shl -- You can’t change someone. All you can do is understand them
++ x@shl -- You can’t change someone. All you can do is understand them.
 + x@omanueljoaquim -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
 + @Rapahelz -- Behaviors that are rewarded in the zoo are suicidal in the jungle.
 
@@ -720,11 +725,11 @@ There are limits on change. Willpower is finite and change requires attention. H
 
 
 
-### On getting advantage
+## On getting advantage
 
 <!--
++ x@codie_sanchez - applying force vs removing obstacles. when you apply force you can identify obstacles.
 - Changing the subject. Hallmark of the loser
-- applying force vs removing obstacles. when you apply force you can identify obstacles. -- x@codie_sanchez*
 - failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
 - What’s your advantage: informational, analytical, or behavioral?	
@@ -817,6 +822,9 @@ Hints:
 
 > *"We swallow greedily any lie that flatters us, but we sip only little by little at a truth we find bitter."  
 -- Denis Diderot [1713]*
+
+> *"If a man starts with certain assumptions, he will naturally arrive at certain conclusions; if you wish to change his conclusions, you must first attack his assumptions."  
+-- Bertrand Russell [1872]*
 
 > *"Know all theories, master all the techniques, but as you touch a human soul, be just another human soul."  
 -- Carl Jung [1875]*
@@ -1116,6 +1124,9 @@ Hints:
 > *"You might be winning but you’re not growing, and growing might be the most important form of winning."  
 -- Jordan Peterson [1962]*
 
+> *"Moral victories are for minor league coaches."  
+-- Jay-Z [1969]*
+
 > *"We prefer to see winners as naturally talented rather then hard working. Because if it were reversed, what would that inply to us?"  
 -- Naval Ravikant [1974]*
 
@@ -1173,7 +1184,7 @@ In order to come back you have to go away. Use this opportunity to re-create you
 ### On forgiveness
 
 <!--
-- Good kids who do one thing wrong were punished worse than Kids who were always acting up. In fact recently 'good behaviour' from problem kids is rewarded, but nothing for the kids who aren't a problem. Sums up society in a way.
+- Good kids who do one thing wrong were punished worse than Kids who were always acting up. In fact recently ’good behaviour’ from problem kids is rewarded, but nothing for the kids who aren’t a problem. Sums up society in a way.
 -->
 
 > *"The only way out of the labyrinth of suffering is to forgive."  

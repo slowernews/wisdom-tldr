@@ -224,5 +224,5 @@ Futurism is a study of time. Anomalies often represent the future but to our eye
 > *"Every expert has a past. Every creator has a future."  
 -- x@rapahelz*
 
-> *"Your future is constantly shrinking, so the longer you spend preparing for it, the smaller it's going to be."  
+> *"Your future is constantly shrinking, so the longer you spend preparing for it, the smaller it’s going to be."  
 -- x@g_s_bhogal*
