@@ -20,9 +20,9 @@
 "It is dangerous to be right in matters where established men are wrong."  
 -- Voltaire [1694]*
 
-Everything is hierarchy. Only comedians can speak the truth without consequences.
+Everything is hierarchy.
 
-However don’t vow to the gatekeepers. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
+Only comedians can speak the truth without consequences. However don’t vow to the gatekeepers. Someone’s position does not make them important. You can replace them as quickly as they can replace you. It’s a business relationship.
 
 > *"When the mouse laughs at the cat there is a hole nearby." (...)  
 "The sun doesn’t forget a village just because it is small."  r
@@ -154,6 +154,9 @@ People are amazing optimizers and will find any loopholes or gaps to their advan
 
 ### On easy opponents
 
+> *"A free lunch is only found in mousetraps."  
+-- Terry Pratchett [1948]*
+
 Easy players are often just deceiving you. However - if you can identify them - there are people acting stupid that are easy wins. 
 
 > *"«El dorados» are never drawn in the map."  
@@ -166,14 +169,8 @@ Easy players are often just deceiving you. However - if you can identify them - 
 > *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
 -- Warren Buffett [1930]*
 
-> *"A free lunch is only found in mousetraps."  
--- Terry Pratchett [1948]*
-
 > *"All guns are loaded."  
 -- Kevin Kelly [1952]*
-
-> *"Despise the free lunch."  
--- Robert Greene [1959]*
 
 > *"Never assume that loud is strong and quiet is weak."  
 -- Brene Brown [1965]*
@@ -184,9 +181,7 @@ Easy players are often just deceiving you. However - if you can identify them - 
 "Fear can make a donkey attack a lion."  
 -- vox populi*
 
-Beware of sad people.
-
-Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
+Beware of sad people. Desperate players will risk everything in a fight. This gives them a huge advantage, they have nothing to lose.
 
 > *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
 -- Balthasar Gracian [1601]*
@@ -196,9 +191,12 @@ Desperate players will risk everything in a fight. This gives them a huge advant
 
 ### On difficult opponents
 
+> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
+-- Bruce Lee [1940]*
+
 The thougest competition is a good enough competitor.
 
-Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty stuff»: «pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations: it’s a scar for life.
+Besides outworking them, you’ll need all weaponry, sometimes even the «dirty stuff». «Pawn sacrifices», bribes and lying are examples of «dirty stuff». They may be effective but use them only on desperate situations, it’s a scar for life.
 
 > *"The best fighter is never angry."  
 -- Lao Tzu [-571]*
@@ -206,17 +204,10 @@ Besides outworking them, you’ll need all weaponry. Sometimes even the «dirty 
 > *"Of all the bad men, religious bad men are the worst."  
 -- C.S. Lewis [1898]*
 
-> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
--- Bruce Lee [1940]*
-
 > *"Put all the meat in the barbecue."  
--- Jorge Jesus (popularised by)*
+-- Jorge Jesus {popularised} [1954]*
 
-> *"Get others to do the work for you, but always take the credit." (...)  
-"Keep your hands clean."  
--- Robert Greene [1959]*
-
-When nothing else works, surrender. Only use anger and go all in if you can see the end already.
+When nothing else works, surrender. Only go all in if you can see the end already.
 
 > *"Do I not destroy my enemies when I make them my friends?"  
 -- Abraham Lincoln [1809]*
@@ -226,24 +217,18 @@ When nothing else works, surrender. Only use anger and go all in if you can see 
 <!--
 - Your biggest supporters will be strangers, and your biggest critics will be people you know.
 - if you find someone smarter than you, don’t compete. Work together.
+- Buy from your community. Sell to outsiders.
 -->
 
 > *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
 -- Peter Kropotkin [1842]*
 
-The human strenght is the ability to cooperate. Heros are fictional stories. Anyway your follower is not always your fan.
-
-Hint:
-
-- Buy from your community. Sell to outsiders.
+The human strenght is the ability to cooperate. But careful, a follower is not always a fan.
 
 > *"United we are rock, divided we are sand." (...)  
-"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd." (...)  
-"Hungry dogs are never loyal."  
+"Hungry dogs are never loyal." (...)  
+"The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd."  
 -- vox populi*
-
-> *"When neither their poverty nor their honor is touched, the majority of men live content."  
--- Niccoló Machiavelli [1469]*
 
 > *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
 -- Balthasar Gracian [1601]*
@@ -262,7 +247,7 @@ Hint:
 -- Nassim Taleb [1960]*
 
 > *"The worst thing about betrayal is that it never comes from your enemies."  
--- The godfather {fictional}*
+-- (fictional) The godfather*
 
 > *"Allies want you to win. Friends want you to stay with them."  
 -- x@codie_sanchez*
@@ -270,15 +255,115 @@ Hint:
 ### On heros
 
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
--- Harvey Dent {fictional}*
+-- (fictional) Harvey Dent*
 
-Our heros are our idealized selfes.
+Our heros are our idealized selfes. Heros are fictional stories.
 
 > *"Show me a hero, and I’ll write you a tragedy."  
 -- F. Scott Fitzgerald [1896]*
 
 > *"Every society honors its live conformists and its dead troublemakers."  
 -- Marshall McLuhan [1911]*
+
+
+
+
+
+
+## On conflicts
+
+<!--
+> *"Pierwsza ofiara wojny jest prawda"  -- Terry Hayes*
+-->
+
+> *"War is what happens when language fails."  
+-- Margaret Atwood [1939]*
+
+Avoiding conflict will not keep peace, will rot it.
+
+Rotten peace builds resentment. Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
+
+> *"War spares not the brave, but the cowardly."  
+-- Anacreon [-573]*
+
+> *"If you are not in danger, do not fight."  
+-- Sun Tzu [-544]*
+
+> *"War is delightful to those who have had no experience of it."  
+-- Desiderius Erasmus [1466]*
+
+> *"Summer grass, all that’s left of warrior’s dreams."  
+-- Basho [1644]*
+
+> *"War is when government tells you who the bad guy is. Revolution is when you decide that for yourself."  
+-- Benjamin Franklin [1706]*
+
+> *"Insults are the arguments employed by those who are in the wrong."  
+-- Jean-Jacques Rousseau [1712]*
+
+> *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  
+-- John Quincy Adams [1767]*
+
+> *"Never argue. In society nothing must be discussed; give only results."  
+-- Benjamin Disraeli [1804]*
+
+> *"To destroy war, destroy patriotism."  
+-- Leo Tolstoy [1828]*
+
+> *"War does not determine who is right - only who is left."  
+-- Bertrand Russell [1872]*
+
+> *"You cannot find peace by avoiding life."  
+-- Virginia Woolf [1882]*
+
+> *"A single death is a tragedy; a million deaths is a statistic."  
+-- Kurt Tucholsky [1890]*
+
+> *"War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery."  
+-- Robin Hanson [1959]*
+
+> *"Men destroy each other during war, themselves during peacetime."  
+-- Nassim Taleb [1960]*
+
+> *"If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it."  
+-- Naval Ravikant [1974]*
+
+> *"All wars benefit the elites at the cost of the common man. Every. Single. One."  
+-- Andrew Tate [1986]*
+
+> *"At the core of every major conflict between human beings there is a trust problem."  
+-- x@rapahelz*
+
+### On conflict resolution
+
+> *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  
+-- x@realestatetrent*
+
+You’re either part of the solution or part of the problem.
+
+Hints:
+
+- Use «we». Mean it and take responsability.
+- Bring options to the table. It’s easier to negotiate down.
+
+> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
+-- Seneca [-004]*
+
+> *"If they are wise, do not quarrel with them; if they are fools, ignore them."  
+-- Epictetus [0050]*
+
+> *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
+-- Balthasar Gracian [1601]*
+
+> *"My father used to say, «don’t raise your voice». Improve your argument."  
+-- (archbishop) Desmond Tutu [1931]*
+
+> *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
+"Your best response to an insult is «you’re probably right». Often they are."  
+-- Kevin Kelly [1952]*
+
+> *"Do you know how I stopped getting protesters to my event at universities? I held them in the morning."  
+-- Jordan Peterson [1962]*
 
 
 
@@ -301,6 +386,9 @@ To reveal the true nature of your intelligence rarely pays. Talent is fragile an
 
 Intelligence is a spectrum, your dog is intelligent also.
 
+> *"Intelligence is like a river: the deeper it is, the less noise it makes."  
+-- Milwaukee Journal Sentinel [book]*
+
 > *"The true sign of intelligence is not knowledge but imagination." (...)  
 "The measure of intelligence is the ability to change."  
 -- Albert Einstein [1879]*
@@ -318,9 +406,6 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"The difference between sounding smart and being smart is «I don’t know»." (...)  
 "The real test of intelligence is if you get what you want from life."  
 -- Naval Ravikant [1974]*
-
-> *"Intelligence is like a river: the deeper it is, the less noise it makes."  
--- Milwaukee Journal Sentinel*
 
 #### On geniality
 
@@ -460,7 +545,7 @@ Being rich is being fulfilled. An unhurried sense of time is in itself a form of
 > *"We don’t make movies to make money; We make money to make more movies."  
 -- Walt Disney [1901]*
 
-Money is a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness; it buys freedom.
+Money is a force multiplier to help you live the life of your dreams. However, the perpetual pursuit of more is not the path to happiness. Money doesn’t purchase happiness, it buys freedom.
 
 > *"Don’t think money does everything or you are going to end up doing everything for money."  
 -- Voltaire [1694]*
@@ -481,6 +566,8 @@ Money is a force multiplier to help you live the life of your dreams. However, t
 -- Naval Ravikant [1974]*
 
 Making money is not about luck. 
+
+Hints:
 
 - Learn to sell. Learn to build. If you can do both, you will be unstoppable.
 - Equip yourself with specialized knowledge, accountability, and leverage. Specialized knowledge is what you learn uniquely, not through standard education. If society can teach it to you, it can teach it to others, making you replaceable. You acquire specialized knowledge by following your genuine interests, not just current trends. While you might find it enjoyable, others may see it as hard work. This kind of knowledge is usually passed on through apprenticeships, not traditional schooling. It often involves technical or creative expertise that’s difficult to outsource or automate.
@@ -639,7 +726,7 @@ Hints:
 > *"I don’t buy property because I think the value is going to go up. I buy property because I can make the value go up."  
 -- x@realestatetrent*
 
-> *"The stock market is the only market where things go on sale and all the customers run out of the store." 
+> *"The stock market is the only market where things go on sale and all the customers run out of the store."  
 -- x@cullenroche*
 
 ### On popularity
@@ -649,12 +736,11 @@ Hints:
 
 See fame as a multiplier. 
 
-People say they want to be famous to impact the world, often what they want is the adoration of their peers.
-Don’t strive to be well-known, strive to be worth knowing.
+People say they want to be famous to impact the world, often what they want is the adoration of their peers. Don’t strive to be well-known, strive to be worth knowing.
 
 > *"He who is known as an early riser need not get up until noon." (...)  
 "We’ll know that rock is dead when you have to get a degree to work in it." (...)  
-"Many climb the mountain to be seen, few to see."
+"Many climb the mountain to be seen, few to see."  
 -- vox populi*
 
 > *"There is only one thing in the world worse than being talked about, and that is not being talked about."  
@@ -682,10 +768,13 @@ Don’t strive to be well-known, strive to be worth knowing.
 > *"If cats looked like frogs we’d realize what nasty, cruel little bastards they are. Style. That’s what people remember."  
 -- Terry Pratchett [1948]*
 
-A beautiful person always see beauty in others. Beauty grabs attention. Personality grabs the heart.
+Beauty grabs attention. Personality grabs the heart. A beautiful person always see beauty in others.
 
 > *"Many complain of their looks but none of their brains."  
 -- vox populi*
+
+> *"It is amazing how complete is the delusion that beauty is goodness."  
+-- Leo Tolstoy [1828]*
 
 > *"Clothes make the man. Naked people have little or no influence on society."  
 -- Mark Twain [1835]*
@@ -723,7 +812,7 @@ A beautiful person always see beauty in others. Beauty grabs attention. Personal
 - what’s your adrenaline type? velocidade ou fronteira do conhecido.
 -->
 
-> *"I think I’m greedy, but I’m not greedy for money - I think that can be a burden - I’m greedy for an exciting life."  
+> *"I think I’m greedy, but I’m not greedy for money -- I think that can be a burden -- I’m greedy for an exciting life."  
 -- David Hockney [1937]*
 
 It’s okay to live a life others don’t understand. 
@@ -835,7 +924,7 @@ Hints:
 > *"Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain."  
 -- Jack Kerouac [1922]*
 
-Travel is the only thing you buy that makes you richer. Travels are mini-lifes. They solve a plethora of self-improvement goals. 
+Travel is the only thing you buy that makes you richer. Travels are mini-lifes, they solve a plethora of self-improvement goals. 
 
 Hints:
 
@@ -865,13 +954,14 @@ There is no shortcut. Success is nothing but the accumulation of small things do
 
 	SUCCESS = EDUCATION + ACTION
 
-Success (and happiness) is internal not external. True fulfillment comes from living not from achievement. Experiences worth more than material. When people finally became a «success» they realize that they were no more fulfilled at 40 with $100K in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $10 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them.
+Success is internal not external. True fulfillment comes from living not from achievement, experiences worth more than material. When people finally became a «success» they realize that they were no more fulfilled at 40 with $100K in the bank and a BMW in the garage than they were flipping burgers at the age of 20 with only $100 to their name. They spent so much time, money, and energy in pursuit of something that didn’t really matter to them.
 
-Hints:
+The true measure of success is a calm nervous system. Success is a collection of well curated failures. The most successful people are those who are good at plan B. We don’t get successful by knowing everything, we get successful by listening.
 
-- The true measure of success is a calm nervous system.
-- Success is a collection of well curated failures.
-- The most successful people are those who are good at plan b.
+Fear, not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit.
+
+> *"Success and rest don’t sleep together."  
+-- vox populi*
 
 > *"Success lies in relentless execution of the basics."  
 -- Leonardo Da Vinci [1452]*
@@ -886,6 +976,9 @@ Hints:
 > *"The way to succeed is to double your failure rate."  
 -- Thomas John Watson Sr. [1874]*
 
+> *"Whether you think you can, or you think you can’t, you’re right."  
+-- Henry Ford [1863]*
+
 > *"Strive not to be a success, but rather be of value."  
 -- Albert Einstein [1879]*
 
@@ -898,9 +991,16 @@ Hints:
 > *"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."  
 -- John Wooden [1910]*
 
+> *"If you want to be successful, you must respect one rule – never lie to yourself."  
+-- Paulo Coelho [1947]*
+
+> *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
+-- Robert Kiyosaki [1947]*
+
 > *"Most overnight successes take at least 5 years. Budget your life accordingly." (...)  
 "Recipe for success: under-promise and over-deliver." (...)  
-"Show up. Keep showing up. Somebody successful said: 99% of success is just showing up."  
+"Show up. Keep showing up. Somebody successful said: 99% of success is just showing up." (...)  
+"There is no formula for success, but there are two formulas for failure: not trying and not persisting."  
 -- Kevin Kelly [1952]*
 
 > *"Success is a lousy teacher. It seduces smart people into thinking they can’t lose."  
@@ -912,11 +1012,20 @@ Hints:
 > *"Anything that is successful is a series of mistakes."  
 -- Billie Armstrong [1972]*
 
+> *"Nothing is more common than unsuccessful people with talent. Leave the house before you find something worth staying in for."  
+-- Banksy [1974]*
+
 > *"The success formula: solve your own problems and freely share the solutions." (...)  
 "The price of growth is outgrowing people." (...)  
 "Predicting failure is easier than predicting success." (...)  
 "If you could literally just sit for 30 minutes and be happy, you are successful."  
 -- Naval Ravikant [1974]*
+
+> *"Doubt kills more dreams than failure ever will."  
+-- Suzy Kassem [1975]*
+
+> *"The most successful people I know believe in themselves almost to the point of delusion."  
+-- Sam Altman [1985]*
 
 > *"Want to get ahead in life? Start genuinely rooting for others to succeed. It’s as simple as that."  
 -- Sahil Bloom [1991]*
@@ -926,132 +1035,3 @@ Hints:
 
 > *"Pride keeps people poor more than laziness does."  
 -- x@zubymusic*
-
-#### On barriers to success
-
-> *"Whether you think you can, or you think you can’t, you’re right."  
--- Henry Ford [1863]*
-
-Fear, not failure, is the biggest barrier to success. Some people are terrified of success, they may be forced to buy a suit.
-
-We don’t get successful by knowing everything, we get successful by listening.
-
-> *"Success and rest don’t sleep together."  
--- vox populi*
-
-> *"If you want to be successful, you must respect one rule – never lie to yourself."  
--- Paulo Coelho [1947]*
-
-> *"If you didn’t get what do you want, it’s a sign that you didn’t really wanted it or you bargained the price."  
--- Robert Kiyosaki [1947]*
-
-> *"There is no formula for success, but there are two formulas for failure: not trying and not persisting."  
--- Kevin Kelly [1952]*
-
-> *"Nothing is more common than unsuccessful people with talent. Leave the house before you find something worth staying in for."  
--- Banksy [1974]*
-
-> *"Doubt kills more dreams than failure ever will."  
--- Suzy Kassem [1975]*
-
-> *"The most successful people I know believe in themselves almost to the point of delusion."  
--- Sam Altman [1985]*
-
-
-
-
-
-
-## On conflicts
-
-> *"War is what happens when language fails."  
--- Margaret Atwood [1939]*
-
-Avoiding conflict will not keep peace, will rot it. Rotten peace builds resentment.
-
-Small (but relevant) conflicts will grow into big conflicts. What could have been very small is now a real problem that may compromise your relationship.
-
-> *"War spares not the brave, but the cowardly."  
--- Anacreon [-573]*
-
-> *"War is delightful to those who have had no experience of it." 
--- Desiderius Erasmus [1466]*
-
-> *"Insults are the arguments employed by those who are in the wrong."  
--- Jean-Jacques Rousseau [1712]*
-
-> *"Never argue. In society nothing must be discussed; give only results."  
--- Benjamin Disraeli [1804]*
-
-> *"You cannot find peace by avoiding life."  
--- Virginia Woolf [1882]*
-
-> *"At the core of every major conflict between human beings there is a trust problem."  
--- x@rapahelz*
-
-### On conflict resolution
-
-> *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  
--- x@realestatetrent*
-
-You’re either part of the solution or part of the problem.
-
-Hints:
-
-- Use «we». Mean it and take responsability.
-- Bring options to the table. It’s easier to negotiate down.
-
-> *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
--- Seneca [-004]*
-
-> *"If they are wise, do not quarrel with them; if they are fools, ignore them."  
--- Epictetus [0050]*
-
-> *"Think before you speak. There is always time to add a word, never to withdraw one. Talk as if you were making your will: the fewer words the less litigation."  
--- Balthasar Gracian [1601]*
-
-> *"My father used to say, «don’t raise your voice». Improve your argument."  
--- (archbishop) Desmond Tutu [1931]*
-
-> *"To quiet a crowd or a drunk, just whisper. Calm is contagious." (...)  
-"Your best response to an insult is «you’re probably right». Often they are."  
--- Kevin Kelly [1952]*
-
-> *"Do you know how I stopped getting protesters to my event at universities? I held them in the morning."  
--- Jordan Peterson [1962]*
-
-### On war
-
-<!--
-> *"Pierwsza ofiara wojny jest prawda"  -- Terry Hayes*
--->
-
-> *"Summer grass, all that’s left of warrior’s dreams."  
--- Basho [1644]*
-
-> *"War is when government tells you who the bad guy is. Revolution is when you decide that for yourself."  
--- Benjamin Franklin [1706]*
-
-> *"I’m a warrior, so that my son may be a merchant, so that his son may be a poet."  
--- John Quincy Adams [1767]*
-
-> *"To destroy war, destroy patriotism."  
--- Leo Tolstoy [1828]*
-
-> *"War does not determine who is right - only who is left."  
--- Bertrand Russell [1872]*
-
-> *"A single death is a tragedy; a million deaths is a statistic."  
--- Kurt Tucholsky [1890]*
-
-> *"War draftees are slaves. Ukraine has such a draft. US is heavily supporting Ukraine. Thus US is supporting slavery."  
--- Robin Hanson [1959]*
-
-> *"Men destroy each other during war, themselves during peacetime."  
--- Nassim Taleb [1960]*
-
-> *"If you aren’t volunteering to fight in a particular war, you shouldn’t be advocating for it."  
--- Naval Ravikant [1974]*
-
-> *"All wars benefit the elites at the cost of the common man. Every. Single. One."  
--- Andrew Tate [1986]*

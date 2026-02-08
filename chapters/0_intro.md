@@ -19,6 +19,9 @@ Your job here on earth is to make a few life decisions extremely well, and the r
 > *"Of course life has no point. If it had, man would not be free."  
 -- Andrei Tarkovsky [1932]*
 
+> *"You goal in life is to be able to say on the day before you die that you have fully become yourself."  
+-- Kevin Kelly [1952]*
+
 > *"The purpose of life is finding the largest burden that you can bear and bearing it."  
 -- Jordan Peterson [1962]*
 
@@ -66,8 +69,8 @@ Hints:
 
 - Happiness is outside of your comfort zone.
 - We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.
+- True wisdom comes from accepting fate (amor fati). High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.
 - Busy people are happier. They don’t have time to overthink.
-- Amor fati. True wisdom comes from accepting fate. High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.
 - Regrets of the dying: don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
 
 > *"Happy is he who learns to bear what he cannot change."  
@@ -189,25 +192,25 @@ No matter where you are in your life, you have the power to change everything in
 
 You are not behind, you are on a different path.
 
-The destiny will be revealed as you start walking. Cancel your pity party, no one is coming to save you. Pull yourself together and take total ownership for everything in your life. You may not be where you want to be, but thank god you’re not where you use to be.
+The destiny will be revealed as you start walking. Pull yourself together and take total ownership for everything in your life. Cancel your pity party, no one is coming to save you. 
 
      DESTINY = EFFORT + SURRENDER
 
 Hints:
 
-- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you, engage you, and teach you.
-- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. Mitigate risks. Some people just have larger comfort zones. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.
-- The trouble with setting goals is that you’re constantly working toward what you used to want. Old keys won’t open new doors. Better to admit you walked to the wrong door than spend your life in the wrong room.
-- It’s easier to ask forgiveness than to get permission.
+- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you.
 - We say we try to get better but if look at your behaviour you’ll see you actually are trying to to stay the same. The longer you are living on autopilot, the harder the future is going to be. The biggest comeback is making yourself feel like yourself again.
-- It’s not the lack of intelligence, it’s the lack of focus that is stopping you. Focus on financial freedom first. Put your happiness before goals.
+- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. But mitigate risks, some people just have larger comfort zones. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.
+- It’s not the lack of intelligence, it’s the lack of focus that is stopping you. Focus on financial freedom first but but your happiness before goals.
+- The trouble with setting goals is that you’re constantly working toward what you used to want. Old keys won’t open new doors. Better to admit you walked to the wrong door than spending your life in the wrong room.
+- It’s easier to ask forgiveness than to get permission.
 
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu [-571]*
 
 > *"What we think, we become." (...)  
 "I can think, I can wait and I can fast."  
--- Siddahrta Gautama (Buddha) [-564]*
+-- (buddha) Siddahrta Gautama [-564]*
 
 > *"A man’s character is his fate."  
 -- Heraclitus [-535]*
@@ -342,13 +345,12 @@ Hints:
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland [1952]*
 
-> *"You goal in life is to be able to say on the day before you die that you have fully become yourself." (...)  
-"Copying others is a good way to start. Copying yourself is a disappointing way to end." (...)  
+> *"Copying others is a good way to start. Copying yourself is a disappointing way to end." (...)  
 "Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is." (...)  
 "There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it."  
 -- Kevin Kelly [1952]*
 
-> *"Take advantage of the opportunities - that’s probably more important than charting your path."  
+> *"Take advantage of the opportunities — that’s probably more important than charting your path."  
 -- (admiral) William Mcraven [1955]*
 
 > *"Always stick to what makes you weird, odd, strange, different. That’s your source of power."  
@@ -377,7 +379,7 @@ Hints:
 -- Leonardo DiCaprio [1974]*
 
 > *"All the great questions have only personal answers." (...)  
-"Only two things are pursued for their own sake - even if they make you feel worse or make you worse off - truth and love." (...)  
+"Only two things are pursued for their own sake — even if they make you feel worse or make you worse off — truth and love." (...)  
 "Three decisions determine 90% of your life outcomes: who you’re with, what you do, and where you live."  
 -- Naval Ravikant [1974]*
 

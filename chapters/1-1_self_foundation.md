@@ -22,7 +22,7 @@ Stop being codependent of others and start caring for yourself first. The money,
 Hints:
 
 - Telling your truth is not selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be able to serve others to your fullest capacity.
-- Stand up for yourself, your friends, or your values, because at the end of the day it is better to live a short life where you face your fears. A boundary is knowing what you want and what you don’t want in a moment. E.g: «If I loved myself at a level 10 of 10, would I do this?»
+- Stand up for yourself, your friends, or your values, because at the end of the day it is better to live a shorter life where you face your fears. A boundary is knowing what you want and what you don’t want in a moment. E.g: «If I loved myself at a level 10 of 10, would I do this?»
 
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu [-571]*
@@ -134,19 +134,15 @@ Hints:
 - chi sei? sono l’evoluzione di tutti i miei errori.
 - Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
 - I approve of me. I take nothing she says seriously, helps me relax. Change your actions, not yourself. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. 
-
-### On trust and reputation
 - A person who trusts no one now, once trusted someone too much.
 -->
 
-> *"We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change."  
+> *"We are taught you must blame your father, your sisters, your brothers, the school, the teachers — but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change."  
 -- Katharine Hepburn [1907]*
 
-You are your word.
+You are your word. Trust, not money, is the currency of business and life.
 
 Take responsibility. Only then you will cultivate respect for yourself and earn respect from others. Your choices have determined the body, bank account, and relationships that you have right now.
-
-Trust, not money, is the currency of business and life.
 
 > *"There is no greater fraud than the promise not kept."  
 -- vox populi*
@@ -229,7 +225,7 @@ Trust, not money, is the currency of business and life.
 
 <!--
 + x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
-+ x@SpiritGenealogy - Discipline is self love in motion.
++ x@SpiritGenealogy -- Discipline is self love in motion.
 > *"If you need inspiration, don’t do it."  -- Elon Musk [1971]*
 > *"The eyes do not see what the mind does not want."  -- vox populi*
 
@@ -245,8 +241,8 @@ Blessed are the restless.
 Hints:
 
 - Without commitment, you’ll never start. Without consistency, you’ll never finish. Get your dopamine from action.
-- You don’t need 100 self-help books, all you need is action + self-discipline.
-- Help with a precise thing («I can drop a lasagna at 4:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
+- You don’t need 100 self-help books, all you need is action and self-discipline.
+- Help with a precise thing («I can drop a lasagna at 14:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
 - «It’s on documentation. If it’s not add it.»
 
 > *"The seed of all evil is laziness." (...)  
@@ -297,7 +293,7 @@ Hints:
 > *"The distance between dreams and reality is called discipline."  
 -- Paulo Coelho [1947]*
 
-Everyone is motivated until the 4AM alarm, then it’s discipline. Consistency is boring to watch. But impossible to compete with.
+Everyone is motivated until the 5AM alarm, then it’s discipline. Consistency is boring to watch but impossible to compete with.
 
 Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. Most people keep telling themselves old stories that aren’t serving them. Lazyness is resting before getting tired.
 
@@ -338,48 +334,6 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 > *"Your ability to tolerate boredom while repeating the same action determines your odds of success."  
 -- x@alexhormozi*
 
-> *"Your growth depends on your ability to absorb criticisms. Your success depends on your ability to absorb failures. Your survival depends on your ability to absorb traumas."  
--- x@rapahelz*
-
-### On ambition
-
-<!--
-- The ultimate question: Do you want you son/daughter to date someone like you?
-- If you’re not trying to make money, what are you even doing?
--->
-
-> *"The best thing about Elon Musk is that he makes me question if i’m thinking big enough with my life." (...)  
-"I’m not going to be the most sucessful person on the planet, nor do I want to be. I just want to be the most successful version of myself while working the least hard possible."  
--- Naval Ravikant [1974]*
-
-Ambition without action becomes anxiety.
-
-Lying on death bed and regretting your life is the worst that can happen to you. The goal of life is contribution, not comfort.
-
-> *"To the mediocre, mediocrity appears great."  
--- vox populi*
-
-> *"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it."  
--- Oscar Wilde [1854]*
-
-> *"Routine, in an intelligent man, is a sign of ambition."  
--- W.H. Auden [1907]*
-
-> *"Understand: if you are weak and ask for little, little is what you will get."  
--- Robert Greene [1959]*
-
-> *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
--- Mark Manson [1984]*
-
-> *"Society underestimates how much it owes elon for raising the collective ambition level at a time when optimism for the future was receding."  
--- Sam Altman [1985]*
-
-> *"I disagree. There are plenty of ambitious people. My life and business experience is that there are far more ambitious people that lack competence than ambitious people that are competent. Ambition with competence is rare."  
--- x@glenn_foster*
-
-> *"I worked a lot on my mental health and now I am no longer ambitious."  
--- x@jxnlco*
-
 
 
 
@@ -390,7 +344,7 @@ Lying on death bed and regretting your life is the worst that can happen to you.
 ### On humility
 
 <!--
-- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things - If I don’t respect him, I’ll disrespect him. Nothing in between..
+- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things — If I don’t respect him, I’ll disrespect him. Nothing in between..
 - Never joke with your sources of income.
 -->
 
@@ -450,10 +404,10 @@ One way to humble yourself is to place yourself in the position of being the wea
 
 You opened two gifts this morning: your eyes. 
 
-Play the cards you are dealt. And sometimes you will be dealt bad cards. Being grateful is looking up. Don’t forget that a group of people blazed the trail we’re enjoying, and another group continues to maintain it.
+Play the cards you are dealt. And sometimes you will be dealt bad cards. Being grateful is looking up. Don’t forget that a group of people blazed the trail you’re enjoying, and another group continues to maintain it.
 
-> *"The blind can’t see. The proud will not." (...)  
-"The day a blind man sees, the first thing he throws away is the stick that has helped him all his life."  
+> *"The day a blind man sees, the first thing he throws away is the stick that has helped him all his life." (...)  
+"The blind can’t see. The proud will not."  
 -- vox populi*
 
 > *"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power. If you realize that you have enough, you are truly rich." (...)  
@@ -473,9 +427,7 @@ Play the cards you are dealt. And sometimes you will be dealt bad cards. Being g
 -- Anne Frank [1929]*
 
 > *"Writing down one thing you are grateful for each day is the cheapest possible therapy ever." (...)  
-"The most selfish thing in the world you can do is to be generous. Your generosity will return you ten fold." (...)  
-"If you are more fortunate than others, build a longer table rather than a taller fence." (...)  
-"You can’t call it charity unless no one is watching."  
+"If you are more fortunate than others, build a longer table rather than a taller fence."  
 -- Kevin Kelly [1952]*
 
 > *"If you concentrate on what you don’t have, you will never, ever have enough."  

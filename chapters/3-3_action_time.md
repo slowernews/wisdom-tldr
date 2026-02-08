@@ -189,9 +189,7 @@ Dream big.
 
 An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don’t frighten you, they are not big enough.
 
-Our present (in)actions will compound into the future we will experience – that’s a great way to think about what lies ahead. However, don’t worry, you can’t control much.
-
-Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
+Our present (in)actions will compound into the future we will experience. Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
 
 > *"A man without a vision for his future always return to his past."  
 -- vox populi*
@@ -226,3 +224,17 @@ Futurism is a study of time. Anomalies often represent the future but to our eye
 
 > *"Your future is constantly shrinking, so the longer you spend preparing for it, the smaller it’s going to be."  
 -- x@g_s_bhogal*
+
+### On dreams
+
+> *"I dream my painting and I paint my dream."  
+-- Vincent Van Gogh [1853]*
+
+> *"The best way to make your dreams come true is to wake up."  
+-- Paul Valery [1871]*
+
+> *"Dreams are illustrations from the book your soul is writing about you."  
+-- Marsha Norman [1947]*
+
+> *"Goals are dreams with deadlines."  
+-- Diana Scharf Hunt [1952]*

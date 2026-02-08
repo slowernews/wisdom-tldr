@@ -25,6 +25,9 @@ Hints:
 - Which do you want, the pain of staying where you are, or the pain of growth?
 - When the love-of-life line crosses the fear-of-death line, all hell breaks loose.
 
+> *"The dangers of life are infinite, and among them is safety."  
+-- J.W. Goethe [1749]*
+
 > *"When we are tired, we are attacked by ideas we conquered long ago."  
 -- Friedrich Nietzsche [1844]* 
 
@@ -36,6 +39,9 @@ Hints:
 
 > *"One doesn’t discover new lands without consenting to lose sight of the shore for a very long time."  
 -- André Gide [1869]*
+
+> *"Security is mostly a superstition. Life is either a daring adventure or nothing."  
+-- Helen Keller [1880]*
 
 > *"The lust for comfort murders the passions of the soul."  
 -- Kahlil Gibran [1883]*
@@ -66,7 +72,7 @@ Hints:
 > *"Never test the depth of the river with both feet."  
 -- Warren Buffett [1930]*
 
-Being risk-prone is better than being risk-averse, but don’t allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is NOT about experiencing pain.
+Being risk-prone is better than being risk-averse, but don’t allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is not about experiencing pain.
 
 > *"If your life is free of failures, you’re not taking enough risks."  
 -- H. Jackson Brown Jr. [1940]*
@@ -154,7 +160,10 @@ Hints:
 > *"You should take the approach that you’re wrong. Your goal is to be less wrong."  
 -- Elon Musk [1971]*
 
-### Improving by experience
+> *"Your growth depends on your ability to absorb criticisms. Your success depends on your ability to absorb failures. Your survival depends on your ability to absorb traumas."  
+-- x@rapahelz*
+
+### Improving by practice
 
 > *"Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand." (...)  
 "If skill could be gained by watching, every dog would become a butcher." (...)  
@@ -182,11 +191,11 @@ Hints:
 > *"Fools say that they learn by experience, I prefer to profit by others’ experience."  
 -- Otto von Bismarck [1815]*
 
-Practice makes perfect but doesn’t necessarily bring something new. Innovation comes from having a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures; it will help you let go.
+Practice makes perfect but doesn’t necessarily bring something new. Innovation comes from having a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures.
 
 Hints:
 
-- Fastest way to learn is to teach. Write advice to yourself or other people. Review it regularly. Edit it. Refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
+- Fastest way to learn is to teach. Write advice to yourself or other people. Review it regularly. Edit and refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
 - Journal early before your inhibitions take in. Record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.
 
 > *"You can only connect the dots looking back, not looking forward."  
@@ -222,7 +231,7 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 
 Wisdom is knowing the long-term consequences of your actions.  
 Wisdom is knowing what to do with what you know.  
-Knowledge is knowing what to say. wisdom is knowing when to say it.
+Knowledge is knowing what to say, wisdom is knowing when to say it.
 
 	WISDOM = INTELIGENCE + EXPERIENCE
 
@@ -276,9 +285,7 @@ Knowledge is knowing what to say. wisdom is knowing when to say it.
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
 -- Niels Bohr [1885]*
 
-True experts recognize the limits of what they know and what they do not know.
-
-Introverts have more probability of being an expert in their field. Extraversion is not good for mastery.
+True experts recognize the limits of what they know and what they do not know. Most experts in their field are introverts. Extraversion is not good for mastery.
 
 > *"We have knowledge of a thing only when we have grasped its cause."  
 -- Aristotle [-384]*
@@ -450,7 +457,7 @@ College education may help you make a living. Self-education may make you a fort
 "Instead of asking what books you should read, ask what ideas you should understand." (...)  
 "Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out." (...)  
 "The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
-"The modern conceit - educated people think they can outsmart complex systems like evolution, capitalism, weather and biology." (...)  
+"The modern conceit — educated people think they can outsmart complex systems like evolution, capitalism, weather and biology." (...)  
 "You get rewarded for unique knowledge, not effort. Effort is required to create unique knowledge."  
 -- Naval Ravikant [1974]*
 
@@ -485,7 +492,7 @@ Hints:
 "Study math to understand physics. Study physics to understand chemistry. Study chemistry to understand biology. Study biology to understand psychology. Study psychology to understand economics. Study economics and philosophy to be free." (...)  
 "Study physics, mathematics, computers, microeconomics, game theory, and persuasion." (...)  
 "Timeless: science, math, philosophy, rhetoric. First principles. Creating art & business. Family & lifelong friends. Habits to calm mind & body. Temporary: politics, news, estertainment. Memorizing facts. Hourly work. Transactional relationships. Drugs & doctors for mind and body." (...)  
-"The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas - just learning. Actually you’re already here. Careful who you follow."  
+"The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas — just learning. Actually you’re already here. Careful who you follow."  
 -- Naval Ravikant [1974]*
 
 > *"Learn a niche business and cold-call."  
@@ -558,9 +565,7 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 > *"The great books are the books that never have to be written again."  
 -- Carl Van Doren [1885]*
 
-Don’t read the books made to make money, read the ones they want to ban. Most books are propaganda.
-
-If you want better ideas, read better books. If you want new ideas, read old books.
+Don’t read the books made to make money, read the ones they want to ban. Most books are propaganda. If you want better ideas, read better books. If you want new ideas, read old books.
 
 > *"The worst thing about new books is that they keep us from reading the old ones."  
 -- Joseph Joubert [1754]*
@@ -579,7 +584,7 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 ## On writing
 
 <!--
-+ x@naval - Good writing is the output of good thinking. (Why AI hasn’t taken over X).
++ x@naval -- Good writing is the output of good thinking. (Why AI hasn’t taken over X).
 + x@g_s_bhogal -- You’ll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
 > *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
 
@@ -599,7 +604,7 @@ If you want better ideas, read better books. If you want new ideas, read old boo
 > *"I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of."  
 -- Joss Whedon [1964]*
 
-Write to learn not to teach. If you are writing to be read you are doing it wrongly. If you have lived a diverse life you’ll have a lot to say.
+Write to learn not to teach. If you are writing to be read, you are doing it wrongly. If you have lived a diverse life you’ll have a lot to say.
 
 > *"The pen is the tongue of the mind."  
 -- Miguel de Cervantes [1547]*
@@ -669,7 +674,7 @@ Write to learn not to teach. If you are writing to be read you are doing it wron
 Hints:
 
 - Make the subject unique, meaningful and easily searchable.
-- Make a single, specific, simple request – such that it’s hard to say no - in the first line and then explain if you need to. The reader should be able to reply to the email in one word, forward it on to the right person or delete it so be specific in your request. Examples:
+- Make a single, specific, simple request – such that it’s hard to say no — in the first line and then explain if you need to. The reader should be able to reply to the email in one word, forward it on to the right person or delete it so be specific in your request. Examples:
 	- «Do you have time for a 5 min call this week?»  
 	- «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?» instead of «Can you meet sometime next week?»
 	- «Please review and sign this document.»  
@@ -694,7 +699,7 @@ Consistency doesn’t result from effort, it comes from showing up. Long-term th
 
 Hints:
 
-- See your life as a series of “hotspots.” Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD.
+- See your life as a series of «hotspots». Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD.
 - You do not raise to the level of your goals, you fall to the level of your systems.
 - Stop a bad behaviour by filling the space with a better one. Replacement is better than abstinence.
 
@@ -734,7 +739,5 @@ Hints:
 - Avoid low-leverage habits: news (unnecessary stress and negative bias), pointless notifications, social media (use it for output, not entertainment; other people’s stories are more interesting when you don’t know what’s going on), smartphones (should not be the first thing you see in the morning or the last thing at night), owning a TV, overworking, unhealthy relationships, judgment, micromanagement, perfectionism, virtue signaling.
 - Cultivate high-leverage habits: develop useful skills, exercise, rest, meditate, travel, read, journal, enjoy music, create, network, make friends, spend time outdoors with friends and family, indulge in massages, practice gratitude, forgive, prioritize self-awareness, plan, eat mindfully, focus, do less, prioritize sleep and naps, smile, and embrace colors.
 - Small steps are more likely to lead to success. For example, if you find resistance to meditating for 15 minutes, try starting with just five minutes.
-- Anticipate obstacles to new habits.
-- Get accountable by making an agreement with someone that includes financial penalties for habits that are bad for you.
-- Reward yourself to reinforce new habits.
-- Pay attention, correct your course and don’t judge. Don’t strive for perfection. Having a few vices makes life more interesting.
+- Reward yourself to reinforce new habits and get accountable by making an agreement with someone that includes financial penalties for habits that are bad for you.
+- Anticipate obstacles to new habits. Pay attention, correct your course and don’t judge. Don’t strive for perfection. Having a few vices makes life more interesting.

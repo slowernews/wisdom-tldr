@@ -103,6 +103,11 @@ Just start. Stop making resolutions and start making something. Time is the most
 - Always leave the party early. Show class. Don’t be the clingy friend that spends the night. Don’t be the needy one who asks what’s next. Leave before it’s too late. Leave at the peak. Be the peak.
 -->
 
+> *"Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
+-- Josh Billings [1818]*
+
+Only fools rush into a situation. By committing too quickly you lose your maneuverability.
+
 > *"The cock that crows too early gets his head cut off." (...)  
 "The early bird may get the worm, but the second mouse gets the cheese."  
 -- vox populi*
@@ -113,14 +118,8 @@ Just start. Stop making resolutions and start making something. Time is the most
 > *"Patience is not passive; on the contrary, it is active; it is concentrated strength."  
 -- Edward G. Bulwer-Lytton [1803]*
 
-> *"half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
--- Josh Billings [1818]*
-
 > *"Patience is also a form of action."  
 -- Auguste Rodin [1840]*
-
-> *"The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing."  
--- Winston Churchill [1874]*
 
 > *"A good plan, violently executed now, is better than a perfect plan next week."  
 -- (general) George Patton [1885]*
@@ -148,7 +147,7 @@ Just start. Stop making resolutions and start making something. Time is the most
 -- Naval Ravikant [1974]*
 
 > *"Hesitation is always easy, rarely useful."  
--- Prof. Quirrel {fictional}*
+-- (fictional) Prof. Quirrel*
 
 
 
@@ -158,19 +157,16 @@ Just start. Stop making resolutions and start making something. Time is the most
 ## On speed and direction
 
 <!--
+> *"Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success."*
 - Most successful people I’ve met are not that smart. They just move fast, take risks and work a lot.
 -->
 
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker [1945]*
 
-Direction is more important than velocity. Even if we can’t choose the starting point, often, we can choose the direction.
+Direction is more important than velocity. Even if we can’t choose the starting point, often we can choose the direction.
 
 When possible, position yourself for victory by bringing the target closer. Location is better than space amount so trade space for time.
-
-> *"Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success."*
-
-Only fools rush into a situation. By committing too quickly you lose your maneuverability.
 
 > *"Choose the neighbour before choosing the house."  
 -- vox populi*
@@ -218,11 +214,7 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 
 First the essential. Then the details.
 
-Focusing is an art. Time itself is not your limitation: attention is. Busy imply out of control. Lack of time is lack of priorities.
-
-Hints:
-
-- Always look where you want to go, not where you don’t want to go.
+Focusing is an art. Time itself is not your limitation: attention is. Busy imply out of control. Lack of time is lack of priorities. Always look where you want to go, not where you don’t want to go.
 
 > *"A man with a watch knows what time it is. A man with two watches is never sure." (...)  
 "If you want a well, only dig in one place."  
@@ -303,7 +295,7 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 Getting a lot of unnecessary things done is not productivity, it’s stupidity.
 
-Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. Do less to achieve more. You don’t need to optimise everything. 20% of your effort will give you 80% of output and it may be more than enough. 
+Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. You don’t need to optimise everything. 20% of your effort will give you 80% of output and it may be more than enough. Do less to achieve more.
 
 Hints:
 
@@ -414,7 +406,9 @@ Risk is everything you left over and didn’t thought about.
 > *"Luck is what happens when preparation meets opportunity."  
 -- Seneca [-004]*
 
-Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence. Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
+Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence.
+
+Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
 
 > *"The day you decide to do it is your lucky day." (...)  
 "Luck sometimes visit a fool, but it never sits down with him."  
@@ -508,31 +502,20 @@ Consuming information gives the control freak an illusion of control. He doesn�
 > *"Some of us think holding on makes us strong, but sometimes it is letting go."  
 -- Hermann Hesse [1877]*
 
+> *"Our only security is our ability to change."  
+-- John C. Lilly [1915]*
+
 > *"If things seem under control, you’re just not going fast enough."  
 -- Mario Andretti [1940]*
 
 > *"If you change the way you look at things, the thing you look at change"  
 -- Wayne Dyer [1940]*
 
-> *"You get pseudo-order when you seek order; you only get a measure of order and control when you embrace randomness."  
--- Nassim Taleb [1960]*
-
-### On security
-
-> *"If you are not in danger, do not fight."  
--- Sun Tzu [-544]*
-
-> *"The dangers of life are infinite, and among them is safety."  
--- J.W. Goethe [1749]*
-
-> *"Security is mostly a superstition. Life is either a daring adventure or nothing."  
--- Helen Keller [1880]*
-
-> *"Our only security is our ability to change."  
--- John C. Lilly [1915]*
-
 > *"Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security there is."  
 -- John Allen Paulos [1945]*
+
+> *"You get pseudo-order when you seek order; you only get a measure of order and control when you embrace randomness."  
+-- Nassim Taleb [1960]*
 
 
 
@@ -579,10 +562,10 @@ Hints:
 
 ### How to balance an imbalance?
 
-Overcompensate. Some people get passion from something they struggled with.
-
 > *"An abnormal reaction to an abnormal situation is normal behaviour."  
 -- Victor Frankl [1905]*
+
+Overcompensate. Some people get passion from something they struggled with.
 
 
 
@@ -609,7 +592,7 @@ Overcompensate. Some people get passion from something they struggled with.
 
 Plans are not static.
 
-Switch strategies a few times to get where you want to go. If problems shift faster than your rate of adaptation you loose.
+Switch strategies a few times to get where you want to go. When problems shift faster than your rate of adaptation you loose.
 
 > *"At high tide the fish eats ants; at low tide the ants eat fish."  
 -- vox populi*
@@ -699,12 +682,12 @@ Adapt instead of reacting. An opportunity is taking an unwanted job.
 > *"It is much easier to change how you think by changing your behavior, than it is to change your behavior by changing how you think. Act out the change you seek."  
 -- Kevin Kelly [1952]*
 
-There are limits on change. Willpower is finite and change requires attention. However, small changes in a complex system can cause large changes. 
+There are limits on change: willpower is finite and change requires attention. However, small changes in a complex system can cause large changes. 
 
 > *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
 -- Socrates [-470]*
 
-> *"God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." 
+> *"God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference."  
 -- St. Francis of Assisi [1181]*
 
 > *"Those who cannot change their minds cannot change anything." (...)  
@@ -805,7 +788,7 @@ Hints:
 > *"To combat an adversary, become their friend."  
 -- Kevin Kelly [1952]*
 
-Charm the enemy to find their weaknesses. Then exploit them.
+Charm the enemy to find his weaknesses. Then exploit them.
 
 Hints:
 
@@ -873,20 +856,19 @@ Hints:
 > *"Appear weak when you are strong and strong when you are weak."  
 -- Sun Tzu [-544]*
 
-> *"A man is not deceived by others, he deceives himself." (...)  
-"The senses do not deceive; it is the judgment that deceives."  
--- J.W. Goethe [1749]*
-
-> *"Everything you say should be true, but not everything true should be said." (...)  
-"Every man is guilty of all the good he did not do."  
--- Voltaire [1694]*
-
-> *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
--- Hannah Arendt [1906]*
-
 If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don’t do well on the short term.
 
 By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you. However deceiving is not lying. Lying is like a nuclear bomb, the effects will be there for a long time. Disappointment destroys trust.
+
+Hints:
+
+- It’s hard to cheat an honest opponent.
+- Don’t attribute to malice what you can attribute to incompetence or busyness. So never be mean to anybody that can hurt you by doing nothing.
+- The only time you enjoy hearing a lie is when you already know the truth.
+- The only thing worth praying is truth.
+- If you are in a subordinate position, unpredictability reduces trust.
+- Teach no one your tricks or they will be used against you.
+- There are 2 rules in life. Number one: never give out all the information.
 
 > *"A tiger wearing a bell will starve."  
 -- vox populi*
@@ -894,20 +876,35 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 > *"The evil that men do lives after them; The good is often interred with their bones."  
 -- Julius Caesar [-100]*
 
+> *"Let silence be your general rule; say only what is necessary and in few words."  
+-- Epictetus [0050]*
+
 > *"Have more than you show, speak less than you know."  
 -- William Shakespeare [1564]*
+
+> *"Everything you say should be true, but not everything true should be said." (...)  
+"Every man is guilty of all the good he did not do."  
+-- Voltaire [1694]*
+
+> *"A man is not deceived by others, he deceives himself." (...)  
+"The senses do not deceive; it is the judgment that deceives."  
+-- J.W. Goethe [1749]*
 
 > *"Never tell the truth to people who are not worthy of it." (...)  
 "If you tell the truth, you don’t have to remember anything." (...)  
 "A lie can travel half way around the world while the truth is putting on its shoes."  
 -- Mark Twain [1835]*
 
-> *"I’m not upset that you lied to me. I’m upset that from now on I can’t believe on you." (...)  
+> *"Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed." (...)  
+"I’m not upset that you lied to me. I’m upset that from now on I can’t believe on you." (...)  
 "They muddy the water, to make it seem deep."  
 -- Friedrich Nietzsche [1844]* 
 
 > *"Beware of false knowledge; it is more dangerous than ignorance."  
 -- George Bernard Shaw [1856]*
+
+> *"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear."  
+-- Hannah Arendt [1906]*
 
 > *"Muddy water is best cleared by leaving it alone."  
 -- Alan Watts [1915]*
@@ -930,31 +927,15 @@ By seeming stronger than you are, perhaps through an occasional act that is reck
 > *"One thing I learned at 3 AM: everyone lied to survive. Truth is a luxury we day-people take for granted."  
 -- James Altucher [1968]*
 
+> *"Any sufficiently advanced negligence is indistinguishable from malice."  
+-- Deb Chachra [1971]*
+
 > *"It’s the nature of truth that once you see it, you can’t unsee it." (...)  
 "If it hurts to hear, look for the truth in it. If it comforts to hear it, look for the lie in it."  
 -- Naval Ravikant [1974]*
 
 > *"Poker is about maximizing deceptiveness while extracting information from your opponent."  
 -- x@liv_boeree*
-
-Hints:
-
-- It’s hard to cheat an honest opponent.
-- Don’t attribute to malice what you can attribute to incompetence or busyness. So never be mean to anybody that can hurt you by doing nothing.
-- The only time you enjoy hearing a lie is when you already know the truth.
-- The only thing worth praying is truth.
-- If you are in a subordinate position, unpredictability reduces trust.
-- Teach no one your tricks or they will be used against you.
-- There are 2 rules in life. Number one: never give out all the information.
-
-> *"Let silence be your general rule; say only what is necessary and in few words."  
--- Epictetus [0050]*
-
-> *Sometimes people dont want to hear the truth because they don’t want their illusions destroyed."  
--- Friedrich Nietzsche [1844]* 
-
-> *"Any sufficiently advanced negligence is indistinguishable from malice."  
--- Deb Chachra [1971]*
 
 ### On mirroring
 
@@ -965,7 +946,7 @@ Hints:
 > *"Disarm and infuriate with the mirror effect."  
 -- Robert Greene [1959]*
 
-Reciprocation is the foundation on which we have evolved: our ancestors learned to share their food and their skills in an honored network of obligation. We feel obliged to repay favors we have received. We feel obliged to make a concession to someone who has made a concession to us.
+Reciprocation is the foundation on which we have evolved: our ancestors learned to share their food and their skills in an honored network of obligation. We feel obliged to repay favors we have received or to make a concession to someone who has made a concession to us.
 
 > *"Being pacifist in face of wolves is the source of endless tragedy."  
 -- vox populi*
@@ -1077,9 +1058,6 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat."  
 -- Balthasar Gracian [1601]*
 
-> *"Winning isn’t everything, but wanting to win is."  
--- Vince Lombardi [1913]*
-
 It’s not just about winning. The way you win sets you up for the next round. Winning is not the end of the road; it’s just a stop along the way.
 
 Hints:
@@ -1108,6 +1086,9 @@ Hints:
 > *"No poor bastard ever won a war by dying for his country. He won it by making other bastards die for their country."  
 -- (general) George Patton [1885]*
 
+> *"Winning isn’t everything, but wanting to win is."  
+-- Vince Lombardi [1913]*
+
 > *"You only find out who is swimming naked when the tide goes out."  
 -- Warren Buffett [1930]*
 
@@ -1117,7 +1098,7 @@ Hints:
 > *"If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game."  
 -- Kevin Kelly [1952]*
 
-> *"Win through your actions, never through argument."  
+> *"Win through your actions, never through argument." (...)  
 "Make your accomplishments seem effortless."  
 -- Robert Greene [1959]*
 
@@ -1144,11 +1125,6 @@ Hints:
 > *"It only hurts when you don’t have time to prepare for the fall."  
 -- Tony Hawk [1968]*
 
-> *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering." (...)  
-"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere." (...)  
-"You drown not by falling into a river, but by staying submerged in it."  
--- Paulo Coelho [1947]*
-
 Letting go allows progress. Let things happen instead of trying things to happen. Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
 
 In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning. Surrendering to constant reinvention.
@@ -1174,6 +1150,11 @@ In order to come back you have to go away. Use this opportunity to re-create you
 
 > *"Only the weak are cruel. Gentleness can only be expected from the strong."  
 -- Leo Buscaglia [1924]*
+
+> *"Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering." (...)  
+"Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead you nowhere." (...)  
+"You drown not by falling into a river, but by staying submerged in it."  
+-- Paulo Coelho [1947]*
 
 > *"In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of."  
 -- Kevin Kelly [1952]*

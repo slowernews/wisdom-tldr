@@ -14,7 +14,7 @@
 > *"The secret to creativity is knowing how to hide your sources."  
 -- Albert Einstein [1879]*
 
-Creative minds are rarely tidy. We don’t have an «imagination» we have a memory. More than addition, creativity is subtraction.
+Creative minds are rarely tidy. We don’t have a«imagination», we have a memory. More than addition, creativity is subtraction.
 
 > *"What is now proved, was once only imagined."  
 -- William Blake [1757]*
@@ -62,7 +62,7 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 -- Steven Spielberg [1946]*
 
 > *"Good artists copy; great artists steal."  
--- Steve Jobs {popularized by} [1955]*
+-- Steve Jobs {popularized} [1955]*
 
 > *"Chaos is needed for innovation. Structure makes those ideas useful." (...)  
 "The ability to see order in chaos is called creativity."  
@@ -78,7 +78,9 @@ Creative minds are rarely tidy. We don’t have an «imagination» we have a mem
 
 Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
 
-Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Ignorance is a blessing, gives you freedom to think about stuff. Conventional people living conventional lives lead to conventional ideas.
+Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Conventional people living conventional lives lead to conventional ideas.
+
+Ignorance is a blessing, gives you freedom to think about stuff.
 
 > *"Name the greatest of all inventors. Accident."  
 -- Mark Twain [1835]*
@@ -130,7 +132,7 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
 -- Victor Hugo [1802]*
 
-> *"The man with a new idea is a crank - until the idea succeeds."  
+> *"The man with a new idea is a crank — until the idea succeeds."  
 -- Mark Twain [1835]*
 
 > *"We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unsympathetic to us."  
@@ -181,9 +183,9 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 > *"There are no facts, only interpretations."  
 -- Friedrich Nietzsche [1844]* 
 
-Analysis is an art, not a science. The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered.
+Analysis is an art, not a science.
 
-I don’t trust words. I even question actions. But I never doubt patterns.
+The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. I don’t trust words. I even question actions. But I never doubt patterns.
 
 > *"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."  
 -- Marcus Aurelius [0121]*
@@ -207,7 +209,7 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 > *"To see we must forget the name of the thing we are looking at."  
 -- Claude Monet [1840]*
 
-> *"He uses statistics as a drunken man uses lamp posts - for support rather than for illumination."  
+> *"He uses statistics as a drunken man uses lamp posts — for support rather than for illumination."  
 -- Andrew Lang [1844]*
 
 > *"To doubt everything or to believe everything are two equally convenient solutions; both dispense the necessity of reflection." (...)  
@@ -265,7 +267,7 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 <!--
 > *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
 
-- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths - even those that had seemed so certain as to be immune to the very possibility of revision - are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
+- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths — even those that had seemed so certain as to be immune to the very possibility of revision — are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
 - Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 - if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
 - Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
@@ -273,7 +275,7 @@ I don’t trust words. I even question actions. But I never doubt patterns.
 - The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
 - The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
 - Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
-Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that “things fall down.” You then attempt to prove the opposite—“things fall up.” If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
+Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that «things fall down». You then attempt to prove the opposite—«things fall up». If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
 -->
 
 Hints:
@@ -286,7 +288,7 @@ Hints:
 - Skepticism is a great servant and a terrible master.
 - There’s truth on «group» stereotypes. «Group» opinions self correct themselves.
 - We tend to think that the people who agree with us are really smart.
-- Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice “confirmation bias.” They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
+- Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice «confirmation bias». They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
 - Pay attention to negative cues: what should have happened but did not.
 - «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.
 - Best way to deal with confirmation bias: You need to search out disconfirming evidence. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. Too much info is the main cause of it: you’ll always find confirmation to your pre-existing beliefs. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
@@ -453,7 +455,7 @@ Hints:
 "Curiosity is just the search for truth." (...)  
 "There are infinite ways to lie, there’s only one way to tell the truth." (...)  
 "Truth is that which, once you see it, you can’t unsee it." (...)  
-"Mystics search for truth - the truth of what is. Scientists search for truth - the truth of how it works. Entrepreneurs search for truth - the truth of what people want." (...)  
+"Mystics search for truth — the truth of what is. Scientists search for truth — the truth of how it works. Entrepreneurs search for truth — the truth of what people want." (...)  
 "Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status)." (...)  
 "The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
 -- Naval Ravikant [1974]*
@@ -488,7 +490,7 @@ Hints:
 
 You can’t predict but you can prepare for the highly probable scenarios.
 
-> *"Pray to Allah, but tie your camel."
+> *"Pray to Allah, but tie your camel."  
 -- Muhammad [0570]*
 
 > *"To be prepared is half of the victory."  
@@ -501,7 +503,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 -- Benjamin Disraeli [1804]*
 
 > *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."  
--- Abraham Lincoln (attributed) [1809]*
+-- Abraham Lincoln {attributed} [1809]*
 
 > *"If you don’t know where you’re going, any road will get you there."  
 -- Lewis Carroll [1832]*
@@ -513,7 +515,7 @@ You can’t predict but you can prepare for the highly probable scenarios.
 > *"A goal without a plan is just a wish."  
 -- Antoine de Saint Exupery [1900]*
 
-> *"All human plans are subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe."
+> *"All human plans are subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe."  
 -- Arthur C. Clarke [1917]*
 
 > *"To achieve great things, two things are needed; a plan, and not quite enough time."  
@@ -597,7 +599,7 @@ Hints:
 - a good decision is risking little for the opportunity to gain a lot. and vice-versa.
 - Actions > Thoughts; Actions change the world. Not beliefs.
 - As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
-- Ask yourself “does this decision require fast or slow thinking?” 
+- Ask yourself «does this decision require fast or slow thinking? 
 - Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
 - Blue collar want to feel the same as others. White collar want to feel different from others.
 - Consensus happens just in the beginning and in the end of something.
@@ -621,15 +623,18 @@ Hints:
 > *"May your choices reflect your choices, not your fears."  
 -- Nelson Mandela [1918]*
 
-You are evaluated by your decisions. Getting 80% good decisions is exponentially better than 70%.
+You are evaluated by your decisions.
 
-We think we make choices but our choices are influenced by others. We pick what is familiar.
+Getting 80% good decisions is exponentially better than 70%. We think we make choices but our choices are influenced by others. We pick what is familiar.
 
 > *"A well defined problem seeks its own solution."  
 -- vox populi*
 
 > *"The hardest thing to learn in life is which bridge to cross and which to burn."  
 -- Bertrand Russell [1872]*
+
+> *"The best thing you can do is the right thing, the second best thing is the wrong thing, and the worst thing you can do is nothing."  
+-- Winston Churchill [1874]*
 
 > *"Opportunity cost is how intelligent people assess things."  
 -- Charlie Munger [1924]*
@@ -716,13 +721,13 @@ Hints:
 
 <!--
 market: supply and demand explain a lot of phenomenons
-macro scale - high level / micro scale - low level: https://en.wikipedia.org/wiki/Level_of_analysis - everything is a system
+macro scale — high level / micro scale — low level: https://en.wikipedia.org/wiki/Level_of_analysis — everything is a system
 high tech way / low tech way 
 everything is: http://c2."*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
 momentum: virtuous circle / vicious circle
 spaced learning system: anki, supermemo, goldenlist
 programming languages: type annotation theory / OO vs functional paradigm
-log scales: hyperbolic function - pareto law 80/20 - plateaus
+log scales: hyperbolic function — pareto law 80/20 — plateaus
 noise rate
 framing = everything is
 80% man are stronger than 80% woman
@@ -732,7 +737,7 @@ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficien
 > *"All models are wrong but some are useful."  
 -- George Box [1919]*
 
-A mental model is a functional tool. If you don’t understand its limitations, you don’t understand the model. The practical question is how limited do they have to be to not be useful. 
+A mental model is a tool. If you don’t understand its limitations, you don’t understand the model. The practical question is how limited do they have to be to not be useful. 
 
 > *"A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one."  
 -- Joan Robinson [1903]*
