@@ -54,8 +54,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *1.3 - On your worst enemy: yourself*
 - [On health](/chapters/1-3_self_inner_enemy.md#on-health)
-	- [On depression and anxiety](/chapters/1-3_self_inner_enemy.md#on-depression-and-anxiety)
-	- [How to stay healthy](/chapters/1-3_self_inner_enemy.md#how-to-stay-healthy)
+	- [On mental health](/chapters/1-3_self_inner_enemy.md#on-mental-health)
 - [On shame,](/chapters/1-3_self_inner_enemy.md#on-shame)
 	- [On confidence and validation](/chapters/1-3_self_inner_enemy.md#on-confidence-and-validation)
 	- [How to overcome shame and grow confidence?](/chapters/1-3_self_inner_enemy.md#how-to-overcome-shame-and-grow-confidence)

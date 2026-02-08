@@ -108,7 +108,7 @@ Hints:
 > *"I’ve met many more people who turned their lives around by walking around aimlessly for a couple hours a day than I’ve met people who have had their lives improved at all by professional therapy."  
 -- x@willmanidis*
 
-### On depression and anxiety
+### On mental health
 
 <!--
 - The more alone a man is, the more likely he is to get into "depression". Live alone, eat alone, work alone, never go out = depression. Spend more time with people, go out in nature, lift weights, and eat good food — no depression.
