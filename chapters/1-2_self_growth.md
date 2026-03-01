@@ -12,17 +12,17 @@
 
 You can choose courage or comfort, but you can’t choose both.
 
-Comfort is the enemy of achievement. The size of your life is directly proportional to how much discomfort you are willing to endure. Breaking rules can be frightening and you keep doing what you’re good at to avoid confronting the real problems in your life. You’ll never achieve what you want in life without taking risks. Prioritizing risk over safety is the path to progress. If you act average, you’ll remain average. To outperform, you must be both different and correct. 
+Comfort is the enemy of achievement. The size of your life is directly proportional to how much discomfort you’re willing to endure. Breaking rules can be frightening, and you keep doing what you’re good at to avoid confronting real problems. You’ll never achieve what you want without taking risks. Prioritizing risk over safety is the path to progress. If you act average, you remain average. To outperform, you must be both different and correct.
 
 Hints:
 
 - Reinvention should be an habit not an event. When you control for one set of risks, another simply arises in its place.
-- Repeating close variations on your usual theme unlocks far more value than you’d expect given minimal novelty value is a surprising result.
-- Choose the hard way. Life is easy, and a soft life makes for soft people. Take a cold shower, join a boxing gym, use the stairs instead of the escalator, spend a week alone in nature. Being uncomfortable should be «play» for you. Find comfort in discomfort.
-- Leap while you’re at the top of the curve, and the next curve builds on the momentum.
-- This isn’t just a success strategy; it’s a well-being strategy. The risk of not changing is often greater than the risk of changing.
-- Risk looks different for everyone. Stability without stagnation.
-- Which do you want, the pain of staying where you are, or the pain of growth?
+- Repeating close variations on your usual theme unlocks far more value than you’d expect, given how minimal novelty can yield surprising results.
+- Choose the hard way. Life is easy, and a soft life makes soft people. Take cold showers, join a boxing gym, use stairs over escalators, spend a week alone in nature. Make discomfort your «play». Find comfort in discomfort.
+- Leap while at the top of your curve; the next curve builds on the momentum.
+- This isn’t just a success strategy — it’s a well-being strategy. The risk of not changing is often greater than the risk of changing.
+- Risk looks different for everyone: stability without stagnation.
+- Which do you want—the pain of staying where you are, or the pain of growth?
 - When the love-of-life line crosses the fear-of-death line, all hell breaks loose.
 
 > *"The dangers of life are infinite, and among them is safety."  
@@ -70,9 +70,11 @@ Hints:
 ### On risk management
 
 > *"Never test the depth of the river with both feet."  
--- Warren Buffett [1930]*
+-- vox populi*
 
-Being risk-prone is better than being risk-averse, but don’t allow yourself to be out of the game. Adventure comes from perceived risk, not peril. Develop a tolerance for risk so that you can work up to scarier activities later. The discomfort zone is not about experiencing pain.
+Being risk-prone is better than being risk-averse, but don’t allow yourself to be out of the game.
+
+Adventure comes from perceived risk, not actual peril. Develop a tolerance for risk so you can progress to scarier activities later. The discomfort zone is not about experiencing pain.
 
 > *"If your life is free of failures, you’re not taking enough risks."  
 -- H. Jackson Brown Jr. [1940]*
@@ -90,30 +92,30 @@ Being risk-prone is better than being risk-averse, but don’t allow yourself to
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill [1874]*
 
-Most problems can be solved by graded exposure over time. The accumulation of experience and the analysis of past situations will structure knowledge. 
+The accumulation of experience and the analysis of past situations will structure knowledge. 
 
-	PROGRESS = PAIN + REFLECTION
-
-	SKILL = EFFORT * TALENT
+	PROGRESS = PAIN + REFLECTION and SKILL = EFFORT * TALENT
 
 Hints:
 
-- Listen to someone explaining challenging techniques, and then attempt to follow their advice. Seek feedback as it accelerates learning.
-- If it’s easy and you’re not surprised, you’re not learning. You need to push yourself into the zone of discomfort, where you feel clumsy and face challenges. That’s when real learning occurs.
-- Reflect on your mistakes; try to identify the cues you missed and what to look for next time.
-- Repeat.
+- Listen to someone explaining challenging techniques, then attempt to follow their advice. Seek feedback—it accelerates learning.
+	- If it’s easy and you’re not surprised, you’re not learning. Push into discomfort where you feel clumsy and face challenges—that’s where real learning happens.
+	- Reflect on mistakes: identify missed cues and what to watch for next time.
+	- Repeat.
+- The fastest way to learn is to teach. Write advice to yourself or others, review it regularly, edit, and refine. It worked for Marcus Aurelius and Bruce Lee.
+- Journal early, before inhibitions set in. Record life lessons—you’ll get more from life and repeat fewer mistakes. A journal, scotch, and music yield more deep thoughts than you expect.
 
 > *"He who asks a question is fool for five minutes. He who does not ask a question remains a fool forever."  
 -- vox populi*
+
+> *"Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand."  
+-- Xunzi [-310]*
 
 > *"It is impossible for a man to learn what he thinks he already knows."  
 -- Epictetus [0050]*
 
 > *"If a man will begin with certainties he shall end in doubts; but if he will be content to begin with doubts he shall end in certainties."  
 -- Francis Bacon [1561]*
-
-> *"Tell me and I forget. Teach me and I remember. Involve me and I learn."  
--- Benjamin Franklin [1706]*
 
 > *"Every man hears only what he understands."  
 -- J.W. Goethe [1749]*
@@ -165,13 +167,22 @@ Hints:
 
 ### Improving by practice
 
-> *"Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand." (...)  
-"If skill could be gained by watching, every dog would become a butcher." (...)  
-"Ask the experienced rather than the learned."  
--- vox populi*
+<!--
+#q["The only real mistake is the one from which we learn nothing." -- Henry Ford [1863]
+#q["We do not learn from experience... we learn from reflecting on experience." -- John Dewey [1859]
+#q["Practice isn't the thing you do once you're good. It's the thing you do that makes you good." -- Malcolm Gladwell [1963]
+#q["Repetition is the mother of skill." -- Tony Robbins [1960]
+#q["The more I practice, the luckier I get." -- Arnold Palmer [1929]
+-->
 
 > *"I am always doing that which I cannot do, in order that I may learn how to do it."  
 -- Pablo Picasso [1881]*
+
+Most problems can be solved by graded exposure over time.
+
+> *"If skill could be gained by watching, every dog would become a butcher." (...)  
+"Ask the experienced rather than the learned."  
+-- vox populi*
 
 > *"In theory there is no difference between theory and practice; in practice there is"  
 -- Yogi Berra [1925]*
@@ -179,9 +190,6 @@ Hints:
 > *"The greatest teacher is called «doing»." (...)  
 "To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them."  
 -- Kevin Kelly [1952]*
-
-> *"The difference between theory and practice: in theory, there’s no difference between theory and practice; in practice, there is."  
--- Van de Snepscheut [1953]*
 
 > *"What I learned on my own, I still remember."  
 -- Nassim Taleb [1960]*
@@ -191,12 +199,9 @@ Hints:
 > *"Fools say that they learn by experience, I prefer to profit by others’ experience."  
 -- Otto von Bismarck [1815]*
 
-Practice makes perfect but doesn’t necessarily bring something new. Innovation comes from having a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures.
+Practice makes perfect but doesn’t necessarily bring something new.
 
-Hints:
-
-- Fastest way to learn is to teach. Write advice to yourself or other people. Review it regularly. Edit and refine it. It worked for Marcus Aurelius and it worked for Bruce Lee.
-- Journal early before your inhibitions take in. Record the lessons you learn in life. You’ll get more out of life and you’ll make less of the same mistakes. A journal, scotch, and a little music will give you more deep thoughts than you want.
+Innovation comes from a broader perspective and analyzing past situations. People often repeat the same mistakes. You improve by examining your failures.
 
 > *"You can only connect the dots looking back, not looking forward."  
 -- Steve Jobs [1955]*
@@ -206,12 +211,16 @@ Hints:
 <!--
 - don’t be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
 - sabios c six packs
+#q["Knowing is not enough; we must apply. Willing is not enough; we must do." -- Johann Wolfgang von Goethe $  1749  $]
+#q["The gap between knowing and doing is where most people fail." -- Tony Robbins $  1960  $]
 -->
 
 > *"«Pathological learners» (...) who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it. Knowledge without action is useless."  
 -- x@ryanstewman*
 
-Action, not knowledge, leads to success. If you are not consistently applying the new information you’re learning, then it’s merely educational porn.
+Action, not knowledge, leads to success.
+
+If you are not consistently applying the new information you’re learning, it’s merely educational porn.
 
 > *"The purpose of knowledge is action, not knowledge."  
 -- Aristotle [-384]*
@@ -231,9 +240,10 @@ Action, not knowledge, leads to success. If you are not consistently applying th
 
 Wisdom is knowing the long-term consequences of your actions.  
 Wisdom is knowing what to do with what you know.  
-Knowledge is knowing what to say, wisdom is knowing when to say it.
 
 	WISDOM = INTELIGENCE + EXPERIENCE
+
+Knowledge is knowing what to say; wisdom is knowing when to say it.
 
 > *"To attain knowledge, add things everyday. To attain wisdom, remove things everyday."  
 -- Lao Tzu [-571]*
@@ -279,18 +289,21 @@ Knowledge is knowing what to say, wisdom is knowing when to say it.
 ### On mastery
 
 <!--
+#q["The master has failed more times than the beginner has even tried." -- Stephen McCranie $  1981  $]
 - There’s always room for improvement; be humble. There is no place for a «prima donna». If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
 -->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
 -- Niels Bohr [1885]*
 
-True experts recognize the limits of what they know and what they do not know. Most experts in their field are introverts. Extraversion is not good for mastery.
+True experts recognize the limits of what they know and what they do not know.
+
+Most experts in their field are introverts. Extraversion is not good for mastery.
 
 > *"We have knowledge of a thing only when we have grasped its cause."  
 -- Aristotle [-384]*
 
-> *"One can have no smaller or greater mastery then mastery of oneself."  
+> *"One can have no smaller or greater mastery than mastery of oneself."  
 -- Leonardo Da Vinci [1452]*
 
 > *"Some people will never learn anything, for this reason, because they understand everything too soon."  
@@ -329,7 +342,7 @@ True experts recognize the limits of what they know and what they do not know. M
 > *"The chess grand master considers no more moves than does the expert; he just knows which ones to look at."  
 -- Robyn Dawes [1936]*
 
-> *"First a punch is just a punch. Then a puch is not only a punch. And finally a punch is just a punch."  
+> *"First a punch is just a punch. Then a punch is not only a punch. And finally a punch is just a punch."  
 -- Bruce Lee [1940]*
 
 > *"Pros are just amateurs who know how to gracefully recover from their mistakes."  
@@ -366,7 +379,6 @@ True experts recognize the limits of what they know and what they do not know. M
 > *"When you are right, you are learning nothing."*
 > *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
 
-- Young men could learn anything if you questify schools.
 - The modern education system doesn’t create leaders. It creates followers. Escape the matrix.
 - Young men could learn anything if you questify schools.
 - the problem is not, and never have been, "as good as a professional". It has always been "it’s good enoughto replace a professional so it’ll be cheaper." the key thing about AI is that AI+human is waht we’ll do.
@@ -379,13 +391,27 @@ True experts recognize the limits of what they know and what they do not know. M
 > *"The mind is not a vessel to be filled but a fire to be kindled."  
 -- Plutarch [0046]*
 
-College education may help you make a living. Self-education may make you a fortune. The value of formal education is signaling, rather than actual learning. The purpose of high education is first and foremost to meet people and build relationships.
+College education may make you a living. Self-education may make you a fortune.
 
-> *"Learning is a treasure that will follow it’s owner everywhere."  
+The value of formal education is signaling, rather than actual learning. The purpose of higher education is first and foremost to meet people and build relationships.
+
+Hints:
+
+- Study physics, mathematics, computers, microeconomics, game theory, and persuasion.
+- Believe in principles. The basics matter most—not jargon or specifics. Understand, don’t memorize. You only need a few core concepts; complexity emerges from simple rules.
+- Applied focus: Strive for mastery in a small handful of skills, but seek competence in a wide variety of disciplines. Don’t major in minor things.
+- School fails at teaching: self-confidence, money management, dating and relationships, confrontation skills, critical thinking, creative productivity.
+- Education leads toward continuing self-discovery; training leads toward final self-definition.
+- School rewards generalists; the world does not.
+- School’s real subject is obedience. No one will give you the education needed to overthrow them.
+- Success is the worst teacher.
+- The biggest mistake in studying a foreign language is learning it little by little instead of jumping in headfirst. Language isn’t mathematics; one doesn’t learn it—one gets accustomed to it. It’s about experience and skill, not logic or memory.
+
+> *"Learning is a treasure that will follow its owner everywhere."  
 -- vox populi*
 
 > *"Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."  
--- Maimonides [1138]*
+-- Lao Tzu [-571]*
 
 > *"Education: the path from cocky ignorance to miserable uncertainty."  
 -- Mark Twain [1835]*
@@ -445,9 +471,6 @@ College education may help you make a living. Self-education may make you a fort
 > *"Academia is to knowledge what prostitution is to love."  
 -- Nassim Taleb [1960]*
 
-> *"The cost of a college education keeps going up, and the value keeps going down."  
--- Pedro Domingos [1965]*
-
 > *"«I want to have a safety net so I can get a job.» This is what my daughter said to me. Where did she learn the phrase «safety net»? Maybe the thing about college is that a child is not yet ready to be an adult. It’s the last time they will ever hang out with people their own age. My closest friends are not my age. In college though, they were. It’s scary to be an adult. To survive. It’s a jungle. College is still a walled safe city for kids just like you. I would pay a lot to be a child again. To not make the mistakes of adulthood. To not have those fears. So maybe that’s what the college tuition is. The cost to extend childhood. And the cost of childhood is going up."  
 -- James Altucher [1968]*
 
@@ -458,45 +481,34 @@ College education may help you make a living. Self-education may make you a fort
 "Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out." (...)  
 "The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
 "The modern conceit — educated people think they can outsmart complex systems like evolution, capitalism, weather and biology." (...)  
-"You get rewarded for unique knowledge, not effort. Effort is required to create unique knowledge."  
--- Naval Ravikant [1974]*
-
-> *"University is just expensive procrastination."  
--- x@layahheilpern* 
-
-> *"School: success stems from conformity and consensus. Life: success stems from curiosity and creativity."  
--- x@rapahelz*
-
-> *"When elite universities uploaded all of their courses online for public consumption, we collectively realized that the limiting reagent for global intelligence is not access to information, it’s motivation."  
--- x@cpaik*
-
-> *"Only the autodidacts are free."  
--- x@thesiliconstoic*
-
-> *"Modern college exists because it’s basically illegal to screen for job candidate intelligence using simple IQ tests."  
--- x@stefanmolyneux*
-
-Hints:
-
-- Study physics, mathematics, computers, microeconomics, game theory and persuasion.
-- Believe in principles. The basics are really important, not jargon or specifics. Understand it, not memorize it. You only need to understand a few basic concepts. complexity emerges from very simple rules.
-- Applied focus. This means that while you should only strive for mastery in a small handful of skills, you should seek to be competent in a wide variety of disciplines. Don’t major on minor things.
-- School fails in subjects like: how to build self confidence / how to be good with money / dating and relationships skills / confrontation skills / critical thinking / creative productivity.
-- Education leads toward a continuing self-discovery; training leads toward a final self-definition.
-- School rewards generalists, the world not so.
-- School’s real study topic is obedience. No one is going to give you the education you need to overthrow them.
-- Success is the worst teacher.
-- The biggest mistake anyone makes when studying a foreign language is that they do it little by little, not jumping into it head first. Language is not mathematics; one doen’t need to learn it, one needs to get accustomed to it. It’s not about logic or memory; It’s about experience and skill.
-
-> *"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths." (...)  
+"You get rewarded for unique knowledge, not effort. Effort is required to create unique knowledge. (...)  
+"The strongest intellectual foundation is built upon science, math and philosophy, as they are the search for universal truths." (...)  
 "Study math to understand physics. Study physics to understand chemistry. Study chemistry to understand biology. Study biology to understand psychology. Study psychology to understand economics. Study economics and philosophy to be free." (...)  
 "Study physics, mathematics, computers, microeconomics, game theory, and persuasion." (...)  
 "Timeless: science, math, philosophy, rhetoric. First principles. Creating art & business. Family & lifelong friends. Habits to calm mind & body. Temporary: politics, news, estertainment. Memorizing facts. Hourly work. Transactional relationships. Drugs & doctors for mind and body." (...)  
 "The ideal school would teach health, wealth and happiness. It would be self-paced and available to all. It would show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas — just learning. Actually you’re already here. Careful who you follow."  
 -- Naval Ravikant [1974]*
 
+> *"When elite universities uploaded all of their courses online for public consumption, we collectively realized that the limiting reagent for global intelligence is not access to information, it’s motivation."  
+-- x@cpaik*
+
+> *"University is just expensive procrastination."  
+-- x@layahheilpern* 
+
+> *"The cost of a college education keeps going up, and the value keeps going down."  
+-- x@pmddomingos*
+
+> *"School: success stems from conformity and consensus. Life: success stems from curiosity and creativity."  
+-- x@rapahelz*
+
 > *"Learn a niche business and cold-call."  
 -- x@realestatetrent*
+
+> *"Modern college exists because it’s basically illegal to screen for job candidate intelligence using simple IQ tests."  
+-- x@stefanmolyneux*
+
+> *"Only the autodidacts are free."  
+-- x@thesiliconstoic*
 
 
 
@@ -507,15 +519,14 @@ Hints:
 
 <!--
 - Barbell approach: consume what’s latest and the oldest books. Most of modern bookstores sell the middle.
+#q["The more that you read, the more things you will know. The more that you learn, the more places you’ll go." -- Dr. Seuss [1904]
+#q["Reading is to the mind what exercise is to the body." -- Richard Steele [1672]
 -->
 
 > *"I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me."  
 -- Ralph Waldo Emerson [1803]*
 
 Reading trains your model of the world. Even if you forget most, its effect persists.
-
-> *"Books serve to show a man that those original thoughts of his aren’t very new after all."  
--- Abraham Lincoln [1809]*
 
 > *"Literature is the most agreeable way of ignoring life."  
 -- Fernando Pessoa [1888]*
@@ -565,7 +576,9 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 > *"The great books are the books that never have to be written again."  
 -- Carl Van Doren [1885]*
 
-Don’t read the books made to make money, read the ones they want to ban. Most books are propaganda. If you want better ideas, read better books. If you want new ideas, read old books.
+If you want new ideas, read old books.
+
+Most books are propaganda. Don’t read books made to make money; read the ones they want to ban. If you want better ideas, read better books.
 
 > *"The worst thing about new books is that they keep us from reading the old ones."  
 -- Joseph Joubert [1754]*
@@ -588,6 +601,10 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 + x@g_s_bhogal -- You’ll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
 > *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
 
+#q["The scariest moment is always just before you start." -- Stephen King [1947]
+#q["You can always edit a bad page. You can’t edit a blank page." -- Jodi Picoult [1966]
+#q["Writing is thinking on paper." -- William Zinsser [1922]
+
 - We don’t need ChatGPT to write letters and emails. Just send the prompts.
 - o poeta faz a sintese das coisas
 5. I wrote down the funny stuff I overheard. I learned to be like a ship’s rat, veined ears trembling, and i learned to scribble it all down.
@@ -604,7 +621,22 @@ Don’t read the books made to make money, read the ones they want to ban. Most 
 > *"I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of."  
 -- Joss Whedon [1964]*
 
-Write to learn not to teach. If you are writing to be read, you are doing it wrongly. If you have lived a diverse life you’ll have a lot to say.
+If you have lived a diverse life, you’ll have a lot to say.
+
+If you are writing to be read, you are doing it wrongly. Write to learn, not to teach.
+
+Hints:
+
+- On writing emails:
+	- Make the subject unique, meaningful, and easily searchable.
+	- Make a single, specific, simple request — one that’s hard to say no to — in the first line, then explain if needed. The reader should be able to reply in one word, forward it, or delete it. Be specific. Examples:
+		- «Do you have time for a 5-min call this week?»
+		- «Can you meet Mon, Mar 11 in XYZ location between 14 pm and 16 pm?» (instead of «sometime next week?»)
+		- «Please review and sign this document.»
+		- «Can you make a quick intro to XYZ person?»
+		- «I’d love a letter of support from you. I’ve attached a draft for your review.»
+	- Keep it under three lines; more than this call.
+	- Use easy-to-read formatting: font 12/14, bold, underline, and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
 
 > *"The pen is the tongue of the mind."  
 -- Miguel de Cervantes [1547]*
@@ -669,20 +701,6 @@ Write to learn not to teach. If you are writing to be read, you are doing it wro
 "Words are living things. They have personality, interests, ambitions, friends, and foes."  
 -- x@rapahelz*
 
-### On email
-
-Hints:
-
-- Make the subject unique, meaningful and easily searchable.
-- Make a single, specific, simple request – such that it’s hard to say no — in the first line and then explain if you need to. The reader should be able to reply to the email in one word, forward it on to the right person or delete it so be specific in your request. Examples:
-	- «Do you have time for a 5 min call this week?»  
-	- «Can you meet Wed, Sept 10 in XYZ location between 10 am and 12 pm?» instead of «Can you meet sometime next week?»
-	- «Please review and sign this document.»  
-	- «Can you make a quick intro to XYZ person?» 
-	- «I’d love a letter of support from you. I’ve attached a draft for your review.»  
-- Keep it under three lines, more than this call.
-- Use easy-to-read formatting. Font 12/14, bold, underline and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS. 
-
 
 
 
@@ -691,17 +709,17 @@ Hints:
 ## On habits and systems
 
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
--- Will Durant [1885]*
+-- Aristotle [-384]*
 
-Habits are systems. We are essentially our habits. Habits are like compound interest in real life.
+Habits are systems. We are essentially our habits.
 
-Consistency doesn’t result from effort, it comes from showing up. Long-term thinking and discipline will guarantee you an easier life. Endurance is more relevant than toughness.
+Habits are like compound interest in real life. Consistency doesn’t result from effort; it comes from showing up. Long-term thinking and discipline guarantee an easier life. Endurance matters more than toughness.
 
 Hints:
 
-- See your life as a series of «hotspots». Every day you invest your time, energy, and attention into seven hotspots: mind, body, emotions, career, finances, relationships, and fun. See your hotspots as a portfolio to make sure you don’t overinvest in some areas and underinvest in others. Annual review: GOOD + BAD.
-- You do not raise to the level of your goals, you fall to the level of your systems.
-- Stop a bad behaviour by filling the space with a better one. Replacement is better than abstinence.
+- Every day you invest time, energy, and attention into seven «hotspots»: mind, body, emotions, career, finances, relationships, and fun. Treat them as a portfolio to avoid overinvesting in some and underinvesting in others. Annual review.
+- You do not rise to the level of your goals; you fall to the level of your systems.
+- Stop a bad behavior by filling the space with a better one. Replacement beats abstinence.
 
 > *"People don’t decide their future, they decide their habits and their habits decide their futures."  
 -- F.M. Alexander [1869]*
@@ -712,7 +730,7 @@ Hints:
 > *"First we make our habits, then our habits make us."  
 -- (major general) Charles C. Noble [1916]*
 
-> *"Chains of habit are too light to be felt until they are to heavy to be broken."  
+> *"Chains of habit are too light to be felt until they are too heavy to be broken."  
 -- Warren Buffett [1930]*
 
 > *"You’ll never change your life until you change something you do daily. The secret to your success is found in your daily routine."  

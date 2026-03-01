@@ -2,6 +2,10 @@
 
 ## On the purpose of life
 
+<!--
+> *"Of course life has no point. If it had, man would not be free."  -- Andrei Tarkovsky [1932]*
+-->
+
 > *"The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children."  
 -- G.K. Chesterton [1874]*
 
@@ -11,13 +15,7 @@ Your job here on earth is to make a few life decisions extremely well, and the r
 -- Rainer Maria Rilke [1875]*
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
--- Pablo Picasso [1881]*
-
-> *"When a person can’t find a deep sense of meaning, they distract themselves with pleasure."  
--- Victor Frankl [1905]*
-
-> *"Of course life has no point. If it had, man would not be free."  
--- Andrei Tarkovsky [1932]*
+-- David Viscott [1938]*
 
 > *"You goal in life is to be able to say on the day before you die that you have fully become yourself."  
 -- Kevin Kelly [1952]*
@@ -36,45 +34,22 @@ Your job here on earth is to make a few life decisions extremely well, and the r
 
 ### On happiness
 
-<!--
-> *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
--->
-
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
 -- Mahatma Gandhi [1869]*
 
 Happiness is a mind state where nothing is missing.
 
-You don’t hear much from happy people, because once you are living the life you want, you keep a low profile, you keep your life private.
+	HAPPINESS = AUTONOMY + BELONGING + MASTERY and REALITY > EXPECTATIONS
 
-	HAPPINESS = AUTONOMY + BELONGING + MASTERY  and  REALITY > EXPECTATIONS
+Stop looking for happiness where you lost it, happiness lives outside your comfort zone. We stay happy, productive, and inspired only when we uncover our true self. Rising expectations (fed by seeing the top 1%) breed misery. Wisdom is accepting reality (amor fati).
 
-> *"Happiness is not a destination but a state of being."  
--- Demetrius of Phalerum [-350]*
-
-> *"Happiness is not a goal, it’s a byproduct."  
--- Eleanor Roosevelt [1884]*
-
-> *"Success is getting what you want. Happiness is wanting what you get."  
--- Dale Carnegie [1888]*
-
-### How to find happiness?
+Truly happy people stay quiet and private. Busy people are happier, they have no time to overthink.
 
 > *"The secret of happiness is freedom and the secret of freedom is courage."  
 -- Thucydides [-460]*
 
-Stop looking for happiness in the same place where you lost it.
-
-Hints:
-
-- Happiness is outside of your comfort zone.
-- We only stay happy, productive and inspired when we uncover our true personality. Focus on internal fulfillment not external success.
-- True wisdom comes from accepting fate (amor fati). High expectations make you miserable, expectations nowadays are more and more triggered by the top of hierarchy being more exposed.
-- Busy people are happier. They don’t have time to overthink.
-- Regrets of the dying: don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy.
-
-> *"Happy is he who learns to bear what he cannot change."  
--- Seneca [-004]*
+> *"Happiness is not a destination but a state of being."  
+-- Demetrius of Phalerum [-350]*
 
 > *"The happiness of your life depends upon the quality of your thoughts." (...)  
 "Almost nothing material is needed for a happy life, for he who has understood existence."  
@@ -83,11 +58,20 @@ Hints:
 > *"Rules for happiness: something to do, someone to love and something to hope for."  
 -- Immanuel Kant [1724]*
 
+> *"Happy is he who learns to bear what he cannot change."  
+-- Friedrich Schiller [1759]*
+
 > *"Melancholy is the happiness of being sad."  
 -- Victor Hugo [1802]*
 
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli [1804]*
+
+> *"Happiness is not a goal, it’s a byproduct."  
+-- Eleanor Roosevelt [1884]*
+
+> *"Success is getting what you want. Happiness is wanting what you get."  
+-- Dale Carnegie [1888]*
 
 > *"Many people lose the small joys in the hope for the big happiness."  
 -- Pearl S. Buck [1892]*
@@ -120,8 +104,8 @@ Hints:
 "Self-obsession is the root of all unhappiness. The happiest people in life love something more than they love themselves. They love their children, they love God, they love their mission, what have you. And all misery comes from rumination, from sitting around... going in circles in your head about me, me, me, me. I get interested in topics and concepts and ideas and understandings. And the more I focus that way, the less I think about myself."  
 -- Naval Ravikant [1974]*
 
-> *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happiness. Or jail."  
--- x@wuwei113*
+> *"Worthless friends. These friendships increase your happiness."  
+-- x@codie_sanchez*
 
 > *"A common trait of unhappy people: they love to criticize everything and everyone all the time, they get distracted by things that don’t matter. A common trait of happy people: they are focused on themselves, their business, their family and friends, their difficult goals."  
 -- x@orangebook_*
@@ -132,22 +116,30 @@ Hints:
 > *"The happiest people I know are slowing down, not speeding up."  
 -- x@thejustinwelsh*
 
-> *"Worthless friends. These friendships increase your happiness."  
--- x@codie_sanchez*
+> *"You want happiness? Here be recipe: Be very good in one thing = $; Be very honest = ungovernable; $ + ungovernable = happiness. Or jail."  
+-- x@wuwei113*
 
 
 
 
 
 
-## Who are you now?
+## Who are you?
+
+<!--
+> *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
+-->
 
 > *"You are the combination of your habits and the people who you spend the most time with."  
 -- Naval Ravikant [1974]*
 
-A big part of who you are is who you’re not.
+Your actions reveal your real values. Not what you say, not what you believe.
 
-You are your options. Ultimately you are your choices. Your actions reveal your real values. Not what you say, not what you believe.
+You are your options. Much of who you are is who you refuse to be. Ultimately, you are your choices. Cancel your pity party, no one is coming to save you. Take total ownership of everything in your life, no matter where you are in life, you have the power to change everything in an instant. Most won’t. Your new life will cost you your old one and there is no coming to consciousness without pain. To be real, you need to be vulnerable, and we do anything to avoid facing our own soul. We say we try to get better, but our behavior shows we’re actually trying to stay the same. The longer you live on autopilot, the harder the future becomes. It’s not lack of intelligence but lack of focus stopping you. Focus on financial freedom first, but put happiness before goals. The biggest comeback is feeling like yourself again.
+
+> *"What we think, we become." (...)  
+"I can think, I can wait and I can fast."  
+-- (buddha) Siddahrta Gautama [-564]*
 
 > *"Day by day, what you choose, what you think and what you do is who you become."  
 -- Heraclitus [-535]*
@@ -159,13 +151,12 @@ You are your options. Ultimately you are your choices. Your actions reveal your 
 "The most common form of despair is not being who you are."  
 -- Soren Kierkegaard [1813]*
 
-> *"You are what you do, not what you say you’ll do." (...)  
-"I am not what happened to me, I am what I choose to become." (...)  
+> *"I am not what happened to me, I am what I choose to become." (...)  
 "The privilege of a lifetime is to become who you truly are."  
 -- Carl Jung [1875]*
 
-> *"I have already lost touch with a couple of people I used to be."  
--- Joan Didion [1934]*
+> *"When a person can’t find a deep sense of meaning, they distract themselves with pleasure."  
+-- Victor Frankl [1905]*
 
 > *"The world wants to assign you a role in life. And once you accept that role you are doomed."  
 -- Robert Greene [1959]*
@@ -186,31 +177,16 @@ You are your options. Ultimately you are your choices. Your actions reveal your 
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
 -- Richard Bach [1936]*
 
-Your new life will cost you your old one.
-
-No matter where you are in your life, you have the power to change everything in an instant. Most won’t. There is no coming to consciousness without pain. To be real you need to be vulnerable and we do anything to avoid facing our own soul. 
-
 You are not behind, you are on a different path.
-
-The destiny will be revealed as you start walking. Pull yourself together and take total ownership for everything in your life. Cancel your pity party, no one is coming to save you. 
 
      DESTINY = EFFORT + SURRENDER
 
-Hints:
+Destiny reveals itself as you start walking, passion is made, not found. Forgiveness is easier than permission. Instead of seeking your life’s purpose, experience more and pursue things that stretch you. The trouble with goals is constantly working toward what you used to want. Old keys won’t open new doors. Better to admit you walked to the wrong door than spend your life in the wrong room.
 
-- Passion is made not found. Instead of looking for your life’s purpose, experience more and look for things that will stretch you.
-- We say we try to get better but if look at your behaviour you’ll see you actually are trying to to stay the same. The longer you are living on autopilot, the harder the future is going to be. The biggest comeback is making yourself feel like yourself again.
-- Fear is your guide. The more fear you feel, the more you will know you are on the right track. The things that scare you the most are the things you most need to do. But mitigate risks, some people just have larger comfort zones. Become unconfortable but when life gets blurry, just adjust your focus. Random wandering will not move you forward. Pick one thing and stick with it to completion.
-- It’s not the lack of intelligence, it’s the lack of focus that is stopping you. Focus on financial freedom first but but your happiness before goals.
-- The trouble with setting goals is that you’re constantly working toward what you used to want. Old keys won’t open new doors. Better to admit you walked to the wrong door than spending your life in the wrong room.
-- It’s easier to ask forgiveness than to get permission.
+Fear is your guide. The more fear you feel, the more you know you’re on the right track. What scares you most is often what you most need to do. Mitigate risks—some have larger comfort zones. Become uncomfortable, but when life gets blurry, adjust your focus. Random wandering won’t move you forward. Pick one thing and stick with it to completion.
 
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu [-571]*
-
-> *"What we think, we become." (...)  
-"I can think, I can wait and I can fast."  
--- (buddha) Siddahrta Gautama [-564]*
 
 > *"A man’s character is his fate."  
 -- Heraclitus [-535]*
@@ -233,6 +209,9 @@ Hints:
 > *"As soon as you trust yourself you will know how to live."  
 -- J.W. Goethe [1749]*
 
+> *"Do not go where the path may lead, go instead where there is no path and leave a trail."  
+-- Ralph Waldo Emerson [1803]*
+
 > *"Whatever you are, be a good one."  
 -- Abraham Lincoln [1809]*
 
@@ -253,9 +232,6 @@ Hints:
 
 > *"Only he who wanders, find new paths."  
 -- Fridtjof Nansen [1861]*
-
-> *"Action expresses priorities."  
--- Mahatma Gandhi [1869]*
 
 > *"The best way out is always through."  
 -- Robert Frost [1874]*
@@ -324,6 +300,9 @@ Hints:
 > *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment."  
 -- Jim Rohn [1930]*
 
+> *"I have already lost touch with a couple of people I used to be."  
+-- Joan Didion [1934]*
+
 > *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn’t the answer. It just gave us a glimpse of the possibility."  
 -- John Lennon [1940]*
 
@@ -356,9 +335,6 @@ Hints:
 > *"Always stick to what makes you weird, odd, strange, different. That’s your source of power."  
 -- Robert Greene [1959]*
 
-> *"If you can’t, you must. If you must, you can."  
--- Tony Robbins [1960]*
-
 > *"The path to mediocrity is paved with platitudes."  
 -- Nassim Taleb [1960]*
 
@@ -369,7 +345,7 @@ Hints:
 -- Brené Brown [1965]*
 
 > *"We know about quitting something that’s bad for you, or something you hate. But what about quitting something you love? I can tell you from experience, it leaves a lot of room for change. I still love everything I quit. But not as much as I love all this room for change." (...)  
-"Move to a place that feels strange until it feels like home. Constantly learning and growing. then do it again, pursuing disconfort, until the whole world is my home."  
+"Move to a place that feels strange until it feels like home. Constantly learning and growing. Then do it again, pursuing disconfort, until the whole world is my home."  
 -- Derek Sivers [1969]*
 
 > *"It is possible for ordinary people to choose to be extraordinary."  
@@ -383,14 +359,14 @@ Hints:
 "Three decisions determine 90% of your life outcomes: who you’re with, what you do, and where you live."  
 -- Naval Ravikant [1974]*
 
-> *"You often feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you." (...)  
-"It’s not finding yourself that’s hard; it’s facing yourself that is." (...)  
-"When a flower doesn’t bloom, you fix the environment in which it grows, not the flower."  
--- x@purposologist*
+> *"Lack of progress means you are doing too much of the wrong things. Step back and reprioritize your daily tasks. You want to achieve more, you need to learn how to do less." (...)  
+"If the years pass and your life doesn’t get better, it means: you forgot your long-term plan; you actually don’t learn properly; you are around the wrong people; you live in the wrong environment; your intuition and judgment are off; or you struggle to focus when it matters."  
+-- x@orangebook_*
 
 > *"The biggest clue to whether you enjoy something is if you naturally show leadership in it."  
 -- x@pat_stedman*
 
-> *"Lack of progress means you are doing too much of the wrong things. Step back and reprioritize your daily tasks. You want to achieve more, you need to learn how to do less." (...)  
-"If the years pass and your life doesn’t get better, it means: you forgot your long-term plan; you actually don’t learn properly; you are around the wrong people; you live in the wrong environment; your intuition and judgment are off; or you struggle to focus when it matters."  
--- x@orangebook_*
+> *"You often feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you." (...)  
+"It’s not finding yourself that’s hard; it’s facing yourself that is." (...)  
+"When a flower doesn’t bloom, you fix the environment in which it grows, not the flower."  
+-- x@purposologist*

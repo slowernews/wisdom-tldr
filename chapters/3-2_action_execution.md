@@ -13,18 +13,20 @@
 - monk mode -> no communication during mornings, only deep work -> meetings afternoon
 - Research is not doing something. Knowledge is never the issue, action is.
 - The dumbest thing smart people do: Overthink. The smartest thing dumb people do: Act.
-- The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, “Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.”
-- The more “goal oriented” is the task, the more a potential 10x programmer
+- The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, «Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.»
+- The more «goal oriented» is the task, the more a potential 10x programmer
 - The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
-- you always throw out your first pancake - primeiro milho é para os pardais
+- you always throw out your first pancake — primeiro milho é para os pardais
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
-> *"For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn’t conspire against you, but it doesn’t go out of its way to line up all the pins either. Conditions are never perfect. “Someday” is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it “eventually,” just do it and correct course along the way."  -- Tim Ferriss*
+> *"For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn’t conspire against you, but it doesn’t go out of its way to line up all the pins either. Conditions are never perfect. «Someday» is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it «eventually,» just do it and correct course along the way."  -- Tim Ferriss*
 -->
 
 > *"A year from now, you will wish you had started today."  
 -- x@karenlambauthor*
 
-Just start. Stop making resolutions and start making something. Time is the most precious thing you own.
+Just start.
+
+Stop making resolutions and start making something. Time is the most precious thing you own.
 
 > *"Rising early makes the road short." (...)  
 "The person who removes a mountain begins by carrying away small stones." (...)  
@@ -50,7 +52,7 @@ Just start. Stop making resolutions and start making something. Time is the most
 > *"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."  
 -- J.W. Goethe [1749]*
 
-> *"Do it, or don’t do it - you will regret both."  
+> *"Do it, or don’t do it — you will regret both."  
 -- Soren Kierkegaard [1813]*
 
 > *"Do not wait to strike till the iron is hot; but make it hot by striking."  
@@ -99,6 +101,7 @@ Just start. Stop making resolutions and start making something. Time is the most
 
 <!--
 + x@shl -- Thinking before you speak is a skill
+#q["Patience is bitter, but its fruit is sweet."-- Aristotle $  -384  $]
 
 - Always leave the party early. Show class. Don’t be the clingy friend that spends the night. Don’t be the needy one who asks what’s next. Leave before it’s too late. Leave at the peak. Be the peak.
 -->
@@ -106,7 +109,7 @@ Just start. Stop making resolutions and start making something. Time is the most
 > *"Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
 -- Josh Billings [1818]*
 
-Only fools rush into a situation. By committing too quickly you lose your maneuverability.
+Only fools rush in. Committing too quickly costs maneuverability.
 
 > *"The cock that crows too early gets his head cut off." (...)  
 "The early bird may get the worm, but the second mouse gets the cheese."  
@@ -164,9 +167,9 @@ Only fools rush into a situation. By committing too quickly you lose your maneuv
 > *"Speed is useful only if you are running in the right direction."  
 -- Joel Barker [1945]*
 
-Direction is more important than velocity. Even if we can’t choose the starting point, often we can choose the direction.
+Direction is more important than velocity.
 
-When possible, position yourself for victory by bringing the target closer. Location is better than space amount so trade space for time.
+Even if we can’t choose the starting point, we can often choose the direction. When possible, position yourself for victory by bringing the target closer. Location beats quantity so trade space for time.
 
 > *"Choose the neighbour before choosing the house."  
 -- vox populi*
@@ -214,7 +217,7 @@ When possible, position yourself for victory by bringing the target closer. Loca
 
 First the essential. Then the details.
 
-Focusing is an art. Time itself is not your limitation: attention is. Busy imply out of control. Lack of time is lack of priorities. Always look where you want to go, not where you don’t want to go.
+Focusing is an art. Time is not the limit—attention is. Busy means out of control. Lack of time means lack of priorities. Always look where you want to go, not where you don’t want to go.
 
 > *"A man with a watch knows what time it is. A man with two watches is never sure." (...)  
 "If you want a well, only dig in one place."  
@@ -281,9 +284,9 @@ Focusing is an art. Time itself is not your limitation: attention is. Busy imply
 - 6 months of focus and hard work can put you 5 years ahead in life.
 - Focus on adaptability not effectiveness
 - how to say no? I’m busy. Is a excuse for not doing something we don’t feel like doing.
-- If you’re not turning off part of your audience, then you’re not going to be fascinating,” she says; “you’re not going to be memorable."*	
+- If you’re not turning off part of your audience, then you’re not going to be fascinating,» she says; «you’re not going to be memorable."*	
 - maker days and manager days
-- parkinson’s law - if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
+- parkinson’s law — if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
 - Strategic laziness as a leverage point.
 - taking care of yourself is productivity
 - work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
@@ -295,22 +298,22 @@ try to hit 10% of your followers instead of trying to hit all of them at the sam
 
 Getting a lot of unnecessary things done is not productivity, it’s stupidity.
 
-Saying yes to everything is a quick road to mediocrity. Productivity is about attention management. You don’t need to optimise everything. 20% of your effort will give you 80% of output and it may be more than enough. Do less to achieve more.
+Saying yes to everything leads to mediocrity. Productivity is attention management. You don’t need to optimize everything. 20% of effort often yields 80% of results, and that may be enough. Do less to achieve more.
 
 Hints:
 
-- Protect your time like your money. Protect your hours of real work. Take advantage of early hours in the day.
-- Focus on one to three outcomes per day (include one important but not urgent task) and tackle the most important one in the morning. Leverage is built on the notion that small, well-focused actions can sometimes produce significant, enduring improvements if they are applied in the right place.
-- 80/20 is fractal: If 20% of the effort creates 80% of the value, 20% of the 20% of the effort makes 80% of 80% of the value. So 4% of the work you do may create 64% of the benefits!
-- Ruthless cut all the activities in your workday that aren’t producing value.
-- Always work with a specific purpose in mind. Set specific, measurable, realistic and time-based goals.
-- Mind the process, not the results. For example, “finish report” might turn into “write report for 45 uninterrupted minutes.”
-- Learn to focus and being fully present on what you are doing now.
-- Work by layers: from functional to excellency.
-- Do things in batch. Interruption and switching between tasks costs too much. Reduce decision making on small tasks to a minimum and do it quickly and in bulk.
-- When a task will take you less than two minutes, just do it.
-- Buy yourself time: delegate. Only operate from strengths: outsource your weaknesses. Focus on what you’re naturally good at and what you enjoy the most.
-- To get anything done quickly, ask a busy person to do it.
+- Protect your time like money. Guard real work hours and use early morning focus.
+- Focus on 1–3 outcomes per day (include one important but not urgent task) and tackle the most important first in the morning.
+- 80/20 is fractal: 4% of work can create 64% of benefits.
+- Ruthlessly cut activities that produce no value.
+- Always work with specific purpose. Set specific, measurable, realistic, time-bound goals.
+- Mind the process, not just results (e.g., «write report for 45 uninterrupted minutes» instead of «finish report»).
+- Learn to focus and be fully present on the current task.
+- Work in layers: functional first, then excellence.
+- Batch similar tasks. Switching costs are high. Minimize small decisions—do them quickly and in bulk.
+- If a task takes <2 minutes, do it immediately.
+- Buy time: delegate weaknesses, focus on strengths and what you enjoy most.
+- To get anything done fast, ask a busy person.
 
 > *"Don’t make 100 decisions when one will do."  
 -- Peter Drucker [1909]*
@@ -334,7 +337,7 @@ Hints:
 -- Tom Ford [1961]*
 
 > *"The price of productivity is creativity." (...)  
-"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning - what the heck are you doing?" (...)  
+"If you’re not spending your time doing what you want, and you’re not earning, and you’re not learning — what the heck are you doing?" (...)  
 "Nothing will make you more productive than owning your time. Nothing will make you less productive than selling it." (...)  
 "Say no: «It doesn’t feel right to me.» No more explanations are needed."  
 -- Naval Ravikant [1974]*
@@ -356,16 +359,21 @@ Hints:
 > *"If you live long enough, most people will get what they deserve."  
 -- Charlie Munger [1924]*
 
-Unless you’re winning, life will seem unfair to you.
+Every outcome in life is guided by forces beyond individual effort. The best things often come from coincidence.
 
-Bad luck is often bad planning. If you’re sure it’s not, be positive, the pendulum will swing back your way eventually. «Random» usually means that you haven’t looked long enough to see a pattern emerge. «Surprises» only happen when they didn’t repeat on one’s lifetime. Everything is a pattern.
-
-Risk is everything you left over and didn’t thought about.
+Luck is an open door. Chance is the willingness to step through. This creates the illusion that some people are «luckier». Unless you’re winning, life will seem unfair. Systemic bad luck is often bad planning. If it’s not, stay positive, the pendulum swings back. «Random» usually means you haven’t looked long enough for the pattern. «Surprises» only happen when they haven’t repeated in your lifetime. Everything is a pattern.
 
 	RISK = THREATS x VULNERABILITIES
 
-> *"The devil always takes back his gifts."  
+Risk is everything you left over and didn’t thought about.
+
+> *"The devil always takes back his gifts." (...)  
+"The day you decide to do it is your lucky day." (...)  
+"Luck sometimes visit a fool, but it never sits down with him."  
 -- vox populi*
+
+> *"Luck is what happens when preparation meets opportunity."  
+-- Seneca [-004]*
 
 > *"We all have enough strength to endure the misfortunes of other people."  
 -- François de La Rochefoucauld [1613]*
@@ -376,44 +384,6 @@ Risk is everything you left over and didn’t thought about.
 > *"To dare is to lose one’s footing momentarily. To not dare is to lose oneself."  
 -- Soren Kierkegaard [1813]*
 
-> *"Coincidence is God’s way of remaining anonymous." (...)  
-"God is subtle but he is not malicious."  
--- Albert Einstein [1879]*
-
-> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
--- Robert Schiller [1946]*
-
-> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
--- Paulo Coelho [1947]*
-
-> *"I know that history is going to be dominated by an improbable event, I just don’t know what that event will be."  
--- Nassim Taleb [1960]*
-
-> *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
--- Naval Ravikant [1974]*
-
-> *"The odd person is exceptionally lucky or unlucky. But in the vast majority of cases, people are exactly where they belong."  
--- Andrew Tate [1986]*
-
-> *"Risk is what’s left over when you think you’ve thought of everything."  
--- x@behaviorgap*
-
-> *"Luck is probability engineering."  
--- x@schisofrenia*
-
-### On chance
-
-> *"Luck is what happens when preparation meets opportunity."  
--- Seneca [-004]*
-
-Every outcome in life is guided by forces other than individual effort. The best things in life are born from coincidence.
-
-Luck is an open door. Chance is the willingness to step through. This creates the illusion that certain people are luckier.
-
-> *"The day you decide to do it is your lucky day." (...)  
-"Luck sometimes visit a fool, but it never sits down with him."  
--- vox populi*
-
 > *"In the realm of scientific observation, luck is granted only to those who are prepared."  
 -- Louis Pasteur [1822]*
 
@@ -422,6 +392,10 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 
 > *"Opportunity is missed by most of people because it is dressed in overalls and looks like work."  
 -- Thomas Edison [1847]*
+
+> *"Coincidence is God’s way of remaining anonymous." (...)  
+"God is subtle but he is not malicious."  
+-- Albert Einstein [1879]*
 
 > *"Only those who will risk going too far can possibly find out how far it is possible to go."  
 -- T.S. Eliot [1888]*
@@ -435,17 +409,36 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 > *"Opportunity dances with those on the dance floor."  
 -- H. Jackson Brown Jr. [1940]*
 
+> *"What do I want to know about investing that we can’t know? The exact role of luck in successful outcomes."  
+-- Robert Schiller [1946]*
+
+> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."  
+-- Paulo Coelho [1947]*
+
 > *"If you risk nothing, then you risk everything."  
 -- Geena Davis [1956]*
 
 > *"The quality of your life is in direct proportion to the amount of uncertainty you can comfortably deal with."  
 -- Tony Robbins [1960]*
 
-> *"Things that come with little help of luck are more resistant to randomness."  
+> *"Things that come with little help of luck are more resistant to randomness." (...)  
+"I know that history is going to be dominated by an improbable event, I just don’t know what that event will be."  
 -- Nassim Taleb [1960]*
+
+> *"Karma is just you, repeating your patterns, virtues, and flaws until you finally get what you deserve."  
+-- Naval Ravikant [1974]*
+
+> *"The odd person is exceptionally lucky or unlucky. But in the vast majority of cases, people are exactly where they belong."  
+-- Andrew Tate [1986]*
+
+> *"Risk is what’s left over when you think you’ve thought of everything."  
+-- x@behaviorgap*
 
 > *"Taking risk is the ultimate expression of optimism."  
 -- x@rapahelz*
+
+> *"Luck is probability engineering."  
+-- x@schisofrenia*
 
 ### On hope and faith
 
@@ -487,11 +480,9 @@ Luck is an open door. Chance is the willingness to step through. This creates th
 > *"You can lead a horse to water but you can’t make him drink."  
 -- vox populi*
 
-Disorder is not a mistake; it’s our default. Order is always artificial and temporary.
+Disorder is the default; order is artificial and temporary.
 
-Control what you can: what you’re primed by, who you are around, the ideas and problems you focus on. Ignore the rest.
-
-Consuming information gives the control freak an illusion of control. He doesn’t want to acknowledge that the universe doesn’t make sense and he doesn’t trust himself to handle disorder in a situation that will get out of his league or skillset.
+Control what you can: your inputs, your circle, your focus, your problems. Ignore the rest. Consuming information gives control freaks the illusion of control. They refuse to accept the universe doesn’t make sense and distrust their ability to handle real disorder beyond their skillset.
 
 > *"Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed."  
 -- Friedrich Nietzsche [1844]* 
@@ -526,6 +517,7 @@ Consuming information gives the control freak an illusion of control. He doesn�
 
 <!--
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
+#q["Balance is not something you find, it’s something you create."-- Jana Kingsford $  unknown  $]
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  
@@ -533,7 +525,28 @@ Consuming information gives the control freak an illusion of control. He doesn�
 
 Life is a balancing act. Most things are not binary.
 
-The dose makes the poison: things in excess become their opposite. The hardest skill is knowing when to stop.
+The dose makes the poison: excess turns good into bad. The hardest skill is knowing when to stop. Balance isn’t equal time in every area of your life either, it’s steady progress in health, wealth, relationships, and growth.
+
+Hints:
+
+- Don’t make your job your whole life, or your art your sole income.
+- Two approaches to self-improvement (Mark Manson): the self-improvement junkie and the self-improvement tourist.
+
+> *"Where there is too much, something is missing." (...)  
+"Sunshine all the time makes a desert."  
+-- vox populi*
+
+> *"The middle way is the right way."  
+-- (buddha) Siddahrta Gautama [-564]*
+
+> *"Life is a balance between holding on and letting go."  
+-- Rumi [1207]*
+
+> *"You never know what is enough until you know what is more than enough."  
+-- William Blake [1757]*
+
+> *"Everything in moderation, including moderation."  
+-- Oscar Wilde [1854]*
 
 > *"Do not go past the mark you aimed for; in victory, learn when to stop."  
 -- Robert Greene [1959]*
@@ -543,29 +556,12 @@ The dose makes the poison: things in excess become their opposite. The hardest s
 "You get paid for being right first, and to be first, you can’t wait for consensus."  
 -- Naval Ravikant [1974]*
 
-Balance is not about spending the same amount of time focused on every area of your life either. It’s about making progress in all areas of your life and ensuring that you improve just a little bit each day in your health, wealth, relationships and personal growth.
-
-Hints:
-
-- Don’t try to make your job your whole life. Don’t try to make your art your sole income.
-- There are two approaches to improving yourself: 1) The self-improvement junkie. 2) The self-improvement tourists. (Mark Manson)
-
-> *"Where there is too much, something is missing." (...)  
-"Sunshine all the time makes a desert."  
--- vox populi*
-
-> *"Life is a balance between holding on and letting go."  
--- Rumi [1207]*
-
-> *"You never know what is enough until you know what is more than enough."  
--- William Blake [1757]*
-
 ### How to balance an imbalance?
 
 > *"An abnormal reaction to an abnormal situation is normal behaviour."  
 -- Victor Frankl [1905]*
 
-Overcompensate. Some people get passion from something they struggled with.
+Overcompensate. Many people draw their deepest passion from the very thing they once struggled with.
 
 
 
@@ -578,6 +574,7 @@ Overcompensate. Some people get passion from something they struggled with.
 + x@shl -- You can’t change someone. All you can do is understand them.
 + x@omanueljoaquim -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
 + @Rapahelz -- Behaviors that are rewarded in the zoo are suicidal in the jungle.
+> *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  -- James Akre*
 
 - when there is a problem there is an oportunity
 - grow also feels like loss
@@ -592,9 +589,10 @@ Overcompensate. Some people get passion from something they struggled with.
 
 Plans are not static.
 
-Switch strategies a few times to get where you want to go. When problems shift faster than your rate of adaptation you loose.
+Switch strategies when needed to reach your goal. When problems shift faster than your adaptation rate, you lose. Adapt instead of react. An opportunity can look like an unwanted job. Listen to predict collapse.
 
-> *"At high tide the fish eats ants; at low tide the ants eat fish."  
+> *"At high tide the fish eats ants; at low tide the ants eat fish." (...)  
+"When the winds of change blow, some people build walls while others build windmills."  
 -- vox populi*
 
 > *"One should not be too straightforward. Go & see the forest. The straight trees are cut down, the crooked ones are left standing."  
@@ -602,6 +600,9 @@ Switch strategies a few times to get where you want to go. When problems shift f
 
 > *"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
 -- Charles Darwin [1809]*
+
+> *"Things do not change; we change."  
+-- Henry David Thoreau [1817]*
 
 > *"Everyone thinks of changing the world, but no one thinks of changing himself."  
 -- Leo Tolstoy [1828]*
@@ -614,6 +615,9 @@ Switch strategies a few times to get where you want to go. When problems shift f
 
 > *"However beautiful the strategy, you should occasionally look at the results."  
 -- Winston Churchill [1874]*
+
+> *"If I don’t have red, I use blue."  
+-- Pablo Picasso [1881]*
 
 > *"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."  
 -- Everett Dirksen [1896]*
@@ -629,6 +633,12 @@ Switch strategies a few times to get where you want to go. When problems shift f
 
 > *"Your life does not get better by chance, it gets better by change."  
 -- Jim Rohn [1930]*
+
+> *"Change before you have to."  
+-- Jack Welch [1935]*
+
+> *"Change is inevitable, it’s our job to exploit it."  
+-- Eli Goldratt [1947]*
 
 > *"What got you here won’t get you there."  
 -- Marshall Goldsmith [1949]*
@@ -652,37 +662,15 @@ It’s scary to make those direction choices but fear is a great road sign."
 "Sometimes it’s easier to change the world than to change people’s minds."  
 -- Naval Ravikant [1974]*
 
-Listen to predict a collapse.
-
-> *"When things break, it’s not the actual breaking that prevents them from getting back together again. It’s because a little piece gets lost - the two remaining ends couldn’t fit together even if they wanted to. The whole shape has changed."  
+> *"When things break, it’s not the actual breaking that prevents them from getting back together again. It’s because a little piece gets lost — the two remaining ends couldn’t fit together even if they wanted to. The whole shape has changed."  
 -- John Green [1977]*
-
-> *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  
--- James Akre*
-
-Adapt instead of reacting. An opportunity is taking an unwanted job.
-
-> *"When the winds of change blow, some people build walls while others build windmills."  
--- vox populi*
-
-> *"Things do not change; we change."  
--- Henry David Thoreau [1817]*
-
-> *"If I don’t have red, I use blue."  
--- Pablo Picasso [1881]*
-
-> *"Change before you have to."  
--- Jack Welch [1935]*
-
-> *"Change is inevitable, it’s our job to exploit it."  
--- Eli Goldratt [1947]*
 
 ### How to change?
 
 > *"It is much easier to change how you think by changing your behavior, than it is to change your behavior by changing how you think. Act out the change you seek."  
 -- Kevin Kelly [1952]*
 
-There are limits on change: willpower is finite and change requires attention. However, small changes in a complex system can cause large changes. 
+There are limits to change: willpower is finite and requires attention. But in complex systems, small changes can trigger large effects.
 
 > *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
 -- Socrates [-470]*
@@ -711,7 +699,7 @@ There are limits on change: willpower is finite and change requires attention. H
 ## On getting advantage
 
 <!--
-+ x@codie_sanchez - applying force vs removing obstacles. when you apply force you can identify obstacles.
++ x@codie_sanchez -- applying force vs removing obstacles. when you apply force you can identify obstacles.
 - Changing the subject. Hallmark of the loser
 - failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
 - What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
@@ -722,12 +710,26 @@ There are limits on change: willpower is finite and change requires attention. H
 > *"Never interrupt your enemy when he is making a mistake."  
 -- Napoleon Bonaparte [1769]*
 
-Strategy is about winning before the battle begins, tactics are about striking at weakness.
+Strategy wins before the battle begins; tactics exploit weakness during it.
 
-Leverage is a force multiplier. Leverage your target weaknesses to raise your chances of winning. Use methods like unpredictability, charming or mirroring. Even deceiving, some opponents may require special tools.
+Leverage is a force multiplier. Target your opponent’s weaknesses to raise your odds. Use unpredictability, charm, mirroring, or deception when needed.
+
+Hints:
+
+- If you control the overall direction and framing of the battle, anything they do will play into your hands.
+- Divide and conquer.
+- Beware of counter-attacking: audacious moves can create disguised problems, remedied by greater audacity.
+- Any change requires injecting more energy than the system extracts.
+- Once you step into a fight not of your choosing, you lose all initiative.
+- Drain opponent morale with unexpected defeat or strong defense.
+- Every strength has a complementary weakness.
+- Look for people when they are bluffing.
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
 -- Archimedes [-212]*
+
+> *"Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy."  
+-- Balthasar Gracian [1601]*
 
 > *"The most effective way to destroy people is to deny and obliterate their own understanding of their history."  
 -- George Orwell [1903]*
@@ -735,32 +737,6 @@ Leverage is a force multiplier. Leverage your target weaknesses to raise your ch
 > *"The most basic idea of strategy is the application of strength against weakness. Or if you prefer, strength applied to the most promising opportunity.
 A good strategy doesn’t just draw on existing strength; it creates strength. Rumelt’s definition of strategy as creating strength is particularly important. You don’t deplete yourself as you execute your strategy. You choose tactics that reinforce and build strength as they are deployed."  
 -- Richard Rumelt [1942]*
-
-> *"You are strong only where you were broken." (...)  
-"It’s hard to defeat a high-morale defender with an unlimited supply line." (...)  
-"Leverage converts knowledge into power." (...)  
-"Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
-Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
-Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
-An army of robots is freely available - it’s just packed in data centers for heat and space efficiency. Use it."  
--- Naval Ravikant [1974]*
-
-> *"Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage."  
--- x@paulskallas*
-
-Hints:
-
-- If you control the overall direction and framing of the battle, anything they do will play into your hands.
-- Divide and conquer.
-- Beware of counter-attacking: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.
-- Any change require injecting more energy than is extracted by the system.
-- Once you step into a fight that is not of your own choosing, you lose all initiative.
-- Drain opponent morale with unexpected defeat or unexpected strong defence.
-- Every strenght has a complementary weakness.
-- Look to people when they are bluffing.
-
-> *"Make others dependent on you: hope has a good memory, gratitude a bad one. More is to be got from dependence than from courtesy."  
--- Balthasar Gracian [1601]*
 
 > *"You can discover what your enemy fears most by observing the means he uses to frighten you."  
 -- Eric Hoffer [1902]*
@@ -770,6 +746,18 @@ Hints:
 
 > *"To bankrupt a fool, give him information."  
 -- Nassim Taleb [1960]*
+
+> *"You are strong only where you were broken." (...)  
+"It’s hard to defeat a high-morale defender with an unlimited supply line." (...)  
+"Leverage converts knowledge into power." (...)  
+"Fortunes require leverage. Business leverage comes from capital, people and products with no marginal cost of replication (code and media).
+Capital means money. To raise money, apply your specific knowledge, with accountability and show resulting good judgment. Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it. Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
+An army of robots is freely available — it’s just packed in data centers for heat and space efficiency. Use it."  
+-- Naval Ravikant [1974]*
+
+> *"Asymmetries reward those who see them first. They’re invisible rules that control your life. Most people never see them. But once you learn to spot these hidden imbalances, in your salary, your relationships, your career, you gain an unfair advantage."  
+-- x@paulskallas*
 
 > *"The most underrated super power in the world is simply asking for things."  
 -- x@realestatetrent*
@@ -790,11 +778,11 @@ Hints:
 
 Charm the enemy to find his weaknesses. Then exploit them.
 
-Hints:
+_Hints:_
 
-- People’s need for validation and recognition, is the best kind of weakness to exploit. To persuade up, focus on interests; to persuade down focus on emotions.
-- Use absence and bait to attract people. It will become a challenge for them to win your affections. The ability to make others come to you is a weapon far more powerful than any tool of aggression. use it with moderation.
-- Instead of killing it, charm the snake to fight the other ones. Listen actively and maintain rapport. First they have to trust you. Keep your word and prove your worth, the new guy has always to prove himself.
+- People’s need for validation and recognition is the easiest weakness to exploit. Persuade up with interests; persuade down with emotions.
+- Use absence and bait to draw people in. Make winning your affection a challenge. The power to make others come to you is stronger than aggression—use it sparingly.
+- Charm the snake to fight the other snakes. Listen actively, maintain rapport. Trust must come first. Keep your word, prove your worth—the newcomer always has to prove himself.
 
 > *"We catch more flies with honey than vinegar." (...)  
 "Abuse often starts with praise."  
@@ -856,19 +844,17 @@ Hints:
 > *"Appear weak when you are strong and strong when you are weak."  
 -- Sun Tzu [-544]*
 
-If we play by the rules too strictly, we are crushed by those around us who are not so foolish. Fair players on shady markets usually don’t do well on the short term.
+Deceiving is not lying. Lying is a nuclear bomb with long-lasting fallout.
 
-By seeming stronger than you are, perhaps through an occasional act that is reckless and bold, you can deter the enemy from attacking you. However deceiving is not lying. Lying is like a nuclear bomb, the effects will be there for a long time. Disappointment destroys trust.
+Appear weak when strong, strong when weak. If we play by the rules too strictly, we are crushed by those who aren’t foolish. Fair players on shady markets rarely thrive short-term.
 
 Hints:
 
-- It’s hard to cheat an honest opponent.
-- Don’t attribute to malice what you can attribute to incompetence or busyness. So never be mean to anybody that can hurt you by doing nothing.
-- The only time you enjoy hearing a lie is when you already know the truth.
-- The only thing worth praying is truth.
-- If you are in a subordinate position, unpredictability reduces trust.
-- Teach no one your tricks or they will be used against you.
-- There are 2 rules in life. Number one: never give out all the information.
+- Seem stronger via occasional reckless, bold acts to deter attacks.
+- It’s hard to cheat an honest opponent, disappointment destroys trust. In subordinate positions, unpredictability reduces trust also.
+- Don’t attribute to malice what can be explained by incompetence or busyness. Never be mean to anyone who can hurt you by doing nothing.
+- The only time you enjoy hearing a lie is when you already know the truth. The only thing worth praying for is truth.
+- Rule one in life: never give out all the information. It will be used against you.
 
 > *"A tiger wearing a bell will starve."  
 -- vox populi*
@@ -909,7 +895,7 @@ Hints:
 > *"Muddy water is best cleared by leaving it alone."  
 -- Alan Watts [1915]*
 
-> *"The first principle is that you must not fool yourself - and you are the easiest person to fool."  
+> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."  
 -- Richard Feynman [1918]*
 
 > *"Honesty is a very expensive gift, don’t expect it from cheap people."  
@@ -946,7 +932,9 @@ Hints:
 > *"Disarm and infuriate with the mirror effect."  
 -- Robert Greene [1959]*
 
-Reciprocation is the foundation on which we have evolved: our ancestors learned to share their food and their skills in an honored network of obligation. We feel obliged to repay favors we have received or to make a concession to someone who has made a concession to us.
+Reciprocation is the foundation of human evolution.
+
+Our ancestors survived by sharing food and skills in networks of mutual obligation. We feel compelled to repay favors, match concessions, and mirror behavior.
 
 > *"Being pacifist in face of wolves is the source of endless tragedy."  
 -- vox populi*
@@ -969,9 +957,7 @@ Reciprocation is the foundation on which we have evolved: our ancestors learned 
 > *"To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate."  
 -- Srdja Popovic [1973]*
 
-The only successful changes are those coming from within.
-
-Burocracy prevents low probability events to happen at the expense of making more systems that the other people must comply and that take happiness from them.
+The only successful changes come from within.
 
 > *"If you want to destroy any nation without war, make adultery or nudity common in the young generation."  
 -- Saladin [1137]*
@@ -1007,19 +993,17 @@ Burocracy prevents low probability events to happen at the expense of making mor
 
 ## On finishing
 
-> *"Everything will be ok in the end. If it’s not ok, it’s not the end."  
--- vox populi*
-
 > *"If you’re going to try, go all the way. Otherwise, don’t even start."  
 -- Charles Bukowski [1920]*
 
-Starting is fun but success belongs to finishers. Going halfway is a waste. Before you start something, figure out to finish it.
+Starting is fun, but success belongs to finishers.
 
-When the end finally comes, it comes quickly. Nothing ends poetically. It ends and we turn it into poetry. All that blood was never once beautiful. It was just red.
+Going halfway is a waste. Before starting anything, figure out how to finish it. When the end comes, it comes quickly.
 
 > *"Ultimately the only peace and security you can hope for from your enemies is their disappearance." (...)  
 "You finished ahead of time, that means you forgot something." (...)  
-"There are lots of overnight tragedies. There are rarely overnight miracles."  
+"There are lots of overnight tragedies. There are rarely overnight miracles." (...)  
+"Everything will be ok in the end. If it’s not ok, it’s not the end."  
 -- vox populi*
 
 > *"All cruelty springs from weakness."  
@@ -1039,10 +1023,7 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 -- Robert Greene [1959]*
 
 > *"Ends reveal themselves through means."  
--- x@incentivising* 
-
-> *"The quicker you want something, the easier you are to manipulate."  
--- x@farnamstreet*
+-- x@incentivising*
 
 ### On winning
 
@@ -1058,11 +1039,9 @@ When the end finally comes, it comes quickly. Nothing ends poetically. It ends a
 > *"Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat."  
 -- Balthasar Gracian [1601]*
 
-It’s not just about winning. The way you win sets you up for the next round. Winning is not the end of the road; it’s just a stop along the way.
+Giving yourself permission to lose guarantees a loss.
 
-Hints:
-
-- Giving yourself permission to lose, automatically guarantees a loss.
+It’s not just about winning, the way you win sets up the next round. Winning is a stop, not the end of the road.
 
 > *"A fool only wins the first game."  
 -- vox populi*
@@ -1125,9 +1104,9 @@ Hints:
 > *"It only hurts when you don’t have time to prepare for the fall."  
 -- Tony Hawk [1968]*
 
-Letting go allows progress. Let things happen instead of trying things to happen. Accept loss. Surrender conceals great power: lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge.
+Letting go allows progress.
 
-In order to come back you have to go away. Use this opportunity to re-create yourself. If you didn’t quit anything you would be still playing with toddlers. Every story has an end, but in life every end is just a new beginning. Surrendering to constant reinvention.
+Accept loss. Surrender conceals great power: lull the enemy into complacency, gain time to recoup, undermine, and seek revenge. To come back, you must first go away. Use surrender to re-create yourself. If you never quit anything, you’d still be playing with toddlers. Every story has an end, but in life every end is a new beginning. Surrender to constant reinvention.
 
 > *"Once the game is over, the king and the pawn go back in the same box." (...)  
 "They tried to bury us. They didn’t know we were seeds."  
@@ -1171,12 +1150,15 @@ In order to come back you have to go away. Use this opportunity to re-create you
 > *"The only way out of the labyrinth of suffering is to forgive."  
 -- John Green [1977]*
 
-Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison.
+Hatred is a curse that poisons the hater, not the hated.
 
-Forgiveness is a process of release so the opposite is a decision to hold onto something. By refusing to forgive someone, we get to cast ourselves as victims, as underdogs, as injured parties. Most important, we get to preserve our status in the conflict — usually, as the person who’s “right.” In reality, we only keep the suffering alive for ourselves. We are the ones we end up punishing.
+Forgiveness is release. Holding a grudge keeps us in the victim role, preserving our «rightness» while prolonging our suffering. We punish ourselves most. But forgiving too easily invites being taken for granted.
 
 > *"If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us."  
 -- Hermann Hesse [1877]*
+
+> *"I hate victims who respect their executioners."  
+-- Jean-Paul Sartre [1905]*
 
 > *"Life has become immeasurably better since I have been forced to stop taking it seriously."  
 -- Hunter S. Thompson [1937]*
@@ -1190,11 +1172,6 @@ Forgiveness is a process of release so the opposite is a decision to hold onto s
 > *"People find it far easier to forgive others for being wrong than being right."  
 -- J.K. Rowling [1965]*
 
-However people who forgive easily are taken for granted.
-
-> *"I hate victims who respect their executioners."  
--- Jean-Paul Sartre [1905]*
-
 > *"Once you had put the pieces back together, even though you may look intact, you were never quite the same as you’d been before the fall."  
 -- Jodi Picoult [1966]*
 
@@ -1203,7 +1180,7 @@ However people who forgive easily are taken for granted.
 > *"The axe forgets; the tree remembers."  
 -- vox populi*
 
-If you don’t reconcile you’re postponing war.
+If you don’t reconcile, you’re postponing war.
 
 > *"Before you embark on a journey of revenge, dig two graves."  
 -- Confucius [-551]*

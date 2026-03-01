@@ -3,6 +3,9 @@
 ## On autonomy
 
 <!--
+> *"The price of freedom is eternal vigilance." -- Thomas Jefferson [1743]
+> *"Liberty means responsibility. That is why most men dread it." -- George Bernard Shaw [1856]
+
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
 - Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
 - Don’t build your castle in other peoples kingdom’s.
@@ -15,14 +18,14 @@
 
 Your autonomy is your major legacy.
 
-Once you’re «bought», it’s hard to get out. While we all start out wanting more independence, we increasingly live lifestyles that make us dependent. The bank owns us. Work owns us.
+Once you’re «bought», it’s hard to escape. We all start wanting more independence, yet increasingly live dependent lifestyles. The bank owns us. Work owns us.
 
-Stop being codependent of others and start caring for yourself first. The money, love, and prosperity will follow. Energy and time are limited so every moment wasted on the affairs of others subtracts from your strength. Healthy people will respect your boundaries.
+Stop codependence on others and prioritize self-care first. Money, love, and prosperity follow. Energy and time are limited—every moment wasted on others subtracts from your strength. Healthy people respect boundaries.
 
 Hints:
 
-- Telling your truth is not selfish. What is more selfless? Making sure that you are taken care of so that you can take care of others or focusing all of your energy on others until you are burnt out, angry, and depressed? You can’t give what you do not have. The first step to truly serving others is to serve yourself. Take time for yourself, allow yourself to recharge and recuperate, invest into your growth and education. Then, and only then, will you be able to serve others to your fullest capacity.
-- Stand up for yourself, your friends, or your values, because at the end of the day it is better to live a shorter life where you face your fears. A boundary is knowing what you want and what you don’t want in a moment. E.g: «If I loved myself at a level 10 of 10, would I do this?»
+- Telling your truth isn’t selfish. What’s more selfless: ensuring you’re cared for so you can care for others, or draining yourself until burnt out, angry, and depressed? You can’t give what you lack. Serve yourself first—recharge, recuperate, invest in growth and education. Only then can you serve others fully.
+- Stand up for yourself, friends, or values. A shorter life facing fears beats one avoiding them. A boundary defines what you want (and don’t want) in the moment. Ask: «If I loved myself at level 10/10, would I do this?»
 
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu [-571]*
@@ -77,7 +80,7 @@ Hints:
 > *"When we see truth in a person we call it authenticity."  
 -- Naval Ravikant [1974]*
 
-Authenticity isn’t the presence of something, but the absence of everything that isn’t authentic.
+Authenticity isn’t the presence of something, but the absence of everything inauthentic.
 
 Hints:
 
@@ -98,7 +101,7 @@ Hints:
 > *"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."  
 -- Ralph Waldo Emerson [1803]*
 
-> *"The man to lies to himself can be more easily offended than any other."  
+> *"The man who lies to himself can be more easily offended than any other."  
 -- Fyodor Dostoyevsky [1821]*
 
 > *"It is better to be hated for what you are than to be loved for what you are not."  
@@ -124,7 +127,7 @@ Hints:
 "To be honest speak without identity."  
 -- Naval Ravikant [1974]*
 
-> *"Anything you loose by being real was fake."  
+> *"Anything you lose by being real was fake."  
 -- Kanye West [1977]* 
 
 ### On accountability
@@ -142,7 +145,7 @@ Hints:
 
 You are your word. Trust, not money, is the currency of business and life.
 
-Take responsibility. Only then you will cultivate respect for yourself and earn respect from others. Your choices have determined the body, bank account, and relationships that you have right now.
+Take responsibility. Only then will you cultivate self-respect and earn respect from others. Your choices have shaped the body, bank account, and relationships you have right now.
 
 > *"There is no greater fraud than the promise not kept."  
 -- vox populi*
@@ -221,8 +224,6 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 
 ## On effort
 
-### On agency
-
 <!--
 + x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
 + x@SpiritGenealogy -- Discipline is self love in motion.
@@ -233,30 +234,34 @@ Take responsibility. Only then you will cultivate respect for yourself and earn 
 - Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself.
 -->
 
-> *"The most difficult is the decision to act, the rest is just tenacity."  
--- Andrea Earhart [1897]*
+> *"The superior man is modest in his speech but exceeds in his actions."  
+-- Confucius [-551]*
 
 Blessed are the restless.
 
-Hints:
-
-- Without commitment, you’ll never start. Without consistency, you’ll never finish. Get your dopamine from action.
-- You don’t need 100 self-help books, all you need is action and self-discipline.
-- Help with a precise thing («I can drop a lasagna at 14:00.») instead of «I’m here for you». Helpful people don’t ask «how can I help». They just help.
-- «It’s on documentation. If it’s not add it.»
+Without commitment, you’ll never start. Without consistency, you’ll never finish. You don’t need 100 self-help books, all you need is agency and self-discipline.
 
 > *"The seed of all evil is laziness." (...)  
 "The longer the tongue, the shorter the hands."  
 -- vox populi* 
 
-> *"The superior man is modest in his speech but exceeds in his actions."  
--- Confucius [-551]*
+> *"Devote the rest of your life into making progress."  
+-- Epictetus [0050]*
+
+> *"I don’t have talent, so I just get up earlier."  
+-- Henry Rollins [1961]*
+
+### On agency
+
+> *"The most difficult is the decision to act, the rest is just tenacity."  
+-- Amelia Earhart [1897]*
+
+Get your dopamine from action.
+
+Offer precise help («I can drop a lasagna at 14:00») instead of vague offers («I’m here for you»). Helpful people don’t ask «How can I help?»—they just help.
 
 > *"If not you, who? If not now, when?"  
 -- Hillel the Elder [-110]*
-
-> *"The possibilities are numerous once we decide to act and not react."  
--- George Bernard Shaw [1856]*
 
 > *"As a grown man you should know better than to go around advising people."  
 -- Bertolt Brecht [1898]*
@@ -274,9 +279,6 @@ Hints:
 > *"You miss 100% of the shots you don’t take."  
 -- Wayne Gretzky [1961]*
 
-> *"I don’t have talent, so I just get up earlier."  
--- Henry Rollins [1961]*
-
 > *"Doing is faster than watching." (...)  
 "Impatience with actions, patience with results." (...)  
 "Inspiration is perishable. Act on it immediately."  
@@ -290,25 +292,26 @@ Hints:
 
 ### On discipline
 
+<!--
+"Discipline is the bridge between goals and accomplishment." -- Jim Rohn 1930]
+-->
+
 > *"The distance between dreams and reality is called discipline."  
 -- Paulo Coelho [1947]*
 
 Everyone is motivated until the 5AM alarm, then it’s discipline. Consistency is boring to watch but impossible to compete with.
 
-Often our productivity struggles are caused not by a lack of efficiency, but a lack of motivation. Most people keep telling themselves old stories that aren’t serving them. Lazyness is resting before getting tired.
+Often our productivity struggles stem not from lack of efficiency, but from lack of motivation. Most people cling to old stories that no longer serve them. Laziness is resting before getting tired.
 
 > *"Gold, when beaten, shines." (...)  
 "If there’s no wind, row." (...)  
 "Work is the medicine for poverty."  
 -- vox populi*
 
-> *"Devote the rest of your life into making progress."  
--- Epictetus [0050]*
-
 > *"Desires makes slaves out of kings, and patience makes kings out of slaves."  
 -- (imam) Al-Ghazali [1058]*
 
-> *"Our patiente will achieve more than our force."  
+> *"Our patience will achieve more than our force."  
 -- Edmund Burke [1729]*
 
 > *"Discipline is choosing between what you want now and what you want most."  
@@ -318,7 +321,7 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 -- Mark Twain [1835]*
 
 > *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons." (...)  
-> *"Motivation is what gets you started. Habit is what keeps you going."  
+"Motivation is what gets you started. Habit is what keeps you going."  
 -- Jim Rohn [1930]*
 
 > *"I don’t count my sit-ups. I only start counting once it starts hurting."  
@@ -344,6 +347,9 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 ### On humility
 
 <!--
+#q["Humility is not thinking less of yourself, but thinking of yourself less." -- C.S. Lewis 1898]
+#q["Pride makes us artificial and humility makes us real."  -- Thomas Merton 1915]
+
 - I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things — If I don’t respect him, I’ll disrespect him. Nothing in between..
 - Never joke with your sources of income.
 -->
@@ -351,9 +357,9 @@ Often our productivity struggles are caused not by a lack of efficiency, but a l
 > *"Humility is mostly about being very honest about how much you owe to luck."  
 -- Kevin Kelly [1952]*
 
-You might think you want a fancy car or a nice watch but what you probably want is respect and admiration from your peers.
+You might think you want a fancy car or a nice watch, but what you really want is respect and admiration from your peers.
 
-Ego is the unhealthy belief in our own importance. You are not perfect, and you’ll never be. Success means nothing in life; it’s forgotten in one generation, two at best. On the other hand, your emotional health lives on for hundreds of generations in the lives of everyone you touch and their descendants.
+Ego is the unhealthy belief in our own importance. You are not perfect, and you never will be. Success means nothing in life—it’s forgotten in one generation, two at best. Your emotional health, however, lives on for hundreds of generations in the lives of everyone you touch and their descendants.
 
 One way to humble yourself is to place yourself in the position of being the weakest person in something during the day.
 
@@ -365,6 +371,9 @@ One way to humble yourself is to place yourself in the position of being the wea
 
 > *"I have never met a man so ignorant that I couldn’t learn anything from him."  
 -- Galileo Galilei [1564]*
+
+> *"Books serve to show a man that those original thoughts of his aren’t very new after all."  
+-- Abraham Lincoln [1809]*
 
 > *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
 -- Ernest Hemingway [1899]*
@@ -382,29 +391,33 @@ One way to humble yourself is to place yourself in the position of being the wea
 > *"Virtue signaling is popular because it lets anyone, regardless of objective merit, go on an ego trip."  
 -- Naval Ravikant [1974]*
 
-> *"Never look down on a man working to level himself up."  
--- x@stirlingwisdom*
+> *"You learn more from other people if you pretend you know less than them."  
+-- x@alexhormozi*
 
 > *"This generation has no loyalty, it’s just built on attention."  
 -- x@iamaaronwill*
 
-> *"The highest form of humility is being teachable."  
--- x@rapahelz*
-
-> *"You learn more from other people if you pretend you know less than them."  
--- x@alexhormozi*
-
 > *"Empathy without boundaries is self destruction."  
 -- x@khoucasian*
 
+> *"The highest form of humility is being teachable."  
+-- x@rapahelz*
+
+> *"Never look down on a man working to level himself up."  
+-- x@stirlingwisdom*
+
 ### On gratitude
+
+<!--
+#q["Gratitude turns what we have into enough." -- Anonymous]
+-->
 
 > *"Gratitude is not only the greatest of virtues, but the parent of all the others."  
 -- Cicero [-106]*
 
-You opened two gifts this morning: your eyes. 
+You opened two gifts this morning: your eyes.
 
-Play the cards you are dealt. And sometimes you will be dealt bad cards. Being grateful is looking up. Don’t forget that a group of people blazed the trail you’re enjoying, and another group continues to maintain it.
+Play the cards you are dealt. And sometimes you’ll draw bad ones. Gratitude is looking up. Don’t forget: a group of people blazed the trail you enjoy, and another group maintains it.
 
 > *"The day a blind man sees, the first thing he throws away is the stick that has helped him all his life." (...)  
 "The blind can’t see. The proud will not."  
@@ -452,6 +465,9 @@ How to apologise? Quickly, specifically, sincerely.
 
 > *"That which we are capable of feeling, we are capable of saying."  
 -- Miguel de Cervantes [1547]*
+
+> *"Right actions in the future are the best apologies for bad actions in the past."  
+-- Tryon Edwards [1809]*
 
 > *"Apology under pressure is not an apology."  
 -- Nassim Taleb [1960]*

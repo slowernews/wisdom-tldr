@@ -71,7 +71,7 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 > *"For the friends: everything. For the others: the law."  
 -- Niccoló Machiavelli {paraphrased} [1469]*
 
-Pretending that simple things are complicated and that complicated things are simple is the bread and butter of politics.
+Pretending simple things are complicated — and complicated things simple — is the bread and butter of politics.
 
 > *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
 -- Confucius [-551]*
@@ -106,9 +106,6 @@ Pretending that simple things are complicated and that complicated things are si
 "Nation-states like war; city-states like commerce; families like stability; and individuals like entertainment."  
 -- Nassim Taleb [1960]*
 
-> *"A constitution is an algorithm for running a country."  
--- Pedro Domingos [1965]*
-
 > *"The state does not create wealth, the state destroys it. The state can give you nothing, because it produces nothing." (...)  
 "When the state calls you a taxpayer is equivalent to a rapist calling his victim his girlfriend." (...)  
 "When you spend your money on yourself, you do it wisely. When you spend your money on others, you minimize cost. When you spend others’ money on yourself, there is waste. The worst is spending others’ money on others. That’s why the state is never efficient." (...)  
@@ -126,6 +123,9 @@ Pretending that simple things are complicated and that complicated things are si
 > *"Ideologues often become so captivated by an abstract ideal of humanity that they cease to care about actual humans."  
 -- x@g_s_bhogal*
 
+> *"A constitution is an algorithm for running a country."  
+-- x@pmddomingos*
+
 > *"Be wary of any word that ends with «ism». More often than not, "ism" at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  
 -- x@rapahelz*
 
@@ -134,15 +134,15 @@ Pretending that simple things are complicated and that complicated things are si
 > *"90% of the politicians give the other 10% a bad reputation."  
 -- Henry Kissinger [1923]*
 
-Politicians hate risk. Decisions are made on the lowest risk of offending people, specially their voters.
+Politicians hate risk. Decisions are made on the lowest risk of offending people — especially their voters.
 
 Hints:
 
 - Politicians don’t get educated, they get bought.
-- The opposite of corruption is patriotism. To reduce corruption diminish people involved on analogic processes.
+- The opposite of corruption is patriotism. To reduce corruption, diminish people involved in analog processes.
 - Taxes are a membership fee that most of us are voluntarily overpaying.
 - Inequality is a problem. Equality is not the solution. That’s the dilemma.
-- Changes from within are more sustainable than revolutions. We don’t need great individuals, we need institutions that work.
+- Changes from within are more sustainable than revolutions. We don’t need great individuals; we need institutions that work.
 - Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.
 - The moment you cross a second border, you are an economic migrant, not a refugee.
 - Multicultural is by absurdum the true monocultural.
@@ -164,14 +164,14 @@ Hints:
 > *"All governments suffer a recurring problem: power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible."  
 -- Frank Herbert [1920]*
 
-> *"Ideologues pose as misinformation experts like malware poses as security updates. It works."  
--- Pedro Domingos [1965]*
-
 > *"Anyone who claims that their political party does no wrong and the other party does no right is either a liar, a fool or both."  
 -- Elon Musk [1971]*
 
 > *"If friends spoke to us like politicians and actors, reading aloud scripts written by others, we wouldn’t take them seriously as individuals."  
 -- Naval Ravikant [1974]*
+
+> *"Ideologues pose as misinformation experts like malware poses as security updates. It works."  
+-- x@pmddomingos*
 
 > *"People who believe politicians care about them are the same people who think OnlyFans girls care about them." (...)  
 "Voting is the adult version of writing a letter to Santa Claus."  
@@ -183,6 +183,8 @@ Hints:
 -- Morton Halperin [1934]*
 
 When a politician says «threat to our democracy», they really mean threat to their corrupt bureaucracy.
+
+Bureaucracy blocks low-probability events at the cost of imposing more compliance systems that drain happiness from people.
 
 > *"It is much more important to kill bad bills, than to pass good ones."  
 -- Calvin Coolidge [1872]*
@@ -256,6 +258,12 @@ The real diversity is the diversity of ideas, not skin color.
 > *"A democracy cannot exist as a permanent form of government. It can only exist until the people discover they can vote themselves largess out of the public treasury. From that moment on, the majority always votes for the candidate promising the most benefits from the public treasury, with the result that democracy always collapses over a loose fiscal policy — to be followed by a dictatorship."  
 -- Alexander Fraser Tytler [1747]*
 
+> *"The best argument against democracy is a five-minute conversation with the average voter."  
+-- Winston Churchill [1874]*
+
+> *"Democracy is the theory that the common people know what they want, and deserve to get it good and hard."  
+-- H.L. Mencken [1880]*
+
 > *"Democracy has got nothing to do with who should rule. Democracy is the system which allows you to remove policies and rulers most efficently without violence. and that’s how you judge different democratic systems."  
 -- Karl Popper [1902]*
 
@@ -278,9 +286,10 @@ The real diversity is the diversity of ideas, not skin color.
 > *"I never believed that man’s freedom consisted in doing what he wants, but rather in never doing what he does not want to do."  
 -- Jean-Jacques Rousseau [1712]*
 
-Freedom without property is an ilusion. 
+Freedom without property is an ilusion.
 
-> *"The Tree of Liberty must, from time to time, be watered with the blood of patriots."  
+> *"The Tree of Liberty must, from time to time, be watered with the blood of patriots." (...)  
+"The price of freedom is eternal vigilance."  
 -- Thomas Jefferson [1743]*
 
 > *"People demand freedom of speech as a compensation for the freedom of thought which they seldom use."  
@@ -288,6 +297,9 @@ Freedom without property is an ilusion.
 
 > *"The best way to keep a prisoner from escaping is to make sure he never knows he’s in prison."  
 -- Fyodor Dostoyevsky [1821]*
+
+> *"Freedom is never more than one generation away from extinction."  
+-- Ronald Reagan [1911]*
 
 > *"The clash of ideas is the sound of freedom."  
 -- Lady Bird Johnson [1912]*
@@ -310,15 +322,24 @@ Freedom without property is an ilusion.
 > *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
 -- Salman Rushdie [1947]*
 
-> *"The ultimate woke perversity is the claim that free speech is a tool of oppression."  
--- Pedro Domingos [1965]*
-
 > *"The more neatly you fit into society, the less free you actually are." (...)  
 "They want to punish you for your words because they can’t punish you for your thoughts." (...)  
 "Free people make free choices. Free choices mean you have unequal outcomes. You can have freedom or you can have equal outcomes. You can’t have both."  
 -- Naval Ravikant [1974]*
 
+> *"The ultimate woke perversity is the claim that free speech is a tool of oppression."  
+-- x@pmddomingos*
+
 ### On justice, law and tolerance
+
+<!--
+#q["Injustice anywhere is a threat to justice everywhere." -- Martin Luther King Jr. [1929]
+-->
+
+> *"Justice will not be served until those who are unaffected are as outraged as those who are."  
+-- Benjamin Franklin [1706]*
+
+Justice without enforcement is just opinion.
 
 > *"To be wealthy and honored in an unjust society is a disgrace."  
 -- Confucius [-551]*
@@ -331,9 +352,6 @@ Freedom without property is an ilusion.
 
 > *"The more corrupt the state, the more numerous the laws."  
 -- Tacitus [0056]*
-
-> *"Justice will not be served until those who are unaffected are as outraged as those who are."  
--- Benjamin Franklin [1706]*
 
 > *"Nature has given women so much power that the law has very wisely given them little."  
 -- Samuel Johnson [1709]*
@@ -393,7 +411,7 @@ Freedom without property is an ilusion.
 
 Communism isn’t evil, it’s foolish.
 
-Wokeness is the belief that every disparity is rooted in discrimination. A worldview that believes that all interactions are about power. There is only one conflict in the world, and it is the powerful against the powerless, where the powerful are trying to preserve their power .
+Wokeness is the belief that every disparity is rooted in discrimination. It views all interactions as power struggles: the powerful vs. the powerless, with the powerful always trying to preserve their dominance.
 
 > *"The worst form of inequality is to try to make unequal things equal."  
 -- Aristotle [-384]*
@@ -422,9 +440,6 @@ Wokeness is the belief that every disparity is rooted in discrimination. A world
 > *"I don’t want a Black History Month. Black history is American history. How are we going to get rid of racism? Stop talking about it!"  
 -- Morgan Freeman [1937]*
 
-> *"Until we have a vaccine against wokeism, social distancing is the best solution."  
--- Pedro Domingos [1965]*
-
 > *"The axiomatic error undermining much of Western Civilization is «weak makes right». If someone accepts, explicitly or implicitly, that the oppressed are always the good guys, then the natural conclusion is that the strong are the bad guys."  
 -- Elon Musk [1971]*
 
@@ -440,6 +455,9 @@ Wokeness is the belief that every disparity is rooted in discrimination. A world
 > *"The reason only leftists commit acts of terrorism and tear things down is simple: destruction is easy, building is hard. if they could build anything worth something, they wouldn’t be leftists in the first place. leftism is the ideology of those who failed at creation, resentment turned into politics. they despise excellence and beauty because they can’t achieve it, so they sabotage what others create. no one able to build something stays leftist for long, success cures that delusion fast."  
 -- x@iterintellectus*
 
+> *"Until we have a vaccine against wokeism, social distancing is the best solution."  
+-- x@pmddomingos*
+
 > *"Notice they say «eat the rich» instead of «feed the poor»."  
 -- x@zubymusic*
 
@@ -450,11 +468,11 @@ Wokeness is the belief that every disparity is rooted in discrimination. A world
 
 Rigid regimes are doomed when they become flexible. The revolutionaries always become the new dictators.
 
-> *"The essence of American capitalism is to allow the rapid emergence of new companies, the essence of European capitalism is to do everything so that old companies do not die."  
--- Léon Blum (1932)*
+> *"The strongest nations are those that best adapt to change."  
+-- Charles Darwin [1809]*
 
-> *"America innovates, China replicates, Europe regulates."  
--- Pedro Domingos [1965]*
+> *"The essence of American capitalism is to allow the rapid emergence of new companies, the essence of European capitalism is to do everything so that old companies do not die."  
+-- Léon Blum [1872]*
 
 > *"The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states." (...)  
 "The end state of all vehicles is autonomous. The end state of all military hardware is drones." (...)  
@@ -463,10 +481,12 @@ Rigid regimes are doomed when they become flexible. The revolutionaries always b
 "Mass drone manufacturing capability is the new nuclear weapon." (...)  
 "Any country that can’t manufacture its own drones will be a vassal state." (...)  
 "The distant future is small free cities with drone armies and skill-based immigration policies, surrounded by a sea of failed socialist states." (...)  
-"Vote to protect the American dream of equal opportunity, not a Marxist fantasy of equal outcome." (...)  
 "America is forged by immigrants and descendants of immigrants. Self-selecting for the American Dream. Choosing freedom over safety, opportunity over handouts, prosperity over equality" (...)  
 "Local environmentalism is real. Global environmentalism is performative."  
 -- Naval Ravikant [1974]*
+
+> *"America innovates, China replicates, Europe regulates."  
+-- x@pmddomingos*
 
 ### On media
 
@@ -483,7 +503,7 @@ Rigid regimes are doomed when they become flexible. The revolutionaries always b
 
 Privacy is power. What people don’t know they can’t ruin.
 
-News are the first draft of History but he human brain was not designed to process all of the world’s emergencies in realtime. Journalism is now activism. It’s the only way to get eyeballs. Media companies harvest your attention and transform it into revenue. 
+News is the first draft of history, but the human brain isn’t designed to process every global emergency in real time. Modern journalism is activism, it’s the only way to capture eyeballs. Media companies harvest attention and convert it into revenue.
 
 > *"Your job is to get your audience to care about your obsessions."  
 -- Martin Scorsese [1942]*
@@ -496,6 +516,10 @@ News are the first draft of History but he human brain was not designed to proce
 "All new information starts as misinformation." (...)  
 "If you’re writing for your followers, your followers are worthless."  
 -- Naval Ravikant [1974]*
+
+> *"Twenty years ago, the Internet was an escape from the real world. Today, the real world is an escape from the Internet.
+"  
+-- x@noahpinion*
 
 > *"The hallmark of modern society is the theft of attention. Modern society is overcrowded with thieves of attention." (...)  
 "Social media holds up a magnifying mirror to our emotions. AI holds up a magnifying mirror to our intellectual abilities."  
@@ -521,9 +545,9 @@ News are the first draft of History but he human brain was not designed to proce
 > *"Mimicking the herd, invites regression to the mean."  
 -- Charlie Munger [1924]*
 
-Society is run by peer pressure, not intelligence. Most people are other people. People accept the defaults very easily. Our thoughts are someone else opinions and we jump to conclusions. Our insecurities drive us to excess and overcompensation.
+Society is run by peer pressure, not intelligence.
 
-We are, at heart, animals and we are easily manipulated, especially in groups. Groups of people behave differently than individuals. The larger the crowd, the less responsibility people have for their behaviour. This effect is known as mob behaviour.
+Most people are other people, their thoughts are someone else’s opinions, and they jump to conclusions. Our insecurities drive excess and overcompensation. We are animals at heart, easily manipulated, especially in groups. The larger the crowd, the less individual responsibility for behavior — this is mob behavior.
 
 > *"Gold rushes make the shovel sellers rich, not the gold seekers." (...)  
 "One cow breaks the fence and a dozen leap it."  
@@ -623,9 +647,9 @@ We are, at heart, animals and we are easily manipulated, especially in groups. G
 > *"Stupidity is overlooking or dismissing crucial information."  
 -- Adam Robinson [1955]*
 
-Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable. It’s easier to recognise stupidity in others than ourselves but don’t take for granted that others are acting stupid. Common sense is not so common.
+Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
 
-Most people don’t actually think, they just take their first thought and go. There are no smart people or stupid people, just people being smart or being stupid. Being smart means thinking things through trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to a conclusion is like quitting a game: you lose by default. That’s why saying «I don’t know» is usually smart, because it’s refusing to jump to a conclusion. So when someone says «They are so stupid!», it means they’ve stopped thinking.
+We spot it faster in others than ourselves, but don’t assume others are stupid. Common sense is rare. Most people don’t think, they grab their first thought and run. There are no fixed smart or stupid people, only moments of smart or stupid behavior. Smart is thinking through to the real answer. Stupid is jumping to conclusions to avoid thinking. Saying «I don’t know» is usually smart — it refuses to quit the game early. When someone calls others «stupid», they’ve stopped thinking.
 
 > *"When a clown moves into a palace, he doesn’t become a king. The palace becomes a circus."  
 -- vox populi*
@@ -686,20 +710,12 @@ Most people don’t actually think, they just take their first thought and go. T
 
 ### How to judge someone?
 
-<!--
-- my perception of you is a reflection of me
--->
-
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire [1694]*
 
-We judge ourselves by our thoughts but society judges us by what we can do for them.
+We judge ourselves by our thoughts, but society judges us by what we can do for them.
 
-Hints:
-
-- When you don’t create things, you become defined by your tastes rather than ability.
-- Every word someone says is the tip of the iceberg. Underneath that word are thoughts, fears, emotions. Underneath those emotions is history and experiences. A single word is the final outcome of all of that history.
-- Judge people on their habits.
+Judge people by their habits, not words. Watch how they treat those who can’t help them, how they handle power, and who they surround themselves with. Character shows in private moments, play, and adversity, not public performance.
 
 > *"A drunk man’s words, are a sober man’s thoughts." (...)  
 "When the character of a man is not clear to you, look at his friends."  
@@ -782,7 +798,7 @@ Hints:
 > *"If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy."  
 -- Robert A. Heinlein [1907]*
 
-Most people approach each and every year in the exact same way while expecting drastically different results.
+Most people repeat the same year expecting different results.
 
 > *"The forest was shrinking, but the trees kept voting for the axe, for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them."  
 -- vox populi*
@@ -872,7 +888,9 @@ Most people approach each and every year in the exact same way while expecting d
 > *"Only the truth is funny."  
 -- Rick Reynolds [1951]*
 
-Comedians are the modern day philosophers. They observe the hidden life truths that everyone knows but nobody has ever quite articulated. The truer the things they say, the funnier they are. 
+Comedians are modern philosophers.
+
+They observe hidden life truths everyone knows but nobody articulates. The truer the observation, the funnier it lands.
 
 > *"The world is a tragedy to those who feel, but a comedy to those who think."  
 -- Horace Walpole [1717]*
@@ -880,11 +898,11 @@ Comedians are the modern day philosophers. They observe the hidden life truths t
 > *"The only intelligent tactical response to life’s horror is to laugh defiantly at it."  
 -- Soren Kierkegaard [1813]*
 
+> *"Humor is tragedy plus time."  
+-- Mark Twain [1835]*
+
 > *"«If I was your wife I would poison your coffee». «If I was your husband I would drink it.»"  
 -- Winston Churchill [1874]*
-
-> *"A serious and good philosophical work could be written consisting entirely of jokes."  
--- Ludwig Wittgenstein [1889]*
 
 > *"Humorists always sit at the children’s table."  
 -- Woody Allen [1935]*
@@ -909,6 +927,10 @@ Philosophy improves your intellectual rigor.
 > *"Science is what you know. Philosophy is what you don’t know."  
 -- Bertrand Russell [1872]*
 
+> *"A serious and good philosophical work could be written consisting entirely of jokes." (...)  
+"Philosophy is a battle against the bewitchment of our intelligence by means of language."  
+-- Ludwig Wittgenstein [1889]*
+
 > *"A kiss can destroy a philosophy."  
 -- Anaïs Nin [1903]*
 
@@ -920,9 +942,6 @@ Philosophy improves your intellectual rigor.
 
 > *"The price of success in philosophy is triviality."  
 -- Clark Glymour [1942]*
-
-> *"Philosophy is the memoir of a fully-lived life."  
--- Naval Ravikant [1974]*
 
 > *"Questions are the fuel of thought. Answers are the fuel of beliefs."  
 -- x@rapahelz*
@@ -937,9 +956,9 @@ Philosophy improves your intellectual rigor.
 > *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
 -- Nassim Taleb [1960]*
 
-And on the first day, men created god.
+And on the first day, men created God.
 
-Against facts there are no arguments. Against faith there are no facts. Religion simplify ideas.
+Against facts there are no arguments. Against faith there are no facts. Religion simplifies ideas.
 
 > *"Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful."  
 -- Seneca [-004]*
@@ -978,9 +997,6 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 "Those who think religion is about belief don’t understand religion, and don’t understand belief."  
 -- Nassim Taleb [1960]*
 
-> *"Science discovers. Religion adjusts."  
--- Pedro Domingos [1965]*
-
 > *"Believe in the religion that has no name." (...)  
 "Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner." (...)  
 "The largest religion on the planet is Marxism, and it isn’t even close." (...)  
@@ -988,7 +1004,15 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 "Two kinds of fools — those who take religion literally, and those who think it has no value."  
 -- Naval Ravikant [1974]*
 
+> *"Science discovers. Religion adjusts."  
+-- x@pmddomingos*
+
 ### On morality
+
+> *"Compassion is the basis of morality."  
+-- Arthur Schopenhauer [1788]*
+
+Morality is drawing a line someplace.
 
 > *"The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality."  
 -- Dante Alighieri [1265]*
@@ -1001,9 +1025,6 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 
 > *"The teachers of morality speak like angels, but live like men."  
 -- Samuel Johnson [1709]*
-
-> *"Compassion is the basis of morality."  
--- Arthur Schopenhauer [1788]*
 
 > *"If you kill a cockroach you are a hero, if you kill a butterfly you are bad. Morality has aesthetics standards." (...)  
 "There’s an old illusion. It’s called Good and Evil."  
@@ -1058,12 +1079,10 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 ## On science
 
 <!--
-- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition. enlightment was a revolution in how people sought knowledge: by trying not to rely on authorithy.
-- wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
+- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition. enlightment was a revolution in how people sought knowledge: by trying not to rely on authorithy. wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
 - look at ideas individually not at the ism
-- making something social destroys truth of it because social groups need consensus to survive — otherwise they fight and can’t get along — and consensus is all about truth seeking.
+- making something social destroys truth of it because social groups need consensus to survive — otherwise they fight and can’t get along — and consensus is all about truth seeking. social sciences need to appeal to society for funding so they are politically motivated.
 - Money is a shared belief. So is a border. So are bitcoins. The list goes on.
-- social sciences need to appeal to society for funding so they are politically motivated.
 -->
 
 > *"The whole of science is nothing more than a refinement of everyday thinking." (...)  
@@ -1101,18 +1120,15 @@ Hints:
 > *"Scientific discovery consists in seeing what everyone else has seen and thinking what no one else has thought."  
 -- Albert Szent-Gyorgyi [1893]*
 
-> *  "Progress in science comes when experiments contradict theory." (...)  
+> *"Progress in science comes when experiments contradict theory." (...)  
 "We must be careful not to believe things simply because we want them to be true. No one can fool you as easily as you can fool yourself." (...)  
 "You should, in science, believe logic and arguments, carefully drawn, and not authorities." (...)  
-"The imagination of nature is far, far greater than the imagination of man."  
+"The imagination of nature is far, far greater than the imagination of man." (...)  
+"Science is the belief in the ignorance of experts."  
 -- Richard Feynman [1918]*
 
 > *"The most exciting phrase to hear in science is not «Eureka!» but «That’s funny...»"  
 -- Isaac Asimov [1920]*
-
-> *"Gravity is the speed of time." (...)  
-"The job of a scientist is to listen carefully to nature, not to tell nature how to behave."  
--- Pedro Domingos [1965]*
 
 > *"What is research but a blind date with knowledge?"  
 -- Will Harvey [1966]*
@@ -1121,6 +1137,10 @@ Hints:
 "Science requires skepticism. Religion requires belief." (...)  
 "Scientists who support silencing opposing voices are actually priests."  
 -- Naval Ravikant [1974]*
+
+> *"Gravity is the speed of time." (...)  
+"The job of a scientist is to listen carefully to nature, not to tell nature how to behave."  
+-- x@pmddomingos*
 
 
 
@@ -1147,12 +1167,17 @@ alan perlis -- 21. Optimization hinders evolution.
 alan perlis -- 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 alan perlis -- 105. You can’t communicate complexity, only an awareness of it.
 alan perlis -- 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+
++ x@yacineMTB -- LLMs turn 10x engineers into 1000x engineers, and 1x engineers into 0.1x engineers
++ x@pmddomingos -- The smarter your AI is, the less data it needs. Needing huge training sets is a sign of stupidity.
 -->
 
 > *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  
 -- Ellen Ullman [1949]*
 
-We’ve grown dependent on three simple features that just aren’t available in the analog world: search, sort and filter.
+We’ve grown dependent on three simple features that aren’t available in the analog world: search, sort and filter.
+
+Being relevant in the LLM age is hard. What’s left for humans? The physical world and feeding real-time news into it. LLMs are connection machines, an autocorrect on steroids. They offer paraphrases; search engines offer quotes. LLMs are blurry JPEGs of the web.
 
 > *"As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality."  
 -- Albert Einstein [1879]*
@@ -1178,23 +1203,8 @@ We’ve grown dependent on three simple features that just aren’t available in
 > *"Real mathematicians understand completeness, real philosophers understand incompleteness, the rest don’t formally understand anything."  
 -- Nassim Taleb [1960]*
 
-### On AI
-
-<!--
-+ x@yacineMTB -- LLMs turn 10x engineers into 1000x engineers, and 1x engineers into 0.1x engineers
-+ x@pmddomingos -- The smarter your AI is, the less data it needs. Needing huge training sets is a sign of stupidity.
--->
-
 > *"With large language models we have externalized and formalized our unconscious — even our collective unconscious."  
 -- Jordan Peterson [1962]*
-
-Being relevant in the age of LLMs is really hard. What’s left for humans? The physical world and providing news to it.
-
-LLMs are essentially connection machines trained to find the linkages between concepts. An autocorrect system on steroids. LLMs offers paraphrases, whereas search engines offer quotes. LLMs are blurry jpegs of the web.
-
-> *"AI is intelligence acceleration." (...)  
-"Sleeping on a plane is the closest there is to teleportation."  
--- Pedro Domingos [1965]*
 
 > *"We’re already cyborgs. Your phone and your computer are extensions of you, but the interface is through finger movements or speech, which are very slow."  
 -- Elon Musk [1971]*
@@ -1206,25 +1216,25 @@ LLMs are essentially connection machines trained to find the linkages between co
 > *"Humans raise the ceiling, AI raises the floor"  
 -- Sahil Lavingia [1989]*
 
-> *"Twenty years ago, the Internet was an escape from the real world. Today, the real world is an escape from the Internet.
-"  
--- x@noahpinion*
+> *"Humans doing the hard jobs on minimum wage while the robots write poetry and paint is not the future I wanted."  
+-- x@karlremarks*
 
 > *"Humans are an API to ChatGPT. ChatGPT is an API to Python. Python is an API to C. C is an API to assembly. Assembly is an API to binary. Binary is an API to physics. Physics is an API to the machine that runs the universe. It’s computation all the way down."  
 -- x@lexfridman*
 
-> *"Humans doing the hard jobs on minimum wage while the robots write poetry and paint is not the future I wanted."  
--- x@karlremarks*
+> *"AI doesn’t replace intelligence. It replaces effort."  
+-- x@mozarrinsadaf*
 
-> *"Scarier the AI the higher the valuations."  
--- x@samoburja*
+> *"AI is intelligence acceleration." (...)  
+"Sleeping on a plane is the closest there is to teleportation."  
+-- x@pmddomingos*
 
 > *"Ultimately, we will end up with an AI that is omnipresent, omniscient, and omnipotent. Maybe we have to admit that we are in the process of building some sort of god." (...)  
 "The three epochs of the Internet use: 1. Sort knowledge (e.g. Yahoo). 2. Search knowledge (e.g. Google). 3. Synthesize knowledge (e.g. ChatGPT)"  
 -- x@rapahelz*
 
-> *"AI doesn’t replace intelligence. It replaces effort."  
--- x@mozarrinsadaf*
+> *"Scarier the AI the higher the valuations."  
+-- x@samoburja*
 
 
 
@@ -1308,7 +1318,9 @@ Art is just another form of screaming, it should confort the disturbed and distu
 > *"An artist is someone who has learned to trust in himself."  
 -- Ludwig van Beethoven [1770]*
 
-Most people with good taste are young and poor. Creators don’t separate from their work, because they are their work. Artistic death is made by consensus.
+Artistic death is made by consensus.
+
+Most people with good taste are young and poor. Creators don’t separate from their work, they are their work.
 
 > *"An artist is not paid by his work but by his vision."  
 -- James McNeill Whistler [1834]*
@@ -1351,7 +1363,9 @@ Most people with good taste are young and poor. Creators don’t separate from t
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
 -- Antoine de Saint Exupery [1900]*
 
-The more «art» you allow in, the less commercial success you’ll have. People don’t want «art» they want entertainment. 
+People don’t want «art», they want entertainment.
+
+The more «art» you allow in, the less commercial success you’ll have.
 
 > *"There is no exquisite beauty without some strangeness in the proportion."  
 -- Edgar Allan Poe [1809]*
@@ -1376,7 +1390,7 @@ The more «art» you allow in, the less commercial success you’ll have. People
 
 ### On design
 
-> *"Ten principles for good design: good design is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to teh last detail; is environmental friendly; is as little design as possible."  
+> *"Ten principles for good design: good design is innovative; makes a product useful; is aesthetic; makes a product understandable; is unobtrusive; is honest; is long-lasting; is thorough, down to the last detail; is environmental friendly; is as little design as possible."  
 -- Dieter Rams [1932]*
 
-Art is a meditation and design is a negotiation.
+Art is a meditation; design is a negotiation.

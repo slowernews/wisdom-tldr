@@ -5,7 +5,7 @@
 > *"Knowledge speaks, but wisdom listens."  
 -- Jimi Hendrix [1942]*
 
-Speak less and listen more. Talk slow. Be clear. Never mumble. Don’t interrupt. If you can’t be kind, be quiet. The quieter you become, the more you can hear.
+Speak less and listen more. Talk slowly. Be clear. Never mumble. Don’t interrupt. If you can’t be kind, be quiet. The quieter you become, the more you can hear.
 
 > *"A silent man is the best one to listen to." (...)  
 "Say a little and say it well." (...)  
@@ -41,15 +41,15 @@ Speak less and listen more. Talk slow. Be clear. Never mumble. Don’t interrupt
 
 Be interested to be interesting.
 
-Don’t debate at all, just listen. The point of a conversation is not to win. You don’t need to have an opinion about everything. Get fewer opinions about way fewer things and then interrogate your stronger opinions.
+Don’t debate, just listen. Conversation isn’t about winning. You don’t need an opinion on everything. Form fewer opinions on far fewer things, then interrogate your stronger ones rigorously.
 
 Hints:
 
-- Listen. Mirroring or paraphrase: Repeat the last 1-3 words the person just said as a question or repeat what they just said in your own words. (Yes, it’s that simple). Seek to understand before seeking to be understood. Don’t worry about what you’re going to say next. Speak what’s in your mind, sometimes it backfires, but be real. The best conversationalists are the best listeners. Be interested to be interesting. How do I get them talking about themselves? It gives their brain as much pleasure as food or money. And when they open up, don’t judge..
-- Ask questions. Ask a question. Listen to the answer. Respond in the form of a statement. No one is boring. They’re only boring because you haven’t asked the right questions. But you must be curious, asking questions without paying attention is worthless. Making good/unusual questions will make people interested in you. Can be as simple as «what is your favourite book» or as deep as «why is your best friend, your best friend?». It’s hard to fake an answer. “What kind of challenges did you have at work this week? What kind of challenges do you have living in this part of the country? What kinds of challenges do you have raising teenagers?” Everyone has got challenges. It gets people to share what their priorities in life are at that point in time. Talk about your passions instead of your accomplishments. Look for external catalysts as hints for stories and questions. Pick up on often-ignored (but cF\rucially important) nonverbal cues. Best subjects to discuss: ask stuff outside of their expertise where you can add value, travel, sincere compliments or asking for advice.
-- Stop trying to impress. Focus on being interested instead of being interesting. Controlling the impression that you make on others takes a large amount of cognitive bandwidth and it will appear as fake. Smile and relax. Warmth comes from smiling while you speak. Popular people always smile more. Calm is largely a matter of slowing your speech down. Treat new aquaintances as old friends. Don’t be stubborn. Make your point and leave it. Let go. Is more productive to say «yes and» instead of «yes but». Get rid of ego and add value. Don’t judge. Know how to lead a conversation and how to go with the conversational flow. Emphasize Similarity, we like people who are like us.
-- Keep a journal and write about what you’re looking forward to and excited about in life. That’ll keep ideas on the tip of your tongue, ready to discuss. It’s okay to write the same thing over and over each day.
-- People believe in everything, if you whisper it.
+- Listen actively. Mirror or paraphrase: repeat the last 1-3 words as a question or restate in your words. Seek to understand before being understood. Don’t plan your next line—speak what’s on your mind, even if it risks backfiring. Be real. The best conversationalists listen best. Be interested to be interesting. Draw people out about themselves—it gives their brain as much pleasure as food or money. When they open up, don’t judge.
+- Ask questions. Ask, listen, respond with a statement. No one is boring—you just haven’t asked the right questions. Curiosity is key; questions without attention are worthless. Good/unusual questions spark interest. Simple: «What’s your favorite book?» Deep: «Why is your best friend your best friend?» Hard to fake answers. Probe challenges: work, location, raising kids—reveals current priorities. Talk passions over accomplishments. Use external catalysts for stories/questions. Catch nonverbal cues. Best topics: outside their expertise (where you add value), travel, sincere compliments, advice requests.
+- Stop impressing. Focus on being interested, not interesting. Impression control consumes bandwidth and feels fake. Smile and relax—warmth comes from smiling while speaking. Popular people smile more. Calm comes from slower speech. Treat new acquaintances as old friends. Don’t be stubborn—make your point and let go. Use «yes and» over «yes but». Drop ego, add value. Don’t judge. Lead or flow with the conversation. Emphasize similarity—we like people like us.
+- Keep a journal of what excites you and what you look forward to. Keeps ideas ready for discussion. Repeating the same entries daily is fine.
+- People believe anything whispered.
 
 > *"The more you say, the less people remember."  
 -- François Fénelon [1651]*
@@ -70,6 +70,8 @@ Hints:
 
 <!--
 > *"A bore is someone who persists in holding his own views after we have enlightened him with ours."*
+#q["The aim of argument should be progress, not victory." -- Joseph Joubert $  1754  $]
+#q["Seek first to understand, then to be understood." -- Stephen R. Covey $  1932  $]
 
 - A loucura é a incapacidade de comunicar-se.
 -->
@@ -79,10 +81,10 @@ Hints:
 
 Don’t raise your voice, improve your argument.
 
-Listen as you’re wrong. Ask the person trying to convince you of something to explain how it would work. If they can explain why they are correct, you’ll learn something. If they can’t you’ll soften their views. The more we disagree, the more chance there is that at least one of us is right.
+Listen as if you’re wrong. Ask the person trying to convince you to explain how their view works. If they can, you’ll learn. If they can’t, their position softens. The more we disagree, the higher the chance at least one of us is right.
 
 > *"Be curious, not judgmental."  
--- Walt Witman [1819]*
+-- Walt Whitman [1819]*
 
 > *"Never argue with a fool, onlookers may not be able to tell the difference." (...)  
 "Never argue with stupid people, because they will drag you down to their level and then beat you with experience."  
@@ -99,7 +101,7 @@ Listen as you’re wrong. Ask the person trying to convince you of something to 
 > *"Cinema is just life with the boring parts cut out."  
 -- Alfred Hitchcock [1899]*
 
-Good stories condense a massive amount of details into a consumable and shareable form. Its primary purpose isn’t accuracy, but entertainment.
+Good stories condense massive details into a consumable, shareable form. Their primary purpose isn’t accuracy, it’s entertainment.
 
 > *"To tell a good story, you must reveal a surprise; otherwise is just a report."  
 -- Kevin Kelly [1952]*
@@ -109,11 +111,9 @@ Good stories condense a massive amount of details into a consumable and shareabl
 > *"Eloquence is logic on fire."  
 -- Lyman Beecher [1775]*
 
-Hints:
+Study your audience’s reaction more than your own.
 
-- You don’t need to answer their questions. You can say whatever you want if it’s interesting but learn when to answer boring on easy to misinterpret questions.  
-- Agree as much as you can without lieing. Ask questions instead of desagreeing.  
-- Study your audience reaction more than yourself.
+Agree as much as possible without lying. Ask questions instead of disagreeing. You don’t need to answer every question. You can say whatever you want if it’s interesting but learn when to deflect boring or easily misinterpreted ones.
 
 > *"If you want to reach a large audience, appeal to idiots."  
 -- Arthur Schopenhauer [1788]*
@@ -140,18 +140,17 @@ Hints:
 
 <!--
 + x@WealthInc247 -- Avoid people who are close with people who dislike you.
+#q["Your network is your net worth." -- Porter Gale $  1970  $]
+#q["The currency of real networking is not greed but generosity." -- Keith Ferrazzi $  1965  $]
 -->
 
 > *"The enemy of excellence is isolation."  
 -- Aaron Walker [1910]*
 
-Make networking an habit. Who you know and whether they like you will determine what opportunities you get.
+Make networking a habit. Who you know and whether they like you determines the opportunities you get.
 
 > *It is astonishing what foolish things one can temporarily believe if one thinks too long alone."  
 -- John Maynard Keynes [1883]*
-
-> *"Being alone never felt right. Sometimes it felt good, but it never felt right."  
--- Charles Bukowski [1920]*
 
 > *"To develop your intellectual powers at the expense of the social is to retard your own progress to mastery."  
 -- Robert Greene [1959]*
@@ -161,12 +160,6 @@ Make networking an habit. Who you know and whether they like you will determine 
 -- Naval Ravikant [1974]*
 
 ### How to network?
-
-> *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead." (...)  
-"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
--- Kevin Kelly [1952]*
-
-Be useful, not important. Listen to people, get their goals and help them. It’s not about you, it’s about the impact you have on others.
 
 <!--
 - Community of experts (that give you good answers). Critical peers (10 people that make a big difference in your immediate career).
@@ -183,24 +176,28 @@ Be useful, not important. Listen to people, get their goals and help them. It’
 - You don’t meet people by accident. There’s always a reason. A lesson or a blessing.
 -->
 
+> *"Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead." (...)  
+"When introduced to someone make eye contact and count to 4. You’ll both remember each other."  
+-- Kevin Kelly [1952]*
+
+Be useful, not important.
+
+Listen to people, understand their goals, and help them. It’s not about you—it’s about the impact you have on others.
+
 Hints:
 
-- Social adeptness is balancing two seemingly opposing social strategies: competing and cooperating.
-- Building new connections is important but it’s even more important to remember the connections that already exist.
-- Form relationships with those who seem like they’ll give as much than they take. The best way to get value was to start giving it away even by giving validation.
-- You’ll start to live when you can live outside yourself. Being in the moment instead of being in your head.
-- Social inadequacy (creepiness) is based on unpredictability. Staring isn’t staring if you’re smiling or if you say hi.
+- Social adeptness balances competing and cooperating.
+- Building new connections matters, but nurturing existing ones matters more.
+- Form relationships with those who give as much as they take. The best way to get value is to give it first, even through validation.
+- You start truly living when you live outside yourself, in the moment, not in your head.
+- Social inadequacy (creepiness) stems from unpredictability. Staring isn’t creepy if you smile or say hi.
 - Field tactics:
-	- «Rescue people instead of «cold calling». Include people to gain allies. Become the conduit in your circle — the one who makes sure introductions are made. It really is as simple as asking, “Have you met my friend, Johnny?” Take that responsibility and welcome strangers into your group, and you’ll help everyone feel like they’re part of the conversation. That’s all anyone wants when they’re out – to feel included.
-	- Eye contact builds trust. Don’t hide yourself. Don’t wait to start talking. A group or a double might be an easy place to start.
-	- Small and open groups. Opening line: "Hi, I’m X and I dont know anybody in this party."  
-	- Go to the bar and meet people there or help the hosters to serve food.
-	- You should go on after 10 or 15 minutes, think about it as exploring. How to politely end conversations:
-		- «Excuse me but I must to talk with somebody that entered the room.»
-		- «Excuse me I have to make a phone call.»
-		- Human sacrifice... Introduce him and leave.
-		- To rude people: «My mum always told me not to speak with strangers.»
-- Forget those who forget you. Those who want to stay in your life, will always find a way.
+	- «Rescue» people instead of cold-calling. Include strangers to gain allies. Become the conduit—make introductions («Have you met my friend Johnny?»). Welcome people into groups; everyone wants to feel included.
+	- Eye contact builds trust. Don’t hide. Don’t wait to speak. Start with small/open groups. Opening line: «Hi, I’m X and I don’t know anybody here.»
+	- Go to the bar or help the host serve food.
+	- Exit gracefully after 10–15 minutes (exploring, not lingering): «Excuse me, I must talk to someone who just entered.» «I have to make a call.» Introduce them and leave. To rude people: «My mom told me not to talk to strangers.»
+- Forget those who forget you. Those who want to stay will find a way.
+- Rejection hurts, we dislike when others see us differently from how we see ourselves.
 
 > *"I speak to everyone in the same way, whether he is the garbage man or the president of the university."  
 -- Albert Einstein [1879]*
@@ -208,30 +205,28 @@ Hints:
 > *"You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you."  
 -- Dale Carnegie [1888]*
 
+> *"Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works."  
+-- Kevin Kelly [1952]*
+
 > *"If you expect magic in every encounter, you’ll find it."  
 -- Adam Robinson [1955]*
 
 > *"Millenials who learn the dark Boomer arts of phone calls and eye contact will inherit the earth."  
 -- x@molson_hart*
 
-### Why most people don’t like networking?
-
-Handling rejection is hard. Period. We don’t like people that see us in a way that doesn’t resonate with how we see ourselves.
-
-> *"Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works."  
--- Kevin Kelly [1952]*
-
 ### How to prepare an elevator pitch?
 
 <!--
 - I help (or a derivative) investors (target: people is too generalist but don’t over tailor it) to build better things (skill. use intrigue and confidence)
 6 or 7 words — short and sweet and confident and interesting. Costumise it for the context to make it more relevant.
+#q["The best elevator pitch is the one that makes someone lean in and ask, 'Tell me more.'" -- Guy Kawasaki $  1954  $]
+#q["A good pitch tells a story. A great pitch makes the listener the hero of that story." -- Oren Klaff $  1970  $]
 -->
 
 > *"If you can’t sell yourself in 1 sentence you won’t be able to sell yourself in several paragraphs."  
 -- Sahil Lavingia [1989]*
 
-Choose truth or your self-mythology will seduce you.
+Choose truth, or your self-mythology will seduce you.
 
 > *"When it comes to the story of our own lives, we’re more like novelists, not journalists. We’re not reading from our confessional journals, but recounting a polished story we’ve rehearsed over years. So a bio becomes a highlight reel of pedigree and accomplishments. Most of the stories we hear about people’s success are nothing more than clever myth-making: a way of reconfiguring their past as they wish to remember it, shaping it into a compelling and effective narrative, and weaponizing it into a personal propaganda tool. That story might be «rags to riches», «rising from the ashes», «one yes after a thousand nos», «crazy till I wasn’t» or any one of the familiar narratives we’ve heard from our heroes."  
 -- x@jordanharbinger*
@@ -304,23 +299,23 @@ Choose truth or your self-mythology will seduce you.
 
 Focus on what you can easily give that empowers others.
 
-Validate your business by finding paying clients. If something is worth doing, sales will come easy and dollars will be high. If you have to drag people along kicking and screaming, you’re wasting your time. The more they pay, the more they value it — the consumer votes with his wallet. It’s not about what you know, it’s about who trusts you to solve their problems. Often, it requires the technical skills. Always, it requires the persuasion skills.
+Validate your business by finding paying clients. If something is worth doing, sales come easily and dollars are high. If you have to drag people along, you’re wasting time. The more they pay, the more they value it—the consumer votes with their wallet. It’s not about what you know; it’s about who trusts you to solve their problems. Often it requires technical skills. Always persuasion skills.
 
-First try to sell it. Than build it. If you build something that people say they’ll pay for and then they don’t then this is problematic, but also normal and doesn’t make you a «wannapreneur». At that point it’s just part of the struggle.
+First try to sell it, then build it. If people say they’ll pay but don’t, it’s normal, not wannapreneurship. It’s just part of the struggle.
 
 Hints:
 
-- If you have an idea, test it and launch now. It’s called putting out a “minimally viable product” or MVP. Timing is the most important factor in startup success (quick to start but not the first). Team and execution came next. Find the 80/20 solution. Don’t put a bunch of effort to find out there’s no paying demand. 
-- The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs. It’s easier when YOU are the customer. Start with something you’re interested in. Don’t worry about the theory, focus on solving the problem.
-- Do the math. When evaluating an idea make sure the math scales. E.g. If you’re looking for a restaurant location, look at how many seats, average price of meal, average turnover time, multiply it out. Will even max capacity pay the rent? How many potential sales, how much does it cost to reach them, what is a conversion rate to expect? How much can you produce in an hour, will that ever pay you enough?
-- In some complex and mature markets if you start small you my never be able to compete with existent players.
-- Create a culture that rewards killing ideas. Nobody gets fired. In fact, people get praised when we kill something, we saved a lot of money.
-- Do things manually at first. Don’t scale your team/product until you have built something people want. Only after you are over running your ability to do things manually you do have to worry about automation. 
-- Focus on revenue generating activities: if it is not going to earn you money, then don’t do it or outsource them so you have more time to work on your cash flow.
-- Deliver a little bit more than expected. That’ll help to get you some recommendations.
-- «Fire» nasty, time consuming and time wasting clients.
-- Entrepreneurs are more risk averse than general population. Budget pessimistically using the worst case scenario.
-- There’s the myth that failure makes you a better entrepreneur. This is true only if you study your failures.
+- If you have an idea, test and launch now (MVP). Timing is key in startup success (quick to start, not necessarily first). Team and execution follow. Find the 80/20 solution. Don’t invest heavy effort only to discover no paying demand.
+- The bottleneck is rarely tool knowledge—it’s understanding customer needs. It’s easier when you are the customer. Start with what interests you. Skip theory; solve the problem.
+- Do the math. For any idea, check if it scales: seats × average meal price × turnover for a restaurant. Will max capacity cover rent? Potential sales × reach cost × expected conversion? Production per hour — will it pay enough?
+- In complex, mature markets, starting small may prevent competing with incumbents.
+- Create a culture that rewards killing ideas. No one gets fired—people get praised for saving money.
+- Do things manually first. Don’t scale team/product until people want it. Automate only when manual capacity is overwhelmed.
+- Focus on revenue-generating activities. If it doesn’t earn money, don’t do it or outsource to free time for cash flow.
+- Deliver a little more than expected for recommendations.
+- «Fire» nasty, time-consuming clients.
+- Entrepreneurs are more risk-averse than average. Budget pessimistically using worst-case scenarios.
+- Failure improves entrepreneurship only if you study it.
 
 > *"Don’t open a shop unless you know how to smile."  
 -- vox populi*
@@ -373,18 +368,18 @@ Hints:
 > *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."  
 -- Santiago Nestares [1997]*
 
+> *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  
+-- x@alexhormozi*
+
+> *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."  
+-- x@m2jr*
+
 > *"For the most successful founders, entrepreneurship is a pursuit of creative expression disguised as a business pursuit." (...)  
 "Show me a person doing great things and I’ll show you a kid playing."  
 -- x@rapahelz*
 
 > *"What one piece of advice would you give someone starting a company? Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too."  
 -- x@velez_david*
-
-> *"A startup isn’t really a company at all. A startup is a set of founders with hopefully a set of proprietary insights that are a result of them living in the future. Most of the great startups come from a great insight and a great insight usually occurs when someone is living in the future and they notice something that’s missing."  
--- x@m2jr*
-
-> *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  
--- x@alexhormozi*
 
 
 
@@ -438,6 +433,7 @@ I look forward to your response. [Power play; leave them with good vibes.]
 - how to say no to something else: i think i did already what i can do.
 - how much would i have to pay to close this deal now
 - smart partners negotiate fair deals because they know that lopsided deals are fragile and that most value accumulates in long term trust relationships. you can tell a lot about a potential partner by their opening offer. (naval)
+#q["The best salespeople aren’t selling anything—they’re helping people buy." -- Jeffrey Gitomer $  1946  $]
 -->
 
 > *"Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don’t need."  
@@ -445,19 +441,12 @@ I look forward to your response. [Power play; leave them with good vibes.]
 
 We’re all in sales. To sell is to deal with objections.
 
-Sales used to be about information asymmetry but now it’s mostly applied persuasion and keeping relationships. Best sellers are now ambiverts. Being recomendend is the best marketing.
+Sales used to rely on information asymmetry; now it’s applied persuasion and relationship-building. Top sellers are ambiverts. Being recommended is the best marketing.
 
-Traditional selling: hunters (extroverts)
+Hints:
 
-- Intruding (to get your foot in the door)
-- Pitching (to persuade the customer to buy)  
-- Persisting (to push until you make the sale)  
-
-Modern selling: farmers (ambiverts and introverts)
-
-- Research (to understand the customer — time spent alone on the web, reading and analyzing information)  
-- Listening (to understand individual needs — being patient and quiet while remaining open to new ideas and perspectives)  
-- Reacting (to adapt to the identified needs — letting the other person set the pace and the agenda)
+- Traditional selling (hunting) favors extroverts: intruding (foot in the door), pitching (persuasion), persisting (push to close).
+- Modern selling (farming) favors ambiverts/introverts: research (understand customer needs alone via web/analysis), listening (patient, quiet, open to perspectives), reacting (adapt to needs, let them set pace/agenda).
 
 > *"In science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs."  
 -- (sir) William Osler [1849]*
@@ -496,11 +485,11 @@ Modern selling: farmers (ambiverts and introverts)
 > *"You don’t convince people by challenging their longest and most firmly held opinions. You find common ground and work from there. Or you look for leverage to make them listen. Or you create an alternative with so much support from other people that the opposition voluntarily abandons its views and joins your camp."  
 -- Ryan Holiday [1987]*
 
-> *"Marketing is attention engineering."  
--- x@mozarrinsadaf*
-
 > *"The world rewards the people who are the best at communicating ideas, not the people with the best ideas."  
 -- x@david_perell*
+
+> *"Marketing is attention engineering."  
+-- x@mozarrinsadaf*
 
 > *"Lots of folks doing everything they can to avoid talking on the phone. DMs, texts, emails — all shortcuts that reduce income dramatically. This business is about relationships. Hiding behind a screen is setting them years behind those who know the value of making real connections."  
 -- x@realestatetrent*
@@ -519,45 +508,40 @@ Modern selling: farmers (ambiverts and introverts)
 
 You don’t get what you deserve in life, only what you negotiate.
 
-Negotiation establishes the price (exchange rate between money and value). That said, a good negotiation means that you are giving less money (or value) than receiving value (or money).
+Negotiation sets the exchange rate between money and value. A good deal means giving less (money/value) than you receive. However, always aim for win-win: if either side doesn’t get what they need, the deal collapses. The most dangerous negotiation is the one you don’t realize you’re in.
 
 Hints:
 
-- You can only negotiate with integrous people.
-- To negotiate you need to have options.
-- To go fast, let the other part go first.
-- Tone of voice is a big clue to know with whom we are negotiating. The analytical cold guy is very patient. The assertive guy wants to make it fast. For the accomodator, the relationship is the most important.
-- Be playful and smart. Your counter-part will often mirror your good mood.
-- Mirroring by repeating the last few words of the other person. It opens up people’s brain. It tests the firmness of what they want.
-- Show arbitrage: If they pay X, now they are buying something worth X * Y. That is the only way to sell.
-- Saying no: «How am I supposed to do that?». «How» gives people an opportunity to show how smart they are.
-- Never negotiate with binary questions: prefer «What can you do?» instead of «Will you do this?»
-- Close it: «What’s your best out-the-door price? (...) Can you do X% below that? If you can reach my price, I’ll buy today.»
-- The more you take, the more you can give back in meaningless concessions. When people feel they have a choice, they «walk into your trap» that much more easily.
+- Negotiate only with integrous people.
+- You need options to negotiate effectively.
+- To go fast, let the other side go first.
+- Tone reveals negotiation style: analytical/cold = patient; assertive = fast; accommodator = relationship-focused.
+- Be playful and smart—your counterpart often mirrors your mood.
+- Mirror by repeating their last few words as a question. It opens their mind and tests firmness.
+- Show arbitrage: If they pay X, they’re buying something worth X × Y—that’s how to sell.
+- Say no with: «How am I supposed to do that?» «How» lets them demonstrate smarts.
+- Avoid binary questions: prefer «What can you do?» over «Will you do this?»
+- Close: «What’s your best out-the-door price? Can you do X% below that? If you meet my price, I’ll buy today.»
+- Take more to give back meaningless concessions—people feel choice and walk into your trap easier.
 - People buy better versions of themselves, not products.
-- Females buy male products. Males don’t buy products targetted to females.
-- Instead of details use interesting testimonials that allow people to relate.
-- Marketing is a symptom of excess production.
+- Women buy male-targeted products; men rarely buy female-targeted ones.
+- Use interesting testimonials over details—they let people relate.
+- Marketing signals excess production.
 
 > *"Flattery is the infantry of negotiation."  
 -- (lord Chandos) Hugo von Hofmannsthal [1872]*
 
-> *"People may or may not say what they mean but they always say something designed to get what they want."  
--- David Mamet [1947]*
-
-> *"When asking for help, appeal to people’s self-interest, never to their mercy or gratitude."  
--- Robert Greene [1959]*
-
-However always strive to achieve a win-win situation. When both sides don’t take what they need from it, the deal may fall. The most dangerous negotiation is the one you don’t know you’re in.
-
-> *"Peace cannot be kept by force. It can only be achieved by understanding."  
--- Albert Einstein [1879]*
-
 > *"You can’t make a good deal with a bad person."  
 -- Warren Buffett [1930]*
 
+> *"People may or may not say what they mean but they always say something designed to get what they want."  
+-- David Mamet [1947]*
+
 > *"When negotiating, dont aim for a bigger piece of the pie; aim to create a bigger pie."  
 -- Kevin Kelly [1952]*
+
+> *"When asking for help, appeal to people’s self-interest, never to their mercy or gratitude."  
+-- Robert Greene [1959]*
 
 > *"One time a college far away in Ohio, about a 12-hour drive, asked what I would charge to do a two-hour show. I said, «$1500». She said, «Oh, that’s a bit too much. What would you charge to do just a one-hour show?» I said, «$2000». She said, «No, wait, you’ll be performing less, not more!» I said, «Yeah! Exactly! What you’re paying me for is to get there! Once I’m there, playing music is the fun part! If you tell me I have to get back in the van after only an hour, and drive home, then I’m going to charge you more than if you let me play for a couple hours first». She liked that so much she came up with the $1500."  
 -- Derek Sivers [1969]*
@@ -569,6 +553,7 @@ However always strive to achieve a win-win situation. When both sides don’t ta
 
 <!--
 - When money’s free, nobody looks at the price.
+q["Price is what you pay. Value is what you get." -- Warren Buffett $  1930  $]
 -->
 
 > *"Price is what you pay, value is what you get."  
@@ -600,7 +585,12 @@ Price is a filter. Set it to choose the customers you prefer to work with.
 
 
 
-## On generosity and incentives
+## On generosity
+
+<!--
+#q["Generosity is giving more than you can, and pride is taking less than you need." -- Kahlil Gibran $  1883  $]
+#q["We make a living by what we get. We make a life by what we give." -- Winston Churchill $  1874  $]
+-->
 
 > *"No one has ever become poor by giving."  
 -- Anne Frank [1929]*
@@ -609,9 +599,9 @@ No one on their deathbed has ever regretted giving too much away.
 
 Hints:
 
-- If you can afford the dinner you can afford the tip.
-- Always give best in class. Practical luxuries make better gifts than merchandise branded with your company’s logo.
-- A low value gift may have the opposite effect.
+- If you can afford the dinner, you can afford the tip.
+- Always give best-in-class. Practical luxuries make better gifts than branded merchandise.
+- A low-value gift may have the opposite effect.
 
 > *"A bit of fragrance clings to the hand that gives flowers." (...)  
 "A candle loses nothing by lighting another candle." (...)  
@@ -646,6 +636,10 @@ Hints:
 
 ### On incentives
 
+<!--
+#q["Show me the incentive and I will show you the outcome." -- Charlie Munger $  1924  $]
+-->
+
 > *"In nature there are neither rewards nor punishments, there are consequences."  
 -- Robert G. Ingersoll [1833]*
 
@@ -653,10 +647,10 @@ Powerful people give freely, buying influence rather than things.
 
 Hints:
 
-- We learn complex behaviors via continuous reinforcement, in which the desired behavior is reinforced every time it’s performed. After the behaviour is learnt, continuous reinforcement becomes intermitent reinforcement.
-- Instead of punishments extingue rewards.
-- The people who love you most can care less about how much money you make or what gifts you can send them. What they really want is your presence and attention.
-- Punish bad behavior consistently, reward good behavior intermittently
+- Complex behaviors form through continuous reinforcement (reward every time), then shift to intermittent reinforcement once learned.
+- Replace punishments with extinguished rewards.
+- Those who love you most care little about your money or gifts, they want your presence and attention.
+- Punish bad behavior consistently; reward good behavior intermittently.
 
 > *"Rewards and punishment is the lowest form of education."  
 -- Zhuang Zhou [-369]*
@@ -672,6 +666,10 @@ Hints:
 ## On leadership
 
 <!--
+#q["The task of leadership is not to put greatness into people, but to elicit it, for the greatness is there already." -- John Buchan $  1875  $]
+#q["Leadership is the art of getting someone else to do something you want done because he wants to do it." -- Dwight D. Eisenhower $  1890  $]
+#q["A leader is one who knows the way, goes the way, and shows the way." -- John C. Maxwell $  1947  $]
+
 - a autoridade é delegavel mas a responsabilidade n é delegavel
 - a leader makes the people next to them better version of themselves.
 - A man asked a gardener why his plants grew so beautifully. The gardener said: «I don’t force them to grow. I remove what stops them.»
@@ -690,14 +688,14 @@ Hints:
 
 Leaders are team makers. There are no bad teams, only bad leaders.
 
-Being a leader is different from being a boss: it requires to be a manager and a psychotherapist. Leadership is based on emotional intelligence, people don’t follow robots, they follow the strongest person. The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Leadership is the ability to locate yourself. 
+Being a leader differs from being a boss: it requires managing and psychotherapizing. Leadership rests on emotional intelligence, people follow the strongest person, not robots. The secret to motivating and sustaining morale is shifting focus from self to group. Leadership is locating yourself.
 
 Hints:
 
-- Leaders are embassadors of their teams. They can delegate culture keeping but not culture creation. 
-- If you want to lead, simply act with confidence and others around you will pick up on that energy and fall in line. No explicit statements needed. If someone fails to fall in line, either your leadership needs improvement or you need to excise them from your group.
-- Best leaders are leaders that grew up in the hierarchy.
-- People seek leadership because they want autonomy and influence. Influence is more powerful than money. The reason millionaires are depressed is that they don’t know the difference.
+- Leaders are ambassadors of their teams. They can delegate culture-keeping but not culture-creation.
+- To lead, act with confidence—others will sense the energy and fall in line. No explicit statements needed. If someone fails to align, either improve your leadership or remove them from the group.
+- Best leaders rise from within the hierarchy.
+- People seek leadership for autonomy and influence. Influence outweighs money. Millionaires’ depression often stems from not grasping this difference.
 
 > *"He who does not desire power is fit to hold it."  
 -- Plato [-427]*
@@ -825,6 +823,8 @@ Hints:
 
 <!--
 + x@kunalb11 -- Introverts who hate managing people may be first to automate most things with AI.
+#q["The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint enough to keep from meddling with them while they do it." -- Theodore Roosevelt $  1858  $]
+#q["Management is nothing more than motivating other people." -- Lee Iacocca $  1924  $]
 
 - as estruturas funcionam qd ha coesao
 - good managers shield their team from all the noise coming from above and give them a calm environment to work in. Bad managers amplify the noise and make the team feel every silly whim of upper management.
@@ -835,14 +835,14 @@ Hints:
 > *"Don’t postpone to tomorrow what other people can do for you today."  
 -- Warren Buffett [1930]*
 
-Managing is delegating. A great manager is a great facilitator. His responsability is to make his team better. 
+Managing is delegating. A great manager is a great facilitator. Their responsibility is to make the team better.
 
 Hints:
 
-- A manager should answer two questions a day: «What is important to accomplish?» and «Where was I uncomfortable the day before?» The speed that you offload your stuff will be the speed of your team.
-- Your productivity as a manager is measured as the productivity of your team. Being seated making stuff is not productive. The key principle is putting your team’s productivity first. Remember, you are a communication hub and a multiplier. Think about the things you can delegate vs. the things that only you can do. If you truly work for your people instead of being busy pretending you’re occupied, just tell yourself: what I accomplished today is not yet visible, but it will be. 
-- Spend one hour a day communicating to your people and everything will be OK.
-- Instead of generalizing and saying «management is useless», it’s more correct to say «bad management is counterproductive». The only reason there’s so many awful managers is that people like you refuse to do the job.
+- A manager should answer two questions daily: «What is important to accomplish?» and «Where was I uncomfortable yesterday?» The speed at which you offload tasks determines your team’s speed.
+- Your productivity as a manager equals your team’s productivity. Sitting and making stuff isn’t productive. Prioritize your team’s output. You’re a communication hub and multiplier. Delegate what others can do; focus on what only you can. If you work for your people instead of pretending to be busy, what you accomplish today may not be visible yet—but it will be.
+- Spend one hour daily communicating with your team—everything will be OK.
+- Instead of generalizing that «management is useless», say «bad management is counterproductive». Many awful managers exist because capable people refuse the job.
 
 > *"The best executive is the one who has sense enough to pick good people to do what he wants done, and self-restraint to keep from meddling with them while they do it."  
 -- Theodore Roosevelt [1858]*
@@ -866,11 +866,14 @@ Hints:
 -- Steve Jobs [1955]*
 
 > *"Management is prompt engineering for humans."  
--- Pedro Domingos [1965]*
+-- x@pmddomingos*
 
 ### On teams
 
 <!--
+#q["Alone we can do so little; together we can do so much." -- Helen Keller $  1880  $]
+#q["The strength of the team is each individual member. The strength of each member is the team." -- Phil Jackson $  1945  $]
+
 > *"Nós nunca fomos muitos, mas enquanto soubemos ser todos, nós fomos sempre os bastantes."  -- José Hermano Saraiva*
 > *"If you need emergency help from a bystander, command them what to do. By giving them an assignment, you transform them from bewildered bystander to a responsible assistant."*
 > *"Never accept a work meeting until you’ve seen the agenda and know what decisions need to be made. If no decisions need to be made, skip the meeting."*
@@ -880,13 +883,13 @@ Hints:
 > *"The best teams are made up of a bunch of nobodies who love everybody and serve anybody and don’t care about becoming a somebody."  
 -- Phill Dooley [1966]*
 
-People should feel as part of a tribe. While the tribe is cohese, external threats will pass.
+People should feel part of a tribe. While the tribe is cohesive, external threats will pass.
 
 Hints:
 
-- Always be clear and specific about what you expect from other people. You cannot expect from them what you haven’t articulated, usually many times and in writing. Also plan for them to fail you.
+- Always be clear and specific about expectations—articulate them repeatedly and in writing. Plan for people to fail you.
 - A chain is only as strong as its weakest link.
-- Like animals, humans also seem designed to work in groups of a particular size. The ultimate group: Amazon’s «two-pizza teams». 
+- Humans, like animals, thrive in groups of a certain size. The ideal: Amazon’s «two-pizza teams».
 
 > *"If you want to go fast, go alone. If you want to go far, go together."  
 -- vox populi*
@@ -936,12 +939,14 @@ TEN TIPS ON GIVING FEEDBACK
 
 Ask instead of telling.
 
-Continue, or consider. You give feedback that says either «continue doing X» or «consider changing X to make it better». If the delivered work is not good enough give a reason. It’s really simple, fast and actionable.
+Continue or consider: feedback should say either «continue doing X» or «consider changing X to improve». If work falls short, give a clear reason. It’s simple, fast, and actionable.
+
+Appropriate feedback makes juniors feel their work matters. Directives or silence demotivate. Don’t give it daily.
 
 Hints:
 
-- «Why did you decide to do X in that order?» This creates a dialog, instead of a debate where each side first stakes out positions. Lead your people to discover what you would have suggested. Smart people will get to the same place you were going, or if you are humble enough to listen, you may learn something.
-- «Can you take another look at this for XYZ reasons?». This gives the employee ownership of the final deliverable, while still prompting them to deal with problems they overlooked. «Because» is a great motivator.
+- «Why did you decide to do X in that order?» This sparks dialogue, not debate. Lead people to discover your suggestion. Smart people often reach the same conclusion or you may learn something if you're humble to listen.
+- «Can you take another look at this for XYZ reasons?» Gives ownership while prompting fixes. «Because» is a great motivator.
 - «Interesting, how do you feel about it? And your team? Is that the best you can do?»
 
 > *"Good advice is something a man gives when he is too old to set a bad example."  
@@ -961,16 +966,19 @@ Hints:
 > *"Mistake I made when younger was giving unsolicited feedback to others when it’s actually one of the easiest ways to make people dislike you."  
 -- x@chrislakin*
 
-Giving appropriate feedback makes your juniors feel like what they are doing is important. Pounding directives down or not giving any direction are demotivators. Howewer, don’t do it daily.
-
 ### On meetings
+
+<!--
+#q["Meetings are a symptom of bad organization. The fewer the better." -- Peter Drucker $  1909  $]
+#q["The least productive people are usually the ones who are most in favor of holding meetings." -- Thomas Sowell $  1930  $]
+-->
 
 > *"The most senior person at a meeting should speak last."  
 -- Jeff Bezos [1964]*
 
 Default to «no» for all meetings. Meetings are the death of productivity.
 
-If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; less pleasantries; more dialogue, less monologue; no slides; end easily by walking back).
+If you can’t say no, schedule for the afternoon and preferably as walking meetings (exercise and sunlight; fewer pleasantries; more dialogue, less monologue; no slides; easy end by walking back).
 
 Hints:
 
@@ -1002,12 +1010,13 @@ Hints:
 > *"To know the road ahead, ask those coming back."  
 -- vox populi*
 
-Feedback from mentors speeds up improvement. Even if you can’t understand the logic behind their wisdom, they’ll show you the door. Don’t take criticism from people that you would never go for advice.
+Feedback from mentors accelerates improvement. Even if you don’t grasp their logic, they can point you to the right door. Never take criticism from people you wouldn’t seek advice from.
 
-Be generous and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t.
+Be generous and share your strengths. Impact the world. When you teach, you do something useful. When you do research, most days you don’t. However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
 
 > *"He who asks is a fool for five minutes, but he who does not ask remains a fool forever." (...)  
-"I’d rather have criticism from a genius than praise from an idiot."  
+"I’d rather have criticism from a genius than praise from an idiot." (...)  
+"Do not teach a starving man to fish."  
 -- vox populi*
 
 > *"Time is a great teacher, but unfortunately it kills all its students."    
@@ -1079,13 +1088,17 @@ Look for the «silver medalist». He has more availability, and sometimes, a bet
 
 Your father is your first mentor.
 
-Don’t tell your kids how to live. Live fully and let them see. Prepare the child for the path, not the path for the child. Spend only half the money you think you should, but double the time with them.
+Don’t tell your kids how to live, live fully and let them see. Prepare the child for the path, not the path for the child. Spend half the money you think you should, but double the time with them.
 
 <!--
 + @naval -- "Children are happy because: 1) They’re not self conscious 2) They lack a sense of time pressure 3) They’ve no goals. The bottom line is they are living from moment to moment, and the mind is not there to interfere in their bliss."
 > *"My partner teacher does this lovely thing when a student in his class gives him an «I don’t know» response. He simply says, «tell me something you do know that might be helpful»."
 > *"Presence rids us of the need for parenting «strategies», many of which are more manipulative than nurturing."  -- Julie Louisson*
 > *"Children are natural mimics who act like their parents despite every effort to teach them good manners. Children seldom misquote you. In fact, they usually *repeat word for word what you shouldn’t have said.*
+
+#q["Children are not things to be molded, but people to be unfolded." -- Jess Lair $  1920  $]
+#q["The greatest gifts you can give your children are the roots of responsibility and the wings of independence." -- Denis Waitley $  1933  $]
+#q["What you teach your children, you teach your grandchildren." -- Talmud (book)]Adicionar ao bate-papo
 
 - Absent parent: troubled child
 - A father is the one who reveals the truth about life to the kids. A mother is the one who comforts them after hearing it.
@@ -1103,12 +1116,12 @@ Don’t tell your kids how to live. Live fully and let them see. Prepare the chi
 
 Hints:
 
-- Generosity: «What did you do this week for somebody?»  
-- Responsability: «Bedtime at 8.30 and I turn off the light or 9 and you have the responsability to turn off the light?»  
-- Self improvement: «Did you give your best today?» «Ask good questions today. In future you’ll be able to know anything you want, anytime you want. So the quality of the questions you learn to ask will be more important than memorized knowledge.»  
-- Autority: «Kid: why do I have to do this? You: I was a boy myself. I know why is important.»  
-- Money management and healthy habits: pay your son for each mile he rides his bike (with interest on what he decides not to spend).
-- Deal with failure: «How did you fail today?» The best gift you can give your children is failure. By treating everything like a major risk, we prevent kids from learning how to judge the truly dangerous, from the simply unfamiliar. Parents prevent their kid from dying but as they get older they shouldn’t prevent them from living.
+- Generosity: «What did you do this week for somebody?»
+- Responsibility: «Bedtime at 8:30 and I turn off the light, or 9 and you have the responsibility to turn it off?»
+- Self-improvement: «Did you give your best today?» «Ask good questions today. In the future, you’ll know anything you want, anytime. So the quality of questions you learn to ask will matter more than memorized knowledge.»
+- Authority: Kid: «Why do I have to do this?» You: «I was a boy myself. I know why it’s important.»
+- Money management and healthy habits: Pay your son for each mile he rides his bike (with interest on what he saves).
+- Dealing with failure: «How did you fail today?» The best gift is failure. By treating everything as major risk, we prevent kids from learning to judge truly dangerous from unfamiliar. Parents prevent death but shouldn’t prevent living as kids grow.
 
 > *"Children are a poor man’s riches." (...)  
 "A father is someone you look up to no matter how tall you grow."  
@@ -1200,6 +1213,9 @@ Hints:
 > *"If children feel safe, they can take risks, ask questions, make mistakes, learn to trust, share their feelings and grow."  
 -- Alfie Kohn [1957]*
 
+> *"All you have to do is love them and show them the world."   
+-- Paul Graham {quoting his mother on raising children} [1964]*
+
 > *"My advice is my autobiography not slogans. People relate better like that."  
 -- James Altucher [1968]*
 
@@ -1215,14 +1231,6 @@ Hints:
 
 > *"The nature of impending fatherhood is that you are doing something that you’re unqualified to do, and then you become qualified while doing it."  
 -- John Green [1977]*
-
-However some people are not ready to accept your vision. And «givers» attract «takers»: remember that you don’t owe them anything.
-
-> *"Do not teach a starving man to fish."  
--- vox populi*
-
-> *"All you have to do is love them and show them the world."   
--- Paul Graham {quoting his mother on raising children} [1964]*
 
 
 
@@ -1297,14 +1305,14 @@ Nobody can compete with you on being you. Most of your life is a search for who 
 > *"Every job will be automated until four remain: engineer, entrepreneur, investor, artist."  
 -- Sahil Lavingia [1989]*
 
-> *"My dad sat me down once and said: “There are only two jobs in the world: building or selling. If you’re not doing one of those, you’re just an expense.” still think about this."  
--- x@rmcentush*
+> *"How did people come to believe that if everyone went to college we could all just get jobs sending each other emails and someone else (who?) would maintain all physical elements of modern society? It sounds so dumb when you say it explicitly."  
+-- x@empty_america*
 
 > *"Work for companies you would invest in and invest in companies you would work for."  
 -- x@morganhousel*
 
-> *"How did people come to believe that if everyone went to college we could all just get jobs sending each other emails and someone else (who?) would maintain all physical elements of modern society? It sounds so dumb when you say it explicitly."  
--- x@empty_america*
+> *"My dad sat me down once and said: “There are only two jobs in the world: building or selling. If you’re not doing one of those, you’re just an expense.” still think about this."  
+-- x@rmcentush*
 
 ### How to advance career?
 
@@ -1315,9 +1323,9 @@ Become the best at one specific thing or very good at two or more things.
 
 Hints:
 
-- You don’t get anywhere, and for more money, sitting in the same seat.
-- Happy, smart, and useful. Work smart not harder but hard still. It’s good to be better, but is better to be different.
-- Metaknowledge (instead of asking, journal higher hierarchy than you).
+- You don’t advance or earn more by staying in the same seat.
+- Happy, smart, and useful. Work smart (not just harder but hard still). It’s good to be better, but better to be different.
+- Metaknowledge: journal higher in the hierarchy than you (instead of asking directly).
 - Deliver more value than expected.
 
 > *"While deep work will promote you, shallow work will only prevent you from being fired."  
@@ -1339,31 +1347,31 @@ Hints:
 
 You will either pivot or get pivoted.
 
-Avoid the trap of following one set career path, focus on being useful. My passionate interests have changed many times since I graduated college. You are a learning machine, not an occupation. Your work is the greatest mean at your disposal for expressing your social intelligence.
+Avoid locking into one career path, focus on being useful. Your passionate interests will change many times after college. You are a learning machine, not an occupation. Your work is the greatest means to express your social intelligence.
+
+You make yourself rare by combining two or more relevant “pretty goods.” Capitalism rewards what is both rare and valuable.
+
+Hints:
+
+- Leverage transportable soft skills (persuasive communication: pitching, changing opinions, emotional intelligence, reading the room, building trust, retaining talent) and hard skills (writing a pitch, making a 2-minute YouTube video, etc.).
+- Pursue what feels fun to you but looks like work to others.
+- Take risks to boost your immune system.
+
+> *"Your income is directly proportional to the need for what you do and your ability to do it."  
+-- Jim Rohn [1930]*
 
 > *"My luggage is always ready."  
 -- Jorge Jesus [1954]*
+
+> *"Be so good that they cannot ignore you." (...)  
+"Career capital is the unique skills that make you rare and valuable."  
+-- Cal Newport [1982]*
 
 > *"Jobs are like clothes. There is no "wrong job". There are jobs which fit now."  
 -- hn@bergerjac*
 
 > *"My theory: career pivots keep you young/hungry/foolish."  
 -- x@ashleymayer*
-
-You make yourself rare by combining two or more relevant «pretty goods». Capitalism rewards things that are both rare and valuable.
-
-Hints:
-
-- Use your transportable soft (e.g. persuasive communication: pitching and change somebody’s opinion, emotional intelligence, ability to read the room, ability to build trust, ability to retain talent) and hard skills (write a pitch, can you change somebody else opinion, make a 2 minute youtube, etc) 
-- Stuff that looks fun for you and looks like work for others.
-- Take risks to boost your immune system.
-
-> *"Your income is directly proportional to the need for what you do and your ability to do it."  
--- Jim Rohn [1930]*
-
-> *"Be so good that they cannot ignore you." (...)  
-"Career capital is the unique skills that make you rare and valuable."  
--- Cal Newport [1982]*
 
 ### Employee or entrepreneur?
 
@@ -1374,9 +1382,9 @@ Employees have no control over their futures. The economy forces all the risk on
 
 Hints:
 
-- When you sell your ability to deliver results nobody asks about your skillset. When you sell your time, you need to fit into a role that someone can comprehend and already knows they need.
+- When you sell results, nobody asks about your skillset. When you sell time, you must fit a predefined role someone already knows they need.
 - Rich people get paid by project and pay by the hour.
-- The boss wants the most sophisticated talent he can get, and he doesn’t want to pay anything for it. Every penny he pays, and every second of your life he doesn’t get for it, is a failure in his eyes.
+- The boss wants the most sophisticated talent for the least pay. Every penny spent and every second of your life not claimed is a failure in his eyes.
 
 > *"Salaried people are just stepparents. They can be good stepparents but it never matches the biological."  
 -- Nassim Taleb [1960]*
@@ -1397,7 +1405,7 @@ Hints:
 > *"Better to have average IQ and know one little tiny niche very well than be a generalist know-it-all genius"  
 -- x@realestatetrent*
 
-To be an entrepreneur you need to know a little about a lot of things. To be employed, if you pick the right specialization, you’ll do better as a specialist.
+To be an entrepreneur, you need to know a little about a lot of things. To be employed, if you pick the right specialization, you’ll do better as a specialist.
 
 Startups are (by necessity) filled with generalists; big companies are filled with specialists.
 
@@ -1406,7 +1414,7 @@ Startups are (by necessity) filled with generalists; big companies are filled wi
 > *"Our best work is the work we find ourselves doing, when there is no obligation to do so."  
 -- Naval Ravikant [1974]*
 
-Ask employers why did they asked you for an interview — they will describe your strengths.
+Ask employers why they invited you for an interview — they will describe your strengths.
 
 > *"Your work speaks only to those on the same wavelenght as you."  
 -- Jean Cocteau [1889]*
@@ -1428,26 +1436,26 @@ He who works with his hands and his head is a craftsman.
 He who works with his hands and his head and his heart is an artist."  
 -- St. Francis of Assisi [1181]*
 
-Trial most but only hire likable persons that «get shit done».
+Trial most candidates but hire only likable people who «get sh\*t done».
 
-Your goal should be to «fire» yourself and hire people who are better at your job than you are. Leaders must become masters at finding and hiring talent.
+Your goal should be to «fire» yourself by hiring people better at your job than you are. Leaders must master finding and hiring talent.
 
 Hints:
 
-- When applying for a job be more of a consultant than an applicant. Don’t do interviews, do discussions.
-- Employers are just trying to find somebody they like, that’s what «culture fit» is. Often is not how good you are, you just have to be liked while being sufficiently good. Go into job interviews with a story in mind. All an interviewer really wants to know is if he can spend eight hours a day around you. And people like people like themselves.
+- When applying for a job, be more consultant than applicant. Don’t do interviews, have discussions.
+- Employers seek people they like, that’s «culture fit». It’s often less about skill and more about likability while being sufficiently good. Go in with a story. Interviewers want to know if they can spend eight hours a day with you. People like people like themselves.
 - Good interview questions:
-	- «Problems you’ve solved and how did you solve them?» (Elon Musk)
+	- «Problems you’ve solved and how?» (Elon Musk)
 	- «What did you get done this week?» (Elon Musk)
-	- «What do you own and why?» (Sandy Gottesman, investor)
+	- «What do you own and why?» (Sandy Gottesman)
 	- «What do you believe that most people don’t?»
-	- «Show me your calendar». A lot of detailed stuff is an implementer. (Codie Sanchez)
-	- «How to solve this X problem I have right now?» To detect a fast thinker. (Codie Sanchez)
-- Remember that I’d hired them to do things that I could not. As such, they knew their job better than I did. If I could have done it myself, I’d not have had to hire them. Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time.
-- Companies hire for a problem and not general optimizations. Even if they need a generalist. Growing companies are always hiring.
-- Decide in advance what your time is worth. Do not let others tell you how much you will be paid. They may make offers, but it is never their decision. It is yours.
-- A job search is both a numbers game and a quality game. You can control how many jobs you apply to, and how good your skills and portfolio are.
-- You are not paid what you are worth. You are paid what you negotiate for.
+	- «Show me your calendar» (reveals implementers; Codie Sanchez)
+	- «How would you solve this X problem I have right now?» (detects fast thinkers; Codie Sanchez)
+- Remember: you hire them because they know their job better than you. If you could do it, you wouldn’t need them. Experience is overrated—hire for aptitude, train for skills. Great things are often done by people doing them for the first time.
+- Companies hire to solve specific problems, not general optimizations—even if they need generalists. Growing companies are always hiring.
+- Decide your time’s worth in advance. Don’t let others dictate your pay—they make offers, but it’s your decision.
+- Job search is numbers and quality: control applications and skills/portfolio strength.
+- You’re not paid what you’re worth—you’re paid what you negotiate.
 
 > *"I am looking for a lot of people who have an infinite capacity to not know what can’t be done."  
 -- Henry Ford [1863]*
@@ -1464,9 +1472,6 @@ Hints:
 "The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do." (...)  
 "If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss."  
 -- Kevin Kelly [1952]*
-
-> *"The next decades will be dominated by the AI-working class alliance, as white-collar work loses value while blue-collar work keeps it."  
--- Pedro Domingos [1965]*
 
 > *"If you can’t see yourself working with someone for life, don’t work with them for a day." (...)  
 "Mercenaries work for money. Missionaries build for others. Artists create for themselves." (...)  
@@ -1501,17 +1506,25 @@ Hints:
 > *"We don’t pay you to work here, we pay you so you can work here."  
 -- x@nivi*
 
+> *"The next decades will be dominated by the AI-working class alliance, as white-collar work loses value while blue-collar work keeps it."  
+-- x@pmddomingos*
+
 > *"Mediocre talent seeks to figure out how to network. Great talent seeks to figure out how to contribute."  
 -- x@rapahelz*
 
 ### On resumes
+
+<!--
+#q["The best resumes don’t list jobs—they tell stories of impact." -- Laszlo Bock [1972]]
+#q["Don’t tell me what you did. Tell me what happened because you did it." -- Simon Sinek [1973]]
+-->
 
 > *"Your real resume is a painful recounting of all your struggles."  
 -- Naval Ravikant [1974]*
 
 There are two skill levels: still learning or confident.
 
-Your resume should tell the reader why you more valuable to the company than the next person. You’ll show that with your experience. Tell HOW you accomplished your responsibilities better than the next person. ie. You are responsible for selling cars (so is every other car salesperson). You sold more cars than anyone else in the dealership for six months out of the last year. Which person would you hire.
+Your resume should explain why you’re more valuable to the company than the next candidate. Show this through your experience. Don’t just list responsibilities—highlight how you accomplished them better than others. Example: Everyone sells cars, but you sold more than anyone else in the dealership for six months last year. That’s who gets hired.
 
 > *"Whatever makes you weird is probably your greatest asset."  
 -- Joss Whedon [1964]*
@@ -1521,14 +1534,14 @@ Your resume should tell the reader why you more valuable to the company than the
 > *"Everybody wants to hire the best. Few of them actually pay them like they’re the best."  
 -- Naval Ravikant [1974]*
 
-Respect them and you’ll never respect them if you don’t reward them accordingly.
+Respect them, and you’ll never respect them if you don’t reward them accordingly.
 
 Hints:
 
-- Use «golden handcuffs» offering your new hires the ability to earn as much as they want, provided that they are earning you even more income in the process. Usually people leave managers, not companies.
-- Smart people will not work extremely hard just for money.
-- Good employees are not easy to find. It takes some real *chutzpah* to make someone do your work for insufficient compensation while you rake in the big bucks.
-- Asking for a raise. Don’t get discouraged if you get a «no». Simply thank them for their time and ask «What specific outcomes would be required to receive this raise within the next 3-6 months?» If they can’t answer this question, you should probably find another employer.
+- Use «golden handcuffs»: offer hires the ability to earn as much as they want, provided they generate even more income for you. People usually leave managers, not companies.
+- Smart people won’t work extremely hard just for money.
+- Good employees are hard to find. It takes real chutzpah to expect someone to do your work for insufficient pay while you profit heavily.
+- Asking for a raise: Don’t get discouraged by a «no». Thank them, then ask: «What specific outcomes would be required to receive this raise within the next 3–6 months?» If they can’t answer, consider finding another employer.
 
 > *"Train employees well enough they could get another job, but treat them well enough so they never want to."  
 -- Kevin Kelly [1952]*
@@ -1552,21 +1565,21 @@ Hints:
 
 Focus on what you can give.
 
-However, after taking first steps, mirror their behavior. Don’t cross oceans for people who wouldn’t even jump puddles for you.
+However, after taking the first steps, mirror their behavior. Don’t cross oceans for people who wouldn’t jump puddles for you.
 
 Hints:
 
-- If you are lonely when you are not alone, you are in bad company.
-- If a person is nice to you and to nobody else, that person is not nice.
+- If you are lonely when not alone, you are in bad company.
+- If a person is nice to you but to nobody else, that person is not nice.
 - Trust and vulnerability are correlated. Don’t hide your feelings from people who show you theirs.
-- Supporting helps people grow and builds healthy relationships. Fixing manipulates people and builds resentment and/or co-dependency.
+- Supporting helps people grow and builds healthy relationships. Fixing manipulates and breeds resentment or co-dependency.
 - Sometimes connections grow. Sometimes they stay the same. Sometimes they collapse.
-- Choose people that choose you. The end.
-- Loyalty is earned, not owed. If they drain your energy, stunt your growth, or disrespect your boundaries, let them go. You weren’t born to carry dead weight. Protect your peace and move forward.
-- Never force, don’t beg and don’t chase.
-- One day you’re going to miss how much I cared.
+- Choose people who choose you. The end.
+- Loyalty is earned, not owed. If they drain your energy, stunt your growth, or disrespect boundaries, let them go. You weren’t born to carry dead weight. Protect your peace and move forward.
+- Never force, beg, or chase.
+- One day you’ll miss how much I cared.
 - Be careful what you tolerate. You are teaching people how to treat you.
-- The more you do for people the less gratitude they show. The more you go out of your way for them to like you, the less appreciative they are of you. too much availability kills your VALUE.
+- The more you do for people, the less gratitude they show. The more you go out of your way to be liked, the less appreciative they are. Too much availability kills your value.
 
 > *"Faults are thick where love is thin."  
 -- vox populi*
@@ -1599,16 +1612,18 @@ Hints:
 ## On family and friends
 
 <!--
+#q["The only way to have a friend is to be one." -- Ralph Waldo Emerson $  1803  $]
 + @NavalismHQ -- "Either have children or become a saint, because eventually, you have to find something you love more than you love yourself."
 - If they are not in front of you, leave them behind. Transactional friendships decrease your happiness.
+#q["A friend to all is a friend to none." -- Aristotle $  -384  $]
 -->
 
 > *"True friendship can exist only between equals."  
 -- Plato [-427]*
 
-Life is meant to be lived in community but don’t settle for a place where you’re tolerated. Go where you’re celebrated.
+Life is meant to be lived in community, but don’t settle for a place where you’re tolerated. Go where you’re celebrated.
 
-Be independent from your family but loyal at the same time. Keep your friends for friendship but work with the skilled and competent. Resist the temptation of working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around into who you want them to be.
+Be independent from your family but loyal at the same time. Keep friends for friendship but work with the skilled and competent. Resist working with family and friends. Peers are peers, not boss and employee. You will waste your life trying to make those around you into who you want them to be.
 
 > *"Your friends are the ones that go to your funeral in a day of rain."  
 -- vox populi*
@@ -1649,12 +1664,12 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 > *"Your family is broken but you’re going to fix the world."  
 -- Naval Ravikant [1974]*
 
+> *"Parents spot fake friends. Children spot fake relatives."  
+-- x@falsi1ke*
+
 > *"A mother tells you you’re special. A father gets you to prove it." (...)  
 "If you can’t talk shit to your friends, you’re not friends."  
 -- x@alexhormozi*
-
-> *"Parents spot fake friends. Children spot fake relatives."  
--- x@falsi1ke*
 
 ### How to curate your friends?
 
@@ -1663,31 +1678,31 @@ Be independent from your family but loyal at the same time. Keep your friends fo
 
 You are the average of your friends.
 
-If you’re always the smartest in the room, you’re in the wrong room. When you enter a workplace, think that you will become like them and not the opposite.
+If you’re always the smartest in the room, you’re in the wrong room. When you enter a workplace, assume you will become like them, not the opposite.
 
 Hints:
 
 - Bad friends will prevent you from having good friends.
-- Be suspicious of people who like being owed a favor. Especially if it is not a favor you requested.
-- Divide up your life. Spend 33% of your time around people lower than you, you can mentor them. Spend 33% of your time with people that are on your level – your friends and peers. Spend 33% of your time with people that are 10-20 years ahead of you. Those are your mentors.
-- Find somebody smarter to teach you, somebody equal to challenge you and somebody less developed that you can teach. Remember that sometimes people wind up in our lives not because we judged them as high-quality individuals, but because of circumstance and nothing more.
-- I love Nietzsche’s definition of friendship, which is "people with whom you share one great suffering and one great hope." You can’t be friends unless you hate the same things and worship the same Gods.
-- If you look at the people in your circle and don’t get inspired, you don’t have a circle. You have a cage.
+- Be suspicious of people who like being owed favors, especially unrequested ones.
+- Divide your life: 33% with people below you (mentor them), 33% with equals (friends/peers), 33% with people 10–20 years ahead (mentors).
+- Find someone smarter to teach you, equals to challenge you, and less developed to teach. Sometimes people enter our lives via circumstance, not quality.
+- Nietzsche’s friendship: share one great suffering and one great hope. You can’t be friends unless you hate the same things and worship the same gods.
+- If your circle doesn’t inspire you, it’s a cage, not a circle.
 - If your absence doesn’t bother them, your presence never mattered.
-- Instead of trying to change people, curate them.
-- It’s ok to unfollow people in real life. Don’t let your loneliness tempt you to reconnect with toxic people. You wouldn’t drink poison just because you’re thirsty.
-- Maintain old friendships. 
+- Instead of changing people, curate them.
+- It’s okay to unfollow in real life. Don’t let loneliness tempt reconnection with toxic people, you wouldn’t drink poison because you’re thirsty.
+- Maintain old friendships.
 - Pay attention to who you’re with when you feel your best.
-- Stay way from people who act like a victim in a problem they created.
-- Surround yourself with people who challenge you to be better, not people who are enamored with who you already are. People who genuinely want the best for you are very rare and they are usually already wealthy, loved and happy.
-- The older you get as a man, the more you understand your father and forgive him for everything.
-- The real miracle of Jesus was having 12 close friends in your late 30s.
-- There are cycles in life. Do not expect people to level up with you. You are not supposed to keep the same friends forever. The price of growth is outgrowing people. Your successful friends will leave you behind if you don’t level up too.
-- You need friends who inspire you to do better, not acquaintances who tell you what you can’t do.
+- Stay away from people who act like victims in problems they created.
+- Surround yourself with people who challenge you to be better—not enamored with who you already are. Genuine supporters are rare and usually already wealthy, loved, happy.
+- The older you get as a man, the more you understand and forgive your father.
+- The real miracle of Jesus was having 12 close friends in his late 30s.
+- Life has cycles, don’t expect people to level up with you. Growth’s price is outgrowing people. Successful friends leave if you don’t level up too.
+- You need friends who inspire better, not acquaintances who say what you can’t do.
 - You only grow apart from people who don’t grow.
-- Your girlfriend will get a new boyfriend. Your boss will replace you before your burial. But your mum won’t get another son. Take care of her. Your birthday is for your mom, not you.
-- Your single female friends are the most toxic thing in your relationship DUMP them!
-- You’re never too old to make a friend. Look for people with the same interests as you. Second step is inviting them to do something. If a buddy calls and needs to get a drink, go. You know someone is a friend when you can go long stretches without talking and the talk is right where we left off.
+- Your girlfriend will get a new boyfriend. Your boss will replace you before your burial. But your mom won’t get another son—take care of her. Your birthday is for your mom, not you.
+- Your single female friends are the most toxic thing in your relationship, dump them.
+- You’re never too old to make a friend. Look for shared interests. Invite them to do something. A true friend is someone you can go long stretches without talking to, then pick up right where you left off.
 
 > *"Brothers love each other when they are equally rich."  
 -- vox populi*
@@ -1747,16 +1762,16 @@ Hints:
 
 You attract what you are.
 
-Love is what happens to men and women that don’t know each other. Love doesn’t hurt, expectations do. Every person feels loved in a different form.
+Love is what happens between men and women who don’t know each other. Love doesn’t hurt, expectations do. Every person feels loved in a different way.
 
 Hints:
 
 - We fall in love with someone because of how they make us feel about ourselves.
 - We’re always looking for somebody that looks for us. First parents, then a lover. Screens give us 100% attention. Tech is a compensation.
-- Man’s loyalty is tested when he has everything. Woman’s loyalty is tested when her man has nothing.
-- Arguing and insecurity is anti-seductive. Familiarity is the death of seduction.
-- Relationships start with «can we talk» to «we need to talk». Once you start disliking someone, everything they do is irritating to you. A dirty dish by the sink can be a big marriage problem.
-- Keep separate bank accounts. Spouses should have the freedom and autonomy to buy what they want but only after bills are automatically paid. People value things differently. Having to justify every expense makes you feel like you’re being watched. This breeds resentment. Most marriages end in divorce, most of them over money.
+- A man’s loyalty is tested when he has everything. A woman’s loyalty is tested when her man has nothing.
+- Arguing and insecurity kill seduction. Familiarity is seduction’s death.
+- Relationships shift from «can we talk» to «we need to talk». Once dislike sets in, everything irritates. A dirty dish can become a major marriage issue.
+- Keep separate bank accounts. Spouses need freedom to buy what they want after bills are paid. People value things differently. Justifying every expense feels like surveillance and breeds resentment. Most marriages end in divorce, most over money.
 
 > *"There are three qualities to look for in a partner: intelligence, energy, and integrity. You need all three. You can’t compromise on any one of them."  
 -- Naval Ravikant [1974]*
@@ -1882,7 +1897,6 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 ### What women value in men
 
 <!--
-	
 - I want a man that sees my demons.
 - My man needs to have good social skills. I don’t care how he gets them.
 - Women would break down crying if they understood how much more pure men are compared to them.
@@ -1891,15 +1905,24 @@ First you see the virtues. Then the flaws. For a long and deep relationship, val
 > *"A gentleman holds my hand. A man pulls my hair. A soulmate will do both."  
 -- Alessandra Torre [1978]*
 
-Women like a gentleman who knows when not to be gentle and exhibits grace under pressure.
+Women want a gentleman who knows when not to be gentle, and who shows grace under pressure.
+
+No woman wants a boring man. No woman wants a coward. But also no woman wants to be alone. They want a man taller and stronger than them, who earns more, who leads assertively and decisively while pretending they are his equal.
 
 Hints:
 
-- Girls don’t leave good guys. They leave boring ones. Only a coward is worse than a boring guy. They want neither of them.
-- What men think women want: Looks and money. What women actually need: Leadership, humor, honesty, intelligence, resilience, certainty in their actions.
-- Men pick loyal girls over successful ones. Girls pick successful men over loyal ones.
-- Women respect security, power, and ambition. If you’re broke, you’re tolerated at best and ignored at worst. Without money only mother can love you.
-- Every woman wants sex, she just wants it from the best. Women want to be desired, not because it gives them connection, but because it gives them control.
+- Women don’t leave good guys, they leave boring ones. Only a coward is worse than boring.
+- Men think women want looks and money. Women want leadership, humor, honesty, intelligence, resilience, and certainty.
+- Men choose loyal women over successful ones. Women choose successful men over loyal ones.
+- Women respect security, power, and ambition. Broke men are tolerated at best, ignored at worst. Without money, only your mother can love you.
+- How a woman sees men depends mostly on her father.
+- Women aren’t investors in men — they won’t wait for «potential». They find a man who’s already made it and join his success. They’re attracted to traits that create money. Sex is their reward.
+- Every woman wants sex from the best man. Women want to be desired for control, not connection.
+- Every woman chooses a successful cheater over a faithful loser. Good men go unappreciated until they stop caring.
+- Women dislike violence but it excites them; dislike arrogance but are drawn to arrogant men; want full disclosure but prefer mystery; dislike your options but respect you if you have them. Narcissists beat women at their game — that’s why women love them. She prefers the fun guy over the calm, stoic one.
+- Nice guys can’t fuck. Give alpha or sigma — just not beta.
+- «Why is he so focused on me? Does he have nothing else in life? He’s boring.»
+- «I’d marry a feminist guy. But the guys I sleep with aren’t husband material—they’re sexist jerks lol.»
 
 > *"Man is loved mainly because of two virtues: courage first, loyalty second."  
 -- Gaius Lucilius [-180]*
@@ -1928,27 +1951,69 @@ Hints:
 > *"Most women fall in love with the lifestyle of a man, not with the man himself."  
 -- x@falsi1ke*
 
+> *"The 3 guys she wants to fxck: The guy who is better than her. The guy who is more important than her. The guy who is more interesting than her."  
+-- x@alpharivelino*
+
+> *"And she followed up with the take that this is why women like dad bod over the obsessive-fitness figure: It signals positively about the underlying psychology and priorities. Like Jung said: «Mentally unhealthy people are usually fanatics of healthy lifestyles»."  
+-- x@dhh*
+
+> *"Women are most satisfied when their partner is 21cm (8.27in) taller then they are. Men are most satisfied when they are 8cm (3.15in) taller then their partner." (Stulp/Buunk/Pollet)  
+-- x@harmlessyarddog*
+
+> *"I’m an average woman who doesn’t want an average man."  
+-- x@icameback5*
+
+> *"Women are status-driven creatures. In the West, foreign men are given higher status than native men. Hence, native women will instinctively side with foreigners over their own."  
+-- x@pulpchico*
+
+> *"A shy man is inexperienced. And no woman wants an innocent man."  
+-- x@realthoughtsfem*
+
+> *"If male baldness was universally unattractive, it would’ve disappeared long ago -- like female baldness."  
+-- x@stefanmolyneux*
+
 ### What men value in women
 
-> *"No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful."  
--- Eleanor Roosevelt [1884]*
+<!--
+- «Life Coaches» see this neediness as a perfect niche to sell Blue Pill dreams back to guys who want to cling to their Blue Pill security blankets in Red Pill awareness. How miraculous would it seem to think you’re Red Pill savvy enough to make all your old Blue Pill dreams -- the ones you went through hell to disabuse yourself of -- come true.
+-->
 
-Trust, style, nice to my family, ambitious and adventurous. Men hate disrespect more than they love sex.
+> *"Men are simple. Give them sex, respect and a home-cooked meal and they’ll move mountains for you. It’s not that they’re hard to please, it’s just that too many women refuse to try."  
+-- x@pallnandi*
 
-Hints:
+Men hate disrespect more than they love sex.
 
-- Young women value themselves based on how much men want to sleep with them, which gives them a false high self valuation. If they valued themselves based on how much men wanted to marry them once they got to know them, they’d have a much more accurate estimation of their worth.
-- Men do not care if a woman is an engineer or a doctor. They only care about if she’s loyal, respectful and not a hoe.
+_Hints:_
+
+- Young women value themselves based on how much men want to sleep with them—this creates a false high self-valuation. If they valued themselves based on how much men want to marry them after getting to know them, they’d have a more accurate sense of worth.
+- Men do not care if a woman is an engineer or doctor. They care if she’s loyal, respectful, and not promiscuous.
 - Every boy wants a good girl to be bad just for him. Every girl wants a bad boy to be good just for her.
+- Trust, style, nice to my family, ambitious, and adventurous.
+- Unicorn of the Western world: no tattoos, debt-free, virgin.
 
 > *"When neither their poverty nor their honor is touched, the majority of men live content."  
 -- Niccoló Machiavelli [1469]*
+
+> *"No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful."  
+-- Eleanor Roosevelt [1884]*
 
 > *"An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  
 -- Ian McEwan [1948]*
 
 > *"A man settles down where he finds peace. Not beauty, not money, not status, but PEACE."  
 -- x@falsi1ke*
+
+> *"99% of women underestimate the power of making their husband a sandwich and delivering it to him in a sundress."  
+-- x@giammacool*
+
+> *"At the end of the day, even billionaires trying to become immortal want nothing more than a mid to call their own."  
+-- x@iterintellectus*
+
+> *"Men do not care about your career, ladies. I’m sorry, they just don’t. They will date a waitress over a corporate executive if they treat them right and make their lives easier."  
+-- x@jedediahbila*
+
+> *"Most men don’t want an «independent, empowered» woman. That’s code for bitchy slut with a chip on her shoulder. We all want a sweet, nice, joyful, feminine woman who treats her man like a king."  
+-- x@realvictorpride*
 
 
 
@@ -1959,19 +2024,22 @@ Hints:
 
 <!--
 - A women is either a 0 or a 1. A hoe or a wife material. Don’t overcomplicate.
+#q["A successful marriage requires falling in love many times, always with the same person." -- Mignon McLaughlin $  1913  $]
 -->
 
 > *"Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed."  
 -- H. Harwood [1874] & R. Gore-Bro [1893]*
 
-Marry an happy person. Unhappy spouse, unhappy life. Men are not avoiding marriage, men are avoiding divorce.
+Marry a happy person. An unhappy spouse means an unhappy life.
+
+Men aren’t avoiding marriage, they’re avoiding divorce.
 
 Hints:
 
-- A man would marry a poor woman as long as she’s loyal. A woman would marry a cheating man as long as he’s rich.
+- A man would marry a poor woman if she’s loyal. A woman would marry a cheating man if he’s rich.
 - A submissive wife can make a man richer than a career woman.
-- «I want to be wanted, but not needed. I should be the one pushing for commitment. I want to have the feeling that I make a great deal, because he’s of higher value than me.»
-- If you’re waiting for a man to get rich before you take him serious, take note. «Men don’t fall in love when they’re rich».
+- «I want to be wanted, but not needed. I should push for commitment. I want to feel I’m getting a great deal because he’s higher value than me.»
+- If you wait for a man to get rich before taking him seriously, note: «Men don’t fall in love when they’re rich.»
 
 > *"As long as the bed shakes, the house will remain stable." (...)  
 "When poverty comes in the door, love goes out of the window." (...)  
@@ -2020,15 +2088,44 @@ Hints:
 > *"He who marries for love without money has good nights and sorry days."  
 -- Ani Difranco [1970]*
 
-> *"Modern women don’t want a husband. They want a lifestyle. If another man can upgrade them, they’re gone."  
--- x@pallnandi*
-
-> *"You can tell the health of a marriage by how often the wife posts selfies."  
--- x@mc_shortyy*
-
 > *"Hard times create marriageable women. Marriageable women create good times. Good times create whores. Whores create hard times." (...)  
 "I was raised by a middle eastern family. In Lebanon only men decide divorce. The way it needs to be." (...)  
 "If she refuses to sign a prenup she’s planning the wedding and the exit strategy." (...)  
 "Ladies, If you’re thinking, «I don’t recognize the man I married, I’m not attracted to him anymore», Consider this… Pointing out everything he does wrong daily changes a man. A man who is constantly torn down will naturally pull away. If you’re not building him up daily, you’re setting yourself up for your own downfall, and worse, you’re not protecting your man." (...)  
 "Nothing is more attractive to a man than your willingness to adopt his last name. Either way, your last name is either your husband’s or your father’s. So, claiming you want to keep your last name isn’t strictly accurate."  
 -- x@giammacool*
+
+> *"You can tell the health of a marriage by how often the wife posts selfies."  
+-- x@mc_shortyy*
+
+> *"Modern women don’t want a husband. They want a lifestyle. If another man can upgrade them, they’re gone."  
+-- x@pallnandi*
+
+
+
+
+
+
+## On descendency
+
+> *"Instead of teaching fear of pregnancy, we should teach fear of childlessness."  
+-- Elon Musk [1971]*
+
+Men do not look down on women who stay home with the kids. Women do.
+
+Feminism has convinced a generation of young women that motherhood is beneath them. Treating children as burdens rather than gifts has consequences.
+
+_Hints:_
+
+- If your daughter needs abortion rights, you failed as a father.
+- If you praise a woman who aborted her child because «she did what was best for herself», then praise men who abandon theirs for the same reason.
+- No one wants to play another man’s saved game.
+
+> *"The childless are the dead branches on the tree of life."  
+-- Friedrich Nietzsche [1844]*
+
+> *"Women get dogs to fill the void of not having a toddler. Men get dogs to fill the void of not having a woman who loves him."  
+-- x@helen_mrow*
+
+> *"For some childless people, veganism becomes a stand-in for parenthood. Animals become the «kids», the planet becomes the «future», and that’s why they defend it with the same ferocity parents defend their children."  
+-- x@veganrecovering*

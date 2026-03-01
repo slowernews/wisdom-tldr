@@ -12,7 +12,7 @@
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
 -- José Saramago [1922]*
 
-Life becomes easy when you recognize the recurring patterns.
+Life becomes easy when you recognize recurring patterns.
 
 > *"History is the version of past events that people have decided to agree on."  
 -- Napoleon Bonaparte [1769]*
@@ -47,26 +47,31 @@ Life becomes easy when you recognize the recurring patterns.
 > *"He’d wasted most of his life thinking he’d wasted most of his life."  
 -- David Foster Wallace [1962]*
 
-> *"History is the study of change, ironically used as a map of the future."  
--- x@morganhousel*
-
-> *"The history of the world: men fighting for power and women fucking whoever wins."  
+> *"The history of the world: men fighting for power and women fxcking whoever wins."  
 -- x@alpharivelino*
-
-> *"If a journalist can have a hidden agenda, imagine a historian."  
--- x@rapahelz*
 
 > *"If all you study is the news then you’ll conclude that things have never been worse. If all you study is history then you’ll conclude that things have never been better."  
 -- x@brianferoldi*
 
+> *"History is the study of change, ironically used as a map of the future."  
+-- x@morganhousel*
+
+> *"If a journalist can have a hidden agenda, imagine a historian."  
+-- x@rapahelz*
+
 ### On memory
+
+<!--
+#q["The past is never where you think you left it." -- Katherine Anne Porter $  1890  $]
+#q["Memory is the diary that we all carry about with us." -- Oscar Wilde $  1854  $]
+-->
 
 > *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
 -- Rosalind Cartwright [1922]*
 
 You are your memory.
 
-However you can’t start a new chapter of your life if you keep re-reading the last one. The past may be a nice place to visit but certainly not a good place to stay. Let go your past failures. They are meant to guide you, not to define you or determine your future. Don’t be a prisoner of your past, it was just a lesson not a life sentence. The people who struggle most are the ones who can’t accept the incessant unfairness of life. They become so consumed with what should have happened, the way other people should have behaved that they become incapable of dealing with reality. Who are you becoming is more important than who you have been.
+However, you can’t start a new chapter if you keep re-reading the last one. The past is a nice place to visit but not to stay. Let go of past failures—they guide you, not define or determine your future. Don’t be a prisoner of your past; it was a lesson, not a life sentence. People who struggle most can’t accept life’s incessant unfairness. They fixate on what should have happened or how others should have behaved, becoming incapable of dealing with reality. Who you are becoming matters more than who you have been.
 
 > *"Death leaves a heartache no one can heal; love leaves a memory no one can steal."  
 -- vox populi*
@@ -135,9 +140,9 @@ However you can’t start a new chapter of your life if you keep re-reading the 
 
 You will die soon.
 
-Act accordingly and don’t postpone joy. Live life like it’s everyone else’s last day. If you can’t find pleasure in the simple or the mundane, you won’t find it anywhere. Just because you are not where you want to be, doesn’t mean that you cannot have fulfillment and joy in the present moment.
+Act accordingly and don’t postpone joy. Live as if it’s everyone else’s last day. If you can’t find pleasure in the simple or mundane, you won’t find it anywhere. Not being where you want to be doesn’t mean you can’t have fulfillment and joy now.
 
-The elderly and dying invariably regret what they didn’t do, not what they did.
+The elderly and dying regret what they didn’t do, not what they did.
 
 > *"We are always complaining that our days are few, and acting as though there would be no end of them."  
 -- Seneca [-004]*
@@ -187,9 +192,9 @@ The elderly and dying invariably regret what they didn’t do, not what they did
 
 Dream big.
 
-An ambitious goal sets the bar so high that even a failure can be considered a success by ordinary standards. If your dreams don’t frighten you, they are not big enough.
+An ambitious goal sets the bar so high that even failure can feel like success by ordinary standards. If your dreams don’t scare you, they’re not big enough.
 
-Our present (in)actions will compound into the future we will experience. Futurism is a study of time. Anomalies often represent the future but to our eyes they seem strange.
+Our present actions (or inaction) compound into the future we’ll live. Futurism studies time—today’s anomalies often preview tomorrow, though they appear strange now.
 
 > *"A man without a vision for his future always return to his past."  
 -- vox populi*
@@ -207,9 +212,6 @@ Our present (in)actions will compound into the future we will experience. Futuri
 > *"In the business world, the rearview mirror is always clearer than the windshield."  
 -- Warren Buffett [1930]*
 
-> *"The future belongs to those who see possibilities before they become obvious."  
--- John Sculley [1939]*
-
 > *"History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is «What might I be wrong about?»"  
 -- Kevin Kelly [1952]*
 
@@ -219,11 +221,11 @@ Our present (in)actions will compound into the future we will experience. Futuri
 > *"The future belongs to people who are good at creating things, not people who are good at dividing them up."  
 -- Naval Ravikant [1974]*
 
-> *"Every expert has a past. Every creator has a future."  
--- x@rapahelz*
-
 > *"Your future is constantly shrinking, so the longer you spend preparing for it, the smaller it’s going to be."  
 -- x@g_s_bhogal*
+
+> *"Every expert has a past. Every creator has a future."  
+-- x@rapahelz*
 
 ### On dreams
 

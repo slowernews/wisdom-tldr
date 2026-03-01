@@ -14,7 +14,9 @@
 > *"The secret to creativity is knowing how to hide your sources."  
 -- Albert Einstein [1879]*
 
-Creative minds are rarely tidy. We don’t have a«imagination», we have a memory. More than addition, creativity is subtraction.
+Creative minds are rarely tidy.
+
+We don’t have a«imagination», we have a memory. More than addition, creativity is subtraction.
 
 > *"What is now proved, was once only imagined."  
 -- William Blake [1757]*
@@ -52,9 +54,6 @@ Creative minds are rarely tidy. We don’t have a«imagination», we have a memo
 > *"Imagination should be used not to escape reality, but to create it."  
 -- Colin Wilson [1931]*
 
-> *"When nothing is sure, everything is possible."  
--- Margaret Drabble [1939]*
-
 > *"Negativity is the enemy of creativity."  
 -- David Lynch [1946]*
 
@@ -76,11 +75,9 @@ Creative minds are rarely tidy. We don’t have a«imagination», we have a memo
 > *"The way to get good ideas is to get lots of ideas and throw the bad ones away."  
 -- Linus Pauling [1901]*
 
-Best ideas come from the market, not from you. Changes in the environment unlock opportunities.
+Best ideas come from the market, not from you.
 
-Creativity is a muscle. Without new experiences, it atroffiates. Ideas born out of free time, play and boredom. Conventional people living conventional lives lead to conventional ideas.
-
-Ignorance is a blessing, gives you freedom to think about stuff.
+Changes in the environment unlock opportunities. Creativity is a muscle, it atrophies without new experiences. Ideas emerge from free time, play, and boredom. Conventional lives produce conventional ideas. Ignorance is a blessing, it gives freedom to think afresh.
 
 > *"Name the greatest of all inventors. Accident."  
 -- Mark Twain [1835]*
@@ -119,15 +116,12 @@ Ignorance is a blessing, gives you freedom to think about stuff.
 > *"If everyone thinks it’s a good idea, you already missed the opportunity."  
 -- x@alexhormozi*
 
-Ask peers. Managers will regret more a false positive than a false negative.
+Ask peers. Managers regret false positives more than false negatives.
 
-However the right idea not executed is worth nothing and a mediocre one well executed can be worth much. So focus on transforming yourself into the kind of person who can bring them to life. 
+However, the right idea unexecuted is worthless and a mediocre one well executed can be valuable. Focus on becoming the person who can bring ideas to life.
 
 > *"A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man’s brow."  
 -- Ovid [-039]*
-
-> *"In order to attain the impossible, one must attempt the absurd."  
--- Miguel de Cervantes [1547]*
 
 > *"There is one thing stronger than all the armies in the world, and that is an idea whose time has come."  
 -- Victor Hugo [1802]*
@@ -174,10 +168,20 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 + x@wordgrammer -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
 > *"Reality is that which does not go away when you stop thinking about it."  -- Naval Ravikant [1974]*
 > *"All the ways of a man are clean in his own sight, but the Lord weighs the motives."  -- Proverbs 16:2*
+> *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
 
 - if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
 - It’s less about the past men than the future men. Past actions predict future actions. Hoeing around, then getting scared and wanting to "settle down", is basically a guarantee that she has no intention of changing her behavior. She’s just realizing how much she has to lie. Never forget: Your word is your power.
 - We overlook major flaws in those we like. And exaggerate minor faults in those we don’t.
+- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths — even those that had seemed so certain as to be immune to the very possibility of revision — are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
+- Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
+- if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
+- Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
+- tese antitheses -> syntesis
+- The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
+- The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
+- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
+Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that «things fall down». You then attempt to prove the opposite—«things fall up». If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
 -->
 
 > *"There are no facts, only interpretations."  
@@ -185,13 +189,36 @@ However the right idea not executed is worth nothing and a mediocre one well exe
 
 Analysis is an art, not a science.
 
-The main problem with analysis is our human tendency to think that what we see is all there is, without realizing that what we see is being filtered. I don’t trust words. I even question actions. But I never doubt patterns.
+The main problem is our tendency to think what we see is all there is, without realizing our view is filtered. Prefer stats over narratives. I don’t trust words. I question actions. But I never doubt patterns.
+
+Hints:
+
+- True motivations are revealed, not declared. There’s always a good reason and a real reason.
+- Look for what doesn’t make sense, that’s where the opportunity hides.
+- Most facts are signals, but some are just random noise.
+- Pay attention to negative cues, what should have happened but didn’t.
+- «Chekhov’s gun»: if something is described earlier, it matters later.
+- Skepticism is a great servant and a terrible master.
+- Stereotypes contain truth and they self-correct.
+- Actively seek disconfirming evidence to fight confirmation bias.
+- Nothing is as simple as it first seems, as hopeless in the middle, or as finished at the end.
+- Nothing is as good or bad as it first appears.
+- Bragging razor: halve what’s bragged about; double what’s downplayed.
+
+> *"Understanding a question is half an answer."  
+-- Socrates [-470]*
+
+> *"Remember that all is opinion."  
+-- Seneca [-004]*
 
 > *"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."  
 -- Marcus Aurelius [0121]*
 
 > *"What Paul says about Peter tells us more about Paul than Peter."  
 -- Baruch Spinoza [1632]*
+
+> *"I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things."  
+-- Benjamin Franklin [1706]*
 
 > *"A man sees in the world what he carries in his heart."  
 -- J.W. Goethe [1749]*
@@ -216,6 +243,9 @@ The main problem with analysis is our human tendency to think that what we see i
 "It is by logic that we prove, but is by intuition that we discover."  
 -- Henri Poincaré [1854]*
 
+> *"Sometimes a cigar is just a cigar."  
+-- Sigmund Freud [1856]*
+
 > *"The power of accurate observation is commonly called cynicism by those who have not got it."  
 -- George Bernard Shaw [1856]*
 
@@ -225,100 +255,32 @@ The main problem with analysis is our human tendency to think that what we see i
 > *"Not everything that counts can be counted, and not everything that can be counted counts."  
 -- Albert Einstein [1879]*
 
+> *"Absence, the highest form of presence."  
+-- James Joyce [1882]*
+
 > *"We don’t look at what we look, but at what we are."  
 -- Fernando Pessoa [1888]*
 
 > *"To understand is to know what to do."  
 -- Ludwig Wittgenstein [1889]*
 
-> *"All observations are theory-impregnated. There is no pure, disinterested, theory-free observation."  
--- Karl Popper [1902]*
-
-> *"Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital."  
--- Aaron Levenstein [1910]*
-
-> *"The eye sees only what the mind is prepared to comprehend."  
--- Robertson Davies [1913]*
-
-> *"Ninety percent of everything is crap."  
--- Theodore Sturgeon [1918]*
-
-> *"Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?"  
--- George Carlin [1937]*
-
-> *"Don’t tell me what you value. Show me your budget, and I’ll tell you what you value."  
--- Joe Biden {quoting his father} [1942]*
-
-> *"Information is useless unless you know how to interpret it."  
--- Robert Greene [1959]*
-
-> *"Nothing is as good or as bad as it seems."  
--- Scott Galloway [1964]*
-
-> *"The probability that your theory is correct decreases exponentially with the number of assumptions you make."  
--- Pedro Domingos [1965]*
-
-> *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  
--- x@morganhousel*
-
-> *"Complexity is always a cover for fraud. In every domain."  
--- x@scottadamssays*
-
-<!--
-> *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
-
-- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths — even those that had seemed so certain as to be immune to the very possibility of revision — are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
-- Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
-- if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
-- Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
-- tese antitheses -> syntesis
-- The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
-- The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
-- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
-Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that «things fall down». You then attempt to prove the opposite—«things fall up». If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
--->
-
-Hints:
-
-- True motivations are revealed, not declared.
-- Prefer stats than narratives. We have two kinds of forecasters: The ones who don’t know and the ones who don’t know they don’t know.
-- There’s always a good reason and a real reason.
-- Look for something that doesn’t make sense. That’s where the gold mine is: «It doesn’t make sense, the price is going down!». The world makes sense, just not the model. Some X factor is hidden. Don’t try to make sense of the world. It’s too complicated. Instead watch investors attempting to make sense of it. They’re the ones that will make the assets price move. (Adam Robinson)
-- Randomness: most facts are a «tell» but some are just random.
-- Skepticism is a great servant and a terrible master.
-- There’s truth on «group» stereotypes. «Group» opinions self correct themselves.
-- We tend to think that the people who agree with us are really smart.
-- Create a hypothesis, a yet-to-be-proven theory. Then seek ways to invalidate this hypothesis, to prove that your idea is wrong. This is what scientists do. This is exactly the opposite of what most people do. They come up with an idea, and then they seek corroboration and proof that their idea is a good one. They practice «confirmation bias». They only look for confirmation of the validity of the idea, and they simultaneously reject all input or information that is inconsistent with what they have already decided to believe.
-- Pay attention to negative cues: what should have happened but did not.
-- «Chekov bottle»: If something is described in a previous chapter, it means it will be important for the action in a future chapter.
-- Best way to deal with confirmation bias: You need to search out disconfirming evidence. Confirmation bias is our tendency to cherry pick information which confirms pre-existing beliefs or ideas. Too much info is the main cause of it: you’ll always find confirmation to your pre-existing beliefs. As a consequence, we tend to see more evidence which enforces our worldview. Confirmatory data is taken seriously, while disconfirmatory data is treated with scepticism. To constantly evaluate our worldview would be exhausting, so we prefer to strengthen it. confirmation bias: As music unfolds, the brain constantly updates its estimates of when new beats will occur, and takes satisfaction in matching a mental beat with a real-in-the-world one.
-- Nothing is as simple at seems at first, or as hopeless as it seems in the middle, or as finished as it seems in the end.
-- Nothing is as good or as bad as it seems.
-- Bragging razor: if someone brags assume half. If someone downplays double it.
-
-> *"Understanding a question is half an answer."  
--- Socrates [-470]*
-
-> *"Remember that all is opinion."  
--- Seneca [-004]*
-
-> *"I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things."  
--- Benjamin Franklin [1706]*
-
-> *"Sometimes a cigar is just a cigar."  
--- Sigmund Freud [1856]*
-
-> *"Absence, the highest form of presence."  
--- James Joyce [1882]*
-
 > *"An unfamiliar city is a fine thing. That’s the time and place when you can suppose that all of the people you meet are nice."  
 -- Louis Céline [1894]*
+
+> *"All observations are theory-impregnated. There is no pure, disinterested, theory-free observation."  
+-- Karl Popper [1902]*
 
 > *"The hardest thing to explain is the glaringly evident that everyone has decided not to see."  
 -- Ayn Rand [1905]*
 
+> *"Statistics are like bikinis. What they reveal is suggestive, but what they conceal is vital."  
+-- Aaron Levenstein [1910]*
+
 > *"You always get exaggerated notions of things you don’t know anything about."  
 -- Albert Camus [1913]*
+
+> *"Ninety percent of everything is crap."  
+-- Theodore Sturgeon [1918]*
 
 > *"Experiment and theory often show remarkable agreement when performed in the same laboratory"  
 -- Daniel Bershader [1923]*
@@ -338,6 +300,12 @@ Hints:
 > *"Things which are different in order to be different are seldom better, but that which is made to be better is almost always different."  
 -- Dieter Rams [1932]*
 
+> *"Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?"  
+-- George Carlin [1937]*
+
+> *"Don’t tell me what you value. Show me your budget, and I’ll tell you what you value."  
+-- Joe Biden {quoting his father} [1942]*
+
 > *"Whenever there is an argument between two sides, find the third side." (...)  
 "Anything you say before the word «but» does not count."  
 -- Kevin Kelly [1952]*
@@ -345,8 +313,14 @@ Hints:
 > *"The most important question: «What do you need to see to change your view?»"  
 -- Adam Robinson [1955]*
 
+> *"Information is useless unless you know how to interpret it."  
+-- Robert Greene [1959]*
+
 > *"All rumors about a public figure are to be deemed untrue until he threatens to sue."  
 -- Nassim Taleb [1960]*
+
+> *"Nothing is as good or as bad as it seems."  
+-- Scott Galloway [1964]*
 
 > *"The most valuable insights are both general and surprising. Ordinarily, the best that people can do is one without the other: either surprising without being general (e.g. gossip), or general without being surprising (e.g. cliches)." (...)  
 "That’s the thing about counterintuitive ideas, they contradict your intuitions. Of course your first impulse is to ignore them."  
@@ -354,6 +328,15 @@ Hints:
 
 > *"If you don’t know, it’s because you are not interested in it."  
 -- Naval Ravikant [1974]*
+
+> *"Every forecast takes a number from today and multiplies it by a story about tomorrow."  
+-- x@morganhousel*
+
+> *"The probability that your theory is correct decreases exponentially with the number of assumptions you make."  
+-- x@pmddomingos*
+
+> *"Complexity is always a cover for fraud. In every domain."  
+-- x@scottadamssays*
 
 > *"When a measure becomes a target, it ceases to be a good measure."  
 -- Goodhart’s Law*
@@ -370,14 +353,9 @@ Hints:
 > *"The truth does not require your participation in order to exist. Bullshit does."  
 -- Terence McKenna [1943]*
 
-Truth doesn’t mind to be questioned. A lie does..
+Truth doesn’t mind being questioned. Lies do.
 
-In a world of propaganda, the truth is always a conspiracy. If you tell the truth you don’t need to reharse anything.
-
-Hints:
-
-- How do you tell who’s telling the truth? The ones trying to silence other people are the ones lying.
-- Call a rich guy poor, and all he will do is smirk. Call a powerful man weak, and all he will do is smirk. Call a charming misogynist a «virgin», and all he will do is smirk. If it affects you, it is true.
+The ones trying to silence others are usually the ones lying. Call a rich man poor, he smirks. Call a powerful man weak, he smirks. If it stings, it’s probably true. In a world of propaganda, truth looks like conspiracy. If you tell the truth, you don’t need to rehearse.
 
 > *"There are 3 truths: my truth, your truth, and the truth." (...)  
 "Who’s talking the truth doesn’t need a lot of words." (...)  
@@ -477,7 +455,7 @@ Hints:
 ## On planning and strategy
 
 <!--
-- What you think is your problem is not your problem, your strategy is.  
+- What you think is your problem is not your problem, your strategy is.
 - 20% of the game is strategy. 80% of the game is not quitting.
 - a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
 - Don’t tell everyone your plans, instead show them your results.
@@ -488,7 +466,7 @@ Hints:
 > *"All battles are won or lost before they are ever fought."  
 -- Sun Tzu [-544]*
 
-You can’t predict but you can prepare for the highly probable scenarios.
+You can’t predict the future, but you can prepare for highly probable scenarios.
 
 > *"Pray to Allah, but tie your camel."  
 -- Muhammad [0570]*
@@ -554,9 +532,9 @@ Start with a vision. Then look for actionable steps.
 
 Hints:
 
-- Plans are only a starting point. Choose a plan with options. A plan is only useful if it can survive reality. And a future filled with unknowns is everyone’s reality. Too detailed plans (or too general plans) are not useful and a waste of time. The most important part of every plan is to plan on the plan not going according to plan.
-- Don’t sabotage them when they get tedious or too difficult.
-- Actions aligned with goals.
+- Plans are only a starting point. Choose flexible plans with options. A good plan survives reality and expects to be revised.
+- Don’t sabotage plans when they get tedious or difficult.
+- Align actions with goals.
 - Quality is the best business plan.
 
 > *"You make plans and god laughs." (...)  
@@ -673,17 +651,19 @@ Getting 80% good decisions is exponentially better than 70%. We think we make ch
 > *"The world doesn’t have the luxury of waiting for complete answers before it takes action."  
 -- Daniel Gilber [1957]*
 
-Fast decisions are a competitive advantage but most people get paralyzed by over thinking. If you don’t decide timely somebody will do it for you.
+If you don’t decide timely, someone else will decide for you.
+
+Fast decisions are a competitive advantage. Most people paralyze themselves with overthinking.
 
 Hints:
  
-- Default to no. (Steve Jobs)
-- «Hell yes or no». Say no to things you aren’t really excited about doing. (Derek Sivers)  
-- No to any decision that requires a calculator or computer. (Warren Buffett)  
-- With two equally difficult paths, choose the one more painful in the sort term. Pain avoidance is creating an illusion of equality. (Naval Ravikant)
-- Choose the one that may produce most serendipity down the line.
-- Is the decision reversible or irreversible? If it is reversible, make it fast and without perfect information. If is irreversible, slow down and ensure that you understand the problem. (Jeff Bezos)
-- Optimal decisions occur with 70% of the information. Anything less and you’ll probably make a bad decision. Anything more and you’re probably wasting time on something that is unlikely to change the outcome. (Jeff Bezos)
+- Default to no (Steve Jobs).
+- Hell yes or no. Say no to anything you’re not genuinely excited about (Derek Sivers).
+- No to any decision that requires a calculator or computer (Warren Buffett).
+- With two equally difficult paths, choose the one more painful in the short term. Pain avoidance often creates the illusion of equality (Naval Ravikant).
+- Choose the path with the most potential serendipity down the line.
+- Is the decision reversible or irreversible? Reversible, decide fast with imperfect info. Irreversible, slow down and understand the problem deeply (Jeff Bezos).
+- Optimal decisions happen at \~70% information. Less and you’ll probably make a bad decision. More and you’re probably wasting time on low impact details. (Jeff Bezos).
 
 > *"To beat the bureaucracy, make your problem their problem." (...)  
 "If you have to take it or leave it, leave it."  
@@ -709,7 +689,7 @@ Hints:
 -- Kevin Kelly [1952]*
 
 > *"Economics teaches you that making a choice means giving up something."  
--- Russ Roberts[1954]*
+-- Russ Roberts [1954]*
 
 > *"The cost of being wrong is less than the cost of doing nothing."  
 -- Seth Godin [1960]*
@@ -737,7 +717,9 @@ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficien
 > *"All models are wrong but some are useful."  
 -- George Box [1919]*
 
-A mental model is a tool. If you don’t understand its limitations, you don’t understand the model. The practical question is how limited do they have to be to not be useful. 
+A mental model is a tool.
+
+If you don’t understand its limitations, you don’t understand the model. The practical question is how limited it can be and still remain useful.
 
 > *"A model which took account of all the variation of reality would be of no more use than a map at the scale of one to one."  
 -- Joan Robinson [1903]*
