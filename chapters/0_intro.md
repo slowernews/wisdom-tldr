@@ -11,8 +11,14 @@
 
 Your job here on earth is to make a few life decisions extremely well, and the rest is a rounding error.
 
+> *"Life is not a problem to be solved but a reality to be experienced."  
+-- Soren Kierkegaard [1813]*
+
 > *"The purpose of life is to be defeated by greater and greater things."  
 -- Rainer Maria Rilke [1875]*
+
+> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."  
+-- Maya Angelou [1928]*
 
 > *"The meaning of life is to find your gift. The purpose of life is to give it away."  
 -- David Viscott [1938]*
@@ -82,6 +88,9 @@ Truly happy people stay quiet and private. Busy people are happier, they have no
 > *"Happiness consists in getting enough sleep. Just that, nothing more."  
 -- Robert A. Heinlein [1907]*
 
+> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
+-- Abraham Maslow [1908]*
+
 > *"Maybe happiness is this: not feeling like you should be elsewhere, doing something else, being someone else."  
 -- Isaac Asimov [1920]*
 
@@ -128,6 +137,8 @@ Truly happy people stay quiet and private. Busy people are happier, they have no
 
 <!--
 > *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
+> *"I can think, I can wait and I can fast."  -- (buddha) Siddahrta Gautama [-564]*
+- chi sei? sono l’evoluzione di tutti i miei errori.
 -->
 
 > *"You are the combination of your habits and the people who you spend the most time with."  
@@ -135,14 +146,13 @@ Truly happy people stay quiet and private. Busy people are happier, they have no
 
 Your actions reveal your real values. Not what you say, not what you believe.
 
-You are your options. Much of who you are is who you refuse to be. Ultimately, you are your choices. Cancel your pity party, no one is coming to save you. Take total ownership of everything in your life, no matter where you are in life, you have the power to change everything in an instant. Most won’t. Your new life will cost you your old one and there is no coming to consciousness without pain. To be real, you need to be vulnerable, and we do anything to avoid facing our own soul. We say we try to get better, but our behavior shows we’re actually trying to stay the same. The longer you live on autopilot, the harder the future becomes. It’s not lack of intelligence but lack of focus stopping you. Focus on financial freedom first, but put happiness before goals. The biggest comeback is feeling like yourself again.
-
-> *"What we think, we become." (...)  
-"I can think, I can wait and I can fast."  
--- (buddha) Siddahrta Gautama [-564]*
+Cancel your pity party, no one is coming to save you. Take total ownership of everything in your life, you have the power to change everything in an instant. Most won’t. Your new life will cost you your old one and there is no coming to consciousness without pain. We say we try to get better, but our behavior shows we’re actually trying to stay the same. To be real, you need to be vulnerable, and we do anything to avoid facing our own soul. The longer you live on autopilot, the harder the future becomes. It’s not lack of intelligence but lack of focus stopping you. Focus on financial freedom first, but put happiness before goals. The biggest comeback is feeling like yourself again. Much of who you are is who you refuse to be. You are your options. Ultimately, you are your choices.
 
 > *"Day by day, what you choose, what you think and what you do is who you become."  
 -- Heraclitus [-535]*
+
+> *"Everyone sees what you appear to be, few experience what you really are."  
+-- Niccoló Machiavelli [1469]*
 
 > *"It isn’t what we say or think that defines us, but what we do."  
 -- Jane Austen [1775]*
@@ -151,12 +161,22 @@ You are your options. Much of who you are is who you refuse to be. Ultimately, y
 "The most common form of despair is not being who you are."  
 -- Soren Kierkegaard [1813]*
 
-> *"I am not what happened to me, I am what I choose to become." (...)  
-"The privilege of a lifetime is to become who you truly are."  
+> *"The world will ask you who you are, and if don’t know, the world will tell you." (...)  
+"I am not what happened to me, I am what I choose to become."  
 -- Carl Jung [1875]*
+
+> *"Perhaps you’re a slave to your own idea of yourself."  
+-- D.W. Lawrence [1885]*
 
 > *"When a person can’t find a deep sense of meaning, they distract themselves with pleasure."  
 -- Victor Frankl [1905]*
+
+> *"You’re under no obligation to be the same person you were five minutes ago." (...)  
+"Waking up to who you are requires letting go of who you imagine yourself to be."  
+-- Alan Watts [1915]*
+
+> *"I have already lost touch with a couple of people I used to be."  
+-- Joan Didion [1934]*
 
 > *"The world wants to assign you a role in life. And once you accept that role you are doomed."  
 -- Robert Greene [1959]*
@@ -174,6 +194,10 @@ You are your options. Much of who you are is who you refuse to be. Ultimately, y
 
 ## On finding your path
 
+<!--
+> *"I’d woke up early and I took a long time getting ready to exist."  -- Fernando Pessoa [1888]*
+-->
+
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  
 -- Richard Bach [1936]*
 
@@ -181,9 +205,9 @@ You are not behind, you are on a different path.
 
      DESTINY = EFFORT + SURRENDER
 
-Destiny reveals itself as you start walking, passion is made, not found. Forgiveness is easier than permission. Instead of seeking your life’s purpose, experience more and pursue things that stretch you. The trouble with goals is constantly working toward what you used to want. Old keys won’t open new doors. Better to admit you walked to the wrong door than spend your life in the wrong room.
+_Passion is made, not found._ Destiny reveals itself as you start walking. Instead of seeking your life’s purpose, experience more and pursue things that stretch you. The trouble with goals is constantly working toward what you used to want. Old keys won’t open new doors. Better to admit you walked to the wrong door than spend your life in the wrong room.
 
-Fear is your guide. The more fear you feel, the more you know you’re on the right track. What scares you most is often what you most need to do. Mitigate risks—some have larger comfort zones. Become uncomfortable, but when life gets blurry, adjust your focus. Random wandering won’t move you forward. Pick one thing and stick with it to completion.
+_Fear is your guide._ The more fear you feel, the more you know you’re on the right track. What scares you most is often what you most need to do. Mitigate risks, but become uncomfortable. When life gets blurry, adjust your focus, pick one thing and stick with it to completion.
 
 > *"When I let go of what I am, I become what I might be. When I let go of what I have, I receive what I need."  
 -- Lao Tzu [-571]*
@@ -215,9 +239,6 @@ Fear is your guide. The more fear you feel, the more you know you’re on the ri
 > *"Whatever you are, be a good one."  
 -- Abraham Lincoln [1809]*
 
-> *"Life is not a problem to be solved but a reality to be experienced."  
--- Soren Kierkegaard [1813]*
-
 > *"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."  
 -- Friedrich Nietzsche [1844]* 
 
@@ -248,20 +269,11 @@ Fear is your guide. The more fear you feel, the more you know you’re on the ri
 > *"I am free and that is why I am lost."  
 -- Franz Kafka [1883]*
 
-> *"Perhaps you’re a slave to your own idea of yourself."  
--- D.W. Lawrence [1885]*
-
 > *"A man must know his own destiny, because he must know what he was meant to be. But if he does not recognize it, then he is lost. He is also lost if — and it will happen only two or three times in his life — if he does not recognize Fate. By this I mean once, or twice, or at the very most, three times, Fate will reach out and tap a man on the shoulder. He usually says, «Go away, I’m busy», or «I don’t know you, so don’t bother me». But if he has the imagination, he will turn around and Fate will point out to him what fork in the road he should take. If he has the guts, he will take it."  
 -- (general) George S. Patton [1885]*
 
-> *"I’d woke up early and I took a long time getting ready to exist."  
--- Fernando Pessoa [1888]*
-
 > *"One’s destination is never a place, but a new way of seeing things."  
 -- Henry Miller [1891]*
-
-> *"You can’t go back and change the beginning, but you can start where you are and change the ending."  
--- C.S. Lewis [1898]*
 
 > *"Don’t ask yourself what the world needs, ask yourself what makes you come alive and go do that. Because what the world needs is more people to come alive."  
 -- Howard Thurman [1899]*
@@ -272,14 +284,14 @@ Fear is your guide. The more fear you feel, the more you know you’re on the ri
 > *"Had I not created my whole world, I would certainly have died in other people’s."  
 -- Anais Nin [1903]*
 
+> *"The cave you fear to enter, holds the treasure you seek."  
+-- Joseph Campbell [1904]*
+
 > *"The question is not who is going to let me; it’s who is going to stop me."  
 -- Ayn Rand [1905]*
 
 > *"Life is being on the wire, everything else is just waiting."  
 -- Karl Wallenda [1905]*
-
-> *"If you plan on being less than you are capable of being, you will probably be unhappy all the days of your life."  
--- Abraham Maslow [1908]*
 
 > *"Home is not where you are born; home is where all your attempts to escape cease."  
 -- Naguib Mahfouz [1911]*
@@ -287,21 +299,8 @@ Fear is your guide. The more fear you feel, the more you know you’re on the ri
 > *"If someone says can’t, that shows you what to do."  
 -- John Cage [1912]*
 
-> *"You’re under no obligation to be the same person you were five minutes ago." (...)  
-"Waking up to who you are requires letting go of who you imagine yourself to be."  
--- Alan Watts [1915]*
-
-> *"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."  
--- Maya Angelou [1928]*
-
 > *"There comes a time when you ought to start doing what you want. Take a job that you love. You will jump out of bed in the morning. I think you are out of your mind if you keep taking jobs that you don’t like because you think it will look good on your resume."  
 -- Warren Buffett [1930]*
-
-> *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment."  
--- Jim Rohn [1930]*
-
-> *"I have already lost touch with a couple of people I used to be."  
--- Joan Didion [1934]*
 
 > *"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn’t the answer. It just gave us a glimpse of the possibility."  
 -- John Lennon [1940]*
@@ -324,9 +323,9 @@ Fear is your guide. The more fear you feel, the more you know you’re on the ri
 > *"Get yourself into a state of calmness, and then ferocity will take care of itself."  
 -- Stewart Copeland [1952]*
 
-> *"Copying others is a good way to start. Copying yourself is a disappointing way to end." (...)  
-"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is." (...)  
-"There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it."  
+> *"Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is «master something, anything». Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is." (...)  
+"There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it." (...)  
+"Copying others is a good way to start. Copying yourself is a disappointing way to end."  
 -- Kevin Kelly [1952]*
 
 > *"Take advantage of the opportunities — that’s probably more important than charting your path."  

@@ -174,6 +174,9 @@ Even if we can’t choose the starting point, we can often choose the direction.
 > *"Choose the neighbour before choosing the house."  
 -- vox populi*
 
+> *"What’s well begun is half done."  
+-- Horace [-065]*
+
 > *"To the person who does not know where he wants to go there is no favorable wind."  
 -- Seneca [-004]*
 
@@ -622,6 +625,9 @@ Switch strategies when needed to reach your goal. When problems shift faster tha
 > *"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."  
 -- Everett Dirksen [1896]*
 
+> *"You can’t go back and change the beginning, but you can start where you are and change the ending."  
+-- C.S. Lewis [1898]*
+
 > *"Whatever space and time mean, place and occasion mean more."  
 -- Aldo van Eyck [1918]*
 
@@ -642,6 +648,9 @@ Switch strategies when needed to reach your goal. When problems shift faster tha
 
 > *"What got you here won’t get you there."  
 -- Marshall Goldsmith [1949]*
+
+> *"My luggage is always ready."  
+-- Jorge Jesus [1954]*
 
 > *"You don’t do well by trying to be right; it is impossible for humans. You do well by figuring out when you’re wrong faster than others do."  
 -- Nassim Taleb [1960]*
@@ -1093,7 +1102,7 @@ It’s not just about winning, the way you win sets up the next round. Winning i
 > *"Winners are overgivers."  
 -- x@codie_sanchez*
 
-### On quiting and surrendering
+### On quitting and surrendering
 
 <!--
 - Don’t take it personally, most people who are constantly angry are just sleep-deprived, love-deprived, or purpose-deprived.

@@ -283,8 +283,8 @@ The real diversity is the diversity of ideas, not skin color.
 
 ### On freedom
 
-> *"I never believed that man’s freedom consisted in doing what he wants, but rather in never doing what he does not want to do."  
--- Jean-Jacques Rousseau [1712]*
+> *"The clash of ideas is the sound of freedom."  
+-- Lady Bird Johnson [1912]*
 
 Freedom without property is an ilusion.
 
@@ -301,15 +301,6 @@ Freedom without property is an ilusion.
 > *"Freedom is never more than one generation away from extinction."  
 -- Ronald Reagan [1911]*
 
-> *"The clash of ideas is the sound of freedom."  
--- Lady Bird Johnson [1912]*
-
-> *"I would rather have questions that can’t be answered than answers that can’t be questioned."  
--- Richard Feynman [1918]*
-
-> *"Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free."  
--- Aleksandr Solzhenitsyn [1918]*
-
 > *"The more you have to define freedom the less freedom you have."  
 -- Alexander Bickel [1924]*
 
@@ -322,8 +313,7 @@ Freedom without property is an ilusion.
 > *"The moment you declare a set of ideas to be immune from criticism, satire, derision, or contempt, freedom of thought becomes impossible."  
 -- Salman Rushdie [1947]*
 
-> *"The more neatly you fit into society, the less free you actually are." (...)  
-"They want to punish you for your words because they can’t punish you for your thoughts." (...)  
+> *"They want to punish you for your words because they can’t punish you for your thoughts." (...)  
 "Free people make free choices. Free choices mean you have unequal outcomes. You can have freedom or you can have equal outcomes. You can’t have both."  
 -- Naval Ravikant [1974]*
 
@@ -428,6 +418,9 @@ Wokeness is the belief that every disparity is rooted in discrimination. It view
 > *"The concept of social justice has been the trojan horse through which totalitarianism has entered." (...)  
 "There is all the difference in the world between treating people equally and attempting to make them equal."  
 -- Friedrich von Hayek [1899]*
+
+> *"Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free."  
+-- Aleksandr Solzhenitsyn [1918]*
 
 > *"Much of the social history of the Western world over the past three decades has involved replacing what worked with what sounded good." (...)  
 "One of the sad signs of our times is that we have demonized those who produce, subsidized those who refuse to produce, and canonized those who complain." (...)  

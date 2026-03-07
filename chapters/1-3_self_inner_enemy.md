@@ -3,12 +3,7 @@
 ## On health
 
 <!--
-- Depression and schizophrenia are so tied to poor gut bacteria that researchers can identify a person with depression just by analyzing their gut bacteria composition.
 - The two best doctors: Mr. Outdoors (sunshine, water, air, exercise) and Mrs. Diet.
-?? "Tension is who you think should be. Relaxation is who you are."  
-?? Pain changes people. Some become rude. Some become silent.
-
-#q["The first wealth is health." -- Ralph Waldo Emerson $  1803  $]
 -->
 
 > *"The wise man accepts his pain, endures it, but does not add to it."  
@@ -18,15 +13,11 @@ Action cures everything.
 
 There’s nothing more therapeutic than action. We were built to hunt, gather, and move, not to stay still. Physical stress eliminates the need for control. The root cause of most health problems is often not physical but mental.
 
+_Exercise is king_. Balance body training with flexibility (yoga or animal movements) and strength (weights). Use the minimum effective dose. Burn extra calories to reduce the need for control. When stressed, pause and breathe. Body language affects psychology, mood, and hormones. People are naturally happier when kept busy. Exercise celebrates what your body can do—not punishment for what you ate.
+
+_Nutrition is queen._ Eat more real foods and practice intermittent fasting. «Debug» your body as much as possible. Follow your circadian rhythm also, if you need an alarm to start your morning, you’re cheating yourself on rest. Memories consolidate during sleep.
+
 Health is also an envy trigger. Often what people really envy is self-control.
-
-Hints:
-
-- Exercise is king. Balance body training with flexibility (yoga or animal movements) and strength (weights). Use the minimum effective dose. Burn extra calories to reduce the need for control. When stressed, pause and breathe. Body language affects psychology, mood, and hormones. People are naturally happier when kept busy. Exercise celebrates what your body can do—not punishment for what you ate.
-- Nutrition is queen. Eat more real foods and practice intermittent fasting. «Debug» your body as much as possible.
-- Follow your circadian rhythm. If you need an alarm to start your morning, you’re cheating yourself on rest. Memories consolidate during sleep.
-- The best antidepressant is knowing we matter to others. People don’t die from suicide; they die from sadness.
-- Hustling (the right amount of stimulation) means consistently stretching your comfort zone. Avoiding stress is avoiding life.
 
 > *"An healthy person has a thousand wishes. A sick person has one." (...)  
 "A doctor will take care of the rich man; the poor man is cured with work." (...)  
@@ -34,18 +25,84 @@ Hints:
 "Civilize the mind but make savage the body."  
 -- vox populi*
 
-> *"The mind is everything. What you think you become."  
--- Siddahrta Gautama (Buddha) [-564]*
-
 > *"Everyone wants healing until medicine shows up in the form of discipline."  
 -- Hippocrates [-460]*
+
+> *"Everything that makes you weak, physically, intellectually, and spiritually, reject as poison."  
+-- Swami Vivekananda [1863]*
+
+> *"The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison."  
+-- Ann Wigmore [1909]*
+
+> *"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance." (...)  
+"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies." (...)  
+"Calm the stomach. Move the body. Rest the mind." (...)  
+"A healthy body is light and silent, just as a healthy mind." (...)  
+"When it comes to nutrition, subtract before you add."  
+-- Naval Ravikant [1974]*
+
+> *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
+-- Jason Nemer [1978]*
+
+> *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  
+-- x@realjamespierce*
+
+> *"Healthcare is primarily your diet, exercise, sleep, and lifestyle habits. What most people call «healthcare» is actually sick care."  
+-- x@zubymusic*
+
+### On mental health
+
+<!--
+- Depression and schizophrenia are so tied to poor gut bacteria that researchers can identify a person with depression just by analyzing their gut bacteria composition.
+?? "Tension is who you think should be. Relaxation is who you are."  
+?? Pain changes people. Some become rude. Some become silent.
+- the only thing complaining does is convince other people that you are not in control.
+- we don’t have anxiety for things we think we can handle!
+- you can’t heal if you keep pretending you’re not hurt.
+- You know a nigga depressed once he starts going on walks.
+- Anything beyond what we need is poison: power, laziness, food, ego, ambition, vanity, fear, anger, or whatever.
+- You think you are playing safe, but you are actually accumulating anxiety. Take bolder risks, it’s mentally liberating.
+- Financial health is as important as physical health. Nothing feels as good as having a «fuck you» fund.
+- As I began to love myself, my relationship with everyone changed.
+- Anything beyond what we need is poison.
+- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, people knew their place in the social order. If born a peasant, you were a peasant; if born a lord, you were a lord. There was no mobility, so no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it. But in a meritocratic society, if you’re poor—or gain then lose success—it’s your fault. You’re the failure. This causes constant fear of inadequacy; all the world’s hustle motivated by baseline status anxiety. De Botton doesn’t claim feudal societies were better—he simply notes that meritocracy and wealth increase stress and anxiety.
+-->
+
+> *"If you are depressed you are living in the past.  
+If you are anxious you are living in the future.   
+If you are at peace you are living in the present."  
+-- Lao Tzu [-571]*
+
+The heaviest burdens we carry are the thoughts in our heads. Depression and anxiety are symptoms of under-stimulation and over-stimulation, not diseases.
+
+_Depression_ (under-stimulation) can be viewed as a lack of self-expression. It may arise when one feels powerless or dominated, leading to chronic stress as a way to stimulate oneself. Burnout is oversaturation of sameness. Cages aren’t made of iron; they’re made of thoughts. The hardest prison to escape is in your own mind. No purpose attracts depression. Unemployment makes you unhappy. Dot. The more alone a man is, the more likely he is to get into "depression". Live alone, eat alone, work alone, never go out = depression. Spend more time with people, go out in nature, lift weights, and eat good food — no depression. The best antidepressant is knowing we matter to others. People don’t die from suicide; they die from sadness. Turns out you weren’t depressed; you just needed a fulfilling job, a «date to marry» relationship, consistent physical activity, and high-protein whole-food nutrition. Depression hates a moving target. A sedentary lifestyle is a magnet for depression. Seeds of doubt grow into forests of inaction. It took me years to realize the only cure for depression is leaving the house at every possible opportunity, no matter how badly you don’t want to.
+
+_Anxiety_ (over-stimulation) manifests as hypersensitivity and can be linked to our evolutionary need for control. Anxiety isn’t productive planning; it’s a continuous state of apprehension over various scenarios. Worrying about the unknown is unproductive; we have limited control and primarily influence rather than dictate outcomes. Stress often results from excessive concern, and worrying is a misuse of the imagination. Avoiding anxiety leads to more anxiety. While busy avoiding the feeling, we restrict life more and more. Thinking about it makes it worse. Writing about it makes it better. Worrying is worshipping the problem. If you panic, panic early. Anxious people feel the only way to achieve relaxed certainty is getting new info, but the more you know, the more you realize you don’t know.
+
+Stress is who you think you should be. Peace is who you are. Hustling (the right amount of stimulation) means consistently stretching your comfort zone. Avoiding stress completely is avoiding life.
+
+> *"Worry gives small things a big shadow."  
+-- vox populi*
+
+> *"The mind is everything. What you think you become."  
+-- Siddahrta Gautama (Buddha) [-564]*
 
 > *"A man is as miserable as he thinks he is." (...)  
 "We suffer more often in imagination than in reality."  
 -- Seneca [-004]*
 
-> *"The soul is healed by being with children."  
+> *"Develop strenght to do bold things, not the strenght to suffer."  
+-- Niccoló Machiavelli [1469]*
+
+> *"Anxiety is the dizziness of freedom."  
+-- Soren Kierkegaard [1813]*
+
+> *"You sensed that you should be following a different path, a more ambitious one, you felt that you were destined for other things but you had no idea how to achieve them and in your misery you began to hate everything around you." (...)  
+"The soul is healed by being with children."  
 -- Fyodor Dostoyevsky [1821]*
+
+> *"Worrying is like paying a debt you don’t owe."  
+-- Mark Twain [1835]*
 
 > *"Before you diagnose yourself with depression or low self-esteem, first make sure you are not, in fact, surrounded by assholes."  
 -- Sigmund Freud [1856]*
@@ -53,17 +110,21 @@ Hints:
 > *"If you want to lift yourself up, lift up someone else."  
 -- Booker T. Washington [1856]*
 
-> *"Everything that makes you weak, physically, intellectually, and spiritually, reject as poison."  
--- Swami Vivekananda [1863]*
-
 > *"Angels can fly because they can take themselves lightly."  
 -- G.K. Chesterton {attributed} [1874]*
+
+> *"And God said love your enemy and I obeyed him and loved myself." (...)  
+"Our anxiety does not come from thinking about the future, but from wanting to control it."  
+-- Kahlil Gibran [1883]*
+
+> *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
+-- Ernest Hemingway [1899]*
 
 > *"Those who are unhappy have no need for anything in this world but people capable of giving them their attention."  
 -- Simone Weil [1909]*
 
-> *"The food you eat can either be the safest and most powerful form of medicine or the slowest form of poison."  
--- Ann Wigmore [1909]*
+> *"Boredom is a soul sucker. The unfed mind devours itself."  
+-- Gore Vidal [1925]*
 
 > *"No medicine cures what happiness cannot."  
 -- Gabriel Garcí­a Márquez [1927]*
@@ -74,118 +135,12 @@ Hints:
 > *"Pain is inevitable. Suffering is optional."  
 -- Haruki Murakami [1949]*
 
-> *"Stress primarily comes from not taking action over something that you can have some control over."  
--- Jeff Bezos [1964]*
-
-> *"The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance." (...)  
-"All modern diseases are diseases of abundance. We punish ourselves by constantly entertaining our minds and bodies." (...)  
-"Yoga cultivates peace of body. Meditation cultivates peace of mind." (...)  
-"Meditation isn’t hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I’m just going to give myself a break for an hour. This is my hour off from life. This is an hour I’m not going to do anything.»" (...)  
-"Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way." (...)  
-"Calm the stomach. Move the body. Rest the mind." (...)  
-"A healthy body is light and silent, just as a healthy mind." (...)  
-"When it comes to nutrition, subtract before you add."  
--- Naval Ravikant [1974]*
-
-> *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
--- Erik Vance [1974]*
-
-> *"If I had to prescribe two things to improve health and happiness in the world, it’s movement and play."  
--- Jason Nemer [1978]*
-
-> *"Social media is a great way to compare yourself to the top 1%."  
--- Sahil Lavingia [1989]*
-
-> *"Most men don’t ask for help. They suffer in silence. If a man is asking for your help, You are his last hope." (...)  
-"Unemployment hits d\ifferent when you’re a man. Your family treats you differently. People lose respect for you. Nobody cares about you and what you say. Your family is only nice when you have something to offer. May the universe be kind to our unemployed brothers."  
--- x@_falsi1ke*
-
-> *"Gentle reminder: Your smartphone collects enough information to provide a very accurate picture of your mental health."  
--- x@rapahelz*
-
-> *"Modern lifestyles weaken the body. Modern psychology weakens the mind."  
--- x@realjamespierce*
-
-> *"I’ve met many more people who turned their lives around by walking around aimlessly for a couple hours a day than I’ve met people who have had their lives improved at all by professional therapy."  
--- x@willmanidis*
-
-> *"Healthcare is primarily your diet, exercise, sleep, and lifestyle habits. What most people call «healthcare» is actually sick care."  
--- x@zubymusic*
-
-### On mental health
-
-<!--
-- The more alone a man is, the more likely he is to get into "depression". Live alone, eat alone, work alone, never go out = depression. Spend more time with people, go out in nature, lift weights, and eat good food — no depression.
-- the only thing complaining does is convince other people that you are not in control.
-- we don’t have anxiety for things we think we can handle!
-- you can’t heal if you keep pretending you’re not hurt.
-- You know a nigga depressed once he starts going on walks.
-- having to go to school on your birthday and everyone pointing it out.
-- can i ask you a question? 99% people get frightened.
-
-#q["You have power over your mind—not outside events. Realize this, and you will find strength." -- Marcus Aurelius [0121]
-#q["The primary cause of unhappiness is never the situation but your thoughts about it." -- Eckhart Tolle [1948]
--->
-
-> *"If you are depressed you are living in the past.  
-If you are anxious you are living in the future.   
-If you are at peace you are living in the present."  
--- Lao Tzu [-571]*
-
-The heaviest burdens we carry are the thoughts in our heads. Depression and anxiety are symptoms of under-stimulation and over-stimulation, not diseases.
-
-_Depression_ (under-stimulation) can be viewed as a lack of self-expression. It may arise when one feels powerless or dominated, leading to chronic stress as a way to stimulate oneself.
-
-_Anxiety_ (over-stimulation) manifests as hypersensitivity and can be linked to our evolutionary need for control. Anxiety isn’t productive planning; it’s a continuous state of apprehension over various scenarios. Worrying about the unknown is unproductive; we have limited control and primarily influence rather than dictate outcomes. Stress often results from excessive concern, and worrying is a misuse of the imagination. The past exists only in your thoughts; what truly matters is the present and the future.
-
-Hints:
-
-- Stress is who you think you should be. Peace is who you are. As I began to love myself, my relationship with everyone changed.
-- Financial health is as important as physical health. Nothing feels as good as having a «fuck you» fund.
-- Therapy (awareness of past) / Spirituality (awareness of present) / Yoga (awareness of future).
-- The philosopher Alain de Botton has written about this in his book Status Anxiety. In centuries past, people knew their place in the social order. If born a peasant, you were a peasant; if born a lord, you were a lord. There was no mobility, so no stress about getting ahead. You weren’t responsible for your birthright, so you accepted it. But in a meritocratic society, if you’re poor—or gain then lose success—it’s your fault. You’re the failure. This causes constant fear of inadequacy; all the world’s hustle motivated by baseline status anxiety. De Botton doesn’t claim feudal societies were better—he simply notes that meritocracy and wealth increase stress and anxiety.
-- Anxious people feel the only way to achieve relaxed certainty is getting new info, but the more you know, the more you realize you don’t know.
-- Avoiding anxiety leads to more anxiety. While busy avoiding the feeling, we restrict life more and more.
-- Thinking about it makes it worse. Writing about it makes it better.
-- Burnout is oversaturation of sameness.
-- No purpose attracts depression. Unemployment makes you unhappy. Dot.
-- Anything beyond what we need is poison: power, laziness, food, ego, ambition, vanity, fear, anger, or whatever.
-- Cages aren’t made of iron; they’re made of thoughts. The hardest prison to escape is in your own mind. Depression hates a moving target.
-- A sedentary lifestyle is a magnet for depression. Seeds of doubt grow into forests of inaction. It took me years to realize the only cure for depression is leaving the house at every possible opportunity, no matter how badly you don’t want to.
-- Turns out I wasn’t depressed; I just needed a fulfilling job, a «date to marry» relationship, consistent physical activity, and high-protein whole-food nutrition.
-- Worrying is worshipping the problem. If you panic, panic early.
-
-> *"Worry gives small things a big shadow."  
--- vox populi*
-
-> *"Man is not worried by real problems so much as by his imagined anxieties about real problems."  
--- Epictetus [0050]*
-
-> *"Develop strenght to do bold things, not the strenght to suffer."  
--- Niccoló Machiavelli [1469]*
-
-> *"Anxiety is the dizziness of freedom."  
--- Soren Kierkegaard [1813]*
-
-> *"You sensed that you should be following a different path, a more ambitious one, you felt that you were destined for other things but you had no idea how to achieve them and in your misery you began to hate everything around you."  
--- Fyodor Dostoyevsky [1821]*
-
-> *"Worrying is like paying a debt you don’t owe."  
--- Mark Twain [1835]*
-
-> *"And God said love your enemy and I obeyed him and loved myself." (...)  
-"Our anxiety does not come from thinking about the future, but from wanting to control it."  
--- Kahlil Gibran [1883]*
-
-> *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
--- Ernest Hemingway [1899]*
-
-> *"Boredom is a soul sucker. The unfed mind devours itself."  
--- Gore Vidal [1925]*
-
 > *"When people don’t express themselves, they die one piece at a time." (...)  
 "In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves."  
 -- Laurie Halse Anderson [1961]*
+
+> *"Stress primarily comes from not taking action over something that you can have some control over."  
+-- Jeff Bezos [1964]*
 
 > *"Expectations are resentments waiting to happen."  
 -- Brene Brown [1965]*
@@ -198,9 +153,15 @@ Hints:
 "The quality of your mind is the quality of your life." (...)  
 "One of the most powerful things to realize is that you can change your own self-image." (...)  
 "Fasting focuses the mind. It replaces all desires with a single desire." (...)  
-"You’re offended when you fear that it might be true." (...)  
-"The central contradiction of therapy is that the source of unhappiness is thinking about yourself."  
+"The central contradiction of therapy is that the source of unhappiness is thinking about yourself." (...)  
+"You’re offended when you fear that it might be true."  
 -- Naval Ravikant [1974]*
+
+> *"Social media is a great way to compare yourself to the top 1%."  
+-- Sahil Lavingia [1989]*
+
+> *"Your brain has expectations, and it doesn’t want to be wrong. So when it’s wrong, it just makes up the difference."  
+-- Erik Vance [1974]*
 
 > *"Hopelessness is the root of anxiety, mental illness, and depression. It is the source of all misery and the cause of all addiction."  
 -- Mark Manson [1984]*
@@ -214,18 +175,33 @@ Hints:
 > *"Women don’t need therapy… They need a husband who tells them no."  
 -- x@karolinegosling*
 
+> *"Gentle reminder: your smartphone collects enough information to provide a very accurate picture of your mental health."  
+-- x@rapahelz*
+
+> *"I’ve met many more people who turned their lives around by walking around aimlessly for a couple hours a day than I’ve met people who have had their lives improved at all by professional therapy."  
+-- x@willmanidis*
+
+> *"Most men don’t ask for help. They suffer in silence. If a man is asking for your help, You are his last hope." (...)  
+"Unemployment hits d\ifferent when you’re a man. Your family treats you differently. People lose respect for you. Nobody cares about you and what you say. Your family is only nice when you have something to offer. May the universe be kind to our unemployed brothers."  
+-- x@_falsi1ke*
+
+
 
 
 
 
 ## On shame
 
+<!--
+- Normalize this. Normalize that. How about you feel shame for once?
+-->
+
 > *"Shame corrodes the very part of us that believes we are capable of change."  
 -- Brené Brown [1965]*
 
 You are not what you think you are: you are what you hide.
 
-You cannot live when you are untouchable. Life is vulnerability. The things you hate most about yourself are the things you hide from the rest of the world. Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecurities. I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
+You cannot live when you are untouchable. Life is vulnerability. The things you hate most about yourself are the things you hide from the rest of the world. Trauma is a tattoo on the soul. Tattoos and body piercings compensate insecurities, I’ve never met anyone yet covered in tattoos who isn’t profoundly insecure.
 
 > *"I was ashamed of myself when I realized that life was a costume party; and I attended with my real face."  
 -- Franz Kafka [1883]*
@@ -253,46 +229,14 @@ You cannot live when you are untouchable. Life is vulnerability. The things you 
 
 ### On confidence and validation
 
-<!--
-- Do what scares you until it doesn’t.
-- How you view yourself is how people will view you.
-- humble enough to know i’m replaceable. cocky enough to know is a downgrade.
-- Normalize this. Normalize that. How about you feel shame for once?
-- People with low self-esteem protect themselves by not taking risks. High self-esteem gives you the power of confidence to take chances.
-- Confidence in public comes from discipline in private.
-- I can see in his eyes whether he’s confident about himself. The more confident a man is, the slower he will talk.
-- Real confidence is like an aura, calm assuredness. Fake confidence is loud, annoying and needy.
-- If words can hurt you Then you are weak.
-- People who lack self-confidence love to make fun of others and denigrate their success, that’s how they feel better about themselves, don’t take it personally.
-- you’re so busy doubting yourself while so many others are intimidated by your potential.
--->
-
 > *"Having a low opinion of yourself is not modesty. It’s self-destruction."  
 -- Bobbe Sommer [1936]*
 
 Confidence is the opposite of shame. Confidence is shamelessness.
 
-You don’t have to prove anything to anybody, including yourself. Low confidence is the source of all problems, and neediness its marker.
+You don’t have to prove anything to anybody, including yourself. Too many people undervalue what they are and overvalue what they are not. If the universe didn’t need you, you wouldn’t be here. It’s hard to have self-esteem, everyone wants to take it from you: a boss, teacher, parent, friend, or lover. Men stop valuing themselves, their opinions, and beliefs—and start valuing only the approval and validation of women. Don’t wait for someone to tell you that you are special. Self-worth is how you feel about your negative aspects. People with true self-worth don’t think they’re something special. Not being insecure about an unattractive quality instantly makes you way more attractive. Generally, the thing you’re most ashamed of is actually your biggest strength/asset, but you haven’t figured out how to use it.
 
-Hints:
-
-- Too many people undervalue what they are and overvalue what they are not. If the universe didn’t need you, you wouldn’t be here. Don’t wait for someone to tell you that you are special.
-- To gain self-acceptance, do the uncomfortable things you know are right. Breaking an agreement with yourself plummets self-esteem. It’s hard to have self-esteem—everyone wants to take it from you: a boss, teacher, parent, friend, or lover.
-- Confidence markers: The space you take up in the world indicates how confident you feel. Presence is confidence without arrogance. Authenticity can’t be faked. The greatest demonstration of power and security is becoming comfortable with one’s weaknesses—making oneself defenseless. When paired with authenticity and accountability, vulnerability is extremely attractive. When it’s not, it signals incompatibility.
-- Believe you can, and you’re halfway there. If you don’t believe you are good, you’ll never be good. If you say it with confidence, you are who you say you are. So you’re only as good as your next speech.
-- Confidence is silent. Insecurities are loud.
-- Get confidence: impress yourself.
-- Not being insecure about an unattractive quality instantly makes you way more attractive. Generally, the thing you’re most ashamed of is actually your biggest strength/asset—but you haven’t figured out how to use it.
-- Self-worth is how you feel about your negative aspects. People with true self-worth don’t think they’re something special.
-- Men stop valuing themselves, their opinions, and beliefs—and start valuing only the approval and validation of women.
-- Rejection reveals incompatibility, not your inadequacies.
-- Confidence comes from some success. You need accomplishments to build it.
-- Everything you’re running away from is in your head. We hold on so tight because we fear something great won’t happen twice.
-- Money problems are self-confidence problems.
-- Confident people don’t crave attention.
-- You can’t force respect, but you can refuse disrespect. Normalize ghosting at the first sign of it.
-- They don’t respect you at the bottom, ignore you in the middle, and hate you at the top. You’ll never have everyone’s approval—so focus on what you’re doing.
-- Respect isn’t earned anymore. It’s auctioned to the highest bidder.
+_Confidence markers:_ People with low self-esteem protect themselves by not taking risks. High self-esteem gives you the power of confidence to take chances. Low confidence is the source of all problems, and neediness its marker. Confidence is silent. Insecurities are loud. Confident people don’t crave attention. The space you take up in the world indicates how confident you feel. Presence is confidence without arrogance. Authenticity can’t be faked. The greatest demonstration of power and security is becoming comfortable with one’s weaknesses, making oneself defenseless. When paired with authenticity and accountability, vulnerability is extremely attractive. When it’s not, it signals incompatibility. Rejection reveals incompatibility, not your inadequacies.
 
 > *"One who believes in himself has no need to convince others." (...)  
 "When you accept yourself, the whole world accepts you."  
@@ -325,8 +269,11 @@ Hints:
 ### How to overcome shame and grow confidence?
 
 <!--
-q["Vulnerability is the birthplace of innovation, creativity and change." -- Brené Brown [1965]
-#q["Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do." -- Brené Brown [1965]
+- humble enough to know i’m replaceable. cocky enough to know is a downgrade.
+- I can see in his eyes whether he’s confident about himself. The more confident a man is, the slower he will talk. Real confidence is like an aura, calm assuredness. Fake confidence is loud, annoying and needy.
+- If words can hurt you Then you are weak.
+- you’re so busy doubting yourself while so many others are intimidated by your potential.
+- Everything you’re running away from is in your head. We hold on so tight because we fear something great won’t happen twice.
 -->
 
 > *"Once you’ve accepted your flaws, no one can use them against you."  
@@ -336,8 +283,14 @@ Honesty is the pathway to confidence.
 
 When hiding something about yourself, you automatically create shame. You’re saying this thing that’s true about myself is wrong. Speaking openly about an imperfection is a sign of strength, not a weakness. So you gotta share that shit in order to heal it.
 
+To gain self-acceptance, do the uncomfortable things you know are right. Impress yourself. Confidence comes from some success. Do what scares you until it doesn’t. Confidence in public comes from discipline in private. Breaking an agreement with yourself plummets self-esteem. Believe you can, and you’re halfway there. If you don’t believe you are good, you’ll never be good. If you say it with confidence, you are who you say you are. How you view yourself is how people will view you. So you’re only as good as your next speech. 
+
 > *"Just get out of the room."  
 -- Robert Glover [1955]*
+
+> *"Vulnerability is the birthplace of innovation, creativity and change." (...)  
+"Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do."  
+-- Brené Brown [1965]*
 
 > *"Imperfections are attractive when their owners are happy with them."  
 -- Augusten Burroughs [1965]*
@@ -358,18 +311,13 @@ When hiding something about yourself, you automatically create shame. You’re s
 
 Confidence is not walking into a room thinking you are better than everyone; it’s walking in not having to compare yourself with anyone.
 
-Someone else’s strengths don’t make you look bad—being jealous and insecure does. People will tolerate a bit of arrogance if you are talented and still young; but once you get older, you understand that you could have attracted many more opportunities if you had had the intelligence to learn humility earlier in life.
-
-Entitlement comes in two forms: «I’m better than everybody so I deserve special treatment»; «I’m worse than everybody so I deserve special treatment.»
+Someone else’s strengths don’t make you look bad, being jealous and insecure does. People will tolerate a bit of arrogance if you are talented and still young; but once you get older, you understand that you could have attracted many more opportunities if you had had the intelligence to learn humility earlier in life. Entitlement comes in two forms: «I’m better than everybody so I deserve special treatment»; «I’m worse than everybody so I deserve special treatment.»
 
 > *"A good deed dies when it is spoken about."  
 -- vox populi*
 
 > *"I am not young enough to know everything."  
 -- Oscar Wilde [1854]*
-
-> *"Cynicism such as one finds very frequently among the most highly educated young men and women of the West results from the combination of comfort with powerlessness. Powerlessness makes people feel that nothing is worth doing, and comfort makes the painfulness of this feeling just endurable."  
--- Bertrand Russell [1872]*
 
 > *"The first part of life is devoted to forming a healthy ego. The second half is going inward and letting go of it."  
 -- Carl Jung [1875]*
@@ -384,15 +332,13 @@ Entitlement comes in two forms: «I’m better than everybody so I deserve speci
 "How often our early triumphs turn us into a kind of caricature of ourselves."  
 -- Robert Greene [1959]*
 
-> *"If you aren’t growing you’re dying."  
--- Tony Robbins [1960]*
-
 ### On introversion and insecurity
 
 <!--
-- Most people are not extremes. Most things are not binary. Introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
-
 > *"If you’re a friend to everybody, you’re an enemy to yourself"  -- Mike Tyson*
+
+- Most people are not extremes. Most things are not binary. Introvert is not shyness. Imagine a introvertness scale from 1 to 7. It’s hard to pass from a 2 to 7 but you can pass from 2 to a 3 or 4.
+- having to go to school on your birthday and everyone pointing it out / can i ask you a question? 99% people get frightened.
 -->
 
 > *"You think you are an introvert because you like being alone. But in reality you just love being in peace. And you’re actually extroverted around people who bring you peace."  
@@ -408,6 +354,180 @@ There are no introverts, only people that don’t feel safe.
 
 > *"The introvert/extrovert dichotomy has always struck me as a bit silly. People generally gain energy spending time with people they feel they can be their authentic selves around. They generally spend energy being around people they feel they can’t."  
 -- x@kaseyklimes*
+
+
+
+
+
+
+## On jealousy and envy
+
+<!--
+- A inveja mata-nos. O sucesso dá-nos vida!
+- Humans hate the most successful humans as it makes their little egos feel inferior.
+-->
+
+> *"You’ll never be criticized by someone who is doing more than you. You’ll always be criticized by someone who is doing less. Remember that."  
+-- Denzel Washington [1954]*
+
+Envy is a sign that you are not focused on your life.
+
+Jealousy is the face of low self-esteem. A healthy mind does not speak ill of others. Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, fame, luck, beauty, health, success, and lifestyle (freedom) are the main triggers.
+
+Treat haters like toddlers. When people criticize your life, they are speaking about their fears and limitations, not yours. Only take advice from those achieving what you want. Ignore and be flattered by the rest. Never hate people who are jealous of you, respect their jealousy; they think you’re better than them. People who lack self-confidence love to make fun of others and denigrate their success, that’s how they feel better about themselves, don’t take it personally. If someone is copying you, you won. Jealousy comes in jokes, pay attention.
+
+> *"The dogs bark but the caravan moves on."  
+-- vox populi*
+
+> *"If evil be spoken of you and it be true, correct yourself, if it be a lie, laugh at it."  
+-- Epictetus [0050]*
+
+> *"The first art of kings is to endure hatred."  
+-- Seneca [-004]*
+
+> *"The envious die not once, but as often as the envied win applause."  
+-- Baltasar Gracián [1601]*
+
+> *"Envy is a declaration of inferiority."  
+-- Napoleon Bonaparte [1769]*
+
+> *"To feel envy is human, to savour schadenfreude is devilish."  
+-- Arthur Schopenhauer [1788]*
+
+> *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
+-- Henry Thomas Buckle [1821]*
+
+> *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence." (...)  
+"If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut."  
+-- Albert Einstein [1879]*
+
+> *"Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you."  
+-- Marilyn Monroe [1926]*
+
+> *"It is not greed that drives the world, but envy."  
+-- Warren Buffett [1930]*
+
+> *"Envy was once considered to be one of the seven deadly sins before it became one of the most admired virtues under its new name: «social justice»."  
+-- Thomas Sowell [1930]*
+
+> *"Remember if people talk behind your back, it only means you are two steps ahead."  
+-- Fannie Flagg [1944]*
+
+> *"Think as you like but behave like others." (...)  
+"Never appear too perfect." (...)  
+"If people with natural gifts also possess a good work ethic and have some luck in life, envy will follow them wherever they go."  
+-- Robert Greene [1959]*
+
+> *"If someone’s insults bother you; it is evidence that you respect him."  
+-- Nassim Taleb [1960]*
+
+> *"Choose inspiration over envy." (...)  
+"The only people worth envying are the ones incapable of envy."   
+-- Naval Ravikant [1974]*
+
+> *"«You’re doing it all wrong», said someone doing nothing at all."  
+-- Sahil Lavingia [1989]*
+
+> *"Someone could be more successful than you and still envy you because your character carries more weight than their status."  
+-- x@pallnandi*
+
+> *"They called her witch because she knew how to heal herself."  
+-- x@tevsmith*
+
+### On anger
+
+> *"The more you know who you are, and what you want, the less you let things upset you."  
+-- (fictional) Bob Harris*
+
+Anger is a punishment we give ourselves for someone else’s mistake. We are wired to blame: ourselves or others. We are obsessed with fault.
+
+Most angry people are envious people who don’t understand that life improves once they focus on their own lives and actively improve who they are. Someone complaining a lot is someone not accomplishing a lot. Pay attention to what people say out of anger, they’ve been dying to tell you that.
+
+> *"In anger we should refrain both from speech and action."  
+-- Pythagoras [-570]*
+
+> *"An angry man opens his mouth and shuts his eyes."  
+-- Cato the Younger [-095]*
+
+> *"Any person capable of angering you becomes your master; he can anger you only you permit yourself being disturbed by him."  
+-- Epictetus [0050]*
+
+> *"Whatever begins in anger, ends in shame."  
+-- Benjamin Franklin [1706]*
+
+> *"Hatred is the coward’s revenge for being intimidated."  
+-- George Bernard Shaw [1856]*
+
+### On self awareness
+
+<!--
+- Therapy (awareness of past) / Spirituality (awareness of present) / Yoga (awareness of future).
+-->
+
+> *"No persons are more frequently wrong, than those who will not admit they are wrong."  
+-- François de La Rochefoucauld [1613]*
+
+Not all criticism is envy.
+
+Beware of blind spots. When somebody says something bad about you, it’s negativity. When everyone says it, it’s advice. Do you know anyone without blind spots? So why would you be different?
+
+Self-awareness is the ability to pause your mind. It reduces the gap between who you are and who you think you are. Meditation increases mindfulness. Over time, it rewires your brain to be less reactive and respond thoughtfully to feelings.
+
+> *"If you correct your mind, the rest of your life will fall into place."  
+-- Lao Tzu [-571]*
+
+> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
+-- Marcus Aurelius [0121]*
+
+> *"The best mirror is an old friend."  
+-- George Herbert [1593]*
+
+> *"You are not a drop in the ocean. You are the entire ocean in a drop."  
+-- Rumi [1207]*
+
+> *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
+-- Ralph Waldo Emerson [1803]*
+
+> *"It is only in adventure that some people succeed in knowing themselves."  
+-- André Gide [1869]*
+
+> *"The things we see every day are the things we never see at all."  
+-- G.K. Chesterton [1874]*
+
+> *"Until you make the uncouncious conscious, it will direct your life and you will call it fate." (...)  
+"Fanaticism is always a sign of repressed doubt."  
+-- Carl Jung [1875]*
+
+> *"Conscience is the inner voice that warns us somebody may be looking."  
+-- H.L. Mencken [1880]*
+
+> *"Weeds are flowers too, once you get to know them."  
+-- A.A. Milne [1882]*
+
+> *"An intellectual is someone whose mind watches itself."  
+-- Albert Camus [1913]*
+
+> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have." (...)  
+"A great way to understand yourself is to seriously reflect on everything you find irritating in others."  
+-- Kevin Kelly [1952]*
+
+> *"Self-awareness is the most attractive trait." (...)  
+"Meditation is a good way to measure where you are." (...)  
+"Meditation is intermittent fasting for the mind. Distractions are to mind the same as sugar to body." (...)  
+"Meditation isn’t hard. All you have to do is sit and do nothing. Just sit down, close your eyes, and say: «I’m just going to give myself a break for an hour. This is my hour off from life. This is an hour I’m not going to do anything.»" (...)  
+"Life hack: When in bed, meditate. Either you’ll have a deep meditation or fall asleep. Victory either way." (...)  
+"The best meditation is being curious about the contents of your own mind." (...)  
+"A fit mind is a clear mind." (...)  
+"Yoga cultivates peace of body. Meditation cultivates peace of mind." (...)  
+"Can you look in the mirror without telling a story about yourself?" (...)  
+"Just like a low resting heart rate is the byproduct of intense exercise, low anxiety is the byproduct of intense self-examination."  
+-- Naval Ravikant [1974]*
+
+> *"People who can’t laugh at themselves will always be outwitted by people who can."  
+-- x@tk_coleman*
+
+> *"I never made a mistake in my life. I thought I did once, but I was wrong."  
+-- (fictional) Lucy Van Pelt*
 
 
 
@@ -431,13 +551,9 @@ There are no introverts, only people that don’t feel safe.
 > *"We fear things in proportion to our ignorance of them."  
 -- Christian Nestell Bovee [1820]*
 
-Fear does not stop death; it stops life.
+A coward has no scar. Fear does not stop death, it stops life.
 
-Viewing everything through fear keeps you in retreat. Anger and excuses often mask deeper fears—all excuses can be challenged. Own your problems instead of blaming family, environment, or leaders; reality demands less energy than victimhood. We fear growth and exposure most, because advancing means leaving the known for the unknown—fear of not being good enough, of loss, or replacement.
-
-A coward has no scar.
-
-Heroes and cowards feel the same fear; their response differs. Courage is intelligence, not strength: outwitting limiting beliefs, irrational fears, and insecurities.
+Heroes and cowards feel the same fear; their response differs. Courage is intelligence, not strength: outwitting limiting beliefs, irrational fears, and insecurities. Viewing everything through fear keeps you in retreat. Own your problems instead of blaming family, environment, or leaders; reality demands less energy than victimhood. We fear growth and exposure most, because advancing means leaving the known for the unknown, fear of not being good enough, of loss, or replacement.
 
 > *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
 -- Lao Tzu [-571]*
@@ -489,9 +605,6 @@ Heroes and cowards feel the same fear; their response differs. Courage is intell
 > *"Courage is resistance to fear, mastery of fear — not absence of fear."  
 -- Mark Twain [1835]*
 
-> *"Hatred is the coward’s revenge for being intimidated."  
--- George Bernard Shaw [1856]*
-
 > *"Nothing in life is to be feared, it is only to be understood."  
 -- Marie Curie [1867]*
 
@@ -501,9 +614,6 @@ Heroes and cowards feel the same fear; their response differs. Courage is intell
 > *"Where you fear is, there your task is." (...)  
 "That which we need the most will be found where we least want to look."  
 -- Carl Jung [1875]*
-
-> *"I bear all the wounds of all the battles I avoided."  
--- Fernando Pessoa [1888]*
 
 > *"Fear is incomplete knowledge."  
 -- Agatha Christie [1890]*
@@ -517,9 +627,6 @@ Heroes and cowards feel the same fear; their response differs. Courage is intell
 > *"Life shrinks or expands in proportion to one’s courage."  
 -- Anaïs Nin [1903]*
 
-> *"The cave you fear to enter, holds the treasure you seek."  
--- Joseph Campbell [1904]*
-
 > *"Courage is the complement of fear. A man who is fearless cannot be courageous. (He is also a fool.)"  
 -- Robert A. Heinlein [1907]*
 
@@ -528,9 +635,6 @@ Heroes and cowards feel the same fear; their response differs. Courage is intell
 
 > *"It’s not the mountain we conquer but ourselves."  
 -- (sir) Edmund Hillary [1919]*
-
-> *"Speak your mind, even if your voice shakes."  
--- Maggie Smith [1934]*
 
 > *"Don’t give in to your fears. If you do, you won’t be able to talk to your heart."  
 -- Paulo Coelho [1947]*
@@ -561,8 +665,6 @@ Heroes and cowards feel the same fear; their response differs. Courage is intell
 <!--
 - The ultimate question: Do you want you son/daughter to date someone like you?
 - If you’re not trying to make money, what are you even doing?
-
-#q["Ambition is enthusiasm with a purpose." -- Frank Tyger [1922]
 -->
 
 > *"The best thing about Elon Musk is that he makes me question if i’m thinking big enough with my life." (...)  
@@ -582,13 +684,16 @@ Lying on your deathbed regretting your life is the worst fate. The goal of life 
 > *"Routine, in an intelligent man, is a sign of ambition."  
 -- W.H. Auden [1907]*
 
+> *"Ambition is enthusiasm with a purpose."  
+-- Frank Tyger [1929]*
+
 > *"Understand: if you are weak and ask for little, little is what you will get."  
 -- Robert Greene [1959]*
 
 > *"It’s a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn’t like ot climb much. I just liked to imagine the summit."  
 -- Mark Manson [1984]*
 
-> *"Society underestimates how much it owes elon for raising the collective ambition level at a time when optimism for the future was receding."  
+> *"Society underestimates how much it owes Elon for raising the collective ambition level at a time when optimism for the future was receding."  
 -- Sam Altman [1985]*
 
 > *"I disagree. There are plenty of ambitious people. My life and business experience is that there are far more ambitious people that lack competence than ambitious people that are competent. Ambition with competence is rare."  
@@ -604,7 +709,7 @@ Lying on your deathbed regretting your life is the worst fate. The goal of life 
 
 The fears you don’t face become your limits.
 
-Nothing sabotages you faster than limiting beliefs. People underestimate their possibilities. Your level of success will seldom exceed your level of personal development.
+Nothing sabotages you faster than limiting beliefs, people underestimate their possibilities. However, your level of success will seldom exceed your level of personal development.
 
 > *"The person who says it cannot be done should not interrupt the person doing it."  
 -- vox populi*
@@ -673,8 +778,6 @@ Sometimes you win, sometimes you learn. Fail fast and bounce back quickly.
 
 A failure is a man who has blundered but is not capable of cashing in on the experience. Failure is only failure if you don’t learn from it. Accept it as part of the process. Repeated failure toughens your spirit and shows with absolute clarity how things must be done. Anyone who has never made a mistake has never tried anything new. When you don’t know something, you pay for it—that’s the stupidity tax. We should fear missing opportunity more than failure.
 
-Smart people aren’t used to failing, so they struggle to learn from mistakes and often blame others.
-
 > *"Our greatest glory is not in never falling, but in rising every time we fall."  
 -- Confucius [-551]*
 
@@ -733,17 +836,15 @@ Smart people aren’t used to failing, so they struggle to learn from mistakes a
 
 ### On scars and wounds
 
-<!--
-#q["The wound is the place where the Light enters you." -- Rumi [1207]
-#q["Scars show us where we have been, not where we are going." -- David Rossi (fictional, Criminal Minds)]
--->
-
 > *"A scar is not an injury. A scar is an healing. After an injury, a scar is what makes you whole."  
 -- China Mieville [1972]*
 
 Don’t punish yourself for failing. Failing is learning.
 
-You are more than your mistakes. Past mistakes are meant to guide you, not define you. If you don’t heal what hurt you, you’ll bleed on people who didn’t cut you. Don’t hide your scars. They are proof that you showed up for life—and fought.
+You are more than your mistakes. Past mistakes are meant to guide you, not define you. If you don’t heal what hurt you, you’ll bleed on people who didn’t cut you. Don’t hide your scars. They are proof that you showed up for life, and fought.
+
+> *"The wound is the place where the Light enters you."  
+-- Rumi [1207]*
 
 > *"The scars you acquire by exercising courage will never make you feel inferior."  
 -- Cima da Conegliano [1459]*
@@ -755,6 +856,9 @@ You are more than your mistakes. Past mistakes are meant to guide you, not defin
 "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."  
 -- Kahlil Gibran [1883]*
 
+> *"I bear all the wounds of all the battles I avoided."  
+-- Fernando Pessoa [1888]*
+
 > *"Sorrow is better than fear. Fear is a journey, a terrible journey. But, sorrow is at least an arriving."  
 -- Alan Paton [1903]*
 
@@ -764,173 +868,8 @@ You are more than your mistakes. Past mistakes are meant to guide you, not defin
 > *"Words can’t hurt you, they can only hurt your image of you."  
 -- Naval Ravikant [1974]*
 
-
-
-
-
-
-## On jealousy and envy
-
-<!--
-- A inveja mata-nos. O sucesso dá-nos vida!
-- Humans hate the most successful humans as it makes their little egos feel inferior.
-
-#q["Envy is ignorance, imitation is suicide." -- Ralph Waldo Emerson $  1803  $]
-#q["The envious die not once, but as often as the envied win applause." -- Baltasar Gracián $  1601  $]
--->
-
-> *"You’ll never be criticized by someone who is doing more than you. You’ll always be criticized by someone who is doing less. Remember that."  
--- Denzel Washington [1954]*
-
-Envy is a sign that you are not focused on your life.
-
-Jealousy is the face of low self-esteem. A healthy mind does not speak ill of others. Outliers inspire envy. Once they stop talking to you, they start talking about you. Intelligence, wealth, fame, luck, beauty, health, success, and lifestyle (freedom) are the main triggers.
-
-Treat haters like toddlers. When people criticize your life, they are speaking about their fears and limitations, not yours. Only take advice from those achieving what you want. Ignore and be flattered by the rest. Never hate people who are jealous of you—respect their jealousy; they think you’re better than them. If someone is copying you, you won. Jealousy comes in jokes—pay attention.
-
-> *"The dogs bark but the caravan moves on."  
--- vox populi*
-
-> *"If evil be spoken of you and it be true, correct yourself, if it be a lie, laugh at it."  
--- Epictetus [0050]*
-
-> *"The first art of kings is to endure hatred."  
--- Seneca [-004]*
-
-> *"Envy is a declaration of inferiority."  
--- Napoleon Bonaparte [1769]*
-
-> *"To feel envy is human, to savour schadenfreude is devilish."  
--- Arthur Schopenhauer [1788]*
-
-> *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
--- Henry Thomas Buckle [1821]*
-
-> *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence." (...)  
-"If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut."  
--- Albert Einstein [1879]*
-
-> *"Success makes so many people hate you. I wish it wasn’t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you."  
--- Marilyn Monroe [1926]*
-
-> *"It is not greed that drives the world, but envy."  
--- Warren Buffett [1930]*
-
-> *"Envy was once considered to be one of the seven deadly sins before it became one of teh most admired virtues under its new name: «social justice»."  
--- Thomas Sowell [1930]*
-
-> *"Remember if people talk behind your back, it only means you are two steps ahead."  
--- Fannie Flagg [1944]*
-
-> *"Think as you like but behave like others." (...)  
-"Never appear too perfect." (...)  
-"If people with natural gifts also possess a good work ethic and have some luck in life, envy will follow them wherever they go."  
--- Robert Greene [1959]*
-
-> *"If someone’s insults bother you; it is evidence that you respect him."  
--- Nassim Taleb [1960]*
-
-> *"Choose inspiration over envy." (...)  
-"The only people worth envying are the ones incapable of envy."   
--- Naval Ravikant [1974]*
-
-> *"«You’re doing it all wrong», said someone doing nothing at all."  
--- Sahil Lavingia [1989]*
-
-> *"Someone could be more successful than you and still envy you because your character carries more weight than their status."  
--- x@pallnandi*
-
-> *"They called her witch because she knew how to heal herself."  
--- x@tevsmith*
-
-### On anger
-
-> *"The more you know who you are, and what you want, the less you let things upset you."  
--- (fictional) Bob Harris*
-
-Anger is a punishment we give ourselves for someone else’s mistake. We are wired to blame: ourselves or others. We are obsessed with fault.
-
-Most angry people are envious people who don’t understand that life improves once they focus on their own lives and actively improve who they are. Someone complaining a lot is someone not accomplishing a lot. Pay attention to what people say out of anger—they’ve been dying to tell you that.
-
-> *"In anger we should refrain both from speech and action."  
--- Pythagoras [-570]*
-
-> *"An angry man opens his mouth and shuts his eyes."  
--- Cato the Younger [-095]*
-
-> *"Any person capable of angering you becomes your master; he can anger you only you permit yourself being disturbed by him."  
--- Epictetus [0050]*
-
-> *"Whatever begins in anger, ends in shame."  
--- Benjamin Franklin [1706]*
-
-> *"And God said «love your enemy», and I loved myself."  
--- Kahlil Gibran [1883]*
-
-### On self awareness
-
-<!--
-> *"You are not a drop in the ocean. You are the entire ocean in a drop."  -- Rumi [1207]*
--->
-
-> *"No persons are more frequently wrong, than those who will not admit they are wrong."  
--- François de La Rochefoucauld [1613]*
-
-Not all criticism is envy.
-
-Beware of blind spots. When somebody says something bad about you, it’s negativity. When everyone says it, it’s advice. Do you know anyone without blind spots? So why would you be different?
-
-Self-awareness is the ability to pause your mind. It reduces the gap between who you are and who you think you are. Meditation increases mindfulness. Over time, it rewires your brain to be less reactive and respond thoughtfully to feelings.
-
-> *"If you correct your mind, the rest of your life will fall into place."  
--- Lao Tzu [-571]*
-
-> *"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others."  
--- Marcus Aurelius [0121]*
-
-> *"The best mirror is an old friend."  
--- George Herbert [1593]*
-
-> *"Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted."  
--- Ralph Waldo Emerson [1803]*
-
-> *"It is only in adventure that some people succeed in knowing themselves."  
--- André Gide [1869]*
-
-> *"The things we see every day are the things we never see at all."  
--- G.K. Chesterton [1874]*
-
-> *"Until you make the uncouncious conscious, it will direct your life and you will call it fate." (...)  
-"Fanaticism is always a sign of repressed doubt."  
--- Carl Jung [1875]*
-
-> *"Conscience is the inner voice that warns us somebody may be looking."  
--- H.L. Mencken [1880]*
-
-> *"Weeds are flowers too, once you get to know them."  
--- A.A. Milne [1882]*
-
-> *"An intellectual is someone whose mind watches itself."  
--- Albert Camus [1913]*
-
-> *"Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have." (...)  
-"A great way to understand yourself is to seriously reflect on everything you find irritating in others."  
--- Kevin Kelly [1952]*
-
-> *"Self-awareness is the most attractive trait." (...)  
-"Meditation is a good way to measure where you are." (...)  
-"Meditation is intermittent fasting for the mind. Distractions are to mind the same as sugar to body." (...)  
-"The best meditation is being curious about the contents of your own mind." (...)  
-"A fit mind is a clear mind." (...)  
-"Can you look in the mirror without telling a story about yourself?" (...)  
-"Just like a low resting heart rate is the byproduct of intense exercise, low anxiety is the byproduct of intense self-examination."  
--- Naval Ravikant [1974]*
-
-> *"People who can’t laugh at themselves will always be outwitted by people who can."  
--- x@tk_coleman*
-
-> *"I never made a mistake in my life. I thought I did once, but I was wrong."  
--- (fictional) Lucy Van Pelt*
+> *"Scars show us where we have been, not where we are going."  
+-- (fictional) David Rossi*
 
 
 
@@ -944,9 +883,7 @@ Self-awareness is the ability to pause your mind. It reduces the gap between who
 
 Pessimism is a scarcity mindset.
 
-Pessimism is seductive. Optimism sounds like a sales pitch; pessimism sounds like help. While optimism isn’t always right, pessimism is rarely the way. Long-term, an optimistic bias pays off.
-
-Entrepreneurs are inherently optimistic—they’re rewarded for it. Intellectuals often the opposite.
+Pessimism is seductive. Optimism sounds like a sales pitch, pessimism sounds like help. Entrepreneurs are inherently optimistic, they’re rewarded for it. Intellectuals often the opposite. While optimism isn’t always right, pessimism is rarely the way. Long-term, an optimistic bias pays off.
 
 > *"Both optimists and pessimists contribute to society. The optimist invents the aeroplane, the pessimist the parachute."  
 -- George Bernard Shaw [1856]*
@@ -999,7 +936,9 @@ Entrepreneurs are inherently optimistic—they’re rewarded for it. Intellectua
 > *"Perfectionism is the fear of being criticized."  
 -- Caroline Myss [1952]*
 
-Strive for excellence, not perfection. Good enough yields success; perfection yields procrastination, anxiety, and depression. It’s liberating to see yourself as a «doist».
+Strive for excellence, not perfection.
+
+Good enough yields success; perfection yields procrastination, anxiety, and depression. It’s liberating to see yourself as a «doist».
 
 > *"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."  
 -- Aristotle [-384]*
@@ -1019,9 +958,6 @@ Strive for excellence, not perfection. Good enough yields success; perfection yi
 > *"Perfection is not attainable, but if we chase perfection, we can catch excellence."  
 -- Vince Lombardi [1913]*
 
-> *"We are all broken, that’s how the light gets in."  
--- Leonard Cohen [1934]*
-
 > *"If I had any humility I would be perfect."  
 -- Ted Turner [1938]*
 
@@ -1040,24 +976,17 @@ Strive for excellence, not perfection. Good enough yields success; perfection yi
 - Just finished the book «Buy Back Your Time». Key takeaway? Outsource your weaknesses. It isn’t lazy, it’s smart. Double down on your zone of genius and watch your business, health and life transform.
 - One pattern I’ve noticed in all miserable people: They overthink and underact.
 - procrastination is merely the avoidance of unpleasant emotions.
+- Never mistake motion for action. Think like a man of action; act like a man of thought. Make any plan.
 -->
 
 > *"One of the counterintuitive things that I’ve learned is that procrastination is often a side-effect of perfectionism."  
 -- hn@bane*
 
-We fear releasing something unimportant, so we release nothing at all. Inadequate results reveal we aren’t as good as we think, creating anxiety. We distract ourselves to avoid facing what bothers us. Procrastination relieves that anxiety. When hope disappears, so does action. The cost of procrastination is the life you could have lived.
+We fear releasing something unimportant, so we release nothing at all.
 
-Hints:
+Inadequate results reveal we aren’t as good as we think, creating anxiety. We distract ourselves to avoid facing what bothers us. Procrastination relieves that anxiety. When hope disappears, so does action. Procrastination causes burnout far more than work does. The cost of procrastination is the life you could have lived. You’re too gifted to be paralyzed by procrastination. Dear son, focus.
 
-- What gets measured gets done.
-- Don’t wait for the perfect moment, a good moment is a safer bet. Long pauses cause languishing and paralysis is worse than bad timing. Eventually, the pain of not doing it exceeds the pain of doing it (panic monster).
-- Never mistake motion for action. Think like a man of action; act like a man of thought. Make any plan.
-- Procrastination causes burnout far more than work does.
-- You’re too gifted to be paralyzed by procrastination. Dear son, focus.
-- Laziness often disguises lack of knowledge but is really lack of direction. When goals align with passions, laziness fades—you’re driven by something bigger. Purpose fuels progress; build what outlasts you.
-
-> *"What’s well begun is half done."  
--- Horace [-065]*
+Don’t wait for the perfect moment, a good moment is a safer bet. Long pauses cause languishing and paralysis is worse than bad timing. Eventually, the pain of not doing it exceeds the pain of doing it (panic monster). What gets measured gets done. Laziness often disguises lack of knowledge but is really lack of direction. When goals align with passions, laziness fades, you’re driven by something bigger. Purpose fuels progress; build what outlasts you.
 
 > *"Evil is whatever distracts."  
 -- Franz Kafka [1883]*
@@ -1076,17 +1005,9 @@ Hints:
 
 Storage is a way of warehousing the past.
 
-Remove unnecessary distractions and obligations that don’t truly serve your goals. Active decluttering makes room for your true treasures and clarifies your values.
+Remove unnecessary distractions and obligations that don’t truly serve your goals. Active decluttering makes room for your true treasures and clarifies your values. If you don’t love it or use it, it’s clutter. Decluttering is self-care. Clutter isn’t just physical, it’s old ideas, toxic relationships, and bad habits. Clutter is everything that doesn’t support your better self. Let go of possessions you no longer need. Minimalism doesn’t avoid possession, only excess. The less you own, the less owns you. Owning less beats organizing more. Eliminate instead of organize. Organizing email is like alphabetizing your recycling. Technology is your slave, not your master. You’re not choosing ignorance, you’re choosing not to watch wrestling.
 
-Hints:
-
-- If you don’t love it or use it, it’s clutter. Decluttering is self-care. Clutter isn’t just physical—it’s old ideas, toxic relationships, and bad habits. Clutter is everything that doesn’t support your better self. Let go of possessions you no longer need.
-- Minimalism doesn’t avoid possession, only excess. The less you own, the less owns you. Owning less beats organizing more. Eliminate instead of organize.
-- A tool is useful when it passes human level. Start with the cheapest tools. Upgrade the ones you use most. If you use a tool for a job, buy the best you can afford.
-- Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none.
-- All that clutter used to be money. Clutter is a museum of sh\*t you thought would make you happy.
-- Technology is your slave, not your master. You’re not choosing ignorance, you’re choosing not to watch wrestling.
-- Organizing email is like alphabetizing your recycling.
+A tool is useful when it passes human level. Start with the cheapest tools. Upgrade the ones you use most. If you use a tool for a job, buy the best you can afford. Buy supplies before you need them. Gadgets after you need them. Three is two. Two is one. One is none. All that clutter used to be money. Clutter is a museum of sh\*t you thought would make you happy.
 
 > *"If a little is not enough for you, nothing is."  
 -- Epicurus [-341]*
@@ -1105,9 +1026,9 @@ Hints:
 > *"The three most harmful addictions are heroin, carbohydrates, and a monthly sallary."  
 -- Nassim Taleb [1960]*
 
-Nietzsche describes three modern vices: _overwork_ (constant busyness is self-negation—a «will to forget» oneself), _curiosity_ (vague interest in everything without deep obsession leads nowhere), and _sympathy_ (sympathy for all refuses to rank good and bad).
-
 Signs of a man who has lost control of his life: watching porn, addicted to comfort, drugs, alcohol; spending all day indoors. Porn isn’t real sex. Cocaine isn’t real energy. Alcohol isn’t real courage. Gambling isn’t real investing. Nightly news isn’t real facts. Social media isn’t really social. Business books aren’t real business.
+
+Nietzsche describes three modern vices: _overwork_ (constant busyness is self-negation, a «will to forget» oneself), _curiosity_ (vague interest in everything without deep obsession leads nowhere), and _sympathy_ (sympathy for all refuses to rank good and bad).
 
 > *"Confort is the worst addiction."  
 -- Marcus Aurelius [0121]*
@@ -1122,30 +1043,18 @@ Signs of a man who has lost control of his life: watching porn, addicted to comf
 
 ## On growing old
 
-<!--
-- Young people have energy to argue over every minor difference or slight. They possess both the vigour and the inclination to squabble. But with age, and wisdom, you just don’t care. You pick your battles. You assess the value of conflict. If the payoff for winning doesn’t exceed the effort required to win — you simply don’t bother. You neglect. You ignore. You don’t care.
-#q["Youth is wasted on the young." -- George Bernard Shaw $  1856  $]
-#q["Old age is always fifteen years older than I am." -- Bernard Baruch $  1870  $]
-#q["Growing old is mandatory; growing up is optional." -- Chili Davis $  1960  $]
-#q["Maturity is achieved when a person postpones immediate pleasures for long-term values." -- Joshua Loth Liebman $  1907  $]
-#q["Youth is a gift of nature, but age is a work of art." -- Stanislaw Jerzy Lec $  1909  $]
--->
-
 > *"If you arrive to my age and nobody thinks well of you, I don’t care how big your bank account is, your life is a disaster."  
 -- Warren Buffett [1930]*
 
 People my age are so much older than me.
 
-Aging implies wear and tear, often seen as a high price for maturity. After a certain age, you’re no longer an individual—you become an institution, treated as such. You’re expected to behave like historical furniture or an architectural landmark.
+Aging implies wear and tear, often seen as a high price for maturity. After a certain age, you’re no longer an individual, you become an institution, treated as such. You’re expected to behave like historical furniture or an architectural landmark.
 
 > *"An honest man is always a child."  
 -- Socrates [-470]*
 
 > *"Nothing is more disgraceful than that an old man should have nothing to show to prove that he has lived long, except his years."  
 -- Seneca [-004]*
-
-> *"As a well spent day brings happy sleep, so life well used brings happy death."  
--- Leonardo da Vinci [1452]*
 
 > *"Every one desires to live long, but no one would be old."  
 -- Jonathan Swift [1667]*
@@ -1156,11 +1065,12 @@ Aging implies wear and tear, often seen as a high price for maturity. After a ce
 > *"Forty is the old age of youth; fifty is the youth of old age."  
 -- Victor Hugo [1802]*
 
-> *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it."  
--- Mark Twain [1835]*
-
-> *"We don’t stop playing because we grow old; we grow old because we stop playing."  
+> *"We don’t stop playing because we grow old; we grow old because we stop playing." (...)  
+"Youth is wasted on the young."  
 -- George Bernard Shaw [1856]*
+
+> *"Old age is always fifteen years older than I am."  
+-- Bernard Baruch [1870]*
 
 > *"It takes a very long time to become young."  
 -- Pablo Picasso [1881]*
@@ -1174,6 +1084,9 @@ Aging implies wear and tear, often seen as a high price for maturity. After a ce
 > *"A man that lives from memories becames old. One that lives from projects remains young."  
 -- Bruno Munari [1907]*
 
+> *"Youth is a gift of nature, but age is a work of art."  
+-- Stanisław Jerzy Lec [1909]*
+
 > *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. There was no transitional period."  
 -- Stanisław Ulam [1909]*
 
@@ -1186,14 +1099,18 @@ Aging implies wear and tear, often seen as a high price for maturity. After a ce
 > *"You are only as young as the last time you changed your mind."  
 -- Kevin Kelly [1952]*
 
+> *"Growing old is mandatory; growing up is optional."   
+-- Chili Davis [1960]*
+
 ### On maturity
 
 <!--
-> *"The work of the mature person is to carry grief in one hand and gratitude in the other."  -- Francis Weller []*
+> *"The work of the mature person is to carry grief in one hand and gratitude in the other."  
+-- Francis Weller [1xxx]*
+#q["The work of the mature person is to carry grief in one hand and gratitude in the other." \
+-- Francis Weller \[1xxx\]] #i[[1xxx] WELLER, Francis (us) ] #i2[WELLER, Francis (us) ]
 
 - Normalize this by age 30: Talk slow. Be clear. Never mumble. Don’t interrupt.
-- As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life.
-- At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don’t know.
 -->
 
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
@@ -1201,7 +1118,9 @@ Aging implies wear and tear, often seen as a high price for maturity. After a ce
 
 The advantage of aging is that you become more decisive.
 
-Maturing is realizing many things don’t need your comments. Maturity is when you stop forcing people to choose you and stop feeling you have to take care of the world.
+Maturing is realizing many things don’t need your comments. Maturity is when you stop forcing people to choose you and stop feeling you have to take care of the world. Young people have energy to argue over every minor difference or slight. But with age, and wisdom, you just don’t care. You pick your battles. You assess the value of conflict. If the payoff for winning doesn’t exceed the effort required to win, you simply don’t bother.
+
+At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don’t know. As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life.
 
 > *"The youth can walk faster but the elder knows the road."  
 -- vox populi*
@@ -1227,6 +1146,9 @@ Maturing is realizing many things don’t need your comments. Maturity is when y
 > *"When I was young, I used to admire intelligent people; as I grow older, I admire kind people."  
 -- Abraham Heschel [1907]*
 
+> *"Maturity is achieved when a person postpones immediate pleasures for long-term values."  
+-- Joshua Loth Liebman [1907]*
+
 > *"Aging is an extraordinary process where you become the person you always should have been."  
 -- David Bowie [1947]*
 
@@ -1240,10 +1162,6 @@ Maturing is realizing many things don’t need your comments. Maturity is when y
 -- Sahil Lavingia [1989]*
 
 ### On loneliness
-
-<!--
-#q["Loneliness is the poverty of self; solitude is the richness of self." -- May Sarton $  1912  $]
--->
 
 > *"If a man knows more than others he becomes lonely." (...)  
 "Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you."  
@@ -1260,8 +1178,14 @@ A person who is okay with being alone is a powerful person.
 > *"If you are afraid of loneliness, don’t marry."  
 -- Anton Chekhov [1860]*
 
+> *It is astonishing what foolish things one can temporarily believe if one thinks too long alone."  
+-- John Maynard Keynes [1883]*
+
 > *"I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them»."  
 -- Anaïs Nin [1903]*
+
+> *"Loneliness is the poverty of self; solitude is the richness of self."  
+-- May Sarton [1912]*
 
 > *"Being alone never felt right. Sometimes it felt good, but it never felt right."  
 -- Charles Bukowski [1920]*
@@ -1293,6 +1217,12 @@ Regrets of the dying: don’t ignore your dreams; don’t work too much; say wha
 > *"A man dies when he stops working." (...)  
 "Everybody wants to go to heaven, but nobody wants to die."  
 -- vox populi*
+
+> *"As a well spent day brings happy sleep, so life well used brings happy death."  
+-- Leonardo da Vinci [1452]*
+
+> *"Once you stop learning, you start dying."  
+-- Albert Einstein [1879]*
 
 > *"As I have not worried to be born, I do not worry to die."  
 -- Federico Garcia Lorca [1898]*

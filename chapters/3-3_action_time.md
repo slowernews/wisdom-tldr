@@ -79,6 +79,9 @@ However, you can’t start a new chapter if you keep re-reading the last one. Th
 > *"But how can you live and have no story to tell?"  
 -- Fyodor Dostoyevsky [1821]*
 
+> *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it."  
+-- Mark Twain [1835]*
+
 > *"You never know the value of a moment until it becomes a memory."  
 -- Georges Duhamel [1884]*
 

@@ -3,9 +3,6 @@
 ## On autonomy
 
 <!--
-> *"The price of freedom is eternal vigilance." -- Thomas Jefferson [1743]
-> *"Liberty means responsibility. That is why most men dread it." -- George Bernard Shaw [1856]
-
 - Bees don’t waste their time explaining to flies that flowers taste better than shit.
 - Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
 - Don’t build your castle in other peoples kingdom’s.
@@ -18,17 +15,15 @@
 
 Your autonomy is your major legacy.
 
-Once you’re «bought», it’s hard to escape. We all start wanting more independence, yet increasingly live dependent lifestyles. The bank owns us. Work owns us.
+Once you’re «bought», it’s hard to escape. We all start wanting more independence, yet increasingly live dependent lifestyles. The bank owns us, work owns us. Stop codependence on others and prioritize self-care first. Energy and time are limited. Money, love, and prosperity follow. Healthy people respect boundaries. A boundary defines what you want (and don’t want) in the moment. Ask: «If I loved myself, would I do this?». Telling your truth isn’t selfish. What’s more selfless: ensuring you’re cared for so you can care for others, or draining yourself until burnt out, angry, and depressed? You can’t give what you lack. Serve yourself first, recharge, recuperate, invest in growth and education. Only then can you serve others fully.
 
-Stop codependence on others and prioritize self-care first. Money, love, and prosperity follow. Energy and time are limited—every moment wasted on others subtracts from your strength. Healthy people respect boundaries.
-
-Hints:
-
-- Telling your truth isn’t selfish. What’s more selfless: ensuring you’re cared for so you can care for others, or draining yourself until burnt out, angry, and depressed? You can’t give what you lack. Serve yourself first—recharge, recuperate, invest in growth and education. Only then can you serve others fully.
-- Stand up for yourself, friends, or values. A shorter life facing fears beats one avoiding them. A boundary defines what you want (and don’t want) in the moment. Ask: «If I loved myself at level 10/10, would I do this?»
+A shorter life facing fears beats one avoiding them.
 
 > *"Care about other people think and you will always be their prisoner."  
 -- Lao Tzu [-571]*
+
+> *"I never believed that man’s freedom consisted in doing what he wants, but rather in never doing what he does not want to do."  
+-- Jean-Jacques Rousseau [1712]*
 
 > *"Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live."  
 -- Oscar Wilde [1854]*
@@ -36,7 +31,8 @@ Hints:
 > *"Never explain: your friends do not need it, and your enemies will not believe you anyway."  
 -- Elbert Hubbard [1856]*
 
-> *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself."  
+> *"If you begin by sacrificing yourself to those you love, you will end by hating those to whom you have sacrificed yourself." (...)  
+"Liberty means responsibility. That is why most men dread it."  
 -- George Bernard Shaw [1856]*
 
 > *"I can’t give you the formula for success, but I can give you the formula for failure, which is: try to please everybody."  
@@ -47,6 +43,9 @@ Hints:
 
 > *"Whenever you think or you believe or you know, you’re a lot of other people: but the moment you feel, you’re nobody-but-yourself."  
 -- E.E. Cummings [1894]*
+
+> *"I would rather have questions that can’t be answered than answers that can’t be questioned."  
+-- Richard Feynman [1918]*
 
 > *"I think the reward for conformity is that everyone likes you except yourself."  
 -- Rita Mae Brown [1944]*
@@ -63,7 +62,8 @@ Hints:
 -- Brené Brown [1965]*
 
 > *"What we reason for ourselves may help others. What we reason for others will not help us." (...)  
-"If you hurt people because of their expectations of you, that’s their problem."  
+"If you hurt people because of their expectations of you, that’s their problem." (...)  
+"The more neatly you fit into society, the less free you actually are."  
 -- Naval Ravikant [1974]*
 
 ### On authenticity
@@ -82,12 +82,7 @@ Hints:
 
 Authenticity isn’t the presence of something, but the absence of everything inauthentic.
 
-Hints:
-
-- If you try to be something you’re not, you end up being nothing. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate to you. Just be real, and the results will come. If something is holding you back, recognize it and fix it, but you don’t have to excel at everything. Find your context.
-- If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh.
-- Honesty is an antidote to impostor syndrome.
-- Truth is a better way to talk about ourselves. Personal branding will kill you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. Countries rewrite their histories, from the textbook up, to support how they see themselves now.
+If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh. Honesty is an antidote to impostor syndrome. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate to you. Truth is a better way to talk about ourselves. Personal branding will kill you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. If something is holding you back, recognize it and fix it, but you don’t have to excel at everything. Find your context. If you try to be something you’re not, you end up being nothing.
 
 > *"Do not try to seem wise to others."  
 -- Epictetus [0050]*
@@ -110,8 +105,14 @@ Hints:
 > *"Nobody realizes that some people expend tremendous energy merely to be normal."  
 -- Albert Camus [1913]*
 
+> *"Pride makes us artificial and humility makes us real."  
+-- Thomas Merton [1915]*
+
 > *"Always be a first rate version of yourself and not a second rate version of someone else."  
 -- Judy Garland [1922]*
+
+> *"Speak your mind, even if your voice shakes."  
+-- Maggie Smith [1934]*
 
 > *"Inside every cynical person, there is a disappointed idealist."  
 -- George Carlin [1937]*
@@ -133,19 +134,13 @@ Hints:
 ### On accountability
 
 <!--
-- every damn thing is your own fault, if you are any good.
-- chi sei? sono l’evoluzione di tutti i miei errori.
-- Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best.
-- I approve of me. I take nothing she says seriously, helps me relax. Change your actions, not yourself. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. 
-- A person who trusts no one now, once trusted someone too much.
+- every damn thing is your own fault, if you are any good. Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best. I approve of me. I take nothing she says seriously, helps me relax. Change your actions, not yourself. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. A person who trusts no one now, once trusted someone too much.
 -->
 
 > *"We are taught you must blame your father, your sisters, your brothers, the school, the teachers — but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change."  
 -- Katharine Hepburn [1907]*
 
-You are your word. Trust, not money, is the currency of business and life.
-
-Take responsibility. Only then will you cultivate self-respect and earn respect from others. Your choices have shaped the body, bank account, and relationships you have right now.
+You are your word. Trust, not money, is the currency of business and life. Take responsibility. Only then will you cultivate self-respect and earn respect from others.
 
 > *"There is no greater fraud than the promise not kept."  
 -- vox populi*
@@ -207,8 +202,7 @@ Take responsibility. Only then will you cultivate self-respect and earn respect 
 "Integrity is when what you think and what you say and what you do are one." (...)  
 "Returns are made on the way up. Reputations are made on the way down." (...)  
 "Living a life of integrity pays off, but it takes a very long time." (...)  
-"Before you can lie to another, you must firt lie to yourself." (...)  
-"Intentions don’t matter. Actions do. That’s why being ethical is hard."  
+"Before you can lie to another, you must firt lie to yourself."  
 -- Naval Ravikant [1974]*
 
 > *"Make two people proud: your 8-year-old self and your 80-year-old self."  
@@ -226,11 +220,7 @@ Take responsibility. Only then will you cultivate self-respect and earn respect 
 
 <!--
 + x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
-+ x@SpiritGenealogy -- Discipline is self love in motion.
-> *"If you need inspiration, don’t do it."  -- Elon Musk [1971]*
-> *"The eyes do not see what the mind does not want."  -- vox populi*
 
-- As a man, never stay at home all day. Go out, make friends, and create new connections. A man’s job is to face the world, take risks, and embrace difficulties.
 - Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself.
 -->
 
@@ -239,7 +229,7 @@ Take responsibility. Only then will you cultivate self-respect and earn respect 
 
 Blessed are the restless.
 
-Without commitment, you’ll never start. Without consistency, you’ll never finish. You don’t need 100 self-help books, all you need is agency and self-discipline.
+Without commitment, you’ll never start. Without consistency, you’ll never finish. You don’t need one hundred self-help books, all you need is action and discipline.
 
 > *"The seed of all evil is laziness." (...)  
 "The longer the tongue, the shorter the hands."  
@@ -247,6 +237,9 @@ Without commitment, you’ll never start. Without consistency, you’ll never fi
 
 > *"Devote the rest of your life into making progress."  
 -- Epictetus [0050]*
+
+> *"Continuous effort, not strength or intelligence, is the key to unlocking our potential."  
+-- Winston Churchill [1874]*
 
 > *"I don’t have talent, so I just get up earlier."  
 -- Henry Rollins [1961]*
@@ -258,7 +251,7 @@ Without commitment, you’ll never start. Without consistency, you’ll never fi
 
 Get your dopamine from action.
 
-Offer precise help («I can drop a lasagna at 14:00») instead of vague offers («I’m here for you»). Helpful people don’t ask «How can I help?»—they just help.
+Offer precise help («I can drop a lasagna at 14:00») instead of vague offers («I’m here for you»). Helpful people don’t ask «How can I help?» — they just help.
 
 > *"If not you, who? If not now, when?"  
 -- Hillel the Elder [-110]*
@@ -268,9 +261,6 @@ Offer precise help («I can drop a lasagna at 14:00») instead of vague offers (
 
 > *"If it’s a good idea, go ahead and do it. It’s much easier to apologize than it is to get permission."  
 -- (rear admiral) Grace Hopper [1906]*
-
-> *"Knowing is not enough. We must apply. Willing is not enough. We must do."  
--- Bruce Lee [1940]*
 
 > *"If you have a dream, don’t waste your energies explaining why." (...)  
 "The world is changed by your example, not by your opinion."  
@@ -320,7 +310,8 @@ Often our productivity struggles stem not from lack of efficiency, but from lack
 > *"Continuous improvement is better than delayed perfection."  
 -- Mark Twain [1835]*
 
-> *"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons." (...)  
+> *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment." (...)  
+"Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons." (...)  
 "Motivation is what gets you started. Habit is what keeps you going."  
 -- Jim Rohn [1930]*
 
@@ -337,6 +328,9 @@ Often our productivity struggles stem not from lack of efficiency, but from lack
 > *"Your ability to tolerate boredom while repeating the same action determines your odds of success."  
 -- x@alexhormozi*
 
+> *"Discipline is self love in motion."  
+-- x@spiritgenealogy* 
+
 
 
 
@@ -344,12 +338,9 @@ Often our productivity struggles stem not from lack of efficiency, but from lack
 
 ## On respect
 
-### On humility
+### On humility and pride
 
 <!--
-#q["Humility is not thinking less of yourself, but thinking of yourself less." -- C.S. Lewis 1898]
-#q["Pride makes us artificial and humility makes us real."  -- Thomas Merton 1915]
-
 - I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things — If I don’t respect him, I’ll disrespect him. Nothing in between..
 - Never joke with your sources of income.
 -->
@@ -357,11 +348,9 @@ Often our productivity struggles stem not from lack of efficiency, but from lack
 > *"Humility is mostly about being very honest about how much you owe to luck."  
 -- Kevin Kelly [1952]*
 
-You might think you want a fancy car or a nice watch, but what you really want is respect and admiration from your peers.
+Ego is the unhealthy belief in our own importance.
 
-Ego is the unhealthy belief in our own importance. You are not perfect, and you never will be. Success means nothing in life—it’s forgotten in one generation, two at best. Your emotional health, however, lives on for hundreds of generations in the lives of everyone you touch and their descendants.
-
-One way to humble yourself is to place yourself in the position of being the weakest person in something during the day.
+You are not perfect, and you never will be. Success means nothing in life, it’s forgotten in one generation, two at best. Your emotional health, however, lives on for hundreds of generations in the lives of everyone you touch and their descendants. One way to humble yourself is to place yourself in the position of being the weakest person in something during the day.
 
 > *"The higher we are placed, the more humbly we should walk."  
 -- Cicero [-106]*
@@ -374,6 +363,9 @@ One way to humble yourself is to place yourself in the position of being the wea
 
 > *"Books serve to show a man that those original thoughts of his aren’t very new after all."  
 -- Abraham Lincoln [1809]*
+
+> *"Humility is not thinking less of yourself, but thinking of yourself less."  
+-- C.S. Lewis [1898]*
 
 > *"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
 -- Ernest Hemingway [1899]*

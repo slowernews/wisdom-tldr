@@ -97,11 +97,10 @@ Only comedians can speak truth without consequences. Don’t bow to gatekeepers,
 
 
 
-## On opponents and allies
+## On opponents
 
 <!--
 > *"Só os mais corajosos conseguem fazer a paz."  -- Trump*
-#q["The best way to destroy an enemy is to make him a friend." -- Abraham Lincoln $  1809  $]
 
 - Be willing to side with the minority.
 - Find cassandras to stop catastrophes. The “Cassandras” are experts in their field. These people are data driven.
@@ -121,17 +120,30 @@ Beware of all players.
 
 People optimize ruthlessly, exploiting any loophole or gap to their advantage. Only your parents will help you in ways that harm themselves.
 
+The toughest competition is a good-enough competitor. Easy opponents are often just deceiving you. But if you can spot them, there are people acting stupid who remain easy wins. Beware desperate opponents. Sad or cornered people risk everything — they have nothing left to lose. This gives them a massive edge. Besides outworking them, you’ll need every weapon — sometimes even the «dirty» ones: pawn sacrifices, bribes, lying. They may work but use them only in desperate situations; each leaves a lifelong scar. When nothing else works, surrender. Only go all-in when you can already see the end.
+
 > *"Who lies for you will lie against you." (...)  
-"Talkers aren’t strong. The strong don’t talk."  
+"Talkers aren’t strong. The strong don’t talk." (...)
+"«El dorados» are never drawn in the map." (...)  
+"Necessity knows no law." (...)  
+"Fear can make a donkey attack a lion."  
 -- vox populi*
 
-> *"Because she competes with no one, no one can compete with her."  
+> *"Because she competes with no one, no one can compete with her." (...)  
+"The best fighter is never angry."  
 -- Lao Tzu [-571]*
 
 > *"Any person capable of angering you becomes your master."  
 -- Epictetus [0050]*
 
-> *"I don’t like that man. I must get to know him better."  
+> *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
+-- Balthasar Gracian [1601]*
+
+> *"Beware the fury of a patient man."  
+-- John Dryden [1631]*
+
+> *"I don’t like that man. I must get to know him better." (...)  
+"The best way to destroy an enemy is to make him a friend."  
 -- Abraham Lincoln [1809]*
 
 > *"If you don’t like a person, it’s because they remind you of something you don’t like about yourself."  
@@ -143,75 +155,42 @@ People optimize ruthlessly, exploiting any loophole or gap to their advantage. O
 > *"The enemy is fear. We think it is hate, but it is fear."  
 -- Mahatma Gandhi [1869]*
 
+> *"Sometimes one pays most for the things one gets for nothing." (...)  
+"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
+-- Albert Einstein [1879]*
+
+> *"Of all the bad men, religious bad men are the worst."  
+-- C.S. Lewis [1898]*
+
 > *"Only the hypocrite is really rotten to the core."  
 -- Hannah Arendt [1906]*
 
 > *"Never wrestle with a pig because if you do, you’ll both get dirty, but the pig will enjoy it."  
 -- Charlie Munger [1924]*
 
-> *"The world is divided between victims and predators, and you have to defend yourself against both."  
--- Florence Baron [1952]*
-
-> *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth."  
--- Doc Rivers [1961]*
-
-### On easy opponents
-
-> *"A free lunch is only found in mousetraps."  
--- Terry Pratchett [1948]*
-
-Easy opponents are often just deceiving you. But if you can spot them, there are people acting stupid who remain easy wins.
-
-> *"«El dorados» are never drawn in the map."  
--- vox populi*
-
-> *"Sometimes one pays most for the things one gets for nothing." (...)  
-"Two things are infinite: the universe and human stupidity; and I’m not sure about the the universe."  
--- Albert Einstein [1879]*
-
 > *"If you’ve been in the game thirty minutes and you don’t know who the patsy is, you’re the patsy."  
 -- Warren Buffett [1930]*
-
-> *"All guns are loaded."  
--- Kevin Kelly [1952]*
-
-> *"Never assume that loud is strong and quiet is weak."  
--- Brene Brown [1965]*
-
-### On desperate opponents
-
-> *"Necessity knows no law." (...)  
-"Fear can make a donkey attack a lion."  
--- vox populi*
-
-Beware desperate opponents. Sad or cornered people risk everything — they have nothing left to lose. This gives them a massive edge.
-
-> *"Don’t fight a starving animal. Never contend with a man who has nothing to Lose; for thereby you enter into an unequal conflict. The other enters without anxiety; having lost everything, including shame, he has no further loss to fear. He therefore re-sorts to all kinds of insolence."  
--- Balthasar Gracian [1601]*
-
-> *"Beware the fury of a patient man."  
--- John Dryden [1631]*
-
-### On difficult opponents
 
 > *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."  
 -- Bruce Lee [1940]*
 
-The toughest competition is a good-enough competitor.
+> *"A free lunch is only found in mousetraps."  
+-- Terry Pratchett [1948]*
 
-Besides outworking them, you’ll need every weapon — sometimes even the «dirty» ones: pawn sacrifices, bribes, lying. They may work but use them only in desperate situations; each leaves a lifelong scar. When nothing else works, surrender. Only go all-in when you can already see the end.
+> *"The world is divided between victims and predators, and you have to defend yourself against both."  
+-- Florence Baron [1952]*
 
-> *"The best fighter is never angry."  
--- Lao Tzu [-571]*
-
-> *"Of all the bad men, religious bad men are the worst."  
--- C.S. Lewis [1898]*
+> *"All guns are loaded."  
+-- Kevin Kelly [1952]*
 
 > *"Put all the meat in the barbecue."  
 -- Jorge Jesus {popularised} [1954]*
 
-> *"Do I not destroy my enemies when I make them my friends?"  
--- Abraham Lincoln [1809]*
+> *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth."  
+-- Doc Rivers [1961]*
+
+> *"Never assume that loud is strong and quiet is weak."  
+-- Brene Brown [1965]*
 
 ### On allies
 
@@ -230,6 +209,9 @@ The human strenght is the ability to cooperate. But careful, a follower is not a
 "Hungry dogs are never loyal." (...)  
 "The sheep will spend its entire life fearing the wolf, only to be eaten by the shepherd."  
 -- vox populi*
+
+> *"A friend to all is a friend to none."  
+-- Aristotle [-384]*
 
 > *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
 -- Balthasar Gracian [1601]*
@@ -253,7 +235,7 @@ The human strenght is the ability to cooperate. But careful, a follower is not a
 > *"Allies want you to win. Friends want you to stay with them."  
 -- x@codie_sanchez*
 
-### On heros
+### On heroes
 
 > *"You either die a hero, or you live long enough to see yourself become the villain."  
 -- (fictional) Harvey Dent*
@@ -275,8 +257,8 @@ Our heroes are our idealized selves. Heroes are fictional stories.
 
 <!--
 > *"Pierwsza ofiara wojny jest prawda"  -- Terry Hayes*
-#q["The supreme art of war is to subdue the enemy without fighting." -- Sun Tzu $  -544  $]
-#q["Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." -- Ronald Reagan $  1911  $]
+> *"The supreme art of war is to subdue the enemy without fighting." -- Sun Tzu [-544]
+> *"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." -- Ronald Reagan [1911]
 -->
 
 > *"War is what happens when language fails."  
@@ -289,7 +271,8 @@ Rotten peace breeds resentment. Small (but relevant) conflicts grow into big one
 > *"War spares not the brave, but the cowardly."  
 -- Anacreon [-573]*
 
-> *"If you are not in danger, do not fight."  
+> *"If you are not in danger, do not fight." (...)  
+"The supreme art of war is to subdue the enemy without fighting."  
 -- Sun Tzu [-544]*
 
 > *"War is delightful to those who have had no experience of it."  
@@ -339,19 +322,12 @@ Rotten peace breeds resentment. Small (but relevant) conflicts grow into big one
 
 ### On conflict resolution
 
-<!--
-#q["Speak when you are angry—and you will make the best speech you’ll ever regret." -- Ambrose Bierce $  1842  $]
--->
-
 > *"In college I used to work on the conflict resolution team at a local concert venue. Ultimate tool to de-escalate almost any situation? A genuine smile."  
 -- x@realestatetrent*
 
 You’re either part of the solution or part of the problem.
 
-Hints:
-
-- Use «we» and mean it—take responsibility.
-- Bring options to the table. it’s easier to negotiate down.
+Use «we» and mean it—take responsibility. Bring options to the table. it’s easier to negotiate down.
 
 > *"A quarrel is quickly settled when deserted by one party; there is no battle unless there be two."  
 -- Seneca [-004]*
@@ -468,6 +444,9 @@ Intelligence is a spectrum, your dog is intelligent also.
 > *"Intelligence is no longer the bottleneck. Ingenuity is."  
 -- Sahil Lavingia [1989]*
 
+> *"Oh, this is an easy one. When people say a child is talented they mean he or she is a good learner. But a talented adult is a good do-er. High potential people who fail to make an impact are stuck in child-mode, because that is what they were always praised for."  
+-- hn@goatinaboat*
+
 > *"Intellectuals pride themselves on their intelligence but they’d be more intelligent if they prided themselves on their curiosity."  
 -- x@g_s_bhogal*
 
@@ -489,6 +468,7 @@ Intelligence is a spectrum, your dog is intelligent also.
 - Wealth is the slave of the wise man and master of the fool.
 - «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
 - people don’t get rich because of intelligence. Most people who get rich in business are usually insanely self-disciplined. Self-discipline is the real metric for succes
+- Never worship money, but always avoid people who hate money. They hate competence. They have a distorted view of reality. They are losers. Never associate with losers... or you’ll become one.
 -->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
@@ -496,6 +476,10 @@ Intelligence is a spectrum, your dog is intelligent also.
 -- Kevin Kelly [1952]*
 
 Being rich is being fulfilled. An unhurried sense of time is itself a form of wealth.
+
+Money is a force multiplier for the life you want to live. But chasing more forever isn’t the path to happiness. Money buys freedom, not fulfillment.
+
+Money problems are self-confidence problems.
 
 > *"Contentment is natural wealth; luxury is artificial poverty."  
 -- Socrates [-470]*
@@ -510,11 +494,26 @@ Being rich is being fulfilled. An unhurried sense of time is itself a form of we
 > *"All my possessions for a moment of time."  
 -- (queen) Elizabeth I {attributed} [1533]*
 
+> *"Don’t think money does everything or you are going to end up doing everything for money."  
+-- Voltaire [1694]*
+
 > *"We are not rich by what we possess but by we can do without."  
 -- Immanuel Kant [1724]*
 
+> *"The first wealth is health."  
+-- Ralph Waldo Emerson [1803]*
+
 > *"Beware of overconcern for money, or position, or glory. Someday you will meet a man who cares for none of these things. Then you will know how poor you are."  
 -- Rudyard Kipling [1865]*
+
+> *"We don’t make movies to make money; We make money to make more movies."  
+-- Walt Disney [1901]*
+
+> *"After a certain point, money is meaningless. It ceases to be the goal. The game is what counts."  
+-- Aristotle Onassis [1906]*
+
+> *"A problem that can be solved with money is not really a problem."  
+-- Kevin Kelly [1952]*
 
 > *"Rich people think big. Poor people think small."  
 -- T. Harv Eker [1954]*
@@ -538,26 +537,6 @@ Being rich is being fulfilled. An unhurried sense of time is itself a form of we
 > *"A poor man with kids is richer than a rich man with none."  
 -- x@intangiblecoins* 
 
-#### On money
-
-<!--
-- Never worship money, but always avoid people who hate money. They hate competence. They have a distorted view of reality. They are losers. Never associate with losers... or you’ll become one.
--->
-
-> *"We don’t make movies to make money; We make money to make more movies."  
--- Walt Disney [1901]*
-
-Money is a force multiplier for the life you want to live. But chasing more forever isn’t the path to happiness. Money buys freedom, not fulfillment.
-
-> *"Don’t think money does everything or you are going to end up doing everything for money."  
--- Voltaire [1694]*
-
-> *"After a certain point, money is meaningless. It ceases to be the goal. The game is what counts."  
--- Aristotle Onassis [1906]*
-
-> *"A problem that can be solved with money is not really a problem."  
--- Kevin Kelly [1952]*
-
 #### How to get wealthy without luck
 
 <!--
@@ -569,19 +548,9 @@ Money is a force multiplier for the life you want to live. But chasing more fore
 
 Making money is not about luck.
 
-It’s a skill you learn through specialized knowledge, accountability, and leverage. Offer what society wants but can’t easily get—at scale. Focus on persistent effort in industries with long-term horizons and aligned people. The internet has unlocked diverse paths; most haven’t realized it yet. Build equity and ownership; trading time for money caps your upside. Wealth is assets that earn without constant work.
+It’s a skill you learn through specialized knowledge, accountability, and leverage. Offer what society wants but can’t easily get—at scale. Focus on persistent effort in industries with long-term horizons and aligned people. The internet has unlocked diverse paths; most haven’t realized it yet. Build equity and ownership; trading time for money caps your upside. Wealth is assets that earn without constant work. Learn to sell. Learn to build. If you can do both, you’re unstoppable. Equip yourself with specialized knowledge (unique, apprenticeship-style, not standard education), accountability (take risks under your own name), and leverage (code, media, capital, people). Embrace responsibility—society grants more duties, ownership, and influence to those who do. Build a public, bold personal brand. Select partners with intelligence, energy, and especially integrity. Avoid cynics and pessimists—their beliefs become self-fulfilling. Prioritize building wealth over chasing money or status. Money is a tool for trading experiences. Create valuable experiences to build wealth. You won’t achieve significant wealth trading time for money. Ownership or equity in a business is required for financial freedom. Spend money to save time, not time to save money. When you eventually attain wealth, you realize it wasn’t the primary goal. Free wealth: books, friends, sleep, ideas, questions, gratitude, laughter.
 
 Being broke is hard. Becoming rich is hard. Choose your hard.
-
-Hints:
-
-- Learn to sell. Learn to build. If you can do both, you’re unstoppable.
-- Equip yourself with specialized knowledge (unique, apprenticeship-style, not standard education), accountability (take risks under your own name), and leverage (code, media, capital, people).
-- Embrace responsibility—society grants more duties, ownership, and influence to those who do. Build a public, bold personal brand.
-- Select partners with intelligence, energy, and especially integrity. Avoid cynics and pessimists—their beliefs become self-fulfilling.
-- Prioritize building wealth over chasing money or status. Money is a tool for trading experiences. Create valuable experiences to build wealth.
-- You won’t achieve significant wealth trading time for money. Ownership or equity in a business is required for financial freedom. Spend money to save time, not time to save money.
-- When you eventually attain wealth, you realize it wasn’t the primary goal. Free wealth: books, friends, sleep, ideas, questions, gratitude, laughter.
 
 > *"He who works all day has no time to make money." (...)  
 "I would rather earn 1% off 100 people’s efforts than 100% of my own efforts."  
@@ -631,11 +600,9 @@ Hints:
 
 The secret of healthy finances is not making more money, it’s keeping some.
 
-Hints:
+Diversify with uncorrelated bets (barbell strategy). Spend less than you make. Save at least 10% of every paycheck. Keep liquidity; avoid assets you can’t liquidate quickly. Modern slavery is debt. The true cost of a home is the full mortgage, not the sticker price. Moderate earners are pushed to speculate or stay poor. What’s my religion? Arbitrage and rents. What will stay the same in the next ten years? Boring, unchanging needs offer the best opportunities. Where is low optimism? Recessions happen when confidence collapses at once—fear creates bargains. Know the buyers, sellers, and their motivations. Desperate sellers gift discounts; euphoric buyers create traps. Investments compete with each other. The best are bought, not sold — avoid junk stocks. The more you know, the less you need to diversify. Diversification hedges ignorance. Take risk off the table whenever possible. Don’t buy on future hopes, buy on past mistakes. We lose money betting on future stars, not on proven ones. Good investors don’t sell advice and rarely brag about returns.
 
-- Diversify with uncorrelated bets (barbell strategy).
-- Spend less than you make. Save at least 10% of every paycheck. Keep liquidity; avoid assets you can’t liquidate quickly.
-- Modern slavery is debt. The true cost of a home is the full mortgage, not the sticker price. Moderate earners are pushed to speculate or stay poor.
+On investment comfort zone: Scared money never wins. Scared money sells low and buys high; comfortable money waits through the storm.
 
 > *"It is a wise man who lives with money in the bank, it is a fool who dies that way."  
 -- vox populi*
@@ -643,13 +610,20 @@ Hints:
 > *"Gold is money. Everything else is credit."  
 -- J.P. Morgan [1837]*
 
+> *"The safest way to double your money is to fold it over once and put it in your pocket."  
+-- Kin Hubbard [1868]*
+
 > *"Diversification may preserve wealth, but concentration builds wealth." (...)  
 "Never lose money. Rule No. 2: don’t forget rule No. 1." (...)  
-"It’s nice to have a lot of money, but you know, you don’t want to keep it around forever. I prefer buying things. Otherwise, it’s a little like saving sex for your old age."  
+"It’s nice to have a lot of money, but you know, you don’t want to keep it around forever. I prefer buying things. Otherwise, it’s a little like saving sex for your old age." (...)  
+"When forced to choose, I will not trade even a night’s sleep for the chance of extra profits."  
 -- Warren Buffett [1930]*
 
 > *"Are you placing enough interesting, freakish, long shot, weirdo bets?"  
 -- Tom Peters [1942]*
+
+> *"It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism."  
+-- Howard Marks [1946]*
 
 > *"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life."  
 -- Kevin Kelly [1952]*
@@ -673,38 +647,10 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Money just comes to me because I know where to stand."  
--- x@ChelseaLazkani*
-
-#### On investment comfort zone
-
-> *"When forced to choose, I will not trade even a night’s sleep for the chance of extra profits."  
--- Warren Buffett [1930]*
-
-Scared money never wins. Scared money sells low and buys high; comfortable money waits through the storm.
-
-> *"The safest way to double your money is to fold it over once and put it in your pocket."  
--- Kin Hubbard [1868]*
+-- x@chelsealazkani*
 
 > *"I’m not interested in anything that’s not sustainable. Friendships, investing, careers, podcasts, reading habits, exercise habits. If I can’t keep it going, I’m not interested in it."  
 -- x@morganhousel*
-
-#### How to spot good investments?
-
-> *"It’s not what you buy. It’s what you pay. There is no asset which is so good that it can’t be overpriced and very few assets which are so bad that they can’t be underpriced. How do you get low price to value? The answer is low optimism."  
--- Howard Marks [1946]*
-
-What’s my religion? Arbitrage and rents.
-
-Hints:
-
-- What will stay the same in the next ten years? Boring, unchanging needs offer the best opportunities.
-- Where is low optimism? Recessions happen when confidence collapses at once—fear creates bargains.
-- Know the buyers, sellers, and their motivations. Desperate sellers gift discounts; euphoric buyers create traps.
-- Investments compete with each other. The best are bought, not sold — avoid junk stocks.
-- The more you know, the less you need to diversify. Diversification hedges ignorance.
-- Take risk off the table whenever possible.
-- Don’t buy on future hopes, buy on past mistakes. We lose money betting on future stars, not on proven ones.
-- Good investors don’t sell advice and rarely brag about returns.
 
 > *"Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land."  
 -- Adam Smith [1790]*
@@ -723,7 +669,7 @@ Hints:
 > *"Never take investment advice from someone who has to work for a living."   
 -- Nassim Taleb [1960]*
 
-> *"The #1 thing you should look for in an investor is conviction."  
+> *"The first thing you should look for in an investor is conviction."  
 -- Naval Ravikant [1974]*
 
 > *"The stock market is the only market where things go on sale and all the customers run out of the store."  
@@ -739,7 +685,7 @@ Hints:
 
 See fame as a multiplier.
 
-People claim they want fame to impact the world; often what they crave is peer adoration. Don’t chase being well-known—chase being worth knowing.
+People claim they want fame to impact the world; often what they crave is peer adoration. Don’t chase being well-known, chase being worth knowing.
 
 > *"He who is known as an early riser need not get up until noon." (...)  
 "We’ll know that rock is dead when you have to get a degree to work in it." (...)  
@@ -800,13 +746,14 @@ Beauty grabs attention. Personality grabs the heart. A truly beautiful person al
 ### On lifestyle
 
 <!--
-- never before has a generation so diligently recorded themselves accomplishing so little.
 + x@Cobratate -- A sad generation who’s obsessed with taking happy pictures.
 > *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live — what city, what country — has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 
+- never before has a generation so diligently recorded themselves accomplishing so little.
+- As a man, never stay at home all day. Go out, make friends, and create new connections. A man’s job is to face the world, take risks, and embrace difficulties.
 - you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
 - I much prefer the riches I had — anonymity, freedom, simplicity — to those they have today — technology driven constant connectedness, ultra convenient (but awful) food, instant entertainment. It’s the difference between a vigorous independent youth and one scheduled and managed by the predominant culture. I prefer the former.
 - If you’re from a poor background, entertainment is your enemy. That sh!t will keep you poor.
@@ -822,24 +769,7 @@ It’s okay to live a life others don’t understand.
 
 We were built to walk dozens of miles daily, hunt or gather meals, live in tight tribes, have frequent sex, raise children, and die young. When life becomes about enjoying every second instead of accumulating more stuff, we unlock true abundance and joy.
 
-Hints:
-
-- Build businesses using the heuristic: “maximize my vacation time.” You’ll often face two paths: the lucrative one and the lifestyle one—choose wisely.
-- Aspire to work 3 days a week, 3 weeks a month, with 3 months free each year.
-- Move past roommates, commutes, alarm clocks, and calendars (Naval Ravikant).
-- Own a house on a few acres with clean river frontage, plus assets you enjoy and create with (car, bike, music gear, tools, etc.).
-- Reduce expenses without sacrificing quality: geo-arbitrage, max \$10K car, live near work. Income doesn’t make you rich—spending habits do.
-- The opposite of play isn’t work; it’s depression. Create a life you don’t need to escape from. Making money to consume goods isn’t humanity’s sole purpose.
-- Three hobbies: one creative, one for fitness, one for income.
-- House + work + third place. We drink to loosen tongues. Feel like a local celebrity: everyone knows you.
-- I have no plans to retire. The perfect mix of work and play keeps you young.
-- You can never be overdressed or overeducated, but avoid clothes more interesting than you are.
-- Simplicity is the ultimate sophistication.
-- You don’t need to be rich to live the life you want. Most people were brainwashed into craving expensive luxury. A happy life is simpler: healthy body, calm mind, loving family, time for what you love.
-- Hit the gym. Avoid drama. Smell nice. Make money. Upgrade your circle. Talk less. Pray more. Think highly of yourself. Sex, sun, rest, exercise, diet, self-respect, real friends, money, gratitude, discipline, laughter, purpose, peace of mind, mental clarity, meditation, growth, time in nature.
-- Watching sports on TV means watching other men live their dreams while you do nothing for yours. You’re a dream cuck.
-- Poor people spend to be seen. Wealthy people spend to be invisible.
-- Stop wasting time on fake achievements. Learn to fight, build, or make money. Real men create, not escape.
+Build businesses using the heuristic: “maximize my vacation time.” You’ll often face two paths: the lucrative one and the lifestyle one—choose wisely. Aspire to work 3 days a week, 3 weeks a month, with 3 months free each year. Move past roommates, commutes, alarm clocks, and calendars (Naval Ravikant). Own a house on a few acres with clean river frontage, plus assets you enjoy and create with (car, bike, music gear, tools, etc.). Reduce expenses without sacrificing quality: geo-arbitrage, max \$10K car, live near work. Income doesn’t make you rich—spending habits do. The opposite of play isn’t work; it’s depression. Create a life you don’t need to escape from. Making money to consume goods isn’t humanity’s sole purpose. Three hobbies: one creative, one for fitness, one for income. House + work + third place. We drink to loosen tongues. Feel like a local celebrity: everyone knows you. I have no plans to retire. The perfect mix of work and play keeps you young. You can never be overdressed or overeducated, but avoid clothes more interesting than you are. Simplicity is the ultimate sophistication. You don’t need to be rich to live the life you want. Most people were brainwashed into craving expensive luxury. A happy life is simpler: healthy body, calm mind, loving family, time for what you love. Hit the gym. Avoid drama. Smell nice. Make money. Upgrade your circle. Talk less. Pray more. Think highly of yourself. Sex, sun, rest, exercise, diet, self-respect, real friends, money, gratitude, discipline, laughter, purpose, peace of mind, mental clarity, meditation, growth, time in nature. Watching sports on TV means watching other men live their dreams while you do nothing for yours. You’re a dream cuck. Poor people spend to be seen. Wealthy people spend to be invisible. Stop wasting time on fake achievements. Learn to fight, build, or make money. Real men create, not escape.
 
 > *"He who buys what he does not need, steals from himself." (...)  
 "Joy and sorrow sleep on the same bed."  
@@ -922,8 +852,7 @@ Hints:
 #### On travel
 
 <!--
-#q["Travel is fatal to prejudice, bigotry, and narrow-mindedness."-- Mark Twain $  1835  $]
-#q["The world is a book and those who do not travel read only one page."-- Saint Augustine $  354  $]
+> *"The world is a book and those who do not travel read only one page."  -- Saint Augustine [354]
 -->
 
 > *"Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain."  
@@ -931,15 +860,13 @@ Hints:
 
 Travel is the only thing you buy that makes you richer. Travels are mini-lives. They solve a multitude of self-improvement goals at once.
 
-Hints:
-
-- Traveling is getting under the skin of a place.
-- Think less about money optimization and more about who you’re going with.
-- Travelers are the best money managers. People remember travel as expensive, but it doesn’t have to be. Buy a ticket to the next destination, look for empty seats, and get people to take you home.
-- Choose places with «lifers»: people dedicated to the business itself, not just chasing a paycheck.
+Traveling is getting under the skin of a place. Think less about money optimization and more about who you’re going with. Travelers are the best money managers. People remember travel as expensive, but it doesn’t have to be. Buy a ticket to the next destination, look for empty seats, and get people to take you home. Choose places with «lifers»: people dedicated to the business itself, not just chasing a paycheck.
 
 > *"What gives value to travel is fear."  
 -- Albert Camus [1913]*
+
+> *"Travel is fatal to prejudice, bigotry, and narrow-mindedness."  
+-- Mark Twain [1835]*
 
 > *"A vacation + a disaster = an adventure."  
 -- Kevin Kelly [1952]*
@@ -959,9 +886,7 @@ There is no shortcut. Success is nothing but the accumulation of small things do
 
 	SUCCESS = EDUCATION + ACTION
 
-Success is internal, not external. True fulfillment comes from living, not achievement—experiences matter more than material. When people finally “succeed,” they often realize they were no more fulfilled at 40 with \$100K in the bank and a BMW than they were flipping burgers at 20 with \$100 to their name. They spent so much time, money, and energy chasing something that didn’t truly matter.
-
-The true measure of success is a calm nervous system. Success is a collection of well-curated failures. The most successful people are those good at Plan B. We don’t succeed by knowing everything—we succeed by listening.
+Success is internal, not external. True fulfillment comes from living, not achievement—experiences matter more than material. When people finally “succeed,” they often realize they were no more fulfilled at 40 with $100K in the bank and a BMW than they were flipping burgers at 20 with $100 to their name. They spent so much time, money, and energy chasing something that didn’t truly matter. The true measure of success is a calm nervous system. Success is a collection of well-curated failures. The most successful people are those good at Plan B. We don’t succeed by knowing everything, we succeed by listening.
 
 Fear, not failure, is the biggest barrier to success. Some people are terrified of success—they fear they’ll have to buy a suit.
 
