@@ -317,9 +317,6 @@ First try to sell it, then build it. Validate your business by finding paying cl
 > *"It’s easy to be right. It’s hard to build things and take financial risks that reward you for being right."  
 -- Sahil Lavingia [1989]*
 
-> *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."  
--- Santiago Nestares [1997]*
-
 > *"Rich people buy time. Poor people buy stuff. Ambitious people buy skills. Lazy people buy distraction."  
 -- x@alexhormozi*
 
@@ -329,6 +326,9 @@ First try to sell it, then build it. Validate your business by finding paying cl
 > *"For the most successful founders, entrepreneurship is a pursuit of creative expression disguised as a business pursuit." (...)  
 "Show me a person doing great things and I’ll show you a kid playing."  
 -- x@rapahelz*
+
+> *"I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people."  
+-- x@santinestea*
 
 > *"What one piece of advice would you give someone starting a company? Do something that most people think is hard. If you try something easy, there will be five other companies doing the same thing two months later. But if you try something that’s difficult at first, everything gets much easier as soon as you make it through those initial challenges. Competition will be lower, because everyone else thought it was too hard. Recruiting good people will be easier, because good people like doing hard things. And when you have better people and less competition, raising capital gets easier, too."  
 -- x@velez_david*

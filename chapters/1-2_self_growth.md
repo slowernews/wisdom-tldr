@@ -187,15 +187,12 @@ Innovation comes from a broader perspective and analyzing past situations. Peopl
 - sabios c six packs
 -->
 
-> *"«Pathological learners» (...) who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it. Knowledge without action is useless."  
--- x@ryanstewman*
+> *"The purpose of knowledge is action, not knowledge."  
+-- Aristotle [-384]*
 
 Action, not knowledge, leads to success.
 
 If you are not consistently applying the new information you’re learning, it’s merely educational porn.
-
-> *"The purpose of knowledge is action, not knowledge."  
--- Aristotle [-384]*
 
 > *"Seek knowledge. Knowledge and courage are the elements of greatness. Wisdom and strength, eyes and hands. Knowledge without courage is sterile."  
 -- Balthasar Gracian [1601]*
@@ -205,6 +202,9 @@ If you are not consistently applying the new information you’re learning, it�
 
 > *"The gap between knowing and doing is where most people fail."  
 -- Tony Robbins [1960]*
+
+> *"«Pathological learners» (...) who are voracious consumers of knowledge live in a 400 square foot apartment, are overweight, and in a relationship that looks like a bad soap opera. Yet they know all this information! The problem is that they do not apply it. Knowledge without action is useless."  
+-- x@ryanstewman*
 
 
 

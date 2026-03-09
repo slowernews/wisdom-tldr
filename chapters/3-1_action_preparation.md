@@ -150,11 +150,11 @@ However, the right idea unexecuted is worthless and a mediocre one well executed
 > *"New ideas pass through three periods: 1) It can’t be done; 2) It probably can be done, but it’s not worth doing; 3) I knew it was a good idea all along!"  
 -- Arthur C. Clarke [1917]*
 
-> *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
--- hn@yellow_and_gray*
-
 > *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
 -- hn@dilemma*
+
+> *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
+-- hn@yellow_and_gray*
 
 
 
@@ -189,21 +189,10 @@ Create a negative or reverse hypothesis. This is the opposite of your initial th
 
 Analysis is an art, not a science.
 
-The main problem is our tendency to think what we see is all there is, without realizing our view is filtered. Prefer stats over narratives. I don’t trust words. I question actions. But I never doubt patterns.
+The main problem is our tendency to think what we see is all there is, without realizing our view is filtered. Prefer stats over narratives. I don’t trust words. I question actions. But I never doubt patterns. True motivations are revealed, not declared. There’s always a good reason and a real reason.
 
-Hints:
-
-- True motivations are revealed, not declared. There’s always a good reason and a real reason.
-- Look for what doesn’t make sense, that’s where the opportunity hides.
-- Most facts are signals, but some are just random noise.
-- Pay attention to negative cues, what should have happened but didn’t.
-- «Chekhov’s gun»: if something is described earlier, it matters later.
-- Skepticism is a great servant and a terrible master.
-- Stereotypes contain truth and they self-correct.
-- Actively seek disconfirming evidence to fight confirmation bias.
-- Nothing is as simple as it first seems, as hopeless in the middle, or as finished at the end.
-- Nothing is as good or bad as it first appears.
-- Bragging razor: halve what’s bragged about; double what’s downplayed.
+Look for what doesn’t make sense, that’s where the opportunity hides. Pay attention to negative cues, what should have happened but didn’t.
+«Chekhov’s gun»: if something is described earlier, it matters later. Actively seek disconfirming evidence to fight confirmation bias. Most facts are signals, but some are just random noise. Skepticism is a great servant and a terrible master. Nothing is as good or bad as it first appears. Nothing is as simple as it first seems, as hopeless in the middle, or as finished at the end. Bragging razor: halve what’s bragged about; double what’s downplayed. Stereotypes contain truth and they self-correct.
 
 > *"Understanding a question is half an answer."  
 -- Socrates [-470]*
@@ -344,7 +333,7 @@ Hints:
 ### On truth
 
 <!--
-+ x@thomassowell -- One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with «hate speech» laws.
++ x@thomassowell -- 
 
 - A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
 - "A verdade é filha do tempo."
@@ -410,7 +399,8 @@ The ones trying to silence others are usually the ones lying. Call a rich man po
 > *"We are each entitled to our own opinion, but no one is entitled to his own facts."  
 -- Patrick Moynihan [1927]*
 
-> *"When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear."  
+> *"When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear." (...)  
+"One of the most dangerous trends of our times is making the truth socially unacceptable, or even illegal, with «hate speech» laws."  
 -- Thomas Sowell [1930]*
 
 > *"The truth will set you free, but first it will piss you off."  
@@ -530,12 +520,7 @@ You can’t predict the future, but you can prepare for highly probable scenario
 
 Start with a vision. Then look for actionable steps.
 
-Hints:
-
-- Plans are only a starting point. Choose flexible plans with options. A good plan survives reality and expects to be revised.
-- Don’t sabotage plans when they get tedious or difficult.
-- Align actions with goals.
-- Quality is the best business plan.
+Plans are only a starting point. Choose flexible plans with options. A good plan survives reality and expects to be revised. Don’t sabotage plans when they get tedious or difficult. Align actions with goals. Quality is the best business plan.
 
 > *"You make plans and god laughs." (...)  
 "Dig the well before you are thirsty."  
@@ -653,7 +638,7 @@ Getting 80% good decisions is exponentially better than 70%. We think we make ch
 
 If you don’t decide timely, someone else will decide for you.
 
-Fast decisions are a competitive advantage. Most people paralyze themselves with overthinking.
+Fast decisions are a competitive advantage. Most people paralyze themselves with overthinking. Choose the path with the most potential serendipity down the line.
 
 Hints:
  
@@ -661,9 +646,7 @@ Hints:
 - Hell yes or no. Say no to anything you’re not genuinely excited about (Derek Sivers).
 - No to any decision that requires a calculator or computer (Warren Buffett).
 - With two equally difficult paths, choose the one more painful in the short term. Pain avoidance often creates the illusion of equality (Naval Ravikant).
-- Choose the path with the most potential serendipity down the line.
-- Is the decision reversible or irreversible? Reversible, decide fast with imperfect info. Irreversible, slow down and understand the problem deeply (Jeff Bezos).
-- Optimal decisions happen at \~70% information. Less and you’ll probably make a bad decision. More and you’re probably wasting time on low impact details. (Jeff Bezos).
+- Is the decision reversible or irreversible? Reversible, decide fast with imperfect info. Irreversible, slow down and understand the problem deeply. Optimal decisions happen at \~70% information. Less and you’ll probably make a bad decision. More and you’re probably wasting time on low impact details. (Jeff Bezos).
 
 > *"To beat the bureaucracy, make your problem their problem." (...)  
 "If you have to take it or leave it, leave it."  

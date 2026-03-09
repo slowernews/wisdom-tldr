@@ -220,7 +220,7 @@ Even if we can’t choose the starting point, we can often choose the direction.
 
 First the essential. Then the details.
 
-Focusing is an art. Time is not the limit—attention is. Busy means out of control. Lack of time means lack of priorities. Always look where you want to go, not where you don’t want to go.
+Focusing is an art. Time is not the limit, attention is. Busy means out of control. Lack of time means lack of priorities. Always look where you want to go, not where you don’t want to go.
 
 > *"A man with a watch knows what time it is. A man with two watches is never sure." (...)  
 "If you want a well, only dig in one place."  
@@ -303,20 +303,7 @@ Getting a lot of unnecessary things done is not productivity, it’s stupidity.
 
 Saying yes to everything leads to mediocrity. Productivity is attention management. You don’t need to optimize everything. 20% of effort often yields 80% of results, and that may be enough. Do less to achieve more.
 
-Hints:
-
-- Protect your time like money. Guard real work hours and use early morning focus.
-- Focus on 1–3 outcomes per day (include one important but not urgent task) and tackle the most important first in the morning.
-- 80/20 is fractal: 4% of work can create 64% of benefits.
-- Ruthlessly cut activities that produce no value.
-- Always work with specific purpose. Set specific, measurable, realistic, time-bound goals.
-- Mind the process, not just results (e.g., «write report for 45 uninterrupted minutes» instead of «finish report»).
-- Learn to focus and be fully present on the current task.
-- Work in layers: functional first, then excellence.
-- Batch similar tasks. Switching costs are high. Minimize small decisions—do them quickly and in bulk.
-- If a task takes <2 minutes, do it immediately.
-- Buy time: delegate weaknesses, focus on strengths and what you enjoy most.
-- To get anything done fast, ask a busy person.
+Protect your time like money. Guard real work hours and use early morning focus. Focus on 1–3 outcomes per day (include one important but not urgent task) and tackle the most important first in the morning. 80/20 is fractal: 4% of work can create 64% of benefits. Ruthlessly cut activities that produce no value. Always work with specific purpose. Set specific, measurable, realistic, time-bound goals. Mind the process, not just results (e.g., «write report for 45 uninterrupted minutes» instead of «finish report»). Learn to focus and be fully present on the current task. Work in layers: functional first, then excellence. Batch similar tasks. Switching costs are high. Minimize small decisions—do them quickly and in bulk. If a task takes <2 minutes, do it immediately. Buy time: delegate weaknesses, focus on strengths and what you enjoy most. To get anything done fast, ask a busy person.
 
 > *"Don’t make 100 decisions when one will do."  
 -- Peter Drucker [1909]*
@@ -443,25 +430,7 @@ Risk is everything you left over and didn’t thought about.
 > *"Luck is probability engineering."  
 -- x@schisofrenia*
 
-### On hope and faith
 
-> *"Hope is the bread of the poor."  
--- vox populi*
-
-> *"Hope is a good breakfast, but it is a bad supper."  
--- Francis Bacon [1561]*
-
-> *"Faith: not wanting to know what is true."  
--- Friedrich Nietzsche [1844]* 
-
-> *"Hope is not a strategy."  
--- Vince Lombardi [1913]*
-
-> *"Hope is not the conviction that something will turn out well, but the certainty that something is worth doing no matter how it turns out."  
--- Václav Havel [1936]*
-
-> *"Faith is patience with mystery."  
--- Richard Rohr [1943]*
 
 
 
@@ -469,7 +438,6 @@ Risk is everything you left over and didn’t thought about.
 
 
 ## On control
-
 <!--
 > *"They say Trump is out of control, but he’s not. He’s just out of their control."  -- Tucker Carlson*
 + x@skylarromines -- Never correct anyone who’s wrong unless you’re being paid to do it. Watch quality of life improve.
@@ -520,7 +488,8 @@ Control what you can: your inputs, your circle, your focus, your problems. Ignor
 
 <!--
 - alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
-#q["Balance is not something you find, it’s something you create."-- Jana Kingsford $  unknown  $]
+Don’t make your job your whole life, or your art your sole income.
+#q["Balance is not something you find, it’s something you create."-- Jana Kingsford [unknown]
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  
@@ -529,11 +498,6 @@ Control what you can: your inputs, your circle, your focus, your problems. Ignor
 Life is a balancing act. Most things are not binary.
 
 The dose makes the poison: excess turns good into bad. The hardest skill is knowing when to stop. Balance isn’t equal time in every area of your life either, it’s steady progress in health, wealth, relationships, and growth.
-
-Hints:
-
-- Don’t make your job your whole life, or your art your sole income.
-- Two approaches to self-improvement (Mark Manson): the self-improvement junkie and the self-improvement tourist.
 
 > *"Where there is too much, something is missing." (...)  
 "Sunshine all the time makes a desert."  
@@ -721,18 +685,7 @@ There are limits to change: willpower is finite and requires attention. But in c
 
 Strategy wins before the battle begins; tactics exploit weakness during it.
 
-Leverage is a force multiplier. Target your opponent’s weaknesses to raise your odds. Use unpredictability, charm, mirroring, or deception when needed.
-
-Hints:
-
-- If you control the overall direction and framing of the battle, anything they do will play into your hands.
-- Divide and conquer.
-- Beware of counter-attacking: audacious moves can create disguised problems, remedied by greater audacity.
-- Any change requires injecting more energy than the system extracts.
-- Once you step into a fight not of your choosing, you lose all initiative.
-- Drain opponent morale with unexpected defeat or strong defense.
-- Every strength has a complementary weakness.
-- Look for people when they are bluffing.
+Leverage is a force multiplier. Target your opponent’s weaknesses to raise your odds. Use unpredictability, charm, mirroring, or deception when needed. If you control the overall direction and framing of the battle, anything they do will play into your hands. Divide and conquer. Beware of counter-attacking: audacious moves can create disguised problems, remedied by greater audacity. Any change requires injecting more energy than the system extracts. Once you step into a fight not of your choosing, you lose all initiative. Drain opponent morale with unexpected defeat or strong defense. Every strength has a complementary weakness. Look for people when they are bluffing.
 
 > *"Give me a lever long enough, and a place to stand, and I will move the earth."  
 -- Archimedes [-212]*
@@ -787,11 +740,7 @@ An army of robots is freely available — it’s just packed in data centers for
 
 Charm the enemy to find his weaknesses. Then exploit them.
 
-_Hints:_
-
-- People’s need for validation and recognition is the easiest weakness to exploit. Persuade up with interests; persuade down with emotions.
-- Use absence and bait to draw people in. Make winning your affection a challenge. The power to make others come to you is stronger than aggression—use it sparingly.
-- Charm the snake to fight the other snakes. Listen actively, maintain rapport. Trust must come first. Keep your word, prove your worth—the newcomer always has to prove himself.
+People’s need for validation and recognition is the easiest weakness to exploit. Persuade up with interests; persuade down with emotions. Use absence and bait to draw people in. Make winning your affection a challenge. The power to make others come to you is stronger than aggression—use it sparingly. Charm the snake to fight the other snakes. Listen actively, maintain rapport. Trust must come first. Keep your word, prove your worth—the newcomer always has to prove himself.
 
 > *"We catch more flies with honey than vinegar." (...)  
 "Abuse often starts with praise."  
@@ -855,15 +804,7 @@ _Hints:_
 
 Deceiving is not lying. Lying is a nuclear bomb with long-lasting fallout.
 
-Appear weak when strong, strong when weak. If we play by the rules too strictly, we are crushed by those who aren’t foolish. Fair players on shady markets rarely thrive short-term.
-
-Hints:
-
-- Seem stronger via occasional reckless, bold acts to deter attacks.
-- It’s hard to cheat an honest opponent, disappointment destroys trust. In subordinate positions, unpredictability reduces trust also.
-- Don’t attribute to malice what can be explained by incompetence or busyness. Never be mean to anyone who can hurt you by doing nothing.
-- The only time you enjoy hearing a lie is when you already know the truth. The only thing worth praying for is truth.
-- Rule one in life: never give out all the information. It will be used against you.
+Appear weak when strong, strong when weak. If we play by the rules too strictly, we are crushed by those who aren’t foolish. Fair players on shady markets rarely thrive short-term. Seem stronger via occasional reckless, bold acts to deter attacks. It’s hard to cheat an honest opponent, disappointment destroys trust. In subordinate positions, unpredictability reduces trust also. Don’t attribute to malice what can be explained by incompetence or busyness. Never be mean to anyone who can hurt you by doing nothing. The only time you enjoy hearing a lie is when you already know the truth. The only thing worth praying for is truth. Rule one in life: never give out all the information. It will be used against you.
 
 > *"A tiger wearing a bell will starve."  
 -- vox populi*

@@ -143,9 +143,7 @@ However, you can’t start a new chapter if you keep re-reading the last one. Th
 
 You will die soon.
 
-Act accordingly and don’t postpone joy. Live as if it’s everyone else’s last day. If you can’t find pleasure in the simple or mundane, you won’t find it anywhere. Not being where you want to be doesn’t mean you can’t have fulfillment and joy now.
-
-The elderly and dying regret what they didn’t do, not what they did.
+Act accordingly and don’t postpone joy. Live as if it’s everyone else’s last day. If you can’t find pleasure in the simple or mundane, you won’t find it anywhere. Not being where you want to be doesn’t mean you can’t have fulfillment and joy now. The elderly and dying regret what they didn’t do, not what they did.
 
 > *"We are always complaining that our days are few, and acting as though there would be no end of them."  
 -- Seneca [-004]*
@@ -195,9 +193,7 @@ The elderly and dying regret what they didn’t do, not what they did.
 
 Dream big.
 
-An ambitious goal sets the bar so high that even failure can feel like success by ordinary standards. If your dreams don’t scare you, they’re not big enough.
-
-Our present actions (or inaction) compound into the future we’ll live. Futurism studies time—today’s anomalies often preview tomorrow, though they appear strange now.
+An ambitious goal sets the bar so high that even failure can feel like success by ordinary standards. If your dreams don’t scare you, they’re not big enough. Our present actions (or inaction) compound into the future we’ll live. Futurism studies time—today’s anomalies often preview tomorrow, though they appear strange now.
 
 > *"A man without a vision for his future always return to his past."  
 -- vox populi*

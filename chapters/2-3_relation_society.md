@@ -71,7 +71,9 @@ The way you destroy stereotypes is by being the contradiction of the stereotype.
 > *"For the friends: everything. For the others: the law."  
 -- Niccoló Machiavelli {paraphrased} [1469]*
 
-Pretending simple things are complicated — and complicated things simple — is the bread and butter of politics.
+Pretending simple things are complicated, and complicated things simple, is the bread and butter of politics.
+
+Taxes are a membership fee that most of us are voluntarily overpaying. Changes from within are more sustainable than revolutions.
 
 > *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
 -- Confucius [-551]*
@@ -126,7 +128,7 @@ Pretending simple things are complicated — and complicated things simple — i
 > *"A constitution is an algorithm for running a country."  
 -- x@pmddomingos*
 
-> *"Be wary of any word that ends with «ism». More often than not, "ism" at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  
+> *"Be wary of any word that ends with «ism». More often than not, «ism» at the end of a word suggests the word is related to a frozen system of ideas that forgot the original questioning that gave rise to it, i.e. an ideology. Ideologies are the graveyards of ideas."  
 -- x@rapahelz*
 
 ### On politicians
@@ -134,18 +136,9 @@ Pretending simple things are complicated — and complicated things simple — i
 > *"90% of the politicians give the other 10% a bad reputation."  
 -- Henry Kissinger [1923]*
 
-Politicians hate risk. Decisions are made on the lowest risk of offending people — especially their voters.
+Politicians hate risk. Decisions are made on the lowest risk of offending people, especially their voters.
 
-Hints:
-
-- Politicians don’t get educated, they get bought.
-- The opposite of corruption is patriotism. To reduce corruption, diminish people involved in analog processes.
-- Taxes are a membership fee that most of us are voluntarily overpaying.
-- Inequality is a problem. Equality is not the solution. That’s the dilemma.
-- Changes from within are more sustainable than revolutions. We don’t need great individuals; we need institutions that work.
-- Popper came to the seemingly paradoxical conclusion that in order to maintain a tolerant society, the society must be intolerant of intolerance.
-- The moment you cross a second border, you are an economic migrant, not a refugee.
-- Multicultural is by absurdum the true monocultural.
+The opposite of corruption is patriotism. To reduce corruption, diminish people involved in analog processes. Politicians don’t get educated, they get bought. We don’t need great individuals, we need institutions that work.
 
 > *"The price of apathy towards public affairs is to be ruled by evil men." (...)  
 "One of the penalties of refusing to participate in politics is that you end up being governed by your inferiors."  
@@ -225,6 +218,8 @@ Bureaucracy blocks low-probability events at the cost of imposing more complianc
 
 The real diversity is the diversity of ideas, not skin color.
 
+The moment you cross a second border, you are an economic migrant, not a refugee. Multicultural is by absurdum the true monocultural.
+
 > *"the disappearance of nations would have impoverished us no less than if all men had become alike, with one personality and one face. Nations are the wealth of mankind, its collective personalities; the very least of them wears its own special colours and bears within itself a special facet of divine intention."  
 -- Aleksandr Solzhenitsyn [1918]*
 
@@ -251,6 +246,8 @@ The real diversity is the diversity of ideas, not skin color.
 
 > *"Masculine republics give way to feminine democracies, and feminine democracies give way to tyranny."  
 -- Aristotle [-384]*
+
+To maintain a tolerant society, the society must be intolerant of intolerance.
 
 > *"When people fear the government, there is tyranny. When government fears the people, there is liberty."  
 -- Thomas Paine [1737]*
@@ -322,10 +319,6 @@ Freedom without property is an ilusion.
 
 ### On justice, law and tolerance
 
-<!--
-#q["Injustice anywhere is a threat to justice everywhere." -- Martin Luther King Jr. [1929]
--->
-
 > *"Justice will not be served until those who are unaffected are as outraged as those who are."  
 -- Benjamin Franklin [1706]*
 
@@ -376,6 +369,9 @@ Justice without enforcement is just opinion.
 > *"Always take sides: neutrality helps the oppressor, never the victim. Silence encourages the tormentor never the tormented."  
 -- Elie Wiesel [1928]*	
 
+> *"Injustice anywhere is a threat to justice everywhere."  
+-- Martin Luther King Jr. [1929]*
+
 > *"There’s no greater indictment of judges than the fact that honest people are afraid to go into court, while criminals swagger out its revolving doors."  
 -- Thomas Sowell [1930]*
 
@@ -401,7 +397,7 @@ Justice without enforcement is just opinion.
 
 Communism isn’t evil, it’s foolish.
 
-Wokeness is the belief that every disparity is rooted in discrimination. It views all interactions as power struggles: the powerful vs. the powerless, with the powerful always trying to preserve their dominance.
+Inequality is a problem. Equality is not the solution. That’s the dilemma. Wokeness is the belief that every disparity is rooted in discrimination. It views all interactions as power struggles: the powerful vs. the powerless, with the powerful always trying to preserve their dominance.
 
 > *"The worst form of inequality is to try to make unequal things equal."  
 -- Aristotle [-384]*
@@ -540,7 +536,7 @@ News is the first draft of history, but the human brain isn’t designed to proc
 
 Society is run by peer pressure, not intelligence.
 
-Most people are other people, their thoughts are someone else’s opinions, and they jump to conclusions. Our insecurities drive excess and overcompensation. We are animals at heart, easily manipulated, especially in groups. The larger the crowd, the less individual responsibility for behavior — this is mob behavior.
+Most people are other people, their thoughts are someone else’s opinions, and they jump to conclusions. Our insecurities drive excess and overcompensation. We are animals at heart, easily manipulated, especially in groups. The larger the crowd, the less individual responsibility for behavior, this is mob behavior.
 
 > *"Gold rushes make the shovel sellers rich, not the gold seekers." (...)  
 "One cow breaks the fence and a dozen leap it."  
@@ -640,9 +636,9 @@ Most people are other people, their thoughts are someone else’s opinions, and 
 > *"Stupidity is overlooking or dismissing crucial information."  
 -- Adam Robinson [1955]*
 
-Stupidity is the cost of intelligence operating in a complex environment and it’s almost inevitable.
+Stupidity is the cost of intelligence operating in a complex environment.
 
-We spot it faster in others than ourselves, but don’t assume others are stupid. Common sense is rare. Most people don’t think, they grab their first thought and run. There are no fixed smart or stupid people, only moments of smart or stupid behavior. Smart is thinking through to the real answer. Stupid is jumping to conclusions to avoid thinking. Saying «I don’t know» is usually smart — it refuses to quit the game early. When someone calls others «stupid», they’ve stopped thinking.
+Most people don’t think, they grab their first thought and run. Smart is thinking through to the real answer. Stupid is jumping to conclusions to avoid thinking. Saying «I don’t know» is usually smart, it refuses to quit the game early. When someone calls others «stupid», they’ve stopped thinking. There are no fixed smart or stupid people, only moments of smart or stupid behavior. We spot it faster in others than ourselves. 
 
 > *"When a clown moves into a palace, he doesn’t become a king. The palace becomes a circus."  
 -- vox populi*
@@ -1064,6 +1060,26 @@ Morality is drawing a line someplace.
 > *"As a society degrades, it goes from shaming sin, to tolerating it, to accepting it, to encouraging it, to celebrating it. Once it has fully degenerated, those who don’t join the celebration are shamed."  
 -- x@zubymusic*
 
+### On hope and faith
+
+> *"Hope is the bread of the poor."  
+-- vox populi*
+
+> *"Hope is a good breakfast, but it is a bad supper."  
+-- Francis Bacon [1561]*
+
+> *"Faith: not wanting to know what is true."  
+-- Friedrich Nietzsche [1844]* 
+
+> *"Hope is not a strategy."  
+-- Vince Lombardi [1913]*
+
+> *"Hope is not the conviction that something will turn out well, but the certainty that something is worth doing no matter how it turns out."  
+-- Václav Havel [1936]*
+
+> *"Faith is patience with mystery."  
+-- Richard Rohr [1943]*
+
 
 
 
@@ -1082,16 +1098,11 @@ Morality is drawing a line someplace.
 "The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms."  
 -- Albert Einstein [1879]*
 
-Science is the study of truth.
+Science is the study of truth. Science is about disproving, not proving.
 
-Science is about disproving, not proving. Everything that is not a law of nature is just a shared belief. Technology is applied science.
+Theories are explanations, not predictions. Prediction comes after the explanation. Everything that is not a law of nature is just a shared belief. If you cannot question it, it’s not science, it’s propaganda. Trust the science is the most anti-science statement ever. Questioning science is how you do science.
 
-Hints: 
-
-- Science transforms raw materials (resources) into civilization.
-- Theories are explanations, not predictions. prediction comes after the explanation.
-- If you cannot question it, it’s not science, it’s propaganda.  
-- Trust the science is the most anti-science statement ever. Questioning science is how you do science.
+Science transforms raw materials (resources) into civilization. Technology is applied science.
 
 > *"Nature, to be commanded, must be obeyed."  
 -- Francis Bacon [1561]*
@@ -1132,7 +1143,8 @@ Hints:
 -- Naval Ravikant [1974]*
 
 > *"Gravity is the speed of time." (...)  
-"The job of a scientist is to listen carefully to nature, not to tell nature how to behave."  
+"The job of a scientist is to listen carefully to nature, not to tell nature how to behave." (...)  
+"One theorem carries as much information as an infinite number of experiments."  
 -- x@pmddomingos*
 
 
@@ -1144,11 +1156,11 @@ Hints:
 
 <!--
 + x@naval -- Show me your axioms and I’ll show you your conclusions.
-+ x@superintoit -- look at your actions to determine your axioms. reverse engineered authenticity
-+ x@pmddomingos -- One theorem carries as much information as an infinite number of experiments.
-+ x@pmddomingos -- Intelligence is heuristics + compute. Don’t mistake more compute for better heuristics.
-+ x@nntaleb -- The more something is perceived as stable, the worse the fall.
 + x@nivi -- The funny thing is incompressible = compressed.
++ x@nntaleb -- The more something is perceived as stable, the worse the fall.
++ x@pmddomingos -- Intelligence is heuristics + compute. Don’t mistake more compute for better heuristics.
++ x@superintoit -- look at your actions to determine your axioms. reverse engineered authenticity
++ x@yacineMTB -- LLMs turn 10x engineers into 1000x engineers, and 1x engineers into 0.1x engineers
 
 - 90% of webapps are database frontends. / There is no cloud. It’s just someone else’s computer. / a fundamental rule of technology: There is no third ecosystem
 - hash is a fingerprint of an amount of information. SHA256 -> 64 characters
@@ -1161,8 +1173,6 @@ alan perlis -- 58. Fools ignore complexity. Pragmatists suffer it. Some can avoi
 alan perlis -- 105. You can’t communicate complexity, only an awareness of it.
 alan perlis -- 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
 
-+ x@yacineMTB -- LLMs turn 10x engineers into 1000x engineers, and 1x engineers into 0.1x engineers
-+ x@pmddomingos -- The smarter your AI is, the less data it needs. Needing huge training sets is a sign of stupidity.
 -->
 
 > *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  
@@ -1219,6 +1229,7 @@ Being relevant in the LLM age is hard. What’s left for humans? The physical wo
 -- x@mozarrinsadaf*
 
 > *"AI is intelligence acceleration." (...)  
+"The smarter your AI is, the less data it needs. Needing huge training sets is a sign of stupidity." (...)  
 "Sleeping on a plane is the closest there is to teleportation."  
 -- x@pmddomingos*
 

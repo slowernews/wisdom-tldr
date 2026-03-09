@@ -1105,11 +1105,6 @@ Aging implies wear and tear, often seen as a high price for maturity. After a ce
 ### On maturity
 
 <!--
-> *"The work of the mature person is to carry grief in one hand and gratitude in the other."  
--- Francis Weller [1xxx]*
-#q["The work of the mature person is to carry grief in one hand and gratitude in the other." \
--- Francis Weller \[1xxx\]] #i[[1xxx] WELLER, Francis (us) ] #i2[WELLER, Francis (us) ]
-
 - Normalize this by age 30: Talk slow. Be clear. Never mumble. Don’t interrupt.
 -->
 
@@ -1147,13 +1142,16 @@ At twenty, you think you have the whole world figured out, then with every passi
 -- Abraham Heschel [1907]*
 
 > *"Maturity is achieved when a person postpones immediate pleasures for long-term values."  
--- Joshua Loth Liebman [1907]*
+-- (rabbi) Joshua Loth Liebman [1907]*
 
 > *"Aging is an extraordinary process where you become the person you always should have been."  
 -- David Bowie [1947]*
 
 > *"We mature with the damage, not with the years."  
 -- Terry Pratchett [1948]*
+
+> *"The work of the mature person is to carry grief in one hand and gratitude in the other."  
+-- Francis Weller [1956]*
 
 > *"We never really grow up, we only learn how to act in public."  
 -- Bryan White [1974]*
